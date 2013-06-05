@@ -1,0 +1,13 @@
+==================================================
+Build 4.4.6 (16-02-2010)
+==================================================
+`HD version and Normal version merged into one - there are now HD shaders that do the
+same as the previous HD version.
+  HD shaders (which upscale the resolution to 512x448) instead of hacked HD version.
+'4xSoft-HD' is currently the best out of the HD shaders - more to come.
+  The HD version in version 4.4.5 ran in interlaced mode - with the HD shaders, you can run
+in either progressive or interlaced mode.
+  Fixed PAL50/PAL60 automatic activation in 576i/p mode.
+  Fixed Rise Of The Robots interlacing issues - other games which use interlaced mode also
+corrected.
+Fixed Multiplayer controls - only player 1 worked.

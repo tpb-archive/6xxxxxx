@@ -1,0 +1,64 @@
+Description:
+Installation instructions:
+Installation:
+1) The content CODBO_offline_bots copy the game folder, replacing
+2) Run BlackOpsMP.exe, we wait until the write to that server is not available and the menu appears
+3) Call the console (~ key) and take turns writing the two teams, the first indicates the network mode, and the second card itself
+
+For example:
+/ G_gametype gun
+/ Map mp_cosmodrome
+
+Create a game in the "Arsenal" on a map mp_cosmodrome
+
+Basic settings (change the file config_mp.cfg to run the game)
+
+seta name "nickname" - the login in the game
+
+seta scr_bot_difficulty "normal" - clozhnost bots
+
+The following two parameter sets the number of bots (default 7)
+
+seta scr_bots_managed_all "7"
+seta scr_bots_managed_spawn "7"
+
+
+Description:
+
+List of game modes:
+
+g_gametype tdm = Team deathmatch
+g_gametype dm = Free-for-all
+g_gametype sab = Sabotage
+g_gametype dem = Demolition
+g_gametype ctf = Capture the flag
+g_gametype sd = Search and destroy
+g_gametype dom = Domination
+g_gametype koth = Headquarters
+g_gametype hlnd = Stick and Stones
+g_gametype gun = Gun mode
+g_gametype shrp = Sharpshooter
+g_gametype oic = One in the Chamber
+g_gametype twar = War
+g_gametype rcrace = RC Car Race
+g_gametype wdom = World Domination
+g_gametype ktc = Rock, Paper, Scissors
+g_gametype tktc = Flag Rush
+g_gametype wpfr = Waypoint Flag Rush
+
+List of maps:
+
+map mp_array
+map mp_cairo
+map mp_cosmodrome
+map mp_cracked
+map mp_crisis
+map mp_duga
+map mp_firingrange
+map mp_hanoi
+map mp_havoc
+map mp_mountain
+map mp_nuked
+map mp_radiation
+map mp_russianbase
+map mp_villa

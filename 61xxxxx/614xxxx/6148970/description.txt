@@ -1,0 +1,76 @@
+Kolor Autopano Giga v2.5.0 Final
+
+[img]http://www.kolor.com/v3/images/stories/solutions/panorama-software/autopano/features/interface/autopano-pro-main-window-en.jpg[/img]
+
+Kolor Autopano Giga is a software dedicated to the creation of panoramas, virtual tours and gigapixel images. Based on Autopano Pro software and including all its featues, Autopano Giga goes far beyond the creation of panoramas : stitch your images in 360Â°, export them into Flash virtual tours, link the tours together... so many possibilities to present in a new way all the photos and places you want to share. Resolution matters? Autopano Giga also enables you to stitch in a record time several hundred or thousand images to create photos of several gigapixels.
+
+Website:   http://www.kolor.com/v3/en/
+
+Main features:
+â€¢ Automatic picture retrieval
+â€¢ Color correction
+â€¢ Smartblend ghost-remover
+â€¢ Support of motorized panoramic heads
+â€¢ Export in Flash, creation of virtual tours
+â€¢ Fisheye lens
+â€¢ Clean and easy interface
+â€¢ Fully automatic stitching
+â€¢ Full HDR stitching support
+â€¢ Support for hundred of file formats
+â€¢ Batch rendering manager
+â€¢ Multiple processor support
+â€¢ Control Point Editor to manage complicated case
+
+Changelog
+Main changes
+- FIX : Multiband rendering engine improvement to get better blended result in all modes.
+- NEW : Russian translation integration
+- FIX : PSD / PSB output layers order
+
+Fixes :
+- 0000564: [Cortex ( rendu )] Blue Patches on HDR rendering - resolved.
+- 0000565: [Cortex ( rendu )] Crash when rendering a panorama with empty layer - resolved.
+- 0000560: [Image I/O] Tiff loading crash - resolved.
+- 0000559: [Cortex ( rendu )] Rendering in mercator doesn't work - resolved.
+- 0000556: [Cortex ( rendu )] One line of pixels can sometimes appears in the middle of the rendering - resolved.
+- 0000537: [Shell Integration] Shell explorer doesn't display thumb from RC2 - resolved.
+- 0000551: [Unclassified] Fuji s5 not supported anymore ( cameras.txt database issue ) - resolved.
+- 0000552: [Cortex ( rendu )] Crash rendering during projection - resolved.
+- 0000521: [Cortex ( rendu )] PSD : embed all removes exifs - resolved.
+- 0000542: [Cortex ( rendu )] HDR output not really working - resolved.
+- 0000544: [Cortex ( rendu )] HDR consistency (rcoudray) - resolved.
+- 0000536: [translation] Editeur de groupe => editeur de couche - resolved.
+- 0000495: [translation] mac : general menu entries not translated - resolved.
+- 0000548: [Shell Integration] Keys update ( APG retrieved an old 1.4 keys for autopano pro only ) - resolved.
+- 0000535: [Synapse ( detection )] Cancelling detection on group leads to hang - resolved.
+- 0000411: [Cortex ( rendu )] Blending quality : new engine versus smartblend - resolved.
+
+Compatibility
+
+Autopano Giga runs on Windows, Mac OS and Linux.
+Minimal configuration
+
+    * Operating system:
+          o Microsoft Windows 7, Vista, XP or 2000
+          o or Apple Mac OS X 10.6 Snow Leopard, 10.5 Leopard or 10.4 Tiger running on an Intel-based Mac only
+          o or Linux kernel 2.6 or superior
+    * Processor: 1 GHz
+    * RAM: 2 Gb
+    * Display: resolution of 1024x768 minimum
+    * A sufficient hard disk space depending on the size of the panoramas you process
+
+Recommended configuration
+
+    * The 64-bit version of your operating system if your hardware can handle it (eg. Windows Vista 64 bits, Mac OS 10.6 - 64 bits, Ubuntu 9.04 - 64 bits, etc)
+    * A 2 GHz processor or more
+    * Multi-core processors
+    * 2 Gb of RAM or more
+    * A recent graphics card
+
+
+Installation Info:
+1)run which ever setup
+2)use provided email and keys
+3)Enjoy from Slickinator
+
+

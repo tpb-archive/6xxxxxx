@@ -1,0 +1,23 @@
+ http://forum.xda-developers.com/showthread.php?t=936995
+
+:
+
+"What works:
+-Graphics acceleration
+-Accelerometer
+-Wireless!
+-Touchscreen
+-Buttons
+-Sleep/Wakeup stuff
+
+Doesn't work:
+-Sound (sadly! Despite my efforts the last hours I didn't get it working properly yet)
+-DSP e.g. no hardware video decoding
+
+The whole thing is based on the honeycomb emulator images, the B&N V1.1 kernel+modules+driver, pieces from the upcoming CM7 and manual patching ARM assembler in libraries and writing ugly scripts to hack around various issues.
+
+
+Use this on your own risk! I'm not responsible for any damages!
+
+The unzipped image is around 4gb. I use it on a 8gb sd-card. In principle the image should work on a 4gb card."
+

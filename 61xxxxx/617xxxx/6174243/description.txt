@@ -1,0 +1,48 @@
+=====================================
+E a s y   I n s t a l l   G u i d e :
+=====================================
+
+1. Burn or mount the .mdf and .mds with - for instance - Deamon Tools and run setup.exe
+2. Install the game, do not run
+3. Patch the game, see Patch Guide instructions below
+4. after copying the data files, unmount .mdf
+5. Copy the fixed exe from the Edited folder, see Fix Guide instuctions below
+6. Run Rogue.Exe. check your hardware settings, video and joystick, then Launch the game!!
+
+
+
+P a t c h    G u i d e :
+________________________
+
+
+Rogue Squadron must be installed in a (sub)directory called \'ROGUE\'
+Copy the crack from the rs13_nocd folder to the Rogue folder that contains your rogue.exe and 
+rogue squadron.exe files.
+
+e.g.  c:\\Program Files\\LucasArts\\ROGUE\\
+
+Click on the Patch! button to patch your Rogue.exe and Rogue Squadron.exe files and
+change two registry entries of RS.
+
+IMPORTANT: Copy off your game CD \"rogue\\data\\bundle.000\" and \"rogue\\data\\bundle.001\" into rogue\\data
+of your game installation root.
+
+
+
+F i x   G u i d e :
+___________________
+
+If you are running XP (or Vista), like I am, and if you are experiencing game crashes after finishing a mission, like I am,
+you might like the following. 
+
+The game crashes because of a memory fault, its trying to read a memory space that is blank.
+Compatibility mode settings are crap, don\'t use. I have included an edited .exe that won\'t crash anymore !!! 
+
+Just rename the original to - for instance - Rogue Squadron.old and copy the file from the \"Edited\" folder.
+
+
+
+Posted and edited by MarcAce. 
+
+
+This game is ancient, but it is still one of my favorites. I love this game !!!

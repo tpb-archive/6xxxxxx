@@ -1,0 +1,57 @@
+User Type,Username,Date,Text
+,derkevevin,2011-01-29T01:40Z,"######################
+READ IMPORTAND!
+theres a problem with css gun sounds, they are missing in game... they are all contained in counter-strike folder,
+but for some reason they are not loaded, im pretty sure that i didnt mess it up, cause i already met others with the same problem. 
+
+ill try to solve this problem, and will paste how to fix it if i figure it out.  if one of u knows whats wrong, tell me.
+btw, i just found a way to make content addons, like portal and tf2 by myself, ill make a 2nd content pack soon"
+,derkevevin,2011-01-30T09:39Z,"I GOT THE SOUNDS WORKING! by pasting
+my old hl2/scipts  folder over the new one
+of course ill check out which files exactly are needed to be changed.
+ill do that now, and tell u how to solve the problem
+;>"
+,derkevevin,2011-01-30T12:51Z,"ok, i fixed the problem and located the file that needs to be changed, its the
+game_sounds_manifest.txt
+in hl2/scribts
+look for weapon sounds.
+u should have this line:
+// Weapon sounds
+""precache_file""
+""scripts/game_sounds_weapons.txt""
+
+(precache_file and ""scripts/game...
+is in one line, it just doesnt fit in here as 1 line)
+
+you are missing the following line, required for css weapon sounds:
+""precache_file""		""scripts/game_sounds_weapons_css.txt""
+
+add it, then it should look like this:
+
+	// Weapon sounds
+	""precache_file""		""scripts/game_sounds_weapons.txt""
+     ""precache_file""		""scripts/game_sounds_weapons_css.txt""
+
+now ur sounds should work fine ;/
+and hey, i made the work and searched the whole game for this shitty line to help u.
+youĂÂ´re welcome and if u appreciate it,
+S  E  E  D ! ! !
+
+if you still have problems, write it here, ill try to help u.
+-derkevevin"
+,derkevevin,2011-01-30T14:47Z,"""-edit""
+
+i forgot, u need the
+game_sounds_weapons_css.txt
+file aswell...
+its the file u added the line for, if u dont have it in scripts it doesnt work, too of course
+ill see what i can do (i have the file and it worx)"
+,Ferdyfist,2011-02-19T12:27Z,Seed seed seed! 65%!
+,dakata369,2011-12-22T19:48Z,"derkevevin... I don't know if you have the same problem (I suppose u don't), but that gmod 11 for me is like all other other gmod 11 I've downloaded before... I tried to spawn some models hosting a MP server and it says ""You've reached the NPC's spawn limit"" or something like that. Then, the other thing is that some models like the Hunter spawns (in SP this time) like a big red ERROR, but it's still shooting at me :D ... I mean, how can I fix these damn problems :?"
+,derkevevin,2011-12-29T04:51Z,"@dakata369
+the npc limmit is caused by a stupid default setting i think, when starting the game there should be a wrench icon that you can click and change the max settings. if you cant find it or want to change it in game try
+sbox_maxnpc  im not sure if the maxnpc is correct but it displays the available commands
+u should see it then.
+
+oh and about the hunter and stuff, did u enable hl2 ep2 content in mainmenu, extensions, game content.
+if you then still have sound problems, i got the fix above"

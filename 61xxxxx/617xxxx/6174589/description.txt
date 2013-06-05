@@ -1,0 +1,20 @@
+OVStation is een programma waarmee in een dumpfile van een OV Chipkaart een transactie kan worden gemaakt. Zo kan je een check-in, check-out, transfer en een credit (Acties â€“> Saldo Transactie Aanmaken) transactie schrijven naar de dump van je OV-Chipkaart. OVStation werd als eerste gedemonstreerd door Brenno de Winter in het programma PowNews maar is nooit uitgelekt zoals dat met OVSaldo wel het geval was.
+ 
+Na enkele dagen C# leren en programmeren is het versie 1.0 van OVStation nu toch echt klaar. Ik ben dit project gestart om van de fouten van TLS te kunnen leren. Ik wil graag mijn opgedane kennis op deze manier met jullie delen in de hoop dat jullie hier lessen uit trekken waardoor later meer competente mensen projecten als de OV-Chipkaart kunnen uitvoeren. Hier hoort natuurlijk ook de source-code bij. Deze komt later deze week of begin volgende week. De broncode stelt niet zoveel voor, ik ben pas begonnen met programmeren en de broncode is een vreselijke bende. Verder is het natuurlijk erg slecht van Trans Link Systems dat iemand met geen programmeer ervaring binnen 1,5 week een degelijke applicatie kan neerzetten.
+ 
+Het is dus NIET de bedoeling om hier mee zwart te gaan rijden of op andere manieren de betalingsverplichting te omzeilen. Dat is illegaal, fraude en daarvoor draai je de bak in. Doe het dan ook niet.
+ 
+Ik neem geen verantwoording en ben niet aansprakelijk voor de gevolgen van het gebruik door anderen van deze tool.
+ 
+Bugs
+ 
+Ik ga er vanuit dat hier vele bugs in zitten, omdat ik de transacties enkel getest heb met mfocGUI. Kom je iets tegen dat de inhoudelijke werking van het programma verhinderd? Laat wat achter in de comments of stuur me een e-mail.
+ 
+Download
+ 
+Er zat een fout in de transactie opladen van v1.0 deze is in v1.1 opgelost.
+ 
+OVStation v1.1 is hier te downloaden:
+ MD5:  e6df5c13214940ddb6b3e70fd32f3bd7
+ 
+Kipje â€“ ovkipje@gmail.com

@@ -1,0 +1,297 @@
+System powstaÅ‚ poczÄ…tkowo na potrzeby wÅ‚asne wiÄ™c postawiÅ‚em na funkcjonalnoÅ›Ä‡ i stabilnoÅ›Ä‡ aniÅ¼eli na wypasione ikony, piÄ™kne style, przezroczystoÅ›ci i bajery, myÅ›lÄ™ Å¼e elementy z Visty sÄ… dobrym i wystarczajÄ…cym odÅ›wieÅ¼eniem starego wyglÄ…du XP'ka...
+Natomiast zintegrowaÅ‚em tylko te dodatki ktÃ³re sÄ… niezbÄ™dne i dziÅ› juÅ¼ sÄ… standardem.
+WiÄ™cej szczegÃ³Å‚Ã³w o wersjach, czasach, rozmiarach i dodatkach:
+
+System bazowy.....................................................Windows XP Professional SP3 32-bit (x86) VLK
+JÄ™zyk................................................................Polski
+Wersja Internet Explorera........................................8.0.6001.18702
+Wersja Windows Media Playera..................................11.0.5721.5268
+
+Czas Instalacji.....................................................ok. 20 minut
+Rozmiar ISO........................................................517 MB
+Rozmiar na dysku po instalacji (bez pagefile.sys).............ok 1.9 GB
+
+IloÅ›Ä‡ konkurencyjnych poÅ‚Ä…czeÅ„ TCP/IP.........................500
+OdÅ›wieÅ¼anie portu USB............................................250Hz
+Niepodpisane style (uxtheme.dll)................................Tak
+WyÅ‚Ä…czone SFC (systemowa ochrona plikÃ³w)...................Tak
+Autologowanie.....................................................Tak (na konto WinXPae)
+Testy WGA.........................................................Pozytywnie
+Aktywacja..........................................................Nie, niewymagana
+
+DomyÅ›lna kompozycja.............................................AeroXP (nieco zmodyfikowana przeze mnie)
+Ikony................................................................Vista
+Kursory..............................................................Aero
+DÅºwiÄ™ki.............................................................Z Windows Vista
+
+Suma kontrolna MD5..............................................742582592A29F5033809F2691484B353
+
+Zintegrowane dodatki:
+â€¢ addony
+- Sterowniki SATA/RAID
+- Poprawki ktÃ³re ukazaÅ‚y siÄ™ na Windows Update od wydania SP3 do maja 2010, w tym obsÅ‚uga exFat i poprawki ktÃ³rych nie da siÄ™ zintegrowaÄ‡ nLite'm:
+âˆ™ Aktualizacja certyfikatÃ³w gÅ‚Ã³wnych
+âˆ™ Windows Installer 4.5 (KB942288)
+âˆ™ Windows Update Agent 7.2
+âˆ™ MSXML 6.0
+âˆ™ NarzÄ™dzie do usuwania zÅ‚oÅ›liwego oprogramowania (KB890830v3.7 - maj 2010)
+âˆ™ WGA - tylko sprawdza poprawnoÅ›Ä‡ systemu gdy jest to potrzebne :) (tylko legitcheckcontrol.dll bez aplikacji WGATray itp.)
+âˆ™ Ekran wyboru przeglÄ…darki
+- DirectX [Luty 2010 - zintegrowany bezpoÅ›rednio]
+- .NetFramework [wszystkie pakiety - 1.1, 2.0, 3.0, 3.5, 4.0]
+- Biblioteki z pakietÃ³w Visual C++ 2005, 2008, 2010
+- Flash Player [10.0.45.2] - zarÃ³wno ActiveX do IE jak i plugin do innych przeglÄ…darek
+- Shockwave Player [11.5.7.609]
+- Java Runtime Environment [Version 6 Update 20] - usÅ‚uga jqs.exe (javaquickstarter) jest wyÅ‚Ä…czona po instalacji
+- Silverlight 4.0.50401.0
+- System Information for Windows 2010 (build 0310) - jako aplet 'Informacje o systemie' w Panelu sterowania oraz polecenie systeminfo)
+- MonOff - jako opcja klikniÄ™cia prawego przycisku myszy 'MÃ³j komputer'
+â€¢ wizualne
+- ViOrb (ze wzglÄ™du na styl AeroXP)
+- Vista Drive Icon (Å¼eby byÅ‚o Å‚adniej)
+- Desktop Clock (Å¼eby lepiej byÅ‚o widaÄ‡ godzinÄ™ w tray'u)
+- HashCheck (Å¼eby 'kontrolowaÄ‡ sumy kontrolne')
+- ImagePreview (Å¼eby podglÄ…daÄ‡ obrazki)
+- Kalkulator Plus (Å¼eby lepiej liczyÄ‡)
+- Notepad2 (Å¼eby mieÄ‡ lepszy notatnik)
+- MoÅ¼liwoÅ›Ä‡ ustawiania wÅ‚asnego tÅ‚a w folderach (za sprawÄ… ieshwiz.exe)
+- Nowy bootscreen opracowany przeze mnie, chociaÅ¼ sam zarys loga jest wÅ‚asnoÅ›ciÄ… Microsoftu :P (na tym forum jestem czÅ‚owiekiem od bootscreenÃ³w... NapisaÅ‚em 2 tutoriale o tym...)
+- Nowy logonscreen zaczerpniÄ™ty z Windows 7
+- Ekran miÄ™dzy bootscreenem a logonscreenem (o tym teÅ¼ opracowaÅ‚em tutorial ;))
+- Animowany shutdownbox (na tym forum zrobiÅ‚em to pierwszy wiÄ™c mam poniekÄ…d patent tutaj :D ale zamiast chwaliÄ‡ siÄ™ bez sensu pochwalÄ™ ResHacker ktÃ³ry daÅ‚ mi tego moÅ¼liwoÅ›Ä‡. MÃ³j kolejny tutorial... :)) tutaj moÅ¼na zobaczyÄ‡ animacjÄ™
+- Animacja we wÅ‚aÅ›ciwoÅ›ciach systemu (tego teÅ¼ nigdzie nigdy nie byÅ‚o wczeÅ›niej 8-) ) tutaj moÅ¼na zobaczyÄ‡ animacjÄ™
+
+UsunÄ…Å‚em takie oto rzeczy:
+
+Aplikacje
+AktÃ³wka
+Gry
+Gry internetowe
+Opcje uÅ‚atwienia dostÄ™pu
+Pinball
+Wordpad
+Wygaszacze ekranu
+
+JÄ™zyki - wszystkie
+
+Multimedia
+DÅºwiÄ™ki Windows
+Media Center
+Movie Maker
+Pliki tÅ‚a i obrazÃ³w
+PrzykÅ‚adowa muzyka
+Tablet PC
+Temat Pulpitu Luna (Windows XP)
+WskaÅºniki myszy
+
+Opcje systemu operacyjnego
+.NET Framework
+Administrator skryptÃ³w VB
+Agent MS
+Asystent wyszukiwania
+DR Watson
+Edytor trybu wejÅ›ciowego (IME)
+Edytor wÅ‚asnych symboli
+Konwerter FAT do NTFS
+Kreator IExpress
+Kreator oczyszczania dysku
+Kreator transferu plikÃ³w i ustawieÅ„
+MS XML 2.0
+NarzÄ™dzie do usuwania Blaster/Nachi
+Oczyszczanie dysku
+Pomoc i wsparcie
+PrzydziaÅ‚ dysku i profili
+RÄ™czna instalacja i aktualizacja
+Samouczek systemu Windows
+Schematy kolorÃ³w
+UsÅ‚uga OOBE (Out of Box Experience)
+UsÅ‚ugi zdalnej instalacji (RIS)
+
+SieÄ‡
+Diagnostyka sieci
+Klient sieci Netware
+Kreator udostÄ™pniania zasobÃ³w
+MSN Explorer
+NarzÄ™dzia do komunikacji
+Netmeeting
+ProtokÃ³Å‚ NWLink IPX/SPX/NetBIOS
+UsÅ‚ugi informacji internetowej (IIS)
+Windows Messenger
+
+Sterowniki
+Karty graficzne
+Modemy
+Tablety szeregowe
+Thinkpad firmy IBM
+TrackPoint PS/2 IBM
+Wzbudzacz Sony
+
+UkÅ‚ady klawiatury - wszystkie oprÃ³cz PL
+
+UsÅ‚ugi
+Agent strategii IPSEC
+Brama warstwy aplikacji
+JakoÅ›Ä‡ usÅ‚ugi (QoS)
+Kopia zapasowa woluminu
+Messenger
+Pomocnik NetBIOS TCP/IP
+PosÅ‚aniec
+ProtokÃ³Å‚ ogÅ‚aszania usÅ‚ug (SAP)
+Przewodowa autokonfiguracja
+QoS RSVP
+Raportowanie bÅ‚Ä™dÃ³w
+Telnet
+UsÅ‚uga faksowania
+UsÅ‚uga indeksowania
+Zdalny rejestr
+
+Wsparcie sprzÄ™towe
+Szeregowe adaptery wieloportowe
+
+Pliki
+alg.exe
+clock.avi
+yahoo.bmp
+swtchbrd.bmp
+ctfmon.exe
+telnet.exe
+rcimlby.exe
+
+WstÄ™pne ustawienia:
+BezpieczeÅ„stwo-Wygaszacz ekranu chroniony hasÅ‚em-WyÅ‚Ä…czony
+BezpieczeÅ„stwo-WyÅ‚Ä…cz DCOM
+BezpieczeÅ„stwo-WyÅ‚Ä…cz monit 'System Windows nie moÅ¼e otworzyÄ‡ tego pliku. Co chcesz zrobiÄ‡? - UÅ¼yÄ‡ usÅ‚ugi sieci Web do znalezienia odpowiedniego programu'
+BezpieczeÅ„stwo-WyÅ‚Ä…cz wygaszacz ekranu
+BezpieczeÅ„stwo-Zawsze pokazuj uaktualnienia pod programami
+Efekty wizualne-Animacja 'PodrÄ™czny opis plikÃ³w i folderÃ³w'-Zanikanie
+Efekty wizualne-Animacje combobox-Ã³w-WÅ‚Ä…cz
+Efekty wizualne-Animacje menu-Zanikanie
+Efekty wizualne-Animuj okna podczas minimalizowania i maksymalizowania-WÅ‚Ä…cz
+Efekty wizualne-Cienie pod kursorem-WÅ‚Ä…cz
+Efekty wizualne-Cienie pod menu-WÅ‚Ä…cz
+Efekty wizualne-Efekt przejÅ›cia etykiet okien-WÅ‚Ä…cz
+Efekty wizualne-GÅ‚adkie przewijanie pÃ³l listy-WÅ‚Ä…cz
+Efekty wizualne-PodkreÅ›lenie skrÃ³tÃ³w klawiaturowych-WyÅ‚Ä…cz
+Efekty wizualne-PokaÅ¼ przezroczysty obszar zaznaczenia-WÅ‚Ä…cz
+Efekty wizualne-PokaÅ¼ zawartoÅ›Ä‡ okna podczas przeciÄ…gania-WÅ‚Ä…cz
+Efekty wizualne-PrÄ™dkoÅ›Ä‡ Å›ledzenia aktywnych okien-Szybko
+Efekty wizualne-Stosuj zanikanie zaznaczenia-WyÅ‚Ä…cz
+Efekty wizualne-Styl menu-Normalny
+Efekty wizualne-Åšledzenie aktywnych okien-WyÅ‚Ä…cz
+Efekty wizualne-UÅ¼yj cieni dla etykiet ikon na ekranie-WÅ‚Ä…cz
+Efekty wizualne-UÅ¼yj obrazÃ³w tÅ‚a dla poszczegÃ³lnych typÃ³w folderÃ³w-WÅ‚Ä…cz
+Efekty wizualne-WygÅ‚adzaj krawÄ™dzie czcionek ekranowych-Standardowe
+Efekty wizualne-Wysuwanie przyciskÃ³w paska zadaÅ„-WÅ‚Ä…cz
+Efekty wizualne-WyÅ›wietl Å›lady wskaÅºnika myszy-WyÅ‚Ä…cz
+Ekran-Ikona 'Internet Explorer'-Ukryj
+Ekran-Ikona 'Kosz'-PokaÅ¼
+Ekran-Ikona 'Moje dokumenty'-PokaÅ¼
+Ekran-Ikona 'Moje miejsca sieciowe'-Ukryj
+Ekran-Ikona 'MÃ³j komputer'-PokaÅ¼
+Ekran-PokaÅ¼ wersjÄ™ Windows na Pulpicie
+Ekran-Rozmiar ikon na Pulpicie-32
+Ekran-Zawijanie tytuÅ‚Ã³w ikon-WÅ‚Ä…cz
+Eksplorator-Dodaj opcje 'Zarejestruj', 'Wyrejestruj' do menu kontekstowego
+Eksplorator-Dodaj opcjÄ™ 'Wiersz polecenia' do menu kontekstowego folderÃ³w
+Eksplorator-Klasyczny 'Panel sterowania'
+Eksplorator-Kosz: zezwalaj na zmiany nazw i usuwanie
+Eksplorator-PokaÅ¼ chronione pliki systemu operacyjnego
+Eksplorator-PokaÅ¼ litery dysku przed nazwami dyskÃ³w
+Eksplorator-PokaÅ¼ pasek stanu we wszystkich oknach
+Eksplorator-PokaÅ¼ peÅ‚nÄ… Å›cieÅ¼kÄ™ na pasku adresu
+Eksplorator-Skojarz dodatkowe typy plikÃ³w z Notatnikiem
+Eksplorator-WyÅ‚Ä…cz prefiks 'SkrÃ³t do'
+Eksplorator-WyÅ‚Ä…cz strzaÅ‚kÄ™ na ikonie skrÃ³tu
+Eksplorator-WyÅ›wietl zawartoÅ›Ä‡ folderÃ³w systemowych
+Eksplorator-Zaawansowane wyszukiwanie: opcje prekonfigurowane
+Eksplorator-ZmieÅ„ sposÃ³b wyÅ›wietlania w folderach-SzczegÃ³Å‚y
+Internet Explorer-Przechowuj historiÄ™ przeglÄ…danych stron przez-0 dni
+Internet Explorer-Ustaw akceptowanie jednoczeÅ›nie 10 poÅ‚Ä…czeÅ„ przez Internet Explorer-a
+Internet Explorer-Ustaw priorytet blokowania wyskakujÄ…cych okienek (popup-Ã³w) na 'Wysoki'
+Internet Explorer-Ustaw 'Strona gÅ‚Ã³wna' na-www.google.com
+Internet Explorer-Ustaw wielkoÅ›Ä‡ folderu tymczasowych plikÃ³w internetowych na-8 MB
+Internet Explorer-WÅ‚Ä…cz wyszukiwarkÄ™ Google
+Internet Explorer-WyÅ‚Ä…cz przycisk 'PrzejdÅº'
+Internet Explorer-WyÅ‚Ä…cz skrÃ³t do witryny http://www.windowsmarketplace.com
+Internet Explorer-WyÅ‚Ä…cz tworzenie skrÃ³tu do 'Outlook Express'
+Internet Explorer-WyÅ‚Ä…cz zakÅ‚adki programu Media Player 6.4
+Internet Explorer-WyÅ‚Ä…cz zapamiÄ™tywanie haseÅ‚
+Menu Start-Drukarki i faksy-Nie wyÅ›wietlaj tego elementu
+Menu Start-Liczba programÃ³w w menu Start-0
+Menu Start-Moja muzyka-Nie wyÅ›wietlaj tego elementu
+Menu Start-Moje dokumenty-WyÅ›wietl jako Å‚Ä…cze
+Menu Start-Moje miejsca sieciowe-Nie wyÅ›wietlaj tego elementu
+Menu Start-Moje obrazy-Nie wyÅ›wietlaj tego elementu
+Menu Start-MÃ³j komputer-WyÅ›wietl jako Å‚Ä…cze
+Menu Start-Panel sterowania-WyÅ›wietl jako menu
+Menu Start-PoÅ‚Ä…czenia sieciowe-Nie wyÅ›wietlaj tego elementu
+Menu Start-UsuÅ„ 'Do osÃ³b...' z 'Wyszukaj'
+Menu Start-UsuÅ„ 'OkreÅ›l dostÄ™p do programÃ³w i ich ustawienia domyÅ›lne'
+Menu Start-UsuÅ„ opcjÄ™ 'Szukaj w Internecie' z podmenu 'Wyszukaj'
+Menu Start-UsuÅ„ skrÃ³t 'Windows Catalog'
+Menu Start-UsuÅ„ skrÃ³t 'Windows Update'
+Menu Start-WyÅ‚Ä…cz i usuÅ„ listÄ™ 'Dokumenty' w menu Start
+Menu Start-WyÅ‚Ä…cz wyrÃ³Å¼nianie nowo zainstalowanych programÃ³w
+Menu Start-Zredukuj opÃ³Åºnienie powiadomienia
+MÃ³j komputer-Dodaj Edytor rejestru do menu kontekstowego
+MÃ³j komputer-Dodaj opcjÄ™ 'MenadÅ¼er urzÄ…dzeÅ„' do menu kontekstowego
+MÃ³j komputer-Dodaj opcjÄ™ 'UsÅ‚ugi' do menu kontekstowego
+MÃ³j komputer-Dodaj 'Panel sterowania'
+MÃ³j komputer-UsuÅ„ 'Dokumenty wspÃ³Å‚dzielone' (Shared Documents)
+MÃ³j komputer-UsuÅ„ 'Szukaj' z menu kontekstowego
+Pasek zadaÅ„-WyÅ‚Ä…cz 'Dymki powiadomieÅ„'
+Pasek zadaÅ„-WyÅ‚Ä…cz 'Pasek jÄ™zyka'
+Pasek zadaÅ„-Zablokuj pasek zadaÅ„-Tak
+PoufnoÅ›Ä‡-UsuÅ„ 'Alexa'
+PoufnoÅ›Ä‡-WyÅ‚Ä…cza monit 'Aktualizuj sterownik poprzez Internet'
+SieÄ‡-UsuÅ„ przestrzeÅ„ nazw zdalnych komputerÃ³w
+SieÄ‡-WyÅ‚Ä…cz automatyczne wyszukiwanie folderÃ³w i drukarek sieciowych
+SieÄ‡-WyÅ‚Ä…cz nadzorowane udostÄ™pnianie
+SieÄ‡-Zdalny Pulpit-WyÅ‚Ä…cz
+SieÄ‡-Zezwalaj na wysyÅ‚anie zaproszeÅ„ Pomocy zdalnej-WyÅ‚Ä…cz
+Uruchamianie i zamykanie-Ctrl-Alt-Del przy logowaniu-WyÅ‚Ä…czony
+Uruchamianie i zamykanie-Komunikaty statusu-DomyÅ›lny
+Uruchamianie i zamykanie-Konfiguruj przechowalniÄ™ przygotowywania-WÅ‚Ä…czone inicjalizowanie i uruchamianie
+Uruchamianie i zamykanie-Natychmiast zakoÅ„cz automatycznie zawieszone aplikacje
+Uruchamianie i zamykanie-Natychmiast zakoÅ„cz automatycznie zawieszone usÅ‚ugi
+Uruchamianie i zamykanie-Numlock-WÅ‚Ä…cz
+Uruchamianie i zamykanie-Strona logowania-Ekran powitalny
+Uruchamianie i zamykanie-WyÅ‚Ä…cz automatyczny restart w razie awarii systemu
+Windows Media Player-Akceptuj deklaracjÄ™ poufnoÅ›ci
+Windows Media Player-Bez wizualizacji
+Windows Media Player-Dopasuj wideo do okna odtwarzacza
+Windows Media Player-Optymalizuj zachowanie trybu peÅ‚noekranowego
+Windows Media Player-Rozszerzone ustawienia poufnoÅ›ci
+Windows Media Player-WyÅ‚Ä…cz automatyczne dodawanie muzyki do biblioteki
+Windows Media Player-WyÅ‚Ä…cz automatyczne pobieranie kodekÃ³w
+Windows Media Player-WyÅ‚Ä…cz automatyczne zapisywanie plikÃ³w muzycznych typu DRM
+Windows Media Player-WyÅ‚Ä…cz monit wykonania kopii zapasowej licencji
+Windows Media Player-WyÅ‚Ä…cz MRU
+Windows Media Player-WyÅ‚Ä…cz pobieranie metadanych
+Windows Media Player-WyÅ‚Ä…cz polecenia skryptÃ³w
+Windows Media Player-WyÅ‚Ä…cz subskrypcjÄ™
+Windows Media Player-WyÅ‚Ä…cz uruchamianie WMP z 'Przewodnikiem multimedialnym'
+WydajnoÅ›Ä‡-Nie buforuj miniatur
+WydajnoÅ›Ä‡-Planowanie uÅ¼ycia procesora-Programy
+WydajnoÅ›Ä‡-Przyspiesz dostÄ™p do plikÃ³w multimedialnych AVI
+WydajnoÅ›Ä‡-WyÅ‚Ä…cz 'Optymalizuj dysk twardy' podczas jego nieaktywnoÅ›ci
+WydajnoÅ›Ä‡-WyÅ‚Ä…cz ostrzeÅ¼enie o maÅ‚ej iloÅ›ci wolnego miejsca na dysku
+WydajnoÅ›Ä‡-WyÅ‚Ä…cz Å›ledzenie bÅ‚Ä™dnych skrÃ³tÃ³w
+
+Sprawy mogÄ…ce wzbudzaÄ‡ podejrzenia i niepokÃ³j:
+- Podczas instalacji w czasie 13 minut do koÅ„ca moÅ¼e wydawaÄ‡ siÄ™, Å¼e coÅ› siÄ™ zawiesiÅ‚o - w tym czasie instalujÄ… siÄ™ addony ktÃ³rych rozmiar jest doÅ›Ä‡ spory wiÄ™c potrzeba trochÄ™ czasu na to, zatem polecam cierpliwie czekaÄ‡, waÅ¼ne Å¼eby kwadraciki w prawym dolnym rogu siÄ™ ruszaÅ‚y.
+- JeÅ›li chodzi o exFat to obsÅ‚uguje go tryb graficzny po instalacji, ale przy instalacji nie da siÄ™ utworzyÄ‡ takiej partycji i tak bÄ™dzie dopÃ³ki, a raczej jeÅ›li Microsoft coÅ› z tym zrobi Å¼eby daÅ‚o siÄ™ to zrobiÄ‡ inaczej...
+- Po instalacji, w panelu sterowania pojawi siÄ™ pozycja 'Windows CardSpace' - jest to dodatek pakietu .NetFramework wiÄ™c nic zÅ‚ego nam nie zrobi
+- Gdyby komuÅ› nie odpowiadaÅ‚y dodatki typu ViOrb, VistaDriveIcon itp. to w 'Panelu Sterowania' w 'Dodaj/UsuÅ„ Programy' moÅ¼na je usunÄ…Ä‡ pojedyÅ„czo lub wszystkie razem.
+- JeÅ›li ktÃ³Å› chciaÅ‚by wyÅ‚Ä…czyÄ‡ pokazywanie na pulpicie kosza lub wersji systemu w prawym dolnym rogu to w 'Opcjach folderÃ³w' umieÅ›ciÅ‚em odpowiednie checkbox'y
+- JeÅ›li ktoÅ› potrzebuje zmieniÄ‡ nazwÄ™ komputera/domeny naleÅ¼y skorzystaÄ‡ z opcji 'Kreator konfiguracji sieci' w Panelu Sterowania.
+- JeÅ›li komuÅ› zaleÅ¼y na przywrÃ³ceniu 'UdostÄ™pniania plikÃ³w' to naleÅ¼y zastosowaÄ‡ nastÄ™pujÄ…ce dziaÅ‚ania:
+Panel sterowania -> PoÅ‚Ä…czenia sieciowe -> WÅ‚aÅ›ciwoÅ›ci poÅ‚Ä…czenia sieciowego -> Zainstaluj -> Klient -> Klient sieci Microsoft.
+Panel sterowania -> PoÅ‚Ä…czenia sieciowe -> WÅ‚aÅ›ciwoÅ›ci poÅ‚Ä…czenia sieciowego -> Zainstaluj -> UsÅ‚uga -> UdostÄ™pnianie plikÃ³w
+
+Strona modyfikacji systemu: http://forum.windowsmx.pl/winxpae-by-automizzer.html
+Dodatkowe style: http://www.p-mod.pl/forum/viewthread.php?thread_id=10
+
+Dodatkowe style w pliku: Themes.rar
+
+Wersja z updatem 05/2010.

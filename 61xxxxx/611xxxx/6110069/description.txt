@@ -1,0 +1,108 @@
+WORKS BEST ON SLIM MODELS!!!! FATS WILL BE BRICKED!!!!
+ESPECIALLY 60GB MODELS ARE 100% BRICKED
+i tested all of this with no problems on a 250gb slim!!!
+also tested on a 80gb cechl01 all worked fine including backup with multiman 1.12
+
+what i did to install and make work
+1.usb to hold files...256 mb or bigger
+2.put the OFW 3.55 inside /PS3/UPDATE/ MUST BE ALL CAPS
+3.flash it from update in your XBM
+4.put the geohot 5 mb update in the same place as the original update replacing the 170+mb file
+5.update again to geohots
+6.put multiMAN for 3.55 unzipped onto the root of your usb drive.
+7.install the multiMAN from the XBM pkg installer under GAMES
+8.put the contents of PS3_CFW_355_WANINKOKO in that same update folder on your usb. must be named PS3UPDAT.PUP replacing the Geohot update...the 170mb one not the 33mb one...
+9. enjoy. multiMAN should work just fine
+i backed up my COD: Black Ops and it worked!!!!!
+remember after every update to reboot by powering off then back on after 10 seconds off
+
+YOU STILL NEED A DISK IN THE DRIVE.
+
+-----------------------------------------------------------------------------------------------------
+
+Waninkoko wonâ€™t have you waiting any longerâ€¦ The infamous hacker in black dishes a full serving of PS3 custom (or modified) firmware; and by full serving I mean all your homebrew, including support for Backup Manager! Thatâ€™s what youâ€™ve been asking for, right?
+
+How to install PS3 Custom Firmware v3.55
+
+1. Download PS3 Firmware Update (OFW) 3.55
+2. Install (or restore) OFW 3.55
+3. Patch the OFW 3.55 PS3UPDAT.PUP using â€œbsdiffâ€ / â€œbspatchâ€
+
+bspatch PS3UPDAT.PUP PS3UPDAT-CFW.PUP CFW_v3.55.patch
+
+4. Confirm the resulting PUP has the md5 sum of 6eab7f1deea1ed46a1dc9924fd7080b3
+5. Rename and copy the patched PUP to a USB storage device: /PS3/UPDATE/PS3UPDAT.PUP
+6. Flash it from Settings -> System Update (or the Recovery Menu if you need to)
+
+Tools will be available on github soon. See README.txt for more info.
+
+Update: Uh ohâ€¦ Waninkoko speaks up: â€œDo NOT install in Slim consoles! Looks like users are reporting bricking issues. Thatâ€™s weird as the CFW was tested on both models.â€
+
+Iâ€™m testing it now. Please standby.
+
+Update: Well, on my Slim the installation went a-okay! That said Iâ€™ve uploaded the patched PUP for you. And I can also confirm that multiMAN, as a Backup Manager, works with no problem. I should mention I updated from geohotâ€™s jailbreak; I already had multiMAN installed under that (for those wondering why it wonâ€™t install under Waninkokoâ€™s CFW).
+
+Update: There have been many brick reportsâ€¦ Some fat models, some slimâ€¦ Many variables come into play when patching LV2. So right now, itâ€™s like this: If you really, really want backups, then give it a shot, just know the risks involved â€” you could end up with nothing in the end. Otherwise I recommend you buy your games and jailbreak only for homebrew purposes.
+
+Download:
+PS3 CFW/MFW 3.55 Patch
+PS3 CFW/MFW 3.55 Patched PUP
+
+Disclaimer: Install/flash at your own risk. We are not responsible if you brick your beloved PS3 console. Proceed with caution.
+
+- source: @hackinblack
+
+-----------------------------------------------------------------------------------------------------
+Filename: PS3_355_FW_UPDATE.RAR
+Size: 170.71MB
+
+Description:
+Sony PS3 firmware update 3.55.
+-----------------------------------------------------------------------------------------------------
+Waninkoko's PS3 Custom Firmware 3.55 Patch
+
+Filename: CFW_v3.55_Waninkoko.zip
+Size: 32.93MB
+
+Description:
+Waninkoko's PS3 Custom Firmware (CFW) / Modified Firmware (MFW) 3.55. See the included README.txt for usage instructions. Click here for more info.
+-----------------------------------------------------------------------------------------------------
+Waninkoko's PS3 Custom Firmware 3.55 PUP
+
+Filename: PS3_CFW_355_WANINKOKO.rar
+Size: 170.64MB
+
+Description:
+The pre-patched PUP for Waninkoko's PS3 Custom Firmware (CFW / MFW) 3.55. Flash at your own risk. See here before proceeding.
+-----------------------------------------------------------------------------------------------------
+multiMAN 01.12.05 for 3.15 / 3.41 / 3.55
+
+Filename: multiMAN_ver_1.12.05.rar
+Size: 8.53MB
+
+Description:
+multiMAN packs many facets: It's a Backup Manager, a File Manager, and a AVCHD and BDMV (Blu-ray) video player.
+
+Included are versions:
+
+* multiMAN 0.12.05 for 3.55
+* multiMAN 0.12.05 for 3.40 - 3.42
+* multiMAN 0.12.04 for 1.90 - 3.30
+
+multiMAN features:
+
+* User defined options.ini (options_default.ini) to set various options
+* Copy/backup progress bar
+* Support and display for 7 devices (HDD/USB/BD/SDHC/MS/CF)
+* Support for REMOTE PLAY via PSP or other compatible peripherals
+* Animated icons and backgrounds
+* Update check/download feature with [R3] button
+* Support for COVER.PNG in AVCHD video folders
+* Support for AVCHD activation from external USB devices
+* Support for backup of AVCHD to internal HDD
+* Support for playback of AVCHD and Blu-ray content from internal HDD
+* Overscan support for DLP and CRT TV sets
+* MP3/AC3 playback (play songs using the File manager from local and network locations)
+* JPEG/PNG picture viewer (browse/view pictures using the File manager from local and network locations)
+* HEX file viewer
+* Support for at least 4 freetype fonts (user can change using [SELECT]+[R3] in game display modes)

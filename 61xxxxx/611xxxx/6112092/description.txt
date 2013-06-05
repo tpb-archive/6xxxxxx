@@ -1,0 +1,16 @@
+MAME (multiple arcade machine emulator)for wii, plus the channel forwarder aswell. Play all the arcade machine games on your wii. Have only tested this on wii system menu v4.1 and works fine. Nice animated channel for the wii too **WII MUST BE SOFTMODDED TO GET THE HOMEBREW CHANNEL INSTALLED**.
+Install:-
+
+1.Extract the rar file to desktop.
+2.Open the sdl mame v0.6 folder(If you have MAME Roms, they are placed in the SD:\mame\roms folder).
+3.move the 3 folders to the root of the SD card (apps, mame and WAD).
+4.Start the home brew channel and click on MAME Icon to launch the emulator.
+5.Play the roms you have installed!
+
+Channel Installation:-
+1.Start the homeBrew channel.
+2.launch Multi Mod Manager or whatever WAD installer you use.
+3.open the WAD Folder in the wad manager program.
+4.Highlight the SDL_MAME_FORWARDER.WAD and press the + button on the WiiMote.
+5.Press A on the WiiMote to install the channel
+6.Exit the wad manager and return to the wii system menu, and click on the animated MAME channel to start the emulator.

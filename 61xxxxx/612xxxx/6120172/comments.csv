@@ -1,0 +1,260 @@
+User Type,Username,Date,Text
+,bapski,2011-01-22T20:13Z,"seed, seed, seeding....."
+,bapski,2011-01-22T22:13Z,"somehow got this to work by loading DARWINS SNOW LEGACY ISO first .. but like what ive been having problems.  MAC OSX LOADS but i cant get it to respond when i click on the MAC VM desktop.
+
+im on a VISTA HOME HOST with AMD ATHLON PHENOM X4"
+,bapski,2011-01-23T15:57Z,anybody else having problems with this torrent?
+,luisoes,2011-01-23T17:52Z,"Hi bapski, following your recommendation, I installed it successfully after switching to Darwin Snow.iso... thank you!
+
+Snow Leopard works smoothly... if it helps, I'm on a W7 Intel laptop... "
+,press2010,2011-01-23T23:32Z,">switching to Darwin Snow.iso
+
+What do you all mean by loading this first. Is Darwin Snow.iso a completely different torrent or is it included in this torrent? TIA."
+,skip741,2011-01-24T08:13Z,"i have the same question as press2010,  how did any of you get this working? would u mind offering a detailed explanation to the rest of us? what is meant by ""switching to Darwin Snow.iso""?  i found no instructions included with this torrent and i am using it with the latest vmware workstaion, cpu is intel q6600, but i get an error when either clicking on the easy efi icon or the osx 10.6.6 icon, which says""The CPU has been disabled by the guest operating system""....help would be appreciated from either the uploader or anyone who has gotton it to work, otherwise what is the sense of bothering to upload something  thats not working. i have used many other vmware mac images with no issues at all.. thanks!"
+,evilspam,2011-01-24T14:20Z,"Very good image. From my side it runs fine.
+
+It has Darwin/x86 boot 5.0.132 - Chameleon 2.0 RC5pre12 R115 (2010/02/24).
+
+IT runs fine on my Intel i5 machine with 2GB of ram under VMWare (win 7).
+
+At first it was hanging on boot, but I had change the number of cores to 4 and put 1.5MB in RAM and the Mac OS 10.6.6 boots on the virtual machine fast enough.
+
+Once you boot, I think the first thing to do is change the screen resolution. "
+,press2010,2011-01-24T18:31Z,"skip741 at 2011-01-24 08:13 CET:
+> i have used many other vmware mac images with no issues at all.
+
+Are these images available here? if so what would the names of those torrents be that have worked for you in the past. TIA."
+,luisoes,2011-01-24T19:02Z,"Hi all, yes I should have been more descriptive... the CD-ROM device of the vmware machine should point to the .iso file provided with this torrent... but since it didn`t work for me, I pointed it to the Darwin.iso included in this direct download:
+
+After that, like evilspam, I needed to try several CPU configurations on the virtual machine to ensure that MacOsX boots properly every time I start the vm.
+
+Ask any other question you may have."
+,luisoes,2011-01-24T19:05Z,"... in this direct download:  dot com slash ?dhbxnndmznw
+"
+,luisoes,2011-01-24T19:08Z,"you can search ""Snowy_Vmware_files.tbz2"" on google to get the download..."
+,skip741,2011-01-24T21:32Z,"got it working, used the small darwin snow iso image from a previous working vmware snow leopard.just copied the  little iso image into the directory where the config file and efi file is, and it booted up. but the version 10.6.6 has serious problems with the flash player support, as browsers will freeze and crash on any site that has flash. i tried every possible update of the flash player, and currently none exist that allow flash to play in this version of mac. search and read comments of others who have same problems. anyway it does work, thank u for the upload, but the flash issues are a nuisance for now and ill stick with earlier versions for time being"
+,kallstrom_74,2011-01-26T06:00Z,please tell me how to use this...
+,skip741,2011-01-26T08:14Z,"this is to hopefully answer some questions..press2010 i have hotton other snow leopard and leopard vmare images both from here and newtorrents. as far as which its been a while since i downloaded them,they varied in size from 2.8 gig to abt 8 gigs, some can be even bigger.I think what was important was the small iso file thats included in those vmware downloads it was called darwin.iso and is abt 25 megabytes. i just copied it into the extracted directory of this torrent.there was no such darwin .iso included ,,,only the efi iso file.  once copied into the directory with the vmware files, u need to change the settings in vmworkstation to boot this darwin iso under the cd/dvd settings so it will boot from that darwin iso file..thats it!
+but again ill mention that adobe flash will not work properly in 10.6.6 and will freeze browser every time u click on a link with flash requirements .. as for snow leopard torrents that Do work, id recommend any from 10.6.0,  10.6.2 all worked great for me even when updated, flash worked without issues. im sorry to not have the exact torrent names,its been a while  sinece i got them.hope all this helps"
+,prince1211,2011-01-26T18:36Z,"denis2011:  I'm new this to this...Can you provided instruction on how to get this in vmware.  I'm not sure on how to proceed.
+thanks man!  "
+,pitrowech,2011-01-28T05:45Z,"Trying to run this on AMD processor, vmplayer Win7 32-bit, getting ""Mac OS X is not supported with software virtualization. To run Mac OS X you need a host on which VMware Player supports hardware virtualization."" What am i doing wrong?"
+,hardbassI,2011-01-28T23:39Z,how the hell am i supposed to install this for fucks sake ?
+,cutthin,2011-01-29T15:22Z,can someone help me with this? I downloaded the darwin snow.iso to run it off and it worked fine for the first day... now the mac logo just sits there doing nothing when i boot it. i have nooo idea what its done? 
+,cutthin,2011-01-29T15:27Z,scratch that last comment.. just got it to work.. anyone having any problems?
+,cutthin,2011-01-29T17:28Z,id also like to point out that i solved the flash problems in safari by downloading firefox for macs. flash works fine on that.. the only problem is getting to the firefox website in safari.. took me about 3 tries.
+,jwho82,2011-01-31T08:25Z,"The password for the mac account is empty, just leave it blank.  I spent a good couple hours looking around and accidentally hit enter.... go figure"
+,psychoone,2011-01-31T10:20Z,"the password for the 'mac' user is empty. But I have trouble using sudo command - what is the password for root account? Help me, plz..."
+,Chrisdus,2011-02-07T19:23Z,"I get it all almost working, but then suddenly VMware crashes... HELP!!"
+,skfan14ever,2011-02-10T02:27Z,would this work on a mac? i have 10.6.3 and i just found out today that 10.6.6 even exists. would I need Vmware software?
+,johnnyg963,2011-02-10T08:34Z,what is the root password? i need to run sudo and cant'... it's not the same blank password as the mac account. or does anyone know how to reset the sudo password?
+,johnnyg963,2011-02-10T08:40Z,"my bad. you don't need a sudo password. i accidentally set the mac password from blank to what I wanted, but didn't realize the keyboard was set to hungarian, which changed characters in my password. all good now! phew."
+[T],JugzG0nn4G3tY4,2011-02-12T20:30Z,"These are instructions from my 10.6.4 release for those who can't figure out how to get it working: PS you more than likely need hardware virtualization....
+****************************************************
+
+Steps:
+
+1. Install and Register VMWare Workstation 7.
+2. Restart, and enable ""Hardware Virtualization."" (If you do not have this in BIOS then you cannot run image, sorry :( )
+3. Download this torrent.
+4. Download 7 Zip or any program like it.
+5. UnZip/UnRar/Un7Zip files to a location of your choice.
+6. Launch VMWare Worksation.
+7. Select ""Open Existing VM or Team""
+8. Browse to where you extracted files.
+9. Select ""MacOs10.6.4."" (If it asks you to ""Take Ownership"" do so.)
+10. First Run, do not change settings.
+11. ""Power on this virtual machine.""
+12. If screen opens asking you whether you ""Moved it"" or ""Copied it"" the default is the copied option but I would choose the moved option.
+13. It will do some booting things.
+14. When you see the empire efi screen, click on the screen so that you are ""In"" the virtual machine.
+15. Press F5.
+16. Using your arrow pad, hit the ""Left"" arrow to chose the ""mac"" named hard drive.
+17. On arrow pad again, hit the ""Down"" arrow.
+18. Go down once more to the ""Boot Verbose"" option.
+19. A whole bunch of text will show. Maybe even some errors, don't sweat it!
+20. Mac Screen should pop up about 60 seconds later.
+21. OH NO ITS RUSSIAN!!!!!
+22. On the bottom of Mac desktop, hit the gear looking icon (system preferences.)
+23. In the top category select the thing that looks like a flag, should be on the far right.
+24. Click and drag English to the top.
+25. Go to next tab and chose the top two tabs to ""U.S. English"" and ""English (United States).""
+26. Exit out of that screen.
+27. Since you must log out to make changes, on main desktop page hit the Apple symbol in top left corner.
+28. The ""Log Out"" option is the very last one at the bottom of the list.
+29. After you log out, it will ask you for your password.
+
+THERE IS NO PASSWORD! JUST HIT ENTER! THAT'S ALL!
+
+Hope this helps everyone. It worked for me.
+
+-Jugz "
+,emeshbi,2011-02-23T10:58Z,"Booted both the darwin.iso and ""-v"" and hung on ""ACPI_SMC_PlatformPlugin::start - waitForService(resourceMatching(AppleIntelCPUPowerManagement) timed out""
+
+Then managed to get it to work by editing my vmx file and change the value smc.present = ""TRUE"" to smc.present = ""FALSE"".
+
+Thanks: http://www.taranfx.com/how-to-install-snow-leopard-vmware-workstation-windows"
+,iRosko,2011-02-27T04:32Z,the reason i think it wont work for some people is because i learned that there are to diff darwin iso files one for 32 bit user and one for AMD 64 bit users :) hope this helps
+,Osho34,2011-03-05T21:54Z,"I tried to run this image at Ubuntu x64 VMware Workstation. I have a problem with shutting down the system. I must shut down forcedly. When I do it, in next mounting VM I loose mouse cursor and keyboard access.
+What to do?"
+,pankaj09,2011-03-11T07:14Z,"i solved the password error of this vmware image as the default keyboard layout  is hungarian when you set it in the mac according to you , let it be US keyboard then it will change ur password and u can use it in ur ternminal ,but if u restart ur mac then it will ask u for the password and now ur current password will not work because the current keyboard in now set to hungarian so map key accordingly ""pswrd 'yo' will now be 'zo'""  "
+,leocb,2011-03-15T18:43Z,"if you're having this problem 
+""A virtual CPU has entered the shutdown state. This would have caused a physical machine to restart....""
+And you have sure the HARDWARE VITUALIZATION is activaded on your system BIOS then do the following:
+
+Download Iboot or Iboot legacy from here (register required): 
+http://www.tonymacx86.com/viewforum.php?f=69/
+
+then, on your virtual machine proprietes, under the disk drive tab, select Iboot.iso (or Iboot legacy) as image, then try starting the OS.
+
+Worked for me, if it doesn't for you, then i'm sry, have no ideia of what it can be"
+,gregs000,2011-03-18T01:21Z,"withe me ocur this screen:
+
+http://img825.imageshack.us/i/macosx10662011031721095.png/
+
+anyone can help me?"
+,lapholia,2011-04-05T14:57Z,"Not recognize USB drives (pen drive, iphone, etc). Any tips?"
+,sububack,2011-04-10T20:34Z,"Works Cool, thanks @Denis2011
+
+Wanted to know if there is way to install this to my harddisk, to stop using two .iso every time i boot."
+,jpdise,2011-04-16T22:33Z,"i am having a hell of a time getting this setup...ive tried the recommendations here in the comments and also searched the web, all i get is a gray apple screen on loadup that never goes away....anyone else have this issue? I am using AMD Phenom x4....and VMWare 7...ive enabled the Hardware Virtualization....it gives me the boot up messages....shows the darwin loading and then goes to apple screen forever"
+,xNameless,2011-04-18T04:19Z,"For anyone that doesn't know, this is a pre-created image to be opened with VMWare Workstation or VMWare Player (or perhaps other virtual machine programs, I'm sure).
+
+I'm not sure how, but I got this to work by doing what emeshbi did above: change the value smc.present = ""TRUE"" to smc.present = ""FALSE"".
+
+After that, I booted using the darwin_snow ISO downloaded elsewhere (see above comments about darwin_snow and how to use it).
+
+After that, it worked fine. I'm afraid to shut the VM down or hibernate it, because I fear it won't work again...but that's what I did to get it to work at least once!"
+,xNameless,2011-04-18T18:07Z,"Update: Still works! I'll reiterate what I did, see if it helps you:
+
+Right-click the ""VMWare Virtual Machine"" file (the one that you would otherwise have opened within VMWare, it has the .vmx extension) and open it with WORDPAD or other basic text editor (make sure you un-check ""make this the default program"").
+
+CTRL+F to find the command line smc.present = ""TRUE"" and change ""TRUE"" to ""FALSE""
+
+Then, when you have the virtual machine loaded in VMWare, click ""Machine Properties"" and find the ""disk drive"" option. Select ""Use ISO"" and load ""Darwin_Snow"" WHICH YOU MUST DOWNLOAD ELSEWHERE (see above comments for more detailed instructions about Darwin_Snow ISO).
+
+Keep in mind, to get the Machine to show up in VMWare and allow yourself to make changes, you'll probably have to try running it first, let it fail, then go back to VMWare and select the machine (Reminder: ""Machine"" means the virtual machine you're trying to make work).
+
+When you have Darwin_Snow loaded in the Machine's disk drive, start the machine again.
+
+When you get to the screen where Darwin_Snow and Apple logo are next to each other, highlight the Apple symbol (using the arrow keys) and scroll down to ""Load Verbose.""
+
+After this, it worked for me, so I have no further instructions for you, I'm sorry.
+
+If this doesn't work, try downloading the full Mac OSX 10.6.6 and installing it manually (torrent is also available here on TPB).
+
+Good luck!"
+,dukester23,2011-04-18T23:40Z,"where can i find darwin iso and i get 
+guest os has closed your cpu or something like that
+and it does not help when i putt it on 2 cores or anything
+why the secrecy .. i dont understand"
+,dukester23,2011-04-19T00:00Z,"I found darwin_snow.iso 
+but it still gets me to wher eit says
+
+""the cpu has been dissabled by the host ""
+dang that dangit host
+
+usually fixed with lower version of osx putting more cores to the cpu but in this one it wont work
+
+can someone find me a 64 bit iso?"
+,xNameless,2011-04-19T00:24Z,"@Dukester23, did you edit the .vmx file in a word editor and change the smc.present value to ""FALSE"" ? This is what helped me the most I think."
+,dukester23,2011-04-19T14:37Z,"YES I DID 
+it gives me that host error
+
+i think it has something to do with the processor coice
+id ont understand why they dont make images that are ran on 64 bit to begin with"
+,dukester23,2011-04-19T14:43Z,how can i update vmware tools?
+,dukester23,2011-04-19T14:45Z,can someone send me or show me which vmware program they are using exactly and let me know ... i red somewhere its a vmware problem
+,suboxygen,2011-04-24T16:59Z,"works like a charm! 
+I am having difficulty finding where to change it to english though.. I cant seem to be able to find English to drag it to top top as you said  jugzG0nn4G3tY4. "
+,jaipandit,2011-04-28T06:56Z,"Thanks Denis2011!!! I was able to boot this Image. 
+
+But one problem after booting. My mouse keyboard don't work. I am running this on AMD with USB Mouse and Keyboard. Please help if you know some option."
+,asd1asd2asd3,2011-04-28T21:49Z,"Well when the title states ""Intel AMD"" you would guess that it runs with Intel or AMD just as fine. 
+
+For my AMD computer I needed to use ""EmpireEFI4AMD.iso"". ~25 MB. Google it.
+
+Switched to VMWare Workstation from Player at the same time, guess that helped too."
+,jaipandit,2011-04-29T04:58Z,Thanks asd1asd2asd3. That helped. But for some strange reason 1st time mouse was not detected. However after switching to VMWare Workstation I was able to see few icons in the VMWare bottom bar(right hand side). One of the icons said mouse and it was switched off. So I switched it on. But this resulted in mouse being disconnected from my Main OS. I then restarted the VM and now mouse and keyboard are functional. Strange but that is how it works.
+,encorrect,2011-05-06T10:09Z,"Hey Guys,
+
+So this is how I got it working for me. Also note, I'm running Windows 7 x64 on AMD and VMWare 7.1.4.
+
+1 ) Download and unpack the archive to your location, add it to VMware
+2 ) Because I was unable to login with the given ISO, I downloaded ""EmpireEFI4AMD.iso"".
+3 ) Change the (IDE1) CD-ROM to boot with EmpireEFI4AMD.iso, not the EasyEFI v2.2 ver.3
+4 ) Boot, F5 and left key over to boot
+5 ) If you get to the pretty desktop, continue, otherwise this guide wont work for you
+6 ) Outside of your Virtual Machine (still running though) download ""darwin_snow.iso""
+7 ) Change IDE2 to darwin_snow.iso (eject if anything is there)
+8 ) VMware Tools should popup on the Mac desktop. Double click and install
+9 ) Continue with the forced reboot. Unmount darwin_snow.iso after reboot
+10) Done.
+
+Thanks guys for this, awesome work. Thanks to the other commenters who helped me figure this out. Hope this helps other people out there too."
+,m_hellfire_13,2011-05-08T09:56Z,"Hello guys,
+what is the root password for this image?
+i need the password for the installation of some kexts! Plz help"
+,vampire03,2011-05-18T18:31Z,Can this be upgraded to 10.6.7 ? 
+,leotan,2011-06-03T03:40Z,"hi guys! im having a problem. 
+
+when i first run the vmx file it say ""guest OS darwin 10 is not supported"". then i just go to options tab then double click General and just save it, no changes made. when i turn it on again it reaches the efi and mac osx 10.6.6 icons. i tried to use both using Boot Verbose but it doesnt work. it displays an error saying "" ***virtual machine kernel stack fault(hardware reset)***""
+
+ i didnt edit anything or use a ""darwin snow"" iso file yet. please help me.
+
+System specs.
+vmware version is 6.5.1, intel core 2 duo 2GB ram."
+,bobalazs,2011-06-05T03:09Z,mIne gets stuck at couldn't find dsdt.aml
+,Cool_KJ,2011-06-09T08:51Z,Just finished downloading....wish me luck
+,Cool_KJ,2011-06-09T10:54Z,"Help! I can see the mac desktop and everything else but I have no mouse/keyboard input
+
+:("
+,Cool_KJ,2011-06-09T11:21Z,Fixed that problem... BUT EVERYTIME I RESTART I START FROM SCRATCH AGAIN :/
+,zedek999,2011-06-11T11:39Z,"hey, tnx for the upload,
+keep getting ""Mac OS X is not supported with software virtualization. To run Mac OS X you need a host on which VMware Workstation supports hardware virtualization."" error.
+can anyone help?
+tnx"
+,chrisdeburg,2011-06-11T23:29Z,"anyone know how to get my built-in webcam on my intel i5 win 7 laptop to work in this snow leopard 10.6.6???
+
+I wanted to use facetime.  installed this ok, d/l'd and installed facetime ok but it says camera not connected, d'oh!
+
+---->zeedek999"
+,RomanCl,2011-06-13T03:00Z,Having a problem with my keyboard in the image. The @ key is actually a = and my y key and z key are switched.... can somebody help?
+,Tobii5,2011-06-17T03:59Z,Buy a Mac that will work best..
+,Snugema,2011-06-23T07:55Z,"Hi, first of all thanks denis for uploading the torrent. but secondly I cant get it to work. it boots fine but when i try to select any of the options after it boots it just crashes. i mean the 2 options, easyEFI, and Mac 10.6.6 . Any help would be much apreaciated. thx :D"
+,diemac,2011-08-18T21:49Z,"I can't change the keyboard type (it is ANSI, my keyboard is ISO)
+
+""Change keyboard type"" doesnt exist in this release: http://docs.info.apple.com/article.html?path=Mac/10.6/en/8962.html
+
+I've tried remove /Library /Preferences/com.apple.keyboardtype.plist but it does not exists :s
+
+Is there any way to change the keyboard type (USB ISO)?
+
+Thx"
+,morttan,2011-08-25T03:56Z,"After a long time of going back and forth, this is what worked for me.
+I have two laptops, one with windows 7 64 bits and the other with windows 7 32 bits; both have an Intel graphics card.
+For the 64 bit one I had to get the EmpireEFI4AMD.iso and change the (IDE1) CD-ROM to boot with EmpireEFI4AMD.iso in the vmware workstation (virtual machine settings). Once it boots and you get to the EFI screen, select the Mac OS 10.6.6 option.
+For the 32 bit one I had to get darwin_snow.iso and change the (IDE1) CD-ROM to boot with  darwin_snow.iso in the vmware workstation (virtual machine settings).
+But still, after booting up I would get a blue screen on BOTH laptops. What fixed it was going to the virtual machine settings and inside 'Display' I clicked the 'Accelerate 3D graphics' check box.
+To get the iso's mentioned here just google it, they are easy to find. 
+Hope this helps!"
+,Gayas,2011-09-03T15:20Z,is it work for amd athlon x2  ??
+,EiNST3iN,2011-09-04T05:50Z,This is a cluster F*** of a mess!
+,abey350,2011-09-05T04:43Z,"Works well on AMD Athlon X2 running Windows 7 (32 bit). 
+Tip : For keyboard issues go to SystemPrefrences>LanguageandText>InputSources and check US and uncheck all others."
+,dgtljnk,2011-10-16T14:31Z,"Hi there, it works like a charm on VMware.. i was wondering if theres any way to extract it from this vwware image and make it standalone system ? all the settings, kernel and drivers suits to my laptop so it should be easy to install it as a dual boot system on my laptop.. any ideas how to do it ?! "
+,mootjeuh,2011-10-25T20:11Z,"If neither of darwin_snow and empiresomething worked for you (just like me), go to tonymacx86 and download iBoot. Works perfectly, thanks.
+I'm going to use this to install Lion on my physica drive"
+,psych88,2011-12-18T18:26Z,"Installed it on my AMD Athlon II X4 machine, worked like a charm.
+
+But the SOUND OR any VIDEO I play is very choppy RATHER any AUDIO plays very BAD.
+
+Is there any driver that I should install???/?
+@denis2011---or infact any1 , please help me :("
+,Cry0n1c4,2011-12-28T03:39Z,"Worked for me with iBoot the first time.
+
+I'm running an Intel i7-2700k with 16Gb of Ram, it runs fine on 4 cores with 8Gb enabled but it only uses 4Gb.
+
+The only problem i have had with it, is when i enable a usb device it halts the CPU and crashes, and on my keyboard Y=Z and Z=Y."
+,cecofff,2012-01-24T16:51Z,"USB devices (like iPhone) work if you download and run MultiBeast. In the Multibeast installer, expand Drivers & Bootloaders > Kexts & Enablers > Miscellaneous, and put a check next to IOUSBFamily Rollback. Just that one thing, and click Continue. Reboot the virtual Mac and you're good to go. 
+Even itunes works fine :-)"

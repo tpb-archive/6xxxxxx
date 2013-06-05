@@ -1,0 +1,103 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 5. May 2010, 2:04
+
+The Dear and Departed / Chapters
+
+Used drive  : Optiarc DVD RW AD-7560S   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s 
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:10.46 |         0    |    18795   
+        2  |  4:10.46 |  3:06.06 |     18796    |    32751   
+        3  |  7:16.52 |  3:50.17 |     32752    |    50018   
+        4  | 11:06.69 |  3:52.01 |     50019    |    67419   
+        5  | 14:58.70 |  4:28.47 |     67420    |    87566   
+
+
+Track  1
+
+     Filename H:\Downloads\Music\The Dear And Departed - Chapters - 2010 (CD - FLAC - Lossless)\The Dear and Departed - Chapters - 01 - Matter of Time.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC FA701406
+     Copy CRC FA701406
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename H:\Downloads\Music\The Dear And Departed - Chapters - 2010 (CD - FLAC - Lossless)\The Dear and Departed - Chapters - 02 - Did You Hear a Knock .wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 71874565
+     Copy CRC 71874565
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename H:\Downloads\Music\The Dear And Departed - Chapters - 2010 (CD - FLAC - Lossless)\The Dear and Departed - Chapters - 03 - Tambourine Love.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC C6DBDBDF
+     Copy CRC C6DBDBDF
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename H:\Downloads\Music\The Dear And Departed - Chapters - 2010 (CD - FLAC - Lossless)\The Dear and Departed - Chapters - 04 - It Looks Like Rain.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 8CEE187D
+     Copy CRC 8CEE187D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename H:\Downloads\Music\The Dear And Departed - Chapters - 2010 (CD - FLAC - Lossless)\The Dear and Departed - Chapters - 05 - There For The Taking.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC BA0DA204
+     Copy CRC BA0DA204
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

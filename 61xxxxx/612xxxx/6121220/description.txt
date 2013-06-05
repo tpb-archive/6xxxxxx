@@ -1,0 +1,51 @@
+
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 174 MiB
+Duration                         : 5mn 44s
+Overall bit rate                 : 4 227 Kbps
+Writing library                  : TMPGEnc 4.0 XPress Version. 4.7.4.299
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Muxing mode                      : Packed bitstream
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 5mn 44s
+Bit rate                         : 2 675 Kbps
+Width                            : 640 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.291
+Stream size                      : 110 MiB (63%)
+Writing library                  : XviD 58
+
+Audio
+ID                               : 1
+Format                           : PCM
+Format settings, Endianness      : Little
+Format settings, Sign            : Signed
+Codec ID                         : 1
+Codec ID/Hint                    : Microsoft
+Duration                         : 5mn 44s
+Bit rate mode                    : Constant
+Bit rate                         : 1 536 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Stream size                      : 63.1 MiB (36%)
+Interleave, duration             : 33 ms (1.00 video frame)
+Interleave, preload duration     : 500 ms
+

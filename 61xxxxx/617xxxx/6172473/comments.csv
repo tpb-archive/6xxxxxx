@@ -1,0 +1,55 @@
+User Type,Username,Date,Text
+,crysis2texturefix,2011-02-13T22:51Z,also forgot to add for those that dont know! press ` key to get into console the type r_displayinfo 0 to turn off upper right fps coordinates etc
+,crysis2texturefix,2011-02-13T22:55Z,"first torrent and dont know wether its seeding correctly so i'll add instruction as comments saves the download if its not working!
+
+i found that i had to disable my internet to actually start up the game! dont know wether thats Kaspersky being an ass or what, also to fix the texture corruption or missing altogether i went into profile options then created a new profile just name it whatever! i then started a game as new! no more water as road on the first levels and no more glowing heads etc! dont know why this worked, maybe the profile that was in use was a debug or something! Hopefully this works for you too! running the game on 1680x1050 hardcore no problems as yet! all that i see is at the initial load of levels you get a few invalid file access warnings on upper left of screen, but at least it is playable now!
+kind regards"
+,crysis2texturefix,2011-02-13T22:56Z,"First Torrent so in case itndeosnt seed here's what i did to get it too work!
+
+i found that i had to disable my internet to actually start up the game! dont know wether thats Kaspersky being an ass or what, also to fix the texture corruption or missing altogether i went into profile options then created a new profile just name it whatever! i then started a game as new! no more water as road on the first levels and no more glowing heads etc! dont know why this worked, maybe the profile that was in use was a debug or something! Hopefully this works for you too! running the game on 1680x1050 hardcore no problems as yet! all that i see is at the initial load of levels you get a few invalid file access warnings on upper left of screen, but at least it is playable now!
+kind regards"
+,cirios8300,2011-02-13T23:33Z,Thanks for sharing!If i have problems i will try this.
+,crysis2texturefix,2011-02-13T23:51Z,"oops double post, also forgot to mention, in crysis folder there is a file called system cfg i deited these lines also ;)
+
+r_ShadersRemoteCompiler=0
+
+log_IncludeTime = 1
+sys_languages = ""english""
+
+
+r_displayInfo = 0
+ this gets rid of developer info automatically, and seemed to fix an issue with shader compiler trying to connect to a server to resolve!"
+,crysis2texturefix,2011-02-13T23:56Z,"after playing a little more there are still a few glitches with invalid filesetc but at least i seem to have 99 percent of textures now! 
+also if you get the game crash out on the first level as you pick up the gun just quickly press a if youre using a xbox controller to skip the offending cutscene before it glitches! i'm presuming its f if youre playing mouse and kboard! hope this helps, i'll post any other workarounds that i may find to improve what looks like it could be an awesome game!"
+,Horwa123,2011-02-14T00:28Z,do you know how to fix animations ??? my texture works fine i have only problem with animations... 
+,RMJ13,2011-02-14T00:28Z,"open the file system.cfg in a text editor, fill it: 
+r_ShaderCompilerServer = 
+r_ShadersRemoteCompiler = 0 
+and save it.  
+
+fixed it for me
+
+I,m runnin 1920x1200- hardcore! 
+
+I just cannot alt/tab out of game, is the only major issue for me."
+,crysis2texturefix,2011-02-14T01:03Z,I have also now copied over the files from bin32_no protect to bin32 and this has stopped some of the invalid texture messages!
+,Huhta,2011-02-14T13:30Z,You know.. instead of explaining all of this to the people on here. Why not just upload the modified files you've been tampering with? I mean.. that way the rest will get the exact same outcome as you. (hopefully)
+,Ransacker51,2011-02-14T23:55Z,Just buy the fuckin game when it comes out....problem solved
+,zimsmoke,2011-02-15T07:04Z,"it's not good enough to buy.   based on warhead and crysis 1. 
+
+crysis was always the most generic crap anyway.  the real gem is the engine after its sold to a GOOD company who will make a GOOD game with it."
+,Lawlerhossen,2011-02-16T08:33Z,"Hmmm. Tried this, but it didn't help my issue. My biggest problem is that any significant source of light, especially the Sun in the first level, flickers ridiculously. I can ignore it until I go outside, and I have to shut it down before it gives me and everybody in the room a seizure, basically.
+
+Doesn't seem to be a texture issue or anything. I thought it might be video card compatibility, but I have the same cards as the OP, and the latest drivers.
+
+Is there a way to turn off Bloom effects, maybe? If anybody has any ideas, my specs are:
+Intel Core i7 920 @2.66GHz
+6GB DDR3 RAM
+ATI Radeon 5870 x2 in Crossfire
+Windows 7 64 Bit"
+,jacob020,2011-02-17T05:30Z,"@Lawlerhossen
+
+I had the same problem as you. What I did to stop the flickerin is turn off crossfire. As for the bloom effects try typin r_glow 1 in the console."
+,jacob020,2011-02-17T05:32Z,"Sorry I meant, r_glow 0"
+,Rando_q1,2011-02-17T16:21Z,@Lawlerhossen  dowload RadeonPro and make crysis 2 profile. add crysis2.exe on radeon pro then go to tweaks and then search for Mvpu mode... then move slider to supertitle.... then crossfire is off but no flickering
+,qhdsagjuj,2011-04-01T15:32Z,"I found out this game forces you into updates so delete all of the contents of C:/Program Files (x86)/Electronic Arts/Crytek/Crysis 2/bin32/EAcore. After you do this there no longer will be any more forced update. When you start the game it takes a bit longer, but it still loads! Just leave the EAcore folder there empty! "

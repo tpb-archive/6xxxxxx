@@ -1,0 +1,38 @@
+User Type,Username,Date,Text
+,jappe6,2011-02-16T11:22Z,"Can you get hands on a Swedish version of Acrobat X or the whole X SuiteâŚ? It would be very much appreciated! Or is it possible to add on some kind of language pack to these programs?
+
+Jappe"
+,centynul,2011-02-16T17:47Z,"Thank you so much for your efforts and uploads!!  I really appreciate them - thanks to you I've been able to teach myself a ton of great skills at home that have meant a great deal to me at work.  Very very grateful indeed!  
+
+Besides the much deserved praise and hero worship,... :) I was wondering if I could pick your brain on hosts files.  I totally get the concept but I was more concerned about having the latest entries...  How/where is the best way to make sure I have the most up to date entries? Do you publish a new list with each release? Is there a web page or DL source for such a thing?
+
+Again, thank you for sharing and all the effort you put in!"
+[V],thethingy,2011-02-16T18:38Z,"centynul, I just check by firewall logging each time an update is applied, this is the latest,. "
+,corrimalau,2011-02-22T00:42Z,"Is there a way of ""unlocking"" secure Acrobat Documents?"
+[V],thethingy,2011-03-03T19:23Z,"corrimalau, yes not with adobe software though"
+,f2game,2011-03-09T16:52Z,"having problems registering the key
+
+host file is saved as indicated.
+
+ then I add the dll file to each of the ~7 folders (CS5, Adobe 10, captivate 5, i.e. where ever I find the amtlib file) under program files.  using the 32 bit for the x86 and the 64 bit dll for the X64programfiles.  now i have this message:
+
+""An error has been detected with a required application library or file and the product cannot continue.  Please reinstall the application""
+
+if I remove the dll again it works, but then the serial key will not hold.  Seems only to be with Adobe 10. Can you help?"
+[V],thethingy,2011-03-13T07:35Z,"f2game, your not meant to add it to the acrobat folder, your hosts wont be setup right, just copy the hosts in the download and pate and replace your own one then restart. "
+,Prithuk,2011-04-04T00:30Z,i m having a problem....adobe PDF printer is not installed?
+,ashdaniel1,2011-04-22T22:19Z,"The serial #s you provided are coming back as invalid serial number, I have tried the ones you provided for the suite as well as idividual & still coming back as invalid...help me please"
+,cimp01,2011-04-25T06:02Z,"I am having the same issue ashdaniel1 is having. Unless I disconnect my internet connection, the serial #s you provided are coming back as invalid serial numbers. They take initially but after shutting down the application and reopening it, the last serial number entered then becomes invalid. I have exhausted all but 2 of the serial numbers in your list. It appears that the hosts file is not doing what it's supposed to do :("
+,tornadosturnmeon,2011-04-29T18:22Z,thingy you rock.  Thanks you! Still can't understand why you have a green scull and not Pink.  Keep up the great work.
+,tornadosturnmeon,2011-04-29T18:23Z,"forgot to ask...If I already have PowerPoint installed with valid Windows 2010 install, do I need to uninstall it and then re-add? "
+,colors321,2011-10-28T06:02Z,it won't let me do the setup it tells me to contact adobe for support
+,dlacayo,2011-12-01T06:17Z,"Hi. Im running 64 bit Win7. Installation went fine and the program worked for a couple days but now at startup it says:
+
+""An error has been detected with a required application library or file and the product cannot continue. Please reinstall the application.""
+
+Does anyone know how to fix this. I repeat, the dll file was replaced and the hosts file was patched without trouble. It worked fine for a couple days."
+,Necrotic_Love2,2012-03-22T22:56Z,"I am ALSO getting the following message: 
+
+""An error has been detected with a required application library or file and the product cannot continue. Please reinstall the application""
+
+I followed the directions and updated the hosts file but still can't get Acrobat 10 to work.  If anyone has a fix or work around, I'd be open to suggestions."

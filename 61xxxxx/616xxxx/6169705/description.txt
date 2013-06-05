@@ -1,0 +1,59 @@
+Le format chm (fichiers d\'aide en HTML compressÃ© pour Windows) permet d\'avoir des options de recherche plus Ã©laborÃ©es que sous PDF ou HTML ou ePub.
+
+Aide en franÃ§ais
+Nouveau :
+
+Vous pouvez tÃ©lÃ©charger l\'aide en franÃ§ais au format .chm compilÃ©e le 25 dÃ©cembre 2010 (pour Windows) Ã  partir de ce lien : gimp_2_6_fr.chm
+
+    * volume : 27 232 211 octets.
+    * md5 : 66e94f3b092d8e6545f3a8e2974451ca
+    * Licence : GNU Free Documentation License.
+    * Copyright Â© 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 L\'Ã©quipe de documentation de GIMP.
+    * Copyright Â© 2008,2009, 2010 Julien Hardelin.
+    * L\'aide est celle du site http://docs.gimp.org/2.6/fr au 25 dÃ©cembre 2010.
+
+
+CETTE AIDE EST DANS LES ARCHIVES GIMP 2.6.x QUE NOUS FOURNISSONS AUX PAGES \"Gimp portable\" & \"GimpPainter portable\".
+
+Installation de cette aide en franÃ§ais sous Windows :
+
+Installer l\'aide au format chm (pour les gens n\'utilisant pas nos archives de Gimp)
+Cette aide fonctionnera uniquement sous Windows.
+
+Phase 1
+
+    * TÃ©lÃ©charger la derniÃ¨re version de l\'aide gimp_2_6_fr.chm Ã  partir du lien.
+    * Installer cette aide dans [rÃ©pertoire installation de Gimp]\\bin  (oÃ¹ se trouve gimp-2.6.exe).
+
+
+
+Phase 2
+
+    * TÃ©lÃ©charger l\'archive 7ZIP (189 167 octets,  MD5  1cd513211d2e6d3a2427c97ed425ff00)    http://www.aljacom.com/~gimp/aide_gimp_format_windows_xml_bat.exe
+    * DÃ©compresser cette archive dans [rÃ©pertoire installation de Gimp]\\share\\gimp\\2.0  (oÃ¹ se trouvent \\tips , etc.).
+    * Les fichiers .bat et gimp-help.xml seront installÃ©s dans [rÃ©pertoire installation de Gimp]\\share\\gimp\\2.0\\help\\fr
+
+
+
+Phase 3
+
+    * TÃ©lÃ©charger l\'utilitaire keyHH.EXE Ã  partir de la page http://www.keyworks.net/keyhh.htm et l\'installer.
+    * Cet utilitaire permet d\'ouvrir une seule session de gimp_2_6_fr.chm.
+    * L\'installation est terminÃ©e.
+
+
+
+Utilisation
+
+    * Via Gimp en ouvrant Gimp en franÃ§ais.
+    * Configurer le mode d\'affichage de l\'aide : Ã‰dition > PrÃ©fÃ©rences > SystÃ¨me d\'aide, Navigateur d\'aide Ã  utiliser = Navigateur Web,
+    * Manuel de l\'utilisateur = Utiliser une copie locale > Valider.
+    * Dans Gimp, utiliser la touche F1 , l\'aide contextuelle shift+F1, les boutons d\'aide.
+    * Ouvrir directement l\'aide en faisant un double clic sur [rÃ©pertoire installation de Gimp]\\bin\\gimp_2_6_fr.chm
+
+
+
+Remarques
+
+    * Cette solution semble fonctionnelle avec Gimp 2.6.11
+    * L\'aide Gimp en franÃ§ais au format chm est expÃ©rimentale.

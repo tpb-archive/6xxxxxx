@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,D0gmeat,2011-02-17T02:34Z,Thanks!
+,hfz,2011-02-17T11:14Z,"Any chance of a Shameless US 720p upload, cant seem to find i anywhere."
+,torrentkid28,2011-02-17T15:22Z,i get a C++ runtime error after verifying data...
+[V],alexisthebest,2011-02-17T23:32Z,"@hfz
+i cant upload 720p shows any more since i dont have money to pay for a seedbox.
+
+
+@torrentkid28
+
+try (re)installing C++"
+,torrentkid28,2011-02-18T06:27Z,did reinstallinc C++ works for it? a lot of my friend have the same trouble also. i got the C++ 2008 and 2010 package. not sure which one i should reinstall.
+,Cbeatse,2011-02-18T06:30Z,"Getting the same error as Torrentkid... Runtime problem. I can post the screens for it if you'd like, but I can no longer run the game since I put this update on."
+,torrentkid28,2011-02-18T12:00Z,i've been reinstalling the C++ package in my computer. still not working. At last im applying the update 2 only. waiting for a crackfix or a troubleshooting...
+,KRONOS55K3V1N,2011-02-20T13:56Z,Will there be patch or another update to fix the c++ runtime error?
+,miko1989,2011-02-20T14:40Z,Well all three updates failed patching for some unknown reason. I seriously started to hate this game it crashes like hell & the updates clearly destroyed whats left of it
+,coolman678,2011-02-26T07:19Z,do online work
+,zhool,2011-03-20T06:43Z,"I'm just gonna paste this in from my post on the main torrent:
+
+Any1 getting the 'failed to delete..' or patching failed etc non-starts (mine is XP SP3): when prompted which OSuser account to run the game with, you have to select the admin account (ie the bottom part of the dialog), and it has to have a password of some sort; it's not the crack - legit users seem to be getting it as well, and its a pain in the arse (well it will be if i have to input a pwd all the time)
+Of course, the general rule for pirated games is no multiplayer unless otherwise stated, but MP is probably possible using VPN or whatever - try google, however if you like what you see & you're MP inclined, you'll probably get your money's worth if you buy it "
+,zhool,2011-03-21T09:34Z,"PS i wrote the above whilst d/ling update3, and am now getting the same visual c++ error as others - google rkns i should reverify with steam :( went back to update2"
+,PsyDoX2011,2011-03-24T21:04Z,"Well C++ Runtime Error mnc.exe
+
+Windows 7 SP1 / 64 bit
+
+I Did reinstall c++ i did install the old 2008 c++ and the new c++ nothing is working , the other versions *Update 1/Update 2* works perfect...
+Something wrong with the crack :/"
+,victov,2011-03-28T19:55Z,"To avoid the runtime error, delete the file ""HostileHUI_Menus_InGame.ini"", which is at ""HostileGame\Config"" "
+,zhool,2011-04-01T23:45Z,"hey thanks victov, that works :)"
+,jvezirian,2011-05-20T23:11Z,Thanks victov... Worked great for me. Windows 7 Home prem 64bit
+,DenLame,2011-08-14T02:07Z,"Thanks victov, saved hours for me. To give something back, here's how to get multiplayer running (LAN and co-op):
+
+0. Install original Skidrow ISO and this update.
+1. Edit the Skidrow.ini file (Binaries\Win32) to get unique names for each player.
+2. Start the game on a PC running as server, note its IP-number.
+3. Select Multiplayer,  Create Game, select Blitz from the dropdown and tick the LAN box.
+4. On all other PCs, start the game and select Mulitplayer.
+5. Hit ~ for the console and use the server's ipnumber from (2) above, example:
+open 192.168.1.27
+Type Esc to quit the console.
+6. Now players should appear in the server window, fire when ready..."

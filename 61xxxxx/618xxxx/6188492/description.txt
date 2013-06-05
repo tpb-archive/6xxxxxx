@@ -1,0 +1,11 @@
+Files:
+dsp_coef.bin
+dsp_rom.bin
+
+
+These two files are needed to use the DSP LLE recompiler/interpreter within Dolphin.
+
+They are working rips from the Gamecube.
+
+Place the files in:
+DolphinDir/User/GC

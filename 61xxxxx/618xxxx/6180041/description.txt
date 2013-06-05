@@ -1,0 +1,23 @@
+Led Zeppelin (1969)
+
+Lineage: Classic Records SD 8216-A1/A2/B1/B2 45 > VPI Aries II Extended with SDS/ JWM-12.6 arm/ Lyra Titan > 
+Zoom H4 @ 24bit/96kHz via external mic inputs > RIAA correction with Sox 14.3.0 > 
+minor click removal with Click Repair 3.0 > fades, normalization, and splitting with WaveLab 5 > to FLAC with dbPowerAmp
+
+Tracklist:
+
+01 Good Times Bad Times
+02 Babe I'm Gonna Leave You
+03 You Shook Me
+04 Dazed and Confused
+05 Your Time Is Gonna Come
+06 Black Mountain Side
+07 Communication Breakdown
+08 I Can't Quit You Baby
+09 How Many More Times
+
+From Classic Records 45 RPM Led Zeppelin box, recorded and presented here as 24/96 FLACs. 
+You will need to resample these files to create an audio CD. Here's an example of a sox command to do this:
+sox "01 Good Times Bad Times.wav" -b 16 "441/01 Good Times Bad Times.wav" rate -s -a 44100 dither -s
+This creates a 16/44.1 WAV in a subfolder called 441.  
+http://sox.sourceforge.net/

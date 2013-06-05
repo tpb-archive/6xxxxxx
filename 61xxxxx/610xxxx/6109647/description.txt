@@ -1,0 +1,134 @@
+X Lossless Decoder version 20101212 (126.2)
+
+XLD extraction logfile from 2011-01-17 20:21:18 +0100
+
+CAN / Saw Delight
+
+Used drive : HL-DT-ST DVDRAM GP08NU20 (revision 1.01)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 06:36:60 |         0    |    29759   
+        2  | 06:36:60 | 05:50:45 |     29760    |    56054   
+        3  | 12:27:30 | 05:52:42 |     56055    |    82496   
+        4  | 18:19:72 | 15:31:23 |     82497    |   152344   
+        5  | 33:51:20 | 04:11:12 |    152345    |   171181   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |   -551   |   -653   |      2     
+
+AccurateRip Summary
+    Track 01 : OK (confidence 7)
+    Track 02 : OK (confidence 8)
+    Track 03 : OK (confidence 8)
+    Track 04 : OK (confidence 7)
+    Track 05 : OK (confidence 8)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Filename : 01 CAN - Don't Say No.flac
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 5AB8B3C6
+    CRC32 hash (skip zero) : 149EAF6A
+    AccurateRip signature  : 7558DDEE
+        ->Accurately ripped! (confidence 7)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Filename : 02 CAN - Sunshine Day And Night.flac
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : BB07E44A
+    CRC32 hash (skip zero) : 9294D29C
+    AccurateRip signature  : 327FC6EE
+        ->Accurately ripped! (confidence 8)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Filename : 03 CAN - Call Me.flac
+
+    CRC32 hash             : 36BE1A92
+    CRC32 hash (skip zero) : 7CB3AD29
+    AccurateRip signature  : AE876843
+        ->Accurately ripped! (confidence 8)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+    Filename : 04 CAN - Animal Waves.flac
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 47BE4F18
+    CRC32 hash (skip zero) : C322EA27
+    AccurateRip signature  : 5724B2E1
+        ->Accurately ripped! (confidence 7)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 05
+    Filename : 05 CAN - Fly By Night.flac
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : B6F236ED
+    CRC32 hash (skip zero) : A3C0870B
+    AccurateRip signature  : FF252C2E
+        ->Accurately ripped! (confidence 8)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

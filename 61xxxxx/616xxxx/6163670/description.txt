@@ -1,0 +1,663 @@
+
+xDarkâ„¢ has been build using only WAIK without removing any components or disabling any important services at all. The xDarkâ„¢ core consists of more than 500 .dll files modified to integrate a new and different look into Windows 7.
+
+In the Start Menu you will find many tools to Edit, Tweak, Customize, Fix or Search anything you need in the System, the xDarkâ„¢ Power Tools compile everything you need to Customize your OS to the limits making it more personal than ever and even faster, giving you the option to edit system files with just a single right click and supporting the full modification or creation of Windows 7 Styles with the Integration of 7 Style Builder.
+
+- â€“ - â€“ - â€“ - â€“ - -
+
+[img]http://img220.imageshack.us/img220/309/25861821.jpg[/img]
+[img]http://img84.imageshack.us/img84/3860/35932619.jpg[/img]
+[img]http://img7.imageshack.us/img7/4118/31767248.jpg[/img]
+[img]http://img651.imageshack.us/img651/7532/63644425.jpg[/img]
+[img]http://img828.imageshack.us/img828/4707/42891513.jpg[/img]
+[img]http://img824.imageshack.us/img824/2623/23159640.jpg[/img]
+
+- Author: n0ak95â„¢ - Radikal Modds Company Â© 2011
+
+- Installation Requirements:
+
+* 1 gigahertz (GHz) or faster 32-bit
+* 1 gigabyte (GB) RAM
+* 16 GB available hard disk space
+* DirectX 9 graphics device with WDDM 1.0 or higher driver
+
+- Additional Installation Requirements:
+
+* Internet access (fees may apply)
+* Depending on resolution, video playback may require additional memory and        advanced graphics hardware
+* For some Windows Media Center functionality a TV tuner and additional hardware may be required
+* Windows Touch and Tablet PCs require specific hardware
+* HomeGroup requires a network and PCs running Windows 7
+* DVD/CD authoring requires a compatible optical drive
+* BitLocker requires Trusted Platform Module (TPM) 1.2
+* BitLocker To Go requires a USB flash drive
+* Windows XP Mode requires an additional 1 GB of RAM, an additional 15 GB of available hard disk space, and a processor capable of hardware virtualization with Intel VT or AMD-V turned on
+* Music and sound require audio output
+
+- Unattended Install Procedure:
+
+* Select Time and Currency Format
+* Select Keyboard Settings
+* Select Hard Disk To Install
+
+- Unattended User Profile:
+
+* Time Zone: (UTC-08:00) Pacific Time (US & Canada)
+* UI Language: en-US
+* Default User Account: Administrator / No Password
+
+- Language:
+
+* English
+
+- Updates:
+
+* Service Pack 1 RTM
+
+- Drivers:
+
+* CableModem 10.01
+* LAN 10.03
+* Mass Storage 10.11
+* Modem 10.1
+* WLAN 10.07.1
+
+- Status:
+
+* Activated
+
+- ISO Info:
+
+* Uncompressed Size: 3,00 GB (3.228.438.528 bytes)
+* Windows 7 Ultimate: Version 6.1 (Build 7601: Service Pack 1)
+* 7 xDark Deluxe x86 v4.0 RG.iso
+* CRC32: 785ECB33
+* MD5: 8338F00872806DB0208390A0F690AE68
+* SHA-1: 81C7CB29110FDD300BAA0C90179E9C7E121F8FD3
+
+- Extras Info:
+
+* Uncompressed Size: 481 MB (505.148.518 bytes)
+* xDark v4.0 x86 Extras Silent.exe
+* CRC32: 12EA885A
+* MD5: 5E03D8FFA3A921942E10AA500A55DC7C
+* SHA-1: C89B2BAA62FBFBB0FA1E5542A5CC005CA2B3765F
+
+- Removed Components:
+
+* No Removed Components
+
+- Services:
+
+Âº Disabled:
+
+* Windows BackUp
+* Parental ControlS
+* Remote Registry
+* Hibernation
+* Distributed Link Tracking Client
+* Offline Files
+* Windows Error Reporting Service
+* Program Compatibility Assistant Service
+* Security Center
+* Windows Update
+* Windows Search
+
+(to enable a services type services.msc in the start menu search box and enable it from the services manager or run the xDark Services Manager)
+
+Integrated Tweaks
+
+* Disable CEIP (Customer Experience Improvement Program):
+
+The Windows Customer Experience Improvement Program in Windows 7 is a completely voluntary program designed to help Microsoft improve its operating systems over time. This program collects information about computer hardware and how people use Windows 7.
+
+* Speed up Windows Thumb Time-Delay:
+
+Windows 7 has provided a cool feature with ability to preview taskbar thumbnails whenever the mouse is hovered on the program icon. However, you may notice that it does have some latency to display the preview after mouse over the icon, Thumb Time-Delay has been improved to avoid this problem.
+
+* NTFS; Disable 8.3 Names and Last Access:
+
+NTFS Files systems create file names in 8.3 format. Disabling this option reduces the overhead during the creation of new files or directories.
+
+* Improve DNS Caching:
+
+By default Windows also caches erroneous data and this can take space of valid cache items and thus slow down your Internet access. This will tell windows not to cache erroneous DNS data at all.
+
+* SpeedUp Access to AVI Files:
+
+Speeds up the access of AVI folders as well as makes the renaming and deletion of AVIs easier.
+
+* Enable Boot Optimization:
+
+The Boot Optimization function will automatically defragment boot files and rearrange them so that all boot files are in close proximity to one another.
+
+* Allocate more Critical Threads to Increase Performance:
+
+This Option lets Windows create more critical threads for when your system load is high in order to improve your system's performance.
+
+* Unload DLLS from Memory after Use:
+
+Remove DLL's from memory after use to free up more resources.
+
+* Disable Network Redirector File Caching for Workstation Service:
+
+On network computers, when data is written to a file, it is written to the cache and not immediately flushed to the redirector.
+
+* Improve Core System Performance:
+
+This option lets drivers and system code move to disk whenever required as sometimes more physical RAM is requiered to run an application
+
+* Increase NTFS Performance:
+
+The time stamp for the last accessed files and folders are updated by Windows and this update may take time.
+
+* Enable Self-Healing Capability of NTFS File System:
+
+In earlier version of Windows, NTFS marks the volume "dirty" upon detecting file-system corruption and CHKDSK is required to be run by taking the volume "offline".
+
+With self-healing NTFS is the new feature of Windows Vista and Windows 7, in which an NTFS worker thread is spawned in the background which performs a localized fix-up of damaged data structures, with only the corrupted files/folders remaining unavailable without locking out the entire volume.
+
+* Stop Automatic Rebooting of your System after Windows Update:
+
+Stops automatic rebooting of the system after automatic udpates.
+
+* Disable User Tracking:
+
+Prevents the system from tracking the programs users run, the paths they navigate, and the documents they open. Although somewhat helpful, this tracking is a pontetial privacy threat.
+
+* Show Extensions for Known File Types:
+
+Enable to display file extensions (e.g. DOC, XLS, EXE) as part of file names. This can help you tell disguised malicious software from normal files. It also increases the performance of Vista folders.
+
+* Show Hidden Files and Folders:
+
+This is rarely required for novice users, but is very useful for experienced users as it gives them better control over their computer.
+
+* Always Show Menus:
+
+By default Windows Explorer does not display the menu bar.
+
+* Use Checkboxes to Select Items:
+
+Adds Checkboxes to file views to make it easier to select several files at once, wich can be useful if it is difficult for you to hold the CTRL key while clicking to select multiple files.
+
+* UAC disabled... make things work correctly with UAC off...
+
+User Access Control (UAC) can be a very annoying feature. Allow operations without administrator consent (similar to Windows XP).
+
+* xDark x86 4.0 RG Tweaks...
+
+... and many more...
+
+# xDark Context Menu:
+
+* Add "Take Ownership" to the right-click context menu
+* Add "Open with Notepad" to the right-click context menu
+* All items have an "edit.." on right-click context menu sending to notepad
+* Add "Copy File Names" to Context Menu
+* Add "Copy To/Move To" to the right-click context menu
+* Add "Register/UnRegister Dll" to the right-click context menu
+* Add and associate system files to open with Restorator to the right-click context menu
+* Add "Atributes" -> Toggle Archive Atribute -> Toggle Read Only Atribute -> Toggle Hidden Atribute -> Toggle System Atribute; to the right-click context menu
+* Add "Install" to right-click on Font Files
+* Add "Appearance" to the right-click context menu
+* Add "Media Info" to the right-click context menu
+
+* Remove unlikely templates from the New menu
+
+# xDark Desktop Context Menu:
+
+* Add "Clear Clipboard" to the right-click context menu of "Desktop"
+* Add "Kill Not Responding Tasks" to the right-click context menu of "Desktop"
+* Add "Restart Explorer" to the right-click context menu of "Desktop"
+* Remove "Fonts" from Desktop and Other right-click context menus
+* Add "Show / Hide Hidden Files" to the right-click context menu of "Desktop"
+* Add "Show / Hide File Extensions" to the right-click context menu of "Desktop"
+* Add "Run" to the right-click context menu of "Desktop"
+
+# xDark Computer Context Menu:
+
+* Add "Command Prompt Here" on the right-click context-menus of Drives, Folders & My Computer
+* Add "Advanced System Properties" to the right click menu of "Computer"
+* Add "Calculator" to the right click menu of "Computer"
+* Add "Control Panel" to the right click menu of "Computer"
+* Add "Device Manager" to the right click menu of "Computer"
+* Add "Control Mode" to the right click menu of "Computer"
+* Add "Notepad" to the right click menu of "Computer"
+* Add "Registry Editor" to the right click menu of "Computer"
+* Add "Task Manager" to the right click menu of "Computer"
+* Add "Services" to the right click menu of "Computer"
+* Add "System Configuration" to the right click menu of "Computer"
+* Add "Add/Remove Programs" to the right click menu of "Computer"
+* Add "Shutdown" to the right click menu of "Computer"
+
+# xDark Special Context Menu:
+
+* Copy Path
+* Command Prompt
+* Explore Here
+* Batch Rename
+* Search and Replace
+* Sign Files
+* Path Operations
+* Select by Type
+* Mount Path as Virtual Drive
+* iPhone PNGs
+
+- xDark v4.0 Notes:
+
+* xDark v4.0 Exclusive Default Theme
+* xDark 4 Seasons Dark Orb Start Button
+* xDark Exclusive Lights In The Dark Systems Sounds Scheme
+* 3 xDark System Cursors
+* xDark HD Exclusive System Icons (Almost All System Icons Are Customized)
+* xDark HD Exclusive Nvidia Top Shell
+* xDark Exclusive GodMode Custom Panel and GodMode Creator
+* xDark HD Exclusive Wallpapers Set
+* xDark HD Exclusive Dark Surrealism User Account Pictures
+* xDark Exlusive Integrated Shell On Top
+* xDark Exclusive Lights In The Dark Edition Branding
+* Hard Disk Changes to xDark HDD Default
+* xDark Unwelcome Center
+* xDark Gadget Gallery + Extra Black Gadgtes
+* xDark Context Menu & Folder Menu
+* xDark Network & Internet Optimized
+* Super xDark Administrator
+* AutoLogon & Boot Optimization
+* xDark Power Tools
+* xDark Installer Integrated
+* xDark HD Graphics & 3D Experience
+* and much more...
+
+- â€“ - â€“ - â€“ - â€“ - -
+
+- Integrated Applications (xDark Post Install script): (alphabetical order)
+
+* 7Zip 9.20 + 7Z Split...
+
+... â€œGPU archiver with high compression ratioâ€
+
+* Adobe Air 2.5.1.17730...
+
+... â€œBuild and deploy rich web apps on your desktopâ€
+
+* Adobe Shockwave Plugin 11.5.9.615...
+
+... â€œBrowser plug-in for rich multimedia contentâ€
+
+* xDarkâ„¢ Ave Preview...
+
+... â€œA skinnable, little image-previewer applicationâ€
+
+* C++ 2010...
+
+... â€œRuntime components of Visual C++ Librariesâ€
+
+* DirectX February 2011...
+
+... â€œLatest update to Microsoft's multimedia interfaceâ€
+
+* Flash Player 10.1.102.64... (IE)
+
+... â€œPlay files created with Flash and Directorâ€
+
+* Flash Player 10.1.102.64... (Non-IE)
+
+... â€œThe Web's favorite video and animation playerâ€
+
+* HashTab 3.0...
+
+... â€œCheck file hashes on your systemâ€
+
+* Java Runtime Update 23... (Java Quick Start Utility Disabled & Update Check Removed)
+
+... â€œRun Java applications on your PC without installing the Java Development Kitâ€
+
+* K-Lite Mega Codec Pack 6.9.0
+
+... â€œA complete collection of codecs and related toolsâ€
+
+* LockHunter 1.0 Beta 3...
+
+... â€œDelete locked files in Windowsâ€
+
+* MicroAngelo On Display 6.1...
+
+... â€œA complete and efficient way to customize your system iconsâ€
+
+* Microsoft Silverlight 4.0.51204.0...
+
+... â€œMicrosoft's answer to Adobe Airâ€
+
+* Microsoft Tinker 6.0.6000.16748...
+
+... â€œA small robot marooned in a surreal world of clockwork, inventive mechanisms and challenging puzzlesâ€
+
+* nET Framework 4... (Updated 08/02/2011)
+
+... â€œThe fourth generation of the .NET Framework platformâ€
+
+* Notepad 2 4.1.24... (Notepad Replacement)
+
+... â€œNotepad with extra functionsâ€
+
+* SCSI Pass Through Direct v1.76...
+
+... â€œA new method of access to storage devicesâ€
+
+* xWinrarÂ® 4.00 Beta 6... (Includes CabPack 1.4, HJ-Split 3.0, UHARC 4.0.0.2 & WinUHA 2.0 RC1)
+
+... â€œOne of the best file compression tools aroundâ€
+
+* VMware Tools 8.4.4.14247...
+
+... â€œAutomate and streamline tasks to save time and improve productivity in VMware Virtual Machinesâ€
+
+* Windows Media Player Plus! 1.1...
+
+... â€œAdd new features and improvements to Windows Media Playerâ€
+
+* World Of Goo 1.20...
+
+... â€œBuild a safe way to rescue all the Goo ballsâ€
+
+- â€“ - â€“ - â€“ - â€“ - -
+
+- Integrated Portable Applications: (Advanced Configuration Tools):
+
+Âº Developer Tools:
+
+* Windows 7 Style Builder (Not Portable) (Uninstallable)
+... â€œCreate or edit new Windows 7 visual stylesâ€
+
+* Restorator 2007 (Not Portable) (Uninstallable)
+... "Resource editor for system translation/localization, customization, design improvement and developmentâ€
+
+* Sfx Maker (Not Portable) (Uninstallable)
+... â€œThe easiest and fastest way to create switchless installersâ€
+
+Âº Kels Bonus Pack:
+
+* Cpu-z
+... â€œGathers information on some of the main devices of your systemâ€
+
+* Gpu-z
+... â€œGet the lowdown on your graphics cardâ€
+
+* HD Info
+... â€œCheck out the health status of your Hard Diskâ€
+
+* HD Tune
+... â€œTest the capabilities of your hard driveâ€
+
+* HP USB Format Tool
+... â€œThis utility will format any USB flash drive, with your choice of FAT, FAT32, or NTFS partition typesâ€
+
+* HW Monitor
+... â€œFull control over your PC's power statsâ€
+
+* Memory Test
+... â€œEnsure that your RAM is running smoothlyâ€
+
+* Password Renew
+... â€œRenew Windows 7 user forgotten passwordâ€
+
+* Windows Installer CleanUp
+... â€œUninstall Windows 7 corrupted or uninstallable programsâ€
+
+Âº Optimization:
+
+* Autoruns
+... â€œFind all the programs that start when Windows is loadedâ€
+
+* Smart Services
+... â€œTweak Windows 7 Servicesâ€
+
+* Windows 7 Ultimate Tweaker
+... â€œMore than 150 tweaks for Windows 7â€
+
+Âº Replace System Files:
+
+* Advanced File Copy Manager
+... â€œSupports at least 13 sorting methodsâ€
+
+* Logon Background Changer
+... â€œReplace the Windows background logonâ€
+
+* Media Player Background Changer
+... â€œReplace the Windows Media Player backgroundâ€
+
+* Start Button Changer
+... â€œReplace the Windows 7 Start Buttonâ€
+
+* System File Replacer
+... â€œReplace any system fileâ€
+
+Âº Search:
+
+* EasyFind Panel
+... â€œJust locate what your looking for and click!â€
+
+Âº Shell Manager:
+
+* Shell Editor
+... â€œAllows you to easily disable and enable each shell extensionâ€
+
+* Shell New Handler
+... â€œEnable or disable context menu items from the new menuâ€
+
+Âº Troubleshooting:
+
+* Rebuild Icon Cache
+... â€œRebuilds the Windows 7 icon cacheâ€
+
+* Re-Enable
+... â€œRe Enable regedit, command console "cmd", task manager, system restore and folder optionsâ€
+
+* Repair Windows 7
+... â€œRepair Windows 7 system functionsâ€
+
+Âº Windows Settings:
+
+* Device Manager
+... â€œAllows users to view and control the hardware attached to the computerâ€
+
+* Enable/Disable Aero
+... â€œEnable or disable Windows 7 aero featureâ€
+
+* Keyboard Settings
+... â€œChange your keyboard settingsâ€
+
+* Services Manager
+... â€œManage Windows 7 servicesâ€
+
+* User Password
+... â€œAdvanced user accounts settingsâ€
+
+Âº CP Index:
+
+* Access all the most important Windows 7 Functions.
+
+
+- â€“ - â€“ - â€“ - â€“ - -
+
+- xDark Optional Silent Post Installer - Extras: (alphabetical order)
+
+* Ashampoo Burning Studio 10.0.7 (Updates notifications, products and services news & new premium version notifications Disabled)
+
+... â€œA complete burning suite for CD, DVD and Blu-Rayâ€
+
+* Driver Magician 3.55 Pro
+
+... â€œExtract, update and backup your driversâ€
+
+* Games For Windows Live 3.4
+
+... â€œEnables the In-Game Games for Windows - LIVE experienceâ€
+
+* JDownloader 0.9580 (Updated 08/02/2011)
+
+... â€œAutomated downloads frommoreâ€
+
+* PerfectDisk 11 Pro C183
+
+... â€œDefragment and much, much moreâ€
+
+* Registry WorkShop 4.3.0 SP
+
+... â€œWork faster and more efficiently with registry related tasksâ€
+
+* UltraIso PE 9.3.6 Build 2750
+
+... â€œHandle CD and DVD images with easeâ€
+
+* uTorrent 2.2.0 Build 24402
+
+... â€œCompact BitTorrent client with expansive capabilitiesâ€
+
+* Windows 7 Manager 2.0.6
+
+... â€œConfigure and customize Windows 7 to the smallest detailâ€
+
+* Windows Live White Messenger 2011 15.4.3508.1109 (Support for multi-login and advertising removed)
+
+... â€œThe new Windows Live Messenger, more social than everâ€
+
+* xDarkâ„¢ CD Art Display 2.0.1
+
+... â€œShow the cover art of the album you are listening toâ€
+
+* xDarkâ„¢ Firefox 3.6.13
+
+... â€œCheck out the new features in the latest version of xDark Firefoxâ€
+
+* Enabled Extensions: [27]
+
+- Adblock Plus 1.3.3
+- BetterPrivacy 1.48.3
+- ColorfulTabs 4.6.4
+- Cookie Monster 1.0.5
+- Ctrl-Tab 0.21.1
+- Download Manager Tweak 0.9.5
+- Download status 1.7.2
+- Download Statusbar 0.9.7.2
+- Flagfox 4.0.13
+- Flashblock 1.5.14.2
+- Greasemonkey 0.9.1
+- HTTPS-Everywhere (Development branch) 0.9.2
+- Interclue 1.6.1.3
+- Linkification 1.3.8
+- Make Link 10.12
+- MR Tech Toolkit 6.0.4
+- MuPDF 2008.09.02
+- Navigational Sounds 1.2.1
+- Quick Dictionary Lookup 1.1.0
+- QuickWiki 1.0.0
+- ReloadEvery 4.0.1
+- RemoveTabs 0.4.1
+- Stylish 1.1
+- Tab Scope 1.1
+- Undo Closed Tabs Button 3.6.2
+- United States English Dictionary 5.0.1
+- Yesscript 1.8
+
+* Installed Themes: [3]
+
+- Default
+- iTunesFox 0.3.2
+- NASA Night Launch 0.6.20101009
+
+* Installed Plugins: (17)
+
+- 2010 Microsoft Office system
+- Adobe Acrobat
+- Foxit Reader Plugin for Mozilla
+- iTunes Application Detector
+- Java Deployment Toolkit 6.0.220.4
+- Java(TM) Platform SE 6 U23
+- MicrosoftÂ® Windows Media Player Firefox Plugin
+- Mozilla Default Plug-in
+- MuPDF Plug-in
+- QuickTime Plug-in 7.6.8
+- RealJukebox NS Plugin
+- RealPlayer Version Plugin
+- RealPlayer(tm) G2 LiveConnect-Enabled Plug-In (32-bit)
+- RealPlayer(tm) HTML5VideoShim Plug-In (32-bit)
+- Shockwave Flash
+- Shockwave for Director
+- Silverlight Plug-In
+
+* Tweaks Integrated:
+
+- SpeedyFox 1.6
+- xDark Tweaks
+
+* xDarkâ„¢ Foxit Reader 4.3.1 Build 0118 (Includes JPEG2000/JBIG Decoder, GDI+ Module, Javascript Support & Spell Checker)
+
+... â€œA speedy alternative to Adobe Readerâ€
+
+* xDarkâ„¢ Gimp Suite 2.6.11 (Includes xDark PlugIns Compilation)
+
+... â€œWho needs Photoshop when you have this?!â€
+
+* xDarkâ„¢ Revo Uninstaller Pro 2.5.1
+
+... â€œSuperb uninstaller for programs you can't removeâ€
+
+* xDarkâ„¢ Vlc Player 1.1.7
+
+... â€œThe best multi-format media playerâ€
+
+* xCCleaner 3.03.1366 (Automatic updates Disabled)
+
+... â€œExcellent free system cleaning and optimization toolâ€
+
+- â€“ - â€“ - â€“ - â€“ - -
+
+# xDarkâ„¢ v4.0 RG Extras: (the extras are not integrated in the system, you may find them as optional silent installers outside the DVD)
+
+* xDarkâ„¢ GOM Player 2.1.28.5039:
+
+... â€œAwesome free media player with built-in codecsâ€
+
+* xDarkâ„¢ Xion 1.0.127:
+
+... â€œHigh fidelity and customizable audio playerâ€
+
+* xDarkâ„¢ iTunes 10.1.2.17:
+
+... â€œOrganize, share and buy music and videoâ€
+
+* xDarkâ„¢ Thunderbird 3.1.7 (Includes AdBlock Plus 1.3.1, Display Mail User Agent 1.6.6 & Mail Merge 1.4.0)
+
+... â€œExcellent mail client from the makers of Firefoxâ€
+
+* xDarkÂ® Winamp Pro 5.601 Build 3091 Plus! (Includes Winamp Addons and Essentials)
+
+... â€œA hugely popular and versatile audio and media playerâ€
+
+* xDarkâ„¢ Chrome 9.0.600.0: (Includes xDark Extensions Compilation)
+
+... â€œChrome for online security freaksâ€
+
+* xDarkâ„¢ ObjectDock Free 2.0:
+
+... â€œChanges your Windows navigation to resemble that of Mac OSXâ€
+
+* TrueCrypt 7.0a Special Edition:
+
+... â€œFree open-source disk encryption softwareâ€
+
+- â€“ - â€“ - â€“ - â€“ - -
+
+- Notes: xDarkâ„¢ v4.0 is an advanced modd for new and highly experienced users, xDarkâ„¢ v4.0 has been highly tweaked and configured for the best Windows 7 Experience. There are no components removed and no important services disabled. At first logon the xDarkâ„¢ Post Install script will install all runtimes and basic tools and reboot automatically.
+
+- Important Notes: [i]Windows Update is disabled by default, to enable Windows Update type services.msc, right click in windows update properties and enable it, installing new Windows updates could reset some of the tweaks and visual changes integrated in xDarkâ„¢ v4.0. / If you want to edit the xDarkâ„¢ Original ISO to add your own language pack or any other reason do not remove the option to start as Administrator the first time Windows starts or it will not complete successfully the configuration.
+
+... tested, designed and developed by n0ak95â„¢ Â© Radikal Moddsâ„¢.[/i]
+
+- â€“ - â€“ - â€“ - â€“ - -
+
+All titles, content, publisher names, trademarks, artwork, and associated imagery are trademakes and/or copyright material of their respective owners. All rights reserved.
+
+n0ak95â„¢ Â©2011 Radikal Moddsâ„¢ Company Europe

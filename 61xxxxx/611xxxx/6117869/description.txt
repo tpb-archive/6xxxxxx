@@ -1,0 +1,7 @@
+A a full and free mirror from the http://www.cultura.gov.br/ website. The whole website has been crawled using the wget commandline:
+
+
+wget --mirror -p --convert-links www.cultura.gov.br
+
+
+It's meant to be a civic socitey backup version of the website.

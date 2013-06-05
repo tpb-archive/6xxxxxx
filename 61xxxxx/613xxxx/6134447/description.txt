@@ -1,0 +1,122 @@
+**********************************************************
+**********************************************************
+**------------------------------------------------------**
+**  ######## ##    ## #######   ####  ######  ##    ##  **
+**     ##    ##    ## ##   ##    ##  ##    ## ####  ##  **
+**     ##    ##    ## #######    ##  ##    ## ##### ##  **
+**     ##    ##    ## ## ##      ##  ##    ## ##  ####  **
+**     ##    ##    ## ##  ##     ##  ##    ## ##   ###  **
+**     ##     ######  ##   ##   ####  ######  ##    ##  **
+**------------------------------------------------------**
+**********************************************************
+**********************************************************
+****************RESIDENT EVIL COLLECTION******************
+**********************************************************
+
+[GAMES]
+RESIDENT EVIL (PC)
+RESIDENT EVIL 2 PLATINUM (PC)
+RESIDENT EVIL 3 NEMESIS (PC)
+
+
+[About this release...]
+Surely, all three episodes of this series can be easily
+found on the net, however due to the fact, that these
+games ware designed to be run on older systems (Win95?),
+it can be really difficult to install, configure and play
+them on modern systems, like Windows XP, Vista or Seven.
+This is especially true about Resident Evil 2 - if you
+want to install it without having to use the game discs,
+you have to dig into the registry, copy a lot of files
+from X subdirectory to y and so on... it can be pretty
+confusing for someone, who doesn't know these things.
+
+...and so I have created this release, including
+all three games, repacked into modern installers made
+with Inno Setup Compiler. You just install the game and
+play it. That's it. No patching, no cracking and nothing
+is needed, just install and have fun. Now, this would
+sure be very nice to be just like that, HOWEVER there
+can be a few minor problems, mentioned down below...
+
+
+[FAQ]
+Q1. Why did you create this collection?
+
+A1. All three episodes of Resident Evil have been
+	written to be run on Win95/98 and can be pretty
+	hard to install & configre on modern systems.
+	
+	
+Q2. Resident Evil 1 crashes when playing Jill
+	at the part, where the first zombie comes
+	into the dining room.
+	
+A2. This is a common issue. The solution is that
+	you have to run back to the main hall twice,
+	instead of entering the hallway the first
+	zombie is in. Other than this, the game is not
+	supposed to crash at any other part.
+	
+
+Q3. Resident Evil 1 is too fast.
+
+A3. This is also a common issue. Nothing easy done
+	can be done about this. Live with it, or not.
+	
+	
+Q4. Resident EVil 1's backgrounds are not displayed
+	properly.
+	
+A4. This game was designed to be ran on specific video
+	cards. This should however not be an issue: run
+	Start/RESIDENT EVIL Collection/Resident Evil
+	Video Setup and select another card. I for example
+	have a GeForce4 MX440 SE 64MB video card and
+	selecting a "Rendition" card works for me.
+	
+Q5. Resident Evil 1's videos don't play.
+
+A5. Install a Cinepack codec, but you should be able
+	to play it by default.
+	
+Q6. Resident Evil 2's videos don't play.
+
+A6. Same as above, except this time you need the Indeo
+	video codec. This is included with Resident Evil 2's
+	installer. At the end of the installation, you are
+	prompted to install it - do so. If you still can't
+	play it, you propably have K-Lite or another
+	codec pack installed and that is the cause.
+	
+Q7. Resident Evil 2's backgrounds are not displayed
+	correctly. 
+	
+A7.	This problem is similiar to the
+	one mentioned in RE1's case - in the installer,
+	I set the defaults to a setting that should work
+	with most modern video cards - Rage Pro 3D.
+	However if that doesn't work for you, go to
+	Start/RESIDENT EVIL Collection/Resident Evil 2 Setup
+	and select Options. Here you can try other settings.
+	
+Q8. Saving/loading in Resident Evil 2 don't work.
+
+A8. Another common issue, but this can be solved.
+	I made a little BAT file for this issue.
+	Run it and follow the instructions.
+	Enter the path:
+	"C:\Program Files\Resident EVil 2 save"
+	on 32-bit or
+	"C:\Program Files (x86)\Resident EVil 2 save"
+	on 64-bit for example.
+	This will create the folder as well modify the
+	registry.
+	
+ENJOY!
+
+Note: I inclued the *.iss files, so everyone can see
+	  that there's no shit included in the installers.
+	  Consider it open source. :)
+
+-TURION

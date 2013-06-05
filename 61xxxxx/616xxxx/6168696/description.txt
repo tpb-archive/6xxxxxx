@@ -1,0 +1,35 @@
+   `:--:`   ----------:`       .----------`    .------.     -------.     
+   .- `hs   /`        sh`   `--`  `````  .h/ .:`  `` `ys  -:` ``` .h+    
+   .- `hy   /` .hhyyyyhh`  :-  -oyyyyyyyysdo +  /hhssshh `/  +hysssdo    
+   .- `hy   /` .do        :` `sh/`      `-//`o  :y.   `: .+  +y`   .-    
+   .- `hy   /` .o+----/` `:  sh.             :o. `::.     ++` `::`       
+   .- `hy   /`  ``````hs --  ho               .oo:  ./-    -so-  -/.     
+   .- `hy   /` .hhyyyyyo .+  +y`                `/s:  /s`    .+s-  oo    
+   .- `hy   /` .do        s:  /o.            .`   `o. `h+`.    `s` -d:   
+   .- `hy   /` .o+----/.  `so` `::--------y/`+------  /d+`+------  od-   
+   .-``hy   /`      ``sh.   /ys/-`     `.:hy`+:.` `.:sho``+-.` `./yh+    
+    /yyys   `oyyyyyyyyyy.     -/syyyyyyyso/- `oyhhhhy+-   .syhhhhs+.     
+                                          ```    ```  .com`  ``  ```    
+
+*** Sandboxed IE Browsers from Spoon ***
+
+Back in November, spoon.net removed their sandboxed IE browsers (http://itknowledgeexchange.techtarget.com/windows-server/microsoft-squashes-ie-on-spoon-users-tweet-their-displeasure/), leaving web developers everywhere rather unsatisfied.
+
+As many know, the spoon.net sandboxed browsers were the most reliable* browsers, aside from using IE versions in separate VMs.
+
+It has now been three months and we're seen no movement from spoon or msft. So, it's time to share these.
+
+These are sandboxed exe's from back when spoon.net was called Xenocode. You can run them in parallel. They are functionally identical to the true browsers
+
+*Mr. "Steve" has commented (http://blogs.msdn.com/b/ie/archive/2011/02/01/html5-and-web-video-questions-for-the-industry-from-the-community.aspx#10123662) on tons of IEBlog posts, and quickly summarizes why the spoon.net browsers are the easiest way to test cross-browser:
+-- Multiple IEs - IE8 breaks the functionality of IE6's textboxes.
+-- ETester - works great until you need to test print preview or popup interaction and then it fails.
+-- Virtual PC with timebombed images of IE6, IE7, IE8 - works, but the 12GB of HD space needed is frustrating when each full image of Windows dies 4 times a year, running a full Windows image is slow and you have to beg for updates because the releases are not co-ordinated and announced well at all.
+-- IE Super Preview - does not allow full testing of IE user interaction, JavaScript DOM changes, popups etc.
+-- Multiple PC's to run multiple versions of windows and IE. With all the hardware, software, and physical space needed. Ha!
+-- Spoon.net IEs - They work, they work just like local native apps once running, and there's no hacking of my real local IE install.
+
+Brought to you by http://iecss.com/spoon; people who want to make web development easier for you.
+
+Installation Instructions: 
+Simply run the executable in your windows installation. If you run into problems, try running them in compatibility mode.

@@ -1,0 +1,139 @@
+The following list of features is taken from looking at the EnchancedGameplay.esp file using FNVEdit, and should in no way be taken as complete, neccessarily accurate, or in any way approved by iztari, the creator of the mod.
+
+For the most part, the main thrust of EGP seems to be enhancing the behaviors of NPCs, changing factions, adding more appropriate loot to vendors and containers, and defining new navmeshes for many areas, which are changes that do not significantly alter game balance. There are also a few bug fixes, such as making a few weapon criticals more appropriate, and always giving an ear when killing legionaries. In addition, many cute but totally inconsequential things have been added to the game, such as the fact that ravens now look for bodies, NPCs put on nightwear before sleeping, and many new notes are found in mailboxes.
+
+However, there are are a few significant changes in EGP that could be regarded as unbalancing, especially if you're not expecting them:
+Skill books can now often be purchased from vendors at a base cost of 50 caps, making them far from rare any more.
+Holy Frag Grenades can be found in loot.
+Sniper Rifles have had their damage restored to old value of 62, which is 50% more than the latest official game patch value of 42.
+Boone has been made significantly more deadly.
+Companion NPCs now level at 1.0X player level, not 0.75 as in last official patch, and some have had stat boosts.
+Rex has been made significantly less dangerous, almost to the point of uselessness.
+Binoculars now have Rex's 'Search and Mark' park built in.
+Chinese Stealth Armor now has a full stealth field effect, like in FO3.
+Stun grenades cause paralysis.
+
+Because of the breadth of changes made by this mod, it should be regarded as an 'overhaul' mod, and positioned in your load order either quite late (if you want all its changes to override other mods) or quite early (if you want you other mods, especially other overhauls such as FOOK, to take precedence).
+
+For those who have the time and skill, I think the best solution is to use Wyre Flash to create a Bashed Patch to merge this mod with others, and then to use FNVEdit to tweak any specific fatures that you do or don't want in your game.
+
+List of changes, by category
+----------------------------
+* Items marked with * remove features installed by last official FNV patch.
+
+Ingestibles
+Beer (all varieties) adds a nuka cola cap after being drunk.
+Various sodas (Nuka, variants, sarparilla) increases thirst more, and also increase hunger slightly.
+Xander root value changed from 0 to 2.
+
+Ammo
+* MicroBreeder ammo given minimal weight, and no longer has DT bypass effect given by last official patch.
+
+Armor
+Surgical Mask weight reduced from 1 to .05
+Makeshift gas mask replaces eyeglasses, mask ,a nd mouth objects, and also has a gas-mask effect that appears to have been intended by FNV designers but not installed.
+Raul's Jumpsuit (and Armored Jumpsuit) now playable.
+Fedora Hat now playable.
+Raul's Hat now playable.
+Gladiator Armor now also covers eyeglass slot.
+Chinese Stealth suit now has FO3-style stealth field, value and health hugely increased.
+New generic Petro-Chico jumpsuit added to loot lists.
+
+NPC classes
+Doctors now sell much more stuff.
+Bartenders now also sell clothing.
+Mechanics now hve Repair tag skill, not Lockpicking.
+Gun Merchants sell misc items.
+Addicts enable to sell chems.
+Veronica's tag skills move science to #1 position, her STR and AGL increased from 7/7 to 10/10.
+Adventurer Vendors now sell misc items and do repairs.
+Travelling merchants now do repairs.
+Raul now always repairs, his STR/PER/AGL increased from 6/6/8 to 10/10/10
+
+Containers and Merchant Inventories
+Huge numbers of items added to various miscellabous containers, including chances of:
+schematics
+skill books
+magazines
+weapon mods
+
+Creatures
+Numerous changes to animal factions and agressiveness.
+Dogs no longer in AnimalFriendFaction, look nastier, hev better AI for hunting behaviors.
+Rex is now pretty much toothless: added to AnimalFriendFaction, combat skill increased from 60 to 100, STR/PER from 6/8 to 9/10, his DT *decreased* from 10 to 2, damage inflicted *decreased* from 30 to 5.
+Ravens now preferentially look for human flesh :).
+Feral Ghouls wearing jumpsuits now have jumpsuit in loot.
+
+Dialog
+Some fixes to NPC passing comments regarding Primm
+Doctor dialogs changed to include new Primm doctor.
+Lorenzo in Hidden Valley will do repairs.
+
+Object Effects
+Stun grenades now also paralyse, in addition to stun effect.
+Gas grenades now create a poison gas cloud, have nastier explosions.
+
+Factions
+Numerous changes to who's in what factions, and relations between factions.
+NCR Faction now enemies with various wastelasn critters, like rats, scorpions, geckos, lakelurks.
+Great Khans no longer enemies of NCR.
+Primm residents now enemies of bloatflys and geckos.
+Dogs now enemies of lots of other creatures, such as ghouls, supermutantsm robots, raiders, etc. Basically they now go after everyone, it seems.
+Mojave Civilians now enemies of creatures, powder gangers, and jackals.
+Vipers and Jackals now attack lots of creatures on sight.
+Mojave Mercenaties now allies of Novac/Primm/188, enemies of ghouls, supermutants, creatures, fiends.
+
+Game Settings
+Max level upped to 99.
+
+Leveled Items
+Numerous changes to level lists, mostly adding new loot, including a few unbalancing ones:
+Skill books now buyable at vendors, at cost of 50 caps base.
+Holy Frag grenades can be found in loot.
+
+Misc Items
+Numerous weight changes, most reasonable reductions and giving some weight to 0 weight items.
+Poweder, primer, and cases now have weight.
+
+Notes
+Lots of fun new notes (junk mail, love letters) added to mailboxes.
+
+NPCs
+Numerous NPC changes, including voices, inventories, and AI packages.
+* Companions level up at 1.0x player level (not 0.75 as in last official patch), max level 99.
+Chris Haversham now has Novac work/sleep AI.
+* Boone has some AI removed.
+Boone has numerous perks that make him more deadly: Dukov sharpshooter, Finesse, and Perception bobble.
+Residents of various places (Primm, Goodsprings) now have vastly increased AI, including putting on nighties to go to bed, eating breakfast, finding weapons and ammo and clothes.
+NCR Troopers have enchanced assualt and guard AI.
+All legionaries have Legion Ears as death items.
+Doctor Michelle Lee added to Primm.
+
+AI Packages
+Nost NPCs put on nightwear before sleeping.
+Most NPCs restore health after sleeping
+NPCs actaully use food to eat.
+
+Quest
+Fixes for VMS02 'I fought the Law'
+
+Weapons
+* Sniper Rifle damage restored to 62, not 42 as changed in last official patch.
+Sniper Rifle does a Miss Foutune kncokdown on critical.
+Boone's Scoped hunting rifle now playable, has scope, cases head explosion on critical.
+Binoculars always have Rex' 'search and mark' ability.
+Gas Grenades cause paralysis.
+Miss Fortune's Bad Luck Bringer damge now 25, not 10.
+WeapKnifeAssassin name changed from 'Combat Knife' (one of many) to 'Assassin Knife', abd given poison effect. (NOTE: poison effect fails to work in my game, says 'cannot be applied to thrown object'.)
+Gobi Campaign Scout Rifle now has nightvision scope.
+Incendiary Grenade criticals now same as flamer crits, rather than plasma gooification.
+Stun Grenade criticals cause Mezz effect rather than plasma gooification.
+Holy Frag Grenade crits cause MissFortune BlowUp effect.
+Stun Baton crits cause Mezz effect rather than Flamer effect.
+
+Cells and Worldspaces
+Numerous changes, have not examined in detail.
+Numerous navmesh changes; seem to be majority of changes.
+
+
+(Kudos to GalenZ @ Newvegasnexus for this description)

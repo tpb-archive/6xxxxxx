@@ -1,0 +1,239 @@
+User Type,Username,Date,Text
+,egervari,2011-01-20T04:58Z,"Can I get this to work while being connected to the internet? With other dlc packs, the game reports that the dlc's haven't been authorized if I run the game while being connected to the internet... but everything works fine if I am not connected. Anyway to change this? "
+,tyrune18,2011-01-20T10:11Z,"@egervari
+Honestly, following my instructions precisely means that I can play the game with all DLCs installed perfectly while being connected to the internet. I tested it several times, so I have no idea why you can't be connected to the internet when you run the game. All the advice I can give you is to do a clean install of ME2 and make sure you perform step 5 of the instructions before you install any DLCs. Other than that I haven't got a clue what the problem may be...
+Hope this helps."
+,egervari,2011-01-20T11:55Z,"Actually, I figured it out. giveme2entitlements_v2.exe does not work if you have more than 1 internet connection or are using a pppoe connection (common for dsl). It selects the wrong network adapter by default, so that is why is doesn't work. I found a file called MassEffect2DLCUnlockerGUI.exe which does the same thing, but you can select the network adapter before it applies the fix to that .ini file. Too bad you didn't also include this file :( If you do a google search, a guy named inatan or something made it."
+,tyrune18,2011-01-20T14:46Z,"@egervari
+Great job figuring out the problem. You have my thanks.
+
+So, all the people that can't be connected to the internet when running the game just have to download the ""MassEffect2DLCUnlockerGUI.exe"" file and run it instead of the ""giveme2entitlements_v2.exe"" file. The file can easily be found on google."
+,Xplinter,2011-01-20T18:23Z,"Thank you for the update, i will try to make it work this time."
+,Xplinter,2011-01-21T17:43Z,"It worked perfectly!!! Thank you very much.
+
+It took me a lot of time to install but it was totally worth it, I now have all 20 DLC's installed.
+
+I also noticed that with your older torrent I had just installed 6 DLC's (including the Shadow Broker) but this torrent worked perfectly.
+
+Thank you!
+I will seed for a long time."
+,calin05,2011-01-22T19:23Z,"It is missing one DLC, the Firewalker Pack i didn't seen this DLC in the pack ! Also thanks for the update. I has searching for one torrent with all the ME 2 DLC . !"
+,tyrune18,2011-01-22T20:27Z,"@calin05
+The installation file for the firewalker pack is called ""ME2_Hammerhead.exe"", so it is definitely included in this DLC pack!"
+,calin05,2011-01-22T21:03Z,"When i installed the DLC with the armor and weapons not that with missions, and i activated them with giveme2entitlements_v2 and when i start the game it says that the dlc aren't authorized. Also i deactivated the 2 options in the Online menu in the game. !!
+
+Could you give me another activater ?"
+,newmouse,2011-01-22T23:15Z,"THankyou very much for a very well put together 
+collection & for arranging the Install Information here clearly @@@@"
+,tyrune18,2011-01-23T01:01Z,"@calin05
+You can find another activator if you google ""MassEffect2DLCUnlockerGUI"". Download that activator and try again.
+By the way, I already mentioned this in earlier comments, so please read those first before you bring up your problems... "
+,Szasz89,2011-01-24T22:29Z,"Somehow giveme2entitlements.exe and MassEffect2DLCUnlockerGUI.exe do not work for me. Both have some i/o File not found error and goes down like that nasty ""XY.exe has encountered  error and stops.""
+What could be the problem? Do they require .Net Framework or something?"
+,Szasz89,2011-01-24T22:57Z,As it turned out: yes. The unlockers need .Net Framework 3.5. Would have been nice to make a tool that does not have dependencies.
+,jcsj,2011-01-25T03:06Z,Collectors armor and weapons are broken for me. NSIS error. Is it just me or everyone else?
+,SakuRedux,2011-01-25T07:01Z,Does this cause any problems with the Steam version of the game? Using the Crack I mean. Don't really feel like redownloading if something gets fucked up :(
+,tyrune18,2011-01-25T10:30Z,"@SakuRedux
+I can't answer that seeing as I haven't tested it for steam, but you can always try: just backup the original file and you're safe...
+
+@jcsj 
+It's not everyone else! What is exactly the problem you're experiencing? Specify and I might be able to help..."
+,jcsj,2011-01-26T00:44Z,"@tyrune
+http://help.metacafe.com/images/client/troubleshooting/NSIS-error-message.jpg
+
+yeah, maybe my download has just been corrupted. I downloaded the collectors armor separately .
+
+The Overlord DLC included here is not compatible with my Vista 64-bit computer though, so I need to look for an alternative download again"
+,Sugram1,2011-01-26T20:12Z,"my ME2 is v  is Mass Effect 2 [PC ~ Multi6] (Razor1911) 1.02, after installing ME2 i copy'd crack to D:\Games\Mass Effect 2\Binaries\ & overwrite'd MassEffect2.exe & play'd the, finished the game 1 time i turned off Upload Gameplay & Login to EA Online"" option, when i click on ""giveme2entitlements.exe"" i get massage box (Overwrite ""c:\Users\Sugram\Documents\BioWare\Mass Effect 2\BIOGame\Config\BioPersistentEntitlementCache.ini""?) but before i got massage box what sayd cant find DLC folder but not whit same word i used so i grated DLC folder myself & new i got this massage box (Overwrite ""c:\Users\Sugram\Documents\BioWare\Mass Effect 2\BIOGame\Config\BioPersistentEntitlementCache.ini""?) if any1 know solution let my know :)"
+,Sugram1,2011-01-26T21:14Z,"@egervari this file did not work for my :( i have 3 connection 1 new adapter old1 fide 3 is a program for online play if u cant use online option cos game server check game legality, program name Tunggle, i used MassEffect2DLCUnlockerGUI.exe & cosed right adapter but same thing, install wont start :( "
+,Sugram1,2011-01-26T21:18Z,*old1 fried
+,tyrune18,2011-01-26T22:14Z,"@Sugram1
+You do realize that you first have to install the DLCs before you use the activator, right!?! There is nothing to activate if the DLCs are not yet installed (that's why it can't find the DLC folder). The activator ""giveme2entitlements"" doesn't install the DLCs for you: you have to do that manually by double clicking the other .exe files in the torrent....."
+,Sugram1,2011-01-26T22:21Z,"ok then i ask is ""giveme2entitlements_v2.exe"" activator? if YES then i'm dumb XD cos i think it is file what installa all DLC file XD"
+,tyrune18,2011-01-26T23:03Z,"@Sugram1
+YES, the giveme2entitlements_v2.exe file is the activator and it does NOT install the DLCs!!! You should run this file only AFTER you have installed the individual DLCs. The individual DLCs are installed by double clicking all the other files in the torrent (such as ME2_AegisPack.exe, ME2_Hammerhead.exe, ME2_Sentry.exe, etcetera).
+I can't make it any clearer than this. Next time READ the instructions better!"
+,Sugram1,2011-01-27T00:12Z,"ok then i make it short, i mis misunderstood instruction lol
+
+for fista users, if u have problems whit DLC install, i hade & figure it out 
+
+if u have folder for games only check security options bi clicking  left mouse button then chose properties & then security if full control is not marked change it, & if u have problems whit Activator left mouse button click & properties u see 2 options hide & read only, below u see TXT blocked for security reasons cos this file comes from another PC, if u see this TXT then u cant use the Activator, right from that TXT is button is UNLOCK, u know what u must do whit that button i think :)"
+,Sugram1,2011-01-27T00:17Z,"forgot to say it works, & giveme2entitlements_v2.exe file works to, but i hade to install DLC on safe mode cos if DLC or patch file is ower 400m my install gets stuck & if i cancel that proses my hole PC crashes, reson, windows defender, cos it scans awry move u make, u cant see it but it scans, it is a real big windows flaw, that i call it a flaw is my personal opinion :) "
+,Sugram1,2011-01-27T00:24Z,"i meant over 400MB, i think bi writhing about my problems helps others, cos new u can reed waht problems u mite get whit DLC'S in vista :)"
+,apirateslifeforme,2011-01-28T21:23Z,"Started DL
+I am running ME2 fine from G4TW(4GB)
+hope DLC is compatible "
+,rafex987,2011-01-31T03:38Z,"Could you please do this pack for xbox 360? can't find one for xbox anywhere :(
+thanks"
+,grin321,2011-02-01T18:37Z,Works perfectly! Awesome job!
+,Ryyva,2011-02-05T21:50Z,"Probably a stupid question but if I have a retail copy if the game do I still NEED to use the crack?
+Thanks."
+,tyrune18,2011-02-06T10:58Z,"@Ryyva
+In that case I don't think you have to use the crack. If it gives you problems though you can always apply it anyway..."
+,Ryyva,2011-02-06T22:46Z,"@ tyrune18
+
+OK, I have tested everything for about 24 hours. If you own the retail copy (Physical copy, not sure of DL'd ones) you don't need the crack. Also, you can play while logged in to Bioware and lastly, great torrent, 100% legit and very easy to use. (Coming from me that means a lot, I've only DL'd 3 files including this one and had zero problems). I will definitely seed and thanks!"
+,Celsius1379,2011-02-07T21:37Z,"Hi 
+everytime I install it precisely using the instructions, it all works except ME2_Zaeed. It installs correctly but even after activationg the dlc it says that it is unauthorised DLC when I start the game. Other DLCs work. Please HELP. I have been working on it past two days without succes."
+,Sugram1,2011-02-08T04:05Z,"@Celsius1379
+
+no ID what problem u have cos for my all DLC seem to work, et least no massage what says unauthorised DLC or any errors, if nothing works download new ME2 copy of the game from  Razor1911, i have Razor's copy & this DLC works whit Razor's copy
+
+http://thepiratebay.org/torrent/5299647"
+,Boudewijns,2011-02-12T23:20Z,"well i didnt use the dlc from this torrent but i can say if u do as it says it wil work, and i used the game i bought in store (collector edition)"
+,tallmont,2011-02-13T02:18Z,"I am having a trouble with this torrent. when I double click on any of the donwloaded files (even readme) my PC freezes.
+
+dont know why. I use win XP. ca u help tyrune?"
+,Junglist33,2011-02-13T11:22Z,Works like a charm! Thx for the upload mate
+,Boudewijns,2011-02-13T17:39Z,"hey tyrune18
+
+ne chance u put Overloard here to?"
+,Boudewijns,2011-02-13T17:40Z,"tallmont
+
+w"
+,Sugram1,2011-02-13T19:04Z,"@Boudewijns
+
+tyrune18 has all DLC + some add ons, i have not noticed anything missing :) i use this pack & can confirm that hi has Overloard, & if u read hi has list above here, if u read TXT above :)"
+,Boudewijns,2011-02-13T20:25Z,i forgot to dl overlord ^^
+,telesien,2011-02-15T20:55Z,"I have the same problem as Celsius1379. Everything works except Zaeed, that is unable to get authorized..."
+,telesien,2011-02-15T21:17Z,"OK, Zaeed problem solved!
+
+A/ no matter what, you must be connected to internet to authorize it. Once is enough, it will work from now on
+
+B/ if you already are connected, check windows/system32/ets/hosts file it looks like you can have some other lines besides 127.0.0.1 localhost (like 127.0.0.1 ubisoft-orbit-savegames.s3.amazonaws.com). Delete them all except the localhost one."
+,tyrune18,2011-02-16T15:29Z,"@tallmont
+Sounds like there is a problem with your system because I doubt that all files in the torrent were corrupted during download. I recommend you do a thorough check for virusses and if that doesn't work you can always reformat your computer... (maybe a bit tedious, but it will certainly solve your problems)"
+,Sugram1,2011-02-17T13:35Z,"@tyrune18
+
+i'm not sure dose hi has virus but it is good ID yes if hi scans his PC but it mith be also some software or hard ware fault, it mite have conflict whit something in DLC, in my life i have sen real'y weird stuff happening whit PC, sometimes the problem mite be what u least expect,example, like sometimes when i started PC then i cant start game, i get some error massage & all games, after restart all is ok but it is not awry day like this :) it mite be even something in security settings what coses his problem any security settings, i mean windows security settings game folder security settings or firewall, there is many possibility's "
+,topstarterRHP,2011-02-19T18:00Z,"I'm having problems with some of the DLC's. Actually the ones that seem to install in the folder ""DLC_UNC_Pack01"" are not showing in the game. I don't receive a message in my terminal, nothing. The entitlement .exe identifies that folder as: ""Nadzorca (DLC_UNC_Pack01)"" so it IS identified which means that it is correctly installed I guess. The following is a list of the DLC's that go into the folder ""Pack01"" and those are the ones that are not showing in my game:
+-ME2_AegisPack
+-ME2_AltAppearance1-1
+-ME2_CerberusArc
+-ME2_CerberusWpnArmor
+-ME2_FirepowerPack
+-ME2_Hammerhead
+-ME2_Overlord
+
+The rest are ALL working even the Shadow Broker one. Only those on the top that seem to be all located in the ""DLC_UNC_Pack01"" are not working for me. Any help would be really appreciated."
+,topstarterRHP,2011-02-19T18:04Z,"I'm having problems with some of the DLC's. Actually the ones that seem to install in the folder ""DLC_UNC_Pack01"" are not showing in the game. I don't receive a message in my terminal, nothing. The entitlement .exe identifies that folder as: ""Nadzorca (DLC_UNC_Pack01)"" so it IS identified which means that it is correctly installed I guess. The following is a list of the DLC's that go into the folder ""Pack01"" and those are the ones that are not showing in my game:
+-ME2_AegisPack
+-ME2_AltAppearance1-1
+-ME2_CerberusArc
+-ME2_CerberusWpnArmor
+-ME2_FirepowerPack
+-ME2_Hammerhead
+-ME2_Overlord
+
+The rest are ALL working even the Shadow Broker one. Only those on the top that seem to be all located in the ""DLC_UNC_Pack01"" are not working for me. Any help would be really appreciated."
+,topstarterRHP,2011-02-20T19:14Z,"Never mind. All the DLCs are working now. My problem was a compatibility issue. I'm running Windows 7 Home Premium 64-bit and the DLCs listed above needed their executables to run in compatibility mode with another system. Don't ask me why. So I just went to properties and changed them to be compatible with ""Windows Vista"", then ""Run as Administrator"" and they installed to the right path, not the same folder Pack01 but each one created a new folder which is the way it should be. So anyone having the same problem you know what to do now.
+
+By the way what do you guys think about the hammerhead. Everyone (almost) hates it in the Bioware forums. I think that if improved a little bit more it could offer a fun time in ME3. I wonder if I'm the only one who doesn't miss the Mako from ME1."
+,Sugram1,2011-02-25T15:07Z,"@tyrune18
+
+ur missing 2 DLC 
+Project Firewalker & Alternate Appearance Pack 2"
+,tyrune18,2011-02-26T10:42Z,"@Sugram1
+
+No, I'm missing only one. Project Firewalker is included in this torrent under the name ""ME2_Hammerhead"". You're right about Alternate Appearance Pack 2 though... It is not included in this torrent, but you can download that one separately here:
+
+http://thepiratebay.org/torrent/6161393/Mass_Effect_2_DLC_-_Alternate_Appearance_Pack_2
+
+I will update this torrent when there is another major DLC release. I don't think an alternate appearance pack warrants updating this torrent. Until then, sit tight!"
+,MBHunter,2011-02-26T13:23Z,"Dear tyrune18!
+Can u upload only that activator? :) Or give the url for the newest version? ;)"
+,MBHunter,2011-02-26T13:24Z,"Oh, one more thing - I have an oryginal version of ME2 without any DLCs inside. Something could happen when I install this ""borrowed"" DLCs? ;)"
+,tyrune18,2011-02-28T14:57Z,"@MBHunter
+You can easily download the activator separately using this torrent. Just download and open this torrent and then specify in you bittorrent client what files included in the torrent you want to download and what files you don't. In your case, just select the activator and deselect everything else. That should work fine. I'm afraid I can't tell you exactly how to do it because the procedure depends on your bittorrent client, but it should be very easy to find out. I trust you can figure it out...
+Regarding the fact that you use an original version of ME2: don't worry about it, as long as you follow the instructions precisely you should be fine..."
+,Sugram1,2011-02-28T16:45Z,"@tyrune18
+
+ok but Project Firewalker seems to be not working cos i wont get the mail nor quest, i was read from wiki that i shod get it like Overlord quest, i get mail & if i read mail i get the quest but i have never have gotten Firewalker mail from Cerberus, or i need to do something to get the quest?"
+,tyrune18,2011-03-01T21:08Z,"@Sugram1 
+You should indeed receive a message on Shepard's private terminal concerning the Firewalker pack when you have installed the DLC correctly. As that doesn't happen in your case, I suggest that you first check whether the files are correctly installed. You do this by opening your ME2 directory, then you go in the ""BioGame"" folder and then in the ""DLC"" folder. In this folder there should be one folder for every installed DLC. The folder for the Firewalker pack is called ""DLC_UNC_Hammer01"". If you can't find this folder it means that the DLC is not installed. In any case, try installing the DLC again (when all fails use Vista compatibility mode when running the installer) and run the activator once more. If that doesn't solve your problems I don't know what will...
+
+Good luck!"
+,Sugram1,2011-03-04T00:11Z,"@tyrune18
+
+i will when i get time, i'm making a pause from ME currently :D i play'd 2 much, 4 or 5 chars whit out pause LOL i got tired :D"
+,dou32,2011-03-05T01:37Z,"HOLY CRAP
+
+why is everyone posting so many torrents for Mass Effect 2.
+
+IMO, mass effect 1 is better, and no one has a download for the DLC for that game.  If someone can get a torrent for it, please post it."
+,iamnohippie,2011-03-07T08:02Z,"The DLC's are not successfully installing for me. I am on Windows 7 home premium 64-bit, and am having the problem with ""the following downloadeable content is corrupt"" message, which renders all but three of the content packs disabled.
+
+I have discovered that it is simply due to there being absolutely no files in the folders for each DLC. i have looked, and only three of them actually contain files, the rest are blank folder, and there should be more folders in the first place.
+
+I have tried all of the compatibility modes and running it as administrator. I have tried different variations on installing each DLC. I have tried manually making sure that every single folder in the game directory is directly privelaged to my account, and every other account. I have made sure the files are not read only. I have tried disabling all forms of anti-malware on my computer.
+
+The installer for the DLC pack gets to the part where it says ""executing commands."" The bar continues to move for a little bit, and the computer thinks for a moment. After a few seconds it says setup was complete, despite the bar only being 1/3 of the way to comlpetion.
+
+Suggestions?"
+,hamazan,2011-03-10T09:17Z,iamnohippe-have you checked your files with your torrent program to ensure your download itself is not corrupt?  I am using Windows 7 Home Premium 64 bit and everything installed and worked perfect.
+,Dopoush,2011-03-14T15:50Z,"I thought I would share my experience with this torrent, and installing the DLC. Not only to hopefully help others, but to give back for such a great upload. First ... 
+
+Windows 7 64 Bit edition (So yes, it does work on this platform)
+
+Second, the read me was backwards for me. It said to patch this game, drop the crack, then install the DLC. Using this method however, ended up in me getting wrong CD key code errors when trying to start the game. By patching, installing the DLC, then dropping the crack in, it fixed this for me. 
+
+Lastly, I used http://thepiratebay.org/torrent/5354755/Mass_Effect_2_%5BFULL%5D___Games4theworld__ this torrent, instead of the 13+ gig Mass Effect 2 torrent. This is the same game, just with all languages stripped out other then English. Yes, the huge gigabyte difference is all in the dropping of the multiple language audio files.
+
+Side note: Anyone saying ""Key-logger"" or that their virus scanner picks this up as a ""Trojan"" or any such nonsense is completely wrong. It is common knowledge that anti-virus pick up many programs made to help crack or pirate software as harmful for your computer. Being a computer nerd myself I can guarantee you this torrent is not only 100% safe, but the best on the Pirate bay for ME2 DLC.
+
+Thanks uploader, I will see for a long time to come."
+,ffinfinity1,2011-03-15T02:03Z,"Thanks this DLC works like a charm, at first i was having problems getting the Project Overlord and Firewalker to work. I saw Overlord in the Galaxy but i couldnt land on the planet. As for Firewalker the Msg simply never popped up. All i did was use the Crack that was included with this DLC pack and it all worked fine. I don't know why only those were effected but ok."
+,Lobotomite,2011-03-18T18:19Z,thank you :) much appreciated 
+,ncc46537,2011-03-24T12:12Z,"@dou32,
+There are only two DLCs for ME1.
+They are both available.
+
+http://thepiratebay.org/torrent/5182853/Mass_Effect__Pinnacle_Station
+
+http://thepiratebay.org/torrent/4764439/Mass_Effect_1.01a___Bring_Down_The_Sky_NO-DVD_"
+,Blazer0037,2011-03-26T02:06Z,"I'm kind of new to the whole torrenting deal but anyways.  I installed all this and was able to play just fine till I logged out.  I logged in later in the day to have the game tell me that every single one of the DLC are unauthorized, no matter what I do I can't use them, any suggestions?"
+,Blazer0037,2011-03-26T02:17Z,"Okay, so I tried the fix on the first page and my game is working again.  However when I go to my galaxy map I see nothing for Overlord or the Shadow Broker, do I have to be a certain point in the game or did I install wrong?"
+,pathless,2011-03-29T21:31Z,"Wow this is awesome, getting between 850-950K for this, not taking all the files, but will be seeding what I took for a while, thanks tyrune."
+,IZZY-E,2011-03-30T01:03Z,Awesome upload with very easy straight forward installation. Thanx buddy keep it coming!!
+,BelialArchitect,2011-04-08T08:27Z,"I never comment on torrent files. But I'll make exception because this is ONE FREAKING AWESOME torrent. your legend tyune18, simple and easy install and working perfectly. Thanks again mate.   "
+,tyrune18,2011-04-09T12:45Z,"@BelialArchitect
+You're quite welcome!"
+,IgotNoPatience,2011-04-10T00:10Z,"For some reason i can't install following DLC's:
+Kasumi
+Overlord
+Hammerhead
+Zaeed
+
+The rest installs quite nicely though. Problem is, when i start the .exe i get ""verifying installer"" and then nothing happens. I can see the process active in the task bar, but nothing is happening."
+,tyrune18,2011-04-10T13:42Z,"@IgotNoPatience
+The DLCs that are not working for you are coincidentally the larger ones. Due to their larger file size they might take a few minutes longer to load depending on your pc specs. I'm afraid I can't do anything about this because this is just how BioWare programmed the DLC files. Just try again and let them load for a while, they will work eventually..."
+,tyrune18,2011-04-10T13:52Z,"By the way, for those of you interested, I have uploaded a new torrent that includes all the DLCs of this torrent as well as the final two DLCs released by BioWare (Alternate Appearance Pack 2 & Arrival). You can find the new torrent here:
+
+http://thepiratebay.org/torrent/6280870/Mass_Effect_2_DLC_Pack_Complete_[tyrune18]
+
+To be clear, this new torrent includes all the DLCs that have been and ever will be released for ME2 (22 in total)! This is because BioWare has announced they will not be releasing anymore content for ME2 unfortunately..."
+,CrxSi,2011-05-21T23:27Z,"Thanks for the upload, so far they all work good for me except the one for Shadow Broker. I can get to the part where you chase Vasir with the skycar but when the screen loads for the chase it's just flashing lights and I can't see anything.  Any suggestions? Read through the comments and haven't seen this issue come up.. "
+,Koyo123,2011-06-03T17:15Z,"I don't usually comment on torrents, but I wanted to thank you, tyrune18, for this huge time-saver."
+,hellboy17,2011-06-13T19:46Z,"i've installed the mass eefect 2 razor 1911 relase,
+than do anything what was in the description,
+but when i run the game it says i have to login to the cerberus network to active the dlcs.
+Please help someone!!!"
+,AllyS01,2011-06-30T19:26Z,"I have the same problem as hellboy17. I have mass effect 2 after razor1911 release too.
+Can somebody help please ?"
+,lawlessgimp,2011-07-07T15:28Z,everytime i click on the masseffect2.exe it says the application has failed to start because the nvtt.dll was not found..... Is there a different way i'm supposed to run this exe or am i just an idiot... btw i've been reading the comments and it doesn't look like anyone had this issue 
+,C00L_PaPa_G,2011-08-05T07:35Z,"I know this is a stupid question, but if I download this, can I use it on the retail version of Mass Effect 2?"
+,hotshot1o2o3o,2011-08-22T02:27Z,"Help Please
+The problem I am having is with the givemeentitlements_v2.exe. The comand prompt shows up and runs thru like normal,
+until the last line reads ""Saving BioPersistentEntitlementCache.ini..."" Once it reaches that line an error message pops up,
+which displays ""Could not get adapter entropy.""
+So if any has had this problem and knows of a way to solve it would be great if you could help me out with it."
+,Trevor9250,2011-12-18T19:49Z,"yah i have the retail version too, can i get free dlc any were?"
+,jordarandrake,2012-01-30T14:02Z,"@hotshot1o2o3o
+
+Thanks
+
+For ppl who are receiving the following error message ""Could not get adapter entropy"" or the giveme2entitlements/MassEffect2DLCUnlocker keeps crashing you should have a LAN card on your PC.
+
+The DLCs and crack exes worked fine right after I installed a LAN card, or re enable in BIOS if disabled.
+
+Thanks again for this awesome Torrent."

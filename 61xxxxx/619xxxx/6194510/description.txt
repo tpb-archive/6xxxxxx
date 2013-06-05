@@ -1,0 +1,34 @@
+Top Gear Season 16 Episodes 04 & 05 720p HDTV x264 & AC3 5.1 384kbps [FoV]
+
+Screenshots: 
+http://www.imgden.com/10717/Top.Gear.16x04.720p.HDTV.x264-FoV.mkv.jpg 
+http://www.imgden.com/10908/Top.Gear.16x05.720p.HDTV.x264-FoV.mkv.jpg
+
+
+I got fed up with this audio issue with MKV2VOB v2.4.9 3r1c.
+
+Gotsent sucks, it makes the audio stereo and it sounds very subpar.
+
+So, last night I had enough and did not go to sleep until I figured it out.
+
+I read up on audio headers then I separated (demuxed) the video (h264) and audio (ac3)
+and began doing some forensic analysis on the ac3 audio.  Many programs got confused while trying to open this file, some reported it as stereo, some as 5.1 dolby digital.
+
+I tried many things, including extracting all 6 audio channels and resampling the audio then muxing it back into an AC3 file and trick the header.
+
+Then I figured it out.
+
+What's happening is when FOV is recording and editing these episodes he's unintentionally leaving around 200 milliseconds (blank screen) from the previous show that was on BBC.
+And guess what, that previous program was stereo in lieu of 5.1 DD.
+
+So what you have is an audio file that starts out stereo and switches to 5.1 DD, thus causing things to wrong.
+
+I've successfully fixed episode 4 & 5.
+I've still got to do episode 2 (this was also a FOV release)
+
+Once done, I will put all three in a torrent and put up a link for those PS3ms users that are interested.
+
+Additionally, I'll be poised to correct the issue should it also occur for episode 6.
+
+Cheers,
+Ant

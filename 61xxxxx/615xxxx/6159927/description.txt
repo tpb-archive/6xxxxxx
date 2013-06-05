@@ -1,0 +1,14 @@
+Searchdaimon dataset: Wikipediadoc
+
+This dataset consist of 67 537 Wikipedia articles converted to Word format. The data set was made by parsing an xml database dump of Wikipedia and converting it to individual html files. Each html files was then open in Microsoft Word 2002 (Office XP), so saved by Word as .doc .
+
+At Searchdaimon we use this as standard reference and test data to evaluate performance of our enterprise search technology.
+
+Data dump files used: pages-articles.xml.bz2
+Data made: 18.June 2005
+ 
+
+
+The dataset is multi-licensed under the Creative Commons Attribution-ShareAlike 3.0 License (CC-BY-SA) and the GNU Free Documentation License (GFDL). A newer version of this dataset may be available free of charge at http://www.searchdaimon.com/download/ . Newer XML database dumps from Wikipedia can be downloaded from http://en.wikipedia.org/wiki/Wikipedia:Database_download .
+ 
+For more information please visit http://www.searchdaimon.com/ or contact Runar Buvik by email  [rb at searchdaimon dot com].

@@ -1,0 +1,27 @@
+cFosSpeed - Internet Acceleration with Traffic Shaping and bandwidth management. Ping optimizer + packet prioritization.
+
+Maximum Download & Minimum Ping. For DSL, ADSL, VDSL, Cable, Modem, ISDN, Mobile (GSM, GPRS, HSCSD, UMTS, HSDPA), Filesharing (P2P), Online Games, VoIP, Streaming Media and Tuning
+
+Your computer will run smoother than ever when using cFosSpeed!
+
+Here are some key features of "cFosSpeed":
+
+Â· Free configurable Prioritization
+Â· self-calibrating
+Â· Layer-7 Analysis
+Â· Firewall
+Â· automatic router detection
+Â· optimal Dial-Up connections
+Â· VPN - WLAN - WiFi - MTU-Optimization
+Â· Multi User Features
+Â· broadband limits
+
+
+What's New in This Release: 
+
+Â· cFosSpeed now features packet loss avoidance. Some Internet connections
+Â· have a very small packet buffer for incoming data. This buffer is quickly
+Â· overrun when too much data is received, leading to packet loss. The packet
+Â· loss is then detected by the sending TCP and the rate of transmission is lowered. Nevertheless, this leads to higher ping times and packet loss for all data received, even UDP data used for Gaming or VoIP. Tests show that the packet loss rate can be as high as 5%.
+Â· Now cFosSpeed detects this packet loss in TCP streams and keeps the streams from sending too much data. This avoids packet loss, leading to much lower loss rates, fewer SACKs and sometimes much better throughput. The feature is on by default, but can be switched off by setting "spd gset avoid_loss 0 -save" or switching off "Packet loss avoidance" under Options, Settings, Preferences.
+Â· New parameters to set the desired ping delays in both directions: tx_delay, tx_width, rx_delay and rx_width. cFos...

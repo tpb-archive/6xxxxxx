@@ -1,0 +1,13 @@
+Are you sick and tired of trying to figure out how to convert .mkv files with h264 video into a file compatible with your XBOX 360, or getting a 3rd party streaming video application to work? If you want to watch 720p or 1080p HD h264 videos in an MKV container on your 360 then this is probably for you.
+
+I have created a ThinApp package that includes all the software needed for GOTSent to convert it painlessly - AC3Filter, Haali Media Splitter (for mkv support), and NERO AAC encoders.
+
+This package has only one function: To convert an mkv container file with h264 video and ac3/mp3 audio, into an mp4 container file with h264 video and aac audio which is compatible with the XBOX 360.
+
+There is no actual video re-encoding, only audio re-encoding, because the h264 video codec only needs to be transferred to an mp4 container. Conversion is extremely fast. I have a Core2Duo 3.0 GHz E8400 with 4 GBs of RAM, and conversion of a 558 MB video file takes 1:23 on my machine (that's 1 minute and 23 seconds).
+
+The use of the application is about as easy as it gets. Choose the file to convert, choose the output directory, and click Convert. None of the other options are necessary. During the process, if you see the application title bar show (Not Responding), ignore it, nothing is wrong, let it finish.
+
+I built this in a Windows XP SP2 virtual machine and tested it on Windows 7 x64. Sorry if it doesn't work for you.
+
+The file is in 7z format so you will need 7-zip to extract it.

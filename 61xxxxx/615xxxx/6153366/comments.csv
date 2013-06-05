@@ -1,0 +1,7 @@
+User Type,Username,Date,Text
+,Killer Death,2011-04-23T13:22Z,"A very good search tool.  If you are not able to search a scecific volume by right clicking a volume, this problem is caused by CommandLineToArgvW converting the trailing \ into a ""    
+
+* Click Start -> Run.
+    * Enter Regedit.
+    * Open HKEY_CLASSES_ROOT\Folder\shell\Search Everything...\command
+    * Remove the trailing "" from the (Default) value. "

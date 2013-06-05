@@ -1,0 +1,24 @@
+Led Zeppelin IV (1971)
+
+Lineage: Classic Records SD 7208-A1/A2/B1/B2 45 > VPI Aries II Extended with SDS/ JWM-12.6 / Lyra Titan > 
+Zoom H4 @ 24bit/96kHz via external mic inputs > RIAA correction with Sox 14.3.0 > 
+minor click removal with Click Repair 3.0 > fades, normalization, and splitting with WaveLab 5 > to FLAC with dbPowerAmp
+
+Tracklist:
+
+01 Black Dog.flac
+02 Rock and Roll.flac
+03 The Battle of Evermore.flac
+04 Stairway to Heaven.flac
+05 Misty Mountain Hop.flac
+06 Four Sticks.flac
+07 Going to California.flac
+08 When the Levee Breaks.flac
+
+From Classic Records 45 RPM Led Zeppelin box, recorded and presented here as 24/96 FLACs. 
+You will need to resample these files to create an audio CD. Here's an example of a sox command to do this:
+sox "01 Black Dog.wav" -b 16 "441/01 Black Dog.wav" rate -s -a 44100 dither -s
+This creates a 16/44.1 WAV in a subfolder called 441.  
+http://sox.sourceforge.net/
+
+600DPI scans of the front, back, gatefold, and insert artwork are included. 

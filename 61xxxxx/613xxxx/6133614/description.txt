@@ -1,0 +1,42 @@
+Crossover Pro 10.0 Retail | Mac Os X | 56 MB
+
+
+
+
+CrossOver allows you to install many popular Windows applications and games on Mac OS X. CrossOver includes an easy to use, single click interface, which makes installing Windows software simple and fast. Once installed, your application integrates seamlessly in OS X. Just click and run your application directly from the OS X Finder. Clicking a Windows file or document - including email attachments - will launch the appropriate Windows program, allowing you to work on the files. Best of all, you do it all easily and affordably, without needing a Microsoft operating system license.
+
+Adding new Windows software is easy. Just place your install CD in your Mac, and CrossOver will recognize it and offer to begin the installation process. CrossOver then completes the installation and configures your application to run on your Mac. That\\\'s all there is to it.
+CrossOver Mac will be the very best way to run your Windows applications on your Intel based Mac. It will let you install and run Windows programs as though they were native, all without having to buy or run a copy of Windows itself.
+
+
+
+
+
+
+
+â€œ	Version 10.0:
+Platform support:
+CrossOver Mac and CrossOver Games Mac no longer run on OS X 10.4 Tiger.
+The Mac product now uses modern (Leopard-era) GUI tools, which should improve the look and feel of quite a few things.
+Added localizations: German, Czech, Chinese (PRC), Brazilian Portuguese.
+CrossTie integration:
+.c4p files are renamed to .tie files (aka \\\'CrossTies\\\').
+The complete set of supported .tie profiles can now be automatically refreshed in the product.
+A disambiguation tool (cxtie on Linux and the \\\'CrossOver CrossTie Launcher\\\' on the Mac) has been added to properly direct .tie files to an appropriate product (CrossOver or CrossOver Games).
+Secure signing of .tie files is now supported.
+Active rejection of malicious .tie files is now supported.
+Many differences between the web-based .tie files and the .tie files that ship with CrossOver have been resolved.
+Installation profiles are now smarter about locating appropriate install media.
+The behavior of the installer assistant should generally be smoother, smarter, and more straightforward.
+CrossOver now supports \\\'required patches\\\' which are applied to an application automatically after installation.
+The mac product now responds to a custom URI that should greatly improve autoplay of CrossTie files from the website.
+CrossTie profiles respect bottle groups.
+GUI and System integration:
+The installer no longer accidentally grabs files from $HOME.
+Trace flags are functioning properly.
+Long CrossTie errors are cleaned up.
+Mac Menu Items are removed after uninstall of applications.
+Restored the \\\'Use Native Browser\\\' option that was present in CrossOver 8.x.
+Made several changes to the layout and graphical design.
+The \\\'Force Quit\\\' button in the bottle manager should work better.
+Fixed quite a few minor behavioral bugs.

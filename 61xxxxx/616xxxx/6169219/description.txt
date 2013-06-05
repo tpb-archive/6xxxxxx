@@ -1,0 +1,17 @@
+
+               WinRAR - What's new in the latest version
+
+
+  Version 4.00 beta 6
+
+  1. Bugs fixed:
+
+     a) "Use for all archives" option in the password dialog did not work
+        for several 7-Zip archives with encrypted file names;
+
+     b) "Rename" command could fail to rename archived folders with
+        non-English names in RAR archives created by old WinRAR versions;
+
+     c) when WinRAR was running in the background, its tray icon messages
+        were truncated if longer than 63 characters.
+

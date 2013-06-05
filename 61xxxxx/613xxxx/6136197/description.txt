@@ -1,0 +1,30 @@
+Civilization V v1.0.1.167 Update and Crack. DX9 & DX11 versions
+
+Cracked by 1stNoCd released via 3dmgame.
+
+
+1.0.1.167
+Released 1/20/2011
+[CRASHES]
+â€¢Dead interceptor crash fix (occurred frequently in late-game, usually on the AI turn)
+â€¢Movement limit crash fix (occurred when any high-movement unit, a gunship in this case, made use of the railroad bonus and moved beyond the engine visualization limits)
+â€¢Crash fix for diplo AI. When the player witnesses an AI leader buy a minor ally, and aggressively purchased them back, the game would eventually crash when the AI leader would correctly try to complain to you about it.
+â€¢The following crashes were all discovered via the Steam Crash Reporting system that Civilization V utilizes:
+â€¢Crash - pCitizens->GetCityPlotFromIndex(iPlotLoop); is returning NULL in the CvPlayer::DoRevolt loop.
+â€¢Crash - Occasionally strange values are sent to the movement cursor code. Wrap and clamp the values before they get to the pathfinder.
+â€¢Crash - Fix to divide by zero crash with AI buying plots.
+â€¢Crash - In RouteValid, the CvTacticalAnalysisMap cell thinks a plot is claimed, but the plot itself has no owner.
+â€¢Crash - Era out of bounds during a reload.
+â€¢Crash - During a resync, a crash happens when GameplayUnitCreated calls CvPlot::GetActiveFogOfWarMode apparently because the game's ActiveTeam is NO_TEAM (-1).
+
+[GAMEPLAY]
+â€¢Fix to Golden Age length (for Reformation policy with both the Persian trait and Chichen Itze)
+â€¢Corrected duration of golden ages generated from Taj Mahal and when a Persian player has Chichen Itza (Before the multiple 50% additions were "compounded" rather than added together into a 100% bonus.)
+
+[UI]
+â€¢Fix to blank science victory details screen
+
+
+Make sure that you install Update 6 from Skidrow First. (http://thepiratebay.org/torrent/6090486/Sid.Meiers.Civilization.V.Update.6-SKIDROW-%5Btracker.BTARENA.org%5D)
+
+Copy all the files in this directory into you Civilization Install Directory.

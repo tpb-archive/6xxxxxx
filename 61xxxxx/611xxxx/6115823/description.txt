@@ -1,0 +1,50 @@
+ Osmos - Linux version
+
+
+.: Recensione :.
+
+Premiato all'Independent Games Festival del 2009, Osmos Ã¨ un ampliamento esponenziale di quel genere di giochi in cui si impersona un essere unicellulare, ambientato in un mondo ostile dominato dalla legge naturale "mangia gli altri prima che loro mangino te".
+A prima vista potrebbe sembrare il solito gioco in cui la nostra cellulina Ã¨ libera di nuotare, sacrificando un po' della sua massa per spingersi "a reazione", e a noi sta controllarla in modo da mangiare le cellule piÃ¹ piccole ed evitare le piÃ¹ grandi per non essere assorbiti.
+Il gioco Ã¨ suddiviso in tre sezioni, ognuna molto particolare e dal gameplay che spazia dall'azione al puzzle, richiedendo attenzione, strategia e abilitÃ  al giocatore in una prova tutt'altro che facile. In ogni sezione ci sono diversi livelli e sottolivelli, ognuno dei quali richiede che venga completato il precedente per essere giocato; perÃ² si puÃ² avanzare nei livelli delle tre sezioni indipendentemente.
+
+C'Ã¨ la classica "lotta per la sopravvivenza" in cui bisogna assorbire gli organismi che vagano nel mondo fluido di Osmos, badando ad impedire che le cellule "ostili" (dotate di un'ottima IA) non diventino le piÃ¹ grandi della regione, rendendoci cosÃ¬ impossibile il loro assorbimento e facendoci anzi diventare il loro pasto.
+
+Poi c'Ã¨ la sezione che ricorda, nello stile, il puzzle Qui ogni livello inizia con la nostra cellulina piccolissima immersa in un mondo quasi immobile in cui le altre "cellulone" dominano la scena. Bisogna fare un attentissimo uso delle abilitÃ  di accelerare/rallentare il tempo per fare spostamenti con precisione chirurgica e bilanciare le nostre perdite di massa con gli assorbimenti, destreggiarsi tra i minuscoli cunicoli che si aprono, spingere le altre cellule a mangiarsi l'una con l'altra... Un vero crivello.
+
+Seppur in tutto il gioco sia la fisica l'elemento centrale, nella parte della gravitÃ  essa diventa cruciale. Verremo proiettati in una sorta di sistema solare, dove una miriade di celluline roteano attorno ad un (e anche a due!) corpo centrale. Bilanciare le spinte per "catturare" le nostre prede durante il moto, evitando di finire assorbiti dal "sole" oppure proiettati al di fuori del suo campo attrattivo Ã¨ un'impresa tutt'altro che facile.
+
+L'esperienza di gioco Ã¨ innovativa, accattivante, rilassante e nevrotica al tempo stesso, Ã¨ molto godibile anche grazie alle azzeccatissime atmosfere elettroniche/ambient di Loscil, Gas/High Skies, Julien Neto, Biosphere e altri. L'atmosfera della tranquilla spietatezza "biologica" del mondo di Osmos Ã¨ caratterizzata da una splendida grafica e dagli ottimi effetti sonori.
+
+Chi non ha mai giocato a questo genere di giochi troverÃ  di certo piacevole l'esperienza di cominciare con Osmos, mentre chi Ã¨ giÃ  un abitueÃ© lo considererÃ  un gioiellino, da avere sullo scaffale. In ogni caso nella pagina dello sviluppatore sono disponibili la demo per Win, Mac e Linux.
+
+In questa versione completa, a differenza della demo:
+
+    * tutti i tipi di livelli, tutti i tipi di cellule, potenziamenti, puzzle; 47 livelli in tutto, piÃ¹ contenuti bonus
+    * generazione random di livelli di ogni tipo
+
+
+.: Scheda tecnica del Gioco :.
+
+Sistema operativo: GNU/Linux
+Dimensione: 77.7 MB (circa 50 MB installato)
+Versione: 1.6.0
+Lingua: menu in Italiano, Inglese, Francese e Spagnolo
+Genere: puzzle/azione/fisica
+Sviluppatore: Hemisphere Games
+Sito Ufficiale: http://www.hemispheregames.com
+Data di uscita: 18/08/2009
+
+
+.: Requisiti Minimi :.
+
+Processore: 1.0 GHz
+Memoria RAM: 512 MB
+Scheda grafica: qualsiasi purchÃ© supporti OpenGL
+Scheda sonora: qualsiasi purchÃ© supporti OpenAL
+
+
+.: Note di installazione :.
+
+E' sufficiente aprire gli archivi precompilati con un gestore di pacchetti (tipicamente Synaptic su sistemi basati su Debian). Potrebbe essere necessario avere i privilegi di root per effettuare l'installazione. Se la vostra distribuzione Linux utilizza un sistema di gestione di pacchetti basato su Debian e volete per qualche motivo utilizzare i pacchetti .rpm Ã¨ consigliato utilizzare l'applicazione alien per convertire i pacchetti in .deb piuttosto che bypassare il sistema di gestione dei pacchetti.
+
+Una volta installato il gioco dovrebbe partire senza problemi. Alcune difficoltÃ  si potrebbero incontrare se non avete installati i driver proprietari per la vostra scheda grafica oppure se avete il gestore grafico X e non avete attivato l'estensione glx.

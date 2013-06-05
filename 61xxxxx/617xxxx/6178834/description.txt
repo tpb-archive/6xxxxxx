@@ -1,0 +1,76 @@
+In deze torrent vind je de nieuwste versies van de OVChipkaart tools op 16-02.
+Instructies voor OVStation vind het op het OV-Chipkaart.org forum.
+
+Hieronder de instructies voor OVSaldo:
+
+Benodigdheden
+- RFID kaartlezer (http://www.touchatag.com/e-store)
+- Dit softwarepakket
+- Een OV-chipkaart
+- Een computer
+- Activerperl (Als je kaart een negatief saldo bevat): http://www.activestate.com/activeperl
+
+Voorwoord
+Er zijn twee manieren om de ov software te gebruiken.
+1. Een dump van je kaart maken met mfocGUI en dan vervolgens het bedrag op die dump aanpassen met ovsaldo.exe
+en dan de dump terug schrijven naar je kaart. Persoonlijk doe ik dit liever niet omdat
+ovsaldo.exe niet voldoende op je kaart aanpast waardoor de kans dat je geblokkeerd word door tls groter is.
+
+2. Een x bedrag op je kaart zetten bijvoorbeeld 20 euro een dump van je kaart maken met mfocGUI gaan reizen met het openbaarvervoer
+en als je kaart dan leeg is de originele dump weer terug zetten waardoor er weer 20 euro opstaat deze manier prefereer ik omdat je dan
+minder kans heb geblokkeerd te worden.
+
+Het stappenplan
+
+Stap 1
+Installeer eerst de software in de mappen C++ en libnfc 
+
+Stap 2
+Sluit de kaartlezer aan op de computer en plaats je (liefst anonieme) OV-chipkaart op de lezer.
+
+Stap 3 (Wil je manier 2 gebruiken sla dit dan over)
+Start de All-In-One tool in de map\\\\\\\\\\\\\\\'Snelle Hack\\\\\\\\\\\\\\\', klik op Lezen, pas het saldo aan en klik op schrijven, meer is er niet nodig. Als je liever niet met
+ovsaldo.exe werk en eigenlijk alleen een complete dump van je kaart wil maken ga dan door naar stap 4. (De All-In-One tool kraakt namelijk alleen
+maar het gedeelte waar het saldo staat dit is dus een onvolledige dump)
+
+Stap 4
+- Start het programma mfocGUI.exe (in de map mfocGUI_v17_Release_Compiled).
+- Zorg dat \\\\\\\\\\\\\\\"Dump to file\\\\\\\\\\\\\\\" en \\\\\\\\\\\\\\\"Read everything\\\\\\\\\\\\\\\" aangevinkt staan.
+- Klik op \\\\\\\\\\\\\\\"Read data (Reader)\\\\\\\\\\\\\\\", het programma gaat nu de sleutels kraken.
+- Dit proces duurt ongeveer een tot twee uur (afhankelijk van de snelheid van je computer).
+- Als dit correct verlopen is heb je een dumpfile (1 op 1 kopie van je ov-chipkaart).
+- Dees staat in de map mfocGUI_v17_Release_Compiled het is een bestand van 4k je moet dus niet een
+van de bestanden in de map keys hebben.
+
+Stap 5, alleen als mfocGUI een negatief saldo laat zien, heb je een nieuwe kaart? sla dit dan over!
+- Heeft je kaart een negatief saldo? met het script Positief.pl in de map [OV Negatief naar Positief] zet je
+ieder negatief saldo om in +0.76 cent positief
+ * Installeer activeperl
+ * Voer Positief.pl uit
+ * Volg de instructies
+
+Stap 6 (Wil je manier 2 gebruiken sla dit dan over)
+- Start het programma OVSaldo.exe (in de map \\\\\\\\\\\\\\\'Saldo Aanpassen\\\\\\\\\\\\\\\').
+- Klik op \\\\\\\\\\\\\\\"Open dump\\\\\\\\\\\\\\\" en open de zojuist gecreÃ«erde dumpfile.
+- Het bedrag verschijnt in het bovenste saldo vakje.
+- Verander het bedrag in beide saldo vakjes naar het gewenste bedrag en vink \\\\\\\\\\\\\\\"Wegschrijven\\\\\\\\\\\\\\\" aan bij beide vakjes
+(Pas op: maximum bedrag is 15000 (150 euro)).
+- Klik op opslaan en slecteer de locatie \\\\\\\\\\\\\\\'nfc-mfclassic gecomprimeerd\\\\\\\\\\\\\\\' in deze map,
+geef het bestand de naam dump.dump (bewaar de originele dumpfile zodat je  
+altijd weer terugkan naar het originele saldo)
+
+Stap 7
+!!! SCHRIJF DE DUMP NIET NAAR DE KAART MET DE OUDE VERSIE VAN mfocGUI !!!
+
+Ga naar de map \\\\\\\\\\\\\\\'nfc-mfclassic gecomprimeerd\\\\\\\\\\\\\\\' vink het vakje voor Key B aan en open
+bij de bovenste knop de originele dump (heb je ovsaldo.exe gebruikt om je saldo aan te passen
+voor die gemaakte dump dan in bij de onderste knop) zorg vervolgens dat je kaar op je rfid lezer ligt
+en klik op dump schrijven.
+
+Er zullen foutmeldingen komen, negeer deze.
+Haal nu de kaart van de lezer, het saldo is opgehoogd.
+
+De software om \\\\\\\\\\\\\\\"Virtueel in te checken\\\\\\\\\\\\\\\" is nu ook toegevoegd! Voor informatie over hoe deze te gebruiken is kijk je op het OV-Chipkaart.org forum.
+Met dank aan Kipje voor het publiceren van OVStation
+
+//EdoubleDee

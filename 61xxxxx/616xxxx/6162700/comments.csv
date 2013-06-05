@@ -1,0 +1,18 @@
+User Type,Username,Date,Text
+,prag16,2011-02-09T23:06Z,I've never downloaded anything but an iso before.  Any special instructions since this is a .wbfs file?
+,Zazn,2011-02-11T02:17Z,Haven't test it it yet (still downloading).  WBFS files you need to use a manager to put it on to your external USB hard drive or burn it to a disk.  Just google up WBFS manager and you should find a couple.
+,Zazn,2011-02-16T01:24Z,"Tested and it works.  What i did with the WBFS file was use ""Wii Backup Manager""
+
+First click on Drive 1 or Drive 2 and load your hard drive, then click on the file (first tab) and load your WBFS file.  Next, click transfer>Drive 1 (or drive 2 depending on which one you loaded on).  Done.
+
+If you want to burn to a disc, then load the WBFS file.  Then, click transfer and then ISO.  It should make you a ISO which you can burn.
+
+Thanks for the upload!"
+,TheColonel19,2011-02-16T20:32Z,works great thanks uploader
+,skadragon,2011-02-21T04:55Z,"To play WBFS files just put them in /wbfs/""GameTitle""/ on the root of the drive you use to play wii games. make sure the wbfs file is named only the the game title code eg. SKJE78.wbfs.
+
+eg.
+/wbfs/You Dont Know Jack [SKJE78]/SKJE78.wbfs
+
+Backup managers do this for you. but if it's already a wbfs file you can do it yourself. If you use Configurable USB Loader you should already have a /wbfs/ folder."
+,Powerslave0,2011-03-02T06:03Z,Can use wbfs to ISO program to convert it to a burnable ISO file.

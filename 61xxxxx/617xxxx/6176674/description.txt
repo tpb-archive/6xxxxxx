@@ -1,0 +1,14 @@
+SNES9x PS3 4.4.5 (FW 1.92+/FW 3.15/FW 3.41/CFW 3.55) changes:
+==================================================
+Build 4.4.5 (14-02-2010)
+==================================================
+New HD Version - every game runs at the SNES' high-resolution mode (512x448 interlaced
+mode). Try this with the right shader on (4xSoft) and this can make the games look
+beautiful. Both progressive (1080p/720p/480p/576p) and interlaced modes
+(480i/576i/1080i) work with this - try interlaced for best results.
+4xSoft combined with this HD version also beautifies the pseudo hi-res transparent
+background layers in Kirby's Dreamland 3.
+Triple Buffering option added - enabled by default. Faster graphics/shader performance with
+triple buffering turned on - some potential input lag with triple buffering on - turn it off in
+case you experience problems of this nature.
+USB/Bluetooth mouse can be used now for Mouse/Super Scope games.

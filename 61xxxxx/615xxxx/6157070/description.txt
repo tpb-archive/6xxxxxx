@@ -1,0 +1,35 @@
+First off what is a mac address?
+
+a MAC address (Media Access Control address) is a unique identifier assigned to network interfaces for communications on the physical network segment. MAC addresses are used for numerous network technologies and most IEEE 802 network technologies including Ethernet. Logically, MAC addresses are used in the Media Access Control protocol sub-layer of the OSI reference model.
+MAC addresses are most often assigned by the manufacturer of a network interface card (NIC) and are stored in its hardware, the card's read-only memory, or some other firmware mechanism. If assigned by the manufacturer, a MAC address usually encodes the manufacturer's registered identification number and may be referred to as the burned-in address. It may also be known as an Ethernet hardware address (EHA), hardware address or physical address.
+MAC addresses are formed according to the rules of one of three numbering name spaces managed by the Institute of Electrical and Electronics Engineers (IEEE): MAC-48, EUI-48, and EUI-64. The IEEE claims trademarks on the names EUI-48 and EUI-64, in which EUI is an acronym for Extended Unique Identifier.
+
+More Info on the matter:
+
+Although intended to be a permanent and globally unique identification, it is possible to change the MAC address on most of today's hardware, an action often referred to as MAC spoofing.
+A host cannot determine from the MAC address of another host whether that host is on the same link (network segment) as the sending host, or on a network segment bridged to that network segment.
+In TCP/IP networks, the MAC address of an interface can be queried knowing the IP address using the Address Resolution Protocol (ARP) for Internet Protocol Version 4 (IPv4) or the Neighbor Discovery Protocol (NDP) for IPv6. On broadcast networks, such as Ethernet, the MAC address uniquely identifies each node on that segment and allows frames to be marked for specific hosts. It thus forms the basis of most of the Link layer (OSI Layer 2) networking upon which upper layer protocols rely to produce complex, functioning networks.
+
+
+
+
+ok so that info is out of the way (made easy thanx to copy past from wikipedia), here is the program. Its simple, it works and its small.
+
+Instructions:
+1) Download
+2) Scan with you AV (its clean...but make this routine)
+3) Install just like any other normal program
+4) open up and click on the desired adapter (wireless, Lan, etc)
+5) either enter the MAC address you wish to have or click on  Generate Random
+6) Your done.
+
+If you wish to change back to your default mac address for step 5 just click **restore original mac address.
+
+
+scanned with Bitdefender  + SuperAntiSpyware + Malwarebytes = Malware FREE
+
+ENJOY
+       scuba-doo
+
+
+share the wealth and seed, comments are more then welcome

@@ -1,0 +1,17 @@
+Angry Birds is a puzzle based game with numerous levels. The premise of the game is that naughty pigs have captured eggs belonging to the angry birds and built structures made of various materials around them.
+
+The object is to use a slingshot to fire your angry birds at the structures in order to free the eggs. The angry birds all have different abilities, such as being able to be split into three after being fired.
+More info : http://www.rovio.com/index.php?mact=Blogs,cntnt01,showentry,0&cntnt01entryid=53&cntnt01returnid=58
+--------------------------------------------------------------------------------------------------
+How To install :
+1.Extract the File
+2.Go To msvcr100 Folder and copy the DLL File to : C:\Windows\System32
+3.Go To Angry Birds Folder and PLAY !
+--------------------------------------------------------------------------------------------------
+Some Tips To Lunch The Game ( as people in this topic said ) :
+1.If You have Win 7 64 bit :
+copy the DLL file to C:\Windows\SysWOW64 folder ( as HUMRD1 ) said
+2.If You are getting error : "the application configuration is incorrect" :
+try this fix :( as exsquared said )
+3. To Play Game in windowed :
+open config.lua with notepad and edit "fullscreen = false"

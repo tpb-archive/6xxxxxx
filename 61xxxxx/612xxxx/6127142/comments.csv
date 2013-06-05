@@ -1,0 +1,74 @@
+User Type,Username,Date,Text
+,Pokler,2011-01-25T19:20Z,"""Bob__Dole"" I'm going to do unzipped pics from the next one on. Read your comment too late."
+,kshekid,2011-01-25T23:06Z,"hey man. graet job on this stuff. i just dont know how to thank you. i have one problem though. i am having a real hard time downloading your torrents at a fast speed. dont get me wrong, this could definitly be on my end. it probably is. i dont have a problem downloading anything else at fast speeds though. no problem at all. but i am still downloading the very first ""inthecrack"" torrent you posted. only at like 46% still.
+
+can you please tell me what i could try doing to speed these up?  from the looks of it, it seems that there are plenty of seeders and peers so like i said, its probably on my end.
+
+I do have my ports forwarded correctly.
+
+thanks again "
+,Pokler,2011-01-25T23:35Z,"That's the way of torrents. It is all about the connection speeds of the leechers and seeders and that can vary wildly, but hanging steady at ONE percentage while the torrent keeps downloading points to someone spreading corrupted blocks.
+
+There was one other guy that had problems completing the torrents, so now I am definitely expecting one or more people spreading bad blocks.
+
+I recommend checking who these people are (check the log) and blocking them.
+
+More info about ipfilter and blocking ips can be found on the web.
+
+I am going to check out who these people are (if there are such people active)."
+,kshekid,2011-01-25T23:51Z,"how do i check the log?
+
+using utorrent"
+,Pokler,2011-01-25T23:52Z,"I queued up the first itc torrent and I get around 300kb/s at the moment. Maybe it will change, but 300kb/s is not bad.
+
+Will mention the end result when I post the next itc installment."
+,kshekid,2011-01-25T23:56Z,lots of failed hash checks
+,kshekid,2011-01-25T23:57Z,how do i block someone?
+,Pokler,2011-01-26T00:14Z,"Yep, that's the cause of your problem.
+
+People are trying to fuck up my torrents (probably the copyright holders, hah!).
+
+I recommend downloading an ipfilter.dat file and add the ips that spread the bad blocks. Or just use the system you see in the file and delete all the rest of the ips you don't need to have blocked.
+
+Copy the file to your utorrent directory and right click on any peer and select reload ipfilter.
+
+More info:
+xxx youtube com/watch?v=R1qxUovxRls
+
+emulepawcio sourceforge net/nieuwe_site/ipfilter_fake_list.html
+
+uTorrent also does auto blocking, so I don't know why that fails here.
+
+If you need more info it is all out there, way better described and detailed than I could ever write it out!"
+,Pokler,2011-01-26T00:18Z,Someone post the ips of both the seeders (one is me) so we can block the other fucker.
+,Pokler,2011-01-26T23:05Z,"All these problems should not be a problem if you use uTorrent and the latest version.
+
+I'm still downloading the first itc torrent and it is already at 30% complete.
+
+It went 1mb/s+ at one point, so good.
+
+Found two German ips spreading bad blocks, but utorrent just blocked them automatically. No problem.
+
+Everyone with problems downloading the itc torrents. Get uTorrent!"
+,AnonymousBasterd,2011-01-27T01:02Z,Ur the Best Pokler! Can you Upload more from #001-#149 to Complete them all. . .
+,Pokler,2011-01-27T01:31Z,"Patience, it will be up here all in time."
+,Pokler,2011-01-27T12:40Z,Whole first ITC torrent finished downloading in one and a half day...
+,XxDarkShadowxX,2011-01-27T15:16Z,"This is the best series of uploads ever. I've seen attempts like this before, but they usually quit after like the 3rd or 4th up. Awesome that you are actually following through. "
+,AnonymousBasterd,2011-01-28T04:46Z,"Your the First one to upload a serious series of ITC here! thanks a lot seriously. . .
+
+anyways why didn't you start the uploading from #001-010? also it seems you already completed all the vids in ITC JUST HOW MANY GIGS IT COST YOU? from 001-487?"
+,Pokler,2011-01-28T13:51Z,"The first sets are only interesting to the collector really. They are amateurish, low quality video, etc.
+
+It is only when ITC got pro that the videos became great, that's why I started at #350.
+
+If I started at #001 I don't think the interest would be that high and not many people would download and more importantly seed.
+
+From #001 to #487 is about 1.2tb."
+,kshekid,2011-01-28T23:25Z,my average down speed is about 1-10 kbps. i would be perfectly happy if i was getting 300. i have been downloading these since the 21st of december. i am using the latest utorrent.  anything else that i download is coming in fast as hell except these.
+,Pokler,2011-01-29T12:51Z,"No surprises there then.
+
+If you download at let's say 5kb/s it will take about 2 months if you download 24/7.
+
+Just wait for it is all that can be said then.
+
+Maybe there is a relationship between people having lots of storage space and slow connections in this situation, heh."

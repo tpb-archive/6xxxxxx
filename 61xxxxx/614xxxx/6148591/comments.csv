@@ -1,0 +1,82 @@
+User Type,Username,Date,Text
+,1TWISTED,2011-02-04T15:32Z,"thanks,.. nice upload,... well done,.. ; )"
+,TonyTheCat,2011-02-05T09:01Z,"will test , if works fine then i'll report my findings . thanks either way carter67 ."
+[T],carter67,2011-02-05T11:40Z,Your welcome fella's
+[T],carter67,2011-02-05T18:51Z,@promodsharma no probs Bud
+,iridis_alpha,2011-02-06T13:16Z,"didnt work for me, I installed it exactly as the instructions say, I get this error when I start anyDVD>
+
+This version is not licensed. Please Install a valid license key.
+
+Registered to Alejandro ramos elvira (hacker.chp@gmail.com)
+Serial 12827009 Free updates until 28/05/2011
+
+any ideas on how to fix my problem? inb4 someone says ""Register with supplied HD Key.
+(Right Click on Key.AnyDVDHD and choose open with ... AnyDVD)"""
+[T],carter67,2011-02-07T01:19Z,"@iridis_alpha  the only thing i can suggest is you ensure you block the program from connecting to the internet, even if it connects only for a short time the crack wont work...hope this helps"
+,Extraprof,2011-02-07T19:30Z,"I had the same problem!
+
+That is how I got it working:
+
+- Close AnyDvd
+- Important: Disable internet connection
+- Uninstall AnyDvd with standard Uninstaller
+- Download and install CCleaner
+- Run CCleaner -> Registry cleaner
+- Fix all entries (I recommend to backup registry)
+- Important: Reboot PC, keep internet disconnected
+- Install SlySoft AnyDvd
+- Important: Reboot PC, keep internet disconnected
+- Close AnyDvd if running
+- Double Click Key file
+- Click OK and start AnyDvd
+- You will see, it will work as registered
+--> Go to options
+--> Disable automatic Updates
+--> Enable ""Show when AnyDvd need to contact update server""
+
+That should work, do it step by step, don't leave anything out!"
+[T],carter67,2011-02-07T23:48Z,"@Extraprof good post
+
+here's a good free firewall that would save doing all of the above
+
+http://www.comodo.com/home/internet-security/firewall.php"
+[T],carter67,2011-02-08T08:51Z,"Also Bud this is a far better uninstaller than ccleaner
+http://thepiratebay.org/torrent/6148512/Revo_Uninstaller_Pro_2_5_1__carter67"
+,g_leau,2011-02-09T23:10Z,"First, thanks carter67
+
+@iridis_alpha I was having this exact same problem and I think I found a solution:
+
+Do a search for ""anydvd.chk"" and delete it or rename it (I renamed it to anydvd2.chk just in case i needed to restore things later), you will have to enable hidden files and folders. the locations are as follows:
+
+for xp the location is:
+C:\Documents and Settings\All Users\Application Data\SlySoft\AnyDVD\AnyDVD.chk
+
+for vista:
+C: Drive\Program Data\Slysoft\Anydvd\anydvd.chk or anydvd.key
+
+for windows 7 the location is:
+C: Drive\Program Data\Slysoft\Anydvd\anydvd.chk or anydvd.key
+
+Make sure the Program is closed but you have already run the initial registration (so this is once you already get that error you're talking about). Once you do this, start the program and it should work.
+
+I had to go through a lot of versions of this and one finally had this info. I don't remember which one though, so I'm thanking all of you!"
+,gondolin,2011-02-18T23:38Z,"Yes, yes, yes!!!! After several attempts SUCCESS!!!
+Don't give up! Thanks much for the up!"
+,Jaicor,2011-02-23T00:49Z,"@carter67
+Thank you very much, same probs tho
+
+@Extraprof
+Thank you, but did not work for me
+
+@g_leau
+Thank you, problem resolved!"
+,get2us,2011-03-14T17:04Z,"Great upload â€“ you da man!!
+I also had a registration error but got it t work by following these steps:-
+
+1. Disconnect from Internet
+2. Install Program (then reboot)
+3. Programme will open automatically but close it
+4. To register first go to Start/Programmes/Slysoft/Register then navigate to where you initially extracted the files and load the licence from there
+5. Run AnyDVD and Disable Auto Updates in Settings.
+
+If you have any problems, try deleting the licence key then try again. Iâ€™m on Win7 x64Bit and it is located in C:\ProgramData\SlySoft\AnyDVD\AnyDVD.lic (you need to enable view hidden files to see this directory)"

@@ -1,0 +1,104 @@
+-------------------------------------------------------------------------------
+\\//\\//\\//\\// _ |_ _ \ \/ /_ _ _ \\//\\//\\//\\//\\//\\//\\//\\//\\//\\
+//\\//\\//\\//\\ (_||_)(_|/ /\ \_||_ | | //\\//\\//\\//\\//\\//\\//\\//\\//\\//
+
+Checking for updates to abgx360.dat...
+Server file abgx360.dat no newer than local file - not retrieving
+
+C:\KING.OF.FIGHTERS.12.RF - SKILLED.dvd is valid
+
+Checking Game
+ISO: "C:\KING.OF.FIGHTERS.12.RF - SKILLED.iso"
+Size: 7838695424 bytes
+Files in ISO: 18, Folders in ISO: 6
+Total bytes used: 733419272 (10.05%)
+Game appears to have random padding
+
+Checking default.xex
+Original PE Filename: default.exe
+Original PE Timestamp: 2009/06/24 19:20:53
+Game Name: KOF XII
+Developer: SNK PLAYMORE CORPORATION
+Publisher: SNK PLAYMORE CORPORATION
+Genre: 2D Fighting
+No Avatar Awards
+Achievements: 50 Achievements totaling 1000 Gamerscore
+XEX CRC = 16C29B23
+XEX Media ID: 863FAB4D32C57529011C8B1E-23278AC7
+
+Region Code: 0xFFFFFFFF
+Region Free!
+
+Checking SS
+Timestamp of Authoring: 2009/06/29 00:00:00
+Timestamp of Mastering: 2009/07/18 02:58:31
+SS Version: 1
+SS CRC = 7C0E99D7 (RawSS = B15D14DB)
+SS Media ID: 863FAB4D32C57529011C8B1E-23278AC7 (matches game)
+SS looks valid
+
+Checking DMI
+Timestamp of Authoring: 2009/06/29 00:00:00 (matches SS)
+DMI CRC = 60E497D1
+DMI Media ID: 863FAB4D32C57529011C8B1E-23278AC7 (matches game)
+DMI looks valid
+
+Checking PFI
+PFI CRC = 2A4CCBD3
+PFI matches known data (3rd Wave)
+
+Video partition found
+Video is zero padded
+Video CRC = 0E58FB9D (V0 = CF942E7B, V1 = 4809B37A)
+Video partition matches known data (3rd Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+Looking for 7C0E99D716C29B23.ini in the online verified database
+There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Verification failed
+
+Starting AutoFix
+Looking for Xex_16C29B23.ini in the online verified database
+Server file Xex_16C29B23.ini no newer than local file - not retrieving
+'Xex_16C29B23.ini' contains 2 SS CRCs, randomly picked #2
+Looking for BFE51F2D16C29B23.ini in the online verified database
+Server file BFE51F2D16C29B23.ini no newer than local file - not retrieving
+
+Using BFE51F2D16C29B23.ini (358 bytes)
+Looking for SS_BFE51F2D.bin in the online verified database
+SS_BFE51F2D.bin was downloaded successfully
+Verifying SS_BFE51F2D.bin is valid before using it for AutoFix
+
+Checking SS
+Timestamp of Authoring: 2009/06/29 00:00:00
+Timestamp of Mastering: 2009/09/07 17:29:54
+SS Version: 2 (trusted)
+SS CRC = BFE51F2D (RawSS = E49FC77B)
+SS Media ID: 863FAB4D32C57529011C8B1E-23278AC7 (matches game)
+SS looks valid
+
+Looking for DMI_40D005AF.bin in the online verified database
+DMI_40D005AF.bin was downloaded successfully
+Verifying DMI_40D005AF.bin is valid before using it for AutoFix
+
+Checking DMI
+Timestamp of Authoring: 2009/06/29 00:00:00 (matches SS)
+DMI CRC = 40D005AF
+DMI Media ID: 863FAB4D32C57529011C8B1E-23278AC7 (matches game)
+DMI looks valid
+
+Automatically patching stealth files...
+Patching DMI from DMI_40D005AF.bin
+Patching SS from SS_BFE51F2D.bin
+Stealth files patched successfully!
+AnyDVD style corruption was not detected
+Game CRC = 1C17775D
+
+Game partition CRC matches the verified ini!
+AutoFix was successful!
+
+SplitVid is valid
+L1 Video is zero padded

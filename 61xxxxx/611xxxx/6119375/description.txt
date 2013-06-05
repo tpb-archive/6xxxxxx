@@ -1,0 +1,33 @@
+Overview of NAVI
+As a rule, the NAVI system is composed of the following 6 navigators and 4 content reference services:
+
+Navigator Service
+â€¢ Case Navigator
+Indicate a symptom or characteristics of the problem so that the system will search for and show matching cases
+from among the actual cases stored in its database.
+â€¢ Device Information Navigator
+Use it to bring up error/alarm/jam logs and parts counter readings it has collected from the connected machine. It
+can also point out those parts that have exceeded a specific pre-determined setting by way of indicating the need
+for attention.
+â€¢ Service Mode Navigator
+Use it to turn on service mode items built into the machine from a PC. With the NAVI system installed on your
+PC, try indicating the DISPLAY and COUNTER settings or making ADJUST and FUNCTION settings.
+â€¢ Electrical Component Navigator
+Use it to bring up circuit diagrams or sequential diagrams for arrangement or operation of electrical components
+(e.g., motors, sensors), as when isolating the source of a problem.
+â€¢ Work Procedure Navigator
+Use it as a source of reference when finding out steps used to replace a part or install a machine. It also shows
+instructions on how to repair various problems.
+â€¢ Report Navigator (for user data management and report preparation)
+Use it to compile data collected from the machine when preparing a service report. It may also be used to
+maintain user data.
+
+Content Reference Service
+â€¢ Parts Catalog Reference
+It lets you refer to various parts information.
+â€¢ Technical Information Reference
+It lets you refer to technical information.
+â€¢ Service Manual Reference
+It lets you refer to Service Manuals.
+â€¢ CBT Reference
+It lets you run service training on you own.

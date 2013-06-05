@@ -1,0 +1,127 @@
+This is the first release from the Release 265 family of drivers (versions 265.xx to 269.xx).
+
+This driver package supports GeForce 6, 7, 8, 9, 100, 200, 300, 400, and 500-series desktop GPUs as well as ION desktop GPUs.
+
+New in Release 266.58
+
+GPU Support
+
+    Supports the newly released GeForce GTX 580 and GeForce GTX 570 GPUs.
+
+Performance
+
+    Increases performance for GeForce 400 Series and 500 Series GPUs in several PC games vs. the latest Release 260 drivers. The following are examples of some of the most significant improvements measured on Windows 7. Results will vary depending on your GPU and system configuration:
+
+         GeForce GTX 580:
+
+        Up to 7% in Battlefield Bad Company 2 (1920x1200 4xAA/16xAF)
+        Up to 12% in Battleforge (SLI 1920x1200 4xAA/16xAF Very High)
+        Up to 11% in Call of Duty: Modern Warfare 2 (SLI 1920x1200 4xAA/16xAF)
+        Up to 7% in Dirt 2 (SLI 1920x1200 4xAA/16xAF)
+        Up to 7% in Far Cry 2 (1920x1200 4xAA/16xAF)
+        Up to 5% in Just Cause 2 (1920x1200 4xAA/16xAF Dark Tower)
+        Up to 5% in S.T.A.L.K.E.R.: Call of Pripyat (SLI â€“ 1920x1200 4xAA/16xAF)
+        Up to 9% in Stone Giant (SLI 1920x1200, DOF on)
+        Up to 8% in Unigine Heaven v2.1 (SLI 1920x1200 4xAA/16xAF)
+
+    Improves performance in Final Fantasy XI on GeForce 400 Series and 500 Series GPUs.
+
+Visual Quality
+
+    Adds ambient occlusion support for one of the most popular games of the year: Starcraft II: Wings of Liberty. Ambient occlusion improves the quality of lighting, shadows, and depth perception in many parts of the game. Learn more on GeForce.com.
+
+NVIDIA 3D Vision
+
+    With Release 260 and 265 drivers, the installation process for 3D Vision has changed. Please view this knowledgebase article for more information on the changes.
+    Adds support for 3DVisionLive.com Beta 2:
+        Adds supports  3D photo sharing and viewing
+        Adds new 3D video clips to the website
+    Improved scaling quality with video streaming content from 3DVisionLive.com over previous 266.35 Beta driver
+    Adds 3D Vision Window Mode support for the following games and applications:
+        Games
+            Aion
+            Crazy Racing Kart Rider
+            Crossfire
+            Dragon Nest
+            EverQuest 2
+            Guild Wars 2
+            NED
+            PopKart
+            QQ Dance QQ
+            QQ Xian Xia
+            Tian Long Ba Bu
+            World of Warcraft â€“ Burning Crusade
+            World of Warcraft â€“ Wrath of the Lich King
+            Xun Xian
+            Zhu Xian 2
+        Google Earth
+        Improvements to 3DVisionLive
+    Adds support for new 3D Vision Desktop LCD monitors: Acer GN245HQ, Acer HN274H, Hannstar HS233, I-O Data 3D231XBR, Lenovo L2363dwA, Planar SA2311W
+    Adds support for new 3D Vision projectors: Acer X1261P, Sanyo PDG-DXL2000
+    Adds support for new 3D Vision All-in-On PC: ASUS ET2400XVT
+    Adds support for new DLP HDTVs: Mitsubishi WD-83838, WD-83738, WD-73838, WD-73837, WD-73738, WD-73638, WD-73C10, WD-65838, WD-65738, WD-65638, WD-65C10, WD-60738, WD-60638, WD-60C10, L75-A91.
+    Added the following 3D Vision game profiles:
+            Arcania: Gothic 4
+            Crazy Racing Kart Rider   í¬ë ˆì´ì§€ë ˆì´ì‹± ì¹´íŠ¸ë¼ì´ë”
+            Crossfire   ç©¿è¶Šç«çº¿
+            Darksiders
+            DC Universe Online
+            Dragon Nest
+            Front Mission Evolved
+            Guild Wars 2
+            Hank Haney's World Golf
+            Lineage 2
+            Medal of Honor (2010) Multiplayer
+            Medal of Honor (2010) Single Player
+            NED
+            Need for Speed Hot Pursuit
+            NVIDIA Demo: Aliens vs. Triangles
+            NVIDIA Demo Endless City
+            PopKart   è·‘è·‘å¡ä¸è½¦
+            QQ Dance QQ   ç‚«èˆž
+            QQ Xian Xia Zhuan QQ   ä»™ä¾ ä¼ 
+            Tian Long Ba Bu   å¤©é¾™å…«éƒ¨
+            TRON: Evolution
+            Vizerra   (fullscreen version)
+            World Rally Championship 2010
+            Xun Xian   å¯»ä»™
+        Update the following 3D Vision game profiles
+            Lost Planet 2 â€“ rating is now changed to Fair
+            Tom Clancyâ€™s H.A.W.X. 2- rating has been changed to 3D Vision Ready
+
+    NVIDIA Surround
+        Improved performance for 3-way and 4-way SLI configurations
+        Updated 3D Vision Surround and NVIDIA Surround game support list.  Please visit the 3D Vision Surround web page for a full list of supported games.
+
+    NVIDIA SLI
+        Adds SLI profiles for the following PC games:
+            Alien vs. Triangles Demo
+            Endless City Demo
+            Lionheart: Kings Crusade
+            Moscow Racer: Legends of USSR
+            Rift: Planes of Telara
+            Shaun White Skateboarding
+        Enhances SLI profiles for the following PC games:
+            Age of Conan
+            Arcania: Gothic 4
+            Civilization V - DX11
+            Lost Planet 2
+            World Of Warcraft
+
+    Other
+        Installs HD Audio driver version 1.1.13.1
+        Installs PhysX System Software to version 9.10.0514
+        Supports playing back Blu-ray 3D discs when connecting your GPU to an HDMI 1.4 3D TV. Playback requires compatible software application from CyberLink, ArcSoft, Roxio, or Corel. For GPU and system requirements, visit the NVIDIA Blu-ray 3D website.
+        Supports lossless DTS-HD Master Audio and Dolby TrueHD audio bitstreaming support for compatible Blu-ray movies with GeForce GTX 460, GTS 450, and GT 430 GPUs.
+        Supports high definition 24-bit, 96 and 192 KHz multi-channel audio sampling rate support for compatible Blu-ray movies with GeForce 400 and 500 series, GT 240, GT 220 and 210 GPUs.
+        Supports the new GPU-accelerated features in Adobe CS5.
+        Supports GPU-acceleration for smoother online HD videos with Adobe Flash 10.1. Learn more here.
+        Supports the new version of MotionDSP's video enhancement software, vReveal, which adds support for HD output. NVIDIA customers can download a free version of vReveal that supports up to SD output here.
+        Supports DirectCompute with Windows 7 and GeForce 8-series and later GPUs.
+        Supports OpenCL 1.0 (Open Computing Language) for all GeForce 8-series and later GPUs.
+        Supports OpenGL 3.3 for GeForce 8-series and later GPUs.
+        Supports OpenGL 4.1 on GeForce 400 series and later GPUs.
+        Supports single GPU and NVIDIA SLI technology* on DirectX 9 and OpenGL.
+        Supports GPU overclocking and temperature monitoring by installing NVIDIA System Tools software.
+        Users without US English operating systems can select their language and download the International driver here.
+

@@ -1,0 +1,60 @@
+What is this about?
+
+To keep the introduction short, Microsoft denies that booting Windows off a USB drive works.
+
+See this page for example. It says:
+
+Q: Can a USB storage device be the primary (and only) means of storage?
+No. USB-based mass storage devices cannot be the primary hard disk storage solution on a regular system ...
+
+Or this one from the microsoft newsgroups:
+
+Windows cannot boot from an USB drive. If your computer supports
+booting from such device, you can load a boot loader to the USB device
+which starts Windows XP from the HDD.
+
+THIS IS WHY THIS TORRENT WAS MADE
+
+
+
+This diskimage is a modified but full windows xp(with SP3) install disk(no key\\\'s, keygen, cracking necessery)
+
+
+With this disk you can run a fully working windows machine from a usb stick/ usb harddrive instead of a normal HDD. 
+I have tested this on 2 computers with 2 different usb sticks.
+If you wan\\\'t to know how i did this take a look at the .HTML file in the folder.
+
+
+
+
+
+
+To do this you will need:
+
+-a blank cd to burn the .iso image to
+-a large enough usb stick/ usb harddisk(4GB will do) TRY TO FIND THE FASTEST DRIVE (WITH A TOOL LIKE CRISTAL DISK MARK) FOR THE BEST PERFORMANCE, usb sticks are usually slower then usb harddrives
+-a burning program to burn the disk
+-a computer that can boot from usb and can boot without the normal harddisk connected
+
+
+
+
+
+INSTALLING:
+-First burn the .iso to the cd
+-format the usb drive/disk with HPUSBDisk.exe(as administrator) as NTFS
+-UNPLUG ANY HARDDRIVE IN THE COMPUTER(if you don\\\'t do this the MBR of these HDD will be fucked up
+-Plug in the formatted usb drive/HDD(without any hubs and into a usb 2.0 port) and install windows
+-Windows will tell you you don\\\'t have a paging file but just ignore it and click OK a few times
+-ENJOY!!!
+
+
+
+
+
+PROBLEMS YOU MIGHT ENCOUNTER
+-Your USB-drive is not recognized as valid installation media: Try formatting it with another tool and try to clean the existing mbr of the drive with, for example, partition wizard (home edition). If this doesn\\\'t work you disk just might not be installable...
+
+-A very slow install/installation: Your drive is either not really empty, try wiping your drive with partition wizard. If that doesn\\\'t help much then your drive just is not fast enough.
+
+-You cannot boot your computer without the normal hdd: Try to remove it from your boot sequence (in the BIOS) and try again.

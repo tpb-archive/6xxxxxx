@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+[V],alexisthebest,2011-02-08T10:02Z,spam
+,madmerlynx,2011-02-08T15:52Z,"Do you do some sort of weird recursive folder in your torrent? I love Chuck and both this week's and last week's torrent you uploaded don't work in rTorrent (linux). I get an ""invalid or missing file"" error whenever it opens your torrent and attempts to download this. I've never gotten this error on anyone else's torrents."
+,Saki33,2011-02-08T16:42Z,"I downloaded last week's and this week's also. No problem downloading either one with uTorrent. It plays perfectly on computer and through USB on tv.
+
+There is a system information file included, donate.nfo. It didn't open on my computer. I was curious as to what was in it so I changed the nfo file extension to a text extension and was able to read it. Nothing nefarious inside, just a request for donations to support the seedbox. I have seen this kind of file in other download folders, but this is the first time I thought to change the file extension to be able to open. 
+
+I have occasionally gotten the ""invalid file"" message myself when trying to download and solved that by using the magnet link. Maybe you could download it if you uncheck the nfo file and only download the mkv.
+"
+,Saki33,2011-02-08T16:54Z,Had to fix that. When I changed the nfo file extension the torrent no longer recognized it and screwed up the seeding. I had to change it back to nfo and start the file seeding again in order to seed. Next time I will copy the file to another folder and change that one instead. 
+,madmerlynx,2011-02-08T18:38Z,rTorrent doesn't like it even with the nfo turned off. I'm running on Linux without a GUI so I have to grab it through rTorrent.
+[V],alexisthebest,2011-02-08T22:45Z,"@madmerlynx 
+to answer your question. Currently ruTorrent has an issue. It makes torrents and has issues when it's oppening in another ruTorrent or rTorrent client.
+
+just try a different client to see if that fixes it
+
+
+@saki33
+nfo's can be opened with notepad perfectly fine, but if you want to see them as intended, use DAMN NFO Viewer."
+,james003,2011-02-08T23:21Z,thanks! :)

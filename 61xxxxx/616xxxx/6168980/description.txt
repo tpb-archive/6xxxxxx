@@ -1,0 +1,29 @@
+Minecraft Beta
+--------------
+
+.) Requires Java
+.) Requires TAR
+
+Minecraft.tar
+
+- Minecraft.exe
+
+- Minecraft.jar
+
+Linux / Other:
+--------------
+
+Start minecraft Beta with :
+
+java -Xmx1024M -Xms512M -cp Minecraft.jar net.minecraft.LauncherFrame
+
+Windows:
+--------
+
+Simple...
+
+You run the Minecaft.exe
+
+Or when you an geek :
+
+java -Xmx1024M -Xms512M -jar minecraft.jar 

@@ -1,0 +1,49 @@
+I found the solution for those who are experiencing the following World Builder problem after updating the game: 
+
+
+Unknown argument type in message EnableMod 
+The message EnableMod can not be used unit the errors are resolved 
+Unknown argument type in message ng 
+Unknown argument type in message SetMapOption 
+The message SetMapOption can not be used unit the errors are resolved 
+
+I didn't try it for Pandora update but works fine with SKIDROW Update 7. Ok, let's go:
+
+1.Install the game with SKIDROW's sr-civ5.iso to the Installer's default destination. 
+2.Apply the cracks (just copy the whole content from SKIDROW's sr-civ5.iso\SKIDROW folder to installation folder). 
+3.Copy Sid Meier's Civilization V SDK into the installation folder. 
+4.Find ModBuddy folder in Sid Meier's Civilization V SDK folder and run Modbuddy.updater.exe and specify your install path, then specify the user path which should be located under C:\Users\UserName\Documents\My Games\Sid Meier's Civilization 5. 
+5.Apply SKIDROW Update 7 (you can find it in torrent sites). 
+6.Apply the cracks in SKIDROW's Update 7\SKIDROW folder coming with the torrent (just copy the content to installation folder).
+After this step if you try to run World Builder you will receive the errors. So here is the magical step. 
+7.First backup these three files to elsewhere (for ex. Desktop): 
+
+CivilizationV.exe
+CvGameCoreDLLFinal Release.dll
+CvGameDatabaseWin32Final Release.dll
+CvLocalizationWin32Final Release.dll
+
+
+Then copy only the listed files from SKIDROW's sr-civ5.iso\SKIDROW folder to the installation folder:
+
+CivilizationV.exe
+CvGameCoreDLLFinal Release.dll
+CvGameDatabaseWin32Final Release.dll
+CvLocalizationWin32Final Release.dll
+
+
+Ta taaa.... Run World Builder. Do what ever you want!!! 
+But, now, we have the wrong version of executable and other core 'dll's??? 
+Restore the files backed-up in step 7 to installation folder to able to run the game properly. 
+
+DON'T FORGET! WORLD BUILDER WON'T WORK AFTER APPLYING THE PROPER UPDATE CRACKS!
+
+If you like you can apply Pandora Update after creating the desired MOD or MAP.
+
+Have a nice day. by Flashbond 
+
+(this isnt my creation, but it surely works ^^ thanks to Flashbond!!) 
+
+The Civilization Sdk is added with this torrent. 
+
+Enjoy Guys

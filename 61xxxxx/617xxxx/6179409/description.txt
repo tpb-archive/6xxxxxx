@@ -1,0 +1,9 @@
+Good news for those still sittinâ€™ on firmware 3.41 or lower: drizzt has released fuckPSN v0.5, which
+adds support for older PS3 firmwares. Also you should know thisâ€¦
+Previously, in this guide, we asked you to create a backup of CA24.cer and replace the original with
+the one provided. Now this is where that backup comes in handy because youâ€™ll be restoring the
+original CA24.cer and now weâ€™re working with CA27.cer, which is included. So create a backup of
+the original CA27.cer first â€¦ you never know when youâ€™ll need it.
+Other tips: if fuckPSN does not start or prints â€œAddress already in useâ€ â€” then you should close or
+stop any services using port 80 or 443 on your PC; try also closing Skype and disabling ICS if you
+use it.

@@ -1,0 +1,51 @@
+ALL CREDITS GO TO TIMESLIP !!!!!!!!!!!!
+
+=======================================
+E A S Y   I N S T A L L    G U I D E  :
+=======================================
+
+1. Burn or mount the .mdf with - for instance - Deamon Tools and run setup.exe
+2. Install the game, do not run
+3. Fix the game, see Fixed installation instructions below
+4. Play the game, finally without any trouble !! Yippy-Kay-Yee-Mother****** !!!
+
+by MarcAce
+
+
+Crimson skies fix by timeslip 
+http://timeslip.chorrol.com
+30/5/09
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX Installation instructions XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Extract into your crimson skies installation directory, overwriting crimson.exe. (Make a backup first in case you want to uninstall later.)
+
+If you want to change the default options, open csfix.ini in a text editor and modify the appropriate lines.
+
+XXXXXXXXXXX
+XX Fixes XX
+XXXXXXXXXXX
+
+= Crash on startup with a divide by zero error
+
+This appears to be an application bug, caused by the designers assuming that processors would never exceed a certain speed. Fixed by disabling the high performance counter check, forcing crimson skies to fall back onto a counter that doesn't tick over so quickly. Running in win95 compatibility mode also fixes it, although at a performance penalty.
+
+= Blocky text, in game crashes when text is displayed
+
+This is a collection of several application bugs, first a broken check for non power of two texture support, and next in the games response if it decides that support does not exist. Fixed by supplying the game with a fake collection of caps flags. Using the software renderer is an alternative fix.
+
+= Flickering textures during fading, banding on textures with smooth colour gradients
+
+This was caused by a deliberate design decision by both nvidia and ati to remove dithering support on their DX10 class hardware. An understandable move, as it makes no difference to 32 bit render targets (which pretty much every game made in the last 5 years or so uses,) and just adds to transistor count. It does cause a degradation in appearance on any old games which render in 16 bit though, and on top of that dithering was also switched off in the drivers, meaning e.g. that anyone with a 6000 or 7000 series card installing a driver release made after the 8000 series launch will also loose dithering support. Fixed by forcing crimson skies to use a 32 bit render target.
+
+Since this causes corruption of the into screen, this option is disabled by default.
+
+= Generic crashes/lockups
+
+Many old games have threading issues which can cause random lockups or crashes on systems with multi-core processors. I've not seen crimson skies do so, but better safe than sorry, since it can't really make proper use of a multi-core processor anyway.
+
+= safedisc
+
+Not actually something I originally set out to do, but as it turned out I had to strip off the safedisc protection in order to make some of the modifications to the exe. It's no great loss, as it's removal improves startup time and fixes issues with some cd drives anyway. (Plus you get to play the game without the CD in, if you've made a full install.) 

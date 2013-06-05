@@ -1,0 +1,185 @@
+User Type,Username,Date,Text
+[V],Slickinator,2011-02-06T14:18Z,you bet 
+,haxuh,2011-02-12T03:13Z,"Good torrent pretty easy to set up. No viruses tested with avast.
+
+All and all one of the better torrents I've downloaded in the last little while."
+,bob123902,2011-02-12T04:43Z,"Works as intended.
+I did have to allow two processes through Adaware, but the patch works.
+I'm scanning my computer now, will post results when it's done. So far seems like just false positives."
+,bubski4,2011-03-03T17:18Z,"Didn't work. Got ""Bad Elk/Corrupted Foo"" error as soon as I tried to play a sound file on it. "
+,CabNabDab,2011-03-05T02:28Z,"every time i press play
+it says
+""Bad Elk/Corrupted Foo""
+i followed your instructions.
+i dont understand why its not working for me?"
+,aspenffxi,2011-03-13T02:44Z,Yep crap.  Anyone found a way to fix the error when you press play?
+,Danjen,2011-03-13T18:17Z,"I also get the corrupted error message. However, I did concurrent installations on two separate PCs, and only one of them had internet access, and that's the one that gets the errors.
+
+Logically, this means that this is Mixcraft's latest form of anti piracy... Seems to run perfectly until you have MC5 open with the internet going."
+,Crann,2011-03-15T01:43Z,"I'm not sure how you, use this..
+Could some one help me please ?"
+,viralintruder,2011-03-18T06:00Z,"This torrent is CLEAN and works 100%, Downloaded in like 2 minutes, it's amazing and works perfectly. Thank you very much Slickinator, I respect you and upvote this torrent's quality. :)"
+,Stefcho,2011-03-20T06:18Z,"Excellent release mate, the Patch actually works. Cheers."
+,Kebiinu,2011-03-27T08:54Z,"Works perfect. The instructions are a little weird so let me help you guys out.
+
+1) Disable your anti-virus protection temporarily.
+
+2) Run the program as administrator.
+
+3)Start installation, when the installation is finished, don't run the program. Just finish the installation.
+
+4)Click on ""Patch"". It should direct you to a folder. Open the folder and click on the Acousta MPT application file.
+
+5) This little box should show up with weird looking heads. Click on the right head, and wait for a little ""OK"" in the bottom left hand side of said box.
+
+6)Close everything out and start Mixcraft.
+
+7)Enjoy."
+,tehnores,2011-03-28T02:13Z,"Thanks Kebiinu, your instructions worked perfectly! :D"
+,caboose12,2011-03-30T03:29Z,AMAZING AMAZING AMAZING!!!! thanks for this it works awesome and i love it!!! 
+,wimpytx93,2011-04-02T00:34Z,"Hey guys,
+
+I just wanted to help those of you having the ""Bad Elk/ corrupt foo"" problem. My download worked fine for a couple of weeks and then that messege started to appear this is how you fix it.
+
+Download OllyDbg and unzip the folder it downloads in right click and run as an administrator open up the .exe file of mixcraft which is located in your program Files folder under Aucostica Mixcraft 5 (mine was in the x86 programs folder). Once it is open on the far left hand side you should see a the line 00471AE2. to the right of that is a field that says 74, 22 right click it and press edit binary. change the 75 to say 'EB' by highlighting the 74 and just writing over it. once you enter that and get out of that window the third column should now say JMP instead of the JE that was there once before. Thats It! just right click the line of code and tell it to save to executable and overwrite the existing .exe and it will work!"
+,s3xt0y,2011-04-03T18:48Z,"Cool music playing, lol, sadly it won't install because it says there is a newer version available on the server, ill try turning off my internet and try."
+,zkeiff,2011-04-04T21:10Z,"Thanks wimpytx93, your instructions worked perfectly! Anyone who has problems with ""Bad elk/corrupt foo"" follow his instructions. One minor thing though, where the instructions say ""change the 75"" it means 74."
+,NikToast,2011-04-06T22:44Z,It still asks me for registration code... any help?
+,Sklyn,2011-04-07T07:21Z,"Thank you. It works great. And thank you, Kebiinu, for explaining how to patch it. :)"
+,screwed124816,2011-04-07T07:45Z,"OH MY GOD I LOVE YOU THANK YOU YOU SAVED MY ASS I AM ETERNALLY GRATEFUL. 
+the directions are a lil janky tho. fortunately kebiinu's comment helped"
+,vaijiro,2011-04-09T17:23Z,"@ wimpytx93, Kebiinu - THANK YOU GUYS!
+@ Slickinator - GREAT WORK, MANY THANKS!"
+,chipster314,2011-04-13T00:35Z,"Ok not sure if I did it right, but when running it says its has a trial period that ends in 14 days....??"
+,deanerz,2011-04-17T10:14Z,"I've looked for an hour for 0047A1E2. I can't find it anywhere. Can you please be a little more specific on where to find it. I'm soooooo close to the end...
+Thanks. :)"
+,deanerz,2011-04-17T11:59Z,"OK, so when you open mixcraft 5 in Ollydgb , hit the play button at the top and then youll see numbers on the top left starting with 005..... then you can scroll to the 00471ae2... i got that far, but i do not know how to save and overwrite the file by rightclicking.. i can not find that option anywhere on the right click area. Any help with the saving and overwriting?"
+,AwesomeOakTree,2011-04-22T02:43Z,"IF YOU GET THE: ""Bad Elk/ corrupt foo"" FOLLOW THESE INSTRUCTIONS!
+
+1:Download OllyDbg and unzip the folder it downloads in right click and run as an administrator
+
+2:Open up the .exe file of mixcraft which is located in your program Files folder under Aucostica Mixcraft. 
+
+3:Once it is open on the far left hand side you should see a line 00471AE2 (you have to scroll 
+to find it). 
+
+4:To the right of that is a field that says 74, 22 right click it and press edit binary.
+
+5:Change the 74 to say 'EB' by highlighting the 74 and just writing over it. 
+
+6:Once you enter that and get out of that window the third column should now say JMP instead of the JE that was there once before. 
+
+7:TO SAVE IT, RIGHT CLICK AND GO TO ""EDIT"" THEN ""COPY TO EXECUTABLE"" 
+
+8:LAST RIGHT CLICK ON THE NEW OPENED WINDOW AND CLICK SAVE!
+
+now your finished, I hope this helps you all!"
+,royzabeast,2011-04-23T08:28Z,"On OllyDbg, I can't find the 0047 number. I see the 77CDxxxx numbers.  I see the 005xxxxxx numbers. The 005 numbers, however, are only 005. They never get to 004's. Something I'm doing wrong? "
+,royzabeast,2011-04-23T08:56Z,"Ight, I figured it out. Just to add a little clarity:
+
+When you have OllyDbg open and you can't find the 0047 that you're supposed to find (as said by instructions by Awesomeoaktree and wimpy), hit that play button at the once. If that top right box doesn't change with its set of numbers, hit it again. I believe I had to hit it twice, maybe three times. Just take a precaution and check it each time you click. "
+,cheno1115,2011-04-24T04:21Z,"Installed great after i disabled my av, and works perfectly, thanks to the little fixes people have commented and posted."
+[V],Slickinator,2011-04-24T13:50Z,thanx for your help everyone and your welcome from me also take care and party on
+,azzakidi,2011-05-01T00:17Z,"HOW TO FIX ""Bad Elk/ corrupt foo"" ERROR
+
+Download OllyDbg from Google and unzip the folder
+
+1. Open up the '.exe' file of Mixcraft which is located in your program Files folder under 'Aucostica Mixcraft 5'
+
+2. Scroll up to the first bit of code and click on it once
+
+3. Click on the PLAY button
+
+4. Scroll down until you find On the far left hand side you should see a the line 00471AE2. 
+
+5. To the right of that is a field that says 74, 22
+
+6. Right click it and click on 'Binary' > 'Edit'
+
+7. Change the 74 to say 'EB' by highlighting the 74 and just writing over it. 
+   The third column should now say 'JMP' instead of the 'JE' 
+
+8. Just right click the line of code and tell it to 'Copy to executable'
+
+9. The windows will become smaller close the first window and click on 'YES'
+
+10. Overwrite the existing '.exe'
+
+DONE!
+
+Thanks to wimpytx93 who's instructions I tried out first but when I did the above that is what worked for me. And course thanks to the Slickinator for the great torrent and patch!"
+,azzakidi,2011-05-01T00:18Z,Oh shit ive just seen the comment above mine lol I wrote all that for no reason.. ohwell lol
+,CGrizzy,2011-05-02T00:34Z,anyone have this working on windows 7 x64?
+,rannari,2011-05-05T16:43Z,"I've run to a snag. My installer won't even start. I see the window saying ""Loading..."" but after that nothing. Tried running with and without AV and internet connection. And today I have witnessed it working at a friend of mine. Help would be most appriciated"
+,Jumping_Spine,2011-05-07T00:45Z,"Dud I have been searching for hours for this kind of program, thank you so much man....working 100%"
+,arabroski,2011-05-28T05:26Z,It doesn't let me download. It says there is a newer version and I should download that one. What should I do?
+,superXbro,2011-05-28T23:21Z,"Error C:\users\KevinQ\appdata\local\temp\ir_ext_temp_2\acoustica.mixcraft.5.2.build.151-MPT refers to a location that is unavailable. It could be on a hard drive on this computer, or on a network...
+
+I get this error message whenever i click patch. can someone help please?"
+,hellc0me,2011-06-01T16:08Z,thanks both roy&azza works perfect now
+,MadBrad77,2011-06-03T02:07Z,AVG reported a threat: HackTool.LTE. Is there a crack in this file?
+,benomino,2011-06-08T21:14Z,"Follow Kebiinu's instructions and it will be very easy, great upload!"
+,Dubinekkk,2011-06-11T18:18Z,Perfect!!! Work!!!!!
+,sathous,2011-06-13T19:37Z,Do I detect a bit of Prozzak on the popup for the patch? Works wonderfully I might add
+,kalibcrone,2011-06-14T01:48Z,"hey guys please check out a video i made to fix the bad elk/corrupt foo error.
+
+just look up how to fix bad elk/corrupt foo and watch firebird1993's video (me)"
+,kalibcrone,2011-06-14T01:48Z,"my video is on youtube, sorry i didnt make that clear"
+,hp15god,2011-06-17T09:55Z,Funk Dude... !! :)
+,Bonds007,2011-06-23T10:17Z,I LOVE YOU SO FUCKING MUCH HOW TO DONATE :D
+,matt1121,2011-06-28T07:17Z,"can you please tell me what that song is in the setup and patch installer, i just need to know the artist."
+,flowmygosh,2011-07-05T18:12Z,This doesnt even contain the setup file. Just the patch.
+,der201263,2011-07-06T12:58Z,"couldnt work out the patch thing, tried but didnt work, but register product with this,
+
+ name = TEAM AIR
+
+ serial = 08XBT-KCDLD-Z1D4M-HUZ1B
+
+happy dayz, :-) "
+,Moxnesz,2011-07-30T11:20Z,"Doesent work anymore, when i get to the patch it says its missing a file.."
+,riddick2011,2011-08-18T13:28Z,"no problem s whatsoever. Great torrent, Slickinator! keep it up!"
+,bhavinpatel47,2011-08-25T15:35Z,"the installation button is above the patch button.
+it downloads files while downloading.
+took a while to figure it out"
+,bhavinpatel47,2011-08-25T15:41Z,imeant downloads files while installing
+,SonOFBaldr,2011-08-28T12:40Z,"Works perfectly.. I cannot find it in my Norton list of programs for firewall blocking, but I always disconnect my wireless and close every possible program anyways when running Mixcraft to give my processor more power for lower latency when recording/monitoring live guitar... So it isn't an issue, But either way, you don't want this program to call home.. turn off your internet every time you use Mixcraft.. you will lose the ability to download some of the sounds in the library, but that is better than losing the whole program due to it calling home and reporting it's cracked. Thanks Slickinator for another virus free quality upload, and thanks to the others for nice instructions that work perfectly. Great torrent/program!"
+,Reinierr,2011-09-04T18:48Z,"I opened the little box with the weird looking heads, but if i push on the right head it says ""can not find the file"" can anyone help me? "
+,rey94,2011-09-07T12:29Z,"hey,, there is a virus i scan it with avg ??"
+,SonOFBaldr,2011-09-12T01:25Z,"Also, if you want the library of sounds and instruments that need to be downloaded from the web, click on ""download all"" on the right side of each folder during the trial version BEFORE you apply the patch or enter any registration code that will necessitate you to disable Mixcraft from every being able to phone home again.. then you will have all the sounds and will not need to connect Mixcraft to the internet where it can possibly report being hijacked. "
+,muchmoreee,2011-10-05T21:23Z,I only made an account just to tell you: YOURE A GOD! Thank you so much for a patch that actually works. I've been searching for this for months.
+,bugsy321,2011-10-15T22:48Z,"VIRUS!!!  - ""Generic Downloader.x!ekv"""
+,bugsy321,2011-10-15T22:49Z,VIRUS!!! Generic Downloader.x!ekv
+,hyenas,2011-10-31T09:16Z,"If you are considering downloading this torrent, it works great if you follow directions properly. I did eventually run into the ""bad elk, corrupt foo"" error message everyone's been talking about but it's an easy fix. Just go to previous comment pages to find directions on how to resolve it. 
+
+I've been using this torrent for more then a month now to record my band in a closet with a cheap mic. So far no problems at all. Thanks Slickinator!"
+,DoomLord110,2011-11-03T01:30Z,Great torrent TY
+,zelda1805,2011-11-14T14:57Z,"Hey, I have a problem. I open the first file, and press the button that says patch, open the next file, click the center of the window with the two skulls or whatever they are, and then it says ""Can not find the file. Search the file?"" What should I do? I can't find any file that has to do with mixcraft."
+,zelda1805,2011-11-17T16:09Z,"Ok, never mind, I got it to work. If anyone else has this problem, you have to have mixcraft downloaded first, then use this patch. I had the bad elk problem but i followed the directions and now everything works great. Thanks!"
+,PhantomAnnu,2011-11-24T11:44Z,Crazy fucking download speed! Thanks kids
+,Trigenio,2011-12-22T02:46Z,after a while it doesnt work anymore c++++++++ error something like that its probally only if you connect to the internet
+,spunkster,2012-02-11T00:30Z,"Great rip! I've been using it for about 6 months and it's great. 
+
+After using it to make like 5 tracks, it will probably start popping up with an error ""Bad elk/corrupt foo"". Just follow the instructions precisely described by commenter azzakidi (posted on 2011-05-01 00:17 CET), and it will fix it right up. Cheers!"
+,floggingmike,2012-02-11T17:31Z,"When I click on the MDT application to patch it, a window pops up saying that ""Windows cannot access the specified device, path, or file. You may not have appropriate permissions..."" How do I fix that?"
+,itsthozeguyz,2012-04-17T06:49Z,"once everything is downloaded, can I still stay connected to the internet or do I have to stay disconnected to use mixcraft"
+,keibafan,2012-05-09T04:43Z,Another terrific utility from you...thanks for collecting and uploading the best versions.
+,iEslam,2012-05-25T13:05Z,"for those having Bad Elk/ corrupt fo
+
+1. 
+just install a program called:
+Revo Uninstaller Pro
+it's here on piratebay just search for it
+
+2. 
+and then uninstall mixcraft completely VIA Revo Uninstaller Pro
+
+3. 
+via Revo Uninstaller Pro
+click scan, and delete all results and click finish
+
+4.
+install mixcraft again and enjoy!"
+,tarik1995,2012-06-12T23:43Z,"""unable to backup file 'C:Program FilesAcoustica Mixcaft5mixcraft.exe' Please Try Another Name""
+
+Please Tell Me Im Not Doing Something Right ?"
+,smurph89,2012-06-21T17:06Z,"I had to get a account just to thank you u are a god, mixcraft 5 works great u do run into a bad elk/ corrupt foo problem after a bit but itâs a easy fix . follow steps on previous comment page and good as new !  "

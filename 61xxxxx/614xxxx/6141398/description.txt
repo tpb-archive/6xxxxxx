@@ -1,0 +1,27 @@
+Today Spanish PlayStation 3 developer JaicraB has released a patched LV2Diag.self file which allows users to skip the Blu-ray drive 'BD FIRMWARE' and 'Blu-ray Disc Player Revoke List' steps while doing PS3 Firmware updates.
+
+Download: JaicraB's Patched LV2Diag.self for PS3 
+
+To quote, roughly translated: I modified the Lv2diag.self with the sole purpose of being able to put an UPDATE without having to rely on the reader. It is one more step to take advantage of flaws in the PS3 controller BD. 
+
+The change is based on skip two steps in the upgrade process. "BD FIRMWARE" and "Blu-ray Disc Player Revoke list." Whose patches are: 
+
+0x3CF0 offset = 0x419E0044 
+offset = 0x48000034 0x3C50 
+
+This allows you to skip the two functions related to the BD-Drive. Avoid the error and let the system continue to update. 
+
+Still not solved the problem without running Hombrews reader. I hope a solution comes soon. Yet the purpose of this is not piracy, but a step to the console without reader scene. 
+
+USE 
+Activate Service Mode. 
+Copy the root of the USB Lv2diag.self entered. 
+Copy the root file update PS3UPDAT.PUP desired. 
+Turn on the PS3 with the USB port inserted in 0 (the closest to the reader.) 
+Wait until it turns off. 
+Copy the STEP2 Lv2diag.self (not provided for me). 
+Insert the USB port 0. 
+Turn and go off within seconds. 
+CLARIFICATIONS 
+
+Needless to say, but just in case. It is your responsibility. Compatibility is the same as the original Lv2diag.self. Lv2diag is a dangerous tool, to inform it. Psmaniaco Thanks for testing it!

@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+,mysteryfancy,2011-02-10T14:28Z,Error: The system can not find the file specified !!!
+,aarque,2011-02-13T15:39Z,"Users may get an error after installing this scenery. A warning screen with the message ""1.00000 is greater than 100000.00000;"" clicking ok clears it. The problem is from two effects files associated with SBBR airport and that is how you can find them. They are in the effects folder and called ""SBBR-1lamps0.fx"" and ""SBBRluz.fx."" After you open them in notepad, their contents look like this (SBBRluz):
+ [Library Effect]
+Lifetime=5
+Version=1.00
+Radius=10000
+Priority=0
+
+[controller.0]
+lifetime=0.0, 0.0 
+type=3 
+distance=5000.00, 5000.00
+delay=1.00, 10000000.00
+x offset=0.00, 0.00
+y offset=0.00, 0.00
+z offset=0.00, 0.00
+effect.0=SBBRluz_, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00
+
+Originally, the second number in the ""delay="" line was a series of 9's, I forget where the decimal was, but I'm pretty sure it was at the beginning of the string. By examining other light oriented .fx files, I decided the 9's should be replaced with 10 million, no commas, in keeping with those other effect files. The warning went away, but I haven't tested SBBR."

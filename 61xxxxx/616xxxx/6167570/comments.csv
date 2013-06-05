@@ -1,0 +1,12 @@
+User Type,Username,Date,Text
+,rectify,2011-02-11T18:50Z,Won't work for me.. (unibody macbook pro) latest osx..
+[T],nobody2007,2011-02-11T22:19Z,"check out following l*ink  [[http://ncrypt.in/folder-gIiKeUrdub06bfz0x4zHcZrIuJohKuwen1xVTur1Txo=]]  w/o ""[]"""
+,kompuntu,2011-02-12T14:03Z,"It didn't work for me either (not right away, anyway).
+All you have to do is change the permissions on the Sparrow.app directory under the /Applications.
+I did it like this:
+cd /Applications
+chmod -R 774 Sparrow.app
+
+And that seems to fix it.
+Working fine now..."
+,jaxxnix,2011-02-13T11:53Z,Why is this 50megs? When the online org file is just under 10mb

@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+[T],dada_sh,2011-02-04T16:18Z,"@ promodsharma
+
+The Website is showing  Autorun Virus Remover  V2.3(Jan 20, 2011) & not 2.6 as you mentioned 
+
+after installing the latest release from the site update the software & cheking the ""About"" the below info are showing:
+
+Program Ver: V3.0 Build0201
+Database Ver: 20110202
+Copyright (c) 2006-2011
+
+Safe to try... "
+,AARRGG,2011-03-05T07:43Z,"autorun viruses can be stopped by the following means
+
+autoplay should be deactivated in windows because of transferrable viruses that infect via external hard drives such as flash drives and portable hard drives. the viruses like this are made to replicate themselves onto the pc and then retransfer to any external data storage device to keep the spread going. 
+
+go to start menu and press run
+type in gpedit.msc
+
+navigate to computer configuration/administrative templates/system folder and locate ""turn off autoplay"" in that folder list. right click and go to properties. set to enable and change the newly highlighted area to ""all drives. press ok and close all group policy windows. done"

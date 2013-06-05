@@ -1,0 +1,31 @@
+Musics of Bleach Heat the Soul 6 on PSP in mp3 format, enjoy !
+
+
+
+How to convert musics of bleach Heat the soul 6
+musics are in SGB files (probably stands for Sound Game Background)
+Let\\\'s see information about these files
+
+file *.sgb
+00.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+01.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+02.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+03.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+04.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+05.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+06.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+07.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+08.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+09.sgb: RIFF (little-endian) data, WAVE audio, stereo 44100 Hz
+...
+
+then try to convert to mp3 file
+lame 00.sgb
+Unsupported data format: 0x0270
+
+it means that these wav used the Sony ATRAC-3 codec !
+at first convert to basic wav, next convert to mp3 file
+
+ls *.sgb | cut -d\\\'.\\\' -f1 | xargs -n1 -i mplayer -ao pcm:file={}.wav {}.sgb
+mkdir output
+ls *.wav | cut -d\\\'.\\\' -f1 | xargs -n1 -i lame {}.wav output/{}.mp3

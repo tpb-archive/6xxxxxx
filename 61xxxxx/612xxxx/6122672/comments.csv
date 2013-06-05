@@ -1,0 +1,82 @@
+User Type,Username,Date,Text
+[V],meech,2011-01-23T19:39Z,"Sorry took so long to upload this season.  Life has been busy.  However, the final season 7 is coming along well and shouldn't be too long before I can upload it.  Enjoy!"
+,teqno79,2011-01-24T16:27Z,"thx a lot meech for all this, have d/led all of your rips they are awesome so whats next? atlantis?"
+,eXon_,2011-01-25T02:22Z,I hope there will be a HQ version of Star Trek TNG...
+,sammygm,2011-01-25T03:58Z,@eXon I think he already made all TNG Seasons in HQ
+[V],meech,2011-01-25T13:11Z,"@exon:
+Yes, I've already uploaded Star Trek Next Generation.  That was my first upload.  Just click on my user name in the Torrent Header (or click here: http://thepiratebay.org/user/Meech) to see my other torrents.  TNG is on page 2."
+,Duder82,2011-01-26T14:47Z,"Thanks man.
+
+What application are you using to rip these, btw? And what kind of settings exactly, if you don't mind me asking.
+I've been meaning to rip some DVD's as well, but don't really have any idea what's good and perhaps easy to use."
+[V],meech,2011-01-28T13:20Z,"@duder82:
+Sorry haven't gotten back to you yet.  Life has been busy lately.  I will send you a message through piratebay with the information about encoding settings.  It would take up too much space to do it here through a comment.  Will try to get back to you before the weekend is up."
+,Duder82,2011-01-28T20:39Z,"That's cool, no hurries.
+
+I'm mainly looking to just reclaim a lot of shelf real estate by ripping the DVD's and stashing them in storage somewhere."
+,unbreak11,2011-01-29T21:09Z,"Hello...
+
+THANK YOU SO MUCH FOR THESE!!!
+I had been looking all over the place for good quality videos of star trek.. 
+Can you please finish the season 7 of voyager? LOL im watching the season 6 and almost done with that...
+
+also, do you have any intent of doing star trek enterprise in this high quality too?
+
+THANK YOU AGAIN!"
+,eXon_,2011-01-30T01:09Z,Thanks man! I had no idea that you had ripped TNG already and I also found an old favorite of mine Space above and Beyond... Big thanks for all these series I enjoy so much!
+[V],meech,2011-02-03T20:12Z,"@duder82:
+I can't seem to get into my piratebay forum account.  So I will post here.  Sorry to others for taking up so much space in a comment.
+
+I use a great free program called Handbrake.  It is powerful, but also one of the easier encoders to use.  They update it usually on a daily basis with ""nightly"" releases.  The settings I use are listed below in the next comment. Note: these settings are very high and may take your computer a long time to encode if you don't have a powerful computer.  My i7 takes almost 2 hours for each 45 minute show (2-pass encode).  The settings can be adjusted to speed things up a little bit.  I would do some research on their website as to what settings affect encode speed vs. quality.  There is a lot of info there.  Some of the settings, in particular target size or RF value (for constant quality setting) can take some trial and error.  I usually start by doing a constant quality RF (read up on what that means) of 18.5 for movies and for the first couple episodes of a series I'm ripping to see what size 18.5 gives me.  Let me know if you have any other questions."
+[V],meech,2011-02-03T20:13Z,"The options string I use for t.v. shows: b-adapt=2:rc-lookahead=50:ref=8:bframes=8:direct=auto:me=umh:subq=9:merange=64:analyse=all:trellis=2
+
+Or in other words:
+PICTURE TAB
+Anamorphic: Loose
+Modulus: 16
+Cropping: Automatic
+
+VIDEO VILTERS
+Detelecine: Default
+Decomb: Default
+Deinterlace: Off
+Denoise: usually off or Weak if bad noise
+Deblock: Off
+
+VIDEO
+Video Codec: H.264
+Framerate (FPS): Depends...usually 23.976
+2-Pass Encoding: on
+Turbo first Pass: off
+Target Size: Depends
+
+AUDIO:
+AC3 Passthru (choose 5.1 ch if available)
+
+ADVANCED
+Ref Frames: 9
+Mixed References: on
+B-Frames: 8
+Adaptive B-Frames: Optimal
+Direct Prediction: Automatic
+Weighted B-Frames: on
+Pyramidal B-Frames: on
+Motion Estimation Method: Uneven Multi-Hexagon
+Subpixel Motion Estimation: 9
+Motion Estimation Range: 64
+Anaylsis: All"
+,Duder82,2011-02-06T03:21Z,"Thanks man, much appreciated."
+,Nei1,2011-03-27T04:19Z,"I love it when Meech talks ""tech."""
+,SwedishMeatball,2011-10-17T17:27Z,"Meech: 
+Thank you for the wonderful torrents. I have only watched the first episode and it is awesome. Keep doing single season torrents, it makes life much easier. However, might you be able to do a torrent of the extras for the entire series?
+
+Downloaders:
+My first few downloads, I was concerned about exceeding my data allocations or slowing the downloads by using uploading for the available bandwidth. I set the uploads to 1kb/sec max.
+
+I found out that my provider wasn't going to slow down or stop my internet access and that it did not affect my downloading speeds. So, I opened the uploads up fully. 
+
+The other side of this is that I have noticed a huge percentage of leechers. I am seeding everything that I have downloaded, until I reach at least 2/1 ratio. Please give back to the community! Trek attitude says to give as much as you can, because it makes you a better person!
+
+My uploads are set to unlimited, most of the time, on torrents I have completed.
+
+The ones I am still downloading, I am throttling the upload back, if my download speed is less than my upload speed. So, if you are downloading this torrent, set the upload limits to 0 (zero) so they are unlimited! I will respond in kind!"

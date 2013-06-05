@@ -1,0 +1,144 @@
+Description
+
+GUI unattended,Passes WGA, no key required already integrated
+
+
+Applications
+
+Accessibility Options
+Briefcase
+Games
+Internet Games
+Pinball                            
+Asynchronous Transfer Mode (ATM)
+Cameras and Camcorders
+Display Adapters (old)
+IBM ThinkPad
+Modems
+Scanners
+Sound Controllers
+
+Multimedia
+
+Images and Backgrounds
+Luna desktop theme
+Movie Maker
+Music Samples
+Speech support                
+MSN Explorer
+
+Operating System Options
+
+Blaster/Nachi removal tool
+DR Watson
+Manual Install and Upgrade
+Search Assistant
+Tour
+Zip Folders
+
+Services
+
+Alerter
+Beep Driver
+Error Reporting
+Indexing Service
+Messenger
+
+Directories
+
+DOCS
+SUPPORT
+VALUEADD
+   
+[KeepFiles]
+msconfig.exe
+
+[RemoveFiles]
+clock.avi
+yahoo.bmp
+swtchbrd.bmp
+
+[Patches]
+TcpIp = 1000
+UsbPoll = 250
+DoUxTheme
+DoSFC
+
+[Tweaks]
+Desktop-Internet Explorer icon-Hide
+Desktop-My Computer icon-Show
+Desktop-My Documents icon-Show
+Desktop-My Network Places icon-Hide
+Desktop-Recycle Bin icon-Show
+Desktop-Wrap icon titles-Enable
+Explorer-Add 'Command Prompt' to folder context menu
+Explorer-Advanced Search: preconfigure options
+Explorer-Associate additional file types with Notepad
+Explorer-Disable Beep on errors
+Explorer-Disable Prefix: Shortcut to
+Explorer-Recycle Bin: allow to rename and delete
+Explorer-Show Drive Letters in front of Drive Names
+Internet Explorer-Disable Internet Explorer link creation
+Internet Explorer-Disable Outlook Express link creation
+Internet Explorer-Set Internet Explorer to accept 10 connects at a time
+My Computer-Add Administrative Tools
+Performance-Disable Last accessed Timestamp on files
+Performance-Disable Tracking of Broken Shortcut Links
+Performance-Disable Warn on low disk space
+Performance-Run 16-bit Windows applications in a separate process
+Privacy-Remove Alexa
+Start Menu-Add Administrative Tools menu
+Start Menu-Clear most recently opened documents list on logoff
+Start Menu-Disable Highlight newly installed programs
+Start Menu-My Computer-Display as a link
+Start Menu-My Documents-Display as a link
+Start Menu-My Music-Display as a link
+Start Menu-My Network Places-Don't display this item
+Start Menu-My Pictures-Display as a link
+Start Menu-Network Connections-Don't display this item
+Start Menu-Printers and Faxes-Display as a link
+Start Menu-Reduce popup delay
+Taskbar-Disable Hide inactive icons
+Taskbar-Disable Language-Bar
+
+
+[DesktopThemes]
+F:\operating systems\Themes\SevenVG Black Normal.theme
+F:\operating systems\Themes\WinStyle2.theme
+
+[GuiRunOnce]
+regedit /S %SOURCE%\RegTweaks.reg
+regedit /S %SOURCE%\MyTweaks.reg
+
+[Hotfixes]         
+DotNetFX3.5SP1 v2.0.7z
+Vis C 2005 2008 Sp1
+DirectXRuntimes-200903-32
+Java SE Runtime Environment 6u17
+WindowsMessenger5.1
+CmdOpenAddon-2.0.3.7z
+sysinternals2009
+DirectX_for_Managed_Code_1.0.0
+HashCheck 2.1.11
+CabTool v1.8 Update2
+CPLBonus_v9.8.2
+VistaDriveIndicator_addon_v2.2_uninstallable
+MicrosoftRuntimeLibraries-1.4.8
+Notepad2Addon.x86-32.7z
+AIOVistaAeroCursors
+VistaRocketDock1.3.5
+VistaRTMFonts
+VistaSceenSavers
+VistaSoundsReplacement
+VisualTaskTips3.4
+WindowsSidebar_AlkyXP1.1
+Atomic Alarm Clock v5.7
+UniscribeUpdate-1.1.0
+Mozilla Firefox 3.5.5
+ozziexplite FILES
+WinRAR 3.90.0.0
+IE7en 2.0.4a.7z
+
+Dave3737
+
+uploaded by jinualex for TPB

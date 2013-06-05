@@ -1,0 +1,46 @@
+                           : Matroska
+File size                        : 616 MiB
+Duration                         : 2h 7mn
+Overall bit rate                 : 677 Kbps
+Writing application              : Lavf52.0.0
+Writing library                  : Lavf52.0.0
+
+Video
+ID                               : 1
+Format                           : MPEG-4 Visual
+Format profile                   : Simple@L1
+Format settings, BVOP            : No
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : V_MPEG4/ISO/ASP
+Codec ID/Info                    : Advanced Simple Profile
+Duration                         : 2h 7mn
+Bit rate                         : 536 Kbps
+Width                            : 640 pixels
+Height                           : 272 pixels
+Display aspect ratio             : 2.35:1
+Frame rate mode                  : Constant
+Frame rate                       : 20.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.154
+Stream size                      : 487 MiB (79%)
+Writing library                  : Lavc52.48.0
+
+Audio
+ID                               : 2
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 2
+Codec ID                         : A_MPEG/L2
+Codec ID/Hint                    : MP2
+Duration                         : 2h 7mn
+Bit rate mode                    : Constant
+Bit rate                         : 128 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 44.1 KHz
+Bit depth                        : 16 bits
+Stream size                      : 116 MiB (19%)

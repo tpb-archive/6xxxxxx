@@ -1,0 +1,39 @@
+ http://forum.xda-developers.com/showthread.php?t=910692
+
+
+This rom is CM6 for the Verizon Fascinates, its Froyo based on the CyanogenMOD codebase.
+
+This rom is a VERY early alpha! Don't expect anything to work in any way!
+
+Please do not submit bug reports, I know whats broken at this point!!!
+
+EVERYONE SHOULD GIVE A *HUGE* THANKS TO IVORYCRUNCHER WHO DONATED THE FASCINATE TO ME AND MADE THIS ALL POSSIBLE!
+
+Other thanks:
+Thanks to Birdman and JT1134 for helping me get up to speed on the Fascinate,
+and for their Eclair RIL modifications to get me going on the Froyo RIL!
+And JT for pointing out that I commented a line I shouldn't have 
+
+YOU MUST BE ON A VOODOO KERNEL PRIOR TO FLASHING ANY OF THIS!!!
+
+INCOMPLETE LIST OF THINGS THAT DON'T WORK
+Sensors
+Lights
+GPS
+Camera
+Wifi
+Just about all the rest of the hardware
+
+INCOMPLETE LIST OF THINGS THAT *DO* WORK
+Calls
+Audio
+Data
+SMS
+
+V1:
+BE SURE TO FLASH NEW KERNEL!
+
+Data now works
+Sms now works
+SDCard mounts properly
+A big thanks to jt1134 for helping me through my giant mental block on SMS with his awesome sms patches!

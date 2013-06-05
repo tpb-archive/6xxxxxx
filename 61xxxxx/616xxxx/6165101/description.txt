@@ -1,0 +1,32 @@
+================================================================================--------------------------------------------------------------------------------
+I proudly present to you Visual Boy Advance <VBA> emulator for GBA, GB games. 
+
+Version: 1.8.0 beta
+Special Edition: LAN connectivity + WiFi connectivity enabled...
+--------------------------------------------------------------------------------================================================================================
+
+Frequently Asked Questions and Problems Faced:
+==============================================
+**********************************************
+==============================================
+
+1. A common problem related to DISCONNECTION of the server system:
+==================================================================
+
+Video of the problem <from emulator-zone.com forum>:
+ 
+http://encodable.com/cgi-bin/filechucker.cgi?action=landing&path=/&file=clip0005.avi
+
+If the two computers are in the same building why not use private ip's. A VPN is only going to complicate things. If these computers are not in the same building then a VPN may be best and I would suspect routers and wire walls. Otherwise, sorry.
+
+2. VBA Link 1.8.0 version's Communication error:
+================================================
+
+Server ip address or hostname, type "localhost" there. It works for most of the games. If it doesn't work, then inform me, I will try to find a fix to it.
+
+3. VBA Link 1.8.0 not compatible with VBA Link 1.7.2 save files:
+================================================================
+
+It is generally not compatible and freezes the emulator or else crashes it. Well, you can try moving the .sav file and opening it with VBA Link, or just the .sgm file. If it doesn't work, then run it with the LAN version <1.7.2> rather.
+
+Greetz... :)

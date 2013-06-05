@@ -1,0 +1,34 @@
+- Improves the graphics quality and detail
+- Disables crash dialogs on game exit
+- You can change the language by editing one setting
+- Disables the login screen
+- Enables fullscreen startup
+- Disables debugging information display
+- You can skip all the intro videos
+- Lots of other tweaks with descriptions
+
+
+Install:
+
+Make a backup of the original System.cfg
+Copy everything in the Crysis 2 directory
+
+
+Change the startup resolution by opening System.cfg with Notepad
+Under the Display Settings, edit the r_width and r_height values
+
+You can change the language by editing the g_language value
+You can set it to english (current), french, spanish, german or turkish
+
+If you want to enable the intro videos, change the g_skipIntro value to 0
+
+
+Uninstall:
+
+Restore the original System.cfg
+Remove the Config directory in GameCrysis2
+
+
+Cheers,
+
+ADHDerby

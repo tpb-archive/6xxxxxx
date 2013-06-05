@@ -1,0 +1,6 @@
+72 Working Open Trackers(Tested 11.02.2011)-ANM
+
+
+A BitTorrent tracker is a server that assists in the communication between peers using the BitTorrent protocol. It is also, in the absence of extensions to the original protocol, the only major critical point, as clients are required to communicate with the tracker to initiate downloads. Clients that have already begun downloading also communicate with the tracker periodically to negotiate with newer peers and provide statistics; however, after the initial reception of peer data, peer communication can continue without a tracker.
+
+Open trackers can be used by anyone by adding the tracker address to an existing torrent, or they can be used by any newly created torrent.

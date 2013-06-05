@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,CrAcKeZ,2011-02-13T16:50Z,"Thanks bigwimpie for the upload. Who the hell is marking this torrent as bad? ..idiots, try before deside(this also means that if you like the software and need it so bad, buy it)"
+,some-young-guy,2011-02-18T04:57Z,"It says 64 bit processors, but I successfully installed it on my 32 bit Win 7 HP.  Was not successful on installing it to a 32 bit XP though."
+,some-young-guy,2011-02-19T15:33Z,"Imagine this, you wipe your drive with DBAN and there is nothing at all that remains. On your external HDD, you have an Acronis TIB file that has imaged your complete machine. Do you have to reinstall your OS, then your drivers, then Acronis just to be able to migrate your backup, or is there a method one can use to imprint the backup image onto the wiped HDD?
+
+I successfully converted the TIB to ISO with IMGburn, downloaded WinRAR but cannot locate the process to convert the ISO to an EXE, or a program I'd need to split the 60GB TIB/ISO file up to burn those frags discs,
+
+Does anyone have a work around? Acronis sure set the stage for users to greatly depend on their product for all aspects of cloning. "
+,zimbixel,2011-02-20T09:54Z,"@some-young-guy:
+try this: install true image on another computer and then use the Bootable RescueÂ Media Builder utility to burn a bootable recovery cd.
+configure your bios to boot from your cd drive first, then boot up from the cd and you can restore your .tib backup from your external hdd"
+,Bob__Dole,2011-02-21T07:09Z,"some-young-guy, might I suggest you read the freakin' directions on your backup software before depending on it?
+
+Damn WTF?  It is standard operating procedure to create a bootable restoration CD or USB/drive, you should NEVER EVER assume you are going to boot up an operating system to restore a disc image, it should ALWAYS be a plan that you can get the entire job done on the target system replacing ONLY any parts that have failed - whether that be a broken HDD or just a filesystem corrupted by malware.
+
+This applies to ALL partition backup software, it is not a ""work around"" to use the product to do what it is intended to instead of some strange assumptions."
+,some-young-guy,2011-02-22T04:30Z,"@ Bob Dole
+
+I did not rely on an assumption and move forward, I am just trying to learn the process so when this 4 year old machine takes a shit, I have toilet paper in hand.  Comp Tech is a semi new subject to me and though I at least know that if I were to completely obliterate my drives, I at least have enough to get me back to full running speed within 36 hours.
+
+As far as Acronis, I have the product's very confusing instruction manual that I could swear is only intended for the author thereof to read, or any of his pupils.
+
+Once again, my ? is this; Do I need to install my OS, drivers etc to get Acronis to boot install the image back onto this same machine, or can I boot from the boot CD and locate the backup ISO and/or clone?  I did a test run this afternoon and it didn't perform like that."
+,some-young-guy,2011-02-22T04:34Z,I stumbled onto a blog that said to copy/paste the clone to replace (the C: drive?) for the quick work around.  The clone end product is exactly the same as the Windows.Old folders that are left behind after an OS is formatted/upgraded.
+,mgw6969,2011-03-28T16:02Z,works great on windows 7. thanks bigwimpie.
+,dsrs,2011-04-14T16:33Z,"never trust dummies who say 'works great'
+YES it installs. YES you can make a backup.
+but check your firewall and watch acronis dial home
+you will only know if it 'works' when, after 30 or 60 days you try to RESTORE a backup
+if it works then, great!
+tell us about it, then"
+,chromediva,2011-04-17T18:34Z,Crashed my pc. Thankfully system restore saved me from a reformat.
+,randomstudman,2011-05-13T02:44Z,Man this file is really buggy I dont know if its the version or the file but it took me 2 times to instal then the program still wont work it freezes
+,shekhar3,2011-10-02T19:33Z,this file is really buggy 
+,Suomisisu,2012-04-10T03:00Z,"Can you fucking losers at least be clear and say if this works or not instead of just posting absolute shit in the torrents section?
+
+1. Does the torrent work?
+2. Is it activated or is there a serial or keygen?
+3. Were you able to make a backup disc to restore the image to HDD from?
+4. Was everything sucessful?
+
+Seriously you morons stop fucking around and actually help others out for christ sake. It's people like YOU guys that make good torrent sites total unreliable crap. If you downloaded this your obligation is to at least say if it bloody works or not..."

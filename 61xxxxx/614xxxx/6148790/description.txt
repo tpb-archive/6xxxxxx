@@ -1,0 +1,126 @@
+
+Windows Loader v1.9.6:
+*********************
+
+
+
+About:
+*****
+
+This is the loader application that's used by millions of people worldwide, well known for passing Microsoft's WAT (Windows Activation Technologies) and is arguably the safest Windows activation exploit ever created. The application itself injects a SLIC (System Licensed Internal Code) into your system before Windows boots; this is what fools Windows into thinking it's genuine.
+
+
+Features:
+*********
+
+    - Can be run as a standalone application
+    - Works well with all system languages
+    - Argument support for silent installs
+    - Can be used for pre-activation
+    - Application integrity checking
+    - Custom error handling
+    - Support for hidden partitions and complex setups
+    - Can work alongside Linux's GRUB or any other boot manager
+    - Works with TrueCrypt and many other types of hard drive encryption applications
+    - Add your own certificates and serials externally
+    - Offers certificate and serial installation only for users with an existing SLIC 2.1
+    - Automated system profiling (The application matches everything up for you)
+
+
+The rundown:
+************
+
+    - Compatible with Windows 7 SP1 and all system updates
+    - Will run on x86 and x64 systems 
+    - No core system files get modified 
+    - No extra processes are run so you have nothing eating at your RAM 
+    - All key parts of the exploit are encrypted with a custom encryption 
+    - The exploit runs before Windows so it's harder for Microsoft to prevent 
+    - The exploit patches all necessary tables making activation look authentic 
+    - The application will select the best profile for your system during installation 
+    - Each and every user has a unique version of the exploit installed on his/her system 
+
+
+Supported operating systems:
+****************************
+
+    - Windows 7 Ultimate
+    - Windows 7 Ultimate E
+    - Windows 7 Professional
+    - Windows 7 Professional E
+    - Windows 7 Home Premium
+    - Windows 7 Home Premium E
+    - Windows 7 Home Basic
+    - Windows 7 Starter
+    - Windows 7 Starter E
+    - Windows Vista Ultimate
+    - Windows Vista Business
+    - Windows Vista Business N
+    - Windows Vista Home Premium
+    - Windows Vista Home Basic
+    - Windows Vista Home Basic N
+    - Windows Vista Starter
+    - Windows Server 2008 R2: Enterprise
+    - Windows Server 2008 R2: Standard
+    - Windows Server 2008 R2: Foundation
+    - Windows Server 2008: Enterprise
+    - Windows Server 2008: Standard
+    - Windows Server 2008: Foundation
+    - Windows Small Business Server 2008
+
+Note: You must be running build 7600 or greater for Windows 7 and Windows Server 2008 R2.
+Note: I don't recommend using any of the Windows 7 E editions.
+Note: Windows 7 N editions will only be supported when OEM SLP serials leak.
+
+Version 1.9.6 changes (02/03/2011):
+*********************************
+
+- Added a new GRLDR version
+- Added Aquarius, Hannspree, Hyrican, Lanix, Semp Toshiba, Twinhead & Synnex SLIC's
+- Added Exper, Fujitsu and Hannspree Starter serials
+- Added Dealin, Founder and Fujitsu Home Basic serials
+- Added Gigabyte and Shuttle Home Premium serials
+- Added Dealin and Mercer Professional serials
+- Added Fujitsu Ultimate serial
+- Added HP serials for UltimateE, ProfessionalE, HomePremiumE & StarterE
+- Other minor tweaks and fixes
+
+
+MD5: ad78cbc18cdbfc6a288073859d06cfab
+SHA-1: 13c24c954d65eea3990c91c13f7e336c20a387f8
+
+
+Credit-Daz
+
+***********************************************************************************
+
+Instructions:
+*************
+1.Extract the folder
+
+2.Install Windows Loader
+
+3.Restart your computer
+
+4.Done
+
+
+For reporting bad or suspicious torrents:               
+http://forum.suprbay.org/forumdisplay.php?fid=29
+
+Report Comment Spammers Here:             
+http://forum.suprbay.org/showthread.php?tid=51644
+
+
+
+It is scanned by using Kaspersky and Nod32 antivirus, and its completely virus free, Please help me by seeding my torrents.
+
+
+
+For more downloads please visit http://thepiratebay.org/
+
+
+Cheers Matey! :-)
+
+
+		

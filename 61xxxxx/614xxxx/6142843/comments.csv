@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,Mno74,2011-02-01T12:12Z,"Whatever you do: DO NOT TRY THIS ON 3.56! If you do youâ€™ll forever remain in
+Factory/Service mode â€” the point of no return. Maybe someone, some day will figure out a clever
+way if youâ€™re stuck, but till then, youâ€™ve been warned.
+The idea behind JaicraBâ€™s patched Lv2diag.self is that your Blu-ray drive, should that be broken,
+will be skipped during the PS3UPDAT.PUP scan, which means you can downgrade/upgrade your
+firmware without a functional Blu-ray drive present. Personally I didnâ€™t know a broken Blu-ray
+drive would prevent you from doing that, but hey â€¦ you learn something new everyday.
+The other reason this patch was created is for PS3â€²s with a 256MB NAND. If you recall
+downgrading a PS3 with a 256MB NAND will render Blu-ray playback inoperable. This aims to fix
+that when downgrading from 3.50/3.55 to 3.41. Again: do not attempt a downgrade from 3.56.
+This Lv2diag.self is to be used as the first in any PS3 downgrading procedure. Remember two (2)
+â€œLv2diag.selfâ€ files are used: 1) for performing the actual downgrade while in Factory/Service
+mode; and 2) for exiting Factory/Service mode, returning your PS3 to normal."

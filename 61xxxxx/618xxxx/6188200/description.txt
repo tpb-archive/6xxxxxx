@@ -1,0 +1,18 @@
+xReg Plus is a simple app that will allow you to backup and restore your xRegistry.sys file to/from USB. Good for instantly restoring your settings and access to your save data again after a Service Mode install.
+
+1: Press SELECT to BACKUP xRegistry.sys to root of USB000
+
+2: Press START to RESTORE xRegistry.sys from root of USB000
+
+Also includes Activation Reviver.
+
+You must have a backup of your act.dat file and the exdata folder must already exist in dev_hdd0/home/00000001/ (Currently that is the only address it copies to).
+How it works..
+
+1: Place act.dat onto root of USB stick and place in USB000 (slot furthest right)
+
+2: Press CIRCLE to TRANSFER act.dat to xReg Plus (XREG00001/USRDIR) from USB
+
+3: Press CROSS to RESTORE act.dat to PS3 exdata directory
+
+Once this is done you only have to use step 3 each time you reboot and want to play DLC.

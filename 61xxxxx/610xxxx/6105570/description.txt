@@ -1,0 +1,329 @@
+97 Things Every Programmer Should Know - Collective Wisdom From The Experts
+
+
+Editor: Kelvin Henney
+
+ISBN: 978-0-596-80948-5
+Format: PDF, 257
+Publisher: O'Reilly
+Pub. Date: February 2010
+
+
+::Content::
+
+
+Act with Prudence. . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Seb Rose
+
+Apply Functional Programming Principles.. . . . . . . . . . . . 4
+Edward Garson
+
+Ask, "What Would the User Do?" (You Are Not the User). . . 6
+Giles Colborne
+
+Automate Your Coding Standard.. . . . . . . . . . . . . . . . . . 8
+Filip van Laenen
+
+Beauty Is in Simplicity.. . . . . . . . . . . . . . . . . . . . . . . . 10
+JÃ¸rn Ã˜lmheim
+
+Before You Refactor. . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Rajith Attapattu
+
+Beware the Share.. . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Udi Dahan
+
+The Boy Scout Rule. . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Robert C. Martin (Uncle Bob)
+
+Check Your Code First Before Looking to Blame Others.. . . 18
+Allan Kelly
+
+Choose Your Tools with Care. . . . . . . . . . . . . . . . . . . . 20
+Giovanni Asproni
+
+Code in the Language of the Domain.. . . . . . . . . . . . . . 22
+Dan North
+
+Code Is Design.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Ryan Brush
+
+Code Layout Matters.. . . . . . . . . . . . . . . . . . . . . . . . . 26
+Steve Freeman
+
+Code Reviews. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Mattias Karlsson
+
+Coding with Reason. . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Yechiel Kimchi
+
+A Comment on Comments.. . . . . . . . . . . . . . . . . . . . . 32
+Cal Evans
+
+Comment Only What the Code Cannot Say.. . . . . . . . . . 34
+Kevlin Henney
+
+Continuous Learning.. . . . . . . . . . . . . . . . . . . . . . . . . 36
+Clint Shank
+
+Convenience Is Not an -ility. . . . . . . . . . . . . . . . . . . . . 38
+Gregor Hohpe
+
+Deploy Early and Often.. . . . . . . . . . . . . . . . . . . . . . . 40
+Steve Berczuk
+
+Distinguish Business Exceptions from Technical. . . . . . . . 42
+Dan Bergh Johnsson
+
+Do Lots of Deliberate Practice. . . . . . . . . . . . . . . . . . . 44
+Jon Jagger
+
+Domain-Specific Languages.. . . . . . . . . . . . . . . . . . . . 46
+Michael Hunger
+
+Donâ€™t Be Afraid to Break Things. . . . . . . . . . . . . . . . . . 48
+Mike Lewis
+
+Donâ€™t Be Cute with Your Test Data.. . . . . . . . . . . . . . . . 50
+Rod Begbie
+
+Donâ€™t Ignore That Error!.. . . . . . . . . . . . . . . . . . . . . . . 52
+Pete Goodliffe
+
+Donâ€™t Just Learn the Language, Understand Its Culture. . . 54
+Anders NorÃ¥s
+
+Donâ€™t Nail Your Program into the Upright Position.. . . . . . 56
+Verity Stob
+
+Donâ€™t Rely on "Magic Happens Here". . . . . . . . . . . . . . . 58
+Alan Griffiths
+
+Donâ€™t Repeat Yourself.. . . . . . . . . . . . . . . . . . . . . . . . 60
+Steve Smith
+
+Donâ€™t Touch That Code!.. . . . . . . . . . . . . . . . . . . . . . . 62
+Cal Evans
+
+Encapsulate Behavior, Not Just State.. . . . . . . . . . . . . . 64
+Einar Landre
+
+Floating-Point Numbers Arenâ€™t Real. . . . . . . . . . . . . . . . 66
+Chuck Allison
+
+Fulfill Your Ambitions with Open Source.. . . . . . . . . . . . 68
+Richard Monson-Haefel
+
+The Golden Rule of API Design.. . . . . . . . . . . . . . . . . . 70
+Michael Feathers
+
+The Guru Myth.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+Ryan Brush
+
+Hard Work Does Not Pay Off. . . . . . . . . . . . . . . . . . . . 74
+Olve Maudal
+
+How to Use a Bug Tracker. . . . . . . . . . . . . . . . . . . . . . 76
+Matt Doar
+
+Improve Code by Removing It.. . . . . . . . . . . . . . . . . . . 78
+Pete Goodliffe
+
+Install Me. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+Marcus Baker
+Interprocess Communication Affects Application
+
+Response Time. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Randy Stafford
+
+Keep the Build Clean.. . . . . . . . . . . . . . . . . . . . . . . . . 84
+Johannes Brodwall
+
+Know How to Use Command-Line Tools. . . . . . . . . . . . . 86
+Carroll Robinson
+
+Know Well More Than Two Programming Languages.. . . . 88
+Russel Winder
+
+Know Your IDE.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+Heinz Kabutz
+
+Know Your Limits.. . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+Greg Colvin
+
+Know Your Next Commit. . . . . . . . . . . . . . . . . . . . . . . 94
+Dan Bergh Johnsson
+
+Large, Interconnected Data Belongs to a Database.. . . . . 96
+Diomidis Spinellis
+
+Learn Foreign Languages.. . . . . . . . . . . . . . . . . . . . . . 98
+Klaus Marquardt
+
+Learn to Estimate.. . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+Giovanni Asproni
+
+Learn to Say, "Hello, World". . . . . . . . . . . . . . . . . . . . . 102
+Thomas Guest
+
+Let Your Project Speak for Itself. . . . . . . . . . . . . . . . . . 104
+Daniel Lindner
+
+The Linker Is Not a Magical Program. . . . . . . . . . . . . . . 106
+Walter Bright
+
+The Longevity of Interim Solutions.. . . . . . . . . . . . . . . . 108
+Klaus Marquardt
+Make Interfaces Easy to Use Correctly
+
+and Hard to Use Incorrectly. . . . . . . . . . . . . . . . . . . . . 110
+Scott Meyers
+
+Make the Invisible More Visible. . . . . . . . . . . . . . . . . . . 112
+Jon Jagger
+Message Passing Leads to Better Scalability
+
+in Parallel Systems. . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+Russel Winder
+
+A Message to the Future. . . . . . . . . . . . . . . . . . . . . . . 116
+Linda Rising
+
+Missing Opportunities for Polymorphism.. . . . . . . . . . . . 118
+Kirk Pepperdine
+
+News of the Weird: Testers Are Your Friends. . . . . . . . . . 120
+Burk Hufnagel
+
+One Binary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+Steve Freeman
+
+Only the Code Tells the Truth. . . . . . . . . . . . . . . . . . . . 124
+Peter Sommerlad
+
+Own (and Refactor) the Build.. . . . . . . . . . . . . . . . . . . 126
+Steve Berczuk
+
+Pair Program and Feel the Flow.. . . . . . . . . . . . . . . . . . 128
+Gudny Hauknes, Kari RÃ¸ssland, and Ann Katrin Gagnat
+
+Prefer Domain-Specific Types to Primitive Types. . . . . . . 130
+Einar Landre
+
+Prevent Errors.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+Giles Colborne
+
+The Professional Programmer.. . . . . . . . . . . . . . . . . . . 134
+Robert C. Martin (Uncle Bob)
+
+Put Everything Under Version Control. . . . . . . . . . . . . . 136
+Diomidis Spinellis
+
+Put the Mouse Down and Step Away from the Keyboard. . 138
+Burk Hufnagel
+
+Read Code. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+Karianne Berg
+
+Read the Humanities.. . . . . . . . . . . . . . . . . . . . . . . . . 142
+Keith Braithwaite
+
+Reinvent the Wheel Often. . . . . . . . . . . . . . . . . . . . . . 144
+Jason P. Sage
+
+Resist the Temptation of the Singleton Pattern.. . . . . . . . 146
+Sam Saariste
+The Road to Performance Is Littered
+
+with Dirty Code Bombs.. . . . . . . . . . . . . . . . . . . . . . . 148
+Kirk Pepperdine
+
+Simplicity Comes from Reduction. . . . . . . . . . . . . . . . . 150
+Paul W. Homer
+
+The Single Responsibility Principle.. . . . . . . . . . . . . . . . 152
+Robert C. Martin (Uncle Bob)
+
+Start from Yes.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+Alex Miller
+
+Step Back and Automate, Automate, Automate. . . . . . . . 156
+Cay Horstmann
+
+Take Advantage of Code Analysis Tools. . . . . . . . . . . . . 158
+Sarah Mount
+
+Test for Required Behavior, Not Incidental Behavior. . . . . 160
+Kevlin Henney
+
+Test Precisely and Concretely.. . . . . . . . . . . . . . . . . . . 162
+Kevlin Henney
+
+Test While You Sleep (and over Weekends).. . . . . . . . . . 164
+Rajith Attapattu
+Testing Is the Engineering Rigor
+
+of Software Development. . . . . . . . . . . . . . . . . . . . . . 166
+Neal Ford
+
+Thinking in States.. . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+Niclas Nilsson
+
+Two Heads Are Often Better Than One.. . . . . . . . . . . . . 170
+Adrian Wible
+
+Two Wrongs Can Make a Right (and Are Difficult to Fix). . 172
+Allan Kelly
+
+Ubuntu Coding for Your Friends. . . . . . . . . . . . . . . . . . 174
+Aslam Khan
+
+The Unix Tools Are Your Friends. . . . . . . . . . . . . . . . . . 176
+Diomidis Spinellis
+
+Use the Right Algorithm and Data Structure. . . . . . . . . . 178
+Jan Christiaan "JC" van Winkel
+
+Verbose Logging Will Disturb Your Sleep. . . . . . . . . . . . 180
+Johannes Brodwall
+
+WET Dilutes Performance Bottlenecks. . . . . . . . . . . . . . 182
+Kirk Pepperdine
+
+When Programmers and Testers Collaborate. . . . . . . . . . 184
+Janet Gregory
+Write Code As If You Had to Support It
+
+for the Rest of Your Life.. . . . . . . . . . . . . . . . . . . . . . . 186
+Yuriy Zubarev
+
+Write Small Functions Using Examples.. . . . . . . . . . . . . 188
+Keith Braithwaite
+
+Write Tests for People.. . . . . . . . . . . . . . . . . . . . . . . . 190
+Gerard Meszaros
+
+You Gotta Care About the Code. . . . . . . . . . . . . . . . . . 192
+Pete Goodliffe
+
+Your Customers Do Not Mean What They Say. . . . . . . . . 194
+Nate Jackson
+
+Contributors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 196
+
+Index.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
+
+
+##################################################################################
+
+My other torrents can be found here -             
+http://thepiratebay.org/user/amitverma
+
+Please help keeping the torrent alive. Thank you.
+
+Happy Reading
+Amit Verma
+##################################################################################
+
+
+

@@ -1,0 +1,26 @@
+New in MAGLDR113 :
+
+*Added support for Android Recovery
+*Added support for raw boot partition format (like in native android devices)
+*Fixed USBMassStorage data lost on big transfers
+*Fixed Power-Off-Cable-Plug-Stop. Phone now detects this situation and reboots. Battery controller inside LEO needs runtime control during charge, it implemented in OS.
+*V1.13 still compatible with 1.10 1.11 1.12. Future version maybe not compatible with previous, be warned.
+*Added option "ClearSD MBR". which erase MBR, so card can be formatted via any program after WP7 boot ("200 Mb problem").
+
+
+Future developerment :
+
+*planned to add Haret's startup.txt support for Android SD
+*fast boot support (?)
+*support of fixed partitions layout with ability to reflash any partition
+*WM65 NAND boot with any rom (?)
+*WM65 NAND boot with special designed roms for MAGLDR boot.
+
+
+Disclaimer
+
+This product is free to use at your own risk. We take no
+responsibility for any conflict, fault, or damage caused by
+this unlocking procedure. No warranties, implied or otherwise, are given if you agree to use this product.
+No problems were found while testing this product on several different devices, your experience may vary.
+This software is free, but not open source.

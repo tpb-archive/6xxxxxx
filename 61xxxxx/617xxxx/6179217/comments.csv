@@ -1,0 +1,15 @@
+User Type,Username,Date,Text
+,superivar123,2011-02-19T15:10Z,"werkt prima,
+
+heb zelf bij het invoeren van de key ff het internet eruit gehaald en het programma geblockt in firewall. "
+,evilspellcaster,2011-02-21T00:53Z,"Werkt inderdaad stukken beter dan bijvb Ashampoo WinOptimizer... 
+
+Maar vraagje: welke bestanden van TuneUp Utilities 2011 (exe-files, drivers, processen) moet ik juist blocken in m'n firewall (om te voorkomen dat ze contact met internet maken)? Want voor alle zekerheid heb ik momenteel de weg naar buiten voor alles geblokkeerd, maar dan kom ik uit op meer dan 16 entries (waaronder 1 service). Lijkt me wat overbodig. 
+Daarom: welke essentiĂÂŤle bestanden moeten er juist geblocked worden, en heeft iemand weet van entries in het Host-bestand die ik kan toevoegen om te voorkomen dat TU-2011 contact maakt met het moederschip om de activatie te checken (om dan te kunnen blacklisten?). 
+
+Rechtstreeks de Host-file aanpassen lijkt me nog het meest effectief, dus als mij iemand met dit alles kan helpen? Ik ken er wel het een en ander van, maar ben hierin geen super-expert :(
+Thx op voorhand."
+,evilspellcaster,2011-02-22T08:41Z,"Mijn ervaringen met versie 2010 zijn anders..... heel onverwacht blacklisten ze toch, de ene keer sneller dan de andere.
+
+Best blocken dus voor de zekerheid, als je een 3d party firewall gebruikt zoals PC Tools Firewall Plus kan je de toegang tot het internet blokkeren van de desbetreffende entries in het toepassingen-scherm. Of bepaalde url's vanwaar de controle plaatsvindt blokkeren in het \etc\hosts bestand, waarvan ik (nog) niet weet welke url's in dit geval."
+,takeasied,2011-04-02T22:41Z,hallo mensen ik heb al jaren dit programma en vele andere zoals winrar 64bit ccleaner en nog een berg aan uiters bruikbare software allemaal gratis en ik volg nooit de instructies van bv dit hier boven ik zie zelf wel hoe dat moet. alles hebben niks betalen beter

@@ -1,0 +1,63 @@
+User Type,Username,Date,Text
+,derfersenhalter,2011-01-14T17:57Z,"works perfect
+win7 64
+
+thanks a lot!!"
+,Escfrh0m3,2011-01-15T08:17Z,"oh my i need this hehhe :D
+thanks again chattchitto"
+,PI0XMATE,2011-01-16T01:26Z,Running on Vista Home Basic  -  Works Like a Charm ... Always clean and fast uploads man - love your stuff Chatt Keep It up
+,argaiv,2011-01-16T03:11Z,"doesnt work for me on windows xp i tried so many time but when i restart he say ""this version is not licensed please install a valid license key"" help plz
+btw 100% clean no virus thanks for that"
+,PI0XMATE,2011-01-16T05:20Z,"Oh mate on XP I un-install anydvd then 
+
+
+DC net
+install
+Close
+DONT RESTART PC
+and Patch it - open it change setting auto update OFF
+and reboot... 
+
+
+Try that bro"
+,argaiv,2011-01-17T01:03Z,"OMG its not working! i do everything you say but always say version not licensed bla bla bla
+so thanks and if you have other idea im here"
+,PI0XMATE,2011-01-17T08:40Z,"Mmm thats weird mate... Make sure u select the DEFAULT path man... not a custom like C: ProgramFiles: Slysoft ect or w/e dont make it D drive. 
+
+Wish I would help more but thats all i can think of - IF NOT run in compatibility for like SP3 or something"
+,michschu1,2011-01-18T05:55Z,"Hope This is A One Time Post That Helps All in Future! Forgive the Length Though : (
+
+Okay to those facing issues with install etc please do some research or try some options before you jump the gun! Sometimes your ignorance in not reading or following steps is all there is to blame. (No offense)
+This seems to be the issue (on XP possibly on Win 7):
+
+1.  Make sure that Internet is NOT connected and anti-virus software/firewalls, realtime protection are turned off.(Avast, Comodo, etc)
+(Note: Microsoft Security Essentials will need to be turned off through Task Manager> Processes> msseces.exe and MsMpEng.exe right click and give end process tree and yes.
+
+2. Make sure that you are logged in as Administrator even on XP or else right click the setup file and run as administrator with the password even if you think you don't log in on XP with a password (whatever was entered on installation of XP for the first time will be the password, if no password was given select administrator and give enter and if you forgot the password, your bad.  The program will now hopefully install without error.
+
+3. Once done and asked to restart, restart the computer, Open AnyDVD you will see the usual 21 Days message and stuff, close and go ahead and check the Status>Information, it will be in Trial/Unregistered.
+Now Close AnyDVD Right click the fox icon in the tray and give Exit.
+
+4. Now again Run the setup file as Administrator and click on the Register button. Once successful open AnyDVD now and you will see the Registered to Susan Smith, Serial, and Updates Until Forever. Usually if this is successful, you probably won't see a AnyDVD.chk file, only AnyDVD.lic and it will hopefully not show errors.
+
+FACT: If you screw up anywhere, you will get a can't write to system 32 or UAC setup error, you will have to give uninstall from Start> Programs >Slysoft> AnyDVD> Uninstall, Give No for keeping Register Information, Go to Run>regedit, give find and delete all the findings Under ""AnyDVD"" and ""Slysoft"" till you find no more entries and start from scratch."
+,michschu1,2011-01-18T05:56Z,"You think this is cumbersome to Read? F#@K! It's more cumbersome to do the steps so STFU and just be a kind and patient kid.  If still despite spoon-feeding these steps and elaborating so much you get to F#@K up again, I'm sorry but you will be listed as the most dumb F#@K on the planet.
+
+You have to forgive me for seeming so rude and pissed, but the reason I am pissed is seeing people not trying or rather doing things wrong and then claiming THEY are pissed.
+
+That's why it pays for the comments section to be more about whatever is posted rather than some crappy cuss posts, or spamming, and unnecessary repeat posts. Probably would be better if only Thanks and Quality +/- buttons was there and an instruction only once given as thorough as possible in the description and comments section for what wasn't already covered.
+
+Sorry once again, but just couldn't help it... Hope it helps and there's no trigger of unwanted retaliation posts."
+,argaiv,2011-01-19T03:30Z,"work fine my bad i forgot to disconnect from internet before install
+thank you SO much"
+,PI0XMATE,2011-01-19T05:27Z,hahaha all good mate :P
+,fossil44,2011-01-20T05:32Z,thanks mate great as always  NEVER had one of yours fail yet
+,horseydoo,2011-01-20T17:52Z,"if you are having problems with the whole 'already registered' or get that message about invalid registation, uninstall it, remove all links in regedit and reboot. then disconnect internet access. install as admin. register as admin. then go to C:\Users\All Users\SlySoft\AnyDVD and rename anydvd.chk to anydvd.chk.old and then load anydvd.  under settings unclick autoupdates.  Go back to C:\Users\All Users\SlySoft\AnyDVD and delete any new anydvd.chk file and you should be good to go from there. If it isn't done right, there will be a new anydvd.chk file which you want to just delete and then reloan the program."
+,fainsleep,2011-01-25T04:58Z,"This worked perfectly for me.  I don't like how the install and reg key are wrapped in an exe (makes me think of binders) but I haven't detected any virii in this or any of Chatt's releases.  For people having problems, take time to click the big How To Use Guide and follow the instructions listed.  +1 for instructions to remove anydvd.chk file."
+,FireIsHot,2011-01-28T05:54Z,"Thanks Chitto. I Used your 6.7.3.0 before using this. Worked easily, only this time I had to change the AnyDvd.chk file to stop the ""Not Registered Error""
+
+Anyone who says this doesn't work, follow the ""Guide"" on the .exe or on here.
+
+Thanks Again - I will seed for As long as I can"
+,tennisbgc,2011-01-30T08:33Z,everything works fine except I have a new bluray (the color purple) and anydvd requires an update and of course when I do this they are able to detect that its pirated. Is there a workaround for this? Ive already tried removing the chk. file.
+,tennisbgc,2011-01-30T08:39Z,"Im getting a ""anydvd requires an update in order to rip this disc"" is there any workaround for this?"

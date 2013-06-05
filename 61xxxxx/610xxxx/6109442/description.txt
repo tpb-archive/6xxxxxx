@@ -1,0 +1,73 @@
+
+
+
+ÃŸÃ›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›ÃŸ
+Ã›                                                                              Ã›
+Ã›                                                                              Ã›
+Ã›    Octav8r is a 7-node pitch-shifter that generates 6 differently pitched    Ã›
+Ã›                                                                              Ã›
+Ã›  stereo versions of the audio input added to a ÂedryÂf non-shifted signal to Ã›
+Ã›                                                                              Ã›
+Ã›  generate a richly layered sound. Each node has its own volume envelope and  Ã›
+Ã›                                                                              Ã›
+Ã›  variable state filter plus send controls to vibrato, chorus, delay and      Ã›
+Ã›                                                                              Ã›
+Ã›  reverb effects. The envelopes can be triggered by midi, audio gate or       Ã›
+Ã›                                                                              Ã›
+Ã›  looped in sync with the host tempo.                                         Ã›
+Ã›                                                                              Ã›
+Ã›                                                                              Ã›
+Ã›                                                                              Ã›
+Ã›    The primary idea of Octav8r is to create multiple pitch-shifted layers of Ã›
+Ã›                                                                              Ã›
+Ã›  the incoming audio. With some twiddling you can get creative with panning   Ã›
+Ã›                                                                              Ã›
+Ã›  to generate separation around the stereo field, use envelopes to bring each Ã›
+Ã›                                                                              Ã›
+Ã›  node in and out at different times and use chorus, delay and reverb to make Ã›
+Ã›                                                                              Ã›
+Ã›  each node sit differently in the mix. You can use the tempo-sync envelope   Ã›
+Ã›                                                                              Ã›
+Ã›  trigger to create rhythmic gating or pulsing and the envelope toggles to    Ã›
+Ã›                                                                              Ã›
+Ã›  make only some nodes modulated whilst others stay constant. Most controls   Ã›
+Ã›                                                                              Ã›
+Ã›  have midi CC and midi learn support, so with some automation or midi knob   Ã›
+Ã›                                                                              Ã›
+Ã›  twiddling, you can make the output really move around.                      Ã›
+Ã›                                                                              Ã›
+Ã›                                                                              Ã›
+Ã›                                                                              Ã›
+Ã›    Features                                                                  Ã›
+Ã›                                                                              Ã›
+Ã›      * 6 pitch-shifting nodes, with octave shifting (-3 to +3) and semitone  Ã›
+Ã›        shifting (-12 to +12, to 0.001 semitones)                             Ã›
+Ã›                                                                              Ã›
+Ã›      * All nodes have independent volume, pan, ADSR envelope, variable state Ã›
+Ã›        filter, vibrato, chorus, delay and reverb controls                    Ã›
+Ã›                                                                              Ã›
+Ã›      * Node 0 is the ÂedryÂf audio at incoming pitch, which also has pan,    Ã›
+Ã›        ADSR, chorus, delay and reverb                                        Ã›
+Ã›                                                                              Ã›
+Ã›      * Envelopes can be triggered by midi note, audio gate, a tempo-sync     Ã›
+Ã›        loop or bypassed                                                      Ã›
+Ã›                                                                              Ã›
+Ã›      * Envelope contours can be changed and set to restart or pick-up at     Ã›
+Ã›        retrigger                                                             Ã›
+Ã›                                                                              Ã›
+Ã›      * Mix level can be adjusted between dry and pitch-shifted nodes         Ã›
+Ã›                                                                              Ã›
+Ã›      * Each node can be fine tuned for pitch shift method and buffer size    Ã›
+Ã›                                                                              Ã›
+Ã›      * Each node, envelope and effect can be switched off to save CPU        Ã›
+Ã›                                                                              Ã›
+Ã›      * Midi CC support and midi learn for most controls                      Ã›
+Ã›                                                                              Ã›
+Ã›      * 38 presets                                                            Ã›
+Ã›                                                                              Ã›
+Ã›      * Multi-out version for hosts that can support this feature             Ã›
+Ã›                                                                              Ã›
+Ã›                                                                              Ã›
+Ã›                                                                              Ã›
+ÃŸÃ›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›ÃŸ
+                                                                                

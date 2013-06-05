@@ -1,0 +1,103 @@
+User Type,Username,Date,Text
+[T],dontjootje,2011-02-18T11:49Z,"Thank you so much for this great program, I'm very happy with it.
+A big hug from The Netherlands"
+[T],dontjootje,2011-02-18T11:50Z,"Thank you so much for this great program, I'm very happy with it.
+A big hug from The Netherlandsand keep up the good work"
+[V],Slickinator,2011-02-19T11:50Z,your welcome your welcome lol
+,charmingbabyboy,2011-02-21T15:26Z,hey guys.... i have tried putting the serial and username as given... but it still does not work... its showing invalid serial..... what should i do.... can you plz help.......
+,g4gerrard,2011-02-22T01:24Z,th serial notepad is gone.. noting on it... blank note pad
+,g4gerrard,2011-02-22T01:25Z,"nvm, just found it"
+[V],Slickinator,2011-02-22T10:49Z,like i said u have to do it in the right order or it may not work enjoy
+,charmingbabyboy,2011-02-22T13:39Z,yes... i tried it..... i follow everything u said n still its saying invalid.... what can i do now???
+,charmingbabyboy,2011-02-23T16:40Z,can some one plz plz plz help me... i really wan to knw how to solve this prob.... i really need to converter the movies... plz...
+,redox1,2011-02-24T06:28Z,Sweet. Thanks a lot man.
+[V],Slickinator,2011-02-24T08:50Z,"ok first off what windows do u have installed and let me know how you installed it 
+
+and what kind of videos are you converting and too what so i may have something else that may work for u"
+[V],Slickinator,2011-02-24T08:51Z,uninstall it fully and go and delete the folder from the program files also and try installing without your internet enabled and see if that works for u
+,charmingbabyboy,2011-02-24T09:09Z,im converting mp4 to ps3 hd.... or avi hd... cause im downlading bluray movies.... n i need it to b supported 4 my ps3.....
+,charmingbabyboy,2011-02-24T09:11Z,oh n yea... i m using wondows vista...home basic....
+,charmingbabyboy,2011-02-24T09:23Z,i have tried the way u jt told me... its still shows invalid license..... damn..... :(
+,mac03425,2011-03-05T04:44Z,"Hey man, thank you so much for this. One small question: I am unable to locate the serial ID and license. I have checked out the Program Files and just the regular download. The text file has nothing in it but what you have posted here. Help me out please?"
+,Fenton_Beasley,2011-03-13T16:43Z,"Username and serial does not work. Program requires a valid internet connection to phone home before it will register.
+
+Turned my modem off, tried and got this....
+
+""Failed to connect to network, please check your device and network connection"""
+,BeCool15,2011-04-19T14:50Z,"Works like a charm
+Thanks Uploader :)"
+,akhnaten,2011-04-22T21:10Z,"This is great but the serial#, etc... are not in the notepad.  Help!"
+[V],Slickinator,2011-04-24T13:52Z,this is a AIO= everything is in the exe file and when you double click it and run you will see the serials and what not enjoy
+,BeCool15,2011-04-26T12:00Z,Now It's asking for a new serial number??
+,kykyred,2011-04-29T00:57Z,"I really liked this and you DO NOT have to be disconnected from the internet like some people are saying the instructions are a bit odd though so heres some more accurate ones. 
+1. Download.......
+2. click on file and it wont automatically open the installer instead it will open slicknator's homebrew GUI which will give you two options. click the top option (SETUP)
+3. install completely and run the program now go into preferences and go to the general TAB and about half way down it will say check for updates. Uncheck this box
+4. Then in the program window go to help and click enter license code.
+5. To get the lisence code youll need to go back to the homebrew gui and on the bottom it has a button called serial. Click it....
+6. it will open a window with two text files like always read the read me which explains how to do what im already typing so then just open up the text document thats name serial.
+7. use you good ol' copy n paiste function and put it in the program license and then youll be done... 
+
+see no need at all for disabling your internet...
+
+im running windows 7 x64 which was downloaded from a torrent hehe free OS gatta love it :D 
+
+also this program is literally exactly like 
+Xilisoft Video Converter Ultimate 6. Im fairly sure the makers just copied each other or something because every function/feature/ button placement is the same in these two programs.. i have always liked imtOO better though"
+,kykyred,2011-04-29T01:00Z,"oh and also the cool function for GPU converting is nice i have a ATI HD 5570 card and it really does make a vast speed difference. The time does take less but it only works for certain codec's so keep that in mind before bitching about it not working. it will tell you which codec uses your GPU function and which one doesnt also you have to download extra software to enable that function on your GPU 
+
+hope this helps out anyone else"
+,B0rNP1rAt3,2011-04-29T03:51Z,"I've redownloaded this about 4 times now because after a week or so of working perfectly fine, the program goes back to the trial version every time. Is there a way to fix this?"
+,BeCool15,2011-04-29T15:51Z,http://img841.imageshack.us/i/77584799.jpg/
+,yarnek,2011-05-13T04:44Z,"Awesome, thanks. No problems installing with original instructions and serial. "
+,Theloved,2011-05-19T23:57Z,"IĂÂ¤m experiencing the same problem with ""invalid licence info"" 
+
+I did however have a previous copy installed 
+
+(http://thepiratebay.org/torrent/5946969/ImTOO_Video_Converter_Ultimate_6.0.15.1110___Serial-[HB])
+
+This copy use the same ""Offline registry info"" and stopped working after one day as the program checked for updates. Even as I uninstalled it I get the same 
+
+I reinstalled with this version, following the instructions but get the Invalid registry information bla bla
+
+I suspect there is something left on my computer (registry file!?) from the first install making it impossible to use the Reg info subbmitted...
+
+Do anybody know how to remove this!?"
+,jbob75,2011-06-20T05:02Z,"if the patch wouldn't work, try creating and merging a .REG file containing the following:
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\ImTOO\Video Converter Ultimate 6\RegInfo]
+""Name""=""@ByteArray(4261686D616E)""
+""Serial""=""""
+""Code""=""@ByteArray(D0DF2028720264E2B66D856819CC2706CDBFDA942F484BC9FFD5C11C52A2DE4DCEFDD6CF52771C)""
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}]
+""5918569797E09F35""=""1A""
+
+[HKEY_CURRENT_USER\Software\ImTOO\Video Converter Ultimate 6\Settings]
+""regstatus""=""1""
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}\CIA_INFO]
+""before_reg_openItem""=""2""
+""before_reg_dayCounter""=""0"" "
+,margaretMS,2011-07-26T01:52Z,"Hi, I was running in to problems generating the serial number, it looked like nothing was happening, so I shut everything down except for the application, and then saw that the serial number is written to a file of its own, so open this and copied and pasted and now everything is SWEET.  
+Thankyou!"
+,Cadbury9,2011-07-30T09:41Z,Is this updatable or not?
+,CirusVirus,2011-09-01T06:09Z,"OK people Very Very easy to solve the problem!!
+firs in program folder their is vc.exe program
+on win7 create block rule for this inbound and outbound
+first step done
+second step is to change some reg key
+open regedit and navigate to
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}]
+change values for those as you can see
+""440D54AA8AF58E3D""=""1A""
+""580950B697F5823D87""=""194D31F5CEB1D37DD187""
+""481244AA97E58A29""=""1B""
+""5E0E54A082F8883F97D844""=""1B""
+""5918569797E09F35""=""1A""
+and delete all the other keys
+start imtoo and see the unregistered is gone!!!!!!!!!!
+now if you blocked the vc.exe via fire wall it cant check if the serial is ok so it will not chnage the state of the program back to unregistered
+Enjoy:) "

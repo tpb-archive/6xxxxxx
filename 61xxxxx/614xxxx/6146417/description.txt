@@ -1,0 +1,120 @@
+                               S  K  I  D  R  O  W                            
+                               .the leading force.                             
+                                                                               
+                                proudly presents                               
+                       Sid Meier's Civilization V Update 7                     
+                                                                               
+                                                                               
+       02-02-2011........Release Date <-> Protection.........Steam + CEG       
+       Strategy.............Game Type <-> Disk(s)....................DOX       
+                                                                               
+                                                                               
+                                                                             
+       RELEASE NOTES                                                        
+                                                                               
+                                                                               
+    Read changelog.txt for information on updated content!                     
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                             
+       INSTALL NOTES                                                        
+                                                                               
+                                                                               
+    1. Unpack release                                                          
+    2. Run Sid.Meiers.Civilization.V.Update.7.exe                              
+    3. Install                                                                 
+    4. Copy the cracked content from the SKIDROW folder to the main install    
+       folder and overwrite                                                    
+    5. Play the game                                                           
+    6. Support the companies, which software you actually enjoy!               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                             
+       ADDITIONAL NOTES                                                     
+                                                                               
+                                                                               
+                                                                               
+    We have included the following DLC with this update.                       
+                                                                               
+    Babylon (Nebuchadnezzar II)                                                
+    Cradle of Civilization - Mediterranean                                     
+    Cradle of Civilization - Asia                                              
+    Cradle of Civilization - Americas                                          
+    Cradle of Civilization - Mesopotamia                                       
+    Scenario Pack: Spain and Inca                                              
+    The Civilization and Scenario Pack: Mongols (Genghis Khan)                 
+                                                                               
+    You don't need to have any of the previous updates installed, as this      
+    update is featuring all previous updated content.                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                             
+       GREETINGS                                                            
+                                                                               
+                                                                               
+                                                                               
+    Unleashed - TiNYiSO - MRN - RADIKAL - POSTMORTEM - GENESIS - Fairlight     
+         SHOCK - CRUDE - ReUnion - VACE - OUTLAWS - BACKLASH - Titan           
+
+
+Changelog:
+
+
+
+Sid Meier's Civilization V Update 7 info:
+
+
+
+1.0.1.167
+
+
+
+[CRASHES]
+
+
+
+- Dead interceptor crash fix (occurred frequently in late-game, usually on the AI turn)
+
+- Movement limit crash fix (occurred when any high-movement unit, a gunship in this case, made use of the railroad bonus and moved beyond the engine visualization limits)
+
+- Crash fix for diplo AI. When the player witnesses an AI leader buy a minor ally, and aggressively purchased them back, the game would eventually crash when the AI leader would correctly try to complain to you about it.
+
+- The following crashes were all discovered via the Steam Crash Reporting system that Civilization V utilizes:
+
+- Crash - pCitizens->GetCityPlotFromIndex(iPlotLoop); is returning NULL in the CvPlayer::DoRevolt loop.
+
+- Crash - Occasionally strange values are sent to the movement cursor code. Wrap and clamp the values before they get to the pathfinder.
+
+- Crash - Fix to divide by zero crash with AI buying plots.
+
+- Crash - In RouteValid, the CvTacticalAnalysisMap cell thinks a plot is claimed, but the plot itself has no owner.
+
+- Crash - Era out of bounds during a reload.
+
+- Crash - During a resync, a crash happens when GameplayUnitCreated calls CvPlot::GetActiveFogOfWarMode apparently because the game's ActiveTeam is NO_TEAM (-1).
+
+
+
+[GAMEPLAY]
+
+
+
+- Fix to Golden Age length (for Reformation policy with both the Persian trait and Chichen Itze)
+
+- Corrected duration of golden ages generated from Taj Mahal and when a Persian player has Chichen Itza (Before the multiple 50% additions were "compounded" rather than added together into a 100% bonus.)
+
+
+
+[UI]
+
+
+
+- Fix to blank science victory details screen

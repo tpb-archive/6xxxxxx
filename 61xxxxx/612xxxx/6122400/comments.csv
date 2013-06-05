@@ -1,0 +1,129 @@
+User Type,Username,Date,Text
+,StratubasGR,2011-01-23T18:47Z,"I didn't make any of these. I only installed and packed them.
+
+Textures are made by cferrill1 and can be found at
+http://www.minecraftforum.net/viewtopic.php?f=25&t=67932"
+,TR3V3N,2011-01-24T03:55Z,HOW DO YOU MAKE A PRIVATE SERVER THAN BABY? i need to know to play with ll my girlfriends
+,StratubasGR,2011-01-24T20:11Z,"@TR3V3N:
+I'm not sure. There are some torrents here like ""minecraft + server"". That server file does work, but I only tested it at my own PC. The thing is, for other to join, you might need to open some ports.
+
+There are several youtube vidoes about how to host a minecraft beta server. Try searching there, Casanova :-D"
+,tink5,2011-01-27T13:14Z,"hi,
+I have downloaded and when I run minecraft it crashes either during simulating world, or saving chunks, please can you help, I am not very good and have been reading various post for 3 days trying to fix this, I have java 6 and am running windows xp
+thanks"
+,tink5,2011-01-27T13:17Z,"hi 
+I installed minecraft but it keeps crashing either at simulating world  or if it gets past that at saving chunks, I have java 6 and am running windows xp, please can you help I have been trying for 3 days to get this to run."
+,Imadethisaccounttocomment,2011-01-27T21:06Z,"
+      Minecraft has crashed!      
+      ----------------------      
+
+Minecraft has stopped running because it encountered a problem.
+
+If you wish to report this, please copy this entire text and email it to support@mojang.com.
+Please include a description of what you did when the error occured.
+
+
+
+--- BEGIN ERROR REPORT a1dce528 --------
+Generated 1/27/11 2:58 PM
+
+Minecraft: Minecraft Beta 1.2_02
+OS: Windows 7 (x86) version 6.1
+Java: 1.6.0_23, Sun Microsystems Inc.
+VM: Java HotSpot(TM) Client VM (mixed mode), Sun Microsystems Inc.
+LWJGL: 2.4.2
+OpenGL: ATI Radeon HD 5600 Series version 4.0.10061 Compatibility Profile Context, ATI Technologies Inc.
+
+java.nio.BufferOverflowException
+	at java.nio.DirectByteBuffer.put(Unknown Source)
+	at java.nio.ByteBuffer.put(Unknown Source)
+	at gs.a(SourceFile:148)
+	at gs.a(SourceFile:62)
+	at net.minecraft.client.Minecraft.i(SourceFile:1086)
+	at net.minecraft.client.Minecraft.run(SourceFile:642)
+	at java.lang.Thread.run(Unknown Source)
+--- END ERROR REPORT f2d06a4b ----------"
+,lolzormaxor,2011-01-29T15:06Z,same thing happens to me. any ideas?
+,lolzormaxor,2011-01-30T20:48Z,"StratubasGR, mind to fix this thing? -.-"
+,StratubasGR,2011-01-31T13:16Z,"Well, I have no idea about java or anything. But I had similar problems when I installed OVER A PREVIOUS installation. Do you guys installed the game for the first time? If not, delete the .minecraft folder from your disc and install it from the begining.
+
+@imadethisaccounttocomment
+why does the report say ""Minecraft: Minecraft Beta 1.2_02""? Shouldn't it be 1.2_01?"
+,StratubasGR,2011-02-01T16:39Z,And make sure you have the latest drivers for your graphics card and the latest Java installed.
+,ryuman757,2011-02-10T22:16Z,"Im trying to download minecraft again since my computer was reset and had windows 7 put in. I did everything the instructions said, but when I try to open ""minecraftSP"" i get a java error message saying ""Could not find the main class: net.minecraft.LauncherFrame. Program will exit. I recently downloaded java, sow there shouldnt be and updating problems. could there be any others?"
+,StratubasGR,2011-02-12T15:25Z,"It would be nice if you could upload a screenshot of the folder you ""installed"" the game."
+,Arnow,2011-02-14T00:32Z,"I believe the Imadethisaccounttocommment problem is due to ticking the ""force update"" box, leading to downloading the version 1.2_02, the most recent version which doesn't seem to work with the AnjoCaido launcher. To solve the problem, suppress  the "".minecraft"" folder entirely, making backups with the build-in backup manager if need be, and reinstall like the instructions say. Then just log in, making sure that you HAVEN'T the ""force update"" box ticked. There you go. And btw, the .minecraft folder might refuse to be suppressed because of the Java process. If so, just get into your task manager, and manually end your Java process"
+,ichigo2862,2011-02-14T01:13Z,"Hey man, nice upload, worked for me on Win 7. One thing though, does this screw up the crafting recipes or something? I can't seem to make any tools now. "
+,ichigo2862,2011-02-14T01:15Z,"sorry scratch that, I'm just a dumbass and tried using raw wood instead of planks. "
+,StratubasGR,2011-02-14T12:46Z,"haha :)
+
+Does anyone know of any good ""pirated"" server with monsters spawning at night? Not a sleepy build-only one :-)"
+,PirateRela,2011-02-16T16:55Z,:D im only getting this because i simply CANT buy the game the payment methods are garbage!!!!
+,darksider327,2011-02-18T22:04Z,kkk
+,DragonKx,2011-02-19T10:16Z,"Ok when i first downloaded this i got a crash after crash, but i fixed and here's how to do it
+Download this torrent, fresh install(you can use your old worlds), when asked for a nickname UNMARK force update
+then click on enter game, right after start go to mods and texture packs, choose default theme and exit minecraft
+open again the launcher and now DO mark the force update, i believe the texture pack installed in this version
+is not compatible with 1.2.02
+
+
+and, thanks for the torrent"
+,Roody13,2011-02-20T05:20Z,For the crashes delete from your appdata file and reinstall it to it and do not click the force update REPEAT    DO NOT CLICK force update
+,krille09,2011-02-22T16:32Z,"Hi, I updated to 1.2_02 and fuck, I can't use the texture pack and I love it so much, and I can't get it to work when I download the file from the topic, can't you make a video or something how-to? :)
+
+thanks! :D"
+,StratubasGR,2011-02-23T12:54Z,"@Kryle, you could backup your world and reinstall and don't update again :-)
+
+I'll try to install the nice graphics in 1.2_01 and upload it in the next week or so.
+Until then, try http://www.minecraftforum.net/viewtopic.php?f=25&t=67932"
+,StratubasGR,2011-02-23T12:55Z,"yeah I totally *****ed your spelling, sorry :D"
+,krille09,2011-02-23T13:48Z,"It's np, it's a swedish nickname so wouldn't be easy for others :P
+
+but I tried and tried, but I'll wait a week till you get it to 1.2_02,
+
+Yeah I done that but the thing is I want some mods that aren't for 1.2_01 and they keep me crashing all the times xD
+
+Yeah saved my worlds too ^^"
+,krille09,2011-02-23T13:54Z,"It's np ^^ it's a swedish nickname so it can be little hard to say ^^
+
+I tried it to get to work but fuukkkk, I don't get it :P
+
+I would need a video to understand, I just putted the file in the texturefolder, then, ok hope it's fixed now xD
+
+I'll wait 1 week :P"
+,StratubasGR,2011-02-23T15:27Z,"what are the mods? maybe i could put them too!
+
+Still, does anyone know of any populated server with action instead of only building? ^^"
+,krille09,2011-03-06T02:31Z,"Hmm, are you updating to 1.3_01 ?
+
+if you install the mods I would want it is;
+http://www.minecraftforum.net/viewtopic.php?f=25&t=100267&p=1494675#p1494675
+
+and 
+http://www.minecraftforum.net/viewtopic.php?f=25&t=196261&p=3041201&hilit=x+ray#p3041201
+
+and ofc enhanced text 128x128 for 1.3_01
+
+^^"
+,krille09,2011-03-20T20:26Z,"Will ya update? :/
+
+Been waiting for weeks for ya fixing 1.3 :<
+
+please fix ^^"
+,Zeus1994,2011-04-08T00:38Z,"The best way that I've found to actually get a good working legal free premium minecraft account is by going to the following site:
+
+http://www.minecraftaccounts.com?join=47791
+
+Here is a precise guide of what you have to do:
+
+1. go and register, it's free and just make a second email that you will use to register and fill out the surveys, cause you WILL get alot of spam ;D
+
+2. once you've registered successfully go and complete some surveys, by doing these surveys you ears points(ranging from 5 to 50), once you have earned 200 points you can get your own free minecraft account.
+
+Now you will probably be thinking: this can't be true, why would they give me a free account.
+Well basically by completing those small ( and free) surveys, the site that will buy you the account will get a small revenue, and that revenue is then translated by them into points( that you can see on your account). your can calculate this way that 200 point is about the same as 15 dollars/euros
+
+Note that using the method above both offline and online will work :D "
+,StratubasGR,2011-04-14T15:09Z,mmm yeah some time... been busy. 
+,didii,2011-07-24T16:39Z,I'm not giving them my mobile number...
+,didii,2011-07-24T16:40Z,@Zeus1994 I mean

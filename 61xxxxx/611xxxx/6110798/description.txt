@@ -1,0 +1,7 @@
+What is Porteus?
+
+Porteus is a portable linux operating system which is able to be installed on a portable USB device, MP3 Player, Camera or a hard drive. Porteus is based on the Linux Live Scripts which have been heavily modified for a much faster booting and shutdown time. In essence, Porteus is a portable slackware but unlike a standard linux install Porteus exists in a compressed state on the postable drive. It has no /root /bin /etc file structure on the portable device itself, rather this is created on the fly during the boot process, which only takes around 20-30 seconds on a relatively new computer. It is modular in design which means extra software comes in the form of  'modules' which can be activated and injected into the live file system. It does not need to be installed and uninstalled as you may expect with other operating systems which takes numerous amounts of clicks and agreements. You simply double click on the module and it is activated in a second or two and ready for use. To remove it just double click again and the module is deactivated. Just try it!
+  
+http://www.porteus.org/
+
+md5sum : 427c273a0ee8b411c13cb6867d6f0a62  porteus-v09-x86_64.iso

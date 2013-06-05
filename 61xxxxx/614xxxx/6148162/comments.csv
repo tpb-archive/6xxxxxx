@@ -1,0 +1,16 @@
+User Type,Username,Date,Text
+,istrahd,2011-03-01T22:40Z,"Oh, You ROCK!
+
+Been Looking for a complete collection! I love to find a complete set done by one person instead of someone who grabs misc parts from different sources and you wind up needing 20 different codec packs to watch them all, in all different resolutions, sound quality, etc. 
+
+I will seed this for as long as I have space on the drive!"
+,leracos,2011-04-02T08:44Z,Damnit. I am 8 gigs short of being able to download this. Time for a second HDD.
+,fin2,2011-06-03T21:11Z,"This is by far the best release of the Voyager series. Its encoded using VFR (variable frame rate) which is really the only way to handle the mixed frame rates that some of the Star Trek series had used.
+
+The live action scenes used 24 fps, and the effects scenes used 30 fps, and sometimes the two were mixed together. All other transcoded releases of this series (including the official untouched DVD9 PAL version!) have corrupted the video by trying to force using a single frame rate. The official untouched DVD9 NTSC version is also good.
+
+Tip: After downloading this release I found that playing the episodes on my WDTV media player was showing lots of judder in the video playback. The image would stutter once or twice per second, throughout each episode. After much experimentation I found a fix for this. I used MKVTOOLS to modify the ""default duration"" (frame rate) of all the episodes. I changed it from 29.970 to 23.976. Apparently the WDTV is quirky about this value when playing VFR type files. Changing this value will not affect the audio/video sync, since only the mkv header value is being modified. Note that I did not re-mux the files with the new value, I only edited the header value.
+
+Also note that you must have a compatible video player that can properly play the VFR format of these files. Not all software or hardware players can do this."
+,nygrguy,2011-07-10T20:16Z,Please seed... much appreciated...
+,nygrguy,2011-07-18T05:30Z,Please seed... I've been at this for a very frustrating several days and am still only at 70% complete... so please help seed and of course I will do the same when I'm done to help others. Cheers...

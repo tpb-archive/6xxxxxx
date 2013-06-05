@@ -1,0 +1,56 @@
+MediaCoder is a free universal audio/video converter, which nicely integrates most popular audio/video codecs and tools into an all-in-one solution. On video side, MEncoder is used as back-end, which provides support for nearly all known video compression and container formats as well as rich and useful video filtering features (e.g. post-processing, 3D de-noise). On audio side, MPlayer and Winamp input plugins used as decoders, various encoders integrated, MediaCoder can simply batch transcode among any known audio formats, with tags transferred, file names generated, and even performing audio filtering (e.g. resample, normalize) on the fly.
+
+Supported source formats:
+
+- Audio: MP3, OGG/Vorbis, AAC, MusePack, WMA, RealAudio, FLAC, WavPack, APE/APL, WAV, CUE Sheets, and any other formats supported by Winamp input plugins
+- Video: AVI (Xvid/DivX/H.264), MPEG1/2/4, QuickTime (mov), WMV/ASF, RealMedia (rmvb), MP4, Matroska (mkv)
+- CUE Sheets
+
+Supported target audio formats:
+
+- Lossy: MP3 (Lame), OGG/OGM (Vorbis), AAC (iTunes, Nero AAC Encoder, FAAC), AAC+/Parametric Stereo (CT, Helix), MusePack, WMA
+- Lossless: FLAC, WavPack, Monkey's Audio (APE), WMA Lossless, WAV
+
+Supported target video formats:
+
+- H.264, Xvid, DivX 4/5, MPEG1/2/4, H.263 etc.
+
+Supported target container formats:
+
+- AVI, MPEG 1/2, Matroska, MP4
+
+MediaCoder convert:
+
+AVI to AVI, AVI to DivX, AVI to H264, AVI to MKV, AVI to MP4, AVI to MPG, AVI to XviD, AVI to AAC, AVI to MP3, AVI to OGG, AVI to WAV, DivX to AVI, DivX to DivX, DivX to H264, DivX to MKV, DivX to MP4, DivX to MPG, DivX to XviD, DivX to AAC, DivX to MP3, DivX to OGG, DivX to WAV, DV to AVI, DV to DivX, DV to H264, DV to MKV, DV to MP4, DV to MPG, DV to XviD, DV to AAC, DV to MP3, DV to OGG, DV to WAV, MOV to AVI, MOV to DivX, MOV to H264, MOV to MKV, MOV to MP4, MOV to MPG, MOV to XviD, MOV to AAC, MOV to MP3, MOV to OGG, MOV to WAV, MP4 to AVI, MP4 to DivX, MP4 to H264, MP4 to MKV, MP4 to MP4, MP4 to MPG, MP4 to XviD, MP4 to AAC, MP4 to MP3, MP4 to OGG, MP4 to WAV, MPG to AVI, MPG to DivX, MPG to H264, MPG to MKV, MPG to MP4, MPG to MPG, MPG to XviD, MPG to AAC, MPG to MP3, MPG to OGG, MPG to WAV, RM to AVI, RM to DivX, RM to H264, RM to MKV, RM to MP4, RM to MPG, RM to XviD, RM to AAC, RM to MP3, RM to OGG, RM to WAV, VOB to AVI, VOB to DivX, VOB to H264, VOB to MKV, VOB to MP4, VOB to MPG, VOB to XviD, VOB to AAC, VOB to MP3, VOB to OGG, VOB to WAV, WMV to AVI, WMV to DivX, WMV to H264, WMV to MKV, WMV to MP4, WMV to MPG, WMV to XviD, WMV to AAC, WMV to MP3, WMV to OGG, WMV to WAV, XviD to AVI, XviD to DivX, XviD to H264, XviD to MKV, XviD to MP4, XviD to MPG, XviD to XviD, XviD to AAC, XviD to MP3, XviD to OGG, XviD to WAV, MP3 to AAC, MP3 to MP3, MP3 to OGG, MP3 to WAV, OGG to AAC, OGG to MP3, OGG to OGG, OGG to WAV, RAM to AAC, RAM to MP3, RAM to OGG, RAM to WAV, WMA to AAC, WMA to MP3, WMA to OGG, WMA to WAV, WAV to AAC, WAV to MP3, WAV to OGG, WAV to WAV.
+
+What's new in MediaCoder 2011 0.8.0.5002 RC1:
+
+- Video stacking (horizontal, vertical, 2Ã—2 tile, picture-in-picture, interleaved)
+- Stereoscopic 3D video transcoding (only supporting dual-stream or dual-file input content yet)
+- Multiple video stream file handling (displaying video ID)
+- Batch image conversion (supporting major image formats as input including MPO the 3D image format)
+- New video source of Image Decoder for decoding image or image sequence and converting to video with transition effects
+- New video encoder of Image Sequencer for saving video frames into a sequence of image files
+- Added folder watcher feature (automatically queuing newly present files in watched folders)
+- Input and output file relocation after transcoding
+- Added I444 color space support
+- Improved color space handling
+- Improved thumbnail picture generation function with more options
+- Added multiple de-logo function
+- Improved UI layout and details and added many more useful options
+- x264 r1867
+- Xvid 1.3.0 (with SSE3 build)
+- Oggenc2.87 using libVorbis v1.3.2
+
+Features not yet included in this release and will be available in following releases:
+
+- VP8 encoding
+- New JM H.264 decoder (for decoding Blu-ray 3D MVC stream)
+- MediaCoder Dropbox
+Viewing transcoding live video and statistics remotely via web browse
+
+================================================================================
+
+CuteJunky Note:
+
+Since the speed of the download links from the MediaCoder official homepage really sux I decided to upload the latest release to help others.

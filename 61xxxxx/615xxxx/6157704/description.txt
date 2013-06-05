@@ -1,0 +1,82 @@
+FlashFXP 4.0.0 Build 1533 (+Portable)
+
+FlashFXP is a FTP (File Transfer Protocol) client for Windows, which offers the easiest and fastest way to transfer any file between your local computer and a server on the Internet, or even directly between two servers using Site to Site transfers. Available in over 20 languages. FlashFXP offer security, performance, and reliability that you can always count on to get your job done quickly and efficiently. Use FlashFXP to publish and maintain your website, Upload and download documents, photos, videos, music and more, Share your files with your friends and co-workers, or even use it to download other shareware! There are many, many features available in FlashFXP.
+
+FlashFXP Features :
+Performance
+- Fully tested and supports gigabit speeds (including Jumbo Frames)
+- MODE Z support for on-the-fly streaming compression.
+- Support for FEAT and "stat -l" fast directory listing reduces overhead and improves compatibilty.
+- Download and upload speed limiting. Save some of your bandwidth for browsing the web.
+- Advanced Skip list.
+- Optional caching of remote directory lists.
+
+Security
+- Includes OpenSSL Libraries 0.9.8b.
+- Automatic support for One Time Password (OTP) S/KEY.
+- Strong encryption (Blowfish) can be applied to the site manager to protect your information.
+- Connect to sites using SSL/TLS encryption for added security, including the use of client certs.
+- SSL Site-to-Site (SSCN) Transfers.
+- Clear Command Channel (CCC).
+
+Connectivity
+- Site to Site (FXP) Transfers.
+- Fully recursive file transferring (uploading, downloading, site to site).
+- Caching allows for offline browsing, queueing.
+- Firewall support, allowing you to define a set range of local ports, or bind to a specific IP.
+- FTP Proxy, HTTP Proxy, Socks 4, 5 support. (WinGate, WinProxy, MS Proxy, etc).
+- Internal ident server.
+- Per Site Connectivity modes support.
+- PRET support for distributed FTP servers.
+
+Interface
+- Full Multi-language support.
+- Simple (FTP-Only) and Advanced (FXP) views.
+- Advanced queue control.
+- Transfer Graph (only ftp transfer speeds can be graphed).
+- Multi-Proxy Server Manager.
+- Synchronized browsing allows webmasters to keep local and remote directly listings in synch while browsing.
+- Internal Schedule (Transfer or Stop a queue at a specific time).
+- Enhanced drag-and-drop functionality.
+- Import site listings from Cute FTP, WS_FTP, FTP Explorer, LeapFTP, and Bullet Proof. Including passwords!.
+- Optional displaying of Owner/Groups/Attrib.
+- Site Stats, keeps track of your uploads/downloads and overall totals.
+- Minimizes to system tray.
+- List hidden files.
+- Folder Bookmarks to provide one click access to any folder.
+- Quick backup/restore of all sites/settings.
+- Internal text editor for quick edits.
+
+Advanced Options
+- Extensive command line options for scripting/scheduling.
+- Remote FTP file search.
+- Custom file highlighting; display file masks in user defined colors.
+- Calculate the size of all files in a specified path.
+- Grouped SITE custom commands.
+- Priority transfer list.
+- Time Zone setting for Site Manager.
+- Selective Transfer feature (transfer only images or just php files).
+
+New Features:
+- SFTP Support.
+- Added the ability to replace a client certificate, replacing the certificate assigns the new certificate to all the sites the previous certificate was assigned to.
+- Added the ability to en-queue delete operations and raw commands. (Remote file list > Right click > EnQueue)
+- Added History sub-menu to the connection dropdown menu list.
+- Added an Option (Preferences > General > Options) "Include Quick Connect sites in History"
+- Local folder sizes are pre-calculated prior to upload to help calculate a more accurate queue remaining time.
+- Support for toolbar themes and custom button images.
+- Added ability to add comments to a bug report directly from within FlashFXP.
+- Added the ablity to reorder and select SFTP encryption ciphers/MACs. (global and per site)
+- Updated OpenSSL to 0.9.8h.
+- New extended toolbar tray tooltip that displays detailed transfer information.
+- New option to blend transfer progressbar with windows theme. (Preferences > Display > Colors & Fonts > Blend with windows theme).
+- New Global default and Session on transfer complete option "Retry failed transfers".
+- Set Per session via main menu > Session > Retry failed transfers.
+- Set global default via Preferences > Transfer > Retry failed transfers
+- New option "Move failed transfers to the bottom of queue before retrying" (Set in Preferences > Transfer > Options.)
+- Added support for environment variables (i.e. %appdata%, %temp%) in most local browser inputs such as the address bar.
+- Added en queue raw command support to the FlashFXP command line. i.e. FlashFXP.exe -raw="site fubar" (Since the raw command is queued you can use -cX flags such as -c2 to close FlashFXP after performing the command.)
+
+
+Home Page - http://www.flashfxp.com/
+

@@ -1,0 +1,26 @@
+RELEASE NOTES for kha0S Linux Img v3.0
+All credits go to Kmeaw and marcan work.
+
+RELEASE NOTES for v3.0
+- Changed ext4 mount options from default to noatime (decrease IO to disk).
+- Created swap file (128M). General PS3 system response feels smoother.
+- Added support for /home in "external" partition. See INSTALL.TXT for instructions on how to use it.
+
+RELEASE NOTES for v.2b 
+
+- Fixed udev rules, so ethernet device is always eth0.
+
+RELEASE NOTES for v.2 
+
+- Increased size of image to 2G (~800M free!)
+- Fixed network configuration - dhcp enabled in the right interface
+- Changed Debian repository / added contrib and non-free archives
+- Upgraded Debian release to testing (wheezyyyyyy)
+- Installed x11vnc - allow remote access to an existing X session
+- Installed ftp server (proftpd) - login with ps3 user
+- Added ps3 user to sudoers
+- Installed ps3-utils package
+- Installed locales-all package 
+- Fix for date/time problem. Installed ntpdate package. Sync date/time with: ntpdate pool.ntp.org
+
+- FIX: Remove IPv6 kernel modules (causing some kernel Oops). Fixed ssh server crash at boot.AyfsÃ¤tze typrosto

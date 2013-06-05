@@ -1,0 +1,11 @@
+One of the most captivating DirectX 11 demos, Stone Giant shows how tessellation can be used to create scenes and characters of almost unlimited detail.
+
+Stone Giant is based on a new graphics engine developed by BitSquid, a startup founded from the veteran developers at Grin. The engine is multiplatform by design, but on the PC, the developers focused on DirectX 11 to take advantage of key features like tessellation and DirectCompute.
+
+â€œWith DX11 hardware becoming more readily available, we decided now would be a good time to highlight the advanced features of our engine, including DX11 and tessellation support,â€ž said Tobias Persson, Lead Engineer at BitSquid. â€œTessellation adds an awful lot to the visual fidelity of the scene and is something that consumers can readily see for themselves. We are looking forward to seeing how games will take advantage of our engine.â€ 
+
+In the demo, a swarm of giant spiders invade an ancient cave. A dormant stone giantâ€”its protectorâ€”awakens to fend off the threat. Detailed stone surfaces are typically challenging to reproduce in realtime. High-resolution textures and normal maps can create the illusion of detail when the scene is viewed front on, but as the camera rotates, the illusion is lost. With tessellation, real geometry is added, producing accurate surface details with physically correct lighting, and shadows at every angle. 
+
+A great illustration of how tessellation transforms geometry can be observed on the stone giantâ€™s arm. Without tessellation, the staircase that runs along the arm is flat. With tessellation, not only is each stair fully delineated, but as the camera zooms in, tiny cracks and crevices becomes visible. Such details would be impossible to reproduce using traditional bump mapping techniques. 
+
+Stone Giant has native support for NVIDIA 3D Vision. When viewed in 3D, the detailed geometry from tessellation is enhanced with true depth perception, creating an experience so real, you could almost touch it.

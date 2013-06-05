@@ -1,0 +1,273 @@
+User Type,Username,Date,Text
+,Poeticile,2011-01-26T01:14Z,"In the hints section, ╤┬üonfig  = config. "
+,MacManJr.,2011-01-26T02:23Z,SEED PLEASE!!!
+,MacManJr.,2011-01-26T02:25Z,SEED PLEASE
+,vichetmeng,2011-01-26T15:36Z,"Please, seed :("
+,swabibek,2011-01-26T20:28Z,"hello poeticile 
+
+thankxxxxxxx,
+i do not understand how to install and  run dmg files in mac. I have downloaded loads of games but none of them worked so far. if anybody knows any idea about installing and running games in mac?? please help.
+
+and poeticile i didnt understand the last 5 point. what does it mean * hint for increasing performances???
+plz reply"
+,danielsonjam,2011-01-26T23:16Z,i put it in the wrapper and this shit is not working i got to the main menu and then tried to start the game all i see is the fps in the top left for like 20 min 
+,Poeticile,2011-01-27T03:02Z,"@swabibek:
+
+When you download a .dmg file, double click it. It will mount on your desktop, and a file like a flash drive will pop up on your screen. Double click that, and the application should be inside, ready to play...
+
+@danielsonjam:
+
+? - Just drag into applications, click and play....and some computer specs would be good, other than just some random bashing... 
+
+Yes, the load time is long. Mine was eight to ten minutes for the first launch. Other took about 1-5. "
+,MacManJr.,2011-01-27T05:58Z,how do i get to config... i don't understand it :P where is it?
+,Poeticile,2011-01-27T07:19Z,"It should be placed in the directory as :
+
+~:Library:Preferences:BFBC2 Preferences:config"
+,vichetmeng,2011-01-27T11:25Z,"I can open the game. In main menu, i can run the game at very good fps, 120 fps. but after I start the game, it stuck at the black screen, like, forever. Helps."
+,vichetmeng,2011-01-27T11:25Z,"2.4 GHz Intel Core 2 Duo. 4GB Memory 1067 MHz DDR3. NVIDIA GeForce 320M, 256 VRam."
+,vichetmeng,2011-01-27T11:34Z,I just realize that the game is only weight 4.5 gb? I thought the window version of the game is already 6-7 gb? I think we all stuck at the black screen after start the game is because the window version of the game in the wrapper doesn't have its full contents.
+,Xsdeaf,2011-01-27T18:24Z,"it plays pretty well in the new wrapper...but in the first mission, i have to use a knife and knife is mmb! how do i use mmb onna trackpad?"
+,Poeticile,2011-01-28T00:33Z,"Note from Dem. : On my iMac (late 2007) 2.4 GHz, ATI HD2600 256 MB, 4GB RAM, OS X 10.6.5 I have average 15 FPS in 1024x768 LOW and 10 FPS in 1920x1200 LOW - not great but playable on old Mac.
+
+First game scene (and first Aurora mission in general) is very effects-intensive (bombing, etc.) - just landing on the beach I get 20-25 FPS in 1024x768 LOW when looking to the sea and 5-7 FPS when looking to the shore. The FPS value will increase when you leave trenches and go into the woods.
+
+You can enable onscreen FPS counter with ""ShowFPS"" = ""Y"" in the 'Ñonfig' file (~:Library:Preferences:BFBC2 Preferences:config).
+NOTE: ~:Library:Preferences:BFBC2 Preferences folder is created after first run.
+
+Tweaking config's [d3dgl] parameters may disable some effects (shadows, smoke, fire, waterfalls, ...) increasing your FPS but it is card dependent.
+
+The performance can be a bit low as most ingame effects are enabled in Cider's 'config' from the very start.
+
+>>>>>> inertiareel
+
+'Fan goes nuts.' - should be coincidance.
+
+As for your MacBookPro/ NVidia/10.6.6 case I should probably ask other PortingTeam members to test for this crash - don't have it. Till now I got such confirmation reports on NVidia/10.6.x:
+
+(1)
+Really good.
+Operating system: 10.6.6
+Graphics Card: NVIDIA GeForce 9400m
+
+(2)
+good port! gameplay is great!
+Operating system: Mac OS X Snow Leopard
+Graphics Card: NVIDIA GeForce 8600M GT
+
+(3)
+got it working.
+Operating system: 10.6.6
+Graphics Card: NVIDIA GeForce 9600M
+(Macbook Pro 5,1
+2.53GHz
+4GB RAM
+Nvidia 9400M/9600M w/ 512MB
+320GB HD
+10.6.6)
+
+(4)
+game works fine for me, although it lags like hell on my crappy macbook.
+Operating system: Mac OSX 10.6.3
+Graphics Card: NVIDIA GeForce 9400M
+
+(5)
+MBP 2.26, 4gb, 9400M, 10.6.6
+Nearly bearable."
+,kizzck,2011-01-29T01:25Z,OMG SEEEEEEEEEEED
+,xcoookx,2011-01-29T03:48Z,"has anyone got this to work with an xbox360 controller. because i use that as my gamepad, and i dont want to download this if it wont work"
+,kizzck,2011-01-29T09:58Z,@xcoookx My bro got his ps3 controller to work on it.
+,MudSwipe,2011-01-29T11:25Z,...These files seem to be in order.
+,kizzck,2011-01-29T12:55Z,"Ok, i got it and tested on my Aluminium MacBook 
+9400M 4GB Ram 2Ghz Intel core 2 duo 
+I tested the FPS tweak no big difference laggy like hell. But i will test i now on my MacBook pro 9400M/9600 GT 8GB  RAM"
+,rambambula,2011-01-29T13:26Z,"Lags bad on my iMac. Tried everything included in instructions. No luck. I'm guessing it should be run on an nVidia machine rather than an ATI. It's good as long as I don't have too much land infront of me ( excellent fps when I'm looking on the ground ), but as I look toward where I'm going it starts laggin enough to be unplayable. I had the same problem on a PC back when COD5 came out, solved it by getting a new Graph-card...which isn't really possible in this case... 
+
+Once again, Macs are for work, PC's for play.
+
+Specs: OS 10.6.6, 3.06 Intel i3, 4GB DDR3, ATI Radeon HD 4670 256MB"
+,kirb13,2011-01-29T16:08Z,In mission 4 upriver the half of the screen is black how do i fix it
+,kirb13,2011-01-30T14:20Z,Never mind i did it i finish the game sometimes it crash
+,garsen,2011-01-31T23:48Z,unplayable on 2GB RAM 2.66 intel core 2 duo imac w/ NVIDIA 9400 256MB. just not worthwhile if you have this or a lesser machine.
+,Takoeye,2011-02-01T18:02Z,"Thanks for the game man. I can't find where to change the graphics settings with the game file. I've looked all over the file. 
+re: The game is initially set to 1024x768. Current    graphics mode parameters are in:
+
+~:Documents:BFBC2:settings.ini
+
+Where do I find this? Thanks so much!!"
+,rambambula,2011-02-02T21:43Z,"@Takoeye: the config file is in user/library/preferences/BFBC2 Preferences -folder. I tried messing around with the config file but it only caused my game not to start up at all. Make a backup if you want to try it.
+
+Once I restored the backup file I got FPS around 15-20, sometimes around 10 which is barely playable. Still gonna try some things though."
+,Lamb-of-Tool,2011-02-04T02:37Z,"Works almost perfect, it is reaaaally laggy some times but the game generally works find, i have already in use the cider wrapper, what can i do for best preformance?"
+,micke4life,2011-02-07T21:55Z,"My screens just stays black when the first mission starts i can hear everbody and see the letters and stuff....but my screen is just staying black :(
+
+
+so gimme some help please..."
+,potah,2011-02-09T09:07Z,"First of all, Thanks a lot for this torrent!
+I have a Mac Pro 8-core 2,8 and a the new Ati Radeon 5770 and Snow Leopard installed.
+So i thought that i would get better fps than the MBPÂ´s but i cant say that i did, i played it in 1600*1200 on my Dell U2711, 2560*1440 was not playable at all of course.
+I got at most around 25 but mostly around 10-15fps.
+Playable but mostly frustrating. So i guess i should really install Bootcamp and play games in windows instead. :)
+But thanks for the torrent!"
+,netuser159,2011-02-10T20:10Z,"downloaded it real quick, up to 2MB/s, 
+
+mounted blah blah, got to game menu, selected first mission but just showed black screen, left it for 5 - 10 mins but no luck, any help? thanks"
+,micke4life,2011-02-18T16:51Z,"ok, i got the game working but..my FPS never goes higher then 17 in the game but in the main menu  and loading screens it is 176 or higer...
+
+so does anybody knows how to fix this?"
+,ariffsuffian,2011-02-19T10:39Z,Hey man how do I use the crack?
+,binghamd,2011-02-21T01:33Z,0.1 k/s.... seed!
+,loklem,2011-02-23T16:25Z,seeeeeeeeeeeeeeennnnnnnnnnddddddddd
+,drumdemon,2011-02-27T04:12Z,"hey guys. does multiplayer work?? plz seed aswell. i need to know if multiplayer works. also do we need to download anything else or doe this work perfect
+
+MULTIPLAYER?"
+,kyo3132,2011-02-27T16:21Z,Battlefield Bad Company
+,swabibek,2011-03-04T19:42Z,"hey poeticile 
+thankx a lot.its perfect working in mac but i wanna play this in PS3.
+please write to me. how to install .dmg file to dvd and ps3? can i do that? if anybody has got idea plz write to me.
+swabibek@gmail.com"
+,dogman97,2011-03-14T07:41Z,1000 kilobites a second!
+,shankdown,2011-03-21T10:44Z,"I've downloaded the torrent very fast, it only took me 1 night (about 5-6 hours). I've installed the game and until I got in the main menu it worked perfectly fine. 
+
+But when I start the game it plays like 20 seconds of the intro/prologue after it stops and it returns to my desktop with no error or something. I've tried to delete the settings.ini file but with no luck. Any idea how to fix this? Thanks"
+,dpanych,2011-03-22T00:50Z,"If you guys wanna play online, check out this blog, it tells you how to get a legit cd key.
+http://bc2free.blogspot.com/"
+,kirb13,2011-03-28T18:30Z,mass effect 2 or gta 4 please
+,ifnugget,2011-03-30T04:19Z,"plzzzzz seed... downloading at 0.5 kb
+:D"
+,Aypolo,2011-04-01T08:16Z,Does multiplayer work on this?
+,dustin24,2011-04-01T17:00Z,"Dear Poeticile, this game worked fine for me, but could you please please please upload GTA 4 for mac???"
+,elwin4mad,2011-04-14T12:59Z,"Dear Poetcicile,
+
+I am thankful that you help so many people with games! But to bad the game doesn't work for me.
+So would you please answer a question? If you don't know the answer please replay that you don't know ^^.
+
+Just like others; I press "" no "" when the debug error comes, but then the game quits? And when I ignore it, I can only see the error screen and not a game screen? Any ways to fix it? :)
+
+THank you very much!, Elwin"
+,dustin24,2011-04-14T19:06Z,"Okey, here's the solution for all who's game doesn't work properly. When you installed the .dmg file on your HD, then click on the BFBC2 icon. It's not strange when it takes about 30/40 seconds to start up. Then click Resume Game en wait for a couple of minutes. It worked for me..."
+,Aypolo,2011-04-17T05:40Z,Does this work on multiplayer? please respond
+,iloveyou88,2011-04-17T05:48Z,"Can anyone please write down step-by-step instruction on how to install this game ?
+
+I'm noob with macbook. Thanks u so much.."
+,dustin24,2011-04-17T17:21Z,Here's a little tip; Don't set the graphics too high to increase the fps.
+,Aypolo,2011-04-17T23:14Z,stopped at 98%. plz seed
+,tonyt387,2011-04-19T09:53Z,i cant find out if multiplayer works because it asks for the serial code
+,dustin24,2011-04-19T16:44Z,Does anyone have a tip or something else to make the multiplayer working...?
+,aaron0136,2011-04-21T10:31Z,why it quit when loading the game?
+,pavek09,2011-04-22T12:52Z,"iMac 1.83 GHz Inter Core Duo
+2 GB 667 MHz DDR2 SDRAM
+
+Game stars up and the sceen goes black, some times the FPS meter shows. After a while the game crashes, any one have a clue? :)"
+,dustin24,2011-04-23T20:53Z,"@pavek09: Did you try the ''G""' to ''Y'' thing??"
+,dustin24,2011-04-23T21:30Z,"@iloveyou88: First, you have to open the .DMG file and drag it to your ''Macintosh HD.'' If you want to increase your fps by means of the ""M'' to ''Y'' thing,  go to:Library:Preferences:BFBC2 Preferences:config and scroll down to the ''GLSL Y'' and change it into the ''M.'' if all is well, the game should run properly. Al little tip: don't press any keys when starting up the game. good luck!"
+,scorpion.89,2011-04-24T12:44Z,"plzzzz help 
+the game starts well but wen i click on start game the screen goes black and nothing happen ..... what should i have to dooo ???!?!?!!?"
+,dustin24,2011-04-24T13:29Z,"@scorpion89: You shouldn't press the start button, because then he starts a new game which apparently doesn't work. instead of that you should press the resume button."
+,geniustripod,2011-04-24T22:23Z,"hi people
+just installed this and works great...
+just lags a little...
+my config is the 2.2 quad core macbookpro with 4gb ram and 500 gb 7200 rpm hdd"
+,scorpion.89,2011-04-25T12:38Z,thx a lot dustin24 but when i press resume game there are some word that goes on and after it black screen and nothing happen ? ps: there is no sound in the game ?? 
+,Andrewskoff,2011-04-30T02:15Z,"I recently finished downloading this and it runs awesomely! I have this game purchased on steam for PC and do not want to keep going through boot camp. This port was a godsend to me however when I log in with my already created account and search for servers, nothing shows up! Is there a file i should change around to allow the search for servers? Plz help!!"
+,dustin24,2011-04-30T17:34Z,"Hi guys, I've been thinking for like a whole week how to make the multiplayer working. I haven't tried it yet, but probably I'll do it this week. My idea is: Can you purchase a windows-version of BBC2 in the shop(will only cost you $20), and use that serial key for this ''Mac'' version?? Think of it, and comment when you think it will work."
+,Andrewskoff,2011-04-30T23:19Z,"@dustin
+I already purchased it in the windows store like i mentioned above. It did not ask me for serial but i logged into my EA account and retrieved my profile perfectly. It just won't show any servers when I attempt to search for them. Do you guys know of any way I can manually enter my serial into this version? I'd be glad to try it out and let you know how it works."
+,dustin24,2011-05-05T12:38Z,"Ok, I tried it, but of course it didn't work :-( probably because I wrote the serial number instead of buying the game... somebody already tried??"
+,Andrewskoff,2011-05-08T05:05Z,how did you enter your serial manually with this version?
+,dustin24,2011-05-08T12:44Z,"@Andrewskoff 
+I just go to multiplayer and create an EA account... and then I am able to enter my code....."
+,Andrewskoff,2011-05-09T02:05Z,"so then you got the same problem as me?
+the server list shows nothing?
+very frustrating as online is the only gameplay i want!!
+and i only asked cause i just logged in and it never asked me for a key :P"
+,dustin24,2011-05-09T16:50Z,"@Andrewskoff 
+No I'm sorry, I don't have the same problem as you. My problem is that I don't have a serial key at all :-) I have to find a serial key somewhere, and then I'll have the same problem as you. You are a step further then me..."
+,dustin24,2011-05-09T16:54Z,"@Poeticile
+Dear Poeticile, This game runs awesome on my MacBook Pro 2.4 ghz, but could you please do a tutorial..? so we can make our own games working."
+,Andrewskoff,2011-05-13T05:09Z,"@dustin
+yeah cause I have a key but it didn't even ask for it. It must be tied to my account then. But if you find anything, let me know and ill do the same
+i'll PM you my email"
+,dustin24,2011-05-13T16:10Z,@andrewskoff That's ok... but what's PM exactly :$ i'm sorry. In the afternoon??
+,dustin24,2011-05-13T17:03Z,"@andrewskoff dear andrewskoff, do you have msn, so we can find a solution together...? if so, I'll add you. "
+,shad0vv,2011-05-15T13:20Z,"I just attempted playing this on my Macbook Air 2010 1.86Ghz, 2GB ram, 256mb Nvidia 320m GPU and it is literally insane.  The fans kick in instantly when the game launches and I'm getting extremely low FPS making it unplayable even with the lowest settings set in Advanced mode.  I also tried multiplayer, I have a genuine account because I have it on my Windows PC.  I agree with Andrewskoff, the server list doesn't appear even after enabling punkbuster and other options.  All I receive is the loading of death icon lasting forever."
+,Andrewskoff,2011-05-16T09:25Z,"@dustin
+I meant private message but I guess you can't do that on this sight. I don't have MSN but i dont mind remaining in communication, if you want to. I just don't really wanna throw my email or anything up for everyone to see haha."
+,dustin24,2011-05-17T17:47Z,"@Andrewskoff: Okay, thats fine. At least I learnt today what PM means in Pirate slang. Thank you for that :D. Problem is we haven't found any solution for our MP problem yet. I suppose it's simply impossible to make the multiplayer working on a illegal downloaded version... :-("
+,cristos33,2011-05-21T02:02Z,please seed 73 seeders to 20
+,dustin24,2011-05-22T15:35Z,What about Darkest of days?
+,masterpiece2,2011-06-03T16:44Z,SEEEEEED! And can i play singleplayer without needing a cd-key ? 
+,bAsH926pe,2011-06-07T05:40Z,"Hey Poeticile, i have changed the config to ""GLSL""=""M"" and the game still doesnt work.  Im not sure if this is the same problem as the others but for me when i open the game a black screen appears and i dont hear or see anything for the first minute and then at the top right corner in green letters it says FPS 0 then builds up to about 60 and closes....is there any reason for this?"
+,kyliandeman,2011-06-18T15:42Z,"@dustin24 
+
+maiby the online version works if you use cracked servers? if there are any?"
+,InvisibleSurfer,2011-06-25T09:08Z,"I own a genuine CD-key and account for BFBC2 because I purchased the game on PC.
+
+Question is, how to get multi to work on Mac. Guess the issue is to get the game to update through the BF updater contained in the game files (it's an .exe and so does not work on mac)."
+,kingliam34,2011-06-28T02:29Z,when i try to play multiplayer it says u need a code thing and i dont know it
+,kingliam34,2011-06-28T02:35Z,whats the serial key cause i need it to play multiplayer
+,miketi62,2011-07-23T11:39Z,You can get any serial you want if you go to: keygenguru. This is a real site and doesn't lead you to another. It really works
+,maxkillbest,2011-07-26T19:07Z,"Intel core i7 2.7ghz 4gb Mac Os X 10.6.8
+When i try ""new game"" or ""resume game"" i have a black screen endless.."
+,Lamb-of-Tool,2011-08-02T03:36Z,"I have a question:
+If i instal CXZ game engines the game will have better preformance?"
+,Wildman496,2011-08-02T04:07Z,"I have a very odd problem.. Whenever I get onto the roof and the screen fades out to go to the next level at the end of the ""Snowblind"" levels(to get onto the chopper), the program closes down and itunes opens. I've tried doing it again 4 times including after a restart and there's nothing I see on activity monitor."
+,alex7ask,2011-08-02T13:45Z,seeds pleaseeee !!! 
+,NickBolland,2011-08-09T17:14Z,Does it work on Leopard? (10.5.8)
+,NickBolland,2011-08-10T02:35Z,"Damn, game launches perfectly and all, I select new campaign, get this 5 second intro and it crashes.
+
+I'm running 10.5.8 
+is this the problem? If so, I'll update to Snow Leopard soon"
+,Fezman92,2011-08-14T21:26Z,"When I play the mission in Bolivia, before I get to the part where you assault the place where the operative is being held, it goes all purple/black. I restarted the game but the issue still persists. What do I do?
+
+Thanks"
+,IanLimJX,2011-09-06T07:30Z,"it stops loading as i enter a mission
+any way to fix this?
+
+10.6.8"
+,valitine,2011-09-10T04:56Z,"does not work...
+when going in mission just black screen for like an hour "
+,Centurioshooter424,2011-09-18T03:40Z,"when i go to play the game i get the first screen with the text, but then it just cuts to an endless black screen. i changed the ""GLSL"" ""Y"" to ""GLSL"" ""M"" and i press resume game, but i still doesn't work.
+
+im running 10.6.6, anyone know how to fix it?"
+,dustin24,2011-09-18T14:47Z,"Okay it has been a long time this game was uploaded, but here are a couple of tips you can use while playing this game:
+1: If the game stops @ the end of snowblind, keep trying and after a while the game will continue. (I had the same)
+
+2: Solution for black screen in the beginning, don't press new game, just press continue game
+
+3: And yes you can play this without serial"
+,mario289,2011-10-09T13:39Z,"when i go to play the game i get the first screen with the text, but then it just cuts to an endless black screen.Solution: BFBC2 after loading, there appear on the left side of the screen looding, then press ESC, the first button on the left side of the keyboard, "
+,Dpratt78,2011-10-22T22:53Z,"Its great thank you! And can you port a keygen for the multiplayer both this?
+Thanks so much and good work"
+,rowanediger,2011-11-10T08:59Z,"game just runs suuuuper slow in general, is there anyway to make it run smoother, I'm on 10.7 so it should be running faster then snow leopard and other systems"
+,shenzhou1,2011-12-01T22:56Z,@rowanediger: I think it might just be the graphics card...btw i have lion too and i have the same problem
+,lobotomy666,2012-01-08T12:41Z,"imac 2.5 Intel Core i5 AMD Radeon HD 6759 :
+after setting the overall-quality to ""low"", it works perfect now and is still looking  fantastic and atmospheric."
+,Getthere1,2012-01-25T19:14Z,"Hi there, i downloaded it, i opened the .dmg file and the others too in my macintosh HD and i did drag the app there too. i opened the game and it worked ok but even with low qualities it was lagging pretty badly.
+
+and i didnt find the ""Library:Preferences:BFBC2 Preferences:config""
+
+i clicked on Library>preferences but there isnt a BFBC2 folder...
+
+please help!
+
+i use a Macbook v. 10.6.4 (ill try updating it to 10.6.5.)
+processor: 2.13 Ghz Intel Core 2 Duo
+Memory: 2 GB 800 MHz DDr2 SDRAM"
+,guthrie2010,2012-03-09T02:31Z,"SEEEEEED, YOU BASTARDS! SEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD! SEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD! IS IT REALLY THAT HARD? I DON'T WANNA WAIT 2 WEEKS FOR THIS DAMN GAME!"
+,zekezd,2012-03-22T00:34Z,This is downloading at over 1.0 MB/s! Thanks for posting this torrent and thank you seeders for seeding it!
+,Getthere1,2012-04-05T22:41Z,"works perfectly, but even after following all of the instructions its laggy and glitchy.
+
+for whoever wants to know, i use a 259 vram 2go ram white macbook 2008-2009
+
+but the game works! nice torrent.
+i think i just need a better computer!
+
+thanks."
+,bubba3517,2012-04-21T19:07Z,SEED IT PEOPLE COME ON
+,donkuasoner,2012-05-15T18:27Z,"the game campain mode is reallly slow and i need the key to play multyplayer, that was my purpose when i download this."
+,donkuasoner,2012-05-15T18:30Z,"plus i have the leopard 10.6.8 version 2.4 ghz core i5  with 288 VRAM and its glitchy and slow
+all the wait for nothin!
+please anybody know how can i get the SERIAL KEY????"
+,donkuasoner,2012-05-15T18:31Z,"anybody knows hot to get the seriall key??
+plz answeer"

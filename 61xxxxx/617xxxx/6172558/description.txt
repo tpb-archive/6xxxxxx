@@ -1,0 +1,37 @@
+Orbiter Space Flight Simulator 2010 P1 2010-08-30 20100830 Mega - Planets Moons HiRes Earth L11 Mars L11 Moon L11 Sound DGIV UCGO UMMU XR1 XR2 XR5.7z
+Official Packages:
+	Orbiter 2008 P1 Base Install 2010-08-30
+	Planets and Moons High Resolution HiRes Package 2010-08-30
+	Celestial Spheres 2010-08-30
+	*Earth L11-14 2009-11-24
+	*Moon L11 2009-11-24
+	*Mars L11 2009-11-24
+Add-on Packages:
+	Dan Steph's OrbiterSound 3.5
+	Dan Steph's Universal MMU uMMU 2010-01-14
+	Dan Steph's Universal Cars and Cargo UCGO 2.0 2010-01-14
+	Dan Steph's DeltaGlider IV-2 DGIV-2 2010-01-14
+	Douglas Beachy's Altea Aerospace XR-1 XR1 DeltaGlider
+	Douglas Beachy's Altea Aerospace XR-2 XR2 RavenStar 1.2
+	Douglas Beachy's Altea Aerospace XR-5 XR5 Vangaurd 1.4
+	*Yury Kulchitsky's Tug Experimental TX Spaceplane Release 5 ~
+	*Yury Kulchitsky's Universal Cargo Deck Release 4 ~
+	*DeltaGlider EX 2010-11-13
+	Vinka's Spacecraft.dll
+	Vinka's Spacecraft2.dll
+	Vinka's Spacecraft3.dll (with 2006-P1 patch)
+	Vinka's MultiStage.dll
+	Vinka's MultiStage2.dll (with Stage.dll patch)
+	Interplanetary MFD 5.5
+	Aerobrake MFD 0.96.1
+	Launch MFD 1.4.4-2010
+	TransX MFD 3.14.0.3
+	BaseSynch MFD 2.3
+	GalacticMap 3D MFD 0.7
+	*Precession MFD+
+	*Videnie Orbital Path Drawing 2010-12-07+
+Total Size: 3,679MB; Packed Size: 1,662MB; Compression Ratio: 45%
+* Files in Mega package not in the Full package
++ Precession MFD and Videnie Orbital Path Drawing prefer orbiter to not be in the graceful exit mode.
+  Videnie Orbital Path drawing cannot be turned on or off within a simulator session - It can only be turned on/off by activating or deactiving the module in the simulation session startup config screen
+~ The Yury Kulchitsky TX and Universal Cargo Deck addons did not have explicit Orbiter 2010 versions - may have some bugs, but they work for me.

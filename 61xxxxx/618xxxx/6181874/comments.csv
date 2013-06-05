@@ -1,0 +1,21 @@
+User Type,Username,Date,Text
+,bjuice100,2011-02-17T22:50Z,"If you just installed Office 2011 (v14.0) and EndNote X4 (v4.0) you probably noticed that there is no â€œEndNote CWYW Word 2011.bundleâ€ included.
+The file comes with EndNote X4.0.2 update. 
+To include CWYW compatibility (without installing the update) copy the enclosed â€œEndNote CWYW Word 2011.bundleâ€ file and paste it in the directory:
+Applications/Microsoft Office 2011/Office/Startup/Word/
+
+Youâ€™re done! When you open Word, it will contain the familiar â€œEndNote X4â€ submenu under â€œToolsâ€.
+
+Have fun!"
+,TheStich,2011-02-22T08:54Z,"This is the old (and buggy) patch from Endnote to temporarily tie Endnote in with Word 2011. They have since released the full update:
+http://endnote.com/support/ENX401_Win_updater.asp"
+,bjuice100,2011-02-22T19:25Z,"The EndNote CWYW Word 2011.bundle file included here COMES FROM the update X4.0.2 that you can find on http://endnote.com/support/ENX401_Win_updater.asp
+The only difference is that if you install the update it asks for RN (:-()"
+,mbg1980,2011-05-19T16:15Z,excelent! thank you
+,annamsj,2011-12-14T09:29Z,"I might be stupid but I can't make it work. I´ve downloaded both files and installed them. Even moved the EndNote CWYW Word 2011.bundle as suggested, but still....
+Please help!"
+,hepps12,2011-12-29T14:04Z,"It works if you follow the instructions on the endnote homepage. http://www.endnote.com/support/faqs/cwyw/faq1.asp#macENX4
+
+Follow the listed instructions from 1 to 8. "
+,annamsj,2012-01-26T21:58Z,"nope, can´t make it work.... I give up."
+,josdiiri,2012-03-25T21:38Z,"I just downloaded and it worked perfectly. Maybe the problem is that if you have Endnote 4.0 and not the updated version 4.0.2, the plugin is also missing from the endnote CWYW folder. If that's the case you have to copy the bundle in both endnote and office folders."

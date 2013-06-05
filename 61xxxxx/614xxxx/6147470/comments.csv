@@ -1,0 +1,21 @@
+User Type,Username,Date,Text
+,Gres,2011-02-05T19:15Z,"Thanks!
+
+Instructions in english even though it's pretty simple.
+
+1. Connect USB pen drive or harddisk (512MB or more) to the computer
+
+2. (See image 1) Run Usb_format.exe and select the correct harddisk in the program, select FAT32 as file system och type BOOTCD_USB as Volume label. Also check Quick format and click start.
+
+3. (See image 2) Run (as administrator) Grubinst_gui.exe from the grus4dos folder. Select the correct harddisk, click Refresh next to Part list and click install.
+
+4. Copy grldr and menu.lst from the folder HBCD to the USB drive.
+
+5. Mount / Insert Hiren's bootCD and copy everything from the CD to the usb drive.
+
+6. Test your USB memory."
+,FAKMAN,2011-02-28T13:32Z,THX!!!
+,kornkidro,2011-03-03T20:38Z,thanks works great keep up the good work
+,ITsJazZz,2011-04-02T18:24Z,"I can't get the sound to work, it wouldn't detect my soundcard... is there anyone who knows how to fix this problem?"
+,sumitbodele,2011-08-06T07:58Z,"Can i mount my own XP and copy it everything in the USB drive....??
+will it work as in step 5...?"

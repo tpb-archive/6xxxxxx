@@ -1,0 +1,16 @@
+User Type,Username,Date,Text
+,klafsa,2011-01-15T08:54Z,Beta
+,LokiXP,2011-01-15T09:28Z,"This is NOT a beta, this is the official RTM to OEM's to use for them to start integrating into systems.  It is not public yet.  Version on file is: 6.1.7601.17541
+Latest beta I know of is version: 6.1.7601.17105
+
+I have installed this, and it is indeed RTM."
+,LokiXP,2011-01-15T10:32Z,"Dont forget afterwards to run the following command at an elevated command prompt:
+
+dism /online /cleanup-image /spsuperseded
+
+This will remove old uninstaller information and cleanup your system, however BEWARE if you do this you can NEVER uninstall SP1.  It can save up to 1.5GB of space on certain systems however.  Your mileage may vary on space savings."
+,deepflames,2011-01-15T17:18Z,"Am downloading it by just doing trust on uploader that this is the final, However as per my knowledge, microsoft hasn't released the final yet. "
+,ragman420,2011-01-16T06:49Z,"I installed it.  It's real and not an evaluation copy.  This was previously posted in a larger torrent with x64 version included on the same torrent.  It claimed to be an RTM not released publicly yet.  I don't know about all that, but it's definitely real and working. "
+,ragman420,2011-01-16T06:50Z,Thanks.  I was getting tired of waiting and don't waste time with betas.
+,avatar_24,2011-01-16T12:22Z,"SP1 is imminent, but it's not quite done.
+This is a near-final version of the service pack leaked online for both 32-bit (x86) and 64-bit (x64) versions of the OSes.There are no major new features coming with SP1."

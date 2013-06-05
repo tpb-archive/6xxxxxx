@@ -1,0 +1,100 @@
+Main component versions in the release:
+â€¢ DK2 Driver Version 07.14.0.25
+â€¢ Nokia Connectivity Cable USB Driver Version 7.1.36.0
+â€¢ Flash Update Package 10.50.00
+â€¢ FLS-x Drivers Version 2.09.28
+â€¢ FUSE Connection Manager v 2010.52
+MAIN CHANGES & ERROR CORRECTIONS FROM PREVIOUS VERSION 2010.48.4.44602
+New Products added
+â€¢ RM-732, RM-733, RM-713, RM-707
+New features
+â€¢ New Connectivity Cable deriver
+â€¢ New version of FUSE connection Manager
+â€¢ New version of Flash Update Package
+â€¢ New versions of Product API
+â€¢ CTRL+R and CTRL+S shortcuts corrected
+â€¢ All Nokia Service SOftware Applications will use following location for product specific data:
+- Windows XP: C:\Documents and Settings\All Users\Application Data\Nokia\Packages
+- Windows 7: C:\Program Data\Nokia\Packages
+Error Corrections & changes
+â€¢ FLS-4 Support removed
+â€¢ Correction to Genius case #173131: Nokia 7020 Auto-tuning failed issue
+â€¢ Corrections to autotuning / certificate restoring in cases when flash / combo memory was been
+replaced and security self tests were failing
+â€¢ New look & feel implemented to UI
+Please note:
+â€¢ This version contains the latest Tucson components. Therefore it is not necessary to use Tucson
+Add-On Installation Packages
+â€¢ Before you start Phoenix or care Suite installation to Windows 7 the User Account Control (UAC)
+should be turned off from Windows Control Panel settings.
+â€¢ For more information concerning new common data package location refer to separate documentation
+in KICS information center
+â€¢ For more information concerning new options in â€œFirmware Updateâ€ â€“ menu, please refer to document
+SR1313 in KICS information center.
+Current options in Firmware Update UI:
+- Refurbish: Software will be updated with required content files. User data will be deleted. It is
+mandatory to have the content files installed on PC, otherwise Refurbishment process will be
+terminated. Before refurbishing, ensure that you back up user data with PC Suite.
+- Update Software: Updates software. User data will be preserved. Optional Content files are not
+required because they are not programmed
+- Reset Software: Updates software and resets settings to the factory defaults. Some user data can be
+lost.Optional Content files are not required because they are not programmed
+- Product Code changes for USB Only â€“ phones (RX-51, RM-596 etc) work only when used with FPS-21
+Flash Prommer and USB connection from prommer rear panel to phone. Please select USB as Product
+Active Media
+- Do not use Flash option simultaneously with product code change for USB Onbly phones, flash phone
+separately with Firmware Update
+- It is recommeneded to use FPS-21 flash prommer with TCPIP connection when refurbishing USB Only
+- phones (RM-596 etc) due to mandatory optional MMC file size.
+KNOWN ERRORS & LIMITATIONS
+â€¢ Software downgrade with Tucson system is only possible for BB 5.0 products supporting the Data
+Package 2 concept.
+â€¢ Flashing with setup FLS-5, SS-46 and product specific adapter is not supported anymore
+â€¢ If you install old DCT-4 data packages, Flash Update Package File installation path may be wrong. This
+is caused by very old DCT-4 data packages which contain Flash Update Package and overwrite current
+information during installation. If you experience problems when updating FPS-x prommers, please
+check that Phoenix â€œPrommer maintenanceâ€ is looking for the files from the correct location which is
+â€œC:\Program Files\Common Files\Nokia\Tss\Flashâ€. If not, Phoenix will show error â€œUpdate via ini â€“ file
+failedâ€. In this case, select â€œUpdateâ€ from that Phoenix â€œPrommer maintenanceâ€ â€“ UI, browse to correct
+directory and select â€œfpsxupd.iniâ€ for all other prommers except the FPS-8.
+â€¢ Refurbishment flashing and product code change for RX-51 product requires SX-4 card to be available
+â€¢ FPS-21 flashing for RX-51 works only with TCPIP connection. FPS-21 prommer with new HW version
+is needed to correct this, and it is estimated to be available by the end of 2010
+â€¢ Please refer to product specific documents and instructions concerning the limitations of the RX-51
+product
+â€¢ RX-51 flashing does not work when CU-4 is used
+â€¢ RX-51 Product Code changes work only without FLASH option, please flash phone separately
+â€¢ When version 2010_12_8_42304 or newer with FUSE connection manager is installed on top of older
+Phoenix versions, there may be an additional delay of several minutes when you start Phoenix for the
+first time. Please wait patiently; Phoenix will start after configuration is finished.
+â€¢ When using Data Package download functions with online connection, download times may
+occasionally be long. This is not caused by Phoenix (or Care Suite). The download speed from online
+servers is occasionally is known to be slow, depending on how data is buffered on caching servers.
+â€¢ Note concerning the installation and use with Administrator and User rights
+- If you install Phoenix, start Phoenix and configure connections from FUSE connection manager as
+Administrator, you may not be able to start Phoenix after you log off and try to use Phoenix with User
+Rights afterwards
+â€¢ If you experience the above mentioned problem:
+- Log on as Administrator
+- Deleted Fuse folder and its contents from: C:\Documents and Settings\All Users\Application
+Data\Nokia\
+- After this Fuseâ€™s connection list will be empty and it can be used directly with guest/admin rights.
+- This has to be done only once.
+â€¢ After you close Phoenix, it may not restart. To rectify this:
+- Use Windows Task Manager to manually shut down phoenix.exe and FuseService.exe processes, or
+optionally restart your PC
+â€¢ Mass memory content file flashing does not work for all products over USB â€“ FPS-10 or FPS-21 Flash
+Prommer must be used!
+â€¢ To be able to use the help files in Windows 7 you need to install Windows Help program
+(WinHlp32.exe) for Windows 7. Ways to locate WinHlp32.exe:
+- Start Phoenix with online connection to Internet, select â€œHelpâ€ and â€œPhoenix helpâ€. Click the
+â€œMicrosoft Help and Supportâ€ website link. Download WinHlp32 and install it.- Go to 
+http://www.microsoft.com (http://www.microsoft.com) . Type â€œWinHlp32â€³ to â€œSearch Microsoft.comâ€ â€“ field. Locate
+Windows Help program (WinHlp32.exe) for Windows 7 and install it
+â€¢ When using flash prommers, only one connection type to one prommer is allowed. Please use either
+NFPD USB or NFPD TCPIP connection to one prommer, not both connections to same prommer
+Supported operating systems and user rights
+â€¢ Windows XP Service Pack 1 or higher
+â€¢ When installing Phoenix into Win XP you must have local admin rights.
+â€¢ When using in Win XP, user must have power user rights.
+â€¢ Windows 7 32 Bit version

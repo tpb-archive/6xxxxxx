@@ -1,0 +1,19 @@
+User Type,Username,Date,Text
+,DavAlan,2011-01-21T19:30Z,"Note: 1+1=2  ex -> Boot From USB +
+Type: Applications > Windows = answer to the above ;)"
+,saqi8,2011-01-29T13:12Z,"goto start 
+run
+type cmd (run as administrator)
+
+type
+1.	diskpart
+2.	type âlist diskâ and you will see all connected disks and numbers
+3.	select disk X (X being the number of the usb disk )
+4.	clean
+5.	create partition primary
+6.	select partition 1
+7.	active
+8.	format fs=fat32
+9.	assign
+10.	exit
+ok u have done now copy the dvd/cd/ into the usb u have done....................."

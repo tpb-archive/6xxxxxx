@@ -1,0 +1,65 @@
+User Type,Username,Date,Text
+,ccglindsey,2011-02-14T02:15Z,"thi sis a grat program and ahve it running on one machine, but after upgrading and using the mutliple keygens out here on PB, the damn things keeps asking for the serial and user  every time.
+
+any ideas?"
+,ccglindsey,2011-02-14T02:15Z,"this is a great program and have it running on one machine, but after upgrading and using the mutliple keygens out here on PB, the damn things keeps asking for the serial and user  every time.
+
+any ideas?"
+,nonhocapito,2011-03-03T22:12Z,Same problem here. Program doesn't like this keygen anymore...
+,macman104,2011-03-27T22:03Z,"I also encountered this, the keygen is no longer valid for 6.4
+
+It worked fine on 6.0 :("
+,macman104,2011-03-28T17:07Z,"SOLVED!
+
+Hopefully anyone else encountering this problem will be able to get this to work.  I'm on Win7 x64.
+
+This exact problem is described on their website, and it involves that AVG was preventing AWM from writing the registration to the registry, and I had duplicate registration info in my registry.
+
+Navigate to HKEY_CURRENT_USER\Software\Actual Tools\Actual Window Manager
+
+I had multiple copies of:
+
+Runtime#
+SerialNumber#
+UserName#
+
+Along with keys referring to NagScreen and Trial/Evaluation Date
+
+The only keys I kept were AutoUpdateLastCheckDateTime
+(Default)
+Language
+
+I disabled AVG resident shield, and started the program again.  Entered my registration code and verified that the following had been created:
+
+Runtime, UserName, Serial
+
+They persisted in my registry on reboot, and I then re-enabled AVG's resident shield.  The program has been running fine ever since.
+
+No reason any key for 6.0 won't work for 6.4 according to their site:
+
+http://www.actualtools.com/support/faq/#reg1"
+,ccglindsey,2011-05-24T23:00Z,"stay with version 6.0, it works.
+
+I have tried the Registry fix and key fix as described and used Revo Uninstaller to uninstall the residual registry entries as well as reg-edit to remove the lingering keys and entries as mentioned, which are easy to follow, BUT, after three times and multiple re-boots I simply went back to version 6.0, blocked the two .exe's by blocking them in Norton. Now I never get a flag or request of for a serial.
+
+I hav eno idea why it would be referenced on their website that a serial for 6.0 would work on 6.4
+
+It doesn't.
+
+6.0 is fine and not wroth the hassles of the .4 upgrade.
+
+IMHO."
+,poketama,2011-06-22T02:30Z,"Works for me, I'll try to comment back if it stops working but give it a go."
+,poketama,2011-06-22T02:54Z,Yeah nevermind just use 6.0
+,poketama,2011-06-22T02:59Z,"Ok I think I have another 
+
+SOLUTION
+
+Install this, then use the serial, then go to the website and download 6.5 and install that. 
+
+Worked for me, for now. Will reply later if it breaks down."
+,ekdikeo,2011-08-11T19:19Z,looks like it breaks down after 60 days no matter what.  deleting the reg keys though seems to give you another 60 days. lol
+,ekdikeo,2011-08-11T19:20Z,"scratch that, it just blows up after 60 days, but if you delete the keys, it takes about 20 minutes before it blows up again."
+,ekdikeo,2011-08-11T19:21Z,"a little bit annoying, because the 6.6 version seems to work even better than Ultramon, but the multi monitor features disable. :("
+,poketama,2011-08-21T02:15Z,Yeah mine is fucking up again so I'm just downgrading. Better than nothing.
+,poketama,2011-10-21T02:33Z,6.0 is dead aswell now. Gonna have to just reinstall the trial every 2 months.

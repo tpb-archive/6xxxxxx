@@ -1,0 +1,11 @@
+On computers that are running Windows Vista, Windows 7, Windows Server 2008, or Windows Server 2008 R2, you may be unable to open Help files (.hlp) that require the Windows Help (WinHlp32.exe) program. This article contains information about a download that helps you fix this problem. 
+
+When you try open an .hlp file in Windows Vista or in Windows Server 2008, you receive the following message in the Windows Help and Support window:The Help for this program was created in Windows Help format, which was used in previous versions of Windows and it is not supported in Windows Vista.
+The Help for this program was created in Windows Help format, which was used in previous versions of Windows and it is not supported in Windows Vista.
+When you try open an .hlp file in Windows 7 or in Windows Server 2008 R2, you receive the following message in the Windows Help and Support window: The Help for this program was created in Windows Help format, which depends on a feature that isnâ€™t included in this version of Windows. However, you can download a program that will allow you to view Help created in the Windows Help format.
+The Help for this program was created in Windows Help format, which depends on a feature that isnâ€™t included in this version of Windows. However, you can download a program that will allow you to view Help created in the Windows Help format.
+Microsoft stopped including the 32-bit Help file viewer in Windows releases beginning with Windows Vista and Windows Server 2008. To support customers who still rely on legacy .hlp files, the Microsoft Download Center provides WinHlp32.exe downloads for Windows Vista, Windows 7, Windows Server 2008, and Windows Server 2008 R2. 
+
+Special note for Help content providers who ship .hlp files
+
+Starting with the release of Windows Vista and Windows Server 2008, third-party software developers are no longer authorized to redistribute WinHlp32.exe with their programs. For more information, see the "More information for Help content providers who are shipping .hlp files" section.

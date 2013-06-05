@@ -1,0 +1,204 @@
+[b][color=red]WINDOWS SERVER 2008 R2 SP1 - "THE $OEM$ PROJECT"[/color]
+
+[color=blue][i]aka "The 4 Horsemen of the Apocalypse Project"[/i][/color]
+
+
+We decided at W7V with Fibonacci and Secr9tos to create a $OEM$ folder that will install all necessary packs to get Windows Server 2008 R2 to a Workstation OS.
+
+Till now the only way to do this was either to "sysprep" the release or use RT Server Customization Tool from Ben, involving lots of manipulations and maybe some errors if you are not acquainted with Windows Imaging and Deployment Techniques.
+
+After lots of testing (almost 80 VM tests on all R2 Editions in 1 month) the $OEM$ Folder was ready.
+
+I integrated "this folder" to all editions (Foundation, Standard, Enterprise, Datacenter and Web Server) in the same install.wim file
+
+Works with : Arabic, Bulgarian, Chinese-Hong Kong SAR, Chinese-Simplified, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, and Ukrainian.[/b]
+
+[b]You can get LP's from here :[/b]
+
+[url]http://www.wzor.net[/url]
+
+------------------------------------------------------------------------------
+
+[b]The major improvement of this edition is :
+
+1/ It's not "syspreppred" ! All is done with scripts and batches !
+
+Many thanx to Fibonnaci and Secr9tos for their time and patience ! 
+
+2/ All W7 Extras to get R2 to look like W7 work with the above mentioned LP's !
+
+3/ SP1 was not slipstreamed !!!! I used original M$ Iso's.
+
+------------------------------------------------------------------------------
+
+Platform -------------------> Windows Server 2008 R2 Releases from WZOR
+Versions -------------------> Foundation, Standard, Enterprise, Datacenter and Web Server
+Architecture ---------------> x64
+Product Key ----------------> N/A
+Activation -----------------> Not included !
+
+MUI Files ------------------> from all 35 Windows 7 x64 Ultimate Editions 
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+[color=blue]WINDOWS SERVER 2008 R2 SP1 - "OEM PROJECT"[/color]
+
+File name : r2_sp1_oem_project_by_neige.iso
+
+Size : 3,55 GB
+
+MD5 : 4C9434C0 F5917EFA EDEBA6B8 A26B740A
+
+SHA1 : BB42FAB3 E904A1C0 4E7C3F70 50210C13 9C2EE2D7
+
+Image Index: 1
+-------------------
+Name:		Windows Server 2008 R2 SERVERWINFOUNDATION
+Description:	Windows Server 2008 R2 SERVERWINFOUNDATION
+Flags:		ServerWinFoundation
+Files:		61578
+Folders:		13584
+Expanded Size:	10371 MB
+
+Image Index: 2
+-------------------
+Name:		Windows Server 2008 R2 SERVERSTANDARD
+Description:	Windows Server 2008 R2 SERVERSTANDARD
+Flags:		ServerStandard
+Files:		61680
+Folders:		13597
+Expanded Size:	10378 MB
+
+Image Index: 3
+-------------------
+Name:		Windows Server 2008 R2 SERVERENTERPRISE
+Description:	Windows Server 2008 R2 SERVERENTERPRISE
+Flags:		ServerEnterprise
+Files:		61672
+Folders:		13597
+Expanded Size:	10402 MB
+
+Image Index: 4
+-------------------
+Name:		Windows Server 2008 R2 SERVERDATACENTER
+Description:	Windows Server 2008 R2 SERVERDATACENTER
+Flags:		ServerDataCenter
+Files:		61669
+Folders:		13597
+Expanded Size:	10375 MB
+
+Image Index: 5
+-------------------
+Name:		Windows Server 2008 R2 SERVERWEB
+Description:	Windows Server 2008 R2 SERVERWEB
+Flags:		ServerWeb
+Files:		61631
+Folders:		13567
+Expanded Size:	10397 MB
+
+------------------------------------------------------------------------------
+
+Global Modifications :
+
+Works in all 35 Language packs available for R2.
+
+-> Added W7 Boot Screen
+-> Added W7 Themes from W7 Pro
+
+-> Added 2 Custom Themes
+-> Added Custom Logons Screens
+
+-> Installed W7 Aero Cursors
+-> Installed W7 Sidebar
+-> Installed W7 Sticky Notes
+-> Installed W7 Games (All users)
+
+-> Enabled Windows Audio
+-> Enabled .NET Framework 3.5 SP1
+-> Enabled Desktop Experience
+-> Enabled Themes
+-> Enabled Dreamscene
+-> Enabled Audio
+-> Enabled Wireless Networking
+-> Enabled Server Backup
+
+-> Disabled IE Enhanced Security Configuration
+-> Disabled Complex Password
+-> Disabled Password Expiration
+-> Disabled CTRL+ALT+DEL at Startup
+-> Disabled Shutdown Event Tracker
+
+-> Uxtheme has been patched
+
+-> Added "Take Ownership" to the right-click context menu
+-> Added "Copy File Names" to Context Menu
+-> Added "Copy To/Move To" to the right-click context menu
+-> Added "Open Command Windows" to the right-click context menu
+
+Preinstalled :
+
+* DirectX Nov 2010 x86/x64
+* Microsoft Silverlight 4.0.50917.0 x86/x64
+* C++ 2010 x86/x64
+* dotNetFx40_Full_x86_x64[/b]
+
+------------------------------------------------------------------------------
+
+[b]Credits to :
+
+* W7PacksR2 (GUI and Silent) : Fibonacci and Secr9tos
+
+* Post Install Configurators and Scripts : Fibonacci, Secr9tos and myself
+
+* Logons Pictures : Various
+
+* Silent Installs for Apps : n0ak95
+
+* W7 Packs : Arris, AsciiWolf and Halladayrules[/b]
+
+------------------------------------------------------------------------------
+
+[color=red][b]Very Important !
+
+During install system will reboot 3 times to complete all mods and tweaks. Do not stop it.
+
+You' will only need to chose a Password if you wish to set one and setup procedure will continue.[/b][/color]
+
+------------------------------------------------------------------------------
+
+[b]Some screens :[/b]
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+
+[b]Games Compatibility List is available here :[/b]
+
+[url]http://www.win2008r2workstation.com/win2008r2/games[/url]
+
+[b]Security Software Compatibility List is available here :[/b]
+
+[url]http://www.win2008r2workstation.com/win2008r2/security-software[/url]
+
+[b]Wish List is available here :[/b]
+
+[url]http://www.win2008r2workstation.com/win2008r2/wish-list[/url]
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+[b]Many Thanx to Arris, AsciiWolf, halladayrules, JonusC, Secr9tos and Fibonacci !  ;)  ;) 
+
+Enjoy !
+
+The 4 Horsemen of the Apocalypse[/b]
+(Muldercs, Fibonacci, Secr9tos and Neige)
+
+ ;)  ;)  ;)  ;)
+

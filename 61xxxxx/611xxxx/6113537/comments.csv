@@ -1,0 +1,32 @@
+User Type,Username,Date,Text
+,phasar,2011-02-05T14:54Z,"Doesn't work
+
+I followed the instructions and still get the license screen at startup. and you have to insert license info before you can use the program"
+,wiab4355,2011-03-18T13:02Z,it's instruction number 2 that's my problem - the prog won't start PROPERLY so 3 and 4 don't get done!
+,Mijmanxx,2011-03-21T01:54Z,"Didn't work for me either. Patched as instructed to Windows 7, but didn't accept the code that was there."
+,Mijmanxx,2011-03-21T01:58Z,"Disregard the previous comment. It's working. I had to restart the keygen as an admin, and forgot to correct the version number.
+Thanks for the up!"
+,linkjones,2011-03-28T10:58Z,"Hi wiab4355,
+
+You may need to go into ---> C:\Documents and Settings\Admin or Their Name\Application Data  make sure there is a folder in the Application Data directory labeled ""Pegasys Inc"" and a folder labeled ""TMPGEnc4XP"" in the  ""Pegasys Inc"" folder.  
+
+If these are not in the locations I listed then create them, label them as listed and put them in the locations listed. If you did it right the path to the folder you need will look like this ---> C:\Documents and Settings\Admin or Their Name\Application Data\Pegasys Inc\TMPGEnc4XP. 
+
+I have encountered the same problem as you the Patch is looking for the folder ""TMPGEnc4XP"" to create a licience. If that was your problem hope that this works for you.
+
+Cheers,
+LinkJones"
+[T],trialNerror,2011-04-02T08:48Z,"A little more clearification about step 2:
+
+When you run TMPGEnc Xpress the one time, you exit the program when it asks for license info.
+
+Then run the keygen to generate and patch.
+
+Finally, run TMPGEnc again and the program should start being licensed."
+,222niki222,2012-01-12T09:24Z,"Doesn't work
+1. Install using the TE4XP_Retail.exe file
+2. Start TMPGEnc XPress one time; Close the program
+3. Use the keygen; Change the version to 4.7.7.307; Click on Generate; Click on Patch
+
+CanÂ´t load file, make sure itÂ´s not in use
+???"

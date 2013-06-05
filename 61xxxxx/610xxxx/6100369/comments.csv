@@ -1,0 +1,33 @@
+User Type,Username,Date,Text
+,rocketero,2011-01-13T19:38Z,Editing torrent comments are disabled!
+,wulles,2011-01-13T21:45Z,???
+,rocketero,2011-01-13T23:41Z,"in an AMD-64Bit CPU it took 2.45 minutes to boot from the point where the desktop appeared, so it does boot in a 64Bit even that it's an x86 LiveCD."
+,LDGXXX,2011-01-16T15:01Z,HAS THE MULTI-BOOT CORRUPTION PROBLEM BEEN FIXED...THX
+,rocketero,2011-01-16T18:00Z,"I did not use the Multi-Boot feature of it, but I use a Multiboot Menu from OpenSuSe 11.3 and have 2 Linus OS's and 4 Windows OS's in the same PC and after shutting down the LiveCD all MultiBoot OS's worked fine."
+,rocketero,2011-01-16T19:04Z,"@LDGXXX and any other who is worried about their MultiBoot OS's Partitions, and don't have a Liinux OS installed to used the Linux-MultiBoot Feature, Here is an approach I just have tested and it worked perfectly: (with the exception that it took more than normal to boot)
+
+Download ""EasyBCD"" version 2.2 from ""NeoSmart Technologies"" (Google it), and in the right menu button select ""Add New Entry -->ISO Boot"" and in the ""Mode Selection"" I chose ""Boot from Disk"", I don't know if that makes a difference in the boot  time.
+
+But after booting you'll see in the Boot Menu the New Entry you added with the ISO file, Instead of burning a Cd, and it booted fine as I mentioned, and all the apps in the LiveCD worked fine including connecting through a LAN to the Internet (throughout a Private IP's DHCP server) and I even could access Remotely other PC's in the LAN with the ""Remote Desktop"" app located en ""Administrative Tools -->System""
+"
+,rocketero,2011-01-16T19:29Z,"@LDGXXX and anyone concerned about corruption of their multiboot OS's, and who don't have a Linux OS installed to use their multiboot function to boot multi OS's like I have, then I have a method I just used and it worked OK.
+
+Download the free app ""EasyBCD"" version 2.2 from ""NeoSmart Technologies"", after installed make sure you have listed all your OS's there, and go to the ""Add New Entry"" in the right menu, select ""ISO Boot"" tab and add your 7PE LiveCD ISO to the list. In the Mode button entry I selected ""Boot From Disk"", the other option is ""Boot From Memory"". I don't know if that made a difference in the boot time because it took a while to boot.
+
+Anyhow, after booting I had all the apps installed in the LiveCD, the Drive letter for it is X:\, and I was connected through a LAN DHCP server and I could access the Internet with no problems as the NIC was recognized at boot-time.
+
+My advice is placed the ISO file in a different partition where you boot your regular OS's as I did and after shutting down the system all was back to normal as it was before adding this new entry to the Boot Menu in Windows."
+,rocketero,2011-01-16T19:30Z,Sorry for the double entry but first time didn't appeared.
+,rocketero,2011-01-21T22:51Z,Correction: EasyBCD is version 2.0.2.117
+,vaibhav03,2011-02-16T20:46Z,"i have given my hard disk for repair...
+and i have no hard disk...
+so can i easily play songs, movies, net on my pc...
+
+i have i asus motherboard p5nmx and 2gb ram and an nvidia 9500gt graphic card.."
+,r.steve,2011-02-25T21:01Z,"@rocketero: Thanks for upload this file. I have been downloaded but it is very slow, only 2 peers.
+
+Actually how many ram is minimally required to run this? "
+,vaibhav03,2011-03-02T21:29Z,"how to change the resolution my monitor doesnt supports it.....
+its 15 inches and it says out of frequency....."
+,fu_manchu,2011-04-30T03:36Z,"HELLP Microsoft Framework 2.0 is not installed, and the other options and features is missing. I had to download it and a blank box appears. I really need microsoft .net framework 2.0 for norton 15 ghost portable to launch. Or can you install it on the live cd in the next revision or something. I really need the burn to dvd feature in ghost, The damn bootable disk wont let you. BTW this is an excellent release however if you can help me install norton 15 on this i would be very appreciative. "
+,riguel99,2011-09-04T22:30Z,Thanks!!

@@ -1,0 +1,27 @@
+FUBAR ShutDown 2011 v2
+----------------------
+
+This is the newest version of this VERY annoying application!
+
+This will prevent anyone from logging in to Windows.
+
+After installation, nothing happens. As usual :)
+
+Next time any user logs in, they will be presented with a black screen. Nothing else. Just a black screen.
+Whenever the user clicks the mouse or presses any key on the keyboard, Windows will log out immediately!
+
+
+
+Here is how to remove it:
+Restart the computer and boot into Safe-Mode.
+Open the Registry Editor ('regedit.exe'), and browse to this key:
+
+HKEY_LOCAL_MACHINE/Software/Microsoft/Windows/CurrentVersion/Run
+
+(On Windows XP, the last path will be 'RunOnce')
+
+Delete the value named "FUBAR ShutDown 2011 v2".
+
+
+
+/Ubehage

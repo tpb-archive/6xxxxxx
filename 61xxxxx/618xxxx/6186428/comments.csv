@@ -1,0 +1,58 @@
+User Type,Username,Date,Text
+,Likeadidas95,2011-02-19T15:20Z,"have to try this !
+anyone tell me, can i win fps with this tweak ?
+thanks :)"
+,muratce020181,2011-02-19T15:34Z,low fps
+[T],ADHDerby,2011-02-19T16:28Z,"This Tweak Pack is not intended to give a higher frame rate, but to improve the graphics quality.
+
+If you want a higher frame rate, edit System.cfg and change the sys_spec_full, sys_spec_quality and q_quality values to 3.
+This should give a higher frame rate than the default System.cfg because most debugging features are disabled."
+,muratce020181,2011-02-19T17:51Z,"can you make some cfg for crossfire 
+my second gpu is ussefull only 1st is working"
+,muratce020181,2011-02-19T18:07Z,2 x hd 4870s
+[T],ADHDerby,2011-02-19T19:36Z,"@ muratce020181: Add this line to System.cfg
+r_MultiGPU = 1"
+,muratce020181,2011-02-19T20:02Z,"i know that cfg but it not works there's
+full picture flickering"
+,muratce020181,2011-02-19T20:04Z,full fix wait crysis 2  march 22nd and amd new drivers
+,thompsoner,2011-02-21T15:47Z,"THANKS ADH Derby,it works nicely for me.However,I am having an issue with the missions.As I finish one mission and the next cutscene plays.It goes pitch black and the loading screen for the next mission would not appear.This only occured when I applied your tweak pack.How do I tweak to make it continous as selecting missions would be annoying as I lose my upgrades.How do I go about it?
+Much appreciated"
+,SSerpentineSS,2011-02-21T19:16Z,THANX MAN REMOVING THE LINES FROM CFG  GOT MY TEXTURES WORKIN!!! Srry caps i also removed the tb recipients files contents looked like email addresses to crytek for sending bug reports
+[T],ADHDerby,2011-02-21T21:15Z,"You're welcome! :)
+
+@ thompsoner: I finally found the bugger!
+Remove this line from System.cfg:
+
+net_lanbrowser = 1
+
+The levels will now load without a problem! :) "
+,t3chyo,2011-02-21T21:57Z,"Thanks bro, works good."
+,C-Element,2011-02-22T15:31Z,Can anyone tell me how and if is it possible to change the default keyboard bindings? I change them and apply them start the game and they have gone back to default :-(
+[T],ADHDerby,2011-02-23T10:29Z,"@ C-Element: Download http://www.mediaxxxx.com/?elmt297f7vf58sa
+Extract it in your Crysis 2 directory. (change xxxx to fire)
+Now edit GameCrysis2\Libs\Config\defaultProfile.xml and change your key bindings."
+,C-Element,2011-02-23T13:36Z,"Thank You ADHDerby for taking the time to help us all out, I will do what you suggest.... again I, we all say a BIG THANKS for your continued help, enjoy your day  CE "
+,C-Element,2011-02-23T13:38Z,PS    Removing the line        ( net_lanbrowser = 1 )  worked perfectly......U DA MAN :-) 
+,wqerty,2011-02-23T22:56Z,I have stucks on Prophet flashbacks. Somebody know the solution?? I removed this net_lanbrowser = 1.
+,SPAWNWolf,2011-02-24T22:36Z,"@ADHDerby thx this helped till now,my problem now is once i get Glow talking on my viser(with his little face in the corner)my game freezes up.Any ideas for me Please?"
+,SPAWNWolf,2011-02-24T23:41Z,Don't bother got it fixed.
+,-OvERLoRD-,2011-02-27T10:40Z,"got, 
+
+---------------------------
+Error
+---------------------------
+Failed to initialize the GameStartup Interface!
+---------------------------
+OK   
+---------------------------
+
+error with this why? using win 7 x64 btw."
+[T],ADHDerby,2011-02-27T23:56Z,"@ wqerty: Make sure that you have the latest DirectX and video card drivers installed.
+
+@ -OvERLoRD-: Do you have a GameCrysis2 directory in the Crysis 2 directory?"
+,Trigguh,2011-03-05T09:00Z,"if you guys want better cfgs and a benchmark addon check out my torrent.
+
+http://thepiratebay.org/torrent/6220591/Crysis_2_(5620)_Benchmark_Addon_(Optional_CFGs)"
+,SS64084,2011-03-17T15:43Z,"@muratce020181
+
+disable Catalyst A.I in the ATI Control panel - this will fix fullscreen flickering."

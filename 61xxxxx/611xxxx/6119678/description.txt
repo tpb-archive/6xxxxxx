@@ -1,0 +1,68 @@
+IndigoRose AutoPlay Media Studio v8.0.4.0 Retail 
+
+[img]http://www.indigorose.com/content/ams/autoplay-rapid-application-development-logo.png[/img]
+
+AutoPlay Media Studio 8 delivers on the promise of rapid application development. What would normally take days or weeks to build using traditional software development tools (C, C++, Java, Visual Basic) can now be created in record time â€“ by just about anyone. Itâ€™s perfect for making anything from AutoPlay CD/DVD/USB menus to full-featured interactive multimedia applications, complete with web interaction, database connectivity, video playback and much more.
+If youâ€™re looking for a faster, easier way to create software applications for the Microsoft Windows platform â€“ congratulations! Your search is overâ€¦
+
+Drag and Drop Visual Software Development
+AutoPlay Media Studio flips software development upside down. Itâ€™s visual and fast. You design first and then program later. You can build your first Windows application in less than 5 minutes.
+From images, text and music to video, drop-down lists and web content, you simply move things into place using your mouse. Then, you can add powerful interactivity with a built-in library of more than 865 easy to use actions. Youâ€™ll be able to layout your graphic user interface as fast as you can drag and drop. The only limit is your imagination.
+
+Easy to Learn â€“ No Programming Required
+You donâ€™t have to be a programmer, but with AutoPlay Media Studio youâ€™ll feel like one. Visual development makes programming easier for beginners and hardcore users alike.
+While a full scripting language is available for power users, the Quick Action wizard lets new users get up to speed right away. Just fill in the blanks to handle the most popular actions like opening documents, running programs, switching pages and more. AutoPlay Media Studio is easy enough for anyone to use.
+
+20+ Interactive Objects Add Instant "Wow"
+AutoPlay Media Studio 8 includes nearly two dozen built-in object types. The great thing about objects in AutoPlay Media Studio, is that they are already 'smart'. You simply drop them onto a page (or dialog) and then edit their 'properties' and 'events' to customize them however you want.
+Choose from buttons, videos, web/HTML, Flash, QuickTime, PDF, checkboxes, radio buttons, edit fields, rich text, slideshows, data grids, menu bars, tree controls and more. Plus you can easily add more thanks to 3rd party plugins.
+
+Lua Scripting Language with 865+ Built-in Actions
+AutoPlay Media Studio isnâ€™t just a pretty face. When you really need to get down to business, our Lua scripting engine is going to knock your socks off. Itâ€™s very powerful, yet very easy to use. The Action Wizard can even write the code for you!
+But we didnâ€™t stop there. We spent years adding in over 865+ high-level functions. Itâ€™s code you can use but donâ€™t have to write. Thereâ€™s everything from XML parsing and SQL database queries to web server script interaction, file transfers and much more.
+
+Expandable with Modules, Plugins and Addons
+Plugins are one of the best features of AutoPlay Media Studio. They allow 3rd party software developers to extend and expand the product in an extremely integrated and seamless fashion.
+Plus, with new Lua 5.1 module compatibility, you have access to a wealth of free code you can download and use in your projects. Just some of the useful modules out there include Bit Operation, Date, Canvas Draw, Imaging Tool, GD, Crypto, Colors, Speech, Alien, Social (Twitter), CURL and Regular Expression Parsing.
+
+Not Just Dependable: Battle Hardened
+Dependable software doesnâ€™t happen overnight. AutoPlay Media Studio was originally released on October 8, 1997 (then called AutoPlay Menu Studio), and weâ€™ve been improving it ever since.
+Itâ€™s been the industry standard tool for creating autoplay/autorun CD, DVDâ€™s and USB drive menus for years. Heck, we invented the category! Over time, it became the secret â€˜visual programmingâ€™ weapon for thousands of savvy software developers, consultants and IT professionals. All told, hundreds of millions of applications have been distributed thanks to AutoPlay Media Studio.
+
+What's new in version 8.0.4.0:
+Feature: Added 2 new actions "File.SetPermissions" and "System.GetUserSID" that can be used to set file or folder permissions.
+Feature: Added a new action called "Application.SetSysTrayTooltip" that allows you to set and optionally show the tooltip for the icon in the system tray.
+Feature: Added an "On Mouse Wheel" event to pages and dialogs.
+Feature: Added an "On Char" event to the Input object.
+Feature: Added Mozilla Firefox Dependency detection script named "Firefox.det" to the distribution.
+Fix: Fixed a distribution issue where corrupt versions of the skin files were distributed.
+Fix: Fixed a bug where changing the text colour in a RichText object using the custom color option would change the colour of all of the text.
+Fix: Fixed a bug where very long similar filenames would result in files being left out when building to an ISO image.
+Fix: Fixed a bug where renaming ComboBox objects would not update script actions properly.
+Fix: Fixed a bug where if there was more than one action on a line, it would not rename properly when renaming objects.
+Fix: Made it so that the Application.Sleep action would block menu activations, right-clicks, and key presses.
+Fix: Fixed a bug where the "On Audio" event was not firing correctly when an xButton had focus.
+Fix: Fixed a bug where resizing objects that were positioned at 0,0 would sometimes fail to resize properly when the window was made smaller.
+Fix: Made it so that the script pane would remember the position of the cursor for events per session.
+Fix: Fixed a crash in the design that may occur on Windows 7 relating to browsing the system.
+Fix: Made it so that the RichText object properties dialog would use the RichText background colour at design time so that all colours of text would be visible.
+Fix: Added syntax support to the code editor for new Lua 5.1 operators.
+Fix: Fixed a bug where editing a page's transition settings via the property grid would not enable the save button.
+Fix: Made it so that the runtime will attempt to use the small icon first before using a larger icon size when using a custom icon.
+Fix: Updated the IRScriptEditor to version 2.0.1000 which contains Lua 5.1 syntax checking.
+Fix: Made it so that the "ButtonFile" table value of the Button.GetProperties action, and the "ImageFilename" table value of the Application.GetPageProperties and Application.GetDialogProperties actions all return full paths to the image file instead of relative paths.
+Fix: Fixed a bug where setting the text of a Label object orientated at 90 degrees would sometimes cause the label to "move" upwards.
+Fix: Fixed a bug in the CheckListBox object where the background and text colors weren't working properly.
+Fix: Made it so a disabled CheckListBox appears disabled at design time.
+Fix: Fixed a bug where the script pane could cause a crash when opening the same project twice. Also fixed a few other possible cases related to this area.
+Fix: Fixed some issues on the Project Layout dialog on Windows 7 including a New Folder button problem, rename functionality, selection and focus.
+Fix: Added the ability to move files and folders within the File Layout dialog by holding the Shift key during a drag and drop operation.
+Fix: Fixed a bug where the "Show Events" option on the Project Explorer pane was not always saving it's value.
+Fix: Made it so the autocomplete tooltip can be dismissed by pressing cursor left, right, up, down, Home, End, or Esc.
+Fix: Fixed a bug where the autocomplete tooltip wouldn't update to reflect the actual autocomplete text after editing the text under the cursor in such a way that different text would be autocompleted, e.g. after editing 'tr' to 'str' the tooltip now reads "String" as it should, instead of "Tree" as it would before.
+
+
+Installation Info:
+1)run setup
+2)use provided Serial when asked
+3)Enjoy from Slickinator

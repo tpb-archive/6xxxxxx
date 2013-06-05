@@ -1,0 +1,62 @@
+User Type,Username,Date,Text
+,solarian6,2011-01-26T20:07Z,"neige, awesome release, I really like it!  Cheers on the inclusion of all the custom themes and wallpapers.  I see you're a fan of digital space art too!
+
+I'd like to report a couple of immediate problems I found browsing through the Server Manager after a complete installation.  Windows Server Backup returns a fatal error and fails to report the details because the Event Log service is not running.  Sure enough it isn't and the service fails to start manually with an error code 4201 (WMI related).
+
+FYI, I'm testing this as a VM in VMware and have only installed the Tools.  Are you able to confirm these errors?
+
+Regards."
+,neige,2011-01-26T21:13Z,"That error no good !!!!
+
+I need to get back on this.
+
+I check it out.
+
+Neige"
+,neige,2011-01-26T21:55Z,Back on backup error. Tested release out again and Server Backup works. No errors. Neige
+,solarian6,2011-01-27T09:55Z,"Ok so you tested Server Backup without changing anything and it works for you?  In that case I may need a fresh install and test again.
+
+What about the Event Log service?
+
+Regards,"
+,solarian6,2011-01-27T10:43Z,"Just fired up a VM of this on my XenServer, all standard values for the VM and the install, install completes successfully again, but without installing any VM tools, server backup and event log service broken.
+
+Removing server backup features and reinstalling results in no change.
+
+Maybe this problem is isolated to VMs and not physical machines but I don't see how.
+
+Cheers."
+,robby5403,2011-01-29T16:04Z,"Do I first need to install the normal server version and then this or just this? Im currently installing the iso on VMWare but didnt get the option to choose the version (want Enterprise). Now it sais expanding workstation. How can I chose the Enterprise?
+
+Thanks!"
+,robby5403,2011-01-29T16:32Z,How can i change the Theme. Its really Ugly now and when i try to use a windows theme it sais that themes arent possible on this version...
+,neige,2011-01-30T04:51Z,"@ solarian6 :
+
+i installed all 5 releases again and all have server backup working !!!
+
+I can't reproduce error neither VM neither in real. this release is posted elsewhere too and no one reported that error back.
+
+i use vmware at VM software.
+
+@robby5403 
+
+you need to do a fresh install and you will be able to choose the version you want. same here iso has been tested and 5 versions are available on it.............. also to have themes working you need a VM like VMWARE that is able to handle 3D Graphics Acceleration.
+
+Neige"
+,robby5403,2011-01-30T08:34Z,So with a fresh install on my pc HDD the themes also work?
+,neige,2011-01-30T11:20Z,"@robby5403
+
+Yes it's always better to do a fresh install. upgrading is not the best solution.
+
+N :)"
+,tc_terencec,2011-02-16T02:11Z,"hey so will it just ignore the activation or is there something I have to do? 
+
+In control panel it reads:
+""3 days until automatic activation"" 
+""you have 30 days to activate windows to continue using features""
+
+beautiful release otherwise, thanks!"
+,neige,2011-02-24T01:58Z,"@ tc_terencec
+
+you need to activate it ! better, Daz Loader will do it ! regards N :)"
+,RtnDl,2011-04-05T23:40Z,Has anyone been able to activate the 2008 R2 DATACENTER edition yet?

@@ -1,0 +1,92 @@
+Hi,
+
+For everyone who wants to try Windows Phone 7 AND for those who wants to DOWNGRADE back to the original Windows Mobile 6.5.
+
+Goodluke.
+
+
+
+LS: Please, dont be an ass and always scan your files with a good virusscanner like AVG, Norton, McAffee, etc.
+
+
+======================================
+  INSTALLATION INSTRUCTIONS for HTC HD2
+======================================
+
+
+#01	If you like to try Windows Phone 7 on your HTC HD2, start
+	with "#01 - UPGRADE - WIN MOBILE PHONE 7".
+
+#02	If you're disapointed about Windows Phone 7 on your HTC HD2
+	and you like to downgrade back to your Windows Mobile 6.5,
+	start with "#02 - DOWNGRADE - WIN MOBILE 6.5".
+
+
+====================================================
+  UPGRADE WINDOWS MOBILE PHONE 7 for HTC HD2
+====================================================
+
+
+STEP 1		[1] Turn off your HTC HD2.
+		[2] Format your SD card as FAT32 filesystem on
+		     your computer and put it back in your HTC HD2.
+		[3] Start your HTC HD2.
+		[4] Connect your HTC HD2 to the computer and
+		     choose "ActiveSync".
+		[5] Start "HSPL3_PKG.exe" (as Administrator) and
+		     follow the instructions.
+
+
+STEP 2		[1] Disconnect your HTC HD2.
+		[2] Restart your HTC HD2.
+		[3] Re-connect your HTC HD2 to the computer and
+		     choose "ActiveSync".
+		[4] Start "ROMUpdateUtility.exe" (as Administrator)
+		     and follow the instructions.
+
+
+STEP 3		[1] Disconnect your HTC HD2.
+		[2] Restart your HTC HD2.
+		[3] Re-connect your HTC HD2 to the computer and
+		     choose "ActiveSync".
+		[4] On your HTC HD2 select "5. USB Flasher" with
+		     the volumekey.
+		[5] Press the lower left key on your phone to comfirm.
+		[6] Start "DWI.exe" (as Administrator) and follow the
+		     instructions.
+
+
+====================================================
+  DOWNGRADE WINDOWS MOBILE PHONE 6.5 for HTC HD2
+====================================================
+
+
+STEP 1		[1] Disconnect and shut down your HTC HD2.
+		[2] Remove the SD card from your HTC HD2 and format
+		     it on your computer as FAT32 filesystem.
+		[3] Copy the file "leoimg.nbh" to your SD card (max 4GB).
+
+		     NOTE:
+		     This file is in Dutch (NL). If you want an original
+		     file in your own language, you have to download
+		     a new ROM from the HTC website. After downloading,
+		     open it with WINRAR and then copy the file named
+		     "RUU_signed.nbh" to your SD card. Rename the file
+		     into "leoimg.nbh" and your done.
+
+		[4] Put the SD card back into your HTC HD2 and restart
+		     it.
+		[5] At the back of your HTC HD2 you'll see a small red
+		     button. Press this small red resetbutton while pressing
+		     the volume down button. Let go the resetbutton but
+		     hold the volume down. When you see the 4 colored
+		     screen, let go the volume button.
+		[6] Follow the instructions on your HTC HD2. When the
+		     update is completed you'll have to press the small red
+		     resetbutton again.
+		[7] The downgrade is now completed. Don't forget to
+		     remove the file "leoimg.nbh" from the SD card.
+
+
+------------------------
+Greetings SCARFACE.

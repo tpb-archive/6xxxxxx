@@ -1,0 +1,97 @@
+
+-------------------------------------------------------------------------------
+\\//\\//\\//\\// _ |_ _ \ \/ /_ _ _ \\//\\//\\//\\//\\//\\//\\//\\//\\//\\
+//\\//\\//\\//\\ (_||_)(_|/ /\ \_||_ | | //\\//\\//\\//\\//\\//\\//\\//\\//\\//
+
+Checking Game
+ISO: "C:\XBOX.360.KINECT.THE.BIGGEST.LOSER.ULTIMATE.WORKOUT- SKILLED.iso"
+Size: 7572881408 bytes
+Files in ISO: 589, Folders in ISO: 17
+Total bytes used: 1683112058 (23.06%)
+Game appears to have random padding
+
+Checking default.xex
+Original PE Filename: Default.exe
+Original PE Timestamp: 2010/09/16 17:18:20
+Game Name: The Biggest Loser UW
+No Avatar Awards
+Achievements: 45 Achievements totaling 1000 Gamerscore
+XEX CRC = DBD23FB0
+XEX Media ID: 33818665AF75CF52A8B48D2F-5F80306C
+
+Region Code: 0xFFFFFFFF
+Region Free!
+
+Checking SS
+Timestamp of Authoring: 2010/09/18 00:00:00
+Timestamp of Mastering: 2010/10/13 11:33:09
+SS Version: 1
+SS CRC = 1B0A84AD (RawSS = 7AEB23E8)
+SS Media ID: 33818665AF75CF52A8B48D2F-5F80306C (matches game)
+SS looks valid
+
+Checking DMI
+Timestamp of Authoring: 2010/09/18 00:00:00 (matches SS)
+DMI CRC = 02F35F99
+DMI Media ID: 33818665AF75CF52A8B48D2F-5F80306C (matches game)
+DMI looks valid
+
+Checking PFI
+PFI CRC = 0441D6A5
+PFI matches known data (8th - 9th Wave)
+
+Video partition found
+Video CRC = F69FD42F (V0 = F565415E, V1 = C14810E2)
+Video partition matches known data (8th Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+Looking for 1B0A84ADDBD23FB0.ini in the online verified database
+There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Verification failed
+
+Starting AutoFix
+Looking for Xex_DBD23FB0.ini in the online verified database
+Xex_DBD23FB0.ini was downloaded successfully
+Looking for E5441C9CDBD23FB0.ini in the online verified database
+E5441C9CDBD23FB0.ini was downloaded successfully
+
+Using E5441C9CDBD23FB0.ini (369 bytes)
+Looking for SS_E5441C9C.bin in the online verified database
+SS_E5441C9C.bin was downloaded successfully
+Verifying SS_E5441C9C.bin is valid before using it for AutoFix
+
+Checking SS
+Timestamp of Authoring: 2010/09/18 00:00:00
+Timestamp of Mastering: 2010/10/16 15:49:51
+SS Version: 2 (trusted)
+SS CRC = E5441C9C (RawSS = 576807E7)
+SS Media ID: 33818665AF75CF52A8B48D2F-5F80306C (matches game)
+SS looks valid
+
+Looking for DMI_05599D39.bin in the online verified database
+DMI_05599D39.bin was downloaded successfully
+Verifying DMI_05599D39.bin is valid before using it for AutoFix
+
+Checking DMI
+Timestamp of Authoring: 2010/09/18 00:00:00 (matches SS)
+DMI CRC = 05599D39
+DMI Media ID: 33818665AF75CF52A8B48D2F-5F80306C (matches game)
+DMI looks valid
+
+Automatically patching stealth files...
+Patching DMI from DMI_05599D39.bin
+Patching SS from SS_E5441C9C.bin
+Stealth files patched successfully!
+AnyDVD style corruption was not detected
+Game CRC = DF68C4FA
+
+Game partition CRC matches the verified ini!
+AutoFix was successful!
+
+Size is too small for SplitVid, extending...
+Extending "C:\\XBOX.360.KINECT.THE.BIGGEST.LOSER.ULTIMATE.WORKOUT- SKILLED.iso" to 7838695424 Bytes... Done
+SplitVid is invalid, fixing...
+SplitVid was added successfully!

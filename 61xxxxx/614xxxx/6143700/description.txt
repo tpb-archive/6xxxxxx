@@ -1,0 +1,29 @@
+Although a number of fixes have already been implemented, including sorting out multiplayer lag, Update 4 promises a lot of additional improvements including bug fixes and gameplay tuning.
+
+Hereâ€™s the list:
+
+Issues Addressed:
+Resolved several issues with parties getting disbanded unexpectedly.
+Updated handling for UPnP-enabled routers to improve matchmaking conditions where users had strict or moderate NAT types. Also added in-game communications so that all players are aware of their NAT type in the Player Match party lobby.
+Addressed issue that prevented the â€œLoad MP by Defaultâ€ option from saving when other specific option combinations were set.
+Prevention of exploit that allowed players to keep custom classes and killstreaks after prestige.
+Addressed an issue where Flak Jacket Pro would not always protect against ground fires left by Napalm Strikes.
+Prevention of users losing their killstreak reward when switching classes at the start of a new round in round-based game modes.
+Addressed an issue where the incorrect perks would appear when spectating another player under certain circumstances.
+Added round start explosive delay to China Lake grenade launcher to give it the same round start limitations as other explosives.
+Contracts will now reset when the player Prestiges.
+Prevention of Valkyrie rocket exploding upon release under rare conditions.
+Prevention of Gunship failing to give player full control under rare conditions.
+Prevention of an issue where a player will get teleported outside the map boundaries under very specific circumstances.
+Additional security measures to enhance detection and banning capabilities.
+
+Gameplay Tuning:
+Limit the ability to re-roll supply drops using Hardline Pro to Care Packages only, no other killstreak drops.
+Added a negative influencer to all spawn points to decrease the chances of spawning near an enemy. This will further improve spawning protection on top of previous updates.
+Additional sound mix tuning for Ninja Pro users â€“ increased ranges and volume of enemy footsteps, and removed player footstep sounds on concrete material types.
+Increased headshot multipliers for sniper rifles. Sniper rifles with suppressors equipped will now always be ensured one-shot kill headshots.
+Subtle increase in sniper rifle accuracy when scoping in.
+Added a render delay to the red diamond player indicators that appear when controlling the Gunship, Valkyrie Rocket and Chopper Gunner. When a player first spawns, this will not appear for a period of time.
+Additional minor reductions in knife lunge.
+
+As for when the patch will go live, Treyarch says that it is going in for submission with Microsoft today so finger-crossed on it arriving at some point this weekor so.

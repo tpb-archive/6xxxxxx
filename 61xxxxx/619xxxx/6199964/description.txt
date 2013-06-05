@@ -1,0 +1,5 @@
+Description: SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of linux software such as system tools (parted, partimage, fstools, ...) and basic tools (editors, midnight commander, network tools). It requires no installation. It can be used on linux servers, linux desktops or windows boxes. The kernel supports the important file systems (ext2/ext3/ext4, reiserfs, reiser4, btrfs, xfs, jfs, vfat, ntfs, iso9660), as well as network filesystems (samba and nfs).
+
+Website: http://www.sysresccd.org/
+
+I uploaded this because the download was slow from the original site. It is unmodified please check the SHA256 checksum on the original website. The download link is included as a webseed.

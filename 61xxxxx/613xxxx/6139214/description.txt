@@ -1,0 +1,56 @@
+FreeArc is a modern general-purpose archiver.
+Main advantage of FreeArc is fast but efficient compression and rich set of features.
+FreeArc works 2-5 times faster than best other compression programs.
+
+Advantages
+- Free, open-source, with console and GUI versions for both Windows and Linux
+- Includes LZMA, PPMD, TrueAudio and generic Multimedia compression algorithms
+  with automatic switching by file type
+- Filters that further improve compression: REP (finds repetitions at the 
+  distances up to 1gb), DICT (dictionary replacements for texts), DELTA 
+  (improves compression of tables in binary data), BCJ (executables 
+  preproccesor) and LZP (removes repetitions in texts)
+- Special compression algorithms are used in fast compression modes 
+  (GRZIP for texts and Tornado for binary data)
+- Overall, 11 compression algorithms and filters are included 
+  (compared to 3 in 7-zip and 7 in RAR) and this number still grows
+- Smart file sorting that groups similar files together and fully customizable 
+  sorting order (see below) further improve compression
+- Typically, FreeArc works 2-5 times faster than best programs in each compression 
+  class (ccm, 7-zip, rar, uharc -mz, pkzip) while retaining the same 
+  compression ratio; from technical grounds, it's superior to any existing 
+  practical compressor
+- Moreover, you can use any external program as compressor or filter as easy 
+  as internal ones, with Precomp, ECM, CCM(x), PPMonstr, Durilca, LPAQ, UDA 
+  and PAQ are already preconfigured in arc.ini as shipped
+- You can fine-tune settings for each compression algorithm, and which 
+  compression algorithms are used for each type of files; you can create 
+  new compression profiles and modify existing ones; use -dic$ option in 
+  order to see all details of compression used
+
+Features
+- Solid compression with smart updates (only changed solid blocks are recompressed)
+- User-definable solid block size (-s:) and file sorting order (-ds:), including 
+  customized filename ordering (arc.groups)
+- AES/Blowfish/Twofish/Serpent encryption with keyfiles support and ability to 
+  chain multiple ciphers (-p, -hp, --keyfile, --encryption=ALGORITHMS)
+- FAR and Total Commander plugins allow to create/browse/extract archives using the 
+  file manager interface
+- Ability to create SFX (self-extracted) archives and installers
+- Ability to list/extract archives directly from Internet: 
+  arc x http://freearc.org/demo/arc.arc *.h
+- Archive protection and recovery, including recovery over Internet driven by 
+  CRCs of archive sectors (r/rr/-rr/--original=URL)
+- Ability to test archive before and after any operation (-tp/-t), including
+  checking 
+  by recovery record and full archive test
+- Moving to archive (m), joining archives (j), archive recompression (ch), 
+  locking (k) and commenting (-z/cw)
+- Select files by size, time/age and name (-sl, -sm, -ta, -tb, -tn, -to, -n), 
+  select by/clear ARCHIVE file attribute (-ao/-ac)
+- Base directory on disk / inside archive (-dp/-ap), automatic generation of archive 
+  filenames (-ag)
+- Errors and warnings are reported to stderr and reflected in program exit code; 
+  --logfile option saves to the file all the information displayed
+- Configurable via arc.ini file and FREEARC environment variable; alternative 
+  settings may be selected by means of -cfg/-env options

@@ -1,0 +1,25 @@
+
+
+
+WinEdt is a powerful and versatile text editor for Windows with a strong predisposition towards the creation of [La]TeX documents...
+
+WinEdt is used as a front-end for compilers and typesetting systems, such as TeX or HTML. WinEdt's highlighting schemes can be customized for different modes and its spell checking functionality supports multi-lingual setups, with dictionaries (word-lists) for many languages available for downloading from
+WinEdt's Community Site www.winedt.org. Contributions are welcome!
+
+Although WinEdt is reasonably suitable as an all-purpose text editor it has been specifically designed and configured to integrate seamlessly with a TeX System (such as MiKTeX or TeX Live). WinEdt documentation does not cover TeX related topics in depth. You'll find introductions and manuals on typesetting with [La]TeX, as well as links to other recommended accessories, on TeX's Community Site (TUG).
+
+Major new features in WinEdt 6.0:
+- WinEdt's Interface (toolbar) has changed. A single button is now used to select and start the TeX Compiler of your choice. The drop-down menu allows you to choose from PDFLaTeX, LaTeX, XeTeX, TeX, AMSTeX, etc... Once you make your choice you can start the selected compiler by clicking on the button...
+- The new interface also features context-sensitive Compile and Preview buttons. Their meaning for TeX documents can be configured through the Execution Modes Interface...
+- Configuration Filters are used to make Menu Items and Toolbars visible or invisible depending on the configuration choice (MiKTeX, Tex Live, HTML, etc...)
+- Console Applications are by default executed in WinEdt's own Console Window. This can be customized in the Execution Modes interface.
+- Highlighting now allows specification of environment-sensitive background colors.
+- Support for compiling MetaPost documents and Documented LaTeX (DTX)...
+- And there is more... Click on the link What's New in WinEdt 6.0, below, for the complete list of all new features, bug fixes and changes!
+
+IMPORTANT: All Images and Icons used by WinEdt have been redesigned and the overall appearance of WinEdt and consistency of its GUI has changed quite a bit (hundreds of hours of work went into this!).
+
+Most users should find this an improvement (especially on Windows with Themes enabled). And for others: WinEdt 5.5 is still there (exactly as it was) and you can, of course, continue to use your current (customized) version of WinEdt indefinitely. No need to upgrade if you are happy with what you have!!!
+
+
+Enjoy

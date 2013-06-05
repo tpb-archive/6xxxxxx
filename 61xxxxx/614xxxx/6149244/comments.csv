@@ -1,0 +1,15 @@
+User Type,Username,Date,Text
+,Slorv,2011-02-08T18:34Z,Cannot get it to run on a MacPro running 10.6 server.
+,youree,2011-02-20T11:08Z,"doesn't work, just get the demo; it's cool ;)"
+,wizpig64,2011-03-17T00:20Z,"Doesn't launch at all on my early 2008 macbook pro, running snow leopard. The demo from the cathode website works."
+,kriss1313,2012-01-18T22:27Z,seed :)
+,Foveaux,2012-05-20T00:55Z,"Here's how to get it working!
+
+Move Cathode.app to /Applications
+
+Then, in terminal:
+
+$ chmod -R 777 /Applications/Cathode.app/*
+$ chmod +x /Applications/Cathode.app/*
+
+And it should run."

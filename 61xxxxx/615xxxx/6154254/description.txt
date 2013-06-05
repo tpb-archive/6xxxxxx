@@ -1,0 +1,50 @@
+
+Morrowind should not need any introduction by now, but in case...
+
+=================
+The Elder Scrolls III: Morrowind, often simply referred to as Morrowind, is a single-player computer role-playing game developed by Bethesda Game Studios, and published by Bethesda Softworks and Ubisoft. It is the third installment in The Elder Scrolls series of games.
+
+The main story takes place on Vvardenfell, an island in the Dunmer province of Morrowind, which lies in the empire of Tamriel and is far from the more civilized lands to the west and south that typified Daggerfall and Arena. The central quests concern the deity Dagoth Ur, housed within the volcanic Red Mountain, who seeks to gain power and break Morrowind free from Imperial reign.
+
+Morrowind was designed with an open-ended free-form style of gameplay in mind, with a lessened emphasis on the game's main plot.
+=================
+
+
+
+Morrowind is a little boring to install; there are three setups (Morrowind, Tribunal and Bloodmoon), patches, official mod and some external utilities to install.
+
+Originally for my own use I made an archive with the whole _official_ Morrowind installed and patched. Now I decided to share it with the world, in case anyone other like the idea of an `unpack and go' clean Morrowind.
+
+The torrent hashes a single 7zip solid archive with:
+- Morrowind
+- Tribunal
+- Bloodmoon
+- The eight official plug-ins
+-- Adamantium Armor
+-- Area Effect Arrows
+-- Bitter Coast Sounds
+-- Entertainers
+-- Helm of Tohan
+-- LeFemm Armor
+-- Master Index
+-- Siege at Firemoth
+- Morrowind Patch Project
+
+The morrowind.exe has been fixed with Morrowind Code Patch and a no-cd patch; I used the patch to fix bugs, I also selected few Gameplay Changes or new Features. But only the ones I fond more reasonable and that do not change the game much.
+
+All the patches, mods and the original morrowind.exe are included. So you can easily revert if you need.
+
+I also copied the three Morrowind story movies: the introduction, the half-game recap and the ending. I did not copied the other movies as actually unneeded (credits, menu...).
+
+There is also a directory with various maps for fast travel, roads and political influences...
+
+Finally in the directory `utilities' are few items to improve your modding experience: the guide to scripting, tesame, testool, wrye mash and few others. In the data files folder are two programs to simply sort the mods. (One makes the mod-list, the second sort the file following the mod list)
+
+The play:
+- unpack,
+- edit the morrowind_path.reg to match the directory where you installed,
+- start.
+
+Morrowind (as many old games) needs to write in its folder, so do not unpack it in `Program Files' or another Windows protected folder. Install somewhere like 'c:\morrowind', 'c:\games\morrowind' or even your Document folder. Of course if you use Windows 98 or Wine this is not a problem at all.
+
+I say it again: this archive is meant as a `ready to go' VANILLA Morrowind. Patches a part, there is no fan-made content. Most probably you want some. Check planetelderscrolls.gamespy.com .

@@ -1,0 +1,26 @@
+an i386 custom iso based off of super os 10.10.
+
+Changes from the original include:
+    Removed software:
+        gwibber
+        empathy
+        opera
+        google-chrome
+        amsn
+        skype
+        openoffice.org
+       
+    Installed software:
+        pidgin
+        libreoffice
+        skrooge
+        gnomenu
+        talika
+        gimp
+        scribus
+        acidrip
+        xbmc
+        faenza-icon-theme
+        emerald-theme-manager
+
+Sorry, the live_cd part has issues at login.  I've tested the full install and everything works perfectly.

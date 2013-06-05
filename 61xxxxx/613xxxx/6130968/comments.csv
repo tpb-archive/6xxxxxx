@@ -1,0 +1,103 @@
+User Type,Username,Date,Text
+,Shunnabunich,2011-01-27T16:44Z,Sounds great! Would someone mind seeding?
+,Shunnabunich,2011-01-28T02:54Z,"@tickles39: It says in the description that *support* has been added for 64-bit Windows, not that this was the Windows version. In fact, on the Features page for Maya, it mentions 64-bit Mac support as well. No need to shun Maya simply because it's cross-platform.
+
+(Thanks for seeding, BTW, guys!)"
+,Shunnabunich,2011-01-28T07:28Z,"Wuh oh...the keygen crashes upon opening, at least under 10.5.8. From the readme's mention of a ""mem patch"", I assume this thing has to be running at the same time as Maya's activation screen is up, i.e. I can't just reboot into Snow Leopard and see if it works there?"
+,Shunnabunich,2011-01-28T20:03Z,"...and under 10.6.6, the keygen runs but the memory patching fails, and the response code it gives me is 8 characters too short. Cripes almighty. Well, if nothing else, I appreciate the effort."
+,wohya,2011-01-30T05:20Z,Same experience as Shunnabunich.
+,darkmalteaser,2011-02-01T01:50Z,dont want to sound like a noob but how the hell do use this its all in different files
+,Shunnabunich,2011-02-01T16:04Z,"@darkmalteaser: When you first download this torrent, it's contained in a multi-part RAR archive (like a Zip file, but a different format). One of them has a filename extension of .rar; this is the one you'll want to extract, and if your archive-handling app of choice knows what it's doing, it'll automatically pull in the other 26 parts as needed.
+
+I use SimplyRAR, which is freeware, and it seems to work just fine. I'm sure there are others out there, too. Once that process is finished, you'll have an .iso file which you can either mount like any other disk image, or burn to a DVD for posterity. However, seeing as the keygen doesn't appear to work, that may not be the most useful thing to do."
+,dawok99,2011-02-02T07:06Z,"Here is a workaround for those having trouble with x-force and 10.6.6...
+
+A. Once at the activation screen:
+
+	1. Open the Terminal application.
+
+	2. In Terminal type ""sudo -s"" without the quotes.
+
+	3. In Finder right-click ""xf-adesk2011"" application select ""Show package contents"". Navigate to Contents -> MacOS folder and you'll see x-force there.
+
+	4. Drag n drop x-force to the Terminal window. When you drop it there it will have its full path typed in. Just press enter in Terminal to start x-force. Now it will generate a valid serial.
+
+B. Click on Mem Patch (you should see successfully patched)"
+,KDESIGN,2011-02-02T15:23Z,"@dawok99
+
+Thank you so very much for this amazing help, you seriously are a genius! 
+
+Everyone, for those having issues with the x-force keygen in OS X 10.6.6, please follow the above's instructions as it will help you fully activate the product worry-free."
+,Shunnabunich,2011-02-03T17:23Z,"Confirmed, dawok99's instructions work! The response code is still too short, but since the memory patch worked, it was accepted anyway (in other words, don't be spooked if it doesn't look right). Thanks, man!"
+,avents,2011-02-12T14:38Z,Is anyone having autodesk quantity takeoff
+,freeflo,2011-02-13T03:42Z,"Still having an issue if anyone can help? I am constantly getting application quit unexpectedly even with the terminal. thru the terminal this is the error im gettin.. dyld: unknown required load command 0x80000022
+Trace/BPT trap
+Any ideas?"
+,wewrwer,2011-02-15T13:39Z,"So, I mounted .dmg and installed maya2011 on my mac, using 000-00000000 as Serial and 00000 as Product Key for the installation to start (btw6 it does not allow you to use 657C1 as Product Key, if you use 000-00000000 as Serial - why is the install.txt telling me to do the impossible - idk). 
+So now I have finished installation and am trying to start maya to proceed to teh activation. But as soon as I click on the maya icon, I get the following error message:
+
+License was not obtained
+Tried Maya 2011 (657C1 2011.0.0.F), error 20
+
+License method:
+environment variable MAYA_LICENSE_METHOD='standalone'
+
+Product choice:
+environment variable MAYA_LICENSE='unlimited'
+
+License file override:
+environment variable MAYA_ALT_EN is not set
+
+Why is that? What did I do wrong? What do I do next? Does anyone know? Will someone tell me?
+
+Btw, I have macos 10.6.6, but teh crack runs fine. Still - can't get Maya running.."
+,wewrwer,2011-02-15T18:15Z,"Oh, please do answer me, kind gentlemen - I really need that Maya running."
+,blp2,2011-02-22T16:55Z,"I've tried installing and following dawok99's instructions, but I still can't get the patch to work.  When I click on mem patch I get an error - ""Not admin, wrong version or custom error.""  X-force generates codes for me.  They're short a few characters, and I understand that's ok as long as the mem patch works, but it doesn't.  I'm using 10.6.6 and yes, I'm logged in as admin.  not sure what to do next?"
+,jhd_626,2011-03-11T15:17Z,"I have downloaded the files but when I try to open the dmg file it says that ""THE FOLLOWING DISK IMAGE COULDN'T BE OPENED"" and it has the name of the image and the reason is ""NOT RECOGNIZED"".
+
+Can someone please help me with this! I can't get it to open! I need this so bad!
+
+Thanks,"
+,danroberto,2011-03-17T03:34Z,"So all goes well and I get ""Autodesk Maya 2011 has been successfully activated."" but when I click ""Finish"" I get the ""Activation Required"" again........ it's like an infloop..."
+,danroberto,2011-03-17T03:42Z,Please ignore my last msg... Command-C does not work in the xf-adesk2011 patch... so basically i pasted the requested code... Copied using right-click and all is ok!
+,emfiddler,2011-03-22T20:17Z,"I'm having the same problem as blp2. Same error message...
+
+Does anyone know what to do next?"
+,friggers8,2011-03-30T23:14Z,"I followed dawok99's instructions.  But i have a problem;  call me a scrub, but I can't find the mem patch I'm supposed to click on.  I ran the x-force thing through the terminal, and I'm getting a ""bash- 3.2#. What does that mean?  Why isn't x-force open?  Where do I find the mem patch I'm supposed to click on to activate Maya?"
+,pimmas,2011-03-31T18:36Z,"@dawok99 
+
+Thanks so much dude! +1"
+,SherlockH,2011-04-05T15:12Z,"@dawok99 +1
+
+Thanks homie."
+,BlackCyberPyraten,2011-04-10T08:52Z,"Hey guys there is a problem.
+Yesterday I opened maya and the keygen has been detected!!!!
+
+This guys from autodesk are getting me angry.
+
+Please notify me if there,s a solution."
+,bonyok666,2011-04-10T12:19Z,"thanks for sharing :)
+
+
+
+
+------
+SEED BACK AFTER DOWNLOAD :p :D "
+,big-bad-bionic-boy,2011-06-13T12:26Z,"yo.....
+@emfiddler 
+@blp2
+
+im running 10.6.7 and getting the same problem as you...
+
+solution:
+go to maya 2012 torrent...
+http://thepiratebay.org/torrent/6305179/AUTODESK_MAYA_V2012_WIN64-ISO
+
+download this torrent and use the keygen from 2012 on 2011...
+open 2011 at activation screen then open 2012 keygen, then hit mem  
+then put in the request code in. 
+hit gen
+then simply type the key into maya activation 
+
+BOOM IT WORKS!"
+,byanbyan,2011-09-11T01:46Z,Does anyone have the correct Activation code that they could email me to d-evans@hotmail.co.nz. Because none of this works. Bit of a shame since it took a day to download.

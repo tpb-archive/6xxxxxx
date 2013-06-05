@@ -1,0 +1,97 @@
+***************************************
+Micro XP Pro 0.85 New Edition
+By DarkReverser
+
+Special Note To Pirate Bay Admins and Users:  
+
+I have scanned this with emsisoft antimalware.  
+I have removed those items which you may have thought were trojans even though they weren\'t. Before banning or complaining to TPB staff, please advise of anything you think is unsafe and I will prove to you that it is safe.  Your AV may also pick up the autoit files (NOPOP.exe, USRMSG.exe) which are script files generated with autoit; these however are not passphrased and can be unpacked for your view using Exe2Aut.exe which I include in this release.  It generates a
+.aut file which you can partly see in notepad or download autoit to see in full.  One of them is responsible for restarting xp one last time for example.  
+Both of these scripts are safe and further more both of these scripts are in ALL microXP that is currently hosted on the TPB; ban me and you should also ban them.
+Their torrents are necessarily inferior in safety than my torrent and I remain suprised at how some of them remain unbaned. I know this download is safe because I could work for an antivirus company my knowledge of malware is that specialized. 
+Please advise of any other files your AV complains about.  I will respond.  Thank you. And If you like or love this torrent then  please seed forever or as long as you can and don\'t forget to comment. The readme has been adjusted slightly, please go over it. Also, you may notice part of the system says \"By eXperience\" and other parts \"By Ericore\".  Eric is my real name in life, and ericore my default username which is already taken here at TPB.  I also go by DarkReverser.  Again anything which you feel is not as advertised, please advise and I will assist you.  
+
+
+Please also note that, this is a single user, automatic logon edition.  eXperience locked it up so I tried but couldn\'t get user accounts  to work nor welcome screen. He used some kind of script that i was unable to find/access.  
+
+
+Micro XP Pro 0.85 New Edition
+
+
+Basically, I have perfected eXperiences\' microXP 0.82.
+The problem with his edition is, if there\'s missing a feature that you like you can\'t do nothing about it.
+Problem solved in version 0.85.  You can reinstall just about any feature, program and service that was on the retail copy of the disc, but from this disc of course :)  
+This includes those features which are abscent.  Reinstall the ones you like or want including windows firewall if you want.
+If you found networking a hassle in the previous version, just reinstall it in full with this edition.
+This is trully the first fully customizable version of microXP. 
+This version also ship with Febuary 2011 updates, pre-cracked and not a single sign of a virus.
+This version can be made to work with any application; sometimes you\'ll need to download a few dlls and install xp services though. 
+This was not possible with previous microXP 0.82 because you couldn\'t reinstall xp services which some programs require to install.
+Install time is slightly increased to 7 min.
+It has all languages kept, except Chinese/Japanese/Korean which you can do nothing about.
+Includes default XP drivers for Ethernet/Sound/SCSI/RAID
+It has all keyboard layout choices kept.
+
+ISO File Size ............................. 115 Mb
+Required Ram............................. 64MB (to install)
+Entire Install Size ....................... 300Mb
+
+Enjoy.
+
+****************************************
+Readme:
+
+Burn on any media you want with imgburn, nero, poweriso etc...
+Install is automatic, just configure your bios then everything will be done for you.
+
+
+ONCE XP IS INSTALLED:
+
+
+Customizing XP:
+
+Double click on the reg file to activate xpLite.  Run xpLite.  Do not allow updates. Press control-p and select show advanced options or whatever.  Basically, in the component section everything starts checked off even those services that you can\'t see in msconfig are checked off as if there are in fact installed.  The way you customize your distro is you uncheck the stuff you want to be on your pc, click next, when completed recheck those same boxes and click next again; and the items will be installed correctly.  A Few things don\'t work like telephony, fax and com (though com System Events works). So if you get an error, it is probably because you selected one of those directly or indirectly.  Anyhow for those items you want removed you would simply do the first half of the previous instructions (uncheck -> click next).  I would advise before you experience further to install system restore and enable it (make a backup) in case you fuck up windows.  Safe Mode and System Restore will come in handy then.
+
+Additionally, there is a tool called systweaker in troubleshooting that can help you configure settings (note: many require restart to notice effect).
+
+Recommended Customizations:
+
+-Adjust XP view under Advanced>> select Best Performance, then checkmark \"use common tasks and folders\".
+-Double Click EnableCrashLogging, should you get BSOD you can easily determine what caused it using the file that this will generate.
+-My Computer, right-click on c drive, remove sharing of the drive, and under security remove the everyone group.
+-By Default, windows firewall is not installed.  You can install it, but I would recommend rather that you use comodo firewall.  Much better, and low system   
+ ressources.  http://www.matousec.com/projects/proactive-security-challenge/results.php
+-By Default, a lot of services are not installed.  You can\'t thank or be angry at eXperience for this since a lot of applications cannot install because of some
+ missing services.  For Example, Windows Management Instrumentation is a service needed by drivers and some applications.  You can reinstall the services
+ which you cannot see in msconfig with xpLite as per my instructions in that section.
+-By Default, shortcuts are mostly absent including admin tools.  Again something you can fix with xpLite.
+ However certain tools are on the disc so you can grab the following on MS website:
+	Windows XP SP2 Support Tools for Advanced Users 
+	Windows Server 2003 Service Pack 2 32-bit Support Tools
+-You can update windows XP with the included tool; do not try to use Microsoft Update or install any Verification APP of any kind!!!
+-You can download an all-in-one installer for .net @ sereby.org  (It\'s a german site), don\'t use there XP SP3 Update Pack else your copy
+  of xp will be part german; translation is embedded in the updated files.  However, for .net all-in-one, it\'s multilingual so your good to go.
+-Certain apps will require extra dlls, there a many webites you can download those from, google the dll you need.
+-It is unlikely that you can turn off the automatic login.
+-There is some kind of script that enables it, but I cannot find it.
+
+
+Other
+
+I did not change the version number from 0.82 to 0.85 because eXperience sortof deadlocked my ability to do so.
+The eXperience folder has a bunch of stuff from the original micro XP available for your read.
+Where there is a contradictory statement between him and I, I take precedence.
+I didn\'t change any of the changelog or update files.
+
+Viewing blue screen of death filedumps, open it with bluescreenviewer.
+Then right-click on the newest one and select properties.
+Now look for \"Caused by Driver\" and voila...theres the bastard.
+
+I have included two tools to determien why apps don\'t work
+1. Dependency Walker, basically will show you the missing dlls.
+2. ProcessViewer, basically start the app then add it to process viewer asap before the error.
+    Once you see the app error, look at the files the program tried to access (exe, dlls) which one are you missing?
+
+N.B. Some dlls need to be registered.  You can right-click for that.  Basically if you discovered your app needed 4 new dlls.  First you put them where they belong, then you try to register them.  If there is an error, no problem.  That\'s ok.
+
+

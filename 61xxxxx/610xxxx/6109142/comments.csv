@@ -1,0 +1,132 @@
+User Type,Username,Date,Text
+,akshay_akki,2011-01-17T17:39Z,"me at v3.41
+ for this thing i have to update my ps3 to v3.55?????
+plzz reply "
+[V],Mbb15,2011-01-17T18:55Z,"first to 3.55 then this, read the article in the description first!"
+,Chrisbassi,2011-01-17T20:15Z,"Reports are this will brick your console, use at own risk"
+,lakerfan420,2011-01-17T23:08Z,"
+	You risk bricking your ps3 if not done correctly.
+
+	You need to install Sony's official 3.55 firmware. Then, you need to put your PS3            into Recovery Mode and install custom firmware:
+
+	1. Install Sony OFW 3.55   x:\PS3\UPDATE\PS3UPDAT.PUP
+	2. Turn off PS3
+	3. Hold power button on PS3 it will turn on, keep holding power button, then the PS3 	   will shut down.
+	4. Hold the power button again the PS3 will turn on and beep once then it will beep             twice release the power button. PS3 will be in recovery mode.
+	5. Choose option 6: Update Firmware then insert your USB drive with Custom FW on it             and follow on screen instructions!  
+
+
+	PUT Official FW AND Custom FW ON USB IN x:\PS3\UPDATE\PS3UPDAT.PUP    
+
+                                                x=your USB drive path 
+
+	Install latest version of MultiMan for 3.41 fw or your backups will not work. Also, 		some games need a disc in the drive to run.
+
+	Now I'm sure most people know this, but you will have to put the official Sony FW            3.55 (PS3UPDAT.PUP) on USB for step 1 and the put the Custom FW (PS3UPDAT.PUP) on         USB for step 5!
+
+
+	You risk bricking your ps3 if not done correctly.
+
+
+I compiled my own version and flashed my Slim 120gb and Phat 80 gb PS3 No probs or bricks. There is a way to recover a brick anyways so do not worry about it. Just follow the directions and you will be fine.  You should probably back up your save files before you update incase you brick and need to recover it will erase your hard drive.
+
+~Peace"
+,MarcusRaven86,2011-01-18T14:20Z,"Your claim of not getting banned on PSN is false. No bans have been issues by Sony as of yet, and as such its impossible to tell what will get you banned and what won't. Regardless of what CFW you have, it will be possible for Sony to detect it. Until Sony starts specifying what they're banning for, everything you do is a potential risk. Please don't falsely advertise something you know nothing about."
+,andymacsnipes,2011-01-18T14:50Z,"hep ppl....
+ok..
+1. this will only brick consoles with the following serials,
+# CECHB = 256MB
+# CECHC = 256MB
+# CECHE = 256MB
+# CECHG = 256MB
+ # CECHA = 256MB
+(all are fatty models)
+2. SONY WILL NOT BE BANNING (YET)
+the custom firmware is not detectable, although the game/emulator you are using will be visible to them on psn, so use with caution.
+3. although this supports back ups, it is not very stable and can cause your blu ray drive to crap out on you.
+
+4. If you want to wait for week or so, all the bugs will be sorted, OR an alternative firmware is available now but back up managers have to be altered to run, so not worth the risk YET! 
+
+and before you all shout at me, I am DEV who is currently working on the issues with flukes and other known psx scene hackers. 
+CHECK YOUR SERIAL BEFORE INSTALL NO RECOVERY FOR A BRICK."
+[V],Mbb15,2011-01-18T16:02Z,"@MarcusRaven86 
+
+I said *dont get banned*
+
+I didnt say *you wont get banned*
+
+Mayby you should read better next time"
+,shane_3212004,2011-01-18T16:51Z,"Can some provide me with a already patched custom firmware as I dont know how to patch it in DOS mode & I have a mac..I just want to put it on the USB drive & put it on my ps3 slim.
+
+Any help much appreicated!!1
+Also my ps3 slim is jailbroken with geohot custom firmware & has backup manager"
+,MarcusRaven86,2011-01-18T17:24Z,"@Mbb15 - You didn't really make that clear. It can be interpreted as ""You won't get banned,"" because of how little wording you use. A better description would avoid this confusion.
+
+Anybody wanting a pre-patched PUP, just go to PS3-Hacks.com.
+
+;)"
+[V],Mbb15,2011-01-18T19:15Z,"look on PS3News or PSX-scene, PS3-hacks is a clone site"
+,dvrooman2,2011-01-19T06:03Z,"Listen all you have to do is:
+
+USB drive
+
+Folder ""PS3""
+Inside PS3 folder a new folder called ""UPDATE""
+copy Original firmware 3.55 to the UPDATE folder
+Use system update in menu and load from storage device
+Install the 3.55 firmware
+then copy and paste the name of the original firmware to the custom firmware which is ""PS3UPDAT.PUP""
+then use the system menu again to do a system update and your done. 
+
+You don't have to enter recovery mode or any of that shit "
+,Pulse555,2011-01-19T19:46Z,"just get http://www.console-spot.com/2011/01/18/ps3-homebrew-backup-manager-for-wutangrza-cfw/ ..its the safest CFW out there , NO BRICKS"
+,tehovarets2,2011-01-22T05:55Z,"BRICK, FUCK!!!"
+,jorghenson121,2011-01-22T17:23Z,"Hey guys,
+
+Well I can confirm that installing this was the scariest moment of my life. I can say though it is fairly straight forward and is working with no issues. I am running Rogero Manager and is working a treat. I have a slim PS3 in Europe.
+
+When going to video though, (my videos saved to HDD), the screen would turn multicoloured and the PS would crash. Also, when going to delete video files it would also just hang. I got around this by installing the Black Screen Fix which you can get from here http://www.ps3hax.net/downloads.php?do=file&id=570#axzz1BmMuCEoe.
+
+My only very little concern is that because PKG files need to be signed to specific firmware that there isn't really a lot of apps out there (though I'm sure someone will comment showing us a list available else where :P ).
+
+But honestly guys, this works great. Major thanks to Waninkoko and all that worked on this. Especially a major major thank you to Mbb15 - I want to place on the record my exceptional gratitude to you for uploading this and pointing us all in the right direction. Without you, we'd all still be banging our heads together and I am appreciative of your efforts my friend. Thank you so very, very much."
+,tehovarets2,2011-01-24T10:43Z,Any hope(about brick)?
+,epicnoodle,2011-01-26T02:44Z,"I'm unsure if this custom firmware is kmeaw's 3.55 cfw.
+
+I installed kmeaw's custom firmware on a 320gig slim model ps3 and it works brilliantly.
+
+I've been playing resident evil 5 online for days.
+
+Anyone who needs any help just flick me a message ozzy_c_block@hotmail.com
+
+I've recompiled kmeaw's custom firmware into something i find abit more useful.
+
+Built a mac changer pkg so if you ever get banned you can change your console's mac address to get around the ps3 ban.
+
+Considering releasing it, but i may keep it unsure as of yet.
+
+Took me a while to develop it. Could possibly start selling it like jailbreak did.
+
+Flick me an offer and i'll consider it."
+[V],Mbb15,2011-01-26T23:12Z,"They dont ban mac adresses but console ID's, 'if they starting banning ever', so mac addresses changing will not help."
+,AskMeHowYouToCanSayFU,2011-01-29T00:26Z,"@Mbb15
+
+Thanks much for sharing this.  Its soooo hard to find a legitimate instance of PS3 hack-ware on the web as all seem to just be links to links to links to spyware, crapware and anything-but-what-you-are-looking-for ware.
+
+As one who has been screwed over by by Sony,not once but twice (2 PS3consoles with non-working BluRay discs drives ; 1 in just 4 months and the other in 13 months) I can't wait to screw them back via the JB of my PS3.  
+"
+,Ps3shaman,2011-01-31T05:02Z,"ok folks, for those wondering...
+Tested on slim model.
+Update to 3.55 if not done yet. (use DNS address if PSN force you to update to 3.56, get 3.55 and install from USB).
+Download CFW Kmeaw (the best so far).
+If you are not sure of source checj that fatsum is :2be5e87a22bf1e7f48e98fcabd38977b.
+Install Kmeaw from USB stick,
+Install Rogero V9C (I used Waninkoko_Kmeaw but all should work fine). No need for a standalone lv2 pkg as it is already embedded into it.
+Now you can backup you game install homebrew pck (know the source though). See it is that simple. you can leave a disc ,usb stick and load rogero no issue at all. BR disc still works every works what a beautiful world. Sony should have offered those bluray games in downloadable format long time ago, well the scene did not wait for Sony. In a digital age it is too much of a hassle to insert disc. Thanks to those we create CFW.
+I"
+,Ps3shaman,2011-01-31T05:15Z,Why has my post been erased.. weird.. please the person who did erase it from the TPB let me know why. Maybe you had a good reason but just let me know.
+,Ps3shaman,2011-01-31T05:18Z,ok my internet cache prolly msg with me. it is there. no worries
+,RnRTeeM,2011-02-11T04:19Z,"i can preform this all with my eyes closed turned around backwards.
+bricking=noob"
+,scottjwkelly,2011-06-24T20:58Z,"@RnRTeeM
+sum CFW are incompatible with specific versions Waninkoko apologised for causing hundreds to be bricked, it goes without saying that only a noob wuldnt be aware of it such as yourself:P "

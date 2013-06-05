@@ -1,0 +1,80 @@
+Cracked ascrypt_pro.dll and SERIAL key included.
+
+Version 1.20 contains the following updates/ This will not be shipped as an update but as a full new build.
+
+
+FIXES AND CHANGES IN VERSION 1.20
+
+    * AUTOBRAKES CHANGED
+      Should not work even when flaps are retracted too soon and when wheel brakes are just used for a short period of time. We still advice the flaps to be retracted when leaving the runway, not before.
+    * OUTER WING TANK QUANTITY GOING NEGATIVE BUG REMOVED
+    * ADDED AUTOTHROTTLE DISCONNECT SOUND ADDED
+      When Autothrottle is disarmed the caution light will go on and caution chime will sound.
+    * AUTOLAND IMPROVED
+      Flare is now smoother, but make sure you are at a suitable weight!
+    * WING VIEW ISSUE SOLVED
+      The whole wing is now visible.
+    * QNH IN MCDU NOW ACCEPTS InHg
+    * LAN LIVERY INCLUDED
+      With thanks to Carenado!
+    * BETTER CLIMB PERFORMANCE, BETTER TAKE-OFF PERFORMANCE
+      climb to 30.000 feet in 15 minute now possible, see below.
+    * NOSEDIVE ON MANUAL LANDING SOLVED
+      Disabling AP on final no longer a problem.
+    * SPEED TAPES CORRECTED
+    * WHITE BOX FOR 10 SEC AROUND FMA-ANNOUNCEMENT
+      For 10 seconds after each change there will be a white box around the FMA announcement.
+    * ND NOW HAS HDG BUG
+      The ARC mode now also shows the HDG bug.
+    * SPOILER ARMING REDONE TO NON FSX STANDARD
+      Allowing spoiler arming under all conditions with the right mouse button.
+    * MCDU PERF PAGE NOW SHOWS DURING PREFLIGHT
+    * THR RED ACC & ENG OUT ACC ALTITUDES NOW DEPEND ON ALTITUDE
+    * SPEED CONTROL ADDED FOR APPROACH STAGE
+      Approach mode will automatically be armed once starting descend with all AP functions in managed mode. Start of descend must either be triggered automatically when reaching TOD (A lower FCU altitude than Cruise altitude should be set) or when starting the descend in managed mode by pressing the EXP button. It can also be armed on the PERF APPR page by pressing LSK6L - "ACTIVATE APPROACH PHASE" will then change to "APPROACH PHASE ACTIVATED". This also happens when changing automatically. Once below 7200 ft AGL speed will be reduced to flap 1 speed setting, extending flaps will reduce speed further until flap 4 where speed is set to Vapp.
+    * DAYTIME LIGHT ARTIFACTS REMOVED
+    * PFD AND ND DISPLAYS NOW REFRESH FASTER
+    * FLIGHT DIRECTOR HEADING CORRECTED
+    * ROLL-OUT MODE INCLUDED
+    * IN MANAGED MODE, THE FMA SHOULD SHOW [SPEED] AND NOT [THR CLB] AFTER REACHING CRUISE LEVEL.
+    * IF "CONF 3" IS CHOOSEN ON PERF APPR PAGE, THEN LANDING CHECKLIST WILL COMMAND FLAPS 3 INSTEAD OF FLAPS FULL
+
+
+KNOWN ISSUES
+These issues are scheduled to be fixed after the 1.20 release (no guarantee though)
+
+    * VLS is always higher than Vapp, this is not correct
+    * A/SKID switch triggers seat belts sign
+    * Airbus X Connect update
+
+
+KNOWN ISSUES
+These issues are know but are not easy to solve.
+
+    * ND-range from "20" to "10", the flight-track gets cut off
+    * Note that the F/O displays do not show all information, this is by design to lighten fps load
+
+
+
+AIRBUS X v1.21 has following changes and is an UPDATE for 1.20 (in the torrent)
+
+Tweaks for Autoland.
+Tweaks for AP disengagement.
+Display update rates changed.
+Throttle FMA's slightly changed.
+Scrollable Duplicate waypoint page.
+
+AIRBUS X v1.22 has following changes and is an UPDATE for V1.21 (in the torrent)
+
++ F12 panel view fixed
++ RAD/NAV freq/crs entry in the MCDU fixed
++ Landinglight (aka lightrider bug) fixed
++ Livery Edelweiss added
++ Livery Swiss added
++ Smaller fixes and adjustments
+
+
+Thnks and plz seed this and http://thepiratebay.org/torrent/6142884/%5BFSX%5D_Aerosoft_Airbus_X_%5BFull_installer_with_crack_and_serial%5D
+
+regards,
+NvidiaPhysX

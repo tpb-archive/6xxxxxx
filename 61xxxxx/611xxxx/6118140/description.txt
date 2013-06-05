@@ -1,0 +1,41 @@
+1Password is a password manager that uniquely brings you both security and convenience. It is the only program that provides anti-phishing protection and goes beyond password management by adding web form filling and automatic strong password generation. All your confidential information, including passwords, identities, and credit cards, is kept secure in one secure place using a highly encrypted keychain.
+
+1Password fully supports most web browsers, including Safari, Camino, OmniWeb, DEVONagent, Firefox, Flock, Fluid, and NetNewsWire. All browser extensions share the data stored in the keychain which means you never need to manually copy your passwords between browsers or from the password manager to a browser ever again!
+
+1Password has received numerous awards, including 4.5 mice from Macworld magazine, MacLife Editors pick, and was the Pick of Week on MacBreak Weekly by both Leo Laporte and Merlin Mann. 
+
+
+What's New
+
+    * New: Password History is now available in the Chrome extension under the Password Generator tab.
+    * New: Added Growl notifications for background events. These are disabled by default and can be activated in the advanced preferences tab.
+    * Changed: Chrome: Fixed Fill Login on nectar.com.
+    * Changed: Chrome: Spellchecking is now disabled in the Password more... 
+
+Version 3.5.3:
+
+    * New: Password History is now available in the Chrome extension under the Password Generator tab.
+    * New: Added Growl notifications for background events. These are disabled by default and can be activated in the advanced preferences tab.
+    * Changed: Chrome: Fixed Fill Login on nectar.com.
+    * Changed: Chrome: Spellchecking is now disabled in the Password Generator window.
+    * Changed: Chrome: Changed popup window height to fit properly on Chrome 8 and 9.
+    * Changed: Attempt to fix problem removing old firefox extension. Now using authentication if needed to remove files.
+    * Changed: The Remove All Extensions button in Preferences now removes the Scripting Addition file as well as all extensions.
+    * Changed: When attempting to use a 1PIF file (instead of .agilekeychain_backup zip) in the Restore Backup window, displaying a window with helpful import instructions instead of reporting a corrupted file.
+    * Changed: Verification of the master password is now required to change the state of the "Never prompt for master password" preference.
+    * Changed: Now creating generated password database object when copying password value from Strong Password Generator window.
+    * Fixed: Chrome: Fixed issue where the popup window could open with the wrong width when using the keyboard shortcut.
+    * Fixed: Import from SplashID now honours multiline notes and properly handles values that contain commas.
+    * Fixed: Now scrolling to selection on launch and unlock. 
+
+
+
+Requirements
+
+    * PPC / Intel
+    * Mac OS X 10.5 or later.
+    * Most major browsers supported.
+
+
+donÂ´t forget: seed please when finished dl
+

@@ -1,0 +1,540 @@
+Last release of ComFusion, 3, a linux based operating system based on ubuntu+Compiz+Fusion.
+
+Its great, got problems downloading the part files, so I've created this torrent for everyone.
+
+Easy live DVD which lets you choose 3 different desktops
+
+                                            COMFUSION 3
+ComFusion 3 es una distribucion basada en Ubuntu Lucid Lynx, (versiÃ³n estable y con soporte
+actual de Ubuntu), que tiene como objetivo simplificar Linux para el usuario nobel que proviene de
+otros sistemas operativos. Intentando que, mediante la combinaciÃ³n de programas, scripts y estilos
+visuales, (compiz , xcompmgr, cairo-composite, etc), utilizar Linux sea algo mas apetecible,
+simple, y divertido para los recien llegados...
+Con ComFusion 3, podrÃ¡ disponer de 3 escritorios distintos;
+1- Gnome-ComFusion, un escritorio tradicional, pero con muchas mejoras que ya irÃ¡ descubriendo
+si sigue leyendo este documento, estÃ¡ orientado como siempre para ordenadores estandard que no
+tengan demasiados problemas de recursos.
+2-Lxde-ComFusion, un escritorio que sigue el mismo look que Gnome, pero reemplazando
+Nautilus por Pcmanfm, el panel de Gnome por Lxpanel, pero dejando a Metacity como gestor de
+ventanas, lo cual mejora muchisimo el rendimiento, funciona perfectamente con compiz lo que lo
+hace aparte de ser el primer escritorio LXDE con efectos compiz, ser perfecto para ordenadores
+mas limitados de recursos.
+Hemos fusionado Lxde con Gnome cambiando el gestor de ventanas por defecto Openbox por
+Metacity, haciendo que se pueda utilizar ComPiz con LxDE.
+Con esto conseguimos un escritorio ligero que utiliza Pcmanfm como gestor de archivos, LxPanel
+como panel de Escritorio, y Metacity con composite por defecto como gestor de ventanas.
+3-Openbox-ComFusion, escritorio con el mismo look que sus hermanos mayores pero con
+Openbox como gestor, optimizado y modificado para ser el mas liviano, utiliza como efecto visual
+por defecto Cairo-Composite, para que hasta los escritorios mas humildes puedan gozar de ser un
+poco mas vistosos.
+Hemos remasterizado un Openbox para que sea mas â€œusableâ€, y â€œconfigurableâ€.
+***AdemÃ¡s Dispone del mediacenter Xmbc, personalizado con un nuevo skin.
+Todo esto siempre sin perder ni un Ã¡pice de potencia, agilidad y fiabilidad que proporciona un
+sistema Linux basado en Ubuntu.
+Esta distribuciÃ³n, entre otras cosas tiene una serie de
+MEJORAS , SCRIPTS Y APPLETS;
+*Applets;
+Cardapio, un completo menu para la barra de gnome.
+Torrent search; busqueda de torrents.
+Webilder; cambio automatico de wallpapers.
+*Reemplazado el formato de las imagenes para que se vean en Nautilus con un poco mas de sombra
+y queden mas bonitas.
+*Incluido efecto CoverFlow para Nautilus, ahora con solo pulsar la tecla F4 cuando estÃ© viendo los
+archivos en Nautilus, podrÃ¡ disfrutar de un efecto carrusel con el que apreciar mejor los detalles de
+los archivos.
+*AÃ±adidas activacion y desactivaciÃ³n del efecto composite en Metacity.
+*AÃ±adidas activacion y desactivaciÃ³n del efecto xcompmgr para Metacity y Openbox.
+*Modificada la aplicaciÃ³n de indicadores de la barra de gnome, para que Thunderbird sea el cliente
+de correo por defecto, y aÃ±adido notificador de Liferea para que se integre en la aplicacion, ejecuta
+Liferea y lo comprobarÃ¡s.
+*Modificado el kernel , con las mejoras del milagroso parche de Mike Galbraith , con el que
+podemos obtener notables mejoras en el rendimiento del nucleo Linux.
+*Modificada la memoria virtual a 10, (virtual swapiness), para un mayor rendimiento, ahora
+tambien podrÃ¡s hacerlo a tu gusto grÃ¡ficamente mediante Sistema/AdminstraciÃ³n/Virtual memory
+modifier.
+*Composite activado por defecto en metacity, (sombras en los menus), para los escritorios Gnome y
+Lxde, para Openbox efecto cairo-composite, Ã¡gil en Openbox.
+*Modificado el instalador de ComFusion a disco duro, ahora es el mismo de la versiÃ³n Maverick de
+Ubuntu, aunque adaptado a ComFusion, (look de ComFusion e informa sobre los programas de esta
+distro), no permitirÃ¡ la descarga online de codecs,(para eso ya estÃ¡ creado ComFusion-First-Start en
+Aplicaciones/herramientas del sistema), pero si las actualizaciones mientras instala.
+*Modificada la pantalla de bloqueo de escritorio, estÃ¡bamos aburridos de la antigua pantalla de
+bloqueo, ahora luce asÃ­; a juego con los iconos de Faenza y el cursor jaguar-twirly.
+*En el arranque principal tendrÃ©is en la barra superior varios programas que os harÃ¡n la vida mÃ¡s
+fÃ¡cil;
+1-MenÃº simplificado.
+2-Acceso a Chromium, navegador web.
+3-Acceso a bloqueo de pantalla, ( no funcionarÃ¡ en modo live).
+4-Radio-Tray, (applet de radio).
+5-BlueProximity, una apuesta por la tecnologÃ­a bluetooth, acceso al pc sin tocar ni una tecla.
+6-Cryptkeeper, nos ayuda a tener privacidad,
+7-Where is application, dice donde se quedan los programas que instalamos.
+8-Compiz Fusion Icon, elije tu combinaciÃ³n de efectos.
+9-Covergloobus, nos muestra â€œmÃ¡sâ€ sobre la musica que oÃ­mos.
+10-Selector de red
+11-Volumen
+12-Miniaplicacion de Indicadores
+*En el escritorio principal, se ha simplificado el arranque, solo aparecen por defecto los iconos del
+instalador de ComFusion a disco duro, el script de ComFusion Primer Arranque, Covergloobus
+(decorando el escritorio), y la barra Cairo-Dock en Gnome, para los otros dos escritorios
+(Lxde,Openbox), la barra Avant Window Navigator.
+*Incluidos varios scripts para Nautilus;
+-Create Iso-, para crear imagenes iso de cualquier archivo o conjunto de archivos, con un simple
+click.
+-Create md5sum, crea el archivo para verificacion md5, de cualquier archivo que lijamos.
+-Deb Tools-, herramientas para paquetes deb;
+1-Deb-extractor, para extraer el contenido de un paquete deb, crea una carpeta con el contenido.
+2-Deb-installer, para instalar el contenido de un deb.
+3-Deb-remaker, una vez que se ha modificado el contenido de la carpeta creada con deb-extractor,
+ejecutar deb-remaker sobre el archivo deb, (muy importante sobre el archivo deb, no sobre la
+carpeta con el mismo nombre), el antiguo deb ya estÃ¡ modificado,asÃ­ de sencillo.
+-Edit as root- Editar como root.
+-Extract mp3- para extraer mp3 de los archivos de video, (por ejemplo de un concierto en vivo),con
+un simple click, ya tienes tu concierto en mp3.
+-Movie Cover- consigue las caratulas de tus peliculas con un simple click.
+-Nautilus Dropbox- si tienes una cuenta en Dropbox, podrÃ¡s compartir con solo ejecutar este script
+sobre el archivo, crearÃ¡s un enlace en la carpeta de dropbox a tu archivo, asi puedes compartir mÃ¡s
+facilmente.
+-Organize desktop- este fabuloso script, es una ayuda para todos los que somos desorganizados, con
+solo un click, todo lo que hayas descargado durante el dÃ­a en el Escritorio, se organizarÃ¡
+â€œmagicamenteâ€ en sus respectivas carpetas de Video, Documentos, Descargas, Imagenes, Musica, y
+ademÃ¡s con su fecha de descarga, asÃ­ es mas facil ser â€œorganizadoâ€. (creado por UbuntuLife)
+(tambien lo puedes encontrar en Aplicaciones/Herramientas del sistema/organize)
+-Productive wallpaper- crea wallpapers productivos, tiene dos opciones;
+1-Convert Default Wallpaper, Crear el Wallpaper actual a Productivo.
+2-Create Productive Wallpaper, Crear un Wallpaper Productivo con la imagen que elijamos.
+-Upload to facebook- para subir imagenes al muro de tu facebook o a un album existente, con un
+click.
+APLICACIONES INCLUIDAS
+ACCESORIOS
+(Detalle Blueproximity)                               (Detalle Xml Slideshow Creator)
+*Administrar trabajos de impresion, cancelar, pausar, reiniciar trabajos de impresiÃ³n.
+*Analizador de uso de disco, compruebe el espacio de sus discos.
+*Anibg, programa para poner salvapantallas animados y videos como fondo de escritorio.
+*BlueProximity, es un software que permite a tu sistema tener un poco mÃ¡s de seguridad ya que
+funciona como detector de presencia utilizando un dispositivo Bluetooth, (tu telefono movil,por ej.),
+permite, bloquear o desbloquear el sistema con solo acercarse al ordenador con su mÃ³vil.
+*Buscar Archivos, buscar archivos y carpetas en nuestro equipo.
+*Calculadora.
+*Capturar pantalla.
+*ContraseÃ±as y claves de cifrado (Seahorse), Este programa es un fantÃ¡stico gestor de contraseÃ±as,
+mediante gpg, (claves).
+*Coverchooser, programa con el cual podemos descargar las carÃ¡tulas de los directorios con discos
+de musica o ficheros mp3.
+*Covergloobus, programa que muestra la carÃ¡tula del disco que estamos escuchando, tambiÃ©n
+permite buscar letras y tablaturas,(sincronizado con BanShee por defecto).
+*Creador de Cds y DvDs.
+*Editor de textos Gedit.
+*Furius Cipher, utilidad de texto para encriptaciÃ³n avanzada,( puede encriptar un texto de manera
+que solo se vean una combinacion de caracteres sin sentido, y , otra persona desencriptarlo con su
+contraseÃ±a).
+*Google Read Indicator, nos permite visualizar la cantidad de elementos no leÃ­dos en Google
+Reader desde el menÃº de ComFusion.
+*Leafpad, editor de texto liviano.
+*Lxterminal, terminal liviano con look reformado transparente.
+*Mapa de caracteres, insertar caracteres especiales.
+*Navegador de ventanas Advant, dock-bar con muchas posibilidades y looks.
+*Pcmanfm, gestor de archivos alternativo a nautilus, activado por defecto en los escritorios de Lxde
+y Openbox.
+*Real Time SunLight Wallpaper, es un programa que nos coloca como fondo de escritorio un
+Wallpaper con la vision del mundo de dia y noche a tiempo real.
+*Screenlets, programa que nos coloca screenlets, (widgets), distintos en nuestro escritorio.
+*Synapse, es un nuevo lanzador de aplicaciones, que ademÃ¡s nos permite hacer busquedas en
+nuestros documentos gracias al Engine Zeitgeist.
+*Terminal, es la terminal de Gnome por defecto, con look reformado transparente.
+*Traduce Me, un traductor para facilitarnos la lectura.(creado por Lorenzo Carbonell, â€œel atareaoâ€).
+*Where is Aplicattion, nos ayuda a saber en que lugar del menu estÃ¡ cualquier aplicaciÃ³n que
+hayamos instalado recientemente.
+*Xarchiver, gestro de archivos comprimidos.
+*Xml Slideshow Creator, programa para programar sus propios slideshows, y ponerlos de fondo de
+pantalla segÃºn un tiempo programado.
+GRAFICOS
+(Detalle Luminance HDR)                          (Detalle MyPaint)
+*Coverseen, programa para procesado masivo de imÃ¡genes.
+*Editor de Imagenes GimP. el editor de imagenes mejor dotado.(AÃ±adido un script para transformar
+imagenes en fakeHd, simulando colores y definicion HD).
+*Luminance HDR, interfaz grafica para crear imagenes HDR.
+*MyPaint, programa de pintura con muchas posibilidades y muy apto para tabletas graficas.
+*OpenOffice Dibujos, el editor de dibujos de Openoffice.
+*Rapid Photo Downloader, efectivo gestor de descarga de fotografias, con solo conectar su camara
+le ofrecerÃ¡ sus servicios.(creado por Damon Linch)
+*Shotwell Photo Manager, visor por defecto, tiene la posibilidad de subir nuestras imÃ¡genes a
+Flickr, Facebook o Picasa. AdemÃ¡s, permite la ediciÃ³n y organizaciÃ³n de las carpetas que se deseen
+importar.
+*SimPle Scan, escaneador de documentos.
+*Visor de Imagenes GpicView.
+HERRAMIENTAS DEL SISTEMA
+(Detalle Grub-Customizer)                                       (Detalle Uck)
+*Ailurus, completo programa que nos ayuda a limpiar, instalar , remodelar y demas quehaceres en
+nuestro sistema ComFusion.
+*Back in Time, es una aplicaciÃ³n para crear copias de seguridad automÃ¡ticamente, puede configurar
+backups periÃ³dicos para despuÃ©s poder elegir a quÃ© momento exacto regresar.
+* Cairo Composite Manager ,es una alternativa a Compiz que permite tener una serie de efectos
+â€œbÃ¡sicosâ€ en su ordenador.
+*Cairo Dock sin OpenGL, es un dock-bar versÃ¡til, al que no le hace falta aceleraciÃ³n grÃ¡fica para
+mostrarse y mostrar un rendimiento aceptable sin drivers instalados, (es el el dock-bar elegido para
+ejecutarse al comenzar ComFusion en DVDLive).
+*Comandos Basicos Linux, es un acceso rÃ¡pido a un documentaciÃ³n donde buscar cualquier
+comando bÃ¡sico que nos haga falta.(creado por Luis Tomas Wayar)
+*Compiz Fusion Icon, es un applet que se ejecuta en la barra superior para controlar compiz y los
+diferentes gestores de ventanas de ComFusion.
+*Configurador de Prey, Prey es un software anti-robo de ordenadores portÃ¡tiles y nos permite,
+mediante un panel de control localizar nuestro equipo en cuanto Ã©ste tenga la oportunidad de llamar
+a casa, conectÃ¡ndose a la primera red wifi a la que tenga oportunidad, ofreciendo geolocalizaciÃ³n,
+imÃ¡genes desde nuestra webcam, etc.
+*Cryptkeeper, nos ayuda a encriptar carpetas y que solo sean visibles a nuestros ojos, muy util y
+discreto.
+*GLX Dock, o Cairo dock con OpenGl, es el mismo Cairo Dock que hemos relatado antes, pero
+para aceleracion grÃ¡fica, y , por supuesto rinde mas animaciones que sin OpenGl.
+*Grub Customizer, es una aplicaciÃ³n que maneja de forma grÃ¡fica nuestro Grub (gestor de arranque
+por defecto para ComFusion), para poder modificar a simple vista su configuraciÃ³n.
+*Metacity Effects On, activar composite de metacity con un click.
+*Metacity Effects Off, desactivar composite de metacity con un click.
+*Oracle Vm VirtualBox, completa solucion para emular/virtualizar otros sistemas operativos dentro
+de ComFusion, funciona perfectamente en modo DVDLive tambiÃ©n, incluso corriendo una maquina
+virtual que tenga en otro disco duro.
+*Oracle Vm VirtualBox Adduser, aÃ±ade con un click nuestro usuario al grupo VboxUsers, sin hacer
+esto, nuestros usb o tarjetas no funcionarÃ­an en Virtualbox, (requiere reiniciar el ordenador).
+*Oracle Vm VirtualBox ExtensionPack, acceso rÃ¡pido para instalar este pack, que nos perimitirÃ¡;
+usar USB de alta velocidad, conexiÃ³n RDP o arranque PXE en nuestra mÃ¡quina virtual, entre otras
+cosas, es necesario que lo haga usted porque deberÃ¡ aceptar previamente las condiciones de Oracle.
+*Oracle Vm VirtualBox Indicator, es un applet para la barra superior, que nos mostrarÃ¡ nuestras
+maquinas configuradas en VirtualBox,(para que se muestre siempre en todos los escritorios, ejecutar
+Sistema/Preferencias/Aplicaciones al inicio, y arrastrar el icono hasta allÃ­, aceptar).
+*Organize, es el script de organizar las descargas hechas en el escritorio pero con acceso directo,
+para que tambien lo puedas ejecutar en LxDe y en Openbox.(creado por Ubuntu Life)
+*Primer Arranque de ComFusion, script creado por Alin Andrei, y adaptado a ComFusion, nos
+permite dejar nuestro sistema â€œa puntoâ€ con todo lo necesario para funcionar desde el primer
+instante.
+*InformaciÃ³n del Sistema, nos dÃ¡ un completo anÃ¡lisis del mismo.
+*Ubuntu Customization Kit ( Uck ), excelente herramienta con la que customizar Ubuntu o
+ComFusion, por ejemplo.
+*Ubuntu Tweak, programa que nos permite dejar el sistema ajustado a nuestras necesidades,
+modificando partes de Ã©l.
+*Xcompmgr Off, desactiva los efectos de xcompmgr.
+*Xcompmgr On, activa los efectos de xcompmgr.
+*Yppa Manager, sirve para instalar, eliminar y/o purgar , repositorios ppa en Launchpad. Es decir
+para gestionar repositorios de proyectos no oficiales, pero por lo general con programas muy
+buenos.
+INTERNET
+(Detalle WebHTTrack website copier)                  (Detalle Bashare)
+*Anomos, cliente anÃ³nimo de bittorrent, facilita compartir sin revelar datos.
+*Bashare, te permitirÃ¡ compartir cualquier fichero a travÃ©s de Internet o a travÃ©s de una LAN de una
+forma realmente sencilla, tan solo tendrÃ¡s que abrir un enlace en tu navegador.
+*Thunderbird, cliente de correo por defecto de ComFusion, ligero y configurable.
+*Reminna, es un cliente de escritorio remoto escrito en GTK+, soporta protocolos de red mÃºltiples
+en un interfaz integrado y consistante.
+*Pidgin, es un cliente de mensajeria instantanea capaz de conectarse a mÃºltiples redes
+(multiprotocolo) y cuentas (multicuenta) de manera simultÃ¡nea.
+*Empathy, es un cliente de mensajerÃ­a instantÃ¡nea basado en el entorno de comunicaciones
+Telepathy.
+*Gwibber, le permite crear y/o configurar cuentas de servicios de microblogging, redes sociales,
+RSS y mensajerÃ­a instantÃ¡nea.
+*Cloud Services Notifications, un notificador defeeds para Google Reader, correos nuevos en
+Gmail -y cualquier otro servicio basado en POP3 e IMAP-, y tambiÃ©n paraTwitter e Indenti.ca.
+*Gwget, gestor de descargas frontend de wget.
+*Jdownloader, potente gestor de descargas de sitios de almacenamiento masivo comofileserver, zshare, etc.
+*Liferea, es un cliente que nos acerca nuestros feeds, (noticias), de nuestros sitios favoritos, ademas
+en ComFusion esta integrado en la barra superior, en el indicador de correo.
+*Navegador Web Chromium, es el proyecto libre del navegador Google Chrome, muy rÃ¡pido y
+liviano.
+*Navegador Web Namoroka, es la version actual de firefox, en el momento de hacer esta
+distribucion.
+*Qbittorrent, potente cliente bittorrent en version qt.
+*Subir imagenes a flickr,(o nautilus-flickr-uploader), es un programa para subir imÃ¡genes a nuestra
+cuenta de Flickr.
+*Teamviewer, Este programa es una facil y buena solucion para el uso de clientes remotos. Su
+interfaz es muy basica e intuitiva, permite controlar total o parcialmente segun su configuracion y
+transferir archivos de forma remota. Podras conectar con otro pc con Windows, por ejemplo.No es
+libre, pero tiene permitido su uso de manera individual y no lucrativa, por eso decidimos aÃ±adirlo a
+ComFusion 3.
+*Tivion, buen programa para ver la television y oir radio en streaming.(creado por Angel Guzman
+Maeso)
+*Torrent Search, programa para buscar enlaces torrent, muy efectivo.
+*Turpial, muy buen cliente Twitter que se adapta muy bien a ComFusion 3.
+*Visor de escritorios remotos, (Vinagre), es una aplicaciÃ³n gratuita y de cÃ³digo abierto para
+GNU/Linux que nos permitirÃ¡ conectarnos a un servidor VNC de forma fÃ¡cil y sencilla.
+*WebHttrack, es una aplicaciÃ³n que nos permite la descarga a un directorio local de parte o de todo
+un sitio web (directorios, imÃ¡genes, pdfs, etc.) para poder estudiarlo posteriormente sin conexiÃ³na
+internet.
+*WebHttrack Websites, accede con un click a lostios que has descargado anteriormente con
+WebHttrack.
+JUEGOS
+(Detalle de M.A.R.S.)                                   ( Detalle de Djl Game Manager)
+*Djl Game Manager, es un programa que nos permitirÃ¡ descargar, instalar y probar juegos de una
+manera bastante sencilla en Linux, para esto cuenta tambiÃ©n con un repositorio de juegos con una
+lista muy interesante.
+*M.A.R.S es un extraordinario juego especialmente creado para enfrentar a dos jugadores, mientras
+intentan pilotear una compleja nave espacial que se encuentra operando en un limitado espacio 2D.
+En este espacio 2D, podemos notar cÃ³mo se ejecutan sin restricciones todas las leyes fÃ­sicas
+existentes.
+OFICINA
+(Detalle Couturier PDF)                                          Suite LibreOffice
+*Couturier PDF combiner, es una aplicaciÃ³n para Gnome que nos permite fusionar varios archivos
+PDF en uno solo.
+*Diccionario , definiciones de palabra y ortografia en un diccionario en linea.
+*FocusWritter, es una aplicaciÃ³n que nos ayuda a concentrarnos para escribir, ocupando toda la
+pantalla y dejÃ¡ndonos tan sÃ³lo la â€œpÃ¡ginaâ€ en blanco frente a nosotros.
+*Suite LibreOffice, es una suite ofimatica libre bifurcada de OpenOffice.org creada por The
+Documente Fundation. Dispone de un procesador de texto (LibreOffice Writer), un editor de hojas
+de cÃ¡lculo (LibreOffice Calc), un creador de presentaciones (LibreOffice Impress), un gestor de
+bases de datos (LibreOffice Base), un editor de grÃ¡ficos vectoriales (LibreOffice Draw), y un editor
+de fÃ³rmulas matemÃ¡ticas (LibreOffice Math).
+*Task Coach, organizar nuestro trabajo y las tareas pendientes que tenemos por hacer es algo
+fundamental si queremos aprovechar el tiempo al mÃ¡ximo. Una buena opciÃ³n para hacerlo de forma
+sencilla es utilizar este potente y funcional gestor de tareas.
+OTRAS
+Detalle Qt-face-Trainer.                             Detalle de AnDroiD PC
+*Qt-face-Trainer, es una aplicaciÃ³n que nos evita tener que meter la contraseÃ±a al iniciar sesiÃ³n,
+pues con solo mostrar nuestra cara nos podremos loguear en el sistema. Para ello, en Comfusion
+hemos creado un lanzador que siguiendo estos pasos te dejarÃ¡ el sistema preparado;
+1- Si quieres loguearte con reconocimiento de cara en el sistema, abre Aplicaciones/Otras/Qt-Face-
+Trainer y , en pulsa â€œQt-Face step 1â€, lanza varias fotografias de tu rostro, (lanza bastantes, ya que
+luego dependerÃ¡ del angulo que pongas en el reconocimiento, el que te reconozca o no), cierra la
+aplicaciÃ³n y ejecuta el â€œEnable-Gdm (Step 2)â€, esto crearÃ¡ la entrada en tu gdm, ahora cierra el
+lanzador y sal de la sesion, deberias poderte loguear con reconocimiento de cara ya!!
+2- Si quieres volver al a antigua configuracion del Gdm, ( entrar con contraseÃ±a), solamente tienes
+que abrir Aplicaciones/Otras/Qt-Face-Trainer , pulsar â€œDisable Gdm (Desactivate)â€, y volveras a
+entrar en tu sistema como de costumbre.
+*AnDroiD PC, es una magnÃ­fica aplicaciÃ³n que nos permite sincronizar nuestro dispositivo Android
+(telefono o tablet PC) con Ubuntu, rÃ¡pido, fÃ¡cil y sin complicaciones.
+Sus funciones son amplias, asÃ­ que vamos a enumerarlas:
+     1. SincronizaciÃ³n de contactos de tu mÃ³vil/tablet al PC (avatar)
+     2. Recibir y enviar SMS desde el PC
+     3. EnvÃ­o de archivos, texto y enlaces del PC al terminal y viceversa
+     4. Info del telÃ©fono/tablet, en el PC: BaterÃ­a, IP.. (y algunas mas)
+     5. Elegir el recibir o NO llamadas desde el PC
+Realmente su sincronizaciÃ³n es rapidÃ­sima y el enviÃ³ de archivos aun mas.
+InstalaciÃ³n:Como siempre tenemos dos partes que instalar, una en el mÃ³vil/tablet y otra en el PC.
+En el mÃ³vil/tablet tendremos que buscar en el market AndroidPC, e instalarlo.
+Una vez instalados.. tan solo nos queda conectarlos:Desde el telefono/tablet abrimos la app y â€œClick
+here to conectedâ€ y desde el PC, abrimos con el derecho del mouse â€œDashboardâ€ y en AndroidPC
+pulsamos â€œConnect to Androidâ€.
+(Solo funcionara cuando el PC estÃ© online).
+SONIDO Y VIDEO
+Detalle PhotofilmStrip                                     Detalle SinthGunt
+*DamnVid, accede a decenas de sitios como por ejemplo, YouTube, Dailymotion, Veoh y Metacafe,
+descarga y convierte videos al mismo tiempo. DespuÃ©s el video es guardado de la forma que
+quieras, sin la necesidad de usar un conversor solamente para eso.
+*Editor de Video Pitivi, es un editor de video facil de usar, su interfaz es amigable y sencilla.Nos
+permite crear desde una presentaciÃ³n hasta la inserciÃ³n de subtÃ­tulos en un vÃ­deo, y la composiciÃ³n
+de imÃ¡genes a partir de cortes, sustituciÃ³n de sonido etc. No estÃ¡ limitado a ningÃºn formato de
+audio/video ni tampoco a ninguna resoluciÃ³n y formatos de salida.
+*Fotomaton de camara Cheese, esta sencilla aplicaciÃ³n permite usar la cÃ¡mara que tiene tu equipo
+para sacar fotos, grabar videos y aÃ±adir efectos a lo que estÃ¡s fotografÃ­ando/grabando.
+*Grabador de discos Brasero,es la aplicaciÃ³n para grabar CD/DVD oficial del escritorio Gnome.
+EstÃ¡ diseÃ±ado para ser lo mÃ¡s simple posible y tiene algunas caracterÃ­sticas Ãºnicas que permiten a
+los usuarios grabar sus discos de forma rÃ¡pida y sencilla.
+*Grabador de sonido es una aplicaciÃ³n simple para grabar y reproducir diferentes archivos de
+sonido.
+*Minitube, es un cliente nativo para Youtube con el que es posible ver videos de ese sitio de una
+manera totalmente nueva: uno escribe una palabra clave y Minitube arroja un flujo de videos sin fin.
+Y no menos importante: no require del reproductor oficial de Flash para funcionar.
+*Minitunes, es un reproductor de mÃºsica minimalista, reordena su experiencia de escuchar mÃºsica
+con una interfaz limpia e innovadora.
+*Mp3 audio splitter, programa para cortar mp3 y ogg sin descodificarlo, ideal para hacer tonos para
+el mÃ³vil.
+*PhotoFilStrip, Crea vÃ­deos a partir de tus imÃ¡genes de forma fÃ¡cil e intuitiva.
+*Radio-tray, programa que coloca un applet en la barra de gnome o lxpanel, (activada por defecto
+en ComFusion), y que permite escuchar radios mientras trabaja.
+*Reproductor de peliculas, (Totem), reproductor de sobra conocido por sus prestaciones.
+*Banshee Media Player, es un reproductor multimedia con el que podrÃ¡s; importar, organizar y
+reproducir tus archivos de audio y vÃ­deo preferidos usando una simple interfaz, (sincronizado con
+CoverGloobus por defecto para mostrar caratulas automÃ¡ticamente).
+*SinthGunt, puede convertir vÃ­deo y audio digital en varios formatos. Usando la configuraciÃ³n de
+conversiÃ³n pre-configurados, hace que la tarea de convertir entre diferentes medios de
+comunicaciÃ³n de una manera muy fÃ¡cil. Adecuado para convertir archivos de vÃ­deo y audio para
+nuestros dispositivos mÃ³viles.
+*XMBC Media Center, es hoy por hoy el mejor media-center para Linux, y entre otras cosas,
+soporta una amplia gama de formatos multimedia, e incluye caracterÃ­sticas tales como listas de
+reproducciÃ³n, visualizaciones de audio, presentaciÃ³n de diapositivas, informaciÃ³n metereolÃ³gica y
+una amplia serie de plugins. Como Media Center, XBMC puede reproducir la mayorÃ­a de los
+formatos de audio y video, asÃ­ como mostrar imÃ¡genes prÃ¡cticamente de cualquier fuente, incluidos
+CD, DVD, dispositivos de almacenamiento masivo, Internet y redes compartidas LAN.
+SISTEMA
+PREFERENCIAS
+Detalle de Comfusion Control Center.
+*Acerca de ComFusion, explicacion con varios ejemplos del concepto de esta nuestra distribuciÃ³n,
+ComFusion.
+*Acerca de mi, programa que dÃ¡ los datos del usuario del sistema.
+*Administrador de Opciones ComPizConfig, configurador de todas las opciones de compiz.
+*Apariencia de Gnome, elegir temas, iconos, cursores para Gnome.
+*Aplicaciones al inicio, programa que gestiona las aplicaciones que arrancarÃ¡n desde el primer
+momento en que se arranque Gnome, (la aplicaciÃ³n que se quiera que arranque, simplemente
+arrastraremos y soltaremos la aplicaciÃ³n sobre este programa abierto, luego, aceptar.
+*Aplicaciones Preferidas, establecer que aplicaciones preferimos para utilizar en cada ocasiÃ³n.
+*Awn Settings, preferencias para con Avant Window Navigator.
+*Bluetooth, configura tus ajustes de bluetooth.
+*Centro de Control Comfusion, completo y facil centro de control, que nos acerca todas las
+opciones de configuracion del sistema, (creado por tuquito).
+*Combinaciones de teclas, asignar combinaciones de teclas a comandos.
+*Comparticion de archivos personales, preferencias de configuraciÃ³n para compartir archivos.
+*Conexiones de red, el Network-manager de Gnome.
+*Configuracion de monitores, cambiar resoluciÃ³n de pantalla y configurar monitores externos.
+*Configurador de CoverGloobus, programa de configuracion de CoverGloobus.
+*Cuentas de mensajerÃ­a y voz Ip, configurador de cuentas de mensajeria del usuario.
+*Escritorio remoto, preferencias de utilizaciÃ³n de escritorio a la hora de compartirlo.
+*GestiÃ³n de archivos, cambia el comportamiento del gestor de archivos Nautilus.
+*Gestor de ConfiguraciÃ³n de Openbox, nos ayuda a configurar Openbox, aunque creamos que no
+nos vale para este escritorio, osea Gnome, es falso, pues si reemplazamos Metacity por Openbox en
+Gnome, (muy facil con el icono de compiz), podremos tener Openbox en Gnome y configurar
+nuestros temas igualmente.
+*Gestor de energÃ­a, gestor de energia de nuestro sistema.
+*Gestor de temas Emerald, configurar y aÃ±adir temas emerald a compiz.
+*Menu Principal, configurar las aplicaciones que se muestran en nuestro menu.
+*Monitores, cambiar la resolucion y posicion de nuestro propio monitor.
+*OpenJdk Java 6 Policy Tool, aplicaciÃ³n para aÃ±adir normas a Java.
+*Preferencias de difusiÃ³n, cambia las preferencias que utilizamos al utilizar redes sociales.
+*Preferencias de Ibus, sistema de introducciÃ³n de caracteres extranjeros, en lenguajes como el
+Ã¡rabe, chino, etc.
+*Proxy de la red, para establecer un proxy para tu red local o global.
+*Raton, para cambiar la velocidad, el puntero y otras cosas del Mouse o RatÃ³n.
+*Salvapantallas, configura las opciones del salvapantallas del sistema.
+*Sonido, cambia el volumen y los eventos de sonido del sistema.
+*Teclado, preferencias de teclado, dispisicion, lenguaje, etc.
+*TecnologÃ­as de asistencia. Elegir caracteristicas de accesibilidad.
+*Ubuntu One, configurar cuentas en el servicio â€œUbuntu Oneâ€.
+*Ventanas, configurar comportamiento de las ventanas del sistema.
+*Wacom Control Panel, es un gestor de dispositivos Wacom, detecta automÃ¡ticamente todos los
+dispositivos compatibles conectados al ordenador, permite activar funciones tan esenciales como la
+presiÃ³n del pen, modificando el archivo de configuraciÃ³n xorg.conf (hace una copia de seguridad
+automÃ¡ticamente por si algo fallara). AdemÃ¡s tambiÃ©n se podrÃ¡n manejar las caracterÃ­sticas de
+borrador, stylus o la configuraciÃ³n de los botones para cambiar su comportamiento al presionarlos.
+ADMINISTRACION
+Detalle Plymouth-Manager
+*Bleachbit, puede mantener nuestro sistema libre de archivos que ya no se utilizan o que ocupan
+espacio en nuestro disco duro y deseamos eliminarlos. Bleachbit se encargarÃ¡ de liberar espacio en
+nuestro HD, â€œeliminando basura ocultaâ€; y nos ayudarÃ¡ a guardar nuestra privacidad eliminando
+cookies, cachÃ©, el historial de navegaciÃ³n por Internet, archivos temporales, etc.
+*Bleachbit como Root, lo mismo pero para el perfil de root, ( tiene acceso a mas archivos, por
+cuestion de permisos).
+*Cambiar GDM Gnome, cambiar el gdm de gnome, (en LxDe y en Openbox, tambien funciona
+pero con menos opciones), funciona de la siguiente manera;
+-Use Gdm Appearance Preference, esta opcion hace que cuando salgas de la sesion se inicie el
+gestor de apariencia de gnome, permitiendote elegir fondo e iconos para el gdm, (cuando te loguees
+otra vez tendrÃ¡s que pulsar la ultima opciÃ³n ( Remove Gdm Appearance Preference), sino te
+arrancarÃ¡ la aplicaciÃ³n cada vez que salgas de sesion.
+-Select a walpaper, selecciona un walpaper que quieras para el fondo de gdm.
+-Current Gtk Theme as Gdm theme, utiliza el tema gtk que tienes en gnome ahora mismo.
+-Current Wallpaper a Gdm Background, coloca tu actual wallpaper como wallpaper del Gdm.
+-Remove Gdm Appearance Preference, es la opcion que hace desaparecer el gestor de apariencia de
+gnome en el arranque del mismo, (lo que cometamos en la primera opciÃ³n).
+(creado por antonioserranol)
+*ComprobaciÃ³n del sistema, gestor de comprobaciÃ³n de hardware del sistema.
+*Controladores de hardware, busca e instala los controladores que hagan falta para que nuestro
+hardware funcione perfectamente.
+*Controladores para redes inalambricas de windows, utilidad para utilizar drivers de windows para
+dispositivos wireless en Linux.
+*Control Parental de ComFusion, programa que ayuda a tener un mayor control sobre el acceso que
+puedan tener los menores a Internet, (creado por tuquito).
+*Creador de discos de arranque, crear un disco de arranque utilizando un Cd o una imagen de disco.
+*Encargado de limpieza, limpia el sistema para que se parezca auno recien instalado.
+*Gestor de actualizaciones, nos ayuda a mantener nuestro sistema al dia.
+*Gestor de paquetes Synaptic, es el gestor de paquetes por excelencia de Gnome.
+*Gparted, programa gestor de particiones.
+*Herramientas de red, ver informaciones sobre su red.
+*Hora y Fecha, cambiar hora, fecha y zona horaria.
+*Impresoras, utilidad de configuracion de impresoras.
+*Instalar ComFusion 3 LTS, instalar a disco duro este sistema.
+*Monitor del sistema, aplicaciÃ³n que muestra procesos, consumo, y aplicaciones que se estan
+ejecutando en el sistema.
+*Origenes del software, gestor de repositorios del sistema.
+*Pantalla de acceso, configura el comportamiento de la pantalla de acceso.
+*Plymouth Manager, administrador de temas y opciones de plymouth, (que es el sistema de
+arranque).
+*Screenlock, para bloquear tu sistema ComFusion.
+*Soporte de idiomas, configurador de soporte mÃºltiple y nativo de idiomas del sistema.
+*Usuarios y Grupos, aÃ±adir usuarios y grupos al sistema.
+*Utilidad de discos, gestor de dispositivos y soportes con muchas opciones.
+*Virtual Memory Modifier, modificar la memoria virtual, (en ComFusion ya estÃ¡ configurado por
+defecto a 10, a fin de que el sistema utilice menos la memoria de intercambio y utilice mÃ¡s la
+memoria cache), para que cada usuario lo modifique a su gusto. (Creado por Lorenzo Carbonell, â€œel
+atareaoâ€).
+*Visor de archivos de sucesos, vea o monitorice los archivos de sucesos del sistema).
+*****Toda esta relaciÃ³n de aplicaciones de ComFusion 3 son relatadas respecto al Escritorio
+Gnome, con los escritorios LxDE y Openbox, hay otra disposiciÃ³n*********************
+********************************************************************************
+COMFUSION, UN CONCEPTO DE INNOVACIÃ“N;
+Como habrÃ¡n podido comprobar ComFusion 3 no es una distribuciÃ³n mÃ¡s , pretende ser innovadora
+y futurista, por ejemplo configurando Blueproximity , usted bloquearÃ¡ y desbloquearÃ¡ su sistema
+con solo acercarse a el, (obviamente llevando su mÃ³vil con bluetooth consigo), y configurando
+Qt-Face-Trainer, usted se loguearÃ¡ en el sistema sin escribir una sola letra, con solo situarse
+enfrente, Ã©l reconocerÃ¡ su rostro y le dejarÃ¡ entrar.
+Hemos intentado innovar fusionando escritorios y estilos; Gnome, LxdE y Openbox.
+Todo ello siguiendo el mismo look, (para esta versiÃ³n decidimos desvincularnos un poco del look
+â€œMacâ€, para irnos creando uno propio y mas versÃ¡til, mas acorde con el carÃ¡cter Linux), y sin
+perder de vista la misiÃ³n principal de Comfusion, ganar adeptos a este gran sistema que es Linux y
+Ubuntu.
+Hemos intentado sacar una version que, a la par que Ãºtil y atractiva para el usuario novel, sea
+potente para el usuario avanzado.
+Detalle de FbReader â€“ lector de E-books
+********************************************************************************
+Mantenemos el formato de 1400 Mb , (mini DVD), porque nos parece que dÃ¡ mas cabida a
+programas, no es demasiado pesado, y ademas es justo un minidvd, formato perfecto para todo
+aquel que no disponga de llave Usb y quiera llevar su ComFusion 3 â€œportableâ€ en el bolsillo del
+pantalon o la chaqueta.
+********************************************************************************
+CREDITOS Y AGRADECIMIENTOS COMFUSION 3
+Nos hemos divertido con ello, y nos hemos basado principalmente en los sitios web que seguimos y
+en las carencias sobre el sistema que ellos mismos nos van descubriendo a medida que escriben y
+hemos intentado subsanarlas. Otros ademÃ¡s crean programas que nos hacen todo mÃ¡s facil, y hemos
+intentado incorporarlos.
+Por todo ello, ademÃ¡s de dar la gracias a nuestros colaboradores habituales, (David Charro, Diego
+Gonzalez â€œKlokoxâ€, etc), tambiÃ©n a los sitios web que sigo habitualmente;
+     Ubuntu Life
+ â€¢
+     novatillasku.com
+ â€¢
+     El atareao
+ â€¢
+     El blog de alejandrocq
+ â€¢
+     Enalpha.com
+ â€¢
+     Entre TecnologÃ­a
+ â€¢
+     Experiencias en Ubuntu
+ â€¢
+     Linux Music 3.0
+ â€¢
+     Mi ordenador es libre
+ â€¢
+     Mundo Geek
+ â€¢
+     MuyLinux
+ â€¢
+     Nosinmiubuntu
+ â€¢
+     Noticias Ubuntu
+ â€¢
+     OcioLinux
+ â€¢
+     Portal Ubuntu
+ â€¢
+     Slice of Linux
+ â€¢
+     Soft-Libre
+ â€¢
+     Solo Ubuntu
+ â€¢
+     Ubunlog
+ â€¢
+     Ubunteate Blog
+ â€¢
+     Ubuntips
+ â€¢
+     Ubuntizando el planeta
+ â€¢
+     Ubuntronics
+ â€¢
+     Ubuntu a fondo
+ â€¢
+     Ubuntu, ubuntu y mas ubuntu...
+ â€¢
+     Usemos Linux
+ â€¢
+     xandrev.com
+ â€¢
+Gracias a todos y que disfruteis de ComFusion 3 tanto como nosotros al crearla.
+Viva Linux!! Viva Ubuntu!! Viva el Software Libre!!
+Marco A. Pollolinux                                               pollolinux@yahoo.es

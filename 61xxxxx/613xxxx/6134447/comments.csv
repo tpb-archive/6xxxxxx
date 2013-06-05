@@ -1,0 +1,189 @@
+User Type,Username,Date,Text
+,abbeluna,2011-01-28T21:43Z,thx man
+,gtxSeries,2011-01-29T15:53Z,You're both welcome! :-)
+,abbeluna,2011-01-31T08:15Z,"R E 1 is working just fine, but I cant get no sound. How can I fix that?"
+,gtxSeries,2011-01-31T08:53Z,"Now that, I don't know, as I've never faced that problem before. Did you try running it in Win95 compatibility mode? That's about the only thing I can think about."
+,jbt11,2011-02-01T02:21Z,"It keeps giving me the error ""Some of the Data has been damaged. Please run the setup again"" for Resident Evil 1"
+,dadstyle,2011-02-01T07:11Z,"thanks a lot gtxSeries. Resident Evil really brings me back.... 1 and 2 work great. but i was hoping someone coulde help me with the third. it will play the opening scene for nemesis, but then crashes before the menu. if someone, has had the problem and solved it let me know. or if you have an idea as to why, that would be helpful too! thanks again! "
+,gtxSeries,2011-02-01T09:54Z,"I really can only think about compatibility modes...
+I've been testing all games and their installations a lot and came to the conclusion I found most of the errors - which seems to be wrong. 
+
+For jbt1:
+There are two executables for RE1 found in the installation folder, try the other one. One of the two should work.
+
+For dadstyle: I've never had that problem with RE3, so I can only think about this: Press F2 to open the game settings and play around a little with ""Texture Completion"", ""Texture Correction"", and you might also want to try disabling movies. (yes, that has a bad taste for sure, but if it helps...) Maybe enabling ""Voodoo2"" may even help, as a last resort, I can't think of anything else."
+,jbt11,2011-02-01T18:23Z,"I tried both in there, one says that the data is damaged, the other says that it requires Windows 95"
+,gtxSeries,2011-02-01T22:58Z,"The Win95 stuff can SURELY helped with Win95 Compatibility Mode, try it that way."
+,jbt11,2011-02-01T23:17Z,"Ok I ran it in 95 Compatibility mode, its giving me the Data Damage error for that one too"
+,gtxSeries,2011-02-02T10:21Z,"Then honestly, I'm out of ideas. It works for me, I used the same installer I made. Back a little while ago I also had the problem while testing, but it wasn't because the game was actually corrupted... I'll try and figure it out when I'm done with my work."
+,gtxSeries,2011-02-02T14:59Z,"What I found out so far:
+
+As you may know, the installer makes a shortcut on the desktop for 'resident.exe'. Using this with Win95 compatibility mode seems to work just fine for me. Using 'ResidentEvil.exe' with Win95 mode seems to reproduce the mentioned error.
+Using 'resident.exe' without Win95 stops the application for me with a 'The Application has topped working...' error.
+
+HOWEVER! This not always seems to be the case and all the errors seem completely operating system specific for me. I remember, that under Vista x64 I used the 'ResidentEvil.exe' way back...
+It leaves you to find out how it works for you by Trial & Error. I'm sorry I can't help any more, but I can't seem to really reproduce the problem."
+,jbt11,2011-02-02T19:14Z,"Okay, I got it working finally XD, But now i'm stuck on how to download a Cinepak Codec, What should I use to run the .dll file?"
+,gtxSeries,2011-02-02T23:06Z,"If you downloaded this:
+http://www.free-codecs.com/download/Cinepak_Codec.htm
+
+Then there should be an inf file in the same directory. Right click that and select Install.
+That should work."
+,jbt11,2011-02-03T00:15Z,"Sorry I keep responding with all my problems XD, but when I right click and go to install, it prompts me to give permission, after I give it permission, it doesnt do anything"
+,gtxSeries,2011-02-03T10:53Z,"I guess you're under Vista/7?
+
+If so, the only way I can think of is that you disable User Account Control, just until you install what you want. Then you can re-enable it. You can do so by Pressing [WinKey]+[R] and entering ""msconfig"" there, without the quotes.
+There at the ""Tools"" tab, if I remember correctly, you can disable / enable it. (something about UAC)
+Install the codec (you propably won't get a 'done' message), then re-enable if you wish - since there's no 'Run INF as Administrator' option, this seems to be the best way."
+,gtxSeries,2011-02-03T10:55Z,"By the way: Maybe it DID it actually, but was so fast, that you didn't notice. Usually a command promts just pops up for a moment and it's done, it's installed. (after all we're talking about a single file here).
+Did you try the game since then? :D"
+,jbt11,2011-02-03T21:53Z,"Well it works fine, it just wont play the videos lol it goes right to the ""They have entered the mansion"""
+,VDmaf,2011-02-03T22:30Z,"Hey guys. This is the easy way to solve your LOAD/SAVE issue. 
+
+1. Install the game using Deamon, or just extarct it to any folder all 3 games and do it from there.
+2. After Install got C:\ Disk and creat a new folder called RESIDENTEVIL2 so it look like this C:\RESIDENTEVIL2. ( no space between 2 words)
+3. Go to C:\ Disk, Program Files, Capcom, Resident Evil 2, (where u install ur game).
+4. Click on the ResidentEvil2 ( Looks like lizard eye) it will open AUTORUN.exe 
+5.  Click on SAVE GAME FOLDER , if it says error or somethink, it's ok, just wait a little and dont close it until u see it a new window pop up.
+6. In that window u have to choose where u have to save ur game so select that folder we created in C:\ Disk ( C:\ResidentEvil2 ) 
+7. Run the game in win 95 mode ( Right click on Leaon short cut - Properties - Compatibility. 
+8. Then same Lean icon duble click to play.
+
+THIS SHOULD WORK I GUARANTEE !!!
+PS You can transport your old save's to the new Save folder and delet the old ""save"" folder or dont, but it should work anyway but just to be sure if it dont. FACEBOOK: Jay Bel"
+,VDmaf,2011-02-03T22:47Z,"I also got NO-CD Patch that I got from http://www.gamecopyworld.com/  and it's called Resident Evil 2 v1.0 [US/UK] No-CD Patch. So if save still wont work get this patch and put it in where u install ur game and run the patch. 
+
+To change for better resolution change in game change your screen resolution to 1024x768 ( that's my one when I play). In game u an press F7 or F8 to change the size of the screen. F9 to Exit Menu + F9 Exit to Desktop. 
+I hope this helps coz I know how people feel when they want to play so bad but they cant :)) Later ."
+,gtxSeries,2011-02-03T23:35Z,"Hi VDMaf!
+
+In this pack you don't need a no-cd crack for any of these, neither of them requires a CD.
+And also, Resident Evil 2 includes the 1.04 patch, so using 1.0 binaries would be a bad choice.
+
+Also, as far as I know, the game won't run in any resolution higher than 640x480..."
+,KaitoTano,2011-02-04T16:51Z,when i try that resident evil 2 patch that is included it cannot find the movie files and closes just after the intro screen (this game contains scenes of gore)
+,VDmaf,2011-02-04T22:09Z,"Hey gtxSeries:)
+Yea i know u dont need NO CD patch, but when i click on leaon exe it says ""error no cd, click ok"" or somethink, so u have to press it like 5 times until u can play with pact it run straight away. Thats why im saying it, u dont have to get it:)
+
+Yea res is a bit low, but u can make it ""fullscreen"" with F8. by the way, when i play Clair the graphics seems better, her body too looks better then leon's. Is that the same with u?"
+,gtxSeries,2011-02-05T09:28Z,"If you press F8, you'll see that there are two modes that run in 640x480. One is native 640x480 rendering which looks good of course, the other is rendered to 320x240 and then stretched to 640x480 and looks damn ugly. It writes it in the top-left corner when you switch.
+
+By the way, that no-cd error appears only to me, when there's a disc in the drive. Otherwise it starts smooth and quiet.
+
+KaitoTano:
+I don't get exactly what are you talking about...
+There are no plus patches included with the game, only RE2 has 1.04 patch pre-installed."
+,trh2086,2011-02-06T03:12Z,"I know what KaitoTano is talking about. I get the disclaimer at startup but then the game crashes with this error: ""Unable to find file E:\regist\pl1\zmovie\titlece.bin"" This only happens when you try to play the game by clicking ClaireU.exe or LeonU.exe but start by clicking ResidentEvil2.exe and then clicking play game it works but it will be windowed and you play as Leon without the option to play Claire."
+,shikhar,2011-02-06T06:51Z,"het gtxseries cn u give step by step instructions,coz i am new to this torrent thing with games.I wanna play these games very badly ...plz"
+,gtxSeries,2011-02-06T11:19Z,"Hey shikhar!
+
+I usually don't do this, but since anyone else can read it, it may be useful.
+I won't write down how to properly burn ISO images, google it if you need that.
+You'll need to download Daemon Tools Lite (if you don't already have it).
+It can be found here:
+http://www.disc-tools.com/download/daemon
+
+Be careful when installing! It asks you if you want to install XYZ toolbar, set the homepage, etc, you propably don't need that stuff...
+Now since you're installing Lite, just skip the part where it asks for a serial, you don't need itl.
+
+When you've installed it and started the program, look at the system tray (by default at the lower right corner, next to the clock).
+There'll be a Daemon Tools icon. Click it and select Device 1 : [Empty] - or somethin' like that - and browse to the directory where you've downloaded this torrent to. Select the ISO image. It will be mounted to a virtual CD/DVD/BD-ROM drive which you can find in My Computer. Open the drive and you'll find all three folders of Resident Evil 1, 2 and 3. Enter each of them and install them using SETUP.EXE in any order you want. You should be able to do the rest by yourself. (if not, GTFO)
+
+If you have any more questions about this release and it wasn't covered in the FAQ or the posts below, I'll try and answer it, but I won't help you with trivial stuff like ""How do I download through bittorrent?""...
+Google is your friend otherwise."
+,ladyj405,2011-02-12T13:11Z,"@jbt11
+How did you fix the problem of receiving the error message ""damaged data""? I am having the same problem"
+,alexbenner14,2011-02-12T20:46Z,Hey guys and girls. I am having the same problem as above. Data damaged or whatever its called. I run a windows 7 64 bit system. Any help would be great. thanks
+,gtxSeries,2011-02-12T23:11Z,"Actually I don't have a clear solution for resident evil 1's problem. I happened to me too, but then the problem just solved itself and the game started somehow. I don't really remember what I did. And this thing is annoying, because it actually works, just I don't know how.
+Annoying, isn't it?!"
+,ladyj405,2011-02-13T02:22Z,I am not sure why but the message of damaged data no longer appears. I set everything the way it was suggested and when I turned my computer on the game started to work.
+,togetherrising,2011-02-13T02:32Z,I had the damaged data error msg when trying to load RE1 but then I went into the start menu programs and selected the Resident Evil Video Setup and after that it worked for me? Hope that helps anyone!
+,togetherrising,2011-02-13T02:45Z,"RE1 plays at about double speed for me tho, even when running in windows 95 compatibility mode, has anyone else had/fixed this issue?"
+,gtxSeries,2011-02-13T10:03Z,"I mentioned that in the FAQ as well. There's no clear solution for that as far as I know...
+I read somewhere that modern processors are too fast for Resident Evil 1 and that CpuKiller might help.
+Check it out: http://www.cpukiller.com/
+I didn't try it yet thou, gonna test it however."
+,gtxSeries,2011-02-13T10:26Z,"Update: I personally had no luck with CpuKiller, but I guess it's worth a try.
+I tried different settings but setting it too low did have no effect, setting it too high had made the game unplayable-it was like skipping too many frames."
+,gtxSeries,2011-02-13T10:38Z,"Update #2:
+I've been running a little testing just now...
+Using the Video Setup in the Start Menu, I tried the following settings:
+Matrox Mystique - The game was running at normal speed, but had graphical glitches.
+Non-accelerated (Video Memory) - At 640x480 resolution, the game was shitty slow for me, however after pressing F8 a few times (in-game), I came to the setting, where the Screen Resolution is 640x480, but the game is only 320x240 in resolution. This was playing with perfect speed. However, since this is actually rendered by the CPU, the models did look damn ugly - The backgrounds ware fine however.
+Well experiment yourselves if you wish.
+
+Oh by the way: I also tried the 3dfx setting, but the game did hang up. I had to call for the Task Manager, but the screen was still left blank, so I pressed Winkey+R and typed ""tskill resident"" without the quotes.
+Also, if you wish to run the game in non-accelerated mode, you gotta switch the screen color depth to 16-bit.
+
+Hope this helps..."
+,gtxSeries,2011-03-03T23:03Z,"Hey guys! I seem to have found the solution for the ""corrupted game data"" with resident evil 1!
+Just before launching the game, set the color mode of windows to 16-bit - it should start properly now!
+Also remember to set the EXE file to run in Windows 95 Compatibility Mode. 
+
+Confirmed to work on Windows 7 x64"
+,JusticE84,2011-03-28T09:39Z,I tried setting my bit depth to 16 bit with Win 95 compatability and still can't get RE1 to work! :(
+,JusticE84,2011-03-28T09:51Z,"Ok I got it to work without having to set my pc to 16 bit mode by playing around with the video setup.
+
+God the acting was terrible in games back then.
+
+""No, don't go!"" (points at helicopter)"
+,ZELDALUVR69,2011-03-28T19:32Z,Yo dwd am downloading it atm but its real slow cause my internet sucks XD anyways stupid question but should I run it directly or extract when it asks XD?
+,JusticE84,2011-03-31T01:43Z,Has anyone had trouble getting the RE2 videos working on Win7 64bit? I don't have any codec packs installed and installed the Indeo codecs but no go.
+,ZELDALUVR69,2011-04-01T08:40Z,"ok dude I got it to work just fine the only problem now is that during movies/cutscenes it displays a black screen till the movie's over, i can hear the sound though. how do i fix that?"
+,ZELDALUVR69,2011-04-01T08:51Z,I am having the same problem as justice >< except on vista 32 bit
+,Robotmenace,2011-04-08T07:13Z,"To everyone experiencing the issue with Resident Evil 1 in which it says some data may have been corrupted blah, blah, blah. I had the same problem. I'm running Windows 7, and fixed the problem. Right click on the desktop shortcut and click on ""Properties"" Go to compatability, and run in compatability with Windows 95. Then, swich your monitor settings to 16-bit color. Then, go into the program files folder which, unless you changed it, should be C:\Program Files (x86)\CAPCOM\RESIDENT EVIL or if you're not running 7, remove the "" (x86)"" Then run the video setup. Choose option 1. It should work. If you still experience the same issue, or if you try playing the game and half of the screen is black, run video setup again and choose a different option until it works."
+,Robotmenace,2011-04-08T07:28Z,"Those having issues with Resident Evil 2 videos. I installed Resident Evil 2, and installed Indeo Codec when prompted. I then uninstalled and reinstalled Resident Evil 2, but didn't install Indeo Codec the 2nd time, because it was still on my computer. I then ran the Resident Evil 2 launcher, rather than running Leon.exe or Claire.exe. I then went into the video setup, set it to run in a window, and tried a few video card options. Eventually, the game ran perfectly. Though it kinda suck not being able to go fullscreen. For me, when I try to run in fullscreen, half of the screen goes black. Though I might be alone on that one...lol
+
+And to gtxSeries: This is an awesome torrent, and I thank you for taking the time to create it"
+,balzack9,2011-04-12T20:41Z,"Hey, nice work overall!  RE 1 will not save, I had resolved other probs by reading comments but I have tried numerous things to save game, even an RE2 suggestion.  I also tried to edit registry and add save string and save folder in program files, nothing has worked.  All efforts result in same message when trying to save, ""unable to save_not enough space on hard drive"" or something to that general effect.  Any suggestions to resolve will be welcome!  Thanks"
+,ZELDALUVR69,2011-04-18T21:22Z,"Hey can anyone tell me how to change video setup settings :\? not sure if am doing it right, can't get re1 to work"
+,ZELDALUVR69,2011-04-20T10:30Z,"ok I got re1 to work just fine, now if could  anyone help me on how to fix re2 movies i would rly appreciate it. i tried everything in the comments"
+,P3ty,2011-04-21T06:09Z,"After playing five minutes of resident evil 275 viruses sprung up and resident evil one wouldn't even start 
+
+
+but other than that it was a good torrent! "
+,ZELDALUVR69,2011-04-21T11:43Z,Na stop spreading lies theres not 1 virus/trojan in this torrent tis perfect 
+,mmalegit,2011-05-02T02:03Z,"hey man 2 and 3 work good but for the RES 1 I get the ""some of the data has been damaged"" I tried running it under win95 compatibility but it still didn't work."
+,ZELDALUVR69,2011-05-02T02:55Z,"mma, go to videosetup in re1 folder and make it use matrox mystique"
+,jtrory,2011-05-11T02:00Z,"The games install and load fine, but I'm having the problem with RE1 and RE2 that the thumbstick controls on my gamepad are reversed and I can't figure out how to get them to work. In the menu screens everything is cool - Left goes Left and Right goes Right. But in the actual game, Right goes Left and Up goes Down. Anyone else had this problem? I'm using a Saitek gamepad."
+,ZELDALUVR69,2011-05-18T03:43Z,"Dunno, I play it with keyboard, though. I'd say try giving them administrator preveilieges, or something. Btw, unimportant question, did anyone manage to fix the graphical glitch in re3?"
+,SiavashTheOne,2011-06-02T20:28Z,Doesn't work on Windows XP using VirtualBox installed in Ubuntu 9.10.
+,ladyj405,2011-08-08T08:50Z,"Didn't see my issue anywhere so I figured I would ask.
+Game 2 pauses, only, the graphics at cutscene: Claire A; in the laboratory talking to Leon before getting the 'base' and using the lab computers.
+Any ideas?"
+,ladyj405,2011-08-08T08:51Z,-Windows7
+,ladyj405,2011-08-09T10:06Z,"Answer to myself, for anyone who has the problem. During the scene switch view with f8 a few times, I don't know why it works but it does."
+,beatax,2011-08-15T14:58Z,"good collection
+
+walktroughs:
+http://www.gamestia.com/video/resident-evil-1-c56s1.html
+http://www.gamestia.com/video/resident-evil-2-c8s1.html
+http://www.gamestia.com/video/resident-evil-3-c5s1.html"
+,Tiddlyfisher,2011-08-15T23:19Z,"Thank you very much for this torrent, I could not get a working version of RE1 before, and it works now, perfectly. One question though, how do I put it into a window? For RE2, the games work fine for Leon, and slightly for Claire (the game exits out on it's own when she runs out of the room with the black guy without an error message) but I STILL can't get the save thing to works correctly, It won't load. Although I already had a working copy of RE3, so I didn't need that one. Thank you so much!,I'll seed forever! :D"
+,mrQuackums,2011-11-08T11:54Z,"made an account and everything to say thank you.
+
+so thank you.
+
+...
+
+and i made an account to ask for help getting RE1 to work.  i can only run the game in unaccelerated mode and that is painfully slow.  
+
+when i try the other video modes from videosetup.exe the movies work fine but the menu and the actual game play are all wonky:  it looks like the screen is divided into 4 triangles (top forth, bottom fourth, right fourth, and left fourth), 2 of them are black and the other 2 just act bizarre (i can show you a screenshot if it would help).
+
+the game runs in compatibility 95 mode, i have tried all 8 options from videosetup.exe, tried to force 256 colors, tried to force 640x480, and all other check-boxes in compatibility mode tab.
+
+if anyone here can help me my next drink will be to you or you can have naming rights to my first born son, the choice is yours"
+,SamuelPariz,2011-12-04T00:39Z,how do u install it? WTF?
+,SamuelPariz,2011-12-04T01:01Z,thx 4 nothin lard arse! LOL
+,MiniStop,2012-02-26T00:52Z,"Hey dude. I get problems in RE3 regarding the save/load. Both in the easy and hard mode, whenever I save the game and exit then come back later and play. My save game could not be found. How can I fix this?"
+,aznsavage7293,2012-03-01T04:48Z,Is there a way to get the videos in RE2 to work? It just shows a black screen and I hear the audio.
+,YemenDude,2012-04-26T02:55Z,Hey men how do save in RE3????
+,gtxSeries,2012-04-30T05:06Z,"@ YemenDude
+
+What do you mean how? Like on all the other RE games: grab an [Ink Ribbon] from somewhere (usually next to a Typewriter), then find a typewriter and you can save there. On Easy mode, you start off with an infinite amount of ribbons found in the Item Box."
+,gtxSeries,2012-04-30T05:08Z,"@ MiniStop:
+Did you install the game under Vista/7 into Program Files? If so, then you need to run the game as an administrator, otherwise you simply won't have permission to write into that directory."
+,gtxSeries,2012-04-30T05:12Z,"@ aznsavage7293
+The videos in RE2 (and the other games too) work! I suspect you either didn't install the Indeo codec, or do have some codec pack installed. It is known to me, that ffdshow (including K-Lite Codec Pack) and Haali Splitter cause the videos not to show. Either disable those in RE2 somehow, or get rid of them.
+If you just lack the codec necessary, then grab this: http://www.free-codecs.com/indeo_codec_download.htm"
+,Parrow,2012-05-20T07:02Z,"i Remember that, back then there was 2 disc for resident evil 2 like one for claire and another for leon....does this one have every disc on one?"

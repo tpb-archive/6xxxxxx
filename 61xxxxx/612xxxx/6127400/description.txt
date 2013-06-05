@@ -1,0 +1,120 @@
+avast! Internet Security
+Active internet users need greater protection for themselves as they shop and bank on-line. To secure against threats from infected web sites and the growing risk of identity theft, avast Internet security provides you with continuous protection from its layers of antivirus, anti-spyware, anti-rootkit protection, firewall and antispam.
+
+Key technologies
+* Improved Antivirus and anti-spyware engine
+* New avast! Sandbox
+* New Silent Firewall
+* New Antispam
+* New Behavior Shield
+* New avast! Intelligent Scanner
+* New Silent/Gaming Mode
+* Real time anti-rootkit protection
+* avast! Community IQ
+* Behavioral Honeypots
+* Smart virus updates
+* Green computing
+* avast! iTrack
+* File System / Mail Shield
+* Web Shield
+* IM / P2P Shield
+* Network Shield
+* Script Shield
+
+Core and detection
+- Improved Antivirus and anti-spyware engine
+State of the art scanning engine provides reliable protection against viruses, spyware and other forms of malicious software.
+- Real time anti-rootkit protection
+Unique "on access" technology checks all kernel-mode drivers that the operating system is loading for signs of rootkit behavior. This enables even unknown rootkits to be detected and stopped before they can do any damage.
+- New avast! Sandbox*
+Enables potentially exploitable programs (such as web browsers) and/or suspicious executables to be run in a safe, virtual environment. The avast! Sandbox is unique as it runs on both 32 and 64bit platforms.
+- avast! Community IQ
+Most samples we process come from sensors deployed throughout the avast! community in the Behavior shield and anti-rootkit modules. This is a unique source of data made possible only thanks to our huge user base. Most of the collected samples are analysed by a number of automated processes and only a small fraction of the samples need to be processed manually by our virus analysts.
+- New Code emulator
+When a suspicious executable is encountered (during both on-demand and on-access scanning), avast! is able to emulate the programâ€™s code in an isolated environment. The code emulator is used for two purposes. First, it is used for generic unpacking. Secondly, it is used in the heuristics engine. Technically, this is done using dynamic translation, a method much faster than traditional emulation techniques.
+- New Heuristics engine
+Starting with version 5.0, avast! features a new heuristics engine designed to proactively detect malware undetectable with normal definitions. The heuristics engine is able to cover both binary (executable) and script malware.
+- Potentially unwanted programs detection
+New in version 5.0, avast! now detects potentially unwanted programs, such as remote admin tools and commercial key loggers. Custom rules can be set for dealing with these types of programs.
+
+Additional protection
+- Silent Firewall
+The firewall enables you to control incoming and outgoing traffic from your computer. Protection is based on heuristic and behavioral analysis, and a white list of known safe applications. There are three network settings which can be changed depending on the type of connection.
+- Antispam
+New comprehensive SPAM and fraudulent message filter. It works as a plug-in to MS Outlook and a generic POP3/IMAP4 proxy for other email clients.
+
+Scanning
+- Boot-time scanner
+Allows you to scan your computer for infections before the operating system has started and before a virus can be activated (32-bit operating systems only).
+- Command-line scanner
+Enables you to run a scan directly from the command line.
+- Wake-up for scan
+Microsoft Windows is woken from sleep or hibernation mode, performs a scheduled scan, then returns back to sleep mode.
+- Scheduled scanning
+Allows users to define the scan time and files to be scanned.
+- New avast! Intelligent Scanner
+Can reduce the number of required file scans by up to 80% through a white list of proven safe applications. Files identified as safe are not rescanned unless they change.
+
+Shields
+- New Behavior Shield
+Monitors activity on your computer using a number of sensors (file system, registry and network based) and reports/blocks any suspicious behavior.
+- Behavioral Honeypots
+avast! sensors identify and monitor suspicious file activity on selected computers, automatically submitting files to the Virus Lab for additional analysis.
+- File System Shield
+Real-time scanning of opened/executed files.
+- Mail Shield
+Scans all incoming/outgoing e-mails for malware. For MS Outlook, a special plug-in is used. Other email clients are protected by a generic POP3/IMAP4/SMTP proxy. New in version 5, the proxy also supports scanning of SSL communication (gmail.com, sympatico.ca, â€¦.)
+- Web Shield
+Scans all visited web pages and checks all files, pages and java scripts downloaded from the internet. Thanks to the Intelligent Stream Scan feature, the Web shield doesn't slow down your web browsing.
+- P2P Shield
+Checks files downloaded using P2P programs. - ABC, Ares, Azureus, BearShare, Bit Torrent, BitComet, BitLord, BitPump, CZDC++, Direct Connect, eDonkey, eMule, iDC++, iMesh, Kazaa, Kceasy, LimeWire, Morpheus, Opera's DC++, Overnet, Qtrax, Shareaza, SoulSeek, StrongDC++, uTorrent, Vuze, WinMX, Winny2, Zultrax.
+- IM Shield
+Checks files downloaded while using instant messaging or â€œchatâ€ programs. - AIM (AOL Instant Messenger), Gadu-Gadu, gaim/Pidgin, Google Talk, ICQ, IM2 Messenger, Infium, Miranda, mIRC, MSN/Windows Messenger, Odigo, PalTalk Messenger, Psi Jabber Client, QIP, QQ, SIM, Skype, Tlen, Trillian, WengoPhone, XFire, Yahoo! Messenger.
+- Network Shield
+Provides protection against network-based viruses. The module has two main components: a URL blocker, designed to block malicious URLs (as defined by the Virus Lab), and a lightweight intrusion-detection system.
+- Script Shield
+Detects malicious scripts hidden in internet web pages and prevents them from running and hijacking or potentially causing damage to your computer (Internet Explorer only, 32-bit only).
+
+Updates
+- Smart virus definition updates
+Incremental updating system minimizes the size of regular update files.
+- New Fast application of updates
+New format for the virus definition file speeds up application of updates into avast! 5.0 and reduces demand on CPU/memory, resulting in uninterrupted computer use.
+New format for the virus definition file means faster updates and reduces demand on CPU/memory, resulting in uninterrupted computer use.
+
+Gaming
+- New Silent/Gaming Mode
+New Silent/Gaming Mode automatically detects full-screen applications and disables pop-ups and other on-screen notifications without degrading security.
+- Optimized for latest Intel Core i7 CPUs
+Critical sections of the avast! scanning engine code have been optimized to deliver unrivaled performance on the latest Intel chips.
+
+CPU optimization
+- New Multi-threaded scanning optimization
+avast! runs faster on new multi-core CPUs. A new avast! feature allows the splitting of large individual files between cores, accelerating the scanning process.
+- Green computing
+Reduced demands on the disk drive result in lower energy consumption.
+
+Miscellaneous
+- avast! iTrack
+Real-time graphic scanning reports.
+- New Graphical user interface
+Easy to navigate graphical interface.
+- Automatic processing
+Infected files are processed automatically without requiring user instructions.
+
+System Requirements
+Operating Systems Supported
+- Windows 7
+- Windows Vista (any Edition excl. Starter Edition)
+- Windows XP Service Pack 2 or higher
+
+Minimum Hardware Requirements
+- Processor Pentium 3
+- 256 MB RAM
+- 370 MB of free hard disk space
+
+Notes
+- Please note that avast! Internet Security runs only on PCs with Windows XP and newer. Older Windows operating systems (Windows 95/98/ME/NT/2000) are not supported.
+- Please also note that avast! will not run properly if you have other antivirus software on your PC.
+
+

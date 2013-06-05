@@ -1,0 +1,165 @@
+Universal MultiBoot Disk 6.5 + USB Disk [Multi]
+
+===========
+::English::
+===========
+Activation / reg code: not required
+Language: English, Russian
+Year: 2011
+Version: 6.5
+File Format: Iso / .rar
+Platform / OS: DOS
+
+Multiboot disk-based boot grub4dos + Bootable CD Wizard. The main loader on CD \ DVD for reliability on bcdw, but its menu does not have a right brings up a menu grub4dos.
+
+Before:
+Windows LiveCD SV-Micro PE 2k10 conty9 PlusPack 1.6.1
+Windows LiveCD LEX RamBoot MM 2,011 10.1.1911
+Windows LiveCD STEA Edition 01.02.11
+Windows LiveCD SysTools 4 PE7 LeoZhu 15.01.11
+Hiren's BootCD 1913 Rus
+Paragon Home Expert Pro 2009 build 8667
+Parted Magic 5.9
+
+Acronis:
+Acronis True Image Enterprise Server 9.7.8398 + UR Ru
+Acronis True Image Home Plus Pack 13.0.7046 + UR Ru
+Acronis True Image Home Plus Pack 14.0.6597 + UR Ru
+Acronis Disk Director Server 10.0.2169 Ru
+Acronis Disk Director Advanced 11.0.12077 Ru
+
+Windows:
+Windows 7 Ultimate SP1 RTM x86 Lite Compact aleks200059
+Windows XP Pro SP3 RU VLK 20.01.11 simplix (Manual)
+Windows XP Pro SP3 RU VLK 20.01.11 simplix (Unattended)
+
+Test:
+QuickTech Pro 5.8
+GoldMemory Pro 6.92
+Linux Memtest86 + v4.10
+MS Memory Diagnostic
+MHDD HardDisk Tools 4.6
+Victoria HDD scan 3.52
+HDDTools from Systools 4
+
+Changes in version 6.5
+Removed:
+VasAlex BartPE on 06/08/1910
+RusLive Ram Special Edition 2k10 29.10.2010
+Active @ Boot Disk 5.1.2
+Hiren's BootCD Pro 1.8 (Wintools)
+Acronis Backup & Recovery Workstation 10.0.11639 Ru
+Windows Key Enterprise 9.3.815
+Recovery Console Windows XP Rus
+
+Changed:
+Distribution of Windows 7 Ultimate x86 aleks200059 -> Windows 7 Ultimate x86 Rus SP1 RTM Lite Compact
+My distro Windows XP SP3 -> Windows XP Pro SP3 VLK Rus simplix edition (x86) 20.12.2010
+SysTools 3 PE7 LeoZhu 01.12.10 -> SysTools 4 PE7 LeoZhu 15.01.11
+SV-Micro PE 2k10 conty9 PlusPack 1.5.1 -> PlusPack 1.6.1
+Acronis True Image Home Plus Pack 14.5519 En -> 14.0.6597 + UR Ru
+Acronis Disk Director Suite 10.0.2288 En -> 10.0.2169 Ru
+Acronis Disk Director Home 11.0.216 Ru -> Advanced 11.0.12077 Ru
+Paragon Home Expert Suite 2010 build 10769 -> Pro 2009 build 8667
+Parted Magic 5.7 -> Parted Magic 5.9
+Linux Memtest86 + v4.00 -> Linux Memtest86 + v4.10
+Hiren's BootCD 1912 Rus -> Hiren's BootCD 1913 Rus
+
+Added:
+Windows LiveCD LEX RamBoot MM 2,011 10.1.1911
+Windows LiveCD STEA Edition 01.02.11
+HDDTools from Systools 4
+
+How to use:
+>> Burn any good program, (ImgBurn, InfraRecorder, UltraISO). Boot from the>> drive and try!
+Option to install on a flash drive 1:
+Find the manufacturer of your flash chip, download the desired utility and write the image to stick as USB-CDROM.
+>> Install Option 2 on the stick:
+Run Flashboot.exe of arhirva and follow the instructions, the image will be unpacked and copied to the stick in the desired form. USB flash drive is formatted, so copy the data you want from it. In a rough menu you will have the option to boot in graphical mode, high-quality, low-quality and properly in text mode. Made it to avoid stocks in various load bearded companies.
+
+Replacement Windows distribution 7:
+In order to change the distribution of Windows 7 on your while maintaining downloadable LiveCD SysTools, should be removed from the assembly the following folders:
+efi
+as well as the contents of the folder boot except for file and folder contents bc1 sources except file boo1.wim. Then copy all the folders from your distribution.
+
+===========
+::Spanish::
+===========
+ActivaciÃ³n / reg cÃ³digo: no se requiere
+Idioma: InglÃ©s, Ruso
+AÃ±o: 2011
+VersiÃ³n: 6.5
+Formato de Archivo: Iso / rar.
+Plataforma / Sistema operativo: DOS
+
+De arranque mÃºltiple basadas en disco de arranque grub4dos + CD de arranque Asistente. El gestor principal en CD / DVD para la confiabilidad en bcdw, pero su menÃº no tiene un derecho aparece un menÃº grub4dos.
+
+Antes:
+Windows LiveCD SV-Micro PE 2k10 conty9 PlusPack 1.6.1
+Windows LiveCD RamBoot LEX MM 2011 10/01/1911
+Windows LiveCD Edition STEA 01.02.11
+Windows LiveCD SysTools 4 PE7 LeoZhu 15.01.11
+Hiren's 1913 Rus
+Paragon Inicio Expertos Pro 2009 Build 8667
+Parted Magic 5.9
+
+Acronis:
+Acronis True Image Enterprise Server 9.7.8398 + Ru UR
+Acronis True Image Home Plus Pack + 13.0.7046 Ru UR
+Acronis True Image Home Plus Pack + 14.0.6597 Ru UR
+Acronis Disk Director Server 10.0.2169 Ru
+Acronis Disk Director avanzada 11.0.12077 Ru
+
+Windows:
+Windows 7 Ultimate SP1 RTM x86 Lite compacto aleks200059
+Windows XP Pro SP3 RU VLK 20.01.11 simplix (Manual)
+Windows XP Pro SP3 RU VLK 20.01.11 simplix (desatendida)
+
+Prueba:
+QuickTech Pro 5.8
+GoldMemory Pro 6.92
+Linux Memtest86 + v4.10
+MS Memory Diagnostic
+MHDD 4.6 Herramientas de disco duro con
+Victoria HDD Scan 3.52
+HDDTools de SysTools 4
+
+Cambios en la versiÃ³n 6.5
+Eliminado:
+VasAlex BartPE en 06/08/1910
+RusLive EdiciÃ³n Especial Carnero 2k10 10/29/2010
+Active @ Boot Disk 5.1.2
+Hiren's Pro 1.8 (WinTools)
+Acronis Backup y RecuperaciÃ³n de estaciones de trabajo 10.0.11639 Ru
+Tecla Windows Empresa 9.3.815
+Consola de recuperaciÃ³n de Rus Windows XP
+
+Cambiado:
+DistribuciÃ³n de Windows 7 Ultimate x86 aleks200059 -> Windows 7 Ultimate x86 SP1 Rus RTM Lite compacto
+Mi distro de Windows XP Service Pack 3 -> Windows XP Pro SP3 VLK ediciÃ³n simplix Rus (86) 12/20/2010
+SysTools 3 PE7 LeoZhu 01.12.10 - SysTools> 4 PE7 LeoZhu 15.01.11
+SV-Micro PE 2k10 conty9 PlusPack 1.5.1 -> 1.6.1 PlusPack
+Acronis True Image Home Plus Pack 14,5519 In -> Ru 14.0.6597 + UR
+Acronis Disk Director Suite 10.0.2288 En -> 10.0.2169 Ru
+Acronis Disk Director 11.0.216 Ru Inicio -> Avanzado 11.0.12077 Ru
+Paragon Hogar Expert Suite 2010 Build 10769 -> Pro 2009 Build 8667
+Parted Magic 5.7 -> Parted Magic 5.9
+Linux Memtest86 + v4.00 -> Linux Memtest86 + v4.10
+Hiren's BootCD 1912 Rus -> Hiren's 1913 Rus
+
+AÃ±adido:
+Windows LiveCD RamBoot LEX MM 2011 10/01/1911
+Windows LiveCD Edition STEA 01.02.11
+HDDTools de SysTools 4
+
+Modo de empleo:
+>> Grabar cualquier buen programa, (ImgBurn, InfraRecorder, UltraISO). Arrancar desde el disco>> e intente!
+Posibilidad de instalarlo en una unidad flash 1:
+Encuentra el fabricante del chip flash, descargar la utilidad deseada y escribir la imagen al palo como USB, CD-ROM.
+>> InstalaciÃ³n de la opciÃ³n 2 en el palo:
+Ejecutar Flashboot.exe de arhirva y siga las instrucciones, la imagen se descomprime y se copian en el palo en la forma deseada. una unidad flash USB estÃ¡ formateado, por lo que copia los datos que desea de Ã©l. En un menÃº en bruto usted tendrÃ¡ la opciÃ³n de arranque en modo grÃ¡fico, el modo de texto de alta calidad, de baja calidad y en forma correcta. Hizo para evitar acciones de empresas de carga con barba diferentes.
+
+SustituciÃ³n de distribuciÃ³n de Windows 7:
+Con el fin de cambiar la distribuciÃ³n de Windows 7 en su tiempo que se mantiene descargable SysTools LiveCD, debe ser removido de la asamblea las siguientes carpetas:
+efi
+asÃ­ como el contenido de la carpeta de inicio, excepto para los contenidos de archivos y carpetas bc1 las fuentes salvo boo1.wim archivo. A continuaciÃ³n, copie todas las carpetas de su distribuciÃ³n.

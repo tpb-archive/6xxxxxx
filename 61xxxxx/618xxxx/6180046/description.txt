@@ -1,0 +1,27 @@
+Led Zeppelin II (1969)
+
+Lineage: Classic Records SD 8236-A1/A2/B1/B2 45 > VPI Aries II Extended with SDS/ JWM-12.6 / Lyra Titan > 
+Zoom H4 @ 24bit/96kHz via external mic inputs > RIAA correction with Sox 14.3.0 > 
+minor click removal with Click Repair 3.0 > fades, normalization, and splitting with WaveLab 5 > to FLAC with dbPowerAmp
+
+Tracklist:
+
+01 Whole Lotta Love
+02 What Is and What Should Never Be
+03 The Lemon Song
+04 Thank You
+05 Heartbreaker
+06 Living Loving Maid
+07 Ramble On
+08 Moby Dick
+09 Bring It on Home
+
+From Classic Records 45 RPM Led Zeppelin box, recorded and presented here as 24/96 FLACs. 
+You will need to resample these files to create an audio CD. Here\'s an example of a sox command to do this:
+sox \"01 Whole Lotta Love.wav\" -b 16 \"441/01 Whole Lotta Love.wav\" rate -s -a 44100 dither -s
+This creates a 16/44.1 WAV in a subfolder called 441.  
+http://sox.sourceforge.net/
+
+600DPI scans of the front, back, and gatefold artwork are included. The front and back covers for Led Zeppelin (1969) are also included. 
+
+Enjoy.

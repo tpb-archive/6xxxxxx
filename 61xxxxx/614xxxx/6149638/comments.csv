@@ -1,0 +1,25 @@
+User Type,Username,Date,Text
+,FDNG,2011-03-09T00:25Z,Heard a lot about it. Thanks.
+,customer629,2011-04-21T22:45Z,"The sample plays fine, but the movie does not.  Quick Time error 2002 (bad public movie atom).  VLC and GOM don't play either.
+
+What's up?"
+,Monroville,2011-06-30T01:19Z,"You REALLY need to redo this.  Both MKVmerge and Handbrake 0.9.5 give ERROR messages when trying to remux them: 
+
+No Title(s) found:
+Your source may be copy protected, badly mastered or in a format Handbrake does not support."
+,Monroville,2011-06-30T01:20Z,"MKV mege states:
+
+Command line used:
+
+""mkvmerge"" --output-charset UTF-8 --identify-for-mmg ""M:\Man Bites Dog [C'est arrive pres de chez vous] 1992 UNCUT 720p BRRip x264-BeLLBoY (Kingdom-Release)\Man Bites Dog (1992).mp4""
+
+Output:
+
+Error: The demultiplexer for the file 'M:\Man Bites Dog [C'est arrive pres de chez vous] 1992 UNCUT 720p BRRip x264-BeLLBoY (Kingdom-Release)\Man Bites Dog (1992).mp4' failed to initialize:
+
+Quicktime/MP4 reader: Could not read the source file."
+,Biomecha,2012-04-21T07:54Z,"Has anyone tried using Subler ( http://code.google.com/p/subler/ - Mac only, but I'm sure there's a Windows equivalent) to re-wrap the video and audio in a new MP4 container? I will be using it anyway to quickly insert metadata and cover art to the file.
+
+MKV and MP4 are often encoded with the same video codecs, so a program like Subler can turn an MKV into an MP4 in minutes just by recreating the wrapper instead of re-encoding the entire video and audio channels of the file.
+
+It may be able to recreate the MP4 wrapper in minutes and fix the public atom issue."

@@ -1,0 +1,23 @@
+Android 2.2. Froyo uz HTC HD2 bez atminas kartes.
+
+Uzstadisana. 
+
+Nekadu atbildibu neuznemos un riskus kas saistiti ar datu zudumu un sabojatiem telefoniem jusu liko roku del.
+Pirms veicam sistemas pareju no wm6.5 un Android 2.2 froyo uzladejam batereju lidz galam jo tas aiznems laiku lidz 30min max.
+
+1. Atarhivejam novilkto failu
+2. Izsledzam telefonu un tad turot skanas taustinu uz leju sledzam ieksa.
+3. Pievienojam usb kabeli un savienojam ar jusu PC
+4. Palaizam ar administratora tiesibam failu HSPL3_PKG.exe
+tas updeitos jusu mobila telefona firmware. 
+5. veicam atkartotu darbibu ka 2-3. punka aprakstito.
+6. Atveram mapi MAGLDR112 un tur ar admina tiesibam palaizam failu ROMUpdateUtility.exe
+7. Pec tas palaizsanas telefons restartesies un pailadisies bootloaders kura izvelamies flash usb (5)
+8. Ekrana mobila telefona paradisies uzrakst kad ir atrasts usb
+9. Atveram mapi NexusHD2-froyo_V1.9a_NAND
+10. Seit ar admina tiesibam izvelamies failu DAF.exe un gaidam
+11. Uz telefona paradisies uzraksti kad tik flashots un veidotas virtualas particijas.
+12. Telefons restartejas un ekrana paradas logo DTF un pec laika ekranaa kustigs flash video (saplustos kurusts)
+13. Gaidam lidz telefons palaizas lidz galam, nesledzam lidz sak pieprasit visus datus ko ari ievadam
+14. Priecajamies.
+15. Ja nu apnik, tad ejam uz www.htc.com un novelkam originalo rom un esam atpakal wm6.5 sistemaa.

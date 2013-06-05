@@ -1,0 +1,30 @@
+following are the features of this updated bird (complete new bird and installation):
+
+
+Switched from FSUIPC to SimConnect,  this will hopefully resolve some small issues
+We added an extra lighting intensity to the VC, so now we will have dark - normal - storm. What used to be "normal" is now considered "storm"
+Added a more elaborate algorythm for the brake cooling and reduced the warming sensitivity of the brakes. They will only warm up of the brake pressure is more than 50% of maximum pressure
+Small fix to the INS code so it can read minimalistic flightplans in FSX format
+Updated the "aircraft.cfg" with the correct fuel tank size, also update the Configurator so it also includes these numbers. Note that fuel tank size in FSX is based on gallons not lbs and in FSX fuel weight is relatively high so although the volume is correct the weight will be a bit too high.
+Disabled F1-F4 when the autothrottle is armed and in SPD or N1 mode
+Disabled mixture axis from joysticks
+Changed the whoop whoop sound logic for the trims, they will only sound when flaps are 8Â° or more
+Trims will work faster when the flaps are down, this closer reflects the real situation
+We have created a small add-on program that allows users to assign keyboard shortcuts to each of the buttons and settings in the autopilot and autothrottle. This will allow to connect external hardware to the SimCheck A300 to control the autopilot
+We have changed the way the autopilot heading mode interacts with the FSX engine. This new way of working allows external programs like vasFMC or the SimuFly INS to control the heading of the aircraft
+We have completely rewritten the engine indications during engine start-up so that the indicators show the correct values based on real life start-up sequence and no longer the incorrect sequence that FSX uses in reality. The start-up sequence now takes approximately 1 minute per engine instead of the default 32 seconds in FSX. Note that the start-up itself is what it is so we have no control over that unfortunately
+The settings panel now contains an option to select lbs versus kg on the displays in the aircraft (weight indicator and fuel gauges)
+There where some issues with the livery installer, these have been resolved
+We have added an MSU for each of the INS units, alignment of the INS will be necessary although we will have the option to get automatic alignment. The INS will drift slighly, but as we wil not have VOR updating the drift will be limited
+"Airline options" where added to the Settings dialog, with 2 options available: 
+-> The VSPD selector will follow the current vertical speed except when VSPD mode is active
+-> The autothrottle SPD mode will automatically engage when ALT ACQ turns green and when the autothrottle is armed
+A repetitive warning sound was added when cabin altitude is too high or cabin pressure is too high
+Low and all speed ailerons have been switched in the external model
+Engine reverser animation is all or nothing instead of percentage reverser set
+Left/Right mouse clicks are enabled in the VC for multi-position switches and rotary knobs
+Avionics ventilation sound updated with newly recorded sound
+Add right runway turnoff light to external model
+Make the F/E panel completely 3D in the VC. Based on our test results we'll see if we implement this, if the effect on framerates is too big we will not include this
+APU standby light goes on when APU is spooling down, flap light goes on while APU inlet flap is in transit
+LLZ tracking is enhanced, even in heavy crosswind situations.

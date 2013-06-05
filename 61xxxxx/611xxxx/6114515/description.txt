@@ -1,0 +1,61 @@
+untouched original source.audio drops are part of censor.
+-----------------------------------------------------------------------------------
+golden globes hdtv.mp4
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 795 MiB
+Duration                         : 2h 7mn
+Overall bit rate                 : 874 Kbps
+Encoded date                     : UTC 2011-01-18 15:19:36
+Tagged date                      : UTC 2011-01-18 15:19:36
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 2h 7mn
+Bit rate mode                    : Variable
+Bit rate                         : 806 Kbps
+Maximum bit rate                 : 25.0 Mbps
+Width                            : 624 pixels
+Height                           : 352 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.123
+Stream size                      : 734 MiB (92%)
+Title                            : 68th annual golden globes hdtv
+Writing library                  : x264 core 105 r1732 2b04482
+Encoding settings                : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / vbv_maxrate=25000 / vbv_bufsize=25000 / crf_max=0.0 / ip_ratio=1.40 / aq=1:1.00 / nal_hrd=vbr
+Encoded date                     : UTC 2011-01-18 15:19:36
+Tagged date                      : UTC 2011-01-18 15:22:45
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AAC / LC
+Codec ID                         : 40
+Duration                         : 2h 7mn
+Bit rate mode                    : Variable
+Bit rate                         : 64.2 Kbps
+Maximum bit rate                 : 72.0 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 58.5 MiB (7%)
+Title                            : Imported with GPAC 0.4.6-DEV (internal rev. 5)
+Encoded date                     : UTC 2011-01-18 15:22:21
+Tagged date                      : UTC 2011-01-18 15:22:45
+

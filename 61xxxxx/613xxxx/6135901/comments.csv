@@ -1,0 +1,18 @@
+User Type,Username,Date,Text
+,kela420,2011-05-07T09:10Z,does this work??
+,sbxx,2011-05-16T20:39Z,"Yes it worked for me, but I'd like to elaborate on the instructions:
+
+1. Install MathCAD Prime 1.0 F000 as Node-Locked license
+	/**/ Node-Locked? WTF is that? I installed it as a TRIAL and it worked. /**/
+
+2. Open mathcad_license.dat in any text editor and replace 00-00-00-00-00-00 in every-feature with your real ptc_hostid
+	/**/ You can grab your ptc_hostid from the installer's splash screen /**/
+
+3. Copy files ""efiutlr.dll"", ""mathcad_license.dat"" and ""Ptc.License.Plpf.dll"" to  and pverwrite original ones
+	/**/ Overwrite the two DLLs but put the license file in a subdirectory called ""licenses"" /**/
+
+4. Run MathCAD Prime 1.0. If program will not find license run Mathcad > Mathcad Options > License > License Configurations > File > Browse (browse to mathcad_license.dat) > Apply
+	/**/ You won't need to browse for it if you did it like I said /**/"
+,stapes91,2011-08-13T02:49Z,where can i find mathcad_license.dat??
+,we1mbm,2012-03-12T07:38Z,does it goes well with 32 bit xp Machine?
+,zohurap,2012-05-13T14:03Z,"Just to confirm, it works fine on WinXP 32b. Just follow sbxx's instruction above."

@@ -1,0 +1,219 @@
+User Type,Username,Date,Text
+,LameSaint,2011-01-19T23:02Z,I'll be seeding this day and night for a few days for all those mac users that want to play League of Legends without switching to windows.
+,mitc0011,2011-01-20T18:11Z,"I can't update the launcher! :s
+It comes with a failure about my internet connection or Harddisk space, and they are both good.
+I mean i have over 150GB HD space back
+And my internet connection is 5mbit and is stable."
+,LameSaint,2011-01-20T18:24Z,"Try uninstalling league of legends.  A complete uninstall, not just the application.  The items you should remove are: ""League of Legends Preferences"", ""com.transgaming.cider.leagueoflegends"", and ""LolClient"".  you can do a spotlight search for them, or go to /Users/YourUsername/Library/Preferences for ""LolClient"" and ""League of Legends Preferences"", and /Users/YourUserName/Library/Cache for ""com.transgaming.cider.leagueoflegends"".  once you've uninstalled those, reinstall League of Legends.  If that doesn't work, post back here again and I'll see what else i can do to help you."
+,LameSaint,2011-01-20T18:36Z,"Also, you might want to check out the official League of Legends Mac Testing forums if you need help with specific problems, somebody may have had the same problem and already figured it out.  The Mac Testing Forums can be found here:
+http://www.leagueoflegends.com/board/forumdisplay.php?f=31"
+,rokkerzs,2011-01-20T22:51Z,"Hi, and can u tell me how can i change US server to EU? Btw the game works just fine thanks for it, but i just dont want to lose my many characters."
+,LameSaint,2011-01-21T01:05Z,"To play on an EU server with the Mac client, you have to manually edit one of the files.  Heres how:
+
+1. Go to /Applications/League of Legends.app/Contents/Resources/transgaming/c_drive/rads/projects/lol_air_client_config_na/releases/0.0.0.0/deploy (In order to get to the /Contents portion of the League of Legends.app, you have to right click on it and choose ""Show Package Contents"")
+
+2. Open lol.properties and paste this:
+
+#host=beta.lol.riotgames.com
+#xmpp_server_url=chat.na.lol.riotgames.com
+host=prod.eu.lol.riotgames.com
+xmpp_server_url=chat.eu.lol.riotgames.com
+enableTutorialGame=true
+lobbyLandingURL=http://www.leagueoflegends.com/pvpnet_landing
+ladderURL=http://www.leagueoflegends.com/ladders
+storyPageURL=http://www.leagueoflegends.com/story
+
+This should change the client to play on the EU servers.  If you want to switch back to the US servers, go to the same lol.properties file, and delete the # from the first two lines, and put them in the beginning of the 3rd and 4th lines.  Credit for this goes to Xulrock."
+,rokkerzs,2011-01-21T09:23Z,"If i change the contents of that text file, when i launch the game the LoL client will change it back."
+,LameSaint,2011-01-21T20:12Z,"I believe that what you had to do for that file is delete everything inside of it, then paste the code in my comment above into the file.  Once you've done that (there should be no other text except the code above) you need to save the file then run the League of Legends.app, and it should download all of the EU patches and let you play on the EU server.  If nothing else helps, you can go here: 
+http://www.leagueoflegends.com/board/showthread.php?t=280834&page=2
+If that doesn't work, i'm not sure what else i can do to help you.  You can post in the mac testing forums at: http://www.leagueoflegends.com/board/forumdisplay.php?f=31
+just don't mention that you downloaded the client from a torrent, and people with more knowledge about the EU client of LoL will help you."
+,Poeticile,2011-01-21T22:22Z,"Launcher doesn't launch. 
+Tried reinstalling, doesn't work...
+
+MBP 13', 2008. "
+,LameSaint,2011-01-22T06:02Z,"I'm sorry that you are having trouble playing LoL poeticile, but I'm going to need more information than just ""launcher doesn't launch"" and ""MBP 13"", 2008"".  By MBP i assume you mean MacBook Pro.  If you could give me more information on what happens when you try to play the game and your system specs (OS version, etc), then maybe i could help you."
+,Poeticile,2011-01-22T07:07Z,"Well I installed it, and placed it in my Applications folder. Double click it, and the icon pops up on my dock. Doesn't bounce. Nothing happens for a while. I pulled up my force quit menu, and it says 'League of Legends' (Not Responding). 
+
+Every time... :("
+,khendrix,2011-01-22T08:32Z,"For the EUROPEAN GUYS:
+
+http://eu.leagueoflegends.com/board/showthread.php?t=75962
+
+Here is also the original installer still available!!!"
+,LameSaint,2011-01-22T09:31Z,"Poeticile, have you tried uninstalling EVERYTHING like i listed in the third comment on this page?  Simply dragging the application from your applications folder to the trash bin and deleting it will not get rid of a problem if the problem is not in the application itself.  You have to uninstall ""League of Legends Preferences"" and ""LolClient"" at /users/YourUserName/Library/Preferences, and ""com.transgaming.cider.leagueoflegends"" at /users/YourUserName/Library/Cache.  If you have uninstalled those and reinstalled it and the application still doesn't work, then the LeagueofLegendsBeta.dmg may have been corrupted during your torrent download, and you'll have to redownload it."
+,LameSaint,2011-01-22T09:38Z,"Khendrix's post is right, the guide he linked to does actually have links to download an already modded mac LoL client in case anyone is having trouble with my previous post about how to make the mac US client play on EU servers instead.  However, i still recommend using the code i posted.  The only difference between the code i posted and the code at Khendrix's link is that the first two lines, which are used for playing on the US servers, are commented out with # (basically making it so that the code is still there in case you want to change back to the US servers, but the application won't read them because of the #)."
+,rokkerzs,2011-01-22T12:17Z,"Thanks for the helps, i found a way to play on EU, i launched the LoL client, it patched up, and after it i've changed the contents of that text file to what you've mentioned, and than clicked on Play button, and i've found myself on the EU server. Thanks everything! :)"
+,LameSaint,2011-01-22T21:50Z,"You're very welcome rokkerzs, and enjoy league of legends for mac!"
+,racsnarok,2011-01-31T05:05Z,my patcher takes forever to patch sometimes. i've been patching it for more than 6 hours and it's on part 2/4. It just says 'Calculating' any ideas?
+,LameSaint,2011-01-31T10:02Z,"As far as I can tell, the freezing on the patcher seems to be happening to quite a few people.  Thankfully, Riot has integrated a download manager with their patcher, so if it freezes, just quit the patcher and start it up again.  Your download should start from where it left off and you'll be good to go."
+,Stagism,2011-02-11T04:29Z,Does anyone know if this US version is still working?
+,LameSaint,2011-02-14T07:50Z,"Yes Stagism, this version is still working.  The .dmg doesn't change, so as long as the Mac version of League of Legends is still in beta, this version will be fine.  The only changes to this file that occur are the updates that are downloaded through the patcher."
+,MattB543,2011-02-27T23:05Z,"So i tried this, i got to the installer and it worked fine.  But when i click on the application it comes onto my dock but doesn't bounce/open or anything.  So i took out the preferences and the cache and re-downloaded, same thing happened.  I'm on a mac mini server with os x"
+,MattB543,2011-03-02T03:24Z,"now it opens on startup and it reads this error message,  VIDEO HARDWARE ACCELERATION REQUIRED    video hardware acceleration is currently disabled due to safe mode operation or a driver error.  Please ensure you have a working OpenGL hardware renderer and try again... What does this mean?!?"
+,srnty7,2011-03-05T22:49Z,"If you're having trouble launching the application (appears on dock and then disappears), follow step 3 in this thread:
+
+http://eu.leagueoflegends.com/board/showthread.php?t=132051"
+,MattB543,2011-03-09T01:50Z,i only have a 0.0.0.2 not a 0.0.0.15...   http://img202.imageshack.us/i/lolibs.png/
+,dixp,2011-03-11T17:39Z,"Try stepp 3 but it doesn't work. I get the same problem as many others when the program is shown in dock, but after about 3 sec it closes. Do I need to redownload the installer?"
+,phite,2011-03-14T00:50Z,does this work in south america (do i need to find a separate SA server?) or does the normal server work?
+,SethAbel,2011-03-22T09:16Z,"This works perfectly if you follow the installation/ troubleshooting guide.
+
+Thank you for the upload.
+
+phite, I think its only EU and US servers ?"
+,srnty7,2011-03-24T08:31Z,"@MattB543
+Sometimes following steps isn't enough. Sometimes you have to think, too. Just try following the steps using the folder you DO have. I didn't have the right version either.
+
+@dixp
+Do it again. You did something wrong."
+,piratebud888,2011-03-30T05:08Z,"I am also having the problem where I download it and open it first time, click a agree/disagree thing, and then after 3 seconds it shuts down, have re installed many times and deleted the cache/preferences as well as the lolclient. any help would be appreciated."
+,prockis,2011-04-09T10:44Z,"i got error reading game files:
+$INSTALLVOLUME/installer/AdobeAIR/lt.plist
+
+does anybody know how to fix that?
+macbook 2,4 dual core , nvidia 320m"
+,prockis,2011-04-09T13:05Z,"ok who got the same problem as me use this
+
+http://tim.mcewan.it/post/3009925413/league-of-legends-mac-beta-installer-error
+
+it helped ;)"
+,dnivie123,2011-04-13T14:05Z,"Did not work for me to change the ""lol.properties""-file to the EU-version. Or, well it worked to change it, but I can't log in. Also, after the last update I am getting an error:
+
+""Client version 1.33.23 is rejected by server.""
+
+Anyone who have a solution for this or who can help?"
+,srnty7,2011-04-13T20:21Z,"@piratebud888
+
+http://eu.leagueoflegends.com/board/showthread.php?t=132051"
+,fillthechill,2011-05-02T20:05Z,seed plz :D
+,fillthechill,2011-05-02T22:05Z,the patch takes forever!
+,dflan94,2011-05-15T10:09Z,"I can get the league of legends launcher up on the screen but when i press the play button it goes into the dock and nothing else happens
+Any help?"
+,ivanal123,2011-05-30T15:17Z,"look at the link below and copy that for EU servers.
+
+http://lolformac.ru/
+"
+,Nik721832,2011-06-15T02:54Z,"For those of you having trouble with the game try going to http://eu.leagueoflegends.com/board/showthread.php?t=132051
+helped me out a lot."
+,blade_66,2011-07-10T17:51Z,Works great thanks sooooo much 
+,Ethong,2011-07-13T17:45Z,"Works perfectly, thank you for the upload!"
+,CosmicThePirate,2011-07-16T10:04Z,"Works perfectly!  I didn't need to do anything :D  Installed, patched and logged in :)  No extra steps necessary!  Great game, and thanks for the upload!"
+,LameSaint,2011-07-18T22:34Z,I'm glad there are people who are enjoying the game and for whom the torrent is working :D
+,kitkatkatty,2011-07-23T04:55Z,Working great! thanks LameSaint!
+,BeaverDag,2011-07-26T13:28Z,"Hi!
+This is what happens when i open a Cider(show package contents, macos, cider):
+
+Last login: Tue Jul 26 13:50:36 on ttys000
+/Games/League\ of\ Legends\ EU.app/Contents/MacOS/cider ; exit;
+54-89-134-95:~ romankovelskij$ /Games/League\ of\ Legends\ EU.app/Contents/MacOS/cider ; exit;
+/Games/League of Legends EU.app/Contents/MacOS/cider: cannot open 'C:\windows\system32\system32'
+logout
+
+[Process completed]
+
+Is there any way to solve this??"
+,reyrod3,2011-07-31T16:00Z,"http://lolformac.ru/
+
+ Helped me A LOT "
+,BeaverDag,2011-08-07T00:13Z,"Nah, didn't help. Just as before - opens and closes again after a second or two(("
+,KawMoc,2011-08-12T01:54Z,"Many thanks bro! all is working just fine.
+Just need to reboot my MacBook (works on x3100) after the first launch (update screen) and any trouble.
+Great one."
+,LameSaint,2011-08-18T04:41Z,"@BeaverDag
+
+Mind if I ask why you are trying to open cider?  That is the message you will ALWAYS get when you try to run cider.  For instance, my League of Legends runs fine, but when I try to run cider, this is what I get:
+
+
+Last login: Tue Aug 16 19:16:46 on ttys000
+LameSaints-iMac:~ lamesaint$ /LameSaint/Games/League\ of\ Legends.app/Contents/MacOS/cider ; exit;
+/LameSaint/Games/League of Legends.app/Contents/MacOS/cider: cannot open 'C:\windows\system32\system32'
+logout
+
+[Process completed]
+"
+,LameSaint,2011-08-18T04:42Z,"@BeaverDag
+
+Mind if I ask why you are trying to open cider?  That is the message you will ALWAYS get when you try to run cider.  For instance, my League of Legends runs fine, but when I try to run cider, this is what I get:
+
+
+Last login: Tue Aug 16 19:16:46 on ttys000
+LameSaints-iMac:~ lamesaint$ /LameSaint/Games/League\ of\ Legends.app/Contents/MacOS/cider ; exit;
+/LameSaint/Games/League of Legends.app/Contents/MacOS/cider: cannot open 'C:\windows\system32\system32'
+logout
+
+[Process completed]"
+,BeaverDag,2011-08-20T20:07Z,"@LameSaint
+
+When I open the game, it just quits after a second. i have opened cider becouse i wanted to see, if something was wrong with the application. as i know, it is supposed to open game if  i open cider"
+,Tihzz,2011-09-08T18:13Z,"Great upload LameSaint, but do NOT download, there is no point in downloading this as of September 6th 2011, since Riot Games disabled this beta.
+
+Just thought i'd let you know.
+
+Thanks.
+
+- Colin."
+,LameSaint,2011-09-09T19:32Z,"Hey guys, Tihzz is correct.  Riot is blocking all Mac clients from accessing their servers starting today.  I'm a little bit behind on this news, and only just found out, so within the next few hours I will have another torrent up for League of Legends on Mac.
+
+If you would rather not wait, or would rather not download the whole game again, then there is a simple way to get your Mac client working.
+
+1) Download the LoLlauncher.exe from here (http://zzj.itf-inc.com/downloads/LoLLauncher.exe)
+
+2) Right click on your Mac League of Legends and choose ""Show Package Contents""
+
+3) Navigate to the /Contents/Resources/transgaming/c_drive/rads/projects/lol_launcher/releases/0.0.0.33/deploy/
+
+4) Take the LoLLauncher.exe that you just downloaded, and replace the LoLLauncher.exe in the deploy folder that you just navigated to with it.
+
+5) Enjoy!
+
+Again, for those of you who feel intimidated or just can't get this to work for yourself, I will have another torrent up in a couple of hours that you can download and will be playable."
+,korinu8,2011-09-10T04:47Z,...Why does this work? LOL.
+,LameSaint,2011-09-10T06:18Z,"The simple explanation of why this works is that Riot and Transgaming partnered up to make a ""wrapper"" for the League of Legends PC version.  Removing the modified LoLLauncher.exe that came with the Mac beta leaves you with just the wrapper left, and inserting the LoLLauncher.exe from the download link fools the server into thinking you are playing on the windows client"
+,korinu8,2011-09-12T07:23Z,"Ah, so we will have to do this each time there is a patch? Do you just patch it on windows and use that .exe for the mac side?"
+,LameSaint,2011-09-12T18:34Z,"Unfortunately that is not a question I will be able to accurately answer until a patch comes out and I can test it.  I believe, however, that this will patch normally just like any other time."
+,Warbest,2011-09-14T02:32Z,"LameSaint, you are the BEST!!!!!
+Thanks to your quick fix I am now able to play LoL on my iMac!!!
+I thought that my life was over after sept. 6 but no I was saved by a great man xD"
+,LameSaint,2011-09-15T21:46Z,"Haha, well I'm glad my solution helped you warbest.  Also, this fix will automatically update for anyone who was wondering.  You don't have to manually patch the game after replacing the LoLLauncher.exe."
+,khendrix,2011-09-21T01:42Z,"Hi LameSaint, 
+
+I made an updated version of LoL, that does not require any manual updates or patches.
+
+You can get it here:
+
+www.boompje.net
+
+This has some major updates compared to this client, although I really like how you kept this torrent alive and helped many mac users! I've always redirected people to this client!
+
+-Boompje"
+,LameSaint,2011-09-23T00:20Z,"Hey Boompje!  I've been a big fan of yours on the mac forums!  You've really helped the mac community, and I respect that!  
+
+I just uploaded a new torrent too, but it is just a compressed version of my own game, pre-patched and modified.  Had I known you had already posted a torrent, I wouldn't have even spent the time making mine and uploading it.
+
+If you ever need anything, I would love to continue helping out the Mac LoL community!  (E.G. if you need/want instructional videos but don't have the time, or whatever)."
+,khendrix,2011-09-23T19:00Z,"http://leagueoflegendsmac.proboards.com/index.cgi
+
+You might want to register there! We got a forum going on with the most prominent posters ;)"
+,LameSaint,2011-09-23T23:45Z,"There is actually a better version (i think) of League of Legends for Mac out there guys.
+
+You can find it here: http://boompje.webege.com/
+
+This version has been updated by Boompje to have better performance, as well as to work after the shutdown.
+
+Good luck!"
+,DR.SIMME,2011-10-24T18:59Z,Here is a solution to play LoL on Mac still after they closed the Beta.  
+,gomesy123,2011-12-20T10:53Z,"Hey LameSaint. I've been trying to work this damn game out. First of all, I downloaded ur torrent, which needed the LoLLauncher.exe to be copied and replaced. I did this, updated the game, loaded it, and tried the tutorial. It loaded up but when the bar finished, it showed up with:
+Transgaming C Runtime Library
+['.\string_s.c' (700)]::mbstowcs_s(): ERROR-> invalid parameter! {expression = 'invalid MBS character'}
+
+I then decided to download the boompje version. Finished downloading it but when it came to the installer, it said:
+$INSTALLVOLUME/installer/INSTALLDATA.tgz
+
+I have gone through the comments and looked at tips. One of them said to go to language and texts and change to english. Mine was already set to English but kept repeating this error. Please help me. I love this game and i really want to play it. "
+,gomesy123,2011-12-20T16:06Z,"RE previous comment. Just installed boompje's version to main hard drive and is working. It is updating right now.
+
+I will comment on any problems that may occur. Thanks for all the help in previous posts."
+,LameSaint,2011-12-22T02:35Z,"Since I have stopped using this version myself (and I suggest everyone else does the same and switches to the boompje edition), then I have no idea whether or not the solution proposed above (the one where you replace the launcher) even works anymore."
+,yammmmmmmmmmmm,2012-03-27T18:53Z,anyone here plays on garena messenger on mac? Where can I DL GM?

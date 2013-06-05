@@ -1,0 +1,25 @@
+Hi there! =)
+
+Heres a very fast guide how I encode my (iPod.Zune.PSP) movies.
+
+I use Handbrake Nightly builds which can be found here :
+ 
+https://build.handbrake.fr/view/Nightlies/
+
+Be sure to update it once in a while as they get better and better.
+
+
+
+
+Heres the code line for the advanced window in handbrake :
+
+cabac=0:ref=2:me=umh:bframes=0:trellis=0:subq=8:weightb=0:fast-pskip=1:8x8dct=0:weightp=0:merange=24
+
+
+
+
+Have fun and please..... share with the world! 
+
+We are all equal and we are all awesome!!
+
+-3xO

@@ -1,0 +1,29 @@
+NewTek LightWave 10, the latest version of its Emmy Award-winning 3D software. The new version allows 3D artists with tools to provide immediate feedback--whether working alone or in a multi-software studio. With LightWave 10, artists have the ability to interact directly in the viewport and see changes to lights, textures, volumetrics and more, to view updates to their stereoscopic work in real-time and to deliver realistic environment walkthroughs. We upgraded to LightWave 10 with its linear color space workflow because it lets us achieve photorealism so much faster. It helps bring out all the qualities of the rock solid LightWave render engine, said Stefan Bredereck, supervising artist EdenFX. With LightWave, we achieved the needed results super fast, and we accomplished even the most challenging tasks, LightWave 10 speeds things up even more. The new features make it a very valuable tool for our studio.
+LightWave 10 new features and benefits include:
+* Viewport Preview Renderer (VPR)--render in real-time, with the ability to limit the render region.
+* New Anaglyph Stereoscopic Previewreal-time interocular, red-blue anaglyphic separation delivers the ability to view changes as they happen.
+* Virtual Studio Toolssupports InterSense Virtual Camera Tracking System (VCAM) and 3Dconnexion 3D mouse, allowing interaction with models and scenes in real time.
+* Linear Color Space Workflowsupports custom Look Up Tables (LUTs) for more realistic lighting, and to maximize compositing flexibility.
+* New Data Interchange Toolssupport for MDD, Autodesk Geometry Cache, FBX and COLLADA make it easy to move data from one application to another.
+* Updated User Interface (UI)interactive channel sliders, added control for custom colors, and numerous workflow enhancements.
+
+
+*************************************
+The crack instructions included did not quite work for me so this is what I did, and i got it up and running. you can either try it this way or the way in the crack what ever works best for you.
+
+
+1. Install LightWave3D 10.0
+
+2. Copy (overwrite) \"SuperPro\" to those directories (symlinks):
+
+/Applications/NewTek/LightWave3D10.0/bin/Frameworks/SuperPro.framework
+/Applications/NewTek/LightWave3D10.0/bin/Frameworks/SuperPro.framework/Versions/A
+/Applications/NewTek/LightWave3D10.0/bin/Frameworks/SuperPro.framework/Versions/Current
+
+3. Open Lightwave, it will tell you that it does not find the license, just hit okay then quit Lightwave. that will create necessary directory for you to copy the LICENSE.KEY file to your system.
+
+4. Copy LICENSE.KEY (choose good architecture) to /Users/\"Your home directory\"/Library/Application Support/NewTek/LightWave/10.0/licenses/
+
+5. Enjoy of course :)
+
+***************************************

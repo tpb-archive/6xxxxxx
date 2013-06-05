@@ -1,0 +1,338 @@
+
+*********************************************************************************************************
+
+      Windows 7 RTM Ultimate Pliek 32/64bit NL Unattended Oktober 2010 versie 2.0 (Pliek zijn final).
+
+*********************************************************************************************************
+Dit is de DVD5 versie, dit houd in dat Java en NetFramework 4.0 er niet inzitten deze kun je gewoon handmatig
+via Windows Update downloaden, of de losse bestanden in deze folder gebruiken.
+Door het grote aantal updates die erin geslipstreamed zijn moest ik deze 2 eruit laten om het op een DVD5 te
+laten passen.
+In de DVD9 versie is alles aanwezig, de DVD9 versie past alleen op een duallayer....vandaar deze extra DVD5.
+
+
+Voorwoord:
+
+- Let op dat waneer je deze Windows 7 Ultimate installeert, je computer aan bepaalde eisen moet voldoen!
+  Deze eisen zijn ongeveer gelijk aan xp (hoe sterkere de cpu, en extra geheugen hoe beter de prestaties).
+- PrivÃ© test DVD, niet bestemd voor andere doeleinden, zoals verkoop etc.
+- Hebt u deze DVD toch ergens gekocht, dan bent u opgelicht...Pliek's werk wordt niet verkocht!!!
+- Het gebruik van deze DVD is volledig op eigen Risico, ik ben niet aansprakelijk voor evt. problemen!!!
+
+
+
+         ,,;####,,.    ,;####            ,;!!;                  """Ã›!!!
+     ;*!!!!!****!!!!!.    $$!!           ;!!!;                     ;Ã›1
+   !!!!!!ÃœÃœ       $$$Â²    !Ã›Ã›,            "'"                      .Ã›1     ..,,
+      %;1Ãœ         Ã›Ã›$    !!#!          ..,         ,;2%%!,        !!!  .,;#Â°
+      !2kk!    ,,!!ÃžÃžÂ°    !!ÃŸÃŸ         .&;         ;;Â°   ;!!       ;###Â°,%&;
+      !!%2ÃŸÃŸ>%Â°Ã›Ã›!'       %!!!        .!!'        ,..;,,;!:"      .;;!Ã›Ã›Ã›;,
+     !%Ã›$**Â°"             !!!!    ,,;$*.!       ..;;ppp"      .,;;!Ã›Ã›%!"";!!;, 
+     ÃŸÃŸ!!*                !!ÃŸÃŸ>,!!!Â°  ##....,;!!!!:....;    ,&&!" 2kk!Â°    ;&;Ã›,
+    !!ÃŸ!!                  !!Ã›Ã›$*     Â°!!!!!!#"    *!!!!!11"Â°    !!!&      !!!&%,  Â©2010
+   !ÃŸ!!Ã›
+  !Ã›!!ÃŸ  www.piratesplanet.nl de nieuwe community op internet!
+
+
+
+Vernieuwingen/veranderingen t.o.v vorige releases:
+
+- In tegenstelling tot al mijn vorige releases is dit een uitgave waar alles inzit dat je minimaal nodig
+  hebt om lekker met de computer overweg te kunnen. Hij is volledig getest en draaid als een zonnetje...
+
+- De nieuwe Loader van Daz v1.9.3 die is gebruikt in deze versie heeft een groter activatie percentage.
+  Ook is het nu ook makkelijker om de loader opnieuw te hergebruiken, als blijkt dat de activatie na enige
+  tijd weer voor problemen zorgt. Het pad waar je de loader kunt vinden om evt. opnieuw te activeren is: 
+  X:\Windows\Setup\SCRIPTS als dat niet lukt kijk dan op de activatie site mydigitallife.info.....
+  http://forums.mydigitallife.info/threads/8632-Program-based-Windows-7-loader
+
+- De nieuwste updates t/m oktober zijn erin verwerkt, mijn dank gaat hiervoor uit naar Solor.
+  (http://forums.mydigitallife.info/threads/19461-Windows-Hotfix-repository).
+
+
+
+Inhoud van deze release:
+  
+[1] Windows 7 Ultimate Pliek 32bit NL is een Unattended versie, wat dit betekent lees je hieronder:
+- Het is GEEN upgrade (deze upgrade bestanden zijn verwijderd), je kunt enkelt installeren vanaf DVD (booten met
+  de DVD, lees onderaan meer hierover).
+  Alleen het aangeven van de gewenste partitie is nodig, de rest gaat helemaal vanzelf (Unattended dus).
+  Ook is het ingeven van een serienummer tijdens de setup niet meer nodig, dit is vooraf automatisch al ingesteld.
+  Alleen een account naam wordt je tijdens de installatie gevraagd in te vullen (met evt. een achtwoord).
+  Na installatie is er geen activatie patch nodig, je bent namenlijk meteen al geactiveerd (automatische activering).
+  Windows Updates is dan ook geheel veilig te gebruiken, dit alles omdat deze versie volledig WGA proof is.
+  Het is ook niet noddig je internet stekker tijdens de installatie eruit je halen (laten zitten dus).
+  Eventuele aanwezige cardreaders en usb schijven voor de start van de installatie loskoppelen, dit is om het
+  verschuiven van de drive-letters te voorkomen (cardreaders worden namenlijk ook als schijf gezien)!!!
+
+[2] Verwijderde onderdelen met vlite:
+- Helemaal niks, dus lekker orgineel (biliotheken zijn niet meer uitgezet, dit gaf n.l fouten in Mediacenter).
+
+[3] Er zijn Updates die na installatie zo zijn ingesteld dat ze verborgen zijn in Windows Update:
+- Alle taalpakketten KB972813 (verborgen, deze zijn handmatig weer aan te zetten om te kunnen downloaden).
+  Nadat u een taalpakket hebt geÃ¯nstalleerd, kunt u de taal van de gebruikersinterface van Windows 7 wijzigen in
+  de gekozen taal van het nieuwe taalpakket. 
+  Als u de taal van de gebruikersinterface wilt wijzigen, gaat u in het Configuratiescherm naar de categorie 
+  genaamd "Klok, taal en regio".
+  KB972813 bestaat uit de volgende keuze van taalpaketten: Arabisch, Bulgaars, Chinees (Traditioneel),
+  Chinees (Vereenvoudigd), Deens, Duits, Engels, Estlands, Fins, Frans, Grieks, Hebreeuws, Hongaars, Italiaans,
+  Japans, Koreaans, Kroatisch, Lets, Litouws, Noors, OekraÃ¯ens, Pools, Portugees (BraziliÃ«), Portugees (Portugal),
+  Roemeens, Russisch, Servisch (Latijns), Sloveens, Slowaaks, Spaans, Thais, Tsjechisch, Turks, Zweeds.
+
+- KB971033 deze kun je beter niet downloaden, kost je misschien je activatie, uitleg over KB971033:
+  Met deze update voor Windows Activation Technologies worden aanvallen die activering onmogelijk maken 
+  en wijzigingen van belangrijke Windows-systeembestanden gedetecteerd. Deze aanvallen proberen de normale 
+  Windows-activering te omzeilen en worden soms aangetroffen in vervalste Windows-kopieÃ«n.
+
+- KB976002 Internetbrowser selecteren (verborgen, is handmatig weer aan te zetten om te kunnen downloaden).
+  Uitleg over KB976002: Update van Microsoft voor een browserkeuzescherm voor gebruikers van Windows 7 voor 
+  x64 en x86-systemen in de Europese Economische Ruimte (EER). Installeer deze update om een keuzescherm te 
+  openen waarin u een webbrowser kunt selecteren en installeren die u naast Internet Explorer kunt gebruiken.
+
+[4] Inhoud aanwezige Microsoft Updates, mijn dank aan Solor voor de samenstelling hiervan:
+- Alle updates t/m Oktober 2010 (in de x86 versie 334 stuks, en in de x64 339 stuks).
+- Microsoft .Net Framework 4 (incl. bijbehorende updates).
+- Microsoft PlayReady KB971012-versie 1.3.
+- Microsoft Silverlight versie 4.0.50917.0
+
+[5] Inhoud van de aanwezige thirth party Updates/Software, dit is tot een minimum beperkt:
+- Sun Java Runtime 6 Update 21... Met Java kunt u, om maar een paar dingen te noemen, online gamen, met
+  mensen over de hele wereld chatten, de rente op uw hypotheek berekenen en 3D-afbeeldingen bekijken.
+  Daarnaast maakt het integraal deel uit van intranettoepassingen en andere e-businessoplossingen die de
+  basis vormen van bedrijfsnetwerken. Op dit moment maken meer dan 6,5 miljoen softwareontwikkelaars gebruik
+  van het Java-platform. Het Java-platform wordt in bijna elke belangrijke industriesector gebruikt in veel
+  verschillende apparaten, computers en netwerken.
+
+- VMWareTools versie VMTOOLS-X86-v8.1.4.11056 (wordt alleen geinstalleerd als je virtuel in VMWare test).
+  VMWareTools is een extra set drivers die het mogenlijk maken om drag and drop acties uit te voeren in een
+  machine, zo kun je in een testomgeving naar je host veschillende bestanden slepen om daar uit te testen. 
+  Ook zorgt VMWareTools ervoor dat de grafische driver volledig geupdate wordt zodat je beeld full screen
+  weergegeven kan worden, zodat qua uiterlijk er bijna geen onderscheid is met een echte installatie.
+
+- SPTD driver nieuwste v1.74.
+  SPTD.sys is nodig voor de programma's genaamd Daemon Tools (mounten) en voor het brandprogramma Alcohol 120.
+  Door deze voortijdig te installeren, is het mogenlijk om deze twee programma's unattended te installeren
+  zonder gevraagd te worden om te herstarten tijdens de installatie ervan.
+
+- Shockwave Player v11.5.8.612
+  Adobe Shockwave Player zal toegevoegd worden aan uw internetbrowser zodat u al de multimedia kunt afspelen 
+  die zich op de websites bevinden terwijl u surft op het internet. U kunt video's bekijken (zoals films en 
+  muziekclips) die gemaakt werden onder Macromedia Flash of Macromedia Director. Op dit moment bestaan er 
+  animaties en interactieve spelletjes die u alleen kunt gebruiken als u over deze plug-in voor browsers van 
+  Macromedia beschikt. Het past perfect in Mozilla Firefox, Internet Explorer, Opera en andere browsers 
+  gebaseerd op de bovenstaande.
+
+- Flash Player v10.1.85.3
+  Adobe Flash Player 10 heeft u nodig om flash bestanden te kunnen openen. Dit zijn meestal filmpjes. Ook zijn
+  er websites die gemaakt zijn in flash, evenals spelletjes die je speelt op game sites. Flash is software dat 
+  gemaakt is door Macromedia & Adobe. In vele websites of games zit Flash verwerkt. Het is een stukje software 
+  waarmee de maker makkelijk grafische dingen kan toevoegen. Denk aan bewegende beelden & movies. Dat is dus ook 
+  een groot voordeel van Flash, er is interactiviteit mogelijk. 
+
+[6] Ingeschakelde/Uitgeschakelde onderdelen in Windows 7:
+- Data Execution Prevention (uitgezet).
+- Systeemherstel (uitgezet, is handmatig weer aan te zetten).
+- User Account Control (UAC) (uitgezet, is handmatig weer aan te zetten).
+- Windows Defender realtime bescherming (uitgezet, is handmatig weer aan te zetten).
+
+[7] >>>>Begin<<<< Doorgevoerde register tweaks in windows 7 >>>>Begin<<<<<
+
+;==========================================================================================
+;==============================  Windows update instellingen  =============================
+;==========================================================================================
+
+;Automatische Updates aktiveren d.m.v. kenbaar maken en vragen of je deze wilt installeren:
+;Alle gebruikers toestaan updates te installeren:
+
+;==========================================================================================
+;================================  Explorer instellingen  =================================
+;==========================================================================================
+
+;Automatisch uitvouwen van mappen in verkenner (incl. tot huidige map):
+;Stapelen van openstaande mappen in de taakbalk uitzetten (naast elkaar tonen):
+;De menubalk bovenin alle Explorer schermen weergeven:
+;Geen popups meer tonen over te weinig schijfruimte op je computer:
+;Zet het opsporen van gebroken snelkoppeling uit:
+;Open HTA bestanden (nodig voor WPI) met MSHTA.EXE:
+;Detail venster onderin alle Explorer schermen weergeven:
+;Voeg zoeken in Systeem folders toe aan "Windows search":
+;Bij het openen van onbekende bestanden niet meer via een website het programma
+ achterhalen, maar alleen de keuze uit een lijst geven:
+;Lock de toolbar in Explorer en in Internet Explorer:
+
+;==========================================================================================
+;===========================  Internet Explorer Instellingen  =============================
+;==========================================================================================
+
+;Zet "script debugging" in programma's die Internet Explorere gebruiken uit:
+;Laat geen notificaties zien van iedere "script fout" op de pagina:
+;Unlock het automatisch op grootte instellen van afbeeldingen:
+;Standaard zoekmachine instellen op Google NL:
+;"Google NL" toevoegen aan je zoekmachines:
+;"Neowin Forums" toevoegen aan je zoekmachines:
+;"MSDN Enhanced Search" toevoegen aan je zoekmachines:
+;"EventID.net" toevoegen aan je zoekmachines:toevoegen aan je zoekmachines:
+;"Wikipedia.org NL" toevoegen aan je zoekmachines:
+;"Wikipedia.org EN" toevoegen aan je zoekmachines:toevoegen aan je zoekmachines:
+;"MS Hulp en ondersteuning" toevoegen aan je zoekmachines:
+;"MS KB String" toevoegen aan je zoekmachines:
+;"MS Technet" toevoegen aan je zoekmachines:
+;Laat Volledige URL zien:
+;Standaard Start Page en Search Page instellen op Google:
+;Cleartype aanzetten:
+;Geen irritante popup weergeven van instalatie bestanden die net zijn gedownload:
+;Uitzetten van FTP folder view (voor sneller browsen):
+
+;==========================================================================================
+;=================================  Bestands extenties  ===================================
+;==========================================================================================
+
+;Open .nfo bestanden voortaan als textbestanden, dus met kladblok:
+
+;==========================================================================================
+;======  Rechtermuis Shell toevoegingen voor Bureaublad en vrije ruimte van Folders  ======
+;==========================================================================================
+
+;"Prullenbak legen" in rechter muis knop intergreren:
+;"PC Afsluiten in rechter muis knop intergreren:
+;"PC Standby" in rechter muis knop intergreren:
+;"PC Herstarten" in rechter muis knop intergreren:
+;"PC Afmelden" in rechter muis knop intergreren:
+
+;==========================================================================================
+;==============  Rechtermuis Shell toevoegingen voor bestanden en folders  ================
+;==========================================================================================
+
+;Dit voegd "Take Ownership" toe in het rechtsklikmenu van bestanden en folders:
+
+;==========================================================================================
+;==================  Rechtermuis Shell toevoegingen voor Deze Computer  ===================
+;==========================================================================================
+
+;"Systeem Herstel" toevoegen aan het rechtsklikmenu van Mijn Computer:
+;"Netwerkverbindingen" toevoegen aan het rechtsklikmenu van Mijn Computer:
+;"Geluid Eigenschappen" toevoegen aan het rechtsklikmenu van Mijn Computer:
+;"Register Editor" toevoegen aan het rechtsklikmenu van Mijn Computer:
+;"Configuratie Scherm" toevoegen aan het rechtsklikmenu van Mijn Computer:
+;"Programma's en onderdelen" toevoegen aan het rechtsklikmenu van Mijn Computer.
+
+;==========================================================================================
+;============================  Notepad (kladblok) instellingen  ===========================
+;==========================================================================================
+
+;Stel de Lucida Console Font in als standaard in Notepad:
+;Stel de lettergrootte in op 14 punten in Notepad:
+;Zet Word Wrap in Notepad aan:
+;Zet de "Status Bar" aan in Notepad:
+
+;==========================================================================================
+;============================  Configuratiescherm Instellingen  ============================
+;==========================================================================================
+
+;"User Accounts Control 2" toevoegen in Configuratiescherm:
+
+;==========================================================================================
+;===============================  Cosmetische instellingen  ===============================
+;==========================================================================================
+
+;Verwijder nieuwe Zip, Rar en BMP files uit de context Nieuw->:
+;Zet "Inactieve iconen bij je tijdklok verbergen" uit:
+
+;==========================================================================================
+;=========  Services die onnodig zijn of beveilingslekken veroorzaken uitzetten  ==========
+;==========================================================================================
+
+;Zet de Remote Registry Service uit:
+;Ook zo'n hekel aan de melding: Dit programma is mogenlijk niet correct geinstalleerd.
+ Dit kun je voorkomen door de Program Compatibility Assistant Service uit te zetten:
+
+    >>>>Einde<<<< Doorgevoerde register tweaks in windows7 >>>>Einde<<<<
+
+[8] Hoe je voorkomen kunt dat je wachtwoord in Windows 7 verloopt, en hoe er mee om te gaan:
+- Nadat je een tijdje Windows 7 draait kun je de volgende melding krijgen als je inlogd:
+  "je wachtwoord zal over 14 dagen verlopen....."
+  Standaard verlopen in Windows de wachtwoorden pas na 42 dagen, zo ook in de Windows 7 versies.
+  Maar 14 dagen voor het verstrijken van die datum krijg je netjes, en dus op tijd deze melding.
+  Als je niet wilt dat je wachtwoord verloopt, doe dan even de 7 makkelijke stappen hieronder beschreven.
+  1.. Ga naar start > Uitvoeren en type hier: "control userpasswords2" zonder de aanhalingstekens.
+  2.. Selecteer de geavanceerde tab in het Gebruikersaccounts scherm.
+  3.. Klik op het tabblad geavanceerd onder het kader van Geavanceerd Gebruikersbeheer.
+  4.. Selecteer Gebruikers in de Locale gebruikers en groepen (lokaal).
+  5.. In het rechter scherm, rechts-klik op de gebruiker waar je de instellingen van veranderen wilt.
+  6.. Selecteer eigenschappen, in het tabblad algemeen zet je een vinkje voor: wachtwoord verloopt nooit.
+  7.. Klik Toepassen en OK, en weer OK.
+
+[9] En voor degene die niet weten hoe op te starten van de dvd:
+- Het eerste scherm dat je ziet is van je moederbord, die op dat moment opstart. Dit is het moment 
+  om in BIOS te komen. 
+- Soms doe je dit door op bijvoorbeeld delete te drukken. Doe dit niet te laat, want als het opstart-
+  scherm verdwijnt, heeft op DEL drukken geen nut meer. 
+- Als je kijkt naar dit opstartscherm, zie je (meestal) aangegeven staan hoe je in BIOS komt. 
+- Als dit voor jouw computer dus niet via de delete knop is, staat hier hoe dat wel kan. 
+  (Je kunt trouwens het opstartproces pauzeren door op de knop "Pause Break" te drukken.) 
+- In BIOS zelf kan ik je niet helpen, omdat deze voor ieder model moederbord anders is. 
+- Zoek in het menu van je BIOS naar kopjes of menu's als boot, boot sequence, thirth boot device, enz. 
+  en kijk hoe je evt. de boot sequence (opstartvolgorde om te booten) kunt veranderen. 
+- Zorg dat je deze volgorde in acht neemt: 
+  1. Cd-rom/DVD-rom
+  2. HD
+  3. Niet belangrijk
+- Als je er niet uit komt kun je ook in de handleiding van je moederbord kijken of kijk op de website 
+  van de fabrikant van je moederbord voor een handleiding. 
+- Nadat je de boot sequence naar wens hebt ingesteld, sla je de gegevens op en verlaat je BIOS. 
+- Dat opslaan kan meestal met een optie als: "Save and Exit" en is vaak F10.
+
+[10] Bekende problemen:
+- Bij sommige van jullie zal er een error : Foutcode 0x80070017 verschijnen, om dit te voorkomen moet 
+  de DVD op een lagere snelheid gebrand worden. Lees hier meer: http://www.x-pose.org/blog/50/
+- Dat bij enkele installaties de activatie niet goed doorgevoerd wordt is bekend...
+  Ga naar:   http://forums.mydigitallife.info/threads/8632-Program-based-Windows-7-loader
+
+
+
+         ,,;####,,.    ,;####            ,;!!;                  """Ã›!!!
+     ;*!!!!!****!!!!!.    $$!!           ;!!!;                     ;Ã›1
+   !!!!!!ÃœÃœ       $$$Â²    !Ã›Ã›,            "'"                      .Ã›1     ..,,
+      %;1Ãœ         Ã›Ã›$    !!#!          ..,         ,;2%%!,        !!!  .,;#Â°
+      !2kk!    ,,!!ÃžÃžÂ°    !!ÃŸÃŸ         .&;         ;;Â°   ;!!       ;###Â°,%&;
+      !!%2ÃŸÃŸ>%Â°Ã›Ã›!'       %!!!        .!!'        ,..;,,;!:"      .;;!Ã›Ã›Ã›;,
+     !%Ã›$**Â°"             !!!!    ,,;$*.!       ..;;ppp"      .,;;!Ã›Ã›%!"";!!;, 
+     ÃŸÃŸ!!*                !!ÃŸÃŸ>,!!!Â°  ##....,;!!!!:....;    ,&&!" 2kk!Â°    ;&;Ã›,
+    !!ÃŸ!!                  !!Ã›Ã›$*     Â°!!!!!!#"    *!!!!!11"Â°    !!!&      !!!&%,  Â©2010
+   !ÃŸ!!Ã›
+  !Ã›!!ÃŸ  www.piratesplanet.nl de nieuwe community op internet!
+
+ 
+
+- Bij deze wil ik al mijn trouwe fans bedanken voor alle vertrouwen en ondersteuning de afgelopen 8 jaar,
+  ik Pliek zal mij in de toekomst niet meer bemoeien en bezighouden met de unattended wereld van software 
+  en besturingssystemen.
+  Deze versie is speciaal voor jullie, en ik hoop dat jullie veel plezier zullen beleven aan dit mooie en 
+  met zorg samengestelde besturingssysteem.
+  Een opvolger is al bekend, een goed vriend van mij genaamd PhoeniX zal het stokje van mij overnemen en
+  jullie gaan voorzien van hetzelfde kaliber als dat jullie van mij gewend waren (ik zal hem daarmee op 
+  weg helpen). 
+  Zijn insteek zal liggen op een Windows 7 met veel snelheidstweaks gebasseerd op Solid State Drive (SSD).
+  Ik zelf ben samen gegaan met PhoeniX X-Releases, en wij zijn bezig om nieuwe tweak-sofware te onwikkelen die 
+  perfect met deze final release van Windows 7 zal samen werken (houd de nieuwsbriefen dus in de gaten)...
+
+- Als laatste wil ik mijn dank uiten aan een speciaal persoon waar ik altijd terecht kon dag in dag uit.
+  Ik heb verschillende momenten gekend dat ik het bijltje erbij neer wilde gooien, al was het alleen maar
+  om al dat gezeur op FTD over de pirates....
+  Als het even niet meezat, met mezelf of met de unattended tik in mijn gedachten die altijd met iets nieuws
+  bezig was...dan was deze persoon altijd een luisterend oor!
+  Al deze extra credits gaan naar mijn trouwe maat Roodbaard, door de jaren heen was mij geen betere steun 
+  denkbaar! Als het even niet mee zat was hij degene die mij er altijd weer doorheen loodste.
+
+  Dank je maatje..
+
+  Grtz. Pliek
+
+
+
+
+*********************************************************************************************************
+
+      Windows 7 RTM Ultimate Pliek 32/64bit NL Unattended Oktober 2010 versie 2.0 (Pliek zijn final).
+
+*********************************************************************************************************

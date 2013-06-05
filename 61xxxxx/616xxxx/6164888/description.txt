@@ -1,0 +1,84 @@
+-------------------------------------------------------------------------------
+\\//\\//\\//\\//\\/Â¦\\//\ \ \/ /+-++-++-+\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
+//\\//\\//\\//\Â¦Â¯Â¦\Â¦Â¯Â¦\Â¦Â¯Â¦/ /\ \ -Â¦+-+Â¦ Â¦//\\//\\//\\//\\//\\//\\//\\//\\//\\//
+                       Â¯Â¯Â¯
+Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+An updated version of abgx360 is available: v1.0.5
+
+C:\Users\Joe\Desktop\Two Worlds II\Two Worlds II.dvd is valid
+
+Checking Game
+     ISO: "C:\Users\Joe\Desktop\Two Worlds II\Two Worlds II.iso"
+     Size: 7838695424 bytes (SplitVid 3rd or 4th wave)
+     Files in ISO: 63, Folders in ISO: 8
+     Total bytes used: 3523423335 (48.28%)
+Game appears to have random padding
+
+Checking default.xex
+     Original PE Filename:  Default.exe
+     Original PE Timestamp: 2010/12/15 19:25:11
+     Game Name:             Two Worlds II
+     Developer:             Developer
+     Publisher:             Publisher
+     Genre:                 RPG
+     No Avatar Awards
+     Achievements:          46 Achievements totaling 1000 Gamerscore
+     XEX CRC = 0D76EC75
+     XEX Media ID: 04FA0B5BD532BB621060F7C5-1CF61D9C
+
+Region Code: 0x000000FF
+     NTSC/U
+
+Checking SS
+     Timestamp of Authoring: 2010/12/16 00:00:00
+     Timestamp of Mastering: 2011/01/10 21:46:24
+     SS Version: 2 (trusted)
+     SS CRC = 8FD1FB14 (RawSS = 3D7C7E3A)
+     SS Media ID: 04FA0B5BD532BB621060F7C5-1CF61D9C (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2010/12/16 00:00:00 (matches SS)
+     DMI CRC = 83DA3A44
+     DMI Media ID: 04FA0B5BD532BB621060F7C5-1CF61D9C (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = 05C6C409
+PFI matches known data (4th wave - requires iXtreme v1.51 [Hitachi only],
+v1.6 [using activation disc], v1.61 or later)
+
+Video partition found
+     Video CRC = E2FA3A26 (V0 = E0363F4E, V1 = EAE76B94)
+Video partition does not match known data (could be corrupt or a new wave not
+seen before)
+
+Stealth status is uncertain
+
+Starting Verification
+     Looking for 8FD1FB140D76EC75.ini in the online verified database
+     Server file 8FD1FB140D76EC75.ini no newer than local file - not retrieving
+
+     Using 8FD1FB140D76EC75.ini (342 bytes)
+     Video CRC matches
+     V0    CRC matches
+     V1    CRC matches
+     PFI   CRC matches
+     DMI   CRC matches
+     SS    CRC matches
+     Xex   CRC matches
+
+Checking Game CRC... (press Q to cancel)
+ Percent  Elapsed  Estimated   Time     Average     Current     Errors    Total
+    Done     Time       Time   Left       Speed       Speed  Recovered  Retries
+    100%     1:14       1:14   0:00   93.2 MB/s   82.7 MB/s
+
+     AnyDVD style corruption was not detected
+     Game CRC = AA21D0CA (matches)
+
+All CRCs match
+Verification was successful, Stealth passed!
+
+Press any key to exit . . .

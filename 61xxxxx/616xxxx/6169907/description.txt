@@ -1,0 +1,247 @@
+ +--------------------------------------------------------------------------+
+ | DEMUL 0.5.6 ARCADE ROMS PACK                                             .
+ +------------------------------------------------------- -  -   -    -     .
+ | PACKAGE NOTES:                                                           ?
+ | ======================================================================== |
+ | This package includes latest romsets for upcoming release of Demul 0.5.6 |
+ | Sega Hardware emulator including all necessary BIOS files for all        |
+ | supported and not yet supported arcade machine systems.                  |
+ | ======================================================================== |
+ | Package included:                                                        |
+ |----------------------------------BIOSes----------------------------------|
+ | awbios.zip    [ Atomiswave arcade system BIOS             [ mame bios   ]|
+ | dc.zip        [ Dreamcast console custom BIOS pack        [ custom      ]|
+ | hikaru.zip    [ Hikaru arcade system BIOSes               [ mame bios   ]|
+ | naomi.zip     [ Naomi arcade system BIOS pack             [ custom      ]|
+ | naomi2.zip    [ Naomi 2 arcade system BIOS pack           [ custom      ]|
+ | saturn.zip    [ Sega Saturn console BIOS pack             [ tosec bios  ]| 
+ |-------------------------------Hikaru arcade------------------------------|
+ | airtrix.zip   [ Air Trix                                  [ unsupported ]|
+ | pharrier.zip  [ Planet Harrier                            [ unsupported ]|
+ | podrace.zip   [ Star Wars Pod Racer                       [ unsupported ]|
+ |----------------------------Sega Model 3 acrade---------------------------|
+ | bass.zip      [ Sega Bass Fishing                         [ unsupported ]|
+ | dayto2pe.zip  [ Daytona 2 Power Edition                   [ unsupported ]|
+ | daytona2.zip  [ Daytona 2                                 [ bad dump    ]|
+ | dirtdvls.zip  [ Dirt Devils                               [ unsupported ]|
+ | dirtdvlsa.zip [ Dirt Devils (Rev. A)                      [ unsupported ]|
+ | eca.zip       [ Emergency Call Ambulance                  [ unsupported ]|
+ | ecax.zip      [ Emergency Call Ambulance (Export)         [ unsupported ]|
+ | fvipers2.zip  [ Fighting Vipers 2                         [ unsupported ]|
+ | getbass.zip   [ Get Bass                                  [ unsupported ]|
+ | harley.zip    [ Harley-Davidson and L.A. Riders           [ unsupported ]|
+ | lamachin.zip  [ L.A. Machineguns                          [ unsupported ]|
+ | lemans24.zip  [ Le Mans 24                                [ unsupported ]|
+ | lostwsga.zip  [ Lost World, The                           [ unsupported ]|
+ | magtruck.zip  [ Magical Truck Adventure                   [ unsupported ]|
+ | oceanhun.zip  [ The Ocean Hunter                          [ unsupported ]|
+ | scud.zip      [ Scud Race                                 [ unsupported ]|
+ | scuda.zip     [ Scud Race (Export)                        [ unsupported ]|
+ | scudj.zip     [ Scud Race (Japan)                         [ unsupported ]|
+ | scudp.zip     [ Scud Race Plus                            [ unsupported ]|
+ | skichamp.zip  [ Ski Champ                                 [ unsupported ]|
+ | spikeofe.zip  [ Spikeout Final Edition                    [ bad dump    ]|
+ | spikeout.zip  [ Spikeout                                  [ unsupported ]|
+ | srally2.zip   [ Sega Rally 2                              [ unsupported ]|
+ | srally2x.zip  [ Sega Rally 2 (Export)                     [ unsupported ]|
+ | swtrilgya.zip [ Star Wars Trilogy                         [ unsupported ]|
+ | vf3.zip       [ Virtua Fighter 3                          [ unsupported ]|
+ | vf3a.zip      [ Virtua Fighter 3 (Rev. A)                 [ unsupported ]|
+ | vf3tb.zip     [ Virtua Fighter 3 Team Battle              [ unsupported ]|
+ | von2.zip      [ Virtual On 2: Oratorio Tangram            [ unsupported ]|
+ | von254g.zip   [ Virtual On 2: Oratorio Tangram (v5.4g)    [ unsupported ]|
+ | vs2.zip       [ Virtua Striker 2                          [ unsupported ]|
+ | vs215.zip     [ Virtua Striker 2 (Step 1.5)               [ unsupported ]|
+ | vs298.zip     [ Virtua Striker 2 '98 (Step 2.0)           [ unsupported ]|
+ | vs29815.zip   [ Virtua Striker 2 '98 (Step 1.5)           [ unsupported ]|
+ | vs299.zip     [ Virtua Striker 2 '99                      [ unsupported ]|
+ | vs299a.zip    [ Virtua Striker 2 '98 (Rev. A)             [ unsupported ]|
+ | vs299b.zip    [ Virtua Striker 2 '98 (Rev. B)             [ unsupported ]|
+ | vs2v991.zip   [ Virtua Striker 2 '98.1 (Rev. A)           [ unsupported ]|
+ |-----------------------------Atomiswave arcade----------------------------|
+ | demofist.zip  [ Demolish Fist                             [ playable    ]|
+ | dolphin.zip   [ Dolphin Blue                              [ playable    ]|
+ | fotns.zip     [ Fist of the North Star                    [ playable    ]|
+ | ggisuka.zip   [ Guilty Gear Isuka                         [ playable    ]|
+ | kof11.zip     [ King of Fighters XI, The                  [ incomplete  ]|
+ | kofnw.zip     [ King of Fighters, The - Neo Wave          [ playable    ]|
+ | kofnwj.zip    [ King of Fighters, The - Neo Wave (Japan)  [ playable    ]|
+ | kov7sprt.zip  [ Knights of Valour - Seven Spirits         [ playable    ]|
+ | ngbc.zip      [ Neo-Geo Battle Coliseum                   [ incomplete  ]|
+ | rangrmsn.zip  [ Ranger Mission                            [ playable    ]|
+ | rumblef.zip   [ Rumble Fish                               [ playable    ]|
+ | salkint.zip   [ Slariman Kintaro                          [ unsupported ]|
+ | sprtshot.zip  [ Sports Shooting USA                       [ playable    ]|
+ | vfurlong.zip  [ Net Select Keiba Victory Furlong          [ unsupported ]|
+ | xtrmhnt.zip   [ Extreme Hunting                           [ playable    ]|
+ | xtrmhnt2.zip  [ Extreme Hunting 2 Tournament Edition      [ playable    ]|
+ |--------------------------Naomi cartridge system--------------------------|
+ | 18wheelr.zip  [ 18 Wheeler                                [ playable    ]|
+ | alpilota.zip  [ Airline Pilots                            [ playable    ]|
+ | alpiltdx.zip  [ Airline Pilots Deluxe                     [ playable    ]|
+ | capsnk.zip    [ Capcom vs SNK Millenium Fight 2000        [ playable    ]|
+ | capsnka.zip   [ Capcom vs SNK Millenium Fight 2000        [ playable    ]|
+ | crackndj.zip  [ Crack'n DJ                                [ unsupported ]|
+ | crzytaxi.zip  [ Crazy Taxi                                [ playable    ]|
+ | csmash.zip    [ Cosmic Smash                              [ playable    ]|
+ | csmasho.zip   [ Cosmic Smash                              [ playable    ]|
+ | cspike.zip    [ Cannon Spike                              [ playable    ]|
+ | deathcox.zip  [ Death Crimson OX                          [ playable    ]|
+ | derbyoc.zip   [ Derby Owners Club                         [ unsupported ]|
+ | derbyoc2.zip  [ Derby Owners Club 2                       [ unsupported ]|
+ | derbyocw.zip  [ Derby Owners Club World Edition           [ unsupported ]|
+ | doa2.zip      [ Dead or Alive 2                           [ playable    ]|
+ | doa2m.zip     [ Dead or Alive 2                           [ playable    ]|
+ | dybb99.zip    [ Dynamite Baseball '99                     [ playable    ]|
+ | dybbnao.zip   [ Dynamite Baseball                         [ playable    ]|
+ | f355.zip      [ Ferrari F355 Challenge                    [ unsupported ]|
+ | f355twin.zip  [ Ferrari F355 Challenge (Twin)             [ unsupported ]|
+ | f355twn2.zip  [ Ferrari F355 Challenge 2 (Twin)           [ unsupported ]|
+ | ggram2.zip    [ Giant Gram                                [ playable    ]|
+ | ggx.zip       [ Guilty Gear X                             [ playable    ]|
+ | gram2000.zip  [ Giant Gram 2000                           [ unsupported ]|
+ | gunsur2.zip   [ Gun Survivor 2 - Bio Hazard Code Veronica [ playable    ]|
+ | gwing2.zip    [ Giga Wing 2                               [ playable    ]|
+ | hmgeo.zip     [ Heavy Metal Geomatrix                     [ playable    ]|
+ | hotd2.zip     [ House of the Dead 2                       [ playable    ]|
+ | hotd2o.zip    [ House of the Dead 2 (original)            [ playable    ]|
+ | jambo.zip     [ Jambo! Safari                             [ playable    ]|
+ | kick4csh.zip  [ Kick '4' Cash                             [ unsupported ]|
+ | mvsc2.zip     [ Marvel vs. Capcom 2                       [ playable    ]|
+ | otrigger.zip  [ OutTrigger                                [ unsupported ]|
+ | pjustic.zip   [ Moero Justice Gakuen                      [ playable    ]|
+ | pstone.zip    [ Power Stone                               [ playable    ]|
+ | pstone2.zip   [ Power Stone 2                             [ playable    ]|
+ | qmegamis.zip  [ Quiz Ah! Megami-sama                      [ playable    ]|
+ | samba.zip     [ Samba de Amigo                            [ playable    ]|
+ | sgtetris.zip  [ Sega Tetris                               [ playable    ]|
+ | shangril.zip  [ Shangri-La                                [ playable    ]|
+ | shootopl.zip  [ Shootout Pool                             [ unsupported ]|
+ | shootpl.zip   [ Shootout Pool                             [ unsupported ]|
+ | slasho.zip    [ Slash-out                                 [ playable    ]|
+ | smarinef.zip  [ Sega Marine Fishing                       [ playable    ]|
+ | smlg99.zip    [ Super Major League ?9                    [ playable    ]|
+ | spawn.zip     [ Spawn                                     [ playable    ]|
+ | sstrkfgt.zip  [ Sega Strike Fighter                       [ playable    ]|
+ | suchie3.zip   [ Idol Janshi Suchie-Pai 3                  [ playable    ]|
+ | totd.zip      [ Typing of the Dead, The                   [ playable    ]|
+ | toyfight.zip  [ Toy Fighter                               [ playable    ]|
+ | virnba.zip    [ Virtua NBA                                [ playable    ]|
+ | virnbao.zip   [ Virtua NBA                                [ playable    ]|
+ | vs2_2k.zip    [ Virtua Striker 2 ver. 2000                [ playable    ]|
+ | vtenis2c.zip  [ Virtua Tennis 2                           [ playable    ]|
+ | vtennis.zip   [ Virtua Tennis                             [ playable    ]|
+ | wwfroyal.zip  [ WWF Royal Rumble                          [ playable    ]|
+ | zombrvn.zip   [ Zombie Revenge                            [ playable    ]|
+ |------------------------- Naomi GD-ROM system-----------------------------|
+ | azumanga.zip  [ Azumanga Daioh Puzzle Bobble              [ playable    ]|
+ | bdrdown.zip   [ Border Down                               [ playable    ]|
+ | cfield.zip    [ Chaos Field                               [ playable    ]|
+ | chocomk.zip   [ Musapey's Choco Marker                    [ playable    ]|
+ | cleoftp.zip   [ Cleopatra Fortune Plus                    [ playable    ]|
+ | confmiss.zip  [ Confidential Mission                      [ playable    ]|
+ | cvs2gd.zip    [ Capcom vs SNK 2 Millionaire Fighting 2001 [ playable    ]|
+ | cvsgd.zip     [ Capcom vs SNK Millenium Fight 2000 Pro    [ playable    ]|
+ | dygolf.zip    [ Dynamic Golf                              [ playable    ]|
+ | ggxx.zip      [ Guilty Geat XX                            [ playable    ]|
+ | ggxxac.zip    [ Guilty Gear XX Accent Core                [ playable    ]|
+ | ggxxrl.zip    [ Guilty Gear XX Reload                     [ playable    ]|
+ | ggxxsla.zip   [ Guilty Gear XX Slash                      [ playable    ]|
+ | gundmgd.zip   [ Mobile Suit Gundam: Federation VS Zeon    [ playable    ]|
+ | gundmxgd.zip  [ Mobile Suit Gundam: Federation VS Zeon DX [ playable    ]|
+ | ikaruga.zip   [ Ikaruga                                   [ playable    ]|
+ | jingystm.zip  [ Jingi Storm - The Arcade                  [ playable    ]|
+ | karous.zip    [ Karous                                    [ playable    ]|
+ | keyboard.zip  [ La Keyboardxyu                            [ playable    ]|
+ | kurucham.zip  [ Kurukuru Chameleon                        [ playable    ]|
+ | lupinsho.zip  [ Lupin The Third - The Shooting            [ playable    ]|
+ | luptype.zip   [ Lupin The Third - The Typing              [ playable    ]|
+ | meltyb.zip    [ Melty Blood Act Cadenza                   [ playable    ]|
+ | meltyba.zip   [ Melty Blood Act Cadenza                   [ playable    ]|
+ | meltybld.zip  [ Melty Blood Act Cadenza                   [ playable    ]|
+ | moeru.zip     [ Moeru Casino                              [ playable    ]|
+ | mok.zip       [ Maze of the Kings, The                    [ playable    ]|
+ | monkeyba.zip  [ Monkeyball                                [ playable    ]|
+ | ngdup23a.zip  [ DIMM firmware update                      [ unsupported ]|
+ | ngdup23c.zip  [ DIMM firmware update                      [ unsupported ]|
+ | psyvar2.zip   [ Psyvariar 2 - The Will To Fabricate       [ playable    ]|
+ | puyofev.zip   [ Puyo Puyo Fever                           [ playable    ]|
+ | quizqgd.zip   [ Quiz Keitai Q mode                        [ playable    ]|
+ | radirgy.zip   [ Radigry                                   [ playable    ]|
+ | senko.zip     [ Senko No Ronde                            [ playable    ]|
+ | senkoo.zip    [ Senko No Ronde                            [ playable    ]|
+ | senkosp.zip   [ Senko No Ronde Special                    [ playable    ]|
+ | sfz3ugd.zip   [ Street Fighter Zero 3 Upper               [ playable    ]|
+ | shikgam2.zip  [ Shikigami no Shiro 2                      [ playable    ]|
+ | slashout.zip  [ Slash-out                                 [ playable    ]|
+ | spkrbtl.zip   [ Spikers Battle                            [ playable    ]|
+ | sprtjam.zip   [ Sports Jam                                [ playable    ]|
+ | ss2005.zip    [ Super Shanghai 2005                       [ playable    ]|
+ | ss2005a.zip   [ Super Shanghai 2005 (Rev A)               [ playable    ]|
+ | starseek.zip  [ Doki-Doki Idol Starseeker                 [ playable    ]|
+ | takoron.zip   [ Noukone Puzzle Takoron                    [ playable    ]|
+ | tetkiwam.zip  [ Tetris Kiwamemichi                        [ playable    ]|
+ | trgheart.zip  [ Trigger Heart Exelica                     [ playable    ]|
+ | trizeal.zip   [ Trizeal                                   [ playable    ]|
+ | undefeat.zip  [ Under Defeat                              [ playable    ]|
+ | usagui.zip    [ Usagui - Yamashiro Mahjong Hen            [ playable    ]|
+ | vathlete.zip  [ Virtua Athlete                            [ playable    ]|
+ | vtennis2.zip  [ Virtua Tennis 2                           [ playable    ]|
+ | vtennisg.zip  [ Virtua Tennis                             [ playable    ]|
+ | wsbbgd.zip    [ World Series Baseball                     [ playable    ]|
+ |------------------------Naomi 2 cartridge system--------------------------|
+ | clubkrte.zip  [ Club Kart: European Session               [ unsupported ]|
+ | vf4cart.zip   [ Virtua Fighter 4                          [ unsupported ]|
+ | vf4evoct.zip  [ Virtua Fighter 4 Evolution                [ unsupported ]|
+ | vstrik3c.zip  [ Virtua Striker 3                          [ unsupported ]|
+ | wldrider.zip  [ Wild Riders                               [ playable    ]|
+ |-------------------------Naomi 2 GD-ROM system----------------------------|
+ | beachspi.zip  [ Beach Spikers                             [ playable    ]|
+ | initd.zip     [ Initial D Arcade Stage                    [ playable    ]|
+ | initdexp.zip  [ Initial D Arcade Stage                    [ playable    ]|
+ | initdv2j.zip  [ Initial D Arcade Stage ver. 2             [ unsupported ]|
+ | initdv3j.zip  [ Initial D Arcade Stage ver. 3             [ no key      ]|
+ | vf4b.zip      [ Virtua Fighter 4                          [ playable    ]|
+ | vf4c.zip      [ Virtua Fighter 4                          [ playable    ]|
+ | vf4.zip       [ Virtua Fighter 4                          [ playable    ]|
+ | vf4evoa.zip   [ Virtua Fighter 4 Evolution                [ playable    ]|
+ | vf4evo.zip    [ Virtua Fighter 4 Evolution                [ playable    ]|
+ | vf4tuneda.zip [ Virtua Fighter 4 Final Tuned              [ playable    ]|
+ | vf4tuned.zip  [ Virtua Fighter 4 Final Tuned              [ playable    ]|
+ | vf4tunedd.zip [ Virtua Fighter 4 Final Tuned              [ playable    ]|
+ | vstrik3.zip   [ Virtua Striker 3                          [ playable    ]|
+ |                                                                          |
+ | ======================================================================== |
+ | Legend:	 playable    - means game can be coined and played somehow  |
+ |                             until possyble hangs up                      |
+ |               unsupported - means game can boot or show demo sequences   |
+ |                             but cannot be played or coined because of    |
+ |                             some hardware still unsupported, mostly IO   |
+ | Some games are unplayable because unemulated extra controllers, like     |
+ | keyboards, mahjong panels and some specific controls, some cannot be     |
+ | played due to not working hacked controllers.                            |
+ | ======================================================================== |
+ | Note: all ripped GD-ROM files are originally encrypted and cannot be     |
+ | played on other emulators like Makaron or NulDC as is. But, there is no  |
+ | need any other key or LST files to run it with latest Demul, just put it |
+ | under your ROMS directory and select desired game from list.             |
+ | Another note: current package including following decrypted and hacked   |
+ | Naomi GD-ROM dumps of latest Naomi arcade games. They aren't included in |
+ | Demul's romset, but can be loaded with "Load Decrypted Rom" option.      |
+ |--------------------------Naomi GD-ROM bonus------------------------------|
+ | mamonoro.zip  [ Mamonoro                                  [ playable    ]|
+ | radirgynoa.zip[ Radigry Noar                              [ playable    ]|
+ | shtnglv2k7.zip[ Shooting Love 2007                        [ unsupported ]|
+ | akatsukibk.zip[ Akatsuki                                  [ playable    ]|
+ | dnmitdekex.zip[ Dynamite Deka Ex                          [ unsupported ]|
+ | ======================================================================== |
+ | Another note: GD-ROM dumps originally was a part of MAME CHDs file set,  |
+ | so you can actually rip them too the same way I did. Cartridge roms are  |
+ | identical to MAME romset, so feel free to get them from latest MAME.     |
+ |                                                                          |
+ | Demul version: 0.5.6                                                     |
+ | MAME version : latest                                                    |
+ | Thanks       : R.Belmont, Guru (Alex too lol), Andy, MAME team, Yuki ;)  |
+ |                and others                                                |
+ |                                                                          |
+ `------------------------------------------------------- -  -   -   -  ----'

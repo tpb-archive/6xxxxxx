@@ -1,0 +1,31 @@
+Led Zeppelin III (1970)
+
+Lineage: Classic Records SD 7201-A1/A2/B1/B2 45 > VPI Aries II Extended with SDS/ JWM-12.6 / Lyra Titan > 
+Zoom H4 @ 24bit/96kHz via external mic inputs > RIAA correction with Sox 14.3.0 > 
+minor click removal with Click Repair 3.0 > fades, normalization, and splitting with WaveLab 5 > to FLAC with dbPowerAmp
+
+Tracklist:
+
+01 Immigrant Song
+02 Friends
+03 Celebration Day
+04 Since I\'ve Been Loving You
+05 Out on the Tiles
+06 Gallows Pole
+07 Tangerine
+08 That\'s the Way
+09 Bron-Y-Aur Stomp
+10 Hats Off to (Roy) Harper
+11 Hey Hey What Can I Do*
+
+From Classic Records 45 RPM Led Zeppelin box, recorded and presented here as 24/96 FLACs. 
+You will need to resample these files to create an audio CD. Here\'s an example of a sox command to do this:
+sox \"01 Immigrant Song.wav\" -b 16 \"441/01 Immigrant Song.wav\" rate -s -a 44100 dither -s
+This creates a 16/44.1 WAV in a subfolder called 441.  
+http://sox.sourceforge.net/
+
+*Taken from Atlantic 45-2777 single using the same equipment and methods. 
+
+600DPI scans of the front, back, and gatefold artwork are included. 
+
+Enjoy.

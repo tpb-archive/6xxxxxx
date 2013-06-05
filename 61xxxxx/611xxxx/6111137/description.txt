@@ -1,0 +1,10 @@
+XChat-WDK is an IRC chat program. It allows you to join multiple IRC channels (chat rooms) at the same time, talk publicly, private one-on-one conversations etc.
+
+1486 (2011-01-16)
+
+ - fix a possible memory leak in the update checker
+ - fix XChat-Text shortcut creation
+ - fix XChat version check via the plugin interface
+ - add option for limiting the size of files to be checksummed
+ - add X-Tray as an install option
+ - disable Plugin-Tray context menu completely 

@@ -1,0 +1,76 @@
+================
+English
+================
+Counter-Strike 1.6 NoSteam Patch v43 rev2
+Patch by http://botov.net.ua/
+Version of our patch: 1.0.3 (10/01/2011)
+
+This patch is designed to update any CS 1.6 to the latest version (at the time of the creation this patch).
+
+Unlike other patches - the patch does not contain any advertising in the game, and this patch could be called the as second revision of patch v43, because it contains many fixes that were included in Project DUDe, which contains the latest fixed version of the patch 43 (eg no "white avatars" in the table with the score and other fixes).
+
+Also, this patch have a multiprotocol: if the client is not connected to the server in normal mode (p48), it will try to introduce as p47 and try again. So you can play up to 99% NoSteam servers (47 and 48 protocol).
+
+If you want to write in chat or in console with Russian or Ukrainian (or any other language that is in your windows) - install the unicode patch.
+This patch is beta version. If you CS freeze or crash with this patch - then reinstall the patch without choosing this option.
+Important: The ability to write in Russian or Ukrainian (or any other language that is in your windows) for your nickname or in the chat is only available on servers with unicode patch support.
+
+This patch includes the following:
+* Patch v43 rev2 to the latest version of Counter-Strike 1.6 NoSteam (build 4554).
+* Fully automatic multiprotocol.
+* Include Russian or English version of Counter-Strike 1.6.
+* Russian or English voice.
+* Ability to set a default config of CS 1.6.
+* Ability to select the Russian language on the servers by default (for servers with amxmodx).
+* Ability to reset the player models to standard.
+* Ability to install new (steam) player models.
+* Ability to disable the update panel design (for those who does not use a standard design).
+* Ability to install unicode (utf8) patch. With this in CS added fully use the multi languages (Russian Chat, Russian nicknames and write in Russian in the console and in other languages).
+* Ability to turn off mouse acceleration.
+* Working servers search on the Internet (Setti MasterServer).
+* Ability to reset the background to the original.
+* Ability to reset the game menu to original.
+* Ability to set the modified game menu with the added servers Botov.NET.UA.
+* Ability to disable folder cstrike_russian (also will be a larger font size).
+* No longer be able to replace loading banner from the servers.
+* No longer be able to replace game menu from the servers.
+* Multiprotocol demo player, you can watch any replays.
+================
+Russian
+================
+Counter-Strike 1.6 NoSteam Patch v43 rev2
+ÐŸÐ°Ñ‚Ñ‡ Ð¾Ñ‚ http://botov.net.ua/
+Ð’ÐµÑ€ÑÐ¸Ñ Ð½Ð°ÑˆÐµÐ³Ð¾ Ð¿Ð°Ñ‚Ñ‡Ð°: 1.0.3 (10/01/2011)
+
+Ð”Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð°Ñ‚Ñ‡ Ð¿Ñ€ÐµÐ´Ð½Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½ Ð´Ð»Ñ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð»ÑŽÐ±Ð¾Ð¹ CS 1.6 Ð´Ð¾ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¹ Ð²ÐµÑ€ÑÐ¸Ð¸ (Ð½Ð° Ð¼Ð¾Ð¼ÐµÐ½Ñ‚ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑÑ‚Ð¾Ð³Ð¾ Ð¿Ð°Ñ‚Ñ‡Ð°).
+
+Ð’ Ð¾Ñ‚Ð»Ð¸Ñ‡Ð¸Ð¸ Ð¾Ñ‚ Ð´Ñ€ÑƒÐ³Ð¸Ñ… Ð¿Ð°Ñ‚Ñ‡ÐµÐ¹ - Ð´Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð°Ñ‚Ñ‡ Ð½Ðµ ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð½Ð¸ÐºÐ°ÐºÐ¾Ð¹ Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹ Ð²Ð½ÑƒÑ‚Ñ€Ð¸ Ð¸Ð³Ñ€Ñ‹, Ð° Ñ‚Ð°ÐºÐ¶Ðµ ÑÑ‚Ð¾Ñ‚ Ð¿Ð°Ñ‚Ñ‡ Ð¼Ð¾Ð¶Ð½Ð¾ Ð½Ð°Ð·Ð²Ð°Ñ‚ÑŒ Ð²Ñ‚Ð¾Ñ€Ð¾Ð¹ Ñ€ÐµÐ²Ð¸Ð·Ð¸ÐµÐ¹ Ð¿Ð°Ñ‚Ñ‡Ð° v43, Ñ‚.Ðº. Ð¾Ð½ ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð¼Ð½Ð¾Ð¶ÐµÑÑ‚Ð²Ð¾ Ð¸ÑÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ð¹ ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð±Ñ‹Ð»Ð¸ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ñ‹ Ð¸Ð· Project DUDe, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÑŽÑŽ Ð¸ÑÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð½ÑƒÑŽ Ð²ÐµÑ€ÑÐ¸ÑŽ 43 Ð¿Ð°Ñ‚Ñ‡Ð° (Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€ Ð½ÐµÑ‚Ñƒ "Ð±ÐµÐ»Ñ‹Ñ… Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð¾Ð²" Ð² Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ðµ ÑÐ¾ ÑÑ‡Ñ‘Ñ‚Ð¾Ð¼ Ð¸ Ð¿Ñ€Ð¾Ñ‡Ð¸Ðµ Ñ„Ð¸ÐºÑÑ‹).
+
+Ð Ñ‚Ð°ÐºÐ¶Ðµ Ð´Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð°Ñ‚Ñ‡ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð¼ÑƒÐ»ÑŒÑ‚Ð¸Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð»ÑŒÐ½Ñ‹Ð¼: ÐµÑÐ»Ð¸ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð° Ð½Ðµ Ð¿ÑƒÑÐºÐ°ÐµÑ‚ Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€ Ð² Ð¾Ð±Ñ‹Ñ‡Ð½Ð¾Ð¼ Ñ€ÐµÐ¶Ð¸Ð¼Ðµ (Ð¿48), Ñ‚Ð¾ Ð¾Ð½ Ð¿Ð¾Ð¿Ñ‹Ñ‚Ð°ÐµÑ‚ÑÑ Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒÑÑ ÐºÐ°Ðº Ð¿47 Ð¸ Ð¿Ð¾Ð¿Ñ€Ð¾Ð±ÑƒÐµÑ‚ ÑÐ½Ð¾Ð²Ð°. Ð¢Ð°ÐºÐ¸Ð¼ Ð¾Ð±Ñ€Ð°Ð·Ð¾Ð¼ Ð¼Ð¾Ð¶Ð½Ð¾ Ð¸Ð³Ñ€Ð°Ñ‚ÑŒ Ð½Ð° 99% NoSteam ÑÐµÑ€Ð²ÐµÑ€Ð°Ñ… (47 Ð¸ 48 Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð»).
+
+Ð•ÑÐ»Ð¸ Ð²Ñ‹ Ð¶ÐµÐ»Ð°ÐµÑ‚Ðµ Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ð² Ñ‡Ð°Ñ‚Ðµ Ð¸Ð»Ð¸ Ð² ÐºÐ¾Ð½ÑÐ¾Ð»Ð¸ Ð½Ð° Ñ€ÑƒÑÑÐºÐ¾Ð¼ Ð¸Ð»Ð¸ ÑƒÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¾Ð¼ (Ð¸Ð»Ð¸ Ð»ÑŽÐ±Ñ‹Ð¼ Ð´Ñ€ÑƒÐ³Ð¸Ð¼ ÑÐ·Ñ‹ÐºÐ¾Ð¼ ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ ÐµÑÑ‚ÑŒ Ð² Ð²Ð°ÑˆÐµÐ¹ windows) - ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ðµ ÑŽÐ½Ð¸ÐºÐ¾Ð´ Ð¿Ð°Ñ‚Ñ‡.
+Ð”Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð°Ñ‚Ñ‡ Ð½Ð°Ñ…Ð¾Ð´Ð¸Ñ‚ÑŒÑÑ Ð² beta Ð²ÐµÑ€ÑÐ¸Ð¸. Ð•ÑÐ»Ð¸ Ñƒ Ð²Ð°Ñ Ð·Ð°Ð²Ð¸ÑÐ°ÐµÑ‚ CS Ñ ÑÑ‚Ð¸Ð¼ Ð¿Ð°Ñ‚Ñ‡ÐµÐ¼ - Ñ‚Ð¾Ð³Ð´Ð° Ð¿ÐµÑ€ÐµÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ðµ Ð¿Ð°Ñ‚Ñ‡ Ð±ÐµÐ· Ð²Ñ‹Ð±Ð¾Ñ€Ð° Ð´Ð°Ð½Ð½Ð¾Ð¹ Ð¾Ð¿Ñ†Ð¸Ð¸.
+Ð’Ð°Ð¶Ð½Ð¾: Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ð½Ð° Ñ€ÑƒÑÑÐºÐ¾Ð¼ Ð¸Ð»Ð¸ ÑƒÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¾Ð¼ (Ð¸Ð»Ð¸ Ð»ÑŽÐ±Ñ‹Ð¼ Ð´Ñ€ÑƒÐ³Ð¸Ð¼ ÑÐ·Ñ‹ÐºÐ¾Ð¼ ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ ÐµÑÑ‚ÑŒ Ð² Ð²Ð°ÑˆÐµÐ¹ windows) Ð²Ð°Ñˆ Ð½Ð¸Ðº Ð¸Ð»Ð¸ Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ð² Ñ‡Ð°Ñ‚Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€Ð°Ñ… Ñ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¾Ð¹ ÑŽÐ½Ð¸ÐºÐ¾Ð´ Ð¿Ð°Ñ‚Ñ‡Ð°.
+
+Ð”Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð°Ñ‚Ñ‡ Ð²ÐºÐ»ÑŽÑ‡Ð°ÐµÑ‚ Ð² ÑÐµÐ±Ñ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÐµÐµ:
+* ÐŸÐ°Ñ‚Ñ‡ v43 rev2 Ð´Ð¾ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¹ Ð²ÐµÑ€ÑÐ¸Ð¸ Counter-Strike 1.6 NoSteam (build 4554).
+* ÐŸÐ¾Ð»Ð½Ð°Ñ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð¼ÑƒÐ»ÑŒÑ‚Ð¸Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð»ÑŒÐ½Ð¾ÑÑ‚ÑŒ.
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð ÑƒÑÐ¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð¸Ð»Ð¸ ÐÐ½Ð³Ð»Ð¾Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Counter-Strike 1.6.
+* Ð ÑƒÑÑÐºÐ°Ñ Ð¸Ð»Ð¸ ÐÐ½Ð³Ð»Ð¸Ð¹ÑÐºÐ°Ñ Ð¾Ð·Ð²ÑƒÑ‡ÐºÐ° Ð½Ð° Ð²Ñ‹Ð±Ð¾Ñ€.
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð½Ñ„Ð¸Ð³Ð° CS 1.6.
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð²Ñ‹Ð±Ð¾Ñ€Ð° Ñ€ÑƒÑÑÐºÐ¾Ð³Ð¾ ÑÐ·Ñ‹ÐºÐ° Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€Ð°Ñ… Ð¿Ð¾-ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ (Ð´Ð»Ñ ÑÐµÑ€Ð²ÐµÑ€Ð¾Ð² Ñ amxmodx).
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ ÑÐ±Ñ€Ð¾ÑÐ° Ð¼Ð¾Ð´ÐµÐ»ÐµÐ¹ Ð¸Ð³Ñ€Ð¾ÐºÐ¾Ð² Ð½Ð° ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ñ‹Ðµ.
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð½Ð¾Ð²Ñ‹Ñ… (steam) Ð¼Ð¾Ð´ÐµÐ»ÐµÐ¹ Ð¸Ð³Ñ€Ð¾ÐºÐ¾Ð².
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ Ð¿Ð°Ð½ÐµÐ»ÐµÐ¹ (Ð´Ð»Ñ Ñ‚ÐµÑ… ÐºÑ‚Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð½Ðµ ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð¾Ðµ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ðµ).
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ ÑŽÐ½Ð¸ÐºÐ¾Ð´ (utf8) Ð¿Ð°Ñ‚Ñ‡Ð°. Ð¡ ÐµÐ³Ð¾ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ Ð² CS Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾Ð»Ð½Ð¾Ñ†ÐµÐ½Ð½Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¼ÑƒÐ»ÑŒÑ‚Ð¸ÑÐ·Ñ‹Ñ‡Ð½Ð¾ÑÑ‚ÑŒ (Ñ€ÑƒÑÑÐºÐ¸Ð¹ Ñ‡Ð°Ñ‚, Ñ€ÑƒÑÑÐºÐ¸Ðµ Ð½Ð¸ÐºÐ¸, Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ð½Ð° Ñ€ÑƒÑÑÐºÐ¾Ð¼ Ð² ÐºÐ¾Ð½ÑÐ¾Ð»Ð¸ Ð¸ Ð½Ð° Ð´Ñ€ÑƒÐ³Ð¸Ñ… ÑÐ·Ñ‹ÐºÐ°Ñ…).
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ ÑƒÑÐºÐ¾Ñ€ÐµÐ½Ð¸Ñ Ð¼Ñ‹ÑˆÐ¸.
+* Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ Ð¿Ð¾Ð¸ÑÐº ÑÐµÑ€Ð²ÐµÑ€Ð¾Ð² Ð² Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚Ðµ (Setti MasterServer).
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ ÑÐ±Ñ€Ð¾ÑÐ° Ñ„Ð¾Ð½Ð° (Ð·Ð°ÑÑ‚Ð°Ð²ÐºÐ¸) Ð½Ð° Ð¾Ñ€Ð¸Ð³Ð¸Ð½Ð°Ð»ÑŒÐ½ÑƒÑŽ.
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ ÑÐ±Ñ€Ð¾ÑÐ° Ð¸Ð³Ñ€Ð¾Ð²Ð¾Ð³Ð¾ Ð¼ÐµÐ½ÑŽ Ð½Ð° Ð¾Ñ€Ð¸Ð³Ð¸Ð½Ð°Ð»ÑŒÐ½Ð¾Ðµ.
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¸Ð·Ð¼ÐµÐ½Ñ‘Ð½Ð½Ð¾Ð³Ð¾ Ð¸Ð³Ñ€Ð¾Ð²Ð¾Ð³Ð¾ Ð¼ÐµÐ½ÑŽ Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¼Ð¸ ÑÐµÑ€Ð²ÐµÑ€Ð°Ð¼Ð¸ Botov.NET.UA.
+* Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð¿Ð°Ð¿ÐºÐ¸ cstrike_russian (Ñ‚Ð°ÐºÐ¶Ðµ Ð±ÑƒÐ´ÐµÑ‚ Ð±Ð¾Ð»ÐµÐµ ÐºÑ€ÑƒÐ¿Ð½Ñ‹Ð¹ ÑˆÑ€Ð¸Ñ„Ñ‚).
+* Ð’Ð°Ð¼ Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½Ðµ ÑÐ¼Ð¾Ð³ÑƒÑ‚ Ð¿Ñ€Ð¾ÑˆÐ¸Ð²Ð°Ñ‚ÑŒ Ð±Ð°Ð½Ð½ÐµÑ€Ñ‹ Ñ ÑÐµÑ€Ð²ÐµÑ€Ð°.
+* Ð’Ð°Ð¼ Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½Ðµ ÑÐ¼Ð¾Ð³ÑƒÑ‚ Ð¿Ñ€Ð¾ÑˆÐ¸Ð²Ð°Ñ‚ÑŒ Ð¸Ð³Ñ€Ð¾Ð²Ð¾Ðµ Ð¼ÐµÐ½ÑŽ Ñ ÑÐµÑ€Ð²ÐµÑ€Ð°.
+* ÐœÑƒÐ»ÑŒÑ‚Ð¸Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð´ÐµÐ¼Ð¾Ð¿Ð»ÐµÐµÑ€, Ð¼Ð¾Ð¶Ð½Ð¾ ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð»ÑŽÐ±Ñ‹Ðµ Ð´ÐµÐ¼ÐºÐ¸.
+================
+Â© 2008-2011 by http://botov.net.ua/

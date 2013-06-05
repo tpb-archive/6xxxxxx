@@ -1,0 +1,108 @@
+-------------------------------------------------------------------------------
+\\//\\//\\//\\// _ |_ _ \ \/ /_ _ _ \\//\\//\\//\\//\\//\\//\\//\\//\\//\\
+//\\//\\//\\//\\ (_||_)(_|/ /\ \_||_ | | //\\//\\//\\//\\//\\//\\//\\//\\//\\//
+
+Checking for updates to abgx360.dat...
+Server file abgx360.dat no newer than local file - not retrieving
+
+C:\Apache.Air.Assault.dvd was created
+
+Checking Game
+ISO: "C:\Apache.Air.Assault.iso"
+Size: 7838695424 bytes
+Files in ISO: 102, Folders in ISO: 7
+Total bytes used: 1479120097 (20.27%)
+Game appears to have random padding
+
+Checking default.xex
+Original PE Filename: apache.exe
+Original PE Timestamp: 2010/10/13 14:41:05
+Game Name: Apache: Air Assault
+No Avatar Awards
+Achievements: 50 Achievements totaling 1000 Gamerscore
+XEX CRC = 5F8AEF11
+XEX Media ID: 9F35000849AF55D8FB620C2F-089FC7A8
+
+Region Code: 0x00FF00FF
+PAL
+NTSC/U
+
+Checking SS
+Timestamp of Authoring: 2010/10/15 00:00:00
+Timestamp of Mastering: 2010/11/08 09:30:04
+SS Version: 1
+
+Fixing SS Challenge / Response Data...
+All 359 degree SS v1 angles have been adjusted for compatibility with
+iXtreme < v1.4
+
+SS CRC = FFFDC8FA (RawSS = D359CE41)
+SS Media ID: 9F35000849AF55D8FB620C2F-089FC7A8 (matches game)
+SS looks valid
+
+Writing adjusted SS values to C:\XBOX.360.APACHE.AIR.ASSAULT.PAL & NTSCU- SKILLED\Apache.Air.Assault.iso
+
+Checking DMI
+Timestamp of Authoring: 2010/10/15 00:00:00 (matches SS)
+DMI CRC = 5295801D
+DMI Media ID: 9F35000849AF55D8FB620C2F-089FC7A8 (matches game)
+DMI looks valid
+
+Checking PFI
+PFI CRC = 05C6C409
+PFI matches known data (4th - 7th Wave)
+
+Video partition found
+Video is zero padded
+Video CRC = E2FA3A26 (V0 = E0363F4E, V1 = EAE76B94)
+Video partition matches known data (6th Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+Looking for FFFDC8FA5F8AEF11.ini in the online verified database
+There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Verification failed
+
+Starting AutoFix
+Looking for Xex_5F8AEF11.ini in the online verified database
+Server file Xex_5F8AEF11.ini no newer than local file - not retrieving
+Looking for 6EE8784A5F8AEF11.ini in the online verified database
+Server file 6EE8784A5F8AEF11.ini no newer than local file - not retrieving
+
+Using 6EE8784A5F8AEF11.ini (349 bytes)
+Looking for SS_6EE8784A.bin in the online verified database
+SS_6EE8784A.bin was downloaded successfully
+Verifying SS_6EE8784A.bin is valid before using it for AutoFix
+
+Checking SS
+Timestamp of Authoring: 2010/10/15 00:00:00
+Timestamp of Mastering: 2010/10/20 02:46:57
+SS Version: 2 (trusted)
+SS CRC = 6EE8784A (RawSS = 2DBF6F79)
+SS Media ID: 9F35000849AF55D8FB620C2F-089FC7A8 (matches game)
+SS looks valid
+
+Looking for DMI_F8E2C3D8.bin in the online verified database
+DMI_F8E2C3D8.bin was downloaded successfully
+Verifying DMI_F8E2C3D8.bin is valid before using it for AutoFix
+
+Checking DMI
+Timestamp of Authoring: 2010/10/15 00:00:00 (matches SS)
+DMI CRC = F8E2C3D8
+DMI Media ID: 9F35000849AF55D8FB620C2F-089FC7A8 (matches game)
+DMI looks valid
+
+Automatically patching stealth files...
+Patching DMI from DMI_F8E2C3D8.bin
+Patching SS from SS_6EE8784A.bin
+Stealth files patched successfully!
+AnyDVD style corruption was not detected
+Game CRC = 3DAA688D
+
+Game partition CRC matches the verified ini!
+AutoFix was successful!
+
+SplitVid is valid
+L1 Video is zero padded

@@ -1,0 +1,17 @@
+User Type,Username,Date,Text
+,Spazzbunny,2011-07-14T18:32Z,"only down side on this is tht mike rowe isnt the naratior.
+but other then tht its good A/V 10"
+,fillinthisspace,2012-01-18T17:08Z,"Does Mike Rowe narrate the American version? Some of the episodes are (I assume) American while some are (I assume) British, being 25fps. Personally I like the British narrator. Not the American one so much...."
+,fillinthisspace,2012-01-18T17:28Z,"I revisited (watched) some of these episodes myself the other day and realized the audio for episode 5 (Supernovas) is slightly out of sync. Not that it matters too much as most of the program is computer graphics and voice-over and the delay isn't too huge, but it bugged me. Anyway.....
+
+If you're fussy like me and want to fix it but don't know how.... the instructions might seem a bit involved but it's fairly quick and easy.
+
+-Download, unzip and run VirtualDubMod (it doesn't need to be installed).
+-Open the episode with VirtualDubMod, then from the Streams menu at the top select ""Streams List"". A window will open showing the audio stream.
+-Right click on the audio stream and select ""Interleaving"". Another window will open and in the ""Delay Audio Track By"" box type 120 (I'm pretty sure the audio delay needs to be about 120ms).
+-Hit okay till you're back at the main program window.
+-Select File/Save As, but before you hit Save select ""Direct Stream Copy"" in the Video mode drop down box (so VirtualDubMod won't try to re-encode the video). Then save the file as a new AVI which should only take a minute, and the new version should have audio which is in sync.
+
+Sorry about that.
+http://www.afterdawn.com/software/audio_video/video_editing/virtualdubmod.cfm
+It's only about 1.5MB."

@@ -1,0 +1,78 @@
+-------------------------------------------------------------------------------
+\\//\\//\\//\\// _ |_ _ \ \/ /_ _ _ \\//\\//\\//\\//\\//\\//\\//\\//\\//\\
+//\\//\\//\\//\\ (_||_)(_|/ /\ \_||_ | | //\\//\\//\\//\\//\\//\\//\\//\\//\\//
+
+Checking for updates to abgx360.dat...
+Server file abgx360.dat no newer than local file - not retrieving
+
+Checking Game
+ISO: "C:\NIER PAL & NTSC - SKILLED.iso"
+Size: 7838695424 bytes
+Files in ISO: 10, Folders in ISO: 3
+Total bytes used: 6385654204 (87.49%)
+Game appears to have random padding
+
+Checking default.xex
+Title ID: 535107E8 (SQ-2024)
+Original PE Filename: nier.exe
+Original PE Timestamp: 2010/02/19 10:55:38
+
+Game Name: NIER
+Developer: cavia
+Publisher: SQUARE ENIX
+Genre: Action RPG
+No Avatar Awards
+Achievements: 41 Achievements totaling 1000 Gamerscore
+XEX CRC = 175BEC5A
+XEX Media ID: FC9B0E7A9995DE49C15719A0-507D2720
+
+Region Code: 0x00FF00FF
+PAL
+NTSC/U
+
+Checking SS
+Timestamp of Authoring: 2010/03/05 00:00:00
+Timestamp of Mastering: 2010/04/07 20:46:22
+SS Version: 2 (trusted)
+SS CRC = ED23BF64 (RawSS = 6DFAB03C)
+SS Media ID: FC9B0E7A9995DE49C15719A0-507D2720 (matches game)
+SS looks valid
+
+Checking DMI
+Timestamp of Authoring: 2010/03/05 00:00:00 (matches SS)
+DMI CRC = 26989845
+DMI Media ID: FC9B0E7A9995DE49C15719A0-507D2720 (matches game)
+DMI looks valid
+
+Checking PFI
+PFI CRC = 05C6C409
+PFI matches known data (4th - 7th Wave)
+
+Video partition found
+Video CRC = E2FA3A26 (V0 = E0363F4E, V1 = EAE76B94)
+Video partition matches known data (6th Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+Looking for ED23BF64175BEC5A.ini in the online verified database
+Server file ED23BF64175BEC5A.ini no newer than local file - not retrieving
+
+Using ED23BF64175BEC5A.ini (325 bytes)
+Video CRC matches
+V0 CRC matches
+V1 CRC matches
+PFI CRC matches
+DMI CRC matches
+SS CRC matches
+Xex CRC matches
+AnyDVD style corruption was not detected
+Game CRC = BB4D9773 (matches)
+
+All CRCs match
+Verification was successful!
+
+SplitVid is valid
+
+
+NO RAR's

@@ -1,0 +1,42 @@
+Magicka Update 4 info:
+
+
+Issues
+
+-	Fixed Move orders such as the one in Chapter 12 (For real this time).
+-	Fixed trigger ID sync over network (Should fix Chapter 7 crash).
+-	Fixed uninitialized AI crashing.
+-	Fixed crashes due to messages arriving early in high latency games.
+-	Fixed Vlad incorrect clothes in Chapter 3.
+-	Fixed server list bug, which caused users to connect to wrong game.
+-	Fixed joining a password protected game through steam overlay.
+-	Fixed falling damage not working properly.
+-	Fixed "OMG they killed yellow.." achievement awarded when killing purple (Good theory on the LA Lakers)
+-	Improved disconnect notice.
+-	Improved damages over network.
+-	Improved cut scene skip in early Chapter 1.
+-	Improved chat position.
+-	Improved challenge level selection indicator.
+
+Features/Balance
+
+-	Added Checkpoint to the party in Chapter 1
+-	Added missing boss titles in Chapter 1 and 12.
+-	Balanced Dwarf Priests (Swedish Chef Brigade); is now more difficult.
+-	Balanced Chapter 9 boss; is now more difficult.
+-	Balanced Chapter 12 boss; is now more difficult.
+
+Known Issues
+
+-	Beam spells merging sometimes crashes game with stack overflow (for real)
+-	Self-shields sometimes get out of sync
+-	Players are still able to have too many summons (Changed because of community feedback)
+-	Server list sorting not implemented
+-	Network congestion on high ping (>400ms) connections still problematic.
+-	Game stutters slightly on some systems despite good performance (cause known, fix pending)
+-	Steam attempts to install XNA framework every time game is launched or rare occasion
+-	Game sometimes hogs uplink bandwidth - (Being researched)
+-	"Too fancy for fireballs" achievement is sometimes not awarded
+-	Quitting the game while the credits are rolling will not award a game complete.
+-	Mouse outside screen in full screen with multiple monitors will minimize the game.
+

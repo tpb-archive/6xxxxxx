@@ -1,0 +1,61 @@
+Windows 2000 Professional running as a server.
+
+This is a very nice VMWare image for those interested in running a Web Server, Mail Server, File Server, Music Streaming Server and more.
+
+It is completely configured and ready to go. There is no TCP/IP concurrent connections limitation. Anyone with basic computer knowledge can have this up and running simply by booting up this image in a virtual machine (VMware)
+
+-------------------------------
+What's included?
+
+-Windows 2000 Professional (NTSwitch'd) (Runs as NT Server)
+
+-Abyss Web Server X2 (Already configured and secured)
+
+-hMailServer 5.3.3 - Build 1879
+
+-HFS File Server v2.7.2
+
+-Subsonic Media Streamer 4.3
+
+-PHP5 packaged for Abyss Web Server (latest version) - ready
+
+-MySQL 5.1
+
+-MySQL Admin Tools
+
+
+Please note, there is a securitycheck.php file running in the webserver. It can be found in the wwwroot folder. This is a file used to check and test the webserver security. You may want to move this file off of your webserver when you are not performing any test.
+
+
+Additionally, there is also a phpaccountinfo.php file in the webserver as well. It is used to identify under which credentials is your webserver/php running. As a security measure your server will run under a limited account automatically. You can find details in the Admin Documentation file.
+
+
+Things to look for when running for the first time:
+
+
+-Change the IP address/Gateway/DNS server info under network properties. or simply set it to Automatic (not recommended)
+
+-If you change the Administrator account password, please make sure to change the password for HFS File Server service. It can be found by running Firedaemon >> edit service...
+
+
+Enjoy and please, seed :)
+
+Leave comments and help others
+
+Screenshots:
+
+  
+http://bayimg.com/EaDDlaaDf  
+http://bayimg.com/eaDdNaAdf  
+http://bayimg.com/EaDDoAAdF  
+http://bayimg.com/EaDdPAadF  
+http://bayimg.com/fADdaAaDF  
+http://bayimg.com/FADDBaaDf  
+http://bayimg.com/FaDdeaAdf  
+http://bayimg.com/FaDdFAadF  
+http://bayimg.com/FadDGAaDf  
+http://bayimg.com/FAddIAadf
+
+Recommended 512MB RAM allocated to this virtual machine
+Acceptable 348MB RAM
+Minimum 256MB

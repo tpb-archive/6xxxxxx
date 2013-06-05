@@ -1,0 +1,105 @@
+HI-TECH Universal RSA Keygen v2.2
+=================================
+
+* HI-TECH Universal RSA Keygen generates real RSA signed activation data.
+* Replaces HI-TECH RSA public key with self-generated RSA key - different every time!
+* Generates permanent key - no expiry date!
+* Tested with: HI-TECH C Compiler for PIC10-12-16 MCUs
+               HI-TECH C PRO for the PIC18 MCU Family
+               HI-TECH C PRO for the PIC32 MCU Family
+               HI-TECH for dsPIC-PIC24
+               HI-TECH C PRO for the Silicon Labs 8051 MCU Family
+               HI-TECH C PRO for the PSoC Mixed-Signal Array
+               HI-TECH C for Holtek MCU
+               HI-TECH PICC-18 STD
+ 
+1. Install software.
+2. Select Activate PRO/Standard mode with serial number & make up your own serial number.
+   e.g. 654321
+3. Tick Off-Line - activation will be completed by email.
+4. When software has finished installing run HI-TECH.exe and point to your activation-request.txt file.
+   e.g. HCPICP-654321-activation-request.txt file in installation folder.
+
+NOTE TO VISTA & WINDOWS 7 USERS
+-------------------------------
+
+If you have used other HI-TECH keygens/patches in the past they may have written data to your VirtualStore.
+The HI-TECH data in your VirtualStore takes precedence over global data when present and must be removed.
+Run CLEAN.BAT to remove this data; it will do no harm if you have not used HI-TECH keygens/patches before.
+You can run CLEAN.BAT before or after the HI-TECH Universal RSA Keygen.
+
+CLEAN.BAT removes the following keys from the registry:
+[HKEY_CURRENT_USER\Software\Classes\VirtualStore\MACHINE\SOFTWARE\Wow6432Node\HI-TECH Software]
+[HKEY_CURRENT_USER\Software\Classes\VirtualStore\MACHINE\SOFTWARE\HI-TECH Software]
+and the following folders:
+%LOCALAPPDATA%\VirtualStore\Program Files (x86)\HI-TECH Software
+%LOCALAPPDATA%\VirtualStore\Program Files\HI-TECH Software
+
+HISTORY
+-------
+
+01.03.2010
+HI-TECH Universal RSA Keygen v1.0
+Original command line version.
+
+15.04.2010
+HI-TECH Universal RSA Keygen v2.0
+Windows version.
+
+18.04.2010
+HI-TECH Universal RSA Keygen v2.1
+Improved compiler detection.
+Activates pre-2009 compilers.
+
+19.05.2010
+HI-TECH Universal RSA Keygen v2.2
+Enhanced error detection & reporting.
+64-bit version released.
+Included CLEAN.BAT to remove HI-TECH data from VirtualStore.
+
+24.06.2010
+HI-TECH Universal RSA Keygen v2.3
+Supports new manifest format.
+
+TEST
+----
+
+>picc --ver
+HI-TECH C Compiler for PIC10/12/16 MCUs (PRO Mode)  V9.70
+Copyright (C) 2009 Microchip Technology Inc.
+Serial number: HCPICP-654321 (PRO)
+
+>picc18 --ver
+HI-TECH C PRO for the PIC18 MCU Family  V9.63PL3
+Copyright (C) 1984-2009 HI-TECH SOFTWARE
+Serial number: HCPIC18P-654321
+
+>picc32 --ver
+HI-TECH C PRO for the PIC32 MCU Family (PRO Mode)  V9.60PL2
+Copyright (C) 1984-2009 HI-TECH SOFTWARE
+Serial number: HCPIC32-654321 (PRO)
+
+>dspicc --ver
+HI-TECH for dsPIC/PIC24  V9.60PL3
+Copyright (C) 1984-2009 HI-TECH SOFTWARE
+Serial number: HCDSPIC-654321
+
+>c51 --ver
+HI-TECH C PRO for the Silicon Labs 8051 MCU Family  V9.70
+Copyright (C) 1984-2008 HI-TECH SOFTWARE
+Serial number: HC51P-654321
+
+>cpsoc --ver
+HI-TECH C COMPILER (Cypress PSOC) Pro  V9.61PL4
+Copyright (C) 1984-2008 HI-TECH SOFTWARE
+Serial number: HCPSOC-654321
+
+>htkc --ver
+HI-TECH C COMPILER (Holtek MCU) V9.10PL6
+Copyright (C) 1984-2006 HI-TECH SOFTWARE
+Serial number: HCHTKC-654321
+
+>picc18 --ver
+HI-TECH PICC-18 STD COMPILER (Microchip PIC micro)  V9.51PL2
+Copyright (C) 1984-2008 HI-TECH SOFTWARE
+Serial number: HCPIC18-654321

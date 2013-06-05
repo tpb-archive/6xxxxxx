@@ -1,0 +1,56 @@
+Battlefield, Bad Company 2. 
+
+
+Description:
+Release: 2010
+Genre: FPS (First Person Shooter)
+Developer: EA Digital Illusions Creative Entertainment
+Publisher: Electronic Arts
+Platform: MAC (Intel)
+
+Battlefield: Bad Company 2, is the sequel to Battlefield Bad Company. In this instalment, the Bad Company crew again find themselves in the heart of the action, where they must use every weapon and vehicle at their disposal to survive. The action unfolds with unprecedented intensity, introducing a level of fervor to vehicular warfare never before experienced in a modern warfare action game. In Battlefield: Bad Company 2, the company fight their way through snowy mountaintops, dense jungles and dusty villages. With a heavy arsenal of deadly weapons and a slew of vehicles to aid them, the crew set off on their mission and they are ready to blow up, shoot down, blast through, wipe out and utterly destroy anything that gets in their way. Total destruction is the name of the game, delivered as only the DICE next generation Frostbite engine can.
+
+1. Port Info:
+Cider 4983.
+
+2. Minimum System Requirements:
+Mac OS X 10.6.3
+Intel Core 2 Duo 2,4 GHz
+1024 MB RAM
+256 MB VRAM
+4,5 GB HDD free space
+
+3. Known Issues:
+Tested successfully on Intel iMac 2.4 GHz, ATI HD2600 256 MB, 4GB RAM, OS X 10.6.5.
+(I've tested four missions: Operation Aurora, Cold War, Heart of Darkness, Upriver.)
+
+Minor bugs:
+
+- no sound in logo movie and some ingame intros (interactive cutscenes are OK)
+- subtitles are not always in sync with speech
+
+It seems that the game won't work properly under Mac OS X 10.5.8 (there were complaints from some 10.5.8 users that it crash/hang on 'New Game').
+
+Probably the game won't work with 128 MB graphics cards - below official minimum PC specifications.
+
+4. Installation:
+Drag the application to your hard disk.
+WAIT ON START!!! The game is loading for about 1,5 minutes (mute black screen).
+
+5. Hint:
+In order to increase game performance open this file:
+
+Ñonfig (~:Library:Preferences:BFBC2 Preferences:config)
+NOTE: ~:Library:Preferences:BFBC2 Preferences folder is created after first run.
+
+and set
+
+"GLSL"="M"
+
+instead of:
+
+"GLSL"="Y"
+
+It will increase FPS about 1,5-2 times in some scenes.
+
+[Ripped directly from Demonoid. Thanks to Pluto999.] 
