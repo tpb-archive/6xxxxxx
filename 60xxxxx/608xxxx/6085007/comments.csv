@@ -1,0 +1,102 @@
+User Type,Username,Date,Text
+,Poeticile,2011-01-06T03:39Z,"Don't trust the tracker here, it hides the other seeders and leechers from Demonoid, etc. "
+,Poeticile,2011-01-07T01:07Z,"No, I was just worried some people would look at the lack of seed/leech and not dl. 
+
+NOTE:Lags a bit at first, but move the mouse around a little and it will clear up. Otherwise, runs fine. "
+,Poeticile,2011-01-07T01:08Z,"BTW, do ppl still need a new COD BO upload?"
+,gb949,2011-01-07T01:55Z,a working COD black ops for mac would be awesome. thanks for the upload!
+,GetTubed,2011-01-08T02:49Z,"Stops at above jpeg banner .
+
+OS X v 10.5.8  ATI Radeon HD 2600 Pro"
+,Poeticile,2011-01-08T03:17Z,"As I noted, it was tested with 10.6+, I'm not sure how liable it will be on 10.5. "
+,vichetmeng,2011-01-08T04:47Z,"seed god damit! downloading at 15kb/s, uploading at 400kb/s..."
+,GetTubed,2011-01-08T05:03Z,"I knew that going in , just hope it would run on older Mac . A point of reference for others , yeah what .
+Otherwise , great upload "" Poetcile "" ...."
+,vichetmeng,2011-01-09T05:40Z,"After you downloaded the game, please do post a comment tell us if this works well. And if possible, give a quick spec if your Mac as well.. :) Thanks, "
+,Ilpastoredelcampo,2011-01-09T08:13Z,"Download went well (2+ hrs), but I cannot run it well at OS X 10.6.6, 2.4 Ghz Intel Core 2 Duo, NVIDIA GeForce 9400M. Game starts and is a bit laggy, but during the intro of the first level, video freezes on me completely, whereas audio continues to run..."
+,Poeticile,2011-01-09T10:08Z,"Hm, I have the exact specs as you. It's a rudimentary port, but it's green status for Nvidia. Have you tried it a couple times? "
+,noser1515,2011-01-10T06:59Z,"I have an Intel 2.66 and it does the same thing.  I'm a little bummed, I was looking forward to playing this."
+,DonMK29,2011-01-10T19:45Z,"poeticile...could u upload cod B.O wit dah... zombie mode, multiplayer (real) or combat training...pls!... would really appreciate it"
+,euphile,2011-01-10T20:34Z,"It video freezes and the audio continues, but if you wait for the level to start it all comes back....the only problem I've found is that the game hasn't been saving for me so you have to start from the beginning every time."
+,BISA779,2011-01-10T20:39Z,"It frozes in the 4th or 5th banner. Mac book pro 10.5.8 2gb ram 320gb disk space. Does anyone knows how to fix this. i would realy like to play this one. Maybe something with the engine, i don't know... Thanks in advance."
+,DonMK29,2011-01-10T20:58Z,btw could u try make it for 10.5 both games... medal of honor and cod B.O 
+,Poeticile,2011-01-11T02:18Z,"Frames Freeze making the game unplayable
+THE SOLUTION IS BELOW:
+
+I've tested this and it works to get rid of the annoying constant freeze that eventually made this game unplayable for me...I think it has affected other [people in the same manner...so hope this helps to get you back to MoH if you were affected by this bug
+
+It has to do with the last two registry keys (DWORD entry) You will need to use the Wine Registry Editor (press alt and double click the app) get to it by clicking Advacnce > Tools > Registry Editor (top right)
+
+
+>VideoPciDeviceID
+   |  |   [DWORD Value (REG_DWORD): sets the pci device id of the video card. See next value.]
+   |  |
+   |  +->VideoPciVendorID
+   |      [DWORD Value (REG_DWORD): sets the pci vendor id of the video card. By default Wine estimates
+   |       these values based on OpenGL info but this doesn't work well in all cases. If you want to
+   |       override our estimates check the output of e.g. lspci -n on Linux. For a video card this
+   |       could show 05:00.0 0300: 10de:0402 (rev a1). In this result 0x10de (Nvidia) is the pci vendor
+   |       id and '0x0402' (Geforce 8600GT) is the pci device id. The '0x0300' means video card.]
+
+"
+,Poeticile,2011-01-11T02:19Z,"Go to the HKEY_CURRENT_USER > Software > Wine > Direct3D and right click on it
+
+Then choose New > DWORD Value
+
+Now the new registry entry should appear...title the first one VideoPciDeviceID and title the second DWORD value VideoPciVendorID
+
+Keep Wine regedit open, now you have to click on the Apple logo on your menu bar and choose About This Mac
+Now click more info and when System Profiler opens choose Graphics/Displays from the left hand column
+Here you find the values you need to enter into the registry
+
+In my case the first one is the vender id -  Vendor: ATI (0x1002) - just below VRAM (Total)
+
+The 0x1002 value will need to be applied to the +->VideoPciVendorID red entry, do this by right clicking on that entry in WineRegEdit and choose Modify...enter in the value in exactly as you see it in the brackets.
+
+The next one is the  VideoPciDeviceID, that values is located just below the Vendor ID, in my case it is - Device ID: 0x71c5
+
+This value should be applied in regedit as directed above and then close out regedit...the performance should increase because the wrapper is now tweaked specific to your system.
+
+This may also help with games that may have not worked in the past for you."
+,vichetmeng,2011-01-11T08:30Z,"@Poeticile : I don understand your method. Please elucidate it.. Thanks. BTW, I could follow you only to this point ""You will need to use the Wine Registry Editor (press alt and double click the app) get to it by clicking Advacnce > Tools > Registry Editor (top right)"""
+,vichetmeng,2011-01-11T09:12Z,"The game freezes, after the in-car scene... I really want to play this game! :("
+,DonMK29,2011-01-11T18:19Z,"Poeticile...after the banners finish and Medal of Honor screen starts... what do i do?... the music plays and i have pressed every button to continue to the game...but it doesnt seem to work...and wen i press cmd, alt and esc and press MEDAL OF HONOR force quit...it quits but then the music continues to play!!! even afta the game has endeed!!!! 
+running it on 10.5.8"
+,Poeticile,2011-01-12T03:14Z,"Again, the solution I posted is the official one form the porters. And as I noted, I'm no techie. Either try the fix, or do your best. "
+,noser1515,2011-01-13T06:26Z,"@Poeticile, Thanks for uploading this and then telling us what you did to make it work.  I think I have done what you said to do but it still hangs up.  On the second mission my 4 wheeler just stops and vid freezes and unlike the first one it never comes back.  I will keep trying."
+,kirb13,2011-01-14T18:19Z,can you make assassins creed 2 in mac because his games not working aporcateron
+,kirb13,2011-01-14T20:06Z,doest work in 10.6.6 if you know tell it now by the way poeticile if you download assassins creed 2 download the one we dont need ethernet connection     
+,gbean,2011-01-17T18:22Z,Hey im running it on 10.5.8 and it just gets stuck on the MEDAL OF HONOR screen after the banners. Can you give me the link for the fix so I can try it?
+,rambambula,2011-01-20T18:14Z,"I did the above mentioned regedit steps and it did improve performance SLIGHTLY, but not enough not to be annoying. Some weapons also seem to affect this, for instance when zooming in scoped weapons, especially the SVD it tends to freeze but unfreezes if I zoom back out or fire a shot. I got to the quadbike level and the game froze up completely ( image ). Also, the mouse is a bit unreliable when it comes to speed, seems to jump a bit.. "
+,kennet_2,2011-01-24T15:43Z,"The best way to get out of freeze is hold down letter ""H"" on your key board. Infact just mask tape it all the way down for a freeze free game play till the last stage"
+,sawjonathan1,2011-01-28T12:02Z,is the multiplayer also working?
+,rambambula,2011-01-28T14:36Z,Tried taping down the 'H' -key just for the heck of it and it actually works...kind of... still might freeze up so you'll have to 'un-tape' H-key again to be able to press it... in my case... I got somekind of general exception error while in the quad-bike mission also... Gonna give up on this unless someone has a solution.
+,kizzck,2011-02-06T11:37Z,I have ATI Radeon HD 2400 XT will it work on my iMac?
+,coolboyQ,2011-02-11T11:44Z,I cant open the dmg file! What's the problem?? He says: No files in the dmg to open??
+,losinal,2011-02-14T20:06Z,"I tried to do that solution to the freezing problems and when I clicked Registry Editor, I got an error from the game. What the hell am I supposed to do when your solution doesn't work?"
+,Don_16G2,2011-02-27T15:35Z,"running pretty smoothly on my mac, with occasional lag like mentioned above...
+
+But I also have a savegame issue, when I turn my computer off the games loses my progress.... ????
+
+Solutions greatly appreciated"
+,kirb13,2011-03-10T17:14Z,rambambula did you solve the bike problem if you solve this please tell us
+,kirb13,2011-03-24T16:56Z,hurry up im going to delete this one if you connot find solution
+,kirb13,2011-03-27T13:22Z,fine
+,dustin24,2011-05-07T15:21Z,Didn't work for me... It freezes right in the first mission... :-(
+,infobiz,2011-05-12T03:41Z,lets talk add carrlolzhoney at h o t m a i l d0t com
+,smartmexi,2011-06-21T21:03Z,Will it work on 10.6.7 macbook 
+,Puzokva,2012-02-04T21:15Z,"@poeticile,,,will this work on my iMac ,,,spect is 21.5inch imac,quad core i5 2.6 gh,4GB ram with AMD radeon 512 mb and LION 10.7.2....pliz help me,I really need dis game."
+,gggarko,2012-02-22T23:02Z,"have downloaded and played all the series of COD modern warfare series,even black ops and cod WAW it runs pretty smooth with highest resolution without any lagging at my specs .
+   intel quad core i5,2.5GHz
+   4GB ram
+   AMD radeon 512 mb
+   mac os lion 10.7.2
+
+m gona download this one n try,,,if it work m gona seed and let you knw guys.."
+,deiab1,2012-03-09T02:22Z,Please seed please im begging u please seeeeeeeddddd
+,braunz,2012-03-10T05:40Z,Was working till atv mission on intel and freezes. now doesn't work on lion. Any suggestions? 
+,bankstel,2012-04-14T10:10Z,"I can't even start it properly, it opens and switches 1 time for white to black screen and then stays black.... i got Lion, what to do?"
+,nick_893,2012-06-06T16:48Z,"Running kinda smooth on Mac Mini 09' (i know it's old haha)
+Core 2 Duo 2.4 Ghz
+2 GB RAM
+Nvidia 320m (256 mb)"

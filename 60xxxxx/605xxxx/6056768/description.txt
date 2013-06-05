@@ -1,0 +1,158 @@
+How To Use Phoenix Service Software To Update Your Nokia Phone With The Latest
+Firmware.
+Things to be kept in mind before installing Phoenix Service Software:
+
+1. Do not connect your phone before installing Phoenix software.
+
+2. Now ensure you have no antivirus software or any other software
+running on your pc or in the system tray while you are using
+Phoenix. You should turn them off while using Phoenix. Make sure
+your system hasnt got any hanging problem.
+
+3. Turn off your screensaver.
+
+4. Charge your phone battery to at least 50%. Although flashing
+takes only 8-9 minutes.
+Installing Phoenix Service Software 2010:
+
+If you have older version of Phoenix, no need to uninstall it. This
+latest version will automatically replace it.
+
+1. Install the software. Be patient, it may take some minutes to install
+all the components.
+
+4. Dont run Phoenix software now.
+
+5. Connect your Nokia handset to your pc with USB cable in PC
+Suite mode.
+
+6. Windows will start installing the connectivity drivers as soon as
+you connect the phone. Let it install completely.
+Installing Firmware Files From The Offline Package You Downloaded:
+
+1. If your firmware file is in .rar format, first extract it using WinRar on
+desktop.
+
+2. On desktop you will find .exe file of your firmware file.
+
+3. Install the exe file. It will install it to default location of C:\Program
+files\Nokia\Phoenix\Products\
+
+4. Be sure you install updated firmware. You cannot downgrade your
+phones firmware in BB5 phones which includes all new Nokia
+phones including N-Series.
+
+5. Phoenix allows downgrading but your phone doesnt allow it as your phone has some special security built into it. 
+So no use of trying it. Youll get an error message.
+
+6. You can reinstall your current firmware also if you have its
+package. It is supported. It can also sometimes solve little issues.
+I revived my "Dead Phone".
+
+7.Scout the web for latest firmware for your specific phone.
+
+Flashing Procedure [Updating to latest firmware]:
+
+1. Open Phoenix Service Software.
+
+2. Connect your phone in PC Suite Mode.
+
+3. In Phoenix, click File>Manage Connections.
+
+4. Now click New.
+
+5. Now select the type of cable you are using. If you are using DKE-
+2, CA-53 [N-Series] cable, select USB.
+
+6. Click Next. It will find your product and say FOUND. If it doesnt
+find any, you can try changing your cable type by clicking Back.
+
+7. Click Next and then Finish.
+
+8. Now your cable type [USB] appears in the connection list. Select
+it. Click APPLY and then CLOSE.
+
+9. Now select File>Open Product.
+
+10. A list of RM code will open. Select your phones RM code. Like
+RM-133 for Nokia N73. Click OK
+
+11. Now select File>Scan Product.
+
+12. Your phones firmware info will appear at the extreme bottom of
+the Phoenix window.
+
+13. Now go to Flashing>Firmware Update.
+
+14. A window will open.
+
+15. On that window click Browse button [the one with three dots].
+
+16. A window will open with various products and various regions.
+Choose the region or country of your choice according to the
+language pack you want to install.
+
+17. Click Ok.
+
+18. Click Refurbish.
+
+19. Now your actual flashing has started. Dont touch your phone or press any button until the flashing has finished. 
+Also dont touch your data cable and your computer system.
+
+20. At the end Phoenix will tell you to remove your phone as the
+flashing has finished.
+
+21. Now wait for your phone to reboot into latest firmware.
+
+22. The flashing procedure takes 8-9 minutes, a lot faster than Nokia
+Software Updater.
+Flashing dead phones [Which show only white screen on startup]
+Note: You can install any firmware in dead phones whether it is latest and
+or the old one.
+
+1. The procedure is the same for flashing Dead phones.
+
+2. Start Phoenix. Connect your phone with USB Cable [phone is off
+at this time].
+
+3. Click File>Open Product. Select your RM code from the window
+that appears. Click OK.
+
+4. Click File> Manage Connections. Select No Connection. Then
+APPLY and CLOSE.
+
+5. Now straight away click Flashing>Firmware Update.
+
+6. A window will open. Click on Browse button [the one with 3 dots].
+
+7. A window will open with various products and various regions.
+Choose the region or country of your choice according to the
+language pack you want to install.
+
+8. Check the option â€œDead Phone USB Flashing.
+
+9. Click Refurbish.
+
+10. Flashing has started.
+
+11. After some seconds flashing will pause asking you to turn your
+phone ON.
+
+12. Press POWER button of your phone until backlight comes up.
+
+13. Flashing will proceed.
+
+14. Your phone will automatically start when the flashing finishes.
+After finish you can safely remove your data cable from handset.
+
+Important Note: If you want to install another update to your phone after
+a new firmware is released, first remove the previous version you installed
+in C:\Program files\Nokia\Phoenix\Products\
+Just delete all the contents of Products folder before installing a new
+firmware.
+
+Enjoy!
+
+*dotSIS*
+
+*[zaeb]*

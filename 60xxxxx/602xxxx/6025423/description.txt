@@ -1,0 +1,16 @@
+O'Reilly | November 2010 | 208 | PDF
+
+If youâ€™re a programmer or database administrator who uses SQL in your day-to-day work, this popular pocket guide is the ideal on-the-job reference. Youâ€™ll find many examples that address the languageâ€™s complexity, along with key aspects of SQL used in IBM DB2 Release 9.7, MySQL 5.1, Oracle Database 11g Release 2, PostgreSQL 9.0, and Microsoft SQL Server 2008 Release 2.
+
+SQL Pocket Guide describes how these database systems implement SQL syntax for querying, managing transactions, and making changes to data. It also shows how the systems use SQL functions, regular expression syntax, and type conversion functions and formats.
+
+All example SQL statements in this book execute against a set of tables, with data that you can quickly download. The third edition covers important database changes, including:
+
+* Oracleâ€™s support of the recursive WITH syntax, and addition of PIVOT and UNPIVOT operators
+* Functions new to Oracle, such as LISTAGG, NTH_VALUE, and more
+* PostgreSQLâ€™s support of recursive WITH and some window functions
+* DB2 syntax and datatypes, some compatible with Oracle
+* MySQL features such as the TIMESTAMP type and the TO_SECONDS function
+
+About the Author
+Jonathan Gennick is an SQL aficionado who writes extensively on the SQL language and other database topics. He is the author of several books, and also a number of articles in Oracle Magazine. He is currently a book editor focusing on database titles, primarily involving Oracle and SQL Server.

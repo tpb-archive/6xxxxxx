@@ -1,0 +1,10 @@
+User Type,Username,Date,Text
+[M],Ubehage,2011-01-04T03:07Z,"If you want to disable and remove this program, here is what you do:
+
+If you have already logged out, restart the computer and boot up in safe-mode.
+
+Run regedit.exe (the registry editor), and browse to this path:
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
+(on Windows XP, the last path is ""RunOnce"")
+
+Delete the value named ""FUBAR Shutdown 2011"""

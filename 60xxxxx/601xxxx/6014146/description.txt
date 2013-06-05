@@ -1,0 +1,36 @@
+
+
+
+iPhone 3G Custom Restore Firmware 4.2.1 8C148.ipsw
+
+
+Prerequisite:
+
+*This custom firmware is for iPhone 3G only
+
+*Your iPhone must be previously jailbroken with any method except Spirit method, in order to jailbreak with this custom firmware
+
+*Activation required AT&T active or non-active SIM card
+
+*You must have internet connection during  this entire process
+
+
+Instruction:
+
+1. Back up your iPhone with iTunes
+
+2. When your iPhone is in operating mode, hold down Shift key on your keyboard for windows, and alt key on your keyboard for mac, and then click Restore button in iTunes and locate the file "iPhone 3G Custom Firmware 4.2.1 8C148.ipsw" that came with this firmware, and ready to restore.
+
+3. Once restore is done, the iPhone will activate
+
+4. If you open Cydia then it will not open because you will need to update Cydia by doing step 5 and step 6 below:
+
+5. SSH into your iPhone and copy the Cydia folder that came with this firmware into the iPhone directory given below:
+
+/ private / var / root / Media
+
+6. Reboot your iPhone
+
+7. After reboot, now open Cydia has been updated, and you can open Cydia and perform all necessary updates as usual
+
+

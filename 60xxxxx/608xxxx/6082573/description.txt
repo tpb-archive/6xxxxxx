@@ -1,0 +1,50 @@
+HAL7600 - Permanent Windows {7/N/Server/Embedded} Activation
+
+Main Features:
+
+Provides an alternative way to activate Windows offline and privately.
+Works on most builds or Windows (7, N, Server, Embedded).
+Turns on activated and genuine status: LicenseStatus = 1; GenuineStatus = 0.
+Validates with WAT (Windows Activation Technologies) online.
+Resets the rearm count and then freezes the evaluation countdown (grace period time remaining).
+After the initial installation reboot, no further reboots are required to keep it activated.
+A simple click installs or uninstalls the program. It couldn't be any easier.
+
+Included Tools:
+
+Advanced patch cloaking, to hide any system mods from SFC and other resource digest checkers.
+Disable (or re-enable) Windows Defender or Microsoft Security Essentials.
+Change Windows Update settings easily
+Query the WMI database for product name and key, license and genuine status, etc. with ease.
+Check for pending system file repair / update jobs, and clear them from the queue.
+Initial Configuration Tasks / Server Manager activation status patch for Windows Server 2008 R2 and Windows Home Server 2011 (code named "Vail").
+Windows Embedded Standard patch to remove evaluation text from logo.
+
+v1.1 Change Log:
+
+Added a patching mechanism fix for the Windows Software Licensing Management Tool that should hopefully prevent it from being deleted unexpectedly, which in turn may actually solve several other seemingly unrelated problems, including the rearm reset not taking place, a dialog popping up at logon that says Ignore Ignore Ignore, a windows activation dialog that asks for the product key at logon, the Status not available message in computer properties, and WMI queries not working and just going blank.
+Removed an unnecessary registry backup & restore of a Windows Product Activation registry key.
+Removed an unnecessary service start.
+Added working directory specification that might help minimize problems with the rearm reset not working for some systems.
+
+VIRUS TOTAL REPORT; 
+http://www.virustotal.com/file-scan/report.html?id=b8c0ab0867b2fd85e868abb90dc92f01e7b3196ff43adf818b099b909eb3c91d-1294174279
+
+WINDOWS TORRENTS;
+
+MICROSOFT WINDOWS 7 ALL EDITIONS 32BIT;
+  
+http://thepiratebay.org/torrent/5268063
+
+MICROSOFT WINDOWS 7 ALL EDITIONS 64BIT;
+  
+http://thepiratebay.org/torrent/5270819
+
+MICROSOFT WINDOWS 7 ENTERPRISE 32BIT;
+  
+http://thepiratebay.org/torrent/5515708
+
+MICROSOFT WINDOWS 7 ENTERPRISE 64BIT;
+  
+http://thepiratebay.org/torrent/5519220
+

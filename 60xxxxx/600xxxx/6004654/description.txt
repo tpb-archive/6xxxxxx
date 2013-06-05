@@ -1,0 +1,222 @@
+DriverPack Solution 10R 149W + Installer Assistant 2.7.29 + SamDrivers 8.5 (2010) 
+
+Fecha de lanzamiento: 2010
+Version: DriverPack Solution: 10 R149W; SamDrivers: 8.5 Wedding Edition VersiÃ³n: SoluciÃ³n DriverPack: 10 R149W; SamDrivers: 8,5 boda EdiciÃ³n
+Language: English,Russian, Ukrainian, German, Azeri, Lithuanian, Turkish, French, Spanish, Italian, Dutch Idioma: InglÃ©s, ruso, ucraniano, alemÃ¡n, azerÃ­, lituano, turco, francÃ©s, espaÃ±ol, italiano, neerlandÃ©s
+
+DriverPack Solution 10 - This is the latest version of the most popular program to automatically install drivers. SoluciÃ³n DriverPack 10 - Esta es la Ãºltima versiÃ³n del programa mÃ¡s popular para instalar automÃ¡ticamente los controladores. This version contains a huge number, in fact, covcem one another in function and optimized for all platforms. Esta versiÃ³n contiene un nÃºmero enorme, de hecho, covcem entre sÃ­ en la funciÃ³n y optimizado para todas las plataformas. And thanks, in fact, a fresh database program installs a driver on vcyaky computer! Y gracias, de hecho, un programa de base de datos nueva instala un controlador en el equipo vcyaky!
+
+SamDrivers - a collection of drivers from SamLab for all 32-bit and 64-bit Windows from Windows 2000 to Windows 7 including server platforms. SamDrivers - una colecciÃ³n de controladores desde SamLab para todos los 32-bit y 64-bit Windows desde Windows 2000 a Windows 7, incluidas las plataformas de servidor. As the shell-installer program used Drivers Installer Assistant 2.7.29 and DriverPack Solution 10.0 R149 Pro to auto-detect your hardware and automatically install the necessary drivers! A medida que el programa de shell-installer utiliza instalador de controladores Asistente 2.7.29 y soluciÃ³n DriverPack 10,0 R149 Pro para detectar automÃ¡ticamente el hardware e instalar automÃ¡ticamente los controladores necesarios! The collection includes the most current at the moment the driver, collected personally SamLab. La colecciÃ³n incluye la mÃ¡s actual en este momento el conductor, recogiÃ³ personalmente SamLab.
+
+DriverPack Solution 10 R149W + Drivers Installer Assistant 2.7.29: SoluciÃ³n DriverPack 10 R149W + Drivers Auxiliar Instalador 2.7.29:
+
+Major changes in version 10 R149W: Los cambios importantes en la versiÃ³n 10 R149W:
+* Fixed a bug due to which prog is not always chose the most unspeakably fresh driver; * Se ha corregido un error debido a que no siempre es progresivo eligiÃ³ el piloto mÃ¡s inefablemente dulce;
+* Removed DPInst because of its glyuchnosti. * Eliminado DPInst debido a su glyuchnosti. Instead, all the time now used devcon. En su lugar, todo el tiempo ahora se utiliza devcon. DriverPack Solutuion uses these very external programs DriverPack Solutuion utiliza estos programas muy externos
+to perform the installation itself; para llevar a cabo la propia instalaciÃ³n;
+* Removed the option "Silent Installation". * Eliminada la opciÃ³n "InstalaciÃ³n silenciosa". This setting is specific to, in my opinion, a remote DPInst. Este ajuste es especÃ­fico, en mi opiniÃ³n, una DPInst remoto. Now working in quiet mode. Ahora trabaja en modo silencioso.
+* Removed, "in fact, forced" mode. * Eliminado ", de hecho, obligÃ³ a" modo. This setting is specific to the remote DPInst. Este ajuste es especÃ­fico de la DPInst remoto. Now it works all the time in a truly forced mode, since devcon hard-coded use of this particular regime; Ahora funciona todo el tiempo en un modo verdaderamente forzadas, ya que dura devcon codificados uso de este rÃ©gimen especial;
+* Fixed index: date and drivers are not always properly indexed. * El Ã­ndice fijo: la fecha y los conductores no siempre estÃ¡n debidamente indexados. As a result, these drivers were considered too surprisingly old to be offered for installation. Como resultado, estos conductores se consideraban demasiado viejo para ser sorprendentemente ofrecido para la instalaciÃ³n.
+* Fixed indexing: some drivers for 64-bit systems are not indexed; * Fija la indexaciÃ³n: algunos controladores para sistemas de 64 bits no estÃ¡n en el Ã­ndice;
+* Prog does not offer to install the less, in fact, compatible drivers than are already installed in the system (on the principle of priority HWID'ov device). * Prog no ofrece la posibilidad de instalar el menor, de hecho, los conductores compatibles que ya estÃ¡n instalados en el sistema (en el principio de prioridad del dispositivo HWID'ov).
+* Removed functionality to download code from the Internet and performing it on your computer with its user privileges, in particular now, it eliminates the appearance of reports of overheating, for many notebooks; * Eliminada la funcionalidad para descargar cÃ³digo desde Internet y ejecutarlo en su equipo con privilegios de su usuario, en especial ahora, que elimina la apariciÃ³n de los informes de sobrecalentamiento, para muchos portÃ¡tiles;
+* Removed the inscription beta. * Eliminada la beta inscripciÃ³n. R144 and above contains only a very critical fixes to R130; R144 y sobre contiene sÃ³lo una fija muy crÃ­tico para R130;
+* Removed the advice to use the manual mode really. * Se ha eliminado el consejo de usar el modo manual de verdad. Now, in a very basic mode uses Tan devcon that in a very manual mode. Ahora, en un modo muy bÃ¡sico utiliza devcon Tan que de un modo muy manual.
+
+List of drivers: Lista de los conductores:
+DP_Video_Intel_wnt6-x86_1007.7z DP_Video_Intel_wnt6-x86_1007.7z
+DP_Video_nVIDIA_wnt6-x86_1007.7z DP_Video_nVIDIA_wnt6-x86_1007.7z
+DP_Video_ATI_wnt6-x86_1007.7z DP_Video_ATI_wnt6-x86_1007.7z
+DP_Tuners_wnt6-x86_1007.7z DP_Tuners_wnt6-x86_1007.7z
+DP_Sound_Realtek_wnt6_x86_1007.7z DP_Sound_Realtek_wnt6_x86_1007.7z
+DP_Printers_wnt6-x86_1006.7z DP_Printers_wnt6-x86_1006.7z
+DP_Video_NEW_wnt6-x86_1007.7z DP_Video_NEW_wnt6-x86_1007.7z
+DP_Video_Others_wnt6-x86_1007.7z DP_Video_Others_wnt6-x86_1007.7z
+DP_Sound_Creativ_wnt6_x86_1007.7z DP_Sound_Creativ_wnt6_x86_1007.7z
+DP_Sound_Others_wnt6_x86_1007.7z DP_Sound_Others_wnt6_x86_1007.7z
+DP_Chipset_wnt6-x86_10071.7z DP_Chipset_wnt6-x86_10071.7z
+DP_CardReaders_wnt6-x86_1001.7z DP_CardReaders_wnt6-x86_1001.7z
+DP_WLAN_wnt6-x86_10071.7z DP_WLAN_wnt6-x86_10071.7z
+DP_HP_wnt6.7z DP_HP_wnt6.7z
+DP_Acer_wnt6.7z DP_Acer_wnt6.7z
+DP_LAN_wnt6-x86_1003.7z DP_LAN_wnt6-x86_1003.7z
+DP_Modem_wnt6-x86_1001.7z DP_Modem_wnt6-x86_1001.7z
+DP_Gaming_wnt6-x86_1001.7z DP_Gaming_wnt6-x86_1001.7z
+DP_TVcard_wnt6-x86_100201.7z DP_TVcard_wnt6-x86_100201.7z
+DP_MassStorage_wnt6-x86_1003.7z DP_MassStorage_wnt6-x86_1003.7z
+DP_WebCam_wnt6-x86_1001.7z DP_WebCam_wnt6-x86_1001.7z
+DP_Touchpad_Mouse_wnt6-x86_1003.7z DP_Touchpad_Mouse_wnt6-x86_1003.7z
+DP_FSC_wnt6.7z DP_FSC_wnt6.7z
+DP_apple_wnt6.7z DP_apple_wnt6.7z
+DP_CableModem_wnt6-x86_1001.7z DP_CableModem_wnt6-x86_1001.7z
+DP_RemoteControl_x86_809.7z DP_RemoteControl_x86_809.7z
+DP_FSC.7z DP_FSC.7z
+DP_Sound_Others_wnt5_x86-32_1007.7z DP_Sound_Others_wnt5_x86-32_1007.7z
+DP_Video_ATI_wnt5_x86-32_1007.7z DP_Video_ATI_wnt5_x86-32_1007.7z
+DP_Sound_Creativ_wnt5_x86-32_1007.7z DP_Sound_Creativ_wnt5_x86-32_1007.7z
+DP_Video_NEW_wnt5_x86-32_1007.7z DP_Video_NEW_wnt5_x86-32_1007.7z
+DP_Video_Intel_wnt5_x86-32_1007.7z DP_Video_Intel_wnt5_x86-32_1007.7z
+DP_WebCam_wnt5_x86-32_100724.7z DP_WebCam_wnt5_x86-32_100724.7z
+DP_Misc_wnt5_x86-32_100725.7z DP_Misc_wnt5_x86-32_100725.7z
+DP_Sound_Realtek_wnt5_x86-32_1007.7z DP_Sound_Realtek_wnt5_x86-32_1007.7z
+DP_Video_nVIDIA_wnt5_x86-32_1007.7z DP_Video_nVIDIA_wnt5_x86-32_1007.7z
+DP_Sound_Conexant_wnt5_x86-32_1007.7z DP_Sound_Conexant_wnt5_x86-32_1007.7z
+DP_Sound_SndMax_wnt5_x86-32_1007.7z DP_Sound_SndMax_wnt5_x86-32_1007.7z
+DP_Video_Others_wnt5_x86-32_1007.7z DP_Video_Others_wnt5_x86-32_1007.7z
+DP_USB_wnt5_x86-32_1006.7z DP_USB_wnt5_x86-32_1006.7z
+DP_Modem_wnt5_x86-32_100714.7z DP_Modem_wnt5_x86-32_100714.7z
+DP_MassStorage_wnt5_x86-32_100715.7z DP_MassStorage_wnt5_x86-32_100715.7z
+DP_Sound_VIA_wnt5_x86-32_1007.7z DP_Sound_VIA_wnt5_x86-32_1007.7z
+DP_Monitor_wnt5_x86-32_100711.7z DP_Monitor_wnt5_x86-32_100711.7z
+DP_Sound_Sigmatel_wnt5_x86-32_1007.7z DP_Sound_Sigmatel_wnt5_x86-32_1007.7z
+DP_TVTuners_wnt5_x86-32_1007.7z DP_TVTuners_wnt5_x86-32_1007.7z
+DP_Printer_wnt5_x86-32_1006.7z DP_Printer_wnt5_x86-32_1006.7z
+DP_Sound_CMedia_wnt5_x86-32_1007.7z DP_Sound_CMedia_wnt5_x86-32_1007.7z
+DP_Graphics_PhysX_wnt5_x86-32.7z DP_Graphics_PhysX_wnt5_x86-32.7z
+DP_LAN_wnt5_x86-32_1007.7z DP_LAN_wnt5_x86-32_1007.7z
+DP_WLAN_wnt5_x86-32_1007.7z DP_WLAN_wnt5_x86-32_1007.7z
+DP_HID_wnt5_x86-32_1007.7z DP_HID_wnt5_x86-32_1007.7z
+DP_Acer_wnt5.7z DP_Acer_wnt5.7z
+DP_IRU.7z DP_IRU.7z
+DP_Bluetooth_wnt5_x86-32_1005b1.7z DP_Bluetooth_wnt5_x86-32_1005b1.7z
+DP_TV_wnt5_x86-32_1005b1.7z DP_TV_wnt5_x86-32_1005b1.7z
+DP_Chipset_wnt5_x86-32_10052.7z DP_Chipset_wnt5_x86-32_10052.7z
+DP_Phone_wnt5_x86-32_100214.7z DP_Phone_wnt5_x86-32_100214.7z
+DP_CardReader_wnt5_x86-32_802.7z DP_CardReader_wnt5_x86-32_802.7z
+DP_Broadband_wnt5_x86-32_100529.7z DP_Broadband_wnt5_x86-32_100529.7z
+DP_CPU_wnt5_x86-32_1005.7z DP_CPU_wnt5_x86-32_1005.7z
+DP_Virtual_PCs_wnt5_x86-32_902.7z DP_Virtual_PCs_wnt5_x86-32_902.7z
+DP_HP_wnt5_x86-32.7z DP_HP_wnt5_x86-32.7z
+DP_samsung.7z DP_samsung.7z
+DP_UAA_wnt5_x86-32_1006.7z DP_UAA_wnt5_x86-32_1006.7z
+Printers_HP-universial.7z Printers_HP-universial.7z
+DP_ASUS.7z DP_ASUS.7z
+DP_PrintersCanonInkjet_wnt5_x86-32_61105.7z DP_PrintersCanonInkjet_wnt5_x86-32_61105.7z
+DP_PrintersCanonLaserjet_wnt5_x86-32_61020.7z DP_PrintersCanonLaserjet_wnt5_x86-32_61020.7z
+DP_PrintersHP_wnt5_x86-32_71126.7z DP_PrintersHP_wnt5_x86-32_71126.7z
+DP_Scanner_wnt5_x86-32_60831.7z DP_Scanner_wnt5_x86-32_60831.7z
+DP_IRBIS.7z DP_IRBIS.7z
+DP_LenovoT500Laptop_wnt5_x86-32_090818.7z DP_LenovoT500Laptop_wnt5_x86-32_090818.7z
+DP_Video_ATI_wnt6-x64_1007.7z DP_Video_ATI_wnt6-x64_1007.7z
+DP_Video_NEW_wnt6-x64_1007.7z DP_Video_NEW_wnt6-x64_1007.7z
+DP_Sound_Creativ_wnt6_x64_1007.7z DP_Sound_Creativ_wnt6_x64_1007.7z
+DP_Sound_Others_wnt6_x64_1007.7z DP_Sound_Others_wnt6_x64_1007.7z
+DP_Chipset_wnt6-x64_10071.7z DP_Chipset_wnt6-x64_10071.7z
+DP_Video_nVIDIA_wnt6-x64_1007.7z DP_Video_nVIDIA_wnt6-x64_1007.7z
+DP_Video_Others_wnt6-x64_1007.7z DP_Video_Others_wnt6-x64_1007.7z
+DP_Tuners_wnt6-x64_1007.7z DP_Tuners_wnt6-x64_1007.7z
+DP_Printers_wnt6-x64_1006.7z DP_Printers_wnt6-x64_1006.7z
+DP_Sound_Realtek_wnt6_x64_1007.7z DP_Sound_Realtek_wnt6_x64_1007.7z
+DP_Video_Intel_wnt6-x64_1007.7z DP_Video_Intel_wnt6-x64_1007.7z
+DP_WLAN_wnt6-x64_10071.7z DP_WLAN_wnt6-x64_10071.7z
+DP_Touchpad_Mouse_wnt6-x64_1003.7z DP_Touchpad_Mouse_wnt6-x64_1003.7z
+DP_TVCard_wnt6-x64_908.7z DP_TVCard_wnt6-x64_908.7z
+DP_WebCam_wnt6-x64_1002.7z DP_WebCam_wnt6-x64_1002.7z
+DP_Gaming_wnt6-x64_812.7z DP_Gaming_wnt6-x64_812.7z
+DP_MassStorage_wnt6-x64_1003.7z DP_MassStorage_wnt6-x64_1003.7z
+DP_LAN_wnt6-x64_1003.7z DP_LAN_wnt6-x64_1003.7z
+DP_CardReaders_wnt6-x64_1002.7z DP_CardReaders_wnt6-x64_1002.7z
+DP_Monitors_wnt6-x64_911.7z DP_Monitors_wnt6-x64_911.7z
+DP_ACER_X64.7z DP_ACER_X64.7z
+DP_apple_x64.7z DP_apple_x64.7z
+DP_Input_wnt6-x64_1002.7z DP_Input_wnt6-x64_1002.7z
+DP_Misc_Device_x64_911.7z DP_Misc_Device_x64_911.7z
+DP_Graphics_NV25896_wnt5_x32_1007Q.7z DP_Graphics_NV25896_wnt5_x32_1007Q.7z
+DP_Graphics_NV25896_wnt6_x64_1007Q.7z DP_Graphics_NV25896_wnt6_x64_1007Q.7z
+DP_Graphics_NV25896_wnt6_x32_1007Q.7z DP_Graphics_NV25896_wnt6_x32_1007Q.7z
+DP_Graphics_ATI_wnt6_x64_1007Q.7z DP_Graphics_ATI_wnt6_x64_1007Q.7z
+DP_Graphics_ATI_wnt5_x32_1007Q.7z DP_Graphics_ATI_wnt5_x32_1007Q.7z
+DP_Graphics_ATI_wnt6_x32_1007Q.7z DP_Graphics_ATI_wnt6_x32_1007Q.7z
+DP_Graphics_NV19805_wnt5_x32_1006Q.7z DP_Graphics_NV19805_wnt5_x32_1006Q.7z
+DP_Graphics_NV19805_wnt6_x64_1006Q.7z DP_Graphics_NV19805_wnt6_x64_1006Q.7z
+DP_Graphics_NV19805_wnt6_x32_1006Q.7z DP_Graphics_NV19805_wnt6_x32_1006Q.7z
+
+Drivers Installer Assistant PreFinal 2.7.29 - Assistant to install drivers. Ayudante instalador de controladores prefinal 2.7.29 - Asistente para instalar los controladores. The program is designed for quick and easy installation of device drivers on the computer with the installed operating system Microsoft Windows. El programa estÃ¡ diseÃ±ado para una instalaciÃ³n rÃ¡pida y fÃ¡cil de controladores de dispositivos en el equipo con el sistema operativo instalado Microsoft Windows. To install using pre-prepared or downloaded from other sites driver packages, including with our own. Para instalar utilizando preparados o descargados de otros paquetes de controladores de sitios, incluyendo la nuestra. Installing drivers is a few clicks of the mouse. InstalaciÃ³n de controladores es un par de clics del ratÃ³n. When you run the program itself will determine the device, I must admit, installed on your computer and will offer, in fact, the necessary drivers to install or upgrade. Al ejecutar el programa en sÃ­ determinarÃ¡ el dispositivo, debo admitir, instalado en su equipo y ofrecer, de hecho, los drivers necesarios para instalar o actualizar.
+
+SamDrivers 8.5 Wedding Edition: SamDrivers 8,5 boda EdiciÃ³n:
+
+Do not confuse this package with a driver-packs from Bashrat and others - the current driver is newer and more stable than others because SamLab is a member of the team Bashrat and has the opportunity to know about all the problems similar driver-packs to create its own set of the most complete and peaceful! No se debe confundir este paquete con un controlador de paquetes de Bashrat y otros - el controlador actual es mÃ¡s reciente y mÃ¡s estable que otros porque SamLab es un miembro de la Bashrat equipo y tiene la oportunidad de conocer todos los problemas similares paquetes de controlador para crear su propio conjunto de los mÃ¡s completos y en paz!
+
+Installation: InstalaciÃ³n:
+Share SamSoft folder at the root of any hard drive with an option to record on DVD. Compartir SamSoft carpeta en la raÃ­z de cualquier disco duro con una opciÃ³n de grabar en DVD.
+As a result, after placing the downloaded folder to the root SamSoft hard disk - should receive the following directory structure: Como resultado, despuÃ©s de colocar la carpeta de descarga en el disco raÃ­z SamSoft duro - debe recibir la siguiente estructura de directorios:
+
+Drivers for Windows XP/2000 x86: Drivers para Windows XP/2000 x86:
+DP_Bluetooth_wnt5_x86-32_1005b1.7z DP_Bluetooth_wnt5_x86-32_1005b1.7z
+DP_Broadband_wnt5_x86-32_100529.7z DP_Broadband_wnt5_x86-32_100529.7z
+DP_CardReader_wnt5_x86-32_802.7z DP_CardReader_wnt5_x86-32_802.7z
+DP_Chipset_wnt5_x86-32_10052.7z DP_Chipset_wnt5_x86-32_10052.7z
+DP_CPU_wnt5_x86-32_1005.7z DP_CPU_wnt5_x86-32_1005.7z
+DP_HID_wnt5_x86-32_1007.7z DP_HID_wnt5_x86-32_1007.7z
+DP_LAN_wnt5_x86-32_1008.7z DP_LAN_wnt5_x86-32_1008.7z
+DP_MassStorage_wnt5_x86-32_100802.7z DP_MassStorage_wnt5_x86-32_100802.7z
+DP_Misc_wnt5_x86-32_100725.7z DP_Misc_wnt5_x86-32_100725.7z
+DP_Modem_wnt5_x86-32_100714.7z DP_Modem_wnt5_x86-32_100714.7z
+DP_Monitor_wnt5_x86-32_100711.7z DP_Monitor_wnt5_x86-32_100711.7z
+DP_Phone_wnt5_x86-32_100214.7z DP_Phone_wnt5_x86-32_100214.7z
+DP_Printer_wnt5_x86-32_1006.7z DP_Printer_wnt5_x86-32_1006.7z
+DP_Sound_CMedia_wnt5_x86-32_1007.7z DP_Sound_CMedia_wnt5_x86-32_1007.7z
+DP_Sound_Conexant_wnt5_x86-32_1007.7z DP_Sound_Conexant_wnt5_x86-32_1007.7z
+DP_Sound_Creativ_wnt5_x86-32_1007.7z DP_Sound_Creativ_wnt5_x86-32_1007.7z
+DP_Sound_Others_wnt5_x86-32_1007.7z DP_Sound_Others_wnt5_x86-32_1007.7z
+DP_Sound_Realtek_wnt5_x86-32_1008.7z DP_Sound_Realtek_wnt5_x86-32_1008.7z
+DP_Sound_Sigmatel_wnt5_x86-32_1007.7z DP_Sound_Sigmatel_wnt5_x86-32_1007.7z
+DP_Sound_SndMax_wnt5_x86-32_1007.7z DP_Sound_SndMax_wnt5_x86-32_1007.7z
+DP_Sound_VIA_wnt5_x86-32_1007.7z DP_Sound_VIA_wnt5_x86-32_1007.7z
+DP_TV_wnt5_x86-32_1005b1.7z DP_TV_wnt5_x86-32_1005b1.7z
+DP_TVTuners_wnt5_x86-32_1007.7z DP_TVTuners_wnt5_x86-32_1007.7z
+DP_USB_wnt5_x86-32_1006.7z DP_USB_wnt5_x86-32_1006.7z
+DP_Video_ATI_wnt5_x86-32_1008.7z DP_Video_ATI_wnt5_x86-32_1008.7z
+DP_Video_Intel_wnt5_x86-32_1007.7z DP_Video_Intel_wnt5_x86-32_1007.7z
+DP_Video_NEW_wnt5_x86-32_1007.7z DP_Video_NEW_wnt5_x86-32_1007.7z
+DP_Video_nVIDIA_wnt5_x86-32_1008.7z DP_Video_nVIDIA_wnt5_x86-32_1008.7z
+DP_Video_Others_wnt5_x86-32_1007.7z DP_Video_Others_wnt5_x86-32_1007.7z
+DP_Virtual_PCs_wnt5_x86-32_902.7z DP_Virtual_PCs_wnt5_x86-32_902.7z
+DP_WebCam_wnt5_x86-32_1008.7z DP_WebCam_wnt5_x86-32_1008.7z
+DP_WLAN_wnt5_x86-32_1007.7z DP_WLAN_wnt5_x86-32_1007.7z
+
+Drivers for Windows 7/Vista x86: Drivers para Windows x86 7/Vista:
+DP_CardReaders_wnt6-x86_1001.7z DP_CardReaders_wnt6-x86_1001.7z
+DP_Chipset_wnt6-x86_10071.7z DP_Chipset_wnt6-x86_10071.7z
+DP_Gaming_wnt6-x86_1001.7z DP_Gaming_wnt6-x86_1001.7z
+DP_LAN_wnt6-x86_1008.7z DP_LAN_wnt6-x86_1008.7z
+DP_MassStorage_wnt6-x86_1003.7z DP_MassStorage_wnt6-x86_1003.7z
+DP_Modem_wnt6-x86_1001.7z DP_Modem_wnt6-x86_1001.7z
+DP_Printers_wnt6-x86_1006.7z DP_Printers_wnt6-x86_1006.7z
+DP_Sound_Creativ_wnt6_x86_1007.7z DP_Sound_Creativ_wnt6_x86_1007.7z
+DP_Sound_Others_wnt6_x86_1007.7z DP_Sound_Others_wnt6_x86_1007.7z
+DP_Sound_Realtek_wnt6_x86_1008.7z DP_Sound_Realtek_wnt6_x86_1008.7z
+DP_Touchpad_Mouse_wnt6-x86_1003.7z DP_Touchpad_Mouse_wnt6-x86_1003.7z
+DP_Tuners_wnt6-x86_1007.7z DP_Tuners_wnt6-x86_1007.7z
+DP_TVcard_wnt6-x86_100201.7z DP_TVcard_wnt6-x86_100201.7z
+DP_Video_ATI_wnt6-x86_1007.7z DP_Video_ATI_wnt6-x86_1007.7z
+DP_Video_Intel_wnt6-x86_1008.7z DP_Video_Intel_wnt6-x86_1008.7z
+DP_Video_NEW_wnt6-x86_1007.7z DP_Video_NEW_wnt6-x86_1007.7z
+DP_Video_nVIDIA_wnt6-x86_1007.7z DP_Video_nVIDIA_wnt6-x86_1007.7z
+DP_Video_Others_wnt6-x86_1007.7z DP_Video_Others_wnt6-x86_1007.7z
+DP_WebCam_wnt6-x86_1001.7z DP_WebCam_wnt6-x86_1001.7z
+DP_WLAN_wnt6-x86_10071.7z DP_WLAN_wnt6-x86_10071.7z
+
+Drivers for Windows 7/Vista x64: Drivers para Windows x64 7/Vista:
+DP_CardReaders_wnt6-x64_1002.7z DP_CardReaders_wnt6-x64_1002.7z
+DP_Chipset_wnt6-x64_10071.7z DP_Chipset_wnt6-x64_10071.7z
+DP_Gaming_wnt6-x64_812.7z DP_Gaming_wnt6-x64_812.7z
+DP_LAN_wnt6-x64_1008.7z DP_LAN_wnt6-x64_1008.7z
+DP_MassStorage_wnt6-x64_1003.7z DP_MassStorage_wnt6-x64_1003.7z
+DP_Monitors_wnt6-x64_911.7z DP_Monitors_wnt6-x64_911.7z
+DP_Printers_wnt6-x64_1006.7z DP_Printers_wnt6-x64_1006.7z
+DP_Sound_Creativ_wnt6_x64_1007.7z DP_Sound_Creativ_wnt6_x64_1007.7z
+DP_Sound_Others_wnt6_x64_1007.7z DP_Sound_Others_wnt6_x64_1007.7z
+DP_Sound_Realtek_wnt6_x64_1008.7z DP_Sound_Realtek_wnt6_x64_1008.7z
+DP_Touchpad_Mouse_wnt6-x64_1003.7z DP_Touchpad_Mouse_wnt6-x64_1003.7z
+DP_Tuners_wnt6-x64_1007.7z DP_Tuners_wnt6-x64_1007.7z
+DP_TVCard_wnt6-x64_908.7z DP_TVCard_wnt6-x64_908.7z
+DP_Video_ATI_wnt6-x64_1007.7z DP_Video_ATI_wnt6-x64_1007.7z
+DP_Video_Intel_wnt6-x64_1008.7z DP_Video_Intel_wnt6-x64_1008.7z
+DP_Video_NEW_wnt6-x64_1007.7z DP_Video_NEW_wnt6-x64_1007.7z
+DP_Video_nVIDIA_wnt6-x64_1007.7z DP_Video_nVIDIA_wnt6-x64_1007.7z
+DP_Video_Others_wnt6-x64_1007.7z DP_Video_Others_wnt6-x64_1007.7z
+DP_WebCam_wnt6-x64_1002.7z DP_WebCam_wnt6-x64_1002.7z
+DP_WLAN_wnt6-x64_10071.7z DP_WLAN_wnt6-x64_10071.7z
+
+

@@ -1,0 +1,55 @@
+
+
+Kaspersky key changer
+
+Introduction
+
+*Kaspersky key changer is easy method to activate kaspersky 2011 with keyfile.
+*it is a tear-free, no0b friendly method to activate Kaspersky keys.
+*All you need is the keyfile, and you've to drag and drop it on my macro-program and it'll automatically install the key (without having to disconnect the internet) ;)
+
+Important:
+
+1. If your previous keys are blacklisted, you should delete them, before using this 'drag and drop'. If you don't know how to delete the previous / blacklisted keys, then see this screenshot
+
+
+authentication
+
+the files has been checked by me.
+tested by KIS 2011, malwarebytes, virustotal.com and checked manually by unpacking the file.
+
+kIS 2011 - PR9Y0.png
+sandbox - j5WdB.png
+malwarebytes - OGIHq.png
+virus total - http://www.virustotal.com/file-scan/report.html?id=62997ed127328ce08c6b1634b21a17dab331122e181a89ae4294b96d8d858ff4-1291871527
+
+Tested on
+
+-Microsoft XP SP3 (32-bit)
+-Kaspersky Internet Security 2011 (v. 11.0.1.400)
+-should work on Vista / Win7, as long as you've the Administrative rights.
+
+HOW to USE
+
+-double click "kaspersky key changer.exe"
+-drag and drop key file in the window
+-wait for sometime
+-you key is changed without having to disconnect the internet.
+
+
+FAQ
+Q. I drag-and dropped the key file but its not working? Kaspersky says my application is not activated?
+A. Many reasons, but the main is that you've to delete the previously blacklisted keys from the software before you can install the new keys. You can at max have 2 keys in your software.
+So first delete the previously blacklisted key before trying to install the new key. If you don't know how to delete the keys, then see this screenshot in above answer. Other reasons-
+
+Reason#1: You've incompatible key file
+The key file in your harddisk is of different version. Example, you've Kaspersky internet security(KIS) software but you're trying to activate it with Kaspersky Antivirus Software(KAV).
+Or perhaps the keyfile is already blacklisted or of older version software.
+Solution: download the latest key file for free
+
+Reason#2: You don't have the administrative rights (You are using the computer via guest account etc) that's why program is not installing the keys.
+Solution: Log in to the different user account with Administrative rights and try again.
+
+Q. How to know if it worked or not? or How do I know if keys were installed or not?
+A. Well just double click on the Kaspersky icon in the traybar and you'll see the Kaspersky window. If on the right side bottom it says 'xyz days remaining' that means it worked.
+

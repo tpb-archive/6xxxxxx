@@ -1,0 +1,46 @@
+General
+Complete name                    : Preslava moqt nov lubovnik.mkv
+Format                           : Matroska
+File size                        : 34.7 MiB
+Duration                         : 4mn 14s
+Overall bit rate                 : 1 143 Kbps
+Encoded date                     : UTC 2008-05-18 18:15:50
+Writing application              : mkvmerge v2.1.0 ('Another Place To Fall') built on Aug 19 2007 10:46:59
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L5.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 8 frames
+Muxing mode                      : Container profile=Unknown@5.1
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 4mn 14s
+Bit rate                         : 992 Kbps
+Width                            : 448 pixels
+Height                           : 336 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.264
+Stream size                      : 29.2 MiB (84%)
+Writing library                  : x264 core 54
+
+Audio
+ID                               : 2
+Format                           : Vorbis
+Format settings, Floor           : 1
+Codec ID                         : A_VORBIS
+Duration                         : 4mn 14s
+Bit rate mode                    : Constant
+Bit rate                         : 160 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 44.1 KHz
+Stream size                      : 4.86 MiB (14%)
+Writing library                  : libVorbis 1.1.1/1.1.2 (UTC 2005-03-04)

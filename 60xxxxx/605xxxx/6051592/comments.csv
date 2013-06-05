@@ -1,0 +1,51 @@
+User Type,Username,Date,Text
+[T],ADHDerby,2010-12-19T11:05Z,This release contains a new license file and settings which unlock DVD-Audio (MLP) support + TruSurround XT and TSXT Headphone Mode
+[T],xxThugxx,2010-12-19T13:26Z,"many thanks ADHDerby, perfect as alway =)"
+,rvcybers,2010-12-19T13:55Z,Thanks mate
+,rogamosh,2010-12-19T19:45Z,Thank You So Much Man.....You r a real star......
+,robsinbc,2010-12-19T23:01Z,"much appreciated
+cheers!"
+,brianxxx,2010-12-20T16:49Z,Thanks. One million times over!
+[T],ADHDerby,2010-12-21T16:07Z,"You're welcome,.. a big thanks to the seeders!! :)"
+,mailmetrash,2010-12-23T22:15Z,i can't seem to get hd-dvd playback...is this not mark ii ultra? because that version doesn't show up on my player
+[T],ADHDerby,2010-12-24T12:25Z,"This is PowerDVD 10 Mark II Ultra Max. You can check the version type in the about screen (right click and select About... or click on the ""Cyberlink PowerDVD"" letters on the top left).
+PowerDVD 10 supports the playback of HD videos (MKV, H264, M2TS, DivX HD, WMV HD) and Blu-Rays, but it doesn't support the playback of HD-DVDs."
+,jessonei,2010-12-24T20:31Z,"I can play dvd's and music, but it says it doesnt support playing .mkv files. Help plz!"
+,American_Slacker,2010-12-25T06:46Z,Thanks... but there's no Dolby Virtual Speaker sound option :(
+[T],ADHDerby,2010-12-25T11:50Z,"@ jessonei: Most of the time it is caused by other mkv codecs  or codec packs. Try to uninstall them and then reinstall PowerDVD.
+
+@ American_Slacker: Stop the playback and open the Settings screen. If you set the Speaker environment to 2 speakers, you can select Dolby Virtual Speaker or Dolby Surround Compatible Downmix. If you set the Speaker environment to 4 speakers or higher, you can select Dolby Pro Logic IIx. But I certainly recommend to try the TruSurround XT option. :)"
+,jessonei,2010-12-25T14:21Z,"@ADHDerby, thnx for quick reply. Quite strange if that is the reason cause it did work on my laptop instantly (and the laptop has so much codecs installed, since I am trying to find the best one, so 1080p content doesn't get out of sync). Although, I do have KMplayer installed on my pc. I will try uninstalling that. 
+
+Besides, thank you so much for this software. The codec for mkv of this program is really fast with hardware acceleration on, and the 3D is so awesome. I am glad it supports red and cyan glasses, since I have a pair. 
+
+Another question: how to get subtitles on when playing a .mkv file?"
+,jessonei,2010-12-25T14:26Z,"@ADHDerby, thnx for quick reply. Quite strange if that is the reason cause it did work on my laptop instantly (and the laptop has so much codecs installed, since I am trying to find the best one, so 1080p content doesn't get out of sync). Although, I do have KMplayer installed on my pc. I will try uninstalling that. 
+
+Besides, thank you so much for this software. The codec for mkv of this program is really fast with hardware acceleration on, and the 3D is so awesome. I am glad it supports red and cyan glasses, since I have a pair. 
+
+Another question: how to get subtitles on when playing a .mkv file? Drag and drop doesn't seem to work."
+,jessonei,2010-12-25T14:27Z,"@ADHDerby, thnx for quick reply. Quite strange if that is the reason cause it did work on my laptop instantly (and the laptop has so much codecs installed, since I am trying to find the best one, so 1080p content doesn't get out of sync). Although, I do have KMplayer installed on my pc. I will try uninstalling that. 
+
+Besides, thank you so much for this software. The codec for mkv of this program is really fast with hardware acceleration on, and the 3D is so awesome. I am glad it supports red and cyan glasses, since I have a pair. LET HOME CINEMA BEGIN! :D"
+,jessonei,2010-12-25T14:36Z,"HOLY SHIT, kill the messages"
+[T],ADHDerby,2010-12-25T20:28Z,"You're welcome!
+I really dig the 3D support,.. the conversion of 2D to 3D is great, I would never believe it until I saw it. :)
+About the subtitles: Name the subtitle file the same as the movie file and place them in the same folder. Play the movie, click on the Video text at the bottom left, click on Primary Subtitles and select Subpicture 1."
+,jessonei,2010-12-25T21:17Z,"I still don't get MKV files to work. I have disabled all the codecs which could be disabled (only some basics Windows codecs refused to get disabled). I reinstalled often. Why does it not work on my pc, but does it on my laptop? :("
+[T],ADHDerby,2010-12-25T22:52Z,"You can try if this works; open the Run dialog and copy, paste and run this command (32-bit):
+Regsvr32.exe ""%ProgramFiles%\CyberLink\PowerDVD10\NavFilter\CLMKVSplter.ax""
+If you are running a 64-bit version of Windows, copy, paste and run this command: 
+Regsvr32.exe ""%ProgramFiles(x86)%\CyberLink\PowerDVD10\NavFilter\CLMKVSplter.ax"""
+,Kn3at,2010-12-26T07:51Z,"I can't get this to work.  It installed without any issue, but when I start the program, after a few seconds it just crashes."
+[T],ADHDerby,2010-12-26T11:35Z,@ Kn3at: Update your audio and video card drivers and reinstall PowerDVD
+,jessonei,2010-12-29T21:30Z,"@ADHDerby, I have excactly copy, pasted and run what you pasted. My pc said something was changed succesfully but it still doesn't work, damn it. :( I did not understand the ""%"" in your shortcut. Are they supposed to be changed? If not, do you know a final solution to play .mkv files?"
+[T],ADHDerby,2010-12-29T23:39Z,"You did the right thing (excactly copy, past and run), %ProgramFiles% automatically refers to your program files directory, no matter on which drive Windows is installed.
+I don't know a final solution, but they are investigating this issue: http://forum.cyberlink.com/forum/posts/list/15/14100.page
+I hope they fix it in their next release."
+,jadster12,2010-12-30T02:31Z,"Just a bit of help, after installing this, can updates be downloaded or would that ruin it?"
+[T],ADHDerby,2010-12-30T06:28Z,"You can update it, but it will update to Mark II Ultra (you'll lose the Max license).
+To keep the Max license, save a copy of PowerDVD10.sim (you can find it in the PowerDVD directory), update PowerDVD and overwrite PowerDVD10.sim with your saved one.
+After the update it will ask to register,.. just enter a phony name + email address, and the reminder won't popup anymore."
+,jessonei,2010-12-30T12:14Z,"@ADHDerby, Thnx anyway. I will use Totalmedia Theatre for now."
+,rogamosh,2011-01-27T12:13Z,Thanks....Can U Plz Upload CyberLink Power Recover 5?

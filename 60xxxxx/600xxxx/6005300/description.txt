@@ -1,0 +1,452 @@
+This is Windows XP Live CD (very famous).
+
+This is VERY A RARE STUFF.
+
+PLEASE ONE WHO DOWNLOAD THIS TORRENT MUST ALSO SEED THIS TO OTHERS AT LEAST 1:1 RATIO. PLEASE HELP ME BY YOUR SEEDING. MY NET CONNECTION IS TOO SLOW.
+
+Description
+What is this disk?
+
+It is primarily designed to be an emergency disk for your PC. For whatever reason, if something happens to your current OS and you need to keep working on something, this disk can come to the rescue - Windows XP on a CD! If you need to diagnose what went wrong and fix it, this is your CD. Load up Windows XP Professional SP2 without affecting or touching your system files and use one of the many many many recovery programs that have been included if you need to recover existing data.
+
+Or you could use it for a session if you have guests over and they want to use your machine and you don't want them changing your system configurations - let them use this. They can browse the net with Firefox (with lots of extensions) and do it safely with ZoneAlarm firewall that only starts if you need it. They can watch music videos and listen to music while working on a document in one of the many productivity apps, and even encode and decode xvid avi files! There's some games too, classic ones that you may actually like.
+
+While it isn't as good as actually having Windows XP installed onto a hard disk, it comes reasonably close.
+
+This is still at the beta stage due to many more improvements i can already see that can be made. If i only had the time! Also, this is designed to work for everyone not just me and so i need to release this into the wild and get some feedback and what better place to do this than STF! Previous versions of this CD have already been tested on 20 or more machines and they all worked to some degree and the current version should work for around 99% of people i reckon. These are good odds so it shouldn't be a waste of time downloading this beta. By the time version 1.0 comes around, i hope to already have some feedback so if you are interested in helping development, please give it a try and report your experiences.
+
+For some people your hardware may prevent you from using this CD as intended. If this is the case, please get in touch with me and i'll see if i can insert your hardware INF files. Give as much info about your system as possible - best to use an app like Everest which has excellent reporting on hardware options.
+
+Having said all that, even at beta, if it works for you this CD will beat any of the other Live XP discs out there, hands down. No competition. ie "that's not a live XP disc .... * pulls out shiny CD from pants * ... THIS is a Live XP CD!"
+
+Features
+
+* Boots your PC with Windows XP Professional SP2. Most features you are used to are available in terms of Start Menu, Desktop, Windows Explorer, Registry, etc.
+
+* Video support is provided by the VBEMP x86 Project which produced the Universal VESA/VBE Video Display Driver for Windows NT x86 Architecture that drives the video in the PE. This means that most people will see something, even if its not the highest resolution you are used to. For example, i have a 1440 x 900 screen that only gives me a max resolution of 1152 x 864 in the PE due to not supporting widescreen resolutions by default but that's still pretty good considering. The best resolution i've been able to get is 1280 x 1024 x 32 bit color. Those with flat panels with exactly this default resolution will have the best experience.
+
+* Network and Mass Storage support is via the latest driverpacks from driverpacks.net -- they will work for most of the world's network cards (not wireless though sorry) and also the latest SATA drives. These network card drivers combined with PENetwork 0.39 (automatically starts and asks if you want to start networking) will get 99% of people with LAN network connections onto the net, if that is how you normally connect.
+
+* Audio support is provided for most systems via the XPE project. The following cards are supported: Realtek AC97 base, kxAudio (SBLive/Audigy), Creative PCI, Creative SB16, Aureal Vortex 8810/8820/8830, VIA AC97, Intel 82801AA/AB/BA/CA AC97, SiS 7018, ALi Audio Accelerator, Crystal WDM, CS4281, ESS Allegro, Maestro, etc., Yamaha DS1, OPL3-SAx, Aztech 2320, NeoMagic MagicMedia, USB Audio, and also MS VMWare, and Virtual PC.
+
+* USB device support is available for external hard drives, mice and keyboards but please plug-in prior to booting with the CD. All external hard disks should be recognized.
+
+* Over 300 apps are available from the CD, the shortcuts are dynamically created at boot time. It's easy to add and subtract from this list to make your custom CD, just have a look inside the ppApps folder and work it out. To take out apps, just delete the folder. To add apps, just include the required files - use the existing folders to understand how it works. Then use the file inside the MakeCD folder to re-make the CD image.
+
+* Boot SDI - The entire system directory for the OS is loaded into your RAM at boot time. This was achieved using the Boot SDI script in WinBuilder. This means you have a limited ability to install programs you wish to use for a PE session. The amount of space isn't huge, you only get 24 MB of free space for your system directories but this should be sufficient for most apps, the program files can go onto another drive. Anything that needs to reboot will not generally work but everything else should.
+
+* Loading into your RAM also means a relatively short load time. It should only take 2 - 4 minutes, as opposed to 6 - 10 mins if you are booting directly from the CD. It is also a much more responsive system due to operating entirely inside your RAM as opposed to relying on a very slow connection between your CD drive and PC.
+
+* A RAM disk is also created in addition to loading the system folders into RAM. This was set to allocate the size of the disk using a % based formula that allocates different amounts depending on how much you have actually available. Many applications will make use of this space and will be assigned to the B: drive. This is how it equates:
+
+- 512 MB installed RAM will have a 60 MB RAM disk;
+- 768 MB - 120 MB
+- 1 GB - 171 MB
+- 2 GB - 375 MB
+
+* The following apps are integrated into the explorer shell: 7-Zip 4.57, CMD anywhere, Scanner 2.8, and WinRAR 3.71. Also, FoxitReader 2.2 will open PDF files automatically, and Irfan View will open all the files it recognizes which includes audio files and HEAPS of others. Also integrated were Windows Scripting (WSH), Visual Basic (VB6), and AutoIT (au3).
+
+* The following apps are loaded automatically on booting: Unlocker 1.86, and PowerMenu 1.51.
+
+System Minimum Requirements:
+
+* Any computer that can normally run XP, with at least 512 MB of RAM to have all features available. This may also run on systems with only 384 but it won't be very usable. It defintely won't work on a system with only 256 MB.
+* A CD or DVD drive (the faster the better).
+
+System Recommended Requirements:
+
+* Any computer that can normally run XP with at least 1024 MB of RAM. All features and applications will work.
+
+
+List of apps
+
+- all apps have a description you can read when you hover your mouse over the shortcut icon.
+
+** Accessories
+Calculator
+Notepad
+Registry Editor
+Task Manager
+Windows Explorer
+Wordpad
+
+** Audio
+Audacity 1.3.5
+BonkEnc 1.06
+CDex 1.70
+CoolPlayer 2.16
+Easy CDDA Extractor Professional 11.1.0
+Exact Audio Copy 0.99 pb4
+LameXP 2.03
+MP3 Splitter & Joiner 3.03
+Mp3tag 2.39c
+mp3Trim Pro 1.90
+
+** CD & DVD
+ImgBurn 2.4.1.0
+Nero Burning ROM 7.7.5.1
+VisualSubst 2.6.3
+Nero CD-DVD Speed 4.7.7.5
+CDCheck 3.0.1.43
+Infra Recorder 0.44.1
+Infra Express 0.44.1
+DiskCheck 1.00.0075
+Recovery Toolbox for CD 1.0
+LC ISO Creator v1.1
+HT-Fireman 0.4 (1.4)
+Virtual Floppy Drive 2.1
+Media Checker 2.03
+Nero DriveSpeed 3.0
+EasyDVDBurner 3.0
+ExpressBurn 4.08
+WinImage 6.10.6100
+UltraISO 9.1.2.2465
+
+** Development
+010 HexEditor 2.01
+AutoIT 3.4.9
+Dependency Walker 2.2
+FileExtInfo 2.0
+GhostMouse 2.0
+InstallWatch Pro 3.5c
+PE Module Explorer 1.1.0.0
+ResHacker 3.4.0.79
+ResizeEnable 1.4
+Showin 2.0
+SysExporter 1.39
+Thinstall 3.387
+TinyHexer 1.8.1.6
+WhatChanged 1.06
+xvi32 2.5.1.0
+
+** Disk
+7Tools Image Explorer 2.0
+7Tools Partition Manager 2005
+A43 File Manager 2.52
+Acronis True Image Enterprise Server 9.1
+ActiveUndelete 5.0.015
+ADRC Data Recovery Tools 1.02
+AgentRansack 1.7.3
+Ant Renamer 2.09
+AusLogics Defrag 1.4.13
+Bulk Rename Utility 2.7.0.2
+Defragger 3.0
+Defraggler 1.01.073 beta
+DefragNT 1.9
+Directory Lister 0.9.1
+Directory Snoop 5.02 (FAT)
+Directory Snoop 5.02 (NTFS)
+Dirms 1.2.2
+Disk Explorer for NTFS 2.31
+Disk Investigator 1.4
+Disktective 4.0
+Drive Manager 3.31
+DriveImage XML 1.21
+DSynchronize 2.30.1
+Dupe File Finder 2.0
+EasyCleaner 2.0
+EasyRecovery Professional 6.10
+Effective File Search 3.3
+Explore2fs 1.07
+Fab's AutoBackup 2.1
+File List Generator 1.0
+FindOnClick 2.0.1.14
+Floppy Bad Sector Repair
+FolderSize 1.4
+Free Commander 2007
+FreeUndelete
+GUI for MBRFIX 1.01
+Hasher 1.00
+HDDScan 2.8
+HDTune Pro 3.0
+ICE ECC 2.4
+IDSuite 2.1
+ImageMaker 1.1
+IZARC 3.81
+JR Directory Printer 1.2
+Kgb Archiver 1.2.1
+Linux Reader 1.1
+MD5verifier 1.05
+MiTec Windows File Analyser 1.0
+Norton Disk Doctor 2005
+NTFSLink 1.00
+OverDisk 0.11b
+ozSync 2.3.4.0
+Partition Find & Mount 2.2
+Partition Magic 8.05
+Partition Table Doctor 3.5
+PC INSPECTOR File Recovery 4
+Pocket KillBox 2.0.0.978
+Power Data Recovery Pro 4.1.1
+PowerDefrag GUI 2.0
+PowerDesk Pro 5
+RAID Reconstructor 2.31
+Recover It All Professional 3.2.3264
+Recover My Files 2.29
+Recovery Manager 1.5
+Recuva 1.13.304
+Restoration 2.5.14
+R-Linux 1.0
+Roadkils Undelete 1.2
+Scanner 2.8
+SectorSpyXP 2.1
+SelfImage 1.2.1.92
+Smart Data Recovery (mobile edition)
+Smart Driver Backup 2.11
+Snapshot 1.38
+Soft Perfect File Recovery 1.1
+SwissKnife 3.21
+Symantec Ghost32 11.0
+Symantec Ghost32 Explorer
+Symantec GhostCast Server
+SynchronizeIt 3.3
+TestDisk 6.5
+Total Commander 6.52
+TreeSize Professional 3.3
+Turbo File Uneraser 1.1.5.5
+U&U Recover Files 2.0
+Ultimate Data Recovery 5.0
+Ultimate Defrag 2008
+Undelete Plus 2.9
+Universal Extractor 1.6
+Unstoppable Copier 3.1
+Upx Frontend
+Upx GUI 1.8
+Visual File Information 4.2
+WD Data Lifeguard Diagnostics 1.09
+WinDirStat 1.1.2.80
+winMd5Sum 1.01.55
+WinMerge 2.8
+WinRAR 3.71
+Ycopy 1.0d
+Zip Repair 1.0
+
+** Games
+Net
+Untangle
+Chess
+Classic Arcade Pack
+Cube
+PokerTH 0.6.1
+Sudoku 1.1.7a
+Mines Perfect 1.4
+Uno 1.6
+SameGame 1.11
+
+** Graphics
+Advanced JPEG Compress 5.0
+FastStone Capture 5.3
+FastStone Viewer 3.5
+Icons From File 3.32
+IrfanView 4.10
+PhotoFiltre 6.3.1
+PTGui 7.8
+WinSnap 2.0.3
+X-Gimp 2.4.2
+
+** Internet
+AnalogX Proxy 4.14
+Angry IP Scanner 2.21
+BabyFTP 1.24
+CoreFTP 2.1
+Dynamic Torrent Searcher 3.2
+eMule 0.48a
+eMule MorphXT 10.5
+FileZilla 3.0.9.3
+Firefox 2.0.0.14
+FlashGet 1.9.4
+HTTP File Server v2.2b
+IP Sniffer 1.8
+Miranda v0.7.4
+MiTec NetMet 1.0
+NetMeter 1.13
+NetStatLive 2.11
+Nicspeed 1.4
+Opera 9.27
+Outlook Express Viewer 3.2
+Pidgin 2.4.1.0
+Portmon 3.02
+Procmon 1.25
+PuTTY 0.60
+Quick 'N Easy FTP Server 3.1
+QuickMailer 2.2
+Radmin Viewer 3.0
+Superscan 3.0
+TCP Optimizer 2.03
+Thunderbird 2.0.0.14
+TightVNC 1.3.9
+Trace Route 2.00
+TYPSoft FTP Server 1.10
+uTorrent 1.7.7
+VNC Server Free 4.1.2.0
+VNC Viewer
+WackGet 1.2.2
+WinHTTrack 3.42
+
+** Multimedia
+DVD Shrink 3.2
+FastStone Player 3.2
+GSpot 2.70a
+MediaInfo 0.7.6.4 (May 2008 )
+SmartRipper 3.41
+VirtualDub 1.7.8
+VLC Media Player 0.8.6h
+XVid 1.1.3
+
+** Office
+AbiWord 2.6.3
+AcroPad 1.3.2
+Atlantis Word 1.6.1.7
+Centillion Calculator 1.0
+ClipX 1.0.3.8
+Converber 1.71
+Foxit Reader v2.2 Build 2129
+Moffsoft Calculator 2
+Notepad++ 4.9
+PDF Toolkit 0.48
+SaveMyWork 1.0.45
+Spread32 2.02
+Star Dict 2.4.8
+Texter 0.5
+Tomahawk PDF+ 3.0
+UltraCompare 1.10
+UltraEdit 14.00a
+
+** Security
+a2 AntiTrojan 3.5 (updated 1-Jun-0
+Ad-Aware SE professional 1.06 (updated 1-Jun-0
+Advanced Outlook Express Recovery 1.1
+CopyWipe 1.14
+CyberShredder 1.10
+Disk Redactor 1.0.148
+DriveEraser 1.11
+KeePass Password Safe 1.09
+LockNote 1.04
+McAfee Rootkit Detective 1.0
+NOD32 Anti-Virus 2.70 (updated 1-Jun-0
+NTpwEdit 0.3
+Password Renew 1.1 Beta
+PasswordsPro 2.4.0.2
+PicoCrypt 0.1.1
+SAMInside 2.6.3.0
+SuperAntiSpyware 4.0 (updated 1-Jun-0
+Trend Micro SysClean (updated 1-Jun-0
+TrueCrypt 5.0a
+WindowsGate 1.0
+XP-KeyReader
+X-Ways Security 1.3
+X-Ways Trace 1.51
+Zone Alarm Pro 5.5.94
+
+** System
+Bart's Stuff Test 5.1.3
+CPU Bench 4.0.0.6
+CPU Clock Utility 2.35
+CPU-Z 1.45
+CurrProcess 1.13
+Dead Pixel Tester 2.30
+DimScreen 1.0
+Double Driver 1.0
+DTaskManager 1.51
+EVEREST Ultimate Edition 4.2.1292
+EZPCFix 1.0.0.16
+Glue 1.0
+GPU-Z 0.2.3
+HDD Temperature 1.00
+MemTest 3.6
+MiTec System Information 10.7
+MultiRes 1.58
+On-Screen Keyboard 2.0
+Pitaschio 2.11
+PowerOff 3.0
+Process Explorer 11.20
+Quick Bench 1.1
+RAMTester 2005
+Rebuild Icon Cache 1.0
+Registry Editor PE 0.9c
+Registry Restore Wizard 1.0.4
+RegScanner 1.63
+RegSeeker 1.55
+RegShot (Paraglider) 1.7.2.5
+RM MemoryAnalyzer 3.72
+ServicesPE 1.4
+ShellWM 0.7
+Shutter 2.90
+SIW 2008-04-02
+SpeedFan 4.33
+StartBtn Renamer 2.02
+Starter 5.6.2.8
+StatBar 2.406
+StraightMark 2005 1.2.1
+Stress Prime 2004
+System Mechanic Mobile Toolkit 6
+TaskSwitch XP Pro 2.0.11
+THG Clock 1.2
+Unknown Devices 1.2
+WCPUID 3.3.1092
+Why Reboot 1.01.537
+WinAudit 2.27
+Windows Disk Benchmark 2.02
+Windows Registry Editor PE 2.1.00
+WinFlash 2.61e
+ZoomIT 1.71
+
+Please add your comments and seed your torrents. OK
+
+PLEASE ONE WHO DOWNLOAD THIS TORRENT MUST ALSO SEED THIS TO OTHERS AT LEAST 1:1 RATIO. MY NET CONNECTION IS TOO SLOW. PLEASE HELP ME BY YOUR SEEDING.
+
+This is VERY RARE STUFF.
+
+Use these Trackers.
+ 
+http://tracker.openbittorrent.com/announce
+ 
+http://tv.tracker.prq.to/announce
+ 
+http://tpb.tracker.prq.to/announce
+ 
+http://exodus.1337x.org/announce
+ 
+http://genesis.1337x.org:1337/announce
+
+ 
+http://tracker.token.ro:80/announce
+ 
+http://tracker.publicbt.com/announce
+
+ 
+http://tracker.ilibr.org/announce
+ 
+http://denis.stalker.h3q.com:6969/announce
+ 
+http://tracker.thepiratebay.org/announce
+ 
+http://t1.pow7.com/announce
+ 
+http://tracker.publicbt.org:80/announce
+ 
+http://tracker.istole.it:80/announce
+ 
+http://t1.pow7.com:80/announce
+
+
+ 
+http://94.228.210.41:6969/announce
+ 
+http://tracker2.istole.it:6969/announce
+ 
+http://tracker1.publicbt.com:80/announce
+ 
+http://tracker.csze.com:80/announce
+ 
+http://tracker.prq.to:80/announce
+ 
+http://torrentbay.to:6969/announce
+
+
+ 
+http://tracker.torrentbay.to:6969/announce
+
+
+
+THANK YOU.

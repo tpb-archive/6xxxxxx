@@ -1,0 +1,184 @@
+User Type,Username,Date,Text
+,chevyracer5613,2011-01-11T19:59Z,+1 :-D
+,johnnyUK,2011-01-19T20:19Z,"Thanks for uploading, does this work for both 32- and 64-bit Ansys?"
+,raw_power,2011-01-22T00:24Z,"@chevyracer5613
+
+thanks
+
+@johnnyUK
+
+I believe so, works on 64bit. It appears to be identical to the 32bit crack but if it doesn't work let me know and I'll up that guy too."
+,wesside_paki,2011-01-24T09:36Z,"raw_power thnx for the crack 
+
+i cannot find the hostname and flexid in the ansys.dat so i cant figure out how to replace the hostname and flexid :( 
+
+please help! :("
+,raw_power,2011-01-30T02:31Z,"@wesside_paki 
+
+The first line of ansys.dat (when opened in something like Notepad) looks like this:
+
+SERVER host 000000000000 1055
+
+Replace ""host"" with HOSTNAME which is your computer name. And replace ""000000000000"" with your FLEXID, which is your Ethernet's MAC address.
+
+Hope that helps"
+,wesside_paki,2011-01-30T19:09Z,"@ raw_power
+
+Thnx for the reply , i did everything according to the text file. But when i open fluent or any other program i get the Fluent_solver does not exist in the ANSYS licensing pool.
+The specified license path:
+    ANSYSLI_SERVERS: 2325@*****-PC
+    FLEXlm Servers: 1055@*****-PC
+does not have any licenses for any product. Please make sure
+the license server has been started correctly.
+
+Can you add please add me up on msn at wesside_paki@hotmail.
+
+I really need this to pass my bachelors :("
+,raw_power,2011-02-03T14:40Z,"@wesside_paki
+
+Added you. I had an issue with my firewall when I first started using ansys. It was blocking the license server and not mentioning it to me =P uninstalling it worked."
+,wesside_paki,2011-02-06T08:55Z,"@ raw_power.
+
+I have kaspersky and it allows the file to run.
+I did exit kaspersky and i tried running it but still no progress:(.
+Btw my ID is wesside_paki@hotmail.com
+Please try adding me again , i did not receive any prompt to add you.
+
+Sorry for being a pain in the ass.
+Thanks for helping me !!"
+,raw_power,2011-02-11T16:30Z,"@wesside_paki
+
+I did re-add you the other day but still no word. Try uninstalling the firewall for a short while just to test. I had ESET firewall installed and it wasn't compatible, despite allowing and despite turning off the firewall capability. Only once it was gone did ANSYS function. I've been told TeamViewer and similar programs can upset it also. Try installing the license manager on a different computer with different software etc and see if it works for you there.
+
+Does it say in the license manager if all 3 of the licensing processes are running correctly?"
+,chiragra,2011-02-20T10:09Z,can any one tell me will this work in windows 7?
+,raw_power,2011-02-21T12:02Z,"@ chiragra
+
+Yes it does"
+,wesside_paki,2011-02-24T16:14Z,"@ raw_power,
+
+weird i didnt get any invitation from you. anyway i reinstalled it , it works for a few days then i keep getting this error when i run fluent:
+
+Cannot find license file.
+ The license files (or license server system network addresses) attempted are 
+listed below.  Use LM_LICENSE_FILE to use a different license file.
+ANSYS LICENSE MANAGER ERROR:Capability FLUENT_POST does not exist in the ANSYS licensing pool.
+The specified license path:
+    ANSYSLI_SERVERS: 2325@******-PC
+    FLEXlm Servers: 1055@******-PC
+does not have any licenses for any product. Please make sure
+the license server has been started correctly.
+
+When i run the Admin utility , at the bottom theres a box where it says ******-pc status
+and this is what it says.
+
+ANSYS, Inc. License Manager status:
+    Licensing Interconnect: running
+    Licensing Interconnect Monitor: running
+    FLEXlm: not running
+
+try adding me on hassan642@gmail.com 
+or if it doesnt work out we can exchange emails?
+
+Thanks!"
+,chiragra,2011-02-26T04:24Z,@ wesside_paki even i have the same problem...
+,nitrodave,2011-02-28T12:41Z,can somebody please tell me where they got the main part of ansys. i found the Ansys.12.1RC2.64x_links.txt but when i plug them into Jdownloader i find that necessary files are missing (Ansys.12.1.RC.64x.part02.rar for all 5 download mirrors is missing)
+,raw_power,2011-03-02T10:20Z,"@ wesside_paki
+
+I emailed you instead. Try the MAGNiTUDE crack i attached. Not wise to put your email on public websites tho XD
+
+@ chiragra
+
+UNINSTALL your firewall, not just turn off and see if that works (unplug ur net if it makes u feel better). Try MAGNiTUDE's crack
+
+@ nitrodave
+
+demon-oid probs ur best bet"
+,nitrodave,2011-03-06T12:02Z,"@raw_power
+
+thanks for the site i downloaded 13 from demonoid.
+followed the licence guide, but
+i also had to ""Start the ANSYS, Inc. Licence manager"" (which was not said in the readme) to get
+""ANSYS, Inc. License Manager status:
+    Licensing Interconnect: running
+    Licensing Interconnect Monitor: running
+    FLEXlm: running""
+but every time i open a workbench i get 
+""No servers provided.
+    ANSYSLI_SERVERS:  
+    FLEXlm Servers: 1055@********-PC""
+
+i don't have any Firewalls, but i am running through a router is that makes a difference
+
+*** also why is the Ansys.exe file not used? (according to your Readme.txt"")"
+,nitrodave,2011-03-07T07:28Z,"i ended up getting it working, i never saw the MAGNiTUDE folder in disk a, when i installed that it all went peachy. sorry for the annoyance"
+,Marson111,2011-03-07T16:34Z,anyone an invite for demonoid to spare?
+,danielbf,2011-03-26T02:00Z,"Could you, please,  sugest some link/site for me to download the program?"
+,Nashnir,2011-04-25T03:53Z,"I have installed the software on a laptop and no matter what I tried I am getting this error.
+
+Could not connect to any license server.
+The server is down or not responsive
+  ANSYSLI_SERVERS:2325@HOSTNAME
+  FLEXlm Servers:1055@HOSTNAME
+
+The part of HOSTNAME is replace by the real host name.
+I have only windows firewall and I tried after disabling it but same problem.
+
+Please Help"
+,DELTA33582,2011-05-08T03:38Z,"After trying all night, managed to get it to work.
+
+It is a trial and error way, let me know if it dosn't work for some of ya still."
+,sushpa,2011-07-18T13:46Z,"Hi guys, 
+
+I get the same error: Fluent_solver does not exist in the ANSYS licensing pool.
+The specified license path:
+ANSYSLI_SERVERS: 2325@*****-PC
+FLEXlm Servers: 1055@*****-PC
+does not have any licenses for any product. Please make sure
+the license server has been started correctly.
+
+Ditto for CFD-Post and CFX. It seems that the feature names from the licensing have been changed from 12.x. All three components are running and the license server can be accessed fine.
+
+Can someone please let me know where I can find the Magnitude crack. I don't have the Magnitude DVDs (got ANSYS DVD from the customer center portal). I'd be very grateful if someone could send me the magnitude lic gen.
+
+Thanks!"
+,aguaguara,2011-08-13T07:04Z,"Works!
+This is what I did:
+1-Install Ansys
+2-Run AP13_Calc in the installed folder and you will get the ""license"" file.
+3-Run ""SetupLM"" as administrator: Right click, Run as Administrator
+4-When SetupLM asks for the license file, point to the license file created with AP13_Calc.
+That's all!"
+,TxT,2011-08-22T17:29Z,"Sry people, I'm desperate. Im trying to install this s@it, but i just can't do it. Has anybody able to get this working on windows vista? When choosing the license, i get the messgae: ""Selected file is equivalent to existing license file; license file not updated"". Dunno if this has anything to do with the fact that i've already tried to install this over and over... Please, i'm waiting a answer from you raw_power"
+,akhokhay,2011-12-23T17:13Z,any1 link for the ansys 13 it self? I cannot find it.../
+,rik111,2012-04-06T21:30Z,"I'm getting ""No servers provided.
+    ANSYSLI_SERVERS:  
+    FLEXlm Servers: 1055@*********"" too
+I've intalled ANSYS following a youtube tutorial
+That didn't work so I downloaded this torrent and changed the license.dat file as the instructions said but I still can't get it to work!"
+,prasad89,2012-04-25T17:14Z,"I Works,  partly
+
+ Used Magnitude's crack, the AP13 Calc.exe. It generated the lisence.txt, but that wasn't working. LATER  I edited it with ""flex id"" From this crack. this wat i did
+
+i)After installation of Ansys. you can get host name and flex id as per readme.txt from this torrent
+
+ii)generate the license.txt from magnitude's AP13calc.exe
+
+iii) make this change in the first line 
+
+"" SERVER *hostname-PC **Flexid** 1055""
+(i did this because AP13 generated license file with wrong flex id)
+
+iV) i used this .txt as license. there was no error in license manager installation.
+
+few apps worked like ansys mechanical apdl, workbench. 
+But, Fluent and Icepak didn't launch had license error"
+,metheo,2012-06-04T09:02Z,"Thank you very much raw_power. The instructions were crystal clear, and if anyone have problems installing, their computer or their brains are to blame. 
+
+I might additionally advise this:
+
+1. Ensure your system stability. Reinstall windows if needed.
+
+2. Follow the set of instructions, they are very reliable. Do read the notifications and make sense of the processes. Instruction 15 says ""if required"", so when the notification reads - ""license already existing"", you can skip the step. 
+
+The upload is great and of enormous value. Thanks a ton."

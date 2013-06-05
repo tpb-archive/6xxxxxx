@@ -1,0 +1,223 @@
+Voyager (1995-2001) is the fourth live-action TV show set in the Star Trek
+universe.  It tells the adventures of the Starfleet vessel USS Voyager, which
+becomes stranded in the Delta Quadrant 70,000 light-years from Earth.
+
+
+Length: 42:01 to 44:11
+Size: 256 to 271 MB
+Container: .mkv (Matroska)
+Source: PAL DVD images
+
+ -- Video --
+Format: H.264
+Encoder: x264 version 0.104.x
+Encoder settings: subme=10 / ref=6 / bframes=4 / 8x8dct / me=umh / keyint=125 / b_pyramid=normal / partitions=all / trellis=2 / rc-lookahead=50
+Compression: 700 kbps two-pass
+Dimensions: 576x688 to 576x720
+Framerate: 25.000 fps
+Filters:
+  * cropped the black bars at the left and right edges
+  * deinterlacer (yadif)
+
+ -- Audio --
+Languages: en, de
+Channels: Stereo
+Format: Vorbis
+Encoder: vorbis-tools 1.4.0
+Compression: VBR -q1 (around 72 kbps on average per language)
+Filters:
+  * normalized the volume
+  * pitch-shift for the English audio stream: -75 C
+
+ -- Subtitles --
+Languages (in the .mkv):    en, de
+Languages (in extra files): da, es, fr (not for S3), it, nl, no, sv, en-deaf
+Format: VobSub
+
+
+Although the bitrate is less than in my DS9 release, the video quality is even
+a bit better for this VOY rip because I used higher encoder settings (and the
+average DVD quality is maybe a little better too).
+
+The DVD material is not perfect though.  Interlacing is very erratic: In some
+episodes, progressive video changes to interlaced in the middle of a scene.
+Most episodes use very much interlacing, some others (most notably the first
+season) have only a few seconds of interlaced video, if any.  I got very
+good results by using the yadif deinterlacing filter for all episodes.
+
+Also, on the DVDs, the pitch of the English audio was too high due to PAL
+speedup.  I did a pitch adjustment, so now it sounds fine.
+
+Many thanks to Kamui_84 for uploading the DVD images.
+
+I appreciate all comments on quality, errors or other stuff.
+
+
+1x01-02 _ Caretaker ____________________ Der FÃ¼rsorger
+1x03 ____ Parallax _____________________ Die Parallaxe
+1x04 ____ Time and Again _______________ Subraumspalten
+1x05 ____ Phage ________________________ Transplantationen
+1x06 ____ The Cloud ____________________ Der mysteriÃ¶se Nebel
+1x07 ____ Eye of the Needle ____________ Das NadelÃ¶hr
+1x08 ____ Ex Post Facto ________________ Die Augen des Toten
+1x09 ____ Emanations ___________________ Das Unvorstellbare
+1x10 ____ Prime Factors ________________ Das oberste Gesetz
+1x11 ____ State of Flux ________________ Der Verrat
+1x12 ____ Heroes and Demons ____________ Helden und DÃ¤monen
+1x13 ____ Cathexis _____________________ Bewusstseinsverlust
+1x14 ____ Faces ________________________ Von Angesicht zu Angesicht
+1x15 ____ Jetrel _______________________ Dr. Jetrels Experiment
+1x16 ____ Learning Curve _______________ Erfahrungswerte
+2x01 ____ The 37's _____________________ Die 37er
+2x02 ____ Initiations __________________ Der Namenlose
+2x03 ____ Projections __________________ Das Holo-Syndrom
+2x04 ____ Elogium ______________________ Elogium
+2x05 ____ Non Sequitur _________________ Der Zeitstrom
+2x06 ____ Twisted ______________________ Die Raumverzerrung
+2x07 ____ Parturition __________________ Der HÃ¶llenplanet
+2x08 ____ Persistence of Vision ________ RÃ¤tselhafte Visionen
+2x09 ____ Tattoo _______________________ Tattoo
+2x10 ____ Cold Fire ____________________ Suspiria
+2x11 ____ Maneuvers ____________________ Das Signal
+2x12 ____ Resistance ___________________ Die Resistance
+2x13 ____ Prototype ____________________ Prototyp
+2x14 ____ Alliances ____________________ Allianzen
+2x15 ____ Threshold ____________________ Die Schwelle
+2x16 ____ Meld _________________________ Gewalt
+2x17 ____ Dreadnought __________________ Der FlugkÃ¶rper
+2x18 ____ Death Wish ___________________ Todessehnsucht
+2x19 ____ Lifesigns ____________________ Lebensanzeichen
+2x20 ____ Investigations _______________ Der VerrÃ¤ter
+2x21 ____ Deadlock _____________________ Die Verdopplung
+2x22 ____ Innocence ____________________ Unschuld
+2x23 ____ The Thaw _____________________ Das Ultimatum
+2x24 ____ Tuvix ________________________ Tuvix
+2x25 ____ Resolutions __________________ Entscheidungen
+2x26 ____ Basics, Part I _______________ Der Kampf ums Dasein, Teil I
+3x01 ____ Basics, Part II ______________ Der Kampf ums Dasein, Teil II
+3x02 ____ Flashback ____________________ Tuvoks Flashback
+3x03 ____ The Chute ____________________ Das HochsicherheitsgefÃ¤ngnis
+3x04 ____ The Swarm ____________________ Der Schwarm
+3x05 ____ False Profits ________________ Das Wurmloch
+3x06 ____ Remember _____________________ Das Erinnern
+3x07 ____ Sacred Ground ________________ Das Ritual
+3x08 ____ Future's End _________________ Vor dem Ende der Zukunft, Teil I
+3x09 ____ Future's End, Part II ________ Vor dem Ende der Zukunft, Teil II
+3x10 ____ Warlord ______________________ Der Kriegsherr
+3x11 ____ The Q and the Grey ___________ Die Q-Krise
+3x12 ____ Macrocosm ____________________ Makrokosmos
+3x13 ____ Fair Trade ___________________ Das Wagnis
+3x14 ____ Alter Ego ____________________ Das andere Ego
+3x15 ____ Coda _________________________ Der Wille
+3x16 ____ Blood Fever __________________ Pon Farr
+3x17 ____ Unity ________________________ Die Kooperative
+3x18 ____ Darkling _____________________ Charakterelemente
+3x19 ____ Rise _________________________ Die Asteroiden
+3x20 ____ Favorite Son _________________ Die neue IdentitÃ¤t
+3x21 ____ Before and After _____________ Temporale SprÃ¼nge
+3x22 ____ Real Life ____________________ Das wirkliche Leben
+3x23 ____ Distant Origin _______________ Herkunft aus der Ferne
+3x24 ____ Displaced ____________________ Translokalisation
+3x25 ____ Worst Case Scenario __________ Rebellion Alpha
+3x26 ____ Scorpion _____________________ Skorpion, Teil I
+4x01 ____ Scorpion, Part II ____________ Skorpion, Teil II
+4x02 ____ The Gift _____________________ Die Gabe
+4x03 ____ Day of Honor _________________ Tag der Ehre
+4x04 ____ Nemesis ______________________ Nemesis
+4x05 ____ Revulsion ____________________ Der Isomorph
+4x06 ____ The Raven ____________________ Der schwarze Vogel
+4x07 ____ Scientific Method ____________ Verwerfliche Experimente
+4x08 ____ Year of Hell _________________ Ein Jahr HÃ¶lle, Teil I
+4x09 ____ Year of Hell, Part II ________ Ein Jahr HÃ¶lle, Teil II
+4x10 ____ Random Thoughts ______________ GewalttÃ¤tige Gedanken
+4x11 ____ Concerning Flight ____________ Apropos Fliegen
+4x12 ____ Mortal Coil __________________ Leben nach dem Tod
+4x13 ____ Waking Moments _______________ Wache Momente
+4x14 ____ Message in a Bottle __________ Flaschenpost
+4x15 ____ Hunters ______________________ JÃ¤ger
+4x16 ____ Prey _________________________ Die Beute
+4x17 ____ Retrospect ___________________ Im RÃ¼ckblick
+4x18 ____ The Killing Game _____________ Das TÃ¶tungsspiel, Teil I
+4x19 ____ The Killing Game, Part II ____ Das TÃ¶tungsspiel, Teil II
+4x20 ____ Vis Ã  Vis ____________________ Vis-Ã -vis
+4x21 ____ The Omega Directive __________ Die Omega Direktive
+4x22 ____ Unforgettable ________________ Unvergessen
+4x23 ____ Living Witness _______________ Der Zeitzeuge
+4x24 ____ Demon ________________________ DÃ¤mon
+4x25 ____ One __________________________ Eine
+4x26 ____ Hope and Fear ________________ In Furcht und Hoffnung
+5x01 ____ Night ________________________ Nacht
+5x02 ____ Drone ________________________ Die Drohne
+5x03 ____ Extreme Risk _________________ Extreme Risiken
+5x04 ____ In the Flesh _________________ In Fleisch und Blut
+5x05 ____ Once Upon a Time _____________ Es war einmal
+5x06 ____ Timeless _____________________ Temporale Paradoxie
+5x07 ____ Infinite Regress _____________ Das Vinculum
+5x08 ____ Nothing Human ________________ Inhumane Praktiken
+5x09 ____ Thirty Days __________________ Dreissig Tage
+5x10 ____ Counterpoint _________________ Kontrapunkt
+5x11 ____ Latent Image _________________ Verborgene Bilder
+5x12 ____ Bride of Chaotica! ___________ Chaoticas Braut
+5x13 ____ Gravity ______________________ Schwere
+5x14 ____ Bliss ________________________ Euphorie
+5x15-16 _ Dark Frontier ________________ Das ungewisse Dunkel
+5x17 ____ The Disease __________________ Das Generationenschiff
+5x18 ____ Course: Oblivion _____________ Endstation - Vergessenheit
+5x19 ____ The Fight ____________________ Der Fight
+5x20 ____ Think Tank ___________________ Die Denkfabrik
+5x21 ____ Juggernaut ___________________ Verheerende Gewalt
+5x22 ____ Someone to Watch Over Me _____ Liebe inmitten der Sterne
+5x23 ____ 11:59 ________________________ 23 Uhr 59
+5x24 ____ Relativity ___________________ Zeitschiff "Relativity"
+5x25 ____ Warhead ______________________ Geheimnisvolle Intelligenz
+5x26 ____ Equinox ______________________ Equinox, Teil I
+6x01 ____ Equinox, Part II _____________ Equinox, Teil II
+6x02 ____ Survival Instinct ____________ Ueberlebensinstinkt
+6x03 ____ Barge of the Dead ____________ Die Barke der Toten
+6x04 ____ Tinker Tenor Doctor Spy ______ Dame, Doktor, As, Spion
+6x05 ____ Alice ________________________ Alice
+6x06 ____ Riddles ______________________ RÃ¤tsel
+6x07 ____ Dragon's Teeth _______________ Die ZÃ¤hne des Drachen
+6x08 ____ One Small Step _______________ Ein kleiner Schritt
+6x09 ____ The Voyager Conspiracy _______ Die Voyager-Konspiration
+6x10 ____ Pathfinder ___________________ Das Pfadfinder-Projekt
+6x11 ____ Fair Haven ___________________ Fair Haven
+6x12 ____ Blink of an Eye ______________ Es geschah in einem Augenblick
+6x13 ____ Virtuoso _____________________ Der Virtuose
+6x14 ____ Memorial _____________________ Das Mahnmal
+6x15 ____ Tsunkatse ____________________ Tsunkatse
+6x16 ____ Collective ___________________ Das Kollektiv
+6x17 ____ Spirit Folk __________________ Das Geistervolk
+6x18 ____ Ashes to Ashes _______________ Asche zu Asche
+6x19 ____ Child's Play _________________ Icheb
+6x20 ____ Good Shepherd ________________ Der gute Hirte
+6x21 ____ Live Fast and Prosper ________ Lebe flott und in Frieden
+6x22 ____ Muse _________________________ Die Muse
+6x23 ____ Fury _________________________ Voller Wut
+6x24 ____ Life Line ____________________ Rettungsanker
+6x25 ____ The Haunting of Deck Twelve __ Der Spuk auf Deck ZwÃ¶lf
+6x26 ____ Unimatrix Zero _______________ Unimatrix Zero, Teil I
+7x01 ____ Unimatrix Zero, Part II ______ Unimatrix Zero, Teil II
+7x02 ____ Imperfection _________________ Unvollkommenheit
+7x03 ____ Drive ________________________ Das Rennen
+7x04 ____ Repression ___________________ VerdrÃ¤ngung
+7x05 ____ Critical Care ________________ Kritische Versorgung
+7x06 ____ Inside Man ___________________ Eingeschleust
+7x07 ____ Body and Soul ________________ KÃ¶rper und Seele
+7x08 ____ Nightingale __________________ Nightingale
+7x09-10 _ Flesh and Blood ______________ Fleisch und Blut
+7x11 ____ Shattered ____________________ Zersplittert
+7x12 ____ Lineage ______________________ Abstammung
+7x13 ____ Repentance ___________________ Reue
+7x14 ____ Prophecy _____________________ Die Prophezeiung
+7x15 ____ The Void _____________________ Die Leere
+7x16 ____ Workforce ____________________ Arbeiterschaft, Teil I
+7x17 ____ Workforce, Part II ___________ Arbeiterschaft, Teil II
+7x18 ____ Human Error __________________ Menschliche Fehler
+7x19 ____ Q2 ___________________________ Q2
+7x20 ____ Author, Author _______________ Die VerÃ¶ffentlichung
+7x21 ____ Friendship One _______________ Friendship One
+7x22 ____ Natural Law __________________ Ein natÃ¼rliches Gesetz
+7x23 ____ Homestead ____________________ Eine HeimstÃ¤tte
+7x24 ____ Renaissance Man ______________ Renaissance Mensch
+7x25-26 _ Endgame ______________________ Endspiel

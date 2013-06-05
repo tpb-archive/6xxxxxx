@@ -1,0 +1,111 @@
+0. ABOUT
+
+redump.org is a disc preservation database and internet community dedicated to
+collecting precise and accurate information about every video game ever
+released on optical media of any system. The goal is to make blueprints of the
+data on console and PC game discs. Redump.org also provides guides to ensure
+the dumps are correctly done. Users of the website who follow the guides
+correctly are encouraged to share their results to help build the database.
+Multiple dumps of games with the same serial number by different people are
+collected to ensure the same results are gathered, which help correct any
+incorrect dumps in the database as well as to help recognize alternate
+versions of the same game. 
+
+They currently have more than 16500 (~5100 PSX) disc entries present in their
+database.
+ 
+http://redump.org/
+
+By submitting information about missing discs to the redump.org database, you
+would be helping to achieve this greater common goal. If you have original black
+CDs not listed in the PSX database or even listed ones, please go that extra
+mile and learn about their dumping methods.
+
+Their guides on how to dump discs properly can be found here: 
+http://wiki.redump.org/index.php?title=Dumping-Guides
+
+If you need more help, you can also visit redump.org's forum: 
+http://forum.redump.org/
+
+redump.org does not provide copyrighted material nor do they condone software
+piracy. Content of this torrent is not provided by redump.org. Please, no 
+torrent-talk on that site, only database and CD media related things or most
+likely you will get banned.
+
+
+1. UNCOMPRESS
+
+The discs have been packed using PakkISO which works just like torrentzip.
+Simply put, PakkISO is the torrentzip of disc based games. It will create
+exact archives of matching files. It runs the data tracks through ECM, and
+then compresses with 7z. Audio tracks are compressed using the Monkey Audio
+lossless format (APE). This results in a much higher compression ratio
+compared to torrentzip.
+
+You can choose from several programs to use for decompression. They all are
+included in this torrent within 'important.zip'.
+
+1.1. PakkISO shell integration *RECOMMENDED* (PakkISO-0.4-setup.exe).[1]
+
+To unpack a single game, right-click the game's folder and select 'UnpakkISO'.
+
+To unpack a group of games, right-click the folder containing ALL game's
+folders to be processed, and select 'UnpakkISO (Batch)'. The process will be
+automated.
+
+To pack a single game, right-click the game's folder and select 'PakkISO'.
+
+To pack a group of games, right-click the folder containing ALL game's folders
+to be processed, and select 'PakkISO (Batch)'. The process will be automated.
+
+1.2. PakkISO (PakkISO-0.4-non-install.zip).[1]
+
+To unpack a game, simply drag and drop the game's folder into unpakkIso.exe.
+
+To pack a game, simply drag and drop the game's folder into pakkIso.exe.
+
+1.3. redumpExtractor (redumpExtractor_exe.zip or redumpExtractor.zip).[2]
+
+Simple and intuitive GUI program. More information: 
+http://thejbnet.com/progs/re/
+
+After successful decompression you should have one cue sheet file and one or
+several binary files.
+
+[1] Archives will be deleted after decompression; raw files after compression,
+i.e. content is transformed from compressed to decompressed state or vice versa.
+So it is preferable to make a copy of directory you want to work with and use
+that copy instead of source.
+[2] External programs needed for this application are available in
+'PakkISO-0.4-non-install.zip'.
+
+
+2. PLAY
+
+To play on real hardware (console), first you need to burn the image(s) to a
+disc. Using your favorite disc recording software and good quality blank media:
+load the '.cue' file and burn.[1] Make sure your console is capable of playing
+backups.
+
+The best way to play the games included in this collection on emulators is by
+mounting them on a virtual drive (Daemon Tools/Alcohol). Once you have the disc
+mounted, just open the emulator and 'Open>CD-ROM via SPTI...' (Xebra) or 
+'Insert CD drive' (pSX). 
+http://www.daemon-tools.cc/eng/products/dtLite 
+http://drhell.web.fc2.com/ps1/index.html 
+http://psxemulator.gazaxian.com/
+
+[1] Please do not use Alcohol for recording, it is known to have problems with
+cue sheet parsing and therefore will produce incorrect copies (virtual drive
+function works fine though). Prefered programs are: ImgBurn *RECOMMENDED*,
+BlindWrite, CDRWIN. 
+http://www.imgburn.com/
+
+
+3. AUDIT
+
+Included with torrent within 'important.zip' are several '.dat' files to verify
+downloaded files, update from previous torrent or audit your collection. Use
+them with 'RomCenter', 'clrmamepro' or other similar ROM managers. 
+http://www.romcenter.com/ 
+http://mamedev.emulab.it/clrmamepro/

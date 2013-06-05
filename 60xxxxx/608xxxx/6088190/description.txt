@@ -1,0 +1,29 @@
+Net Transport (also called NetTransport or NetXfer) is a faster, exciting and the most powerful downloading tool that you ever saw, now support the most prevalent Internet protocols, including: HTTP / HTTPS, FTP / through SSL (Secure Sockets Layer) / SFTP (SSH File Transfer Protocol), MMS (Microsoft Media Services), RTSP (Real-Time Streaming Protocol), PNM (rename PNM to RTSP), BitTorrent, eMule.
+
+With independently developed Enhanced Multi-Threading (EMT) technology, can download MMS and RTSP streaming by multiple threads with perfect video & audio quality. There are some other great features, like "Site Manager" which allows you to keep the active connection with the remote servers. In addition, the support for both SSL and SSH is hardly found in other upload/download tools.
+
+Main Features:
+1. You can use the simple but powerful "File Manager" to categorize and manage downloaded files more efficiently.
+2. Simple multi-user management. You can maintain several databases by logging on Windows with different username.
+3. You can use the inbuilt "Site Explorer" to list the directory structure of the remote server, and easily select the desired files. FTP is the most powerful item in NetXfer.
+4. FTP reuse mechanism allows you to use one connection to get different files from the same site. If you like, you can use accessory FTP client tool called "FTP Transport (FtpXfer)".
+5. The "Multiple Proxies mode" allows you to assign every working thread a different proxy to break certain site restrictions, like only one connection per IP.
+6. Proxies with NTLM authentication can penetrate local firewall, like Microsoft ISA 2000.
+7. You can adjust the bandwidth usage of Net Transport to ensure surf at the same time.
+8. Monitor browser click. And you can add links through Internet Explorer extended context menu, or drag links to the "drop zone" window, etc.
+9. Net Transport can automatically shutdown the system or hang up the modem once all downloads are completed.
+10. Multilingual support for the user interface. I will be glad if you help me localize NetXfer.
+11. NTLM authentication is supported for both MMS and RTSP. In addition, RN5 authentication works for RTSP.
+12. You can use multi-threads for both MMS and RTSP to significantly reduce the time of downloads.
+13. Automatically parse streaming script such as .asx, .smi to acquire real URLs.
+14. Support SSL encryption for both HTTP and FTP, which is called https and ftps. Also support one-time password to protect your authentication information. Normally password is in the form of clear text, which is easily stolen by IP packet monitor tools. Presently NetXfer is the only one can download https streaming via SOCKS5.
+15. Support SSH encryption, which is hardly found in other upload/download tools for Windows.
+16. The flexible "Scheduler Manager" is also most powerful item in NetXfer. Even you can record the dynamic URL according to time and save it as your desire filename.
+17. In version 2, you can record the clip with range.
+18. On BitTorrent protocol, you can use proxy to download, upload by UPnP. NetXfer supports HTTP/HTTPS/UDP Tracker.
+
+Changes in Net Transport 2.95 (Aug 30, 2010):
+1. Fixed a bug for RTMP that program could not record certain of LIVE sites.
+2. Fixed that program would crash if "piece length" of a torrent file was not a multiple of 16K.
+3. Fixed that program probably crashed if parsing DNS failed.
+4. Fixed for new UI that the tool tip control of the Drop-Zone window didn't work if there were too many information to be updated.

@@ -1,0 +1,59 @@
+Heart of the Alien
+
+=============
+
+Heart of the Alien is a sequel to Another World and continues the story directly from where the original ended.
+
+The game switches the player's role from Another World; this time the player takes control of Buddy, the main character's alien ally from the previous game.
+
+Mobygame reviews:
+http://www.mobygames.com/game/heart-of-the-alien-out-of-this-world-parts-i-and-ii
+
+=============
+
+The game was released in the 1994 for Sega CD; but it has been ported to PC with the name of Heart of the Alien Redux.
+
+See here:
+http://hota.sourceforge.net/
+
+This package puts together the iso of original CD; the original audio tracks (in .mp3) and Heart of the Alien Redux compiled for Win32.
+
+So, to use you just need to unpack and start hota.exe from its folder.
+
+I noticed a mistake in the readme.txt I wrote: the --scale=2 option does work full-screen. Only the --scale=3 does not.
+
+So once you saw the introduction you probably want start the game with:
+
+hota.exe --scale=2 --fullscreen --room 7
+
+So you get full-screen game scaled with x2 algorithm, --room 7 instead skips the introduction.
+
+
+=============
+
+Keys:
+
+Alt-Enter - change between windows and full-screen.
+z         - key A.
+x         - key B.
+c         - key C.
+Arrows    - left, up, right, down.
+
+
+=============
+
+IMPORTANT,
+IMPORTANT,
+IMPORTANT:
+
+After the intro (or after skipping it with ESC) you will be in the code screen. To begin you have to select a level via password.
+
+The first level code is:
+
+BDXF
+
+Use it to tackle the first challenge.
+
+=============
+
+Have fun.

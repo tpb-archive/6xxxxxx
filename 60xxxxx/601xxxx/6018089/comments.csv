@@ -1,0 +1,25 @@
+User Type,Username,Date,Text
+,veerenski,2010-12-08T03:35Z,"What do you do with this file to extract the information? You can not assume that people, who downloaded it are computer wizards.
+
+We need the exact, step by step instructions to extract the information from this file.
+I tried this under cygwin/Windows and I get error:
+fatal: Not a git repository (or any parent up to the mount parent /cygdrive)
+Stopping at filesystem boundarry (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+This is no good."
+,betafive,2010-12-08T04:48Z,the unpack instructions are missing a step. you need to 'git init' your repo before you can fetch from the bundle.
+,veerenski,2010-12-08T05:01Z,"Can you please guys provide step by step instructions, especially for ppl thar run windoze?
+
+I still have to see something working and I have no idea why is it so difficult to provide the info in a single .zip or .gzip fille. It is all just info. You can not assume the Phd in CS is going to deal with it or can you?
+
+The whole thing is so simple that I fail to see why is it so complicated? Whose idea it was to release the gazillion of torrents, one for each stoopid page, most of which is just a template?
+
+Come on! You can do better than that. Even I can."
+,kaosu,2010-12-08T11:52Z,"The instructions are accurate. If you have cygwin with all git properly installed and come up with a fatal: .git error, you must:
+
+git init
+
+As it does not recognize the current folder as a git repository. 
+
+After that, you can git fetch etc, it."
+,isotope,2010-12-13T10:48Z,not every torrent is for everybody

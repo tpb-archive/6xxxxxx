@@ -1,0 +1,15 @@
+User Type,Username,Date,Text
+,usr098,2011-01-03T10:02Z,"Command to mount all these cd's in Dosbox:
+
+imgmount d ~/Games/wc4/cd1.iso ~/Games/wc4/cd2.iso ~/Games/wc4/cd3.iso ~/Games/wc4/cd4.iso ~/Games/wc4/cd5.iso ~/Games/wc4/cd6.iso -t iso
+
+(replace the path ~/Games/wc4 with your own of course)
+Now you can switch cd's by pressing CTRL+F4"
+,puppeponi,2011-01-14T15:19Z,awesome man you dont know l long l have been looking for this game thanks :D
+,KimanuTHEGREAT,2011-01-14T19:43Z,"usr098, how do you switch cd's in the dosbox? When I complete Disc 1, I tried the CTRL+F4 to switch cd's and I may not have done right, so could help me get to the next disc please?"
+,usr098,2011-01-17T15:44Z,"kimanuthegreat: Press Ctrl+F4 one time and it will cycle the next cd. Then press any key to continue the game. Dosbox will not give any feedback about cd chaning but it works.
+
+(cd's have to be mounted with the imgmount command I wrote earliel) "
+,usr098,2011-01-17T15:52Z,"Random observation: When you make your first time configurations, save & EXIT, then run wc4. If you save & run the game it may run very slowly. Happens to me at least."
+,Funkeety,2011-08-15T11:18Z,"i'm sorry you said cd1.iso, but the files on this torrents is 7z, is that will be okay if i write iso as the extention?, sorry i'm a noob.... :D"
+,usr098,2011-08-28T11:51Z,Funkeety: 7z is a compressed archive like zip or rar. You have to extract it first. Inside you have the iso. Google 7zip. Imo the best archiver.

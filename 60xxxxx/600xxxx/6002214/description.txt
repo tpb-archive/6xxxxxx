@@ -1,0 +1,21 @@
+Coda 1.7 Mac OS X 
+http://www.panic.com/coda/
+ 
+
+Text editor + file transfer + svn + CSS + Terminal + Books + More = Whoah. Welcome to Coda. Grow beautiful code.
+
+
+
+
+Release Notes
+
+    * Code completion power-up!
+          o Added latest HTML5 tags
+          o Added latest vendor-specific CSS properties
+          o Expanded Javascript with additional keywords and DOM elements
+    * Improved Perl syntax highlighting
+    * Improved CSS syntax highlighting
+
+block Coda from connecting to panic.com. U can use Little Snitch for this
+
+replace com.panic.Coda.plist to user / Library / preferences

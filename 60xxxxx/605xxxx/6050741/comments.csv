@@ -1,0 +1,30 @@
+User Type,Username,Date,Text
+,richkid290,2010-12-19T03:05Z,"Thanks!!!, Is it possible to get the Social Network it would be definitely appreciated."
+[T],HD-R-US,2010-12-19T11:50Z,"Hi, richkid290. It's being re-encoded as we speak. Should be sometime tomorrow."
+,Liberese,2010-12-20T22:46Z,Many - Many thanks for all the great torrents you continue to produce. They are flawless! Keep em' comin'
+,tikva_boi21,2011-01-18T12:42Z,"Hey HD-R-US, Great Torrents. 
+Just wanted to know if this version includes the ""Special Features""? Thanks"
+,pc_nerd,2011-01-24T11:15Z,"Hello, may I ask how you encode these movies? I download movies elsewhere as MKV videos and encode them myself using tsmuxer, but when I finish burning them, they don't play on BluRay players. It really frustrates me because it wastes my DVDs."
+[T],HD-R-US,2011-01-24T15:28Z,"tikva_boi21 - Thanks. Sorry, just the movie itself.
+
+Hi, pc_nerd. tsMuxeR doesn't encode, it only demux's/mux's video. For AVCHD to work, hi-res movies need to have screen resolutions of 1920x1080 and 1280x720 for 1080p and 720p respectively, so that their aspect ratio is preserved. Movies with an aspect ratio of 4:3 have the correct resolution, but as you are probably aware, most theater-based movies are filmed in 2.35:1/16:9, which gives screen resolutions of around 1920x800 for 1080p (hence why you see black bars, top and bottom). This means that the cropped .m2ts/h.264 video inside most MKV containers isn't suitable without a full re-encode. We encode manually, but if you are looking for a GUI-type application that will give similar results, and also resize the video, I would recommend Dean's MultiAVCHD used in 2-pass, high-quality mode. I hope this helps."
+[T],HD-R-US,2011-01-24T15:45Z,"pc_nerd - Just an added note. Not that DVD media is expensive, but whilst you're experimenting, it's a good idea to use a DVD+/-RW. All the best. =)"
+,pc_nerd,2011-01-25T07:06Z,Thanks for the tips HD-R-US btw keep up the good work
+,alnet88,2011-02-15T06:25Z,excellent S+ quality once again. thx again. i feel like i should just copy and paste my comments and paste them on all your uploads.
+,sqlife,2011-02-19T11:27Z,"HD-R-US
+
+Unbelievable quality for how small the file is. I am truly impressed. I was wondering if you could possibly give a brief run down of your process. 
+
+ATM I just download .mkv, blueray mux with TSMuxer, grab the BDMV and Certificate and throw that into IMGBURN with the UDF 2.5. Sometimes I get unpredictable results, like aspect ratio problems etc. But your system seems to be flawless. Any tips?"
+,banaducchi,2011-02-19T16:03Z,"Hi HD R US,
+
+i was just wondering if there was a program that to convert the video files for the mac so i can watch/stream on my computer.
+
+thank you in advance"
+[T],HD-R-US,2011-02-20T20:57Z,"sqlife - Your problem will be that for AVCHD to work and preserve a movie's original aspect ratio, the mattes/letterbox have to be encoded into the video file itself, giving you output resolutions of 1920x1080 and 1280x720 for 1080p and 720p respectively. Most MKV files that you download will be cropped to the aspect ratio of the movie itself, without the mattes being included, hence why you see people posting comments like, ""This isn't proper 1080p!"", which is incorrect, it is full 1080p, but it will not work for AVCHD.
+
+banaducchi - we do not use a GUI type application for re-encoding, but if you are looking for one that will give similar results, MultiAVCHD used in High Quality 2-pass mode is the way to go."
+[T],HD-R-US,2011-02-20T21:00Z,"banaducchi - sorry, I misread your question. I do not have experience in using a Mac, but people that do say that you just mount the image on a Mac OS's included virtual drive, and play with VLC Media Player and alike."
+,Bucho82,2011-04-13T23:25Z,HD-R-US you rock! I'm moving to the Cayman Islands and wont have TV so I bought a WD LIVE and your torrents look and function AWESOME!!! Any Chance you can through THE RITE on there once it comes out?... Thanks... A Fan 
+,Zull3,2011-10-04T18:38Z,Thx..but I had problems with subs when mounting image...Anyway V10/A10
+,jonpavlic,2012-04-18T12:59Z,Subs don't work...any ideas how to fix it?

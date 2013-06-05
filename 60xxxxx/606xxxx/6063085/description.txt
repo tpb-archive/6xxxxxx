@@ -1,0 +1,53 @@
+Another bloat reduction.  Previously available was a 4.2 GB DVD and a 700 MB rip of dubious quality.  This is a 1.1 GB AVI ripped from the DVD with the 5.1 audio track intact.
+
+General
+Complete name                    : PearlJamMTVUnpluggedDVDRip5.1.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 1.09 GiB
+Duration                         : 36mn 42s
+Overall bit rate                 : 4 255 Kbps
+Writing application              : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library                  : VirtualDubMod build 2540/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Muxing mode                      : Packed bitstream
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 36mn 42s
+Bit rate                         : 3 798 Kbps
+Width                            : 544 pixels
+Height                           : 400 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 23.976 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.728
+Stream size                      : 997 MiB (89%)
+Writing library                  : XviD 1.0.3 (UTC 2004-12-20)
+
+Audio
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Codec ID                         : 2000
+Duration                         : 36mn 42s
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Stream size                      : 118 MiB (11%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 42 ms (1.00 video frame)
+Interleave, preload duration     : 500 ms
+

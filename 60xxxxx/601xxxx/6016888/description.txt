@@ -1,0 +1,72 @@
+Slim Browser 5.00
+-----------------
+
+
+Slim Browser is a tabbed multiple-site browser. It incorporates a large collection of powerful features like built-in popup killer, skinned window frame, form filler, site group, quick-search, auto login, hidden sites, built-in commands and scripting, online translation, script error suppression, blacklist / whitelist filtering, URL Alias. It brings you convenient and comfortable browsing.
+
+Slim Browser Features
+Multiple site browser based on tab-page interface
+Seamless integration with AI RoboForm FormFiller/Password Manager
+Built-in Popup Killer based on intelligent identification and pre-defined filtering
+Site windows killed by mistake are FULLY RECOVERABLE
+Ability to turn on/off Flash Animation
+Built-in web form spell checker.
+Universal URL Filter: Block ad banners, flash animations, iframes or any components within any web pages by URL patterns.
+Built-in RSS News Rendering Engine. Now you can read RSS news directly inside SlimBrowser without additional RSS Reader software.
+ActiveX Filter: block obtrusive dialogs prompting you to install unsafe ActiveX controls.
+Convenient access to major search engines by Quick-Search Bar
+Seamless integration of most Internet Explorer toolbars
+ScriptPad: Built-in VBScript/Jscript/HTML/Text editor. View screenshot.
+Hidden Sites : hide and show a site at users' request
+Skinned window frame.
+Free-zooming of any web page.
+AutoLogin: automatically connect and log into specified website with just one click.
+Seamless integration with online translation engine and dictionaries
+Ability to suppress script error message dialog
+Site Group: Open and save a collection of sites as a group
+Flexible control of startup actions
+URL Alias: Type short alias instead long URL.
+
+
+
+
+What's New in Slim Browser 5.00:
+--------------------------------
+
+Version History of Slim Browser 5.00
+
+Added built-in Multi-threaded Download Manager which improve file download speed by several times and can resume broken downloads.
+Config download manager options in "Tools:Options:Download Manager".
+Open download manager window by selecting "View:Explorer Bars:Download Manager" or click the newly added download manager button on the standard toolbar. You need customize the toolbar to add the new button if you upgrade from an older version.
+Added capability to search/translate/define/map selected text directly from the popup menu when you right click in a web page.
+Added capability to translate selected text from any language into any language inside a web page without leaving the page. Check the new menu items under "Language" Menu.
+Improved weather forcasting feature. Enable weather display on status bar by going to tools:options:weather. You can view 5-day weather forcasting details inside a dialog when you click on the weather display area on the status bar.
+Added "Quick Bookmark" menu item into Favorites Menu. It can let you bookmark a page with a single click and save it into predefined folders.
+Universal URL Filter is now called Ad Blocker. The built-in block list is now separately managed from the user-defined block list.
+Added capability to manually pick an AD image within a page and add it into the Ad blocker block list. All you need do is CTRL+SHIFT+Right click on the AD image and select "Block this Ad" from the popup menu.
+Bug fix: When browsing local folders inside slimbrowser, double-clicking a folder used to open an external windows explorer. Now it will open in the same tab.
+Important Behavior Change: "Open In New Tab" in the popup menu when you right click inside a page is now enabled and will open the selected link in a new tab. The "Open In New Window" menu item will open an external slimbrowser instead.
+Bug fix: When web page is zoomed in, middle-clicking a link to open a new tab used to open incorrect link sometimes. Now it's fixed.
+Bug fix: When browsing folders shared over Windows networking, there used to be unnessary security warnings. Now they are eliminated.
+Bug fix: Bypass server list not working in proxy switcher.
+Feature Change: The menu item "Tools:Extract search engine data" menu item is now moved to the dropdown menu on the quicksearch box.
+Added support of favicon on the quicksearch box dropdown menu.
+Bug fix: Auto-hide taskbar not coming out automatically when SlimBrowser is using Skin in Windows 7.
+Bug fix: ctrl+shift+left/right and ctrl+a is now working correctly inside address bar.
+Feature Change: Changed shortcut key for zooming into ctrl+ and ctrl-.
+Feature Change: All language files are now included in the setup file instead of being downloaded online.
+Removed in-page ad-filter.
+Tools:shortcuts have been renamed to Tools:Frequently used folders.
+Added capability to set active tab in site groups.
+Added capability to set search homepage accessible from the search button on the standard toolbar. Just drag the web page icon from the address bar onto the search button.
+New feature: autocompletion based on search suggestions. The option can be toggled in tools:options:misc, "Enable Autocompletion based on search suggestions".
+
+
+
+
+Software Overview
+-----------------
+
+Software Provider: FlashPeak
+
+Operating Systems: Windows 95, 98, 2000, XP, Vista

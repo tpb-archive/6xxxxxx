@@ -1,0 +1,14 @@
+VMWare ThinApp version 4.6.0 build 287958. Includes the serial number and a procedure to make the popup window transparent.
+
+Accelerate application deployment and simplify application migration with agentless application virtualization. With VMware ThinApp, applications are packaged into single executables that run completely isolated from each other and the operating system for conflict-free execution on end-point devices. Application packages can be deployed to different Windows platforms, eliminating costly recoding and regression testing so you can easily migrate existing applications to Windows 7.
+
+    * Eliminate application conflicts, reducing the need for recoding & regression testing.
+    * Deliver reliable and flexible application access to all user profiles.
+    * Eliminate the need for additional server hardware or software investments.
+
+
+Eliminate Installation Conflicts
+
+Package an entire application and its settings into a single executable that can be deployed to many Windows operating environments. These virtual applications are isolated from each other and the operating system. The packaged applications have awareness of each other but execute independently and make no changes to the underlying operating system, eliminating application-to-application conflict as well as application-to-operating system conflicts.
+
+Application virtualization encapsulates the application into a single executable .MSI or .EXE. Just plug in an .MSI or .EXE file to deploy a virtual system environment, including registry keys, DLLs, third-party libraries, and frameworks without requiring any installation of agents on end point devices.

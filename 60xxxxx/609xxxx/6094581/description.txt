@@ -1,0 +1,26 @@
+Subdreamer 3.3 is now available!
+This is a major release which includes many functional administration enhancements, many small improvements, the beginnings of many other features, and of course the reintroduction of 3rd party forum integration. Subdreamer CMS now includes user integration support (not skinning) for the following forums: Subdreamer Forum, vBulletin 3/4, IPB 2/3, SMF 1/2, phpBB2/phpBB3.
+
+Features:
+Full Admin hover menu with e.g. Plugins sub-menus
+Admin | Plugins Filter Bar
+Admin | Articles Filter Bar
+Admin | Comments Filter Bar and pagination
+Admin | Easily create copies of individual pages or custom plugins
+Admin | Usergroup features now a special \"Article Author Mode\" and selective Admin Pages access
+Admin | Users with extended filtering and multiple usergroups
+Articles with PDF export and social media links
+Improved email system now supporting PHP \"mail()\", SMTP or Sendmail. (plugin by plugin basis)
+WYSIWYG editing with TinyMCE or CKeditor (toggable)
+Secure (SSL) URL capability
+Subdreamer VVC and reCaptcha available
+Forum RSS now available as separate global feed
+Skin editor now optionally with syntax highlighting (toggable)
+Skin editor saves items by Ajax without page reload
+Articles and Comments display with templates (Smarty)
+Articles Datepicker is now international (see Main Settings: Regional Language)
+Frontpage deletion/editing of Comments for Admins
+Web 2.0-popups for page\'s plugin position editing and plugin permissions
+Same BBCode editor for Comments and Forum posts
+Improved installer
+Many smaller improvements, inside and outside		

@@ -1,0 +1,35 @@
+---------------------------------------------------------------
+Contained within this torrent is the complete set of remastered FF7 FMVs. They were taken from the original discs, and processed using the above technique. The improvement in quality is remarkable. This torrent applies to the English version of the game. Translated versions can be found on qhimm, and may be individually downloaded.
+
+Credits:
+
+Video Editing and manager:
+DLPB
+
+PSX FMV Extraction/Decoder tool jPSXdec:
+M-35
+---------------------------------------------------------------
+
+Taken from original post here:  
+http://forums.qhimm.com/index.php?topic=10980.0
+...
+Now that I have finished the menu mod and will not be as busy, I think it is time to finally tackle the FMV\'s and update them using the PSX counterparts.  The outcome will not be \"great\" but it will be better than what we currently have.  We will be polishing a turd.  This project will be completed and pretty soon.
+
+I am now in the process of re-encoding all the FMV\'s using the PSX counterparts.  The new method requires that I extract all frames into Photoshop and use genuine fractals on them (by batch).   The results are much better than any other method I have tried before and as far as I know, I am the only one to actually try this kind of thing.
+
+1.  Copy FMV from Playstation disc
+2.  Use http://kenai.com/projects/jpsxdec/pages/Home PSX FMV converter tool (at highest settings), to get the FMV into uncompressed video
+3.  Place video into virtualdub and extract all frames to PNG
+4.  Run batch encoder in Photoshop with Genuine Fractals to enlarge the  frames to 1280*896 and place back to PNG
+5.  Place PNG\'s back into Virtualdub and export to a lossless video with Lagarith
+6. Lagarith Video goes into Sony Vegas where a Detail Enhancer by NewBlue is applied.
+7.  Original sound (from PSX Video) is placed with the video.
+8.  Video is exported into H.264 with AAC at high settings and average bitrate of 2000-3000KB/s, depending on scene.  For low action scenes 2000 average with 4000 maximum, and for high action, 3000 with a maximum 4000.  I may well have gone a bit over the top using 2000 and 3000, s this is animation at 15fps.  It may look almost as good with 1500-2000 average.
+
+
+It isn't TOO daunting a task, nothing could possibly be as mind numbing as the nightmare I just finished.
+
+
+--------------------------------------------------------------
+THE INITIAL TORRENT WAS CORRUPT FOR SOME ODD REASON. THIS ONE IS GUARANTEED TO WORK.
+---------------------------------------------------------------

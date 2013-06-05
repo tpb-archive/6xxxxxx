@@ -1,0 +1,59 @@
+Got this off another tracker.
+
+Seems to have been ripped with EAC, LOG/CUE included.
+
+Sample FLAC info:
+
+$ metaflac --list 01\ -\ Cracks\ In\ The\ Surface.flac 
+METADATA block #0
+  type: 0 (STREAMINFO)
+  is last: false
+  length: 34
+  minimum blocksize: 4096 samples
+  maximum blocksize: 4096 samples
+  minimum framesize: 14 bytes
+  maximum framesize: 15082 bytes
+  sample_rate: 44100 Hz
+  channels: 2
+  bits-per-sample: 16
+  total samples: 7735140
+  MD5 signature: b051ac732a1c3fd9afcbbe495b68b6d3
+METADATA block #1
+  type: 3 (SEEKTABLE)
+  is last: false
+  length: 324
+  seek points: 18
+    point 0: sample_number=0, stream_offset=0, frame_samples=4096
+    point 1: sample_number=438272, stream_offset=1057687, frame_samples=4096
+    point 2: sample_number=880640, stream_offset=2352427, frame_samples=4096
+    point 3: sample_number=1318912, stream_offset=3801139, frame_samples=4096
+    point 4: sample_number=1761280, stream_offset=5270083, frame_samples=4096
+    point 5: sample_number=2203648, stream_offset=6744156, frame_samples=4096
+    point 6: sample_number=2641920, stream_offset=8077424, frame_samples=4096
+    point 7: sample_number=3084288, stream_offset=9441175, frame_samples=4096
+    point 8: sample_number=3526656, stream_offset=10867933, frame_samples=4096
+    point 9: sample_number=3964928, stream_offset=12228109, frame_samples=4096
+    point 10: sample_number=4407296, stream_offset=13609367, frame_samples=4096
+    point 11: sample_number=4849664, stream_offset=14964443, frame_samples=4096
+    point 12: sample_number=5287936, stream_offset=16356718, frame_samples=4096
+    point 13: sample_number=5730304, stream_offset=17846700, frame_samples=4096
+    point 14: sample_number=6172672, stream_offset=19343066, frame_samples=4096
+    point 15: sample_number=6610944, stream_offset=20770486, frame_samples=4096
+    point 16: sample_number=7053312, stream_offset=22287294, frame_samples=4096
+    point 17: sample_number=7495680, stream_offset=23805546, frame_samples=4096
+METADATA block #2
+  type: 4 (VORBIS_COMMENT)
+  is last: false
+  length: 155
+  vendor string: reference libFLAC 1.2.1 20070917
+  comments: 6
+    comment[0]: artist=Flobots
+    comment[1]: title=Cracks In The Surface 
+    comment[2]: album=Survival Story
+    comment[3]: date=2010
+    comment[4]: tracknumber=01
+    comment[5]: genre=
+METADATA block #3
+  type: 1 (PADDING)
+  is last: true
+  length: 8192

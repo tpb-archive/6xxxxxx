@@ -1,0 +1,20 @@
+CorkScrews are prepackaged wine prefixes inspired by the "Wine bottle" of
+Crossover (cxgames.). This package was built using ArchLinux and also tested on Ubuntu 10.04, it should work properly on any Linux distribution with wine installed.
+
+This package contains StarCraft and The BroodWar expansion. 
+
+To install the game run InstallerStarcraft.sh. This will extract the archive to ~/.wine/wineprefixes/Starcraft
+
+To launch the game you can either use the desktop icon or execute the script located in ~/bin, either by double clikcing on it, or from a terminal enter: ~/bin/StarCraftLauncher.sh
+
+In addition to the game launcher a CD Key changer is included for those who might want it for playing on battle.net. 
+
+There are some issues with running the game in full screen mode on newer monitors which don't support 640x480. To ensure the game works for the most amount of people, I've set it to run in a virtual desktop by default. If you wish to try running in full screen run the script StarCraft-config.sh located in ~/bin and turn off the virtual desktop under the graphics tab. 
+
+To uninstall delete the Starcraft folder in ~/.wine/wineprefixes.
+
+I encourage you to package, test, and distribute CorkScrews of other games.
+
+I also encourage you to repackage CorkScrews into distro specific packages
+or add Desktop Environment friendly buttons or whatever other frilly shit you
+like.

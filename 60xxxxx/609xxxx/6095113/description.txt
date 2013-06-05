@@ -1,0 +1,48 @@
+ConvertXtoDVD - 4.1.10.348 PreRelease
+ 
+http://www.vso-software.fr/upload/box/convertxtodvd/v4/X2D-box_130x166.png
+
+interface fixes
+fix on support of embedded SSA tracks in Matroska files
+updated FFMPEG DLL
+Add Russian voice prompt and DVD-menus translations
+
+- 0004143: [Bug] mkv file no longer converts (wesson) - resolved.
+- 0004153: [Bug] debug info appears under preview window when converting subtitles (wesson) - resolved.
+- 0004161: [Feature Request] New languages added for installer (benjamin) - resolved.
+- 0004154: [Feature Request] Update URL to auto detect the customer language (wesson) - resolved.
+The majority of our software goes through 3 different stages.
+
+
+Create DVDs  from various video formats to watch them on TV with any DVD player.  ConvertXtoDVD has been designed so 
+
+you do not need to think about anything.  Add 1 or more video files, insert a blank DVD and your videos will be converted 
+
+and burnt automatically on to DVD with chapters and an elegant DVD menu.   No external codecs needed.  See the 
+
+supported formats tab.
+
+Hardware
+
+    * Processor Intel Pentium III / AMD Athlon
+      (Intel Pentium 4 / AMD Athlon XP or equivalent recommended)
+    * 512 MB RAM with Windows XP
+      1 GB RAM with Windows Vista
+    * Hard disk drive with at least 4.3 Gbytes free
+    * DVD Burner
+
+Operating System
+
+    * Windows XP SP2, Windows Vista, Windows 7
+
+for a step by step picture guide how i setup the settings 
+ here is link      just scroll each picture to see 
+each step.
+
+
+Installation Info:
+1)run setup
+2)use provided serial and activate
+3)if haveing problems with convertx working right use cleanVSO
+to do a full uninstall and reinstall fresh if u had previous version installed
+4)Enjoy from Slickinator

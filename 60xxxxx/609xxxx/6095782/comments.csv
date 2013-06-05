@@ -1,0 +1,46 @@
+User Type,Username,Date,Text
+,JohnHolmesII,2011-01-11T18:18Z,"now i understand the consequences of telling myself that ill put the description in later. ""edit temporarily disabled"""
+,JohnHolmesII,2011-01-12T17:15Z,"Encoded with Handbrake
+
+Video codec: h.264
+Video encoder:x264
+Video bitrate:2529
+Video Input settings
+	Advanced Settings:
+			  Reference Frames:4
+			  Mixed References:Yes
+			  B-Frames:5
+			  Adaptive B-Frames:Optimal
+			  Direct Prediction:Spatial
+			  Weighted B-Frames:Yes
+			  Pyramidal B-Frames:No
+			  Motion Estimation Method:Uneven Multi-Hexagon
+			  Subpixel Motion Estimation:7
+			  Motion Estimation Range:24
+			  Analysis: Some 
+			  8*8 DCT:Yes
+			  CABAC Entropy Coding:Yes
+			  Trellis:Yes, Encode Only
+			  Psychovisual Rate Distortion:Full
+			  Psychovisual Trellis: 0.1
+			  Fast-P-Skip:No
+			  DCT Decimate:Yes
+			  Deblocking Strength/Threshold:1/1
+
+
+Audio codec: MP3
+Audio Encoder : LAME
+Audio Bitrate : 320
+	Input Settings:
+		Sample Rate:48000
+		Mode: CBR
+		Quality: High
+		Channel Mode: Joint Stereo
+
+
+Container info:
+	.mp4 file extension
+	avc1 video, MP3 audio
+	Length:56:35
+	Chapters:No
+	Subtitles:No"

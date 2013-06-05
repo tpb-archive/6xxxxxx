@@ -1,0 +1,432 @@
+User Type,Username,Date,Text
+,xgman,2011-01-07T17:13Z,"has anyone tested this for save, bounce, authentication messages, etc, In other words the issues that so many seem to have with these to date?"
+,19nick80webb,2011-01-08T19:25Z,Demonoid has 1332 seeds download in 45 mins
+,seize,2011-01-09T07:44Z,122 Leechers and 0 Seeders?  No surprise there!
+,cvyogi,2011-01-11T16:40Z,"Can someone please send me an invite to demonoid ?
+cvyogi365@yahoo.com"
+,bronco3,2011-01-12T13:03Z,PLZ HELP me! I am stuck at 99% One or to more sources are necessary! I am uploading 80 kb per second but none is coming to my computer....
+,bronco3,2011-01-13T04:53Z,"Since there seems tp be no one who wants to seed more, i have decided to turn OFF my upload to you guys.
+
+Despite I have only 9 megs left... 
+But since no one is dld: in g to me...."
+,cvyogi,2011-01-13T07:10Z,"I am right there with you bronco3. I have been trying to download for three days and i'm stuck @ 98.24%. There have been at the most 3 seeders. i will continue to seed what portion I have, but a little love to finish it please !!! I will be happy to seed once i've finished the dl."
+,JaimeL,2011-01-13T08:10Z,"I have it all, and i'm seeding, but have a very slow connection.. sorry guys:("
+,zen29,2011-01-13T13:18Z,"What is GDB and how to do it?
+
+IM SEEDING PEOPLE!!!"
+,amehardys,2011-01-13T16:04Z,I had an invite to demonoid and was out of town so it expired.....if someone has an invite and can hook a ninja up...send to amehardys@yahoo.com i will repay with an invite to iptorrents
+,rubbber,2011-01-13T16:11Z,"I get ""missing iLok authorization"" when starting PT, 
+and can't go on.
+Any ideas, anyone?"
+,zen29,2011-01-13T17:05Z,"@rubber
+
+I get the same error as you."
+,Minimaskot,2011-01-13T17:17Z,"same here, any way to get around that?"
+,Minimaskot,2011-01-13T17:21Z,"What it means with ""Start it from Loader"" ???"
+,Minimaskot,2011-01-13T17:31Z,"Launch from Loader? What he means with that?
+
+I got same problem!"
+,akanni3000,2011-01-13T17:33Z,Me too... I need help with the Ilok???
+,akanni3000,2011-01-13T17:38Z,Same here .... Do i need an ilok???
+,cvyogi,2011-01-13T18:47Z,"if evrything was installed properly with gdb, you launch pro tools from the the PT9 launcher. Getting gdb installed was a pain in the a** ! First you need to install xcode from apple, then install macports, then download gdb7.2 zip. install gdb from terminal. type in: sudo port install gdb  - after it installs type: gdb test  - and it should run gdb in terminal. make sure you uninstall any previous versions of protools. i am up and running, and it is AWESOME !!!!! Running with digi 002, reason 5, and ableton 8 suite. Good times!"
+,Minimaskot,2011-01-13T22:16Z,"Noo, i JUST installed it and it works perfect!
+
+
+This is EXACTLY what i did, NOTHING MORE, NOTHING LESS!
+
+
+i installed this last night.
+
+first, you'll need to have Xcode installed and this will install the ""gdb""
+search on google and you'll find it.
+
+do a full uninstall of pro tools, after that go to application folder and delete the digidesign and or avid folder.
+
+2^ => install xcode (mac developer site, YES i registred as a developer)
+3^ => install full pro tools.(i DID reboot after install)
+4^ => go to the ""additional folder and install "" complete tollkit 2 "" and ""heat""
+5^ => install the loader.
+6^ => reboot your mac.
+7=> lauch pt 9 loader in the app => avid => PT9 LOADER.
+
+
+I didnt even touch the original PT9 icon, ONLY open PT9Loader file!
+
+Hope it works for you!
+
+/Minimaskot"
+,zen29,2011-01-15T10:03Z,"uploading guys, more people will get to enjoy this."
+,zen29,2011-01-15T12:41Z,"@Minimaskot
+
+You are our life saviour, you provide great support and clear instructions. IT WORKS FLAWLESSLY!
+
+I Love yoU!!!
+
+Everyone follow his instructions.
+AND IM SEEDING TO YOU PEOPLE!!!"
+,Minimaskot,2011-01-15T16:14Z,"@zen29 Thank you very much, its always enoying when the instructions that comes alongs isnt clear enough!"
+,19nick80webb,2011-01-17T04:38Z,there is a much more stable 1.2 ptloader floating around guys....
+,musical1960musical,2011-01-20T05:39Z,"Hi Guys!
+
+I am using MBox mini with this software and it should work. I have installed the driver of MBox mini separately and my Mac recognize it but Protools 9 does not open anymore. It semms that they are in kind of conflict. Have you any idea how can I get this work with MBox mini?
+
+Thanks"
+,Minimaskot,2011-01-20T14:38Z,Why i need another Loader when this one works as a charm? :P
+,rafsch2s,2011-01-29T13:27Z,"The Loader works fine, but at least it he cant recognise any Playbackdevice!  ;(   ?"
+,rafsch2s,2011-01-29T13:30Z,how can i configure it if my Protolls doesnt even comes up?
+,kennyG7,2011-02-04T04:51Z,"I Tried everything step by step according to what you wrote ""Minimaskot"" and it works flawlessly except for ""HEAT"" i don't know where is it at or how to enable it, 
+
+I go onto preferences/processing, and it's not there. 
+:( "
+,jerome4,2011-02-07T03:50Z,will this work on Mac PPC?
+,martinio21,2011-02-09T18:27Z,"HEAT wont work unless you have Pro tools HD hardware. It uses PT-HD PCI processing cards to run. If you don't have em you can forget about getting HEAT working.
+imo this release really isn't stable enough. 
+I installed Xcode and got PT running and working well but as soon as i tried to install Waves plugins PT9 would freeze on startup. Both Live and Logic load up fine so i'm guessing it has something to do with the loader.
+Uninstalling Waves solved the problem but after about two days I now get random error messages claming that no ilok can be located and the program shuts down.
+Wait for a official release from AiR, XVX, etc."
+,airsmurf,2011-02-09T19:03Z,Can any one get me the PC version please??????
+,ks197,2011-02-18T18:12Z,"1) Installed xcode successfully.
+2) installed Protools, and extras, with necessary reboots
+2) installed cracked launcher into same hard drive
+3) went to applications>digidesign>Pro Tools>PT9Loader   and attempted to open
+4) It crashes, nothing happens
+
+Can anyone help pinpoint what went wrong here? I've got the crash report. Let me know if you think you can help."
+,ks197,2011-02-18T19:34Z,^^^ Thanks got it working.
+,MACS4LIFE,2011-02-25T20:21Z,"i Keep Getting i-lock error message, telling me to enter ilock code wich i dont have. and dont know where to enter...HELP PLEASE"
+,MACS4LIFE,2011-02-25T20:30Z,"Must (x-code) software remain on my computer?
+its software development tool so i removed it?
+maybe this is why i get i lock error????"
+,pelleke,2011-02-27T00:13Z,"@MACS4LIFE, you clearly didn't read the comments. Please do, and understand that you should launch pro tools from the cracked loader."
+,eparg,2011-03-01T20:21Z,"Has anyone figured out a workaround for the ilock authorization? It seems to be happening randomly, sometimes a couple minutes into a session and other times it can work for an hour or two. Not a huge problem but it can get very annoying constantly having to save and close the session. If anyone knows how to get around this or knows of a newer bootloader that would be greatly appreciated by many."
+,dingo80,2011-03-01T20:42Z,"Holy Shit that was a quick download... 13 minutes...
+Thx for the seeds guys, I'll do you right & seed 10:1..."
+,gayanf2,2011-03-05T09:53Z,is there any PC crack ??? waiting for that?
+,rabbitkay,2011-03-21T11:18Z,"after installed xcode,don't need any action from xcode?"
+,christozed,2011-03-22T05:46Z,"......................IT'S --O N L Y--.........................
+
+.....................ONE VERSION........................... 
+
+...............FOR MAC OS AND WIN PC..............
+                   (Only one for both)
+
+The problem is the crack"
+,christozed,2011-03-22T05:48Z,The Crack is for mac only
+,christozed,2011-03-22T05:51Z,"System Requirements
+
+# Avid-qualified Mac OS X- or Windows-based computer
+
+SEE HERE
+--------------------------------------------------------
+# Windows 7, 32 or 64 bit (all versions - Home Premium, Professional or Ultimate)----------------------------------------------
+SEE HERE
+
+or Mac 10.6.2 - 10.6.4, 32 or 64 bit (Snow Leopard)"
+,skinny81g,2011-03-25T05:04Z,"can i use this version of pro tools in windows 7???
+can some1 really help me i really need this pliss thanx "
+,christozed,2011-03-29T16:37Z,"@skinny81g
+
+No u can't because the files is from Mac OS system"
+,bizzle11,2011-04-04T19:06Z,im having problems geting this working what is the k ed installer and what file do i overwrite and with what please help 
+,boodschapje,2011-04-05T18:06Z,"Finally I got GDB installed. I did as described here. I run PT from the loader, but still I get the message ""Error, missing iLok authorization."" What's wrong?"
+,superbolli,2011-04-11T17:27Z,is this the version that take any soundcard? I have Focusrite Saffire 6 USB. Will it work with my soundcard?
+,AB80593,2011-04-12T18:43Z,"It worked perfectly for me! 
+All you have to make sure you have is the X code installed.
+@superbolli: this is the version that takes any sound card. I am using a presonus fire studio and it works perfectly."
+,mmelnick,2011-04-12T20:23Z,"Works perfectly for me. I can't believe all the crying here. If you don't have the intelligence or skill to install a cracked program according to the specific instructions that are given, here's a solution. Walk out of the house, go to the music store and buy it!"
+,atlredninja1,2011-04-17T16:10Z,"Followed Minimaskot's instructions on page 1 to the letter, everything worked fine. Using OS 10.6.7 on an intel iMac and an M-audio fast track ultra. Even loaded my old PT8 LE files and played them back, although some of the plugins werent on the new version. That is a common problem though, because that happened to me when I went from pt7 to pt8."
+,RodWall5,2011-04-19T18:06Z,"It's working here. Follow Minimaskot's instructions on page 1 exactly as he sais and you will be fine.
+I'm having problems doing Bounce, and I've changed the Buffer Size to 1024 but it's still not working. I'm trying without any interface connected, maybe that's the problem. I'll connect my FireWire Solo and see if the problem persists."
+,frequenciapirata,2011-04-25T23:15Z,"I managed to install and the software works, but im encountering a very frustrating problem. While starting for the first time Pro Tools froze when searching and validating my plugins. The thing is, it always seemed to stop in the last one of the default folder of pro tools' plugins. I then, as a test, emptied the folder and PT started fine, I could open projects and etc BUT without any plugins, either pro tools' or my third party ones. Any ideas? Thanks"
+,izzy1,2011-04-28T20:17Z,"Hello, im a newbie to all this & maybe this sounds dumb, but do u need an iLok to use this??"
+,Johnnyjn,2011-05-02T12:02Z,followed Minimaskot instructions on page 1 works perfectly thats all you have to do
+,rastafariiam,2011-05-03T14:53Z,prols 9.0.2 0sx  mac  is hare wore grate
+,Dozzy_x,2011-05-06T17:31Z,"Minimaskot you legend. 
+
+Go to Page 1 and do exactly what Minimaskot says and it works fine. 
+
+I'll be seeding all week. "
+,peddlebreaker,2011-05-12T18:06Z,Has anyone had anyone used this with a 3rd party soundcard suich as the M-Audio Profire 2626? Any issues?
+,dmaji1,2011-05-17T14:14Z,@peddlebreaker it says the profire 2626 works fine here: http://airusersblog.squarespace.com/pro-tools-9-hardware-checker/
+,Jimbo6154,2011-05-17T18:02Z,Will downloading the PT9 update mess the crack?
+,jpablo728,2011-05-20T06:51Z,can you update this? i downloaded it and its working perfectly but says there is an update available
+,jpablo728,2011-05-20T06:53Z,"can you update this? i downloaded it and its working perfectly fine for me but its showing that a ""critical update"" is available"
+,steelyd,2011-05-23T19:24Z,"it looks like updating the program to 9.0.2 is disabling it.
+Anyone been able to update and have it work?"
+,Dannieloco,2011-05-23T19:52Z,^^^ NEVER update a cracked program.. why update? if its not broke why fix it?
+,tails-4,2011-05-27T04:03Z,"for anyone having a problem bouncing to disk, TURN OFF INTERNET (wifi or ethernet) and it shouldnt show the CPU overload error"
+,CoBu1,2011-05-30T02:29Z,"Okay so originally it would work correctly for 15 minutes or so, and then I would get ""Missing iLok authorization"" and would be forced to quit.  But now when I click on the PT9 Loader, nothing happens at all... Won't even open??? "
+,shiftersback,2011-06-01T03:39Z,"Really appreciate this bigtime. Its working great! There were the ilok issues here and there on 10.6.7 x64 which I could accept but since I needed to go x32 because of my RME 9632 those do not seem to be happening now. Followed Minimaskots instructions on page 1.  I'm seriously thinking of purchasing this now. btw, this is on i7 hackintosh."
+,Locrian78,2011-06-04T17:26Z,"I've been using this crack for a while and have found for the most part that it work well.  Really the only thing that has plagued me has been the ""failed to see iLok message"" that comes up from time to time.  It only happens when I have my USB hard drive on plugged in so I am thinking that it has something to do with the Crack and the program continuing to look for the iLok on the USB Bus.  maybe it's fixable and maybe not.  Just thought I'd let you all know."
+,John16,2011-06-05T06:23Z,"please help I made an account just for this question
+I followed the steps in page 1 and I installed xcode, gdb works, I installed the other 2 files and when I try to load protools it says I need ilok, first of all, what is ilok? and how do I fix this, thanks!"
+,John16,2011-06-05T06:46Z,"I fixed it, 
+If anybody else is having the same problem as me, you have to load protools from PT9LOADER, not PROTOOLS, hope this helps!"
+,John16,2011-06-05T23:43Z,"anybody get the mini grand (creative collection) to work? it's pretty frustrating, I have it as a .big file and I can't find it in protools, I've been looking and I can't find another download just for the creative collection, what should I do?"
+,John16,2011-06-05T23:51Z,"so, playing around with the mix pannel I figured it out again, haha you guys are gonna think I'm a joke, always asking and then finding the solution myself but at least if someone is having the same problem I present the solutions!"
+,baby5nake,2011-06-15T11:37Z,"I have the same problem as CoBu1 and Locrian78, worked fine for a few days on my macbook pro (10.6.7), but now it won't even open.. any clues???"
+,panzergeneral,2011-06-20T14:13Z,"tails-4 u r the maaaaaaan
+thanx a billion for that info,been having serious bounce 2 disk issues
+that is,before u came along and saved the friggin day.thanx uploader 2 btw
+cheers"
+,ggascot,2011-06-21T15:43Z,Thanksss man works perfectly for me...god bless you!!!
+,hoodatbee,2011-06-21T18:53Z,"same story as everyone else. Works for a while then comes up with error message saying ""Missing iLok auth."" help?"
+,CoBu1,2011-07-03T07:14Z,Shit I just realized bouncing to disk doesn't work with this torrent.... I have a project that needs to be done right away... Can anyone help?
+,Koluh,2011-07-15T17:03Z,"i keep getting this error message when im starting up the pt9 loader, it says pro tools could not initialize the current playback device or something like that, i have xcode, i did everything from minimaskots steps, please help!!!"
+,trancedark,2011-07-17T20:46Z,"got all step rite nd protools workin...but it ask me tht thr is a major update...nd to do so
+so can i update????
+is it safe???"
+,keysofanxiety,2011-07-20T22:26Z,"*UPDATE*
+
+This torrent does NOT work on OS X Lion. If you're still running Snow Leopard, it'll be fine. 
+
+If you're desperate to keep using Pro Tools, don't upgrade- but frankly, Lion's too good to resist that opportunity. I'm only hoping somebody'll come up with a new patched version for Lion.
+"
+,spam0000,2011-07-21T17:03Z,"@ Koluh:
+I had the same issue.
+a quick google gave me this:
+http://duc.avid.com/showthread.php?t=285650
+
+what solved it for me was deleting
+/Library/Preferences/com.apple.audio.AggregateDevices.plist"
+,burld,2011-08-10T23:13Z,how do i get my ilok to work wth this download
+,malston,2011-08-23T17:58Z,someone crack this for windows c'mon :(
+,capice2003,2011-08-31T23:13Z,Listen up people 90 percent of the install on MAC problem is the xcode and guess what if you got a MAC and you got the operating system install disk it is already on there just open it and run it! It's like a 12 minute install tops!
+,endeley,2011-09-08T21:31Z,thankx men every thing works just fine tankx again
+,thewiseone77,2011-09-09T03:16Z,CANt get it to work without iLOK>>>>>
+,thewiseone77,2011-09-09T05:40Z,"K.... Finally got to read all the reviews, and... wow. I should be able to figure it out, but just to confirm, there is no need to use your ilok right? Whether you've got one or not. It doesn't need to be present. Am i right?"
+,thewiseone77,2011-09-09T05:42Z,"And another thing to add to my other question, how do you seed. I'd like to help out."
+,steve_612,2011-09-10T03:53Z,"please if anyone knows, please crack it for windows:(:("
+,thewiseone77,2011-09-10T04:20Z,I know this is supposed to be simple but OMG!!!! Okay it's been a while since I've been in the MAC Platform what's a terminal on the mac.Tryin to run GDB Test. And is it cool if you're runnin Snow Leopard OSX 10.6.8? i've only seen lower versions so far runnin it. And wht about Xcode4? Just reg. Xcode or wht? Holler back. Pls.
+,thewiseone77,2011-09-10T20:43Z,"Don't be deceived people. There are many prerequisites to preparing this software for installation. I've been doing some reading. Xcode is a set of developer tools for software engineers n macports and GNB is too. It takes more than basic knowledge of a mac or pc to be able to pull this off. You'll need to read between the lines... just thought you should know.
+
+And this is just my experience. maybe somebody else knows something I don't. I like real instructions. Talk to me like I'm Two! Tell me how to find the terminal in the utilities menu.... or whatever."
+,thewiseone77,2011-09-10T20:47Z,"by the way, I think the best one to use is Xcode 3.2 because even though Xcode 4 is good for snow leopard, it drops off a lot of support for previous tools, like GNB, for instance, which you'll deffinately need. So... Heads up. I'm still figuring it out but there you go."
+,thewiseone77,2011-09-10T20:57Z,"If you want to help somebody out, you don't just give them a car knowing they don't know how to drive; n tell them its easy. Everything new comes with detailed instruction. You post something in the bay to help out your fellow bay bro. How have you helped if they just crash n burn????"
+,thewiseone77,2011-09-11T05:51Z,Okay... I guess it can be done... I've got it. Thanks guys. Instructions still could be more detailed. But the one's given aren't too bad. :-)
+,steve_612,2011-09-11T23:22Z,"guys is there a way to install this on a pc, with using virtualbox and any mac os ? if yes which version?? thanks!! :)"
+,thewiseone77,2011-09-12T06:52Z,Steve I think that VM Ware might help you. You can do all the homework. I hope this helps
+,antodeco,2011-09-19T23:45Z,"Thanks so much for all the effort of putting this together. I have one problem. The loader doesnt seem to be working. I double click it, but nothing happens. Rebooted a few times, and still the same. Anyone any advice? Thanks"
+,CoBu1,2011-09-22T09:29Z,Is there a PT9 torrent out that works with Lion yet?
+,foryouwillneverknow,2011-09-26T16:51Z,well this sucks! it askes for a ilok! i i have gdb and i did everything in the instructions and it still asks for ilok!
+,savedinak,2011-10-04T01:34Z,"This blows up Mac OSX86 Lion, you need to install and also run this update BEFORE rebooting.
+
+http://avid.custkb.com/avid/app/selfservice/search.jsp?DocId=416391"
+,iburnedmyhand,2011-10-04T21:23Z,"Has anyone run the update savedinak is talking about and had this torrent work with Lion yet?  Avid shows there is an update available for Lion compatibility, although it's still a beta."
+,marvinzon,2011-10-05T21:29Z,"I've tried doing the update procedure that savedinak proposed with Lion, but it still didn't work. First, I tried installing the Pro Tools software, Heat then Complete Production Tookit 2, then the Crack Loader then the update, BUT it didn't work after I rebooted after the update. Second, I tried installing everything in the same order, but instead I installed the crack first before the update then restarted but it still didn't work. Everytime I tried to open PT9Loader, nothing would happen and when I tried to open Pro Tools through the main icon, it always said I needed to authorize it through iLok. Hoping to get the crack to lion soon :)"
+,Jarreth29,2011-10-11T15:34Z,"Hey guys, This is what I've done and is working perfectly.
+1. Install Xcode
+2. Install Pro Tools from ""Pro Tools 90 full installer
+3. Install PTHD9 from ""Avid Pro Tools 9.0 loader crack 1.1
+4. Load Pro Tools from ""PT9Loader"" (This file is inside ""Applications/Digidesign/Pro Tools/PT9Loader""
+
+Hope it works for all of you."
+,foryouwillneverknow,2011-10-12T08:48Z,"@jarreth29 thank you! it works!
+everyone when you follow his steps it works. but you can only open it from ""PT9Loader"". if you open it from the app that just says ""protools"" then it would ask for a ilok. so only open it from ""PT9Loader""."
+,jakelope,2011-10-12T17:24Z,"Hey guys, I just got Lion OSx for my mac, Ive tried installing PT9 like you said and like @jarreth29 said. Everything looked like it installed properly but when i got to the PT9 loader in the Applications/Digidesign/Pro Tools/PT9Loader folder it starts to load up but then i get error missing iLok. I have already instlled the crack so idk whats happening, anyone help please"
+,Jarreth29,2011-10-12T23:21Z,"JEKALOPE if you read old comments it says that it won't work on lion 
+Sorry"
+,iburnedmyhand,2011-10-14T00:39Z,"Jarreth29, if you read the three comments before yours you would see we are looking for an answer for Lion, which is why many of us assumed your method applied to that OS.  Anyone else have any luck?"
+,Jarreth29,2011-10-14T06:38Z,"OOPS, sorry my fault. didnt notice. I appologize didnt mean to be rude.
+did Lion people try to install that ""gbd"" thing. I couldt install it but crack still works on snow leopard. Maybe with ""gbd"" it'll work on Lion."
+,xt2,2011-10-15T23:39Z,Can someone get Avid Pro Tools 9.0.5 with a crack for the iLok?
+,zakkf,2011-10-17T04:33Z,"WE NEED PTLOADER 2.0
+
+You cannot BOUNCE ANY FILES WITHOUT CPU OVERLOAD with 1.1..."
+,panzergeneral,2011-10-20T20:03Z,"zakkf,if u read through the comments u will find that turning off internet on your cpu will let u bounce without problemos.
+credit goes again to tails-4 for supplying that piece of info. not to mention uploader,this site and whoever cracked the program.Cheers u rock...hard!"
+,foryouwillneverknow,2011-10-22T11:05Z,they just came out with protools 10 a few days ago. waiting for someone to upload it!
+,cooljuanv,2011-10-30T02:48Z,What are the instructions for installing this?
+,steve_612,2011-11-01T22:34Z,"i am trying to install this on windows 7, using vmware, and snow lepard, can i update pro tools to 9.0.5 or i need loader 2 to get this working?"
+,xt2,2011-11-03T23:37Z,Can someone get Avid Pro Tools 10 out?
+,IXLGuy06,2011-11-06T03:33Z,"I have Pro Tools HD 9 ready to ship.
+Works As Of November 2011!!!
+100% Working. iLok hacked.
+
+Contact me at IXLGuy@yahoo.com
+
+I have other MAC goodies
+
+This is great for people who do not want to spend forever getting it"
+,grim12345,2011-11-16T22:55Z,anyone got it working on Lion yet?
+,leefroad,2011-12-08T18:30Z,anyone got this working on lion yet?
+,JPunch,2011-12-21T01:16Z,"Hey, guys. I took it upon myself to patch up the PT9Loader binary for OS X Lion. If anybody wants to learn how to do it, send me an email. "
+,xalanisx,2011-12-21T03:56Z,hey junch  which  si your e mail ??  my mail is bananis_182@hotmail.com how can i  run pro tools in lion??
+,mattj1208,2011-12-24T07:24Z,jpunch my email is mattj1208@gmail.com
+,blankfrank23,2011-12-25T06:48Z,"Has anyone tried (in Lion) installing gdb (not just XCode) and running savedinak's patch? Also: hi, JPunch! I'd be thrilled if you'd put me in your PT9Loader loop as well: sluttyhearts@gmail.com."
+,ultimate1xy,2011-12-28T06:04Z,"Been wanting to run pro-tools for a long time now, send me what you got too; jesselsullivan@hotmail.com"
+,MarnusNieuwoudt,2011-12-28T23:15Z,"PLEASEEEE can some one work on Protools 10 :( I spent ageeess getting hackintosh going (Lion being the only one compatible with my setup) and then, when i finallyyy get it right, no protools!? the reason i installed mac in the 1st place :/ fml xD"
+,jvelez127,2011-12-29T14:28Z,"hey JPunch, can u PLEASEE email me at Jvelez127@gmail.com . I'm really interested on getting this badboy on my Mac OS X Lion. Thank You :)"
+,hairmonster,2011-12-29T20:51Z,JPunch i very much need the patch to get pro tools running on lion. please help me out! tim-bartlett@hotmail.com
+,sleemin,2011-12-30T05:42Z,Send me the patch for lion seanmlee@me.com
+,sleemin,2011-12-30T05:43Z,Jpunch send me the lion pact me email : seanmlee@me.com
+,Xxr0bixX,2011-12-31T05:44Z,"Hey JPunch, if you could, do you think you could send me the binary patches you made for protools to work on Lion as well? My email is: tehrobi21@gmail.com"
+,agwoods,2011-12-31T09:09Z,Can someone upload the patch or send it to me as well. Woodsman6819@gmail.com
+,nripnrip,2011-12-31T09:44Z,"jpunch..(or anyone)..could you please send me the patch to get protools running on lion..
+my email is babooswag@hotmail.com"
+,sega123,2011-12-31T20:30Z,if some tells me how to get the ilok i'll tell you how to get it to work on lion
+,Ca1m_down,2012-01-01T07:03Z,"@sega123 this was earlier on in the comments
+
+""first, you'll need to have Xcode installed and this will install the ""gdb""
+search on google and you'll find it.
+
+do a full uninstall of pro tools, after that go to application folder and delete the digidesign and or avid folder.
+
+2^ => install xcode (mac developer site, YES i registred as a developer)
+3^ => install full pro tools.(i DID reboot after install)
+4^ => go to the ""additional folder and install "" complete tollkit 2 "" and ""heat""
+5^ => install the loader.
+6^ => reboot your mac.
+7=> lauch pt 9 loader in the app => avid => PT9 LOADER.
+
+
+I didnt even touch the original PT9 icon, ONLY open PT9Loader file!""
+
+How do you install on Lion?"
+,nripnrip,2012-01-01T22:10Z,"@sega123
+let me know how to do it on lion too
+babooswag@hotmail.com"
+,nripnrip,2012-01-01T22:14Z,"@sega123
+please let me know too
+email- babooswag@hotmail.com"
+,filoopirate,2012-01-02T01:04Z,"hello !jpunch..(or anyone)..could you please send me the patch to get protools running on lion..
+my email is filoo26@hotmail.com thanx a lot!!"
+,krumpet,2012-01-04T00:25Z,"Please send me the ProTools 9 Lion Patch!
+potatofilms789@gmail.com"
+,dismal06,2012-01-05T20:25Z,"Hi JPUNCH!
+
+Sorry I'm asking for it as well, I've been struggling for month to be able to install a Pro Tools on a Lion IMAC.
+Could you please send me the patch to guirosta@gmail.com
+
+Thx"
+,marvinzon,2012-01-05T20:34Z,"Just wondering, is jpunch for real? Have those who posted their emails actually got Pro Tools 9 to work on Lion?"
+,henriquepgs,2012-01-06T06:34Z,Heyy guys (: can anyone send me the path to lion please? henrique.pgs@hotmail.com
+,henriquepgs,2012-01-06T06:41Z,Will it work in Snow Leopard??
+,consumeralert666,2012-01-06T09:21Z,i would extremely appreciate the lion crack if it does exists. 200printing@gmail.com. Thanks. 
+,dismal06,2012-01-07T15:57Z,"What up JPUNCH!!
+Need you to help me very much as well plzzz!!
+guirosta@gmail.com
+
+Thx."
+,jvelez127,2012-01-07T16:58Z,Wheres JPunch !!!! :'(
+,sega123,2012-01-08T20:49Z,sorry for the wait..to get it working on lion just download the update on the avid website
+,sega123,2012-01-08T21:09Z,To get it to KINDA work on lion you have to download the update from the avid website.I still ran into frequent ilok issues every once and a while(hella annoying!!) so im uninstalling it and just gonna save up to buy the real thing. Honestly i suggest you to do the same thing. Sometimes i hate the fact that i bought the new Macbook Pro with lion...hope this helps.
+,damage750,2012-01-10T00:00Z,"I'm also in need of the lion patch. If anyone has it, please send it to damage750@gmail.com
+
+Thanks!!"
+,damage750,2012-01-10T00:03Z,"Installed, and applied the lion patch from AVID, but PT9Loader will not launch pro tools anymore. If I click it, I get no icon on the dock, and pro tools doesn't launch. Anyone else getting something similar?"
+,SpaceGhostCCC,2012-01-10T03:11Z,I'm getting the same issue. pt9 loader won't open n e thing up wen u install the update. help 
+,markforces,2012-01-10T22:14Z,"If there is an OS Lion crack I'd like it also cheers
+markforces@hotmail.com"
+,moreno818,2012-01-10T22:42Z,I do exactly as it says here and it opens up protools loading window but freezes. what can be the issue. 
+,schmig,2012-01-10T23:19Z,If someone could forward me the Lion crack i would be very thankful. Thank you so much jonathanmadden89@gmail.com
+,jargueta,2012-01-11T09:50Z,if someone could send me the lion crack ill be thankful. jargueta07@gmail.com
+,mothermonster,2012-01-14T17:36Z,"lion patch would be greatly appreciated, akingwithnocrown@ymail.com
+
+-Elle"
+,kanye19,2012-01-15T02:30Z,somebody PLEASE email me a lion patch @ robbinthehood109@gmail.com
+,iwilltell,2012-01-16T16:06Z,PLEASE send me the lion patch! @ p_jonaseriksson_p@yahoo.se
+,jeffoukos,2012-01-17T22:28Z,"so i have lion os and when i try to run it, it just shows me the loading pro tools and lags.so i am updating it right now cause i saw that they have created PT Loader 2.0 and i thing it works. so i will let you know when im done :P"
+,SpaceGhostCCC,2012-01-18T00:28Z,so is that loader working @jeffoukos
+,MarnusNieuwoudt,2012-01-18T09:06Z,"I am too one of the ones Desperatly needing a loader or something for LION!.. if ANYONE has any info email me please! - mnieuwoudt@hotmail.com 
+
+I downloaded a torrent which had Protools 10, Just to figure out it doesnt have a crack/loader =.="
+,MarnusNieuwoudt,2012-01-18T09:08Z,"mnieuwoudt@hotmail.com .. PLEASE HELP!,, Really need protools on Lion :)"
+,hassoow93,2012-01-18T23:35Z,"i need lion crack can somebody help me?
+my mail is hassoow93@gmail.com"
+,jimmymills,2012-01-20T11:05Z,"i genuinely don't deserve this computer, i'm too drunk and stupid too understand any of this. henceforth, i'm going to cook sausages and cry into the bottle of red wine i found in my room. blub."
+,gogostephen,2012-01-22T01:35Z,"fully working copy with os x lion
+
+http://thepiratebay.org/torrent/6344331/Prols_9.0.2_OSX"
+,ryanbp,2012-02-04T20:10Z,I registered as a developer and downloaded and installed xcode 3.2.6 after installation I typed gbd test in terminal and it still doesn't recognize it. any help greatly appreciated!!
+,itzSMOKE,2012-02-23T05:10Z,"so, i uninstalled my previous pro tools LE and this didnt work for me .. fuck .. im losing money everyday .. any help?? im on lion 10.7.3.. it wont even install .. i feel like an idiot lol"
+,dcgreene01,2012-02-23T06:53Z,"Would someone plz email me the loin crack. I would really be happy. Thanks
+kinfolkmusic@yahoo.com"
+,dcgreene01,2012-02-23T06:57Z,"How do I get ilok to work. Plz let me know. I am so ready to start learning protools.
+
+Thanks"
+,cptboogy,2012-02-24T00:27Z,"can someone email me the lion crack please, cptboogy@gmail.com....thanks"
+,Moncor9,2012-02-24T01:22Z,"If someone knows how to install Pro Tools 9 for Mac OSX Lion (10.7.3), it will be awesome to tell me at : 
+jeremylive@hotmail.fr
+
+Than"
+,tjneisi,2012-03-02T03:03Z,"If PT hangs or freezes on the ""Creating DAE Objects"" action on the splash screen, try restarting PT9 while holding down ""n"" on your keyboard.  A menu should pop up before too long.  On this menu, check ""Minimize Additional I/O Latency.""  Push Ok.  Start up should continue.
+
+That solved the freeze for me, but then I had this error message pop up: 
+
+'Could not create a new document because Assertion in ""/Volumes/Development/we.Preston/AlturaPorts/DFW/MacBuild/../Views/UMenu.MacOS.mm"", line 1346.'
+
+Apparently this problem is from not having a beefy enough Sound Card.  (Especially if you also get a message about not being able to run sound at 196k) It seems that the recommended sound card for hackintosh users is the M-Audio Audiophile 2496.  I can't verify that yet, as I've only just ordered said sound card.  Hopefully that fixes it for me.  More details on this problem found here:
+
+https://tonymacx86.com/viewtopic.php?t=19080&p=122407
+
+Much love, Pbay.  Thanks for all the free stuff... and the hot girl ads."
+,julio223,2012-03-02T08:10Z,Please someone help me with the patch for lion.. somosloqsomos@hotmail.com.. thanks in advance
+,bbarra,2012-03-09T01:09Z,"If someone knows how to install Pro Tools 9 for Mac OSX Lion (10.7.3), it will be awesome to tell me at : 
+bbarra@gmail.com
+
+tkx"
+,Goliahs,2012-03-11T19:23Z,"Working just fine in mac osx10.6.8.
+I had some issues on getting gdb. I installed an old version of Xcode provided by apple's developer site but when I typed ""gdb test"" was still getting notting. Then this solves my problem : http://opensource.apple.com/release/mac-os-x-1068/ 
+I got the ""Gdb- 1344"". Then I checked on the terminal and gdb was there. After that I follow the instructions: first install production tool kit 2 and heat, second the pt9 loader, reboot the system click on the loader (not the pt9 icon) and done!!! "
+,k195,2012-03-13T01:02Z,"If there is a Lion-Patch, please mail me... @ k.kofflard@gmail.com"
+,xcaz,2012-03-19T02:55Z,"JPUNCH! or anyone! can anyone e mail me with the instructions ont he loader for LION?
+
+xcazares@gmail.com"
+,Laucha84,2012-03-27T13:11Z,"So, i'm on Lion 7.3 and this won't work... I guess I'll do a rollback and get again the 8 LE with the drivers for Lion (f*cking monopoly)"
+,pressplay29,2012-03-30T10:24Z,"hey this is ma email! giddieguy@yahoo.com, pls i need d lion patch like crazy!!! i need to record later today...thanks Jpunch!!!!"
+,adada111,2012-04-01T10:48Z,"djszulczyk@gmail.com   
+email me the patch
+thanx"
+,tails-4,2012-04-02T03:54Z,"if anyone has it, I would greatly appreciate the Lion crack!!! michael_taylor500@yahoo.com.au. THANKS in advance :)"
+,ayllon56,2012-04-12T03:57Z,"hey i also have lion, can someone please send me the update or patch or whatever i need please? :) ayllon56@yahoo.com thank you"
+,flipfile,2012-04-16T11:03Z,"Can someone please email me the lion patch!!
+I need it really badly!!
+
+my email is ryn.kelly@hotmail.com"
+,flipfile,2012-04-19T17:01Z,"pleas please please can someone end me the patch or whatever file i need to get PT9HD working on lion!!
+
+email is run.kelly@hotmail.com"
+,marvinzon,2012-04-23T20:24Z,"For those still waiting for the crack for Protools on Lion, you can use this for now:
+
+http://thepiratebay.se/torrent/5614807/PROTOOLS_8_HD_MP_-_XVXTeam_CARRANCA
+
+Its Pro Tools HD 8 + Pro Tools M-Powered 8 with a Digidesign Hardware Emulator. I have Lion and it works perfectly on mine. Have fun!"
+,dominique120,2012-04-26T04:24Z,Anyone have this for windows?
+,wiindrummer,2012-04-29T01:42Z,"Hey!
+Can someone please email me the lion patch?
+i need it in two days for a session! 
+
+Please
+
+lw94@live.dk"
+,thekatieritter,2012-05-02T17:20Z,I'm runnin 10.7 on my mac and when I try to open pro tools it tells me it can't be run with this version of Mac OS X. Is that the lion patch the thread is speaking of? Please help!! e-mail me! k.ritter@me.com thank you!!
+,Knucklez415,2012-05-08T06:08Z,what if i don't have gdb installed???
+,Palcocer,2012-05-11T02:34Z,"jpunch my email is p.alcocer@hotmail.com, i need lion patch!"
+,cjo9224,2012-05-21T22:17Z,hey i need the lion patch my email is christopherjohnogden@gmail.com thanks
+,lee92,2012-06-01T14:07Z,"can someone please send me the lion patch needed to run this version, would be bee much appreciated!
+
+leeispeace@gmail.com
+
+Cheers"
+,JPRmusic,2012-06-01T20:12Z,"Another request for lion patch, pweeeeese?
+jpshots@gmail.com"
+,AndLem,2012-06-02T14:46Z,"Hi, if possible, please I would like to receive the Lion Patch. andre.leme84@gmail.com
+Thanks "
+,gobuck,2012-06-05T00:10Z,has anyone received the lion patch yet? Can you send it to me @ cjt_wordlife@hotmail.com ... Thank you 
+,thevisi0nary,2012-06-09T05:47Z,"@foryouwillneverknow 
+
+how did you get the ilok to work??"
+,foryouwillneverknow,2012-06-09T13:39Z,@thevisi0nary the PT9loader is like the cracked key used to open protools without the ilok. but you have to have gdb installed. but now im using lion and it does not work. so im coming back everyday to see if there is some good news.
+,freddyp3,2012-06-13T16:36Z,I desperately need the Lion patch. My email address is fredhmusic@gmail.com.   Thanks freddyp3
+,foryouwillneverknow,2012-06-15T11:24Z,why do people write there email address on here? NO ONE IS GOING TO SEND YOU THE LION PATCH! no one with the lion patch is going to waste their time sending it to all this people. god damn are you guys stupid?
+,IXLSoft24,2012-06-16T00:48Z,"I have Pro Tools HD 9 ready to ship.
+Works As Of July 2012!!!
+100% Working. iLok hacked.
+
+Contact me at IXLGuy@yahoo.com
+
+I have other MAC goodies. Komplete 8 Ultimate, Logic Studio 9 , etc...
+
+This is great for people who do not want to spend forever getting it"
+,spawnmx10,2012-06-20T11:02Z,I desperately need the Lion patch. My email address is spawnmx10@gmail.com

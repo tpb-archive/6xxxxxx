@@ -1,0 +1,88 @@
+User Type,Username,Date,Text
+,errorist,2010-12-10T11:19Z,"Trying downloading this torrent gives me a ""No input file specified."""
+,Sprite0,2010-12-10T11:20Z,This is tarred but uncompressed?!
+,tcj001,2010-12-11T15:34Z,"Awesome. This is the real deal, folks."
+,STARATOM,2010-12-11T21:27Z,"This Is Exactly What I'm After, But Having Trouble With The Download Button And Magnet Link.
+If Someone Can Tell Me How To Download This Using Utorrent, I WILL SEED TO 10.000
+
+I PROMISE.!!!!!!!!!"
+,Sprite0,2010-12-11T22:40Z,"I've changed my mind - use of uncompressed tar is not a good enough reason to bypass this torrent, especially since it would take me a very long time to create a proper alternative, and the benefit from compression / being able to select which files to download isn't this great.  I'll just seed this (I have multiple seedbox accounts), and extract to multiple HTTP mirrors in a little bit."
+,Sprite0,2010-12-12T00:37Z,"Torrent file (200 KB) mirrored on:
+
+http://alexlibman.org/dl/site-backups/wikileaks_archive_FULL_20gig_tar_20100612.torrent
+
+http://alexlibman.com/dl/site-backups/wikileaks_archive_FULL_20gig_tar_20100612.torrent
+
+http://alexlibman.net/dl/site-backups/wikileaks_archive_FULL_20gig_tar_20100612.torrent
+
+http://netdna.alexlibman.com/dl/site-backups/wikileaks_archive_FULL_20gig_tar_20100612.torrent
+
+http://c0004732.cdn2.cloudfiles.rackspacecloud.com/dl/site-backups/wikileaks_archive_FULL_20gig_tar_20100612.torrent
+
+http://azure.alexlibman.com/www/dl/site-backups/wikileaks_archive_FULL_20gig_tar_20100612.torrent
+
+
+Please seed!  You can also help by getting a seedbox, which will spread information for you 24/7 at lightning fast speed without affecting your home connection.  An account with just a few torrent slots and 20GB space usually costs $5/month or less, and you'll be supporting a grass-roots business that helps promote freedom of speech!"
+,jund7.5,2010-12-12T17:19Z,thanks
+,PymPir,2010-12-13T10:42Z,"Unfortunately the archive file contains malware.
+
+Avira Analysis:
+
+wikileaks-files-20100612.tar
+[0] Archivtyp: TAR (tape archiver)
+  [FUND]      EnthÃ¤lt Erkennungsmuster des Java-Scriptvirus JS/Agent.BGN
+  --> wikileaks-files-20100612/file/2009-green-dam.zip
+    [1] Archivtyp: ZIP
+--> src/exploit.cs
+  [FUND]      EnthÃ¤lt Erkennungsmuster des Java-Scriptvirus JS/Agent.BGN
+--> exploit.html
+  [FUND]      Ist das Trojanische Pferd TR/Exploit.257
+--> exploit.dll
+  [FUND]      EnthÃ¤lt Erkennungsmuster des Exploits EXP/GreenDam.A
+
+    [FUND]      EnthÃ¤lt Erkennungsmuster des Exploits EXP/GreenDam.A
+
+Be careful!"
+,palimpalimpalim,2010-12-15T13:32Z,"The warning for EXP/GreenDam.A is obvious, as greendam was leaked to wikileaks ;)"
+,scarfaci,2010-12-15T18:54Z,"Dude this archive has one mega fuckin virus which fucked my computer already 3 times
+two times earlier i thought that it was other virus but now..."
+,ncej,2010-12-21T20:46Z,"just verifying: the magnet link *does* work. i am downloading right now :)
+
+
+µT FTW"
+,Animal1000000,2010-12-31T16:00Z,"
+Oh god, who gives a shit about malware. If you didn't run Windows, you wouldn't have any problems.
+
+Be smart, install Ubuntu on your computer. It'll run better, and it's virus proof."
+,Animal1000000,2010-12-31T16:04Z,"
+
+Oh god, who gives a shit about malware. If you didn't run Windows, you wouldn't have any problems.
+
+Be smart, install Ubuntu on your computer. It'll run better, and it's virus proof."
+,Sprite0,2011-01-24T23:00Z,"I recommend everyone seed the following archive instead:
+
+http://thepiratebay.org/torrent/6040906/Compleat_Wikileaks_Archive"
+,shawn2323,2011-03-22T01:41Z,"Category: Trojan win32/bummat!rts
+Description: This program is dangerous and executes commands from an attacker.
+
+Recommended action: Permit this detected item only if you trust the program or the software publisher.
+
+Security Essentials detected programs that may compromise your privacy or damage your computer. You can still access the files that these programs use without removing them (not recommended). To access these files, select the Allow action and click Apply actions. If this option is not available, log on as administrator or ask the security administrator for help.
+
+Items: 
+containerfile:c:\documents and settings\me\Desktop\wikileaks-files-20100612.tar
+file:c:\documents and settings\me\Desktop\wikileaks-files-20100612.tar->wikileaks-files-20100612/file/2009-green-dam.zip->exploit.dll
+
+Category: Backdoor :perl/small.B
+
+
+Description: This program provides remote access to the computer it is installed on.
+
+Recommended action: Remove this software immediately.
+
+Security Essentials detected programs that may compromise your privacy or damage your computer. You can still access the files that these programs use without removing them (not recommended). To access these files, select the Allow action and click Apply actions. If this option is not available, log on as administrator or ask the security administrator for help.
+
+Items: 
+containerfile:c:\documents and settings\me\Desktop\wikileaks-files-20100612.tar
+file:c:\documents and settings\me\Desktop\wikileaks-files-20100612.tar->wikileaks-files-20100612/file/farc-farcep-admin-directory-2008.zip->_admin/tmp/dc.txt"
+,shawn2323,2011-03-22T01:48Z,"correction ""bumat!rts"""

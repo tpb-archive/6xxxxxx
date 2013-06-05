@@ -1,0 +1,158 @@
+##################################################
+#     MINECRAFT ALPHA 1.2.6.131 + FLY HACK       #
+##################################################
+Custom server Build
+I dont do this for fun, I did it for you guys.
+##################################################
+#                    DONATE                      #
+##################################################
+DONATE: http://nekio.com
+Click Paypal at bottom of the page.
+##################################################
+
+##################################################
+INSTALL NOTES:
+##################################################
+1. Go to Start > Run
+2. Type in %appdata%
+3. Extract "Minecraft.1.2.6.131.&.SMP.LAN.SERVER.&.NAME.SPOOFER.(NanoEntity)" to "appdataroaming" 
+(You already should be there when running %appdata%, if not verify location.)
+
+Example:
+WIN7
+"C:Users%username%AppDataRoaming"
+.minecraft
+.minecraft server
+
+XP/VISTA
+"C:Documents and Settings%username%Application DataRoaming"
+.minecraft
+.minecraft server
+
+4. Go to ".minecraft" folder and run "minecraft_name.jar"
+(When you open the game, just press login, it will fail, but prompt you with
+an offline option. Click on that and play the game!)
+
+##################################################
+How TO FLY IN SP & MP:
+##################################################
+To Fly Press F
+To Fly Up Press E
+To Fly Down Press Q
+To Land Press U
+To Speed up/down hold Shift, Shift only works with Q/E Keys.
+
+To Edit Fly Keys Edit fly.txt in
+.minecraft
+mods
+zombe
+
+##################################################
+MODS:
+##################################################
+Ambient Occlusion for light and shadows on blocks
+Better Grass and Snow
+And some other tweaks
+
+##################################################
+TO MAKE THE GAME AS RETAIL/REMOVE MODS/FLYING/LIGHT
+##################################################
+
+GO TO
+.minecraft
+bin
+
+DELETE "minecraft.jar"
+RENAME "minecraft - original.jar" to "minecraft.jar"
+
+##################################################
+LAN:
+##################################################
+1. Go to http://tunngle.com and Download and install Tunngle.
+2. Log into Tunngle
+3. In "Network Search" type "minecraft"
+4. Join "minecraft" Channel
+5. Ask for Server IP in channel, or host your own server.
+6. Run "minecraft_name.jar" in ".minecraft" folder
+7. Connect to LAN server.
+
+##################################################
+HOSTING SERVER:
+SERVER NOTE: SERVER MIGHT NOT WORK ON WINDOWS XP
+##################################################
+1. Go to ".minecraft server" folder
+2. Go to "BIN" Folder
+3. Open users.txt
+4. Add YOURNAMEHERE:admins
+5. Save "users.txt" and EXIT
+6. Run "launch.bat" in "BIN" folder to start SERVER.
+##################################################
+#            LAUNCH.BAT STARTS SERVER            #
+##################################################
+7. Go to Multiplayer and enter server IP "xxx.xxx.xxx.xxx" or "xxx.xxx.xxx.xxx:25566" or "xxx.xxx.xxx.xxx:25565".
+8. You should be connected to your own server.
+9. If you want other people to join your server
+(GO to "http://www.whatsmyip.org" it will say on top "Your IP Address is xxx.xxx.xxx.xxx"
+Copy "xxx.xxx.xxx.xxx" IP address and give it to the people that you wish to join your server.)
+
+##################################################
+CANT BUILD WHAT TO DO?
+##################################################
+All new users have to "/register password" then "/login password"
+
+All new users cant build, or interact with world.
+YOU as the ADMIN have to manually promote users and give them proper rights.
+
+All new users have to be promoted with this command.
+
+IN GAME
+/modify [player] groups [group]
+or
+/promote [player]
+Example: /modify Jeff groups admins or /promote Jeff
+
+
+SERVER CONSOLE
+modify [player] groups [group]
+Example: modify Jeff groups admins
+
+There are 5 Ranks
+admins / administrators, people that you think there your family, else server will go BOOM, FIRE, DEAD....
+mods / Moderators, people you really really trust 200%, else kiss your server good bye.
+builders / Builders, people you trust 100%, people that been with the server for a while, builrders get fire,water... blocks.
+vip / Normal users that can build stuff, all users should be promoted to this rank first.
+ban / Users that cant do anything but walk around the world as a zombie, this is Default.
+
+##################################################
+SERVER NOTES:
+##################################################
+
+##################################################
+GENERATE NEW WORLD:
+##################################################
+Go to
+.minecraft server
+bin
+
+Delete "world" folder.
+
+##################################################
+NOTES:
+##################################################
+minecraft_name.jar - Works now in offline mode, no internet connection required.
+minecraft_name_alt.jar - Diffrent moded version, if minecraft_name.jar dose not work for you.
+
+Server - Has tons of new commands, also alot of anti-grief commands, and items. :)
+Server - /item command converted to /kit now, only mods and up can use /item.
+Server - Has registration now, no need to bind users to IP's.
+Server - /kit TOOLS_MODS will give all the new tools for BUILDERS/MODS/ADMINS can use.
+Server - Stick - removes any/all blocks
+
+##################################################
+#               COMMANDS                         #
+##################################################
+
+Too many to list, just type in chat "/help" for list.
+
+HAVE FUN!
+ - NanoEntity

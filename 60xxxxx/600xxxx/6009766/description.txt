@@ -1,0 +1,46 @@
+Trainer: Don Jones | Videos: 20 | Time: 6 hrs
+After watching this terrific video series you'll be ready to immediately begin developing modern Windows-based applications using Visual Studio 2010 and .NET Framework 4.0.
+
+Don Jones shows you advanced debugging techniques like IntelliTrace. He also teaches you how to program and declare WPF animations, transforms, and other advanced visual techniques, and how to select appropriate WPF and Windows Forms controls for an application.
+
+Whether you're currently working in Visual Basic or C#, you'll be ready for Microsoft's 70-511 exam.
+
+
+What You'll Learn
+Video 1: Introduction|06:25
+Video 2: Windows Forms and Windows Presentation Framework|13:00
+Video 3: Selecting Controls and Implementing a Screen Layout|30:22
+a. Item controls b. Content controls c. Menu controls d. When a custom control is needed e. Control hierarchies - panel-derived, attaching properties f. Adding controls at runtime - visual tree, control lifecycle
+Video 4: Managing Styles, Themes, and Reusable Resources|17:21
+a. App-level styles b. Overriding styles c. Style inheritance d. Generic.xaml e. Theming attributes f. Fonts, styles, data sources, images, resource dictionaries,resource- only DLLs
+Video 5: Creating Animations in WPF|24:18
+a. Controlling timelines b. Controlling behavior when animation completes c. Double, color, and point animations d. Starting an animation from code and XAML
+Video 6: WPF Events and Commanding|23:29
+a. Routed events - tunneling vs. bubbling, handling and cancelling b. RoutedCommand, associating commands to controls, handling commands, command bindings, input gestures
+Video 7: User-Defined Controls and WPF Control Templates|22:13
+a. Decide between user/composite, extended, or custom b. Creating a user/composite control c. Extending from an existing control d. Template binding (NOT: Styling/theming, data templating)
+Video 8: Working with Graphics and Multimedia Content|20:56
+a. Geometric transofmration b. Brushes c. Drawing shapes d. Clipping e. Double buffering f. Media player vs media element g. Adding a sound player
+Video 9: WPF Data, Event, and Property Triggers|15:20
+a. Data Triggers b. Event Triggers c. Property Triggers d. Revisit: Animation Storyboards
+Video 10: Working with Data Binding|28:01
+a. Data Triggers b. Event Triggers c. Property Triggers d. Revisit: Animation Storyboards
+Video 11: Value Converters and Data Validation|19:48
+a. Implementing custom value converters b. Multivalue converters c. Error provider (WinForms) or Data templates (WPF) d. IDataErrorInfo e. Validation Control f. Form Validation g. Control Validation
+Video 12: Integration Windows Forms and WPF in an Application|20:25
+a. ElementHosts (WinForms) b. ControlHosts (WPF) c. PropertyMap
+Video 13: Globalization and Localization|21:55
+a. Loading resources by locale b. Marking localizable element c. Using culture settings in validators and converter d. Using language properties and rendering directions e. Resource files for localization f. Regional settings
+Video 14: Asynchronous Processing and Threading|25:02
+a. Async programming patterns b. Freezing UI elements c. Using timers d. Task Parallel Library e. Parallel LINQ f. Dispatcher g. BackgroundWorker component
+Video 15: Drag and Drop Operations|10:17
+a. Within an application b. Across applications - Quick Look
+Video 16: Application Security|13:57
+a. Software Restriction Policy b. Full Trust and Partially Trusted Security c. User Account Control
+Video 17: Managing User and Application Settings|07:04
+a. Creating app settings b. Creating user settings c. Loading and saving settings
+Video 18: Implementing a WPF Test Strategy|16:37
+a. Automation peer b. UI automation c. IntelliTrace
+Video 19: WPF Debugging|09:05
+Video 20: Deployment Options|27:57
+a. ClickOnce (and updates) b. Windows Installer (conditional installation based on OS versions, Launch Conditions based on .NET version, custom actions in Setup, error-handling in Setup) c. Deployment Security Settings (configure and integrate UAC in ClickOnce, setting security permissions to deploy app)

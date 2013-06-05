@@ -1,0 +1,10 @@
+abgx360 v1.0.5
+
+A new version of abgx360 has been released!
+
+What's new/fixed:
+* Fixed a bug when AutoFixing or manually patching Video that would cause an AP25 replay sector to get blanked out (some functions were still using the old hardcoded value for Video padding size)
+* Improved Game CRC progress indicator to prevent poor formatting if "Time Left" became more than 999 minutes
+* Added progress indicators for Video CRC, SplitVid and SplitVid padding checks
+* Now using bigbuffer when checking SplitVid which results in much faster performance when comparing L1 Video on L0 to L1 Video on L1 (especially when checking a burned DVD)
+* Note: The GUI has not been changed and will still display version 1.0.2, don't worry about it as long as the CLI app displays v1.0.5

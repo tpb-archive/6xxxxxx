@@ -1,0 +1,19 @@
+ReverseIp List Spanish +1000000 DNS SqlDataBase
+-----------------------------------------------
+
+Information gathered by the crawler to date 12/06/2010, the file contains. Sql, two entities that enter the names and IP addresses of more than a million Spanish DNS.
+
+
+ReverseIp Lista EspaÃƒÂ±ola +1000000 DNS SqlDataBase
+-------------------------------------------------
+
+InformaciÃƒÂ³n recabada por el rastreador hasta el dÃƒÂ­a 6-12-2010, el archivo contiene un .sql, con dos entidades que cruzan los nombres y las direcciones Ip de mÃƒÂ¡s de un millon de DNS EspaÃƒÂ±olas.
+
+
+Ã‚Â·E/R
+
+host                     name
+-----------              -----------
+id_host     1---to-- N   id_name
+ip                       name
+                         id_host

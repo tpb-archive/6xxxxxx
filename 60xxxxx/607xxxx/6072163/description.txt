@@ -1,0 +1,45 @@
+NOTE: this requires Mac OS X, Subler, ffmpeg, and a brain.
+
+-------------
+
+chapter-creator.pl -h
+
+SUBLER Auto Chapter
+
+usage: /usr/local/bin/chapter-creator.pl [-hvw] [-f <MP4 file>] [-c <interval>]
+
+        -h : This (help) message
+        -v : Display version
+        -f : MP4 file to add chapters to
+        -w : Do the Subler write and delete chapter file
+                (Default: create chapter file only)
+        -c : Integer value in minutes to assign chapter markers
+                (Default: 5 minutes intervals)
+
+example:
+chapter-creator.pl -f myvideo.m4v -c 7 -w
+
+
+-------------------------------------------------
+
+Designed for usage with ffmpeg to determine duration
+but could also probably work easily with mediainfo.  To
+work with mediainfo you may need to change the matching line
+for Duration.
+
+Open script and modify location of ffmpeg and subler as needed.
+
+If you don't have ffmpeg and don't know how to modify it to run
+with mediainfo then change line 55 and uncomment:
+
+#open(DURATION, "cat $file |");
+and comment
+open(DURATION, "$ffmpeg -i \"$file\" 2>&1 |");
+
+and then pass it a file that has the following data line in it
+
+Duration: 02:47:00.00,
+
+Values can change.
+
+-HR

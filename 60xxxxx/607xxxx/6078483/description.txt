@@ -1,0 +1,23 @@
+
+Change log (v1.21):
+
+core:
+- fixed rare freezes in games that use mic than softreset combo pressed (for example - 'zelda').
+- fixed are 3d engine lockup after softreset from some games. (for example - 'toy story').
+- for rom size now used file size instead value from romheader. most translations must work.
+- homebrew with huge arm9 code size fixed. (at least 'operation libra' works.)
+- stack usage in dma code decreased about 3 times. must solve some strange freezes on some microsd.
+- cheat buffer in loader increased to 256k.
+
+interface:
+- fixed selection bar in start menu in some skins.
+- hungarian translation updated. tnx to gaboros.
+
+compatibility:
+- 'disney tangled - the video game (europe)' fixed.
+- reliable fix for 'star wars - the clone wars - jedi alliance'.
+- 'goldeneye 007 (germany)' fixed.
+- 'harry potter and the deathly hallows - part 1 (usa)' fixed.
+- 'crafting mama (usa)' fixed.
+- 'petz nursery 2 (usa)' fixed.
+- 'marie-antoinette and the american war of independence - episode 1 - the brotherhood of the wolf (europe)' fixed.

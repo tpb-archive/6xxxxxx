@@ -1,0 +1,67 @@
+User Type,Username,Date,Text
+,erroneus,2011-01-15T00:15Z,Is there such a package for the entirety of Adobe CS5?
+,evilgold,2011-01-16T03:41Z,@erroneus If you tell me what apps you need i will package them. I don't personally use adobe products so im not sure what other CS5 products are of interest. 
+,kerjii,2011-01-16T08:48Z,Thanks. I'll give this a shot. It does get a little old having to fall back on my puny macbook when my linux box is the one with the balls.
+,Laxidate,2011-01-24T06:43Z,"This is great.  I've been looking for a linux photoshop. THANK YOU!
+Now I had to screw around with it a little to get it to run but I got it eventually.
+It might not be the prettiest thing but its a free linux photoshop  (I got it running in ubuntu Maverick 10.10)"
+,cm0nster6,2011-02-15T08:41Z,Thanks seeders- 3 mb/s DL :)
+,cm0nster6,2011-02-15T08:47Z,"did not work on fedora 14, but wine has been giving me problems in general..."
+,roman24t,2011-03-22T05:11Z,It would be nice if someone could package dreamweaver.. the only reason I still use windows
+,roman24t,2011-03-22T07:47Z,and when i try to launch i get error Cool Type failed to initialize what do i do?
+,xfrostx,2011-04-12T03:45Z,plz. make a lightroom 3.3 corkscrew... thanks
+,djackdaw,2011-04-23T06:42Z,"I followed all the instructions, but I'm getting this error when launching it: 'Could not initialize Photoshop failed to initialize CoolType'. Any suggestions on what to do?"
+,EmoSaga,2011-04-26T07:36Z,"I was having the same issues with CoolType (which is a dll) but I some how got around it. I ran Photoshop from the direct exe rather than the .sh files. Can be found at: HOME/.wine/winprefixes/Photoshop CS5/drive_c/Program Files/Adobe/Adobe Photoshop CS5/Photoshop.exe
+
+Definitely UGLY! But it works! I even got plug-ins to work."
+,hayleybobayley,2011-07-25T06:23Z,Won't work for me :( I go to the .exe file and try to run it but nothing happens. Just won't open. Anything I can do?
+,alfono,2011-10-17T01:41Z,"OpenSUSE 11.3
+Runs if opened by .exe but crashes on text insert. It's probably looking for fonts but not finding any. Anyone have a solution?"
+,alfono,2011-10-17T02:55Z,Added a font folder and patched amtlib.dll. Still crashes on text.
+,tpoms,2012-03-27T01:24Z,"Using Ubuntu 11.10. 
+
+Installed Regular wine 1.2.3
+Installed winetricks with known photoshop stuff needs
+
+Installed Corkscrew.
+Ran corkscrew received cool type error. 
+
+Navigated to /.wine/CorkscrewDir, and launched via EXE directly using Wine. 
+
+It opened! Crashed on text selection.
+
+Re-Ran CorkscrewLauncher and bam its working flawlessly now.
+
+Will try on another virgin 11.10 install and confirm in a bit."
+,tpoms,2012-03-27T02:47Z,"I've got this running flawlessly on Ubuntu 11.10
+
+Download this package.
+
+Install Wine through Ubuntu store, 1.2
+Run winecfg in terminal and initialize wine.
+Get winetricks [wget http://www.kegel.com/wine/winetricks]
+Install Addons into default bottle [sh winetricks msxml6 gdiplus gecko vcrun2005sp1 vcrun2008 msxml3 atmlib]
+
+open ~/.wine/wineprefixes/PhotoshopCS5/drive_c/windows/system32
+and copy atmlib.dll to ~/.wine/drive_c/windows/system32
+
+Make a new launcher like this
+
+
+#!/bin/bash
+cd ~/.wine/wineprefixes/PhotoshopCS5/drive_c/Program Files/Adobe/Adobe Photoshop CS5/
+wine Photoshop.exe
+"
+,okman2200,2012-06-18T02:49Z,"Here is what I did on Ubuntu 12.04 and it works.
+
+Install Wine from the Software Centre (or the command line if it excites you).
+
+Run the package (right-click on ""InstallerPhotoshopCS5.sh and select Properties, then under Permissions, click ""Allow executing file as program""; once you double click the document, select ""run"").
+
+The go to your home folder and if you cannot see the hidden files, type CTRL+H then go to .wine/wineprefixes/PhotoshopCS5/drive_c/users
+
+From there, open the ""evilgold"" folder and copy/cut everything, go back and open your username folder and paste everything.
+
+My shortcuts on the desktop didn't work, so I go to home/bin/ and open PhotoshopCS5Launcher.sh (make sure you allow it to run as an executable as we did above).
+
+Feel free to install what others have written in the comments if you have a use for it."

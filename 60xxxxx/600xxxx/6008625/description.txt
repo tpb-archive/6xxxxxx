@@ -1,0 +1,3 @@
+AJoiner is a small, lightweight application for joining split files. These files can be in any format, as long as they use Mastersplitter's naming convention (.001 - .999). 
+
+AJoiner has several useful options for cancelling join operations if files are missing, automatically deleting segment files, and automatically launching joined files. AJoiner can also use pre-specified join locations, or just join to the same location as the original segments.

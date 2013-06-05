@@ -1,0 +1,76 @@
+User Type,Username,Date,Text
+,crunkwitdadrank,2010-12-06T15:52Z,Thank you man
+,moreplease1,2010-12-06T21:17Z,Bad news. Cinavia has struck was watching salt and the other guys and the sound went mute. Are you aware of this new protection HD R US?Can you disable it from  your copies please otherwise a film is unwatchable!!!
+,moreplease1,2010-12-06T21:26Z,"more info:
+http://forum.dvdfab.com/showthread.php?t=7102"
+[T],HD-R-US,2010-12-07T02:16Z,"Cheers, crunk!
+
+Hi moreplease1 - Yes, I'm aware of it. Are you playing movies on a PS3? If so, mounting the movie on a virtual drive like Daemon Tools, and streaming to your PS3/media player will resolve it for now.
+
+Sony Pictures have added Cinavia protection to all of the disks that they produce or distribute from here on. Unfortunately, at this present time, it is not removable without completely destroying the audio track it has been added to.
+
+Being a Sony product, they have also patched PS3's latest firmware updates to recognize the Cinavia watermark, which now mutes itself, generally around 20 minutes into a movie. Probably some Blu-ray players will be updated to do the same soon.
+
+A sad day for some, but software developers are working on the issue.
+
+I hasten to add that this movie isn't one of their releases, so it remains unaffected. "
+,stevabn,2010-12-07T02:49Z,"Hoce li biti uskoro sta od ovih naslova?? 
+Solomon Kane 
+Centurion 
+Legend of the Guardians: The Owls of Ga'Hoole Poster 	
+Wall Street Money Never Sleeps
+Get Him to the Greek
+Ninja Assassin 
+The Social Network
+Hot Tub Time Machine
+Piranha
+Easy A 
+Jonah Hex 
+Prince of Persia The Sands of Time
+How To Train Your Dragon 
+The Last Airbender
+Despicable Me
+The A-Team
+Memento"
+,moreplease1,2010-12-07T16:58Z,Thanks for your response HD R Us. Due to this I have just put up a network and will start streaming to my ps3. I am using ps media tunnel if I will be able to mount your releases and stream then super cause I am set to continue watching your quality ups :)
+,moreplease1,2010-12-10T23:03Z,"@HDRUS: I have scoured google to find a solution to mount an avchd iso and then stream the video to ps3 to no joy cannot find solution. if you have one be kind and explain. also found this might be a good idea going forward?
+I can confirm that the PS3 only checks for Cinavia protection when playing from disc. If you play via the network, it doesn't check Cinavia protection. The audio playback options make no difference. I wasn't able to test it via USB because the movie was greater than 4GB and the PS3 only supports up to FAT32 for the USB file format (which has a max file size of 4GB).
+
+In any case, the PS3 will play Cinavia protected movie backups as long as you play it over DLNA as I believe many people do. Doesn't everyone have a NAS server these days?
+
+and:
+
+1- choose a BD with the Cinavia protection and rip it via dvdfab
+2- find a DVD version of the same movie and rip the audio via dvd2avi (""demux"" command)
+3- open the ripped movie folder in MultiAvcHD, remove the original audio (with Cinavia protection) and add the DVD demuxed audio (without Cinavia ), choose a new folder for the project an click ""start""
+4- open the MultiAvcHD project folder with dvdfab and create an ISO of the ""patched"" movie
+5- burn the new ISO with imgburn
+
+HD audio is gone, but DTS or DD 5.1 is fair enough..."
+[T],HD-R-US,2010-12-11T08:35Z,"Hi, moreplease1.
+
+PS3's firmware doesn't check for Cinavia protection if it isn't being used to 'play' the file in any way, hence why I suggested streaming any movie that has it over your network. Of course, any other DNLA compliant device can also be used.
+
+Not that this release has Cinavia protection anyway, but with movies that do, PS3 users are getting around the issue by mounting the movie on a virtual drive like Daemon Tools, and streaming it with the likes of VLC media player.
+
+Unfortunately, your suggestion for lifting a lower quality audio track from an equivilant DVD release, and syncing/muxing it into a Hi-Def video file isn't a long-term solution, because Cinavia protection is also going to be added to Sony Pictures DVD releases."
+,Devellish,2011-02-27T13:15Z,"Perfect quality. If you want this movie, download this one."
+,mocz,2011-07-11T22:21Z,"WARNING: This is being tracked.
+
+Evidentiary Information:
+Notice ID: *
+Initial Infringement Timestamp: 28 Jun 2011
+Recent Infringement Timestamp: 28 Jun 2011
+Infringers IP Address: *
+Protocol: BitTorrent
+Infringed Work: Cloverfield
+Infringed Work: Cloverfield
+Infringing File Name: Cloverfield.2008.Bluray.AVCHD.1080p.x264.ac3.HD-R-US
+Infringing File Size: 4667018525
+Bay ID: *
+Port ID: *
+Infringer's DNS Name: **.**.**.comcast.net
+Infringer's User Name: 
+
+Download at your own risk."
+,valotoxin,2011-10-06T13:26Z,mocz; go read the legal threats. :P

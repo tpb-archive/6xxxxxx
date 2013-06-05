@@ -1,0 +1,95 @@
+Copied from 7-Zip homepage:
+
+
+License
+
+7-Zip is open source software. Most of the source code is under the GNU LGPL license. The unRAR code is under a mixed license: GNU LGPL + unRAR restrictions.
+
+You can use 7-Zip on any computer, including a computer in a commercial organization. You don't need to register or pay for 7-Zip.
+
+
+The main features of 7-Zip
+
+High compression ratio in 7z format with LZMA and LZMA2 compression
+
+Supported formats:
+Packing / unpacking: 7z, XZ, BZIP2, GZIP, TAR, ZIP and WIM
+Unpacking only: ARJ, CAB, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, RAR, RPM, SquashFS, UDF, VHD, WIM, XAR and Z.
+
+For ZIP and GZIP formats, 7-Zip provides a compression ratio that is 2-10 % better than the ratio provided by PKZip and WinZip
+
+Strong AES-256 encryption in 7z and ZIP formats
+
+Self-extracting capability for 7z format
+
+Integration with Windows Shell
+
+Powerful File Manager
+
+Powerful command line version
+
+Plugin for FAR Manager
+
+Localizations for 79 languages
+
+
+7-Zip works in Windows 7 / Vista / XP / 2008 / 2003 / 2000 / NT / ME / 98.
+There is a port of the command line version to Linux/Unix.
+
+On 7-Zip's Source Forge Page you can find a forum, bug reports, and feature request systems.
+
+
+Compression ratio
+
+Compression ratio results are very dependent upon the data used for the tests. Usually, 7-Zip compresses to 7z format 30-70% better than to zip format.
+And 7-Zip compresses to zip format 2-10% better than most of other zip compatible programs.
+
+
+Changelog:
+
+
+9.20           2010-11-18
+-------------------------
+- Some bugs were fixed.
+
+
+9.19 beta      2010-11-11
+-------------------------
+- The console version now doesn't show entered password.
+- Some bugs were fixed.
+
+
+9.18 beta      2010-11-02
+-------------------------
+- 7-Zip now can unpack SquashFS and CramFS filesystem images.
+- 7-Zip now can unpack some TAR and ISO archives with incorrect headers.
+- New small SFX module for installers (in Extra package).
+- Some bugs were fixed.
+
+
+9.17 beta      2010-10-04
+-------------------------
+- Disk fragmentation problem for ZIP archives created by 7-Zip was fixed.
+
+
+9.16 beta      2010-09-08
+-------------------------
+- 7-Zip now supports files that are larger than 8 GB in TAR archives.
+- NSIS support was improved.
+- Some bugs were fixed.
+- New localizations: Hindi, Gujarati, Sanskrit.
+
+
+9.15 beta      2010-06-20
+-------------------------
+- Some bugs were fixed.
+- New localization: Tatar.
+
+
+9.14 beta      2010-06-04
+-------------------------
+- WIM support was improved.
+
+
+eD2k Link:
+ed2k://|file|7z920-x64.msi|1376768|3FF09BD57C0C0215674F52ED27F518CB|h=ZODV56K6L3YJPFAYHA375IUS35WVWSCI|/

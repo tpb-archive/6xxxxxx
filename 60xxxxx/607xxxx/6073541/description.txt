@@ -1,0 +1,144 @@
+Acronis Backup & Recovery Workstation & Server v10.0.12703 with Universal Restore 
+
+Release notes for Acronis Backup & Recovery 10
+Release date: 28-December-2010
+Build: 12703
+
+Overview
+This update introduces a new software-as-a-service solution â€” Acronis Backup & Recovery Online, provides a number of new features to the Acronis Backup & Recovery 10 product line and addresses issues found in previous releases.
+
+To update Acronis Backup & Recovery 10 components while preserving all previous settings, tasks, policies and vaults, it is recommended to install the update build without uninstalling the previous build.
+
+Components can be updated in any order as the product provides version compatibility between components.
+
+Acronis Backup & Recovery 10 update is available for all editions. For a complete list of editions visit updates page.
+
+New features
+Acronis Backup & Recovery Online
+
+The Acronis Backup & Recovery Online service extends the data and system protection functionality of the Acronis Backup & Recovery 10 product to an online software-as-a-service model. Acronis Backup & Recovery Online provides an online, remote secure location for users to store redundant copies of their files, applications and system image backups without having to make the investment in a remote data store. Here is the list of benefits:
+
+Secure offsite data protection and backup of workstations, servers and virtual machines 
+Support for file/folder and entire system image backup and recovery 
+Support of virtual machines backup to the online storage 
+Integrated solution for local and online backup when used with an Acronis Backup & Recovery 10 license 
+Access to backups from any Internet-connected PC with Acronis Agent or the machine booted from Acronis Bootable media 
+Government-approved AES-256 encryption 
+Centralized management and control of your backup policies and schedules for all machines 
+EXT4 file system support
+
+Ext4 file system is now supported. Ext4 or fourth extended file system is a journaling file system for Linux. It is possible to back up and recover this file system with Acronis Backup & Recovery 10 now.
+
+Simplified naming of backup files
+
+Now it is possible to name the backups with the archive name for creation of a portable machine on a detachable media or moving the backups to a different location by using scripting. The file name of the first (full) backup in the archive will consist of the archive name. The file names of subsequent (incremental or differential) backups will have an index.
+
+Smart Error Reporting in Installer
+
+If an error occurs during Acronis Backup & Recovery 10 installation there will be provided a link to the Acronis Knowledge Base Web page that contains possible solutions to fix the error, or to a general Knowledge Base page where the user can search for a solution manually if there is no article for this error yet.
+
+Integration with Acronis Drive Monitor
+
+The new scheduling option is now available: start backup as soon as disk health reaches a warning level or a critical level. The hard disk health information is reported by Acronis Drive Monitor which utilizes a hard disk.s internal monitoring system (S.M.A.R.T.). The option is effective only if Acronis Drive Monitor is installed.
+
+Web Help
+
+The Acronis Backup & Recovery 10 help system, available in the product by pressing F1, is now also available on Acronis Web site at http://www.acronis.com/support/documentation/ABR10. Or you can follow the "Web Help" links on the product Web pages.
+
+Support for Kernel-based Virtual Machine (KVM) and Red Hat Enterprise Virtualization (RHEV) environments
+
+Virtual machines in KVM and RHEV environments are supported by Acronis Backup & Recovery 10. When the Agent is installed, the virtual machine in a KVM or RHEV environment will be seen in AMS as a physical machine.
+
+Fixed issues and enhancements
+This section lists the issues found in previous releases of Acronis Backup & Recovery 10 that were fixed in the current update.
+
+Installation
+
+Remote installation: the confusing message "Remote installation has successfully completed" when a reboot is required during installation was substituted with a proper one 
+Fixed USB drives malfunctioning after installing Acronis Backup & Recovery 10 build 11639 
+Fixed error in Windows Application Event log "Source: SideBySide, Event ID: 33" on Windows Server 2008 R2 x64 
+Fixed the inability to install Management Console from a network share 
+Fixed the license check failure during installation if Acronis License Server was installed on the same machine 
+Fixed the failure of installation of Management Server if specifying the user account for Acronis services in the user@domain format 
+Fixed the issue with Windows Security Event Log errors produced by Acronis Agent User during installation 
+Backup
+
+Fixed the continuous credentials prompting when trying to access a Samba share on Windows 7 x64 
+Fixed the failure of the cleanup task of a GFS backup policy to work if the backups were stored in a managed vault. 
+Fixed the issue of the storage node generating a huge amount of logs if the deduplication vault is running out of space 
+Fixed the issue of the backup process freezing on 0% when backing up a machine with Veritas Storage Foundation cluster 
+Added the ability to remove an old backup without consolidation from a managed vault 
+Conversion of a machine with a disk larger than 127 GB to a MS Virtual PC VM is now possible for the purpose of attaching the virtual disk to a Hyper-V VM 
+Recovery
+
+Fixed the issue of the Acronis Universal Restore option not being prompted for incremental or differential backups of dynamic volumes 
+Fixed the issue of Acronis Universal Restore not searching for NIC drivers during recovery 
+Fixed the issue of the "Internal error: Cannot get name of the partition to check" message appearing after recovering a second disk to the original location when using the "Check file system after recovery" option 
+Fixed the issue of USB devices (mouse and keyboard) being disabled after recovery of a backup taken from a machine without USB 
+Fixed the issue of Acronis Bootable Media requiring a reboot while recovering a disk-level backup to a machine with LVM 
+Centralized management
+
+Fixed the issue with non-working e-mail notifications for backup policies (while test e-mails could be sent successfully) 
+Fixed the issue of information about Acronis License Server not being updated for Acronis Universal Restore licenses and deduplication licenses if the license server was changed through an administrative template 
+Linux
+
+Fixed the issue of not being able to recover when recreating LVM structure, if the archive was located in a storage node vault 
+Fixed the issue of Acronis Bootable Media not being able to get a valid gateway and route from DHCP server if the IP address of a computer had a 255.255.255.255 mask 
+Fixed the issue with the "Failed to reread the partition table" message when finishing recovery of a basic volume to a disk with an LVM structure 
+Virtualization
+
+Fixed the issue of corrupting the VMs when deleting Virtual Appliance from an ESX host 
+Fixed the issue of a newly created VM not being able to boot after recovery if the source VM had IDE system disk. 
+Fixed the issue of being unable to automatically convert a 50 GB partition on a 2 TB HDD (basic disk) to a VMware Workstation virtual machine 
+Fixed the issue of missing "Convert to VM" option in stand-alone editions of Acronis Backup & Recovery 10 
+Fixed the issue of requiring interaction when the network becomes unavailable during VM backup from host in the silent mode 
+Known issues
+This section describes issues that are currently known and provides workarounds or advice on how to avoid the issues.
+
+When updating to the new build using Group Policy, you need to create a new Group Policy Object (GPO) instead of using the "redeploy" option for the GPO created for installations of previous versions. 
+When upgrading a build of Acronis True Image Echo Backup Server earlier than 8163 to Acronis Backup & Recovery 10 Storage Node, it is recommended that the Acronis Backup Server service is stopped during the upgrade; otherwise the locations may not be imported correctly. 
+Acronis Virtual Appliance does not restore the enhanced vmxnet adapter to a new virtual machine 
+The "Task failure handling" option does not work for the "Tower of Hanoi" backup scheme 
+Validation of an archive located on a tape drive fails after reboot 
+Acronis Virtual Appliance cannot access a VM's hard disk if vCenter uses "&" or "<" in the password and the appliance is connected to vCenter 
+Backup of a Windows junction point infinitely prompts for credentials 
+Information for Virtual Edition users
+Updating from build 11345
+
+To update from build 11345 to build 12497, you have to remove virtual appliances and deploy new ones, particularly because of the addition of cluster support. (See below the outline of the update procedure.) After that, you will be able to perform updates from the management server in the same way as deployment.
+
+To update Agent for ESX/ESXi Virtual Appliance:
+
+Update the management server. 
+Remove the virtual appliance from the management server. 
+Delete the virtual appliance from its host. 
+Revoke the license used by the agent. 
+Deploy the agent anew from the management server (one agent per cluster). 
+Reapply backup policies if required. 
+More details of the update procedure can be found in the product help system and the Virtual Edition Installation Guide (search for "Updating ESX/ESXi Virtual Appliance", see "Manual update" in this section).
+
+An alternative method of backing up a cluster
+
+Backup of all virtual machines of a cluster with a single Agent for ESX/ESXi may take a significant amount of time. If length of the backup window is important, try the following workaround.
+
+Deploy Agent for ESX/ESXi to each clustered host instead of deploying a single agent to the cluster. You can do so from the management server. Just right-click the Virtual machines item instead of the vCenter group. 
+If VMware DRS is enabled in the cluster, disable automatic migration of Agent for ESX/ESXi Virtual Appliances. You also should not migrate them manually to different hosts, in order to avoid the situation when an agent manages a host other than its own. Backup and recovery performance would considerably degrade in that case. 
+Create a dynamic group of virtual machines hosted on the clustered hosts. Use the Host/VA criterion for the group. 
+Create a backup policy and apply the policy to the dynamic group. Once a virtual machine migrates to a different host, the management server will deploy a backup task for this machine to the agent that manages that host. 
+
+Supported operating systems (Workstation)
+Windows 2000 SP (Service Pack) 4+
+Windows XP SP2+ x32 and x64 Editions
+Windows Vista all SP x32 and x64 Editions
+Windows 7 x32 and x64 Editions* 
+
+Supported operating systems (Server)
+Windows 2000 Server SP 4+
+Windows 2003 Server SP 2+ x32 and x64 Editions
+Windows 2008 Server SP2 x32 and x64 Editions*
+Windows 2008 Server Foundation 
+Windows 2008 Server R2
+
+
+
+

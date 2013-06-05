@@ -1,0 +1,22 @@
+Check my torrents for Pale Moon installer and portable version.
+
+Pale Moon profile migration tool
+
+This tool will help you migrate an old (pre-3.6.6) Pale Moon profile or Mozilla Firefox profile to current versions of Pale Moon.
+This tool may not work for everyone, since it has a few important limitations:
+
+   1. This tool only works for the default profile locations for Firefox and Pale
+      Moon
+   2. This tool does not work for portable versions of either browser
+   3. This tool may not work well on limited accounts on Vista/Seven. (Hopefully this is now fixed with the latest version 1.3.1)
+
+It was put together mainly for people who have standard installations and as a convenient aid for people who do not have enough knowledge of the Windows O.S. and filesystem to manually copy the profiles over. It is not meant to be very versatile or flexible at this moment, but "gets the job done" in most cases.
+
+To use on portable version:
+
+1. Install both versions.
+2. Use this tool on your locally installed pale moon.
+3. Copy profile folder from your pc to your portable version.
+4. Open portable Pale Moon and update extensions.
+5. Have a cookie. 
+http://www.palemoon.org

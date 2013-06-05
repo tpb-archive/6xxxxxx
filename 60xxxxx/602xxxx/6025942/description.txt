@@ -1,0 +1,32 @@
+Here's a collection of BeOS CDs I found on torrents/emule. Most came 
+without a CUE or TOC file, so they burned incorrectly as a single track 
+(they actually contain 3 tracks, except PR1 and Dano). I split them in 
+tracks and repackaged them.
+
+This torrent includes:
+
+BeOS PR1 (MacWorld Edition)
+BeOS R4
+BeOS R4.5
+BeOS R5 (Gobe software)
+BeOS R5.0.3 (Gobe software)
+BeOS Exp/Dano (no TOC/CUE, since it is a single track)
+
+Also included:
+
+boot/
+        Boot floppies and ISOs for R4 and Dano, and TOC/CUE to burn a 
+        bootable Dano CD.
+
+bigfs/
+	BigFS-1.4.zip, a filesystem driver allowing you to mount the
+        PPC tracks from x86 BeOS (you can get it from bebits.com too, I
+        included it here for your convenience).
+
+Also note: PR1 is PPC only (BeBox and Macintosh). Tracks contain an 
+Apple partition map, they mount fine in BeOS (and Macs, I guess) but 
+they won't be much useful on other systems.
+
+And last, but not least: these CDs are probably only useful for 
+historical reasons, if you actually need a recent BeOS-like OS you 
+should probably use Haiku: http://haiku-os.org/

@@ -1,0 +1,43 @@
+Funduc Search and Replace v6.5 retail-FOSI
+ 
+http://www.funduc.com/images/srshot.png
+
+Search and Replace is an award winning, easy to use search and replace utility loved by programmers, webmasters, and novice computer users alike.
+Search and Replace looks through multiple files for a string and can also replace it with another string. It can search subdirectories and ZIP files and do case sensitive or insensitive searches. Extensive support for grep style regular expression search & replacements includes operations that span more than one line, incrementing number replacements, and inserting the path & filename in replaced files. Binary search & replace is also available. You can specify multiple include/exclude file masks and filters based on file date & size. Control over replacements includes configurable replacement prompts and a display of replacements before they are made. An easily understood script editor makes frequent &/or complex multi-step search/replace operations easy to prepare. Advanced script operations include a boolean expression evaluator for added control over which files will be processed by the script. The internal context viewer allows you to edit text files. An "HTML Mode" makes plain text -> html character code substitutions. You can also "Touch" files (change time/date stamp). Search and Replace automatically detects if the file being searched is text and can be configured to launch with separate external editors for search hits in text vs. binary files. The program can also launch associated programs on "found" files, e.g., launch your web browser if the search hit occurs in an .htm or .html file.
+
+Features:
+- Search and replace operations can be case sensitive or not, they can span multiple files via multiple file masks and filter settings, and they can span more than one line
+- The program can search-replace the Windows Clipboard. You can also do simple searches in the Search Results list (press F3) and you can also limit follow-up search &/or replace to only those files currently listed in the Search Results list.
+- Unicode files are detected automatically for search and replacing.
+- Scripts can be applied to Search/replace strings in the Binary Mode dialog. This allows special processing of RTF codes, HTML codes, Unicode files, with a lookup table created by the user along with several supplied by us.
+- Output in the Search and Replace "Results List" can be sent to your printer, saved to a file (your choice of delimiters), or viewed in your web browser via an automatically generated htm file. If you have a color printer you can print the html file to obtain a color coded output.
+- File operations can be carried out on the files in the search results list.
+- An HTML Mode that automatically makes plain text -> html special character substitutions during search &/or replace operations.
+- The internal "context" viewer allows you to view your search results in context with the surrounding text. You can jump from one "search hit" to the next and edit text files. Search and Replace automatically detects if the file being searched is text and, if not, will automatically view binary files using our freeware companion utility HexView. Alternatively, Search and Replace can be configured to launch with separate external editors for search hits in text vs. binary files. Links off the External Editors page provide information for using TextPad (Helios Software, www.textpad.com), Multi-Edit (American Cybernetics, www.multiedit.com), UltraEdit (IDM Computer Solutions, www.ultraedit.com), Hex Workshop (BreakPoint Software, www.bpsoft.com) and 'frhed' (Raihan Kibria, www.tu-darmstadt.de/~rkibria).
+- Search and Replace can also launch associated programs on "found" files, e.g., launch your web browser if the search hit occurs in an .htm or .html file.
+- Text files can be reformatted w/ word wrap at a specified column.
+- Text can be prepend or appended to a file.
+- An 'Ignore Whitespace' function can find a phrase regardless of where line breaks may lie.
+- The program can read the environment variables on the host computer and use them in a search/replace using the "%%envvar=" syntax. For example, the 'temp' environment variable can be referred using the string "%%envvar=temp%%".
+- Replacements, including those in script and binary operations, can be visualized in context before they are made.
+- You can (optionally) write files changed by a replacement operation to a backup directory and preserve original file time/date stamps during replacements.
+- Regular Expression operators include the basic grep-style substring and match operators, along with special replacement operators such as case change operators, file and path name replacements, counters, and binary mode operators. The Incrementing Counter operations let you allow you to quickly revise a sequence of numbers in one or more files or add numbers where no numbers exist originally. (See Regular Expressions English or Deutsch).
+- Scripts let you specify multiple search/replace combinations, save a particular search or replace string for later use, or process multiple drives/directories and/or file masks. Advanced Script Settings let you control program options, embed comments in scripts, and further specify the files processed during a script operation via a boolean expression evaluator. When building scripts you can easily add the the Search/Replace & Mask/Path values from the mail dialog by holding down the CTRL key while clicking on the Insert or Remove All buttons in the script editor. (See Script Editor page). Scripts include an iterative operator to repeat a script a specified number of times.Binary Mode search and replace lets you process binary files &/or text files with special characters such as tabs, line feed, carriage returns. (See Binary Editor Page).
+- Multiple include & exclude file masks let you, for example, search all ".htm" & ".html" files except the ".htm" files begin with "s" or "t". You can also create complex file masks to include some subdirectories while excluding others. Filter Options allow you, for example, to include only files created after a set date that are smaller than the size you specify.
+- Searching can be halted after the first hit in a file - useful for when you have to search large or many files. A 'no replace' flag is also available to turn off replacement functions - useful for administrators or users who need extra limits on the possibility of inadvertent replacements.
+- Scripts can be applied to the Search &/or Replace strings in advance of an operation. Activated via the Apply Script function, you can, for example, use a conversion script to deal with the plain text equivalents of html special characters or rtf 'escape' codes.
+- User control over replacement prompts/warnings includes one string at a time, one file at a time, all at once (no warnings), and combinations in between such as skipping all remaining occurrences in a file.
+- An enhanced "Touch" dialog allows you to change time/date stamp and attributes of files.
+- Search and Replace can be launched from Windows Start-Find Menu. Files &/or directories dropped from Explorer or File Manger into the Search and Replace main window are automatically recognized for processing. The Windows Explorer shell extension lets you launch Search and Replace on a specific file or group of selected files.
+- An 'UnDo' function is available to reverse the last search-replace (see F1 Hlp).
+- Search ZIP files without manually extracting files first.
+- User configurable fonts & colors.
+- Command line support (14 functions) includes control over most program options & ability to run search & replaces via batch files.
+- Help file includes many examples.
+- An established, mature program with a history of regular updates and solid support.
+
+
+Installation Info:
+1)just install ether 32bit or 64bit 
+they are pre registered retail version provided from F.O.S.I
+2)enjoy from Slickinator

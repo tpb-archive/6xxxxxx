@@ -1,0 +1,81 @@
+Patch 1.15 includes 5 new challenge room maps to test yourbravery and wit! New players can now obtain these maps as
+rewards for completing various quests from Vasman in
+Torchlight. New challenges await in the Tomb of the Awakened,
+Estherian Ruins, Dwarven Fortress, Molten Prison, and Black
+Palace.
+
+Content Fixes
+
+Root Golem Fire Breath now deals damage
+
+Ember Bolt had a bad value in higher levels
+
+Zealot lightning bolt now does damage
+
+Gem effects accumulating when recovering from socketed items
+
+Sushi Helm Recipe fix
+
+Added Blind Effect for modders
+
+New Unittype of Bossmap for modders
+
+Multiple spelling fixes
+
+Fixed a few spots where floor tiles where missing or had the
+wrong collision set
+
+Fixed various locations where monsters were getting stuck in
+some levels
+
+Limited Multi-language support added for modders ( tool
+coming )
+
+You can now attach layouts to items â€“ for modders
+
+You can now have up to 50 waypoints â€“ for modders
+
+Scale effect can now be permanent â€“ for modders Soul Rend
+magic damage scales with strength and magic 50%, 50%
+
+Doom Quake, Titan Stomp dmg scales with strength 50%
+
+Needle Arc dot damage scales with strength and dex 100%, 100%
+
+Ember Lightning additionally deals 20% of weapon damage on
+the first chain
+
+Magic Weapon expertise passive does not interact strangely
+with other passives around level 9
+
+Shock Trap now scales with ranks.
+
+Flame Trap and Shock Trap now scale with pet mastery.
+
+Ember Lance no longer stops passive buffs
+
+Code Fixes
+
+Option in Settings file to turn off Steam Cloud added
+
+Settings broke into 2 files. LocalSettings and settings
+
+Fixed rare teleport crash
+
+Fix for input latency on low FPS for skills; hotbar skills and
+items
+
+Alric Achievement now works on steam
+
+Fixed XP not being removed correctly after death if choosing
+to respond at the level start
+
+Passive skills now adhere to equipment requirement
+
+Fixed rare case when triggers wouldnâ€™t fire correctly
+
+Texture overrides fixed in paper doll view
+
+Fixed issue with some looping skills
+
+Masteries now properly apply to elemental effects 

@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,1TWISTED,2010-12-16T16:25Z,"thanks,.. nice upload,... well done,.. ; )"
+,clocloclo,2010-12-19T02:29Z,"Thanks for the upload, i download, unrar, tried to open on 10.5.8 and on 10.6.5 does not open. If you have any clue it will be welcome thanks."
+,P.Olsen,2010-12-21T23:17Z,"Doesn't work for me, neither. Anyone has launched this app?"
+,TGDr-aka-RG,2010-12-22T10:39Z,"First of all, thanks for the upload!
+Anyone who is not able to launch this App, follow these instructions...  First of all, the reason it won't launch is because the contents of the MacOS folder in the Apps package has become non-executable.  You can fix this as follows:
+
+1. Ctrl-click on the app icon and select 'Show Package Contents'
+2. Go to the 'MacOS' folder, and copy the 'Ultralingua' file you'll find there (ctrl-click, then select copy from the list)
+3. paste this somewhere obvious (ctrl-click then select paste) (ie desktop)
+4. Open terminal, drag the file to the terminal window. This gives you the path to the file.
+5. Type chmod 755, then paste the file path after it.
+6. Press return
+7. Now copy and paste the Ultralingua file back into the 'MacOS' folder, replacing the old one.
+
+Now you're good to go!"
+[T],NoggintheNomad,2010-12-31T23:26Z,"Worked fine first time for me. Thanks for this, Webchella, I've been looking for an updated version for a while. Happy New Year!"
+,telvet,2011-08-06T05:40Z,"Thanks both for the upload, as well as TGDr's guide to make it work. 
+
+If the hotkey does not work: do what the guide says but use the contents of UltralinguaHotkey.app
+
+After right clicking and showing the contents of the Ultralingua.app, go to the folder: Resources. There is the UltralinguaHotkey.app. Right-click the UltralinguaHotkey.app to show its contents. 
+There is another MacOS folder. It contains the file to copy to desktop: UltralinguaHotkey
+
+Proceed as the guide above says... "
+,anmpir,2011-09-14T01:39Z,Thank you to the OP and TGDr-aka-RG for the fix guide! Much love to both
+,garrochista,2012-03-17T14:57Z,Thanks so much! I wish there was a way to store the Dictionaries folder inside the app itself...

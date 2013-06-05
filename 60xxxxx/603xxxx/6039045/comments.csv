@@ -1,0 +1,15 @@
+User Type,Username,Date,Text
+,wolfenstein3d,2010-12-15T20:59Z,"http://www.doomworld.com/classicdoom/ports/index.php?platform=6
+http://quakeone.com/forums/quake-talk/other-games/5920-hexen-ii-all-source-ports-list-know-more-post.html
+But where is Hexen II: Portal of Praevus? i never seen this.
+In Addition you can use Doomsday for Mac OSX"
+,wolfenstein3d,2012-01-14T21:24Z,"Heretic II 
+For unlocking 60 fps use hexeditor find string ""maxfps"" near this text you will find number 30 change it to 60 now run game use console and write ""cl_maxfps 60"" until now game will always use 60 fps and cant change to 30 back
+Heretic II
+I am found how to change resolution.
+hexstring ""028001E0"" that represent 640x480 and change it to ""07800438"" it resolution 1920x1080. 
+02 80 01 E0
+(02 80 hex) = (640 dec)
+(01 E0 hex) = (480 dec)
+1920 dec = 0780 hex
+1080 dec = 0438 hex"

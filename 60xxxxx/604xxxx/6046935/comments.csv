@@ -1,0 +1,265 @@
+User Type,Username,Date,Text
+,JesMe247,2010-12-18T06:16Z,"Why are we needing a trial-reset with WB7?---Why can't it be patched or cracked? Are they now like Symantec and Kaspersky, auto-updating and blacklisting keys? Just curious. Seems the new WB has gotten ""smarter"", making us Pirates have to find other ways around their licenses.
+Thanks for the upload.:)"
+,SnapplerX,2010-12-19T05:42Z,"Unfortunately there are no cracks or patches so far. WB 7 is extremely hard to crack. They are very smart. So for now, the best we can do is the trial reset."
+,JesMe247,2010-12-19T11:20Z,Thanks for the share:)
+,black47,2010-12-21T07:26Z,lets hope it works. will wait for 15 days. thanks for the upload anyways
+,NerdsterX,2010-12-24T04:50Z,This works perfectly! thank you so much!
+,spikeoscar,2010-12-24T13:15Z,"hmm, yes! it work, now say: ""30 days trial"", but... i wait the until 30 days ago
+trank you snapplerX
+
+si, funciona bien, ahora dice: ""30 days trial, pero... esperare a que pasen los 30 dias
+muchas gracias snapplerX"
+,spikeoscar,2010-12-24T13:23Z,"hmm, yes! it work, now say: ""30 days trial"", but... i wait the until 30 days ago
+trank you snapplerX
+
+si, funciona bien, ahora dice: ""30 days trial, pero... esperare a que pasen los 30 dias
+muchas gracias snapplerX"
+,s60v3,2010-12-24T17:16Z,"@snapplerX Hey.. It seems ko0l. I need this in any case.. But itz n0t w0rking f0r me.. May be i am d0in it in a wr0ng way!! I am new to such things so i am actually n0t getting what i have to do here..! 
+When i clicked DelLine1.bat, n0thing is happening! :-/ same with DelLine2.bat! And your second step is completely out of my level.. You said ""Go to Start>task scheduler.."" but where is the task scheduler in Start!!! :-S Now please d0nt make a fun of me.. Em asking s0mething which i am n0t aware of..!! Waiting for your reply!! "
+,SnapplerX,2010-12-24T22:41Z,"@s60v3
+What OS are you running? When I say start>task scheduler, that means type task scheduler into the start search. Otherwise you can find it under Administrative tools>task scheduler or if you still can't find it, go to C:\Windows\system32\taskschd.msc.
+
+Also, when you run delline1.bat and delline2.bat all you should see is a quick command prompt (black window) pop up and disappear. Make sure to run as adminsitrator (right click>run as administrator) or it won't work. "
+,s60v3,2010-12-25T04:42Z,"@snapplerX 
+Well.... Em using Windows XP SP3..!! There is no ""task scheduler"" in my PC..(searched everywhere) :-/ I have something called ""scheduled task"" in Start>Accessories>system tools.. see this- 
+
+http://img839.imageshack.us/i/sshot1cg.png/
+
+http://img404.imageshack.us/i/sshot2v.png/
+
+
+
+But scheduled task is something different i suppose..
+
+
+coz there is no options like ""task pane"" ""important task"" See this Screenshot you will understand what i am taking about- 
+
+http://img821.imageshack.us/i/sshot3fq.png/
+
+
+http://img225.imageshack.us/i/sshot4h.png/
+
+
+Secondly.. As DelLine.bat is a batch file, i am n0t getting a option to run it as a admin! 
+
+http://img813.imageshack.us/i/sshot5f.png/
+
+How can i make it to run with admin rights now..? I searched and g0t this - http://www.vistaclues.com/run-a-batch-file-as-an-administrator/ 
+
+[that is for win 7 though but options are same]
+
+But after creating shortcut, my checkbox of ""Run with Different Credentials"" is active.. Have a look here please.. -
+
+http://img716.imageshack.us/i/sshot6b.png/
+
+http://img264.imageshack.us/i/sshot7o.png/
+
+And please please s0rt out this problem i would be much thankful to you!! "
+,mrdreamers4u,2010-12-25T04:47Z,how would you do it on Windows XP?
+,s60v3,2010-12-25T06:25Z,"*correction in my Last comment- ""....my check box is INACTIVE...."" (i wrote active instead of Inactive) "
+,SnapplerX,2010-12-26T03:40Z,"@s60v3
+So its gonna be a little different since you're using xp.
+All you need to do is run the .bat files no need to run as admin in xp.
+For the task scheduler, just use scheduled tasks.
+Go to it. Then add task>next>browse> go to location of dellines>weekly every 2 weeks any day any time>enter pass>done!
+
+This should work. If you still have any problems post them and ill try to help. 
+
+Also please stop using 0's intstead of o's its annoying and just makes it harder to read lol."
+,SnapplerX,2010-12-26T03:43Z,"Just to clarify, for the scheduled tasks part, you are going to have to do this twice: one fore each .bat file. 
+
+@mrdreamers4u 
+just follow the instructions i posted for s60v3"
+,s60v3,2010-12-26T04:44Z,@snapplerX Thank you so much! Its all done in precise manner! 
+,vimadimo,2010-12-28T11:55Z,"Hey SnapplerX, now I prove it and really work, even, just when I ran the 2 files, I inmediately open the WindowBlinds and the countdown had not changed, but when I restart the pc, the coutdown was again in 30 days.
+Very good work man!!!
+At least somebody found the way to pirate this program.
+Now I´m going to look for a little program that reset the countdown automaticly, couse the way you explain is very dififult.
+THANK YOU VERY MUCH!!!"
+,s60v3,2011-01-09T07:00Z,update- simply uninstall it using Your Uninstaller and re-install it again!  Bingo!!!!!!! 
+,mite_jan,2011-01-10T21:07Z,"SnapplerX
+works perfect...patch and crack from RH didn't worked for me
+so i just want one more thing to achieve
+after every restart to remove the trial windows that appears
+
+there was a discussion in Stardock WindowBlinds 7.1.273 + Patch [RH] 
+
+a guy mentioned deleting a line would fix that
+
+%WINDIR%\win.ini and remove the following:
+
+[zktrpliAorkjhkW2]
+weddpnnhgh87hjhkj16=1284437609
+
+what do you think about that
+i think i've deleted that line but after restart it is creating it again... "
+,The_Janitor,2011-01-14T20:06Z,"Thx Man!!
+Works perfectly!!
+i first made the mistake by not runnen the 2 cmd's as administrator.
+But when i red your comment about that, it worked perfectly!!!
+Keep up the good work!!"
+,Agent365,2011-02-25T14:36Z,"awesome torrent, sir! brilliant work on the trial reset. now i'll just have to wait fifteen days before i can decide whether or not my praising you was a terrible mistake...
+
+but for now, THX!!!"
+,robby5403,2011-02-27T13:47Z,Question Computer name and Username is just setting your user account isnt it. And enable it for win7 and server 2008. or..?
+,indianwarrior90,2011-03-02T07:43Z,"Hi I have followed the instructions correctly after importing the .xml file in task schedualer I changed the name to whatever I want and in actions it lists the two .bat files then I click ok and it says the account name is not valid. Can someone please help me with this problem.
+Thanks!"
+,indianwarrior90,2011-03-02T07:44Z,"Hi I have followed the instructions correctly after importing the .xml file in task schedualer I changed the name to whatever I want and in actions it lists the two .bat files then I click ok and it says the account name is not valid. Can someone please help me with this problem.
+Thanks!"
+,junjieftw,2011-03-12T22:22Z,"SnapplerX -
+Can you help me please, I need windowblinds badly but this trial reset doesn't seems to be working for me :( , Im using windows xp so I can't run in administrator and when i use Del line 1 and del line 2 , a black box pops up and disappears , after that i try to use windowblinds but it's still the same. Mine has expired anyway..
+HELP! :("
+,junjieftw,2011-03-12T22:23Z,uhmmm
+,SnapplerX,2011-03-18T20:36Z,"just to let everyone know: 
+DO NOT LET WINDOWBLINDS EXPIRE.
+after it expires, the trial reset no longer works. You must make sure to reset the trial within 30 days or it will stop working.
+
+FOR EVERYONE WHO IS CONFUSED ABOUT THE TASK SCHEDULER:
+
+This is just an easy way to make the trial reset run for you on a schedule instead of having to remember to run it yourself. 
+Instructions on how to use task scheduler:"
+,SnapplerX,2011-03-18T20:37Z,"(Windows Vista/7) - go to start menu>type task scheduler
+it should come up under programs>click on it
+now there should be a task pane labeled ""Actions"" on the right hand side. You should see a list of actions. Click on the one that says ""Create Basic Task""
+A window should pop up. There should be two fields: name and description. These are just the name and description of this task so you can put Windowblinds trial reset or anything you like. Description is not required.
+Then click NEXT.
+Then you must choose either Daily or Weekly.>NEXT.
+For Daily leave the date, but change the time to a time that you're computer will most likely be on. Then for ""Recur every __ days"" (this is how often you want the task to run) choose ""1"" for every day, ""2"" for every two days, ""3"" for every three days, etc. (DO NOT CHOOSE ANYTHING MORE THAN 29 DAYS OR THE TRIAL WILL EXPIRE!) Then click NEXT.
+For Weekly, do the same thing and also choose which days of the week you want it to run (choose days that you will most likely have your computer on)>NEXT.
+Now it should say ACTION and there should be a short list of actions. Pick ""start a program"".>NEXT.
+Under ""Prgoram/Script"" click ""Browse"".
+Go to the location that you downloaded ""DelLine1.bat & DelLine2.bat"" most commonly the Downloads folder (C:\Users\%Username%\Downloads).
+For now only select ""DelLine1.bat"">NEXT.
+Now CHECK the box that says ""open the properties dialog for this task when i am finished"" THen click Finish.
+NOW a new box should have popped up. (If it didn't, go to the folder on the left hand side in task scheduler named ""task scheduler library. click on it and look for the name that you named your task. click on that and in the right hand side under actions/selected item, click ""properties"")
+You should be in the ""General"" tab. 
+Look for ""Security Options""
+Under that click 
+**REFERENCE POINT**""Run whether user is logged on or not"""
+,SnapplerX,2011-03-18T20:39Z,"Check ""Run with highest Privileges""
+Configure For: Pick the Windows that you have (Vista or 7)
+Now go to the ""Actions"" tab>click new
+make sure it says ""start a program"" and click browse. Then search for DelLine2.bat and click open. now press ok.
+Now go to the ""Conditions"" tab. Under ""Power"" UNCHECK ""start only on AC power"" and ""stop when switch to Battery""
+Now CHECK ""wake comp to run task""
+Next go to the settings tab and CHECK ""if the task fails, restart every:"" and then select 1 hour and for ""attempt to restart up to"" type ""24""
+Now click OK. You should be Prompted to enter your Username/Password for you computer. Do so. 
+If you do not want your computer to auto-login for you, it doesn't work, or you don't feel comfortable putting in you password, go back to **REFERENCE POINT** and ignore/undo that step."
+,SnapplerX,2011-03-18T20:40Z,"(XP Users):
+click Start, click All Programs, point to Accessories, point to System Tools, and then click Scheduled Tasks.
+Double-click Add Scheduled Task and then click Next.
+Click Browse and find ""DelLine1.bat"" and click open.
+Type a name for the task, and then choose one of the following options:
+Daily or Weekly
+For choosing these options, see (Vista/7) instructions on how to select the time/date.
+You may be prompted to enter your password. Do so.
+Then click finish.
+Now repeat the exact same thing but choose ""DelLine2.bat"" instead.
+
+Please keep in mind that the Task Scheduler is just a way to make DelLine1.bat and DelLine2.bat run on their own. If you have another way of making them do that, please feel free to do so.
+
+I'm happy to answer any questions you guys have as well. 
+
+Hope this helps,
+SnapplerX
+
+(Sorry about the multiple posts, it was too much for 1 comment :)"
+,mite_jan,2011-04-01T02:26Z,"and what about the startup thingy?
+a way to remove it?
+
+this would be the only application i know without a proper crack ..."
+,SnapplerX,2011-04-01T09:48Z,"if by ""startup thingy"" you mean the 30 day trial popup, then I'm sorry but i don't know how to get rid of it.
+But its okay to be grateful that you can at least have a trial reset.."
+,DRangedOne,2011-04-06T07:05Z,"just to let anyone know... i accidently let it expire... i didn't read the comments when i first downloaded it but i discovered that by closing windowblinds, and setting my date back to a time before it expired and then applying the trial reset worked... even when i set my date back to the right one... :)"
+,DRangedOne,2011-04-06T07:07Z,of course running it as admin... :)  
+,theoneO_0,2011-04-09T11:31Z,thanks! works great
+,mite_jan,2011-04-14T01:45Z,"@DRangedOne
+yeah i know that 
+and i've been using window blinds for about 3 months and always reset before it expire
+but couple of days ago i've had the timer restarted but when i've restarted the machine it said that window blinds expired (strange)
+i really love this applications but this is not a solution but still thanks a lot SnapplerX
+you can't have everything pirated :)"
+,Robertman20,2011-04-17T23:43Z,"well today i opened the configuration window and it suddenly said expired!
+i've been using this trial reset for atleast a few months now and no problems till today.
+i fixed it though but uninstaling using ""your uninstaller"" (which also deletes reg files associated with the program it uninstalls.) and now it's working again and i will test the trial reset later this month.
+
+anyways, wanted to thank Snappler for providing an epic substitute for the uncrackable!! you have my respect good sir!"
+,SnapplerX,2011-04-18T00:34Z,"For people who have expiring problems: 
+
+Make sure to run DelLine1.bat and DelLine2.bat AT LEAST TWICE A MONTH. These two batch files reset the trial so if you run it twice a month, it will never expire.
+The whole point of the task scheduler part is so that windows will automatically run these two for you never letting Windowblinds expire. 
+If you are not going to use task scheduler or still don't know how just manually run DelLine1.bat and DelLine2.bat (for Win7/Vista run as admin) at LEAST 2 TIMES A MONTH.
+
+If you do this and still have problems, post a comment and i will try to help you asap."
+,silentg29,2011-05-10T08:47Z,"i just came to start up my pc today and window blinds although is still showing 30days left the blinds itself will not load. all i keep getting when loading a skin is ""window blinds is not installed correctly, do you want to try and fix this?"" or something very similar anyway.
+so i uninstalled and still will not load after re-installing!!!!
+any ideas?????"
+,black47,2011-05-10T13:41Z,fuck it. there is no method to crack windowblinds so far. all whats available is just crap
+,SnapplerX,2011-05-11T20:34Z,"@silentg29
+
+Yea i have the same problem. I'm working on it. Ill let you know when i come up with a solution."
+,mite_jan,2011-05-14T01:11Z,"no guys you will be f****d up in the end
+
+i was using windowblinds 7 for around 3 months and then suddenly like you i got expired ... first time i solved it somehow then i was getting blinds is not installed corectly click to fix bla bla 
+tried couple of time till i pissed off and uninstalled everything
+
+it just needs proper working crack"
+,Arcane_BLUE,2011-05-19T21:47Z,"I found a quick fix, guys. Just roll your clock back around Jan. or Feb. of this year. 
+
+my makeshift steps:
+1)I rolled my clock back to feb, then logged off.
+
+2)I logged back on and I opened windowblinds (which no longer gave me that ""window blinds is not installed correctly"" issue) then reset my time to the current time.
+
+3)Picked the windowblinds theme I wanted, and it loaded on the spot. 
+
+I haven't logged off or restarted my computer yet, so I have no idea how permanent it is. This should help the recent problems with it, though. Post some better fixes if you found some, guys.
+
+btw, Thanx SnappleX for the torrent."
+,aliazez,2011-06-02T05:55Z,"Same problem here. WB shows two windows on changing a theme. One window correctly shows 30 days count, but the second one is counting down and has reached 10 days for me. Seems like WB installed some update in the background and updated the files. SnapplerX, it was working great so far, seems some changes need to be made to one of bat files. Hope you can do it soon. Thanks."
+,MadWillyD,2011-06-20T10:13Z,Could an app like runasdate (http://www.nirsoft.net/utils/run_as_date.html) not maybe work to fix the problem in forgetting to reset trial every time. BTW thx for upload
+,SnapplerX,2011-07-01T23:39Z,"@MadWillyD
+Yes, that could work as well."
+,Squilbo,2011-07-23T20:14Z,"The files to click on to reset the trial didn't work for me at first, but now they do, so yay."
+,SnapplerX,2011-07-31T07:03Z,"Hey just a heads up:
+
+this no longer works for me and I'm not looking into any patches. I'm discontinuing my work on this. If it still works for you great. if not, sorry i can't help you. 
+
+thanks for those who seeded until now!!"
+[V],.Dude.,2011-08-24T18:21Z,"Try dis..
+Download WindowBlinds 7.2 + Crack By ExÂµs [.Dude.] from :
+http://thepiratebay.org/torrent/6588236/WindowBlinds_7.2___Crack_By_ExA_A_s_%5B.Dude.%5D"
+,SnapplerX,2011-09-04T22:28Z,"for those of you who are having this problem:
+
+When you run/install/reinstall windowblinds it always says that it is not installed correctly and when you apply any theme, it either only applies windows classic or it F*cks up your desktop
+
+Heres the solution: Yes I have finally found it after like 3 years of trying and failing and it is so simple
+
+All you have to do is uninstall windowblinds -> then install windowblinds 6.2 ( i found the installer on ChattChitto's old WB crack http://thepiratebay.org/torrent/4928799/WindowBlinds_Enhanced_v6.2___101_Themes___Patch_By_ChattChitto ) and it will tell you that t is no longer supported or something. Then you uninstall that and install windowblinds 7 and it works!! make sure to reboot and do all that good stuff. 
+
+Hope this helps, I know it helped me."
+,mite_jan,2011-09-21T03:22Z,"@SnapplerX 
+hey man i just saw your last comment now
+and i have tried your suggestion and guess what
+IT WORKED LOL !
+thanks a lot for that
+
+i have tried couple of cracks/ patches and none of them worked after the 30day trial so the Trial resetter is the only thing working"
+,SavageGod,2011-09-25T02:06Z,SnapplerX is a genius. I installed the cracked windowblinds 6 http://thepiratebay.org/torrent/4928799/WindowBlinds_Enhanced_v6.2___101_Themes___Patch_By_ChattChitto ) and then uninstalled and installed. Worked perfectly. I downloaded the latest trial of Windowblinds from the website.
+,SavageGod,2011-09-25T02:25Z,Spoke to early. SnapplerX method does not work. Trial message still popped up
+,mite_jan,2011-09-25T23:19Z,"@Savagegod
+there is no proper working crack for windowblinds 7 yet
+
+be happy with this trial resetter and open it before it expires your windowblinds"
+,SnapplerX,2011-10-02T10:26Z,"@SavageGod
+
+This torrent is titled TRIAL RESET
+that means that you will still be using the trial version and so the trial message will still pop up.
+
+Geez, idiots these days..."
+,bluedooku,2011-11-23T11:45Z,"hi, this is an awesome torrent, bt my trail expired acidently & switching off months worked for me ... bt after fresh bootup it switches back to classic theme ... any solution to this ???"
+,Thompzie,2012-02-09T23:21Z,Well!!! I know some ways to get full version (crack) (patch) If u need help with it. I found a solution. It was so fucking easy. Wb7 are always easy to crack away trial version. even trialreset. . I cracked to full version just with 3 clicks.
+,Thompzie,2012-02-09T23:39Z,"Hey!! Just download trial fromhttp://www.stardock.com/products/windowblinds/ and install.... and make sure u guys have downloaded http://thepiratebay.se/torrent/6588236/WindowBlinds_7.2___Crack_By_ExA_A_s_%5B.Dude.%5D .. and Klick the crack file. andthen make sure to cope activation, sevenconfig, sig7.bin,Activate.lng, wb to Install folder. and Then Run sevenconfig as admin. And all done it cant be pisseasier then that Believe me it will work fine"
+,Thompzie,2012-02-11T18:53Z,But be sure to download a patch there it stands 7.3 not 7.2 Else it wont work.
+,sehaitt,2012-05-12T19:14Z,"soo, has anyone tried Thompzie's method and got it to work permanently or is it more false hope?"

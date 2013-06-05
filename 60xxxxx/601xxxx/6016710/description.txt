@@ -1,0 +1,48 @@
+CBT Nuggets Microsoft 70-515 NET 4 MCTS
+English | WVC1 129kbps | 640 x 480 | ISO | 537 MB
+
+Trainer: Don Jones | Videos: 20 | Time: 5 hrs
+
+This series shows you how to build Web applications for Windows, using version 4 of the .NET Framework and Visual Studio 2010. You will use ASP.NET , along with related .NET Framework technologies.Youâ€™ll learn to develop Web Forms pages, develop and use Web Forms controls, implement client-side scripting and AJAX, configure and extend a Web application, display and manipulate data and use ASP.NET  Model-View-Controller (MVC) 2.You'll also be ready for Microsoft's 70-515 exam -- in either C# or Visual Basic.
+
+What You'll Learn
+Video 1: Introduction|10:01
+Introduction and Pre-Requisites: a. VB or C# b. OOP c. ASP.NET  deployment (MSDeploy, xcopy, FTP)
+Video 2: Web Forms: Master Pages, Themes, and Pages|21:59
+a. Configuration: Page directives like ViewState, Request validation, Event validation, MasterPageFile, ClientIDMode b. The purpose of web.config c. Setting the html doctype d. Create and apply themes e. Add content placeholders f. Using nested master pages g. Padding messages between master pages h. Switching themes at runtime
+Video 3: Web Forms: The Page Life Cycle|18:20
+a. IsPostback b. IsValid c. Dynamically create controls d. Control availability within the page lifecycle e. Accessing control values on postback f. Overriding page events
+Video 4: Web Forms: Page Caching and State Management|26:23
+a. Data caching b. Page output caching c. Control output caching d. Cache dependencies e. Setting cache lifetimes f. Substitution control g. Session and application (server-side) h. Cookies and ViewState (client-side) i. Configuring session state (in proc, state server, SQL Server, cookieless) j. Session state compression k. View State compression l. Moving ViewState
+Video 5: Web Forms: Globalization|23:23
+a. Client Side, Server Side, and via AJAX b. Custom validation controls c. RegEx validation d. Validation groups e. Data type check f. jQuery validation
+Video 6: Web Controls: Validating User Input|18:28
+a. Client Side, Server Side, and via AJAX b. Custom validation controls c. RegEx validation d. Validation groups e. Data type check f. jQuery validation
+Video 7: Web Controls: Page Layout Controls|16:00
+a. AssociatedControlID b. Web Parts c. Navigation controls d. FileUpload controls
+Video 8: Web Controls: User Controls and Server Controls|15:35
+a. User Controls i. Registering a Control ii.Adding a user control Referencing a user control iii. Dynamically loading a user control iv. Custom events v. Custom properties vi. Toolbox visibility vii. b. Server Controls i. Composite controls ii.INamingContainer Adding to the toolbox iii. GAC iv. Custom control events v. Registering from web.config vi. NOT: Postback data handler, custom databound vii. controls, templated controls
+Video 9: Web Controls: Using Code-Behind|11:32
+a. HTML encoding to avoid cross-site scripting b. Navigating through and manipulating the control hierarchy c. FindControl d. controlRenderingCompatibilityVersion e. URL encoding
+Video 10: Client-Side: Dynamic Features using JavaScript and JavaScript Events|01:12
+a. Dynamic Features i. referencing client ID; Script Manager; Script combining; Page.clientscript.registerclientscriptblock; ii.Page.clientscript.registerclientscriptinclude; sys.require (scriptloader) iii. b. Alter a Page Dynamically i. jQuery ii.Adding/modifying/removing page elements Adding effects iii. jQuery selectors iv. NOT: AJAX v. c. JavaScript Events i. DOM events ii.Custom events Handling events in JQuery iii.
+Video 11: Client-Side: ASP.NET  AJAX|07:14
+a. creating a script service, b. extenders (ASP.NET  AJAX Control Toolkit), c. interacting with the server, d. Microsoft AJAX Client Library, e. custom extenders; f. multiple update panels; g. triggers; h. UpdatePanel.UpdateMode; i. Timer
+Video 12: Client-Side: jQuery AJAX|09:34
+a. $.get b. $.post c. $.getJSON d. $.ajax e. xml, html f. JSON g. Handling return types
+Video 13: Security: Authentication and Authorization|12:33
+a. Membership b. Login Controls c. Roles d. Location element e. Protecting areas of a site or page f. Personalization g. Aspnet_regsql.exe h. NOT: Windows Live, Passport, Windows and Forms authentication, Custom providers
+Video 14: Extending a Web Application|28:14
+a. HttpHandlers and HttpModules i. Generic handlers ii.Async handlers Setting MIME and other headers iii. Wiring modules to app events iv. b. Initialization and Error Handling i. Application_Start (in global.asax) ii.Session_Start (in global.asax) Application_BeginRequest (in global.asax) iii. Unhandled exceptions iv. Custom error section of web.config v. Redirecting to an error page vi. Tryâ€¦Catch vii. c. Debugging i. Remote debugging ii.Local debugging JavaScript debugging iii. Attaching to process iv. Logging and tracing v. Using local IIS vi. Aspnet_regiis.exe vii.
+Video 15: Data: Data-Bound Controls and DataSource Controls|13:27
+a. Data-Bound Controls i. DataList, ii.Repeater, ListView, iii. FormsView, iv. DetailsView, v. TreeView, vi. DataPager, vii. Chart, viii. GridView ix. NOT: Working in Design mode x. b. DataSource Controls i. ObjectDataSource, ii.LinqDataSource, XmlDataSource, iii. SqlDataSource, iv. QueryExtender, v. EntityDataSource vi. NOT: AccessDataSource, SiteMapDataSource vii.
+Video 16: Data: Using LINQ|15:36
+a. LINQ to SQL, b. LINQ to Entities, c. LINQ to objects, d. managing DataContext lifetime
+Video 17: Data: Dynamic Data Properties|16:37
+a. dynamic data controls, b. custom field templates; c. connecting to DataContext and ObjectContext
+Video 18: ASP.NET  MVC 2: Overview|36:32
+a. How MVC Works b. Single project areas (route registration, Visual Studio tooling, inter- area links) c. Organizing controllers into areas d. Shared views e. Content files and folders f. Custom Routes (constraints, defaults, ignores, custom route parameters)
+Video 19: ASP.NET  MVC 2: Controllers and Actions|15:24
+a. Visual Studio support for right-click context menus b. Action filters (Authorize, AcceptVerbs, and custom) c. Model binders d. ActionResult sub-classes
+Video 20: ASP.NET  MVC 2: Views|11:31
+a. Built-in and custom HTML helpers (HTMLRenderAction and HTMLRenderPartial) b. Strongly-typed views c. Static page checking

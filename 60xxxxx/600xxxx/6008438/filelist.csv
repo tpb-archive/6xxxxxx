@@ -1,0 +1,834 @@
+Filename,Size,Unit
+Data/2D/rt3_2DDS.PK4,120.3,M
+Data/2D/rt3_2IMB.PK4,3.39,M
+Data/2D/rt3_2TGA.PK4,2,M
+Data/2D/rt3_2WIN.PK4,371.46,K
+Data/3D/rt3_DDSF.PK4,163.68,M
+Data/3D/rt3_3DPF.PK4,21.02,M
+Data/3D/rt3_TGAW.PK4,16.67,M
+Data/3D/rt3_DDSW.PK4,9.78,M
+Data/3D/rt3_3DPW.PK4,1.5,M
+Data/3D/rt3_TGAF.PK4,8,B
+Data/BuildingTypes/OilRefinery.bty,40.85,K
+Data/BuildingTypes/Aluminum Mill.bty,40.85,K
+Data/BuildingTypes/Auto Plant.bty,40.85,K
+Data/BuildingTypes/MilitaryDepot.bty,40.85,K
+Data/BuildingTypes/KyotoHouse102.bty,40.85,K
+Data/BuildingTypes/Bakery.bty,40.85,K
+Data/BuildingTypes/KyotoHouse103.bty,40.85,K
+Data/BuildingTypes/Barracks.bty,40.85,K
+Data/BuildingTypes/Victorian House 101.bty,40.85,K
+Data/BuildingTypes/Bauxite Mine.bty,40.85,K
+Data/BuildingTypes/Victorian House 10.bty,40.85,K
+Data/BuildingTypes/Brewery.bty,40.85,K
+Data/BuildingTypes/Victorian House 09.bty,40.85,K
+Data/BuildingTypes/Chemical Plant.bty,40.85,K
+Data/BuildingTypes/zSmoke6.bty,40.85,K
+Data/BuildingTypes/Church.bty,40.85,K
+Data/BuildingTypes/zSmoke5.bty,40.85,K
+Data/BuildingTypes/Cinema.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 01.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 02.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 03.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 04.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 05.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 06.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 07.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 08.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 09.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 10.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 101.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 102.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 103.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 104.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 11.bty,40.85,K
+Data/BuildingTypes/Clpbrd House 12.bty,40.85,K
+Data/BuildingTypes/ClpbrdStationLrg.bty,40.85,K
+Data/BuildingTypes/ClpbrdStationMed.bty,40.85,K
+Data/BuildingTypes/ClpbrdStationSml.bty,40.85,K
+Data/BuildingTypes/Victorian House 08.bty,40.85,K
+Data/BuildingTypes/Coal Mine.bty,40.85,K
+Data/BuildingTypes/Commercial Large 01.bty,40.85,K
+Data/BuildingTypes/Commercial Large 02.bty,40.85,K
+Data/BuildingTypes/Commercial Medium 01.bty,40.85,K
+Data/BuildingTypes/Commercial Medium 02.bty,40.85,K
+Data/BuildingTypes/Commercial Small 01.bty,40.85,K
+Data/BuildingTypes/Commercial Small 02.bty,40.85,K
+Data/BuildingTypes/Victorian House 07.bty,40.85,K
+Data/BuildingTypes/Customs House.bty,40.85,K
+Data/BuildingTypes/zSmoke4.bty,40.85,K
+Data/BuildingTypes/Victorian House 06.bty,40.85,K
+Data/BuildingTypes/DairyProcessor.bty,40.85,K
+Data/BuildingTypes/zSmoke3.bty,40.85,K
+Data/BuildingTypes/Department Store.bty,40.85,K
+Data/BuildingTypes/Victorian House 05.bty,40.85,K
+Data/BuildingTypes/Victorian House 04.bty,40.85,K
+Data/BuildingTypes/Distillery.bty,40.85,K
+Data/BuildingTypes/zSmoke2.bty,40.85,K
+Data/BuildingTypes/Victorian House 03.bty,40.85,K
+Data/BuildingTypes/Electric Plant.bty,40.85,K
+Data/BuildingTypes/Farm Cattle.bty,40.85,K
+Data/BuildingTypes/Farm Coffee.bty,40.85,K
+Data/BuildingTypes/Victorian House 02.bty,40.85,K
+Data/BuildingTypes/Farm Corn.bty,40.85,K
+Data/BuildingTypes/Farm Cotton.bty,40.85,K
+Data/BuildingTypes/Farm Dairy.bty,40.85,K
+Data/BuildingTypes/Farm Grain.bty,40.85,K
+Data/BuildingTypes/Victorian House 01.bty,40.85,K
+Data/BuildingTypes/Farm Orchard.bty,40.85,K
+Data/BuildingTypes/Farm Rice.bty,40.85,K
+Data/BuildingTypes/UraniumMine.bty,40.85,K
+Data/BuildingTypes/Farm Rubber.bty,40.85,K
+Data/BuildingTypes/Farm Sheep.bty,40.85,K
+Data/BuildingTypes/Farm Sugar.bty,40.85,K
+Data/BuildingTypes/TudorStationSml.bty,40.85,K
+Data/BuildingTypes/TudorStationMed.bty,40.85,K
+Data/BuildingTypes/TudorStationLrg.bty,40.85,K
+Data/BuildingTypes/TudorHouse12.bty,40.85,K
+Data/BuildingTypes/TudorHouse11.bty,40.85,K
+Data/BuildingTypes/TudorHouse104.bty,40.85,K
+Data/BuildingTypes/TudorHouse103.bty,40.85,K
+Data/BuildingTypes/TudorHouse102.bty,40.85,K
+Data/BuildingTypes/TudorHouse101.bty,40.85,K
+Data/BuildingTypes/Fertilizer Factory.bty,40.85,K
+Data/BuildingTypes/TudorHouse10.bty,40.85,K
+Data/BuildingTypes/FurnitureFactory.bty,40.85,K
+Data/BuildingTypes/zSmoke1.bty,40.85,K
+Data/BuildingTypes/Hotel.bty,40.85,K
+Data/BuildingTypes/PersianHouse10.bty,40.85,K
+Data/BuildingTypes/TudorHouse09.bty,40.85,K
+Data/BuildingTypes/IronMine.bty,40.85,K
+Data/BuildingTypes/KyotoHouse01.bty,40.85,K
+Data/BuildingTypes/KyotoHouse02.bty,40.85,K
+Data/BuildingTypes/KyotoHouse03.bty,40.85,K
+Data/BuildingTypes/KyotoHouse04.bty,40.85,K
+Data/BuildingTypes/KyotoHouse05.bty,40.85,K
+Data/BuildingTypes/KyotoHouse06.bty,40.85,K
+Data/BuildingTypes/KyotoHouse07.bty,40.85,K
+Data/BuildingTypes/KyotoHouse08.bty,40.85,K
+Data/BuildingTypes/KyotoHouse09.bty,40.85,K
+Data/BuildingTypes/KyotoHouse10.bty,40.85,K
+Data/BuildingTypes/KyotoHouse101.bty,40.85,K
+Data/BuildingTypes/Textile Mill.bty,40.85,K
+Data/BuildingTypes/PersianStationLrg.bty,40.85,K
+Data/BuildingTypes/KyotoHouse104.bty,40.85,K
+Data/BuildingTypes/KyotoHouse11.bty,40.85,K
+Data/BuildingTypes/KyotoHouse12.bty,40.85,K
+Data/BuildingTypes/KyotoStationLrg.bty,40.85,K
+Data/BuildingTypes/KyotoStationMed.bty,40.85,K
+Data/BuildingTypes/KyotoStationSml.bty,40.85,K
+Data/BuildingTypes/z200FtRulerCross.bty,40.85,K
+Data/BuildingTypes/TudorHouse08.bty,40.85,K
+Data/BuildingTypes/LoggingCamp.bty,40.85,K
+Data/BuildingTypes/TudorHouse07.bty,40.85,K
+Data/BuildingTypes/Lumbermill.bty,40.85,K
+Data/BuildingTypes/z200FtRuler.bty,40.85,K
+Data/BuildingTypes/Maintenance.bty,40.85,K
+Data/BuildingTypes/TudorHouse06.bty,40.85,K
+Data/BuildingTypes/MeatPackingPlant.bty,40.85,K
+Data/BuildingTypes/Windmill.bty,40.85,K
+Data/BuildingTypes/VictorianStationSml.bty,40.85,K
+Data/BuildingTypes/Victorian House 102.bty,40.85,K
+Data/BuildingTypes/TudorHouse05.bty,40.85,K
+Data/BuildingTypes/Munitions Factory.bty,40.85,K
+Data/BuildingTypes/Weapons Factory.bty,40.85,K
+Data/BuildingTypes/Museum.bty,40.85,K
+Data/BuildingTypes/TudorHouse04.bty,40.85,K
+Data/BuildingTypes/Nuclear Power Plant.bty,40.85,K
+Data/BuildingTypes/TudorHouse03.bty,40.85,K
+Data/BuildingTypes/TudorHouse02.bty,40.85,K
+Data/BuildingTypes/Oil Well.bty,40.85,K
+Data/BuildingTypes/TudorHouse01.bty,40.85,K
+Data/BuildingTypes/Toy Factory.bty,40.85,K
+Data/BuildingTypes/PaperMill.bty,40.85,K
+Data/BuildingTypes/PersianHouse01.bty,40.85,K
+Data/BuildingTypes/PersianHouse02.bty,40.85,K
+Data/BuildingTypes/PersianHouse03.bty,40.85,K
+Data/BuildingTypes/PersianHouse04.bty,40.85,K
+Data/BuildingTypes/PersianHouse05.bty,40.85,K
+Data/BuildingTypes/PersianHouse06.bty,40.85,K
+Data/BuildingTypes/PersianHouse07.bty,40.85,K
+Data/BuildingTypes/PersianHouse08.bty,40.85,K
+Data/BuildingTypes/PersianHouse09.bty,40.85,K
+Data/BuildingTypes/Victorian House 12.bty,40.85,K
+Data/BuildingTypes/PersianHouse101.bty,40.85,K
+Data/BuildingTypes/PersianHouse102.bty,40.85,K
+Data/BuildingTypes/PersianHouse103.bty,40.85,K
+Data/BuildingTypes/PersianHouse104.bty,40.85,K
+Data/BuildingTypes/PersianHouse11.bty,40.85,K
+Data/BuildingTypes/PersianHouse12.bty,40.85,K
+Data/BuildingTypes/Victorian House 104.bty,40.85,K
+Data/BuildingTypes/PersianStationMed.bty,40.85,K
+Data/BuildingTypes/PersianStationSml.bty,40.85,K
+Data/BuildingTypes/Tool and Die.bty,40.85,K
+Data/BuildingTypes/Plastics Factory.bty,40.85,K
+Data/BuildingTypes/SoWestHouse02.bty,40.85,K
+Data/BuildingTypes/Port.bty,40.85,K
+Data/BuildingTypes/Post Office.bty,40.85,K
+Data/BuildingTypes/Warehouse.bty,40.85,K
+Data/BuildingTypes/SoWestHouse04.bty,40.85,K
+Data/BuildingTypes/RadioStation.bty,40.85,K
+Data/BuildingTypes/SoWestHouse05.bty,40.85,K
+Data/BuildingTypes/Recycling Plant.bty,40.85,K
+Data/BuildingTypes/VictorianStationMed.bty,40.85,K
+Data/BuildingTypes/Restaurant.bty,40.85,K
+Data/BuildingTypes/Retail Lrg.bty,40.85,K
+Data/BuildingTypes/Retail Sml.bty,40.85,K
+Data/BuildingTypes/SoWestHouse08.bty,40.85,K
+Data/BuildingTypes/VictorianStationLrg.bty,40.85,K
+Data/BuildingTypes/Saloon.bty,40.85,K
+Data/BuildingTypes/SoWestHouse10.bty,40.85,K
+Data/BuildingTypes/SchoolHouse.bty,40.85,K
+Data/BuildingTypes/Victorian House 11.bty,40.85,K
+Data/BuildingTypes/ServiceTower.bty,40.85,K
+Data/BuildingTypes/SoWestHouse102.bty,40.85,K
+Data/BuildingTypes/SoWestHouse01.bty,40.85,K
+Data/BuildingTypes/SoWestHouse103.bty,40.85,K
+Data/BuildingTypes/SoWestHouse03.bty,40.85,K
+Data/BuildingTypes/SoWestHouse104.bty,40.85,K
+Data/BuildingTypes/Tire Factory.bty,40.85,K
+Data/BuildingTypes/SoWestHouse06.bty,40.85,K
+Data/BuildingTypes/SoWestHouse07.bty,40.85,K
+Data/BuildingTypes/Steel Mill.bty,40.85,K
+Data/BuildingTypes/SoWestHouse09.bty,40.85,K
+Data/BuildingTypes/SoWestHouse11.bty,40.85,K
+Data/BuildingTypes/SoWestHouse101.bty,40.85,K
+Data/BuildingTypes/SoWestHouse12.bty,40.85,K
+Data/BuildingTypes/Stadium.bty,40.85,K
+Data/BuildingTypes/SoWestStationLrg.bty,40.85,K
+Data/BuildingTypes/Victorian House 103.bty,40.85,K
+Data/BuildingTypes/SoWestStationSml.bty,40.85,K
+Data/BuildingTypes/SoWestStationMed.bty,40.85,K
+Data/BuildingTypes/House.bca,4.26,K
+Data/BuildingTypes/Tool And Die.bca,976,B
+Data/BuildingTypes/Barracks.bca,788,B
+Data/BuildingTypes/Weapons Factory.bca,788,B
+Data/BuildingTypes/Recycling Plant.bca,788,B
+Data/BuildingTypes/Military Depot.bca,788,B
+Data/BuildingTypes/Munitions Factory.bca,788,B
+Data/BuildingTypes/FarmSheep.bca,600,B
+Data/BuildingTypes/FarmRice.bca,600,B
+Data/BuildingTypes/Textile Mill.bca,600,B
+Data/BuildingTypes/Electric Plant.bca,600,B
+Data/BuildingTypes/Farm Corn.bca,600,B
+Data/BuildingTypes/Toy Factory.bca,600,B
+Data/BuildingTypes/Distillery.bca,600,B
+Data/BuildingTypes/FarmSugar.bca,600,B
+Data/BuildingTypes/FarmCattle.bca,600,B
+Data/BuildingTypes/FarmCoffee.bca,600,B
+Data/BuildingTypes/Farm Rubber.bca,600,B
+Data/BuildingTypes/Bakery.bca,600,B
+Data/BuildingTypes/Farm Orchard.bca,600,B
+Data/BuildingTypes/FarmDairy.bca,600,B
+Data/BuildingTypes/Logging Camp.bca,600,B
+Data/BuildingTypes/FarmCotton.bca,600,B
+Data/BuildingTypes/FarmGrain.bca,600,B
+Data/BuildingTypes/Brewery.bca,600,B
+Data/BuildingTypes/Oil Refinery.bca,412,B
+Data/BuildingTypes/Retail.bca,412,B
+Data/BuildingTypes/Iron Mine.bca,412,B
+Data/BuildingTypes/Nuclear Power Plant.bca,412,B
+Data/BuildingTypes/Lumber Mill.bca,412,B
+Data/BuildingTypes/Meat Packing Plant.bca,412,B
+Data/BuildingTypes/Plastics Factory.bca,412,B
+Data/BuildingTypes/AutoPlant.bca,412,B
+Data/BuildingTypes/Uranium Mine.bca,412,B
+Data/BuildingTypes/Oil Well.bca,412,B
+Data/BuildingTypes/AluminumMill.bca,412,B
+Data/BuildingTypes/Furniture Factory.bca,412,B
+Data/BuildingTypes/Fertilizer Factory.bca,412,B
+Data/BuildingTypes/Steel Mill.bca,412,B
+Data/BuildingTypes/DepartmentStore.bca,412,B
+Data/BuildingTypes/DairyProcessor.bca,412,B
+Data/BuildingTypes/Commercial.bca,412,B
+Data/BuildingTypes/Coal Mine.bca,412,B
+Data/BuildingTypes/Chemical Plant.bca,412,B
+Data/BuildingTypes/Tire Factory.bca,412,B
+Data/BuildingTypes/Bauxite Mine.bca,412,B
+Data/BuildingTypes/PaperMill.bca,412,B
+Data/BuildingTypes/Museum.bca,224,B
+Data/BuildingTypes/Small Station.bca,224,B
+Data/BuildingTypes/Service Tower.bca,224,B
+Data/BuildingTypes/SchoolHouse.bca,224,B
+Data/BuildingTypes/Saloon.bca,224,B
+Data/BuildingTypes/Restaurant.bca,224,B
+Data/BuildingTypes/RadioStation.bca,224,B
+Data/BuildingTypes/Warehouse.bca,224,B
+Data/BuildingTypes/PostOffice.bca,224,B
+Data/BuildingTypes/Port.bca,224,B
+Data/BuildingTypes/Stadium.bca,224,B
+Data/BuildingTypes/Windmill.bca,224,B
+Data/BuildingTypes/Medium Station.bca,224,B
+Data/BuildingTypes/Maintenance Facility.bca,224,B
+Data/BuildingTypes/Large Station.bca,224,B
+Data/BuildingTypes/Hotel.bca,224,B
+Data/BuildingTypes/Dummy.bca,224,B
+Data/BuildingTypes/CustomsHouse.bca,224,B
+Data/BuildingTypes/Cinema.bca,224,B
+Data/BuildingTypes/Church.bca,224,B
+Data/BuildingTypes/debug.txt,18,B
+Data/CargoTypes/Lumber.cty,62,B
+Data/CargoTypes/Aluminum.cty,62,B
+Data/CargoTypes/Ammunition.cty,62,B
+Data/CargoTypes/Automobiles.cty,62,B
+Data/CargoTypes/Bauxite.cty,62,B
+Data/CargoTypes/Cheese.cty,62,B
+Data/CargoTypes/Chemicals.cty,62,B
+Data/CargoTypes/Clothing.cty,62,B
+Data/CargoTypes/Coal.cty,62,B
+Data/CargoTypes/Coffee.cty,62,B
+Data/CargoTypes/Corn.cty,62,B
+Data/CargoTypes/Cotton.cty,62,B
+Data/CargoTypes/Diesel.cty,62,B
+Data/CargoTypes/Fertilizer.cty,62,B
+Data/CargoTypes/Furniture.cty,62,B
+Data/CargoTypes/Goods.cty,62,B
+Data/CargoTypes/Grain.cty,62,B
+Data/CargoTypes/Iron.cty,62,B
+Data/CargoTypes/Livestock.cty,62,B
+Data/CargoTypes/Logs.cty,62,B
+Data/CargoTypes/Alcohol.cty,62,B
+Data/CargoTypes/Mail.cty,62,B
+Data/CargoTypes/Meat.cty,62,B
+Data/CargoTypes/Milk.cty,62,B
+Data/CargoTypes/Oil.cty,62,B
+Data/CargoTypes/Paper.cty,62,B
+Data/CargoTypes/Passengers.cty,62,B
+Data/CargoTypes/Plastic.cty,62,B
+Data/CargoTypes/Produce.cty,62,B
+Data/CargoTypes/Pulpwood.cty,62,B
+Data/CargoTypes/Rice.cty,62,B
+Data/CargoTypes/Rubber.cty,62,B
+Data/CargoTypes/Steel.cty,62,B
+Data/CargoTypes/Sugar.cty,62,B
+Data/CargoTypes/Tires.cty,62,B
+Data/CargoTypes/Toys.cty,62,B
+Data/CargoTypes/Troops.cty,62,B
+Data/CargoTypes/Uranium.cty,62,B
+Data/CargoTypes/Waste.cty,62,B
+Data/CargoTypes/Weapons.cty,62,B
+Data/CargoTypes/Wool.cty,62,B
+Data/Configuration/game.cfg,1.14,K
+Data/Configuration/engine.cfg,980,B
+Data/Cursors/ms_co_00.cur,3.19,K
+Data/Cursors/ms_co_20.cur,3.19,K
+Data/Cursors/ms_co_19.cur,3.19,K
+Data/Cursors/ms_co_21.cur,3.19,K
+Data/Cursors/ms_co_17.cur,3.19,K
+Data/Cursors/ms_co_16.cur,3.19,K
+Data/Cursors/ms_co_18.cur,3.19,K
+Data/Cursors/ms_co_14.cur,3.19,K
+Data/Cursors/ms_co_13.cur,3.19,K
+Data/Cursors/ms_co_15.cur,3.19,K
+Data/Cursors/ms_co_11.cur,3.19,K
+Data/Cursors/ms_co_10.cur,3.19,K
+Data/Cursors/ms_co_12.cur,3.19,K
+Data/Cursors/ms_co_08.cur,3.19,K
+Data/Cursors/ms_co_07.cur,3.19,K
+Data/Cursors/ms_co_09.cur,3.19,K
+Data/Cursors/ms_co_05.cur,3.19,K
+Data/Cursors/ms_co_04.cur,3.19,K
+Data/Cursors/ms_co_06.cur,3.19,K
+Data/Cursors/ms_co_02.cur,3.19,K
+Data/Cursors/ms_co_01.cur,3.19,K
+Data/Cursors/ms_co_03.cur,3.19,K
+Data/Cursors/ms_bw_19.cur,326,B
+Data/Cursors/ms_bw_17.cur,326,B
+Data/Cursors/ms_bw_20.cur,326,B
+Data/Cursors/ms_bw_18.cur,326,B
+Data/Cursors/ms_bw_14.cur,326,B
+Data/Cursors/ms_bw_16.cur,326,B
+Data/Cursors/ms_bw_15.cur,326,B
+Data/Cursors/ms_bw_11.cur,326,B
+Data/Cursors/ms_bw_13.cur,326,B
+Data/Cursors/ms_bw_12.cur,326,B
+Data/Cursors/ms_bw_08.cur,326,B
+Data/Cursors/ms_bw_10.cur,326,B
+Data/Cursors/ms_bw_09.cur,326,B
+Data/Cursors/ms_bw_05.cur,326,B
+Data/Cursors/ms_bw_07.cur,326,B
+Data/Cursors/ms_bw_06.cur,326,B
+Data/Cursors/ms_bw_02.cur,326,B
+Data/Cursors/ms_bw_04.cur,326,B
+Data/Cursors/ms_bw_03.cur,326,B
+Data/Cursors/ms_bw_21.cur,326,B
+Data/Cursors/ms_bw_01.cur,326,B
+Data/Cursors/ms_bw_00.cur,326,B
+Data/EngineTypes/DinerC.car,272,B
+Data/EngineTypes/DinerD.car,272,B
+Data/EngineTypes/88 Tender.car,272,B
+Data/EngineTypes/88L.car,272,B
+Data/EngineTypes/Duke Class 4-4-0 Loco.car,272,B
+Data/EngineTypes/Adler  2-2-2 Loco.car,272,B
+Data/EngineTypes/PassB.car,272,B
+Data/EngineTypes/Adler  2-2-2 Tender.car,272,B
+Data/EngineTypes/AMD103.car,272,B
+Data/EngineTypes/PassD.car,272,B
+Data/EngineTypes/American 4-4-0 Loco.car,272,B
+Data/EngineTypes/Duke Class 4-4-0 Tender.car,272,B
+Data/EngineTypes/American 4-4-0 Tender.car,272,B
+Data/EngineTypes/Atlantic Class 4-4-2 Loco.car,272,B
+Data/EngineTypes/E 18.car,272,B
+Data/EngineTypes/Atlantic Class 4-4-2 Tender.car,272,B
+Data/EngineTypes/AutoA.car,272,B
+Data/EngineTypes/StockD.car,272,B
+Data/EngineTypes/AutoB.car,272,B
+Data/EngineTypes/StockC.car,272,B
+Data/EngineTypes/E 428L.car,272,B
+Data/EngineTypes/Baldwin 060 Loco.car,272,B
+Data/EngineTypes/ParticleCar.car,272,B
+Data/EngineTypes/Baldwin 060 Tender.car,272,B
+Data/EngineTypes/BE 5-7.car,272,B
+Data/EngineTypes/E412L.car,272,B
+Data/EngineTypes/Beuth 222 Loco.car,272,B
+Data/EngineTypes/Pacific 4-6-2 Loco.car,272,B
+Data/EngineTypes/Beuth 222 Tender.car,272,B
+Data/EngineTypes/Big Boy Tender.car,272,B
+Data/EngineTypes/Big Boy.car,272,B
+Data/EngineTypes/E60CP.car,272,B
+Data/EngineTypes/VL80T Loco.car,272,B
+Data/EngineTypes/BoxA.car,272,B
+Data/EngineTypes/StockB.car,272,B
+Data/EngineTypes/BoxB.car,272,B
+Data/EngineTypes/StockA.car,272,B
+Data/EngineTypes/BoxC.car,272,B
+Data/EngineTypes/Stirling422 Tender.car,272,B
+Data/EngineTypes/BoxD.car,272,B
+Data/EngineTypes/Stirling422 Loco.car,272,B
+Data/EngineTypes/C55 Deltic.car,272,B
+Data/EngineTypes/EP2 Bipolar.car,272,B
+Data/EngineTypes/CaboA.car,272,B
+Data/EngineTypes/CaboB.car,272,B
+Data/EngineTypes/CaboC.car,272,B
+Data/EngineTypes/CaboD.car,272,B
+Data/EngineTypes/Camelback Loco.car,272,B
+Data/EngineTypes/ET-22.car,272,B
+Data/EngineTypes/Camelback Tender.car,272,B
+Data/EngineTypes/Challenger Loco.car,272,B
+Data/EngineTypes/F3 Loco.car,272,B
+Data/EngineTypes/Challenger Tender.car,272,B
+Data/EngineTypes/ChopA.car,272,B
+Data/EngineTypes/Shinkansen Series.car,272,B
+Data/EngineTypes/ChopB.car,272,B
+Data/EngineTypes/Shay Loco.car,272,B
+Data/EngineTypes/ChopC.car,272,B
+Data/EngineTypes/SD90Mac Loco.car,272,B
+Data/EngineTypes/ChopD.car,272,B
+Data/EngineTypes/S3 Tender.car,272,B
+Data/EngineTypes/Class 01 Loco.car,272,B
+Data/EngineTypes/Firefly Loco.car,272,B
+Data/EngineTypes/Class 01 Tender.car,272,B
+Data/EngineTypes/Class 103.car,272,B
+Data/EngineTypes/Firefly Tender.car,272,B
+Data/EngineTypes/Class 132 Loco.car,272,B
+Data/EngineTypes/FlatA.car,272,B
+Data/EngineTypes/Class 500 Loco.car,272,B
+Data/EngineTypes/2D2L.car,272,B
+Data/EngineTypes/Class 500 Tender.car,272,B
+Data/EngineTypes/Class 9100.car,272,B
+Data/EngineTypes/FlatB.car,272,B
+Data/EngineTypes/Class EF 66.car,272,B
+Data/EngineTypes/S3 Loco.car,272,B
+Data/EngineTypes/Class6EL.car,272,B
+Data/EngineTypes/V200 Loco.car,272,B
+Data/EngineTypes/Consolidation Loco.car,272,B
+Data/EngineTypes/FlatC.car,272,B
+Data/EngineTypes/Consolidation Tender.car,272,B
+Data/EngineTypes/RefrD.car,272,B
+Data/EngineTypes/Crampton 4-2-0 Locomotive.car,272,B
+Data/EngineTypes/FlatD.car,272,B
+Data/EngineTypes/Crampton Tender.car,272,B
+Data/EngineTypes/DD080-X.car,272,B
+Data/EngineTypes/FP45L.car,272,B
+Data/EngineTypes/DD40AXL.car,272,B
+Data/EngineTypes/RefrC.car,272,B
+Data/EngineTypes/DinerA.car,272,B
+Data/EngineTypes/DinerB.car,272,B
+Data/EngineTypes/PassC.car,272,B
+Data/EngineTypes/Northern 4-8-4 Tender.car,272,B
+Data/EngineTypes/TankC.car,272,B
+Data/EngineTypes/Norris Tender.car,272,B
+Data/EngineTypes/Norris Loco.car,272,B
+Data/EngineTypes/PassA.car,272,B
+Data/EngineTypes/Mallard Tender.car,272,B
+Data/EngineTypes/Pacific 4-6-2 Tender.car,272,B
+Data/EngineTypes/Ge 66 Crocodile.car,272,B
+Data/EngineTypes/Orca NX462 Tender.car,272,B
+Data/EngineTypes/Planet Loco.car,272,B
+Data/EngineTypes/MailD.car,272,B
+Data/EngineTypes/Planet Tender.car,272,B
+Data/EngineTypes/Eight Wheeler 4-4-0 Loco.car,272,B
+Data/EngineTypes/MailC.car,272,B
+Data/EngineTypes/Eight Wheeler 4-4-0 Tender.car,272,B
+Data/EngineTypes/Orca NX462 Loco.car,272,B
+Data/EngineTypes/GG1.car,272,B
+Data/EngineTypes/TransEuro.car,272,B
+Data/EngineTypes/MailB.car,272,B
+Data/EngineTypes/Red Devil 4-8-4 Loco.car,272,B
+Data/EngineTypes/TankA.car,272,B
+Data/EngineTypes/F3 Tender.car,272,B
+Data/EngineTypes/Fairlie Loco.car,272,B
+Data/EngineTypes/GP7.car,272,B
+Data/EngineTypes/HST 125 Loco.car,272,B
+Data/EngineTypes/Red Devil 4-8-4 Tender.car,272,B
+Data/EngineTypes/Kriegslok Loco.car,272,B
+Data/EngineTypes/TankB.car,272,B
+Data/EngineTypes/HopC.car,272,B
+Data/EngineTypes/HopD.car,272,B
+Data/EngineTypes/HopB.car,272,B
+Data/EngineTypes/RefrB.car,272,B
+Data/EngineTypes/RefrA.car,272,B
+Data/EngineTypes/RE66.car,272,B
+Data/EngineTypes/H10 282.car,272,B
+Data/EngineTypes/Northern 4-8-4 Loco.car,272,B
+Data/EngineTypes/Mallard Loco.car,272,B
+Data/EngineTypes/HopA.car,272,B
+Data/EngineTypes/H10 282 Tender.car,272,B
+Data/EngineTypes/Kriegslok Tender.car,272,B
+Data/EngineTypes/MailA.car,272,B
+Data/EngineTypes/Atlantic Class 4-4-2 Loco.lco,91,B
+Data/EngineTypes/Class 01 Loco.lco,91,B
+Data/EngineTypes/Crampton 4-2-0 Locomotive.lco,91,B
+Data/EngineTypes/Class6EL.lco,91,B
+Data/EngineTypes/V200 Loco.lco,91,B
+Data/EngineTypes/H10 282.lco,91,B
+Data/EngineTypes/Consolidation Loco.lco,91,B
+Data/EngineTypes/Class 500 Loco.lco,91,B
+Data/EngineTypes/Class EF 66.lco,91,B
+Data/EngineTypes/Class 9100.lco,91,B
+Data/EngineTypes/Firefly Loco.lco,91,B
+Data/EngineTypes/Class 132 Loco.lco,91,B
+Data/EngineTypes/Class 103.lco,91,B
+Data/EngineTypes/Eight Wheeler 4-4-0 Loco.lco,91,B
+Data/EngineTypes/Challenger Loco.lco,91,B
+Data/EngineTypes/HST 125 Loco.lco,91,B
+Data/EngineTypes/Camelback Loco.lco,91,B
+Data/EngineTypes/Kriegslok Loco.lco,91,B
+Data/EngineTypes/Fairlie Loco.lco,91,B
+Data/EngineTypes/TransEuro.lco,91,B
+Data/EngineTypes/GP7.lco,91,B
+Data/EngineTypes/C55 Deltic.lco,91,B
+Data/EngineTypes/GG1.lco,91,B
+Data/EngineTypes/E60CP.lco,91,B
+Data/EngineTypes/Big Boy.lco,91,B
+Data/EngineTypes/Beuth 222 Loco.lco,91,B
+Data/EngineTypes/Baldwin 060 Loco.lco,91,B
+Data/EngineTypes/Ge 66 Crocodile.lco,91,B
+Data/EngineTypes/American 4-4-0 Loco.lco,91,B
+Data/EngineTypes/Mallard Loco.lco,91,B
+Data/EngineTypes/AMD103.lco,91,B
+Data/EngineTypes/2D2L.lco,91,B
+Data/EngineTypes/Norris Loco.lco,91,B
+Data/EngineTypes/DD40AXL.lco,91,B
+Data/EngineTypes/DD080-X.lco,91,B
+Data/EngineTypes/Northern 4-8-4 Loco.lco,91,B
+Data/EngineTypes/FP45L.lco,91,B
+Data/EngineTypes/ET-22.lco,91,B
+Data/EngineTypes/EP2 Bipolar.lco,91,B
+Data/EngineTypes/Orca NX462 Loco.lco,91,B
+Data/EngineTypes/BE 5-7.lco,91,B
+Data/EngineTypes/E412L.lco,91,B
+Data/EngineTypes/Pacific 4-6-2 Loco.lco,91,B
+Data/EngineTypes/VL80T Loco.lco,91,B
+Data/EngineTypes/E 428L.lco,91,B
+Data/EngineTypes/E 18.lco,91,B
+Data/EngineTypes/88L.lco,91,B
+Data/EngineTypes/Adler  2-2-2 Loco.lco,91,B
+Data/EngineTypes/Duke Class 4-4-0 Loco.lco,91,B
+Data/EngineTypes/F3 Loco.lco,91,B
+Data/EngineTypes/Stirling422 Loco.lco,91,B
+Data/EngineTypes/Shinkansen Series.lco,91,B
+Data/EngineTypes/RE66.lco,91,B
+Data/EngineTypes/SD90Mac Loco.lco,91,B
+Data/EngineTypes/S3 Loco.lco,91,B
+Data/EngineTypes/Planet Loco.lco,91,B
+Data/EngineTypes/Shay Loco.lco,91,B
+Data/EngineTypes/Red Devil 4-8-4 Loco.lco,91,B
+Data/EngineTypes/MailA.cgo,25,B
+Data/EngineTypes/MailD.cgo,25,B
+Data/EngineTypes/MailC.cgo,25,B
+Data/EngineTypes/PassB.cgo,25,B
+Data/EngineTypes/PassA.cgo,25,B
+Data/EngineTypes/PassD.cgo,25,B
+Data/EngineTypes/MailB.cgo,25,B
+Data/EngineTypes/HopD.cgo,25,B
+Data/EngineTypes/RefrB.cgo,25,B
+Data/EngineTypes/FlatD.cgo,25,B
+Data/EngineTypes/RefrC.cgo,25,B
+Data/EngineTypes/FlatC.cgo,25,B
+Data/EngineTypes/PassC.cgo,25,B
+Data/EngineTypes/FlatB.cgo,25,B
+Data/EngineTypes/HopC.cgo,25,B
+Data/EngineTypes/ChopD.cgo,25,B
+Data/EngineTypes/ChopC.cgo,25,B
+Data/EngineTypes/HopB.cgo,25,B
+Data/EngineTypes/ChopB.cgo,25,B
+Data/EngineTypes/RefrA.cgo,25,B
+Data/EngineTypes/ChopA.cgo,25,B
+Data/EngineTypes/HopA.cgo,25,B
+Data/EngineTypes/BoxD.cgo,25,B
+Data/EngineTypes/RefrD.cgo,25,B
+Data/EngineTypes/BoxC.cgo,25,B
+Data/EngineTypes/BoxB.cgo,25,B
+Data/EngineTypes/StockA.cgo,25,B
+Data/EngineTypes/BoxA.cgo,25,B
+Data/EngineTypes/StockB.cgo,25,B
+Data/EngineTypes/AutoB.cgo,25,B
+Data/EngineTypes/StockC.cgo,25,B
+Data/EngineTypes/AutoA.cgo,25,B
+Data/EngineTypes/StockD.cgo,25,B
+Data/EngineTypes/FlatA.cgo,25,B
+Data/EngineTypes/TankA.cgo,25,B
+Data/EngineTypes/TankB.cgo,25,B
+Data/EngineTypes/TankC.cgo,25,B
+Data/EngineTypes/Covered_Hopper.cct,19,B
+Data/EngineTypes/Auto_Carrier.cct,17,B
+Data/EngineTypes/Open_Hopper.cct,16,B
+Data/EngineTypes/Stock_Car.cct,14,B
+Data/EngineTypes/Passenger.cct,13,B
+Data/EngineTypes/Flatbed.cct,11,B
+Data/EngineTypes/Reefer.cct,11,B
+Data/EngineTypes/Tanker.cct,10,B
+Data/EngineTypes/Mail.cct,9,B
+Data/EngineTypes/Troop.cct,9,B
+Data/EngineTypes/Box.cct,8,B
+Data/GrayscaleMaps/Northeast_China.TGA,1012.05,K
+Data/GrayscaleMaps/Spain.TGA,675.3,K
+Data/Language/RT3.lng,220.23,K
+Data/Language/Credits.lng,4,K
+Data/Miles/Mssrsx.m3d,361,K
+Data/Miles/mssvoice.asi,208,K
+Data/Miles/mssmp3.asi,134,K
+Data/Miles/Msseax.m3d,113,K
+Data/Miles/mssdsp.flt,112.5,K
+Data/Miles/Mssa3d.m3d,96.5,K
+Data/Miles/mssdx7.m3d,88,K
+Data/Miles/mssds3d.m3d,79.5,K
+Data/Miles/msssoft.m3d,76,K
+Data/Movies/Campaign_Win.bik,19.48,M
+Data/Movies/CapeToCairo.bik,18.59,M
+Data/Movies/TransCon.bik,16.44,M
+Data/Movies/War_Effort.bik,16.33,M
+Data/Movies/Argentina.bik,16.26,M
+Data/Movies/BloodIron.bik,15.81,M
+Data/Movies/Britain.bik,15.63,M
+Data/Movies/New_Germany.bik,13.5,M
+Data/Movies/Texas.bik,12.96,M
+Data/Movies/Alps.bik,12.52,M
+Data/Movies/WestToBuffalo.bik,12.47,M
+Data/Movies/French.bik,12.19,M
+Data/Movies/win.bik,6.32,M
+Data/Movies/lose.bik,5.15,M
+Data/Movies/Transition_A_to_B.bik,3.27,M
+Data/Movies/Loop_A.bik,3.23,M
+Data/Movies/Transition_B_to_A.bik,3.2,M
+Data/Movies/Transition_C_to_B.bik,2.96,M
+Data/Movies/Transition_B_to_C.bik,2.87,M
+Data/Movies/Transition_C_to_D.bik,2.8,M
+Data/Movies/Transition_D_to_C.bik,2.78,M
+Data/Movies/Loop_C.bik,2.78,M
+Data/Movies/Loop_D.bik,2.78,M
+Data/Movies/Loop_B.bik,2.78,M
+Data/Music/Split Rail.mp3,4.96,M
+Data/Music/Casey Moan.mp3,4.52,M
+Data/Music/Tallahassee Morning.mp3,4.04,M
+Data/Music/Rolling along.mp3,3.91,M
+Data/Music/Production.mp3,3.89,M
+Data/Music/Wave in Wave.mp3,3.85,M
+Data/Music/Workin on the Railroad.mp3,3.78,M
+Data/Music/Red Haired Boy.mp3,3.75,M
+Data/Music/Muddy Roads.mp3,3.63,M
+Data/Music/Jaw Harp Blues.mp3,3.24,M
+Data/Music/Switch Yard Blues.mp3,3.21,M
+Data/Music/Icehouse Cricket.mp3,3.21,M
+Data/Music/Amazing Grace.mp3,3.2,M
+Data/Music/Freight Train.mp3,3.15,M
+Data/Music/No time To Lose.mp3,3.1,M
+Data/Music/The 8th of January.mp3,3.02,M
+Data/Music/Turkey in the Straw.mp3,3.01,M
+Data/Music/The Caboose.mp3,2.78,M
+Data/Music/Raining Railroad.mp3,2.62,M
+Data/Music/Boxcar Banjo.mp3,2.57,M
+Data/Music/Mountain Valley Roll.mp3,2.57,M
+Data/Music/Marie.mp3,2.56,M
+Data/Music/Shuffle Train Blues.mp3,2.53,M
+Data/Music/Cajun Song.mp3,2.45,M
+Data/Music/I am the pourch.mp3,2.44,M
+Data/Music/Skippin' Along.mp3,2.41,M
+Data/Music/Happy Go Lucky.mp3,2.41,M
+Data/Music/Oh Suzanna.mp3,2.31,M
+Data/Music/Liberty.mp3,2.17,M
+Data/Music/Banjo Solo.mp3,2.17,M
+Data/Music/Don't Let Your Dead Go Down.mp3,2.07,M
+Data/Music/Foot Stomping Blues.mp3,1.26,M
+Data/Music/Harp Attack.mp3,1.07,M
+Data/Music/Dixieland Train.mp3,944.8,K
+Data/Music/Train-O-Monica.mp3,775,K
+Data/Music/Harp how-down.mp3,634.59,K
+Data/Other/emitters.dat,54.7,K
+Data/Other/Particles.dat,1.89,K
+Data/Other/AirplaneTypes.txt,1.62,K
+Data/Other/gamespy.ico,1.05,K
+Data/Shaders/PShader.g,650,B
+Data/Shaders/VShader.g,645,B
+Data/Shaders/VShader1.g,533,B
+Data/Shaders/VShader2.g,381,B
+Data/Shaders/PShader1.g,343,B
+Data/Sound/RT3SoundBuildings.PK4,11.3,M
+Data/Sound/RT3SoundNature.PK4,3.42,M
+Data/Sound/RT3SoundTrains.PK4,2.58,M
+Data/Sound/RT3SoundWeather.PK4,1.98,M
+Data/Sound/RT3SoundInterface.PK4,1.55,M
+Data/Sound/RT3SoundWorldObjects.PK4,1.3,M
+Data/TreeTypes/TreeTypes.txt,4.39,K
+Data/TreeTypes/vssver.scc,48,B
+Data/Tutorial/Tutorial_2.gmp,10.82,M
+Data/Tutorial/Tutorial_1.gmp,9.94,M
+Data/Voice/001 An_Introduction.mp3,572.76,K
+Data/Voice/020 CampaignWin_a.mp3,326.43,K
+Data/Voice/003 CentralPacific_a.mp3,286.02,K
+Data/Voice/012 RhodesUnfinished_a.mp3,279.29,K
+Data/Voice/010 OrientExpress_a.mp3,278.68,K
+Data/Voice/006 StateofGermany_a.mp3,271.13,K
+Data/Voice/004 Texas_Tea_a.mp3,271.13,K
+Data/Voice/007 FlyingScotsman_a.mp3,262.96,K
+Data/Voice/014 GreenlandGrowing_a.mp3,260.1,K
+Data/Voice/015 Dutchlantis_a.mp3,251.74,K
+Data/Voice/005 War_Effort_a.mp3,251.13,K
+Data/Voice/011 ArgentinaOpens_a.mp3,248.06,K
+Data/Voice/002 Germantown_a.mp3,241.13,K
+Data/Voice/013 JapanTrembles_a.mp3,237.66,K
+Data/Voice/001 Go_West_a.mp3,229.49,K
+Data/Voice/008 CrossingAlps_a.mp3,217.04,K
+Data/Voice/013 JapanTrembles_b.mp3,210.92,K
+Data/Voice/009 ThirdRepublic_a.mp3,204.8,K
+Data/Voice/016 California_a.mp3,196.23,K
+Data/Voice/010 OrientExpress_b.mp3,189.29,K
+Data/Voice/070 Snore_a.mp3,137.86,K
+Data/Voice/008 CrossingAlps_b.mp3,130.1,K
+Data/Voice/011 ArgentinaOpens_b.mp3,128.68,K
+Data/Voice/070 Snore_b.mp3,128.06,K
+Data/Voice/015 Dutchlantis_b.mp3,125.41,K
+Data/Voice/001 Go_West_b.mp3,122.35,K
+Data/Voice/045 Lose_b.mp3,117.04,K
+Data/Voice/005 War_Effort_b.mp3,113.57,K
+Data/Voice/050 RoomtoLeft.mp3,110.72,K
+Data/Voice/060 Highscore_d.mp3,102.96,K
+Data/Voice/003 CentralPacific_b.mp3,97.86,K
+Data/Voice/006 StateofGermany_b.mp3,94.59,K
+Data/Voice/014 GreenlandGrowing_b.mp3,92.55,K
+Data/Voice/055 Credits_b.mp3,90.31,K
+Data/Voice/055 Credits_a.mp3,89.9,K
+Data/Voice/016 California_b.mp3,88.88,K
+Data/Voice/065 Truisim_c.mp3,86.84,K
+Data/Voice/055 Credits_d.mp3,86.43,K
+Data/Voice/045 Lose_a.mp3,86.02,K
+Data/Voice/045 Lose_c.mp3,85.41,K
+Data/Voice/009 ThirdRepublic_b.mp3,83.57,K
+Data/Voice/025 Select_c.mp3,81.94,K
+Data/Voice/055 Credits_c.mp3,81.74,K
+Data/Voice/065 Truisim_a.mp3,80.51,K
+Data/Voice/002 Germantown_b.mp3,78.47,K
+Data/Voice/007 FlyingScotsman_b.mp3,76.63,K
+Data/Voice/012 RhodesUnfinished_b.mp3,76.23,K
+Data/Voice/030 Getgoing_d.mp3,73.78,K
+Data/Voice/060 Highscore_b.mp3,71.74,K
+Data/Voice/025 Select_a.mp3,71.13,K
+Data/Voice/030 Getgoing_a.mp3,70.31,K
+Data/Voice/025 Select_d.mp3,66.23,K
+Data/Voice/030 Getgoing_b.mp3,65.41,K
+Data/Voice/050 RoomtoRight.mp3,64.39,K
+Data/Voice/030 Getgoing_c.mp3,61.33,K
+Data/Voice/035 TouchAgain_b.mp3,58.47,K
+Data/Voice/065 Truisim_b.mp3,57.66,K
+Data/Voice/004 Texas_Tea_b.mp3,51.13,K
+Data/Voice/035 TouchAgain_a.mp3,48.06,K
+Data/Voice/065 Truisim_d.mp3,42.96,K
+Data/Voice/075 Startled_a.mp3,40.92,K
+Data/Voice/045 Lose_d.mp3,40.51,K
+Data/Voice/040 NO_Touch_d.mp3,39.49,K
+Data/Voice/060 Highscore_c.mp3,35.61,K
+Data/Voice/025 Select_b.mp3,35.21,K
+Data/Voice/060 Highscore_a.mp3,35,K
+Data/Voice/040 NO_Touch_a.mp3,34.39,K
+Data/Voice/040 NO_Touch_b.mp3,31.74,K
+Data/Voice/075 Startled_b.mp3,30.1,K
+Data/Voice/080 Sneeze_c.mp3,22.76,K
+Data/Voice/040 NO_Touch_c.mp3,18.68,K
+Data/Voice/080 Sneeze_b.mp3,17.66,K
+Data/Voice/080 Sneeze_a.mp3,17.25,K
+HotKeys/hotkeys.txt,4.1,K
+maps/South East USA.gmp,19.67,M
+maps/Mississippi Valley.gmp,15.33,M
+maps/Germantown.gmp,15.29,M
+maps/Rhodes Unfinished.gmp,15.08,M
+maps/Chicago to New York.gmp,14.99,M
+maps/Texas Tea.gmp,13.56,M
+maps/Tex-Mex.gmp,13.53,M
+maps/Germany.gmp,12.67,M
+maps/State of Germany.gmp,12.63,M
+maps/Argentina Opens Up.gmp,12.18,M
+maps/Orient Express.gmp,11.5,M
+maps/War Effort.gmp,11.35,M
+maps/New Beginnings.gmp,10.5,M
+maps/France.gmp,10.38,M
+maps/Third Republic.gmp,10.32,M
+maps/Dutchlantis.gmp,9.96,M
+maps/Eastern Canada.gmp,9.84,M
+maps/Italy.gmp,9.17,M
+maps/British Isles.gmp,9.03,M
+maps/Britain.gmp,9,M
+maps/Greenland Growing.gmp,8.98,M
+maps/Central Pacific.gmp,8.45,M
+maps/South East Australia.gmp,8.14,M
+maps/Japan Trembles.gmp,7.8,M
+maps/Go West!.gmp,7.45,M
+"maps/East Coast, USA.gmp",7.29,M
+maps/California Island.gmp,6.43,M
+maps/Crossing the Alps.gmp,6.19,M
+Saved Games/Autosave.gms,11.31,M
+Support/support.html,3.26,K
+Support/run.html,3.07,K
+Support/display.html,2.38,K
+Support/ati.html,2.16,K
+Support/sound.html,1.53,K
+Support/performance.html,1.44,K
+Support/out.html,1.4,K
+Support/brightness.html,1.38,K
+Support/dxdiag.html,1.23,K
+Support/trains.html,1.14,K
+Support/3dfx.html,1.07,K
+Support/intel.html,1.04,K
+Support/shercules.html,888,B
+Support/vhercules.html,885,B
+Support/voyetra.html,874,B
+Support/maudio.html,862,B
+Support/vyamaha.html,843,B
+Support/syamaha.html,843,B
+Support/cards2.js,812,B
+Support/digitalaudio.html,796,B
+Support/mouse.html,796,B
+Support/cards.js,784,B
+Support/requirements.html,776,B
+Support/matrox.html,755,B
+Support/install.html,734,B
+Support/creative.html,704,B
+Support/s3.html,680,B
+Support/puredigital.html,679,B
+Support/guillemot.html,678,B
+Support/terratec.html,671,B
+Support/powervr.html,657,B
+Support/nvidia.html,656,B
+Support/sis.html,626,B
+Support/support.css,544,B
+Support/dropdown.js,428,B
+RT3.exe,3.08,M
+binkw32.dll,367,K
+Mss32.dll,362,K
+CPUInfo.exe,48,K
+Readme.rtf,30.91,K
+"Launch RT3 In Normal Mode, Reset Defaullts.bat",13,B
+"Launch RT3 In 'Safe Mode', Full Screen, No Sound.bat",13,B
+"Launch RT3 In 'Safe Mode', Full Screen.bat",13,B
+"Launch RT3 In 'Safe Mode', Windowed, No Sound.bat",13,B
+"Launch RT3 In 'Safe Mode', Windowed.bat",13,B

@@ -1,0 +1,113 @@
+User Type,Username,Date,Text
+,robsinbc,2011-01-06T01:47Z,thx for the update m8!!
+[T],XxFukenGruvenxX,2011-01-06T03:34Z,"thank you very much, im a secret admirer, i strictly use your versions, switching over from CORE.
+
+Seeding"
+[T],XxFukenGruvenxX,2011-01-06T03:37Z,"is it possible to disable the 3D Settings during initial launch?
+
+thanks again"
+[T],ADHDerby,2011-01-06T09:25Z,"You're welcome! :)
+
+@ XxFukenGruvenxX: Not that I know of. :/
+I removed the ""3DFeature"" batch files from the Tweak Pack because they didn't work anymore.
+UI_Enable3DFeature 0 used to disable the 3D feature."
+,brianxxx,2011-01-06T15:12Z,Thanks! Thanks! A million times......THANKS!!!!!! lol
+,renny2011,2011-01-07T05:07Z,thank you very much 100% work 8)
+[T],ADHDerby,2011-01-07T10:32Z,"You're welcome! :)
+
+@ XxFukenGruvenxX: Here's a workaround.
+
+""Black Satin No 3D"" Skin for PowerDVD 10 Mark II
+
+Changes between the default and the modified skin:
+
+- Removed the 3D buttons and features
+- Changed the autohide delay from the tabs to 1 sec (default = 3)
+- Smaller Mini Mode: removed the Cyberlink logo & the Config button
+- The Mini Mode has a glass background (Windows Vista & Windows 7)
+- Fixed Mini Mode buttons (the white lines) + black Volume Control
+- Removed the Upgrade button and the divider before the Help button
+
+http://h*tfile.com/dl/94923667/42411d8/BlackSatinNo3D.zip.html (replace * with o)
+
+Install: Extract to the skins directory and run the batch file"
+[T],XxFukenGruvenxX,2011-01-07T20:26Z,"@ ADHDerby
+
+Thank you for taking the time to address my question.
+
+But i was unclear about what i was referring to.
+
+What i was referring to is the '3D Prompt' that pops up when you start PowerDVD, it asks if you want to setup your 3D Device. That's the prompt i was trying to disable. I just want to start it, and use it, without any prompts.
+
+Thanks again, and if it's not possible, it's no big deal, this is as perfect as it gets already :)"
+[T],XxFukenGruvenxX,2011-01-07T20:27Z,"F.Y.I
+
+If you must do it for a certain skin, i strictly use your TPB skin."
+,American_Slacker,2011-01-08T21:24Z,"Thank you, dolby virtual speaker is working now. :)"
+[T],ADHDerby,2011-01-08T23:48Z,"You're welcome! :)
+
+@ XxFukenGruvenxX: I found the command (in the registry), I'll add it to the future releases."
+,dekayw,2011-01-12T04:07Z,"Hello, forgive me for being a bit thick but I am a little lost trying to get the black skin to work. Where exactly do I find (or need to create) the skins directory . Other than that problem I thank you ADHDerby from the bottom of my heart, this software is great and installed like a dream, as you said it would."
+[T],XxFukenGruvenxX,2011-01-12T04:40Z,"@ ADHDerby
+i can't wait :)
+
+I'll be on the lookout for your next update !
+
+@ dekayw
+Copy the 2 '.dll' files and '.reg' file into the 'Skins' folder, located in CyberLink's installation directory.. usually it's ""C://Program Files/CyberLink/PowerDVD/ .... ""
+
+Then double-click the '.reg. file to add into your registry.
+
+Start CyberLink, and you will not see the new skin."
+,dekayw,2011-01-12T13:31Z,"thanks kindly for your reply XxFukenGruvenxX , I still dont know what Im doing wrong though , I have found the file path you refer to, pasted the new files in and clicked the .bat file (.reg), I get the window which says the skin is switched but when I open powerdvd it still isnt switched. ,,,,, I know Im in the right folder because the original files (blacksatin) are in there, do they need to be removed.,,,, my computer is 64bit vista and the path is C://Program Files(x86)/CyberLink/PowerDVD
+
+thanks again for your help"
+,dekayw,2011-01-12T15:29Z,"Solved my own problem, I pulled out the ""blacksatin"" files and renamed the ""Black"" files to ""Blacksatin""
+Still don't know why the .bat files didn't do the job but this works for me,,,,,,,,,,,,,,,,, Im going now to get the TPB skin torrent............. Best regardes and a last (for now) thanks to ADHderby"
+,2311,2011-01-13T00:53Z,"Hello, I've a problem. Ik downloaded this torrent http://thepiratebay.org/torrent/5983576/Pillars.of.the.Earth.720p.BluRay.X264-REWARD . I don't get any sound. I thought it had something to do with the fact that those .mkv-files have DTS audio (the torrent uses DTS 1509kbps
+), but then again PowerDVD 10 is DTS-audio compatible, isn't? (By the way the same story when I use Divx Player Plus) Or are the files the problem? Could someone help me out here, thanx in advance!"
+[T],XxFukenGruvenxX,2011-01-13T04:23Z,"@ 2311 
+
+do you get sound from other videos?
+
+if so, then you probably have DTS/High Def audio turned off in settings. Just go into the Audio Options of PowerDVD, and play around with the settings and it will work. "
+[T],ADHDerby,2011-01-13T09:29Z,"@ dekayw: The batch files (.bat) and reg files are designed to work on 32 and 64-bit versions of Windows. Just restart PowerDVD and the skin should be switched.
+
+@ 2311 and XxFukenGruvenxX: PowerDVD 10 only plays MKV files that follow the MKV specification - http://www.matroska.org/technical/specs/codecid/index.html
+If the MKV file contains an unspecified audio format, it won't play the audio. :/
+
+If you want to play it with PowerDVD, you can mux the files to M2TS with tsMuxeR and it will play the audio."
+,zazzmast,2011-01-18T02:04Z,"Thanks! I upgraded my video card, which broke the blu ray software. This is great."
+,rogamosh,2011-01-26T02:07Z,Thanks....Can U Plz Upload CyberLink Power Recover 5? 
+,rogamosh,2011-01-26T02:32Z,"Well Another Awesome Upload As Expected...
+Thank You So Much, Specially For The Tweaks Again..."
+,rogamosh,2011-01-27T12:13Z,Can U Plz Upload CyberLink Power Recover 5?
+,marcellocord,2011-01-27T23:50Z,"file association isn't working, i select all extensions, and on explorer doesnt work"
+[T],ADHDerby,2011-01-30T23:48Z,"You're welcome! :)
+
+@ rogamosh: I'll look into it,.. if I can find it :/
+
+@ marcellocord: The file associations work fine here,.. make sure that your user account has Administrator rights."
+,rogamosh,2011-01-31T10:58Z,"Thank You So Much ADHDerby, U R The Best..."
+,DyingPlanet,2011-02-03T07:01Z,"Hey ADHDerby, many thanks here - I downloaded and installed this wonderful app, but every time I restart my PC, the Windows Installer tries to continue the installation process, fails to find a particular file (PowerDVD.msi - which DOES exist), and the installation process fails.  The app seems to work, but I want to clean up this problem, and I can't even delete the app via the Control Panel for the same reason, it looks for the same file and fails.  Any suggestions?"
+[T],ADHDerby,2011-02-03T17:20Z,"Download and run CLCleaner-PowerDVD10.0.exe - http://forum.cyberlink.com/forum/posts/downloadAttach/3452.page (rename .e__ to .exe)
+Reboot and install PowerDVD with Administrator rights."
+,queener666,2011-02-06T23:45Z,thank you kind mister
+,hotroder57,2011-02-08T01:26Z,Woks great thanks for the up load I`ll keep seeding
+,hotroder57,2011-02-08T01:32Z,Woks great thanks for the up load I`ll keep seeding   
+,Galendo,2011-02-15T04:28Z,"At first it shows the main menu but then I get is ""PowerDVD 10 has stopped working"" :("
+,Galendo,2011-02-15T04:42Z,"nvm, I found a solution, you must disable ""AMD High Definition Audio Device"" if you have an ATi card."
+,rogamosh,2011-02-20T22:24Z,"Well Another Awesome Upload As Expected...
+Thank You So Much, Specially For The Tweaks Again...
+
+Can U Plz Upload CyberLink Power Recover 5?"
+[T],ADHDerby,2011-02-21T14:01Z,"@ rogamosh: I can't find PowerRecover 5 anywhere,.. but you can try this one:
+
+Cyberlink PowerBackup v2.60.1018: http://thepiratebay.org/torrent/6191321"
+,rogamosh,2011-02-24T18:47Z,"Thanks A Lot Mate I Already Downloaded It, Although It's A Little Older But Still Useful...Thanks A Lot, U R The Best Man..."
+[T],ADHDerby,2011-02-26T02:16Z,"PowerRecover and PowerBackup are different programs.
+
+PowerRecover: http://www.cyberlink.com/products/powerrecover/overview_en_US.html
+PowerBackup: http://www.cyberlink.com/products/powerbackup/overview_en_US.html
+
+PowerBackup v2.60.1018 is the latest version (ripped from Media Suite 9)."

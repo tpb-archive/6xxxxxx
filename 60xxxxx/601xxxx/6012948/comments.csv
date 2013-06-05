@@ -1,0 +1,43 @@
+User Type,Username,Date,Text
+,caprih,2010-12-05T08:28Z,"Works, and same method (as for InDesign, time shift) needs to be applied to Encore CS5. No more annoying trial comments."
+,iamap,2010-12-05T13:34Z,"Works fine on illustrator, but keep getting a license expired on Indesign and Encore. Reinstalled the masters col. and used a host-file from another torrent and the dll-file from this here and turned back the clock. It works fine in 2009 but when i turn it ba ck to 2010 it ""expires""? Help?
+
+THX by the way. Could of course set the clock back when i need use of those programs, but would be swell if i didn't need to :)"
+,iamap,2010-12-05T13:39Z,Is it possible to update the programs?
+,caprih,2010-12-06T07:23Z,"It looks that you might have some mess in registry. On my W7x64 works everything fine. You can try following options:
+Option1 - return time back to 2009 and replace all amtlib.dll for all components with original dll. To be sure search for it, that you don't have mixed dll's. Start all the programs one by one.
+Now replace all original amtlib.dll with patched version. Start all programms one by one, to see that everything works properly. Return time back to current and start all programms one by one to see the result.
+
+Option 2 - Return time back to 2009 and uninstall CS5 completely. Restart Win and install CS5. Run disable_activation.cmd from original package. Apply patch everywhere. Start one by one all programms. Return time to current. See the result.
+
+Should be working.
+
+Regarding the updates, until December all updates were possible to install without any problem. We'll se by the next update from Adobe, if it works. But at CS4 with patched amtlib.dll, updating did work."
+,caprih,2010-12-08T10:37Z,Photoshop was succesfully updated to version 12.0.2 x32 and x64 on W7x64 and WinXP.
+,dario_980,2010-12-20T23:21Z,"this is version 2, what is different about version 1?"
+,chth,2011-01-03T22:15Z,i followed your instructions and everything works perfect. thanks a lot!
+,suprabp,2011-02-01T17:49Z,"I am having the same problem as iamap!
+
+Please help!"
+,foxtrot68,2011-02-03T20:43Z,"I've followed the instruction twice and Illustrator works fine around the time after I finish the process. Then, after a little while, when I try to start up Illustrator again it does the same thing it did before. The splash screen says Illustrator CS5 TRYOUT"" (I noticed when the patch was working it didn't say ""tryout"") then loads up. Then, it looks like when it tries to load that little ""essential"" help search bar at the top, it closes out. Basically the same thing it did before the v2 DLLs.
+
+I'm running Win 7 64x and I haven't rebooted or updated any of the adobe products between when the ""fixed"" patch has was working when when it stopped. I do, however, reset the time back to normal after I finish the process.
+
+I haven't tried the other programs that this is supposed to work for... Illustrator is the main one I use and want to get working.
+
+
+Any help would really be appreciated."
+,Saint815,2011-03-04T00:40Z,Anonymous you just saved my life and i think i'm in love with you!
+,Reddeamon,2011-03-11T17:29Z,I am having the same problem as Foxtrot
+,4xB0y,2011-03-31T06:10Z,"Works great. Thanks a lot =] It fixed the problem i had using another crack and activated it at the same time.
+
+Cheers."
+,sbl03,2011-04-10T00:21Z,@foxtrot & others - Follow the instructions in the readme to fix Illustrator problems. It worked for me.
+,chamonecheckcheck,2011-04-11T07:23Z,"Works absolutely perfectly no trouble whatsoever... Just go to C:\Program Files\Adobe (etc) till you find the appropriate ""amtlib.dll"" file... If you're running 64 bit Windows 7 and see the directory C:\Program Files (x86)\ .. Change the amtlib.dll file in THAT directory too and it should work fine - that is all I did and no problems whatsoever..."
+,dragonito,2011-08-08T12:05Z,"Hi, thanks a million, works great for all components of the CS5.5 suite - except Acrobat.
+
+I noticed the amtlib.dll file has different size than all of the other programs and Acrobat isn't even mentioned in the readme file of this torrrent. As a result, my Acrobat still acts as a trial, while the rest of the suite works fine.
+
+Is there a way to patch Acrobat as well?"
+,sensationy2k,2011-10-27T11:31Z,"It works perfectly just with serial number in text file.
+Thanks so much"

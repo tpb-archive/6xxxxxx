@@ -1,0 +1,101 @@
+Warcraft III + The Frozen Throne Expansion + DotA + The Latest Patch. No cd required and perfect for LAN Parties. Easy install.
+
+Install Instructions:
+                                                                               
+1: Install the game 
+
+2: run Warcraft III.exe or Frozen Throne.exe 
+
+3: Enjoy 
+
+4: You can play this online with eurobattle or Garena.
+
+Share it with your friends! 
+
+
+
+--------------------------------------------------------------------------
+  WARCRAFT III: THE FROZEN THRONE VERSION HISTORY
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+Patch 1.24d
+--------------------------------------------------------------------------
+
+FIXES
+
+- Fixed a client crash related to queuing too many invalid build commands
+  ("crash hack").
+
+--------------------------------------------------------------------------
+Patch 1.24c
+--------------------------------------------------------------------------
+
+FIXES
+
+- Fixed a problem with the "Chapter Six: The Culling" human campaign map
+  that was preventing it from loading.
+- Fixed an issue that allowed JASS functions to return incorrect values
+  under certain conditions.
+- Fixed an issue that caused the TriggerEvaluate native to return 
+  incorrect values under certain conditions.
+- Fixed a minor memory leak when using GroupEnum natives.
+- Fixed a crash when using the CreateImage native on PPC Mac.
+- Updated Mac World Editor to work with recent JASS changes.
+
+--------------------------------------------------------------------------
+Patch 1.24b
+--------------------------------------------------------------------------
+
+PC WORLD EDITOR CHANGES
+
+- Increased max map file size from 4 MB to 8 MB.
+- Added the ability to store hashtable handles in a hashtable.
+- Added GetSpellTargetX and GetSpellTargetY natives.
+- Added a new base handle type â€œAgentâ€ of which many types now extend from.
+- Added a SaveAgentHandle native which can be used for saving most handle types.
+- Added a JASS optimization dealing with global variable change events.
+
+FIXES
+
+- Fixed a few false positives caused by the "return bug" fix.
+- Fixed a crash related to hashtable reference counting.
+- â€œShadowingâ€ global variables with local variables no longer is possible.
+- Fixed a type conversion dealing with operators (i.e. adding a handle with an integer).
+
+--------------------------------------------------------------------------
+Patch 1.24
+--------------------------------------------------------------------------
+
+PC WORLD EDITOR CHANGES
+
+- Added new JASS hash table functions to replace the lost functionality from 
+   fixing unsafe type casting.
+   - Hash Table - Save Item Handle
+   - Hash Table - Save Unit Handle
+   - ...
+   - Hash Table - Load Item Handle
+   - Hash Table - Load Unit Handle
+   - ...
+   - Hash Table - Get Handle ID
+
+FIXES
+
+- Fixed an exploit related to unsafe type casting that allowed users to 
+   execute arbitrary code in maps.
+- Fixed the JASS unsafe type casting exploit ("return bug").
+- Fixed several World Editor crashes.
+
+--------------------------------------------------------------------------
+Patch 1.23
+--------------------------------------------------------------------------
+
+FEATURES
+
+- Battle.net now uses a new banner ad system. 
+
+FIXES
+
+- Fixed an exploit where an altered custom map would be seen identical to
+   the original custom map.
+- Fixed an issue where some patches could not apply on Intel Macs. integer).--------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+RIP Linux -Recovery Is Possible  
+
+You'll need at least 512MB of RAM and a 686 CPU to boot and use it.
+There's a 32bit kernel and a 64bit kernel.
+You can also use this Windows USB installer.
+Choose "RIP Linux" from its menu, then browse to
+where RIPLinuX-11.3.iso is on your hard drive etc.
+It should work with any ISO below, but your USB
+flash drive should be at least 256MB.
+
+Verify the ISO under Linux or Windows.
+md5sum -c RIPLinuX-11.3.md5 "It should say OK!"
+

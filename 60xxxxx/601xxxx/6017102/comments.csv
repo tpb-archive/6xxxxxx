@@ -1,0 +1,192 @@
+User Type,Username,Date,Text
+,jakename,2010-12-06T21:41Z,bear with me and please SEED
+,Rodef2099,2010-12-06T21:53Z,OMFG!!! Kaen's MEGAPACKs are awesome!!! Wish he can do it for every patch! :P
+,Rodef2099,2010-12-06T22:54Z,"Just got it... its fking awesome!!!.
+Uploaded 40gb on his last megapack...  and i will seed this one for months!"
+,jakename,2010-12-07T03:07Z,thanks guys. no problem
+,hagbom,2010-12-07T20:52Z,"I got some weird problem, but i suspect itd because of me.
+When i use the launcher for 64bits Windows 7 but when i start the screen is all black exept the text that says Minecraft.
+I press start and it loads for a few secons then gets a error.
+What am i doing wrong?
+I did put the game in C:\Users\Your User Name\Appdata\Roaming\.minecraft
+Please help!"
+,jakename,2010-12-08T02:46Z,whats the error?
+,FreeTibet,2010-12-08T06:24Z,"""Outdated launcher!"""
+,AbyssalDan,2010-12-08T12:51Z,"""Outdated Launcher""
+FIX IT!!!"
+,Rodef2099,2010-12-08T14:48Z,"There is nothing wrong with the launcher.
+
+Learn to READ!
+
+=======================================================
+
+Upgrading?
+
+(Many things have changed, I *HIGHLY RECOMMEND* deleting your old
+.minecraft folder and unpacking this fresh.)
+
+But if you wish to do a normal upgrade.
+Replace your MineCraft folder in "".minecraft"" with this one.
+Overwrite all files. Start MineCraft by running Launch.bat or Launch_x64.bat
+Enjoy!
+
+
+=======================================================
+
+Install Instructions:
+
+UNPACK your RAR into %appdata% folder.
+
+This is how your folder should look like after it's unpacked
+Make Sure you change ""Your User Name"" with your actual username
+
+Windows 7: 
+C:\Users\Your User Name\Appdata\Roaming\.minecraft
+
+Windows Vista: 
+C:\Users\Your User Name\Appdata\Roaming\.minecraft
+
+Windows XP: 
+C:\Documents and Settings\Your User Name\Local Settings\Application Data\.minecraft
+
+
+That's ALL now Run ""Launch.bat"" or ""Launch_x64.bat"" to play!
+If you have Win7 and 64bit Java with 4GB or more RAM you can run ""Launch_x64_4GB.bat"" (5GB or more required)	"
+,Zithorius,2010-12-09T01:04Z,"no matter what I do, I can't get this to work. My .minecraft stuff is in local settings\application data\.minecraft, I wrote the name stuff, I started with the bat file, but nothing works, it just says login failed, any help?"
+,jakename,2010-12-09T02:09Z,"its supposed to say that
+say play offline"
+,dbacck01,2010-12-09T03:00Z,I try to run the game and I click 'Login'. It says I failed login successfully and the 'Play Offline' button is grayed out so I can't click it. How do you get passed this?
+,jakename,2010-12-09T03:47Z,read the description and place ur .minecraft folder in the right folder
+,Groffse,2010-12-09T16:25Z,"Got the same problem as dbacck01.
+I got it in the right folder: 
+C:\Documents and Settings\0501unha\Lokale innstillinger\Programdata\.minecraft
+
+Programdata = Application data
+Lokale Innstillinger = Local Settings.
+I click the launch.bat and try to log in without any username or password. LOGIN FAILED no way to play in offline what so ever.. any suggestion?"
+,Groffse,2010-12-09T16:46Z,I got it working. Drop the Local settings and it will work (windows xp)
+,hagbom,2010-12-09T18:15Z,"Here is the error i get, any help with it would be appreciated :3
+
+
+Minecraft has crashed!      
+      ----------------------      
+
+Minecraft has stopped running because it encountered a problem.
+
+If you wish to report this, please copy this entire text and email it to support@mojang.com.
+Please include a description of what you did when the error occured.
+
+
+
+--- BEGIN ERROR REPORT a1dce528 --------
+Generated 2010-12-09 18:18
+
+Minecraft: Minecraft Alpha v1.2.6
+OS: Windows 7 (x86) version 6.1
+Java: 1.6.0_22, Sun Microsystems Inc.
+VM: Java HotSpot(TM) Client VM (mixed mode), Sun Microsystems Inc.
+LWJGL: 2.4.2
+OpenGL: ATI Radeon HD 4600 Series  version 3.3.10243 Compatibility Profile Context, ATI Technologies Inc.
+
+java.lang.IllegalArgumentException: input == null!
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at ls.(SourceFile:27)
+	at net.minecraft.client.Minecraft.a(SourceFile:213)
+	at net.minecraft.client.Minecraft.run(SourceFile:559)
+	at java.lang.Thread.run(Unknown Source)
+--- END ERROR REPORT b880b536 ----------"
+,dun3rr,2010-12-11T15:44Z,"if you could only add the bettergrass mod.. id apreciate it cause i cant make it to work with patcher
+
+great pack btw"
+,zrud,2010-12-12T01:17Z,I can play offline. but not online. Or am i even supposed to get to play online ?
+,jakename,2010-12-12T16:15Z,"for the client crashing, it does that if u leave a server and rejoin. for the play offline/online dispute, u play offline and join into the minecraft lobby on tunngle, this virtually connects you to everyone else. so ur playing ""online"", but it thinks its offline"
+,zrud,2010-12-12T22:51Z,Anyone know what file you need to re-place to change your characters skin ?
+,jakename,2010-12-13T03:43Z,"i dont, but unless u bought the game, u can change it, but others cant. only urself can see it"
+,d4pr3d4t0r,2010-12-13T19:14Z,"Meeh, stuck with a problem here, got it in the right folder but every time i click the play offline button, after a few secs it's always:
+
+
+
+
+      Minecraft has crashed!      
+      ----------------------      
+
+Minecraft has stopped running because it encountered a problem.
+
+If you wish to report this, please copy this entire text and email it to support@mojang.com.
+Please include a description of what you did when the error occured.
+
+
+
+--- BEGIN ERROR REPORT a1dce528 --------
+Generated 13-12-10 19:19
+
+Minecraft: Minecraft Alpha v1.2.6
+OS: Windows XP (x86) version 5.1
+Java: 1.6.0_17, Sun Microsystems Inc.
+VM: Java HotSpot(TM) Client VM (mixed mode, sharing), Sun Microsystems Inc.
+LWJGL: 2.4.2
+OpenGL: GeForce 8600 GT/PCI/SSE2/3DNOW! version 3.2.0, NVIDIA Corporation
+
+java.lang.IllegalArgumentException: input == null!
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at ls.(ls.java:23)
+	at net.minecraft.client.Minecraft.a(SourceFile:213)
+	at net.minecraft.client.Minecraft.run(SourceFile:559)
+	at java.lang.Thread.run(Unknown Source)
+--- END ERROR REPORT 64309af7 ----------"
+,Night_Mare_10,2010-12-15T06:03Z,"works great :)
+
+the only thing is that Launch_x64_4GB.bat doesnt work just some black box comes up then dissapears straight away."
+,SirRudolph,2010-12-16T15:33Z,"Thanks !
+Downloaded at 1.2mbs ! :3"
+,sargent27,2010-12-18T00:20Z,"Ok guys: FOR REAL, JUST FUCKING BUY THIS GAME.
+
+I usually ignore people like me that say shit like ""stop being pirates"" or ""you're disrespecting and killing the developers"".
+
+But GODAMMIT JUST BUY THIS AMAZING GAME, ITS LIKE $15 and it will be the best 15 bucks you ever spent on a video game. right now you only have til the 20th to get it this cheap, and you will miss your oppurtunity if you don't hurry.
+
+I don't know how many school nights so far I've stayed up to play this goddamn game; all i know is that there's a reason, and it has to do with the orgasm that is Minecraft. Please copy/paste this if you have played Minecraft and/or bought it."
+,cam78,2010-12-19T09:52Z,"Hi everybody , i unrar the file , but when i launch the game , it say to me that i must play online before , someone can help me please :)"
+,CoastMtns,2010-12-19T20:00Z,"""Outdated launcher""
+
+Not an upgrade.  New installation. No issues when I installed and followed the instructions, proper folder etc.  The first time I ran it I received the the message ""Outdated launcher"".  i can play offline, am I even supposed to be able to play online?  How is online any different?
+"
+,Rodef2099,2010-12-19T22:28Z,"@sargent27
+
+WTF are u whinning about? I bought the game and still use this megapack... its just awesome :)"
+,Rodef2099,2010-12-20T23:25Z,if someone can contact kaen.. pls ask for megapack 1.01 beta! :D
+,jakename,2010-12-21T20:49Z,kaen's working on the beta right now. just be patient by not bothering him about it
+,Rodef2099,2010-12-22T14:43Z,"i know.. :(
+
+i bought the game last week... but i still prefer kaen's releases.... "
+,crazychrislau93,2011-01-02T16:00Z,"1st of all I am installing it exactly the way he says.
+but then i found out i have to register, so i did.
+then after login it says ""outdated launcher"", so i updated with the link it provided.
+then after login again, it says im not a premium user wtf."
+,checkalt666,2011-01-04T00:10Z,Why the fuck people keep posting .rar torrents? Fuck off you don't need to do that! Stick this .rar in your ass motherfucker. 
+,WesleyScott,2011-01-13T14:37Z,"Hey I need some tips on this game downloading mumbo jumbo. My friend just showed me this site and gave me no hints or nothing. So I need someone to show me what kind of programs to download for games. I already have uTorrent, if you could help that'd be swell! "
+,yebopilot,2011-01-22T14:06Z,i can't get this to work. definitely installed it correctly but when i open the launcher i get a quick error message that vanishes before i can read it
+,jakename,2011-01-25T02:32Z,"click ""download torrent"" and open it with a torrent client (utorrent, bittorrent, so on) and it'll start downloading shortly. thanks everyone for seeding my torrents. click my name for more torrents such as my mw2 client for my mw2 server. enjoy"
+,SubGum,2011-01-27T07:03Z,Can't wait for the updated release!
+,1ant5,2011-02-06T14:58Z,"I've only got one problem with this, and it's when i try and load it on my desktop, i click on it and it opens into a black compiler screen, but then it disappears straight away so I can't play it, although it works perfectly on my laptop - although i can't play it on there because it overheats, any help? "
+,dabyzex,2011-02-17T19:19Z,"Minecraft, and in HD ? Best!! Thanks for this torrent dude"
+,KorpenRM,2011-02-21T13:21Z,"Can anyone help me? It all works fine (thanks!) except when I try to get into the Nether. It just stops when the program tries to build the world, and then the error message shows up (Minecraft has crashed...)
+
+It only happens when I try to get into the Nether. Anyone knows whats going on?"
+,muellertr,2011-02-21T14:47Z,"question, wanted to start playing with dyes, and i do use cartographer on occasion to find diamond locations etc..  so i wanted to look for lapis lazuli, for the blue dye, and it didnt show any nodes on my map, also, i have only come across two flowers types, and if i put them in my crafting box, i dont get the option to extract any dye, skeletons dont ever drop bones which you are supposed to be able to break down to bone meal which can make white dye, so basically   i cant make any dyes at all, seems this version doest support it, can anyone confirm this, and also, is there any other features you know of that dont work with this release that i might come across,   also,,,tried setting up lan server to play on my own network with two pcs, i have the server software and both pcs can connect and have a different player name, but when the 2nd pc tries to connect, the first one gets booted saying someone with the player name is already logged in...i read online about a name spoofer and tried to figure out how to get that working but had absolutely no luck , has anyone run into this and can provide me with very specific and detailed information on how to do this, this is probably my biggest priority right now...
+
+one last question... does kaen have a website that is working? if so what is it, and is he even still working on updates for this or did he stop? i want to be able to watch and monitor and make sure that i have the most current version available so that i can mess around with all of the features...  thank you everyone for anyone that may be able to shed some light on these issues.."
+,teabaggerjones,2011-02-21T23:21Z,"ok, for those of you having this problem -->
+
+'i have installed the folder into the correct directory, but when i launch the .bat file, i see q black window for a split second before it disappears, and the game will not launch'
+
+the solution i found was simple, and that solution is to go download the latest Java Release for free. i had the problem, thats what i did, and now it runs fine, as advertised. 
+
+Great upload!"
+,KorpenRM,2011-02-22T10:07Z,"""muellertr""- This is an earlier version, so it have no dyes at all. Also, it has no squids, no note blocks, no dispenser, no charcoal... et.c.
+
+Here's the full list of what it don't have: http://www.minecraftwiki.net/wiki/Version_history
+This version is Alpha 1.2.6"
+,hewy09,2011-02-23T08:13Z,"hey.i did everything right and everything is in the right filebut when i log in it says ""outdated launcher"" and the play offlinebutton is grey and unclickable. could someone please help me?!"
+,mirglof,2011-02-25T00:38Z,next download please include a java installer. my biggest problem is with java etc... I know my comp can run it but I am having hell getting the right java version. I have deleted and reinstalled the latest java and it still gives me the same error report (all ways javaw *dammit*) so it would be nice if the necessary java version and files was added to one of these torrents as well.
+,england7922,2011-06-21T12:32Z,this game wont let me make a bed :-(

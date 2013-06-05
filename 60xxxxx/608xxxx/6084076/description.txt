@@ -1,0 +1,199 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 26. January 2010, 22:54
+
+Various / Konrad Black - Watergate 03
+
+Used drive  : PLEXTOR DVDR   PX-755A   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 30
+Overread into Lead-In and Lead-Out          : Yes
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=EAC FLAC -8" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:29.12 |         0    |    33686   
+        2  |  7:29.12 |  3:05.60 |     33687    |    47621   
+        3  | 10:34.72 |  4:50.25 |     47622    |    69396   
+        4  | 15:25.22 |  3:05.60 |     69397    |    83331   
+        5  | 18:31.07 |  6:26.74 |     83332    |   112355   
+        6  | 24:58.06 |  3:52.28 |    112356    |   129783   
+        7  | 28:50.34 |  4:07.56 |    129784    |   148364   
+        8  | 32:58.15 |  3:52.19 |    148365    |   165783   
+        9  | 36:50.34 |  5:17.34 |    165784    |   189592   
+       10  | 42:07.68 |  4:38.50 |    189593    |   210492   
+       11  | 46:46.43 |  6:00.01 |    210493    |   237493   
+       12  | 52:46.44 |  4:58.03 |    237494    |   259846   
+       13  | 57:44.47 |  3:02.24 |    259847    |   273520   
+
+
+Track  1
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\01. Alex Cortex - Nachttarif.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.6 %
+     Track quality 100.0 %
+     Test CRC BB6D6661
+     Copy CRC BB6D6661
+     Accurately ripped (confidence 2)  [80C1A589]
+     Copy OK
+
+Track  2
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\02. D.Diggler - Silicone.wav
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Test CRC 7BE74254
+     Copy CRC 7BE74254
+     Accurately ripped (confidence 2)  [C7C9F405]
+     Copy OK
+
+Track  3
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\03. Raudive - Cone (Edit).wav
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Test CRC 03544038
+     Copy CRC 03544038
+     Accurately ripped (confidence 1)  [F4D02C0C]
+     Copy OK
+
+Track  4
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\04. Loco Dice - Breakfast At Nina (Onur Ozer Mix).wav
+
+     Peak level 99.6 %
+     Track quality 100.0 %
+     Test CRC F6E6058A
+     Copy CRC F6E6058A
+     Accurately ripped (confidence 2)  [A9D0A33A]
+     Copy OK
+
+Track  5
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\05. Konrad Black , Martin Buttrich - Untitled.wav
+
+     Peak level 99.5 %
+     Track quality 100.0 %
+     Test CRC 04A14476
+     Copy CRC 04A14476
+     Accurately ripped (confidence 1)  [E4A10712]
+     Copy OK
+
+Track  6
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\06. Matthew Dear, Seth Troxler - Hurt.wav
+
+     Peak level 99.6 %
+     Track quality 100.0 %
+     Test CRC 93A4343E
+     Copy CRC 93A4343E
+     Accurately ripped (confidence 2)  [C3D559FA]
+     Copy OK
+
+Track  7
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\07. Stephan G - Shass.wav
+
+     Peak level 99.6 %
+     Track quality 100.0 %
+     Test CRC CF408EE6
+     Copy CRC CF408EE6
+     Accurately ripped (confidence 2)  [A7636A95]
+     Copy OK
+
+Track  8
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\08. Queen Atom - Enemy Of Time (Cesare vs Disorder On Time Edit).wav
+
+     Peak level 99.6 %
+     Track quality 100.0 %
+     Test CRC 4FE4FA39
+     Copy CRC 4FE4FA39
+     Accurately ripped (confidence 2)  [60CF717C]
+     Copy OK
+
+Track  9
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\09. Louderbach - Shine (Thrill Cosby Broken Door Mix Vox. Dilo).wav
+
+     Peak level 99.1 %
+     Track quality 99.9 %
+     Test CRC E0773D99
+     Copy CRC E0773D99
+     Accurately ripped (confidence 2)  [1FB98E42]
+     Copy OK
+
+Track 10
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\10. Ben Klock - Sub Zero.wav
+
+     Peak level 99.6 %
+     Track quality 100.0 %
+     Test CRC AEB49C39
+     Copy CRC AEB49C39
+     Accurately ripped (confidence 2)  [13E49D89]
+     Copy OK
+
+Track 11
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\11. Discogs - Real Love EQ (Italy Version).wav
+
+     Peak level 99.6 %
+     Track quality 100.0 %
+     Test CRC 91715A5A
+     Copy CRC 91715A5A
+     Accurately ripped (confidence 2)  [2260AA49]
+     Copy OK
+
+Track 12
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\12. Paul Ritch - Evil Laff (Konrad Black Remix).wav
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Test CRC 5C383FA1
+     Copy CRC 5C383FA1
+     Accurately ripped (confidence 2)  [61F50ADE]
+     Copy OK
+
+Track 13
+
+     Filename F:\Torrents\VA - Konrad Black - Watergate 03\Various - Konrad Black - Watergate 03\13. Mathew Jonson - Walking On The Hands That Follow Me.wav
+
+     Peak level 99.3 %
+     Track quality 100.0 %
+     Test CRC ADC2B9F6
+     Copy CRC ADC2B9F6
+     Accurately ripped (confidence 2)  [0807D3D9]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,37 @@
+nPA - neuer Personalausweis
+
+(new German identity card)
+
+Beginning in November 2010, German ID cards are issued in the ISO/IEC 7810 ID-1 format and contain RFID chips with personally identifiable information including a biometric Photo and, if desired, two fingerprints. 
+
+This package contains both software and scanned information from the kit which is available for holders of the new ID card. This kit comes with the Basisleser (basic card reader). 
+
+
+Table Of Content
+================
+
+
+112622LF.iso                    - ISO-image of the CD
+112622LF.md5                    - Message-Digest Algorithm 5 (MD5) hash to check the integrity of file
+
+cd.png                          - scanned picture of CD
+  - scanned picture of case inlay (inside) - scanned picture of case inlay (outside)
+
+
+<DIR> Basisleser_SCL011
+  picture_SCL011_1.png          )
+  picture_SCL011_2.png          ) three digital pictures of the RFID reader
+  picture_SCL011_3.png          )
+
+  Printed circuit board.png     - scanned picture of circuit board including integrated circuit STC3-HF 
+                                   (see: http://www.das-labor.org/wiki/RFID/Scl011 )
+
+   <DIR> Installationsanleitung - setup instruction for RFIID reader (4 scanned pages)
+
+<DIR> Informationen zum IT-Sicherheitskit
+  leaflet (1) as one PDF file
+          (2) as eleven jpg files
+
+NOT INCLUDED is a card with key for 6 month subscription to Avira's AntiVir Premium (which is included on the CD anyway)
+
+NOT INCLUDED is the AusweisApp, since the first version has been withdrawn due to bugs. New version shall be released 03-01-2011.

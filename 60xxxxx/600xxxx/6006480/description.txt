@@ -1,0 +1,159 @@
+   Super Meat Boy is a tough as nails platformer where you play as an       
+   animated cube of meat who\'s trying to save his girlfriend (who happens   
+   to be made of bandages) from an evil fetus in a jar wearing a tux.       
+                                                                            
+   Our meaty hero will leap from walls, over seas of buzz saws, through     
+   crumbling caves and pools of old needles. Sacrificing his own well       
+   being to save his damsel in distress. Super Meat Boy brings the old      
+   school difficulty of classic NES titles like Mega Man 2, Ghost and       
+   Goblins and Super Mario Bros. 2 (The Japanese one) and stream lines      
+   them down to the essential no BS straight forward twitch reflex          
+   platforming.                                                             
+                                                                            
+   Ramping up in difficulty from hard to soul crushing SMB will drag Meat   
+   boy though haunted hospitals, salt factories and even hell itself. And   
+   if 300+ single player levels weren\'t enough SMB also throws in epic      
+   boss fights, a level editor and tons of unlock able secrets, warp        
+   zones and hidden characters.                                             
+                                                                            
+   Story mode, featuring over 300 levels spanning 5+ chapters               
+                                                                            
+   Play as a Head Crab! (Steam Exclusive)                                   
+                                                                            
+   33 legitimate Achievements                                               
+                                                                            
+   Warp zones that will warp you into other games                           
+                                                                            
+   Over 16 unlockable able and playable characters from popular indie       
+   titles such as, Minecraft, Bit.Trip, VVVVVV and Machinarium              
+                                                                            
+   Epic Boss fights                                                         
+                                                                            
+   Full Level Editor and Level Portal (January 2011)                        
+                                                                            
+   A story so moving you will cry yourself to sleep for the rest of your    
+   life                                                                     
+                                                                            
+   -------------------------------------------------------------------      
+                                                                            
+   Update 1 information:                                                    
+                                                                            
+   - CRASH ON STARTUP Several Users reported crashes on Startup. An early   
+   version of the Steam Install Script got uploaded by me that didn\'t       
+   fully run DirectX, also I\'m not sure I had all the proper                
+   prerequisites packed in the build. Either way, I have packed in          
+   everything that should be needed for DX, as well as updated the          
+   install script. Those who have already installed the game, I\'m not       
+   sure this will help you...but if you are experiencing crashes on load    
+   after you have downloaded the update. Simply Click Here and run the      
+   DirectX Web Installer.                                                   
+                                                                            
+   - CRASHING DURING GAMPLAY AFTER ABOUT 3 LEVELS There was an error        
+   where save games weren\'t saving, mainly because a folder was missing     
+   in the installer, not sure why it got made on some builds and not        
+   others, but it was the problem. This would cause grabbing bandage girl   
+   to crash at random times as well as initial runs of the game to crash.   
+   Those of you that had problems with the game starting even after the     
+   install of DirectX, this could have been your problem. This issue has    
+   been (As long as the update makes the folder) resolved.                  
+                                                                            
+   - STUCK RESOLUTIONS / INVALID MONITOR INPUT Users would get stuck in     
+   resolutions that their monitors would not display. Not sure what is      
+   causing this because I look at what the monitor can display, but         
+   either way I made a work around. Users can now force resolution and      
+   window settings to get the game to a working state where they can        
+   adjust them further. The commands are as follows:                        
+                                                                            
+   -fullscreen force full screen mode                                       
+   -windowed force windowed mode                                            
+   -640x480 force 640 x 480 resolution                                      
+   -800x600 force 800 x 600 resolution                                      
+   -1024x768 force 1024 x 768 resolution                                    
+                                                                            
+   With windowed and fullscreen options, the game will default to the       
+   last res that was tried, valid or no..so if you are having problems I    
+   recommend following the steps below to fix it. (I\'m sure the majority    
+   of you know how to do this, but for those that don\'t see below).         
+                                                                            
+   Go to Library, then Right Click on Super Meat Boy and go to Properties   
+                                                                            
+   Click on Set Launch Options                                              
+                                                                            
+   Fill in the options starting with dashes and separated by spaces in      
+   the text field                                                           
+                                                                            
+   -NO BROWNIE OR DR FETUS BOSSES I\'m a moron and forgot to upload the      
+   boss files for Dr. Fetus and Brownie. Players would play their stages    
+   and see no bosses. I uploaded them now, they are in.                     
+                                                                            
+   -MENU CRASHES There were some menu bugs, mainly with the pause menu      
+   and the character select menu in game. These have been fixed             
+                                                                            
+   PERFORMANCE ISSUES                                                       
+                                                                            
+   We have scaled the textures best we can. There are 3 modes available     
+   to the command line. The gamedoes a miniprofile thing that determines    
+   what resolution and texture detail you should be running at...but        
+   sometimes this can be wrong. To help adjust performance issues you       
+   have 3 options:                                                          
+                                                                            
+   -highdetail Highest detail                                               
+   -meddetail Medium detail                                                 
+   -lowdetail Lowest detail                                                 
+                                                                            
+   -lowdetail runs fine on a netbook. I have an Asus Aspire One. 1.6Ghz     
+   Intel Atom, 1GB Ram, Integrated Intel GMA 950 inside. If I switch on     
+   low detail, the game maintains a 50-60fps for most levels. It is very    
+   playable with extremely small load times. My computer here, with an      
+   NVidia 260, Q6600 Quad Core, 6GB Ram runs the game at like 400FPS        
+   Un-VSynced. So that\'s basically you\'re range. Those are the two          
+   computers I had available during development, so they represent high     
+   end and low end.                                                         
+                                                                            
+   Speaking of VSync, the game needs to be V Synced. I can\'t stress this    
+   enough. If you are experiencing Cutscenes running fast, or Meatboy       
+   freaking out while standing still, just switch on VSync and you\'ll be    
+   fine. This is something we cannot fix since Graphics Drivers can         
+   choose to ignore developer settings. I tried artifically limiting the    
+   framerate today and honestly I didn\'t like how it looked. It wasn\'t as   
+   smooth as VSynced (obviously) so...just VSync it.                        
+                                                                            
+   If your game is running slow or you are having slow load times, just     
+   do lowdetail and a lower resolution and you\'ll be fine. If my little     
+   Aspire One running XP can do it, we can all do it:)                      
+                                                                            
+   [Small update on Load Times]                                             
+   Thinking about it, the Atom has hyperthreading. I\'m betting people       
+   with slow load times have single core non-hardward threaded              
+   processors. I\'ll look into this.                                         
+                                                                            
+                                                                                   
+
+
+   Install Notes:
+         
+   1. Unpack the release with WinRAR or equivalent                          
+   2. Install by running Super Meat Boy.exe
+   3. Enjoy!
+                     
+                                                                            
+   Additional Notes:                                                        
+                                                                            
+   Even though they fixed a lot of bugs, it\'s still very bugged. They       
+   updated almost all game content, that\'s why it\'s a complete              
+   pack of the original release.                                            
+                                                                            
+   Game require:                                                            
+                                                                            
+   Microsoft Visual C++ 2008 Redistributable Package (x86)                  
+                                                                            
+   http://www.microsoft.com/downloads/details.aspx?familyid=9b2da534-3e03-43
+   91-8a4d-074b9f2bc1bf&displaylang=en                                      
+                                                                            
+   Microsoft Visual C++ 2008 Redistributable Package (x64)                  
+                                                                            
+   http://www.microsoft.com/downloads/details.aspx?familyid=bd2a6171-e2d6-42
+   30-b809-9a8d7548c1b6&displaylang=en                                      
+                                                                            
+   Remember to support quality games!                                       
+                                                                            

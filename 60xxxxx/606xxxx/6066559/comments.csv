@@ -1,0 +1,203 @@
+User Type,Username,Date,Text
+,Creepy_wonder,2010-12-26T19:28Z,"
+Easier Way out if you think this is too much..
+Use Revo Uninstaller... Select Waves & click on Un-install.. then after when its done.. Hit the scan option to delete the remaining registry & files & folders associated with it.. Hope this helps.. :) Merry Christmas & a Happy New Year in advance....
+
+Regards ,
+CW"
+,Creepy_wonder,2010-12-26T19:29Z,"Before you install: 
+-------------------
+
+Waves.Complete.VST.RTAS.TDM.v7.1.16-AiR
+
+
+
+1) Uninstall ALL previous versions of Waves plugins and/or bundles
+
+2) Delete the following registry keys, folders and files if they still exist:
+
+
+-------------------------------------------------------------------------------------------------
+
+Registry Keys:
+--------------
+
+Win XP/Vista/Seven >32bit
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Waves
+
+
+Win XP/Vista/Seven >64bit
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Waves
+
+-------------------------------------------------------------------------------------------------
+
+Folders:
+--------
+
+Win XP:
+
+C:\Documents and Settings\{username}\Application Data\Waves
+C:\Documents and Settings\{username}\Application Data\Waves Audio
+C:\Documents and Settings\{username}\Application Data\Waves Preferences
+
+Win Vista/Seven:
+
+C:\Users\{username}\AppData\Roaming\Waves
+C:\Users\{username}\AppData\Roaming\Waves Audio
+C:\Users\{username}\AppData\Roaming\Waves Preferences
+
+-------------------------------------------------------------------------------------------------
+
+Files:
+------
+
+Before you delete anything under 'Program Files' make sure you have saved your own plugin settings
+or any extra impulse response libraries from Waves 
+
+C:\Program Files\Waves\Plug-Ins\Plug-In Settings
+C:\Program Files\Waves\Plug-Ins\IR1Impulses V2
+
+
+Now delete:
+-----------
+
+C:\Program Files\Waves
+
+C:\Program Files\Common Files\Digidesign\DAE\Plug-Ins  > any remaining waveshell*.dpm, *.xml and *.rsr files
+
+..\VSTPlugins  > any remaining waveshell*.dll files
+
+---------------------------------------------------------------------------
+
+
+3) Install 'Waves Complete Setup.exe' (*IMPORTANT* install as administrator on Windows Vista/Seven if any troubles)
+
+4) Enjoy this fine Team AiR release !!!
+
+
+
+
+SPECIAL NOTE:
+-------------
+
+Update your videocard drivers to the latest version to prevent plugin constant gui redrawing"
+,skuri,2010-12-26T23:19Z,stack on the 99.9  procent something wrong annybody have same promblem???????
+,Creepy_wonder,2010-12-29T03:22Z,I think no one liked my post :(
+,stinny08,2010-12-29T03:59Z,"Hey man, SUPER STOKED on the upload! I am having trouble extracting the setup file though. Every time i try to run or extract it, it starts to do so and then stops, telling me that  the next required volume is missing and i need to insert the proper disk that contains it. Anybody else having this problem, or is there something i am not doing right? PLEAS HELP!!!!!!"
+,BernardoPhoenix,2010-12-29T07:00Z,You have done a wonderful thing!  Everything's good and running smoothly...thank you!!!
+,Creepy_wonder,2010-12-30T05:06Z,"@stinny08... there are two sets of .rar files there...
+select all the .rar files together first... then right click n select extract here... then select the first file of the extracted .rars... & extract.. you would get the setup file... Hope this helps... :)"
+,emmav10101,2010-12-30T10:09Z,"hey people, everything extracted and installed ok, and i can use the plugins BUT the GUIs dont display properly, i get a generic looking control panel.....i have installed the latest video drivers but am using an old version of cubase (v 1.06) Anyone had similar probs or can suggest a fix? Much appreciated."
+,emmav10101,2010-12-30T10:11Z,"sorry forgot to add GREAT WORK Creepy_wonder, many thanks!"
+,Creepy_wonder,2010-12-31T18:33Z,"emmav10101... 
+Hey many people using older versions having issues & also have to be sure that you have removed all the older versions of waves the way it has been explained... By the what OS are you using.. I believe Windows Xp is it ?? Let me know... Also let me know the Graphics Card that you are using... But people with newer OS & softwares are not having any issues... "
+,emmav10101,2011-01-01T05:58Z,"Thanks Creepy for the reply, I'm using WinXP my card is a GeForce 8600 GT, I think you're right though....its probably my old version of Cubase thats not displaying the GUIs properly. Thanks man for your time and help."
+,jjfadfurkle,2011-01-09T14:10Z,"this @#$@#$%!$ torrent infects your computer
+
+
+right when waves installer launched  some fake ""free anti virus"" app with a full gui started running along side the Waves installer.
+
+ ever since then windows update wont work- system restore wont work and other lame stuff you would expect once infected is happening on the system
+
+waves works perfect but you will be hosed"
+,Creepy_wonder,2011-01-11T17:17Z,"@ jjfadfurkle... 
+Don't post bullshit here... I am personally using it so as hundreds of other users..probably a lot more than that... If that happened with you.. your computer must be infected even before you installed this... & moreover its not created by me.. Its a Team AiR release.. n you don't want to mess with that name... I hope you understand what i mean... anyway.. Play fair always..."
+,done84,2011-01-12T20:46Z,"Fully working on win7 32bit for me.
+Thanks to the air team, this just made my day."
+,skapoosh,2011-01-19T18:26Z,This is the most erotic thing i downloaded in a long time!!
+,pheard,2011-01-26T04:16Z,"Appreciate the effort, but could not get Sonar 8.5 to see the plugins. Previous versions of Waves could be modified using shell2vst, but not these guys. Any advice on getting them to work with a 64-bit DAW? Neither bitbridge nor jbridge can see them."
+,pheard,2011-01-29T02:15Z,"Nevermind. I figured it out. Once I copied the plugins from the Waves folder chosen during install, into my DAW's plugin folder (along with the waveshell,) and restarted my computer, it was all good. Thanks for the upload."
+,123break,2011-01-31T02:18Z,"Hey, 
+
+having trouble installing on windows 7 32bit - Cubase 5. I can install the plugins fine but when i load any of them up in Cubase an error comes up with - 'LoadLibary failed', then cubase crashes. Any suggestions to get it working? Cheers :) "
+,123break,2011-01-31T13:57Z,"The actually message error i am getting is :- 
+
+'Loadlibrary failed with error 126: The specified module could not be found'
+
+Any ideas? 
+"
+,Creepy_wonder,2011-01-31T19:07Z,"@done84.. thanks buddy :)
+
+@skapoosh... yeah for me too.. :) glad you liked it...
+
+@pheard... happy that you could figure it out. sorry couldn't reply to you earlier...
+
+@123break... un-install all previous versions first & follow the guidelines as to how to remove them properly written in the text file... then re-install it... Let me know if that works.. if not . let me know how you are installing it... 
+"
+,123break,2011-02-01T04:10Z,"Hey Creepy_wonder, 
+
+Basically i have followed all the guidelines in the read me txt and still getting the error. 
+
+I have installed it as : 
+
+Extract .rar's to desktop. 
+
+Extracted again to desktop (Waves v7 exe)  
+
+Installed to program files/waves & Vst plugins folder in program files/Steinberg/Vst plugins. (As admin & installed new graphics card drivers) 
+
+When installed i can see them in Cubase but every time i load a plug in up it says & cubase crashes : 
+
+'Loadlibrary failed with error 126: The specified module could not be found
+
+Any suggestions or ideas would be much appreciated? 
+
+Thank you for a great upload!!! :) "
+,darkcloud1856,2011-02-09T18:17Z,"Kaspersky finds Trojan.Win32.Agent2.dcxy 
+
+Anyone one else have problems?"
+,rmirabelle,2011-02-09T18:20Z,"WARNING: Trojan.Win32.Agent2.dcxy
+Detected by Kaspersky Antivirus 2011
+
+Did not detect on zip! Had to unzip and unrar to detect.
+
+Download at own risk.  This download SAYS AIR, as though that would be hard to spoof."
+,candy9,2011-02-10T14:37Z,"darkcloud1856 and rmirabelle, you are no doubt the same bullshitting pile-of-shit person, which is obvious given the content of the message and the near-exact time-stamp.  The torrent doesn't have a virus. The only virus is the one you stuffed up your wretched asshole filled with salt and glue.  "
+,darkcloud1856,2011-02-10T18:15Z,"@candy9 - I'm not the same poster as rmirabelle and I'm more than a bit perplexed as to why you're so angry and abusive. 
+
+I just reported my experience scanning the file with Kaspersky. The trojan it finds seems to be a new variant and I couldn't find much info about it. Can anyone explain why Kaspersky comes up with this result?"
+,Thanksforfreestuff,2011-02-16T00:21Z,"This works great for me! I am using windows 7 64bit with a 32 bit daw.
+
+When i was downloading this I literally got a boner at the hope this was real. Thank you so much for this torrent. "
+,Thanksforfreestuff,2011-02-16T00:25Z,"Works great! 100% real. I am using windows 7 64bit with a 32 bit daw
+
+We all have been waiting ages for this torrent, I still cant belive it got it on my studio. "
+,Herokazz,2011-02-24T23:27Z,"Alot of the plugs doesnt work for me. :(
+In fact all the plugs seem unstable.
+Before I had waves mercury 5.2 that worked fine mostly...
+
+Pro tools 8.03 on windows 7 64 bit..."
+,QUARTERKEY504,2011-02-25T15:37Z,CREEPY MAN I CANT UN RAR THIS SHIT KEEP GETIN A ERROR HELP ME
+,stephens,2011-03-10T16:58Z,"Hi
+Installed ok, I think but when I load cubase I'm asked for the waves plugins folder.
+I try touse existing vst folders and set up a folder in different places - vst folders etc. but nothing works. Any advice?? 
+Had mercury installed a while ago without trouble. Doesn't work now either.
+Tried to uninstall waves with revo uninstaller - still the same message.
+I'm on win 7 and cubase  32 bit. Input please  :-)"
+,gomezboy24,2011-05-16T03:38Z,when i try extracting the files it says its being used by another process.....Help Me Pleaseee
+,smitty305,2011-06-02T03:52Z,"I did literally everything that was suggested on the comments and I installed it without a problem except I can't see anything, I can mouse over literally nothing and turn an imaginary knob and hear the effects
+
+it seems the GUI won't load for waves at all
+
+
+I am running W7 64 bit"
+,smitty305,2011-06-02T08:13Z,"ok now Cubase can load but crashes when I try to exit, I'm never touching waves again
+
+Can someone tell me how to fix this error on Cubase, I uninstall-ed everything like it said to do on the notes but it still crashes."
+,BloodWork,2011-06-09T20:04Z,Does anyone have the Mercury link for MERTDM with the Maserati bundle on it?
+,adrianlives,2011-07-20T15:45Z,"@Creepy Wonder..
+I downloaded this torrent and unzipped all folders, cant find a setup file anywhere, what do I do with these unzipped folders?"
+,adrianlives,2011-07-23T13:53Z,"ATTENTION ALL.....
+This download appears to be corrupted... I downloaded everything and extracted all files inside but cannot find anything related to Waves in any of the files, so set-ups no docs NOTHING. Also since downloading and extracting this my P.C has been acting very strange, extremely slow, not responding, and freezing up... might be coincidence but I highly doubt it after reading all the comments above, doesnt seem like anyone here is entirely satisfied with this download.. JUST SAYING - PEACE"
+,xjd77,2011-09-16T03:16Z,"Here's a bunch of Waves video tutorials from YouTube that cover most of the plugins in this release:
+
+http://thepiratebay.org/torrent/6678095/Vst_Video_Toolbox_One_-_collection_of_vst_tutorials_"
+,asphaltclub,2011-12-06T19:03Z,"I was so looking forward to this, but one torrent I downloaded installed fine but the plugins just crashed my daw, then two other torrents I tried iI keep getting the message about not being able to find any waves vst's. Any help? Thanks!"
+,rocketman3,2012-01-03T23:13Z,"Hello @Creep_wonder, I have the v8 of waves, but i'm still getting errors of WavesLib 8 missing... i had versions of waves before and i ran into the problem before. I tried everything( registry cleaning, deleting with revo, AppData deleting and all that stuff... still not working.. one thing i noticed though is when using Shell2VST, all plugins fail to load. If you could help me out that would be amazing!!
+Regards"
+,RstuffRecords,2012-02-27T12:34Z,i need that
+,bossboyy,2012-03-29T15:09Z,Does anyone know if these work with protools hd
+,hurgurk,2012-04-23T17:22Z,"I followed the instructions for install, and this worked perfectly on Win7/64 bit, with 32 bit cubase. All plugins are there, no viruses or any other crap. Just a good, clean, package. It IS bundles a little fuckey, with a rar inside multiple zips. People do that sometimes, deal.
+Huge thanks to the uploader, and remember, if you like the software, buy it! Although in this case, the demo period will be pretty long, the software is a bit pricey."

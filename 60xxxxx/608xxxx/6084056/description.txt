@@ -1,0 +1,42 @@
+Please help seed!
+
+Instructions:
+-------------------
+1. Download.
+2. Extract.
+3. Copy extracted folders to your WoW/Interface/AddOns folder.
+   - Both Horde and Alliance folders are included, if you don't play both, don't worry, WoW will only load the appropriate guide.
+4. Launch WoW.
+5. Once you are logged in and at your character screen, click the AddOns button and make sure that ZygorGuidesViewer and ZygorTalentAdvisor are checked.
+6. Launch the game and enjoy.
+
+Bug Fixes:
+-------------------
+
+-- Alliance Guides Change Log --
+* Fixed various guide errors
+* Fixed Human (1-15) guide quest chains for SIS
+* Fixed Mount Hyjal guide quest chains for SIS
+* Fixed Vashj'ir guide quest chains for SIS
+* Fixed Deepholm guide quest chains for SIS
+* Fixed Uldum guide quest chains for SIS
+* Fixed Twilight Highlands guide quest chains for SIS
+
+-- Horde Guides Change Log --
+* Fixed various guide errors
+* Fixed Orc (1-5) guide quest chains for SIS
+* Fixed Troll & Orc (5-13) guide quest chains for SIS
+* Fixed Tauren (1-13) guide quest chains for SIS
+* Fixed Mount Hyjal guide quest chains for SIS
+* Fixed Vashj'ir guide quest chains for SIS
+* Fixed Deepholm guide quest chains for SIS
+
+
+-- Guides Viewer Change Log --
+* Added / Edited NPCs
+* Titan support fixed (beta quality)
+* Dynamic Progress is now disabled for non-leveling guides
+* SIS issues unrelated to quest chains has been fixed.  Even with some broken quest chains, SIS should feel much smoother and accurate.
+* Fix for undertimed completion checks (took 3 seconds to complete "go to" and other goals)
+* Fix for Deepholm "sliding map dot" bug
+* Fix for another occurrence of the "quest followup is skipped-as-impossible right after completing the prerequisite" bug

@@ -1,0 +1,38 @@
+Windows-only firefox build. 100% mozilla code, but runs significantly faster on windows PCs. I also posted the Windows installer exe, check my torrents for this.
+
+From the website:
+
+=================================================================================
+
+
+Why settle for a basic build of your Firefox browser on Windows Operating Systems when you can have one that performs 25% faster? Mozilla does not provide optimized browser packages for Windows, while many Linux ("from scratch") users get the advantage of a browser built specifically for their system. That needs to change! So, here is the Pale Moon project: Custom-built and optimized Firefox browsers for Windows Operating Systems. Make sure to get the most speed out of your browser!
+
+Of course, getting a faster browser is not just about optimizing the compilation process (building a program from its source code), but also about carefully choosing features and how to choose the best setup. This means that this browser, however extremely close to Firefox, does not have all the functions that Firefox has. A few, carefully selected, features have been disabled that are not in high demand, and that do not interfere with the way web pages are displayed or function; all to maximize speed and efficiency of the browser.
+
+Main features:
+
+    * Highly optimized for current processors
+    * 100% Firefox sourced: As safe as the browser that has seen years of
+      development.
+    * Uses slightly less memory because of disabled redundant and optional code
+    * Significant speed increases for page drawing and script processing
+    * Support for SVG and Canvas, downloadable fonts, WOFF and some HTML5
+    * Support for Firefox extensions, themes and personas
+    * Support for OOPP (Out-of-process plugin execution)
+    * Able to use existing Firefox profiles, bookmarks and settings with this 
+      migration tool
+
+	
+System Requirements:
+
+    * Windows 2000/XP/2003/Vista/Seven, 32-bit or 64-bit (64-bit O.S.es are not 
+      natively supported, but the browser will run fine on them)
+    * A modern processor with SSE2 support like a Pentium IV or Athlon 64 or later 
+      (see list of supported processors) Standard Pale Moon will NOT run on Athlon 
+      XP processors! Please GO HERE if you are running on an Athlon XP or Athlon 
+      MP processor machine.
+    * 64 MB of RAM (128 MB or more recommended)
+    * At least 50 MB of free (uncompressed) disk space
+
+ 
+http://www.palemoon.org

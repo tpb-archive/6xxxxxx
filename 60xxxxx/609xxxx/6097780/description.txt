@@ -1,0 +1,20 @@
+This package contains both Fallout 1 and Fallout 2 configured and ready to use on Linux. Fully tested in Ubuntu 10.04, ArchLinux and Slackware Linux.
+
+CorkScrews are prepackaged wine prefixes inspired by the "Wine bottle" of
+Crossover (cxgames.) They have been built, tested, and packaged on a 
+slackware system and should run on any Linux distribution running wine.
+
+Do not rely on wine 1.0.1 to run CorkScrews. The installer script template 
+could use a little more cleaning up (and will be cleaned up before my next 
+CorkScrew) but this one works and is thoroughly tested. Once the game 
+is untarred run scripts will be placed in $HOME/bin.
+
+Launch the game using the run script. Some of my more recent CorkScrews have
+uninstall scripts in $HOME/bin as well, although these should not be 
+executable by default I think one of them is (not sure for which game.)
+
+I encourage you to package, test, and distribute CorkScrews of other games.
+
+I also encourage you to repackage CorkScrews into distro specific packages
+or add Desktop Environment friendly buttons or whatever other frilly shit you
+like.

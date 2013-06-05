@@ -1,0 +1,39 @@
+Description:
+Total_Noob's 6.20 TN-A (HEN). Enable homebrew and plugins on any PSP model running firmware 6.20
+
+6.20 TN-A (HEN) Requirements
+
+* A PSP - any model - with 6.20 installed.
+
+6.20 TN-A (HEN) Instructions
+
+1. Install Patapon Demo & HBL on your PSP.
+2. Extract EBOOT.PBP to /PSP/GAME/HEN/EBOOT.PBP, or to /HBL/GAME/EBOOT.PBP if you want to launch it directly.
+3. Launch Patapon Demo and load exploited savedata (Continue).
+4. Now it jumps into HEN mode.
+5. Enjoy homebrews and plugins (you'll lose HEN mode if you reset/shutdown the device or if your PSP crashes).
+
+Update: A couple notes from my personal experience with 6.20 TN-A (HEN) and a PSPgo: The first run it worked fine - HEN loaded no problem and behaved as it should. Consecutive runs thereafter (from a cold boot) always failed. To get it working again I uncommented the following line in hbl/hbl_config.txt:
+
+override_sceIoMkdir=-1
+
+Works again! ... despite the memory leak error.
+
+Here are some tips if youâ€™re experiencing crashes and/or other problems:
+
+   1. Backup whatever you want to keep from your memory stick, format it, and start fresh. Download everything you need and pack that freshly formatted stick. Restore your save games and whatever else after the fact.
+   2. Fiddle with hbl/hbl_config.txt. Try changing the different overrides and other configurable options.
+   3. Clear out your ms0:/seplugins folder. Some plugins may be incompatible with 6.20 TN-A.
+   4. Sift through the comments. You arenâ€™t alone. Many users are reporting crashes but also reporting fixes/workarounds. Take your time and read on.
+
+Preview:
+http://bayimg.com/LaBbJAadK
+http://bayimg.com/lABbnAaDK
+http://bayimg.com/LABBpaADk
+http://bayimg.com/maBBcAadk
+http://bayimg.com/maBBEaaDK
+
+Now you can't play any ISOs/CSOs just yet - you gotta wait for that. Someone'll port an existing ISO loader or create a new one compatible with 6.20. Otherwise check the included readme.txt for everything else you oughta know.
+
+Contact detail: http://mnbbv.wap.sh/
+or mail me at: mnbbv@rediffmail.com

@@ -1,0 +1,27 @@
+Arguably the most famous Delphine games in ready to use packages.
+
+aw.7z - Another World.
+To use:
+- unpack;
+- execute unpack_music.bat;
+- delete oggdec.exe and unpack_music.bat (optional);
+- execute anotherworld.exe to play.
+
+fb.7z - Flashback.
+To use:
+- unpack;
+- execute using `dosbox -conf fb.conf'
+
+
+f2b.7z - Fade to Black.
+To use:
+- unpack;
+- execute using `dosbox -conf f2b.conf'
+
+There is well known bug in dosbox 0.74 so that the stereo sound is reversed in Fade to Black; if you know how you can compile dosbox with this patch:
+http://vogons.zetafleet.com/viewtopic.php?t=25827
+so that you can reverse the stereo putting swapstereo=true in the mixer section of the configuration file.
+
+Note: dosbox is NOT included. It is up to you to install it and make the shortcuts.
+
+Have fun.

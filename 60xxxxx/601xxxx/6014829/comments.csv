@@ -1,0 +1,46 @@
+User Type,Username,Date,Text
+,jjaamm67,2010-12-11T18:10Z,Could someone please seed.
+,jjaamm67,2010-12-11T18:45Z,"People, please seed so other people can download and also seed for others."
+,lobyhuy,2010-12-12T19:25Z,"Quit whining. Lots of us are seeding/sharing.
+
+Anyone somehow verified this is clean?
+
+"
+,chas1625,2010-12-14T11:36Z,"Super-slow for so many ""seeders"".  Must be a mac-only torrent."
+,jebec3,2010-12-23T17:32Z,Just want to say thank you to all the seeders out there. It took a while to gather the seeds probably due to the large file size. Also I would like to say that I encourage all comment on this torrent. Should be very clean and easy to install but always good to hear from others. Thank You
+,vaktyuk,2011-11-11T11:39Z,"tnx, it looks fine. 
+
+nevertheless i have some personal trouble with it, since at install after restart it boots the old OP. i searched the net, no solution found yet. if anyone has a opinion on that i appreciate. 
+
+Powerbook 5.1 G4 ppc 10.4.11
+
+bye"
+,vaktyuk,2012-04-22T02:44Z,"finally i figured out how to install leopard on my ppc G4 titanium without firewire or dual layer dvd burn, running tiger.
+
+although many forums state that ppc g4 has problem with usb boot, there is a method to overcome this feature.
+
+if you have partitioned you harddisk to two parts you are a step forward. if you hadn't then you need an usb pendrive up to 10Gb or an external harddisk.
+
+
+the trick is to use disk utility to restore the OS from dmg. to the spare partition. this creates an install environment (bench of files) to the non-OS partition (pendrive, ext. hdd) which can be set to be a boot source in startup utility. rebooting the system will launch the install files and makes the dream comes true.
+
+
+in details:
+1. format a suitable sized pendrive / ext. hdd / partition 
+disk utiliy / partition / option choose:
+a.) guid format for intel based G4
+b:) apple based format for motorola cpu
+
+this erases the partition. there is a descripitng note to both options so one can't miss.
+
+2. copy the dmgs to the new partition. make backups about the important files, data, etc. (bookmarks, maillist, licences...) in a folder on this partition. the now-used partition will be deleted soon. 
+
+3. open disk utility choose restore function from the labels. set for source the OS dmg. set destination to the new partition.
+this creates install files onto the new partition but leave the dmg or other backups ntouched. 
+
+open system preferencies / startup disk. the new partition will appear as option. (if not run the install file on the partition). click restart. accept.
+
+4. for me it didn't restart, i had to do it manually. anyway it was essential to hold up the reboot at the boot camp (use option button at startup). the new partition with leopard will show up. pick that at lean back...
+
+that's all folks...
+"

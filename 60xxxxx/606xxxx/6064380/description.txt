@@ -1,0 +1,72 @@
+USB Safely Remove is a utility for effortless and speedy disconnection of any removable devices. 
+Not only does it save time, but it ensures that all data remains on a device when it is unplugged. 
+Safely Remove is a system utility designed for quick and safely stopping USB Flash Drives connected to your computer. 
+With this utility you can safely stop and remove USB Flash Drives much faster then using "Safely remove hardware" icon in the system tray.
+
+Here are some key features of "USB Safely Remove":
+Â· Safely remove in one click!
+Â· Displaying processes which are preventing USB device from being stopped
+Â· Powerful command line support
+Â· 3 methods to stop devices.
+Â· Automatically assigning hotkeys.
+Â· Forbidding stopping any device.
+Â· Customizable names and descriptions for devices.
+Â· Notifications about connecting/disconnecting devices with the help of a balloon tooltip.
+Â· Playing sounds or running external programs when devices are connecteddisconnected.
+Â· Restricting access to the features of the program with a password.
+Â· Loading custom images for devices
+Â· Ability to operate SATA drives
+
+A handy menu to stop devices 
+The main disadvantage of using the built-in Windows safe removal tool is that when using several hot-plug devices it is often quite difficult to recognize which device needs to be stopped. Most devices have the same name: "USB mass storage device". 
+In addition, Windows does not let you hide a device you would not want to stop from the menu.
+The device cannot be stopped right now. Why? 
+Ever encountered the situation when Windows does not allow you to remove a device? Unlike 
+
+Windows, USB Safely Remove will show you the programs which prevent the device from being stopped and let you close these programs or just the files they opened on the device.
+
+Keyboard shortcuts to safe removal
+Like to do everything using the keyboard? Now you can stop and view devices with only ONE hotkey! No need to remember keyboard shortcuts for each device. Being in any application, press the key combination (Win+S by default) and you will see the stop menu. 
+Use the Up\Down Arrow keys to select the device you need and either press Enter to stop it or Ctrl B to view the contents of a device disk. Also you can assign a dedicated hotkey to stop a certain device.
+
+Program autorun on device connection\disconnection 
+Another USB Safely Remove feature that distinguishes it from similar software is starting any applications not only after connecting a device, but also before removing it. 
+The autorun feature allows you to set up data backup before disconnecting a removable hard drive, to run Total Commander with the contents of the pen-drive, automatically unmount an encrypted TrueCrypt drive before disconnecting the USB media, etc.
+Command line to safe removal
+USB Safely Remove has a powerful and convenient command line: usr.exe. It allows you to automate work with devices. For example, you can automatically stop devices according to schedule or in case of any other event. In addition the command line tool of "USB Safely 
+Remove" allows to "return device back".
+Working with any hot-plug devices - USB, SATA, FireWire, PCMCIA 
+Another important difference between the program and the standard Safely Remove Hardware icon is the possibility to see and stop any kinds of hotplug devices. If USB Safely Remove does not display the device you need, try enabling the "Display all storage devices" checkbox in the program options.
+Stopping via "disabling" 
+Some kinds of external devices (e.g. SATA drives from Silicon Image), are true hot-plug devices. However, their drivers do not support the "safe removal" function. 
+Such devices are not displayed in the native safe removal tool and can be stopped only via disabling in the Device Manager. It is a tiresome way, because it requires many actions to do, moreover you must enable the device manually after you connect it next time. 
+
+Not only does USB Safely Remove allow you to stop such devices, it also detects automatically what devices must be "safely removed" and which devices must be "disabled." 
+
+Also, the program enables the "disabled" device automatically on its next connection, thus it makes working with the device absolutely the same as with a usual device.
+
+Ejecting memory cards rather than the card reader
+If you had safely removed a card reader, you would need to physically reconnect it in order to make it work with cards again (or to use "Return device back" feature of the program). 
+
+In the case of two or more memory cards connected to the card reader at the same time, they all become unavailable in the system after you stop the card reader. USB Safely Remove lets you eject memory cards one-by-one. Moreover, if the memory card was locked by any processes, the program would display these "locking" processes as well as it does on failure to stop a whole device.
+
+Hiding drives of empty card reader slots 
+Do you have a card reader with several slots? If you said "yes", you would likely use only one memory card at a time, however your card reader creates up to four drives in your system. It may be annoying because you are required to spend more time finding the memory card drive among other "empty" card reader drives.
+
+Return Device Back!
+After you had stopped the device, but still did not unplug it, sometimes it is quite useful to return it back into the system. For example if you remembered that you forgot to write a file to the external drive. In order to do it, you have to physically reconnect the device, however sometimes it's quite inconvenient to do, e.g. if the device is connected to the rear panel of the computer.
+
+The version contains some minor bug-fixes and improvements, besides it contains one important thing: the ability to power off devices on stopping in Vista and Windows 7.
+
+A bit more story on this feature.
+When you safely remove the device in Windows XP it powers the device off â€“ in case off a flash drive its led was switched off and in case of a portable hard drive it was spun down. 
+But Microsoft changed this behavior in Vista and it still exists in Win 7: after you stop the device on these OSes the hard drive continue spinning and flash drive continue lighting. 
+All modern hard drives park their heads automatically when you unplug them so in theory this behavior shouldnâ€™t lead to data losses or drive damages. But in practice external hard drive usually sounds strangely when you unplug it on run and this makes a hard drive owner being a bit nervous when he hears that. 
+
+We have got lots of feedback requests on this feature therefore we added it to the new version.
+
+In order to enable device power off feature you need to go to the program options and set the "Power off the device after device stopping" option
+
+After you do this just restart the computer and starting from this moment, leds on pen drives will be switched off and external hard drives will be spun down on stopping
+
+OS: Windows 2000/XP/Vista/7

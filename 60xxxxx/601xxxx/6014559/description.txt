@@ -1,0 +1,23 @@
+Dekart Logon allows to: 
+Â·	Identify an authorized user, granting strictly defined access to the resources.  
+Â·	Identify the third-party user and prohibit access to the resources.  
+Such recognition is carried out by means of certain procedures: the users must let the system know who they are, i.e. identify themselves to the system, and next, they must authenticate into the system. 
+Identification is a control process that examines a unique user ID and determines whether this user is known to the system. 
+Authentication is a control process that checks the authenticity of the user identity, i.e. this process controls whether the user is the person they say they are. Usually, identification consists in entering a user name, and authentication is based on the user's knowledge of a secret password that must be entered from the personal computer keyboard. 
+Unfortunately, the standard authentication means of even the most protected Windows family of operating systems (Windows NT Workstation, Windows 2000/XP Professional) is based on the knowledge of two fixed values â€” the user name and password â€” and cannot guarantee reliable security if a third party learns these values. 
+Therefore, there is the need to replace the standard one-factor authentication with the so-called strong authentication. The strong authentication is based on, at least, two of the following three factors: 
+1. Something you know: for example, a user name and ID code. 
+2. Something you have: for example, a device such as a smart card or USB token that enables a system to verify whether it is present or not. 
+3. Something you are: for example, fingerprints, iris, voice, and other specific traits of your body. Conformity to these traits can be verified by the system during authentication. 
+
+If two factors are used to authenticate the user to the system, then this authentication is called two-factor authentication, if all three factors â€“ three-factor authentication. Dekart Logon provides either two or three factor authentication for users of Windows OS family â€“ for successful authentication the user requires a Key Storage Device, a PIN to this device, and, if biometric authentication is enabled, a successful biometric authentication. This type of authentication plays a major role in limiting access of the third-party users to the computer. 
+
+Dekart Logon also accomplishes another very important task â€” it allows to protect the computers left unattended by their respective users. Once successfully authenticated, the users often forget to lock their computers when they temporarily leave them, thus compromising valuable information. Once the user disconnects the Key Storage Device from the computer, Dekart Logon will automatically lock the computer. 
+
+The primary PIN code of the KSD should be changed after you install Dekart Logon and define the user who will own the KSD. These are the requirements to the PIN code: 
+Â·	It must contain 1 to 8 alphanumeric symbols and be case-sensitive.  
+Â·	It must be fairly strong and complicated (to make spying and guessing more difficult).  
+Â·	It must be easy to remember. If you forget the PIN-code, you will not be able to access your computer and its resources.  
+
+
+The Fat

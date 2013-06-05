@@ -1,0 +1,98 @@
+User Type,Username,Date,Text
+,propeto13,2010-12-12T02:40Z,"Quality 10
+Sound 10 
+HR quality is great. plays via xbox w/the need to ""transcode"". much thanx HR"
+,User897,2010-12-12T04:05Z,Can we get some SEEDS please???
+[V],HolyRoses,2010-12-12T04:16Z,ask some of the .nl and .se people to seed.  them guys download at over 2mb a sec.
+,isparkle,2010-12-12T05:16Z,Thank you so much for yet another great torrent! Merry Xmas!
+,yopepoy,2010-12-12T05:49Z,what is .nl and .se?
+,ultimagic,2010-12-12T08:33Z,"hey mate, can you do Lion King (1993) like this, like finding nemo HDTV? "
+,Cespur,2010-12-12T14:56Z,I think he means Dutch and Swedish people.
+[V],HolyRoses,2010-12-13T08:19Z,"think i finally ran into the atv 2 bug.
+
+if you begin a movie it acts like it will work but there is a spinning icon to the left of the bottom bar.
+
+It has to do with dolby digital tracks.  If I set unit to dolby digital auto or on, it gives me grief, if I set it to off its fine.  If also just waited long enough it begins to play.  I dont have unit hooked to a stereo.
+
+I will play around with it more.  This movie I had dd set to on, connected to tv and i had to wait a minute for it to start playing.  strange bug, this  is an apple issue."
+[V],HolyRoses,2010-12-13T08:27Z,"if you wait long enough they do start playing....  seems like it has cached the entire thing before it started playing. or like 90%.  sigh, apple is a moron."
+[V],HolyRoses,2010-12-13T08:32Z,ok auto or off dolby digital setting works.  I dont have a receiver currently to test if it works with the on setting if plugged into a receiver.  wtf apple.
+[V],HolyRoses,2010-12-13T08:39Z,"if someone else wants to confirm these issues for me that would be great.  hook ATV 2 with firmware 4.1 direct to TV, play a movie with a DD track.  turn DD setting to ON, verify if it hangs, turn to auto or off verify if it plays.
+
+hook TOSLINK cable to stereo, set DD setting to ON verify if video plays.
+
+hook HDMI to stereo, stereo to tv, verify DD settings play in auto and ON.
+"
+[V],HolyRoses,2010-12-13T08:42Z,"I think in ON mode its looking for a DD handshake, eventually it fails perhaps and starts to play.  these are all theories right now until someone proves something.  but i can verify it is hanging for me regarding the ON setting with any DD movie.   Does not need to be HD."
+,poohmason,2010-12-13T09:42Z,"Hi HolyRoses,
+    thank you for uploading great quality movies. I love the MP4 720p collection you have and how easy it is to upload them into my Itune library. please, would you mind uploading two of my favorite movies. 1, the departed. 2, body of lies. thanks again. your Fan"
+[V],HolyRoses,2010-12-14T01:00Z,"alright so, not exactly true here.  Weeds 1,2,3,7,9,12 do not play instantly.  Rest of the series plays instantly.  That is with DD turned on.
+
+Can take Weeds 1 and remux with subler with 0 tags, still doesn't play."
+[V],HolyRoses,2010-12-14T01:18Z,"so i went through action & adventure, action, adventure, animation, bio and here is what played
+
+a dangerous man
+from paris with love
+inception
+smokin aces
+tekken
+prince of persia
+robots
+star wars the clone wars
+toy story
+analyze this
+big daddy
+
+there is a lot more, but that is all i processed in the genres.  if its not listed, it didn't play.  plays fine with dd off or auto."
+[V],HolyRoses,2010-12-14T01:36Z,"downgraded to 4.0, works fine again with DD set to on."
+[V],HolyRoses,2010-12-14T01:46Z,"with 4.0 if you have DD set on. it doesn't appear to cache properly.  You have to select the other audio track and it starts filling the cache bar.
+
+If you set to auto it automatically starts filling the cache bar."
+[V],HolyRoses,2010-12-14T03:15Z,"another stupid thing
+
+set your audio language to something other than english.  Turn DD on.
+
+Play movie, starts instantly.
+
+select DD track now, still plays....
+
+dumb."
+[V],HolyRoses,2010-12-14T03:15Z,last comment in regard to atv 4.1 os.
+[V],HolyRoses,2010-12-14T03:28Z,"another f'ed up thing
+
+ok with 4.1 and dd on.
+
+its stuck now cant play.
+
+press down arrow to bring up cache bar until the chapters or ticks present themselves.  right click all the way to the end and let it go back to the menu.
+
+select movie again, this time it will play instantly and with DD..."
+[V],HolyRoses,2010-12-14T03:33Z,"ok, well that last tip seems to work for every movie and is pretty quick to do, like 10 seconds or so.
+
+seems to save the setting per movie as well.  can go in and out of different movies and the movies instantly play."
+[V],HolyRoses,2010-12-14T03:52Z,"only other option is just to wait.  eventually movie will start playing if you are patient.  dont advise that though unless you are on ethernet.  I think it downloads the entire movie or something before playing.  when done it behaves same way as if you would of pressed down arrow and skipped to the end, then select video again."
+,AS_WE_FELL,2010-12-15T23:25Z,"hey hr
+love your torrents. perfect quality
+
+can you possibly upload the dead silence movie for ipod touch"
+,JG7854,2010-12-16T00:27Z,"Holyroses! You are correct! I have tested with DD OFF and everything plays fine, turn it ON or AUTO and it does not work!
+Tried that chapter to end thing, and then play again and it works with DD ON.
+I am going to tell Technical tomorrow when they call me back, and see what they say! And ask when are they going to fix it!
+A big thank you, and for all the DLs, excellent quality."
+[V],HolyRoses,2010-12-16T00:57Z,"can try the other work arounds if you like.
+
+set your default language to like german.
+
+play movie, while movie playing hold own selector button, when menu pops up, select the DD track."
+[V],HolyRoses,2010-12-16T07:29Z,"you will have to let me know what they say.  im pretty sure it effects every single unit.  it would have to.  People saying it doesn't effect them just have their settings different.  to make things even, just remove your optical cable and then plug your hdmi straight into tv.  id be willing to bet everyone would then have these issues if they set their dd to on."
+,JG7854,2010-12-16T22:01Z,"Hi, I spoke to Apple Tech Support, they took all the details of how to make it play and that it has to be DD.  They said they would pass it on.  They still wanted to take details of the TV's and AV System I am using.  I hope they acknowledge the issue, and fix it for next time!  At least I can use my ATV2 now, and I am not going to update the second one I bought until I have backed it up so I can roll it back.
+Thanks again for your help, I think initially I was looking for the DD settings and turning that off on the AV system, not the ATV2, but now all sorted, it's the Apple product not my system that is to blame."
+[V],HolyRoses,2010-12-16T23:31Z,"probably wont get much results with those front line tech support people.
+
+i entered a ticket at bugreport.apple.com.
+
+something of an error on this large of a scale however I would think would be addressed without me needing to issue a ticket though."
+,mike571,2010-12-29T15:29Z,"May have been an issue with my system but, This DL had an issue with volume. 12/27/10. "
+,mike571,2010-12-29T15:30Z,"May have been an issue with my system but, This DL had an issue with volume. Error message Volume Not Mounted, previously...12/27/10. "
+[V],HolyRoses,2010-12-30T03:09Z,unrelated to this.
+,zengjansen,2011-04-14T09:39Z,stupid chapter-notification...

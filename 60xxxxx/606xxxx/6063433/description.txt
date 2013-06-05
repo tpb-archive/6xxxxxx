@@ -1,0 +1,196 @@
+------------------------------------------------------------
+SuperRAM FroYo by darkstone1337
+Version 1.5
+Release: 18-December-2010
+Thread: http://forum.xda-developers.com/showthread.php?t=870518
+------------------------------------------------------------
+
+------------------------------------------------------------
+If you don't know anything, SEARCH GOOGLE FIRST.
+------------------------------------------------------------
+
+
+What is SuperRAM FroYo?
+- It is an AOSP rom with some modifications added, but kept as close to stock as possible. The only thing that is modified is the keyboard, some menu options and the launcher.
+
+
+What is special about this build?
+- What is special about this build is that the entire Android O/S filesystem is stored in RAM before it is booted.
+
+
+What does this mean? 
+- Well, RAM is faster than NAND(ROM) and SD Card which in turn will make the build superfast too! Very fast. Very very fast!
+
+
+I don't understand what NAND(ROM) or RAM is!
+- NAND is a slower memory type (ROM) which is designed to hold data even after the phone is turned off. This is where your Windows Mobile operating system is stored.
+- RAM is a much faster memory type which is designed to hold information on a temporary basis. After your phone is turned off, the data in RAM is lost.
+- Running Android on your HD2 does not touch your ROM in any way! So when you turn off the phone and turn it back on, Windows Mobile will be loaded. No changes are made to ROM.
+
+
+Does this mean I'm going to lose the stuff that I put in Android when my phone goes off or crashes?!
+- NO. Only the operating system files for this build will be stored in RAM. User data and downloads will be saved to your SD card in a special file called data.img
+- Remember if your phone crashes in Android, nothing will affect your Windows Mobile operating system since this build runs off RAM.
+
+
+What other advantages does this build have?
+- Unlike normal builds which are ran from the SD card, this build will not stress your SD card nearly as much. This will allow faster transfer speeds and less chance of data corruption.
+- Battery usage will be less than SD card based builds as the operating systems files will be accessed from RAM instead of the SD card.
+- Quick android boot!
+
+
+Something isn't working properly!
+- First of all check the build thread by SEARCHING FIRST to see if there is a solution to your problem or if it is already listed as a known issue. If there is no solution and the problem has not been posted by someone else, ONLY THEN should you post here: http://forum.xda-developers.com/showthread.php?t=870518
+- Please include details about the issue, such as how to replicate the problem.
+
+
+
+
+
+
+------------------------------------------------------------
+
+
+Installation and Setup:
+
+Make sure that you do not have another Android folder on your SD card. If you do, then either rename the folder or back it up to another location and delete the folder.
+
+Copy the folders named Android and media to the ROOT of your SD card. If you don't know what the root of the SD card is, look here: http://uk.answers.yahoo.com/question/index?qid=20080521052942AAMW3kA
+
+On your HTC HD2, use file explorer to browse to the Android folder on your SD card. Run the program CLRCAD.EXE (nothing is supposed to show up when you run this program.). Then run haret.exe.
+
+You will now see a green HTC logo on a black background for a couple of seconds, then you will see nothing but a blank screen for a couple of seconds.
+
+After this, you will see the android unlock screen. Unlock the lock screen and go through the setup wizard. After this is done, import your SIM contacts if you have any.
+
+To do this, open the Phone app, press the Contacts tab, then press the Windows hardware button on your HD2 and select Import/Export. Select Import from SIM card. From here, press the Windows button again and select Import All. 
+
+
+
+
+If you do not see your SIM contacts then follow the instructions below:
+*****************************************************************************
+If you are using an existing data.img then you will need to delete the one that you are currently using, and copy over a fresh data.img that is included with this build. If this is your first time booting this build, then this does not apply to you.
+
+- Open the phone app and dial this code in: *#*#4636#*#*
+- You should now see a list of menus, choose the one named Phone information.
+- Scroll down to the bottom of the page and press the 'Turn off radio' button. Wait for your signal to drop.
+- Now press the 'Turn on radio'. Wait for your signal to be restored.
+- Now change 'Set Preferred Network Type' to GSM/CDMA auto (PRL). 
+
+After doing this, return to the home screen (press the Home hardware button on your HD2) then open the phone app again and follow the instructions on how to import your contacts as described earlier.
+
+YOU CAN ONLY DO THIS ON YOUR FIRST BOOT. YOU MUST KEEP THIS IN MIND.
+*****************************************************************************
+
+
+
+
+- After importing your contacts, you MUST reboot your phone. If you do not do this, then your data connection will not be enabled.
+- Hold down the end call hardware button and select Reboot.
+- You will now boot back into Windows Mobile. Run CLRCAD.EXE and haret.exe as described earlier to load Android.
+
+After this, the installation is fully complete and you can now start using Android.
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes:
+
+
+- I have included a 256MB data.img, however you can use any size that you wish if you have your own data.img.
+
+
+
+- After your first boot, make sure to delete the DATA folder on your SD card. It is stored under Android/root/data.
+- If you plan to reinstall the build again, make sure to copy back this folder from the ZIP file.
+
+
+- Robot voice issue may occur when in a call. If this happens, during the call press the LOUDSPEAKER button then END THE CALL. Do this exactly and every call after will no longer have this issue.
+
+
+- You are left with around 280MB+ free RAM after booting the build. This is enough memory for anything!
+
+
+- Build.prop is easy to modify, I have included a copy in /Android/root/system on the SD card. Modify this as you with and your changes will be copied over upon the boot of Android. If you mess something up, just delete the file and the changes won't be applied upon next boot. This goes for any file you put in the Android/root/ folder.
+
+
+- I'm not going to be like other chefs and say "THE BATTERY LIFE IS EXCELLENT I PROMISE" etc. Everyone's setup is different, just test the build for yourself!
+
+
+- Forget quadrant scores! If you're judging this build by quadrant scores then I pity you. This type of build is different from other builds, yes the quadrant scores may not be in the 2000+ range, but honestly, can you actually say to me that this build is slower than other builds that have a higher score? I sure hope not.
+
+
+- To delete LauncherPro just uninstall it from the Application Manager! Before you do this, make sure you install another launcher such and ADW Launcher or Gingerbread launcher which can be found from the Market free of charge.
+
+
+
+- The base rom is from AdamG's OxygeN Desire rom which has been modified by myself.
+- The initrd and CSSync updates is based on that from cedesmith. However, I've modified the initrd for my own build.
+- The PPP wrapper update is from LeTama's thread, version 0.7
+- The HaRet loader is custom made by NetRipper, thanks to him for helping me increase the initial ramdisk size limitation!
+
+For developers only:
+- The kernel included is hastarin's r8.6 eb_oldcam kernel, this has been modified for my build!
+- Kernel source: http://www.gitorious.com/~hastarin/linux-on-wince-htc/hastarins-linux_on_wince_htc
+- Patch: http://pastebin.com/6qjkb4Hh
+
+
+
+
+
+------------------------------------------------------------
+
+
+Bugs Fixed in version 1.5:
+- Data corruption fixed (framework force close)
+- App compatibility increased (skype, drocap2, other apps should now work)
+- SIM contacts fix (read above on how to get SIM contacts on your phone if you do not see your contacts)
+- Camera app force close on settings now fixed
+- Wifi tethering now working (use the Wireless Tether app included)
+- Unable to remove LauncherPro is now fixed, I've moved the launcher to /data (read above on how to change launcher)
+- UI sounds should now work for everyone
+
+Bugs Remaining:
+- Notification LED's only blink once
+- SetCPU unable to change CPU speed (not that I think that theres much need to do this anyway)
+- Possible PPP data issues for some people
+
+New Features:
+- Gingerbread keyboard now has a multi-language auto-complete dictionary (access this in keyboard settings and choose your language)
+- Added RTL support (thanks to Ambious for his modified framework file!)
+- Updated to Google Maps v5
+- Added Astro file manager
+
+
+------------------------------------------------------------
+
+
+
+Thanks to everyone at #htc-linux, #htc-linux-chat and at xda-developers for your help, guidance and support!
+Thanks to my beta testers! Thanks to Hastarin for pointing out the toolchain issue which cases high power usage in sleep!
+
+The first boot will take under a minute, subsequent boots will take much less time.
+
+I am running HTC HD2 Stock rom 3.14.405.2.
+My radio is 2.15.50.14, I have NO robot noise issue with the combination.
+
+

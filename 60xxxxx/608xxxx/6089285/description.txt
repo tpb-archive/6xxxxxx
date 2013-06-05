@@ -1,0 +1,20 @@
+Cisco IOS-On-UNIX is an internal Cisco application used by engineers for testing, proof-of-concept, and validating design.
+
+This is the Linux-based version.  It is similar in function to Dynamips/Dynagen/GNS3, but nowhere near as CPU/memory intensive.
+
+
+***************************************************************
+IOS On Unix - Cisco Systems confidential, internal use only
+Under no circumstances is this software to be provided to any
+non Cisco staff or customers.  To do so is likely to result
+in disciplinary action. Please refer to the IOU Usage policy at
+wwwin-iou.cisco.com for more information.
+***************************************************************
+
+These binaries are protected by a weak licensing mechanism.  Defeating it isn't hard, and you'll find the details on the Internet (Google is your friend).
+
+This application is not for the faint of heart.  You'll need a Linux box and experience with the Linux command-line and Cisco IOS CLI.  "How to" documents are out there as well (again, Google is your friend).
+
+This .torrent contains three images:  ipbase, adventerprise and a pagent image.
+
+As far as I know, this is the first "public" release of Cisco IOU.  Enjoy!

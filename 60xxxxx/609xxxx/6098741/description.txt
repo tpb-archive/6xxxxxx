@@ -1,0 +1,12 @@
+I'll seed when I can, so don't give up if there are 0 seeders for a while.
+
+This fixes the crash in the lava cave, and some other errors in the undub.
+
+All you need to do is replace the RuneFatoryWii.brsar in the sound folder on your .iso, and swap out the current fst.bin with the one supplied.
+
+For replacing, I suggest Wiimms ISO Tools. WiiScrubber (version 1.4 anyways) seems to only want to crash, and corrupt my isos in the process :(
+
+Be sure to back up your iso before you try to make any changes!
+
+
+p.s. If anyone was wondering, the crash was caused by the Ghosts you can find in the lava ruins. It was why some people also have experienced crashes in their barn, if they tamed one.

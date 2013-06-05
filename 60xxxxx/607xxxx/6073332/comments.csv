@@ -1,0 +1,87 @@
+User Type,Username,Date,Text
+,rgclick,2011-01-25T09:46Z,"Thanks for the Download, BUT I couldn't get it to work.  I installed Flex Server, pointed to license.dat file from LMTOOLS, when intall asked for license server typed in 27011@127.0.0.1 -- doesn't work.  Please advise.  I tried installing several times using all my known tricks, but can't get it to work.
+
+-Thanks again..."
+,Kramboa,2011-02-04T22:29Z,"Here is how I did it:
+
+Autorun, click ""Install Abaqus Product & Licensing""
+
+""Continue"" on prompt for Documentation.
+
+Under Installation type, choose ""License"".
+
+host ip: 127.0.0.1
+
+Choose ""Install and start..""
+
+Browse for the lincense (.dat) file in the crackfolder.
+
+Continue on ""license file not valid...""
+
+Choose where to install the license server.
+
+When complete browse to installation folder/License, run lmtools.exe
+
+In tab ""configure services"", set path to lmgrd.exe (in license folder) and to the abq6101.dat which you should copy to the installation folder. You have to filetype to look for (to .dat) when you browse for it. Check ""Use services"" and ""Start server at power up"" if you don't want to start it manually each time. 
+
+Click save Service.
+
+In tab  Start/stop/reread click ""Start server"".
+
+Return to the installation and install the main programme.
+
+Use ""27011@127.0.0.1"" as License server 1.
+
+You will probably need to allow some traffic through your firewall during the hoel process.
+
+Run Abaqua CAE!"
+,clkgtr1,2011-02-15T05:27Z,"@ Kramboa
+
+Thanks so much for the step by step instructions for installation.....was having a  tough time getting it to work,..its working now for me :))"
+,s23252,2011-02-22T10:51Z,"Excellent work!!! Keep it up!!
+Just follow Kramboa step by step. If it is not working you didn't follow it step by step."
+,_Sensei_,2011-03-01T01:26Z,Not working Unexpected error 193. Had been working fine for a while.
+,_Sensei_,2011-03-04T22:18Z,Works fine now that I installed an older driver for my ATI Graphics card
+,guoho,2011-03-09T21:51Z,"Hello.
+I have a problem:
+1. I extract iso.
+2. I cliced in ""autorun""-like wrote Kramboa, but nothing happend.
+3. So, I cliced in ""setup"". Instalation started, but there wasn`t ""Install Abaqus Product & Licensing"".
+I try to instal with use ""setup"", but it didn`t work.
+Could you help me?"
+,R.Reed,2011-03-10T15:42Z,"Thanks for the torrent, very useful so I can work at home. However I have a problem running the program:
+
+I followed Kramboa's instructions precisely, and ABAQUS seems to install correctly, but when I try to run it, I get ""The program can't start because ABQUtiZlib.dll is missing from your computer. Try reinstalling the program to fix this problem.""
+
+I'm certain I followed the procedure correctly, I have tried twice, uninstalling after the first attempt.
+
+I'm running Windows 7, could this be an issue?"
+,flocha,2011-03-26T11:33Z,sorry but where do I find the license file ? Thanks
+,flocha,2011-03-26T11:35Z,got it
+,govil,2011-04-27T18:58Z,"Can someone please help me with the installation of the documentation. I could install the product along with the license properly. 
+
+Thanks in advance!"
+,jmd83,2011-05-11T03:45Z,"@ guoho
+
+you are probably trying to access the Autorun directly (at the beginning it did not work for me) since it is a .iso file you have to del with it as a DVD so u can either burn the file or use a Virtual clove drive (http://www.slysoft.com/en/virtual-clonedrive.html)
+@kramboa... great work!!"
+,catch_arnnie,2011-06-10T14:30Z,can somebody plz give me the .dat license file ? i already have the software but i dont have the license file.. 
+,gentius,2011-07-05T00:41Z,"Hi,
+I must be stupid because when I run lmtools.exe and fill the tab I try to save ""save service"" but I get this message: ""this item cannot be modified at this location. Please refer to the ""borrowing"" Tab to make changes to this item."" I tried to change the borrowing Tab but I didn't work. Someone has some ideas.
+Thanks"
+,dborn,2011-10-12T04:25Z,"Thanks heaps Kramboa. @guoho, i had the exact same problem. What you have to do is mount it on a dvd or much easier, a virtual dvd. Try poweriso.com
+works perfectly then. =)"
+,chathura4,2011-10-31T13:52Z,Cheers m8 its works fine nw thank you
+,tejasshah,2011-12-13T14:43Z,"how about installing it on linux.
+does it work on linux 32 bit i hav ubuntu 10.10
+kindly help me with installation procedure with linux"
+,shivanmk,2011-12-17T19:31Z,"Hi all, I have some problem with the installation of product. I have followed all the instructions but when I try to install product it gives me an error ""It appears that there is no FLEXnet licence server running on 27011@127.0.0.1"". I've started the server again bet always the same erroe. Somebody can help me?? Thanks"
+,velasken,2012-01-26T14:21Z,i have the same problem as shivanmk. could someone help me?did you solve it shivanmk?
+,velasken,2012-01-26T14:21Z,btw Great work Kramboa!!!!
+,kesalla,2012-02-10T15:46Z,"hello .. i'm having a problem starting this program up .. first of all there is no desktop shortcut or start command .. so in the ""exec folder"" i'm trying to run using ""ABQcaeK"" .. and it gives me an error involving some"".dll"" file .. any ideas please ?!!"
+,altoiddealer,2012-02-13T05:19Z,"@shivanmk I had the same problem ""It appears that there is no FLEXnet licence server running on 27011@127.0.0.1"".  I figured out how to fix that. Open lmtools and go to the tab ""Server Status"" and click ""Perform Status Enquiry"". It will then show some info including ""License server status: 27000@xxxxxx"", where xxxxx is probably your Windows Username (which it was for me). Use that info instead and it will work :)"
+,tizacox,2012-04-02T16:33Z,"I'm having a problem with the .dat file. 
+
+I copy it from the crack folder into the SIMULIA->License folder. Then When I get to the step where I need to set path to lmgrd.exe (in license folder) and to the abq6101.dat , when I try to save it, it says ""the license/file does not exist where specified"".
+
+Can anyone help pleaaassseee..."

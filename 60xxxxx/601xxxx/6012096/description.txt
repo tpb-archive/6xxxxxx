@@ -1,0 +1,37 @@
+DVDFab 8.0.5.5 Updated!
+* New: Updated VSO burning engine.
+* New: VSO pattin coffin driver will not be installed by default now, since VSO burning engine doesn't need it on Windows XP SP3 and above.
+* New: Updated language files.
+* New: Some minor changes and improvements.
+* Fix: A freeze problem when using DXVA decoder in certain cases.
+* Fix: A freeze problem when using CUDA 2-pass encoding in certain cases.
+
+DVD Copy:
+* New: Added support for a new copy protection as found on "The Twilight Saga: Eclipse" (US).
+* Fix: A problem that PathPlayer may remove playable content in certain cases.
+
+DVD Ripper:
+* New: Added profiles for AC3 encoding.
+* New: Added logic to select suitable bitrate automatically for 2.0 or 5.1 audio encoding.
+* Fix: Framerate should be 23.976 instead of 29.97 in certain cases.
+* Fix: Output video may be cropped incorrectly for anamorphic widescreen source in certain cases.
+* Fix: MP4 AAC 5.1 wrong channel problem when source audio is AC3 or DTS.
+
+Blu-ray Ripper:
+* New: Added profiles for AC3 encoding.
+* New: Added logic to select suitable bitrate automatically for 2.0 or 5.1 audio encoding.
+
+Blu-ray 3D Ripper:
+* New: Subpicture can be rendered now.
+* Fix: Left eye image may be wrong in certain cases.
+
+Blu-ray to DVD Converter:
+* Fix: PAL Blu-ray can be converted to DVD correctly now.
+* Fix: An authoring error which causes the output DVD cannot be read by DVDFab again.
+
+System Requirements:
+- Windows 7/Vista/XP/2000 (32-bit/64-bit)
+- Pentium II 500 MHz
+- 256 MB of RAM
+- 10 GB of Free Hard Disk Space
+- A DVD-R(W) or DVD+R(W) Drive

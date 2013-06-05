@@ -1,0 +1,78 @@
+User Type,Username,Date,Text
+,amscdn,2010-12-30T09:27Z,"Thank you sooooooooooo much for uploading these... great to have good copies of these at last! I wouldn't mind seeing star trek- enterprise or even the original series ripped in this style, if you were looking for something else to rip :D Thanks again!"
+,lebac,2010-12-30T13:11Z,"Thanks.
+You deliver the best as always."
+,kurik,2010-12-30T19:21Z,"@meech
+How come all these encodes are done at 23.976 fps? Shouldn't they be 29.970?"
+,ipimen,2010-12-30T20:02Z,"Thanks for the uploads
+I was really bummed with the rips I have because they had the credits cut. I never watch the credits but the Obsessive Compulsive in me thinks it's just wrong...
+
+Thanks for these rips"
+,Duder82,2010-12-31T20:46Z,"@kurik
+23.976 is accurate."
+,Duder82,2010-12-31T20:46Z,"Oh yeah, thanks for another great season."
+,kurik,2010-12-31T22:01Z,"@Duder82
+Pardon my ignorance, but how is that correct? The series was shot on video (ntsc), not film and the source of these encodes are dvd (ntsc). 23.976 would indicate it was shot on film, which is was not. Clarification would be appreciated."
+[V],meech,2011-01-01T05:53Z,"@kurik,
+It's kind of a lengthy discussion.  But see this quote from: http://forum.doom9.org/archive/index.php/t-27759.html
+
+""there isn't much real 29,97fps video out there.
+Most videos are telecined from the original 24fps to 29,97fps to be compatible with the NTSC standard.
+So one uses IVTC (Inverse Telecine) to get the original 24fps (23,976fps) back and this has following advantadges:
+1) smooth playback. if you keep 29,97fps, you'll have quite jerky playback (not that smooth because of repeated frames)
+2) Much better quality by same bitrate
+
+Of course you've got to keep the video in 29,97fps, if it's real 29,97fps, but that's rather rare""
+
+The way the show was shot, aired on t.v., and stored on dvd are kind of 3 different things.  It gets kind of technical (over my head at least), but if you look into 2:3 pulldown, interlacing, telecine (and de-telicine) it might come together better.  This link gets pretty technical if you want to get into the grit of some of it: http://www.doom9.org/index.html?/synch.htm
+
+The bottom line that I figured out when first encoding these (I first experimented with both 29.97 and 23.97) is...that most Star Trek series were actually shot with variable frame-rates.  That is, some scenes were shot in 23.97 and some (such as some special effect scenes) in 29.97.  If you keep the true variable framerate, you can't successfully stream these to your t.v. via most media servers.  The variable frame-rate wreaks havoc on them.  So you are left with having to choose between forcing 23.97 or 29.97.  Since most of the scenes were shot at 23.97, it makes sense to force that.  Yes, a few minor 29.97 scenes may look jerky, but they are few and far between. Nobody has complained yet.  If we forced 29.97, nobody would download the torrent.  I tried that, and most scenes, in particular when the camera pans in/out/side look horribly jerky.  Hope some of this helps it to make sense.  All mumb-jumbo tech talk aside...I've tried both, and 23.97 definitely ""looks"" better...and isn't that the bottom line?"
+,Duder82,2011-01-01T18:17Z,"Yeah, the ""shot on (ntsc) video"" is kind of a misnomer as well.
+
+Most TV in the past 25 years has actually been shot on either 16mm or 35mm film, then transferred (telecined) to video for cutting, editing and broadcasting.
+
+Obviously this hasn't been the case for some years now, but that's largely the reason why it's highly unlikely that we'll see any kind of bluray releases of TNG, DS9 or VOY, or any other slightly older tv series any time soon.
+
+Cleaning up the original 16mm or 35mm film would be enough work as is, but because all the cutting, editing and special effects for these was originally done on video, that part of the process would have to be completely redone."
+,piper1,2011-01-06T08:31Z,Thanks for this and all your other SF uploads. The quality is fantastic.
+,Skram0,2011-01-06T11:51Z,"Thanks for these rips. I've been watching the series again for the past month from 350MB 869Kbps DivX 5 rips. I'm sure these are way better quality. It's just a bummer that I'm already on season 5, which doesn't seem to be up yet. But I'll archive these anyway. :)"
+,gnubeest,2011-02-11T19:03Z,"I'll add to these comments a month later because I was gonna thank Meech again anyway and because I can't pass up a chance to look utterly ungrateful since I've already downloaded nearly all of his TNG-era rips.
+
+But ... while we're on the tech talk about these otherwise awesome rips, the frame jitter drives me a bit nutty in all of these, and I've watched your rips through three series. If the DVDs are already 480p, that's on whoever mastered it and you're doing pulldown on something that's already 29.97 instead of a full 60Hz frame that has more 24-frame fields between it, so you're not really getting more information out of it, you're just changing the timing.
+
+DVD-Video is all stored 50/60 interlaced, it just has an in flag to set its frame to 25/30Hz and an out flag to show progressive support; none of the video is actually ever really stored as a progressive image, but some NTSC content ends up that way at some point during mastering. I even see it on a few DVDs from films, which on some progressive-scan players ends up looking like these rips do.
+
+TL;DR, it doesn't matter to me, these are still some of the better rips out there, so thank you!"
+[V],meech,2011-02-21T00:15Z,"Unfortunately, there's really no way to overcome the variable frame-rate issue for these series.  If you choose ""same as source"" for frame-rate, your encoder gives you a neither steady 29.97 nor 23.976 fps.  It rather comes out variable, with the frame-rate shifting, depending on what scene your watching.  It looks fine in something like VLC player, which handles variable frame-rates.  However, dlna software chokes on it and it's not watchable if stream it to t.v.   I posted to a number of video-encoding forums when first attempting the different Star Trek series because of the variable frame-rate conundrum, and the consensus was to force 23.976 or 29.97.  29.97 came out extremely jerky in the majority of scenes, especially in any shots that involved camera panning. 23.976 was the best trade-off and to me, the minor jitter is barely noticeable in the few scenes it occurs.  I've tried many different combinations of settings. In all honesty, if anyone has a better idea of how to handle the variable frame-rate issue, I am open to solutions."
+,LocutusBorg,2011-02-21T13:00Z,"Hi Meech
+First i want to thank you for all your work on these. I have DL all the SciFi you have.
+
+ST Voy Season 4 has a bunch of bad files. Do you know this? If you want details and names let me know"
+[V],meech,2011-03-07T01:49Z,"@LocutusBorg:
+Yes, I'd like to know.  There have been many downloads of this torrent and you are the first to report this.  Which ones are you having troubles with?"
+,LocutusBorg,2011-03-08T12:33Z,"I forgot i even posted this. I was wrong about the files. There were 9 of them that would not play on my HTPC. They would freeze in the player with the folder screen instead of video. I checked them on my lappy and they played fine.
+I had to do a fresh install because SP1 b0rked my machine. They play fine now. not sure if ill figure out why.
+
+Suffice it to say, everything is good. Sorry for any confusion
+Locutus"
+,AmazingPirate,2011-06-26T08:07Z,"Great upload as always! Thanks again!!!
+
+BTW, I don't know if it's just me, but the volume is quite low even if I max the computer and player's volume. I use VLC. Could that be it? But all in all, awesome still.
+
+Thanks again!"
+,hawksuper,2011-09-17T05:36Z,"I really appreciate the Voyager series, Meech! It takes me a while to download, but they are worth it. It's especially nice to have subtitles. Any chance you have Enterprise?"
+,SwedishMeatball,2011-10-17T17:29Z,"Meech: 
+Thank you for the wonderful torrents. I have only watched the first episode and it is awesome. Keep doing single season torrents, it makes life much easier. However, might you be able to do a torrent of the extras for the entire series?
+
+Downloaders:
+My first few downloads, I was concerned about exceeding my data allocations or slowing the downloads by using uploading for the available bandwidth. I set the uploads to 1kb/sec max.
+
+I found out that my provider wasn't going to slow down or stop my internet access and that it did not affect my downloading speeds. So, I opened the uploads up fully. 
+
+The other side of this is that I have noticed a huge percentage of leechers. I am seeding everything that I have downloaded, until I reach at least 2/1 ratio. Please give back to the community! Trek attitude says to give as much as you can, because it makes you a better person!
+
+My uploads are set to unlimited, most of the time, on torrents I have completed.
+
+The ones I am still downloading, I am throttling the upload back, if my download speed is less than my upload speed. So, if you are downloading this torrent, set the upload limits to 0 (zero) so they are unlimited! I will respond in kind!"
+,TheSyPhER,2011-11-18T07:34Z,"Excuse my ignorance, but I downloaded all 7 seasons of this show, and for some reason the audio does not work for this season. I use VLC and was surprised when it didn't work, tried WMP and still no joy. Any ideas or help?"
+,Birdsand,2012-04-23T12:13Z,Problems on WD live SMP. First 2 eps of season 4 won't play. Skipped through the rest and seem ok. Thank you for the upload.

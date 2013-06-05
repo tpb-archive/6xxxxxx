@@ -1,0 +1,98 @@
+dragora-2.1-i486.iso
+
+I am pleased to announce the version 2.1 of Dragora.
+Dragora is a powerful and reliable GNU/Linux distribution created from
+scratch with the intention of providing a stable, multiplatform and
+multipurpose operating system. Built with 100% free software.
+The homepage is at http://www.dragora.org
+The latest version is now available in 64 bits (Pure). Featuring:
+Runit as default init scheme, a simple and powerful package system,
+Linux-libre 2.6.34.7, the GNU C Compiler Collection 4.5.1, and the
+GNU C library 2.12.1. Also, Xorg 7.6+ with Xfce 4.8pre2 + patches,
+icewm, and scrotwm. The Bluetooth subsystem was added, a better
+Printing support, along with the Scanner support. This version comes
+with Java through Icedtea6, GNU IceCat 3.6.13 + Tor + Polipo and
+the development version of Gnash.
+*** Changes in this version:
+
+| The introduction of the new architecture for machines of 64 bits.
+| Linux-libre 2.6.34.7, Binutils 2.20.51, GCC 4.5.1, Glibc 2.12.1+,
+  Udev 164, Coreutils 8.8, Util-linux-ng 2.18 + patches, Diffutils
+  3.0, Findutils 4.4.2, E2fsprogs 1.41.14, Xfsprogs 3.1.4, Jfsutils
+  1.1.14.
+| Completed the GNU C compiler collection. (C, C++, ADA, Fortran,
+  Java, Objc, Objc-C++).
+| Added new programming languages:
+  Tcl/Tk 8.5.9, CLisp 2.49, Guile 1.8.7, Lua 5.1.4.
+| Added various version control systems:
+  Git 1.7.3.4, Mercurial 1.7.2, Subversion 1.6.15, Bazaar 2.1.3.
+| Added PulseAudio 0.9.22, OpenAL 1.12.854, JACK 1.9.6,
+  FFmpeg 0.6.1, GStreamer 0.10.30, ALSA 1.0.23.
+| Support of various multimedia formats and codecs.
+| Added tmux 1.3 as alternative to GNU Screen.
+| Added Emacs 23.2, Vim/GVim 7.3 + patches.
+| Java support through Icedtea6 1.9.3.
+| JavaScript support with Rhino 1.7R2.
+| Added support for the Bluetooth subsystem.
+| Added Scanner support using SANE.
+| Better Printing support.
+| Support for Broadcom cards using the firmware from the OpenFWWF project.
+| Updated Xorg to the release 7.6, including xorg-server 1.9.3,
+  Mesa 7.8.3-rc1, the latest drivers, fonts, applications and libraries.
+| Updated Xfce to the development version 4.8pre2 + patches taken
+  from the upstream. Added a few "goodies" like: Parole 0.2.0.2,
+  Ristretto 0.0.91git, Thunar-volman 0.5.3, Tumbler 0.1.5, Xfburn 0.4.3,
+  xfce4-netload-plugin 1.0.0, xfce4-notifyd 0.2.0 and xfce4-taskmanager
+1.0.0.
+| Added Tor 0.2.1.28 with Polipo 20091115 for protect your privacy.
+| OpenSSL 1.0.0c and OpenSSH 5.6p1.
+| The package system has been "modularized". Now contains separated commands
+  to install, remove, upgrade Software packages. The main order for the
+  package system is called `pkg'.
+| Improvement on the init scripts.
+| Various bug fixes in the installer.
+| Inclusion of various utilities and unpopular programs.
+  Check the distribution!
+| Many upgrades and corrections.
+*** You can get Dragora from the links below:
+ 
+http://dragorastorage.usla.org.ar/Dragora-2.1/dragora-2.1-i486.iso 
+http://dragorastorage.usla.org.ar/Dragora-2.1/dragora-2.1-i486.iso.sha1sum 
+http://dragorastorage.usla.org.ar/Dragora-2.1/dragora-2.1-i486.iso.sig 
+http://dragorastorage.usla.org.ar/Dragora-2.1/dragora-2.1-x86_64.iso 
+http://dragorastorage.usla.org.ar/Dragora-2.1/dragora-2.1-x86_64.iso.sha1sum 
+http://dragorastorage.usla.org.ar/Dragora-2.1/dragora-2.1-x86_64.iso.sig
+
+Or well, choose a mirror from the mirrors list: 
+http://www.dragora.org/wiki/:en:descarga
+*** Compare the SHA1 checksum to verify the integrity of the ISO image:
+
+05e757d921c8ff4fb4e06b10e10734c666a51eba  dragora-2.1-i486.iso
+3df00d3472b4f43d26e000df22b3843b5dfbbf57  dragora-2.1-x86_64.iso
+
+This release is also GPG signed, you can check the signature using `gpg'.
+
+"The world is full of Kings and Queens
+ Who blind your eyes and steal your dreams"
+
+This release is dedicated to the memory of the grand wizard of classic Rock:
+
+Ronnie James Dio.
+
+*** Notes:
+
+Thanks to my Family and thanks to my own Family for supporting me!
+
+Undoubtedly, this version represents the evolution of previous versions
+of the project, which means that it does not end here. Dragora never
+received financial support from a University, Foundation, Government
+or Enterprise. For this reason, any donation is appreciated.
+
+Take a look at: 
+http://www.dragora.org/wiki/:en:informacion_general:ayuda_al_proyecto
+
+Best wishes,
+Matias A. Fonzo, creator and maintainer.
+
+
+05e757d921c8ff4fb4e06b10e10734c666a51eba  dragora-2.1-i486.iso

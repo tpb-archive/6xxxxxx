@@ -1,0 +1,12 @@
+User Type,Username,Date,Text
+,wolfenstein3d,2012-01-13T16:11Z,"I am found how to change resolution.
+hexstring ""40010000F000"" that represent 320x240 and change it to ""800700003804"" it resolution 1920x1080. Its reverse byte order
+40 01 00 00 F0 00
+(40 01 reversed order byte) (01 40 hex) = (320 dec)
+(F0 00 reversed order byte) (00 F0 hex) = (240 dec)
+1920 dec = 0780 hex reverse it and get 8007
+1080 dec = 0438 hex reverse it and get 3804
+insert between them separator ""0000""
+and we finally get 
+""800700003804"""
+,wolfenstein3d,2012-01-14T21:22Z,"For unlocking 60 fps use hexeditor find string ""maxfps"" near this text you will find number 30 change it to 60 now run game use console and write ""cl_maxfps 60"" until now game will always use 60 fps and cant change to 30 back"

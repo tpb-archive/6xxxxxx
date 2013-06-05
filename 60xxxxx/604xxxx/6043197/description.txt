@@ -1,0 +1,73 @@
+The world's best text editor is coming to Mac! Based on the popular Windows text editor, UltraEdit for Mac offers a myriad of tools that make it ideal for anything from basic text editing, to a full-fledged development in languages such as C, Javascript, XML, PHP, Perl, Python, and much more. UltraEdit for Mac includes your favorite UltraEdit features such as Find in Files, Replace in Files, FTP, macros, scripting, column/block mode, and a lot more.
+
+Enhancements in RC:
+===================
+- Sort
+  * Individual file
+  * All open files
+  * Merge sorted results from all open files
+- Added Preferences option not to show FTP log in output window
+- View menu font options
+  * Set Editor Font
+  * Set Hex Mode Font
+  * Set Column Mode Font
+ 
+ 
+Fixed in RC:
+============
+- Bookmarks appear to be distorted by line numbers displayed within 
+  them 
+- "Add Script" allows selection of multiple scripts, but only adds one 
+- Scrolling left/right doesn't work in UE although it does in other 
+  apps 
+- No support for Magic Mouse Gestures 
+- Bookmarks disappear but still work 
+- Replace in Selected Text with Column Mode selection doesn't replace 
+  all matchng strings 
+- SPACE is not accepted for specifying macro shortcuts when recording 
+  macro 
+- Can't paste content copied to clipboard from Eclipse 
+- PDF document displayed incorrectly when opened in HEX mode 
+- Lines containing find string dialog does not position to correct 
+  line when pressing Goto button 
+- No vertical space between adjacent code folding icons 
+- Display of line content is wrong when trying to select folded text 
+  in XML file 
+- Collapsed nodes become uncollapsed when text is cut from file 
+- Page Breaks not displayed as expected even if Page Breaks as Lines 
+  selected 
+- Folded lines unfold when new line is inserted underneath folded 
+  block 
+- Blank lines inserted when copying/pasting from other applications to 
+  UE 
+- Line numbers 1000 and greater get pushed off the screen of an unsaved 
+  file 
+- No indication of failure to connect to server when using SFTP 
+- "Home" icon is subdued in Remote Open dialog 
+- Need "No Highlighting" option for "Highlight new file as" 
+- Can't sort FTP directory listing by clicking on column headers 
+- Page Down is not mapped in default key mapping 
+- Search -> Goto Line Number positions to wrong line 
+- Boomarks do not work in very large files 
+- No prompt for password when connecting with account where password 
+  not included 
+- Crash with SFTP _only_ over 3G/iPhone 
+- Error received while retrieving files via SFTP 
+- Users cannot control whether output window is opened with every FTP 
+  connection 
+- Hyphenated folders listed incorrectly in PUI file 
+- All attempts to connect to FTP server fail with "A libcurl function 
+  was given a bad argument" error 
+- Crash when opening files via FTP from Remote pane in File View 
+- Toggling ruler displays gray bar at bottom of active file 
+- No error message with SFTP account with bad user name 
+- Changing fonts with large files takes a very long time 
+- Crash when attempting to open file via FTP 
+- Crash while opening/saving files via SFTP 
+- Crash when opening remote file 
+- In Mac format files line terminators look exactly like TABS 
+- Crash when attempting to connect to server/download file via SFTP 
+- Crash occurs when saving a remote file using SFTP 
+- Connecting to vsftpd server takes an extremely long time 
+- Search fails with "Highlight all items found" selected 
+- Request for wider pipe (caret) 

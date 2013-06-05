@@ -1,0 +1,58 @@
+This is the same release as evilsperm, however, I converted the .vdi to .vdmk to allow this virtual image to run on Vmware workstation and Vmware fusion.
+
+Copyright (C) evilsperm
+*
+* This software is distributed under the terms of the GNU General Public
+* License ("GPL") version 3, as published by the Free Software Foundation.
+*
+
+
+This is my latest VM release to keep things on the legal side =)
+
+
+Account info to get you started:
+
+Username = evilsperm
+Password = password
+
+sudo su = password
+
+--------------------------------
+
+This is the latest PSL1HGT SDK release with ps3tools installed from hackerchannel.
+You can build hex's for all of your dev boards as well as program apps for the PS3.
+I have included the latest tools from fail0verflow at the time of this VM release 1.4.2011
+You should check their git regularly and update them though =)
+Also included are tools from kakaroto, oopo, aerialX (make sure to check all of their git repos as well)
+
+Nearly all PS3 keys are saved in ~/.ps3
+It is up to you to add the rest as they are released.
+
+--------------------------------
+
+Some thanx for everyone in the scene:
+
+fail0verflow, geohot, Mathieulh, marcan42, AerialX, OoPo, KaKaRoToKS, waninakoko, hackerchannel
+And all the others I have left out, without all of you this scene would be nowhere.
+
+
+Check http://rebug.me site regularly for updates to this VM and all of the latest news on Rebug!
+
+If you have any questions on how to use this please post at one of the many PS3 News sites.
+ 
+http://psx-scene.com 
+http://ps3news.com 
+http://ps3hax.net
+
+
+I was running into issues signing things last night in the VM, it was taking 8-10+ mins. to sign anything. This is the fix that was twitted (it has to do with the way virtualbox captures the mouse).
+
+Naha09 
+@KaKaRoToKS if using evilsperms vm so if anyone has it disable mouse integration at the bottom left and move mouse in vm window for entropy
+
+KaKaRoToKS
+@diogomontenegro move your mouse to create entropy (generates random data for the signature)
+
+Just to clarify that in english for you guys lol this is what it means.
+on the VM push the right CTRL + i 
+The mouse will capture into the VM then when your signing your file shake the mouse around for a few seconds (or longer if you want) and then it will take anywhere from 30 seconds to 1 min. to sign a file.

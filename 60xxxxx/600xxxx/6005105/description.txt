@@ -1,0 +1,90 @@
+RELEASE DATE : 02-12-2010           PROTECTION : Steam                  
+GAME TYPE    : Action               DISKS      : CRACKED UPDATE 
+
+Release Notes: 
+
+The Skid Rowdies are looking new blood to fill up the ranks. 
+We're a professional team of dedicated sceners with big mark 
+under sceners. We believe on the ground idealism of the root 
+of the real old school scene. We do all this for fun and 
+nothing else. We don't earn anything on our hobby, as we do 
+this for the competition and the heart of what got the scene 
+started in the mid eighties. 
+
+If you think you got something to offer, then don't hold back 
+n contacting us as soon as possible. 
+
+
+
+twice the fun / double the trouble
+
+
+On with the update release information:                       
+
+Shank Update 1                                          
+
+Fixed:                                                         
+
+1. Shank runs at double speed                               
+
+This was caused by refresh rates that we didn't support. A fix 
+as been made to add support for arbitrary refresh rates, and  
+the game should run fine now.                               
+                                                                   
+2. Achievements not unlocking                                 
+
+There were some instances where a disconnect from Steam would  
+cause users not to unlock a trophy. We put in a check so that 
+on level start it will award any trophies that you earned but  
+haven't been awarded yet.                                   
+
+Please note that we were unable to reproduce this issue in    
+house, so we have no way of knowing if this fix resolves the  
+issue. If it doesn't, honestly we're not sure how we would go 
+about resolving the problem.                                 
+
+3. Game does not load your save game                                                           
+
+So far, we've been unable to reproduce this issue, but we made
+an educated guess and put in a possible fix.                                                            
+
+Additionally, it's been reported that a workaround is to enter 
+a co-op game, then return to the main menu. This then resolves 
+your save/load issue.                                        
+
+4. Shank needs to activate every time we launch the game       
+
+We've fixed this issue - in this update, activation will no    
+longer be necessary.                                           
+
+Also: After the update, a file related to activation may       
+remain on your machine. If this file is present on your       
+machine and you wish to delete it, you will find it in your   
+shankbin folder. The file is named "activation.x64.dll."   
+
+5. Game displays a black screen instead of gameplay           
+
+This has been narrowed down to graphics cards that don't     
+support pixel shaded 3.0. Unfortunately, our game requires    
+ps3.0 to run.                                                  
+
+6. Game loads, then shuts down immediately                  
+
+The libraries that Shank uses requires SSE2 instructions. If   
+his happens to you, then most likely your CPU does not       
+support SSE2. We now adding a warning so the game lets you    
+know the reason it is shutting down. The most frequent example
+of this is the Athlon XP CPU.
+
+Greetings: 
+
+Salutes to our old Amiga friends from: 
+
+FAIRLIGHT - RAZOR 1911 - VISION FACTORY - PARADOX - QUARTEX 
+DCS - CRYSTAL - ZENITH - ACCESSSION - ALPHA FLIGHT - PRODIGY 
+THE COMPANY - LEGEND - TRSI - ORACLE - ANTHROX - CLASSIC 
+
+Salutes to our new friends in: 
+
+UNLEASHED - TiNYiSO - BReWErS - RADIKAL - POSTMORTEM - SHOCK 
+FAIRLIGHT - CRUDE - VACE - ReUnion - OUTLAWS - GENESIS

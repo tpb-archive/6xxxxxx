@@ -1,0 +1,373 @@
+User Type,Username,Date,Text
+,mazran01,2010-12-06T10:32Z,what is eipped???
+,cdur,2010-12-06T14:11Z,read it -  Ripped: Foreign Languages
+,myers23,2010-12-06T23:50Z,"some Anti Virus's are showing win32\rld.dll as a virus
+
+DONT WORRY IT IS A FALSE POSITIVE"
+[V],Shroo,2010-12-07T01:23Z,"you will require regfix with this one link:
+4shared(.)com/file/JcnSRJr0/regfix-TRON
+
+Copy contents of this rar file to Tron Evolutions root folder:
+
+1. run Uninstall_REGGIES.reg
+2. run reg.exe as and admin
+
+How to run as an admin
+
+Right click reg.exe you should see run as administrator
+
+You must do all above or the game wont work!"
+[V],Shroo,2010-12-07T01:30Z,"This one is for XP users follow same installation instructions above.
+
+
+.4shared(.)com/file/UECKoJpT/regfix-TRON-XP"
+,myers23,2010-12-07T14:18Z,i got this running on win 7 x32 by using the xp reg and ran in xp service pack 2 compatibillity
+,RMJ13,2010-12-07T15:44Z,"shroo can,t follow your link anywhere to right back here!  I did a search on 4share but it is not there !"
+,royhere,2010-12-07T17:34Z,"""hot"" ""file"" 
+dot
+
+""com""
+
+/dl/
+87821965/
+2b71f4d/
+reg fix-
+TRON dot
+rar dot
+html
+
+ Delete spaces and dot and use  ""."" for dot 
+ download from here...
+
+ windows 7 user fix..
+
+ only here 14kb file in winrar format"
+,royhere,2010-12-07T17:35Z,"delete """" , spaces and go to link .. very difficult to paste the link here"
+,RMJ13,2010-12-07T18:16Z,"Need the xp FIX, I got the game to work on 7 ,I just hate 7"
+,RMJ13,2010-12-07T18:21Z,"shroo,s  xp link finly worked  testin now"
+,RMJ13,2010-12-07T18:29Z,"didn,t fix anything for me game still crash pc ! Maybe skidrow will address this issue!  I have never had a game crash my pc before! I have to run Just cause 2 and MOH on 7  but I hate swapin my hdd just for those 2 games"
+,royhere,2010-12-08T12:20Z,"game works ..
+
+just follows the instruction,
+
+i am play on windows 7 64bit
+
+. game have 1280*960,1280*1080,800*600,680*480 and 1020*768.. but no 1280*720, 1366*768 ..
+
+disney studio make a very big mistake"
+,Shoobox,2010-12-08T13:32Z,"@royhere
+followed the instructions doesnt work win 7 32bit,
+tried the new reg fix, click on launcher nothing happens at all."
+,Shoobox,2010-12-08T13:47Z,"its obvious that shroo rushed this game out, guess theres a first time for every ripper,
+never had problems with shroo games b4, im going to reloaded for this game"
+[V],Shroo,2010-12-08T14:34Z,"@Shoobox
+
+try using xpfix, and runnin all as an admin remove old reggies, should be fine "
+,Shoobox,2010-12-08T15:27Z,"@royhere 
+i removed all all registry manually,
+tried the xp reg fix,
+ran as admin all it did was pop up real quick and dissappear, couldn't even see it, it was that quick
+also made sure to extract and run under desktop, not my usuall D:\ drive,
+never had problems before with shroo not sure at this point, tried running in compatibiltiy"
+,Shoobox,2010-12-08T15:37Z,"@shroo for my above comment
+typed royhere by mistake"
+,Shoobox,2010-12-08T16:06Z,"ok got it working even fixed resolution to adjust to my monitor
+
+if you cant get higher res try this
+(ive only tested in wind 7 32bit)
+
+go to
+C:\Users\username\Documents\Disney Interactive Studios\Tron Evolution\UnrealEngine3\GridGame\Config
+
+
+http://i1119.photobucket.com/albums/k630/Shoobox/gridengine.png
+
+then open gridengine.ini with notepad:
+change your res as desired like in picture:
+
+http://i1119.photobucket.com/albums/k630/Shoobox/tronreschange.png
+
+then it should work:
+
+http://i1119.photobucket.com/albums/k630/Shoobox/GridGame2010-12-0810-02-17-66.png
+
+thanks shroo for taking time to help
+
+"
+[V],Shroo,2010-12-08T16:11Z,"This game is tricky with registry entries, make sure that reggies pointing to right folder, if you know how to manually access them. let me know.."
+,Shoobox,2010-12-08T16:53Z,"@shroo 
+as far as gettn the game to work
+i manually erased the registry,
+
+re-extracted to desktop,
+
+ran your batch setup,
+
+then put the first regfix in the directory 
+folder,ran uninstall reggie then ran reggie,
+
+dc192.4shared(.)com/download/JcnSRJr0/regfix-TRON.rar?tsid=20101208-104648-b640c7a6
+
+fix my resoultion, works great."
+,royhere,2010-12-08T19:16Z,"Shoobox  is right,,,,
+
+game resolution change,,,
+
+
+
+can any body know how to change the control in game""WHEELMAN"" pc version,,
+"
+,Shoobox,2010-12-08T19:51Z,"@royhere
+for wheelman
+
+It does support xbox controller. Problem is it only has two preconfigured configurations for keyboard and 2 for controller. You cannot make custom configuration. 
+
+or try
+
+C:\Program Files\Ubisoft Entertainment\Wheelman\PC\WheelmanGame\Config
+
+and double click
+
+Coalesced.ini
+
+The search for
+
+m_aWheelmanInputBind
+
+and try changing keys there. Seen similar things on other unreal engine games. "
+,Shoobox,2010-12-08T19:57Z,"@royhere
+
+i know on wheelman you have to open the
+Coalesced.ini with notepad++ regular notepad won't work for the wheelman .ini file 
+or you have to use winhex to open and change it.
+
+
+or try:
+change your keybord settings in windows to a QWERTY-arangement in configuration panel.
+
+thats all i really have to offer maybe someone who has spent more time iwth the game, could be further help"
+,t3techcom18,2010-12-08T23:03Z,Can you put a step by step Shoobox? Keep getting the Failed to initialize. Nothing keeps showing up and I've tried everything.
+,Shoobox,2010-12-08T23:16Z,"@t3techcom18
+
+which part do ya need a step by step for mate?"
+,Shoobox,2010-12-09T00:04Z,"now im running windows 7 32bit, can't speak for xp or others,
+make sure you have enough space for when extraction starts on your drive.
+
+always back files up before deleting ,saved games ect. ect.
+
+1.first picture will show you in win 7 where to delete registry,
+    1st. go to start, 
+             type: (regedit) in search,
+                     follow my picture to find the folder to delete.
+http://i1119.photobucket.com/albums/k630/Shoobox/tron/tronregeditdeletemanual.png
+
+    2nd, go to start, then documents in documents delete the ""disney interactive studios folder"" as shown in picture
+http://i1119.photobucket.com/albums/k630/Shoobox/tron/trondocufolderdelete.png
+
+
+2. i use peazip (faster better extractor) extract tptb shroo folder tron,
+http://i1119.photobucket.com/albums/k630/Shoobox/tron/peazipone.png
+          1st.(peazip lets you drag and drop) right to desktop -or preffered extractor, open extract to desktop
+            2nd.Once extracted to desktop, go to tron evolution folder run setup
+http://i1119.photobucket.com/albums/k630/Shoobox/tron/tronsetupbatch.png
+
+
+3. One game is finished install through Shroos self extraction method,
+     download shroos regfix 
+dc192.4shared(.)com/download/JcnSRJr0/regfix-TRON.rar?tsid=20101208-104648-b640c7a6
+        remove (  ) from obove link after coping past in adress bar, download.
+http://i1119.photobucket.com/albums/k630/Shoobox/tron/tronregfixdownload.png
+extract the download regfix file after download ""3 files all together""
+http://i1119.photobucket.com/albums/k630/Shoobox/tron/8989696.png
+ put them inside the main tron evolution folder on your desktop.
+    once in the tron foldero n desktop cick the unistall reggie,
+then run the reg.exe as admin 
+http://i1119.photobucket.com/albums/k630/Shoobox/tron/refix.png
+
+then click on the tron evolution by tptb launcher, game should then work.
+this is what i had to do after trying numerious things of it not working for me
+every pc is different.
+"
+[V],blaze69,2010-12-09T01:43Z,"If Errors Of Installation Path ?
+
+Use This
+
+http://thepiratebay.org/torrent/6022977"
+,Shoobox,2010-12-09T02:04Z,"@blaze69
+no disrespect but last time i used one of ur .exe it didn't do anything.
+might work for some im going going to discredit it,but your .exe never seem to work on my systems"
+,Shoobox,2010-12-09T02:08Z,"correction
+meant to say ""not going to discredit it"""
+,t3techcom18,2010-12-09T03:27Z,Still nothing :( Gunna do a full install rip instead of this type of folder rip if its gunna make a difference...
+,Likeadidas95,2010-12-09T13:25Z,"Just Nothing .. i mean, why ? 
+i have followed so damn carefully Shoobox's tutorial, but nothing ! Thanks so much for your hard work Shoo, but its just not working for me !
+Also blaze uploaded regfix, but this is not working either for me :S
+1. I used w7 fix, nothing when i press exe.
+2. then i tried xp fix, nothing, and then pops up "" Failed to Initialize 
+3. Then i used blaze's fix, nothin again !
+4. Then i followed Shoobox's tutorial, nothing !
+NB ! Also i have tried everytime with comatibility mode ( xp, service pack 2 )
+
+can just anyone recommend me sumthing ! does this help when im going to make fresh install .. /extract all stuff again + setup.bat ? 
+
+please someone reply me, :("
+,Likeadidas95,2010-12-09T14:29Z,"okay . . got this working like this: 
+
+made fresh install ! ( extracted all stuff again, + setup.bat )
+added w7 reg, nothing happens :D
+added blaze's regfix, nothing happed !
+tried XP Fix AGAIN, nothing happened :D
+changed the compatibility to Service pack 2, yei it worked :D
+thanks :)"
+,Shoobox,2010-12-09T14:59Z,"@Likeadidas95 
+what system and spec are you running?
+
+im on win7 32 bit and didn't need to do compatability"
+,InsoGr,2010-12-09T15:23Z,Cool game  :P
+,t3techcom18,2010-12-09T21:17Z,Did Adidas suggestions...still nothing....
+,M30w,2010-12-09T21:23Z,"i did everything. when i start start.bat , it says decrunch in progress. And after that nothing is happening. I waited for more than half a day. But nothing happened. Can someone help me please :("
+,t3techcom18,2010-12-09T21:29Z,Ignore the decrunch. Start Task Manager (control+alt+delete) and it should knock that program out and the command prompt should come up as usual. 
+,M30w,2010-12-10T00:01Z,"@t3techcom18
+Thx a lot bro . its fine now .
+I'm getting a new error now.
+xlive.dll is missing. help me pls"
+,Shoobox,2010-12-10T02:08Z,"@M30w
+
+download the xlive.dll 
+
+www.dll-files.com/xlive.zip?0VLdWCWFlU
+""copy link above and past in adress bar for direct download""
+
+unzip and put in
+C:\Windows\System32 (Windows XP, Vista, 7).
+
+
+Or
+you need games for windows live
+http://www.microsoft.com/downloads/en/details.aspx?displaylang=en&FamilyID=69b2c4db-0765-4980-9c1b-8f781ad50bd0
+and here's how you set up an offline account for it
+http://www(.)kickasstorrents.com/community/show/3254/"
+,Shoobox,2010-12-10T02:11Z,"""link fix should work now""
+
+
+direct download xlive.dll
+
+unzip and put in
+C:\Windows\System32 (Windows XP, Vista, 7).
+
+http://www.dll-files.com/xlive.zip?0VLdWCWIeQ
+
+-----------------------------------------------------------
+
+and here's how you set up an offline account for it if dll dont work
+http://www.kickasstorrents.com/community/show/3254/"
+,M30w,2010-12-10T02:53Z,"Thanks bro . But again it asked for msidcrl40.dll. i downloaded and copied it to Sys32. now ""ordinal not found error is thr. the error is "" The ordinal 5372 couldn't be located in ur DLL, xlive.dll"". I've Win7 ultimate. Pls help me bro."
+,t3techcom18,2010-12-10T04:08Z,"Shoobox, you got any other suggestions? Downloading RELOADED's version again to see if that helps with anything...hopefully..."
+,Shoobox,2010-12-10T04:28Z,"these particular games seem to be a big default on win7 64,
+the dynamic link library or dll.
+
+
+it's because games for windows LIVE Update Redistributable needs a patch, it seems most 64 bit win 7 have the issue with 
+""The ordinal 5372 couldn't be located in ur DLL, xlive.dll""
+if you downloaded only the file and not games for windows live i would try that. ""install games for windows live 3.0""
+or wipe tron off your system and start over from scratch.
+you had said in a earlier post mate you setup batch, got stuck on crunch, did you try to continue the game launcher when you forced it to close?, might be missing some install files,
+i would just take tron off your hdd and re-extract shroo game and restart from fresh install extraction.
+if you forced the cancel through task manager,
+it def might be missing files. 
+"
+,Shoobox,2010-12-10T04:36Z,"@t3techcom18 
+
+we all love shroos games, but some machines,
+just don't work with them,
+
+if your going to try reloaded version, only thing i could think of would be, make sure tptb games are wiped off the system so you don't have a conflict when you install the reloaded ones,
+i dont have the reloaded version, but only problems i have read is the securom issues,"
+,RarScaryFrosty,2010-12-10T07:04Z,"Works 100% fine on windows XP without any registry tweaking or modification. Just installed and played. 
+
+Doesnt work on the same PC running x64 windows 7 though. I'd prefer to play on windows 7...."
+,subzeroscorpion,2010-12-10T10:46Z,hey shroo!!!....wud u care to upload frontlines:fuels of war???...if u can then let me know
+,JoeKKer,2010-12-10T12:59Z,"After Clicking On Launcher Nothing Happens
+If Any1's Getting Above Mentioned Error Please Download This
+
+
+http://thepiratebay.org/torrent/6028110
+
+THANX 2 BLAZE 4 REGISTRY FiX"
+,bossdinesh,2010-12-10T16:33Z,"Works fine. Just did
+1)Unrar-TRON EVOLUTION
+2)run SETUP.bat
+3)copy regfix win7/xp + BLAZE REGFIX to extracted folder
+4)first run uninstall.reg, then reg.exe, then Registry.bat(blaze reg fix)
+5)run TRON EVOLUTION from desktop...
+
+THNX everyone behind this work...."
+,AnGaMe,2010-12-10T16:50Z,Awesome upload.........just installed the regfix by Shroo........Thanx Shroo!!!!!!!you are the Best!!!!!!!
+,d4tl,2010-12-13T04:33Z,God darm your TPTB.4.EVER.exe. It's make me blind to press Ecs to Extract. But now thanks to your god work :D
+,soldierofthelam,2010-12-13T19:14Z,"@shroo, 
+thanks again for another great rip,
+
+@shoobox,
+your guide helped me thanks works great,
+""joekker& blaze69  fix didn't do anything""
+
+win 7 32bit
+gigabyte 775
+9500gt oc
+4 gb mushkin
+core 2 duo 3.0
+CORSAIR Hydro H70 CWCH70
+ZEROTHERM GX815 COPPER HEATPIPE VGA VIDEOCARD COOLER"
+,subzeroscorpion,2010-12-13T20:51Z,did everything that every1 hs written ova here....@shoobox...there is no disney interactive in regedit.....wat shud i do?
+,Shoobox,2010-12-14T16:57Z,"@subzeroscorpion 
+need a little info,
+system specs?
+installed drive?
+Os?
+how did you install?"
+,subzeroscorpion,2010-12-14T17:37Z,"i found out the disney interactive and deleted everything...i followd everything which u hv written...as long as it dint work i downloaded blaze's regfix...still dowsnt work...nuthing happns wen i click tron from desktop..
+.
+system specs:
+core 2 duo
+2gb ram
+geforce 9500 1gb"
+,subzeroscorpion,2010-12-14T17:43Z,and running win7...32bit
+,Shoobox,2010-12-14T22:50Z,"@subzeroscorpion
+some people have claimed that:
+
+ right clicking on the Gridgame.exe and going into properties and running windows xp service pack 2 for compatibility mode.
+
+http://i1119.photobucket.com/albums/k630/Shoobox/startorbs/Untitled.png"
+,subzeroscorpion,2010-12-15T15:00Z,@shoobox...i tried that already.....anyway thnx fr da help....reloaded might work...but it too big
+,TekLok,2010-12-18T04:47Z,"Why not just say it doesn't work on XP so we don't end up wasting our time with this garbage. I would've had the official iso by now. I tried the xp fix and it didn't do anything at all. It was infuriating enough to sit their for 10-15 minutes before realizing it wasn't fucking doing anything other than playing a shitty animation with shitty music. If it works on windows 7 that's great. Maybe tell us next time instead. I've had enough, I don't even care anymore."
+,subzeroscorpion,2010-12-27T21:02Z,i agree with teklok
+,Darkzavage,2011-01-05T17:41Z,"I have a different problem, i have applied the reg fixes and fiddled a bit, but i cannot seem to overcome this obstacle:
+
+When i launch Tron i get a ""Failed to initialize!"" message with the heading ""Securom"", then once i close this w7 prompts me with a ""Securom has stopped working"" anyway to fix this pls reply"
+,ma64,2011-01-08T19:12Z,to me it says that msicdrl40.dll was not found on your computer links what you gave me doesnt worrk i am using win 7 please help i want to play this game
+,xaleeel,2011-02-11T08:42Z,THANK U TPTB!!!
+,SergioKool,2011-02-21T23:30Z,"I cant get to work :( save error as Darksavage and i aply all regfixes and still securom error ocurred please help hoe to fix :( Skidrow please do a proper crack ,reloaded fail in this one :(  "
+,GreenRing,2011-03-10T04:25Z,Securom failed to initialize :(
+,Svkrocks,2011-03-15T08:05Z,"A error is showing dat Xlive.dll is missing when iam trying to launch, any fix pls"
+,cadjin,2011-03-16T03:02Z,@Shoobox: Which launcher are you talking about in your guide?  The only launchers I see are GridGameLauncherc.exe and GridGameLauncher.exe in the Win32Live dir.
+,cadjin,2011-03-16T03:10Z,"@Shoo: Nevermind, got it working."
+,Svkrocks,2011-03-16T13:29Z,hey any fix to mine problem???????
+,abey01,2011-03-24T12:44Z,"I did all steps asked and it does not work....Any help please. 
+"
+,hmnhu,2011-03-24T19:30Z,game not saving   every time i start it starts from beginning   :(
+,Reaperke,2011-04-01T21:48Z,"doens't work for me i don't have any errors or that kind and when i click the desktop icon nothin happens i tried also as admin still nothin..
+im on windows Vista"
+,xProphecy,2011-04-06T00:10Z,"Running on Windows 7 x64 Ultimate and did these steps:
+1. UNRARed the parts.
+2. Ran setup.bat
+3. Downloaded and did the reg steps + blaze's reg fix both as admin
+4. Added the xlive.dll and msidcrl40.dll to system32, system, sysWOW64 and Tron Evolution/Binaries/Win32Live folders
+5. Changed the GridGame, GridGameLauncer, and GridGameLauncerc exe compatibility modes to Windows XP Service Pack 2
+
+Basically, I tried to be as safe as possible. Adding all these extra and unnecessary changes (such as adding xlive.dll to all those folders or changing more .exe's compatibility to Windows XP Service Pack 2). The final error code I receive is ""The ordinal 5372 could not be located in the dynamic link library xlive.ddl"" Headlined: GridGame.exe - Ordinal Not Found. What should I do now? kinda stuck"
+,Ochogie,2011-04-07T00:46Z,It works fine but i cant save my games because i need a product key
+,vjudragon,2011-06-18T22:33Z,http://thepiratebay.org/torrent/6022977/Tron.Evolution.32._amp_.64.Bit.Registry.Fix.__blaze69_
+,rerxx,2011-07-30T10:19Z,"Try everything but it still won't work :(
+win7 home 64bit
+help please!!!"
+,karry18,2012-01-13T17:49Z,hey guyz this game is 12+ and i am also 12 so i cant understand what is for registry thing can u plz plz plz tell me in easy language plz i really want to play this game plz

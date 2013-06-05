@@ -1,0 +1,11 @@
+User Type,Username,Date,Text
+,espirates,2011-01-11T15:04Z,"nothing to download, blank page."
+,nucklearknight,2011-09-29T06:01Z,The activator hangs when opening on Lion. Know any fix?
+,nucklearknight,2011-09-29T06:11Z,"Figured it out. Just show package contents of the ""Snippet Activator"" then navigate to Contents>Resources>Scripts and copy the ""main.scpt"" file to your computer, say your Desktop. 
+
+Next open up Terminal. Press command+space to bring up the finder and type Terminal to access it. 
+Now you're going to want to type in ""osascript ~/Desktop/main.scpt"". Sans-Quotes
+
+That will work as long as you saved it to your desktop, but if you didn't you can just enter that path or drag the file into the terminal and the path will show up. 
+
+Press enter and it's now activated. "

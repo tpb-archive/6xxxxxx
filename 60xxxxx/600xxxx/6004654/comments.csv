@@ -1,0 +1,32 @@
+User Type,Username,Date,Text
+,kgaurav76,2010-12-02T10:56Z,What is different in this version official version arround 2.5 GB but your version is 4.6 GB so clear whats different.
+,1TWISTED,2010-12-02T13:59Z,"thanks,.. nice job,.. well done,.. ; )"
+[V],webchella,2010-12-02T19:15Z,"The SamDrivers 8.5 and a little something more, greetings and thanks to all."
+,badpnt0,2010-12-03T00:19Z,"At the moment the latest distributives are:
+1. SamDrivers 10.11.12 Fantastic Edition. Size: 2.46 GB. Combined by SamLab and released on 12th November 2010).
+2. SamSoft 2010 LastBuild. Size: 4,37 GB. Combined by SamLab and released on 28th October 2010. It includes SamDrivers and some essential software and updates for Windows and MS Office but some of the additional software may be in Russian only.
+3. SamDrivers 2010 Printer Edition. Size: 7.53 GB. It is so big that some users might think that this is overkill but it can be handy for people who work with a lot of printers. Combined by SamLab and released in November 2010.
+4. DriverPack Solution 10 R150W & Drivers Installer Assistant. Size:4.12 GB. Combined by dead_wolf and released on 7th November 2010.
+
+All of them have the same latest programs for installing drivers and driverpacks aren't out of date. It might be a good idea to translate the autorun in English before releasing it here.
+
+The distributives feature two programs for installing drivers: DriverPack Solution(aka DPS) and Drivers Installer Assistant(aka DIA) so you can choose which one is more user-friendly and works better. Historically DPS-based distributions were separate from DIA-based distributions. There were many distributions based on DPS and SamLab used DIA almost exclusively in his distributions. Dead_wolf started the trend on providing the latest versions of both programs in a single distribution and SamLab recently adopted this idea in his distributions.
+I no longer make my own DPS-based distributions labeled ""Dev Build"" and instead I support the distributions which include the best DPS. It's a shame that DPS 10.6 didn't integrate the changes from R146-R150 so I can't support it. It's not that R145 is bad but I just don't want to investigate the problems which are already fixed. DIA is still lags behind DPS as far as finding and installing drivers goes but DIA's developer is made aware of DIA's shortcoming so he could eventually catch up."
+,badpnt0,2010-12-03T00:21Z,"SamDrivers 8.5 was released in August 2010 and is obsolete as it has old driverpacks and software.
+
+""DriverPack Solution 10R 149W"" should be ""DriverPack Solution 10 R149W"". R149 stands for ""Revision149"" and ""W"" for ""dead_wolf""(he made some changes to the stock R149).
+http://code.google.com/p/driverpacksolution/source/list
+As you can see the major change was made in R146.
+
+Also there is no point in packing them in RAR because they are already compressed and it makes it difficult to download driverpacks individually."
+,badpnt0,2010-12-04T10:35Z,"This distribution includes:
+1. DriverPack Solution 10 R149W + Installer Assistant 2.7.29 by dead_wolf. Webchella removed Hirenâ€™s BootCD 11(Russian edition).
+2. SamDrivers 8.5 by SamLab. Webchella updated the program to R149.
+
+The difference between R149 and R150 is minor for end users and isn't an issue. http://code.google.com/p/driverpacksolution/source/detail?r=150
+
+This is a solid release even though there some inconveniences:
+1. There is no point in packing whole thing again as it is already compressed and it denies ability to download selected driverpacks.
+2. It has two sets of the same driverpacks.
+3. There are newer versions available but this release isn't too old(like 2 months)."
+,bengha,2010-12-16T20:09Z,How do you unpack? The file name are too long...

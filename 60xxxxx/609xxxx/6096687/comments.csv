@@ -1,0 +1,59 @@
+User Type,Username,Date,Text
+,Fortesting1,2011-01-12T10:08Z,Thank you!
+[T],liluser,2011-01-12T15:07Z,"why name it 2011 ??
+
+when its only updated till Nov 2010"
+,skurys,2011-01-12T16:47Z,"As stated in the description it is because I just built it with nlite yesterday (hence the 2011), and figured if someone wanted an up to date copy they might search for ""final"" or ""2011"" version but it is a Win2000 sp2 untouched iso that I integrated with sp4 and all post sp4 updates via the link in the description, if you want to know exactly the steps taken making it. if you prefer to make this on your own, visit the link and make your own with nlite but i thought i would upload mine since i didnt find any others online. works a treat for me. "
+,mgadallah,2011-01-15T05:01Z,Please if any one tried it yet to feedback us if it is good or not?
+,nasal,2011-02-03T16:53Z,"Hello, I tried the torrent and it works perfectly.. one question tho, what is the password for the Win2K user? Because when the screen saver activates you have to log in if you want to use the machine.. and a blank password is not working as well as Win2K or any other thing that came into my mind!
+
+Thanks for the upload!"
+,nasal,2011-02-03T21:03Z,"Stupid me, I didn't think of ""admin"" as a password :D"
+,lagon09,2011-02-07T10:04Z,"hello
+I am french 
+I have a problem with the password for the Win2K user
+I try: admin but its not ok
+help me please 
+
+Thanks for the upload "
+,yosemite610,2011-02-17T21:14Z,"I get an error:
+------------------ 
+The following value in the .SIF file is corrupted or missing:
+
+Value 0 on the line in section [SourceDiskFiles] with key ""sp4.cab.""
+
+Setup cannot continue. To quit Setup, press F3.
+------------------
+
+I'm using the 4 floppy disk startup disks.  They successfully get me to the install, but as soon as it hands over to the CDROM I get the above error.  Any ideas?  (Burned twice at minimum speed here: 8x)"
+,skurys,2011-02-25T06:55Z,"lanon09: 
+
+if you are from france, you may have an AZERTY keyboard, and this install defaults to QWERTY, in which case, to type ""admin"" you would have to press the keys ""qd,in"" with the comma after the d. Then you can change the keyboard layout in the control panel.
+
+yosemite610:
+
+not sure, i tested in a virtual machine and the iso auto boots, but if you need to install on an older non bootable system, maybe try copying the install files over to the hd and running /i386/winnt.exe  .  Or maybe something like this: http://www.techspot.com/vb/topic14204.html"
+,skurys,2011-02-25T06:57Z,"sorry, the script to make it reboot for the post install updates was finicky unless i set a password for some reason :)"
+,swelance,2011-03-03T10:40Z,"Works fine but the admin account and change of workgroup (still WORKGROUP in my install though), makes me worried there are some backdoors or keyloggers installed as well. Also it was uploaded by ""Anonymous"". I don't feel safe using it basically. 
+
+I guess you always have this problem with torrents, but this custom thing makes me more nervous. I would prefer a normal Microsoft install with all those Next buttons, followed by windows update. 
+
+I installed Avast antivirus, a firewall, Spyware doctor and Ad-aware, but still feel a bit uneasy. Will probably look for another iso now that I got the computer up and running. Got this one from a friend who helped me after a crash."
+,skurys,2011-03-11T23:21Z,"swelance: i made this from the sources listed in the links in description, if u want to put your mind at ease, take an untouched iso and you can follow the steps i took to make it with those links, but personally i use it to connect to my work servers in a VM under linux, and its clean as far as i can tell"
+,skurys,2011-03-11T23:22Z,plus you can always nlite this  iso and remove the automated stuff if u want too
+,tall_dude123,2011-04-04T01:20Z,"Works well. Installed fine on an IBM 300GL Pentium 2, installed Firefox 4, Foobar2000, and runs like a champ. Probably the best Windows 2000 torrent on the web!"
+,Lowen454,2011-06-23T23:32Z,"Im new to burning ISO Images, How do I properly burn this data to a DVDR so I can install into an empty HDD? any tips would be greatly appreciated
+Trying to do it through CDBurnerXP but Im still missing something."
+,torrentcentral,2011-07-23T06:55Z,"To everybody who voted this down - your fucking retarded. This is a software from ELEVEN years ago. Don't think a pretty looking, simple message is going to pop up to help you install it. If you don't know what your doing - don't download this. And to the  uploader -- thanks a ton. Got it working in 40 min. or so"
+,Aleksa11,2012-03-17T19:53Z,"Big thanks!!!
+for everybody who had problems with password look this site:
+-http://rosshaynes.com/windowsos.html
+
+The password that worked for me is:
+
+MKFTT-B889R-XXYGF-W63WP-8VDYT
+
+:D"
+,cosmosis,2012-04-15T07:48Z,Thank you for sharing. I did see some unknown command messages during install. Anyone else?
+,rjose422,2012-04-26T22:29Z,"Works fine ... problem with password check
+http://support.microsoft.com/kb/310584"

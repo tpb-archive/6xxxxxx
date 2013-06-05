@@ -1,0 +1,280 @@
+User Type,Username,Date,Text
+[V],Cyberpiraten,2011-01-10T09:09Z,"On the instructions i wrote step 1 two times... 
+Sry, just skip step 1...."
+,espirates,2011-01-11T15:48Z,"To install it asks for serial number, that's all it took and it worked.  No need to add that other stuff."
+[V],Cyberpiraten,2011-01-12T08:59Z,"I would recommend you to add them, cause your serial might get blocked...."
+,tracedotz,2011-01-20T17:55Z,"i dont understand how to install:
+
+so when i run the install file to i install as trail or enter a serial?
+
+and i dont understand the open terminal part
+
+help?"
+,palmazou,2011-02-08T20:59Z,"Tx, it worked perfectly"
+,shaqash,2011-02-11T13:47Z,"My Sudo isn't working.
+it says: WARNING: Improper use of the sudo command could lead to a data loss or the deletion of important system files. Please double-check your typing when using sudo.
+
+and don't let me write the password. Can you help me?"
+,4n0n8m0u5,2011-02-12T01:26Z,"shaquash, heres what to do:
+open terminal.
+type
+login root
+and hit enter. it will ask for password, but when you type your password will not appear. that is normal, it is registering the password, it just isnt showing it. type it anyways, making sure it is corrent, and hit enter again. now do everything he said and it will work."
+,tgt55,2011-02-18T02:33Z,works great thanks for seeding
+,kcmorgain,2011-02-26T19:57Z,"Don't know how to do the Activation Blocker. When I open the terminal application I did not find any text that said 127.0.0.1 localhost and 255.255.255.255  broadcasthost. When I attempt to paste the info provided it does not let me paste everything. It stops at the finale adobe without .com part. 
+Please help!!!!!!!!!!!!!"
+,kcmorgain,2011-02-26T23:39Z,"Let me be more specific about the problem. We opened terminal app and did the login root thing and the password. We then pasted the  sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts sentence, as specified. I pressed enter. Correct? Or not. That's not specified. What happened then was a host file came up with a couple lines exactly as was mentioned about the 127.0.0.1 localhost and 255.255.255.255 
+    broadcasthost. I copied the stuff to paste between those two lines. When I went to paste it it wouldn't accept the paste. You can type in the file by hand, but, you can't paste anything there. I tried copying from the host file back into the initial terminal app file and nothing could be copied. The host file info would not copy. What am I missing? I feel like we're almost there. Thank you."
+,sidneybarros,2011-03-02T22:09Z,Downloads as of today
+,4n0n8m0u5,2011-03-03T02:42Z,"kcmorgain, your problem seems to be a text encoding notation problem. other than that you have done everything right. to remedy this open up the file to copy, and then press command+shift+t this will make it plain text. now it should accept your copy paste. let me know if this works."
+,kcmorgain,2011-03-03T16:47Z,"4n0n8m0u5, Thank you for responding to me. So I wasn't sure if I should try to paste in the file opens up after I paste  sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts or the Terminal app. I did both. I first copied the text, then in the file that had the localhost and broadcasthost info did command+shift+t and a message came up saying ""localhost is used to configure the loopback interface when the system is booting. Do not change this entry. I went on to paste anyway and nothing happened. Next I copied the text, then did the command+shift+t in the Terminal app, then I pasted. I had the same problem of not being able to paste all the text that was pasted. Do you have any other suggestions. Am I doing something wrong?                                        "
+,kcmorgain,2011-03-03T17:36Z,I just realized your instructions are to do the command+shift+t in file I am copying. I just did that it asked if I wanted to change to plain text. I answered yes then tried to paste into the host file and the Terminal app and still no luck.
+,4n0n8m0u5,2011-03-06T20:31Z,That sucks. Its not a big deal. i torrent loads and have never got a serial blocked. Just launch the app normally.
+,Piloted,2011-03-09T17:31Z,"Fantastic. Thank you. However I do have one small problem which may have been caused by me. I have completed all the steps shown, but when I load up Dreamweaver from a cold machine, it says the Serial Key is invalid. I can type in an alternate one provided, but the older ones don't seem to work anymore. Any ideas to get around this. Can I disable Adobe Manager?"
+,12iodices,2011-03-15T22:52Z,"hey, cant find the serial number, just looking for some individual help, where should i be looking? i am up to step 8 as for step 9, thankyou"
+,Xslikx,2011-04-01T08:51Z,"I'm having the same problem as Piloted. 
+
+The install procedure when fine - exactly according to the instructions. But now, every time I start Dreamweaver, it requires a new one of the serials.
+
+Soon, I will be out of serials and the program wont work again. "
+,ard3423,2011-04-06T18:29Z,"Sorry, I'm new to this so I'm a little bit confused about the instructions. I copied the sudo into the Terminal but am now being prompted for a password. What should this be?"
+,ard3423,2011-04-06T18:41Z,"Hi, I'm new to this so I have a quick question. After I copy the sudo into the Terminal, what password am I supposed to use?"
+[V],Cyberpiraten,2011-04-12T20:51Z,"the password is the password you use for your own user :) 
+
+If you got no password, then you just press enter.
+
+Good Luck! :) "
+,jhypej,2011-04-19T05:14Z,"As usual, it works :) loove your stuff thanks man"
+,etearl,2011-04-23T03:26Z,I have DW CS3 already installed. When I open CS5 to install it opens my CS3. Where should I go from there? Thanks.
+,Dermbet,2011-04-27T11:29Z,"Thanks for upload, it seems to  work fine. I was asked to install the serial immediately I tried to install. Instead, I followed the instructions and pasted the code, put in my password, saved the text file that pops up and then ran the flush code given. I then went through the installation process using the serial given inside. I restarted the mac and it seemed to work fine, not asking for anymore serials.
+
+thanks!"
+,holdmy,2011-04-27T13:03Z,"Hey.
+When I type ""sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts""
+into terminal it asks for my password (I don't have one so I just press enter) then nothing happens?
+
+It just goes back to a blank terminal.
+Any ideas?"
+[V],Cyberpiraten,2011-05-11T14:14Z,"@jhypej
+Thank's, comments like yours makes me wanna upload more stuff! :))  
+
+@etearl
+Delete CS3 (Y) Go to the folder of CS5 and make a shortcut for the launch file. 
+
+@Dermbet
+Great! :) 
+
+@holdmy
+Try making a password... 
+
+---------------------------------------------
+Sheeeeat, here I'm sitting on a resturant checking my torrents for comments... 
+God damn it now I'm gonna enjoy my food ^^,
+Peace ya'll! "
+,ausgrl,2011-05-13T12:00Z,Thank you so much! Works perfect. :) 
+,isiblumberg,2011-05-13T19:49Z,"CyberPiraten, I did all your instructions exactly as you wrote them. All I can say is: You are brilliant! And amen to your very last comment: ""F*** this overpriced sh**! Enjoy it""! Thank you, thank you!		"
+,TXn00b,2011-05-17T17:26Z,"I'm VERY new at this...as in this is the first torrent I've tried.  I thought I followed the steps precisely, but I'm being asked for a serial number and I don't know where to find them.  Any help?"
+,idknuthin,2011-05-23T03:39Z,"Hey I followed the instructions for your Photoshop CS5 and it seemed to be working so I went for the Dreamweaver next and now they are both asking me for new serial numbers every time I reopen them. I wasn't sure what to do with the sudo host because the second time I went to do it with dreamweaver it still had what I had done for photoshop so I did not mess with it and figured it would work for dreamweaver as well if I just entered a code. Now I must enter serials everytime I open. I would really appreciate some advice if you have any because this is kinda out of my price range lol 
+
+Sincerely
+Broke college kid"
+,idknuthin,2011-05-23T05:26Z,"Hey Cyberpiraten
+
+I tried uninstalling and reinstalling it and then pasted the codes into the host again. I tried it at the end of the local host thing and in between both times it eventually prompts me for a new serial. It looks like it will work as long as I stay offline which is fine but Id prefer to not have to toggle my internet if there are any tips I would appreciate it thanks."
+,perrul,2011-05-24T00:02Z,¡Muchas gracias compadre! Thanks a lot!
+,cLk11,2011-06-03T20:57Z,"Thanks, Cyberpiraten. When I opened this on my MacBook Pro it worked like a charm. However when I opened it on my MacBook Air it did not open correctly. Then I saw this:
+
+http://kb2.adobe.com/cps/844/cpsid_84413.html
+
+I went ahead and installed the patch and the app works now!"
+,wheelman11,2011-06-07T04:49Z,"Odd problem here. I did everything exactly, but I'm not sure if I got it or not. When I open Dreamweaver there's nothing there. It says Dreamweaver in the corner but can't open anything."
+,dankatlan,2011-06-13T21:53Z,"Having same issue as wheelman11..
+""I did everything exactly, but I'm not sure if I got it or not. When I open Dreamweaver there's nothing there. It says Dreamweaver in the corner but can't open anything."""
+,patrickcref,2011-06-20T11:07Z,"Cyberpiraten, Thank you!!!! Worked Great!  "
+,Elantraprincess,2011-06-21T19:22Z,"Hi Cyberpiraten, 
+
+I'm very new to this and need some help. I downloaded dreamweaver, and everything with terminal, etc worked fine except that the serials are not working. Any idea why or what could I be doing wrong?
+
+Thanks a ton for your help and for making this available!! 
+
+E. "
+,Zakanator,2011-06-21T22:19Z,"Hey nice torrent! I'll seed for yall'
+
+Hey Cyberpiraten, awesome torrents! Do you mind putting an Adobe Flash cs5 torrent up? If you can't it's fine. Love the torrents 5/5 on all of the software torrents, including this one"
+,dankatlan,2011-06-25T19:29Z,"anyone know how to fix this bug that we ran into??
+thanks in advance...
+It's realy frustrating to see everybody manages to work with it and feels a little dumb... :-("
+,dlishd,2011-07-14T06:41Z,I did everything except I can't find the serials...?
+,regalturd,2011-07-20T14:02Z,"YES! Been after CS5 for a while since CS5.5 came out.
+
+Shame it's reckoning it'll take 4-5 days... OnO"
+,kaypher,2011-07-21T19:34Z,"Hmm, seems perhaps a problem with Lion? When I paste the first line of code in terminal I get this:
+
+Error loading /Library/QuickTime/LiveType.component/Contents/MacOS/LiveType:  dlopen(/Library/QuickTime/LiveType.component/Contents/MacOS/LiveType, 262): no suitable image found.  Did find:
+	/Library/QuickTime/LiveType.component/Contents/MacOS/LiveType: no matching architecture in universal wrapper
+
+many times over and over..."
+,kaypher,2011-07-21T22:37Z,"Aha, forget my last comment - think was just a case of updating java. Many thanks for this."
+,xvedder,2011-07-22T03:52Z,"After updating to OSX Lion the Adobe invalid serial pop up came up again. The previous announced procedure to block the activation process is not valid anymore on this new update. The following steps worked fine with me, but I had to change the serial since it never worked back again:
+
+Adobe CS5 Serial (Mac)
+sn: 
+
+1325-0150-1163-7532-1626-3430 
+1325-0178-1927-9019-0123-2254 
+1325-0702-3693-1544-9166-3515 
+1325-0549-2240-0071-3409-1342 
+
+Edit your Host's file to block the verification process in CS5: 
+
+Open a Terminal and type: 
+
+sudo nano /private/etc/hosts 
+
+Then Copy & Paste this lines: 
+
+127.0.0.1 activate.adobe.com 
+127.0.0.1 practivate.adobe.com 
+127.0.0.1 ereg.adobe.com 
+127.0.0.1 activate.wip3.adobe.com 
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 3dns-3.adobe.com 
+127.0.0.1 3dns-2.adobe.com 
+127.0.0.1 adobe-dns.adobe.com 
+127.0.0.1 adobe-dns-2.adobe.com 
+127.0.0.1 adobe-dns-3.adobe.com 
+127.0.0.1 ereg.wip3.adobe.com 
+127.0.0.1 activate-sea.adobe.com 
+127.0.0.1 wwis-dubc1-vip60.adobe.com 
+127.0.0.1 activate-sjc0.adobe.com 
+127.0.0.1 adobe.activate.com 
+127.0.0.1 209.34.83.73:443 
+127.0.0.1 209.34.83.73:43 
+127.0.0.1 209.34.83.73 
+127.0.0.1 209.34.83.67:443 
+127.0.0.1 209.34.83.67:43 
+127.0.0.1 209.34.83.67 
+127.0.0.1 ood.opsource.net 
+127.0.0.1 CRL.VERISIGN.NET 
+127.0.0.1 199.7.52.190:80 
+127.0.0.1 199.7.52.190 
+127.0.0.1 adobeereg.com 
+127.0.0.1 OCSP.SPO1.VERISIGN.COM 
+127.0.0.1 199.7.54.72:80 
+127.0.0.1 199.7.54.72 
+
+Save with CONTROL + X 
+
+Get back to terminal and type: 
+
+dscacheutil -flushcache "
+,dabeardedone,2011-07-24T15:50Z,@kaypher I'm still having the same issue as you (running Lion).  Can you fill me in on exactly what you did to update Java?  Mine seems up-to-date. Thnx.
+,dabeardedone,2011-07-24T16:16Z,"I think I solved one issue but now getting this when pasting sudo..:
+
+2011-07-24 09:14:32.282 TextEdit[583:850b] PersistentUI: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts
+
+Thank you in advance for any help."
+,simonmack,2011-08-02T12:47Z,"HI GUYS: Im having the same problem since I upgraded to LION.
+
+IN TERMINAL WHEN I ENTER : sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
+
+I GET : 2011-08-02 20:06:21.456 TextEdit[266:5407] PersistentUI: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts
+
+TEXT EDIT DOES NOT OPEN UP SO I CANNOT PASTE THE ""#ACTIVATION BLOCKER"" INTO TEXT EDIT.
+
+Please help an inexperienced guy! I managed to figure everything out when I had my last operating system 10.6.8 but now with LION both Dreamweaver and Photoshop and giving me a hard time and I am running out of serials! 
+
+CHEERS FROM AUSSIE! "
+,narutomoon,2011-08-08T09:30Z,"cyberpiraten, i was wondering if you could post adobe illustrator for windows... if you have time."
+,DJDestruction,2011-08-17T09:17Z,"So, as of today, I updated Lion, uninstalled Dreamweaver, reinstalled the trial then used 
+
+http://thepiratebay.org/torrent/5857962/Adobe_CS5_Keygen_[CORE]_Activation_Blocker-MAC.
+
+and used the keygen to patch the source file....worked like a charm."
+,712sash,2011-08-25T10:43Z,"I'm running Lion and tried doing what was said in the instructions but it doesn't work.
+Plus, when I try to edit the host file, it says ""You don’t own the file “hosts” and don’t have permission to write to it. You can duplicate this document and edit the duplicate. Only the duplicate will include your changes."" and then this duplicate is saved in MyDocuments.
+Someone please help me. I need this software for my assignment which is due next week.
+
+Help is appreciated :)"
+,geekyfun,2011-08-27T08:34Z,"@Cyberpiraten please  help!! i completed everything fine, but when i click on the dreamweaver icon from applications it doesn't open the program, it just launches the dock icon & only one menu bar option named adobe dreamweaver to quit it . i tried restarting it many times but it doesn't load at all , it my system taking long time to launch the program ?? so give me a solution plzz!"
+,dhelsdon,2011-09-17T20:06Z,Do these hosts differ from the ones  in the Photoshop CS5 Torrent?
+,topo1989,2011-09-19T16:00Z,"first of all thanks cyberpiraten for the upload.
+Second I have a problem. I am using a Macbook with Lion, when I do the 4th step i get the following:
+
+2011-09-19 15:52:22.482 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.485 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.486 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.488 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.489 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.491 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.492 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.494 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.495 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.496 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder: no matching architecture in universal wrapper
+2011-09-19 15:52:22.498 TextEdit[2978:707] Error loading /Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder:  dlopen(/Library/QuickTime/DivX Decoder.component/Contents/MacOS/DivX Decoder, 262): no suitable image found.  Did find:
+	/Library/QuickTime/DivX "
+,jkhanna,2011-10-12T10:33Z,"hey cyberpiraten, 
+
+works well until it pulls up the hosts file. It says its a locked file and it won't let me edit it. I think its because I'm on lion. I login in with root pass before as well, and no effect. 
+
+What should i do?
+
+Cheers"
+,nodnarbkram,2011-10-13T05:27Z,Here's how to change the hosts file in Lion: http://appzdev.com/mac-iphone-blog/2011/07/how-to-edit-the-hosts-file-in-mac-os-x-leopardlion/
+,jkhanna,2011-10-15T06:15Z,thanks :)
+,triley,2011-11-08T01:00Z,"10.7.2 users: 
+
+Download a free program called 'Little Snitch'. Don't worry about the hosts file, you won't need to change it in the way noted in the torrent. Make sure Little Snitch is running. Install Dreamweaver as normal, when prompted for a serial during installation enter one of those provided with the torrent. Let it install, and run the program. (don't fart around with hosts...)
+
+Little Snitch will then report that the software is trying to access adobe's activation servers. click 'forever' and 'deny'. Enjoy."
+,gordanasarcanski,2011-11-15T11:59Z,"Cyberpiraten!! You know you the man!! Thanks a bunch as always! However: one question...
+
+I have the cs5.5 production pack running - no dreamweaver (also yours i thinks). Will this install fuck up something with with the production pack ??
+
+I just don't feel like uninstalling a setup that works like a charm and setting up a master collection. So just need this as an addition, to my productionpack. Any suggestions?
+
+Thanks again dude, you really make a difference for loads of peeps!"
+,filteredglitch,2011-12-04T16:37Z,"i have 10.7.2 Lion.. Did exactly what triley said and downloaded 'little snitch'.. hit 'forever - deny' and it seems to work perfectly!  way easier than trying to figure out editing all that host stuff...  now i just have to figure out how to use the program!  
+Thanks so much!"
+,debaucep,2011-12-11T16:53Z,"Hello, 
+
+Thank you very much for the upload. 
+OS Lion, it really works. 
+
+I did in that way: 
+1. Download torrent
+2. Istall small app called Little Snitch. 
+
+*before installation, please be sure that the Little Snitch is running!!!!*
+3. Start Dreamweaver Installation.
+4. Select full version and use CD keys suggest in the  torrent.
+5. During installation the DW would like to connect to the Internet. Please DENY FOREVER all the connections using the Little Snitch. 
+6. When th installation is done, you can start program and enjoy it:)
+
+
+PS. I dont understand ""geeks"" who spend there time to install professional programs like DW and dont even know how to use it (see post above*)
+
+Good luck to any1.
+
+Regards, Debaucep.
+
+In case of question/suggestions, please mail me on Debaucep@yandex.ru "
+,jyacoub,2012-01-01T01:06Z,"@Cyberpiraten please help!!, I downloaded program pasted what you said in terminal, even though all terminal had was my last login, ended up being able to run the application but when i tried to upload to website it said forbidden and that i needed a new SN, if you are willing to walk me through for a small donation through paypal for your time please contact me jakey5255@gmail.com"
+,Kearney11,2012-01-03T11:59Z,"i can't find the serials anywhere in the torrent, and this is my first torrent used... where do i look? PLEASE HELP!"
+,javi5005,2012-02-04T14:19Z,It works! Thanks
+,ohsnapitsdana,2012-03-30T10:29Z,"Hi, i'm a bit confused on the part where it says open the 'terminal' application.. what do you mean?!"
+,saurondk,2012-04-17T13:26Z,a Shell is the Terminal application¡¡¡
+,saurondk,2012-04-17T13:27Z,go to application and find terminal
+,Phat_man53,2012-04-21T07:17Z,"Cyberpiraten,
+
+I owe you so much for all the help you have provided. I would not have one tenth the skills without your help and uploads. I never would have been able to become expert at P'shop, Dreamweaver and other skills without your generous and amazing spirit. I myself am a rather inventive and benevolent outlaw in certain areas of exsistence and I applaud your courage in thinking and acting differently than most. You are the best Brother and I very much appreciate all you accomplish for others. Live long and healthy and happy my friend!"

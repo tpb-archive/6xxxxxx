@@ -1,0 +1,34 @@
+Zygor Leveling Guides 3.0.1600 (December 14th, 2010)
+
+Please help seed!
+
+Instructions:
+-------------------
+1. Download.
+2. Extract.
+3. Copy extracted folders to your WoW/Interface/AddOns folder.
+   - Both Horde and Alliance folders are included, if you don't play both, don't worry, WoW will only load the appropriate guide.
+4. Launch WoW.
+5. Once you are logged in and at your character screen, click the AddOns button and make sure that ZygorGuidesViewer and ZygorTalentAdvisor are checked.
+6. Launch the game and enjoy.
+
+Bug Fixes:
+-------------------
+-- Alliance Guides Change Log --
+(Worgen 1-13) - Added an additional waypoint step to give better direction when heading towards Lord Godfrey.
+
+-- Horde Guides Change Log --
+(Outland 62-64) - Removed the quests "Messenger to Thrall" and "Envoy to the Mag'har" because they were removed by Blizzard.
+(Outland 66-68) - Corrected goal line so that it displays properly.
+
+-- Talent Builds Change Log --
+Fixed Protection Warrior Build
+
+-- Guides Viewer Change Log --
+* Fix for Lua error: "ZygorGuidesViewer.lua line 3426: attempt to index field '?' (a nil value)"
+* Fix for Lua error "ZygorGuidesViewer.lua:767: Usage: GetItemCooldown(itemID)"
+* Fix for Lua error: "Pointer.lua:629: attempt to index global 'MinimapSize' (a nil value)"
+
+
+-- Other Changes --
+NPCs File edited

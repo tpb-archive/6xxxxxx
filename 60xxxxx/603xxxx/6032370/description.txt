@@ -1,0 +1,7 @@
+An external scrape of the WikiLeaks Web-site obtained via `wget --mirror -k` (relative link paths).  Expands to 1.35 gigs.  Just extract to any Web-space and most things should work.  Also get the "cablegate-YYYYMMDDHHMM.7z" files for up-to-the-minute updates.
+
+This is my first attempt at this, and I'm sure some things are less than ideal.  Please let me know via comments, and I will write a postprocessing script and make sure the next snapshot will be better.
+
+My primary goal was to make it possible to extract this to a sub-directory, not just the root of the host / sub-domain, and have all of the links function correctly.  This would allow people with cheap / throw-away HTTP / FTP / cloud storage accounts to easily add a WikiLeaks mirror, and sub-directory mirrors are also more difficult for large hosts (or hacked servers) to detect.  It's also a good idea to have mirrors that don't appear on http://213.251.145.96/mirrors.html because that list can be easily used by ISP's to blacklist all mirrors, or anyone who hacks their key would be able to deface all of them in an instant.
+
+As far as I can tell, the only parts that are usually updated daily are http://213.251.145.96/mirrors.html and http://213.251.145.96/magnet.txt (as well as the files available in cablegate-YYYYMMDDHHMM.7z updates from the latter).

@@ -1,0 +1,232 @@
+User Type,Username,Date,Text
+,sadist14,2010-12-18T12:40Z,You Sir are AWESOME. I mean that. I really do.
+,itsgreg3411,2010-12-18T15:37Z,"Awesome, thanks!
+
+I only have one problem.. I wanted to set up the server for 2-3 of my friends.. I and they can log in fine, the only problem is that only ONE of us can be logged in at a time. Eg: I was logged in, sent my IP to a friend, he logged in and I got a message saying ""You logged in from a different place"", and when I logged back in, he got the same message. It looks like everyone who connects has username ""Player"".
+Any idea how to fix it?"
+,itsgreg3411,2010-12-18T15:55Z,"Also, running on W7, launch.bat won't do anything..
+And, I now get outdated client message, on linux."
+,itsgreg3411,2010-12-18T15:59Z,"Lol, sorry for the spam. I actually fixed both problems now ;p
+Didn't notice minecraft_name"
+,itsgreg3411,2010-12-18T16:01Z,except for the part when launch.bat doesn't do anything ;p
+,h3ll4b0y,2010-12-18T16:04Z,"@ Greg
+thats because ur friends and you need to use the Minecraft_Name to launch minecraft. the problem is that, the default name is ""player"" so when ur friends connect, they connect as ""player"" there can only be 1 ""player"" at a time, thats why you use Minecraft_name, it changes ur name ;)"
+,sadist14,2010-12-18T18:42Z,Yah launch isnt working I'm running on minecraft server its fine just it seems that commands arent working
+,NanoEntity,2010-12-18T21:20Z,"Edit and open in notepad Launch.bat
+
+Look for
+java -verbosegc
+
+Change to
+""C:\Program Files (x86)\Java\jre6\bin\java.exe"" -verbosegc
+
+obviously C:\Program Files (x86)\Java\jre6\bin\java.exe is where you installed java, if its not correct give the right path."
+,sadist14,2010-12-19T12:49Z,Tried doest work.
+,Kavinchelv,2010-12-19T13:01Z,I cant get it to work.. 
+,Polmonello,2010-12-19T13:01Z,"Launch.bat doesnt do anything. And if I run just server .jar files I cant pick up some blocks with friends, and commands kind of dont work.
+I got this:
+http://fooh.pl/pokaz/4066f2aa5252fa72dcfabf89da3c6d44_java2.png
+Then I have downloaded jvm.dll and created 'server' folder which i didnt have in java BIN folder, then got this on launcher.bat:
+http://fooh.pl/pokaz/08b59ca7362e48494a0f1b39469ce21c_java.png
+What should I do?"
+,Kaczy123,2010-12-19T13:14Z,Awsome
+,Kavinchelv,2010-12-19T13:15Z,i cant see other comments
+,Kavinchelv,2010-12-19T13:17Z,The 'play offline' button isnt click-able 
+,Kavinchelv,2010-12-19T13:23Z,Help me
+,Kaczy123,2010-12-19T13:26Z,It's realy awsome.
+,Kaczy123,2010-12-19T13:36Z,"Ehhh, I have the same problem."
+,Kavinchelv,2010-12-19T13:41Z,
+,sadist14,2010-12-19T16:47Z,Fix it please
+,hbrgthsrt,2010-12-19T19:59Z,launch.bat wouldnt do anything for me so I went to http://www.oracle.com/technetwork/java/javase/downloads/jdk6-jsp-136632.html and installed that. then I copied the server folder from C:\Program Files\Java\jdk1.6.0_21\jre\bin\ to C:\Program Files\Java\jre6\bin
+,sadist14,2010-12-19T20:04Z,I fixed it everything is fine now.
+,NanoEntity,2010-12-19T22:20Z,"Make sure You Installed Latest JAVA SE
+
+Ignore the ""BIN"" Folder, I removed that when i complied the archive, forgot to remove it from the readme.
+
+Make sure you Installed the game to correct path
+WIN7
+""C:\Users\%username%\AppData\Roaming\""
+.minecraft
+.minecraft server
+
+XP/VISTA
+""C:\Documents and Settings\%username%\Application Data\Roaming\""
+.minecraft
+.minecraft server"
+,slowburn37,2010-12-20T02:16Z,I installed the latest JAVA SE and checked my directories. I also did what hbrgthsrt said but that didn't help either. Help Please  
+,NanoEntity,2010-12-20T02:46Z,Describe your problem
+,ashleycole12345,2010-12-20T03:15Z,OH MY FUCKING GOD I LOVE YOU! xxx
+,kigy1,2010-12-20T03:24Z,"thanks NanoEntity
+
+It works and i Register and login in admin
+
+but i can't edit any thinks in the world
+
+In version 1.2.2 it work 100%
+
+help my if you can
+
+thanks...."
+,slowburn37,2010-12-20T04:52Z,"When i run server.bat, the command window comes up for half a second and then disappears. I really want to get a server up for me and my friends to play on."
+,slowburn37,2010-12-20T04:54Z,"I MEAN launch.bat 
+..."
+,sadist14,2010-12-21T06:45Z,*Ekhmm* Yeah you know beta is out *Ekhmm*
+,Swagdata,2010-12-21T07:54Z,"@sadist14, You mean that extremly slow and buggy beta?, No thanks."
+,sadist14,2010-12-21T15:10Z,Guys leave Nano alone. Just run with minecraft_Mod it works fine. Got it?
+,GarrydePineut,2010-12-21T20:54Z,"hey NanoEntity! thanks alot for the torrent!
+but i was wondering how you put the antigrief off because those screamers dont let stuff explode and tnt doesnt work! i really like the game as hard as i can get it so please tell me how i can put this 'protection' off. "
+,bwtw10,2010-12-22T08:28Z,"hey, im hoping this isnt classified as spam (although if i found what i was looking for in these comments it would) but, does any1 have a survival server that works with this torrent? ty"
+,Swagdata,2010-12-22T10:29Z,"@Garry Once in the server, Type /Disableplugin Worldguard"
+,kigy1,2010-12-22T12:04Z,"i run the server and i login  in admin but i can't build, or interact with the world
+
+
+help my"
+,1aid,2010-12-22T13:25Z,"I get to the login screen and click login and it fails like it should, then  i click ""play offline"" and a can see ""DoneLoading"" for a split second before the screen goes black
+
+please help me"
+,NanoEntity,2010-12-22T22:14Z,"CANT CLICK OFFLINE BUTTON!
+CANT CLICK OFFLINE BUTTON!
+CANT CLICK OFFLINE BUTTON!
+
+How many times I have to say it, the folders have to be placed into the correct spots.
+
+Example:
+WIN7
+""C:Users%username%AppDataRoaming""
+.minecraft
+.minecraft server
+
+XP/VISTA
+""C:Documents and Settings%username%Application DataRoaming""
+.minecraft
+.minecraft server
+
+------------------------------------------------
+ABOUT TNT and CREEPERS not exploding
+Edit worldguard.properties
+
+or as @swag said
+/Disableplugin Worldguard "
+,GarrydePineut,2010-12-23T20:12Z,"Thanks alot, Swagdata and NanoEntity!
+also i have one more problem, well not really a problem. I'd like to make it snow in my region. I know about the /snow command, but that only gives the place a snow layer. I'd really like it to snow, and be able to remove it again, when i dont want it to snow anymore."
+,Echelon88,2010-12-23T23:09Z,"I set this up on a laptop for my lan. All computers are not connected to the internet.
+For some reason every time we run minecraft_name there is no music or sound.
+Lots of tips online but with the ""fixes"" exhausted I'm turned to the programmer. 
+
+Any ideas Nano?
+Thanks for all your work."
+,NanoEntity,2010-12-24T05:58Z,"Laptop, dont know, update sound drivers maybe and DirectX, thats the best solution i can give you."
+,NanoEntity,2010-12-24T06:00Z,"About Snow, its randomly generated, and i don't really know how to turn it on for a region."
+,Polmonello,2010-12-24T14:06Z,Why cant you teleport to The Nether?
+,Crone85,2010-12-25T18:15Z,"Hey, thanks for the great upload NanoEntity, It all works perfectly exept not being able to run the bat file, but that really isnt a problem since we can just run Minecraft_Mod.jar
+
+Anyways, I was trying to install some custom mods on my server that me and my friends play on via hamachi, but i couldnt seem to get them to work no matter what i tried, i kept ending up with an error saying: ""java.lang.ClassNotFoundException"" even tho i knew i had added the .class files (not sure if i added them in the right place tho).
+Perhaps you could help me out?
+
+The Mods i was trying to install was:
+[MOD] Humans+ v0.9 (ALPHA 1.2.6) http://www.minecraftforum.net/viewtopic.php?f=25&t=103072
+
+[MOD] Handheld Torch Light V1.3b http://www.minecraftforum.net/viewtopic.php?f=25&t=105332
+
+[Mod] Zan's Mods! (Minimap/Shape Builder) http://www.minecraftforum.net/viewtopic.php?f=25&t=77497
+
+I strongly recommend these mods. Perhaps you could try them out, and if you like them you could implement them in your next release? or implement them as an option to turn them on my adding them in the plugins in server.properties.
+
+Thanks in advance."
+,tmjam2002,2010-12-26T07:20Z,Do something about it kid.
+,pimpinpsp,2010-12-26T07:28Z,Everytime I try to login to the multiplayer it says User not premium
+,DragonKx,2010-12-26T15:20Z,"ok, i tried all the tips i found on the web to get sound and nothing worked, then when i least expected i found out myself hot to fix, just make the game retail, i mean use the step:
+
+##################################################
+TO MAKE THE GAME AS RETAIL/REMOVE MODS/FLYING/LIGHT
+##################################################
+
+
+and that's it, you've got sound
+
+thanks for the upload.
+
+PS: first comment on TPB, ever"
+,Echelon88,2010-12-26T20:20Z,"Thanks for the reply nano.
+I believe its the minecraft_name.jar file. For some reason as soon as I load that (without any connections to any server) it has no sound. On windows xp and windows 7, cant figure it out.
+
+Been playing it in silence, been killed by sneaky creepers exploding so many times now >.< haha.
+Loving it, so thanks Nano."
+,NanoEntity,2010-12-26T22:25Z,"About the no Sound thing, dont know what to tell you, works on my PC.
+
+Pressing F3 will reload sounds some people say."
+,Crone85,2010-12-26T23:04Z,"@Echelon88
+
+I had this same problem with older versions of minecraft, what fixed it for me what starting minecraft up without an internet connection, then i had sound, and could plug my internet back in.
+
+Btw, anyone have any idea how to install mods on the LAN Server? or can someone direct me to a good tutorial?"
+,Jalopenon,2010-12-27T11:31Z,"Hey dude, what if i just want to remove flying mod and not that light thing. I mean what is that .class mod called if i would like to remove it. I checked ei.class and Zmodfly.class as the original files are named but couldnt find anything. and i needed it to not work in my server. I tried just removing that fly.txt but didnt help"
+,rickjaruiz,2010-12-29T08:31Z,"First of all thank you. I just a had couple of questions. I keep getting [WARNING] Can't keep up! Did the system time change, or is it server overloaded? Also at first people could not build until i made them OP. Is that the only way? Thanks again."
+,kigy1,2010-12-29T15:19Z,"why i cant cant build any thinks in my server
+
+plz help my"
+,lolled14,2010-12-31T14:20Z,"emmm i got the launch.bat working by updating the java... but now i just need some help with the building thing yeah. my problem is that when i write the ""modify asdf groups admins"" it says ""modified user asdf groups -> admins""  but i still can build or brake anything...?"
+,bfiless,2011-01-04T01:10Z,Thanks for the release!  Is there a way to remove hp regen and make creepers actually do something?  Currently they make the exploding sound/animation but cause no damage to anything around them.
+,huldu,2011-01-05T14:12Z,"We really need a ""cracked"" server for beta 1.1_02. Or someone telling us how to do it. Its impossible to connect to it, keeps showing ""Player needs to be logged in""."
+,huldu,2011-01-05T14:22Z,Can you make a server for beta 1.1_02 please?
+,huldu,2011-01-05T14:23Z,Please can you make a working beta 1.1_02 server please?
+,disconsented,2011-01-06T20:59Z,Hey are you going to do this for beta?
+,BulletBill22,2011-01-09T01:57Z,"Excellent work, thanks NanoEntity
+
+However, I have one problem. I've been using Minecraft_Mod.jar to run a server, but they load very very slowly. I don't know if my computer is responsible for that, but it didn't happen with the previous version. Any help would be appreciated, thank you."
+,BulletBill22,2011-01-09T03:58Z,"To elaborate, I can start the server well enough and log in myself, and the loading will take a while. If my friend joins from his computer, it takes a while for him to load the server and I can't load it at all."
+,BulletBill22,2011-01-09T03:59Z,"Also, I updated Java and am using launch.bat now."
+,BulletBill22,2011-01-10T01:54Z,"Alright, so we can both load the server, but sometimes when we destroy things they aren't destroyed, they come back. Sometimes we can't pick things up. Sometimes we take damage for no reason and other times we don't take damage. Besides all of this, There is a 50 second lag in between the server and the client. Any help would be appreciated."
+,bwtw10,2011-01-10T06:10Z,"hey, i got a problem, all the commands wont work"
+,lolitsadam,2011-01-10T08:16Z,I don't get an option to play offline...
+,MoreFree,2011-01-14T21:07Z,"I can't get it working. I've running the server and the client on the exact right way in roaming folder on windows 7 64bit. But my client keeps saying: User not Premuim.
+
+Any help?"
+,etger,2011-01-15T21:36Z,"same problem,
+console commands wont work
+when i type /help or something nothing happens
+please help"
+,YuriCZ,2011-01-22T13:21Z,"Hi, I can't mining in the designated area. Ation of men everywhere, just for a place Sun Do not know what caused it? I put in windows and restore does not work, I deleted. minecraft the server and uploaded again, but it did not help. Thanks;) (translate by Google ;) :D)"
+,ZanySlyocelot,2011-01-23T00:20Z,yea i did everything it said and when i launch it i enter in no login like it said and it says i have to have played online once to go onto offline mode please help me???i really want to play this game alot it looks fun
+,dman551,2011-01-31T23:40Z,"To everyone have trouble running ""launch.bat"" i installed the java SE Development Kit and now it works just fine."
+,Schifty32,2011-02-04T18:32Z,"I have a big problem, in offline mod, i can destroy or built anything, ive tried to put myself admin but i cant do any chat in offline mod when using button T, what can i do to correct that?"
+,xmusicmanx,2011-02-14T03:35Z,"Great torrent, but today i had something messed up with my java and now i cant open the minecraft server jar, i tried using diff extensions and it either pops up an error window or when i open with java.exe it shows a quick bat window then crashes, any help suggestions?"
+,twrntg,2011-02-17T04:29Z,"i was wondering if you could make one that the default group can build, and play as if it was the retail game.. thanks in advance, and amazing mod selections for a secure server.. its just i am trying to play survival with me and 3 friends, and i cant seem to get it working correctly, ican make admins, well at least they have access to all the commands but even they cant punch a tree to get wood.. thanks in advance"
+,Wahahakj3,2011-02-21T00:13Z,"So i got a problem:
+
+My friend and i want to play on an SMP and e has the name spoofer and everything installed correctly, but he can't connect to the server. I gave him the IP that shows up oh whatsmyip.org and it still doesn't work.
+
+He gets the following error message:
+Failedto connect:connect
+
+help please"
+,acido121,2011-02-23T03:24Z,"If you started your own server but your friend can't connect you might have to port forward. Now I have no clue what the fuck this means but I managed to do it and now I can play with my friends =D
+
+This site tells you exactly how to do it (STEP BY STEP):
+http://portforward.com/
+
+This also helped:
+http://www.minecraftwiki.net/wiki/Tutorials/Setting_up_a_server#Configure_the_Minecraft_Server
+
+Any additional help:
+http://lmgtfy.com/?q=port+forward+minecraft
+
+If you some how accomplish this (which I doubt because the majority of you are idiots) use this TO SEE IF YOUR PORT IS OPEN:
+http://portforward.com/help/portcheck.htm
+(trust me. use this instead of portchecker.com or whatever the fuck websites. its a program but it worked when the sites i used didnt.)
+
+p.s. great torrent nano
+p.s.s. im not coming back to answer questions so figure it out mother fuckers"
+,qalibrat,2011-03-06T00:00Z,Please help me since you have changed some stufs but not the read me I'm little lost. I've tried to edit the launcher but can't get it working so i started Minecraft_mod and when I've strated it and launch minecraft through minecraft_name and try to connect to my own server it says Connection lost Failed to login: User not premium and I have changed the users so Qalibrat:admin need help fast pls !
+,qalibrat,2011-03-06T18:28Z,Never mind fixed the launch bat but now i get user not premium :(
+,qalibrat,2011-03-06T18:48Z,Nvm Fixed launchs.bat but now i got a another problem:( when i try to connect to my ip (adn myfriend) it says user not premium :(
+,tommi87,2011-03-08T23:58Z,I cant make a bed or go through the portal to the nether or make electric buttons or electric step need stone to do so but i can only find cooblestone? can anyone help me ?
+,SirRudolph,2011-03-10T03:32Z,Last installment of the alpha nanoentity?
+,NanoEntity,2011-03-13T11:20Z,"not premium means server is not in offline mode.
+
+Which means its for premium users that buyed MC.
+
+Which also means paying only can connect."
+,gg1024,2011-03-13T16:42Z,ok so i cant pull up minecraft.exe because it said it cant pull up java virtual machine...i have an XP so i extracted the file you told me to into appdata but now it wont open either one of the minecraft.jar or minecraft.exe
+,SmegMaster,2011-04-11T12:49Z,"Hey, any news on the beta? I need the up to date server files. :P"
+,Gorila5123sdf,2012-04-30T18:47Z,"hi,i got the launch.bat working but i cant conect to the server.actually i dont know how the fk to connect to it since i cant figure out the adress.i tried with what u mentioned all those xxx.xxx.xxx.xxx but didnt worked.i tried with my ip but said conection refused ..PLEASE HELP"

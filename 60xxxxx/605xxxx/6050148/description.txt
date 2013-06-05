@@ -1,0 +1,12 @@
+EXIF ReGenerate (Free GPL license)
+A program to set the image\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s time stamp right
+ 
+http://ceicer.org/ingemar/exifregenerate/index_eng.php
+
+If the camera clock happened to be dislocated when the pictures were taken, the error is consistently for all images. With EXIF ReGenerate you can set the time right again!
+
+Works with any file that contains exifdata. For example, *. jpg, *. tif, *. cr2
+
+The program works with Linux, Windows and MacOS X. The program is written in C + + and uses Qt4 graphic library. There is a setup program for Slackware GNU / Linux and Windows.
+
+Tested on Slackware 13.0 and 13.1 and on Windows XP and Windows 7.

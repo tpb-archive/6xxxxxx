@@ -1,0 +1,214 @@
+User Type,Username,Date,Text
+,rayr_1,2010-12-22T17:28Z,Thanks for the upload. This will replace my 2008 version :)
+,cityboyup,2010-12-28T07:27Z,Is there a way to make QuickBooks Pro 2011 for Mac to be permanently registered?
+,tkfyall,2010-12-30T23:55Z,"hey itcan't figure out where ""~/Library/Preferences/"" is"
+,tkfyall,2010-12-30T23:58Z,"nevermind, got it right after I posted.. Thanks for the torrent"
+,kessragnell,2010-12-31T08:18Z,"You can't really permanently register it.  If I gave you my serial it would probably screw things up for me, so I might recommend you make an Apple Script, and everytime you want to ""renew"" your registration, just double click on your script and it will do it real fast.  "
+,flwrgurl,2011-01-02T21:39Z,i downloaded this via miro and it said i cannot use with application with my version of osx what is up with that? did i do something wrong please help?
+,up2424,2011-01-03T03:02Z,"Hey everyone i really need quickbooks and i downloaded i but i cant find ~/Library/Preferences/
+
+! please somebody help me.thank you"
+,up2424,2011-01-03T03:11Z,where is ~/Library/Preferences/
+,pipermalibu,2011-01-05T00:11Z,"Open Applescript Editor and place this in it:
+
+do shell script ""defaults write com.intuit.QuickBooks2009 \""REGISTRATION:WindowIndex\"" \""\""""
+
+if (exists application ""QuickBooks 2011"") is true then
+	try
+		activate application ""QuickBooks 2011""
+	on error
+		display dialog {""QuickBooks 2011 couldn't launch. You screwed something up, or need to reinstall it.""} with icon stop buttons {""Darn""} default button 1
+	end try
+else
+	display dialog {""QuickBooks 2011 wasn't found! How can you [k] something that's not there in the first place?""} with icon stop buttons {""Moran""} default button 1
+end if
+
+
+Save it as something like Quickbooks 2011 Start
+
+Then when you want to run Quickbooks, use this instead of the regular icon and it will start it each time properly and reset it."
+,etearl,2011-01-06T03:57Z,"This Applescript will work in 2011.
+
+
+do shell script ""defaults write com.intuit.QuickBooks2011 \""REGISTRATION:WindowIndex\"" \""\""""
+
+if (exists application ""QuickBooks 2011"") is true then
+	try
+		activate application ""QuickBooks 2011""
+	on error
+		display dialog {""QuickBooks 2011 couldn't launch. You screwed something up, or need to reinstall it.""} with icon stop buttons {""Darn""} default button 1
+	end try
+else
+	display dialog {""QuickBooks 2011 wasn't found! How can you [k] something that's not there in the first place?""} with icon stop buttons {""Moran""} default button 1
+end if"
+,arl120384,2011-01-07T07:44Z,"Thanks guys. I am not too familiar with aplescript, however I got it to work and reset when I click 'run'. What did you mean when you said save as? I did this, and it opens up applescript, and in order to open quickbooks you have to Run the code each time. Is this correct?
+
+Thanks"
+,Dowa78,2011-01-14T18:54Z,"@ etearl  & pipermalibu - You're both douchebags.
+
+""QuickBooks 2011 couldn't launch. You screwed something up, or need to reinstall it""
+
+""QuickBooks 2011 wasn't found! How can you [k] something that's not there in the first place?""
+
+""Darn""? ""Moran""???
+
+The correct spelling is ""MORON"" you fucking retards! 
+Get a life and stop trolling, you stupid dirtbags!"
+,depicted_by_affliction,2011-02-10T12:02Z,"You can use a simple Apple script to remove the plist and run the program.
+
+1) Rename QuickBooks 2011 in /Applications to ""QuickBooks""
+
+2) Spotlight Apple Script editor.
+
+3) In the main window Copy and Paste this, changing ""YOURHOMEFOLDERNAME"" to that of your home folder - Full POSIX route required for those users using File Vault.
+SCRIPT BELOW:
+--------------------------------------
+try
+
+do shell script ""rm Users/YOURHOMEFOLDERNAME/Library/Preferences/com.intuit.QuickBooks2011.plist""
+
+end try
+
+do shell script ""open -a QuickBooks""
+--------------------------------------
+
+4) Hit the Compile button at the top, save as application and as QuickBooks 2011 to your desktop or applications folder, drag a copy to your Dock and use the script to open. 
+
+The Script automates the removal of the plist and launches the application.
+
+You can also change the script icon to the QB logo by Command+i on the script and the same on the original QB app in /Applications. Click on the little icon at the top of the Info window and hit command+c, navigate to the script Info window and click on the little script icon and hit command+p. -Now your Apple script looks like the QuickBooks application."
+,depicted_by_affliction,2011-02-10T12:14Z,"I hate trolls and wannabe clever assholes who don't even give people the right information.
+
+A simple compiled Apple Script will make this easy for you guys. With this short guide you will be able to run this script as an app. The Script will remove the plist and then launch the QuickBooks app.
+
+1)Install QuickBooks 2011
+
+2) Rename QuickBooks 2011 in /Applications to ""QuickBooks""
+
+3)In Spotlight search: Apple Script editor.
+
+4) In the main window of the Apple Script Editor Copy and Paste the code below changing ""YOURHOMEFOLDERNAME"" to that of your home folder - Full POSIX route required for those users using File Vault.
+
+SCRIPT CODE:
+
+try
+
+do shell script ""rm Users/YOURHOMEFOLDERNAME/Library/Preferences/com.intuit.QuickBooks2011.plist""
+
+end try
+
+do shell script ""open -a QuickBooks""
+
+
+5) Then hit the Compile button at the top, save as an application and as ""QuickBooks 2011"" to your desktop or applications folder, drag a copy to your Dock and use the scripted app you just created to launch QuickBooks. Everything is taken care for you, and you don't have to open Apple Script Editor and run code every time, this app will do all that for you every time you launch it. 
+
+You can also change the script icon to the QB logo by Command+i on the script and the same on the original QB app in /Applications. Click on the little icon at the top of the Info window and hit command+c, navigate to the script Info window and click on the little script icon and hit command+p.
+
+Hope this helps someone."
+,genuine_radar,2011-02-12T04:12Z,is there a 2011 for windows anywhere that gives full access (not just trial ver.)
+,depicted_by_affliction,2011-02-14T00:33Z,"@genuine_radar, no because the software requires you register online. Use my apple script and just click ""remind me later"" I may get around to looking into how to remove the registration nag screen when I get the chance."
+,nut4golf,2011-02-20T15:13Z,"Rather than deleting the property list (.plist) file each time which also loses any preferences you've set, last file used, etc here is what you can do:
+
+Locate the com.intuit.QuickBooks2011.plist in the /users/youruserid/library/preferences folder using Finder.  Double click the file which should launch the Property List Editor.  Scroll down until you see the key ""IPD_LAUNCH_COUNT"". Change the value to a large negative number, like  -999. Save the file.  You now have over a thousand launches available before you need to go in and edit the plist file again... which you can easily do when it starts nagging you that you're within 15.  Oh yeah, doing this also seems to eliminate the registration nag screen!  "
+,trishanne2,2011-02-24T21:58Z,"
+I have found the IPD_LAUNCH_COUNT but I can't see where the value is to change to the large negative number. Can you point this out a little more clearly for me? Thank you so much. "
+,cromwelld,2011-02-25T20:42Z,"@trishanne2,
+
+You need a property list editor (PlistEdit Pro is a great free one) in order to do this.. Very easy!!!"
+,N3M3R,2011-03-03T01:55Z,"#
+# step 1:
+# delete /User/{username}/Library/Preferences/com.intuit.QuickBooks2011.plist
+# launch Quickbooks 2011 using this script a few times to test..(you will see the 15 days warning once)
+#
+# step 2: skip if step 1 worked  
+# launch QuickBooks 2011 twice. On the second launch you will see 14 days left message.
+#
+# step 3: skip if step 1 worked
+# then in terminal type the following:
+# defaults read com.intuit.QuickBooks2011 REGISTRATION:WindowIndex
+# the value you get should replace {""xxxxxx""} below.
+#  
+
+do shell script ""defaults write com.intuit.QuickBooks2011 \""REGISTRATION:WindowIndex\"" \""xxxxxx\""""
+
+if (exists application ""QuickBooks 2011"") is true then
+
+	try
+		activate application ""QuickBooks 2011""
+	on error
+		display dialog {""Can not start QuickBooks 2011.""} with icon stop buttons {""Error""} default button 1
+	end try
+
+else
+	display dialog {""QuickBooks 2011 not found.""} with icon stop buttons {""Error""} default button 1
+
+end if
+
+change the icon:
+from depicted_by_affliction at 2011-02-10 12:14 CET:
+You can also change the script icon to the QB logo by Command+i on the script and the same on the original QB app in /Applications. Click on the little icon at the top of the Info window and hit command+c, navigate to the script Info window and click on the little script icon and hit command+p. -Now your Apple script looks like the QuickBooks application."
+,mojo9156,2011-03-04T07:05Z,Does anyone know where I can get this for a Windows 7 PC? Thanks!
+,htd01,2011-03-27T09:22Z,"This is the Entry version.  Will let you do most of what pro allows... ...but some small bells and whistles will never be working... ...I can edit the invoices, but I cannot change the order of fields in the main body table... ...which is an advanced edit function in the pro version.  This is Quickbooks 2011, not quickbooks pro 2011.  Big difference."
+,Pirate-David,2011-04-10T01:27Z,"So, its this working or not!? I got all confuse after all those comments!"
+,yeremix,2011-04-17T07:44Z,"Thanks @depicted_by_affliction. The script works great. The registration windows is kind of annoying but hey it is a $200 savings.
+
+@N3M3R your script gives a connection error.
+"
+,RadBag,2011-04-23T18:32Z,"No programming needed! Put a lock on the file ""Users/YOURHOMEFOLDERNAME/Library/Preferences/com.intuit.QuickBooks2011.plist"" it will always be 14 more to go. You can also set it back to 1 (or maybe less) using BBEdit or other XML reader program. Look for ""IPD_LAUNCH_COUNT
+	15""  and change to ""IPD_LAUNCH_COUNT
+	1 ""
+Then Lock the file. You still will have to get rid of the 15 day reminder."
+,i8my4re,2011-04-27T01:27Z,"thx @RedBag, this is the best solution, cheers"
+,martyge1,2011-05-25T18:01Z,"I am unable to download this file.  Here is the error message I get when I try to download:
+
+Safari can’t open the file “QuickBooks_2011_Pro_for_Mac_OSX.6057306.TPB.torrent” because no available application can open it."
+,ohce86,2011-06-15T16:10Z,"First, those who do not know what ~/Library/Preferences/ means should bone up on both Unix and OS X.  Second, nut4golf's solution (turning back the QB clock by editing the Preference file) seems to be the most painless solution to vanquishing the annoying 15 day trial period warning.  "
+,cdginc,2011-07-06T00:09Z,can you still link to account and cc transactions with this script in place? any issues on 10.6.8?
+,ooorrr32,2011-07-13T23:10Z,"I tried nut4golf's solution and it didn't work: I tried -999 and lots of different numbers, tried changing the seed as well, but the count just kept going on and the reminder window kept popping. Is there an instruction missing or some other variable to change? 
+
+(BTW, I saw this problem both without updating the client - i.e. keeping R1 - and after updating the client - i.e. going to R9.)
+
+In the meantime, I'm just locking plist, which (as others have noted) means you lose all your state, but at least you can use the product."
+,KOKOCHANEL,2011-08-12T00:58Z,"I am having problems running QB 2011 in Lion 10.7> I have installed and run QB2009 with no problems, however for this one I can not even locate the com.intuit file. Can any body confirm using the software with 10.7 and if so...please post instructions for good KARMA"
+,mosevens,2011-08-24T00:32Z,There is no com.intuit.QuickBooks2011.plist on Lion that I can locate in Library/Preferences. Any help would be appreciated.
+,avian_flew,2011-09-08T13:53Z,"[User}/Library folders are hidden by default in Lion.
+
+There are various ways to get into them but this is the method to make them permanently visible again.
+
+Open the Terminal app (Applications/Utilities).
+Type the following then hit return....
+chflags nohidden ~/Library
+
+You'll find Library has magically reappeared in the Finder window and you'll soon find the com.intuit file."
+,steinpiaz,2011-10-25T22:17Z,"you can also go into the preferences folder, click ""get info"" on this and ""lock"" the preference file.  This keeps QBs from writing how many times you have opened it and you can then open it as many times as you want (with deleting it every 15 uses).  I like to open and close it a couple times so I don't get the ""you have 14 uses"" (or whatever) message all the time..."
+,gruntworker,2012-01-27T14:10Z,"steinplaz - great solution - THANKS! (I really would hate to have to pay for such shitty software.)
+
+To clarify for 10.7 Lion, locate 
+
+library>preferences>com.intuit.QuickBooks2011.plist
+
+Get info, set sharing permissions (very bottom) to read only."
+,gruntworker,2012-01-27T19:16Z,"Sorry, stoopid comment previously - I'm new to Mac. 'Locked' is under the 'Label' designator - litle row of colored boxes at the top."
+,lovetorrentsNY,2012-02-04T06:32Z,"Yeah i have lion 10.7 and with Lion Tweaks you can set it to show the library in your hdd for all the n00bs. Been a long time supporter of torrents on this site short time member. 
+
+There is no com.intuit file that is created. Has anyone else that has 10.7 help me out so that I can reset the uses. 
+
+Thanks,"
+,kentur89,2012-02-07T08:58Z,can anyone plz send me a stupidfy version of how to do the /library/preferences/ because i can not find it and doing the apple scrip i cant follow if anyone is willing to post a video or knows someone that has one up plz post the link that would be very helpful
+,jam8765943,2012-02-21T03:12Z,"Download went smooth and your directions are basic. I installed program, went to finder (bottom left of screen) clicked library then prefrences then deleted the ""com.intuit...."" files. The files keep re appearing in this file and which is no big deal to delete them on my last trial offer. But then I have to restart the company over as well. So it works for me but doesnt work for me.... 
+
+ANYONE help me please!"
+,Anterjot,2012-05-08T22:09Z,"Okay guys, I found a really simple solution. (Lion)
+
+1) Make it show library by going to Terminal. Once you open in terminal and paste this:
+
+chflags nohidden ~/Library
+
+2) Now open up finder and go to Library
+3) Click ""Get Info""
+4) Scroll to the bottom of the window that opened up and you'll see a Lock symbol. Click that and type in your password.
+4) Now under Sharing & Permissions, its going to say ""System-Read&Write Only""... Change that to ""Read Only""
+5) Click the lock symbol again to make sure no one can change these options again
+6) Your all set :)"
+,1bear1,2012-06-24T17:39Z,"I downloaded the 2011 for the new macpro but can't seem to get past the trial.  Any help would be great.
+Thanks!"

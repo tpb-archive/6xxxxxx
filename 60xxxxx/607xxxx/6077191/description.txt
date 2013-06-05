@@ -1,0 +1,137 @@
+  HELLO I HAVE INCLUDED ALL THE STUFF YOU NEED TO PUT ANDROID ON NAND ON THE HTC HD2
+IF NOT SURE WHAT NAND IS WELL IT REMOVES WINDOWS MOBILE FROM THE PHONE AND INSTALLS ANDROID
+NO LONGER DO YOU NEED ANDROID ON SD TO RUN IT :) 
+
+                            THANKS TO THE DARK FORCE TEAM (DFT)
+
+
+
+
+
+HERE ARE THE STEPS  THANKS TO mskip of XDA 
+
+I wrote this thread for users who need more newb friendly instructions on flashing a NAND Android Rom to their phones.
+
+IF YOU HAVE ANY QUESTIONS PLEASE READ THE FAQ BEFORE POSTING!!
+
+*DO NOT start another process while any flashing process is taking place*
+*DO NOT click off of the status bar... Let it stay in the foreground* 
+*DO NOT let the Screensaver (on your pc) activate* 
+Any of these can lead to a bad flash and possibly brick your phone
+
+
+Requirements BEFORE Starting with this guide
+
+1. You need a RADIO which supports 576 RAM (2.08 or later should be fine)
+2. You need HARDSPL 2.08 installed on your device to flash MAGLDR
+3. Download MAGLDR 1.11 package from *HERE* and extract to an empty folder
+4. Download NAND Android package from *HERE* and extract to an empty folder
+* There are other NAND Android Roms available in the HD2 Android Development Forum *
+
+NOTE: You do NOT need to flash a Stock Rom before starting this, a Custom Rom will be fine as long as you have HardSPL 2.08 and a 576 RAM compatable Radio
+
+If you dont have 1 or 2 on your phone then goto *THIS* thread for instructions on how to install HardSPL and update your Radio
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+YouTube Video thanks to TechBurrow:
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+1. FLASH MAGLDR TO YOUR DEVICE
+
+The Original MAGLDR Thread by Cotulla is *HERE*
+
+NOTE1: LEO512 and LEO1024 are both supported
+NOTE2: MAGLDR doesn't replace OSPL/HSPL. It runs in the chain after. So it's safe to install and remove it.
+
+1. Synch Phone with PC in Windows Mobile!!! It has to be connected to activesync or WMDC via USB cable
+2. Browse to the folder you extracted your Magldr Package files to on your pc, right click on ROMUpdateUtility.exe and select Run as Administrator
+3. Tick the box to confirm you are aware of the risks and select 'Next'
+4. Tick the box to confirm you have followed the preperation steps and select 'Next'
+* The program will now check the usb connection *
+5. Select 'Update'
+6. Verify the image you will flash (it should say 2.00.000.0) and Select 'Next'
+7. Read the process list and Select 'Next'
+8. Your phone will enter BootLoader Mode and the progress will goto 100%
+9. Your phone will now Reboot. Congrats, you just flashed MAGLDR.
+
+NOTE: To Enter MAGLDR Menu Screen after installation, Long Hold the Power Button when resetting the phone and the menu will appear
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+2. FLASH YOUR ANDROID ROM
+
+The Original NAND Android Thread by Cotulla is *HERE*
+
+NOTE1: This section is only applicable AFTER you have flashed MAGLDR to your Device
+NOTE2: Make sure your phone is still connected via usb cable before starting 
+
+* When your phone Reboots it will Enter the MAGLDR Boot Menu Screen *
+1. Press the 'Volume Down' button to goto Option 4: USB Flasher and press the 'Call' button (far left of the 5 hardware buttons at the bottom)
+2. The menu will enter Android Flasher mode and install usb drivers if not present
+3. Browse to the folder you extracted your NAND Android Package files to on your pc, right click on Run DAF.exe and select Run as Administrator
+4. Read ALL the text and then select 'Next'
+5. Read the information and select 'Next'
+6. The installer will now detect USB and then flash your Android Rom to NAND
+* You can follow this progress on your Phones Screen *
+7. When flashing is complete your phone will Reboot and proceed to boot Android from NAND
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+3. FLASHING A NEW NAND ANDROID ROM OVER A PREVIOUS ONE
+
+Once you have flashed Magldr to your device you do not have to go through the whole process again if you want to flash a new NAND Android Rom:
+
+1. Turn your phone off
+2. Restart your phone by holding down the 'Power' button until the Magldr Menu appears
+3. Press the 'Volume Down' button to goto Option 4: USB Flasher and press the 'Call' button (far left of the 5 hardware buttons at the bottom)
+4. Browse to the folder you extracted your NAND Android Rom files to on your pc, right click on Run DAF.exe and select Run as Administrator
+5. Since you already have a NAND Android Rom on your phone you will be asked if you want to keep your existing data
+6. Read ALL the text and then select 'Next'
+7. Read the information and select 'Next'
+8. The installer will now detect USB and then flash your Android Rom to NAND
+* You can follow this progress on your Phones Screen *
+9. When flashing is complete your phone will Reboot and proceed to boot Android from NAND
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+4. FLASHING AN ANDROID SPLASH SCREEN
+
+If you want to give your phone the total Android experience then you are in luck. 
+
+I made a few Splash Screens that can be flashed very easily as well as including the Original Stock Splash Screen if you change your mind.
+
+Go to *THIS* thread for instructions and downloads.
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+5. UNINSTALLING MAGLDR AND NAND ANDROID
+
+To uninstall Magldr and any Android Rom that you installed to NAND, download a Stock Rom from *HERE* (for LEO512 ONLY, LEO1024 users will have to use a TMOUS compatable Stock Rom). Enter Bootloader Mode by taking the battery out, then put it back in and hold down the 'Volume Down' button while briefly pressing the power button. After the phone enters the Bootloader Screen, plug in the usb cable so it says usb at the bottom of the screen and then run the Stock Roms .exe file. This will flash a Stock Rom and Radio while keeping your HardSPL untouched.
+
+You can also flash a Custom Rom to uninstall Magldr in exactly the same way if desired.
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+Useful Information
+
+How to Enter the Magldr Menu Screen
+1. Turn your phone off
+2. Long Hold the Power Button until the Magldr menu appears
+
+
+How to get into your Bootloader Screen
+1. Turn your phone off
+2. Press and hold the 'Volume Down' button then briefly press the 'Power' button to switch the phone on. Let go of the 'Power' button but keep holding the 'Volume Down' button until the tri-coloured screen appears (should take around 3 seconds). 
+3. To exit Bootloader you need to remove your back cover and pull the battery out for a few seconds, then replace it and press the 'Power' button to reboot your phone.
+
+*DISCLAIMER*
+I take no responsibility for any fault or damage caused by any procedures within this guide. No warranties of any kind are given.

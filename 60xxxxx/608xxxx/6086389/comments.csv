@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,ssboy,2011-01-16T21:48Z,"For sum reason the Prisoner of Ice crashes on my mac always on the same point. After the captain is killed in the hold right at the beginning.
+What's up with that and how can I fix it?
+
+Oh and thanks for putting up this game. It's legendary!"
+,byrn,2011-01-17T22:47Z,"Great upload, but it looks like to copy protection is still active on Kyrandia 1?
+
+I've tried typing in gibberish, ""x"", and just hitting enter, (which message boards suggest) none of them work."
+,byrn,2011-01-17T22:53Z,"I also get the same crash at the same time w/ Prisoner of Ice, btw."
+,ssboy,2011-01-18T18:16Z,Good to hear so it's not just my mac. Well not GOOD to hear but anyways. Huge shame since it's a brilliant game and there's absolutely too few Cthultu games for computer.
+,rotfuhr666,2011-01-23T11:30Z,"I had the same trouble with Prisoner of Ice, but got it working. Here's how:
+
+Right-click Prisoner Of Ice (1995).app and select Show package contents. In the new window, go to Contents -> Resources and open the file dosbox.conf in Textedit or similar. On one of the last lines in the file you'll see the following:
+
+pause
+c:
+ice640
+
+Change this to:
+
+pause
+d:
+ice640
+
+This will make the game think it loads from the CD, and for some reason that makes it not crash when saving, or when the prisoner starts breaking out."
+,foght,2011-09-02T14:43Z,Can anyone else get North & South to work?
+,wendy23thimble,2012-02-15T16:24Z,"about kyrandia, it asks of some pages with symbols and unless typing the correct password it shuts down.. where do i find those pages?"

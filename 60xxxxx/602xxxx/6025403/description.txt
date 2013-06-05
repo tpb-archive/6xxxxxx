@@ -1,0 +1,62 @@
+Acronis True Image Home 2011 14.0.0.6597
+
+Plus Pack - Media Addons - Bootable Media
+
+Release date: 9-December-2010 
+Build: 6597 
+
+New in the build
+Added the Video tour link. 
+Added the Bootable Media Creation item on the main page 
+Added "Timeout settings" allowing the user to adjust the timing of cancelling operations that would otherwise cancel automatically. 
+Backups can now be sorted by name, date of creation or update, type, and size on the Home page. 
+Updated kernel in Acronis Rescue Media for better hardware support. 
+Updated Windows Libraries support (Windows 7 only). 
+Added ability to turn off and on items added by Acronis context menu and file properties 
+Installation procedure
+The installation procedure is straightforward. Please, run the downloaded executable file and follow instructions.
+
+List of fixed issues
+Acronis True Image Home gives the error message "Acronis True Image home is not installed" when trying to update Acronis True Image Home Box Version to the latest build via Liveupdate. 
+Windows backup can't be enabled via Windows Control Panel after updating Acronis True Image Home 2011 to the latest build from build no. 5105 (online release). 
+E-mail notification doesn't work if the mail server specified in the Notification settings doesn't require authentication. 
+Consolidation settings are not saved if the task is edited in a custom scheme. 
+Acronis True Image Home 2011 becomes a trial version after upgrading from Acronis True Image Home 2010 and Update to the newest build. 
+After upgrading from Acronis True Image Home 2009 or 2010 to Acronis True Image Home 2011 incremental slices are detected as single backups. 
+After system recovery, the system backup status is lost and changed to "not backed up yet". The user needs to browse for the backup to fix the issue. 
+The backup name is missing from the search results of Nonstop Backup. Therefore, if a user does not see a backup name in a search result, he or she should know that these files are from Nonstop Backup archives. 
+Pre/post commands are not saved if entered without using the Edit button. 
+If individual backup versions are deleted through Time Explorer, Acronis True Image Home 2011 does not remove them from HDD and the user has to remove them manually. 
+Impossible to add partition to Nonstop Backup after its start. 
+Nonstop Backup stops (various issues fixed). 
+Acronis True Image Home 2011 does not restart Nonstop Backup automatically after USB-storage has been reconnected. 
+Nonstop Backup session stops with the log error "No such interface supported" if there's not enough free space on a storage disk. 
+It is impossible to explore inactive storages of Nonstop Backup. 
+Computer may hang if it is left unattended with Nonstop Backup running. 
+Acronis True Image Home 2011 gives the error message "Insufficient privileges", if you try to change the location or settings of NSB under the Administrator account. 
+Split backups are not deleted from the storage during clean-up. 
+File backup fails if the source data is deleted. There is no ability to deselect a non-existing backup source for a backup task. 
+Scheduler2 helper service prevents Windows XP from shutting down after using the "At system shutdown" task for the first time and rebooting for the second time after that. 
+Acronis True Image Home 2011 doesn't connect to FTP if the user enters the address manually. 
+To recover a deleted account with e-mail messages in the Live Mail, it is necessary to perform two recovery operations. 
+"Overwrite file" options in disk recovery options are lost. 
+The "Open backup location" button is available for postponed backups but should not be. 
+It doesn't matter whether the user unchecks some files inside the folder during restore: Acronis True Image Home 2011 restores the folder with all of its contents. 
+Acronis True Image Home 2011 does not remove archives from the disk when you try to delete a backup along with its task. 
+Windows Live Mail hangs on startup or displays a corrupted calendar message if Nonstop Backup protection of a system partition is started. 
+Acronis True Image Home 2011 crashes when trying to back up a mailbox in Microsoft Outlook 2010 x64. 
+Acronis True Image Home 2011 asks for Windows credentials when backing up to a network share without password protection. 
+Acronis True Image Home 2011 fails to back up files from a network share with "File or folder '\\Server\share\file' cannot be found", if the share was opened in Windows. 
+List of known issues
+There is a known conflict of Acronis True Image Home 2011 Nonstop Backup with the Avira antivirus software, which may lead to the following error on the Acronis True Image Home 2011 side after installing Avira Free AV and restarting the PC: "Operation has been aborted. The item essence is incorrect. Probably metadata in the file archive is corrupted." This conflict occurs only with Avira antivirus. Other antivirus solutions do not conflict with Nonstop Backup. Both companies are working closely together to find a solution and, once known, a solution will be delivered by either Avira or Acronis. In the meantime, you can find the problem details and a workaround at http://kb.acronis.com/content/16376 
+During clean-up of a Nonstop Backup storage, there is no progress visible to the user and Acronis True Image Home 2011 may seem to hang. In fact, the clean-up process is in progress. The clean-up may take some time before the program returns to normal operation. 
+The "Ver." column in the search results is empty if you search in file contents using the search field in Acronis True Image Home 2011 console. 
+It is possible to install Acronis Backup and Security 2010 over Acronis True Image Home 2011. 
+In Online Backup, the "Missed tasks: Run at system startup" option is lost during migration from 2010 to 2011 version. User needs to re-select it manually after completing upgrade. 
+When using Acronis Rescue Media, a confusing message "Enter the full path to the file" appears if a user tries to back up to a network share. If the user waits for some time, an authorization window appears. 
+Acronis Startup Recovery Manager becomes deactivated after a full disk recovery with resize, and needs to be reactivated manually. 
+If a user backs up files from two different partitions when using Online Backup, Time Explorer does not automatically switch to the latest created slice. 
+In Online Backup the ob_client_standard.exe process exits with a delay of 10-60 seconds after application exit. 
+In Online Backup the "Once a day only" checkbox does not work. 
+In Online Backup the storage browser is updated very slowly after completion of a large backup. 
+

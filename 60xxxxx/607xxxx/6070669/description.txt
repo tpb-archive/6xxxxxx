@@ -1,0 +1,67 @@
+--------------------------------------------------------------------------------
+       WGET MIRROR OF MIRROR.WIKILEAKS.INFO (ALL LEAKS) -- DEC 27, 2010 
+--------------------------------------------------------------------------------
+ --  Thank you for seeding! -- 
+--------------------------------------------------------------------------------
+
+This is everything available from mirror.wikileaks.info and wikileaks.ch as of 
+Dec 27, 2010.
+
+You can find the main mirror.wikileaks.info page at:
+
+mirror.wikileaks.info/index.html
+
+The wiki pages can be found in:
+
+mirror.wikileaks.info/wiki/
+
+If you just want the raw data, look in the following directories:
+
+file.wikileaks.info/leak
+mirror.wikileaks.info/leak/ 
+mirror.wikileaks.info/files/ (9/11 pager intercepts)
+mirror.wikileaks.info/w/images/
+cryptome.net/
+torrents/
+
+The torrents folder contains all wikileaks related torrents. If 
+you want to help wikileaks, it would be a good idea to seed these torrents.
+The .torrent files can be found in "torrents/torrent".
+
+The links aren't all perfectly fixed. For example if a link points to 
+'http://cryptome.net/afg-war-diary.csv.7z' just open the 'cryptome.net' folder 
+to find that file. The same applies for 'file.wikileaks.info'.
+
+----UPDATING--------------------------------------------------------------------
+
+It seems as though WikiLeaks is still adding content. To update:
+
+0. If you are on windows, you need wget:
+ 	http://users.ugent.be/~bpuype/wget/
+
+1. cd into the directory that contains the folders: mirror.wikileaks.info,
+	file.wikileaks.info, and cryptome.net
+
+	*** Make sure you're in the right folder, 
+	or wget will try to re-download the entire website! ***
+
+2. run the command:
+
+	wget -w 10 -m -k -K -E -H \
+	-Dmirror.wikileaks.info,file.wikileaks.info,cryptome.net \ 	http://mirror.wikileaks.info
+
+	To update wikileaks.ch, run:
+
+	wget -w 10 -m -k -K -E -H  --exclude-domains=www.swisswikileaks.ch \
+	-Dwikileaks.ch http://wikileaks.ch
+
+	It may take a few hours to a few days for the downloads to complete.
+
+3. Check for any new .torrent files, download & seed.
+
+	find ./ -type f -iname "*.torrent"
+
+----ENJOY AND SHARE-------------------------------------------------------------
+
+"Thousands of candles can be lit from a single candle, and the life of the 
+candle will not be shortened." - Buddha

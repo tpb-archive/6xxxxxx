@@ -1,0 +1,9 @@
+Here is Windows 2000 Professional Service Pack 4 Final 2011 Edition. There is no nonsense added and it is fully updated to January 2011! (I say this because this is when I made it, technically it has all the final updates through Nov 2010)
+
+I made this with nlite using the instructions at the following site: http://www.msfn.org/board/topic/97047-up-to-date-windows-2000-install-media-creation-guide/
+
+It is bootable, no key required, and the install is FULLY unattended. It creates an admin user "WIN2K" which logs in automatically with no user/pass prompt, sets the timezone to EST (GMT - 5hrs) and sets the workgroup to "RESEAU" (I never liked using the default "WORKGROUP") but you can change any of these post-install.
+
+After the regular install part is done it should reboot twice. Before the last reboot it will load into the operating system and install some final updates that nlite can't integrate. Wait til everything is done and it will reboot for the last time.
+
+Enjoy, comment and seed!

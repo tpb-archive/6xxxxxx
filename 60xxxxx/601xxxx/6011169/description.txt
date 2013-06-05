@@ -1,0 +1,7 @@
+MIDletPascal is Pascal-like programming language specifically suited for development of mobile applications. MIDletPascal compiler translates Pascal code into Javaâ„¢ micro edition (J2ME) bytecode. Programs written in MIDletPascal can be executed on any mobile device (such as mobile phones) supporting MIDP 1.0 and CLDC 1.0 platform. 
+
+With MIDletPascal language developing mobile applications is easy and straightforward. If you are already familiar with Pascal, Delphi or Kylix you can start writing your own mobile applications within minutes.
+
+MIDletPascal comes with user-friendly IDE (integrated development environment) for Windows. The IDE has integrated compiler, Java bytecode preverifier, JAR archive builder and emulator so compiling and building MIDlets is as easy as a push of a button. 
+
+Since MIDletPascal generates low-level Javaâ„¢ bytecode, generated MIDlets have small footprint and run fast. Some similar tools that can be found on the Internet generate an intermediate code and pack it with an interpreter into a JAR file - that approach creates large JAR files for distribution and yields slow execution. MIDletPascal directly generates Java bytecode, so you donâ€™t need Java compiler installed on your machine, and compile process is very fast.

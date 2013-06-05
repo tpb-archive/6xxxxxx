@@ -1,0 +1,83 @@
+Another of my bloat reductions.  This was available as a 7.85 GB dual-layer ISO image and a few 700 MB options.  I don't think 700 MB is enough to store a two-hour movie at decent quality, especially not one as visual as Somewhere in Time, but 7.85 GB is way too much to make everyone download!
+
+So I downloaded the 7.85 GB ISO image and deconstructed it.  This torrent contains the movie in a 1.5 GB AVI and all the extras in their own separate AVIs.
+
+Extras include a 1 hour "Making of..." featurette, a short about the movie's fan club 'Insite', and a two minute theatrical trailer.  There are also a couple of small AVIs that are full of production notes and still photos.  I can't find an AVI player that will let me frame-by-frame through them, but I will include them for the sake of completeness.
+
+The feature has two stereo audio tracks, English and French.  I could only put two audio tracks into the AVI, so the director's commentary is included as a separate MP3 file.  If you start the MP3 and the movie at the same time, they should sync up perfectly.
+
+Subtitles in English and Spanish are included in external sub/idx files.
+
+The total size of the torrent is 2.3 GB.  You can download it all or de-select the files you don't want in your torrent client.
+
+
+
+MediaInfo:
+
+General
+Complete name                    : Somewhere_in_Time_1980.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 1.45 GiB
+Duration                         : 1h 43mn
+Overall bit rate                 : 2 013 Kbps
+Writing application              : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library                  : VirtualDubMod build 2540/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Muxing mode                      : Packed bitstream
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 1h 43mn
+Bit rate                         : 1 615 Kbps
+Width                            : 736 pixels
+Height                           : 384 pixels
+Display aspect ratio             : 1.917
+Frame rate                       : 23.976 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.238
+Stream size                      : 1.17 GiB (80%)
+Writing library                  : XviD 1.0.3 (UTC 2004-12-20)
+
+Audio #1
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Codec ID                         : 2000
+Duration                         : 1h 43mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Stream size                      : 142 MiB (10%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 42 ms (1.00 video frame)
+Interleave, preload duration     : 500 ms
+
+Audio #2
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Codec ID                         : 2000
+Duration                         : 1h 43mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Stream size                      : 142 MiB (10%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 42 ms (1.00 video frame)
+Interleave, preload duration     : 500 ms

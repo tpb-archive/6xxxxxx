@@ -1,0 +1,76 @@
+For Help go here: 
+http://kaen-paradise.co.cc
+
+Released by Kaen on 6th Dec 2010
+
+=======================================================
+
+What's NEW in Kaen's MEGAPACK v1.2.6+?
+
+Everything is prepatched/compiled/decompiled/built/fixed/modded/hacked/cracked/tested & VERIFIED by Kaen so you don't need to mess with the jar files or classes. So you know that it simply works! 
+
+This pack works great for both Premium users and those of you who are not! 
+Remember that the prices go up 50% when we hit beta in 1-2 weeks-ish! 
+
+Latest HD Texture Packs - HD Animations! Portals/Water/Lava/Fire. Includes 10 of the BEST High Definition (HD) Texture Packs from 32x32 to 128x128 (SP & MP)
+16x16 SD Texture Packs - Updated Eldpack, Painterly, MixCraft Basic and Quandary Texture packs (SP & MP)
+MiniMap - Ever been lost? Never again! Zoom-in/out, Full Screen Map! Advanced waypoints system! (SP & MP)
+Advanced Chat - Scroll through the last 300 chat messages with your mouse wheel or arrow keys, CTRL+C copies, CTRL+V Pastes and ALL Chat is saved into chatlog.txt in case you missed something or want to report evidence of a griefer! (MP Only)
+Portal Teleportation - Teleport to the Nether or Other Servers via Portals. Requires Server running hMOD b131+ and ServerPort plugin (MP Only)
+Ambient Occlusion - More Realistic Lighting / Fading Effects (SP & MP)
+
+
+=======================================================
+
+Words from Notch (Developer of MineCraft)
+
+Bug fix list:
+
+* Added /kill command. Does 1000 points damage to the player
+* Did some patching client side to prevent duplicated entities
+* The join server page now remembers the port as well as the ip
+* Fixed a bug where joining a server on a specific port caused the client to forget all keybindings
+* Added lakes and rare lava pools, both on the surface and randomly in caves.
+* Fixed a crash bug when destroying the vehicle from under a player
+* Players connecting to a server or respawning are invulnerable for three seconds
+
+!NEW Bugs!
+* Rather than kill you, /kill turns you into a ghost. (ie. you cant die, cant pick up items and monsters won't attack you). Solution is to delete playername.dat file located in the world folder.
+
+Stay tuned at Kaen-Paradise.co.cc
+
+
+=======================================================
+
+Upgrading?
+
+(Many things have changed, I *HIGHLY RECOMMEND* deleting your old
+.minecraft folder and unpacking this fresh.)
+
+But if you wish to do a normal upgrade.
+Replace your MineCraft folder in ".minecraft" with this one.
+Overwrite all files. Start MineCraft by running Launch.bat or Launch_x64.bat
+Enjoy!
+
+
+=======================================================
+
+Install Instructions:
+
+UNPACK your RAR into %appdata% folder.
+
+This is how your folder should look like after it's unpacked
+Make Sure you change "Your User Name" with your actual username
+
+Windows 7: 
+C:\Users\Your User Name\Appdata\Roaming\.minecraft
+
+Windows Vista: 
+C:\Users\Your User Name\Appdata\Roaming\.minecraft
+
+Windows XP: 
+C:\Documents and Settings\Your User Name\Local Settings\Application Data\.minecraft
+
+
+That's ALL now Run "Launch.bat" or "Launch_x64.bat" to play!
+If you have Win7 and 64bit Java with 4GB or more RAM you can run "Launch_x64_4GB.bat" (5GB or more required)

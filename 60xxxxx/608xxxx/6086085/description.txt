@@ -1,0 +1,158 @@
+
+    All tools need to Hack your PlayStation 3
+
+    
+    January 4, 2011
+
+    PS3 Custom Firmware Creator Released! Permanently Add â€œInstall PKGsâ€ to the XMB
+
+
+    Say whaaat? If youâ€™re following KaKaRoTo you know exactly whatâ€™s up:
+
+    First CFW working. 
+        Grabthen â€œ./create_cfw.sh PS3UPDAT.355.PUP CFW.PUPâ€. 
+	Permanently adds â€œinstall pkg filesâ€ menu.
+
+    Iâ€™m playing with it nowâ€¦ Iâ€™ll report back later. In the meantime:
+
+    Download ps3 utilities and ps3 tools from github / team fail0verflow:
+
+       # git clone https://github.com/kakaroto/ps3utils.git
+       # cd ps3utils
+       # make
+       # cd ..
+       # git clone git://git.fail0verflow.com/ps3tools.git
+       # cd ps3tools
+       # make
+       # cp pkg unpkg ../ps3utils
+
+    Grab the PS3 encryption/decryption/signing keys from github:
+
+        # git clone https://github.com/kakaroto/ps3keys.git ~/.ps3
+
+    Download PS3 3.55 (or whatever official firmware PUP) from here
+    Extract and copy â€œPS3UPDAT.PUPâ€ to the â€œps3utilsâ€ directory
+    Create the PS3 Custom Firmware (CFW) from the original/official update (OFW):
+
+        # cd ps3utils
+        # ./create_cfw.sh PS3UPDAT.PUP CFW.PUP
+
+    Copy and rename CFW.PUP to a USB storage device keeping this directory structure in mind: /PS3/UPDATE/PS3UPDAT.PUP
+    Connect that USB device to your PS3 and install from Settings -> System Update
+
+    If youâ€™re currently running 3.41 (or earlier) you can either remain there and create 
+    a specific CFW PUP for that version, or you can upgrade to a later PS3 firmware version, 
+    like 3.55 for example. Itâ€™s whatever original PUP file you use â€” only you cannot flash 
+    a version lower than the current version installed on your PS3. So if youâ€™re already at 3.55, 
+    where youâ€™re unable to downgrade, then for the moment you have no other choice but 
+    CFW (or OFW) 3.55. 3.41 on the other hand: upgrade or create CFW 3.41 and for the interim 
+    youâ€™re still able to jailbreak and run unsigned â€˜brews. See the other notes below.
+
+    Other things to note:
+
+    This CFW does not modify the kernel in any way, meaning all the current compiled 
+    homebrew out there will not install or run using â€œInstall Package Filesâ€ from the XMB.
+    With the above point in mind you should know this CFW does not enable piracy. 
+    No piracy, no backups â€” straight homebrew.
+    Current PS3 homebrew and new homebrew will need to be â€œretailâ€ packaged and signed; 
+    thatâ€™ll happen with fail0verflowâ€™s tools.
+    This is only the beginning. Prepare yourself for utter and absolute awesomeness.
+
+Update: Flashing 3.55-KaKaRoTo now!
+Update: And success! She flashed without bricking! Mind you, as jjolano reports via the 
+	comments, many XMB items under the GAME menu are missing: Trophies, Game Data Utility, 
+	Save Data, etcâ€¦ Games (disc loaded) still boot, install and play however. 
+	Iâ€™m online with PSN too. Go Netflix!
+
+Update: Iâ€™ve converted two PUPs for you: 3.55 and 3.41. Grab â€˜em.
+
+Update: Depending on your situation you may need to install the CFW PUP from the PS3 Recovery Menu. 
+	To do that, follow these steps:
+
+	Ensure the PS3UPDAT.PUP is in /PS3/UPDATE/ on your USB device.
+	Power down the PS3.
+	Now press and hold the power button, the system will startup and shutdown again.
+	Release the power button, then press & hold power again, youâ€™ll hear one beep followed 
+	by two consecutive beeps.
+	Release power then follow the on-screen instructions. Youâ€™re now in the recovery menu.
+	Connect the USB device and select â€œSystem Update.â€
+	Hope for the best.
+
+	Thanks for the tip, Carlos. Note: you can restore OFW using the above method too.
+
+Update: KaKaRoTo has fixed the missing XMB menu items and also enabled is PS1/PS2 support 
+	for backward compatible models. So here are new PUPs for your flashing pleasure.
+
+-------------------------------------------
+
+Binary files:
+
+* PS3 CFW 3.41
+
+Filename: PS3_341-KAKAROTO_CFW.RAR
+Size: 167.17MB
+Downloads: 4,333
+
+Description:
+PS3 Custom Firmware 3.41. 
+Created using KaKaRoTo's PS3 CFW Creator. 
+Permanently adds "Install Package Files" to the XMB for retail/signed PKGs only.
+
+----------
+
+* PS3 CFW 3.55
+
+Filename: PS3_355-KAKAROTO_CFW.RAR
+Size: 170.71MB
+Downloads: 8,401
+
+Description:
+
+PS3 Custom Firmware 3.55. 
+Created using KaKaRoTo's PS3 CFW Creator. 
+Permanently adds "Install Package Files" to the XMB for retail/signed PKGs only.
+
+
+--------------
+
+* fail0verflow PS3 Tools for Win32
+
+Filename: fail0verflow_ps3tools_win32.zip
+Size: 1.47MB
+Downloads: 6,821
+
+Description:
+An early build of fail0verflow's PS3 tools for Windows. Package includes:
+
+    pupunpack
+    readself
+    sceverify
+    unpkg
+    unself
+    makepkg
+    makeself
+    norunpack
+    puppack
+
+-----------------
+
+* fail0verflow PS3 Tools for Linux
+
+Filename: fail0verflow_ps3tools_linux.zip
+Size: 459KB
+Downloads: 934
+
+Description:
+An early build of fail0verflow's PS3 tools for Linux. Package includes:
+
+    pupunpack
+    readself
+    sceverify
+    unpkg
+    unself
+    makepkg
+    makeself
+    norunpack
+    puppack
+
+    

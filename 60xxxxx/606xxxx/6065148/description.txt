@@ -1,0 +1,25 @@
+C4Eva's iXtreme LT+ v1.1 for Hitachi (FAT Models) 360 DVD Drives
+
+
+C4Eva (in association with Team Jungle & Team Xecuter) released the iXtreme LT+ v1.1 modified FW for all retail revisions (32, 36, 40, 46, 47, 58, 59, 78, 79) of the "phat" Hitachi DVD drives (GDR-3120L):
+
+Official release of the iXtreme LT+ for Hitachi (FAT Models)
+- Supports AP25 backups for Hitachi 78,79
+- Other Hitachis (32,36,40,46,47,58,59) updated to conform to LT spec
+- Optimised PFI code to accomodate AP25 SS data
+- Defeats current AP25 protection
+- Protects console from logging AP25 violation for a period of 3 minutes, turn off/on console on black screen bootup before your 3 minutes is up 
+- Full disc stealth used by default
+- Waveless booting , disc images are assumed to be correct!
+- Split-Vid used as default
+
+If booting an AP25 title without AP25 SS on 78 or 79 game will not boot but will still be protected from logging AP25 violation on current dash 12611 for approx 3 minutes
+If LT+ encounters an unknown AP25 challenge, game will not boot but console will still be protected from logging AP25 violation on current dash 12611 for approx 3 minutes
+
+AP25 SS are region specific for region locked games
+
+LT+ for slim 9504 and 0225 is progressing, soon.
+
+Thanks go to Team Jungle for their hard work and efforts in the development process.
+Thanks also go to Team Xecuter for their generous support to this project. 
+

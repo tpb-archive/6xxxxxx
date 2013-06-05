@@ -1,0 +1,60 @@
+User Type,Username,Date,Text
+,IODerp,2011-01-10T03:37Z,"How can you use this? There are no tutorials anywhere on Google (and how could there be, this is the first public release). There's no readme or instructions. I'm running this on a linux box, installed libcrypto as required, and then get stuck
+
+
+envy:~/iou# ./wrapper-linux -m ./i86bi_linux-adventerprisek9-ms -p 9876
+Waiting on port 9876 ...
+Process Id for child is 16289, parent is 16288
+
+ IOURC: Could not open iourc file
+IOU 16289 exit
+
+
+Do you have any idea how to use this IOU?"
+,louisvd,2011-02-06T17:16Z,"Look on YouTube for 
+
+/watch?v=xpD9IWzjOhk&feature=player_embedded#!
+(Insert youtube url)
+
+He shows how to defeat the licence and to get the program to run."
+,Kal2011,2011-02-26T06:52Z,"Create a file CiscoIOUKeygen.py that contains the text between the ======='s.
+Run to determine your license key code.
+
+- Kal
+
+==========================
+#! /usr/bin/python
+print ""*********************************************************************""
+print ""Cisco IOU License Generator - Kal 2011, python port of 2006 C version""
+import os
+import socket
+import hashlib
+import struct
+# get the host id and host name to calculate the hostkey
+hostid=os.popen(""hostid"").read().strip()
+hostname = socket.gethostname()
+ioukey=int(hostid,16)
+for x in hostname:
+        ioukey = ioukey + ord(x)
+print ""hostid="" + hostid +"", hostname=""+ hostname + "", ioukey="" + hex(ioukey)[2:]
+# create the license using md5sum
+iouPad1='\x4B\x58\x21\x81\x56\x7B\x0D\xF3\x21\x43\x9B\x7E\xAC\x1D\xE6\x8A'
+iouPad2='\x80' + 39*'\0'
+md5input=iouPad1 + iouPad2 + struct.pack('!i', ioukey) + iouPad1
+iouLicense=hashlib.md5(md5input).hexdigest()[:16]
+print ""\nAdd the following text to ~/.iourc:""
+print ""[license]\n"" + hostname + "" = "" + iouLicense + "";\n""
+print ""You can disable the phone home feature with something like:""
+print ""   echo '127.0.0.127 xml.cisco.com' >> /etc/hosts\n""
+
+=========================="
+,Kal2011,2011-02-26T07:03Z,"The comment posting stripped the indentation.
+
+The line which reads ""ioukey = ioukey + ord(x)"" must be indented with a tab in front.
+
+Obviously the script will need to be ""chmod +x"" and python will need to be installed for it to run.
+
+Good Luck,
+
+- Kal"
+,OperacionMalaya,2011-04-30T11:18Z,"Great!! I test in VMWare and amazon AWS, all OK."

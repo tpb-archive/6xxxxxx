@@ -1,0 +1,61 @@
+User Type,Username,Date,Text
+,w0lfshad3,2011-01-01T17:21Z,"
+The mods compilation in the archive is broken by last mod (zeRobuRn's MobSpawnerCrafting) that i somehow had it working or fooled myself that i had somehow and discovered later that it doesn't work while fiddling around.
+
+I uploaded the updated and working mod compilation in the below link:
+
+http://www.filefront.com/17734962/126-strawberry-mods-compilation.zip/"
+,w0lfshad3,2011-01-01T19:07Z,"SlowFallBoots was creating invincibility instead. Updated:
+
+http://www.filefront.com/17735342/126-strawberry-mods-compilation.zip/"
+,w0lfshad3,2011-01-01T20:55Z,"Seems to work fine now, only snag it will crash once at first when opening the inventory, but after you reload the world it's stable."
+,w0lfshad3,2011-01-02T00:55Z,"You also need to copy mods\zombe dir and contents from compilation to .minecraft dir instead of the minecraft.jar to make Graves mod work, else you'll only find empty ones. The author decided to not do it like everybody else :-/"
+,hollowlt,2011-01-02T18:02Z,why I cant hit anything and no damage from mobs? :S
+,hollowlt,2011-01-02T19:41Z,can someone upload your minecraft. all directory except your saves.
+,w0lfshad3,2011-01-03T19:06Z,"@hollowlt, read the messages above, one of the mods was creating invincibility, go to the link i posted for the updated mod cocktail. Read the thread for the strawberry mods cocktail, i keep it updated:
+http://www.minecraftforum.net/viewtopic.php?f=25&t=122188
+
+...though it's almost final, i played about a day now and i can't say anymore about it. It works and it's epic."
+,hollowlt,2011-01-07T17:28Z,ye I allready fixed it. awsooome 
+,LilFreak5,2011-01-08T05:54Z,can i play online with this
+,wammy12345,2011-01-18T10:11Z,the screen just black
+,tiberuis,2011-03-13T01:40Z,where do i put mods 
+,krillzzbiw,2011-04-09T23:34Z,"Hay W0lfshad3. Thx for this upload, but i of curse got som problems white it.
+
+ i got the same as hollowlt and i cant hurt.
+ i allso sems that a lote off the mods dosent work,
+
+mineguner,Lava Boats or BattleTowers for manson some off them. 
+but i can play the game and the graves works.
+
+ i downloded all of the ny 126 strawberry mods compilation.
+plz help me.  
+
+i got this error to.  
+Minecraft has crashed!      
+      ----------------------      
+Minecraft has stopped running because it encountered a problem.
+
+If you wish to report this, please copy this entire text and email it to support@mojang.com.
+Please include a description of what you did when the error occured.
+
+--- BEGIN ERROR REPORT a1dce528 --------
+Generated 2011-04-09 23:13
+
+Minecraft: Minecraft Alpha v1.2.6
+OS: Windows Vista (x86) version 6.0
+Java: 1.6.0_24, Sun Microsystems Inc.
+VM: Java HotSpot(TM) Client VM (mixed mode, sharing), Sun Microsystems Inc.
+LWJGL: 2.4.2
+OpenGL: GeForce GT 230/PCI/SSE2 version 3.3.0, NVIDIA Corporation
+
+java.lang.NullPointerException
+	at fp.b(SourceFile:67)
+	at af.a(SourceFile:131)
+	at nl.a(SourceFile:311)
+	at nl.a(SourceFile:136)
+	at kb.b(SourceFile:315)
+	at net.minecraft.client.Minecraft.run(SourceFile:622
+	at java.lang.Thread.run(Unknown Source)
+--- END ERROR REPORT 1a4947e3 ----------"
+,krillzzbiw,2011-04-13T21:33Z,"allright a gote som of the modds working fine now but it sems licke not iven the final manage to fix mineguner, plz fix it."

@@ -1,0 +1,152 @@
+User Type,Username,Date,Text
+,pachinja,2011-01-14T13:48Z,"Is this suppose to work also for tomtom xl iq 2?
+I cannot copy the folder in the tomtom cuz ""there is not enough space in the device"" :("
+,hardox_400,2011-01-14T20:18Z,"Why this map is 2518.8 MB in the site of tomtom?
+http://www.tomtom.com/products/maps/select.php?D=6&M=903"
+,mtrvtbg,2011-01-15T17:41Z,"@pachinja As long as your navcore is version 9.02 or higher (you can check that in the options menu)  it should work. Did you delete the previous map? Because the device can hold only one map or a lot of fewer ones.
+
+@hardox_400 The one you buy from TomTom is bigger because it has cspeech and ASR files (which are used for speech recognition in some TomTom navs). Those files are about 500-600 MBs. So that is the difference! "
+,pachinja,2011-01-15T19:14Z,"@mtrvtbg
+Thanks for the answer. The version of the software is 9.151. Of course I deleted the previous map, but your map is 100MB  bigger than the one on the tomtom, and current free spase is 87MB which is obviously less than 100. 
+How should I do it?"
+,mtrvtbg,2011-01-16T07:25Z,"@pachinja 
+This is the smallest map of Western and Central Europe all other maps are more than 2.4 GB big. I don't really know what else you could do. I have a TomTom XXL 530S which is also with 2GB of internal memory and the map fits perfectly with less than a 100 MB free on the device! All the other maps (e.g. with cspeech and asr) don't fit on it. So it should fit on yours..."
+,hardox_400,2011-01-16T16:11Z,"I copied to my external SD card(device is GO730)
+activation was succesfull,but when I try to change to it,it's invisible in my GO?"
+,mtrvtbg,2011-01-16T23:24Z,"Taken from a FAQ:
+""My SD Card does not work"": You did buy a class 6 card, didn't you?
+Other cards are often too slow for the TT. You also need a recent bootloader
+(comes with a recent navcore). Some problems on the SD card make the TT
+refusing it. Flash can be corrected using the normal disk maintenance tools of your
+OS. Formatting is the least preferred choice (FAT32). TomTom has its own tool, called
+""Clear Flash"". It solves several smaller problems. See the TomTom site for details:
+http://uk.support.tomtom.com/cgi-bin...p?p_faqid=1898
+These tools do not fix all problems. The most important problem is that the
+FAT file-system is not suited for flash memory, especially large ones
+(You cannot use another file-system). "
+,mtrvtbg,2011-01-16T23:54Z,also did you patch the ttsystem e.g. navcore?
+,hardox_400,2011-01-17T08:31Z,"My SD card is 'maxell' class6-8GB.There is a few other maps on it ,that works perfectly and  ttsystem is  patched.
+I put this map in the internal memory,but no luck again,map activation is OK,just the map is invisible when I try swiching to it."
+,mtrvtbg,2011-01-17T19:59Z,"I don't have any new ideas on what it might be... 
+
+Are you sure the *.dct is in the folder? 
+Does you GPS require cspeech and ASR files? e.g. does it support speech recognition?
+
+Though I'm guessing now... it worked fine for my xxl 530 s"
+,hardox_400,2011-01-17T20:50Z,"Thanks anyway.
+This is the first map I can't run on my GO,gonna wait for the next one."
+,maxbull,2011-01-23T21:48Z,"Ive got same problem as hardox_400. In order to use this map v (8.60)  I had to update my navcore first-done it non problem. Everything did work with my older map. then I putted this map and TT cant see it. Its activated all fine but when I wanna swich map its not there.
+Im using TT Go 730 (navcore system 5.5022) 4GB Sd card. All previous maps worked fine until this one-maybe some files are corrupted??
+Any ideas guys. Post a comment and big thanks to uploader(s). "
+,CyC-TPB,2011-01-25T22:44Z,"Well I copy`d the western and central europe map, activated.. But the TT says that there are no maps.. Help? :)"
+,maxbull,2011-01-26T23:37Z,"I encounter the same think. Seems like few people have same problem? 
+Anyone any ideas?? "
+,MrxBirdman,2011-01-29T12:45Z,"I can't seem to get this work, I did everything. Let me explain step by step somebody please help me.
+I copied the maps to my device (XL 330), opened both easyactivators(Through device and not with my HDD), done all steps that the activators said so, patched the navcore and when I power up my TT it says no maps found! What am I doing wrong? "
+,CyC-TPB,2011-01-29T21:15Z,@MrxBirdman : Got the same problem! 
+,CyC-TPB,2011-01-29T21:16Z,@MrxBirdman : I got the same problem! ;-)
+,maxbull,2011-01-31T17:31Z,"I came up with conclusion that my GO 730 needs cspeech and ASR files in map. My updated navcore works fine with older map v8.45 therefore if anybody could upload this map in 2.6GB size (same like TT website) or uplad these 2 files separately :
+-ASR 
+-cspeech
+
+thanks in advance and pls post news how we doing and guys with making it work
+cheers"
+,iammethos,2011-02-01T00:07Z,"works perfectly! Thankyou :D
+On my old tomtom one lol"
+,FinnOzy70,2011-02-02T06:46Z,"Yeah Baby. This works like a charm in my new Urban Rider.
+
+TomTom was offered a 'update' to my Europe_2gt map, which ended up to be down grade to northern europe map with 'offer' to up grade it back to europe map with big money. Can you belive that?
+
+Last time I was dealing with TomTom 'offers'.
+
+Thanks guys a lot. You saved me from some angry phone calls and messages."
+,FinnOzy70,2011-02-02T06:54Z,"Oh yeah.
+
+I did this with first install option. And after I runned EasyActivator6, which created Meta.txt to my tomtom, I copied new Meta.txt from this torrent to my tomtom. Then I patched my NavCore. And then Activated the map. 
+
+All this because without new meta.txt EA6 could not activate the map, and without patching my tomtom could not use the map."
+,cesc84,2011-02-06T14:46Z,where do I get the latest meta.txt file?
+,bitdevil,2011-02-14T17:19Z,"It works on my TomTom One! Although the patching of my
+navcore with EasyActivator6.exe failed, I was able to
+activate the map. That's what I did:
+
+1. I downloded navcore 9.025 from:
+http://thepiratebay.org/torrent/5625399/TOMTOM_navcore_9.025_GO.zip
+
+2. I deleted all files on my TT device ( after having made a backup, 
+   of course ).
+
+3. I copied the downloaded navcore 9.025 ( that is, the content
+   of the folder ""navcore 9.025 todos dispositivos GO"" )
+   to my TT device.
+
+4. I copied the Western_and_Central_Europe_2GB_860_3110 folder 
+   to my TT device.
+
+5. I switched on my TT device and switched it off thereafter.
+   ( This had to be done in order to generate the ttgo.bif file,
+   which is needed for the map activation ).
+
+6. I copied EasyActivator6.exe and the downloaded meta.txt file
+   to my TomTom device.
+
+7. I started EasyActivator6.exe and pressed the ""Activate All Maps $ POIs"" button.
+
+
+That's it!"
+,mentallapse,2011-02-17T12:59Z,"BitDevil!
+
+Thanks for your your description. Now works on my Go930. And with a new modernized userinterface. Nice but: 
+1) Traffic and Weather do not work. 
+2) At start up and close down a Spanish female voice says hello and goodby (I expect) Do you know how to fix this"
+,Ma5terX,2011-02-20T02:30Z,"Hello Where should i put this meta exactly..
+and i had on XXL tom tom folder Europe_2GB
+
+can I remove all file from there and then put all this from torrent or it has to have different name of folder !?"
+,bitdevil,2011-02-20T23:57Z,"@Ma5terX
+
+First of all make a backup of all the files on your TT device.
+Then remove all files on your TT including your folder Europe_2GB and copy the Navcore files as described above.
+Then copy the downloaded folder Western_and_Central_Europe_2GB_860_3110 together with the map files to your TT. 
+The name of the map folder should not be changed.
+The meta.txt ( and Easy Activator.exe ) file has to be copied to the root directory of you TT device."
+,ilker55,2011-03-07T14:08Z,"@bitdevil
+
+Thank you so much!. i've got everything working now on the tomtom xl. but it's lags a bit :S"
+,MrxBirdman,2011-04-03T15:51Z,"@ bitdevil at 2011-02-14 17:19 CET
+
+You're the fucking best, couldn't get this to work right untill you posted that. Thanks allot !"
+,jjays_hax,2011-06-11T12:10Z,"Can anyone tell me if its possible to just extract and use just one country from this file i.e. France?
+
+
+Thanks in advance  "
+,Grievon_Mortum,2011-06-11T12:46Z,"This is great! :D I did this ""map upgrade"" from my tomtom xl device, which has deleted my whole map and left me with the choice of smaller parts only :/ Not to mention that all my favourites has gone too... So I copied this map to my TT and it works!!! I'm not going to do any more upgrades from now on... MANY THANKS!!!"
+,rik51,2011-06-24T17:00Z,"works fine on my tomtom rider3 which had only central europe maps before.
+I JUST REPLACED THE MAP; COPIED THE METATXT AND RAN EASYACTIVATOR6.
+
+* Press the ""Activate All Maps $ POIs"" button
+
+* Press ""Patch NavCore""
+"
+,the_4us,2011-07-25T19:04Z,"plz someone help me, if i run easyactivator6, i get this message
+'Playing field.ov2' - Error
+There is no such key ('School.ov2') in keyfile 'Meta.txt'
+plz someone help me"
+,Globalcommunite,2011-07-29T18:02Z,Can i use this on my tomtom XL navcore 1.014 version please???
+,Skogstupp,2011-09-14T06:27Z,"Tomtom 8.70..... with same size as this one, anyone?"
+,nwilke,2011-10-24T11:46Z,TomTom 8.70 or 8.75 with this size?
+,konal66,2011-11-22T14:25Z,"It realy didn't work for me on TTGO730
+App. 8.351 os:315187
+Anyon ehave an idea?"
+,Killerko,2011-12-13T04:35Z,Could somebody please advice me how to install this on my tt go 520? the detaul memory is only 512MB and there is UK map but I have a 2GB completly empty SD card in it.. no idea how to activate this on the sd card.. version of the software is 8.351
+,poet04,2011-12-22T17:25Z,Can I first copy everything in to a new memory card with card reader? I am now coping the folder to a new SD 2GB card of my TT One Xl. It is taking forever. I would appreciate if anyone could advise me. Thanks~~! 
+,loverboy4alluk,2012-01-01T20:42Z,i have got tomtom xxl i download as you said my problem is that on my tomtom xxl its had got builit flash drive and its shows only 1.87gb how can i download this as this one is around 2 gb any suggestion 
+,Wipuliwo,2012-02-07T20:19Z,how can i break this into maps? my tomtom doesnt have enough memory for this and it doesnt use sd card
+,GUnitSoldier4,2012-03-21T12:55Z,"Can some one please help me? I've got the special file to register the map, but once i put it into the My Documents folder for my tomtom 7 to recognize it, it doesn't recognize it, is that maybe because of the last part of the name? (2GB_8.60.3110) ?.. because my old map just was Western_and_central_Europe (also a 2 GB map, but it didn't have that last part) Hoping for a reply
+
+Kind regards,
+
+GUnitSoldier4"
+,scott909,2012-05-27T12:09Z,Thanks so much to uploader and BitDevil. Working perfectly on a TomTom Start!
+,daone2012,2012-06-05T02:45Z,"Guys, I plug in my tomtom into the pc (windows 7) and cant find a folder to paste the files into. How do i find the folder where to paste the map file and the easyactivator6 into?????????
+Thanks"

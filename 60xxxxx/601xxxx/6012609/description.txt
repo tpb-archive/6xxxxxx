@@ -1,0 +1,70 @@
+No CUE or LOG, sorry.
+
+Sample FLAC info:
+$ metaflac --list 10\ Feuer\ Und\ Wasser.flac 
+METADATA block #0
+  type: 0 (STREAMINFO)
+  is last: false
+  length: 34
+  minimum blocksize: 4608 samples
+  maximum blocksize: 4608 samples
+  minimum framesize: 14 bytes
+  maximum framesize: 16306 bytes
+  sample_rate: 44100 Hz
+  channels: 2
+  bits-per-sample: 16
+  total samples: 14012040
+  MD5 signature: 3a319222a5536ee0523c151460f43d5f
+METADATA block #1
+  type: 3 (SEEKTABLE)
+  is last: false
+  length: 558
+  seek points: 31
+    point 0: sample_number=0, stream_offset=0, frame_samples=4608
+    point 1: sample_number=451584, stream_offset=620321, frame_samples=4608
+    point 2: sample_number=903168, stream_offset=1484447, frame_samples=4608
+    point 3: sample_number=1354752, stream_offset=2367682, frame_samples=4608
+    point 4: sample_number=1806336, stream_offset=3224489, frame_samples=4608
+    point 5: sample_number=2257920, stream_offset=4125613, frame_samples=4608
+    point 6: sample_number=2709504, stream_offset=5043701, frame_samples=4608
+    point 7: sample_number=3161088, stream_offset=5881618, frame_samples=4608
+    point 8: sample_number=3612672, stream_offset=6634414, frame_samples=4608
+    point 9: sample_number=4064256, stream_offset=7564036, frame_samples=4608
+    point 10: sample_number=4515840, stream_offset=8470144, frame_samples=4608
+    point 11: sample_number=4967424, stream_offset=9383207, frame_samples=4608
+    point 12: sample_number=5423616, stream_offset=10188289, frame_samples=4608
+    point 13: sample_number=5875200, stream_offset=11384084, frame_samples=4608
+    point 14: sample_number=6326784, stream_offset=12739189, frame_samples=4608
+    point 15: sample_number=6778368, stream_offset=14169783, frame_samples=4608
+    point 16: sample_number=7229952, stream_offset=15609154, frame_samples=4608
+    point 17: sample_number=7681536, stream_offset=17049139, frame_samples=4608
+    point 18: sample_number=8133120, stream_offset=18477553, frame_samples=4608
+    point 19: sample_number=8584704, stream_offset=19904130, frame_samples=4608
+    point 20: sample_number=9036288, stream_offset=21239126, frame_samples=4608
+    point 21: sample_number=9487872, stream_offset=22657915, frame_samples=4608
+    point 22: sample_number=9939456, stream_offset=24085742, frame_samples=4608
+    point 23: sample_number=10395648, stream_offset=25544052, frame_samples=4608
+    point 24: sample_number=10847232, stream_offset=26995672, frame_samples=4608
+    point 25: sample_number=11298816, stream_offset=28426537, frame_samples=4608
+    point 26: sample_number=11750400, stream_offset=29860215, frame_samples=4608
+    point 27: sample_number=12201984, stream_offset=31290946, frame_samples=4608
+    point 28: sample_number=12653568, stream_offset=32712229, frame_samples=4608
+    point 29: sample_number=13105152, stream_offset=33885690, frame_samples=4608
+    point 30: sample_number=13556736, stream_offset=34653576, frame_samples=4608
+METADATA block #2
+  type: 4 (VORBIS_COMMENT)
+  is last: false
+  length: 179
+  vendor string: reference libFLAC 1.1.2 20050205
+  comments: 7
+    comment[0]: album=Rosenrot
+    comment[1]: artist=Rammstein
+    comment[2]: date=2005
+    comment[3]: genre=Industrial Metal
+    comment[4]: title=Feuer und Wasser
+    comment[5]: totaltracks=11
+    comment[6]: tracknumber=10
+METADATA block #3
+  type: 1 (PADDING)
+  is last: true
+  length: 3957

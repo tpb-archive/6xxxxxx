@@ -1,0 +1,36 @@
+User Type,Username,Date,Text
+,brownyboo,2010-12-01T14:25Z,and seed if you download it. m seeding this 30Kb (which is half of my upload speed). :] thx
+,montesino,2010-12-14T19:49Z,"Hello Thar (Brownyboo),
+Is there any way you could update squid proxy servver to version 3.1.9 as it's now on squid-chache.org
+
+thanks."
+,brownyboo,2010-12-16T04:30Z,"hi montesino,
+please post this here (hopefully Thar will see)
+http://mmitpros.ning.com/group/smenetworking/forum/topics/3-in-1-proxy-installer-for"
+,User897,2011-01-28T05:12Z,"As usual, yet ANOTHER proxy program DOES NOT WORK."
+,robonaut-2,2011-01-31T09:30Z,"""user897""
+You will need to do few things before getting started with squid.
+Open your squid.conf FILE #its ocated here---c:\squid\etc\squid.conf with notepad.
+You will need to add these lines..
+
+dns_nameservers [your gateway!]
+visible_hostname localhost
+
+thx for rating this -1 :)
+and yes i m brownyboo.
+see these blogs for more help!
+http://markus.revti.com/2007/06/installing-squid-cache-for-windows/
+
+15 people are not seeding this for not-so-working-proxy :p1~~~ okee!"
+,robonaut-2,2011-01-31T09:54Z,"For people interested in getting squid new versions.
+If u use squid for only simple caching purposes then u shud not bother yourself much. 
+
+--linux based system already hav squid 3.2 BETA
+--sadly there is only squid 3.0 for windows available which is still in beta stage.
+there is not much development going for windows platform :(."
+,count0nz,2011-04-12T02:33Z,"Nice work - Works well...
+3.0 is not bad Realy 2.7 is the Norm on Linux and 3.0 is Stable on Windows.
+
+I'll keep seeding this as long as i can."
+,zeinabqureshi,2011-04-20T13:42Z,"@brownyboo:
+Many thanks for uploading this. I went to the official page and got redirected back to the same page, with no executables. Hopefully this should work, I will seed..."

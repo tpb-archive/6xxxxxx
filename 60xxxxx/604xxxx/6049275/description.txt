@@ -1,0 +1,71 @@
+Windows.XP.Live!(CD).January.2010.Final
+
+Please add your opinion on the comment section before downloading or I could not seed or respond to your questions.
+
+
+It is primarily designed to be an emergency disk for your PC. For whatever reason, if something happens to your current OS and you need to keep working on something, this disk can come to the rescue - Windows XP on a DVD! If you need to diagnose what went wrong and fix it, this is your disc. Load up Windows XP Professional SP2 without affecting or touching your system files and use one of the many many many recovery programs that have been included if you need to recover existing data.
+
+If someone wants to borrow your machine and you don't want them changing your system configurations - let them use this. If you want to browse the net you can safely with a firewall that only starts if you want it. You can watch music videos and listen to music while working on a document in one of the many productivity apps, and even encode and decode video files.
+
+While it isn't as good as actually having Windows XP installed onto a hard disk, it comes reasonably close.
+
+Having said all that, even at beta, if it works for you this disc will beat any of the other Live XP discs out there, hands down. No competition. ie "that's not a live XP disc .... * pulls out shiny disc from pants * ... THIS is a Live XP!"
+
+Windows XP Live! by Soporific
+Version 0.99.1
+18th January 2010 CD Version
+size: 697 MB
+Format: iso
+Nb file: 2286 file
+
+
+Features
+
+* Boots your PC with Windows XP Professional SP2. Most features you are used to are available in terms of Start Menu, Desktop, Windows Explorer, Registry, etc.
+
+* Video support is provided by the VBEMP x86 Project which produced the Universal VESA/VBE Video Display Driver for Windows NT x86 Architecture that drives the video in the PE. This means that i didn't need to include specific video drivers (impossible to fit them all on) and most people will see something, even if its not the highest resolution you are used to.
+
+* Network and Mass Storage support is via the latest driverpacks from driverpacks.net -- they will work for most of the world's network cards (not wireless though sorry) and also the latest SATA drives. These network card drivers combined with PENetwork (automatically starts and asks if you want to start networking) will get 99% of people with LAN network connections onto the net, if that is how you normally connect.
+
+* Audio support is provided for some systems via the XPE project. The following cards are supported: Realtek AC97 base, kxAudio (SBLive/Audigy), Creative PCI, Creative SB16, Aureal Vortex 8810/8820/8830, VIA AC97, Intel 82801AA/AB/BA/CA AC97, SiS 7018, ALi Audio Accelerator, Crystal WDM, CS4281, ESS Allegro, Maestro, etc., Yamaha DS1, OPL3-SAx, Aztech 2320, NeoMagic MagicMedia, USB Audio, and also MS VMWare, and Virtual PC.
+
+* USB device support is available for external hard drives, mice and keyboards but please plug-in prior to booting with the disc. All external hard disks should be recognized.
+
+* Nearly 400 apps are available from the disc, the shortcuts are dynamically created at boot time. It's easy to add and subtract from this list to make your custom disc, just have a look inside the ppApps folder and work it out. To take out apps, just delete the folder. To add apps, just include the required files - use the existing folders to understand how it works. Then use the file inside the MakeCD folder to re-make the disc image.
+
+* Boot SDI - The entire system directory for the OS is loaded into your RAM at boot time. This was achieved using the Boot SDI script in WinBuilder. This means you have a limited ability to install programs you wish to use for a PE session. The amount of space isn't huge, you only get 24 MB of free space for your system directories but this should be sufficient for most apps, the program files can go onto another drive. Anything that needs to reboot will not generally work but everything else should.
+
+* Loading into your RAM also means a relatively short load time. It should only take 2 - 4 minutes, as opposed to 6 - 10 mins if you are booting directly from the CD. It is also a much more responsive system due to operating entirely inside your RAM as opposed to relying on a very slow connection between your CD drive and PC.
+
+* A RAM disk is also created in addition to loading the system folders into RAM. This was set to allocate the size of the disk using a % based formula that allocates different amounts depending on how much you have actually available. Many applications will make use of this space and will be assigned to the B: drive. This is how it equates:
+
+- 512 MB installed RAM will have a 40 MB RAM disk
+- 1 GB will have about 200 MB
+- 2 GB will have about 575 MB
+
+* The following apps are integrated into the explorer shell: 7-Zip 9.08 beta, CMD anywhere, Scanner 2.8, and WinRAR 3.90. Also, PDF-XChange Viewer 2.0.42.9 will open PDF files automatically, and Irfan View 4.25 will open all the files it recognizes including audio files and HEAPS of others. Also integrated were Windows Scripting (WSH), Visual Basic (VB6), and AutoIT (au3).
+
+* The following apps are loaded automatically on booting: Unlocker 1.88, MultiRes 1.58, System Explorer 1.5, and PowerMenu 1.51.
+
+* The disc also has a Tools Menu available from the Boot Menu
+
+
+System Requirements
+
+System Minimum Requirements:
+
+* Any computer that can normally run XP, with at least 512 MB of RAM to have all features available. This may also run on systems with only 384 but it won't be very usable. It defintely won't work on a system with only 256 MB.
+* A CD or DVD drive (the faster the better).
+
+System Recommended Requirements:
+
+* Any computer that can normally run XP with at least 1024 MB of RAM. All features and applications will work.
+
+List of apps
+
+- all apps have a description you can read when you hover your mouse over the shortcut icon.
+
+
+Please seed this torrent as long as you can, and make some postings.
+
+

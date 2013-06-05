@@ -1,0 +1,28 @@
+Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It     reduces bandwidth and improves response times by caching and reusing frequently requested web pages. Squid has extensive access controls and makes a great server accelerator. It runs on most available operating systems, including Windows and is licensed under the GNU GPL.
+
+"I think many people already know what Squid is :-) So I won't go into details here."
+
+This is a windows version of the popular linux based proxy-caching server.You can get all other versions on squid site. 
+http://www.squid-cache.org/
+
+Please see the below link.. 
+http://mmitpros.ning.com/group/smenetworking/forum/topics/3-in-1-proxy-installer-for
+
+
+Quotes
+
+"Just to let you know I have created a installer for Squid, SquidGuard and SARG for using on Windows platform. It was initially done for company internal use for deloyment to other offices. But since is a compilation of several OpenSource tools I thought I might as well share for everyone else."
+
+
+Install Notes: 
+
+* Just run the .exe .This will install Squid/Squidguard and SARG in C:\ directory. 
+* Search this file c:\squid\etc\squid.conf and modify it as you need and restart squid.
+
+... and you are done.
+
+The installer creates desktop Folder called â€œProxy 3 in 1â€ which contains short cuts to basic manuals, maintenance and monitoring utilities for Proxy server.Use the manual to modify squid.conf.
+
+
+This installer was made by:Kyi Thar.
+Squid-cache.org is a open source project. But you can always donate if you like.

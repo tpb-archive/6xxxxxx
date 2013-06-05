@@ -1,0 +1,57 @@
+Login: guest
+Password: guest
+Rootpassword: root
+
+Unofficial Debian Livecd with Tor proxy/privoxy working out of the box. The Iceweasel/Firefox webbrowser also has several plugins to ensure your privacy on the web:
+
+HTTPS Everywhere
+Flashblock
+Torbutton
+Element Hiding Helper
+Adblock Plus, and
+Better Privacy
+
+Debian Privacy Remix also has a full set of multimedia codecs, including mp3, flash, moonlight, java and the ability to read dvds.
+
+Pidgin has facebook chat and the possibility to encrypt IMs and route everything through Tor.
+
+The Icedove/Thunderbird mail client has the Enigmail GPG encryption plugin installed and ready to use, and you can encrypt files on your hard drive with GPG. Skype is also installed.
+
+If you want to install it to your hard drive to get the latest Debian Squeeze with multimedia codecs, use one of the installers in the boot menu of the Livecd.
+
+This only applies if you choose to install it to your hard drive:
+
+After install you should set up your own user account and change the root password:
+
+1. Go to Programs > Accessories > Terminal
+2. type
+Code
+su
+
+in the opened terminal
+3. Enter
+Code
+root
+
+as password
+4. type
+Code
+adduser bob
+
+if you want to make a user named bob (or replace bob with your desired username.
+5. Enter your user password and push Enter.
+6. Confirm your username.
+7. When all is done you can change the root password: Type
+Code
+passwd root
+
+and you will be asked to enter a password. Pick a strong password and push Enter.
+8. Confirm your new root password.
+9. Close the console and log out.
+10. Log in with your username.
+11. Open the console and log in as root (like in steps 1-2), but this time type your new rootpassword.
+12. Delete the guest account if you don\'t need it by typing
+Code
+userdel guest
+
+.

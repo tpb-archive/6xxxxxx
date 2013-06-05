@@ -1,0 +1,57 @@
+Another of my bloat reductions.  This was only available as a 4.2 GB download of a PAL DVD.  Now it's a 700 MB AVI.  I'm sorry I couldn't save the 5.1 audio track, but the audio is high quality.
+
+General
+Complete name                    : AliceinChainsMTVUnpluggedDVDRip.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 682 MiB
+Duration                         : 1h 13mn
+Overall bit rate                 : 1 299 Kbps
+Writing application              : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library                  : VirtualDubMod build 2540/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Muxing mode                      : Packed bitstream
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 1h 13mn
+Bit rate                         : 1 029 Kbps
+Width                            : 480 pixels
+Height                           : 368 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 25.000 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.233
+Stream size                      : 541 MiB (79%)
+Writing library                  : XviD 1.0.3 (UTC 2004-12-20)
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Format_Settings_ModeExtension    : MS Stereo
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 1h 13mn
+Bit rate mode                    : Variable
+Bit rate                         : 256 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Stream size                      : 135 MiB (20%)
+Alignment                        : Aligned on interleaves
+Interleave, duration             : 24 ms (0.60 video frame)
+Interleave, preload duration     : 71 ms
+Writing library                  : LAME3.90.
+Encoding settings                : -m j -V 4 -q 2 -lowpass 20.6 --abr
+

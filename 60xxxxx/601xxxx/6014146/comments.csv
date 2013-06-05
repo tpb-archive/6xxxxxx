@@ -1,0 +1,71 @@
+User Type,Username,Date,Text
+,bongsky,2010-12-06T12:13Z,Is this custom restore 4.2.1 ipsw will preserve the baseband?
+,bigdaddyelove69us,2010-12-06T17:33Z,will my baseband 05.13.04 be preserved are updated. thanks
+,blueeyeblond,2010-12-06T18:07Z,"""bongsky at 2010-12-06 12:13 CET:
+Is this custom restore 4.2.1 ipsw will preserve the baseband?
+
+bigdaddyelove69us at 2010-12-06 17:33 CET:
+will my baseband 05.13.04 be preserved are updated. thanks""
+
+baseband will not be updated. it will remain to  whatever baseband version you had prior to updating."
+,bigdaddyelove69us,2010-12-07T02:23Z,can anyone confirm ?
+,bambong,2010-12-07T05:50Z,thanks....
+,TWorks,2010-12-08T01:20Z,"Looks like his other upload the 3GS custom FW works fine with an old baseband - give it a shot, than let U know"
+,tzoops,2010-12-08T02:12Z,What i don't understand is how I am supposed to ssh into the phone without cydia... I have tried multiple times with the same ssh settings i always use and nogo.
+,webw,2010-12-08T10:40Z,The custom restore DID NOT work!  I am now stuck at the activation screen.  My phone was Jailbroken using RedSnow.
+,TWorks,2010-12-08T11:55Z,"It works, but U have to activate it with the original SIM card"
+,bigdaddyelove69us,2010-12-08T14:16Z,"@ tworks, what do you mean the original sim card, and did it preserve your baseband ? b/c i am unlocked using t-mobile on 4.1."
+,webw,2010-12-08T16:15Z,Would have been nice to know that an original SIM card was required beforehand!  Now I am completely stuck.  What are my options?
+,TWorks,2010-12-09T01:23Z,"Well, this FW not gonna change your baseband, mine was 05.13.04 and now its still the same - can be easily unlock with the Dev Team method via Cydia. The phone itself is NOT ACTIVATED, thats why U get the iTunes activation screen after the update. What U have to do is activate so. If Ur device is locked to AT&T, put in an AT&T sim, if it is to the Vodafone, do it with a Vodafone sim, while the phone is connected with iTunes. After the activation U wont need it of course"
+,webw,2010-12-11T16:49Z,"Ok, I managed to activate the phone with an Original SIM card, but like a previous user, I am unable to SSH to my iPhone with WinSCP.  I did check before restoring my phone, and I was able to SSH.  Can anyone confirm how they have updated Cydia on their restored phone?"
+,webw,2010-12-11T19:52Z,"Wasn't thinking at all - just used RedSnow to only install Cydia and voila, back in order!  I dont think one will be able to SSH to the iPhone if Cydia is not working."
+,bigdaddyelove69us,2010-12-11T20:11Z,@ webw which redsnow did you use and how did you install cydia.also do i have to have an att sim.
+,rbnsky20,2010-12-12T00:10Z,i did this to my iphone 3gs but for some reason i can not shh to the 3g if anyone can help getting access or updating cydia some how help out thanx  
+,MrHookup,2010-12-12T02:17Z,"DL this version of RedSn0w
+http://tgq.nl/redsn0w_win_0.9.6b4.zip
+
+Go Here
+http://www.felixbruns.de/iPod/firmware/
+Grab 4.2.1 for 3G or 3GS
+
+Click install only Cydia
+
+Confirmed works on 3G
+
+Testing it out on a 3GS now.
+
+Problems that occured:
+Error 17
+Error 1600
+Error 1612
+
+What I tried was iReb i got from here
+http://ih8sn0w.com/index.php/products/view/ireb.snow
+
+Didnt work when I got to the Green Screen iReb creates but left it in Recovery mode. I didnt do iReb the next time and then i tried again through iTunes and it did work."
+,TWorks,2010-12-12T02:25Z,"Okay, so if U stuck with a broken Cydia, and no access to the device, do what WebW did. Get the redsn0w the latest one - 0.9.6b6 Click on ""Cydia"" and whatever else U need - reboot - done"
+,webw,2010-12-12T18:52Z,"I used redsnow 0.9.6b5 on Windows.  As someone earlier pointed, if your phone is not factory unlocked, you will need a SIM card from the network provider your phone was ""locked"" to.  This means you will need to know who the original provider was.  In the US, this likely to be AT & T, in the UK O2, etc.
+
+Initally with the custom restore, as the uploader says, Cydia will be broken.  This means, OpenSSH will NOT work.  Your phone after the restore will also say to put in a valid SIM card with no PIN lock.  Do this by putting in the original SIM, and re-connect the phone to iTunes.  The phone *should* activate at this point, and in my case, the original SIM immediately gave signals.  I am on a different network provider to the original SIM, so this step was to just get past the phone activation.
+
+Now, run RedSnow, only select Install Cydia.  This Jailbreaks the phone and re-installs Cydia.  Your original baseband will be preserved.
+
+If you want to use a different provider, use Ultrasn0w.  I swapped the original SIM with my current provider's SIM and have been running since yesterday without problems."
+[T],whodathoughtit,2010-12-13T03:21Z,"thank you blue'
+
+I used this custom restore after I updated the baseband and before I found out no sim was registering because the sim-reader broke.
+
+so I ended up messing the firmware and not being able to restore it to 4.2.1
+
+this file enabled me to patch the firmware so it would update back to 4.2.1 without the errors and preserving the baseband 
+
+now my iphone is jailbroke without custom firmware and its much happier 
+
+thanks again 'shout to the seeders, you guys rule' "
+,bigdaddyelove69us,2010-12-14T19:15Z,got it install but now my mms does not work. any solutions.
+,Drew4590,2010-12-18T16:25Z,Does this include mutlitasking and battery percentage?
+,Drew4590,2010-12-21T11:46Z,"This does indeed work with itunes and doesn't upgrade Baseband. It also has multitasking, battery percentage, and home screen wallpaper."
+,seps78,2010-12-28T20:32Z,"does not work, no activation"
+,alain.aoun,2011-01-09T13:57Z,"I Have already upgrade my baseband to 05.15.04!
+if i restore my iPhone with this Custom Firmware... it will downgrade my baseband??"
+,bahiadopirata,2011-08-29T04:12Z,Thank you MrHookup!

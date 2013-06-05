@@ -1,0 +1,48 @@
+
+
+KNIGHTS OF THE OLD REPUBLIC:
+THE SAGA
+Knights of the Old Republic + Knights of the Old Republic II
+GBUS EDITION
+
+If you have any problems with installation make sure you have actually read these instructions and follow them to the letter, I have little patience for people who want to just skim through them, then complain. I have provided the simplest instructions possible, follow them and you will be slaying dragons in no time, or getting owned by them if you suck.
+
+BEFORE ANYTHING ELSE READ THIS DOCUMENT IN IT'S ENTIRETY!
+Failure to do so could result in NOT installing the game properly, then me ridiculing you later because you're a dumb ass.  Some of the bonus items listed below were compressed using 7-Zip, if your current extraction utility canâ€™t handle it please get 7-Zip.
+In addition to the titles listed above, this release consists of:
+ïƒ¼	Mini-and-Maxi Images for Kotor  1 & Kotor  2
+ïƒ¼	Latest Official Patches
+ïƒ¼	Recommended Community Patches / Mods
+
+
+Install Knights of the Old Republic:
+Press the â€œGBUSâ€ button to open a folder located on this disc, navigate to the â€œKOTORâ€ folder and mount the Mini-Image file â€œKOTOR_4.ISOâ€. Next press the button on the menu marked â€œInstall KOTOR 1â€ to launch the installation, follow all on-screen instructions, when the installer asks for Disc 4 point it to where you mounted â€œKOTOR_4.ISOâ€ and complete the installation. Once installation is complete you may safely dismount â€œKOTOR_4.ISOâ€. 
+After setup has been completed, click the â€œInstall 1.03 Updateâ€ button beneath the â€œInstall KOTOR 1â€ button and follow all on-screen instructions; once the update has completed copy the â€œswkotor.exeâ€ into the Install Directory and overwrite the existing file.
+NOTE: If you are running Windows Vista or 7 you will need to copy the files inside the â€œkotor1-2_vista-w7_fixed_dll.rarâ€ in the â€œGBUSâ€ directory, into your install directory overwriting any existing files. This is a .dll fix to help with crashing issues.
+Install Knights of the Old Republic II:
+Press the â€œGBUSâ€ button to open a folder located on this disc, navigate to the â€œKOTOR2â€ folder and mount the Maxi-Image file â€œKOTOR2_1.ISOâ€, if a launcher opens simply close it. Next press the button on the menu marked â€œInstall KOTOR 2â€ to launch the installation, follow all on-screen instructions, when the installer asks for the â€œPlay Discâ€ point it to where you mounted â€œKOTOR2_1.ISOâ€ and complete the installation. Once installation is complete you may safely dismount â€œKOTOR2_1.ISOâ€.
+After setup has been completed, click the â€œInstall 2.1 Updateâ€ button beneath the â€œInstall KOTOR 2â€ button and follow all on-screen instructions; once the update has completed copy the â€œswkotor2.exeâ€ into the Install Directory and overwrite the existing file.
+If you wish to have high res sounds and movies, copy the folders â€œMoviesâ€ & â€œStreamMusicâ€ from the â€œGBUS\KOTOR2â€ directory, into your install directory overwriting all files.
+This is completely optional and will NOT effect gameplay.
+NOTE: If you are running Windows Vista or 7 you will need to copy the files inside the â€œkotor1-2_vista-w7_fixed_dll.rarâ€ in the â€œGBUSâ€ directory, into your install directory overwriting any existing files. This is a .dll fix to help with crashing issues.
+NOTE 2: If you are experiencing random crash issues, editing the .ini file for each game (located in the install directory, â€œswkotor.iniâ€ for the first game, and â€œswkotor2.iniâ€ for the second) and adding the line:
+Disable Vertex Buffer Objects=1
+Under the â€œ[Graphics Options]â€ header has been proven to fix the issue for MOST people.
+
+
+
+
+
+
+
+ 
+RECOMMENDED MODS
+If you install nothing else, I recommend the following mods (click each to go to the mod homepage)
+UniWS 
+Allows you to play Kotor 1 & 2 on a widescreen display.
+Follow all instructions on the website, I will NOT be providing support.
+The Sith Lords: Restored Content Mod 
+Allows you to play content started by Bioware and finished by the community.
+Adds a wide range of new content to the game; read the Wikipedia article for more information.
+I have included version 1.6 of the mod with this release, simply run the installer.
+Have fun, enjoy, Gbus is Lord. 

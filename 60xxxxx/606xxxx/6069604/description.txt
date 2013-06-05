@@ -1,0 +1,44 @@
+28-12-2010 Public Bittorrent Tracker List.txt
+
+The name says it all, really.
+This is a list of trackers that accept connections without having to sign up.
+You can add them to a download job with uTorrent, Azureus etc.
+This is useful in case the .torrent you downloaded has DHT or peer exchange disabled and the few trackers it has are down (this happens other when newbies create torrents, or you download from defunct private trackers).
+
+This also helps speed up existing torrents that use trackers reporting few peers.
+In short: add this list to slow/dying/dead/hard to get torrents.
+
+Azureus:
+Right-click on the torrent -> Advanced -> Tracker -> Edit Tracker -> right-click on Tracker Group -> New Tracker
+
+
+Bitcomet:
+1- CLICK ON THE DESIRED FILE (ON BITCOMENT)
+2-THEN RIGHT CLICK
+3-PROPERTIES (CLICK PROPERTIES)
+4-AT THE TOP OF THE WINDOW THAT POPED UP YOU WILL SEE ADVANCE
+   CLICK ADVANCE
+5- THEN JUST PASTE IN THE TEXT BOX 
+
+uTorrent:
+1. Right click on your torrent
+2. All the way down you see "Properties" or "Settings" or something.
+3. Click it.
+4. The first text box contains your trackers.
+5. Scroll all the way down, press ENTER and then paste the tracker list.
+
+Bittorrent Mainline: 
+http://www.bittorrent.com/btusers/guides/bittorrent-user-manual/appendix-bittorrent-mainline-interface/main-window/detailed-i-6
+
+
+
+You may be able to enable DHT even though the torrent has disallowed it. 
+http://www.forum.cheatengine.org/viewtopic.php?t=40531
+I have not tried these instructions myself.
+
+
+28-12-2010 v0.1
+First release.
+No dead trackers, some trackers disallow certain torrents, kept them because if user has a torrent that IS in their database it will be useful.
+
+If you guys know any other torrents, add them in the comments BELOW.

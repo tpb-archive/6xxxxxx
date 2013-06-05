@@ -1,0 +1,67 @@
+GRID Patch change list.
+
+All Platforms
+
+Network bug fixes
+â€¢ When viewing in spectator mode â€“ wheels should now turn correctly.
+â€¢ Session searching now functions correctly when there are lots of full sessions (PC and PS3).
+â€¢ Track and route options no longer change when host gets back to lobby in private/LAN.
+â€¢ Race results are now correct if a host migration occurs at the end of the race.
+â€¢ Other playerâ€™s progress/positions are now correctly updated when you enter the race results screen.
+â€¢ Several NaN (brown screen) related fixes.
+â€¢ Fixed a problem whereby it was only possible to upload one world record ghost to each track (PC and PS3)
+
+Network - general
+â€¢ Race to race lobby timer is now 15 seconds
+â€¢ A timer has been added showing how long the session has been up and running is shown on the tickertape after joining a session.
+â€¢ Changes to what is displayed in lobby when a player has kick votes.
+o The player who has been voted for can see this fact and the number of votes they have received.
+o Players who have voted to kick someone can see who they voted for but cannot see the number of votes.
+o Players who have not voted do not see anything.
+â€¢ Added ability to get the next page of sessions in private session results (PC and PS3)
+â€¢ Banned sessions no longer appear in private session list.
+â€¢ Reverse gear is now disabled for the first two seconds of a network race to stop players reversing off the start line.
+â€¢ Added ability to change collision types in all sessions (not enabled in Demolition Derby).
+o Forward Only (this is the normal behaviour for Ranked/Unranked)
+o On (Collisions are always on)
+o Off (Always off).
+â€¢ Numerous anti griefing checks to turn off collisions when players are griefing.
+â€¢ Fix for distance shown in distance online stat.
+â€¢ A warning message is now shown the first time you enter system link.
+â€¢ In non-drift races, the race results screen shows the fastest lap that each player achieved in that race.
+â€¢ When a player retires or terminally damages in race, a message telling all players of this fact is sent to the chat system so displayed in the overlay in game.
+â€¢ Cars become semi-transparent when collisions are turned off due to griefing.
+â€¢ Improvements to prediction system to reduce effects of lag when players are close by
+â€¢ Fix for occasional excessive smoke coming from other players in network mode
+â€¢ Fix for exploit where a player could upload an incorrect lap time
+â€¢ PS3 & PC â€“ fix for a problem where private sessions would not show up in search unless you searched for public sessions first
+
+Game - general
+â€¢ Xbox 360 achievement fix.
+â€¢ Several optimisations and performance improvements.
+â€¢ It is now possible to look left and right while in bonnet camera.
+â€¢ Fix for a hang when selecting a gear outside the gears available on the vehicle (this was possible with H-Shifter)
+â€¢ Fix for cars very occasionally flying into the air when hitting kerbs.
+â€¢ Fixes for custom action maps
+â€¢ Track rendering optimisations.
+â€¢ Brown screen problem no longer awards achievements or causes glowing white cars.
+â€¢ Fix for airborne achievement â€“ now awarded even if car flips upside down during jump
+â€¢ Fixed frame rate stalls and stuttering on Xbox 360.
+
+PC Specific Changes
+General
+â€¢ Added support for Xinput wheel and Logitech Rumblepad 2, including default action map configurations.
+â€¢ Adding ability to use H-pattern shifter in custom configuration by allowing configuration of gears 1 to 6 and reverse. Same for boost.
+â€¢ Fix for missing Force feedback on Vista.
+â€¢ Added the ability to override the controller type, so that if the game fails to auto-detect it, users can specify it themselves.
+o Symptoms of the game failing to detect the appropriate controller type are:
+On a pad, handling is too twitchy, appears to steer â€œlock-to-lockâ€.
+On a wheel, the input lags and the linearity slider doesnâ€™t appear to have an effect.
+o To override controller type, find the hardware_settings_config.xml that is generated when the game is run (should be in My Documents\Codemasters\GRID\hardwaresettings) and change the line that reads <input device_type="auto" /> to either <input device_type="padâ€ /> or <input device_type="wheel" /> as appropriate for your controller.
+â€¢ Changing microcode optimisation level for NVIDIA 7xxx series graphics cards to reduce a pause when using each shader for the first time.
+â€¢ Adding support for triple head displays.
+â€¢ Graphical corruption fix when using multiple GPUâ€™s.
+â€¢ Network chat text made less obtrusive.
+â€¢ Numerous on-going compatibility fixes.
+â€¢ Improvements to shadows for certain resolutions/aspect ratios.
+â€¢ Profiles are now flushed to disk when they are written to reduce the chance of them being corrupted if the PC dies. 

@@ -1,0 +1,82 @@
+User Type,Username,Date,Text
+,JG7854,2010-12-05T14:51Z,"Hi,
+Thanks for the great downloads!
+Has anyone had any problems with DRM with ATV2?
+Since I upgraded to ios4.2 these won't start playing via HDMI into my AV Receiver, however if I connect directly to TV via HDMI it works fine, if I play other MP4 films, which have not been pre-tagged with all Apple Tags, they also work fine.
+Thanks"
+[V],HolyRoses,2010-12-05T17:16Z,"there are all kinds of reported issues with the ATV2 and the new firmware.  read apples discussion board.  downgrade your firmware via dfu mode or wait for apple to release new firmware.  
+
+issue a bugreport with apple
+
+http://bugreport.apple.com"
+,rakz2cul,2010-12-05T17:55Z,"i keep on seeing issues with ATV, firmware, APPLE TV...switch to windows guys...unless you are big apple fan boy-ignore my suggestion ha ha..."
+,JG7854,2010-12-05T18:47Z,"Thanks Holyroses, I've logged it with Apple Technical Support, but they were no help. Just said try TV and AV Receiver software update. I really hope a new software update comes out soon. I've just ordered anothe ATV2 which I won't be updating to 4.2 unless they ship with it already installed.
+May I ask if you can recommend some tagging and ripping software? I am using Windows not Mac to rip Blu-Rays.
+Many thanks again, your shares are very much appreciated!"
+[V],HolyRoses,2010-12-05T18:47Z,apple really needs to get serious about this product.  they also need a real test bed of power users before they release any firmware to the public.  also be nice if the acknowledged issues and provided a time line for a resolution to those issues.
+[V],HolyRoses,2010-12-05T18:53Z,"I don't know much about windows ripping unfortunately.  Try handbrake for windows if it exists.
+
+With any Apple product I suggest you wait and read the reviews on firmware ""enhancements"".  Check out tinyumbrella and back up your shsh blobs to allow infinite downgrading to apple tv ios.  Easiest way to do it is hook av cable and usb and plug into pc, and then unplug the av cable, should put it into proper mode."
+,JG7854,2010-12-05T19:22Z,"Thanks again for the advice.
+Fingers crossed for the future updates. I love Apple products, just sometimes things can be quite frustrating."
+,Movieman17,2010-12-05T21:51Z,can you make an ipod copy of my soul to take
+,JG7854,2010-12-06T13:39Z,"Does anyone know if it is possible to downgrade my ATV2 without the SHSH Blobs on PC.
+
+I have the ipsw and ATV2 in DFU Mode, but get error message when trying to restore it."
+[V],HolyRoses,2010-12-06T14:28Z,try removing your internet access while doing it.
+,rakz2cul,2010-12-06T20:20Z,"thanks for adding the cool feature(chapter)...here is the subtitle http://subscene.com/english/Despicable-Me/subtitle-390119.aspx
+thanks once again HolyRoses for your holly effort "
+,Cespur,2010-12-06T22:59Z,Where do you get your chapter info?
+[V],HolyRoses,2010-12-07T04:44Z,"hmm.
+
+29.97 720p doesn't work on original Apple TV.  Works on Apple TV 2.0 though.
+
+Thats annoying :(  29.97 is a standard broadcast fps."
+,propeto13,2010-12-07T07:12Z,"Thanx bro, any idea when you will have ""Legend Of The Guardians The Owls Of Ga Hoole"" and ""The Town""?"
+,JG7854,2010-12-07T13:17Z,"Hi Loyroses,
+
+Still no luck, if PC has no internet it fails as it cannot verify with Apple.
+
+I give up, just a pretty black box and wheel of death!
+
+Thanks, any further suggestions gratefully received."
+[V],HolyRoses,2010-12-07T14:17Z,do the 720p movies with chapters play?
+,JG7854,2010-12-07T23:09Z,"Which of your films have chapters? None of them work, but some other films I have downloaded which are just MP4 without any tags play fine (I have tagged the MP4 files and saved them as M4V etc and they still play ok).
+(How To Train Your Dragon is the only one I could get working).
+I hope Apple updates soon, and I hope the new ATV2 that is due in couple days ships with 4.0
+:-) Thanks again for your help, appreciate it."
+[V],HolyRoses,2010-12-08T01:01Z,everything since other guys brrip (including other guys)
+[V],HolyRoses,2010-12-08T01:04Z,"run it through subler and try removing cprt and copy-warning keys as well.  It should only trigger DRM if it has an actual DRM embedded track (all itunes movies).  only a few people are experiencing your issue, so it maybe is related to your hardware.  i have no idea how apple drm works on the actual device though, they may be complete morons about it ;)"
+,Juanmtz,2010-12-08T02:28Z,"hey holyroses,do you have any movies in spanish audio? "
+[V],HolyRoses,2010-12-08T02:58Z,no
+,PB_007,2010-12-09T06:40Z,"Thanks HR!  
+
+For all those having issues with new firmware and hd movies playing, welcome to the club. Downgrade, like HR said or return ATV2 for new one with old firmware. Also try setting Dolby Digital to ""Off"" instead of ""Auto"" or ""On"". "
+[V],HolyRoses,2010-12-09T07:17Z,"If you have DD set to auto I think it tries to negotiate the DD over the hdmi cable.  for my stereo i had to use the toslink cable and set it to ON to always output the DD out the toslink.
+
+For what its worth I did upgrade mine to the latest firmware and it works fine.  even better than before.  There used to be frame skipping or jumping occasionally in the older firmware, that seems to be resolved in this one.
+
+I have a samsung un55c8000 tv which mine is direct connected to.   no problems.  i think its some sort of hdcp handshake issue people are having.
+
+they are no longer signing the 4.0 atv firmware, so you can't get the shsh blobs from it to do a regular restore with tinyumbrella.  i dont know if you can restore it via dfu though.  from what i read if you get the unit in dfu mode you can restore to older firmwares.  you should be able to do that with PwnageTool.
+
+there isn't anything incorrect with HR rips from what I can tell.  everything i toss at my units plays fine."
+,Lourenzl,2010-12-09T11:59Z,"I'm currently seeding this. :D hey roses.. could you upload a megamind, tangled.. :D much appreciated thanks! "
+,Hdavila,2010-12-19T08:29Z,"Love it! Automatically puts the movie poster on iTunes. 
+
+""A HolyRoses Production""  LOL Love it dude!
+
+Really wish it came with Subs, Maybe English and Spanish. Maybe English, Spanish Audio too...? 
+Not complaining though. 
+
+Thank YOU!"
+,abet002,2010-12-28T13:40Z,how do you encode this amazing videos in .m4v format?? could you increase its bit rate to 4mb/s or the next movies that you will upload so that it will be like movies purchased from the itunes store?
+[V],HolyRoses,2010-12-30T03:11Z,It is like movies from iTunes store.  If you want identical 100% iTunes store movie then buy it.
+,abet002,2010-12-30T09:46Z,could you please encode the movie disney's movie UP?? please oh great encoder
+[V],HolyRoses,2011-01-02T18:58Z,http://thepiratebay.org/torrent/5173304/Up.x264.720p-HR
+,aSARCASTICpirate,2011-02-21T01:02Z,"Heyy man, always loved your stuff and I've got to say. This film put's the cherry on the cake for movie ripping. This is the bomb! 
+
+Audio 10
+Video 10
+Film   10"
+,Argyris7,2011-07-21T14:29Z,Hello HolyRoses!I am seeding to the most of your movies and I like your work!Could you please tell me what program are toy using to convert these movies?Also I will be more than happy if you could tell me how I can add subtitles to watch the movie on psp because I cannot embed them.Finally the subs are going wrong in time!Please I am begging you to help me!

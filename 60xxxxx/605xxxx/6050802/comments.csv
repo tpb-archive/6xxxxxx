@@ -1,0 +1,53 @@
+User Type,Username,Date,Text
+,Race_Coach,2010-12-19T13:06Z,"Please post some more detailed installation instructions. I get ""volume does not exist"" when I try to extract the RAR files."
+[T],carter67,2010-12-19T15:53Z,@Race_Coach  extract all 3 rar files to the same folder then do it again.
+,Race_Coach,2010-12-20T13:23Z,Got it.  Works great.  Thank you for making this available.
+[T],carter67,2010-12-20T19:27Z,Your welcome Bud
+,XxlKooLaiDlxX,2010-12-30T21:23Z,Been hoping a new version would come around sometime. Works perfectly! Thanks for the upload.
+,itcrowd,2011-01-12T10:28Z,Many thanks for this. However my version has a big red smiley face watermarked over my uploaded images and the output pano. Any ideas as to how to remove?
+,csiszy1344,2011-01-20T07:28Z,"Same problem here. First the program was working, but after that the program went online by mistake, and that big red smiley face appeared on each uploaded picture. I tried to remove the program and register files, but nothing changed. Is there anyone who solved this problem?"
+,csiszy1344,2011-01-20T07:39Z,"Same problem here with the big red smiley face, and no ideea how to remove it."
+,gypolo,2011-01-26T00:01Z,"@carter67, thanks for all the hard work you do on here ;) had been using PTGui without any problems for a couble of weeks but now have the big red smiley of death, at no point did i access the update... can you think of anything we can do?"
+,gypolo,2011-01-29T20:14Z,@itcrowd & csiszy1344 any luck in shifting the watermark yet? or know of any clean alternative versions? 
+,XxlKooLaiDlxX,2011-01-30T01:34Z,"Yeah, same here. I commented above almost a month ago and it was working great at that time. I tried it today and encountered the red smiley faces as well. Key must be blacklisted so I wouldn't bother downloading it anymore. At least we know they have a sense of humor lol.
+
+I'll go back to my older version and see if that one does the same now."
+,gypolo,2011-01-31T21:27Z,"@koola yeah its a shame, made my life so much easier, i did see the funny side of it but after a few hrs tryin to remore it it virtually had me in tears lol am buying a license at end of month. u ever use hugin? you older version should still be work fine"
+,csiszy1344,2011-02-07T12:55Z,"Could not do anything. I had to use the older version. Anyway, I reinstalled the windows, and now it is working. Hopefully it will not try to update itself."
+[T],carter67,2011-02-09T04:38Z,"here's another reg for you guys to try, not sure if it's any better or not..
+
+Registration Name: Jordi Martinez
+
+Registration Key:
+ME:5Q8#z5HfrprhDDNZnX%LJTL/CH65W%2Y4NPUA+J2Qm6%KCrtD+qoCp7u4
+oNkLsSte#HbtAB!sAMyf:kFSAYH#oWw88oP5s/+JGgEPt6Wm%BacG2gCAQ=="
+,neuromonkey,2011-02-10T03:39Z,"To remove the red smiley faces, delete the file:
+
+C:\ProgramData\{48632410-2828-439F-92F4-5151AA4B9620}\config.bin"
+,gypolo,2011-02-10T12:33Z,"@ carter67 & neuromonkey. thanks alot for the responses guys, tried deleting the file first and it worked a treat. many thanks"
+,csiszy1344,2011-02-10T12:46Z,"Thank you, neuromonkey. It is working, by deleting config.bin"
+,Concussion,2011-03-06T02:42Z,"i'm running win-xp. there is no program data dir - like there is with vista and win7. searched my entire drive for config.bin - it's not there.
+
+any ideas?"
+,badnaryk,2011-03-28T15:44Z,"Hi neuromonkey
+
+Could you tell me how To remove the red smiley faces,  IN MAC SYSTEM 
+
+Regards,,"
+,jamesdeanny,2011-04-01T19:36Z,"For XP, the config.bin file is located in C:\Documents and Settings\All Users\Application Data\{48632410-2828-439F-92F4-5151AA4B9620}\config.bin"
+,steliosan,2011-04-13T06:45Z,sorry guys but where is that file in win7?
+,ernestnav,2011-05-18T07:42Z,"@badnaryk I have the same problem, I'm a mac user. Please heeeeelp!! :(:(:(
+
+Thnks"
+,turbohips,2011-05-24T04:43Z,Any updates to fix the problem yet?
+,kiwi_xboxer,2011-10-15T22:58Z,Thank you so much for this .... works a treat! :)
+,lostyuri,2011-10-29T11:17Z,"Could you give me some help about the installation? I don't know how to extract the 3 rar files to the same folder. They have the same name, then I to extract to the same folder?  "
+,xenark,2011-12-08T19:25Z,"Deleting the {48632410-2828-439F-92F4-5151AA4B9620} file works to get rid of the red smiley faces:  I've JUST done it.
+
+For Windows 7, it is in a hidden folder, so you will have to enable hidden folders to see it (Use Google to figure out how to do that)
+
+It is then in C: > Program Data > {48632410-2828-439F-92F4-5151AA4B9620}
+
+Delete the folder, and it will work fine!"
+,tyfrmdr,2011-12-17T21:11Z,"hi, can u pls upload the mac version? or where can i  get it? thx."
+,Lanook,2012-05-07T16:31Z,Am I missing something? I get 1 .diz file. What do I do with that?! I can't get it to work. 

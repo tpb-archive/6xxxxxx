@@ -1,0 +1,6 @@
+New in PerfectDisk 1911 Build 182:
+We corrected an issue which was preventing the PerfectDisk user interface from correctly saving user settings to the registry.
+We corrected a scheduling bug on virtual computers. When the start time was missed the user interface displayed a date of 1899.
+We corrected an issue with the welcome screen always displaying when PerfectDisk was launched even though is should not have.
+We ensured compatability with Exchange 2007, SP3 and have allowed PerfectDisk to defragment data stores in this configuration.
+We corrected a bug which caused PerfectDisk to crash if the MFT exceeded 80GB.

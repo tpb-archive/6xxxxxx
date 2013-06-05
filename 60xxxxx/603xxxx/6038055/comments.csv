@@ -1,0 +1,96 @@
+User Type,Username,Date,Text
+,Stormfront73,2010-12-14T15:07Z,it crashes on me...(running on vista)Help
+,spartandx82,2010-12-14T15:41Z,"Thanks for this great upload Alex, but I can't get this to run on my system. I keeps crashing with as soon as I launch it. Running it immediately gives me the ""A.R.E.S has stopped working"" error message. I'm having Win 7 x86, and my system exceeds all the requirements. Any ideas to make this work would be greatly appreciated. "
+,aasif.k30,2010-12-14T16:57Z,trojan detected
+,spartandx82,2010-12-14T19:09Z,"Did any of you guys get this to work? Still getting the crashes here, tried everything from compatibility mode to direct x updates."
+,Schneil182,2010-12-14T21:54Z,"Appcrash Ever !! 
+
+In Windows 7"
+[V],alexisthebest,2010-12-14T23:18Z,"Sorry guys. I assumed everyone would be updated, as most of the games i upload mention to but my latest dont.
+
+You need to have your Microsoft Visual C++ updated
+
+
+Microsoft Visual C++ 2010 Redistributable Package (x86) :
+http://www.microsoft.com/downloads/en/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84
+
+Microsoft Visual C++ 2010 Redistributable Package (x64) :
+http://www.microsoft.com/downloads/en/details.aspx?FamilyID=bd512d9e-43c8-4655-81bf-9350143d5867
+
+should fix the crashing"
+,da_blob,2010-12-15T01:56Z,Updated MS Visual and it still crashes.
+[V],alexisthebest,2010-12-15T02:36Z,"@da_blob
+
+then you have more issues you need to fix.
+
+update you direct x and also update your .NET to 4.0"
+,spartandx82,2010-12-15T02:42Z,"Thanks for replying Alex, but it did not fix the problem for me. Game still crashes instantly whenever it is run even after installing latest visual c++ redistributable. "
+,theugamer,2010-12-15T02:46Z,"OK I GOT IT TO RUN. XP SP3. DONT KNOW 'BOUT ANYTHING ELSE.
+
+DOWNLOAD VISUAL C++ 2010. NO GO. 
+
+DOWNLOADED XNA FRAMEWORK 3.1 AND .NET FRAME WORK 3.5 FULL INSTALLER PACKAGE FROM MS. 
+
+AND IT WORKS. 
+
+IT REQUIRES .NET FRAMEWORK 2.0, VC++ 2010 AND XNA FRAMEWORK 3.1 TO WORK. 
+
+THANKS ALEXISTHEBEST. THE GAME PLAYS LIKE A MODERN VERSION OF CONTRA ON STEROIDS. FRANTIC ACTION. BUT NOTHING YOU HAVE NOT SEEN B4. 
+
+IF SOME ONE ASKED ME TO RATE THIS: 7.8/10
+"
+,theugamer,2010-12-15T02:56Z,"here are some screenshots:
+
+i switched from fullscreen to windowed, for those who might think that i may be spamming. 
+
+sadly my gamepad doesn't go with this. i aint buying a frigging xbox 360 gpad just to play this bullshit. 
+
+http://img257.imageshack.us/img257/9373/aresy.png
+
+http://img530.imageshack.us/img530/6425/ares2.png"
+,theugamer,2010-12-15T02:57Z,"http://img530.imageshack.us/img530/6425/ares2.png
+
+screenshot . i got it to run"
+,theugamer,2010-12-15T02:58Z,sorry for the double post. this keyboard is fucked up. 
+,spartandx82,2010-12-15T02:58Z,"Thanks theugamer. I can confirm it works on win 7 x86. XNA 3.1 framework did the trick. For those who are still looking for it, you can grab it here-
+
+http://www.microsoft.com/downloads/en/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2"
+,Stormfront73,2010-12-15T15:41Z,Cheers alex and nice one spartan that did the trick!!!
+,Radiancekov,2010-12-15T22:05Z,"Game runs fine with XNA 3.1 installed but it crashes in the third stage, does the same happen to anyone else?"
+[V],alexisthebest,2010-12-17T05:51Z,"A bit late but here's a small update.
+
+BE SURE TO READ THE INSTRUCTIONS
+
+http://thepiratebay.org/torrent/6046279/A.R.E.S.Extinction.Agenda.v1.1.12.full-THETA"
+,Schneil182,2010-12-18T00:46Z,"Everybody...
+
+Install 
+
+XNA 3.1  ! 
+
+Works for me ! "
+,Schneil182,2010-12-18T01:43Z,"Install This For Play this game 
+
+
+http://www.microsoft.com/downloads/en/confirmation.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
+
+
+Microsoft XNA Framework Redistributable 3.1
+
+ONLY THIS !  FOR PLAY THIS GAME
+
+SIMPLE !! 
+
+XD
+"
+,viperstrikes,2010-12-19T05:52Z,"Anyone had some low frame rate issues with this game. It normally runs smooth as butter but at some points without any reason there are some noticeable dips in the frame rate. I'm using quite a solid computer ie.intel core 2 quad q9550, ati 5770, 3gb ram, vista x64 sp2 on 1920*1200 resolution.
+I've also tried the 1.12 update."
+,Cotsos,2010-12-20T11:12Z,installed update and Framework 3.1 and it works on me
+,blue_11,2010-12-31T15:15Z,Thanks THETA! Thank theugamer!
+,blizzard_beast,2011-06-20T01:07Z,"Thanks uploader! This game is sweet although not super original but it's really good.
+To all who have a problem installing the game: please don't blame it on the uploader.I have tested this game (i'm running Vista) and it's worked like a charm.Compared to most games this is the simplest installation process you could ask for.
+Simply unzip the file to a folder (i created one on my desktop) , run ARES.exe , go to where the game has been installed (most likely C:Program Files->A.R.E.S.-Extinction Agenda.Go back to the folder where you unzipped the files and copy NFOviewer.exe and past it back into the folder where your game has been installed.
+Play and enjoy!"
+,blizzard_beast,2011-06-20T08:07Z,"P.S -
+If your game crashes (mine did around level 3) , follow alex's link to the update (scroll up) and download it.You'll have to reinstall the game but it won't take long and what's most important , IT WORKS! My game no longer crashes!"
+,LymphN0de,2012-01-11T00:35Z,"Avast detects a virus, is this false?"

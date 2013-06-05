@@ -1,0 +1,186 @@
+i made this portable app with vmware's thinapp :) its just a test because i havent thoroughly tested it myself but it may help some people with the problems they are having making it pro :) please test and find any bugs so i can make whatever improvements necessary.
+
+ALLOW ACCESS IF FIREWALL POPS UP
+
+ 
+http://i123.photobucket.com/albums/o317/ramrod246892001/tversity5.png 
+http://i123.photobucket.com/albums/o317/ramrod246892001/tversity7.png 
+http://i123.photobucket.com/albums/o317/ramrod246892001/tversity8.png 
+http://i123.photobucket.com/albums/o317/ramrod246892001/tversity9.png
+
+FALSE POSITIVES:
+
+Scanned with kaspersky anti-virus 2011. Its only because tversity is a streaming program and its files access the internet and network so most anti-virus's pick it up as a virus.
+
+
+NO VIRUS FILES ARE IN THE TORRENT
+
+
+
+Release Notes
+Version 1.9.3 (November 24, 2010)
+
+Pro edition
+Expand and refresh list of supported premium content sites.
+Accept any HTML page and not just supported sites, showing the full page at 800Ã—600 in such cases (this is instead of zooming in on the video player box).
+Faster playback start for premium content (and any content requiring the server side browser).
+Fix BBC iPlayer issues - it is now fully supported (including age verification).
+Improve audio/video synchronization of server side browser.
+XML metafiles that had an HTML mime type were not treated as metafiles but rather rendered via the server side browser - this is now fixed.
+Flash player plugin now bundled with installation wizard - no need to do a separate install.
+All editions
+New browser toolbar that includes a menu of supported web content sites (facilitates content discovery) and a â€œsubscribeâ€ button (enables 1-click addition of web content to the media library).
+Monitor folders for changes and automatically reflect these changes in the media library.
+Support more than one TVersity instance on the network with the Xbox 360 - this is thanks to the fact that each instance now generates its UDN.
+Monitor changes to network interfaces on the computer and handle those changes correctly.
+Properly handle power management events (sleep, hibernate, resume) and shutdown in terms of SSDP.
+Up to 7x faster indexation of photos.
+Service starts correctly when user name (and hence installation path) includes non English characters.
+Corrupt AVI files can no longer cause the indexation process to spend many minutes on one file - we timeout after 5 seconds per file and skip it.
+Software was mistakenly transcoding mp3 above 128kbps when used with the iPhone - this is no longer the case.
+Album art is now supported for WMA and not just MP3.
+Deliver higher resolution album art when available.
+Playlists were not indexed by folder until the second time the library was refreshed - this is now fixed.
+Simplify and improve the installation wizard:
+Eliminate the configuration wizard (its functionality was merged into the installation wizard).
+Make sure the user has admin rights.
+Remove firewall rules when uninstalling.
+Warn users when skipping installation of ffdshow or when unchecking the firewall checkbox.
+When installing for the first time, the service was always set to automatic start, even when the relevant checkbox was unchecked - this is now fixed.
+Fix some rare crashes as well as many additional minor bugs.
+
+
+Supported Premium Content Sites
+The Pro edition of TVersity letâ€™s you subscribe to an ever growing collection of premium online content websites and watch your favorite programming on TV via your game console, Set-Top-Box and many other devices.
+
+Hulu
+BBC iPlayer
+Joost
+CBS
+NBC
+The WB
+TV.com
+ESPN
+NFL
+MTV
+VH1
+Sling.com
+IMDB.com
+The Daily Show
+The Colbert Report
+Comedy Central
+South Park
+Marvel
+The Discovery Channel
+National Geographic Channel
+E Online
+CNN
+Snag Films
+YouTube Movies and Full Episodes
+My Damn Channel
+Notes
+Some of these websites are only available in certain regions of the world.
+The above list is subject to change without prior notice.
+Supported by All Product Editions
+* Audio and Video Podcasts (see iTunes for a comprehensive list of podcasts available online).
+* WMA and WMV streaming (RTSP, MMS, HTTP).
+* Any common audio/photo/video format available over HTTP.
+* Subscription to RSS/MRSS/ATOM/OPML/RDF.
+* YouTube (except most movies and full episodes which require the Pro version)
+* Google Video
+* Flickr
+* Funny Or Die
+* Flix.co.il
+Known to work via 3rd party tools
+* last.fm via the last.fm proxy
+* Sirius and XM Satellite Radio via SiriusXMStreamer
+
+
+
+Supported Devices
+TVersity supports three families of devices and applications:
+
+UPnP / DLNA Devices - Devices supporting the UPnP AV / DLNA standard (which is the de-facto standard for connecitivity between devices in the digital home). This includes devices like networked TVs, DVDs, Stereo Receivers, Digital Media Adapters/Receivers, Mobile Phones, Satellite and Cable set-top-boxes and more.
+
+Web enabled Devices - Devices with a web browser (XHTML-MP or WAP 2.0) and media streaming or downloading capabilities like Mobile Phones, PDAs, the Sony PSP, and more.
+
+RSS / Podcasts enabled Devices - Devices with an RSS reader that can handle enclosed media and either stream or download it, like the Sony PSP, iTunes/iPod and more.
+
+Adobe Flash enabled Devices - Devices with Adboe Flash 7 or higher like the Sony Playstation 3 and the Nintendo Wii.
+
+Windows Media Center hosted HTML - Devices and computers supporting Microsoft Windows Media Center hosted HTML or other compatible software, such as Active-TV enabled PCs and the Active-TV compliant variant of the DLink DSM 520.
+
+UPnP / DLNA Devices
+The TVersity Media Server supports (among other things) the UPNP AV standard and therefore in theory should work with any UPNP AV or DLNA compliant media hub such as the ones from DLink, Linksys, Netgear, SMC, Philips, Gateway, Sony, Roku, Govideo etc. However one of the unique qualities of the TVersity Media Server is that itâ€™s designed to automatically do all the necessary conversions to allow successful and optimal playback of virtually any media content on any of its supported media hubs. Therefore only officially supported media hubs can take advantage of the full range of benefits the TVersity Media Server can offer. Furthermore some of those devices can be automatically detected by the TVersity Media Server, while others require the user to manually set the server to assume it is serving a specific type of device.
+
+Devices that can automatically be identified by TVersity and have been tested to work:
+
+The Sony Playstation 3
+The Xbox 360
+The DirecTV HR20/HR22 (only in Version 1.8 or older)
+The Sony Vaio VGP-MR100U
+The DLink DSM 320/320R/320RD
+The DLink DSM 510/520 (firmware 1.02 or higher, older firmware versions are identified as DSM 320)
+The Philips Streamium SL300i/SL400i/MX6000i
+The Roku Soundbridge M500/M1000/M2000
+The Philips SLA5500/5520
+The Omnifi DMS1
+The Nokia 770 or N800/810 Internet Tablet via Media Streamer add-on from Nokia
+LobsterTunes
+Devices that have been tested and confirmed to work but cannot be automatically identified and hence require explicit setting via the TVersity GUI:
+
+The Netgear MP101
+Terratec Noxon (never tested by TVersity but reported by some users to work well)
+The SMC EZStream SMCWMR-AG (this device has some unique limitations, please read further in the FAQ to learn more)
+
+The Gateway ADC220/320 (this device has some unique limitations, please read further in the FAQ to learn more)
+
+The GoVideo D2730/D2740 (never tested by TVersity but reported by some users to work well due to the hardware resemblence to the Gateway ADC 220/320)
+
+Devices and software that were never tested by us but were reported by users to work:
+
+The Zensonic Z400
+Siemens M740AV DVB-T receiver
+Pinnacle Showcenter 200
+Telegent TG100
+Snazio Net DVD Cinema SZ1300
+Acer AT3705-MGW LCD TV and Acer MG3001-p
+The Nokia N80 phone
+GeeXboX
+Xbox Media Center
+Pioneer BDP-95FD BLU-RAY player
+Linksys WMLS11B
+Technika Smartbox 8320HD
+Note:
+These devices typically have no settings in the TVversity GUI since there is no device profile for them. This means that transcoding wonâ€™t work for them out of the box, however advanced users are welcome to create device profiles (these are just XML configurations) and send them to us for inclusion. In fact, some of the devices above already have user contributed profiles and for them you will be able to transcode either out of the box, or after explicitly selecting them in the TVersity GUI.
+
+Web enabled Devices
+The TVersity Media Server allows any device with a web browser to access the media library and download or stream the multimedia content of the library. Whether media is downloaded or streamed is device dependent, for example the web browser running on your desktop may do either of these things depending on its configuration. The web browser on the Sony PSP is configured to download content to the memory card. Web browsers on mobile phones typically do one of those things depending on the make and model, or they may refuse to access multimedia content from the web browser completely for reasons typically related to business decisions made by wireless carriers to maximize their financial gain from your media consumption habits (the next time you switch carriers you may want to check their policy with regard to this matter).
+
+The devices that are currently supported are:
+
+Apple iPhone / iPad / iPod Touch
+Blackberry phones (OS 4 or higher)
+The Sony PSP (firmware 2.6 or higher) via its built-in web browser
+The Nokia 770 or N800/810 Internet Tablets via its built-in web browser and media player
+The Sony Playstation 3
+The Nintendo Wii
+Computers and laptops on any operating system that has either Firefox, Microsoft Internet Explorer or Opera
+RSS / Podcasts enabled Devices
+
+The TVersity Media Server allows any device with an RSS Reader to access the media library and download or stream the multimedia content of the library. Whether media is downloaded or streamed is device dependent.
+For example iTunes typically downloads the media enclosed in RSS feeds so that it can be converted to an iPod friendly format (if necessary) and syncrhonized with the iPod. In contrast, the Sony PSP, being a connected devices and not a hard-drive based device, streams the media enclosed in RSS feeds off the network without storing it locally.
+
+The devices that are currently supported are:
+
+The Sony PSP (firmware 2.6 or higher) via its built-in RSS reader.
+The Apple iPod via iTunes
+The Juice Podcast Receiver (formerly iPodder)
+Adobe Flash enabled Devices
+The TVersity Media Server allows any device with Adobe Flash 7 or higher to access the media library and stream the multimedia content of the library. Streaming is done by converting the media on the fly to MP3 for Audio, Flash Video for video and JPEG for images.
+
+The devices that are currently supported are:
+
+The Sony Playstation 3
+The Nintendo Wii
+Remote computers of any operating system that has Adobe Flash 7 or higher

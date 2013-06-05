@@ -1,0 +1,9 @@
+We are pleased to announce the Alpine 2.1.4 release.
+This release includes an update to 2.6.35.10-based kernels. Hyper-V fixes have been applied to these kernels.
+Boot scripts have been updated so that if at least one network interface starts successfully, then services that depend on networking will be started. In previous releases (since Alpine 1.9.0) all network interfaces had to start successfully for this to happen.
+Also, Busybox contains a fix for a long-standing bug that caused crontab files to mysteriously disappear.  
+http://alpinelinux.org/wiki/Release_Notes_for_Alpine_2.1.4
+ 
+http://www.alpinelinux.org/wiki/Main_Page
+
+sha1sum : 4653dfd15438aa5fa0411eb71f113d201bb331fe  alpine-2.1.4-x86.iso

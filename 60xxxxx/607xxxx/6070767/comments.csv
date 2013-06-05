@@ -1,0 +1,302 @@
+User Type,Username,Date,Text
+,quashiee,2011-01-01T18:56Z,"nice....
+
+can I update the lightroom if its available?"
+[V],Cyberpiraten,2011-01-01T21:18Z,"check the ""Update link"" in the info. "
+,geezalino,2011-01-09T05:59Z,you're the man (or woman) Cyberpiraten!
+,sacramentomac,2011-01-10T00:52Z,Need help installing. Cann't find terminal application from instructions. Anybody out there that can help me. thanks
+[V],Cyberpiraten,2011-01-11T00:26Z,"Haha, ty x) 
+
+Go to search, write ""terminal"", here you go mate. "
+,sacramentomac,2011-01-11T04:21Z,Thanks i will give it a try. . Thanks for the help. Do i have to paste the activation blockers also?
+[V],Cyberpiraten,2011-01-12T09:07Z,"In the host file, but not in terminal. 
+Good luck, np bro. :)"
+,rattlehead114,2011-01-15T11:55Z,"This is awesome \m/
+
+I'm having problems finding the localhost and broadcasthost, how exactly do you paste the activation blockers in them?
+
+I'm a noob at this stuff so excuse me
+Thank you :D "
+[V],Cyberpiraten,2011-01-15T14:45Z,"Here you go :) 
+
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+
+# Block Adobe Activation
+127.0.0.1 hl2rcv.adobe.com                                                      
+ 127.0.0.1 t3dns.adobe.com                                                       
+ 127.0.0.1 3dns-1.adobe.com                                                      
+ 127.0.0.1 3dns-2.adobe.com                                                      
+ 127.0.0.1 3dns-3.adobe.com                                                      
+ 127.0.0.1 3dns-4.adobe.com                                                      
+ 127.0.0.1 activate.adobe.com                                                   
+ 127.0.0.1 activate-sea.adobe.com                                                
+ 127.0.0.1 activate-sjc0.adobe.com                                               
+ 127.0.0.1 activate.wip.adobe.com                                                
+ 127.0.0.1 activate.wip1.adobe.com                                               
+ 127.0.0.1 activate.wip2.adobe.com                                               
+ 127.0.0.1 activate.wip3.adobe.com                                     
+ 127.0.0.1 activate.wip4.adobe.com                                               
+ 127.0.0.1 adobe-dns.adobe.com                                                   
+ 127.0.0.1 adobe-dns-1.adobe.com                                         
+ 127.0.0.1 adobe-dns-2.adobe.com                                                 
+ 127.0.0.1 adobe-dns-3.adobe.com                                                 
+ 127.0.0.1 adobe-dns-4.adobe.com                                                 
+ 127.0.0.1 ood.opsource.net                                                      
+ 127.0.0.1 practivate.adobe                                              
+ 127.0.0.1 practivate.adobe.com                                                  
+ 127.0.0.1 tpractivate.adobe.newoa                                               
+ 127.0.0.1 practivate.adobe.ntp                                                  
+ 127.0.0.1 practivate.adobe.ipp                                                  
+ 127.0.0.1 ereg.adobe.com                                                        
+ 127.0.0.1 ereg.wip.adobe.com                                                    
+ 127.0.0.1 ereg.wip1.adobe.com                                                   
+ 127.0.0.1 ereg.wip2.adobe.com                                                   
+ 127.0.0.1 ereg.wip3.adobe.com                                                   
+ 127.0.0.1 ereg.wip4.adobe.com                                                   
+ 127.0.0.1 wip.adobe.com                                                         
+ 127.0.0.1 wip1.adobe.com                                                        
+ 127.0.0.1 wip2.adobe.com                                                        
+ 127.0.0.1 wip3.adobe.com                                                        
+ 127.0.0.1 wip4.adobe.com                                                        
+ 127.0.0.1 www.wip.adobe.com                                                     
+ 127.0.0.1 www.wip1.adobe.com                                                    
+ 127.0.0.1 www.wip2.adobe.com                                    
+ 127.0.0.1 www.wip3.adobe.com                                                    
+ 127.0.0.1 www.wip4.adobe.com                                                    
+ 127.0.0.1 wwis-dubc1-vip60.adobe.com            "
+,rattlehead114,2011-01-15T17:04Z,"i really appreciate your quick, but I still don't understand what you wrote exactly. If you can tell me step by step what to open before I paste this.
+I've never done this before :P, and I just got my first mac so I don't really know how to navigate it.
+
+Thanks in advance, Cyberpiraten"
+[V],Cyberpiraten,2011-01-17T11:45Z,"You just follow the instructions, when u open the host file you just paste the i wrote inside :) 
+
+Enjoy!"
+,magalona18,2011-01-25T14:12Z,thanks.. working fine!
+,vargmamma,2011-02-16T10:29Z,tack som fan! tror du att du skulle kunna ladda upp alla Topaz plugins till PS CS5? dom är omöjliga att få tag på! >.< 
+[V],Cyberpiraten,2011-02-17T01:00Z,"Laster ikke opp Plugins, sry kompis ""/  (har ingen) "
+,likefoxes,2011-02-17T14:31Z,"I can't seem to be able to save ""hosts"". I tried to change the priviliges of the file but still am not able too, do you know how I can?
+
+Thank you very much."
+,80mmzeiss,2011-02-19T03:10Z,"works perfectly, let freedom reign"
+,SinnNorth,2011-02-20T05:52Z,Works perfectly! 
+,chogno98,2011-02-25T23:29Z,Works beautifully. Thanks for the very clear instructions!
+,cigburns123,2011-03-04T13:34Z,what do i do when i get to the terminal? where do i type it in? thanks though
+,gibsonshell,2011-03-08T03:50Z,Have never done this before but how exactly do I download this??  When I click on the download this torrent it tells me that my computer can't open it???
+,32bithit,2011-03-11T21:53Z,"awesome torrent, followed instructions step by step and worked perfectly"
+,shutterbug111,2011-03-17T16:59Z,"Can someone help me out!!!
+
+I have run the lightroom 3 package and it downloads fine. From this point I am not sure where to find the Terminal application. I am no computer wiz so step by step would be great.  
+"
+[V],Cyberpiraten,2011-03-19T23:34Z,"Go into your tool's then find the Terminal app or you could search for ""terminal"" in your search bar :) 
+
+You understand the rest from there... if not you should buy it... "
+,Robindinho,2011-03-20T20:34Z,"working great thanks.
+just made a youtube vid about it.
+with your link."
+,reg4u100,2011-03-21T23:36Z,"something is happening with the file, it doesn´t download, do u have any other link pleas?"
+[V],Cyberpiraten,2011-03-26T03:58Z,"Link me to the video you made? :) 
+
+No I'm sorry i only got this download link....  try magnet download."
+,Warrior30,2011-03-26T20:12Z,Hola. I m new to this and I dont understand #4. Where do we put it? and now my Terminal is blank!. Help pls
+,Warrior30,2011-03-26T20:21Z,"where is this host file, and how do you flush ? : ) I bow to your gift cyberpiraten. "
+,iasprn,2011-03-29T15:25Z,"cyberpiraten u r awesome..ty for all the time& energy& know how u have put into all these great ups..they r always clean& quick, w easy instructions..can pirates be nobel laureates? regardless, i'll nominate u& ur little green skull!! ty ty ty!"
+[V],Cyberpiraten,2011-03-31T14:42Z,"@Warrior30
+Hola :) You need to enter the code into the terminal, press enter and write your password, press enter one more time. 
+
+Now your hostfile wil come up in a text fromat. 
+Fill in the activation blocker code :) 
+
+@iasprn 
+Thanks for the great comment! People like you provokes me to upload more! :) I appreciate it alot bro :) Peace! 
+With regards, CyberPiraten "
+,rocph,2011-04-02T00:57Z,"Hola Cyberpiraten :) First of all Thanks so much for sharing!!
+
+Previously to this I installed Creative Suite Master Collection in the same way: pasting code in the textbox of the host. 
+
+I know nothing about this and as I am now intending to install Lightroom I have few doubts:
+
+When the textbox opens has already the code I pasted when installing Creative Suite Master Collection in between 127.0.0.1 localhost and 255.255.255.255  broadcasthost .
+
+Am I suppose to add this Activation Blocker anyway or I will make a mess if I do? Where should I add it if I have to?
+"
+,blarneybaby,2011-04-02T23:38Z,WORKS LIKE A CHARM!!! Uploaded VERY quickly!!!! Thanks for the excellent work!!! 
+[V],Cyberpiraten,2011-04-03T12:14Z,"@rocph
+The activation blocker will work for any adobe software :) 
+
+@blarneybaby
+Thanks :) "
+,rocph,2011-04-04T13:50Z,:) Great!! Thank you again.
+,QUANTUMIX,2011-04-09T14:20Z,"if i have more than one adob program, do i keep adding on to what is posted in between local host?"
+[V],Cyberpiraten,2011-04-10T05:13Z,"If you allready had run the Activation Blocker, then you don't need to runn it again :) "
+,tbonethug,2011-04-20T06:51Z,"CyberPiraten.... you... are... AWESOME!!!!!!!! Thank you soooooooooooooooooo much!!! Love ur mac uploads! You give super easy instructions, and make going to terminal a breeze for noobs like me who are iffy about entering code in terminal!! Thanks a million and keep up the great work!!"
+,shrikanthnh,2011-05-09T17:26Z,"@cyberpiraten, i have lightroom 2.7 installed in my system do I need to uninstall it before installing 3.3?"
+[V],Cyberpiraten,2011-05-14T20:15Z,"@tbonethug
+thanks, I'll keep em comming :) 
+
+@shrikanthnh
+Yes."
+,missSparky914,2011-05-19T19:05Z,Awesome Upload! You're the best!
+,omthedome,2011-05-21T20:01Z,Thank you very much for sharing. Your efforts are noticed. This will be my second time downloading this program. I already have licesed Adobe products do I have to paste the code as directed? Should I highlight the already there text where am adding the replacement?
+,migueldax30,2011-05-31T00:46Z,"Hi, can you guys tell me the password?"
+,Spanks789,2011-06-19T07:11Z,"I just bought a second-hand MacBook Pro with Lion. Every time I try to paste the first bit in Terminal it pauses for a minute then says: 2011-06-18 22:51:05.152 TextEdit[3434:5917] PersistentUI: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts
+
+Perhaps the previous owner already did the patch?"
+,boyvd,2011-06-27T23:46Z,Flawless VICTORY!!! :D This is great man! Really appreciate it. Tnx a lot!
+,ymmij84,2011-07-15T16:09Z,"Hey, works great! Might be a stupid question, but can I update this to 3.4 via the inprogram update? I want v. 3.4 which is the latest update. It includes tethered shooting with my D7000."
+,macrookie,2011-07-25T01:40Z,"Hi CyberPiraten,
+
+I am new to Mac and can't wait to start using Lightroom.
+
+Do I need to download Torrent/bittorrent before installing this?
+
+Where is the dmg file? 
+
+I am a rookie and stuck on step 1.
+
+Please help!"
+,Ninjin72,2011-07-26T00:36Z,"I have the same problem as Spanks789. Little amazed however that you had a second hand MBP in june with Lion when it wasn't released until last week. 
+
+Anyway, maybe there is an issue with Lion? Anyone have any suggestion would be really appreciated. Thanks."
+,WillNorway,2011-07-27T12:54Z,"@Ninjin72 I also have that problem, upgraded to lion yesterday. Really annoying!"
+,Dannieloco,2011-07-28T17:18Z,dang so this hack isnt working with lion yet? can someone post a fix if they get one for lion!?
+,Klindten,2011-07-30T13:08Z,"Hey CP, I'm working hard on getting the host file thing to work, but i'm out of luck.. Don't know if its because of lion, but when i open the hosts file, it says that it's locked. And i've tried to find out how to become root user, but i can't find any guide that i can use. Also, i tried just typing sudo passwd root in terminal, but the file's still locked when i eventually enter it. Do you have any idea what to do?"
+,Klindten,2011-07-30T13:19Z,"@macrookie
+You need to download a torrent client like Tansmission, vuze and what else they are called (google would be lifesaving for that problem). Once you've downloaded the the files, the .dmg-file will be in the folder, don't worry. There are very good step-by-step instructions included. If you have lion installed, i sense that you might have a problem installing the crack, but hopefully, someone will come up with a solution very soon.
+
+Hope it helped.:)"
+,aymerc,2011-08-02T17:36Z,Ty CyberPiraten! You did ans amazing job
+,prozak2,2011-08-08T22:05Z,"Thanks so match CyberPiraten.
+Works fine!!!!"
+,krispie.pie,2011-08-09T20:49Z,"Hi there!
+
+Got to step 4. Then it asked for a password. Didn't know what to do, so I went to step 5 and pasted the info in different ways three times.
+
+Don't think I was supposed to do that. Can you tell me exactly what to do now.
+
+Thanks!"
+,kcvluijt,2011-08-12T17:48Z,"This might be the fact that I am a new Macbook user, but if I copy and paste step 4 into terminal, I get the following error:
+2011-08-12 17:42:28.093 TextEdit[499:5e0b] PersistentUI: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts
+
+How do I activate Lightroom? I am really anxious to use it. Thank you for your help."
+,lizardflix,2011-08-13T06:04Z,"I feel really stupid here but I'm having trouble understanding the instructions.  As I understand it, after installing and before opening, I open terminal and paste ""sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts""  
+
+Am I supposed to press enter after this?  
+
+Then, for the activation blocker info, it says paste between Localhost and broadcast host but I don't see those anywhere.  Is that still while in Terminal?
+
+Finally, in step 8 it says to run Photoshop and enter Serial.  Is that supposed to be lightroom?  
+
+I know others have done this with no problems and so this is really my issue but any help would be appreciated.
+
+Thanks!
+"
+,lizardflix,2011-08-13T06:23Z,"ok, I read more comments and think I did everything right but as a couple of others mentioned, I'm getting this ""2011-08-13 13:17:31.357 TextEdit[25841:1907] PersistentUI: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts"" after many lines about error loading.  I am on Lion as well.  This is all for blocking adobe right so if I've got snitch installed and already blocked adobe for photoshop, I don't really need to do this do I?"
+,y0laine,2011-08-18T02:03Z,"For those of you having trouble on Lion, paste the following in step 4 instead: 
+sudo pico /etc/hosts
+
+
+All other steps are the same. 
+
+When prompted for a password, enter your admin password (the same one you use to install other programs on your computer).
+
+Thanks for the great download!!! "
+,kcvluijt,2011-08-18T19:13Z,"Thanks, worked like a charm! Don't know how that works, but it did what it was supposed to, haha.
+
+Thanks again, keep up the great work!"
+,LanMax,2011-08-21T23:20Z,Thanks for the UP/seeds. Haven't installed yet. 
+,phite,2011-09-14T20:22Z,"I'm running Lion and am having the same problem others have noted here. I am unable to edit the hosts document as it is locked and it asks me to duplicate the document if i want to edit it.
+
+Anyone find a way around this yet? iPhoto doesn't have the power I need and Aperture is so slow its almost unusable so I'd like to try Lightoom out."
+,uRabbit,2011-09-26T03:12Z,"Pasting 'sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts' in Terminal results in:
+'2011-09-25 19:08:25.861 TextEdit[1546:430b] PersistentUI: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts'
+
+Pasting again results in no response. "
+,genesisSg,2011-10-14T11:50Z,"hi Cyberpiraten, u r amazing, thank u.
+i had just installed photoshop CS5 and had blocked the activation, do i still need to block the activation for lightroom 3.3 ?"
+,UlisesFTW,2011-10-20T19:56Z,"Worked great, thanx!"
+,aero2much,2011-10-23T02:06Z,"Hello, hope You guys can help me.
+I just bought an Imac 21 and am trying to install PS Lightroom, I made exactly every step till step 3, in step 4 I Openend Terminal and did paste the two options (sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts and sudo pico /etc/hosts), the second options is told to be right for LION users (wich I am), but after pasting I can not write my password, the blinking mark gets a grey color and I can not wirte or even paste text.
+Any sugestions?
+Hey Cyberpiraten great job uploading this and other releases."
+,newport_john,2011-11-03T16:55Z,"works perfect, much easier than I thought when looking at the instructions. The Lion code worked too.
+
+For those as clueless as I was, the ""terminal application"" is in your Mac utilities folder and opens up a DOS like prompt.
+
+When it asks you for a password in the Terminal application, just type it in -- it doesn't show your typing - at first I thought it wasn't working, and got an error message, but then i just typed in the password and hit enter and it worked.
+
+I chose the second to last serial number and it worked.
+
+Also, once installed, the program automatically updated to the current LR version."
+,Dannieloco,2011-11-08T05:57Z,"http://thepiratebay.org/torrent/6802136/Adobe.Lightroom.3.5.MacOSX.Incl.Keymaker
+
+Works well, just up'd it"
+,sequinscandal,2011-11-16T08:12Z,"Can some PLEASE tell me if you are able to update this and how?!?!? I see he said look at the ""update link"" in the info but I don't see it?"
+,chirag1106,2011-11-23T15:41Z,"at step 4 it asks for password, but i cant type anything..what to do"
+,draco_jpk,2011-12-13T23:56Z,"For Adobe CS5.5 the host file is changed into this:
+
+
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+0.0.0.0	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+
+# block Adobe activation servers
+0.0.0.0	3dns-2.adobe.com
+0.0.0.0	3dns-3.adobe.com
+0.0.0.0	activate.adobe.com
+0.0.0.0	activate-sea.adobe.com
+0.0.0.0	activate-sjc0.adobe.com
+0.0.0.0	adobe-dns.adobe.com
+0.0.0.0	adobe-dns-2.adobe.com
+0.0.0.0	adobe-dns-3.adobe.com
+0.0.0.0	ereg.adobe.com
+0.0.0.0	hl2rcv.adobe.com
+0.0.0.0	practivate.adobe.com
+0.0.0.0	wip3.adobe.com
+0.0.0.0	activate.wip3.adobe.com
+0.0.0.0	ereg.wip3.adobe.com
+0.0.0.0	wwis-dubc1-vip60.adobe.com
+
+
+Does this work for Lightroom 3.3 or should I add the 127.0.0.1 localhost and the rest of the blockers?
+"
+,pelukkas,2011-12-22T04:15Z,"@cyberpiraten. Hello, thanks for the upload i just have a question I have previously installed CS5 and I also used an activation blocker through the terminal to install it.  If I paste the activation blocker for light-room, will it affect my photoshop? I certainly do not want to delete my photoshop activation blocker. Thank you for your time."
+,matthewxo,2012-01-10T05:48Z,works most perfectly.  thank you!
+,Jwolly,2012-01-22T07:00Z,"Hey I'm in the process of doing the terminal writing, but when I go to save I get this message - The document “hosts” could not be saved. You do not have appropriate access privileges, To view or change access privileges, select the item in Finder and choose File > Get Info.
+
+Anyone have any advice? I'm the only user on the computer, all the settings in the get info are set to read & write."
+,Jwolly,2012-01-22T07:04Z,"Hey everyone I'm having a few problems saving the file in the terminal, after posting everything appropriately, when trying to save the error comes up - The document “hosts” could not be saved. You do not have appropriate access privileges.
+To view or change access privileges, select the item in Finder and choose File > Get Info.
+
+I've set all my settings to read & write and i'm the only user on the computer/admin so any help? 
+Thanks "
+,Jchristo4,2012-02-15T15:38Z,"Guys how do I pass through the Terminal part?
+
+I've followed the steps on the description given above
+
+@ no.4 (Open Terminal and paste the following ""sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts"")
+
+I did that but nothing appears.. for me to paste in between the following @ no.5
+
+Is there anything I should press after pasting ""sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts"" ??
+
+PLEASE HELP!"
+,wheeze,2012-02-25T10:23Z,Great!! Thats working!!! Thanks!
+,mycaverlynne,2012-06-27T07:16Z,"@cyberpiraten 
+Hey! This looks awesome! Just one quick question, when I go to paste the second text, it has opened another window, in text/edit. Is that where I paste it and save it? If so, when I go back to terminal, I enter sudo dscacheutil -flushcache from there? After the first stuff? I tried all this, when I try to run the app it just brings me to the installer over and over... Help please :)"
+,mycaverlynne,2012-06-27T07:25Z,Scratch that! I got it working! Is it bad that I never got asked for a serial # though? @cyberpiraten

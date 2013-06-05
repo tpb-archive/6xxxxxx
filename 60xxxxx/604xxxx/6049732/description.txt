@@ -1,0 +1,11 @@
+USB Xtaf GUI v33
+
+Slasherking823 released a new version of his Drive Eplorer that works on USB (and now experimental HDD) storage devices formatted by the Xbox 360.
+
+What's new/fixed (since v31):
+* Complete recode, gui same (v32b)
+* Dont probe A:// for drive(slow), overseek check, reordered io loading (v32b2)
+* Fixed some major mistakes..., also made some apparently, apply to all betas (32b3)
+* Multi cluster dirs fixed, newfolder() fixed for cache partition(and others), Null files now work, No wasting clusters by accident, removed game name(new xbox.com, doesnt work), disable cache option replacing broken log option ...., linux autoscan? (v33)
+* Experimental HDD support, HDD images, other minor fixes, Auto Xbox360 in manuall open (v34)
+

@@ -1,0 +1,80 @@
+This torrent includes some already converted files ready to play on the Disney Mix-Max as well as software and settings which will allow you to convert your own content for playback on the Mix-Max.
+
+My sister-in-law bought a Mix-Max for her daughter for this Christmas as her main gift this year.  Being the only tech guy in the family it fell on my shoulders to get some content working for it.  This turned out to be a bit of an ordeal given that the Mix-Max is no longer supported by Disney.  
+
+So I thought I'd post my results for others to use in the hope that it helps someone gets their own Mix-Max working.  If this helps you, consider it my (perhaps belated) Christmas present to you.  Obviously in the end this is for the children, so here's to hoping they enjoy the fruits of our labor!
+
+
+TORRENT CONTENTS
+----------------
+\Encoding Software\Encoding video for the Disney MixMax.pdf - Old instructions for manually converting video
+\Encoding Software\Free Mp3 Wma Converter V1.91 - Conversion software for audio files
+\Encoding Software\mixmax.wme - Template for WM Encoder 9 to convert video files
+\Encoding Software\wmencoder.exe - Installer for Windows Media Encoder 9
+
+\Movies\Cinderalla - 171mb
+\Movies\Disney's A Christmas Carol - 205mb
+\Movies\Dumbo - 190mb
+\Movies\High School Musical 1 - 272mb
+\Movies\High School Musical 2 - 315mb
+\Movies\High School Musical 3 - 322mb
+\Movies\Sleeping Beauty - 154mb
+
+\Music\ - 116 songs (various artists) - 420mb
+\Music 2\ - 15 songs (various artists) - 54mb
+
+\TV Shows\Hannah Montana Forever - Season 04, Episodes 6 through 11 - 365mb
+
+NOTE: The reason for a seperate 'Music 2' folder is so that the content will fill up the Mix-Max's internal memory as well as a 2gb SD card, as follows:
+
+Internal Storage (512mb) - Copy the folders 'TV Shows' and 'Music 2' to Mix-Max (leave 4mb of space for media library)
+External Storage (2gb SD card) - Copy the folder 'Music' to the Mix-Max, and all movies except Sleeping Beauty to the Mix-Max.  (Sleeping Beauty was converted before it was realized it wouldn't fit along with the rest of the videos).
+
+DISCLAIMER:  The music included is for an 8-year old who has a preference for classic rock and may contain songs deemed by other parents to be inappropriate for children.  As always be sure to review the content before giving it to your children.
+
+
+
+HOW TO CONVERT CONTENT FOR THE DISNEY MIX-MAX
+---------------------------------------------
+
+The Disney Mix-Max is very picky when it comes to custom user content such as TV shows, movies and music.  Disney designed it this way so users would have to buy licensed SD cards pre-loaded with Disney content.
+
+While the Mix-Max claims to play both MP3 and WMA files, it's a bit picky in what it will accept.  To make life easier, simply convert all music to the same format which will be ensured to play on the Mix-Max.  The Mix-Max works best with WMA files at a specific version and bitrate: WMA9, 128kbps, 44khz, stereo, constant bitrate (CBR).
+
+The format for video files is very very specific, moreso than audio files.  If the video files aren't in the exact format required, the Mix-Max will say "File not supported" and won't play the video.  Thanks to several intelligent members of the internet community, this process has been streamlined into a template and is quite straightforward if using the correct software.  For reference, the video format required is WMV9, 220x176, 300kbps, 30fps, with audio having the same settings as above.
+
+
+
+CONVERTING MUSIC
+----------------
+
+1.  Install Free Mp3 Wma Converter (installer is in the Encoding Software folder).
+
+2.  Add your music files (both MP3 and WMA) to the list by dragging-and-dropping into the Files to Convert area.  You can also browse for files by going to File->Add Files.  
+
+3.  Under Output Configuration, select your output path.  Then choose Wma from the Output Format list.  Finally, choose preset 10 under Format Parameter, which should read: "10 - WMA9 128kbps, 44khz, Stereo, CBR". 
+
+4.  Click Convert and once the files are done, copy them to the Mix-Max.  Make sure you leave 4mb of free space on the Mix-Max's internal storage so it can build a file library.
+
+
+
+CONVERTING VIDEO
+----------------
+
+1.  Install Windows Media Encoder 9 (installer is in the Encoding Software folder).
+
+2.  After install is complete, copy 'mixmax.wme' from the Encoding Software folder to C:\Program Files\Windows Media Components\Encoder\Templates\.  If you're on a 64-bit system, you'll need to go to C:\Program Files (x86)\Windows Media Components\Encoder\Templates\.
+
+3.  Start Windows Media Encoder.  Under the New Session window, select the Quick Starts tab and then select Convert for Mix Max.  You will be prompted to open a Source File to convert.  Despite what other tutorials say, you do not need to convert source videos to WMV first before re-converting for the Mix-Max.  As long as you have all the latest codecs installed (K-Lite Codec Pack recommended) you can directly convert DivX files without any issues.  After selecting a file, you will be prompted for a location to save the converted WMV file to.  NOTE: The program may stop responding for a few minutes as it analyzes the file.
+
+4.  IMPORTANT: Before encoding, the audio bitrate must be set to 44khz to prevent out-of-sync issues in the video.  Click on the Properties button on the toolbar.  Click the Compression tab, then click the Edit button.  Then click the Quality-based tab, and under Audio format, change the setting to "128kbps, 44 kHz, stereo CBR".  If it's set to 48khz then the audio will play slightly faster than the video and will end up out of sync.  This can probably be changed in the mixmax.wme template file but attempts to change it nanually ended up with the template being broken, so unless someone posts a new template you'll have to select 44khz manually for every file you convert.  It's a pain in the ass but at least it works.
+
+5.  After changing the audio setting to 44khz, press Apply and wait a few minutes as the program re-analyzes your file (will take the same amount of time as the first delay).  Once it's done, click the Start Encoding button on the toolbar to begin converting the file.  Depending on the speed of your computer and size of the video file it will take roughly 30-60 minutes to convert the entire video.  Once done simply copy the files to the Mix-Max or SD card.
+
+
+THANKS
+------
+
+This tutorial was compiled through information found in online forums.  Thanks goes out to the hard work of others that made this possible.  The original thread can be read here:  http://forum.videohelp.com/threads/252170-Mix-Max-Player-Help
+
+If this torrent helped you, please SEED and make sure to add a comment below.  Thanks!

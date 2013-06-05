@@ -1,0 +1,19 @@
+User Type,Username,Date,Text
+,Rightous_Man,2011-01-17T07:31Z,"Hey thanks for uploading this i saw this anime on demand and I really like it but couldn't understand what was going on cause it was episode 16 i saw first.
+
+Btw do you know where i can get the English audio files? I listened to the English voices and they are good quality imo. "
+,Rightous_Man,2011-01-17T07:55Z,"Hey i've noticed a issue with these episodes, i'm not sure if its something with my player or perhaps my settings are messed up, although they are default as far as i know. After a few minutes the episodes jumps back to the beginning of the episode.
+
+For instance in episode two right after the recap of Akiyuki getting shot when he transforms on the bus it jumps back to the beginning of the episode. Episode one did this also."
+[T],[D],2011-01-17T22:08Z,You're using vlc. It won't work. Use mpc+haali splitter.
+,JeusDante,2011-01-30T09:21Z,can you explain how to play this with MPC and haali splitter?
+[T],[D],2011-01-31T13:34Z,"Just install haali splitter, and mpc (media player classic, simple edition or hc edition, doesn't matter). Haali will usually be with high priority so all you have to do is play in mpc the episodes.
+The haali icon will appear in the taskar, in the right (forgot how that place is called) is everything is fine.
+Now each episode will play normally. Also note that all files should stay in same folder. Basically what ordered chapter do is take the separate opening and ending files and dinamically use them in the right place in each episode even if they are separate. This way you encode them only once for the whole series and save a lot of space (about 1/5 of total size or sometimes even more)."
+,Rightous_Man,2011-02-13T16:54Z,I downloaded Haali But when windows media center plays it there is no sound. And it has to be windows media center classic? Maybe this encoding is a better space saver but i'd rather just be able to hit play and watch the episodes.
+[T],[D],2011-02-22T17:09Z,"Media center should be fine i guess, but it doesn't have any codecs inbuilt. So install separately also a filter that can decode ac3 and dts. Like ac3filter (free)."
+,Gumface,2011-04-05T03:08Z,"getting 4.1kB/s 
+seed please
+(current ratio 1.6)"
+,Star_blazer,2011-10-10T12:09Z,"Would really love to get a hold of these but I got a Mac with Vlc....no paralells or anything like that so I guess I have to try some other download...
+Tried it but it just restarts...."

@@ -1,0 +1,72 @@
+User Type,Username,Date,Text
+,davidstory,2010-12-28T21:43Z,"Wow, I am excited to try this out. I will write a good review tonight after installing. For now, thx some0neX."
+[V],thethingy,2010-12-28T21:44Z,"Iprenn, click the magnet link"
+,kenneth.s.l,2010-12-28T21:56Z,"I got a 64. bit computer that broke (Windows 7 Ultimate Crack) down beacouse of it wasn't genuine, i got messages from Microsoft all the time, to check if it was genuine... I were gone a week and when i came back, my computer went on with black screen and (The screen got on) and the sounds of Win. 7 if i clicked mainiacly on the keyboard. So if i download this on a USB i just plug it in the other computer, and the rest does itself? Wasnt it a very small size on the torrent? -Thank You
+Kenneth"
+,kenneth.s.l,2010-12-28T22:10Z,Somebody Help me?!
+,kenneth.s.l,2010-12-28T22:11Z,Does it work on the empty Computer then? Stationary
+,some0neX,2010-12-29T01:55Z,"@kenneth.s.l
+The size is so small because it's compressed very well with 7zip =)
+Yes, it will work on ANY computer if you set the bios to boot from your usb drive, that's what makes this release to revolutionizing."
+,some0neX,2010-12-29T01:57Z,"@davidstory
+Glad to hear that, I hope you will enjoy my release. Please post your feedback at the official release site, ub3r.1337.cx :)"
+,kenneth.s.l,2010-12-29T05:16Z,"Could you have helped me via Teamviewer? I can't get the main file on the USB, it's plenty of space, but i get the error that it's to little space... Please help me some0neX"
+,puli9,2010-12-29T05:42Z,"someOneX plz upload window 7 x64 usb edition
+thx"
+,kenneth.s.l,2010-12-29T18:12Z,"Add me at Messenger? Kenneth-lie@hotmail.com
+
+-I Badly need some Help..."
+,aa61z,2010-12-30T00:01Z,"after running VHDresizer as i am using a 16gb usb , i have alreday copy the vhd created to the desktop, I got a message ( Vhd.dll not found or cannot be loaded )"
+,allsop1,2010-12-30T06:29Z,"tried to get this to work multiple times with no luck- the installer seems to copy nothing to flash drive except for 2 files. reextracted the files and tried again with same issue no boot. shame i really hoped to get this to work, would have been handy to work on computers with bad hd. or forgot passwords. good effort but no glory :(  thanks anyway for sharing."
+,RalphXII,2010-12-30T11:18Z,Do I need 2 flash drives????
+,aa61z,2010-12-30T19:26Z,"Was able to create the VHD, when try to resize get message , invalid chd file, i am using a 16gb usb do i realy want ot resize, the size of my vhd creared is 7.8Gb which i have copy on desktop to resize"
+,davidstory,2010-12-30T22:28Z,"Is the torrent uploaded correctly? I keep getting an error, input file not specified, when trying to download the torrent. Anyone else having problems?"
+,davidstory,2010-12-30T22:29Z,"Cancel request, I got it with the magnet link."
+,some0neX,2010-12-31T00:45Z,"@puli9 
+That's the correct behavior, the installer does only add the bootloader and the VHD file where the entire Windows is stored to your usb drive. Make sure that you set your bios to boot from your usb drive!
+@aa61z
+That's because you moved vhdresizer to a different location or didn't extract the archive properly.
+@RalphXII
+Of course you DO NOT need to usb drives :D unless you want to install it twice
+
+IF YOU CAN'T DOWLOAD THE TORRENT OR IT DOESN'T WORK FOR YOU, DOWNLOAD IT HERE INSTEAD :
+http://ub3r.1337.cx/7usbeditionbyimortaluz.7z.torrent"
+,some0neX,2010-12-31T00:58Z,"@puli9 
+I have considered using Windows 7 x64 instead, that would, however, require a drive with at least 16 GB of space since the 64 bit edition has many more system files and would only work on 64 bit compatible computers, that's why I've chosen the 32 bit edition. Maybe in the future, is there is demand for it..."
+,some0neX,2010-12-31T01:56Z,everybody.. If you get error 8 when pressing write: Move the files away from yous usb drive and format it (my computer - right click drive - format) and run the program AS ADMIN (right click - run as administrator)! If it still doesn't work make sure that nothing is using the drive (antivirus etc.)
+,abccba2,2010-12-31T10:28Z,After using Win32 Disk Imager the USB stick has no files and is not even formatted.  This torrent has been removed from Demoniod.  Does this work for anyone?  I'm using 32 bit XP SP3.
+,abccba2,2010-12-31T10:56Z,I've extracted the IMG with both winrar & 7zip. I've formatted the USB stick to FAT32 & NTFS. The USB is written to at 9MB/sec. Win32 Disk Imager runs to completion but there are never any files visible on it afterwards. Has anyone used this under XP?  The torrent has been deleted from Demonoid!  Does this work for anyone?
+,asmopul,2010-12-31T11:14Z,"My drive (fast 16 GB) is NTFS formatted with several files on it including the big .vhd on it. But...
+The vhd file can not be open by the resizer and the system can not boot from it( yes is selected in the bios) black screen and a blinking cursor.
+If I plug it again in Windows 7 the system says is corrupted and fix  it. Put on it a System Volume Information that was not there before.
+But does not work anyway.
+I'm downloading the other torrent and then quitting.
+If anybody interested here are the instructions on how make it yourself
+http://www.recipester.org/Recipe:Install_Windows_7_to_VHD_27553253"
+,some0neX,2010-12-31T12:23Z,"This is caused either by your computer being incompatible with Windows 7 (try it on a faster computer) or your USB drive being too slow (15 MB/s read speed is required). Yes it works great, many people have verified it and I've thoroughly tested my release before posting it here.
+
+I or iMortaluz have never posted this torrent to demonoid, that must have been either fake or a plagiat."
+,some0neX,2010-12-31T12:26Z,"and btw. these instructions won't work on a usb drive, don't waste your time. Installing Windows 7 to a usb drive is not as easy as you think, it requires modifying drivers, registry and involves using many different command line tools."
+,gorgang,2011-01-02T17:57Z,"Did everything you instructed. Computer is fast enough. 1> Why can't I see the files on the USB? 2> Why does the boot stop and ask me to boot from the USB when the boot order has been correctly set to boot from the USB? Is there a way to convert the img file to an iso? This thing works up to a point (the burning to the USB), but it seems that one little thing out of kilter, and it fails or gets stuck. Recheck your process and carefully instruct what to do. You words were somewhat confusing and imprecise. Thanks."
+,seth1969,2011-01-03T16:00Z,keenth   yes i know me too same  my  is   gone few day bec  find out  your  self   think   i told  them  done  commenet orther person  etc   sigh make ms o  sad no joke
+,some0neX,2011-01-04T11:09Z,"IF THE INSTALLER DOESN'T WORK FOR YOU, GIVE UNetbootin a try! Download here ->http://unetbootin.sourceforge.net/
+ (In order to use it, choose image, select ""floppy"" from the drop-down list, click ""..."" and browse to ""7 USB Edition by iMortaluz"", choose your drive letter and finally press OK.) Tell me if it helps.
+To all of those who can't see any files after installing - you don't have to, most of them are hidden.."
+,abccba2,2011-01-04T22:35Z,"With Win32 Disk Imager the UDB stick was not formatted so there was no .vhd file visible.
+
+With unetbootin I see the following:
+menu.c32  54kb
+syslinux.cfg 1kb
+ubninit 4,194,304   &
+ubnkern 25k
+
+When I try to boot from this the BIOS reports:
+""no boot device available"".
+
+Help Please"
+,some0neX,2011-01-05T17:34Z,"That is because win32diskimager has some issues, don't blame iMortaluz he hasn't made it. Unetbootin doesn't work for .img files at all, I was wrong. I've heard that iMortaluz is preparing a new release which will include a better installer, so wait or run the installer on Windows 7 (or ask your friend to)!!"
+,abccba2,2011-01-05T20:04Z,"Another query.  If this worked would writes to the registry, documents and settings etc be made to USB or to RAM?  If USB, how long would a memory stick last before wearing out I wonder?"
+,abccba2,2011-01-05T20:09Z,Yet another query.  Is the '7 USB Edition by iMortaluz.img' file inside the archive a file that should be capable of being opened by MagicISO?  Mine can't be.  Or is there another utility that can open it?
+,some0neX,2011-01-07T16:08Z,"Of course they will be written to the usb stick, it's a REAL WINDOWS, not Bartpe! =) You can't open it with MagicISO, it's a DD image made with Win32diskimager."
+,some0neX,2011-01-15T02:02Z,A NEWER AND IMPROVED VERSION IS AVAILABLE HERE: HTTP://UB3R.1337.CX/7 !
+,shanu777,2011-07-26T02:27Z,@Iprenn bro try magnet link it worked for me

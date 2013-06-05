@@ -1,0 +1,47 @@
+User Type,Username,Date,Text
+,tnvideo,2010-12-07T15:01Z,thank you
+,DaemonicUV,2010-12-07T17:23Z,"Is it just me or does this not work at all at the moment? 
+
+It gives me 94 LUA errors. Some directly reference the ZygorGuidesViewer and others reference the UI, but upon disabling the viewer I only get 1 lua error. I tried disabling everything except the Zygor guides viewer, but nothing changed. "
+,svetlania09,2010-12-07T17:52Z,"@DaemonicUV, I am using it at this very moment and haven't run into any problems.  Delete both Zygor folders from your addon folder and also go into the WTF\Account\YourAccount\SavedVariables and delete the Zygor*.lua files there as well.  Then try to reinstall.
+
+Any LUA errors at all are bad so the 1 that you get with Zygor disabled needs to be fixed as well.  One of the most common errors is an addon running a protected function will then disable that function until you ""/script ReloadUI()"" or logoff and back on.  For example, Auctioneer has been breaking a lot on me lately and it causes me to be unable to remove buffs, such as ice block for a mage.  I don't want to be locked up for 10 secs."
+,Xyrec,2010-12-07T17:57Z,Please upload 3.0.1553! :)
+,svetlania09,2010-12-07T18:32Z,"@xyrec, thankfully I am on vacation.  I did one better, I just updated 3.0.1554 at http://thepiratebay.org/torrent/6019316"
+,DaemonicUV,2010-12-07T18:36Z,"Deleting the saved variables fixed it! I had reinstalled a few times already but it had no effect.
+
+The LUA error that is kicking up is below. I've been playing and haven't noticed anything strange so far.
+
+
+Message: ...ibDataBroker\CallbackHandler\CallbackHandler-1.0.lua:3: attempt to index global 'LibStub' (a nil value)
+Time: 12/07/10 20:36:01
+Count: 1
+Stack: ...ibDataBroker\CallbackHandler\CallbackHandler-1.0.lua:3: in main chunk
+
+Locals: MAJOR = ""CallbackHandler-1.0""
+MINOR = 6
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = nil
+(*temporary) = ""attempt to index global 'LibStub' (a nil value)"""
+,Siobhe,2010-12-08T21:50Z,"Great torrent. Had a problem of guide text not showing up, but it was fixed by deleting the Zygor files in  WTF\Account\YourAccount\SavedVariables and restarting WoW.
+
+Thanks for the great torrents!"

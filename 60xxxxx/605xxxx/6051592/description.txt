@@ -1,0 +1,108 @@
+The No. 1 Movie Experience on PCs
+
+PowerDVD is the consumers favorite Blu-ray/DVD playback software, complemented by high-definition Dolby and DTS audio technologies. PowerDVD now converts 2D movies into 3D, plays an extensive range of video formats, and makes movies social by sharing bookmark reviews and live comments. Experience PowerDVD - the best Blu-ray playback and DVD player software available today. 
+
+
+The Universal Player that Upgrades Your Media Experience to 3D and HD
+
+- Immerse in amazing depth and realism with Blu-ray 3D playback
+- CPU/GPU acceleration for smooth playback
+- Lossless HD audio quality for maximum enjoyment
+- Convert DVDs and videos into lifelike 3D experience
+- Play broad range of video formats: MKV, FLV, 3GP, AVCHD, AVCREC, and more
+- Supports the latest audio formats: Dolby; TrueHD, Digtial EX, Plus, DTS-HD
+- Make movies social: share bookmark reviews and live comments
+- Includes TrueTheater Stabilizer and Noise Reduction
+
+
+Available Languages:
+
+English, Chinese Traditional, Japanese, Spanish, Korean, Chinese Simplified, German, French, Italian and Russian
+
+
+PreActivated Recompressed Setup:
+
+- Installs the Mark II Ultra Max Version, pre-activated & pre-registered
+- The MoovieLive, Remix and the Comment features are disabled by default
+- Sets the cursor hide time in Full Screen to 1 second (default = 3 sec)
+- Unlocks DVD-Audio (MLP) support + TruSurround XT & TSXT Headphone Mode
+
+TruSurround XT is the second generation of SRS TruSurround. Building upon its patented predecessor and namesake, TruSurround XT not only solves the problem of playing 5.1 or 6.1 multichannel content over two speakers or headphones, but also utilizes proprietary algorithms from SRS Labs - Dialog Clarity and TruBass - to provide listeners with a truly immersive audio experience.
+
+TruSurround XT accepts input from up to a 7 channel (6.1) audio source and processing a 2 channel output. When receiving multichannel content, TruSurround XT virtualizes the channels, creating "phantom" speakers that appear to extend all around the listener, producing an amazing surround sound effect. When receiving mono or stereo content, TruSurround XT includes the functionality of SRS WOW to present an expansive three dimensional sound field.
+
+-----------------------------------------------------------------------------------
+
+Changelog build 2325 (2010-11-26):
+
+Updates:
+
+- Adds AMD Radeon HD 6800 HDMI 1.4 support
+- Adds AMD Radeon HD 6800 Blu-ray 3D hardware acceleration support
+- Adds AACS Bus Encryption support
+- Adds NVIDIA 3D VISION on Windows Vista support
+- Adds BDXL disc support
+- Adds swap left and right eye views on Anaglyph Red/Cyan 3D output
+
+Issues resolved:
+
+- CyberLink PowerDVD pops up an incorrect upgrade message during the playback of MPEG-2 video files
+- CyberLink PowerDVD does not hide the playback controls during the playback of DVD titles with TrueTheater 3D enabled
+- There is no sound available during the playback of certain MPEG files
+- CyberLink PowerDVD cannot play back the "Robin Hood" Blu-ray Disc title's main features
+- CyberLink PowerDVD cannot play back Blu-ray Discs captured with an IO-Data TV tuner card (There is audio only)
+
+-----------------------------------------------------------------------------------
+
+Install: Just run Setup.exe and you are done, it's registered and activated.
+
+Note: This Setup does not install the PowerDVD Toolbar (the Mini Player Mode)
+If you want to use it then extract the Tweak Pack and run Enable_Toolbar.bat
+
+
+===================================================
+:: Black Skin for PowerDVD 10 Mark II build 2325 ::
+===================================================
+
+Changes between the default and the modified skin:
+
+- Replaced the background and removed the Feature Icons (logos)
+- Changed the auto-hide delay from the tabs to 1 sec (default = 3)
+- Smaller Mini Mode: removed the Cyberlink logo & the Config button
+- Removed the Upgrade button and the divider before the Help button
+- Fixed Mini Mode buttons (no more white lines)
+
+PowerDVD 10 Mark II Skinpack: http://thepiratebay.org/torrent/5999221
+
+
+================================
+:: Tweak Pack for PowerDVD 10 ::
+================================
+
+Blu-Ray_Region_Reset.bat:         Resets the Blu-Ray region settings
+Disable_BD_Mouse_Pop-up.bat:      Disables the Blu-Ray disk Mouse support Pop-up
+Enable/Disable_3DFeature.bat:     Enables/Disables the 3D Feature
+Enable/Disable_MoovieLive.bat:    Enables/Disables MoovieLive, Remix + Comments
+Enable/Disable_CinemaMode.bat:    Enables/Disables the Cinema Mode
+Enable/Disable_CLFLVSplitter.bat: Enables/Disables the FLV Splitter *
+Reset_HD_Dailog.bat:              Resets the High-Definition Content dialog **
+Remove/Restore_StartupApps.bat:   Removes/Restores the Startup Applications ***
+Enable/Disable_Toolbar.bat:       Enables/Disables the PowerDVD Toolbar
+Enable/Disable_Upgrade.bat:       Enables/Disables the Upgrade Popups and Buttons
+
+
+*    CLFLVSplitter.ax can cause a crash when you play flv videos in Windows Media
+     Player. Disable_CLFLVSplitter.bat unregisters the FLV Splitter, which fixes
+     the problem
+
+**   This comes in handy if you selected "Don't ask me this question again" and 
+     want to re-enable or disable TrueTheater Lightning and Smart De-interlace
+     when playing High-Definition content
+
+***  Enables/Disables BDRegion and RemoteControl10 from running at startup.
+     Don't disable them if you're planning to use a remote to control PowerDVD!
+
+
+Cheers,
+
+ADHDerby

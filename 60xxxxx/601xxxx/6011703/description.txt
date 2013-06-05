@@ -1,0 +1,29 @@
+[b]It's Turbo Tax 2006 Home and Business in a reasonable size. I removed junk like IE, Adobe Acrobat, and Quicken. Intuit attempts to force you to pay for Quicken anyway, and the Quicken is useless unless you do pay extra. Then I compressed it. This is from an ISO, so everything should be cool.[/b]
+
+[b]Solution for Free Multiple States:
+
+1. Install App. Select your free state and install it.
+2. Once TurboTax updates with free state, close app.
+3. Run regedit to open registry.
+4. Go to RegKey: HKEY_CURRENT_USER\Software.
+5. Delete the entire "Intuit" key. Don't worry. The program will still be there!
+6. Close regedit.
+7. Open TurboTax and it should ask you to choose your free
+state again.
+8. Choose a new state and install it.
+9. Repeat process for additional states.
+10. Enjoy. 
+
+[/b]
+Everything in TurboTax Premier plus...
+
+    * IMPROVED! Expanded Interview for Schedule C â€” Gives you extra guidance to simplify the preparation of your Schedule C and help you maximize your tax savings.
+    * NEW! Simplified Expense Entry â€” Makes entering expenses easier â€” additional deduction examples let you see even more ways to maximize your deductions.
+    * IMPROVED! Extra Guidance for New Businesses â€” Helps you set up your new business for accurate tax reporting.
+    * IMPROVED! Multiple Business Entry â€” Get improved guidance on how to enter multiple businesses.
+    * IMPROVED! Depreciation Expert for Business â€” Guides you step-by-step through calculating and reporting depreciation of your assets and automatically determines the most advantageous depreciation method.
+    * W-2/1099 Reporter (Windows only) â€” Easily prepare W-2 and 1099-MISC forms for employees and contractors. Performs calculations and prints on plain paper â€“ no need for special colored ink forms, no limit on the number of forms you can prepare.
+    * Business Tax Library â€” Includes official IRS business publications and expert video tax advice.
+    * Tax Savvy for Small Business tax guide
+    * Audit Alerts for Business â€” Flags deductions and tax situations that may trigger an IRS audit.
+

@@ -1,0 +1,107 @@
+WHAT IS IT?
+Many operations require you to "unmount" your hard drive or partition such as: Fixing, Optimizing, Defragmenting, Partitioning, Cloning and Data Recovery. There are many great tools to do these functions, but to use them you either need a second operating system installed or a bunch of bootable discs. To make your life easier I have compiled a bootable image which contains as many of these tools as possible. This image can be burnt to a DVD or cloned to a iPod/flash USB stick/hard drive/partition; the resulting product will then be bootable.
+
+WARNING:
+Bootable Utilities Image comes with absolutely no warranty whatsoever. You are using this entirely at your own risk. This image was designed to help computers, and while I have done everything reasonable to ensure that it functions as intended, I cannot test it in every situation. If this causes something bad to happen to your computer, don't come crying to me. You should always backup your system. Remember: You get what you pay for.
+
+What's included?
+
+    * Carbon Copy Cloner 3.3
+    * Clone X 3.3.0
+    * CopyCatX 4.0
+    * Data Rescue 3.0.1 {107}
+    * Disk Utility 11.1 {252.4}
+    * DiskWarrior 4.2 {909}
+    * Drive Genius 2.2.1 {2200.27.79}
+    * FileSalvage 7.0
+    * Firmware Password Utility 1.4.3 {1}
+    * iDefrag 1.7.2 {227}
+    * iPartition 3.2.0 {161}
+    * MacForensicsLab 2.5.4
+    * MemTest 4.22
+    * OfficeSalvage 6.1.5
+    * Preview 4.2 {469.5}
+    * RescuePRO 3.3.0.0 {3.3}
+    * SpeedTools 2.8.1 {2.4.3}
+    * Startup Disk 1.4 {56}
+    * TechTool Pro 5.0.6 {4594}
+    * Terminal 2.0.2 {240.2}
+    * TestDisk 6.11.3
+    * TextMate 1.5.9 {1510}
+    * VolumeWorks 1.5
+
+{}=Build numbers where applicable
+
+Branches:
+The latest bootable image Apple released to developers doesn't seem to boot their old machines anymore. Because of that I'm now making two different branches of BUI. One for old macs(2.2.x) and one for new(2.3.x)+. I've made a chart to help you find the image(s) that's right for you:
+
+
+    * 'Old macs' are ones with the PowerPC(PPC) architecture.
+    * The 'Lite' version only has: Carbon Copy Cloner, CopyCatX, Data Rescue, Disk Utility, DiskWarrior, DriveGenius, FileSalvage, Firmware Password Utility, iDefrag, iPartition, MemTest, TechTool Pro and the Terminal.
+
+
+Sources:
+Mac-BB.orgMacSerialJunkie.com
+
+COMMENTS:
+
+    * Thanks to the owner of DoStuffRight for letting me host this page here and to the person who made the icon/logo for this image.
+    * You should always read the compatibly reports for a program before using it. Not all of these tools support all macs.
+    * Don't try to launch or quit "QuickerPicker".
+    * TechTool Pro will ask you to update the TechTool Protection when it first loads; just hit cancel.
+    * If you are going to run this from a hard drive and you have an additional 128MB of free space beyond what you need for the files on here, I would advise the you use it to appease TechTool Pro.
+    * I plan to release periodic updates as I change various important parts of the image. However, I find it unlikely that I will release an update of this entire image just because a new program update came out. I do highly advise that you download all program updates and install them. Most of them are pretty straight forward, or you can read "DIY" to see what individual files you need for any one program.
+    * Questions, comments, suggestions, ideas and complaints are all very welcome. Please read the "For Those Who Care" before contacting me though. I may answer your question in there.
+
+
+HOW TO USE IT:
+There are two basic options when it comes to using this image. 1)Burn it to a DVD. 2)Run it from a hard drive(partition, flash, iPod...) I believe there has been a common misconception that this image was intended to be mounted then run from your working installation. This will not work for most applications as they require other files to be installed. You either need to burn this to DVD or copy it to a new hard drive/partition.
+
+Option 1:
+
+   1. Make sure the disk image is locked. To do this, either right-click/control-click the disk image, or select it and hit apple+i or go to File->Get Info. Make sure the box to the left of "Locked" has a check in it.
+   2. Open the disk utility in /Applications/Utilities/
+   3. Drag this disc image into the left part of the disk utility, somewhere under your hard drive(s).
+   4. Make sure the image is 'unmounted'. To do this, click on the image you just dragged into the disk utility on the left side. At the very top, if the button furthest to the right says 'eject', click on it. Otherwise you are good to go.
+   5. Insert your blank DVD.
+   6. At the very top left of the disk utility window click 'burn'. Make sure 'Verify burned data' is selected. Then click 'burn'
+   7. Restart your computer while holding down the 'c' key. This will cause your computer to boot from whatever is in the cd drive.
+   8. Wait. It will take a while to boot up. Anywhere from 5-15 minutes depending on your machine.
+   9. Use the tools on the disc. They don't really have any help or instructions, but they should be pretty straight forward.
+  10. When you are done open StartupDisk and make sure the operating system/hard drive you want to boot from is selected, then hit "restart".*
+
+*If upon restarting your computer doesn't boot up from your hard drive, try restarting while holding down the 'option' key. This will give you a list of bootable devices to restart from. Simply select your hard drive, then click the forward pointing arrow.
+You can also hold down your mouse, or eject button(depending on your mac) to eject the DVD while starting up.
+
+Option 2:
+If you can boot up from a hard drive instead of a DVD I recommend it. You will find that things are much faster that way. Also, if you are planning on running this off any disk of reasonable size, I would suggest that you simply install OS X and all these tool on there. They will function more flawlessly and you will be able to multitask while optimizing or repairing your drive.
+See option 2.1 for iPods.
+
+   1. Open the disk utility in /Applications/Utilities/
+   2. Drag this disc image into the left part of the disk utility, somewhere under your hard drive(s).
+   3. Make sure the image is 'unmounted'. To do this, click on the image you just dragged into the disk utility on the left side. At the very top, if the button furthest to the right says 'eject', click on it. Otherwise you are good to go.
+   4. Click on the hard drive/partition you are going to be copying this image to, from the panel on the left.
+   5. Select the "Erase" tab(Second from the left).
+   6. The next step will erase your hard drive/partition! Leave the format at "Mac OS Extended (Journaled)" and the name at whatever, then click "Erase".
+   7. You need to format the drive differently depending on what type of computer you plan to use this with. For intel you must do a 'GUID partition table', for PPC you need 'Apple Partition Map'. To format a disk, click on the 'Partition' tab, then on 'Options' to access these advanced options. You'll need to repartition to whole drive to change the scheme.
+   8. Click on the 'Restore' tab. It is the one furthest to the right in the main part of the disk utility window.
+   9. Drag the this disc image into the 'Source:' field. You should see a green plus sign next to your cursor when it is ready to be dropped.
+  10. Drag your hard drive or partition from the left part of the disk utility window to the 'Destination:' field. Again you should see a green plus sign.
+  11. Restart your computer while holding down the 'option' key. It might take a little while to index your bootable devices. When possible, select the device that you just restored this image too. Then click the forward arrow. It might take slightly longer than normal to start up.
+  12. If you would prefer, you may go to 'Startup Disk' in the 'System Preferences' and select the drive you just installed this image onto.
+  13. Word on the street is that to get your iMac G5 to boot from usb flashdrive, go to your open firmware and type: boot ud:3,\:tbxi
+  14. Use the tools on the disc. They don't really have any help or instructions, but they should be pretty straight forward.
+  15. When you are done you may launch the 'Startup Disk' application to select which disk you would like to startup from, then click 'Restart.'*
+
+*If upon restarting your computer doesn't boot up from your hard drive, try restarting while holding down the 'option' key. This will give you a list of bootable devices to restart from. Simply select your hard drive, then click the forward pointing arrow.
+
+Option 2.1:
+Supposedly you can use a program called DasBoot with iPods to copy the tools over while leaving the iPod usable as a music player. I haven't tested this option yet. If someone wants to report back to me I would be happy to post something about the results.
+
+Hackintosh/x86:
+Check out: http://pcwizcomputer.com/index.php?option=com_content&task=view&id=98&Itemid=45<-I have nothing to do with that page.
+
+Known issues:
+
+    * Can't restore: If you receive the message: "Unable to scan", "Source image needs to be imagescanned before it can be restored" or that it has no checksum; use Carbon Copy Cloner to make bootable backup to your intended disk instead of the disk utility.
+    * Macs made after December 2009 wont boot. Apple boot discs are never forward compatible meaning that any mac released after a particular apple boot image wont boot. This will likely always be the case with all BUI releases. If your mac was made after the last BUI release, it probably wont work.	

@@ -1,0 +1,51 @@
+User Type,Username,Date,Text
+,poli12,2011-02-22T20:12Z,"1. Write the ""VWMFD2DVDEU0030.iso"" to CD (not DVD){registered to Verbatim CD-R with x8 speed}
+2.  Write the ""Unlock DVD MFD2"" to CD (not DVD){registered to Verbatim CD-R with x8 speed}
+3. Firmware update: press the ""nav"" Button on the panel in the car, and take the VWMFD2DVDEU0030 cd in the readerr, it will update your firmware it will take perhaps  40 minutes.
+4. Unlock: take in the ""Unlock DVD MFD2"" CD, and wait 1-2 seconds, the screen will flash, and booting. Take out the CD
+5. Write the navigation iso to a DL DVD(8,4GB){registered Verbatim DVD+R DL max 2.4X }
+
+Warning!
+
+Before you do anything, take the ignition key in the car, and turn on the ignition !!
+
+EVERYBODY USE IT  at one's own risk !!!!"
+,poli12,2011-02-22T20:14Z,"supported cars(with MFD2):
+
+(A5)Jetta, Golf, Touran 2005-2008
+Passat, Passat Wagon 2005-2008
+Rabbit, GTI, Eos, R32 2007-2008
+
+It's include:
+All Europe + Hungary"
+,andyTM,2011-02-27T15:03Z,- köszi poli12 a segítséget!
+,somi76,2011-03-04T19:48Z,"Tested, it really works, but there is one REALLY important detail missing here, which I found out after scraping several DL verbatims and googled for hours: before burning the maps DL DVD, you MUST set the ""Book type"" for the burning session to ""DVD ROM"" (default is ""DVD-R DL"").
+I used DVD Decrypt to do this and burn the image.
+
+andyTM: THANKS for sharing!"
+,stalleyone,2011-03-16T10:40Z,"Thanks for the upload!
+
+One question: Why is ""Unlock DVD MFD2"" required?  Why can't I just burn the image file to a DVD-DL and stick it in my RNS-510?"
+,somi76,2011-03-16T22:56Z,"As I know, the original DVD has some protection mechanism inprinted by the factory on it, which you cannot copy using a DVD writer. The software in your navigation system will check for the existence of this protection and reject any DVD which doesn't have it. The patch alters the software to not reject the protection-less DVDs."
+,stalleyone,2011-03-22T22:18Z,Could somebody post a torrent for the RNS-510 DVD? That would be much appreciated! I'll gladly seed as much as I can.
+,tuska12,2011-03-30T11:33Z,does this maps contains Estonia ?
+,a389,2011-04-08T07:08Z,"Hi!
+
+I have tried it and did not work!
+
+I've wrote the 2 firmware file to a CD-RW. The 1st CD made the firmware upgrade (was not necessary due to version was same as on the car's MFD, but it was finished successfuly after 40mins.). After I've took the 2nd CD, I saw that 2 lines for about half a second, then the MFD wrote: ""The navigation system is being activated"" , then ""incompatible DVD"". Then I took the Verbatim DVD+R DL with the navi data written with 2.4x speed. It said: ""Incompatible DVD, please insert a Volkswagen navigation DVD"". What somi76 wrote about this Book Type setting with DVD Decrypter, I've could not change the setting from DVD+R DL to DVD-ROM, due I did not have any offerings by the software. I use Pioneer DVR-215D with 1.22 (latest) revision.
+
+What went wrong?
+
+Thanks for help!"
+,Ombre1,2011-07-05T22:57Z,"it doesnt work for me to :(((.i try several times with different software and hardware burning the .iso files to CDs nad DVDs but nothing.everytime appears message ""Incompatible CD"" ""please insert cd with RNS MFDnavegation software"""
+,lebang,2011-08-27T10:52Z,"I'm heaving problems when try to burn a unlocker:
+Write error
+Could not perform end of Disc-at-once
+Burn process failed at 8x (1.200 KB/s)
+...
+But I look at the disc and everything is burned on..."
+,chvleo,2012-02-24T08:54Z,"passat variant 2010-en fog-e menni a navi???
+kosz elore is."
+,rants1,2012-03-03T17:13Z,There is not whole europe maps.
+,kemal77,2012-04-12T11:02Z,Guys i had the same issue like burning errors with my bmw navigation. Mine worked when i burned the cd with 2x speed max. Maybe its the same problem...

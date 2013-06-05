@@ -1,0 +1,63 @@
+FLAC Image with CUE and TOC
+Ripped with cdrdao and encoded with the reference encoder -8
+
+
+
+Track listing:
+No. 	Title 	Length
+1. 	"That's What She Said"   	3:15
+2. 	"Raoul"   	3:53
+3. 	"You Shout You Shout You Shout You Shout"   	3:06
+4. 	"Recover"   	2:52
+5. 	"Monster"   	3:41
+6. 	"Lost at Home"   	3:26
+7. 	"Keep Your Eyes Peeled"   	3:01
+8. 	"Seriously... I Hate You Guys"   	3:27
+9. 	"On the Campaign Trail"   	3:01
+10. 	"Team Drama"   	3:13
+11. 	"By My Side"   	3:46
+12. 	"Rats"   	3:39
+
+
+
+
+Image info:
+$ metaflac --list cdimage.flac
+METADATA block #0
+  type: 0 (STREAMINFO)
+  is last: false
+  length: 34
+  minimum blocksize: 4096 samples
+  maximum blocksize: 4096 samples
+  minimum framesize: 14 bytes
+  maximum framesize: 14970 bytes
+  sample_rate: 44100 Hz
+  channels: 2
+  bits-per-sample: 16
+  total samples: 107010708
+  MD5 signature: 9ddfff82cdbebd6e120db5afd4e016b7
+METADATA block #1
+  type: 3 (SEEKTABLE)
+  is last: false
+  length: 4374
+  seek points: 243
+    point 0: sample_number=0, stream_offset=0, frame_samples=4096
+    point 1: sample_number=438272, stream_offset=1201331, frame_samples=4096
+    point 2: sample_number=880640, stream_offset=2637151, frame_samples=4096
+    point 3: sample_number=1318912, stream_offset=4069999, frame_samples=4096
+           [TRUNCATED]
+    point 238: sample_number=104955904, stream_offset=320240610, frame_samples=4096
+    point 239: sample_number=105398272, stream_offset=321641786, frame_samples=4096
+    point 240: sample_number=105836544, stream_offset=323048122, frame_samples=4096
+    point 241: sample_number=106278912, stream_offset=324494481, frame_samples=4096
+    point 242: sample_number=106721280, stream_offset=325962797, frame_samples=4096
+METADATA block #2
+  type: 4 (VORBIS_COMMENT)
+  is last: false
+  length: 40
+  vendor string: reference libFLAC 1.2.1 20070917
+  comments: 0
+METADATA block #3
+  type: 1 (PADDING)
+  is last: true
+  length: 65536

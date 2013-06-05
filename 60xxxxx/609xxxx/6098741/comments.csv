@@ -1,0 +1,63 @@
+User Type,Username,Date,Text
+,pikablu32,2011-01-13T02:33Z,"When you use Wiimms, what exact commands do you input into the console to get the program to replace the brsar and fst.bin files with the new ones?
+
+I've tried reading the documentation for wit, but it just confuses me more than when I started.
+
+Thanks!"
+,Alexlf,2011-01-13T05:07Z,"I used ""wit extract /path/to/iso/here/undub.iso /path/to/extract/to/here"" to extract, then you find the files to replace, replace them, and then use the command ""wit copy /path/to/extracted/stuff /path/to/newundub.iso"". Hope that's clear enough!"
+,pikablu32,2011-01-13T12:53Z,"Last question, just to make I'm absolutely sure that I'm replacing the right things...
+
+When you extract the .iso there are two fst.bins. Do you replace the one in /DATA/sys, the one in /UPDATE/sys, or both of them?
+
+Thanks for your help!"
+,Alexlf,2011-01-13T13:14Z,"Just the one in DATA/sys. Also, I just found I'd forgotten to switch Cinnamon's greetings, so they're all still english. Other then that, it doesn't seem there's any bugs other then the audio cut-off."
+,pikablu32,2011-01-13T22:00Z,"Well, you've done us all an amazing service. I can confirm that because your sheer awesomeness, we now have a previously broken undub work almost flawlessly.
+
+Rune Factory Frontier is dangerously close to finally having a perfect release with all the superior, correct Japanese voices intact. I've been waiting for this day since 2009...and I AM PUMPED!!!
+
+I know you're obviously skilled at this kind of hacking. So is there any possible way you can fix the last couple of problems so the public can enjoy a flawless HM release, the way it was originally intended?
+
+You've already illustrated the two lingering problems. Here's a small one: The characters don't say ""Rune Factory Frontier"" in the title screen like they did in the original (at least not in an emulator).
+
+If you can't, I perfectly understand. You've done so much to help us so far.
+
+But if you are able to fix the last couple of errors...that would just be incredible."
+,Alexlf,2011-01-14T04:47Z,"lol, thanks for all the flattery, but I'm really not that good. I will defiantly do my best to fix the remaining bugs, and will will release the final patch ASAP. These brsar files do NOT want to be re-sized, which is the reason for the delay :P   If I had to give an ETA, I'd say 2 weeks. It all really depends on how much free time I have."
+,Raze66,2011-01-18T00:57Z,"I don't know if this is a known issue, but since I haven't seen anyone else mention it I'll go ahead. Whenever I try to buy a book from Selphy, the game basically gets stuck. You can't move the cursor and you can't buy anything or exit the shop menu. I'm pretty sure this isn't something universal to shops though, because I just tested shopping from Rosetta and that worked fine. "
+,Raze66,2011-01-18T04:33Z,"So further info on the last error and also a completely new error. As I mentioned earlier, Rosetta's unaffected with the stuck on shop screen glitch, but Ganesha has a similar issue to Selphy, at first everything's fine with the shop menu but when you try to exit it gets stuck. Then as I mentioned an entirely new issue. When fighting Gelwein for final time, the game gets stuck during the cutscene in the middle of the fight. If anyone else could check/confirm these problems, it'd be appreciated."
+,Norgito,2011-01-19T10:16Z,"I just registered to say THANK YOU! I love this game and I was wondering why the game freeze at lava cave. I will follow your replies for future fixes, Thanks a lot for your time, dedication and for share with us :)"
+,Alexlf,2011-01-21T22:49Z,"I've looked into some of the issues you guys have posted(the Gelwein fight), and it looks like the first undub is missing some of the files it needs. While the brsar is giving me a little bit of trouble, if someone were to link me to the original ntsc-j version of the game, I could probably get it fixed. Another bug I've found has to do with the watermelon pinata(lol) event, where it freezes. The fault with it, and the shop bug, is that the US version uses a slightly different brsar format then the JPN version. So while I am trying to find a way to get the two to work nicely together, again, having the ntsc-j iso might help. If anyone knows where I can find it, please send me an email at alexlf@sympatico dot ca. Thank's, and hopefully I get this worked out soon XD"
+,Alexlf,2011-01-21T22:58Z,"One thing you could do to help me Raze66, would be to see if the original undub freezes at the fight as well. Also, do you guys want more mini patches every once in a while, or do you just want to wait for the final one?"
+,gabya,2011-01-23T15:03Z,"I just want to say thank you for doing this.
+
+Personally I prefer mini-patches because I like following things like this seeing the little improvements between versions.
+
+also: Have file, will seed."
+,Alexlf,2011-01-25T20:23Z,"I've managed to get a hold of the JPN version, and will see what I can do with it. Unfortunately, I'll be out of town for the next week, but after that, I will release a new patch with whatever I have done."
+,Alexlf,2011-01-31T03:18Z,"I have some bad news, unfortunately. I looked over the file structure of the Japanese version, and it is almost completely different. The problems with the original undub come from the fact that the author used the brsar straight out of the Japanese version, and it is missing references to some files that where added in the translation. The reason the new one (mine) fails, is because of some differences in the brsar's format. As I have no idea how to fix these problems, I'm pretty much at a stand still. I will release one final patch soon, and that will probably be it. My suggestion is to use my patched version or the dub when you want to go through the lava ruins, and to use the old undub for the rest. Sorry I couldn't be of more help."
+,kM87,2011-02-12T08:57Z,"Using wit to extract, getting... what looks like 3200 files not being written/errors in cmd. Found one of the generic 2 to replace just fine but the other was nowhere to be found, and when I tried re-shrinking it down into an iso it was as expected 3200 files short and nothing ran. Any ideas?"
+,yoshikokari,2011-02-15T03:27Z,I've been trying to use this wiimms file and all it's been doing is causing me frustration and confusion. Is there another way to do this or are there better instructions to using this damn program?
+,signum19,2011-02-28T05:33Z,Hey Alexlf I need to get a hold of you somehow. I need this brsar repacker.
+,metalcrow,2011-03-14T09:10Z,how fix rune factory frontier undub with Wiimms ISO tools ??? help meee
+,metalcrow,2011-03-14T09:40Z,commands in WIT ?????????????????? plzzzzzz
+,wafflo,2011-04-30T08:16Z,"I need help too, to extract the command is ""wit extract /path/to/iso/here/undub.iso /path/to/extract/to/here"" (who doesn't work) or we need to change something like the ""path"" for the path of ours .iso (already tried changing stuff and failed several times)
+to a new user of this program and ms-dos based things it's realy hard, there's no other more ""friendly"" program who can make the work?"
+,Skynet00,2011-06-27T18:38Z,"Can't seem to skip past the sister's first dialog (her speech isn't voiced either).
+
+All the narrations in the intro were cut off early too. I'm pretty sure I patched it correctly..."
+,Skynet00,2011-06-27T18:46Z,"Some help for people with trouble with wit.
+
+After you extracted wit, first you need to run windows-install.bat to install it.
+
+Then in dos prompt, you need to type ""cd c:\program files (x86)\wiimm\wit"" to browse to the folder wiimm is installed. If you're running 32-bit windows, the path will be different (without the (x86)).
+
+Then you do the commands alexlf used in the second post, replacing the path and filename.
+
+In my case, I saved the iso to c:\downloads and renamed it undub.iso: ""wit extract c:\downloads\undub.iso c:\downloads\temp"" (I renamed the original iso to ""undub.iso"" because spaces in the file name messes thing up.
+
+Then you replace the 2 files.
+
+Then I did ""wit copy c:\downloads\temp c:\downloads\newundub.iso"""
+,astranabeat,2011-08-09T05:07Z,I want someone upload this file to any sharefile please.I search around google and couldn't find any.
+,Tyrlidd,2011-09-07T00:16Z,Anyone know if the next fix is still being worked on or how to do it yourself?
+,Freyers0Shadow,2012-02-25T06:40Z,"Alex this has been extremely frustrating figuring out how to use wit, and that guide is extremely long and I don't want to read it to do one thing. Can you make a tutorial or upload the fixed iso? I really don't think anyone would care about re-downloading an iso, especially if they haven't even downloaded it yet. Well, if anyone can help me, my email is Green0Link@yahoo.com"

@@ -1,0 +1,83 @@
+Albite Reader is an open-source ebook reader for Java Mobile released under the Apache 2.0 License and developed by Svetlin Ankov.
+
+Works with .EPUB, .TXT and .HTML files.
+
+Implemented features:
+- anti-aliased bitmap font in four sizes with over 850 glyphs, including Latin, Cyrillic and Greek
+- hyphenation for 29 languages
+- 23 character encodings, including UTF-8 and most of ISO-8859 and Windows-125x
+- animated touch-guided scrolling
+- horizontal and vertical scrolling
+- on-touch dictionary look up
+- units conversion
+- portrait and landscape view
+- images and basic styling
+- color profiles
+- portable book settings
+- bookmarks
+- table of contents
+
+System requirements: MIDP 2.0, CLDC 1.1, File API (JSR-75)
+
+For a video demo see the official site: http://albite.vlexofree.com
+
+In the torrent one will also find:
+- An abridged version of Merriam-Webster's dictionary that may be used with Albite
+- A couple of free books from the official site.
+
+Installation
+
+As phones may be quite different, one needs to select the version that would suit their phone best.
+
+The HD version is made for devices with over 10MB of heap memory, screen width of at least 360 pixels and touchscreen input. Has been tested on the following phones:
+- Nokia N8-00
+- Nokia E7-00
+- Nokia X6-00
+- Nokia C7-00
+- Nokia C6-00
+- Nokia C5-03
+- Nokia 5800 XpressMusic
+- Nokia 5530 XpressMusic
+- Nokia 5250
+- Nokia 5230 Nuron
+- Nokia N97
+
+
+The normal version is made for devices with over 4MB of heap memory, screen width of at least 240 pixels and touchscreen input. Has been tested on the following phones:
+- Samsung GT-S5230 (Star)
+- Samsung SGH-A877 (Impression)
+- Samsung SPH-M350 (Seek)
+
+
+The NoTouch version is made for devices with over 4MB of heap memory, screen width of at least 240 pixels and key input. Has been tested on the following phones:
+- Nokia X5-01
+- Nokia E5-00
+- Nokia C5-00
+- Nokia N96
+- Nokia N95
+- Nokia N91
+- Nokia N85
+- Nokia N80
+- Nokia E72
+- Nokia E61
+- Nokia E50
+- Nokia 6760 slide
+- Nokia 6720 Classic
+- Nokia 6710 Navigator
+- Nokia 6220 Classic
+- Nokia 6124 Classic
+- Nokia 6120
+- Nokia 5730 XpressMusic
+- Nokia 5700 XpressMusic
+- Nokia 5630 XpressMusic
+- Nokia 5500 Sport
+- Nokia 5320 XpressMusic
+- Nokia 3250
+
+  
+The Light version is made for devices with over 2MB of heap memory and key input. Doesn't support dictionaries and hyphenation. Has been tested on the following phones:
+- Nokia 3720 Classic
+- Nokia 5130 XpressMusic
+
+
+The Tiny version is made for devices with over 1MB of heap memory and key input. Doesn't support dictionaries and hyphenation.

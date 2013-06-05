@@ -1,0 +1,40 @@
+ http://en.wikipedia.org/wiki/NESticle
+
+---------------------
+     What it is
+---------------------
+
+NESticle is a DOS/Win95 based emulator for the Nintendo
+Entertainment System written in C++/Assembly.
+
+It is freeware and it is not to be distributed with game
+ROMs and it is not to be modified or sold.
+
+---------------------
+    What it does
+---------------------
+
+NESticle emulates the basic NES hardware, along with several of
+the memory mapping chips used by various games. 
+
+---------------------
+  What you get
+---------------------
+
+  NESticle.exe     : The 32-bit DOS version
+  NEStcl95.exe     : The Win95/NT Directdraw version
+  NESticle.pal     : The NES palette (256 colors in RGB format)
+  gui.vol          : Extra graphics stuff for the gui
+  readme.txt       : This file
+
+Note that it does not come with ROMs.
+It will never come with ROMs.
+And it must never be distributed with ROMs.
+Distribute it with ROMs and you die.
+Ask for ROMs and you die.
+
+---------------------
+    What Else...
+---------------------
+
+...Read the included .txt files...

@@ -1,0 +1,64 @@
+User Type,Username,Date,Text
+,resetas,2010-12-30T00:14Z,"Don't work for me....
+Always wants to connecte the internet to unlock, evan with the patched exe
+regards"
+,jacer2323,2010-12-30T02:58Z,"seems too small to be the mapsource install.  Unless this is some sort of upgrade, this is over 1 Gig smaller than previous versions."
+,av_andrei,2010-12-30T16:45Z,works great; thanx
+,seppi74,2011-01-19T21:56Z,grate how ? av_andrei how did you innstal it?
+,seppi74,2011-01-19T21:57Z,greate how ? av_andrei how did you innstal it?
+,Xonorius,2011-01-21T21:52Z,http://www.haklabs.com/2010/garmin-2011-gps-update/
+,berggren4,2011-02-20T22:02Z,"It wont unlock, tried 10 times now, any suggestions?"
+,unionjack999,2011-03-01T02:06Z,unlock code 2281
+,unionjack999,2011-03-01T02:08Z,"Use this to unlock the map in Mapsource
+* Go to Settings -> About and make a note of your ""Device ID""
+* Start the program
+* Type in your ""Device ID""
+* Under Map Product -> select custom mapset -> type MapID: 2281
+* Push generate
+* Now copy the key to Map Source, and unlock the map 
+To unlock the map, press ""add""."
+,puuttis,2011-03-05T19:37Z,"i do just like unionjack999 told but i can´t  open maps.
+ i don´t understund what´s going wrong???"
+,l-studio,2011-03-14T12:04Z,"Works great!
+You must use keygen and unlocker."
+,wetWeasel,2011-03-14T20:01Z,"Works well on my computer, but claims the maps are not supported on my GPS when I try and transfer them. 
+
+Miserable SOBs. Paid top dollar for my GPS and now I'm screwed out of any map more up to date than 2008 (unless I want to shell out another $500 for a new unit.)"
+,ehagglun,2011-03-28T12:11Z,"I've done this on several NÃ¼vi units and SD cards, last time I did it was 1,5 years ago... how it worked then was that you installed the downloaded mapsource and maps, unlocked it by using the Jetmouse key generator. Then you copied the maps onto a SD card (2GB) and created sw.unl and copied the unlock-code generated with the jetmouse keygen...
+
+Now there seems to be a new Mapsource version that requires an authentication?? Some say there's a patch... well, were can I download it? Just provide a link, that would be awesome.
+
+It's nog helpful when you say ""Works great! You must use keygen and unlocker"", would you please provide the links to those, or at least state a name of the download...
+
+The advice from unionjack999 is for the Jetmouse keygen...
+
+Could ANYONE just provide a comprehensive instruction on how to make this work? Cheers."
+,andrejsan,2011-04-26T10:46Z,"Works superb on my garmin nuvi 660 and nuvi 1490.
+
+Few simple steps:
+1) Get Mapsource (you'll need a patched version) http://thepiratebay.org/torrent/5924772/Garmin_Mapsource_v6.16.3_patched_exe.
+2) Download and install map
+3) Open Mapsource - Utilities - Get Unit ID (you should see it there if your garmin device conected)
+4) download garmin unlocker. I used this one: http://thepiratebay.org/torrent/4421093/Garmin_unlock_v1.5
+5) open unlocker and first enter Unit ID and press generate, second in ""select map product"" go to ""custom mapset"" and enter Map ID 2281, and third pres generate (this is your 25 digit map unlock code - copy it)
+6) open mapsorce again. If it says that there are maps to be unlocked go there (alternativli go to utilities - manage map products - unlock regions - ADD (here you paste your map unlock code)
+7) Your maps are ready to transfer - in Mapsource select maps you wish to transfer - go to ""sent to device"" and put it on your Garmin SD card
+8) last thing: open Notepad - paste your map unlock code (25 digit) - go to file - save as - name it gmapsupp.unl (but not as .txt file - save as ""all files"") and save where your gmapsupp image file is stored on your Garmin SD card.
+
+And there you go.. Unlocked maps ready to use ;)"
+,NickJH,2011-04-27T20:23Z,"I cannot for the life of me get the map to install. I've followed andrejsan's instructions, and I assume I need MapInstall. I've downloaded and installed it but when I run it I get ""Mapinstall could not find any installed products. Please install one or more MapSource products and start Mapinstall again"". I have Mapsource installed (tried both installing from the extracted .exe and installing TrainingCenter first). I've tried replacing both mapinstall.exe and mapsource.exe with files downloaded from here but nothing. I am using Win7 x64. Can anyone help me please?"
+,andrejsan,2011-04-27T23:20Z,"I never used mapinstall.. so the maps from this torrent wont show up on your mapsource? When you download and extract this torrent you must install file ""CNEUNT2011_32Update.msi"" and then when you run your mapsource (patched) maps should show up.. if that's not it, I dont know :S"
+,NickJH,2011-04-28T09:04Z,"@andrejsan,
+Thanks. I was being an idiot and got my files mixed up. You do not need MapInstall.
+Nick"
+,NickJH,2011-04-28T09:45Z,"@andrejsan,
+Sorry for posting again, I have unlocked the map in MapSource but it shows no map being available to transfer. I have completed upto 6, but no maps show up in 7 to transfer. I have unlocked the map (it shows as unlocked in Map Product Manager), but there are no maps to select in the main screen.
+Nick"
+,NickJH,2011-04-28T19:14Z,Never mind. I've worked it out.
+,heitor_almeida,2011-04-29T01:01Z,"I tried to install this map, but at the end of instalation, it stops with an error. Theres anything I must do, in order to install it, and continue to follow the other steps?"
+,chrisgodd,2011-05-03T10:14Z,Anyone know if this will work on the mini i3?? Having a sod of a job trying to find maps for this little SOB! And the maps are pants that are on it! Looked at fleabay and seems this map SHOULD work? But anyone sure of it please?
+,Red23UK,2011-05-07T19:33Z,"you know what, i've used the Net since 1997 and have seen the same thing for years. people like NickJH are happy to receive help, but are never seem to give it. he got to the same stage i did and was having trouble, yet when he worked it out didn't want to pass on his knowledge. what an arsehole.
+now, here's the answer he was too lazy to tell you: once you unlock the map you see it in MapSource, now you have to select the areas you require with the Map Tool (it's next to the Magnifying Glass icon). as you add them they begin to get added to the empty area on the left. with all the areas added, you can then send them to your Garmin (tip: use a card reader as it's much much quicker).
+i have no idea why this last step was missed out by everyone."
+,Red23UK,2011-05-07T19:39Z,"nice, i try and help and my comment is deleted. oh well i'll know not to bother next time. :)"
+,nutty_nelly,2011-06-28T22:22Z,"Thanks for the instructions, andrejsan and Red23UK! It worked like a charm! Me one happy traveller! :D"

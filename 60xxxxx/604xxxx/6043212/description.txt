@@ -1,0 +1,50 @@
+Backup4all Professional 4.5 Build 234
+Serial Included
+
+
+Backup4allBackup4all is an award-winning data backup software for Windows. This backup utility was designed to protect your valuable data from partial or total loss by automating backup tasks, password protecting and compressing it to save storage space. This backup application is feature rich and offers an intuitive interface making all features easily accessible for both beginners and professionals. With Backup4all Professional you can easily backup to any local or network drive, backup to FTP (with support for SSL encryption, proxy server, passive mode), SFTP, backup to DVD, CD, Blu-ray, HD-DVD, or other removable media (such as USB drives). Using the wizard you can easily set up any backup configurations you wish. You can define powerful file filters and schedule your backups any way you want. Once a backup is performed, you can see what files changed since the last backup using the explorer-like tree view or you can read the statistics about the next backup execution.
+
+With many other backup software programs, files that are in use during the backup may not get backed up successfully because they are locked to prevent programs from modifying the data. Our backup utility performs all four backup types: full backup, differential backup, incremental backup and mirror backup.
+
+With Backup4all you can back-up open or locked files (on Windows 7/Vista/XP/2003), such as databases, MS Outlook personal folder (.pst), Outlook Express mail archives (dbx files) and others. When defining a backup, there is also the option to run predefined backups, such as My Documents, My Pictures or Outlook Express emails and settings.
+This backup application has ZIP64 support (can create backups over 4GB) and creates standard zip files, meaning that you can access it with any zip compatible utility. It comes with its own built-in CD, DVD and Blu-ray burning support so you can easily backup to DVD, CD, Blu-ray or HD-DVD. Just set the destination to DVD, CD, Blu-ray or HD-DVD and execute the backup job. However, if you prefer, you can use the UDF format.
+ 
+
+Key features:
+â€¢ Version Tracking. Backup4all is a backup software that offers a unique mode to track file versions. You can selectively restore any previous state of the file directly from the main window.
+â€¢ Backup to DVD and CD. You do not need separate software to burn your backups to DVD or CD, because Backup4all comes with its own built-in CD/DVD burning support. However, if you prefer, you can still use UDF format to burn your CDs/DVDs.
+â€¢ Standard Zip Compression. Backup4all creates standard zip files. This means that you can access your data with any zip compatible utility. You can also secure the backed up data with AES encryption (128, 192, 256-bit).
+â€¢ Highly Configurable. Plenty of backup types to choose from: full backup, differential backup, incremental backup and mirror backup. Built-in scheduler, extra actions to perform before and/or after execution, command line [â€¦]
+â€¢ Backup open files. Backup4all uses the Volume Shadow Copy service that allows you to back up open files (local) from NTFS partitions in Windows XP/2003 and Windows Vista. For example you can backup Outlook Express or Microsoft Outlook emails and settings without closing them.
+â€¢ FTP Backup Software. You can now backup your files to remote locations using FTP connection (with SSL support, active/passive transfer modes, firewall support).
+
+Backup4all is compatible with Windows 2000, XP, 2003, 2008 Server, Windows Vista and Windows 7 (32 and 64-bits).
+
+Changes in Backup4all 4.5 (14-10-2010):
+    * New: Added "Progress view"
+    * New: The progress bar contains now more details
+    * New: New GUI translation added (Finnish)
+    * New: Scheduled jobs now show an extra icon in the backup list
+    * New: Added command line parameters for "Difference Viewer"
+    * New: Added "Active" checkbox for filters
+    * New: Scheduled tasks can be created via Remote Desktop
+    * New: Shutdown pop-up notification is shown even if backup is running in background
+    * New: Repair function from "Control Panel" works even if installed from exe
+    * Fix: Changing the destination folder name was not updated on FTP
+    * Fix: Pause during merge was not working properly
+    * Fix: Brief view not showing the correct detaild for new open jobs
+    * Fix: Backup jobs from CD/DVD cannot be open because of read-only attribute
+    * Fix: Sheduled backups at 00:00 or 12:00 AM were not correctly listed in Backup view
+    * Fix: Restore Preview page shows the UTC time, not the local time
+    * Fix: Shutdown after backup did not work if no user is logged on
+    * Fix: Standalone scheduler does not run at startup or at logon
+    * Fix: Command line Access Violation when local catalog was not used
+    * Fix: CD/DVD was not refreshed after backup
+    * Fix: User intervention was expected for scheduled groups
+    * Fix: In some cases, the application did not start at Windows startup
+    * Fix: Message not clear when the CD/DVD was missing for a scheduled job
+	
+	
+INSTALL NOTES
+1) Run installer
+2) Enter Serial when Asked (after setup finished)	

@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,null654,2011-01-28T16:46Z,"Hello, thank you for uploading this :)... But this doesn't seem to work. Can you help me?
+
+P.S.
+What do you mean by needing k-lite codec or something similar to run the program? How will it run???"
+,null654,2011-01-28T17:15Z,"Oh! and i get the error message ""CreateDevice() - FAILED"" and ""Init()-FAILED"". what does it mean?"
+,Zelibob,2011-01-29T01:48Z,"Hello, this game simply run video on background instead of 3D render like in original PSP game, so you need some video codecs, especially ffdshow,
+ to play it.
+
+On official website, DarkMagicCK from Gamemaster said this about ""CreateDevice() - FAILED"" problem:
+
+""Direct3D device creation fails, check your graphics card driver update, so if the driver is the latest, graphics card is not supported ."""
+,null654,2011-01-30T05:47Z,"Thank you for the information :)
+
+I've got the codecs installed and I think I got the latest graphics driver but it still won't work :'( Help me pleeeeease......"
+,Zelibob,2011-01-30T19:00Z,"Yes, this looks strange, this game can work well even on Eee PC with Intel GMA.
+Looks like direct links are not allowed here, so try to find Project DIVA PC topic on vocaloidotaku, maybe someone there knows the solution to this problem."
+,ShredderSan,2011-03-30T17:38Z,"Hey! I'm getting a weird error every time I start a song. It says something about error loading texture eg. ""\song\Ai Kotoba\res\38.jpg"", or something like that. It's different errors everytime, but it's always an image/texture that crashes the game. "
+,ifruits,2011-04-18T22:21Z,"First of all, thank you very much for uploading this!
+Everything works well for me, but I have a question. There are a few options missing in the main menu (like, shouldn't you be able to play other characters when you've unlocked them?). Is this on purpose or is this a glitch or what?"
+,Zelibob,2011-04-20T03:19Z,"This game is in development. As I know, guys from Gamemaster are working on Network mode now (I have no idea how it will look like). And they are planning to make Story mode too.
+ Anyway, they said that new version of the game will be released only near New Year.
+ But, if you want, you can download 250 additional songs for Project Diva PC from Nyaatorrents (I'm uploading them there on a regular basis)."
+,MikuH101,2011-08-22T23:57Z,"Hello, the story option on the main menu says: Complete ""the Dream"" first. And I don't know what ""The Dream"" is. Other than that, YOU SAVED MY LIFE! I've been looking ALL over the internet for a Project DIVA PC game. (Torrents are good :D)"
+,Zelibob,2011-08-30T04:12Z,"""Complete the dream"" - in original Chinese version it was ""Complete the dream together with Miku"", but there isn't enough space to write this phrase in English. This menu item simply doesn't work.
+"
+,Zelibob,2011-08-30T04:24Z,"IMPORTANT If you are getting an error or ""ActiveMovie Window"" while you are trying to start any song, you should downgrade your ffdshow to ffdshow_rev3757_20110209"
+,regen2100,2011-10-01T23:26Z,"yeah i had the same problem as null654 here. I extracted it with winrar and upon running the project diva.exe i got the create device error... 
+
+Then my computer had to have the HDD reformatted (nothing to do with the torrent)
+so i re-extracted it, this time with 7-zip and it worked perfectly! 
+
+-null654 if it isn't your drivers/video card use 7zip to extract it instead. You dont need this k-lite codec crap."
+,beautifulxsinner,2011-12-20T19:41Z,"This game is awesome despite the fact that it needs to be re-calibrated. I understand that it's coming from PSP to the computer, but the timing is causing me to fail songs. -.-"
+,Negi-Chan,2012-01-31T07:56Z,"Which type of program should I open it with?
+
+Thxx"
+,Zelibob,2012-02-09T22:15Z,"- Negi-Chan
+Hmm, Winrar I guess."
+,Negi-Chan,2012-04-21T11:31Z,"what does it mean when it says C:Windowssystem32MSVCR100.dll is either not designed to run on Windows or it contains an error. Try installing the program again using the original installation media or contact your system administrator or the software vendor for support.
+and what can I do?"
+,hakomaa,2012-05-06T18:06Z,thanx alot this is working perfectly without any changes ^^ just unzipped with 7-zip and play
