@@ -1,0 +1,35 @@
+SONY SERVICE MANUAL DA-4 CHASSIS 
+
+MODEL NAME      DESTINATION         CHASSIS NO. 
+
+KV-27HS420          US               SCC-S66P-A 
+KV-27HS420       CANADA              SCC-S70N-A 
+KV-29DRC420   LATIN NORTH            SCC-S71L-A 
+KV-29DRC420   LATIN SOUTH            SCC-S71M-A 
+KV-30HS420          US               SCC-S66Q-A 
+KV-30HS420       CANADA              SCC-S70P-A 
+KV-30HS420        HAWAII             SCC-S69H-A 
+KV-32HS420          US               SCC-S66R-A 
+KV-32HS420       CANADA              SCC-S70Q-A 
+KV-34HS420          US               SCC-S66S-A 
+KV-34HS420       CANADA              SCC-S70R-A 
+KV-36HS420          US               SCC-S66T-A 
+KV-36HS420       CANADA              SCC-S70S-A 
+KV-36HS420        HAWAII             SCC-S69J-A 
+
+I keep an KV-36HS420 TV to play classic consoles: atari 2600, Sega Genesis, Snes, etc.
+
+------------------------------------------------------------------------------
+
+Not power on, blinks 6 times? 
+A common problem are the two MCZ3001D ICs that are on the D board
+IC8002 and IC6501 
+(the main board laying flat on the bottom on the left when looking from the rear of the set).  
+Buy replacements online MCZ3001DA
+
+1080I on hdmi working?
+
+Set OP / HDPT = 0 [this means to bypass mid settings for 1080 signals]
+
+and setting HDMI = 1 [ on input 7]
+

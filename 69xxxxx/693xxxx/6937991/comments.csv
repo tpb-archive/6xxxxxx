@@ -1,0 +1,6 @@
+User Type,Username,Date,Text
+,MySecrets,2012-02-07T12:46Z,"I found this file at a filelocker site (uloz.to). The only problem is that the complete file I have is one byte shorter than the incomplete file in this torrent. I diffed the files and they are completely identical up to the missing piece.
+
+If I knew the missing byte and its location, I could just add it and get this torrent started again. Replacing the file and doing a force re-check only placed a null character at the end of the file, and the torrent client didn't see it as being complete.
+
+I recommend deleting this broken torrent. If you need the file, go to uloz.to and search."

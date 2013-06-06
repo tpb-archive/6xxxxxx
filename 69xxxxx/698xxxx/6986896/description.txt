@@ -1,0 +1,42 @@
+LuckyPatcher by ChelpuS v0.9.0  
+
+
+Overview: You can use this patcher to break some apps' Android Market License Verification.
+
+
+
+- Requirements: Android 2.1+  (Rooted device)
+
+
+
+Thanks to ChelpuS from Russia!
+
+
+Recent changes:
+
+&gt; v0.9.0
+- Completely reworked About. Now there is more information about the program;
+- Posted BootList - a list of programs that will re-patch for zagruzhke device to at least flew registration;
+- Violet now spot programs that are in BootList;
+- To add a program to BootList long press on it and select "Add for patch on reboot";
+- To remove a program from BootList should press settings and choose "Boot Patches List", click there on the program you remove it from the list (a great number of programs can make BootList inhibit your device at boot time);
+- Added a new directory in the processing / cache / dalvik-cache / ... Now the program will work and the people who moved here dalvik-cache.
+- I tried once again to gather under android 2.1, but most likely will not work, although about Eclipse error saying nothing. If someone is working, accomplish your goal.
+
+&gt; v0.8.3
+- New version can work with SVOX, Locus pro and much more !
+
+&gt; v0.8.2
+- Posted Buckup and Restore, but it works its stupid, bakapit current state, even if it has been hacked.
+
+&gt; v0.8.1
+- Redesigned search algorithm, as old managed to miss the correct sequence 2. 
+- Changed the signature once again. 
+- Downgrade to Android 1.6
+
+
+Enjoy and Please Seed :)
+
+
+
+

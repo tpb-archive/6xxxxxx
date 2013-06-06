@@ -1,0 +1,123 @@
+THIS IS MULTIPLAYER NOT COOP
+
+YOU NEED 1.5 MW3 UPDATE (COULDNT FOUND IT IF SOMEONE COULD UPLOAD IT)
+
+Requirements:
+------------------------------------------------------------------
+1. .NET Framework 4.0 
+http://www.microsoft.com/download/en/de ... x?id=17851
+2. Original Modern Warfare 3 1.0-1.5 update
+3. Original IW5SP.exe, IW5Server.exe and IW5MP.exe
+4. No pirated versions
+
+Setup:
+------------------------------------------------------------------
+1. Copy TeknoMW3.exe, TeknoMW3.dll to your game folder.
+2. Run TeknoMW3.exe
+3. On first run select nickname and fov
+
+
+Usage for MP Direct Connect:
+------------------------------------------------------------------
+1. Press Multiplayer
+2. Enter Server IP and Port
+3. Press Start (Direct Connect)
+4. In game press F12 to connect.
+
+
+Usage for MP LAN:
+------------------------------------------------------------------
+1. Press Multiplayer
+2. Press Start (LAN Game)
+3. In game go to Options -&gt; Dedicated Server and Enable "Enable Server Browser"
+4. Go back to main menu -&gt; server browser -&gt; LAN tab
+5. Select some server
+5. Join the game (double click or click connect)
+
+
+Usage for Dedicated Server:
+------------------------------------------------------------------
+1. Edit your \players2\server.cfg (if needed)
+2. Press Multiplayer
+3. Enter server port of your choosing
+
+NOTE!: The port must be availble, if you enter some used port
+the server will start, but you wont be able to join.
+
+3. Press Start Dedicated Server
+4. Select map by using "map" command, for example map map_village
+or start map rotation
+5. Tell clients to join
+
+
+Usage for Singleplayer Host:
+------------------------------------------------------------------
+1. Press Singleplayer
+2. Press Start as host
+3. In game press "TeknoGods Coop" to host
+
+
+Usage for Singleplayer Client:
+------------------------------------------------------------------
+1. Click Singleplayer
+2. Enter IP Address
+3. Press Start as client
+4. In game click on "TeknoGods Coop" to join
+
+
+Usage for getting Steam profile:
+------------------------------------------------------------------
+1. See Setup
+2. Run Modern Warfare 3 Multiplayer from Steam
+3. Press the "profile dumper" button in the TeknoMW3 loader GUI
+4. Follow instructions
+5. Done!
+
+Note:
+------------------------------------------------------------------
+- This release is not intended for piracy usage!
+- You must always use the launcher to run the game.
+
+
+Support:
+------------------------------------------------------------------
+This release is beta quality. If something breaks, review any
+pertinent comments on teknogods.com, then email me as a last resort.
+Include all log files and a detailed description of problem and
+how to reproduce it.
+
+
+
+Special thanks:
+------------------------------------------------------------------
+Testers: Happy, Obso, MG, DinoSuperG, Lisfx, Crazycat, Simon, MWatts
+Our community of course! 
+
+
+
+
+
+Change Log:
+------------------------------------------------------------------
+Current version (MAJOR RELEASE):
+------------------------------------------------------------------
+
+2.0:
+- Dedicated Servers support
+* You can now start a dedicated server when totally offline.
+* The games are now ranked
+* Support for future DLC maps!
+* Server will be visible on server browser / LAN tab. If you wish to connect
+directly use GUI to setup IP and use F12 in game to connect. (works over
+the internet)
+- Multiplayer support
+* You can now play using custom classes
+* Theater works
+* The game works totally offline (No need Steam or Demonware connection)
+- Profile dumper support
+* If you copied our release to your MW3 game in the Steam folder, you can now
+import your online Demonware profile to play offline. However it will update
+separately from that point.
+Run multiplayer mode using steam -&gt; Alt+Tab back to desktop -&gt; run teknowm3
+loader -&gt; click Profile dumper
+* Your Steam ID can be automatically obtained and saved to the teknogods.ini

@@ -1,0 +1,79 @@
+Titanium Backup Pro v4.7.5
+Requirements: ANDROID 1.0 and up
+Overview: Titanium Backup is the most powerful backup tool on Android, and then some.
+
+
+â˜†Over 3 million users, 28+ languages!
+â˜†Needs ROOT, for Android 1.5-4.0+
+â˜†PRO Key is available on Market!
+â˜†Voted #1 TOP ROOT APP on Twitter.
+â˜†Problem? See matrixrewriter.com/wiki
+â˜†Scroll down for more info & VIDEOS ;-)
+â˜† â˜† â˜†
+
+You can backup, restore, freeze (with Pro) your apps + data + Market links. This includes all protected apps & system apps, plus external data on your SD card. You can do 0-click batch & scheduled backups. Backups will operate without closing any apps (with Pro). You can move any app (or app data) to/from the SD card. You can browse any app's data and even query the Market to see detailed information about the app.
+
+Also see the paid PRO key which adds EVEN MORE awesome features such as:
+[âœ”] 0-click batch restores
+[âœ”] Keep multiple backups per app
+[âœ”] Multi-user app data
+[âœ”] Apps freezer
+[âœ”] Dropbox sync
+[âœ”] Convert user apps <=> system apps
+[âœ”] Integrate system app updates into ROM
+[âœ”] Encryption
+[âœ”] Market Doctor
+[âœ”] Hypershell speed
+[âœ”] Backup apps without closing them!
+[âœ”] Restore individual apps+data from CWM backups!
+[âœ”] Market "auto updating" manager
+[âœ”] Dalvik cache cleaner
+[âœ”] Integrate Dalvik cache system elements into ROM
+[âœ”] Unlimited schedules
+[âœ”] Protect backup against deletion
+[âœ”] Send backup by e-mail
+[âœ”] CSV export any app DB (e-mail or Google Docs)
+[âœ”] Convert app data to/from fast WAL format
+[âœ”] WAY MORE!
+
+PRO FEATURES ADDED:
+[âœ”] Multiple backups per app
+[âœ”] 0-click batch restore
+[âœ”] Multi-user support for some apps! (eg: games)
+[âœ”] Batch verification
+[âœ”] Backup apps without closing them!
+[âœ”] Restore individual apps+data from CWM backups!
+[âœ”] Hypershell speed
+[âœ”] Migrate system data across different ROMs
+[âœ”] Market Doctor
+[âœ”] Apps freezer (incl. batch support)
+[âœ”] Market "auto updating" manager
+[âœ”] Convert user apps <=> system apps
+[âœ”] Encryption
+[âœ”] Unlimited schedules
+[âœ”] Sync to/from Dropbox
+[âœ”] Protect backup against deletion
+[âœ”] Send backup by e-mail
+[âœ”] CSV export any app DB (e-mail or Google Docs)
+[âœ”] Brand the app with your name
+[âœ”] Bloatware Melter (experimental)
+[âœ”] Convert app data to/from faster WAL DB format
+[âœ”] And more!
+
+MORE MEMORY:
+[âœ”] Dalvik cache cleaner
+[âœ”] Integrate system app updates into ROM
+[âœ”] Move apps into ROM
+[âœ”] Integrate Dalvik cache system elements into ROM
+
+Version 4.7.5
+=============
+- Added the ability to export & import custom labels (ie: app lists) directly to/from the clipboard.
+- Added an option to "follow all symbolic links" during app data backups. This allows TB to work on ROMs that use a tweaked data layout (eg: recent ROMs for the original Samsung Galaxy S).
+- Fixed a bug where the ChangeLog could reappear (even if settings are being synced) after wiping data.
+- Big translation updates.
+
+Instructions:
+1. install Titanium Backup and don't run.
+2. install TBPatcher4x (credits to ChelpuS)
+3. Press "Press for Activate"

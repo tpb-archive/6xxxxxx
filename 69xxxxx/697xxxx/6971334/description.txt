@@ -1,0 +1,63 @@
+plot: An intellectually nonconformist monk investigates a series of mysterious deaths in an isolated abbey. 
+
+IMDB Ratings: 7.8/10
+
+greek subtitles included in separate file
+
+
+Format                         : AVI
+Format/Info                    : Audio Video Interleave
+File size                      : 347 MiB
+Duration                       : 1h 4mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 754 Kbps
+Writing application            : Nandub v1.0rc2
+Writing library                : Nandub build 1852/release
+
+Video
+ID                             : 0
+Format                         : MPEG-4 Visual
+Format settings, BVOP          : 1
+Format settings, QPel          : No
+Format settings, GMC           : 2 warppoints
+Format settings, Matrix        : Default (H.263)
+Muxing mode                    : Packed bitstream
+Codec ID                       : DX50
+Codec ID/Hint                  : DivX 5
+Duration                       : 1h 4mn
+Bit rate                       : 615 Kbps
+Width                          : 576 pixels
+Height                         : 320 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Compression mode               : Lossy
+Bits/(Pixel*Frame)             : 0.139
+Stream size                    : 283 MiB (81%)
+Writing library                : DivX 5.0.2 (UTC 2002-05-16)
+
+Audio
+ID                             : 1
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 3
+Mode                           : Joint stereo
+Mode extension                 : MS Stereo
+Codec ID                       : 55
+Codec ID/Hint                  : MP3
+Duration                       : 1h 4mn
+Bit rate mode                  : Variable
+Bit rate                       : 128 Kbps
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Stream size                    : 58.4 MiB (17%)
+Alignment                      : Aligned on interleaves
+Interleave, duration           : 24 ms (0.58 video frame)
+Interleave, preload duration   : 482 ms
+Writing library                : LAME3.92 
+Encoding settings              : -m j -V 4 -q 2 -lowpass 17.5 --abr 128
+

@@ -1,0 +1,8 @@
+User Type,Username,Date,Text
+,tuppolev63,2011-12-28T11:24Z,"it work, but need  registration key"
+ right click on it and replace everything with this:
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\AntiTrojanElite]
+""RegisterCode""=""ABFN3-FPHPW-69KCX-FFAL2"""

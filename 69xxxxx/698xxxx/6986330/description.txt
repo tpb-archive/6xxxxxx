@@ -1,0 +1,108 @@
+Catalyst Software Suite X64
+
+Description:
+Package Includes:
+Display Driver
+OpenCL Driver
+AMD Integrated Driver
+Catalyst Control Center
+(Multilanguage)
+For the 64 bit version of Windows Vista and Windows 7
+
+File Size 148MB
+Version	12.1
+Date Posted 1/25/2012
+
+
+
+IMPROVEMENTS
+
+ 
+
+AMD HD3D technology support enhancement
+
+Enables support for AMD HD3D technology in conjunction with AMD CrossFireX configurations
+Delivers a new Stereo 3D mode over HDMI 1.4a connections - 1080p at 30Hz is now enabled on supported displays
+
+AMD Catalystâ„¢ Control Center / Vision Engine Control Center enhancements â€“ Application Profiles
+
+AMD Catalystâ„¢ 12.1 Preview driver enables users to create per application profiles to individually control 3D and CrossFireX settings for Direct3D applications
+Please be sure to select the â€œRestore Factory Defaultsâ€ option under the Catalystâ„¢ Control Center Preferences menu before using the new application profiles feature â€“ this ensures there are no compatibility issues between previous drivers and the new AMD Catalystâ„¢ 12.1 Preview driver with regards to application profiles
+
+AMD Catalystâ„¢ Control Center / Vision Engine Control Center enhancements â€“ Video UI improvements
+
+AMD Catalystâ„¢ 12.1 Preview driver includes user interface enhancements to simply adjustment of video color and video quality controls
+
+ 
+
+RESOLVED ISSUES
+
+Resolved Issues for the WindowsÂ® 7 Operating System
+
+This section provides information on resolved known issues in this release of the AMD Catalystâ„¢ 12.1 software suite for WindowsÂ® 7. These include:
+The in-game mouse cursor no longer randomly disappears while playing Alien vs Predator.
+Enemy Territory â€“ Quake Ware will no longer experience intermittent crashes when in a 3 monitor Eyefinityâ„¢ configuration.
+Water texture is now rendered correctly in Enemy Territory â€“ Quake Wars
+Dirt 2 does not exhibit stuttering when run in DirectXÂ® 9 mode.
+Playing Crysis 2 with in Crossfire mode no longer experiences random graphics corruption or game instability.
+
+Random corruption and screen flicker is no longer observed while playing Dragon Age 2 with Tri-Crossfire enabled.
+Lost Planet 2 no longer crashes after game launch when run in Crossfire mode.
+Lost Planet 2 and Tom Clancy HAWX2 no longer experience random game hangs/black screens when run at high in game settings.
+Water textures in World of Warcraft running in DirectXÂ® 9 mode no longer appear corrupted.
+The game â€œRageâ€ no longer experiences intermittent hangs when Crossfire is enabled.
+
+
+
+Resolved Issues for the WindowsÂ® Vista Operating System
+
+This section provides information on resolved known issues in this release of the AMD Catalystâ„¢ 12.1 software suite for WindowsÂ® Vista. These include:
+Ejecting the disc during Blu-Ray/DVD playback using WinDVD no longer causes the system to crash.
+3D content playback using PowerDVD now correctly used hardware acceleration.
+Poor performance is no longer randomly experience when playing World of Warcraft, Metro 2033 and Starcraft II at high in-game settings.
+Medal of Honor now correctly displays all in game settings.
+
+
+
+KNOWN ISSUES
+
+Known issues under the WindowsÂ® 7 operating system
+
+The following section provides a summary of open issues that may be experienced under the WindowsÂ® 7 operating system in the latest version of AMD Catalystâ„¢. These include:
+
+Call of Duty 4 may experience corruption when run in DirectXÂ® 9 mode and the Edge Detect filter is enabled.
+Portal 2 may generate a black screen when launched in 3D stereo mode.
+The Morphological filter settings may be missing in the Vision Control Center.
+Civilization V may experience random game crashes.
+Forced Anti-Aliasing may not be available when playing Enemy Territory â€“ Quake Wars.
+
+Call of Duty â€“ Black Ops may experience a crash when run in Crossfire mode.
+Battlefield 3 may crash when run at ultra settings.
+Vsync may be disabled after task switching when playing Rage.
+Launching Rage with Crossfire enabled may cause the application to hang.
+Random flickering may be observed while playing Battlefield- Bad Company 2.
+Saints Row III may hang randomly during gameplay.
+Dragons Age 2 may experience random flickering when run in Tri Crossfire mode with Vsync enabled or when run in DirectXÂ® 9 mode.
+Call of Duty â€“ Modern Warfare 3 may experience flickering when run in Tri Crossfire mode.
+
+
+Known Issues under the WindowsÂ® Vista Operating System
+
+The following section provides a summary of open issues that may be experienced under the WindowsÂ® Vista operating system in the latest version of AMD Catalystâ„¢. These include:
+
+WindowsÂ® Aero options may be missing after installing the latest driver.
+
+
+
+
+Known Issues under the WindowsÂ® XP Operating System
+
+The following section provides a summary of open issues that may be experienced under the WindowsÂ® XP operating system in the latest version of AMD Catalystâ„¢. These include:
+
+The mouse cursor may get corrupted if the â€œenable pointer shadowâ€ option is unchecked.
+
+Installing the AMD Catalystâ„¢ Software Driver
+
+For further information and general help on software driver installation, game issues, and more, visit AMD Customer Care.
+
+Installation information can be found at: How to Install Your AMD Product.

@@ -1,0 +1,133 @@
+===============================================================================
+1/9/2012 8:33:17 AM   By Mr. Jean Kobeis
+===============================================================================
+				Tile E-Book:
+				------------
+				Beginning WF
+			Windows Workflow in .NET 4.0
+			----------------------------
+	Author:               Mark J. Collins
+	Copyright:            Apress
+	ISBN-13 (pbk):        978-1-4302-2485-3
+	ISBN-13 (electronic): 978-1-4302-2486-0
+===============================================================================
+				Source Code:
+				------------
+	The source code for this book is available to readers at www.apress.com
+===============================================================================
+				Content at a Glance:
+				--------------------
+	+ Part 1: Introduction
+	  * Chapter 1: Building a Simple Workflow
+	  * Chapter 2: Coded Workflows
+	  * Chapter 3: Chapter 3: Flowchart Workflow
+	  
+	+ Part 2: Designing Workflows
+	  * Chapter 4: Passing Arguments
+	  * Chapter 5: Replicated Activities
+	  * Chapter 6: Exception Handling
+	  * Chapter 7: Extending the Built-In Activities
+	  
+	+ Part 3: Communication
+	  * Chapter 8: Send and Receive
+	  * Chapter 9: Communicating with the Host Application
+	  * Chapter 10: Web Services
+	  
+	+ Part 4: Workflow Extensions
+	  * Chapter 11: SQL Persistence
+	  * Chapter 12: Custom Extensions
+	  * Chapter 13: Tracking
+	  * Chapter 14: Transactions
+	  * Chapter 15: Transactions with Persistence
+	  * Chapter 16: WorkflowServiceHost
+	+ Part 5: Advanced Topics
+	  * Chapter 17: Compensation, Confirmation, and Cancellation
+	  * Chapter 18: Collections
+	  * Chapter 19: Interoperability with Workflow 3.5
+	  * Chapter 20: Policy
+	  
+	+ Appendix: Sample Workflow Project
+===============================================================================
+				Overall:
+				--------
+	The book contain 471 pages including the intro, about the Author, and 
+	the Index Book, in addition of the code source that is available with 
+	the package.
+	
+	P.S:
+	----
+	To get the most knowledge and experience and skills, i recomend that 
+	you work hard before viewing the source code, at least; This is my 
+	opinion thanks.
+===============================================================================
+				Chapter Outline:
+				----------------
+	This bookâ€™s projects (chapters) are grouped into five sections. In many
+	cases, the same solution is provided in all chapters in that section,
+	with each chapter providing new features to the project from the  
+	previous chapter.
+   -------------------------------------------------------------------------
+   				Section 1: Basic Concepts:
+   				--------------------------
+   	In the first section, youâ€™ll build three simple workflows. In Chapter
+   	1, youâ€™ll create a workflow using the workflow designer and some of the 
+   	basic built-in activities. In Chapter 2, youâ€™ll re-create the same
+   	workflow in code. This will give you an opportunity early on to see 
+   	both designer workflows and coded workflows. Both types will be 
+   	demonstrated throughout the book. In Chapter 3, youâ€™ll use the 
+   	flowchart activity, which provides the ultimate flexibility in 
+   	designing complex workflows.
+   -------------------------------------------------------------------------	
+   				Section 2: Designing Workflows:
+   				-------------------------------
+   	In the second section, youâ€™ll build a workflow that computes the cost
+   	of an order. Each chapter will add additional features to the project 
+   	from the previous chapter. The project in Chapter 4 demonstrates how
+   	to pass data into and out of a workflow. In Chapter 5, youâ€™ll 
+   	interactively execute activities based on a
+   	collection of objects. Chapter 6 will show you how to handle and throw
+   	exceptions. In Chapter 7, youâ€™ll explore the two main ways to extend 
+   	the workflow activities: creating a custom activity and executing the
+   	InvokeMethod activity.
+   ------------------------------------------------------------------------- 	
+				Section 3: Communication:
+				-------------------------
+	In the third section, youâ€™ll build workflows that take advantage of the
+	integration with the Windows Communication Foundation (WCF). The 
+	project in Chapter 8 builds a console application that communicates
+	with other instances of the same application using WCF messages. In 
+	Chapter 9, the console app is replaced with a Windows Presentation 
+	Foundation (WPF) application, which demonstrates how the application 
+	and workflow can interact with each other. In Chapter 10, youâ€™ll host
+	a workflow in a WCF web service. Youâ€™ll also consume that service using 
+	a workflow application.
+   -------------------------------------------------------------------------
+				Section 4: Workflow Extensions:
+				-------------------------------
+	A key component of workflow design is the use of extensions to 	
+	configure the environment in which the workflow activities operate. The 
+	project in Chapter 11, for instance, demonstrates how to use the
+	standard SQL persistence extension. This extension allows the state of 
+	the workflow to be written to a SQL database and retrieved later, when 
+	the workflow is resumed. In Chapter 12, youâ€™ll explore ways to
+	extend and customize the persistence operation. The project in Chapter 
+	13 demonstrates how to track the execution of a workflow in a variety 
+	of ways. In Chapter 14, youâ€™ll use database transactions to ensure
+	data consistency across multiple activities. In Chapter 15, youâ€™ll 
+	execute the application updates on the same database transaction used 
+	to persist the workflow state. This will guarantee that the workflow 
+	state and application data stay consistent. Finally, in Chapter 16, 
+	youâ€™ll learn how to configure extensions when the workflow is 
+	instantiated by a WorkflowServiceHost.
+   -------------------------------------------------------------------------
+   				Section 5: Advanced Topics:
+   				---------------------------
+   	Chapter 17 demonstrates how to include logic within the workflow design
+   	to handle abnormal conditions such as compensation and cancellation. In 
+   	Chapter 18, youâ€™ll see how to use both built-in and custom activities 
+   	to support collections of objects. The project in Chapter 19 uses the 
+   	Interop activity to execute workflows and activities that were created 
+   	using previous versions of WF. In Chapter 20, youâ€™ll use the Policy 
+   	activity from version 3.0 in a WF 4.0 workflow.
+   -------------------------------------------------------------------------
+   

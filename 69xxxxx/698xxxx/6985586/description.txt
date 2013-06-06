@@ -1,0 +1,63 @@
+Speakerphone Control Full v1.9.4
+
+
+Requires Android: 2.1+ 
+
+Release Date: January 16, 2012
+
+
+Description
+
+Automate your speakerphone!
+
+-Separate Speakerphone Volume Control
+
+-Auto Speakerphone
+
+-Positional Speakerphone X 2
+
+-4 Widgets
+
+Speakerphone Volume Control - A simple tool that allows you to control the speakerphone volume without any effort. When the speakerphone is turned on the volume will adjust to the preset volume automatically! 
+
+Auto Speakerphone - Incoming and outgoing calls can be automatically routed through the speakerphone. Perfect for *near* hands free driving.
+
+Positional Speakerphone - Puts phone calls in speakerphone mode when the phone is placed in a preset position of choice. Two different positions can be set. *Speakerphone turns on but is not reflected on the speakerphone button.
+
+Widgets - Four useful widgets to help stay informed of which settings are active.
+
+Option menu for volume adjustment, notifications and setting positions for Positional Speakerphone. Names can be given to each speakerphone position to display within the app and/or when the feature is turned on by a widget.
+
+Please exclude Speakerphone Control from any TasKillers.
+
+Android only provides one 'In-call volume' this app allows you to have two distinct volume controls, the regular phone volume and the speakerphone volume. 
+
+This app has low battery usage, basically the application only runs during phone calls. Widgets naturally use more battery but only run for a fraction of a second, once every 2 days or when tapped.
+
+Find something wrong? Send me an email.
+
+-PERMISSIONS-
+READ_PHONE_STATE - 
+For knowing when phone call has started and ended. Used by Speakerphone Volume Control, Auto Speakerphone, Positional Speakerphone
+
+MODIFY_AUDIO_SETTINGS -
+Adjusts the volume, used by Speakerphone Volume Control
+
+RECEIVE_BOOT_COMPLETED -
+Know when phone has just been reset. Used to fix issues with notifications and in app features swapping after reboots.
+
+VIBRATE -
+Provides vibrations when buttons are pressed.
+
+Tags: speakerphone speaker phone volume volumes control controls audio manager audiomanager calls call log contact contacts favorites auto hand hands free handsfree car dock automatic widget widgets vibrate silent loud quiet system position positional orientation orientate flip car dock cardock desk sound names toast homedock home doc
+
+
+What's in this version:
+
+- 1.9.4 Small bug fix
+- 1.9.3 Big update: positional speakerphone options for multiple uses during a call, huge code cleanup, bug fixes, minor theme adjustments, updated tutorial
+- 1.9.2 Lots of theme adjustments, fixes for hdpi devices, added option for controlling vibrate amount/off
+- 1.9.1 Minor theme adjustment, buttons now have better readability and a more consistent match to Android 4.0
+
+
+Enjoy and Please SeeD :)

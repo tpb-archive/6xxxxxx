@@ -1,0 +1,75 @@
+Features:
+
+- Production proven results demonstrate this technologyâ€™s ability to
+achieve realistic smoke and fire effects for cutting-edge industry
+applications.
+- FumeFX supplements the userâ€™s artistic vision with the power of real-world physics for the ultimate in both style and realism.
+- A multitude of parameters and FumeFX helpers give users maximum control of the fluidâ€™s behavior and appearance.
+- Easy to use, basic effects can be created with just a few clicks.
+- Options include the use of powerful AFC and Gradient controls, which are unified through all Sitni Sati products.
+- Plug-in design incorporates extensive support for Particle Flow and Thinking Particles.
+- Dynamic simulations allow for bi-directional influence between FumeFX and particle systems.
+- Advanced scripting via MAXScript is possible with almost every aspect of FumeFX, including access to all simulation data.
+- FumeFX is capable of dynamic interaction with other scene objects.
+- For those technical artists who want to write their own shaders, a standalone rendering library is avilable for Windows and Linux, both 32 and 64 bit versions.
+
+Simulation
+- Start simulations from scratch or by using other simulation results as a starting point.
+- Stop, pause and continue simulations at any point.
+- Simulation is multithreaded â€“ users can select how many CPUâ€™s to dedicate to their simulation.
+- Users can watch the simulation progress in the interactive Preview Window.
+- Interactive simulation allows user to change almost every parameter during the simulation and see itâ€™s influence on the simulation result.
+- FumeFX can use Variable Density solver that uses smoke density and temperature as variables.
+- Draft simulations can be created in mere minutes for fast previewing.
+- Multiple advection schemes that can minimize numerical dissipation.
+- User has control of which data is written to output files for rendering and further processing.
+- Wavelet Turbulence algorithm quickly adds extra detail to low
+resolution simulation caches while preserving the existing overall
+motion.
+- Retimer is a very efficient and fast method to slow down or speed up caches without the need to re-run simulation.
+- Post Processing module can significantly reduce cache size by optimizing grid size around smoke/fire. It also allows users to decide which channels will be excluded from the final caches.
+
+Rendering
+- mental ray for 3ds Max renderer support â€“ available for both Windows and Linux.
+- The Preview Window gives users almost instant feedback on render settings.
+- Fast self-shadowing is produced through an Illumination Map which is integrated inside of the FumeFX object.
+- A highly efficient Multiple Scattering model enhances light dispersion throughout fluid.
+- Fluid Mapping integrates procedural map details with fluid motion.
+- The dynamic FusionWorks atmospheric renderer provides:
+- Render Elements: Fire, Smoke, Velocity
+- Proper blending with AfterBurn and ScatterVL Pro.
+- Balanced mixing of FumeFX and compatible atmospherics with 3ds Max Fog
+- Ability to apply Image Motion Blur
+- Option to affect Effect Channel
+- Z depth
+
+
+
+Installation:
+
+1. Disable/close any running firewall(s)
+
+2. Install Fume, run as admin if required, simply let it open normally in sandbox if you are using avast.
+
+3. Go to folder C:\Program Files (x86)\AFLICS\ (It's there even if you installed Fume somewhere else)
+
+4. Run AfterFLICS_tools.exe as ADMINISTRATOR and go to Service --> Stop (Keep the program open)
+
+5. Replace the AfterFLICS.exe (from crack folder) in C:\Program Files (x86)\AFLICS\
+
+6. Back in AfterFLICS program, go to Service --> Restart (you may now close the program)
+
+7. Run 3ds Max 2012 as ADMINISTRATOR, you can find Fume under command panel > Create > Geametry drop down list
+
+8. Click on FumeFx button and AfterFlics will pop up with activation window, minimise max at this point
+
+9. Back in windows Run 'cmd' (press windows + R in keyboard), type 'ipconfig/all' note the Host Name: (should be the name of your PC)
+
+10. Go back to Max and in the activation window type the noted Host Name from previous step and press 'Add Server'
+
+11. With new server selected (not the localhost) press Authenticate, new window will pop up
+
+12. Select Manual Activation radio button and enter anything you wish.
+
+13. When Fume runs for the first time, you may face flicker issues, without changing any setting in Fume Save the Max file, close the application and Run max as usual. 
+

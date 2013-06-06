@@ -1,0 +1,40 @@
+3G Watchdog Pro Full v1.9.0
+
+Guarding you against costly internet overages.
+
+Pro version of 3G Watchdog mobile data counter / monitoring app, featuring: 
+
+* Advanced data usage prediction
+* Billing rules (counts in blocks, ignores uploads)
+* Usage history with graph & CSV export
+* Usage by application (Android 2.2+, unavailable on Dell Streak)
+* 5 widget styles
+* Backup/restore
+* Redesigned UI
+* Account/SIM with auto switch (requires a phone with a SIM)
+* Import settings & data from 3GW free (don't uninstall 3GW free before importing!)
+* ... and more!
+
+Translated in English, French, German, Greek, Italian, Lituanian, Polish, Portuguese (Brazil), Portuguese (Portugal), Slovak, Spanish, more on the way. 
+
+KNOWN PROBLEMS:
+
+* Early versions of 3GW Pro reported as not working on ZTE Blade/Orange San Francisco (black screen).
+
+* [Nov 2011] Doesn't count properly mobile usage on Samsung Galaxy R / Z (i9103) and possibly Galaxy Y (for this one try UNchecking "Use pre-Froyo ..." option in Settings &gt; Advanced).
+
+* [June 2011] Inaccuracy reported on Samsung phones with Gingerbread. Modifications done in 3G Watchdog should have fixed (or at least reduced) the problem, your feed back on versions 1.5.0+ is welcome.
+
+* [May 5, 2011] Large inaccuracy reported on Samsung Galaxy Tab 10.1v and 10.1 with Honeycomb - this problem seems to affect other data counting applications as well (so it's probably caused by the tablet itself).
+
+
+What's in this version:
+
+1.Improved usage by application accuracy (streaming media, uninstalled apps...)
+2.Two styles of usage graph (free & pro), switchable by long clicking on graph.
+3.New feature to manually enable/disable the mobile network (Android 2.3+ only).
+4.Fixed 3GW re-enabling mobile network when externally disabled.
+5.Danish & Russian translations.
+6.Misc bug fixes
+
+Enjoy and Seed Please :)

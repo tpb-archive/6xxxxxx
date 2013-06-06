@@ -1,0 +1,38 @@
+Created and Seed by
+Niresh12495
+
+Changes in This Release 
+Fixed The "?????" Display Error 
+PS2 Drivers Were Changed
+Fixed "Keyboard Not Found" problem for PS2 Keyboard Users 
+Added Boot Plist Commands as Packages 
+Added Support for VESA Display Support
+Chameleon was Updated to svn1730
+Chimera was Updated to 1.7.0-r1710
+Voodoo Battery Packages Was Modified 
+
+
+Just Burn The ISO Image Included in The Torrent to a Blank DVD (4.7 GB - The Common DVD in The Market) 
+
+Edit BIOS Settings
+*Set SATA as AHCI Mode 
+*Turnoff "Processor Power Management"
+It is Better to Remove All Other Hard Disks Presented in Your Computer
+{IF Your DVD Rom Hangs During Installation Your DVD Drive isn't Getting Enough Power So Change The Power Cable and USE Separate Power Cables for "DVD ROM and HDDs" }
+
+Boot From The DVD 
+
+Select Your Language
+
+Open "Disk Utility" From Utilities Menu
+
+Erase The Partition Where You Want to install Lion using "Disk Utility" as Mac OS X Extended
+
+Exit "Disk Utility"
+
+Customize Your Installation 
+
+Thats it
+
+When Installation Completes Boot From The Hard Disk 
+to Which You Installed Mac OS X Lion

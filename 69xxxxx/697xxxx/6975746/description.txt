@@ -1,0 +1,11 @@
+ipfilter updater for utorrent/vuze/bittorrent
+
+to block anti p2p organizations and fake peers
+
+An ipfilter blocks traffic from and to bad IPs and bad ranges of IPs. 
+The IPs which get blocked will not be able to upload files to you or to download files from you. 
+These hosts are usually fake, created to collect private information about which files you download and will only upload fake parts of the real thing you're trying to download. 
+All this will make your privacy on the web even more fragile and results in unnecessary use of your precious bandwidth. 
+So, an ipfilter could make your p2p downloads safer, faster and more reliable, even if it's just a little bit.
+
+it's blocks now 313.646 ip's

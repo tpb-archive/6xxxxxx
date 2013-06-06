@@ -1,0 +1,19 @@
+NOTE: keygen is a little twitchy in X.6.8 works fine in lion. JUst keep trying to reopen it until it stays open. 
+
+Official Web Site:  http://www.barebones.com/support/bbedit/current_notes.html
+
+Specifically crafted in response to the needs of Web authors and software developers, this award-winning product provides a plethora of features for editing, searching, and manipulation of text. BBEdit transforms text with high performance. An intelligent interface provides easy access to BBEditâ€™s best of class features including grep pattern matching, search and replace across multiple files, function navigation and syntax coloring for numerous source code languages, FTP and SFTP open and save, AppleScript, Perl and Mac OS X Unix scripting support, glossary support, and a complete set of HTML tools.
+
+Additions:
+
+In project windows, "New Text Document" and "New Folder" now prompt you (using a standard save panel) for the location of the item you wish to create. After creating the item, BBEdit will figure out whether the item needs to be added to a collection (if one was selected when using the commands) or to the top level of the project, or adjacent to another item already in the project.
+
+There's a new script attachment point for documents: 
+
+documentShouldFinalizeAuthenticatedSave. This gets called in cases where an authenticated save is necessary (for text documents only). An attachment script for this purpose might look like this (the comments are important, so read them!)
+
+System Requirements:
+
+Intel Mac, OX X.6 or greater
+
+--- PLEASE SEED ---

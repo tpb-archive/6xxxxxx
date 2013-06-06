@@ -1,0 +1,26 @@
+                           _     _
+                          |_|  _|_|
+                          |_|_|_|
+                          |_|_|_
+                          |_| |_|_
+                          |_|   |_|
+
+                         K O P I M I
+
+-------------------------------------------------------------
+
+ The raw Project Bluesmote logs have been recompressed from
+ GZIP into XZ format to reduce their size from 54GB to 18GB.
+ Decompression speeds are as fast so enjoy the smaller logs.
+
+ The comments and empty lines (grep -E "^#|^$") are removed 
+ and the dataset is split into 256 chunks with equal number
+ of lines per file (the last one is few hundred lines less).
+
+-------------------------------------------------------------
+
+         http://werebuild.eu/wiki/Project_Bluesmote
+         
+-------------------------------------------------------------
+
+                            bszcz

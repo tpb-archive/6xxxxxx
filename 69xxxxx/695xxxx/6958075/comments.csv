@@ -1,0 +1,5 @@
+User Type,Username,Date,Text
+,Leopardi,2012-02-24T00:24Z,"Siis jäikö mulla joku läjä verkkokortin ajureita kummittelemaan taustalle nyt, vai asentuuko ne vain siinä tapauksessa jos koneesta löytyy ko. verkkokortti?"
+alla on myÃ¶s verkkosovittimen ajureita, jotka asennetaan automaattisesti, mutta kaikkia vanhimpia ja uusimpia verkkosovittimen ajureita siinÃ¤ ei ole.
+
+.NET Framework 4 on vaikea integroida asennusmediaan koska asennuspaketti ei ole MSU-tiedosto. Framework asennuspaketin voi kopioida asennusmediaan ja setupcomplete.cmd tiedoston avulla asentaa ""online"" asennuksena 7:n asennuksen lopussa, mutta saman asian ajaa kun kÃ¤yttÃ¤jÃ¤ itse lataa ja asentaa sen tarvittaessa."

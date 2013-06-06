@@ -1,0 +1,77 @@
+Update 1.03 del HVG vol3 - CONSOLAS CLASICAS
+
+Bueno, pues un nuevo update para adaptar la aplicaciÃ³n \"a los nuevo tiempos\" y corregir y ampliar algunas cosas de la versiÃ³n 1.02 del HVG3
+ 
+http://thepiratebay.org/torrent/6987576/HistoryOfVideoGames_vol3_-_CONSOLAS_CLASICAS
+
+Cambios v1.03 (12/2011)
+
+. Cambios generales:
+  . Se rediseÃ±a y se optimiza la aplicaciÃ³n dÃ¡ndole a la vez el entorno grafico de los Ãºltimos volÃºmenes
+  . Se pasan las bases de datos al formato Access.
+  . Se hacen los cambios necesarios para que todo pueda funcionar a 32bits de color.
+  . Se usa el programa JoyToKey para el control del Joystick en los distintos emuladores, lo que permite una personalizaciÃ³n mÃ¡s eficaz.
+  . Se aÃ±aden manuales y documentos informativos en muchos juegos (se necesita adobe acrobat)
+  . Se aÃ±ade bÃºsqueda por nombre dentro de cada secciÃ³n.
+  . Se marcan los mejores juegos de cada uno de los formatos.
+  . Se cambia el nombre de la carpeta donde estÃ¡n los emuladores y sus configuraciones a c:\\HVG\\HVG3
+
+. Cambios sistema ATARI 2600 :
+  .Se pone una nueva versiÃ³n del emulador Stella que permite mejorar el video
+  .Se aÃ±ade un nuevo juego
+
+. Cambios sistema COLECOVISION :
+  .Se aÃ±ade la imagen de la caja del juego
+  .Se aÃ±ade un nuevo juego
+
+. Cambios sistema VECTREX :
+  . Se cambia el emulador por el ParaJVE lo que permite aÃ±adir efectos grÃ¡ficos que simulan mejor el aspecto original de la consola.
+
+. Cambios sistema NES :
+  .Se pone una nueva versiÃ³n del emulador Nestopia
+  .Se arregla el fallo que hacia imposible jugar con los juegos de disquete
+  .Se aÃ±aden algunos nuevos juegos importantes, llegando el total a 1100.
+
+. Cambios sistema SMS :
+  .Se cambia el emulador por el Fusion que permite mejorar el video.
+
+. Cambios sistema GAMEBOY :
+  .Se aÃ±aden nuevos juegos que tendrÃ­an que haber estado desde el primer momento.
+
+. Cambios sistema LYNX :
+  .Se cambia el emulador por el Mednafen.
+  .Se ajusta el tamaÃ±o de la pantalla del emulador.
+  .Se aÃ±ade la imagen de la caja del juego
+
+. Cambios sistema SNES :
+  .Se actualiza la versiÃ³n del emulador Snes9x a la 1.53 que mejora la compatibilidad y arregla muchos fallos.
+  .Se aÃ±ade la imagen de la caja del juego
+  .Se aÃ±aden nuevos juegos que tendrÃ­an que haber estado desde el primer momento.
+
+. Cambios sistema GAMEGEAR :
+  .Se cambia el emulador por el Fusion que permite mejorar el video
+  .Se eliminan 84 roms duplicadas.
+
+. Cambios sistema NEOGEO POCKET :
+  .Se cambia el emulador por el MEDNAFEN que permite mejorar el video
+
+. Cambios sistema WONDERSWAN :
+  .Se cambia el emulador por el MEDNAFEN que permite mejorar el video
+  .Se corrigen las teclas del emulador para un mejor uso.
+
+
+Requisitos:
+-Tener ya instalada la anterior versiÃ³n 1.02 del HVG vol3 
+http://thepiratebay.org/torrent/6987576/HistoryOfVideoGames_vol3_-_CONSOLAS_CLASICAS
+-XP, Vista o Windows 7 (32BITS UNICAMENTE)
+-Espacio en disco :  150Mb en C y 7\'16Gb en cualquier otra unidad
+-monitor que soporte una resoluciÃ³n de pantalla de 1024x768
+
+InstalaciÃ³n:
+Descomprimir en la misma carpeta donde tenÃ©is el ejecutable HVG3.EXE de la anterior versiÃ³n
+
+Ejecutar el archivo HVG3.EXE. Al ejecutar por primera vez se realiza la instalaciÃ³n de los emuladores y sus  configuraciones en la carpeta C:\\HVG\\HVG3 del disco duro. DespuÃ©s de esta instalaciÃ³n, al volver a ejecutar el archivo HVG3.exe, ya arrancarÃ¡ la aplicaciÃ³n.
+
+Notas: 
+- para Windows 7 puede ser necesario activar la compatibilidad con XP en el archivo HVG3.EXE
+- Para desinstalar la aplicaciÃ³n solo se tiene que borrar la carpeta c:\\HVG\\HVG3

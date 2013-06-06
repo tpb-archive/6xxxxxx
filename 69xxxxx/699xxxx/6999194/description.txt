@@ -1,0 +1,18 @@
+Book Description
+â€œIn the Java world, security is not viewed as an add-on a feature. It is a pervasive way of thinking. Those who forget to think in a secure mindset end up in trouble. But just because the facilities are there doesnâ€™t mean that security is assured automatically. A set of standard practices has evolved over the years. The SecureÂ® CodingÂ® Standard for Javaâ„¢ is a compendium of these practices. These are not theoretical research papers or product marketing blurbs. This is all serious, mission-critical, battle-tested, enterprise-scale stuff.â€
+â€”James A. Gosling, Father of the Java Programming Language
+
+An essential element of secure coding in the Java programming language is a well-documented and enforceable coding standard. Coding standards encourage programmers to follow a uniform set of rules determined by the requirements of the project and organization, rather than by the programmerâ€™s familiarity or preference. Once established, these standards can be used as a metric to evaluate source code (using manual or automated processes).
+
+The CERTÂ® OracleÂ® Secure Coding Standard for Javaâ„¢ provides rules designed to eliminate insecure coding practices that can lead to exploitable vulnerabilities. Application of the standardâ€™s guidelines will lead to higher-quality systemsâ€“robust systems that are more resistant to attack. Such guidelines are required for the wide range of products coded in Javaâ€“for devices such as PCs, game players, mobile phones, home appliances, and automotive electronics.
+
+After a high-level introduction to Java application security, seventeen consistently organized chapters detail specific rules for key areas of Java development. For each area, the authors present noncompliant examples and corresponding compliant solutions, show how to assess risk, and offer references for further information. Each rule is prioritized based on the severity of consequences, likelihood of introducing exploitable vulnerabilities, and cost of remediation.
+
+The standard provides secure coding rules for the Java SE 6 Platform including the Java programming language and libraries, and also addresses new features of the Java SE 7 Platform. It describes language behaviors left to the discretion of JVM and compiler implementers, guides developers in the proper use of Javaâ€™s APIs and security architecture, and considers  security concerns pertaining to standard extension APIs (from the javax package hierarchy).The standard covers security issues applicable to these libraries: lang, util, Collections, Concurrency Utilities, Logging, Management, Reflection, Regular Expressions, Zip, I/O, JMX, JNI, Math, Serialization, and JAXP.
+
+Book Details
+Paperback: 744 pages
+Publisher: Addison-Wesley Professional (September 2011)
+Language: English
+ISBN-10: 0321803957
+ISBN-13: 978-0321803955

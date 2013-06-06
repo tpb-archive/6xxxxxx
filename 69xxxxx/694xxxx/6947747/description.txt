@@ -1,0 +1,21 @@
+This torrent make you run Spotify on PS3, works perfect on Win Xp.
+
+ReadME:
+
+Make sure you have some of the older versions of Playstation Media Server eks v1.10.51. Does not work with the newest versions.
+
+x Copy all 3 files (dsbridge, DSounddll.dll, lame_enc.dll) to:
+
+  1. C:\\\\Program Files\\\\Spotify
+
+and
+
+  2. C:\\\\WINDOWS\\\\system32\\\\Macromed\\\\Flash
+     or
+  2. C:\\\\WINDOWS\\\\system64\\\\Macromed\\\\Flash
+
+x Copy then, WEB.CONF to (Spotify DIR) eks: C:\\\\Program Files\\\\Spotify
+
+x Restart Spotify, Start a song.
+
+x goto: Music - WEB - Radios - Spotify on PS3 

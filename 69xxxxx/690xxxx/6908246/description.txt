@@ -1,0 +1,27 @@
+
+GENERAL
+Crash with South Ossetia in Fast Mission Generator is corrected.
+Added option to turn tree shadows off and on. Setting tree shadows off will result in better frame rates.
+
+GRAPHICS
+HDR effect on sun corrected.
+Dust and smoke grenade effects at night no longer appear as if day.
+Fixed building errors at Sukhumi airbase
+Visibility range of rocket smoke marker has been increased.
+Contrail duration time is reduced.
+Corrupted NVG image after long use is corrected.
+Tree shadow rendering improved.
+
+AI
+SEAD flights use anti-radiation missiles correctly again.
+Crash with more than one aerial tanker in a mission is corrected.
+Orbit trigger action has been corrected.
+FARP and airbase ATC now respond correctly after landing.
+Ground unit logic of driving over bridges adjusted.
+Repeating wingman rejoin messages fixed.
+
+AIRCRAFT AND WEAPONS
+Landing gear door animation for Ka-50 is fixed.
+Trim with force feedback joysticks has been fixed.
+NVG effects re-done.
+Turning down Shkval contrast, produced Negative light in cockpit, making HUD completely dark at night, effect of this problem has been reduced.

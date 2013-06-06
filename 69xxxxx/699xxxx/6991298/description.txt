@@ -1,0 +1,29 @@
+This version with this certificate works 100% forget about the other torrent I uploaded,use this one.
+
+Installation procedure:
+
+1. After you downloaded, kill your internet connection, you don't need it now.
+2.open "C:\Windows\System32\drivers\etc\hosts" file and add(or use hosts file)
+
+127.0.0.1  gpsoft.com.au
+127.0.0.1  http://gpsoft.com.au
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1  203.34.202.11
+127.0.0.1  67.228.213.247
+127.0.0.1  gpsoftware.com.au
+127.0.0.1  dopus.com
+127.0.0.1 
+127.0.0.1  www.dopus.com
+127.0.0.1 
+127.0.0.1  www.dopus.com
+
+3.install dopus
+4.use "certificate.txt" as your certificate
+5.open Windows Firewall with advanced security -&gt; outbound rules -&gt; create new rules blocking every exe in folder where you installed dopus(or any firewall you have)
+6.disable automatic updates in preferences -&gt; misc (you'll have to do it several times)
+7.kiss your windows explorer goodbye
+
+If you try to download the latest update or don't follow these instructions correctly the certificate will get black listed

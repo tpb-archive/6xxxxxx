@@ -1,0 +1,117 @@
+Note: keygen is a little twitchy so keep reopening it until it stays open!
+
+Official Web Site:  http://www.marinersoftware.com/products/macjournal/
+
+
+MacJournal is the world's most popular journaling software for the Mac. MacJournal 6 adds a calendar mode that show entries from any journal, geolocation, word count and progress tracking, as well as additional blogging support. A Timeline mode has been added to gig the journaler the ability to see their writing activity in chronological order. 
+
+MacJournal 6 even introduces a feature for creating books from journals specially formatted for publishing. Add any kind of content, not just text. Drag PDFs, QuickTime movies, images, audio and more. Record audio and video, even publish to a blog account on Blogger, WordPress, LiveJournal, Posterous, and Tumblr. Dropbox support added as well.
+
+What's New:
+
+* Added a way to reveal the preferences file in the Finder.
+
+* Selecting a new custom location for backups will create a MacJournal
+  Backups folder inside that folder for safety reasons. If you had selected
+  your home folder, older folders might be pruned along with older
+  backups.
+
+* Fixed an issue encrypting a journal with an entry duplicated from
+  another entry in that journal but neither entry has changed after that.
+
+* Fixed a crash when syncing with an iOS device.
+
+* Improved memory usage after selecting multiple entries.
+
+* Enabled the cancel button in the Activity window for backups.
+
+* Improved entry detection when importing several entries in a single file
+  if the dates separating them do not have times.
+
+* Fixed improper jumps in scrolling when scrolling through a book
+  between entries.
+
+* Improved compatibility of popovers on 10.6 to work more like the real
+  ones on 10.7.
+
+* Fixed "Send to MobileMe" behavior.
+
+* Added "None" as a formatting option for text sent to blogs. No
+  conversion to HTML will be performed.
+
+* Restored some compatibility information for AppleScripts written
+  looking for the "journals" property on the application.
+
+* Added the ability to unlock journals in the Backup Browser.
+
+* Restoring a journal in the Backup Browser will restore all of its entries
+  as well.
+
+* Fixed the month display in the calendar view mode when switching
+  from single month to multi-month and back again.
+
+* When in the multi-month mode in the calendar view mode, clicking on a
+  shaded date will select an entry in that date.
+
+* Improved locale-specific behaviors for lowercase/uppercase/capitalize
+  Text Clean Up actions.
+
+* Added an indication of where a particular blog originates in the "Send
+  to Other Blog" menu.
+
+* Fixed a problem using auto-start on the Timer window when exiting
+  Full Screen mode.
+
+* Duplicating an entry will append "(Copy)" to the name and select the
+  copy at the end, similar to Finder.
+
+* Added a "Request a Feature" item to the Help menu.
+
+* Added a warning when entering the code for syncing with a touch
+  device if MacJournal cannot save that code for the future.
+
+* Fixed an issue decrypting journals from version 5 where some entries
+  have attachments with specific kinds of filenames.
+
+* When no find result is selected in the Find and Replace, "Replace" will
+  do nothing instead of behaving like "Replace All".
+
+* Improved performance of smart journals by moving some of the
+  metadata searching into the background.
+
+* Fixed an issue where exported CSV files couldn't be re-imported
+  without shifting the date over a few hours and messing up Unicode
+  characters.
+
+* Added the ability to specify the metadata included in Automatic format
+  exports. This is only used for textual entries.
+
+* Improved handling of entries without any content for Automatic export
+  format to output an empty file with the requested metadata.
+
+* Fixed some problems with trying to export an entry to a location that
+  already has a file by that name.
+
+* Added hidden pref IndexEncryptedJournalContentWhileUnlocked to
+  disable indexing of content in encrypted journals after unlocking it.
+
+* Fixed the "No Color" action in the Text Color toolbar item when some
+  text already has a color.
+
+* Fixed entry content searching after doing a sync with an iOS device.
+
+* Fixed the crash checking functionality.
+
+* Fixed "Allow Comments" for Movable Type and WordPress blogs if
+  the button had never been pressed before.
+
+* Fixed an issue where the Quick Note window required a click before
+  you could type in it if it was shown while in another application.
+
+More info: http://www.marinersoftware.com/products/macjournal/
+
+System Requirements:
+
+Intel, Mac OS X 10.6.8 or later
+
+---- PLEASE SEED ---

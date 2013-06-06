@@ -1,0 +1,40 @@
+Starcraft Broodwar 1.16.1 for Mac OS X Lion
+
+StarCraft is a military science fiction real-time strategy video game developed by Blizzard Entertainment. 
+
+Works fine:
+- Single Player
+- Starcraft Original
+- Starcraft Brood War Expansion
+- Multiplayer
+- Local Area Network (UDP)
+- Campaign Editor
+
+Does not work:
+- Battle.net
+
+----
+
+Doesn't need the disc to play.
+Ported using Wineskin Winery.
+Tested on my iMac running Mac OS X Lion 10.7.2
+
+Campaign Editor:
+ I only got the Campaign Editor woking fluid enough, using a standalone executable.
+ You can launch it only outside the game, so I removed from the in-game menu.
+ Maps are inside the "Starcraft Broodwar.app"
+ Control+Click the Starcraft App, "Show Package Contents"
+ Browse to drive_c/Program Files/Starcraft/maps
+
+Resolution:
+1) Control+Click the Starcraft App  "Show Package Contents"
+2) Open Wineskin &gt; Set Screen Options 
+Choice on of these 3 set ups
+Override, Fullscreen, Resolution:640x480, Use these settings, DONE (for normal screen)
+Override, Fullscreen, Resolution:800x600, Use these settings, DONE (the game runs faster, but not fill the entire screen)
+Override, Rootless (windowed), Virtual Desktop at: 640x480, Use these settings, DONE (to play windowed)
+
+To change the CD-KEY:
+1) Control+Click the Starcraft App  "Show Package Contents"
+2) Open the Starcraft CD-KEY Changer.app
+

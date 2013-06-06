@@ -1,0 +1,91 @@
+DoggCatcher Podcast Full v1.2.3040
+
+
+Requires Android: 2.1+
+
+Release Date: January 21, 2012
+
+
+Description
+
+
+Find, manage, and play your podcasts with DoggCatcher
+
+Manage your podcasts and RSS/news feeds with the most highly rated Podcatcher in the Market.
+
+
+Highlights
+
+-Easy to find new podcasts/feeds
+-Fully automated download and cleanup of media files
+-Offline playback of audio and video
+-Categories for feeds
+-Updated frequently â€“ 30+ updates during the past year
+-Active user community â€“ 5000+ forum posts
+-Highly configurable
+-Variable speed playback (this requires the purchase of a third party audio library named Presto)
+
+Add feeds by
+
+-Browsing Top 100 DoggCatcher feeds
+-Getting recommendations based on your feed subscriptions
+-Searching podcast and news directories
+-Importing for Google Reader/Listen
+-Importing from OPML
+
+
+Integrated Audio/Video Player
+
+-Plays downloaded audio/video
+-Streams audio over network (wifi/cell)
+-Remembers play position of media file
+-Plays video formats supported by Android
+
+
+RSS/News feeds
+
+-Supports RSS 1.0, 2.0, and ATOM
+-Displays inline images
+
+
+Automation
+
+-Automatically updates feeds on a configurable interval
+-Automatically download new media
+-Automatically deletes media that has been listened to
+
+
+Community and support
+
+-Frequently updated
+-Very active user community in forums
+
+
+Playlists
+
+-Audio playlist for continuous play of new media
+-Video/News playlists for easy navigation of new media
+
+
+Other
+
+-Battery/data plan friendly â€“ can limit downloads based on network/power connections
+-Media download queue can be viewed and managed
+-Bluetooth support (A2DP/AVRCP)
+-Supports authenticated feeds (username/password)
+
+Community and support at doggcatcher.com
+
+Requires SDcard for HTC Incredible
+
+What's in this version:
+
+- New permission is required
+- GET_TASKS (view running processes) - ICS devices require this to launch DoggCatcher in response to headset connect events
+- All permissions are detailed at - http://www.doggcatcher.com/node/1354
+- Migrate to using tabs for navigation of feed/audio/video/news screens
+- All popup dialogs should close when you press on the header area
+- [Bug] Occasionally resumes to incorrect pos. (this breaks seekbar for cm nightly - preference added for old behavior (advanced/seekbar hack)
+
+
+Enjoy and Please SeeD :)

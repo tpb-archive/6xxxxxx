@@ -1,0 +1,33 @@
+Full Game Collections: Nintendo Entertainment System
+====================================================
+
+This torrent contains the full collection of NES roms, according to the
+No-Intro database, dated 2011-10-27.
+
+Contents:
+
+  roms/                  All NES roms, goodmerged
+  data/                  Files used to build this collection and other info
+    NEShave.txt          List of games in the collection
+    roms-manifest.txt    Contents of all 7z files
+    *.dat                No-Intro datfile
+    *.xmdb               Used with the GoodMerge tool
+
+Special note:
+
+  Take notice that the No-Intro datfiles keep track of raw ROM dumps, without
+  any "headers". In the case of NES ROMs, most emulators need the
+  additional headers. This means that a headerless rom collection of
+  NES games, while strictly correct according to the No-Intro database, is
+  unplayable in most emulators (MESS and Nestopia are in their way to fix
+  this issue).
+  
+  However, this particular ROM collection has headers for most files. The few
+  exceptions are some bad dumps (marked with [b] in the filename) and a
+  couple of binary dumps (files with the .bin extension). This means that all
+  NES games for which a good dump exists are playable in this collection.
+
+Other collections available:
+
+- Nintendo Game Boy
+- Nintendo Game Boy Color

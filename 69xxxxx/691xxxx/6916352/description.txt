@@ -1,0 +1,5 @@
+Using Morph and Magic Daemons in RealFlow 5
+
+55 min. 58 sec.  |  September 30, 2010  |  RealFlow 5 and up  |  Author: Chris Glick
+
+In this series of lessons we'll learn how to use the morph and magic daemons to have a particle stream morph into an object. We'll also learn how to control our simulation using the Filter daemon. We'll begin this project by looking at a few simulations using each daemon separately and the issues with each. We'll then add our initial emitter and begin working with the Morph daemon. After learning how the morph daemon operates and which parameters we need to edit to control it, we'll add in our magic daemon. We'll then take a look at how the Filter daemon works and we'll begin setting it to divide our particles. Once we have our particles controlled correctly using exclusive and global links, we'll make some final adjustments to our morph daemon for more appealing motion. We'll finish by meshing our particles and troubleshooting a few mesh issues.

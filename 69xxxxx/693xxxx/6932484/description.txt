@@ -1,0 +1,19 @@
+1. So what is CiderX?
+2. What is the advantage of it compared to Cider?
+3. What is possible, that was not possible with Cider?
+
+Here are the answers:
+1. CiderX is basically a hybrid Wrapper. A Wrapper combined out of Cider and CXEx.
+
+2. With CXEx as part of Cider you can use CXEx for many things:
+
+    - Installing
+    - Launching windowed applications (not combined with cider, but for example a config.exe)
+    - using Winetricks (it is now possible to install .net framework in cider)
+    - etc
+
+Also CiderX as many addons compared to Cider, e.g. the Engine Changer, the CustomEXEMaker and the Config.app
+
+3. Basically CiderX does not want to make Cider more compatible, it is trying to make Cider easier to use.
+The Core of CiderX is still Cider itself, so it has the same compatibility as Cider. The biggest difference is that you can now install
+many winetricks in Cider, that were very difficult to install (PhysX) or nearly impossible (.Net Framework) in Cider.

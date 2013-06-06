@@ -1,0 +1,72 @@
+OS/2 Warp 4.5.2 - Virtual Machine
+----------------------------------
+2011/12/28
+Version 1.0
+----------------
+
+This is a full and basic installation of OS/2 Warp 4.52 on a Oracle VirtualBox Virtual Machine. It had been tested on Oracle VirtualBox 4.1.8.
+
+It does not have any other OS/2 apps, so you can have phun installing it. (firefox, thunderbird...etc)
+
+
+REQUIREMENTS
+------------
+You require a machine with VT-X feature. 
+
+INSTALLATION
+------------
+This is only the HDD VM image. You need to create the Virtual Machine configuration pointing to this image using Oracle VirtualBox.
+
+Create a Virtual machine with:
+- OS/2 Warp 4.5 Settings
+- At lease 512MB RAM
+- Enable VT-X/AMD-V option
+- IDE Controller for storage
+- Network Adapter PCnet-FAST III (Am 79C973)
+
+IBM OS/2 Warp 4.52 was installed on the VM with all the features.
+
+
+VM CONFIGURATION
+-----------------
+The administration password is:
+UserID: USERID
+Password: PASSWORD
+
+ScreenResolution: 800 x 600
+
+HDD Image Size: 2GB.
+
+
+FIXPACKS
+--------
+- XR_D003 - Device Driver
+- XR_C006 - Base OS Fixpack
+- WR08708 - MPTS
+- IP08608 - LAN Services
+- UN02334 - TCP/IP
+
+DRIVERS
+-------
+- Innotek Drivers for Mouse Integration (beta - Included on VirtualBox)
+- Universal Serial Bus Base Stack 10.162
+- USB Mass Storage Device 10.162 
+- USB Keyboard  10.162 	
+- USB Serial Converter Driver  10.119 	
+- USB Ethernet  1.1 	
+- USB Print  10.157 
+- UDF 2.1.6
+- IDEDASD - 2005-11-28
+- IRda  10.149 
+- Single Mouse - 10.152
+- PSCRIPTEN 	30.827 	
+- LASERJETEN 	30.827 	
+- OMNIEN 	30.827 	
+- PLOTTERSEN 	30.827
+
+
+
+TIPS
+-----
+If it crash and burn in your face. Remember that in OS/2 you can press Alt+F1 with the little OS/2 rectangle appears. 
+

@@ -1,0 +1,34 @@
+User Type,Username,Date,Text
+,daniel1223,2011-12-26T14:21Z,"Gnome Partition Editor
+
+GParted is a free partition editor for graphically managing your disk partitions.
+
+With GParted you can resize, copy, and move partitions without data loss, enabling you to:
+
+    Grow or shrink your C: drive
+    Create space for new operating systems
+    Attempt data rescue from lost partitions
+
+Features
+
+    Perform actions with partitions such as:
+        create or delete
+        resize or move
+        check
+        label
+        copy and paste
+    Manipulate file systems such as:
+        btrfs
+        ext2 / ext3 / ext4
+        fat16 / fat32
+        hfs / hfs+
+        linux-swap
+        ntfs
+        reiserfs / reiser4
+        ufs
+        xfs
+    For specific actions supported see detailed features.
+
+Requirements
+
+GParted can be used on x86 based computers running Linux, Windows, or Mac OS X by booting from media containing GParted Live. A minimum of 128 MB of RAM is needed to use all of the features of the GParted application. "

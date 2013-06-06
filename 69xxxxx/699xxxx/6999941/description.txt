@@ -1,0 +1,25 @@
+HVG - HistoryOfVideoGames vol2 ARCADES 1.06
+
+RecopilaciÃ³n DE LA MEJOR SELECCION DE JUEGOS ARCADE (COIN-OP).
+Contempla los siguientes emuladores: MAME 138u1-140, DAPHNE v1.0.7 (Emulador laser), DEMUL 0.56 (Sega Naomi), 
+y M2EMULATOR 0.9  (Sega Model 2)
+
+Se ha pretendido reunir TODOS LOS JUEGOS ARCADE EMULADOS menos los que tiene un mal funcionamiento, los que su emulaciÃ³n tiene inconvenientes para un entorno PC, los clones (si no son necesarios), o los que se consideran injugables por diversos motivos.
+
+Todos los emuladores se han configurado y en algunos casos modificados (a la version de MAME se le han quitado los mensajes de "Type OK..."(gracias J.R.!!!!) y los de NAOMI y MODEL 2 tiene un GUI creado por mi)
+
+Requisitos:
+-Windows XP, Vista o Windows 7 (32BITS UNICAMENTE!!!)
+-Espacio en disco C : 1Gb
+-monitor que soporte una resoluciÃ³n de pantalla de 1024x768
+-Para algunos juegos una VGA con "YUV Hardware Overlay" y Pixel Shader 2.0 o superior
+
+Instalacion
+-Copiar la carpeta HVG a c:\
+-copiar la carpeta HVGvol2 a cualquier otra parte
+-ejecutar hvg2reg.reg del directorio HVGvol2
+-ejecutar hvg2.exe del directorio HVGvol2
+
+Notas: 
+- para Windows 7 puede ser necesario activar la compatibilidad con XP en el archivo HVG2.EXE
+- Para desinstalar la aplicaciÃ³n solo se tiene que borrar la carpeta c:\HVG\ARCADE

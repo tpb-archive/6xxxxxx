@@ -1,0 +1,16 @@
+PlayStation 3 developer ps3hen over at PS3News has released a hack that allows installing
+retail PKG's on firmware 4.0. Although you cannot run homebrew or unsigned code it serves
+a purpose to those with hardware flashers using dual boot and who knows what other
+possibilities.
+
+This is hack does the following things:
+
+adds "Install Package Files" and "/app_home/PS3_GAME/" to "GAME" on the
+XMB (allowing the user to install retail package files anytime they want)
+
+adds other debug functions which are small but still there
+does not give access to "Debug Setting" (reasons for this are explained below)
+
+This installation procedure is the similar to technodon's original dev_flash hdd swap
+procedure.
+For this you will need two hard drives a e3 flasher or similar device

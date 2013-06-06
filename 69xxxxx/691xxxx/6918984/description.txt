@@ -1,0 +1,28 @@
+Howl\'s Moving Castle (2004)
+
+
+1920x1038, x264 10bit
+
+Japanese Flac 5.1
+English DTS 5.1
+French,German,Italian,Mandarin,Cantonese,Korean - vorbis 2.0
+
+English,French,Romanian,German,Italian,Mandarin,Cantonese,Korean - subs
+
+
+
+         
+http://www.imdb.com/title/tt0347149/
+
+
+
+IMPORTANT: 10bit encode, will need latest version of video decoders. 
+Recommended decoder: LAV video decoder	
+
+
+
+
+So this is a v2. What is different?
+The v1 was badly muxed and the subs got desynced. Also this fixes an issue with 10bit encoding which made a very very slight color shift towards red. If you dont want to redownload (and you normally shouldnt), remux the v1 in mkvtoolnix with a delay of -360ms, and thats it.
+
+ 		

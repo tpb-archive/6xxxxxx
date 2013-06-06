@@ -1,0 +1,79 @@
+SD Maid Pro Full v0.9.7.5
+
+Requires Android: 1.6 and up + (root)
+
+Release Date: January 17, 2012
+
+
+Description
+
+A maid for your android, to regain precious memory and keep it clean & tidy.
+
+THIS APP IS INTENTED FOR ROOTED DEVICES!
+
+Without root, functionality is limited as SD Maid won't have access to all necessary directories.
+
+This is a powerful tool! Use at own risk!
+
+
+* Nobody is perfect and android neither.
+* Apps you have already deleted, sometimes leave data behind.
+* The system constantly creates logs, crash reports and debug files you don't really need.
+* The market leaves temporary files of downloaded apps behind.
+* Lets not go on here...
+
+- Why not get a maid to clean it all up? SD maid will help you keep your device neat, clean and tidy for you :)!
+
+- Choose a tab, press check and then either click a single item to delete or press the clean all button. It's just that easy.
+
+- The explorer is a full fledged filemanager, use it to crawl through your androids files.
+
+- You can use the searcher to open/delete or rename files (wildcards are supported as is searching inside files).
+
+- The corpse finder searches your device for dormant directories and compares those to the list of installed applications.
+
+- The system cleaner scans the devices known directories with unnecessary files.
+
+= The Optimize DBs tab checks databases (System/Apps) and allows you to shrink bloated databases to speed up access and free space.
+
+= The Misc tab features various cleaning options. A bit of a playground for me to implement user requests.
+
+= 9 features are currently available in the free version and an additional 2 can be unlocked by buying and installing the unlocker.
+
+= SD Maid is constantly being developed and is designed very carefully.
+
+
+What's in this version:
+
+v0.9.7.5
+
+- temporary hotfix for bug in android 2.2
+
+v0.9.7.4
+
+- @Common:
+* Improved various coded parts
+* Improvements for ICS
+* New busybox to fix issues on galaxy nexus
+* @Explorer
+* Fixed FC on opening directories
+* Removed the object size of directories
+* @Systemcleaner:
+* Fixed an issue on HTC EVO 4G
+- @Duplicate finder:
+* After deletion of duplicates the remaining file will be hidden
+* Sets will now be recolored
+* Fixed summary
+* Selections are cleared on deletion
+
+Screenshots:
+ 
+http://imageshack.us/photo/my-images/214/001ptx.jpg/ 
+http://imageshack.us/photo/my-images/252/002oj.jpg/ 
+http://imageshack.us/photo/my-images/341/003kbu.jpg/ 
+http://imageshack.us/photo/my-images/833/004psn.jpg/ 
+http://imageshack.us/photo/my-images/36/005zpo.jpg/ 
+http://imageshack.us/photo/my-images/403/006dol.jpg/ 
+http://imageshack.us/photo/my-images/690/007slf.jpg/
+
+Enjoy and Please Seed :)

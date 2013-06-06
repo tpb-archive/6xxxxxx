@@ -1,0 +1,50 @@
+All emulators SHOULD work out of box, meaning you open the respective folder, you run the emulator and you're good to go, mounting whatever image or ROM SHOULD work fine. If, for whatever reason, the system calls for you to locate a BIOS, you'll have to point it to the correct BIOS which shouldn't be too difficult because in most consoles that require BIOS there is a folder entitled 'BIOS' -- If you can't figure it out from there.. You're on your own.
+
+/////////////////////////////////////////////////////////////////////
+
+SUPPORTED CONSOLES:
+
+- Arcade
+    [Emulator: MAME]
+
+- Nintendo
+    [Emulator: FCEUX]
+- Super Nintendo
+    [Emulator: ZSNESw]
+- Nintendo 64
+    [Emulator: Project64]
+- Nintendo GameCube
+    [Emulator: Dolphin]
+- Nintendo Wii
+    [Emulator: Dolphin]
+- Nintendo DS
+    [Emulator: NO$GBA]
+- Nintendo Game Boy Advance
+    [Emulator: NO$GBA]
+
+- Sega Mega Drive
+    [Emulator: Fusion]
+- Sega Genesis
+    [Emulator: Fusion]
+- Sega CD/32X
+    [Emulator: Fusion]
+- Sega Game Gear
+    [Emulator: Fusion]
+- Sega Saturn
+    [Emulator: SSF]
+- Sega Dreamcast*
+    [Emulator: nullDC]
+
+- Sony Playstation
+    [Emulator: pSX]
+- Sony Playstation 2
+    [Emulator: PCSX2]
+- Sony PSP
+    [Emulator: JPCSP]
+
+
+* = xPadder has been included with nullDC since nullDC won't map a controller. If you have a controller, you must launch xPadder and follow these instructions:
+
+1.) Click the controller icon and select [Open] -&gt; Then select the file named [Dreamcast Controller.xpadderprofile] -&gt; Click OK
+2.) To the right of 'Dreamcast Controller' is a blank menu with a wrench on the right (Note, The FAR right) -&gt; Click it, select dcontroller
+3.) You should now have both fields filled with squares that have various letters in them. At this point, simply run nullDC on top and play with your controller.

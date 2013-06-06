@@ -1,0 +1,20 @@
+This torrent contains up to date versions of all English Wikipedia Articles. You may have seen other torrents with sizes over 30 Gigs. These contain every revision ever made to Wikipedia and expand to over 5 Terabytes of text. Most people will not find these useful. I wrote a script to cut out the user, talk and project pages (for example: [[WP:ANB]]). If you just want to have the complete Wikipedia on your computer, then this is the torrent you want.
+
+
+I have included the program WikiTaxi with the torrent. WikiTaxi enables you to read, search, and browse Wikipedia offline. No Internet connection is needed; all pages are stored in a WikiTaxi database. Because Wikipedia is constantly growing, WikiTaxi uses compression to make sure that the database stays as small as possible.
+
+
+This torrent is being made available to simplify the process of downloading all of Wikipedia\'s articles without wasting bandwidth. I will seed this for awhile, but I really am hoping that Wikipedia could publish an official torrent itself every year containing validated articles (checked for vandalism and quality), and then seed that torrent indefinitely. This will reduce strain on the servers and make the process of obtaining a database dump much simpler and easier. It would also serve as a snapshot in time, so that users could browse the 2011 or 2012 Wikipedia.
+
+
+
+Instructions:
+
+1. Do *NOT* unzip the .bz2 file!
+2. Instead, unzip the Wikitaxi program.
+(You can also download it from: http://www.wikitaxi.org/delphi/doku.php/products/wikitaxi/index )
+3. Run WikiTaxi_Importer.exe and select the .bz2 file.
+Click import and wait for a couple hours.
+4. Run WikiTaxi.exe and open the newly created database file.
+(the .taxi file, not the .bz2 file)
+5. Enjoy Wikipedia without the Internet. 

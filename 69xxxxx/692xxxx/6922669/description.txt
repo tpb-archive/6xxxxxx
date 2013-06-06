@@ -1,0 +1,179 @@
+Nirvana - Live At The Paramount Theatre [BDRip-1080p-Mkv-Dts-Ac3][Nautilus-BT]
+
+
+
+[ About file ]
+
+Name: Nirvana - Live At The Paramount Theatre [BDRip-1080p-Dts-Ac3-Chapters][RiP By MaX].mkv
+Date: Thu, 17 Nov 2011 11:16:41 +0100
+Size: 4,705,732,520 bytes (4487.736 MiB)
+
+[ Magic ]
+
+Tipo file: data
+
+[ Generic infos ]
+
+Duration: 01:11:28 (4287.552 s)
+Container: matroska
+Production date: Thu, 17 Nov 2011 11:14:57 +0100
+Total tracks: 3
+Track nr. 1: video (V_MPEG4/ISO/AVC) [Nirvana - Live At The Paramount Theatre [BDRip 1080][RiP By MaX]] {ita}
+Track nr. 2: audio (A_DTS) [DTS 768 kbps] {eng}
+Track nr. 3: audio (A_AC3) [AC3 384 kbps] {eng}
+Muxing library: libebml v1.2.2 + libmatroska v1.3.0
+Writing application: mkvmerge v5.0.1 ('Es ist Sommer') built on Oct  9 2011 11:55:43
+
+[ Relevant data ]
+
+Resolution: VERY HIGH (1868 x 1080)
+Width: multiple of 4 (16 would be better)
+Height: multiple of 8 (16 would be better)
+Average DRF quality: LOW (28.223)
+Standard deviation quality: HIGH (0.592)
+Std. dev. weighted mean: HIGH (0.567)
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1868 x 1080
+Frame aspect ratio: 467:270 = 1.73
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 467:270 = 1.73
+Framerate: 23.976 fps
+[debug] codec private: 57 bytes
+Stream size: 4,094,140,911 bytes (3904.477 MiB)
+Duration (bs): 01:11:26 (4286.24 s)
+Bitrate (bs): 7641.459 kbps
+Qf: 0.158
+
+[ Audio track nr. 1 ]
+
+Codec ID: A_DTS
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 404,365,724 bytes (385.633 MiB)
+Bitstream type (bs): DTS
+Frames (bs): 401,954
+Duration (bs): 01:11:28 (4287.509 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 768 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): C + L + R+ SL+SR
+
+[ Audio track nr. 2 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 205,802,496 bytes (196.269 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 133,986
+Duration (bs): 01:11:28 (4287.552 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 384 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 119 r2106 07efeb4 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=3 | deblock=1:0:0 | analyse=0x3:0x133 | me=umh | subme=7 | psy=1
+User data: psy_rd=1.00:0.00 | mixed_ref=0 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=0
+User data: chroma_qp_offset=-2 | threads=12 | sliced_threads=0 | nr=0
+User data: decimate=1 | interlaced=0 | bluray_compat=1 | constrained_intra=0
+User data: bframes=3 | b_pyramid=0 | b_adapt=2 | b_bias=0 | direct=1
+User data: weightb=1 | open_gop=1 | weightp=1 | keyint=240 | keyint_min=23
+User data: scenecut=40 | intra_refresh=0 | rc_lookahead=40 | rc=2pass
+User data: mbtree=1 | bitrate=7641 | ratetol=1.0 | qcomp=0.60 | qpmin=10
+User data: qpmax=51 | qpstep=4 | cplxblur=20.0 | qblur=0.5 | vbv_maxrate=40000
+User data: vbv_bufsize=40000 | nal_hrd=vbr | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 3
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 102,767
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices: 37707 ( 36.692 %) #######
+B-slices: 64542 ( 62.804 %) #############
+I-slices:   518 (  0.504 %)
+SP-slices:     0 (  0.000 %)
+SI-slices:     0 (  0.000 %)
+
+[ DRF analysis ]
+
+average DRF: 28.223
+standard deviation: 0.592
+max DRF: 34
+
+DRF&lt;25:     0 (  0.000 %)
+DRF=25:   176 (  0.171 %)
+DRF=26:   259 (  0.252 %)
+DRF=27:  6213 (  6.046 %) #
+DRF=28: 66300 ( 64.515 %) #############
+DRF=29: 29724 ( 28.924 %) ######
+DRF=30:    22 (  0.021 %)
+DRF=31:     1 (  0.001 %)
+DRF=32:     7 (  0.007 %)
+DRF=33:     0 (  0.000 %)
+DRF=34:    65 (  0.063 %)
+DRF&gt;34:     0 (  0.000 %)
+
+P-slices average DRF: 28.25
+P-slices std. deviation: 0.597
+P-slices max DRF: 34
+
+B-slices average DRF: 28.226
+B-slices std. deviation: 0.547
+B-slices max DRF: 30
+
+I-slices average DRF: 25.89
+I-slices std. deviation: 0.855
+I-slices max DRF: 31
+
+[ Profile compliancy ]
+
+Selected profile: BDRip 1080p
+Resolution: Ok
+Framerate: Ok
+Min buffer fill: 94%
+
+[ Edition entry ]
+
+UID: 904953732
+Hidden: No
+Selected by default: No
+Playlist: No
+Chapters: 
+00:00:00,000-00:03:59,990: 01 {und}
+00:03:59,990-00:08:47,986: 02 {und}
+00:08:47,986-00:12:35,004: 03 {und}
+00:12:35,004-00:15:47,488: 04 {und}
+00:15:47,488-00:18:55,468: 05 {und}
+00:18:55,468-00:23:41,003: 06 {und}
+00:23:41,003-00:26:54,488: 07 {und}
+00:26:54,488-00:29:46,952: 08 {und}
+00:29:46,952-00:33:17,621: 09 {und}
+00:33:17,621-00:35:37,969: 10 {und}
+00:35:37,969-00:39:11,933: 11 {und}
+00:39:11,933-00:43:50,002: 12 {und}
+00:43:50,002-00:46:06,931: 13 {und}
+00:46:06,931-00:48:50,678: 14 {und}
+00:48:50,678-00:51:49,481: 15 {und}
+00:51:49,481-00:57:44,461: 16 {und}
+00:57:44,461-01:00:44,015: 17 {und}
+01:00:44,015-01:03:08,952: 18 {und}
+01:03:08,952-01:11:27,552: 19 {und}
+
+This report was created by AVInaptic (25-07-2011) on 30-12-2011 14:36:52

@@ -1,0 +1,94 @@
+Finnish language version of Windows 7 SP1 All-In-One (updated January 2012).
+
+SUOMENKIELINEN WINDOWS 7 SP1 32-BIT/64-BIT ALL-IN-ONE TAMMIKUU 2012
+
+Integroitu Windows Updaten pÃ¤ivitykset (pÃ¤ivitetty tammikuu 2012).
+
+Windows 7:n asennuksessa valitse minkÃ¤ 32-bit tai 64-bit version haluat asentaa.
+- Windows 7 Home Premium x86 (32-bit)
+- Windows 7 Professional x86 (32-bit)
+- Windows 7 Ultimate x86 (32-bit)
+- Windows 7 Home Premium x64 (64-bit)
+- Windows 7 Professional x64 (64-bit)
+- Windows 7 Ultimate x64 (64-bit)
+
+Jos sinulla ei ole laillista Windows 7:n Product Key -tuotetunnusta.
+- Windows 7:n asennuksessa ohita kohta jossa kysytÃ¤Ã¤n Product Key -tuotetunnusta.
+- Suorita aktivointi mukana tulevalla aktivointiohjelmalla (Windows Loader).
+
+Aktivointi onnistuu myÃ¶s laillisella Product Key -tuotetunnuksella, mutta jos tuotetunnus on tarkoitettu esim. Home Premium versiolle, niin silloin tuotetunnuksella voi aktivoida ainoastaan Home Premium version.
+
+--------------------------------------------------------------------------------
+
+MikÃ¤ on All-In-One asennusmedian kÃ¤ynnistysvalikon "x64 Recovery Mode" valinta?
+
+"x64 Recovery Mode" valinnalla ei kÃ¤ynnistetÃ¤ Windows 7:n asennusta.
+
+Jos on asennettu Windows 7 64-bit versio niin "JÃ¤rjestelmÃ¤n palautusasetukset" valikkoon pÃ¤Ã¤see kun asennusmedian kÃ¤ynnistysvalikosta valitaan "x64 Recovery Mode" ja sitten myÃ¶hemmin valitaan "Korjaa tietokone".
+
+Jos on asennettu Windows 7 32-bit versio niin "JÃ¤rjestelmÃ¤n palautusasetukset" valikkoon pÃ¤Ã¤see normaalisti eli silloin ei valita "x64 Recovery Mode" valintaa.
+
+--------------------------------------------------------------------------------
+
+Voiko All-In-One asennusmedian setup64.exe tiedostosta kÃ¤ynnistÃ¤Ã¤ asennusohjelman?
+
+Windows 7:n asennusohjelma ei kÃ¤ynnisty setup64.exe tiedostosta.
+
+Jos kÃ¤ynnistÃ¤t tyÃ¶pÃ¶ydÃ¤ltÃ¤ Windows 7:n asennuksen USB-muistitikulta tai DVD-levyltÃ¤, niin kÃ¤ynnistÃ¤ asennusohjelma setup.exe tiedostosta.
+
+--------------------------------------------------------------------------------
+
+Kuinka teen buuttaavan USB-muistitikun Windows 7:n ISO-tiedostosta?
+
+Windows 7 USB/DVD download tool
+www.microsoftstore.com/store/msstore/html/pbPage.Help_Win7_usbdvd_dwnTool
+
+Kytke USB-liittimeen vÃ¤hintÃ¤Ã¤n 8 Gt:n USB-muistitikku (All-In-One versiolle).
+
+KÃ¤ynnistÃ¤ "Windows 7 USB/DVD Download Tool".
+- klikkaa "Browse" ja valitse ISO-tiedosto.
+- klikkaa "USB device".
+- klikkaa "Begin copying".
+
+--------------------------------------------------------------------------------
+
+Kuinka poltan DVD-levylle Windows 7:n buuttaavan ISO-tiedoston?
+
+Windows 7:ssa saa poltettua ISO-tiedoston DVD-levylle valitsemalla ISO-tiedoston hiiren oikealla painikkeella ja valitsemalla "Tallenna levyn nÃ¤kÃ¶istiedosto".
+
+Mutta suositeltavaa on kÃ¤yttÃ¤Ã¤ ohjelmaa jolla voit pienentÃ¤Ã¤ polttonopeutta maksiminopeudesta, esim. polta ISO-tiedosto ilmaisella ImgBurn poltto-ohjelmalla.
+
+- valitse "Write image file to disc"-painike.
+- valitse "Browse for a file"-kansiokuvake.
+- valitse ISO-tiedosto ja klikkaa "Avaa"-painiketta.
+- laita tyhjÃ¤ DVD-levy asemaan.
+- "Write Speed"-alasvetovalikosta pienennÃ¤ polttonopeutta maksiminopeudesta.
+- valitse "Write"-painike.
+
+--------------------------------------------------------------------------------
+
+Windows 7:n asennus kÃ¤ynnistÃ¤mÃ¤llÃ¤ tietokone Windows 7:n USB-muistitikulta.
+
+Kytke Windows 7:n USB-muistitikku USB-liittimeen ja kÃ¤ynnistÃ¤ tietokone.
+
+Jos asennusohjelma ei kÃ¤ynnisty, niin silloin pitÃ¤Ã¤ asettaa USB-muistitikku ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi.
+
+- Jos tietokoneessasi voi vÃ¤littÃ¶mÃ¤sti tietokoneen kÃ¤ynnistyessÃ¤ valita kÃ¤ynnistysvalikon "boot selection popup menu", niin valitse USB-muistitikku ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi, jolloin ei tarvitse muuttaa BIOS-asetuksia.
+
+- Jos kÃ¤ynnistysvalikkoa ei ole, niin aseta tietokoneen emolevyn BIOS-asetuksissa (esim. Boot > Boot Device Priority) USB-muistitikku ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi. Joidenkin emolevyjen BIOS-asetuksissa (esim. Boot > Hard Disk Drive) pitÃ¤Ã¤ ensin valita USB-muistitikku ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi kovalevyksi, jolloin vasta saa asetettua USB-muistitikun ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi.
+
+--------------------------------------------------------------------------------
+
+Windows 7:n asennus kÃ¤ynnistÃ¤mÃ¤llÃ¤ tietokone Windows 7:n DVD-levyltÃ¤.
+
+Aseta Windows 7:n DVD-levy asemaan ja kÃ¤ynnistÃ¤ tietokone uudelleen.
+
+Jos kovalevy on uusi (varaamaton) tai vanhasta kovalevystÃ¤ on poistettu osiot, niin silloin Windows 7:n asennusohjelma kÃ¤ynnistyy automaattisesti.
+
+Jos asennusohjelma ei kÃ¤ynnisty, eikÃ¤ "Press any key to boot from CD or DVD" tekstiÃ¤ ilmesty, niin silloin pitÃ¤Ã¤ asettaa DVD-asema ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi.
+
+- Jos tietokoneessasi voi vÃ¤littÃ¶mÃ¤sti tietokoneen kÃ¤ynnistyessÃ¤ valita kÃ¤ynnistysvalikon "boot selection popup menu", niin valitse DVD-asema ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi, jolloin ei tarvitse muuttaa BIOS-asetuksia.
+
+- Jos kÃ¤ynnistysvalikkoa ei ole, niin aseta tietokoneen emolevyn BIOS-asetuksissa (esim. Boot > Boot Device Priority) DVD-asema ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi.
+
+Nyt pitÃ¤isi ilmestyÃ¤ "Press any key to boot from CD or DVD", jolloin paina jotain nÃ¤ppÃ¤intÃ¤. Windows 7:n asennusohjelma kÃ¤ynnistyy DVD-levyltÃ¤.

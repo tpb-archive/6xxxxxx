@@ -1,0 +1,12 @@
+Description
+A minimal Debian based Linux system with fully functional bash shell (with GNU coreutils, not BusyBox), TCP/IP networking with DHCP client and APT setup to be able to install any package from the Debian repositories.   
+http://sourceforge.net/projects/bachatalinux/
+
+*.iso files are CD-ROM images with a bootable self-contained installer. Burn on a CD-R disk and boot from it to install on a physical machine, or use directly to install in a virtual machine. *.cgz files are bundles used by the installation scripts. install-bachatalinux is a Linux shell script to install without a CD. install-bachatalinux-in-kvm-qemu is a Linux shell script to install in a KVM/QEMU virtual machine.   
+http://sourceforge.net/projects/bachatalinux/files/
+  
+http://www.bachatalinux.net/  
+http://www.staldal.nu/tech/ (blog)
+
+10f8064717ac916503a2e2af5f12edf05e228f26  bachatalinux-1.0-i386.img
+ce7149c90576b25a70b0aad702185775  bachatalinux-1.0-i386.img

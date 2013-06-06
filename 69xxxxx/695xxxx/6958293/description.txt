@@ -1,0 +1,5 @@
+Replaces the dot (.) in a wsrt-file with a comma (,)
+ for example
+ 00:00:53.200 --&gt; 00:01:00.840
+ becomes
+ 00:00:53,200 --&gt; 00:01:00,840

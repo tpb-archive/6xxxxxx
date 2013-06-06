@@ -1,0 +1,204 @@
+Vray 2.0 / VRayRT for Maya 2012, 2011,
+
+Installation :-
+
+1. Run vray_adv_20004_mayaXXXX_xXX.exe
+
+2. After Installation Copy \\\\\\\"cgauth.dll\\\\\\\" From Crack Folder and Paste to Vray\\\\\\\'s \\\\\\\"Bin\\\\\\\" Folder and replace existing File
+
+in x64Bit Os (C:\\\\\\\\Program Files\\\\\\\\Autodesk\\\\\\\\MayaXXXX\\\\\\\\vray\\\\\\\\bin\\\\\\\\)
+in x32Bit Os (C:\\\\\\\\Program Files (x86)\\\\\\\\Autodesk\\\\\\\\MayaXXXX\\\\\\\\vray\\\\\\\\bin)
+
+3. And Also Copy \\\\\\\"vray.dll\\\\\\\" From Crack Folder and Paste to Maya XXXX \\\\\\\"Bin\\\\\\\" Folder and replace existing File
+
+in x64Bit Os (C:\\\\\\\\Program Files\\\\\\\\Autodesk\\\\\\\\MayaXXXX\\\\\\\\bin\\\\\\\\)
+in x32Bit Os (C:\\\\\\\\Program Files (x86)\\\\\\\\Autodesk\\\\\\\\MayaXXX\\\\\\\\bin\\\\\\\\)
+
+4. Once the correct files is placed in the desired folder, 
+
+   start Maya and use the \\\\\\\"Plug-in Manager\\\\\\\" to load and/or autoload the vrayformaya.mll plug-in.
+	 
+5. When the plug-in is loaded a new \\\\\\\"Vray\\\\\\\" menu item will appear in the Render Settings.
+
+V-Ray for Maya
+
+Product Overview
+
+V-Ray for Maya is one of the latest developments by Chaos Group. Developed to meet the needs of the most demanding VFX & Film studios around the world, the rendering engine delivers uncompromised stability, interactivity, ease of use and unprecedented speed. 
+Now, V-Ray for Maya enables the rendering of even larger scenes with greater complexity and artists can rely on a faster rendering process. 
+The comprehensive list of features provided by V-Ray for Maya includes CarPaint Material, V-Ray Light Select Render Element, PText texture, true 3D Motion Blur, Sun & Sky procedural lighting system, Physical camera for matching live footage, and many others. 
+V-Ray for Maya became a renderer of choice of numerous renowned studios such as Method Studio, Zoic Studio, Lux VFX, The LAB NYC and many others. For less than two years since its official release V-Ray has been used as a major rendering tool in the latest award winning films and productions.
+
+
+Chaos Group provides state of the art rendering solutions for the Visual FX, Film, Media and Entertainment, Architecture, Automotive design, Product design, Television, and other industries. The V-Ray rendering engine was acknowledged for its ability to deliver high quality photorealistic images in the shortest time possible. This state of the art raytracing technology is capable of reducing costs in every production pipeline due to the doubled rendering power and saving in terms of human, time and CPU resources.
+
+
+
+Now, V-Ray for Maya enables the rendering of even larger scenes with greater complexity and artists can rely on a faster rendering process. The comprehensive list of features provided by V-Ray for Maya includes true 3D Motion Blur, Sun & Sky procedural lighting system, Physical camera for matching life footage, Environment Fog, a set of Sub-Surface Scattering shaders and many others. V-Ray for Maya is an indispensable tool that is always there to help artists transform even the most ambitious creative visions into reality for both less time and lower cost without sacrificing quality.
+
+
+
+New and enhanced features:
+
+Python callback for access to and modification of the translated V-Ray scene before rendering â€“ this powerful feature allows you to directly modify the V-Ray scene before rendering to fit V-Ray seamlessly into your production pipeline; to access the full features of the V-Ray rendering engine and its plugins, even if they are not exposed in the user interface; to add your own custom V-Ray plugins without the need to code Maya plugins and much more.
+ 
+Support for the Substance textures in Maya 2011.5 and Maya 2012 - use the new V-Ray 2.0 with the Substance textures in Maya 2011.5 and Maya 2012 to create a wide range of procedural shaders for your projects.
+ 
+V-Ray RT and V-Ray RT GPU - the new interactive technology running both on CPUs and GPUs speeds up the shading and lighting stages of your production. With the new V-Ray 2.0 you can take full advantage of our state of the art interactive renderer. It can also be used for fast off-line rendering with support for motion blur on both CPU and GPU, and displacement, subdivision surfaces, hair and fur on the CPU.
+ 
+Faster rendering of dynamic geometry (displacement, fur, proxies, hair etc) - new internal optimizations have led to even faster rendering of dynamic geometry like displacement, proxies, fur and hair etc.
+ 
+Faster rendering of render-time subdivision surfaces, VRayFur and Maya hair - the new improved core of V-Ray 2.0 can render VRayFur, Maya hair and render-time subdivision surfaces much faster.
+ 
+VRayCarPaint material - create realistic car paint shaders complete with \\\\\\\"Base\\\\\\\", \\\\\\\"Flakes\\\\\\\" and \\\\\\\"Coat\\\\\\\" layers. Full mapping support allows for amazing flexibility and a wide range of effects.
+ 
+VRayToon shader - add amazing cartoon-like feeling to your renderings.
+ 
+Support for dispersion in refractions for VRayMtl - this option uses the new capabilities for wavelength-dependent raytracing of the V-Ray core and allows you to create stunning close ups of refractive objects with caustics that dazzle the eye.
+ 
+Automatic support for both Mari- and Mudbox-style tiled textures - V-Ray 2.0 can automatically load the correct texture bitmaps depending on the UV tiles of the rendered object.
+ 
+PTex textures - with V-Ray 2.0 you can stop worrying about UV coordinates and use PTex textures instead. This state of the art technology allows the artist to be absolutely free in his or her creative process and skip the boring UV unwrapping.
+ 
+Lens distortion through Nuke displacement maps - the VRayPhysicalCamera can use displacement maps from Nuke to completely mach the distortion of your real cameras.
+ 
+Option to turn off camera motion blur - V-Ray 2.0 gives you a separate control to enable or disable the motion blur coming from the movement of the camera.
+ 
+Support for rendering of Maya fluids - the new V-Ray 2.0 recognizes and renders Maya fluids directly, with full support for GI and light scattering inside the volume.
+ 
+Support for the Maya stereo camera in batch render mode - render your stereoscopic animations with V-Ray 2.0 and Maya batch render mode.
+ 
+The ply2vrmesh tool can convert RealFlow .bin files to .vrmesh files - with the new version of the ply2mesh tool V-Ray 2.0 users can render very large RealFlow simulations as VRayProxy objects with significantly improved memory efficiency.
+ 
+Extended irradiance map viewer tool â€“ allows the incremental merge of irradiance map files to avoid redundant information; preview of light cache files; manual deletion of unwanted samples, and usage of OpenGL display lists for more interactivity.
+ 
+Img2tiledexr tool for mass conversion of many common image formats to tiled OpenEXR files.
+ 
+Output of multi-channel scanline OpenEXR files with data-window - removes the need to manually convert the multichannel OpenEXR files produced by V-Ray to scanline-based OpenEXR files for efficient processing by compositing applications.
+ 
+Shutter efficiency for motion blur â€“ render more realistic motion blur with manual control over the camera shutter efficiency.
+ 
+and many other fixes and improvements...
+V-Ray for Maya Key Features:
+
+Core Architecture
+
+Multi-platform object-oriented API
+ 
+Fully multithreaded core
+ 
+Unified sampling system based on Schlick sampling
+ 
+Distributed rendering
+ 
+Efficient shading system specifically optimized for raytracing
+ 
+Modular architecture - many components of the system can be replaced with custom ones
+
+
+
+Geometry
+
+Efficient geometry handling
+
+True instance rendering
+
+On-demand dynamic geometry creation (.vrmesh files, converter for .OBJ, .PLY, .GEO files included)
+
+On-demand geometry loading from disk files
+
+Displacement mapping
+
+Catmull-Clark and Loop subdivision surfaces
+
+Extensible with custom geometric primitives through the V-Ray SDK
+
+Particle rendering & particle instancer
+
+
+
+ 
+
+Image Sampling
+
+Three different image sampling methods
+
+Full-scene anti-aliasing
+
+Progressive path tracing
+
+Support for additional render elements (diffuse, reflection, GI, etc)
+
+Advanced color (tone) mapping controls
+
+Extensible with custom image samplers through the V-Ray SDK
+
+
+
+
+Illumination
+
+Physically accurate full global illumination solutions
+
+Different GI algorithms: path tracing, irradiance cache, photon maps, light cache
+
+Reusable GI solutions for accelerated rendering of walk-through animations and animations with dynamic objects
+
+Physically accurate area lights
+
+Efficient illumination from HDR environments
+
+Procedural sun & sky models
+
+Extensible with custom lights through the V-Ray SDK
+
+
+Shaders
+
+Physically plausible materials
+
+Blurry reflections/refractions
+
+Accurate hilights
+
+Set of fast Sub-surface scattering shaders
+
+Support for efficient material layering
+
+Extensible with custom shaders through the V-Ray SDK
+
+
+Camera Effects
+
+Depth-of-field with bokeh effects
+
+Accurate motion blur
+
+Physical camera model
+
+Extensible with custom cameras through the V-Ray SDK
+
+
+Extras
+
+Extended matte/shadow capabilities
+
+Texture baking of any render element (GI, lighting, etc)
+
+
+Image by Enrico Cerica
+
+Frame buffer
+
+V-Ray specific frame buffer with integrated color corrections and display of multiple rendering elements
+
+Direct rendering to disk for extremely large images, either as OpenEXR files or as .vrimg files
+
+
+
+
+Integration with Maya
+
+All features accessible from within Maya (no external applications required) Standalone version included (10 licenses)
+
+Support for many of the standard Maya shaders, lights, materials, procedural and utility textures

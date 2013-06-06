@@ -1,0 +1,73 @@
+Book Description
+
+A collection of tips, tricks, and hacks to help MongoDB developers get the most out of the software. The tips cover everything from application design to data safety and monitoring.
+
+Table of Contents
+
+Chapter 1 Application Design Tips
+Tip #1: Duplicate data for speed, reference data for integrity
+Tip #2: Normalize if you need to future-proof data
+Tip #3: Try to fetch data in a single query
+Tip #4: Embed dependent fields
+Tip #5: Embed â€œpoint-in-timeâ€ data
+Tip #6: Do not embed fields that have unbound growth
+Tip #7: Pre-populate anything you can
+Tip #8: Preallocate space, whenever possible
+Tip #9: Store embedded information in arrays for anonymous access
+Tip #10: Design documents to be self-sufficient
+Tip #11: Prefer $-operators to JavaScript
+Tip #12: Compute aggregations as you go
+Tip #13: Write code to handle data integrity issues
+
+Chapter 2 Implementation Tips
+Tip #14: Use the correct types
+Tip #15: Override _id when you have your own simple, unique id
+Tip #16: Avoid using a document for _id
+Tip #17: Do not use database references
+Tip #18: Don't use GridFS for small binary data
+Tip #19: Handle â€œseamlessâ€ failover
+Tip #20: Handle replica set failure and failover
+
+Chapter 3 Optimization Tips
+Tip #21: Minimize disk access
+Tip #22: Use indexes to do more with less memory
+Tip #23: Don't always use an index
+Tip #24: Create indexes that cover your queries
+Tip #25: Use compound indexes to make multiple queries fast
+Tip #26: Create hierarchical documents for faster scans
+Tip #27: AND-queries should match as little as possible as fast as possible
+Tip #28: OR-queries should match as much as possible as soon as possible
+
+Chapter 4 Data Safety and Consistency
+Tip #29: Write to the journal for single server, replicas for multiserver
+Tip #30: Always use replication, journaling, or both
+Tip #31: Do not depend on repair to recover data
+Tip #32: Understand getlasterror
+Tip #33: Always use safe writes in development
+Tip #34: Use w with replication
+Tip #35: Always use wtimeout with w
+Tip #36: Donâ€™t use fsync on every write
+Tip #37: Start up normally after a crash
+Tip #38: Take instant-in-time backups of durable servers
+
+Chapter 5 Administration Tips
+Tip #39: Manually clean up your chunks collections
+Tip #40: Compact databases with repair
+Tip #41: Don't change the number of votes for members of a replica set
+Tip #42: Replica sets can be reconfigured without a master up
+Tip #43: â€“shardsvr and â€“configsvr arenâ€™t required
+Tip #44: Only use â€“notablescan in development
+Tip #45: Learn some JavaScript
+Tip #46: Manage all of your servers and databases from one shell
+Tip #47: Get â€œhelpâ€ for any function
+Tip #48: Create startup files
+Tip #49: Add your own functions
+Tip #50: Use a single connection to read your own writes
+Book Details
+
+    * Paperback: 66 pages
+    * Publisher: O'Reilly Media (April 2011)
+    * Language: English
+    * ISBN-10: 1449304613
+    * ISBN-13: 978-1449304614
+    * File Size: 1,2 MB (1236020 bytes)

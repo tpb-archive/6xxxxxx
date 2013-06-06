@@ -1,0 +1,12 @@
+User Type,Username,Date,Text
+,questar,2012-01-25T18:29Z,"A note about installation. My computer had Fedora 16 installed on the hard disk drive when I first tried to use these disks to reinstall Windows 7. The installer gave me an error code ""F3-FF00-0026"". The installer has a ""Wipe the disk clean"" option but it also gave me an error code. I booted from a Knoppix CD and used the ""dd"" command as follows:
+
+# dd if=/dev/zero of=/dev/sda bs=1k count=1k
+
+This zeroed out the hard disk drive's partition table. Then the Toshiba restore disks worked fine.
+
+If you don't want to use Knoppix then the Ultimate Boot CD:
+
+http://www.ultimatebootcd.com/
+
+has several manufacturers' hard disk drive tools on it. Most of these tools have an option to zero out the partition table or the entire drive."

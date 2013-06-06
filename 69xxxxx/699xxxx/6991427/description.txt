@@ -1,0 +1,33 @@
+.
+
+Skype 1.5.0.80 ub FOR G3 ONLY
+
+FOR G3 OWNERS ONLY - FOR G3 OWNERS ONLY - FOR G3 OWNERS ONLY
+
+
+MINIMUM REQUIREMENTS
+
+PPC G3
+Mac OS X 10.4 (maybe it works on 10.3)
+
+
+
+HOW TO INSTALL
+
+1. Delete the files and folders of your previous version.
+
+/Applications/Skype/Skype.app
+/Users/YOUR_USER/Library/Application Support/Skype
+/Users/YOUR_USER/Library/Caches/Skype
+/Users/YOUR_USER/Library/Preferences/com.skype.skype.plist
+
+2. Unzip and drag this version to your Applications folder.
+
+3. Enjoy!
+
+
+HOW I DID THIS VERSION
+
+I edited two .plist files inside the app to make the Skype server believe this is the Skype version 2.8.0.722.
+
+.

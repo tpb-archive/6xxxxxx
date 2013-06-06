@@ -1,0 +1,29 @@
+                                 ___ _          _     _                       
+  /\/\   ___ _ __ _ __ _   _    / __\ |__  _ __(_)___| |_ _ __ ___   __ _ ___ 
+ /    \ / _ \ '__| '__| | | |  / /  | '_ \| '__| / __| __| '_ ` _ \ / _` / __|
+/ /\/\ \  __/ |  | |  | |_| | / /___| | | | |  | \__ \ |_| | | | | | (_| \__ \
+\/    \/\___|_|  |_|   \__, | \____/|_| |_|_|  |_|___/\__|_| |_| |_|\__,_|___/
+                       |___/                                                  
+
+*****************************************************************************
+
+
+Fuzzing is often described as a "black box" software testing technique. It works by automatically feeding a program multiple input iterations in an attempt to trigger an internal error indicative of a bug, and potentially crash it. Such program errors and crashes are indicative of the existence of a security vulnerability, which can later be researched and fixed.
+
+Fuzz testing is now making a transition from a hacker-grown tool to a commercial-grade product. There are many different types of applications that can be fuzzed, many different ways they can be fuzzed, and a variety of different problems that can be uncovered. There are also problems that arise during fuzzing; when is enough enough? These issues and many others are fully explored.
+
+. Learn How Fuzzing Finds Vulnerabilities
+Eliminate buffer overflows, format strings and other potential flaws
+. Find Coverage of Available Fuzzing Tools
+Complete coverage of open source and commercial tools and their uses
+. Build Your Own Fuzzer
+Automate the process of vulnerability research by building your own tools
+. Understand How Fuzzing Works within the Development Process
+Learn how fuzzing serves as a quality assurance tool for your own and third-party software
+
+
+# Paperback: 210 pages
+# Publisher: Syngress; 1 edition (December 28, 2007)
+# Language: English
+# ISBN-10: 1597491950
+# ISBN-13: 978-1597491952

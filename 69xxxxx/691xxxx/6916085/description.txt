@@ -1,0 +1,53 @@
+A collection of best icon themes,GNOME-shell themes,GTK 3.x themes and x11
+cursor themes available on the web. I got these from http://gnome-look.org.
+
+The credit goes to the original developers of these themes.
+
+I've included some screens separately in torrent file if you want 
+to check them out...
+
+Tips for installing themes
+===========================
+
+1.   Extract the file.
+
+2.a. To make the themes available to all users,
+          - Start nautilus as root.
+          - Copy contents of 'icons' folder to /usr/share/icons
+          - Copy contents of 'themes' folder to /usr/share/themes
+
+2.b. Or you can create '.themes' and '.icons' in your home directory and 
+     copy contents of corresponding folders.
+
+3.   You'll need Gnome-Tweak Tool for changing themes...
+     Run in terminal.
+
+       sudo add-apt-repository ppa:ricotz/testing
+       sudo add-apt-repository ppa:gnome3-team/gnome3
+
+     Install gnome-tweak-settings by..
+     
+       sudo apt-get update
+       sudo apt-get install gnome-tweak-tool
+       sudo apt-get install gnome-shell-extensions-user-theme
+
+
+4.   Run the Gnome Tweak Tool
+       
+       gnome-tweak-tool
+
+5.   Configure Gnome Tweak Tool
+     
+     In "Shell Extensions" enable "User Themes Extension"
+     Now you can change everything  under "Theme" section
+
+6.   Refresh the desktop by..
+     Press Alt-f2
+     Type r
+     Press return.
+
+This is my first torrent @TPB, comment if anything is wrong.
+
+i'll be seeding this from 02.00 IST to 08.00 IST
+
+Pls seed this torrent as long as you can...

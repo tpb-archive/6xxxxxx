@@ -1,0 +1,58 @@
+Official Web Site:  http://blog.iphone-dev.org/
+
+The iPhone Dev-Team has updated RedSn0w for iOS 5.0.1 and added some new useful features.
+
+What\'s New::
+
+* native support for 5.0.1 (no need to point redsn0w at 5.0 IPSW or use
+  command-line args). Support automatically extends to all of redsn0w\'s
+  various functions: \"Jailbreak\", \"Just boot\", \"Fetch blobs\", \"Stitch
+  blobs\", \"Recovery Fix\"
+
+* iBooks fixed in 5.0 and 5.0.1. This is a targeted fix that doesn\'t remove
+  entire sandbox mechanism. 5.x users already using redsn0w \"Just
+  Boot\" can just use the new version without redoing entire jailbreak
+  again
+
+* 3GS old-bootrom owners can now create custom IPSWs without
+  blobs
+
+* ultrasn0w compatability update (i.e. same baseband requirements) for
+  5.0.1 will be available on Cydia Monday
+
+* support for newer 8GB iPhone4 (which until now had problems with
+  \"Fetch blobs\"). Thanks to @JKjeepnJeff for loaning us one of these
+  newer i4 units for testing!
+* allows Windows users (not just OS X users) to use the \"Custom\"
+  button to create IPSWs without baseband updates
+
+* accommodates APTickets in 5.x (until next Apple countermove).
+  APTickets are crypto-verified before submitting to Cydia, just like the
+  main blobs. Cydia server support for sending back the APTickets is
+  upcoming. For now, use stitched IPSWs for 5.x. Due to APTickets,
+  stitched 5.x IPSWs now require user to start in \"Pwned DFU\" mode
+
+* Support added for stitching 4.x blobs to iPad2-GSM IPSWs. Similar
+  to @notcom\'s TinyCFW but doesn\'t require lots of RAM or a TSS
+ -assisted restore. Won\'t work for iPad2 5.x blobs (or iPhone4S at all)
+  until a bootrom-level exploit is out
+
+* top line now shows whether (and where) a redsn0w update is
+  available, or if the version being run is the latest. Uses DNS TXT
+  record to alleviate any concerns about snooping
+
+* no 5.1 beta support at this time (major apps like Cydia are not yet
+  compatible)
+
+* @pod2g has been doing a great job porting his 5.x untetherâ€¦check his
+  blog for updates!
+
+* Owners of newer 3GS iPhones must not flash the iPad baseband. The
+  iPad baseband will not work on 3GS iPhones built later than 2011
+  week 35.
+
+System Requirements:
+
+Intel Mac, OS X.5 or greater
+
+--- PLEASE SEED ---

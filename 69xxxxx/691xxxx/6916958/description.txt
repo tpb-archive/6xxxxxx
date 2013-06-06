@@ -1,0 +1,105 @@
+Marathi Indic IME 1 Version 5.0
+
+
+
+
+Introduction 
+System Requirements 
+Release Notes
+Installation Notes
+	For Windows 2000
+	For Windows XP
+Installation
+Adding Input Locale 
+How to Use Indic IME
+Keyboards 
+Known problems
+
+Introduction 										
+Indic IME gives a very convenient way of entering text in Marathi using the English QWERT keyboard in any Office XP application, wordpad and notepad on Windows 2000/ Windows XP platform.
+Top
+
+
+System Requirement
+Office XP on Windows XP or
+Office 2003 on Windows XP
+Top
+
+Release Notes
+Release Date: 04-04-2005
+Setup File Name: Marathi Setup.exe
+IME File Name: mawebd502.ime
+IME File Version: 5.0.0.2
+
+Modifications and Enhanced Features:
+1. In Akruti Typewriter Shift + 9 changed to Half TRA(REL Date:04-04-2005)
+2. Added support in Akruti keyboard â€œCandra E + Anuswar = CANDRA BINDIâ€ (REL DATE: 04-04-2005)
+																							Top
+
+Installation Notes for Windows 2000
+
+IMEs cannot be installed or upgraded on a system that doesn't already support IMEs in the same language that you are installing. To enable Indic IME, go to control panel - > regional option and check Indic in "Setting for the system" and insert Win 2K CD in your CD-ROM drive.
+
+
+Top
+
+
+
+Installation Notes for Windows XP (Whistler)
+
+IMEs cannot be installed or upgraded on a system that doesn't already support IMEs in the same language that you are installing. To enable Indic IME, go to control panel - > regional and Language. Select Language Tab, and check the option â€œInstall files for complex scripts and left-to-right language and insert Win XP CD in your CD-ROM drive.
+
+
+Top
+
+
+
+Installation
+1.	Run Marathi Setup.exe and follow the instructions in the setup program. 
+2.	Reboot your system.
+Top
+
+
+Adding Input Locale  
+
+1.  Open Text Services in Control Panel. 
+2.	Select Keyboard under MA in Installed Services.  Click Add. 
+3.	Select Marathi in Input Language, check Keyboard Layout /IME box. And Select Marathi Indic IME 1[V5.0].
+            
+
+4.	Click OK.
+Top
+
+
+How to Use Indic IME:
+1.	After installing Indic IME start any Office application, WordPad or Notepad. 
+2.	Click the Language Indicator located in the System Tray on the right side of the Windows taskbar, and click to select â€œIndic IME 1â€ from the shortcut menu that appears. 
+3.	Start typing in Marathi.
+
+ 
+Top
+
+
+Keyboards 
+Indic IME provides support for six types of keyboard: 
+â€¢	Marathi Transliteration â€“ Using phonetic typing, the user can type his message in Roman using the Standard English keyboard, which is transliterated on-the-fly to Marathi. It works on the logic of phonetics and is most effective when you spell the word the way it is spoken.
+â€¢	Marathi Remington- Marathi Remington is usual Remington Marathi typewriter Typing can be done as per the key mapping of the Remington keyboard.
+â€¢	Marathi Typewriter- Marathi keyboard used in typing. Typing can be done as per the key mapping of Marathi typewriter keyboard.
+â€¢	Inscript Keyboard- Marathi Keyboard where the user types the basic characters in sequence and an underlying logic determines that which of these characters have to be combined and substituted to form a glyph.
+â€¢	Webdunia Keyboard- Marathi keyboard used in typing. Typing can be done as per the key mapping of Webdunia Keyboard.
+â€¢	Anglo Nagari Keyboard- Another Marathi keyboard used in typing. Typing can be done as per the key mapping of Anglo Nagri Keyboard.
+Top
+
+
+Known problems:
+1.	In Excel, text is not displayed until space, enter or tab is pressed.
+2.	When customized word list window is closed, a small window remains on screen.
+3.	If text is typed very fast, Front page, Microsoft Outlook (HTML compose) crashes.
+4.	Randomly crashes in Excel. 
+5.	Performs relatively slow in Front page, HTML mail in Outlook. 
+6.	While switching to English Keyboard or any other IME, last typed word is lost if not committed. 
+7.	In Front Page and Microsoft Outlook (HTML compose), Enter has to be pressed twice to get new line.
+8.	If arrow keys, Pg Up, Pg down etc. keys are pressed without committing text (i.e without pressing space, enter or tab), each key needs to be pressed twice to get the effect. If text is committed, then these keys work smoothly.
+
+Top
+

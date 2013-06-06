@@ -1,0 +1,21 @@
+File Recovery Tips
+File recovery utilities take advantage of the fact that the actions performed when emptying the Windows Recycle Bin are reversible.
+
+When a file is deleted, the operating system only changes the attribute of the space used by the file from an "occupied" status to an "available" status. The fileÂ´s information is hidden until it can be unlocked by a recovery utility. It is a good idea to avoid writing files to the affected drive partition to steer clear of writing over data that you wish to recover. Learn more>>
+
+After booting from the CD/DVD you will see a Windows environment with Networking, so you can either just recover your data (copy files to a USB drive or Network drive). Many other useful utilities are included besides data recovery utility: Web Browser, File Manager, Terminal Client, Partition Manager, Task Manager, Command Prompt, etc...
+
+ 	
+Cases for Active@ File Recovery usage:
+
+Recover deleted files and folders from an emptied recycle bin
+Recover files deleted as a result of bypassing the Recycle Bin (for example when using [Shift]+[Delete])
+Data recovery when the hard drive disks are damaged (or disks have bad sectors)
+Data recovery after disk partitions loss / format / damage
+Files that have been lost by formatting, damaged by virus attack, a malicious program, or a power failure
+Photos, pictures deleted from flash media, or lost due to formatting a memory card
+
+
+Just run the setup and you're good to go!
+
+Have Fun, Say Thanks!

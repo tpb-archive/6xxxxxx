@@ -1,0 +1,15 @@
+*ip filter updater 0.4*
+
+If you've been using uTorrent to download for a while you may have found yourself receiving lots of wasted data.
+ 
+This is data that has been discarded after being deemed corrupt or invalid by uTorrent.
+
+This usually happens because Anti-P2P organizations are polluting P2P networks with fake peers, which send out fake or corrupt data in order to waste bandwidth 
+and slow down file transfers. 
+
+There is also a more serious side to this, once you've established a connection to one of these fake "peers", your IP has been logged and will most likely be sent to 
+the RIAA, MPAA or your ISP to inform them what you have been downloading.
+
+You can easily block these bad IP ranges in uTorrent by enabling the IP filter and using a simple script to update the IP block list each day.
+
+enjoy this and happy downloading :)

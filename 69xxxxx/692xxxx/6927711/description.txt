@@ -1,0 +1,150 @@
+Uploaded By CheckOutEr
+
+
+Full name:
+
+
+"Gameboid & Visual Boy Advance (Game Boy Advance Emulators) + Roms (Games) + Cheat
+
+Codes + Tutorials + Instructions + Blackmart Alpha"
+
+
+Gameboid Description:
+
+GBA simulator GameBoid is nintendo GBA game emulator, 
+
+very strong and can perfect play a game play Android simulation game necessary, 
+
+not much introduces! The newest version, share G friends!
+
+GameBoid is the very famous GameBoy Advance emulator optimized for Android.
+
+    *BEST compatibility compared to any other GBA emulators running on mobile devices. And even more games are being supported with each update.
+    
+    *Run usually at full speed with sound, on most models of Android devices available on the market.
+    
+    *Customizable on-screen translucent keypad.
+    
+    *Save/load game states at ANY point!
+    
+    *In-game battery save.
+    
+    *Cheats.
+    
+    *Fast-forward (turbo).
+    
+    *Switching between multiple key profiles.
+
+
+Visual Boy Advance Description: 
+
+VisualBoyAdvance (VBA) is an emulator for Nintendoâ€™s Game Boy, Color and Advance, handheld game consoles. VBA now has versions for Windows, Linux and Mac.
+Background of VBA
+In 2004, Forgotten created the original VBA emulator. At the time, VBA was being released through vba.ngemu.com. Following the initial release, the project was handed over to the VBA team.
+
+Development of the original VBA ceased in 2004 with the release of 1.8 beta 3. However, the project continued through various developers aiming to improve VBA but not united in their efforts to do so. These â€œforkedâ€ versions improved on the original VBA but needed focus and unity to capture all the different improvements being accomplished.
+The Rise of VBA-M
+The Rise of VBA-M In an effort to bring some cohesion to the multiplicity of releases, a version named VBA-M was created. VBA-M is now in active development, with updates as current as November 2009.
+
+In addition to the DirectX version for the Windows platform, there is also one based on SDL, the free, platform-independent, graphics library. VBA is available for a variety of operating systems, such as Linux, BSD, Mac OS X, Xbox, and BeOS. VisualBoyAdvance has also been ported to GameCube and Wii.
+
+As of 2009, VisualBoyAdvance is widely considered the most popular emulator for Windows. Check out the following locations if you are interested in joining the project or downloading the newest releases:
+
+
+Project Discussion: http://forums.ngemu.com/vba-m-discussion/
+Project Development: http://vba-m.com
+Project Hosting on Google Code: http://code.google.com/p/visualboyadvance-m/ 
+
+
+VisualBoy Advance
+
+Overview:
+
+
+The VisualBoy Advance is a program used to Emulate Gameboy Advance games. 
+
+It has the ability to save games at any point in the game, just pressing Shift + F1 to F10 will save your progress. 
+
+To load, simply press the F key that corresponds to the Shift + F key you used to save. 
+
+You can also set a key to accelerate the game and you can take screen shots from the game. 
+
+It's relatively easy to use and is one of the best emulators for Gameboy Advance because of its large feature set.
+
+
+Games it emulates:
+
+
+The extension used by Visual Boy Advance is .gba, but it can also play .gb and .gbc extensions used for Gameboy and 
+
+Gameboy Color respectively.
+
+
+
+GBA BIOS FAQ
+
+The GBA BIOS is probably the least understood feature of the Gameboy Advance. Even though BIOSes are known to be used in PCs for many years, the expression often causes total confusion among GBA programmers. This document tries to explain all important facts. The document is called "FAQ" assuming that many people should frequently ask such questions - this assumption appears to be incorrect. The text is covering both very basic questions, as well as detailed technical information, and instructions on how to copy the BIOS into a ROM-image.
+
+Note: You may skip over the first box if you are not a complete idiot or newbie.
+
+
+What is a BIOS?
+BIOS - that is the shortcut for Basic Input/Output System - B, I, O, S - that's there the name comes from!
+Most computers have a BIOS in ROM (Read Only Memory), or in Flash ROM. Unlike for CD ROMs and cartridges, this memory is built-in, and it cannot be removed from the computer. The computer also haves other built-in memory: RAM.
+But, RAM does 'forget' its content when the computer is switched off. Only ROM can memorize data and program code even when it is off! In fact, a BIOS ROM really contains such program code, and never forgets it! The program code is used to boot the computer every time when it is switched on.
+What does that mean? It means that it initializes the computer, and, after initialization it will usually search for attached disk drives or cartridges, and then tries to load the actual operating system (Windows is an example) or, in case of gaming consoles, it loads a game (for example: Super Mario!).
+But that is not all. Many BIOSes also include functions which can be used to Input/Output data to or from the hardware! The operating system and games can use these functions to access the hardware, for example, to write text on the screen, or even to read or write data from any attached disk drives!
+
+What is the GBA BIOS?
+The gameboy advance includes a small BIOS ROM (built-in in its CPU), the program code in this ROM is used for three purposes:
+The Intro Sequence. Displays the Gameboy logo and Nintendo logo each time when the GBA is switched on.
+
+The SWI Functions. Maths, initialization, decompression, and other functions, which can be used by GBA software.
+
+Multiboot Function. Allows to boot the GBA from other computers or consoles even if no cartridge is inserted.
+
+The original BIOS code is copyrighted by Nintendo, and, for that reason, not included in the no$gba package.
+Note on Intro sequence: Of course, unlike real hardware, no$gba is not bound to the execution of this nag screen, and allows to start the game cartridge directly. This is particulary useful for programmers whom are probably testing new builts of their programs many-many times per day.
+This fast boot mechanism can be used also for single-gamepak software.
+
+How does no$gba emulate the BIOS without original ROM?
+No$gba includes some sort of a BIOS 'clone'. This program code is written directly in 80X86 language (NB, that causes less CPU overload as when emulating ARM opcodes). These 'simulated' functions are providing exactly the same return values as the real BIOS, including for undocumented and 'undefined' return values, and are fully compatible with most or all existing GBA software.
+Drawbacks
+The 'cloned' functions are not providing the same execution time as the opcodes which used in the 'real' functions. However, exact timing accuracy is normally not so important (except for emulation of unstable program code).
+The 'cloned' functions do not include sound functions - these are required only for games that are using Nintendos sound driver.
+For best timing accuracy (if using any BIOS functions at all), or for support of the sound functions (if needed) you can install a copy of the original BIOS in your no$gba folder. See below for more info.
+
+How to get a copy of the original BIOS?
+There are a number of ways - which are unfortunately far too complicated for normal people! There are most likely only a mere handful of skilled programmers living on this planet whom might be able to solve that problem.
+Fortunately, you do not really need the original stuff because the no$gba 'clone' BIOS should work with all GBA software. If it doesn't: 1) Please let me know of it! 2) Check if your program is doing any strange/unstable things 3) Let me know about it anyways (even if you did solve the problem, I would still like to know about it, and try to find a workaround, so that it cannot trouble you or other people in future).
+
+Okay, but how are that magic ways to get the copy?
+You really want to know? If you aren't afraid of expression like soldering, copy protections, and pseudo code examples, read on...
+Method 1 - Xboo Package
+The nocash xboo package (download here) includes ready-for-use software for downloading the BIOS from GBA to PC. It also includes instructions on how to built a cable connection between GBA link port and PC parallel port, the circuit is relative simple: You need only a handful of wires (plus plugs, unless you'd connect the cables directly to the mainboard). Anyways, that means soldering and dealing with hardware, and is probably not suitable for software guys. And, of course, it may take up 1-2 hours of your time, even if you have wires and soldering iron at hand.
+Method 2 - Custom Solutions
+If you do already have a working cable connection between PC and GBA then you could write a transmit procedure at the GBA side, and a receive procedure at the PC side - this could be implemented only by software experts - or by people whom already own software for that purpose (for example, some hardware debuggers may include a memory transfer function).
+But not enough, the GBA includes a copy-protection, this can be bypassed by following pseudo code formula; used to read one byte (x) from address (y), the address range is 0..3FFFh (16KBytes); you could use it, for example, to write a program that copies all bytes into Work RAM, and then transfer that memory to PC:
+
+x = (MidiKey2Freq(y-(((y AND 3)+1)OR 3), 168, 0) * 2) SHR 24
+
+Explained: The read-protection does not allow the user program to read BIOS memory by LDR opcodes. The BIOS CpuSet and CpuFastSet memory copy functions could theoretically read from BIOS memory, however, these functions verify if the source address is in BIOS area and will silently reject the transfer. The MidiKey2Freq BIOS function (SWI 1FH, incoming parameters in r0,r1,r2, return value in r0) does not include such verification. It is normally intended to read a MidiKey value from memory, and to convert it into a frequence value. The above formula undoes this conversion and returns the original memory value. This mechanism was discoverd by DarkFader, which is cool, his description was kinda dull though, but anyways: thanks!
+Method 3 - Internet
+If you think of downloading an existing copy from the internet: The good news is that there are actually a couple of sites allowing to download GBA BIOS ROM-images. That bad news is that most or all of these ROM-images are not identical to the ROM used in real GBAs. The files are somewhat similiar, containing the usual intro-sequence and so on, but they are not compatible with real GBAs, nor with real GBA software.
+(I don't know why people are spreading this invalid versions, nor where these files are coming from. Maybe dumps from older prototypes? Maybe japanese GBAs are using a slightly different BIOS version?)
+Anyways, even if the 'correct' version is available somewhere, the overloads of 'incorrect' versions are making it very difficult to find it. No$gba includes a checksum verification, and outputs a warning message when attempting to use an incorrect BIOS version which is not 1:1 identical to that one which is used in real GBAs.
+If you should really get the rom-image, then you can use it with no$gba by saving it in your no$gba folder (ie. the directory that contains your no$gba executable), save it as filename GBA.ROM or NO$GBA.ROM (either one works, but please do not use both names). Also, you can enable and disable use of the rom-image in setup (enabled by default; of course only if the file is present).
+
+When to use BIOS Functions?
+Your program may, or may not use the BIOS. You are certainly free to use your own program code instead of the built-in functions.
+The built-in functions may be treated as a nice gesture. For example, the division function is making it much easier to get started when dealing with numbers, and the availability of decompression functions is directing the user towards less careless use of memory resources.
+On the contrary, these rather inefficent functions may become contra-productive. For example, a program that relies on a large number of calculations would be strongly recommended to use its own maths functions, which are (hopefully) more optimized and would provide at least twice as fast execution time.
+
+
+Enjoy! :D
+
+
+***************************************************************
+**********http://www.thepiratebay.org/user/CheckOutEr**********
+***************************************************************	
+

@@ -1,0 +1,32 @@
+/*
+* Cobalt Alpha 102 Crack by 11111.11106^2
+*/
+
+-Instructions-
+1. Run the Cobalt installer.
+2. Copy launch.bat to the following folder:
+	C:\Games\Cobalt
+3. Run launch.bat
+
+-Optional Steps-
+1. Find your shortcut to Cobalt
+2. Right click it and select Properties
+3. Under the Shortcut tab change the Target to:
+	C:\Games\Cobalt\launch.bat
+4. Click OK
+5. Your shortcut should now launch the cracked version
+
+-FAQ-
+Q:
+	The game doesn't fit my resolution?
+A:
+	Open launch.bat and you should find two values titled -sw and -sh.
+	The numbers directly after these are the screen height and width.
+	Change them to what you need and then save your file.
+	
+Q:
+	How do I toggle fullscreen on and off?
+A:
+	Open launch.bat and you should find the value -f.
+	This is the fullscreen toggle. After it you should see =false or =true.
+	Change it to true to enable fullscreen or false to make it windowed.

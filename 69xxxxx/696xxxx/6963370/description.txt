@@ -1,0 +1,35 @@
+aTV Flash allows you to easily free your Apple Tv from its restrictions. This update:
+
+Added video zoom options (available through Playback Menu)
+Added watched indicators to grid view
+Added 'Recently Visited' section to Browser top shelf
+Added support for MicroDVD .SUB files
+Added screensaver during pause
+Added file delete option
+Added activity indicator for metadata clearing
+Added 'tune' icon placeholder for audio files without metadata
+Added episode number to the fetched name the list view
+Added Reload Metadata' option in contextual menu for folders
+Added 'no items' message to the 'Unwatched' filter of the list view
+Added gray ticket image caching
+Added loading screen when opening Manage Extras menu
+Improved scrubber bar logic
+Improved audio feedback for watched and pre-playback screens
+Improved poster loading for large folders
+Improved support for DVDs without menus
+Improved subtitle support for right-to-left languages (e.g. Hebrew)
+Improved installer device detection
+Resolved minor memory management issues
+Resolved issues with subtitles settings while playing a playlist
+Resolved issues with yellow subtitles displayed for movies converted with Handbrake
+Resolved conflicts with default audio player
+Resolved issues with passwords that contain @ symbols
+Resolved issues with metadata loading for files that contain '/' in folder or file name
+Resolved buffer overflow in libafpclient observed when navigating folders with long names
+Resolved issues with installer Bonjour detection
+Resolved rare crashes during web browsing
+Changed metadata format to S.# / Ep.# for TV Shows
+Disabled metadata processing during movie playback
+Corrected audio feedback when pressing Menu while in grid view
+Minor UI improvements
+Other miscellaneous bug fixes

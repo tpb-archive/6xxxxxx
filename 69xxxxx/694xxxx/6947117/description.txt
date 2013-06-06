@@ -1,0 +1,5 @@
+Monarchlinux is a another opensource project based on Archlinux which is aimed to create a more easily configurated linux platform than Archlinux Monarch have a uniqe applications like peynir and bilgin. Peynir is a suprapackage manager which used xml file as a suprapackage. Suprapackages are created as directive in archwiki. So you can say that peynir suprapackages are automatized steps in Archwiki. Another Monarchlinux application is Bilgin, a livecd configurator. Bilgin set up locale, and configure hardware(Vga card, broadcom wifi cards and bluetooth). It is also detect your chasis (Portable or desktop) and install laptop specific suprapackage. 
+http://sourceforge.net/projects/monarchlinux/files/iso/
+
+sha1sum : fa77bc2d32214c662a4a44182732e3e3f93968f4  MonArch_Linux-2012.01.09-netinstall-i686.iso
+md5sum : cef6eba343a56f26b808249753d692a0  MonArch_Linux-2012.01.09-netinstall-i686.iso

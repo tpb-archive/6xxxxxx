@@ -1,0 +1,51 @@
+User Type,Username,Date,Text
+,fcrulezz,2012-02-02T16:05Z,Seeds will probably be found with DHT.
+ : 175144527982425237333695869391548024417 (0x83C39BEE383567759EF49852257D8661)
+Complete name                  : .../Dream Theater - Live at Budokan.mkv
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 2.07 GiB
+Duration                       : 2h 56mn
+Overall bit rate               : 1 676 Kbps
+Encoded date                   : UTC 2012-01-28 07:13:29
+Writing application            : mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10
+Writing library                : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 5 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 2h 56mn
+Width                          : 720 pixels
+Height                         : 400 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Variable
+Frame rate                     : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Writing library                : x264 core 112
+Encoding settings              : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x113 / me=umh / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=29 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                       : English
+Color primaries                : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics       : BT.709-5, BT.1361
+Matrix coefficients            : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Duration                       : 2h 56mn
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Title                          : 2/0
+Language                       : English"

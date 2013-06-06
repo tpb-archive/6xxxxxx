@@ -1,0 +1,72 @@
+Source: Contagion.2011.1080p.BluRay.X264-AMIABLE
+
+IMDb:                  
+http://www.imdb.com/title/tt1598778/
+
+Poster:                  
+http://img209.imageshack.us/img209/6803/contagionhd.jpg
+
+Snaps:                  
+http://img692.imageshack.us/img692/5484/vlcsnap2011122311h27m51.png
+ 
+http://img269.imageshack.us/img269/9766/vlcsnap2011122311h27m29.png
+ 
+http://img215.imageshack.us/img215/2807/vlcsnap2011122311h27m24.png
+ 
+http://img4.imageshack.us/img4/4199/vlcsnap2011122311h26m37.png
+ 
+http://img3.imageshack.us/img3/9932/vlcsnap2011122311h26m32.png
+ 
+http://img809.imageshack.us/img809/9705/vlcsnap2011122311h26m12.png
+ 
+http://img155.imageshack.us/img155/4088/vlcsnap2011122311h28m20.png
+ 
+http://img546.imageshack.us/img546/9298/vlcsnap2011122311h28m01.png
+
+-------------------------------------------------------
+Designed for direct playback on Apple TV, iPad, iPhone & iPod Touch 4th gen, PS3, WDTV, Xbox360,Hour, VLC.
+
+Xbox360 with Fall 2011 dashboard update will require you to play the video through windows media center and also requires a windows 7 computer.  You will need to configure the 360 as an extender and share your movies to it.  Your videos will play fine through windows media center on the 360 now.
+
+The other work around to get your video to play via fat32 usb stick or streaming from windows media player would be to remux your video to a plain mp4 container.
+
+This can be accomplished using ffmpeg and the following command line:
+
+ffmpeg -i "my video.m4v" -acodec copy -vcodec copy "my video.mp4"
+
+Otherwise you can attempt to use MP4Box or yamb.  Do not re-encode the video and audio streams as they are fine.
+
+WDTV Live user update to at least 1.01.24 firmware.
+
+Apple TV 1st gen user update to 3.0.2 firmware. Use custom iTunes movie sync option "Automatically include the 10 most recent movies along with selected movies."
+
+Apple TV 2nd gen user if you receive Dolby Digital sound via TOSLINK then set Dolby Digital mode to ON setting.
+
+PS3 and WDTV user you may need to rename to .MP4 instead of .M4V
+
+--------------------------------------------------------
+
+Video technical specifications:
+
+Video:
+Codec: AVC via x264
+Profile: High@3.1
+Bitrate: 3072 Kbps
+FPS: 23.976
+Rate Control: 2 pass
+
+Audio 1:
+Codec: AAC Dolby Pro Logic II
+Bitrate: 160 Kbps
+
+Audio 2:
+Codec: Dolby Digital 5.1
+Bitrate: 384 Kbps
+(Apple TV 1st gen use TOSLINK to enable DD, or use WDTV Live, or PS3, or VLC on PC)
+
+Soft Subtitle:
+English
+
+--------------------------------------------------------
+
+-HR

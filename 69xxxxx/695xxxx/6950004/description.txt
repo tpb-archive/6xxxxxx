@@ -1,0 +1,34 @@
+Description
+Ninja OS is a live operating system designed for speed with an emphasis on media and web 2.0 tools. Based of Arch Linux, it features an easy to use but lightweight XFCE desktop. Complete zero-config system is lightning fast even on old machines.
+
+VERSION 0.5.2 IS OUT!
+Our speed goals(as timed on an intel atom dual core 1.6ghz and 1GB ram):
+30 seconds to desktop (met, 27 seconds)
+10 seconds to shutdown( met easy, around 5 seconds)
+check, closed to 100 mb of ram at desktop.
+We do our best to use free software. I think exceptions are non-free drivers and a few codecs with no free replacements.  
+http://sourceforge.net/projects/ninjaos/
+
+Its official!
+0.5.2 is now released. Mozy on over to the downloads page, or click on the sourceforge page to download it!
+
+Whats new:
+https-everywhere
+version updates, among other things kernel 3.1.8
+minor bug fixes and a few script updates.
+tor configuration tweaks
+
+xchat server list overhaul:
+Its been decided the xchat default sever list is so full of fail, defunct networks, no ssl by default, it needed to be replaced. So I re-wrote it from scratch. This meant verifiying most of the networks on the new list by hand.
+
+New metrics for xchat server list:
+1. search IRCâ€™s top list, 2000 or more users. This is around 20. If SSL is available its turned ON by default, and all non-ssl components removed.
+2. Some random smaller networks, chosen for availablity, ssl capabilities
+3. Some more 'targeted' networks than might be apealing to the same audience as NinjaOS in particular.
+4. Exceptions for rule 1 include non-general chat networks, like furchat and game only networks. which will NOT be included.
+
+In general, smaller networks with robust and underused capabilities, ssl and security will be selected. 
+http://ninjaos.cixx6.com/
+
+sha1sum : 4d31a077a7a51096cd463a25382407f230fcdd98  ninjaos_0.5.2.img
+md5sum : 61005a5bdc50828064e064b9b887ff7f  ninjaos_0.5.2.img

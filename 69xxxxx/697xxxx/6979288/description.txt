@@ -1,0 +1,76 @@
+Official Web Site:  http://www.charlessoft.com/
+
+There are more serials out there too and in Serial Box / KCNcrew as well.
+
+Pacifist is an application for Mac OS X that opens up .pkg installer packages, .dmg disk images, .zip, .tar. tar.gz, .tar.bz2, .pax, and .xar archives and more, and lets you extract or install individual files out of them. 
+
+This is useful if you need to install just one file out of a package instead of the entire package (for example, if you deleted your Preview application and need to reinstall it, but not the whole operating system), or if you want to inspect a downloaded package to see what it will do before installing it. 
+
+Pacifist can also load some archive types over HTTP, in case you want to extract just a single file from a large .zip archive without waiting for the entire archive to download. Finally, Pacifist can examine the kernel extensions installed in your system to let you see what installer installed them, and whether the installer was made by Apple or a third-party.
+
+What's New
+
+* Support for Mac OS X 10.7 (â€œLionâ€) and its packages
+
+* New â€œReceipt Searchâ€ feature lets you search through all receipts to
+  determine what package installed a particular file, and then extract that
+  file if the packages can be found. If the appropriate Software Update
+  packages containing the file can be found, they will also be used to
+  make sure the latest possible version is extracted. (Requires Mac OS X
+  10.5 or higher, 10.6 for the extraction feature)
+
+* New icon and main window design by Adam Betts
+
+* Improved documentation, which is now bundled inside the application
+  using Apple Help Viewer
+
+* Now runs as a 64-bit binary on Mac OS X 10.6 and higher
+
+* Now correctly preserves all extended attributes for extracted files
+  (requires Mac OS X 10.5 or higher)
+
+* Faster startup
+
+* Improved error reporting
+
+* Added an option to show hidden files in the open panel
+
+* Added the ability to save an archiveâ€™s file listing to a text file, or to
+  print it
+
+* Pacifist can now automatically open the enclosing directory after
+  extracting files
+
+* Added support for more flavors of .zip files
+
+* Fixed a bug that caused some .tar, .cpio, and .pax archives with
+  symbolic links in them not to load properly
+
+* Added the ability to extract subpackages from metapackage files,
+  instead of only their contents
+
+* Added the ability to list and open Software Update packages
+
+* Improved the QuickLook pluginâ€™s interface
+
+* Added support for some self-extracting zip files
+
+* Added ability to view versions for applications in package
+
+* Search results now have tooltips revealing their full paths
+
+* Interface improvements to the Kernel Extension Report feature
+
+* Verify panel now lists what files were found in addition to what files
+  were missing
+
+* Now supports automatic updates via Sparkle
+
+* More squashed bugs than a flyswatter factory
+
+System Requirements:
+
+UB, Mac OS X.4.11 or greater (Lion Compatible)
+
+--- PLEASE SEED ---
+

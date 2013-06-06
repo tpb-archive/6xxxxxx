@@ -1,0 +1,45 @@
+0 A.D. (pronounced "zero ey-dee") is a free, open-source, cross-platform real-time strategy (RTS) game of ancient warfare. In 
+
+short, it is a historically-based war/economy game that allows players to relive or rewrite the history of Western civilizations, 
+
+focusing on the years between 500 B.C. and 500 A.D. The project is highly ambitious, involving state-of-the-art 3D graphics, 
+
+detailed artwork, sound, and a flexible and powerful custom-built game engine.
+
+The game has been in development by Wildfire Games (WFG), a group of volunteer, hobbyist game developers, since 2001. The code and 
+
+data are available under the GPL license, and the art, sound and documentation are available under CC-BY-SA. In short, we consider 
+
+0 A.D. an an educational celebration of game development and ancient history.
+ 
+http://wildfiregames.com/0ad/
+***********************************************************************************
+Top new features in this release:
+* Bartering system: Buy and sell resources in exchange for other resources. Resources are traded at exchange rates that vary with 
+
+each deal. For example, to purchase 100 Food, the player may have to spend 100 points of another resource type (Wood, Stone, or 
+
+Ore). By the next deal, however, Food will become 1% more expensive. Over time, the exchange rate automatically gradually resets to 
+
+the default rate.
+* Saved game support: Single-player games can be saved and reloaded.
+* Multiplayer reconnection support: If you are disconnected when playing (by an unreliable internet connection, or perhaps by the 
+
+game crashing), you no longer have to abandon the match - you can simply connect to the server again, and it will launch you back 
+
+into the match in a few seconds.
+* 45Â° Field of View (FOV): The FOV was changed from 20 degrees to 45 degrees. This means the view of the camera was changed from a 
+
+nearly isometric angle to provide a deeper, more immersive look, which is standard in other 3D video games. You can see the 
+
+difference easily by toggling back and forth between these two screenshots: 20Â°, 45Â°.
+* AI improvements: The default AI engine is now qBot, kindly contributed by WFG programmer Jonathan Waller, also known as 
+
+quantumstate. qBot is still having trouble learning how to fend off attacks, but it runs a tight ship economically, and it can be 
+
+very sneaky militarily. In fact, qBot has been observed rushing a human opponent just a few minutes into the game.
+* An all-new and unique Persian civilization
+* Music and Sound: Several new tracks, all composed and directed by Omri Lahav. They feature live percussion, as well as a flute 
+
+segment by a professional musician (Thanks, Marta Mc'cave!).
+* New map: Zagros Mountains.

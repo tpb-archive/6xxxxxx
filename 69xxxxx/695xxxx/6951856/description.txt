@@ -1,0 +1,63 @@
+Gmax to 3dsMax Porting
+
+This is for every BATer of Sim City 4 who has some old Gmax models and wishes to port them to versions of 3ds Max.
+
+Inside you have all that is needed:
+
+- Read_Me_First.txt , where intallation instructions and procedure are explained;
+
+- Deep Exploration, a software needed for conversion (cracked and credited);
+
+- ExportMD3.dle, a file written for gmax.
+
+There is a keygen that may be detected as a trojan but it is a false positive.
+
+-----------------------------------------
+
+The read_Me_First goes as followed:
+
+--- Installation Process ----
+
+1- Install Deep Exploration:
+
+	- Run \'DeepExplorationPackaged-v5.0.4.1779-Setup.exe\';
+
+	- Check \'Deep Exploration 5\' and \'Deep Publish 5\' (not sure if required);
+
+	- Run the crack named \'XF-DeepExp5-KG.exe\';
+
+
+2- Install \'ExportMD3.dle\' in the Gmax folder at, C:\\gmax\\plugins
+
+
+
+--- Porting procedure ----
+
+NOTE: This process works ONLY FOR MODELS, meaning it will not port UV mapping, lighting or textures. Those have to be created in 3DS Max. Also it is advisable to have the model completely finished before porting as it will be difficult to edit it once in 3DS Max.
+
+
+1- Export the Gmax model as type \'Quake III (*.MD3)\' to a known location(File > Exportâ€¦);
+
+	- When asked set \'The Following Frames\' to \'0\' and press \'Export Now\'. If there are any pop-ups about the UV mapping just press \'OK\'
+
+
+2- Start Deep Exploration (Start > Programs > Right Hemisphere > Deep Exploration > Deep Exploration);
+
+	- Open the .MD3 file you\'ve created in step 1 (File > Openâ€¦);
+
+	- Press \'Line Illustration\' on the \'Display Toolbar\' (to activate this bar go to View > Controls and Toolbars > Display. It should be checked by default);
+
+	- Save your new file as type \'Autodesk 3D Studio (*.3ds)\' (File > Save asâ€¦);
+
+	
+3 - Start Autodesk 3ds Max;
+
+	- Import the .3ds file you\'ve created in step 2 (File > Importâ€¦);
+
+	- Completely replace current scene and check \'Convert units\';
+
+	- If any of the objects presents with a shadow-like surface select it; right-click > Convert toâ€¦ > Convert to Editable Poly; in the \'Modify\' tab, \'Selection\' roll-out press \'Polygon\'; Select all the polygons in the object; \'Polygon: Smoothing Groups\' roll-out press \'Auto Smooth\'.
+
+----------------------
+
+For a practical example, visit Simtropolis\' Aaron Graham\'s tutorial on YouTube named \'How Import Gmax Models In 3dsMax\', linked

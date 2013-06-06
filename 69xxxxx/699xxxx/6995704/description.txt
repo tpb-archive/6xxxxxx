@@ -1,0 +1,46 @@
+teknogods version 2.1
+multiplayer available 
+
+we only need servers now if someone know how to .....
+
+
+
+
+  Setup:
+------------------------------------------------------------------
+1. Copy TeknoMW3.exe, TeknoMW3.dll to your game folder.
+2. Run TeknoMW3.exe
+3. On first run select nickname and fov
+
+
+                  Usage for MP Direct Connect:
+------------------------------------------------------------------
+1. Press Multiplayer
+2. Enter Server IP and Port
+3. Press Start (Direct Connect)
+4. In game press F12 to connect.
+
+
+                        Usage for MP LAN:
+------------------------------------------------------------------
+1. Press Multiplayer
+2. Press Start (LAN Game)
+3. In game go to Options -&gt; Dedicated Server and Enable "Enable Server Browser"
+4. Go back to main menu -&gt; server browser -&gt; LAN tab
+5. Select some server
+5. Join the game (double click or click connect)
+
+
+                   Usage for Dedicated Server:
+------------------------------------------------------------------
+1. Edit your \players2\server.cfg (if needed)
+2. Press Multiplayer
+3. Enter server port of your choosing
+
+   NOTE!: The port must be availble, if you enter some used port
+          the server will start, but you wont be able to join.
+
+3. Press Start Dedicated Server
+4. Select map by using "map" command, for example map map_village
+   or start map rotation
+5. Tell clients to join

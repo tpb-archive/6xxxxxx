@@ -1,0 +1,8 @@
+R-Trees: Theory and Applications
+Manolopoulos, Y., Nanopoulos, A., Papadopoulos, A.N., Theodoridis, Y.
+
+Space support in databases poses new challenges in every part of a database management system & the capability of spatial support in the physical layer is considered very important. This has led to the design of spatial access methods to enable the effective & efficient management of spatial objects.
+
+R-trees have a simplicity of structure & together with their resemblance to the B-tree, allow developers to incorporate them easily into existing database management systems for the support of spatial query processing.
+
+This book provides an extensive survey of the R-tree evolution, studying the applicability of the structure & its variations to efficient query processing, accurate proposed cost models, & implementation issues like concurrency control and parallelism. Written for database researchers, designers & programmers as well as graduate students, this comprehensive monograph will be a welcome addition to the field.

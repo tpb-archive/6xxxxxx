@@ -1,0 +1,141 @@
+System Tunner Pro Full v1.4.4
+
+
+
+The most complete Android tuner and manager for all your phones and tablets!
+
+
+REQUIRES ANDROID: 1.5+
+
+Release Date : January 12, 2012
+
+Description
+
+The most complete Android system suite: monitor and record all activities, backup and restore *any* applications, extended task killer, CPU SD and memory controls, logcat reader, terminal emulator, widgets and notifications, all in one highly optimized app!
+Developed and tested on Galaxy Nexus, Galaxy S2, Iconia A500 and ASUS Transformer.
+By far the lowest consumption monitoring app! Check web-site for app consumption!
+
+WARNING: Requires WIFI, BT, PHONE and GPS permissions to record phone states. App checked with Privacy Inspector!
+
+You can add shortcuts to your home screen for any of the below features/screens!
+
+Task Manager: (can be set as main UI, see options)
+
+- Filter user/system/kernel processes and exclusion list
+- Shows cpu load/frequency, memory/internal/sd usage
+- Sort processes by cpu times, start time, memory or by name
+- Kill non manually excluded apps automatically
+- Shows detailed information about running apps and processes
+- Open app system settings
+- Read app logcat
+- Manually kill running apps
+
+Extended Task Killer
+
+- Kill non-excluded apps automatically or manually
+- Kill apps during screen-on, screen-off or when widget refreshes
+- Manually exclude or include apps
+- All system apps are excluded by default
+- Manually kill kernel processes (for rooted phones only)
+- Display memory details (RAM & internal)
+- Display SD details (internal & external SD)
+
+Application Manager (for rooted phones only):
+
+- Freeze/unfreeze apps (not for ICS - no app can do it)
+- Remove app from boot (not for ICS - no app can do it)
+- Backup/restore any apps, including system apps
+- Backup/restore any app settings
+- Uninstall any apps, including system apps
+- Launch and read app logcat
+- Display application data and cache usage
+- Sort application by name, data usage or cache usage
+- Move any apps to/from system/user space
+
+Activity Recorder:
+
+- Record (optionally at boot) activities in the background
+- Record all apps or all processes
+- Record phone states (screen, wifi, bluetooth, gps, mobile data, signal)
+- Import Battery Monitor Widget Pro data for detailed analysis!
+- Allows analyzing past recordings without limits
+
+Logcat Reader:
+
+- Display log(cat) for all/one process
+- Filter logcat by message levels
+- Filter logcat based on user-defined text
+- Save logcat to file
+- Clear existing logcat
+
+Terminal Emulator:
+
+- Keeps history of previously used Linux commands
+- Save output to file
+- Run commands as Super User (for rooted phones only)
+
+System Tweaker (for rooted phones only): 
+
+- Tweak SD cache size to boost performance
+- Tweak Android auto-kill memory settings
+- Tweak CPU governor + frequencies during screen-off, on-call
+- Tweak CPU voltage (when available on custom Kernel)
+- Optional OC/deamon disabler and uses Linux init.d script when available
+
+Notification & Widgets:
+
+- Show information (cpu, memory, SD) in notification bar or widgets
+- 1x1 and 2x1 widgets available
+- Notification icons are provided as external packages, many available for white/black notification backgrounds
+- Many different widget backgrounds: HTC Sense 2 or 3, Google, Glassy half or fully transparent.
+- Show cpu load, frequency, governor, free/used memory (flash/internal/sd), process count using text or 2 side levels.
+- Starts 2 different actions by clicking on the icon or label, including:
+
+* Start/stop recording process activity
+* Kill all non-excluded processes
+* Refresh
+* Start task manager
+* Open analyzer
+* Open app manager
+* Open settings
+
+TODOs: Still a lot, but getting there!
+
+- Multi-version backup/restore
+- Move app to/from SD
+- Graphic widgets and notifications
+- Setup wizard
+- All bug fixes
+
+KW: advanced task killer system panel backup restore record atk manager analysis logcat cpu memory sdcard sd su root auto kill governor frequency frequencies terminal analyzer apps android system tweak
+
+What's in this version
+
+1.4.4.1:
+- Fix FC loading logs when no logs have been saved!
+1.4.4:
+- New Transparent ICS and Glass Themes
+-Fix widget landscape mode
+1.4.3 - 1.3.8:
+- New general options, task manager font, temperature unit
+- New main/popup UI and option to select old/new
+- New support for HAVS and multicore UV
+- New excluded/included process flag
+- New backup scheduling (pro only)
+- New CPU frequency times screen
+- New logcat search/load buttons
+- New ICS widget background
+- New hi-res icon shortcuts
+
+Screenshots:
+ 
+http://imageshack.us/photo/my-images/577/systemtuner.jpg/ 
+http://imageshack.us/photo/my-images/854/001kfn.jpg/ 
+http://imageshack.us/photo/my-images/577/002ns.jpg/ 
+http://imageshack.us/photo/my-images/689/003sahe.jpg/ 
+http://imageshack.us/photo/my-images/80/004sp.jpg/ 
+http://imageshack.us/photo/my-images/805/005ld.jpg/ 
+http://imageshack.us/photo/my-images/403/006mzs.jpg/ 
+http://imageshack.us/photo/my-images/840/007xts.jpg/
+
+Enjoy and Please Seed :)

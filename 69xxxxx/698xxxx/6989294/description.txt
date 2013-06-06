@@ -1,0 +1,7 @@
+The real thing. Sure, it's old, but it is the actual source code, mostly in Assembly language, for Microsoft MS-DOS 6.0. I traced back some relevant magazine articles discussing this particular leak. It came from a company who licenses the source code legally in order to write a compatible operating system. Some higher level code is in C.
+
+Here is a sample from the contents of "command1.asm" that has comments about COMMAND.COM.
+
+DESCRIPTIVE NAME:    Default DOS command interpreter
+
+FUNCTION: This version of COMMAND is divided into three distinct parts.  First is the resident portion, which includes handlers for interrupts 23H (Cntrl-C), 24H (fatal error), and 2EH (command line execute); it also has code to test and, if necessary, reload the transient portion. Following the resident is the init code, which is overwritten after use.  Then comes the transient portion, which includes all command processing (whether internal or external).  The transient portion loads at the end of physical memory, and it may be overlayed by programs that need as much memory as possible. When the resident portion of command regains control from a user program, a check sum is performed on the transient portion to see if it must be reloaded.  Thus programs which do not need maximum memory will save the time required to reload COMMAND when they terminate.

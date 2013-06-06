@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,cagedream,2012-05-01T16:39Z,"thanks N715DP, that worked.
+
+so for those without lil snitch:
+
+access host file 
+on lion: sudo nano /etc/hosts
+sleopard: sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
+
+add the line:
+127.0.0.1 www.ecamm.com
+
+save and quit
+"

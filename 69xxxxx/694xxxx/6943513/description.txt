@@ -1,0 +1,59 @@
+First of all this is a beta release but it's pretty much stable.
+
+How to play Call Of Duty Black Ops online:
+
+[RUN EVERYTHING AS ADMINISTRATOR]
+
+1- copy alterops.exe and DBNetwork.IndigoSxS.dll to your game directory.
+
+2-open alterops.exe and login using your alteriw account.
+
+
+
+TROUBLE UPDATING THE GAME?
+ delete cachesSxS.xml on your black ops folder.
+
+then run the updater again and wait, it may not pop up right after you clicked because it may be updating itself.
+so be patient.
+
+OPTIONAL - register at(if you haven't already) in order to play the game.
+
+NICKNAME:
+your account's nickname will be your game nickname so choose wisely, you can also change it through
+console (use \ to bring it up) using the following command "/toggle name YourNameHere".
+
+
+UPDATES:
+go to alterops.net to further updates.
+
+
+INFO ABOUT SERVERS: 
+
+
+-DWKEY.DAT is used only if you want to set up a server, it's the online licence used by alterops 
+to certificate your own server.
+
+
+
+HOW TO HOST A SERVER [took from here:
+
+    Make sure you have BO and alterOps updated.
+    Request a key on http://alterops.net/
+    Press download dwkey.dat and save it to your BO folder
+    The key on the first line is sv_licensenum 0, so use that in your commandline
+    Run BlackOpsMP.exe +set dedicated 1 +set sv_licensenum 0 +exec server.cfg +map mp_nuked
+
+
+LOW FPS/ STRUTTERING this is mostly treyarch's devs fault but:
+
+-you can try some changings like
+turning on the "Shader Warming", which pre-chaches all the shaders so you get a less struttering,
+but you may get a increased loading time.
+
+-you can also turn off the shadows which may be the most gpu intensive feature.
+
+-and try to change the multithread use of the game, by going to Call of Duty - Black Ops\players\config_mp.cfg,
+and search for Â«seta r_multithreaded_device "0"Â» and set it to 1.
+
+
+credit goes to NTAuthority and the rest of aiw's team.

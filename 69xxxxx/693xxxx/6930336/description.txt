@@ -1,0 +1,21 @@
+Description
+Ninja OS is a live operating system designed for speed with an emphasis on media and web 2.0 tools. Based of Arch Linux, it features an easy to use but lightweight XFCE desktop. Complete zero-config system is lightning fast even on old machines.
+Our speed goals(as timed on an intel atom dual core 1.6ghz and 1GB ram): 30 seconds to desktop
+10 seconds to shutdown
+310MB of RAM used at idle desktop. 
+
+Features
+    * XFCE 4.8
+    * Firefox 9 + gnash
+    * Pitivi, audacity, gimp
+    * abiword, and xpdfview
+    * full gstreamer codec suite
+    * totem with firefox plugin
+    * pidigin, xchat, and claws mail
+    * much much much more! 
+http://sourceforge.net/projects/ninjaos/
+ 
+http://ninjaos.cixx6.com/
+
+sha1sum : a02af967b1b442577fef94d9ce1d12ae19ac9620  ninjaos_0.5.1.img
+md5sum : c3216eae3024ed287fb32a14fef220ba  ninjaos_0.5.1.img

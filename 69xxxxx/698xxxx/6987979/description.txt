@@ -1,0 +1,32 @@
+SAS ENTERPRISE GUIDE 4.1 (FUNCTIONAL TILL 2015!)
+
+
+Please pay attention to system requirements: http://support.sas.com/documentation/installcenter/eguide/4.1/sreq.pdf (sreq.pdf file is also enclosed in the archive)
+
+Try running the EG4.1 installer first. If you can successfully install EG4.1, then move on to Step 2. If not, proceed with Step 1.
+
+Step 1:
+Since there's no System Requirements Wizard I've collected all required system files in the subfolder "Required System Components" in the SloveniaX folder - assuming you're using at least WinXP, you will need .NET 1.1 (enclosed is the English version - dotnetfx.exe) and dlls (i.e. Visual C++ Redistributables Bundles) only. Install .NET Framework 1.1 (if you don't have it yet) and then copy the contents of the "copy to windows-system32 folder" to the well, windows\system32 folder (if you are prompted whether you want to overwrite the existing files, check their version numbers - I suppose the version numbers mentioned in the PDF document are the bare minimum - if you have more recent versions you'll be just fine and shouldn't overwrite the more recent versions with the ones provided here). If EG4.1 installer still doesn't want to start, this means some of the crucial dlls have never been registered - in this case, run all three Microsoft Runtime Components installers (i.e. the three setup.exe files) found in the "only if copying is not enough" folder. You should be able to install EG4.1 now...
+
+Step 2:
+Since EG4.1 stopped working in Dec 2010, run the appropriate hotfix (enclosed) which extends its expiration date till 2015. See: http://support.sas.com/kb/33/359.html and http://ftp.sas.com/techsup/download/hotfix/ent_guide41.html#033359
+
+Potential Step 3:
+You CAN use EG4.1 with SAS 9.2. See here: http://support.sas.com/rnd/migration/planning/software/entguide.html. Notice the following: "If you install SAS 9.2 and you continue to use SAS Enterprise Guide 4.1 and Add-In for Microsoft Office 2.1, you might experience an error due to conflicting DLLs. To fix the error, you must restore the SAS 9.1.3 versions of these DLLs." Also see: http://support.sas.com/kb/33/988.html. For your convenience I have enclosed the 9.1.3 versions of the two dlls in questions in case you run in such trouble so you can restore them very easily...
+
+Warning:
+All this was tested on 32-bit WinXP machine that had no base SAS (neither 9.2 nor 9.1.3) installed. Please bear this in mind. Modify the instructions accordingly if you will use this with a different version of Windows or on a 64 -bit machine and please just use common sense - you got it for free, so do your homework first and don't complain if something doesn't work, OK? Instead try to contribute something to the community...
+
+I've just collected the stuff I could find on the web - I'm not the original uploader... (found EG4.1 on some Russian tracker)
+
+Have fun and seed!
+
+
+___________________
+
+
+SAS ENTERPRISE GUIDE 3.0 (FUNCTIONAL TILL 2014!)
+
+In case you want to use the Enterprise Guide 3.0, download the "EnterpriseGuide.iso" file from this torrent: http://www.kat.ph/sas-9-1-3-with-sp4-jmp-7-statistical-discovery-and-e-books-t2701295.html. Then mount the iso file (or extract it) and run the setup. This version comes with the System Requirements Wizard, so it will do automatically everything for you. Since EG3.0 also has an expiration date and does not work anymore, install first the "30eg03wn" hotfix and ONLY THEN the "30eg05wn" hotfix (both enclosed in the SloveniaX folder). See this: http://support.sas.com/kb/33/359.html and
+
+Also, as above: http://support.sas.com/rnd/migration/planning/software/entguide.html

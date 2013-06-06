@@ -1,0 +1,223 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 18. November 2011, 21:39
+
+DRC Music / Kinshasa One Two
+
+Used drive : hp CDDVDW TS-L633M Adapter: 1 ID: 0
+
+Read mode : Secure
+Utilize accurate stream : Yes
+Defeat audio cache : Yes
+Make use of C2 pointers : No
+
+Read offset correction : 6
+Overread into Lead-In and Lead-Out : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations : Yes
+Used interface : Native Win32 interface for Win NT & 2000
+Gap handling : Appended to previous track
+
+Used output format : User Defined Encoder
+Selected bitrate : 768 kBit/s
+Quality : High
+Add ID3 tag : No
+Command line compressor : C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE
+Additional command line options : -6 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "COMMENT=%comment%" %hascover%--picture="%coverfile%"%hascover% %source% -o %dest%
+
+
+TOC of the extracted CD
+
+Track | Start | Length | Start sector | End sector
+---------------------------------------------------------
+1 | 0:00.00 | 4:48.13 | 0 | 21612
+2 | 4:48.13 | 3:51.70 | 21613 | 39007
+3 | 8:40.08 | 3:05.67 | 39008 | 52949
+4 | 11:46.00 | 1:02.43 | 52950 | 57642
+5 | 12:48.43 | 4:56.15 | 57643 | 79857
+6 | 17:44.58 | 2:18.30 | 79858 | 90237
+7 | 20:03.13 | 3:05.42 | 90238 | 104154
+8 | 23:08.55 | 4:29.50 | 104155 | 124379
+9 | 27:38.30 | 2:32.03 | 124380 | 135782
+10 | 30:10.33 | 2:59.60 | 135783 | 149267
+11 | 33:10.18 | 3:59.02 | 149268 | 167194
+12 | 37:09.20 | 3:44.05 | 167195 | 183999
+13 | 40:53.25 | 3:12.28 | 184000 | 198427
+14 | 44:05.53 | 7:06.62 | 198428 | 230439
+
+
+Track 1
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\01 Hallo.wav
+
+Peak level 98.3 %
+Extraction speed 40.1 X
+Track quality 99.9 %
+Test CRC 1ACAA9CB
+Copy CRC 1ACAA9CB
+Track not present in AccurateRip database
+Copy OK
+
+Track 2
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\02 K-Town.wav
+
+Peak level 98.0 %
+Extraction speed 37.9 X
+Track quality 100.0 %
+Test CRC 9F45EF7B
+Copy CRC 9F45EF7B
+Track not present in AccurateRip database
+Copy OK
+
+Track 3
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\03 African Space Anthem (A.S.A.).wav
+
+Peak level 98.4 %
+Extraction speed 42.1 X
+Track quality 99.9 %
+Test CRC 8DBCB3E5
+Copy CRC 8DBCB3E5
+Track not present in AccurateRip database
+Copy OK
+
+Track 4
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\04 Love.wav
+
+Peak level 98.1 %
+Extraction speed 46.3 X
+Track quality 100.0 %
+Test CRC CDBB1DEE
+Copy CRC CDBB1DEE
+Track not present in AccurateRip database
+Copy OK
+
+Track 5
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\05 Lingala.wav
+
+Peak level 98.1 %
+Extraction speed 49.7 X
+Track quality 100.0 %
+Test CRC DACDCF59
+Copy CRC DACDCF59
+Track not present in AccurateRip database
+Copy OK
+
+Track 6
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\06 Lourds.wav
+
+Peak level 98.7 %
+Extraction speed 31.5 X
+Track quality 100.0 %
+Test CRC 0908FEE8
+Copy CRC 0908FEE8
+Track not present in AccurateRip database
+Copy OK
+
+Track 7
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\07 Respect Of The Rules.wav
+
+Peak level 98.3 %
+Extraction speed 30.0 X
+Track quality 99.9 %
+Test CRC 3A63DAA9
+Copy CRC 3A63DAA9
+Track not present in AccurateRip database
+Copy OK
+
+Track 8
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\08 We Come From The Forest.wav
+
+Peak level 98.0 %
+Extraction speed 36.9 X
+Track quality 100.0 %
+Test CRC C29255FF
+Copy CRC C29255FF
+Track not present in AccurateRip database
+Copy OK
+
+Track 9
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\09 Customs.wav
+
+Peak level 90.2 %
+Extraction speed 33.9 X
+Track quality 99.9 %
+Test CRC 75666BC3
+Copy CRC 75666BC3
+Track not present in AccurateRip database
+Copy OK
+
+Track 10
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\10 Virginia.wav
+
+Peak level 98.0 %
+Extraction speed 44.6 X
+Track quality 100.0 %
+Test CRC F4CF4C25
+Copy CRC F4CF4C25
+Track not present in AccurateRip database
+Copy OK
+
+Track 11
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\11 Ah Congo.wav
+
+Peak level 98.3 %
+Extraction speed 43.6 X
+Track quality 99.9 %
+Test CRC 88E27ED9
+Copy CRC 88E27ED9
+Track not present in AccurateRip database
+Copy OK
+
+Track 12
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\12 Three Piece Sweet Part 1&2.wav
+
+Peak level 67.4 %
+Extraction speed 32.9 X
+Track quality 99.9 %
+Test CRC EFDA5D5A
+Copy CRC EFDA5D5A
+Track not present in AccurateRip database
+Copy OK
+
+Track 13
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\13 If You Wish To Stay Awake.wav
+
+Peak level 99.8 %
+Extraction speed 49.6 X
+Track quality 100.0 %
+Test CRC 1BD393F4
+Copy CRC 1BD393F4
+Track not present in AccurateRip database
+Copy OK
+
+Track 14
+
+Filename C:\DRC Music (Damon Albarn) - Kinshasa One Two (FLAC cue log EAC) 2011\14 Departure.wav
+
+Peak level 98.0 %
+Extraction speed 66.4 X
+Track quality 100.0 %
+Test CRC 711C3F9B
+Copy CRC 711C3F9B
+Track not present in AccurateRip database
+Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

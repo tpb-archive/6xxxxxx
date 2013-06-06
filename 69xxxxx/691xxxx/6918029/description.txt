@@ -1,0 +1,7 @@
+FOR TESTING
+
+Adonis Linux Alpha 0.0.1 #This is by no means a stable release, only suggested for use in a VM.# #Use at your own risk, not responsible or liable for data loss# This release is pretty much a test run. After messing with several tools to get the build done, I just wanted something done and out to begin testing, to see how running and installing was working. There will be several quick releases following this one as I refine the build process and make improvements. Right now: XFCE4.8 on debian stable Gedit Chromium-Browser Bleachbit Thunar File Manager Conky There is no graphical login screen or bootloader right now, and that is on purpose for easy debugging as I continue this build. I plan on adding both at some point when I feel I'm approaching a stable release. I plan on upgrading the kernel to something much newer if I can work out the issues involved with that, any 3.x kernel will do. I'll also be moving software in and out a lot, so don't get to comfortable with anything yet! 12/28/2011 -Bobby 
+http://sourceforge.net/projects/adonislinux/files/
+
+sha1sum : f24288b8ee8061bf6c89b2f4e7ed44fdbf042369  Adonis_Alpha_0-0-1.iso
+md5sum : 01bee5ed8575d76ca36dffec3785eaa6  Adonis_Alpha_0-0-1.iso

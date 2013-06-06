@@ -1,0 +1,43 @@
+Format                           : MPEG-TS
+File size                        : 293 MiB
+Duration                         : 4mn 28s
+Overall bit rate mode            : Variable
+Overall bit rate                 : 9 162 Kbps
+
+Video
+ID                               : 4113 (0x1011)
+Menu ID                          : 1 (0x1)
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 2 frames
+Format settings, GOP             : M=2, N=15
+Codec ID                         : 27
+Duration                         : 4mn 28s
+Bit rate mode                    : Variable
+Maximum bit rate                 : 22.0 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+
+Audio
+ID                               : 4352 (0x1100)
+Menu ID                          : 1 (0x1)
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 2
+Format profile                   : LC
+Muxing mode                      : ADTS
+Codec ID                         : 15
+Duration                         : 4mn 28s
+Bit rate mode                    : Variable
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy

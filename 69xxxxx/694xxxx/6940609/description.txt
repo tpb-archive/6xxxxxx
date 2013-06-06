@@ -1,0 +1,36 @@
+
+CoPilot Live 8.2.0.814 (Android) 
+
+Overview: CoPilot Live on your Android-powered phone gives you voice-guided turn-by-turn GPS navigation with detailed street maps of the U.S. and Canada stored on-board your phone-so you can navigate without a data connection. It's packed with advanced navigation features including 3D maps, Lane Assist arrows, millions of POIs, multi-stop trip planning and more.
+
+Requirements: Android 1.5, 2.1, 2.2+
+
+
+- Display Mode 2D, 3D and "Safe Driving"
+- Automatic route recalculation if you deviate from it
+- Calculation of the optimal route
+- Voice prompts
+- Work in portrait and landscape modes
+- Integration with the phone, which allows to make a call to the POI, as well as send SMS with your current coordinates
+- Support for gestures
+- Availability of Live services, such as weather
+
+
+Known issue:
+Downloading maps from within the Application will not work.
+The maps you have installed previously will work.
+I'd recommend downloading a map you want prior
+to installation via your current copilot installation .
+Or install maps after new installation manually via our Map Topics.
+UNINSTALL CoPilot 8.2.0.368 FIRST before installing 8.2.0.814
+
+
+
+To make this version work 
+look in your sdcard. it will be in /sdcard/copilot/save/pk.txt it should not be necessary to delete, as long as you uninstalled any old versions, but if for some weird reason you're having problems, delete it. then unmount your sdcard and reload the app.
+1. Uninstalled the old version.
+2. Installed new version.
+3. Deleted save/pk.txt
+4. Start CoPilot.
+
+Upgrade/installing over the old one did not work.

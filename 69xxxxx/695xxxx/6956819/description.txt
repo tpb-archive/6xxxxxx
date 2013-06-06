@@ -1,0 +1,74 @@
+Electrum Drum Machine-Sampler Full v4.5.5
+
+Requires Android: 1.5+
+
+
+Description
+
+
+Electrum Drum Machine/Sampler. Pattern based music composition.
+
+Programmable drum machine. 
+
+Electrum has 8 sounds and you can program up to 32 patterns. A full sequencer allows you to string the patterns together into songs or longer beats. You can also play patterns "live", switching them as the machine is playing.
+
+For multitouch devices, Electrum has a multitouch pad dialog as well (See Menu-&gt;Play Multitouch pads) where you can play just like an MPC by hitting the pads.
+
+LATENCY OF THE MULTITOUCH PADS DEPENDS ON YOUR DEVICE. SOME DEVICES HAVE VERY BAD LAG RESPONSE. TESTED AS FAST: GALAXY TABLET, DROID X, DROID 1. KNOWN BAD: HTC DESIRE.
+
+HTC WILDFIRE IS TOO SLOW OF A DEVICE TO run Electrum effectively. Sorry, upgrade your device, it's just too slow (523Mhz only).
+
+Please NOTE: The pads on the main screen are not designed to play real time because they are not multitouch. Use the multitouch pads for that. 
+
+Also check out my ReLoop music sequencer, which allows you to sequence loops just like Garageband or Sony's ACID.
+
+
+Key Features:
+
+* WAV file import - Load YOUR OWN SAMPLES from SDCARD. Long press a sound button to bring up the sample loading dialog.
+
+* Use my Sonic Chop app (sold separate) to chop samples from MP3's on your device and load them right into Electrum!
+
+* Use samples and loops to make beats and songs. 
+
+* Preview samples LIVE while the machine is playing, they will mix right into the beat.
+
+* Real time playback and editing - no waiting for sound to render before you hear your changes!
+
+* Look at the MENU for more options such as ability to save and load your own custom drumkits - once you've loaded the sounds you like unto the pads and adjusted them you can save the settings as a drumkit, separate from the patch itself!
+
+* RECORD samples with the microphone.
+
+* Stretch loops to fit the current project BPM.
+
+* Edit a sample's start and end point, pitch and pan Left/Right.
+
+* Use other time signatures such as 3/4, 6/8, etc.
+
+* Add some swing to your beats with the SHUFFLE setting.
+
+* Add Delay and Distortion FX to your samples
+
+* Sample accurate playback engine.
+
+* WAV/MIDI/Pad Export-load your song into Fruityloops!
+
+* Sharing - install the Soundcloud app from the market and you can share beats right to soundcloud (see Electrum's Menu-&gt;More-&gt;Share)
+
+
+* GET free sound Paks from http://www.nikotwenty.com/samples.htm if you downloaded the packs in *.zip extension just rename it to *.apk "install" it on your phone and and then "uninstall" to save space!
+ 
+
+PERMISSIONS:
+
+PHONE STATE/IDENTITY - used to stop playing if a phone call comes in. IDENTITY is NOT used for anything and it not read at all.
+
+SDCARD WRITE/READ - used to read sound files, and to save settings, patches, and drummkits
+
+What's in this version:
+
+4.5.5 - Fixed WAV export header bug which corrupted the wave file
+4.5.4 - Fixed some layouts that did not display correctly on Android 4.0 and Galaxy Nexus devices
+4.5.3 - Added advanced option to change path to the SDCARD that Electrum should use. Some devices have more than one sdcard (internal & external) and this allows you to force Electrum to use a certain one. ADVANCED use only! See Menu-&gt;Change root sdcard path.
+
+Enjoy and Seed Please :)

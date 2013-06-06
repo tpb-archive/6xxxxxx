@@ -1,0 +1,32 @@
+FOR TESTING 
+FR ONLY
+
+0 est un systeme GNU/Linux francophone complet pour systemes x86 64 bits uniquement, construit depuis rien et pleinement compatible 32 bits (ou'multilib').
+0 tente d'etre un systeme francise autodidactique : de nombreux fichiers de configuration sont traduits en franÃ§ais et contiennent des commentaires sur leur utilisation ; l'installateur quant a lui demande d'utiliser plusieurs consoles pour renseigner le systeme, le tout en ligne de commande uniquement, mais de faÃ§on assistee.
+Le systeme est pense d'abord pour un poste de travail et pour le multimedia : le noyau, par exemple, est'preemptif'et on trouve de nombreuses bibliotheques et codecs pour l'audio et le multimedia.
+L'environnement graphique par defaut est XFCE et Enlightenment est inclus.  
+0 epsilon
+
+0 ayant Ã©tÃ© confrontÃ©e Ã  des bogues bloquants les mises Ã  jour dans la version delta delta, voici epsilon, une mise Ã  jour mineure de 0 rÃ©glant ces problÃ¨mes.
+Quelques nouveaux dÃ©pÃ´ts ont fait leur entrÃ©e, avec notamment bluefish, claws-mail et gajim plus quelques greffons pour Thunar et Inkscape, et le systÃ¨me s'est enrichi de gnupg et lsof. linux est passÃ© en version 3.1.5 et alsa en 1.0.24.
+Quelques mises Ã  niveaux Ã©videmment et pas mal de bogues et Ã©tourderies ont Ã©tÃ© corrigÃ©s.
+Pour rappel, les plus grosses nouveautÃ©s de la delta, epsilon n'Ã©tant qu'une mise Ã  jour mineure :
+      la mise en place de dÃ©pÃ´ts de paquets distants, installables Ã  distance avec 0installer
+      la mise Ã  jour automatique de la distribution et des dÃ©pÃ´ts installÃ©s avec 0actualiser
+      la possibilitÃ© de choisir facilement ses dÃ©pÃ´ts dÃ¨s l'installation de la distribution
+      extra/ a disparu au profit des dÃ©pÃ´ts
+
+Voyez les pages :  
+http://0.tuxfamily.org/doku.php?id=documentation:gestion_des_paquets#arborescence_des_paquets 
+http://0.tuxfamily.org/doku.php?id=documentation:outils_de_0_pour_la_configuration_systeme
+... 
+http://0.tuxfamily.org/doku.php
+ 
+http://ftp.igh.cnrs.fr/pub/os/linux/0linux/0/paquets/ 
+http://listengine.tuxfamily.org/lists.tuxfamily.org/0linux-dev (liste de diffusion)   
+http://0.tuxfamily.org/doku.php?id=communaute:accueil (..., salons de discussions)
+   
+http://en.wikipedia.org/wiki/CeCILL (license)
+
+sha1sum : f5c1032a49d62f938689d6abf97c815341a5c0ac  0linux-epsilon-DVD.iso
+md5sum : 0d83b8163eaf150de2a46f36c03ac2c4  0linux-epsilon-DVD.iso

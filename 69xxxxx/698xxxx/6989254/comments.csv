@@ -1,0 +1,22 @@
+User Type,Username,Date,Text
+,Mr.Quipster,2012-05-14T08:31Z,"I can confirm this torrent. In addition, TYVM TKOYEAH* Your method work just fine. "
+ ya.
+
+I ran into the same issue Johnnyfreeze had, it was not showing up in AFX. BUT I noticed in my root folder C: the installer had created three folders. They should be labeled as such in all CAPS:
+AECS5COMMONPATH
+AECS5PLUGINPATH
+AECS5PRESETPATH
+
+Essentially, the installer didnt know where to put the files, so it just created these directories. So you just have to cut and paste these folder's CONTENTS into their corresponding folders.
+
+Soooo
+
+AECS5COMMONPATH contents goes in Programfiles/adobe/common/
+
+AECS5PLUGINPATH contents goes in Programfiles/adobe/afterffectscs5.5/supportfiles/plug-ins/
+
+AECS5PRESETPATH contents goes in Programfiles/adobe/afterffectscs5.5/supportfiles/presets/
+
+
+Hope this helps!
+Don't know why this was happening."

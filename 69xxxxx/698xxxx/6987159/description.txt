@@ -1,0 +1,27 @@
+Official Web Site:  http://www.primatelabs.ca/geekbench/
+
+Description
+
+Geekbench provides a comprehensive set of benchmarks engineered to quickly and accurately measure processor and memory performance. Designed to make benchmarks easy to run and easy to understand, Geekbench takes the guesswork out of producing robust and reliable benchmark results.
+
+Whats New: 
+
+* Fixed a hang that could occur when running benchmarks on Windows.
+
+* Fixed a bug that canceled benchmarks prematurely on Android.
+
+* Fixed a bug that misidentified some late model MacBook Pros.
+
+* Re-enabled multi-threaded tests on single-core systems.
+
+* Improved compatibility with Red Hat Enterprise Linux 5.
+
+* Improved upload error messages on Windows and Linux.
+
+* Improved handling of corrupted Geekbench files.
+
+System Requirements:
+
+UB PPC of Intel Mac, OS X.5 or later
+
+--- PLEASE SEED ---

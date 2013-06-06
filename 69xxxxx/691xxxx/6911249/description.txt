@@ -1,0 +1,73 @@
+[IMG]http://www.freeimage.us/image-37A9_4EF6F4E1.jpg[/IMG]
+
+Master Topology Files for iXtreme LT+3.0
+
+After an exhaustive development process we are pleased to release these disc 
+profile topology patches for the iXtreme LT+ v3.0 firmware. 
+
+These patches are based on millions of angle measurements spanning hundreds of 
+hours to get the most accurate values possible. 
+
+
+There are currently two patches available: 
+
+
+1) 
+XGD2.COD-BO.COD-MW2.Halo-Reach.top.data.v1.bin 
+
+SUITABLE FOR THE FOLLOWING GAMES ONLY: 
+
+a) Call of Duty: Black Ops 
+
+b) Call of Duty: Modern Warfare 2 
+
+c) Halo: Reach (XGD2 ONLY, don't use this on backups of the XGD3 beta) 
+
+These games have the exact same topology and therefore can share the same 
+profile data. This was confirmed by doing at least 35 iterations of profile 
+data for each game and analyzing the results. Over millions of measurements, 
+not a single one deviated from the median by more than 1 degree, and there 
+were no cumulative effects at all. These games are identical in the way they 
+were mastered. 
+
+2) 
+XGD3.Profile.ID.F87A804E.top.data.v1.bin 
+
+Suitable for all XGD3 games with this disc profile ID: 
+
+0C3DF524599094E6CB87ECC8-F87A804E 
+
+This covers all current XGD3 releases (at the time of writing) except for 
+the Halo: Reach XGD3 beta. 
+
+Checkand stay up to date with the latest news on the usual 
+sites so you don't end up patching and burning the wrong data if a new XGD3 
+game comes out with a different disc profile ID (there are several more 
+already waiting in dae.bin). 
+
+
+
+Media ID shouldn't matter since we always check our data against all foreign 
+versions of games in DAE.bin using the targets from the v12 table and several 
+unique per-Xbox v8 tables. Again, stay up to date with the latest news in case 
+this situation changes. 
+
+P.S. You may be thinking that it's better to use topology data taken from a 
+specific title or pressing... and that may be true... but only if you do a 
+multitude of iterations and take the average values. You would most likely 
+end up with extremely similar data to ours (if your drive and disc are OK), 
+with only very small deviations where measurements were right in between two 
+integers, and could effectively go either way. 
+
+We certainly don't want to discourage people from doing their own measurements, 
+but please be aware that it is very easy for some drives to screw up an angle 
+measurement, and even small screw ups or a general bias in timing can have a 
+great impact on LT+ responses. 
+
+P.P.S We've included an example of how we process our multitudes of iterations 
+in case you think this is all a bunch of BS. It's a massive html file so be 
+careful if you don't think your system or browser can handle it. 
+
+[img]http://www.freeimage.us/image-5ECA_4D9E15E0.gif[/img]
+
+[img]http://torrent-stats.info/b571/1305487b3.png[/img]

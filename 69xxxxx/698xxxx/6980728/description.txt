@@ -1,0 +1,23 @@
+Rescatux is a GNU/Linux rescue cd (and eventually also Windows) but it is not like other rescue disks. Rescatux comes with Rescapp. Rescapp is a nice wizard that will guide you through your rescue tasks. 
+http://www.supergrubdisk.org/rescatux/
+
+Rescatux 0.30b4 released
+Posted on January 23, 2012 by adrian15
+Rescatux 0.30 beta 4 has been released.
+
+
+    * Super Grub2 Disk 1.99b1 is included (Actually it boots from it not from isolinux)
+    * It autodetects 64bit systems and loads the appropiate kernel accordingly. This will fix most of the errors about not being able to restore Grub.
+
+As I said this is Rescatux 0.30 roadmap updated:
+
+Bugs and Feature requests they are found in Forja Cenatic. Thank you Cenatic! 
+http://www.supergrubdisk.org/category/download/rescatuxdownloads/
+ 
+http://www.supergrubdisk.org/donate/  
+http://rescatux.berlios.de/wiki/Main_Page  
+http://www.supergrubdisk.org/rescatux/  
+http://www.supergrubdisk.org/forum/index.php?PHPSESSID=d1c91278c59d8574e2ece180602e787e&board=10.0 (forum en)  
+http://www.supergrubdisk.org/forum/index.php?PHPSESSID=d1c91278c59d8574e2ece180602e787e&board=11.0 (forum sp)
+
+md5sum : da290318cab9de8db2f30c87eb2d9aa9  rescatux_cdrom_usb_hybrid_i386_486-amd64_0.30b4_sg2d.iso

@@ -1,0 +1,77 @@
+---------------------------------------------------------------------------------
+                                                                                 
+           SSSSSSSSSSSSSSS       444444444                 AAA                   
+         SS:::::::::::::::S     4::::::::4                A:::A                  
+        S:::::SSSSSS::::::S    4:::::::::4               A:::::A                 
+        S:::::S     SSSSSSS   4::::44::::4              A:::::::A                
+        S:::::S              4::::4 4::::4             A:::::::::A               
+        S:::::S             4::::4  4::::4            A:::::A:::::A              
+         S::::SSSS         4::::4   4::::4           A:::::A A:::::A             
+          SS::::::SSSSS   4::::444444::::444        A:::::A   A:::::A            
+            SSS::::::::SS 4::::::::::::::::4       A:::::A     A:::::A           
+               SSSSSS::::S4444444444:::::444      A:::::AAAAAAAAA:::::A          
+                    S:::::S         4::::4       A:::::::::::::::::::::A         
+                    S:::::S         4::::4      A:::::AAAAAAAAAAAAA:::::A        
+        SSSSSSS     S:::::S         4::::4     A:::::A             A:::::A       
+        S::::::SSSSSS:::::S       44::::::44  A:::::A               A:::::A      
+        S:::::::::::::::SS        4::::::::4 A:::::A                 A:::::A     
+         SSSSSSSSSSSSSSS          4444444444AAAAAAA                   AAAAAAA    
+                                                                                 
+                                                                                 
+---------------------------------------------------------------------------------
+
+        OpenSight.Software.FlashFXP.v4.1.8.build.1700.Multilanguage-Google       
+
+---------------------------------------------------------------------------------
+
+Below is a list of changes for FlashFXP v4.1
+
+Major performance improvements throughout by reducing unnecessary overhead 
+through code refactoring and performance profiling.
+Added native support for 32-bit alpha masks in the tool-bar buttons. With a fall 
+back to the old blend mode when 32-bit is unavailable.
+We now use the Tango button style as default in FlashFXP, the original classic 
+style is still available for customers.
+Improved compatibility with older versions of Windows. Specifically user 
+interface related glitches when themes were unavailable or disabled.
+Improved error messages for SFTP, FTP, FTP-SSL, Socks4/5, HTTP Proxy, etc.
+Improved use of windows TaskDialog with a automatic fall back on failures.
+Improved WINE compatibility, This is the first release of FlashFXP that is 100% 
+compatible with WINE.
+Improved FTP and SFTP protocol error handling, with additional fail safes to 
+handle unexpected server responses.
+Improved SFTP transfer speeds. Uploads and downloads are much faster.
+Improved input controls and added control + Backspace support.
+Improved tool-bars buttons by enabling or disabling them based on the current 
+state.
+Improved remote SFTP and FTP directory refreshing, the item selection is preserved 
+in-between refreshes.
+Improved the performance speed of the local file browser.
+Improved selective transfer rules.
+Improved performance speed of MODE Z file transfers (FTP protocol).
+Improved file handling when uploading or downloading to a slow device or network 
+share.
+Added En-queue Delete/Rename support to the local browser right-click menu.
+Added 'Schedule At' under Queue on the main menu, previously this was only 
+available via the queue window right-click menu.
+Added status message when the loaded translation is incomplete and a link to the 
+translation editor.
+Added Remote edit history, when editing remote files the details for each edit is 
+stored and then restored on connect, the temporary file is not kept locally, the 
+file is re-downloaded for any edit.
+Added the ability to set the character encoding for SFTP site profiles.
+Added the ability to import sites from FileZilla.
+Added Ctrl + W shortcut to toggle synchronized browsing on/off.
+Added support for connecting to domain names that resolve to multiple IP 
+addresses, The first IP is tried, on connection failure the next is tried and 
+so on.
+Added the ability to en-queue move operations.
+Added the ability to define optional file masks and exclude sub-folders within 
+en-queued delete folder operations.
+Added $lowercase, $upercase, $uplowcase() macros to custom commands.
+Improved custom tool bar backgrounds.
+Improved auto-discover time offset feature.
+Improved interface scaling when Windows display scaling is active.
+Updated to OpenSSL 1.0.0e.
+
+---------------------------------------------------------------------------------

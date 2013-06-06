@@ -1,0 +1,14 @@
+Changelog:
+- Added sheathing and unsheathing for knives and small swords
+- Changed "pick up" to "q" and "sheathe/unsheathe" to "e"
+- More detailed damage model for thrown weapons
+- Can dodge knife attacks by tapping a direction
+- Added pain flinch animation layer when cut
+- Added initial wounded poses when cut
+- Fixed enemy knife attack voice problem
+- Collapsing from knife wounds is less limp
+- Local multiplayer players have auto-camera by default
+- Improved bounce from non-sticking weapon impacts
+- Fixed bug that allowed throat cutting while unarmed
+- You can no longer hurt yourself with your own dropped or thrown weapon
+- Improved performance impact of inactive weapons

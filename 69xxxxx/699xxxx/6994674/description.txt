@@ -1,0 +1,31 @@
+ http://www.imdb.com/title/tt0241303/
+
+We downloaded this movie as an 720p mp4 as we only have a 480p ENG-FRE DVD
+of it here We chose a smaller sized torrent as it boasts great quality
+video (considering the small file size). With some movies you can get away with it 
+especially if the movie is not too long, and if it was produced in nicer quality
+on the disc from which to make share-able versions with, and nicely converted.
+
+When a movie is set in France, it should be in French I believe, likewise in German or Italian too on the same basis. I believe all peoples of Europe should all be fluent in English - one and all - as a common bridge for communication with equal understanding of true merit - that said - I don't believe that anyone should ever give up on French German or Italian dutch etc as their second language or primary language for now - as there is wisdom in these cultures too that doesn't exist on the planet otherwise.
+
+We therefore chose to swap out the 128k English only audio track the movie
+came with on the download - with a French audio track instead - taken from
+the DVD at 224k The great video is 1280 X 720 even at only 786k bitrate
+
+It took only a few moments to do. We demuxed the mp4 to extract the h.264 video   in 60 seconds flat. We then remuxed the video along with the french audio track using mkvmerge - took about one minute. We could I suppose have used tsmuxer instead as it creates true-bluray format files for all bluray players using
+h.264 video as it is the standard for use with the bluray format container
+We added in English subtitles during this process.
+
+We first tried converting to DivX HD however the source file bitrate was below
+the minimum the converter was willing to make use of. We didn't want to
+superficially up-convert without just cause - the quality would have been only degraded instead. We tried to produce an XviD HD however once again we got poor
+quality results from the small file and Xilisoft converter. So remuxing as
+indicated was the solution we used for expediency.
+
+This movie is a nice movie for the beautiful children of France that
+are seen in it and we bring it to you for that reason alone - as sufficient
+in any event.
+
+
+Michael Rizzo Chessman
+moviesbyrizzo

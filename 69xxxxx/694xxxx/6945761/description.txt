@@ -1,0 +1,42 @@
+Official Web Site:  http://plentycom.jp/en/steermouse/index.html
+
+DESCRIPTION:
+
+SteerMouse is an advanced driver for USB and Bluetooth mice. It also supports the Apple Mighty Mouse very well.
+
+SteerMouse can assign various functions to buttons that Apple's software does not allow, including double-clicks, modifier clicks, application switching, assignment of shortcut keys, "snap to" cursor movement, which moves the cursor to target (such as an OK button), and more.
+
+SteerMouse lets you control the cursor's Sensitivity on top of the Tracking Speed. (Apple's software only allows adjustment for the Tracking Speed.) By adjusting both configurations, you can customize the ideal setting for the cursor to fit the movements of your hand.
+
+
+Whats New:
+
+* Support for Mission Control in OS X Lion.
+
+* Now possible to restore the original functionality of the + and - buttons
+  on the Logitech G400 and MX518. Enter the following command in 
+  Applications/Utilities/Terminal and then reconnect the mouse:
+  defaults write jp.plentycom.SteerMouse 
+
+* LOGITECH_G400_PLUS_MINUS -bool YES
+
+Bug Fixes:
+
+* Problem solved where the keyboard shortcut for switching tabs
+  (control + tab) in Safari in OS X Lion would execute delayed.
+
+* Problem solved where Automatic Moving would not move the cursor
+  to the default button in OS X Lion.
+
+* Problem solved where an error would occur after switching user
+  accounts with fast user switching.
+
+* Problem solved where some mice would not be recognized.
+
+* Various other bug fixes and improvements.
+
+System Requirements:
+
+UB, Mac OS X.4 and above (Lion Compatible)
+
+--- PLEASE SEED ---

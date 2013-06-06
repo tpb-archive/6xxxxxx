@@ -1,0 +1,49 @@
+Official Web Site:  http://www.macupdate.com/app/mac/31914/find-&-replace-it!
+
+Find & Replace It! is a high-end solution to find files and execute search and replace operations across multiple files. It allows performing very complex batch replacements inside text files of any size. It supports regular expression syntax and dozens of encodings. It has scripting capabilities which allow transforming on the fly the replacement text for every found string. It even handles batch processing of the encoding of files, as well as of types of end-of-lines.
+
+Features::
+
+* Handles more than 50 different kinds of text encodings. If your are
+  stucked with some UTF-8 encoding, some Chinese contents or any
+  others non ASCII encodings, Find & Replace It! is the solution for you.
+  It also handles the different kinds of end-of-line.
+
+* Handles huge files. If you want to process any kind of dump files
+  containing tons of text, like a log of 10 GB, Find & Replace It! will do it
+  for you.
+
+* Provides a regular expression editor. This editor offers tools to easily
+  build regular expressions even if you are a newby.
+
+* Provides a find & replace preview. The preview window gives you an
+  immediate feed-back that makes easy to check the impact of your
+  replacement within any file without modifying its content. This is 
+  especially usefull whenever you are searching for a complex expression
+  and you don't want to replace it blindly in many files.
+
+* Makes it possible to dynamically adjust the replacement text. I
+  provides three ways of dynamically adjust the replacement text
+  according to the text found. For instance, it is possible to reuse a
+  fragment of the found expression into the replacement text, do arithmetic
+  operations on found text, insert the path or filename of replaced files,
+  apply conditional operations on the replacement string (JavaScript
+  interface), manipulate dates, etc.
+
+The GUI of Find & Replace It! consists of seven panes that you can arrange in any way you want. You can dock panes side by side, arrange them in tabs, or make them float. Adjust the windows layout to the way you like to work. Find & Replace It! comes with four pre-arrange layouts that can be customized the way you want depending on the size of your screen. You can switch from one layout to another in a simple click.
+
+What's New:
+
+* Fix potential crash when using scripts for processing the replacement
+  strings (regression since 1.4.5).
+
+* Update the Qt libraries from 4.7.3 to 4.7.4 (fixes several bugs).
+
+* Fix update of the UI when interrupting the encoding detection.
+
+System Requirements:
+
+Intel (64-bit) , Mac OS X 10.5.8 or later
+
+--- PLEASE SEED ---
+

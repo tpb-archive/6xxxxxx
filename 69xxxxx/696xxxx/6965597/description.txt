@@ -1,0 +1,52 @@
+Official Web Site:  http://blog.iphone-dev.org/post/14857834236/untethered-holidays
+
+Description
+redsn0w is a easy to use, multi-platform, multi-device jailbreaking and unlocking tool for the iPhone/iPad/iPod.
+
+Torrent source; redsn0w 0.9.10b4 official link - https://sites.google.com/a/iphone-dev.com/files/home/redsn0w_mac_0.9.10b4.zip
+(Link not live because it redirects to a wrong page)
+
+* pod2g has created a terrific gift for iOS fans â€” an untethered 5.0.1
+  jailbreak for non-A5 devices!
+
+Many of you have already been following *pod2gâ€™s blog where heâ€™s been keeping everyone up to date on his progress. And so you know that he recently decided to push the button on a release for all devices except the new iPhone4S and iPad2. *pod2gs untether involves two separate exploits and a few other â€œtricksâ€ â€” and since heâ€™s taken the  at comex approach of doing nearly everything himself, you know his plate has been full these past few months!
+
+A few days ago, *pod2g gave the untether to both the iPhone devteam and the chronic devteam. Weâ€™ve put it into redsn0w 0.9.10 and PwnageTool, and the chronic devteam put it into a Cydia package (the same set of exploits is in all three).
+
+Here are the basic steps for how to get it:
+
+* The untether is for iOS 5.0.1 on iPhone3GS, iPhone4, iPhone4
+ -CDMA, iPad1, iPod touch 3G, iPod touch 4G
+
+* If you have one of those devices and are not on 5.0.1 yet, update now!
+  The SHSH window is still open for 5.0.1 If you unlock via ultrasn0w
+  or gevey, make sure you only get to 5.0.1 via a custom IPSW! See the
+  guides at places like iClarified.com if you donâ€™t know how. Once
+  youâ€™re at 5.0.1, use the latest redsn0w 0.9.10 to both jailbreak and
+  untether.
+
+* If youâ€™re already at 5.0.1 with a tethered jailbreak, you have two choices:
+  either run redsn0w 0.9.10 over your current jailbreak (deselect â€œInstall
+  Cydiaâ€ if you do that), or install the Cydia package prepared by the chronic
+  devteam. The patches are the same regardless of which you choose.
+
+* Some of you are using a hybrid 5.0/5.0.1 configuration. If so, do not
+  attempt to install this untether over that setup! You will most likely get into a
+  reboot cycle. Do a sync and fresh restore to 5.0.1 then install the jailbreak +
+  untether.
+
+As mentioned earlier, *pod2g has spent months working on all the exploits and tricks in this untether, and many of you may be wondering how you can send donations. Although the iPhone devteam itself doesnâ€™t take donations, we thought it was appropriate to provide a link at the end of the redsn0w run for you to more easily donate directly to @pod2g if you wish (alternatively, you can go right here). Thereâ€™s a link in the Cydia package for donating to the chronic devteam for the Cydia version of @pod2gâ€™s untether.
+
+*pod2g is now looking for a way to extend this to A5 devices. Because those devices cannot use geohotâ€™s limera1n exploit to inject the untether, they require exploits above and beyond those used for this release. Keep following pod2g on twitter or his blog for any progress reports!
+
+Update #3: The b3 version of redsn0w fixes a problem where re-running redsn0w over an existing jailbreak would cause MobileSubstrate-based apps to stop running until MS was installed again. Now you can re-run the redsn0w jailbreak step without worrying about that (but still remember to de-select the â€œInstall Cydiaâ€ option if itâ€™s already installed).
+
+Update #4: The b4 version of redsn0w incorporates the 5.0.1 fix for iBooks, and also for sporadic problems with launchctl. Thanks to @xvolks for merging the iBooks (sandbox) fix from at comexâ€™s github into the overall corona untether from *pod2g! As usual, you can choose to install the fix either by re-running redsn0w over your existing jailbreak (de-select Cydia if you do that), or by installing the corona package from Cydia (itâ€™s the same set of files no matter which way you choose).
+
+TIP: If auto-detection fails and redsn0w tells you no identifying data was found, you can always pre-select the appropriate 5.0.1 IPSW using Extras- Select IPSW.
+
+System Requirements:
+
+Intel of PPC Mac OS X.5 or greater
+
+--- PLEASE SEED ---

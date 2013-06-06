@@ -1,0 +1,162 @@
+======================================================================================================================================================================
+   Wednesday, January 11, 2012 By: Mr. Jean Kobeis
+======================================================================================================================================================================
+                            E-book Title:
+                            -------------
+          Microsoft Windows Communication Foundation 4.0 Cookbook for Developing
+          SOA Applications
+     ---------------------------------------------------------------------------                                          
+          Author:    Steven Cheng
+          Copyright: Packt Publishing Ltd
+          ISBN:      978-1-849680-76-9
+          Content:   299 pages.
+===================================================================================
+                            Source Code:
+                            ------------
+          The source code for this book is available to readers at www.packtpub.com
+===================================================================================
+                            Table of Content:
+                            -----------------
+          Chapter 1: Working with Contracts
+          Chapter 2: Endpoint. Binding, and Behavior
+          Chapter 3: Hosting and Configuration
+          Chapter 4: Service Discovery and Proxy Generation
+          Chapter 5: Channel and Messaging
+          Chapter 6: Dealing with Data in Service
+          Chapter 7: Security
+          Chapter 8: Concurrency
+          Chapter 9: Extending WCF Runtime
+          Chapter 10: RESTful and AJAX-enabled WCF Services
+          Chapter 11: Interoperability
+          Chapter 12: Diagnostics
+          Chapter 13: Miscellaneous WCF Development Tips
+===================================================================================
+                            Overall:
+                            --------
+          The book contain 299 pages including the intro, about the Author, and the
+          Index Book, in addition of the code source that is available with the
+          package.   
+
+                            P.S:
+                            ----
+          To get the most knowledge and experience and skills, i recomend that 
+          you work hard before viewing the source code, at least; This is my 
+          opinion thanks.
+===================================================================================
+                            Chapter Outline:
+                            ----------------
+         Chapter 1:
+         ----------
+
+           Working with Contracts, shows how we can use Contract in WCF service
+           development, including use cases of ServiceContract, DataContract, 
+           MessageContract, FaultContract, and so on.
+     -------------------------------------------------------------------------
+         Chapter 2:
+         ----------
+
+           Endpoint, Binding, and Behavior, focuses on the basic building blocks 
+           of a WCF service, including endpoint, binding, and behavior. The recipes 
+           in this chapter demonstrate how to create various kinds of services by 
+           usingthe proper combination of these building blocks.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 3:
+         ----------
+
+           Hosting and Configuration, covers several common and useful WCF service-
+           hosting scenarios, such as hosting a WCF service in a Windows service, 
+           IIS web applications, and WSS 3.0 site.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 4:
+         ----------
+
+           Service Discovery and Proxy Generation, covers how to discover and   
+           consume WCF services. Recipes here demonstrate various scenarios of 
+           generating a WCF service proxy and introduces the service discovery 
+           feature in WCF 4.0.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 5:
+         ----------
+
+           Channel and Messaging, digs into the channel layer of WCF programming 
+           and shows how to build WCF server and client applications through 
+           channel-layer components.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 6:
+         ----------
+
+           Dealing with Data in Service, covers various data exchange and  
+           communication scenarios in WCF development. Recipes here include how to 
+           transfer XML and raw binary data or AD0.NET Data Table objects in 
+           service operations.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 7:
+         ----------
+
+           Security, demonstrates how to utilize the built-in WCF security features
+           such as service authentication, authorization, identity impersonation, 
+           message protection, and so on.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 8:
+         ----------
+
+           Concurrency, introduces some typical cases about managingthe concurrency 
+           and performance behaviors of a WCF service, such as how to use  
+           throttlingsettings and how to use Visual Studio testing tools for 
+           service performance tuning.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 9:
+         ----------
+
+           Extending WCF Runtime, focuses on how to extend the existing components
+           in the WCF programming model, such as customizing the default 
+           ServiceHost, using Messagelnspector or MessageEncoder to intercept
+           messages, customizingthe service authorization logic, and so on.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 10:
+         ----------
+
+           RESTful and AJAX-enabled WCF Services, provides several recipes on WCF 
+           REST service programming, including building a standard REST service, 
+           building an AJAX-enabled REST service, and consuming a remote REST 
+           service from an AJAX client.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 11:
+         ----------
+
+           Interoperability, shows how to make a WCF service or client work with 
+           non-WCF or even non-.NET platform-based applications (such as a 
+           WebRequest client, legacy MSMQ client, or Microsoft Office client).
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 12:
+         ----------
+
+           Diagnostics, introduces some useful tools and skills for troubleshooting 
+           and diagnostics in WCF service development, including how to capture WCF 
+           messages, how to debug a Windows service host, how to use WCF 
+           performance counters, and so on.
+     -------------------------------------------------------------------------
+     -------------------------------------------------------------------------
+         Chapter 13:
+         ----------
+
+           Miscellaneous WCF Development Tips, provides some additional skills and 
+           cases in WCF service development such as how to generate and manage test 
+           X.509 certificates and how to build an RSSfeed and routingservices.
+     -------------------------------------------------------------------------
+
+        P.S:
+        ----
+
+           Secure Torrent Download: http://ta.gd/WCF-4.0-Cookbook
+===================================================================================

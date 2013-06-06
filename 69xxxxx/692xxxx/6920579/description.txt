@@ -1,0 +1,40 @@
+This is the original mod for allowing the user to kill children in Elder Scrolls: Skyim. The mod is originally free of couse but the reason that I downloaded the zip and turned it into a torrent is because, if you want to download it from the only and original place to get the mod, then you have to register onand change your preferences to view adult content which the mod is considered. So this saves you some time.
+
+Now, I did NOT test the mod for the sake of my game save. For some reason I can not view it. Anyways, if you download it and manage to get it working please let me know. Otherwise, I will try uploading an older file from that download page.
+
+
+Good Luck. Below is the modders description for installing the mod:
+
+
+---------------------------------
+ Description
+ ---------------------------------
+ Allows the children of Skyrim to die. Affects the Breton, Imperial, Nord and Redguard children.
+ 
+Also lets you play as them if you create a new character with the mod enabled, a funny, unintentional bug. :P
+ 
+---------------------------------
+ Install
+ ---------------------------------
+ Go to: Drive Letter:\Program Files\Steam\steamapps\common\skyrim\Data\
+ For those who don't have bought the game on steam, the SkyrimPrefs.ini file is located in Drive Letter:\Users\[USERNAME]\Documents\My Games\Skyrim
+ 
+1. Drop the 'killable_children.esp' in that folder
+ 2. Launch the Skyrim Launcher, and click on 'Data Files'
+ 3. Tick 'killable_children.esp' and click 'Ok'
+ 
+---------------------------------
+ Data Files grayed out?
+ ---------------------------------
+ Go to: Drive Letter:\Program Files\Steam\steamapps\common\skyrim\Skyrim\SkyrimPrefs.ini
+ 
+For those who don't have bought the game on steam, the SkyrimPrefs.ini file is located in Drive Letter:\Users\\Documents\My Games\Skyrim
+ 
+Add these lines, or change them if they already exist so they match the below:
+ [Launcher]
+ bEnableFileSelection=1
+ 
+If that fails:
+ Go to: Drive Letter:\Users\[USERNAME]\AppData\Local\Skyrim
+ Make the Skyrim folder un-read only.
+ 

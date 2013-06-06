@@ -1,0 +1,22 @@
+New Year's Eve Sydney 2012 - fireworks.
+
+Nouvelle Annee a Sydney 2012 - feu d'artifice.
+
+
+Technical.
+
+Original video format DVB-T PAL 576i
+Original frame rate 25 fps
+Original Audio MPEG-2 part2 224 kbits/s
+
+Transcode video codec X264 
+Quality ABR 1500 kbit/s 2-pass
+Deinterlaced to 50 fps (progressive)
+Transcode audio codec LAME
+Audio quality CBR 192 kbit/s
+
+Capture platform: Mythbuntu with Divico Fusion HDTV PCI card (circa 2004!)
+
+Transcode Platform: Linux Ubuntu 11.10 using Avidemux
+
+For best results, play video using VLC Player http://www.videolan.org/vlc/

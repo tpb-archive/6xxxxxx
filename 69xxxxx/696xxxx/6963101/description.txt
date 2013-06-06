@@ -1,0 +1,319 @@
+==================================================
+1/12/2012 6:17:54 PM By: Mr. Jean Kobeis
+==================================================
+                E-book Title:
+                -------------
+     Pro WPF in VB 2010                
+   --------------------------------------------
+     Author: 	    	   Matthew MacDonald
+     Copyright:     	   Apress
+     ISBN-13 (pbk): 	   978-1-4302-7240-3   
+     ISBN-13 (electronic): 978-1-4302-7241-0     
+==================================================
+                Source Code:
+                ------------
+     The source code for this book is available
+     to readers at http://www.apress.com      
+==================================================
+                Table of Contents:
+                ------------------
+     Chapter 1:  Introducing WPF                             
+                
+     Chapter 2:  XAML
+                
+     Chapter 3:  Layout
+                
+     Chapter 4:  Dependency Properties                                                
+     		
+     Chapter 5:  Routed Events     		
+     		
+     Chapter 6:  Controls
+     
+     Chapter 7:  The Application     		
+     		
+     Chapter 8:  Element Binding 
+     		
+     Chapter 9:	 Commands     		    		
+     		
+     Chapter 10: Resources
+     
+     Chapter 11: Styles and Behaviors
+     
+     Chapter 12: Shapes, Brushes, and Transforms
+     
+     Chapter 13: Geometries and Drawings
+     
+     Chapter 14: Effects and Visuals
+     
+     Chapter 15: Animation Basics
+     
+     Chapter 16: Advanced Animation
+     
+     Chapter 17: Control Templates
+     
+     Chapter 18: Custom Elements
+     
+     Chapter 19: Data Binding
+     
+     Chapter 20: Formatting Bound Data
+     
+     Chapter 21: Data Views
+     
+     Chapter 22: Lists, Trees, and Grids
+     
+     Chapter 23: Windows
+     
+     Chapter 24: Pages and Navigation
+     
+     Chapter 25: Menus, Toolbars, and Ribbons
+     
+     Chapter 26: Sound and Video
+     
+     Chapter 27: 3-D Drawing
+     
+     Chapter 28: Documents
+     
+     Chapter 29: Printing
+     
+     Chapter 30: Interacting with Windows Forms
+     
+     Chapter 31: Multithreading
+     
+     Chapter 32: The Add-in Model
+     
+     Chapter 33: ClickOnce Deployment     		
+==================================================     		  
+                Overall:
+                --------
+                
+     The book contain 1212 pages including the 
+     intro, about the Author, and the Index Book, 
+     in addition of the code source that is 
+     available with the package.
+                
+                P.S:
+                ----
+                
+     To get the most knowledge and experience 
+     and skills, i recomend that you work hard
+     before viewing the source code,
+     at least; This is my opinion thanks.                
+==================================================
+                Chapter Outline:
+                ----------------
+                
+     Chapter 1:
+     ----------
+        Introducing WPF describes the architecture 
+        of WPF, its DirectX plumbing, and the new
+        device-independent measurement system that 
+        resizes user interfaces automatically.               
+   --------------------------------------------        
+     Chapter 2:
+     ----------
+        describes the XAML standard that you use 
+        to define user interfaces. Youâ€™ll learn
+        why it was created and how it works, and 
+        youâ€™ll create a basic WPF window using 
+        different coding
+   --------------------------------------------
+     Chapter 3:
+     ----------
+        delves into the layout panels that allow 
+        you to organize elements in a WPF window. 
+        Youâ€™ll consider different layout strategies, 
+        and youâ€™ll build some common types of windows.
+   --------------------------------------------   
+     Chapter 4:
+     ----------
+        describes how WPF uses dependency properties 
+        to provide support for key features such as data 
+        binding and animation.
+   --------------------------------------------   
+     Chapter 5:
+     ----------
+        describes how WPF uses event routing to send events 
+        bubbling or tunneling through the elements in your 
+        user interface. It also describes the basic set of mouse,
+        keyboard, and multitouch events that all WPF elements support.
+   --------------------------------------------   
+     Chapter 6:
+     ----------
+        considers the controls every Windows developer 
+        is familiar with, such as buttons, text boxes, and 
+        labels-and their WPF twists.    
+   --------------------------------------------             
+     Chapter 7:
+     ----------
+        introduces the WPF application model. Youâ€™ll see 
+        how to create singleinstance and document-based 
+        WPF applications.
+   --------------------------------------------	
+     Chapter 8:
+     ----------
+        introduces WPF data binding. Youâ€™ll see how to 
+        bind any type of object to your user interface.
+   --------------------------------------------	
+     Chapter 9:
+     ----------
+        introduces the WPF command model, which 
+        allows you to wire multiple controls to the 
+        same logical action.
+   --------------------------------------------        
+     Chapter 10:
+     -----------
+        describes how resources let you embed binary 
+        files in your assembly and reuse important objects 
+        throughout your user interface.
+   --------------------------------------------        
+     Chapter 11:
+     -----------
+        explains the WPF style system, which lets you 
+        apply a set of common property values to an 
+        entire group of controls.
+   --------------------------------------------
+     Chapter 12:
+     -----------
+        introduces the 2-D drawing model in WPF. Youâ€™ll 
+        learn to create shapes, alter elements with transforms, 
+        and paint exotic effects with gradients, tiles, and images.
+   --------------------------------------------        
+     Chapter 13:
+     -----------
+        delves deeper into 2-D drawing. Youâ€™ll learn to create
+        complex paths that incorporate arcs and curves and how 
+        to use complex graphics efficiently.
+   --------------------------------------------   
+     Chapter 14:
+     -----------
+        describes lower-level graphics programming. 
+        Youâ€™ll apply Photoshop-style effects with pixel shaders, 
+        build a bitmap by hand, and use WPFâ€™s visual layer for
+        optimized drawing.
+   --------------------------------------------
+     Chapter 15:
+     -----------
+        explores WPFâ€™s animation framework, which 
+        lets you integrate dynamic effects into your 
+        application using straightforward, declarative markup.
+   --------------------------------------------
+     Chapter 16:
+     -----------
+        explore more sophisticated animation techniques like 
+        key-frame animation, path-based animation, and frame-based 
+        animation. Youâ€™ll also consider a detailed example that 
+        shows how to create and manage dynamic animations with code.
+   --------------------------------------------
+     Chapter 17:
+     -----------
+        shows you how you can give any WPF control a dramatic new look
+        (and new behavior) by plugging in a customized template. 
+        Youâ€™ll also see how templates allow you to build a 
+        skinnable application.
+   --------------------------------------------
+     Chapter 18:
+     -----------
+        explores how you can extend the existing WPF controls and create
+        your own. Youâ€™ll see several examples, including a template-based color      
+        picker, a flippable panel, a custom layout container, and a decorator that 
+        performs custom drawing.
+   --------------------------------------------
+     Chapter 19:
+     -----------
+        shows you how to fetch information from a database, 
+        insert it into acustom data objects, and bind these 
+        objects to WPF controls. Youâ€™ll also learn how to improve the 
+        performance of huge data-bound lists with virtualization, 
+        and catch editing mistakes with validation.
+   --------------------------------------------
+     Chapter 20:
+     -----------
+        shows some of the tricks for turning raw data into rich data
+        displays that incorporate pictures, controls, and selection effects.
+   --------------------------------------------
+     Chapter 21:
+     -----------
+        explores how you use the view in a data-bound window to 
+        navigate through a list of data items, and to apply filtering, 
+        sorting, and grouping.
+   --------------------------------------------
+     Chapter 22:
+     -----------
+        gives you a tour of WPFâ€™s rich data controls, including the
+        ListView, TreeView, and DataGrid.
+   --------------------------------------------
+     Chapter 23:
+     -----------
+        examines how windows work in WPF. Youâ€™ll also 
+        learn how to create irregularly shaped windows and 
+        use Vista glass effects. Youâ€™ll also make the most of Windows 7
+        features by customizing taskbar jump lists, thumbnails, 
+        and icon overlays.
+   --------------------------------------------
+     Chapter 24:
+     -----------
+        describes how you can build pages in WPF and keep track of
+        navigation history. Youâ€™ll also see how to build a browser-hosted 
+        WPF application that can be launched from a website.
+   --------------------------------------------
+     Chapter 25:
+     -----------
+        considers command-oriented controls such as menus
+        and toolbars. Youâ€™ll also get a taste of more modern user 
+        interface with the freely downloadable Ribbon control.
+   --------------------------------------------
+     Chapter 26:
+     -----------
+        describes WPFâ€™s media support. Youâ€™ll see how 
+        to control playback for sound and video, and how 
+        to throw in synchronized animations and live effects.
+   --------------------------------------------
+     Chapter 27:
+     -----------
+        explores the support for drawing 3-D shapes in WPF. 
+        Youâ€™ll learn how to create, transform, and animate 
+        3-D objects. Youâ€™ll even see how to place interactive 
+        2-D controls on 3-D surfaces.
+   --------------------------------------------
+     Chapter 28:
+     -----------
+        introduces WPFâ€™s rich document support. Youâ€™ll learn 
+        to use flow documents to present large amounts of 
+        text in the most readable way possible, and youâ€™ll 
+        use fixed documents to show print-ready pages. 
+        Youâ€™ll even use the RichTextBox to provide document editing.
+   --------------------------------------------
+     Chapter 29:
+     -----------
+        demonstrates WPFâ€™s printing model, which lets you draw 
+        text and shapes in a print document. Youâ€™ll also learn 
+        how to manage page settings and print queues.
+   --------------------------------------------
+     Chapter 30:
+     -----------
+        examines how you can combine WPF and Windows
+        Forms content in the same applicationâ€”and even 
+        in the same window.
+   --------------------------------------------
+     Chapter 31:
+     -----------
+        describes how to create responsive WPF applications 
+        that perform time-consuming work in the background.
+   --------------------------------------------
+     Chapter 32:
+     -----------
+        shows you how to create an extensible application that can
+        dynamically discover and load separate components.
+   --------------------------------------------
+     Chapter 33:
+     -----------
+        shows how you can deploy WPF applications using the 
+        ClickOnce setup model.
+   --------------------------------------------
+   
+        P.S:
+        ----
+        
+        Secure Torrent Downloas:
+   http://?.ws/Apress - Pro WPF in VB 2010 Edition 2010
+==================================================

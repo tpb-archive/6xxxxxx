@@ -1,0 +1,57 @@
+Mac OS X Snow Leopard 10.6.8 - AMD/Intel (2011/Rus/Eng) | 3.2GB
+
+Present to you the family system, code-named Apple, the snow leopard (Snow Leopard),, which is already very long ago did not appear to our eyes but still suitable for AmD and Intel.
+
+The most pleasant surprise will be a folder inside the archive with a full explanation of how such a step by step to install the system from the appearance of an image on Pc, to resolve problems as popular and not so common. All steps razsusoleno in pictures that will be able to install even rebenok.Takzhe are all principle the right software to find and install all the cupcakes and td.Priyatnogo use!
+Features:
+Mac OS X, known for its simplicity, reliability and ease of use. Therefore, when the idea of ??developing Snow Leopard, Apple engineers have set themselves only one goal: to make a good system even better. They pointed out areas in which you can improve, accelerate and simplify the system - from extraction to external media installation. And in many ways they could make an excellent excellent.
+
+Additional Information:
+Obnolennaya SL 10.6.8 OS
+Supports MBR, NTFS read and GTP
+PS / 2 and USB Controllers
+Drivers NVidia (Driver Release 256.02.25 Snow Leopard including 465/470/480/560/570/580/590)
+Ati Radeon 6xxx
+Universal audio driver (VooDooHDA 2.7.1 - Yasien mac, working on my ALC892 5.1)
+
+Installation:
+--It is advisable to put on a separate HDD.
+--A Windows
+--For SATA drives set AHCI mode
+1) Install R Drive Image 4.7.4725 (in the image)
+2) Run by Administrator
+3) Select the Restore
+3.1) Mount in DT or any other software image SL_1068.iso
+4) Select the file on the image SL.ARC
+5) Specify the click of a mouse from the top section of Snow (see screenshot) and section (hard drive) where we want to deliver. (Not on drive C, in a separate volume) Section 12000 requires MB Primary (Primary)
+6) Click to deploy
+6.1) After a successful reversal of the image, click reload. No other manipulations more to do.
+7) Boot
+
+After a successful startup recommend doing this:
+Run in Terminal. After the end - to be restarted.
+sudo rm-rf / System / Library / Extensions.mkext
+sudo rm-rf / System / Library / Extensions / Caches / & & sudo rm-rf / System / Library / Caches /
+sudo update_dyld_shared_cache-debug-force-root /
+sudo defaults write / Library / Preferences / com.apple.windowserver Compositor-dict deferredUpdates 0
+sudo diskutil repairpermissions /
+sudo update_dyld_shared_cache-root /-force
+sudo periodic daily
+sudo periodic weekly
+sudo periodic monthly
+sudo reboot
+
+System requirements:
+- Processor Intel / AMD with support for SSE2 SSE3 (AMD Llano not supported)
+- 512 MB RAM
+- 128 MB Graphics Card
+- At least 12 GB of free disk space
+
+On the file:
+Enabling | reg code: not required
+Language: Rus + Eng
+File Format: map
+Platform / OS: Amd & Intel (x86-x64)
+
+
+The admin password is :123

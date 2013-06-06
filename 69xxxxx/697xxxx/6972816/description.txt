@@ -1,0 +1,22 @@
+Description
+A minimal Debian based Linux system with fully functional bash shell (with GNU coreutils, not BusyBox), TCP/IP networking with DHCP client and APT setup to be able to install any package from the Debian repositories.    
+http://sourceforge.net/projects/bachatalinux/
+
+*.iso files are CD-ROM images with a bootable self-contained installer. Burn on a CD-R disk and boot from it to install on a physical machine, or use directly to install in a virtual machine. 
+*.img files are disk images with a bootable self-contained installer. Write to e.g. an USB disk and boot from it to install on a physical machine. 
+*.cgz files are bundles used by the installation scripts. install-bachatalinux is a Linux shell script to install without a booting. 
+install-bachatalinux-in-kvm-qemu is a Linux shell script to install in a KVM/QEMU virtual machine.  
+http://sourceforge.net/projects/bachatalinux/files/
+ 
+http://www.bachatalinux.net/   
+http://www.staldal.nu/tech/ (blog)
+
+sha1sums and md5sums :
+6d0b118be49dcd802026c00bbf637976b8e0758b  bachatalinux-1.0-i386-486.img
+4c3d10e36f81a1734c17a5173e6cc33b  bachatalinux-1.0-i386-486.img
+ce86e14576873a9da4f7cc39e91fe66c16959bce  bachatalinux-1.0-i386-486.iso
+7ae4c976527f0e7d511804596ef2b4ca  bachatalinux-1.0-i386-486.iso
+170e30f20cf86eba1ca18ba983b0dfb0cc538a1a  bachatalinux-1.0-i386.iso
+f60cb1d1a9d3c08a02e3f60103e3af55  bachatalinux-1.0-i386.iso
+6a09472da82cff539bb0fe26610096200619c725  bachatalinux-1.0-i386.img
+d2a20308df4d747e81eaee4d62891576  bachatalinux-1.0-i386.img

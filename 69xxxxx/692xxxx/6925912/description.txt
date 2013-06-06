@@ -1,0 +1,191 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 20. January 2009, 15:54
+
+The Derek Trucks Band / Already Free
+
+Used drive  : HL-DT-STRW/DVD GCC-4241N   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\FLAC\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=EAC FLAC -8" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  5:02.23 |         0    |    22672   
+        2  |  5:02.23 |  5:01.49 |     22673    |    45296   
+        3  | 10:03.72 |  5:03.69 |     45297    |    68090   
+        4  | 15:07.66 |  4:38.68 |     68091    |    89008   
+        5  | 19:46.59 |  4:16.11 |     89009    |   108219   
+        6  | 24:02.70 |  3:36.64 |    108220    |   124483   
+        7  | 27:39.59 |  5:18.56 |    124484    |   148389   
+        8  | 32:58.40 |  5:07.06 |    148390    |   171420   
+        9  | 38:05.46 |  5:13.60 |    171421    |   194955   
+       10  | 43:19.31 |  4:20.03 |    194956    |   214458   
+       11  | 47:39.34 |  4:45.22 |    214459    |   235855   
+       12  | 52:24.56 |  2:46.36 |    235856    |   248341   
+
+
+Track  1
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\01 - Down In The Flood.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC CCE37B10
+     Copy CRC CCE37B10
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\02 - Something To Make You Happy.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 64128100
+     Copy CRC 64128100
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\03 - Maybe This Time.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC DD2C3EA7
+     Copy CRC DD2C3EA7
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\04 - Sweet Inspiration.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 8A08DE5D
+     Copy CRC 8A08DE5D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\05 - Don't Miss Me.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC EDB7130E
+     Copy CRC EDB7130E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\06 - Get What You Deserve.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 353434D4
+     Copy CRC 353434D4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\07 - Our Love.wav
+
+     Pre-gap length  0:00:02.72
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 3C25AF71
+     Copy CRC 3C25AF71
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\08 - Down Don't Bother Me.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 8CEA0723
+     Copy CRC 8CEA0723
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\09 - Days Is Almost Gone.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC 46D3C3B6
+     Copy CRC 46D3C3B6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\10 - Back Where I Started.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC C2745A4B
+     Copy CRC C2745A4B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\11 - I Know.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 65F393A1
+     Copy CRC 65F393A1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename P:\Derek Trucks\(2009) Derek Trucks Band - Already Free\The Derek Trucks Band - Already Free (2009)\The Derek Trucks Band - Already Free (2009) [FLAC]\12 - Already Free.wav
+
+     Pre-gap length  0:00:05.13
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 2692E85D
+     Copy CRC 2692E85D
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,65 @@
+Finnish language version of Windows XP Professional SP3
+- no serial and no activation needed, updated January 2012
+
+SUOMENKIELINEN WINDOWS XP PROFESSIONAL SP3 TAMMIKUU 2012
+
+Integroitu Windows Updaten ensisijaiset pÃ¤ivitykset (pÃ¤ivitetty tammikuu 2012).
+Integroitu Product Key -tunnus (ei tarvita Product Key -tunnusta asennuksessa).
+Integroitu aktivointi (ei tarvitse aktivoida asennuksen jÃ¤lkeen).
+
+TÃ¤mÃ¤ Windows XP lÃ¤pÃ¤isee Windowsin aitoustarkistuksen.
+- Windowsin automaattiset pÃ¤ivitykset toimii.
+- Windows Updatesta onnistuu Windows XP:n pÃ¤ivityksien asennus.
+- Microsoftin nettisivuilta onnistuu Windows XP:n tiedostojen lataukset.
+
+LisÃ¤ksi integroitu seuraavat pÃ¤ivitykset.
+- Windows Media Player 11
+- Microsoft .NET Framework 2.0 SP2/3.0 SP2/3.5 SP1
+- DirectX 9.0c
+- Windows Installer 4.5
+- MSXML 4.0 SP3
+- Remote Desktop Connection 7.0 Client
+- exFAT file system format
+- Windows Feature Pack for Storage 1.0
+- Image Mastering API 2.0
+- User Profile Hive Cleanup Service 1.6g
+
+--------------------------------------------------------------------------------
+
+Jos asennus suoritetaan kÃ¤ynnistÃ¤mÃ¤llÃ¤ tietokone Windows XP:n asennuslevyltÃ¤, niin Product Key -tunnusta ei kysytÃ¤.
+
+Mutta jos asennus kÃ¤ynnistetÃ¤Ã¤n Windowsin tyÃ¶pÃ¶ydÃ¤ltÃ¤ (ei suositella), niin silloin Product Key -tunnus kysytÃ¤Ã¤n. F4297-RCWJP-P482C-YY23Y-XH8W3
+
+--------------------------------------------------------------------------------
+
+PitÃ¤Ã¤kÃ¶ Windows Updatesta asentaa myÃ¶s .NET Framework 1.1 tai 4 versio?
+
+Ainoastaan jos kÃ¤ytÃ¤t ohjelmaa joka toimii vain .NET Framework 1.1 tai 4 versiossa.
+
+Jos asennat Windows Updatesta .NET Framework 4 version ja jos asennuksen jÃ¤lkeen aina heti tietokoneen uudelleen kÃ¤ynnistyksen jÃ¤lkeen netin aukeaminen kestÃ¤Ã¤ minuutin verran, niin muuta seuraavan palvelun kÃ¤ynnistystapa: automaattinen > manuaalinen.
+
+Microsoft .NET Framework NGEN v4.0.30319_X86
+
+--------------------------------------------------------------------------------
+
+ISO-tiedoston koko 698 Mt, joten polttaminen onnistuu myÃ¶s 80 min CD-levylle.
+
+Kuinka poltan CD/DVD-levylle Windows XP:n buuttaavan ISO-tiedoston?
+
+Polta ISO-tiedosto ilmaisella ImgBurn poltto-ohjelmalla.
+- valitse "Write image file to disc"-painike.
+- valitse "Browse for a file"-kansiokuvake.
+- valitse ISO-tiedosto ja klikkaa "Avaa"-painiketta.
+- laita tyhjÃ¤ CD/DVD-levy asemaan.
+- "Write Speed"-alasvetovalikosta pienennÃ¤ polttonopeutta maksiminopeudesta.
+- valitse "Write"-painike.
+
+--------------------------------------------------------------------------------
+
+Ennen Windows XP:n asennuksen aloittamista tarkista tietokoneen BIOS-asetuksista ettÃ¤ SATA-ohjaimen tilana ei ole AHCI/RAID tai muuten Windows XP:n asennus keskeytyy virheilmoitukseen. Jos haluat kÃ¤yttÃ¤Ã¤ SATA-ohjaimen AHCI/RAID-tilaa, niin silloin Windows XP:n asennuslevylle pitÃ¤Ã¤ integroida nLite ohjelmalla tietokoneen SATA-ohjaimen AHCI/RAID-ajuri.
+
+Integration of Intel's SATA AHCI and RAID drivers
+www.msfn.org/board/topic/107504-integration-of-intels-sata-ahci-and-raid-drivers
+
+Integration of NVIDIA's nForce RAID and AHCI drivers
+www.msfn.org/board/topic/51140-integration-of-nvidias-nforce-raid-and-ahci-drivers

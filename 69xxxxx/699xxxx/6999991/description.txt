@@ -1,0 +1,23 @@
+Final Fantasy 13-2 XBOX360 LT3.0 ISO Patch To LT2.0 
+
+Patch Final Fantasy 13-2 LT3.0 iso so that it will run on LT2.0 firmware,
+Includes Topology data for LT2.0 and Xbox Backup Creator.
+
+Instructions:
+
+1)Open the xbox backup creator (the one in this folder) 
+
+2)go to "image tools"tablet 
+
+3)choose in the right "inject" 
+
+4)click the "ap25 sector and load the iso of ff 13-2 (yes the patched one with the topology data) 
+
+5)Load the topology data which i give in folder 
+
+If all go well at the bottom of the program we will see: 
+Injecting Sector 
+Xbox Format Version = Xbox360 XGD3 
+AP25 Sector file injected at LBA sector 16608 
+
+You are ready to burn your image which now is compatible with your LT2.0!!!

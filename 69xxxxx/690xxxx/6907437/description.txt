@@ -1,0 +1,28 @@
+                                 ___ _          _     _                       
+  /\/\   ___ _ __ _ __ _   _    / __\ |__  _ __(_)___| |_ _ __ ___   __ _ ___ 
+ /    \ / _ \ '__| '__| | | |  / /  | '_ \| '__| / __| __| '_ ` _ \ / _` / __|
+/ /\/\ \  __/ |  | |  | |_| | / /___| | | | |  | \__ \ |_| | | | | | (_| \__ \
+\/    \/\___|_|  |_|   \__, | \____/|_| |_|_|  |_|___/\__|_| |_| |_|\__,_|___/
+                       |___/                                                  
+
+*****************************************************************************
+
+The purpose of this book is to describe the theory of Digital Power Electronics and its applications. The authors apply digital control theory to power electronics in a manner thoroughly different from the traditional, analog control scheme. In order to apply digital control theory to power electronics, the authors define a number of new parameters, including the energy factor, pumping energy, stored energy, time constant, and damping time constant. These parameters differ from traditional parameters such as the power factor, power transfer efficiency, ripple factor, and total harmonic distortion. These new parameters result in the definition of new mathematical modeling:
+
+. A zero-order-hold (ZOH) is used to simulate all AC/DC rectifiers.
+. A first-order-hold (FOH) is used to simulate all DC/AC inverters.
+. A second-order-hold (SOH) is used to simulate all DC/DC converters.
+. A first-order-hold (FOH) is used to simulate all AC/AC (AC/DC/AC) converters.
+
+* Presents most up-to-date methods of analysis and control algorithms for developing
+power electronic converters and power switching circuits
+* Provides an invaluable reference for engineers designing power converters, commercial
+power supplies, control systems for motor drives, active filters, etc.
+* Presents methods of analysis not available in other books.
+
+
+# Hardcover: 464 pages
+# Publisher: Academic Press; 1 edition (October 11, 2005)
+# Language: English
+# ISBN-10: 0120887576
+# ISBN-13: 978-0120887576

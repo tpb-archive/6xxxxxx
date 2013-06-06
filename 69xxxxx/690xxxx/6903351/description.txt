@@ -1,0 +1,48 @@
+Ubuntu 11.10 
+
+
+!!!! Installer fixed, see links below for details
+
+ Second version, revised and supplemented. 
+
+ Features: 
+ Quick download and use 
+ The work function keys, F5 to F12 inclusive.  Key FN - android â”¬Â½Homeâ”¬â•— 
+ Disabling the internal speakers when you connect the headset 
+ Sleep on closing the lid, when connected to HDMI - just turn off the screen 
+
+ Changes compared with before version: 
+ distribution fell to 700 mb 
+ now in the format of rootfs + installer must go on all models of Toshiba 
+ control wifi, hdmi to fn-button 
+ correct operation of the applications menu 
+ application gtk2, gtk3 and qt look is very close as a user and as root 
+ suddenly gained a loading screen, the one that marked Ubuntu 
+ Flash in the browser.  10.2, in the opinion of Chrome is not out of date. 
+
+ Deleted: 
+ software-center, avahi, mono, banshee, nautilus, rhythmbox, unity, ... 
+ the standard game, some standard applications, a variety of applications such as the Magnifier and keyboard 
+
+ Installed: 
+ openbox 
+ obmenu 
+ obconf 
+ tint2 
+ chromium 
+ pidgin (with the plug-led-notify) 
+ volumeicon 
+ conky 
+ marchobmenu 
+
+ Known issues: 
+ Care to sleep and waking are unstable.
+
+
+English:
+  
+http://translate.google.com/translate?sl=ru&tl;=en&js;=n&prev;=_t&hl;=en&ie;=UTF-8&layout;=2&eotf;=1&u;=http%3A%2F%2Fac100.wikispaces.com%2FUbuntu%2B11.10%2Bpreinstalled
+
+Russian:
+  
+http://ac100.wikispaces.com/Ubuntu+11.10+preinstalled		

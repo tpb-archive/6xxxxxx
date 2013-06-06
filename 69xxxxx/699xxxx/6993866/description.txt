@@ -1,0 +1,26 @@
+Application developers, take note: databases aren't just for the IS group any more. You can build database-backed applications for the desktop, Web, embedded systems, or operating systems without linking to heavy-duty client-server databases such as Oracle and MySQL. This book shows you how to use SQLite, a small and lightweight relational database engine that you can build directly into your application.
+
+With SQLite, you'll discover how to develop a database-backed application that remains manageable in size and complexity. This book guides you every step of the way. You'll get a crash course in data modeling, become familiar with SQLite's dialect of the SQL database language, and much more.
+
+    - Learn how to maintain localized storage in a single file that requires no configuration
+    - Build your own SQLite library or use a precompiled distribution in your application
+    - Get a primer on SQL, and learn how to use several language functions and extensions
+    - Work with SQLite using a scripting language or a C-based language such as C# or Objective-C
+    - Understand the basics of database design, and learn how to transfer what you already know to SQLite
+    - Take advantage of virtual tables and modules
+
+"Complex SQL concepts explained clearly."
+
+--D. Richard Hipp, creator of SQLite
+
+About the Author
+Jay Kreibich is a professional software engineer who has always been interested in how people process and understand information. He is current working for Volition, Inc., a software studio that specializes in open-world video games. He lives on a small farm in central Illinois with his wife and two sons, where he enjoys reading, photography, and tinkering.
+
+Book Details:
+
+    * Paperback: 528 pages
+    * Publisher: Oâ€™Reilly Media; 1 edition (August, 2010)
+    * Language: English
+    * ISBN-10: 0596521189
+    * ISBN-13: 978-0596521189
+    * File Size: 10,2 MB (10.203.842 bytes)

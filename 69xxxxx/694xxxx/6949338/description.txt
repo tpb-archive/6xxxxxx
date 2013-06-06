@@ -1,0 +1,84 @@
+MoboPlayer Full v1.2.179
+
+ 
+http://img32.imageshack.us/img32/6953/moboplayer.png
+
+
+MoboPlayer is an alternative video player to the normal Android player. Playback is smooth and clear and the menus and options available are quite extensive. The user interface is really nice too and the app has a high quality feel to it. The app supports all video formats and allows you to create playlists and organize your video library.
+
+
+Pros & Cons:
+
+
+Pros
+
+â€¢Plays all kinds of video formats.
+â€¢Gorgeous user interface.
+â€¢Ability to create playlists.
+â€¢Supports subtitles.
+â€¢Range of organisation functions.
+â€¢Customisation: eg. change the background color of the UI, different thumbnail views, subtitle style.
+â€¢Gives you a lot of manual controls.
+
+Cons
+
+â€¢Video view for me was quite dark, other videos I had created on my phone wouldnâ€™t display properly. You can adjust the brightness, but you have to do this during playback, it isnâ€™t automatic.
+â€¢Complicated navigation.
+
+Features:
+
+MoboPlayer is a cool alternative video player for your Android phone. It seems to have an extra dimension and better UI than the native Android video player. The app plays all kinds of video formats, decoding the different formats to play without any problems. The interface is nice to use and allows you to choose between viewing video thumbnails either in a list or grid view. You initially have to choose a media directory to pluck your video files from, while this is quite straight forward, I would have preferred it if the app could scan your storage automatically and present these itself. You have to manually work out where your videos are stored; great if they are solely in your video folder, but say, downloaded videos take a bit more searching for.
+Once your media directory is set you can choose a video to play. I found the play back very sharp, smooth and satisfactory. However, I did find the videos oddly dark, even if they were quite bright through the native video player.  I was able to adjust this, but I had to do so during playback as I was unable to find the setting in the usual settings menu. I appreciate some users might want to reduce brightness to preserve battery, but this seemed a bit unintuitive.
+The app itself is great for playing different video formats, so you donâ€™t have to manually reformat them first. While it was of no use to me, hard-of-hearing users will benefit from the range of subtitle options available including SRT, ASS and SAA formats.
+I think the beautiful thing about MoboPlayer is the interface, it allows you to swipe between video thumbnails, much like the featured apps in the Android Marketplace. I think this is a nice aesthetic addition, that gives the user a smooth experience.
+The wealth of options and settings did, at times, leave me a bit befuddled. Iâ€™m no expert on video formatting, etc. but having the option to manually alter so much of the playback setting, left me feeling a little out of my depth. I think the application is good, but I perhaps feel it would suit more experienced and expert video users, rather than for people who just want the video player to play the videos without the technical options.
+
+
+
+Usefulness:
+
+Very useful for playing your videos, and the variety of settings and options available make this a very useful application to have, particularly if you utilize a range of video formats on your Android.
+
+
+Ease of Use:
+
+I did find some of the navigating a bit confusing, and you have to do many of the settings manually. There isnâ€™t much in the way of guidance in the application, so you have to either know the technical jargon beforehand or look it up if you want to get the most out of the application.
+
+
+[Frequently Used:
+
+Like many apps, this depends greatly on the user. Many people might watch lots of videos and movies on their phones, if so this app might be used regularly. Iâ€™m more of a casual user, and I would use this a few times per week.
+
+
+Interface:
+
+The interface looks great and has a smooth feel to it. If the navigation was a little less complicated you could enjoy the smart interface without being confused by so many options
+
+In order to make better use of the CPU capacity, Mobo Team has built different video codec packages for different hardware platform. For most of the Android devices you can run Moboplayer perfectly without install codec package. If MoboPlayer on the first launch ask you about a missing codec then install the appropriate codec that you need. 
+
+
+FAQ 
+
+ARMV7, ARMV6 VFP and ARMV6, what are the differences? 
+
+â€¢In order to better enhance the playback and performance, we have compiled for different CPU with different versions. For ARM V7 version we optimized and compiled by making use of the ARMV7 CPU architecture, by fully enabling the NEON instruction set, it provide the best performance. Some devices do not support ARM V7 or NEON, so the V7 version will not work correctly. Currently, higher-end Android phones on the market are based on ARM V7 framework. So if you have a phone like above we recommend you that you select the ARM V7 version.
+
+
+Will i need to convert my video files from PC? 
+
+â€¢There is totally no need to convert the video on PC. Mobo uses the FFmpeg decoder, so in theory it can play almost any video format that ie. VLC Player can decode. The only limits are the device's performance, video resolution and bit rate. When the device's processing power is too low or video resolution is too large, images and sounds may be not synchronized. The conventional device (armv7 1G Hz) can play the video with a width of 1024 pixels smoothly in our tests
+
+
+Mobo 1.2.179 Build (2011-12-20)
+
+
+â€¢Added: support for Android 4.0
+â€¢Fixed: optimizer to reduce the probability of FC
+â€¢Fixed: play the last episode on a loop while playing next automatically in soft decode mode
+â€¢Fixed: file was scanned as a folder in intelligent scanning mode sometimes
+â€¢Fixed: some directory's list display incompletely in Media directory selection interface
+
+
+Want already converted movies? Visit my uploads:
+ 
+http://thepiratebay.org/user/StoneBoyTony/

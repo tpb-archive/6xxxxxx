@@ -1,0 +1,21 @@
+This is a real-time and interactive version of "Pipe Dream", a music animation from the first Animusic DVD. It is originally an ATI graphics demo to demonstrate the Radeon 9700's abilities, but it also works on NVidia cards (Geforce 5 and higher).
+
+
+Additional Info & Tips:
+
+This is a Tweaked version: It doesn't display the logos while the demo is running and it runs in Developer Mode (more functions, see the ReadMe for Shortcut Keys)
+
+Before you run the demo, change the resolution, multisampletype and quality by editing Sushi.ini - You can force the Aspect Ratio and the Refresh Rate by removing the slashes and modify the values.
+If you get an D3DAw Error, try to lower or disable the multisample settings. 
+
+Run without loading screen:
+Create a shortcut to PipeDream.exe and add the parameter -noloading
+Example: "PipeDream Directory\PipeDream.exe" -noloading
+
+
+Animusic HD (Blu-ray Rip): http://thepiratebay.org/torrent/6138943
+
+
+Cheers,
+
+ADHDerby

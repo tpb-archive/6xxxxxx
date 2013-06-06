@@ -1,0 +1,55 @@
+Format : Matroska
+Format version : Version 2
+File size : 1.09 GiB
+Duration : 2h 30mn
+Overall bit rate : 1 044 Kbps
+Encoded date : UTC 2012-01-27 03:48:40
+Writing application : mkvmerge v5.2.1 ('A Far Off Place') built on Jan 2 2012 23:21:10
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 3 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 30mn
+Nominal bit rate : 930 Kbps
+Width : 720 pixels
+Height : 544 pixels
+Display aspect ratio : 1.875
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.099
+Writing library : x264 core 112
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:-1 / analyse=0x3:0x133 / me=tesa / subme=10 / psy=1 / psy_rd=1.10:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=5 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=2pass / mbtree=1 / bitrate=930 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.10
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 2h 30mn
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Language : English
+
+Menu
+00:00:00.000 : en:Chapter 1
+00:01:36.179 : en:Chapter 2
+00:38:52.204 : en:Chapter 3
+01:24:42.076 : en:Chapter 4
+01:55:30.131 : en:Chapter 5

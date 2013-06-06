@@ -1,0 +1,65 @@
+Format                           : MPEG-PS
+File size                        : 674 MiB
+Duration                         : 8mn 17s
+Overall bit rate mode            : Variable
+Overall bit rate                 : 11.4 Mbps
+
+Video
+ID                               : 224 (0xE0)
+Format                           : MPEG Video
+Format_Commercial_IfAny          : HDV 720p
+Format version                   : Version 2
+Format profile                   : Main@High
+Format settings, BVOP            : Yes
+Format settings, Matrix          : Custom
+Duration                         : 8mn 17s
+Bit rate mode                    : Variable
+Bit rate                         : 10.8 Mbps
+Maximum bit rate                 : 17.9 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 59.940 fps
+Standard                         : Component
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.195
+Stream size                      : 638 MiB (95%)
+Color primaries                  : BT.709
+Transfer characteristics         : BT.709
+Matrix coefficients              : BT.709
+
+Audio
+ID                               : 189 (0xBD)-128 (0x80)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : DVD-Video
+Duration                         : 8mn 17s
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 22.8 MiB (3%)
+
+Text #1
+ID                               : 224 (0xE0)-608-1
+Format                           : EIA-608
+Muxing mode                      : A/53 / DTVCC Transport
+Muxing mode, more info           : Muxed in Video #1
+Bit rate mode                    : Constant
+Stream size                      : 0.00 Byte (0%)
+
+Text #2
+ID                               : 224 (0xE0)-1
+Format                           : EIA-708
+Muxing mode                      : A/53 / DTVCC Transport
+Muxing mode, more info           : Muxed in Video #1
+Bit rate mode                    : Constant
+Stream size                      : 0.00 Byte (0%)

@@ -1,0 +1,68 @@
+Another release from aPPleFaNaTiC:
+
+aTV Flash (black) is a user-friendly software package that supercharges your new black AppleTV, unleashing a plethora of new functionality. Donâ€™t worry about the technical details â€“ aTV Flash (black) is simple to use and safe for your AppleTV. Installation is a snap and doesnâ€™t require any physical changes to the AppleTV.
+
+Differences from Betas:
+
+Added support for .IMG files
+Added option to mark specific folders as grid or list view
+Added subtitle position setting
+Added support for larger thumbnail images
+Added support for UTF-8 paths in DVD files
+Added web page auto-loading feature
+Added screen position setting in Couch Surfer
+Added show/hide menus option
+Improved audio synchronization in DVD and AVI files
+Improved metadata fetching logic
+Improved filenames parsing logic
+Improved playlist logic that marks files as watched
+Improved buffering performance
+Improved ISO files handling (resolved network error warning)
+Improved error handling for DVD files
+Improved growl notifications display logic for audio files
+Improved warning messages for unplayable files
+Improved grid view stability
+Improved fanart loading
+Improved memory management
+Improved installation routine
+Improved installer device detection
+Resolved issues with long DNS names
+Resolved issue with extra period appearing at the end of some DNS names
+Resolved crash observed when audio subsystem could not be initialized
+Resolved issues with chapter handling logic
+Minor UI improvements
+Many other miscellaneous fixes
+Added support for FLAC and MTS files
+Added support for files with 5.0, 4.0, 3.0 and 2.1 audio tracks
+Added support for embedded covert art (m4a, m4v, mp4)
+Added fanart backdrops for TV Shows
+Added new folder artwork in Grid View
+Added loop and shuffle playlist options
+Added TV Show series cover art in Grid View and Top Shelf
+Added top to bottom and right to left navigation in grid view
+Added global setting for enabling/disabling subtitles
+Added support for large photo collections
+Added support for folders containing dot (\\\'.\\\') in their name
+Added (watched) view options in List View (use Play/Pause button to switch mode)
+Added backup type options
+Added relaunch prompt after restoring from saved backup
+Improved folder cover art logic
+Improved setup of new shares
+Improved handling of invalid XML files
+Improved cursor handling in DVD menus
+Improved recently watched item handling
+Improved metadata caching logic
+Improved TV Show filename parsing
+Improved Grid View stability
+Improved metadata fetching speed
+Resolved issues with audio file metadata fetching
+Resolved floating crashes related to metadata fetching
+Resolved issues with metadata overriding when starting playback from top shelf
+Resolved issues with chapter selection screen layout observed on short files
+Resolved issues with metadata reloading in Grid View
+Resolved issues with TV Shows aired date
+Resolved issues with hangs on certain DVD menus
+Resolved minor memory management issues
+Resolved issues with scrolling in Top Shelf
+Resolved issues with folder names overlapping in Grid View
+Minor UI improvements

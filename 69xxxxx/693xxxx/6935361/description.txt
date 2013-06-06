@@ -1,0 +1,73 @@
+COUNTER-STRIKE SOURCE
+
+
+*********************************************************************
+
+Tested and Working on Win Xp 32/64,Vista 32/64,Win 7 32/64
+
+*********************************************************************
+
+Latest Changes
+
+Important notes
+
+    If you were previously crashing on startup, please have Steam verify the integrity of your game cache
+        Update your game to the most current version
+        Right-click on the game and select "Properties"
+        Click on the "Local Files" tab
+        Click on the "Verify Integrity of Game Cache" button
+    If you were previously crashing when connecting to a server, please run once with "-autoconfig" to reset your graphics state
+        Update your game to the most current version
+        Right-click on the game and select "Properties"
+        Click on the "General" tab
+        Click on the "Set Launch Options..." button
+        Add "-autoconfig" to the launch options and click OK
+        Restart your game
+        After doing this, you should remove -autoconfig from your launch options
+
+
+Source Engine Changes (CS:S, DoD:S, TF2, HL2:DM)
+
+    Fixed several client crashes on game startup, shutdown, and replay interaction
+    Updated the materials used on models to ignore the $ignorez flag, to make it harder to create wallhacks on sv_pure 0 servers
+
+
+===================================================================================
+
+
+Emulated with latest Revolution Emulator
+
+===========================================================================
+
+Supported Languages are :
+
+English, French, Italian, German, Spanish, sChinese, 
+
+Korean, Koreana, tChinese, Japanese, Russian, Thai, or Portugeuse
+
+You can change language by the rev.ini file which is located in your CSS folder where hl2.exe is
+
+Open rev.ini file and find : Language = English
+
+Cahnge it to your prefer language,this can be one of the written above.
+
+Remember : you cannot use language which is not discribed above !
+
+=============================================================================
+System Requirements :
+
+Minimal : Windows 98/ME/2000/XP; CPU 1.2 GHz; 512 Mb; Video 128 Mb.
+
+
+Recommnended: CPU 2.4 GHz; 1024 Mb; 256 Mb Video.
+
+
+(Tactical / Shooter) / Add-on (Standalone) / 3D / 1st Person / MOD
+
+
+To install the game right click on the "rar" file and extract it anywhere on your 
+HDD.Open the folder and run the counter strike source.exe.Play online.
+
+
+
+Seed & EnjoY					

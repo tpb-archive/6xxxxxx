@@ -1,0 +1,70 @@
+Doom v12-28-Fix
+Requirements: Android 1.5-2.3 [3.0/4.0 Not Supported]
+Overview: Ported from PrBoom, so it can support all kinds of version Doom. This game contains demo data, please read the tutorial bellow if you want to play other map
+
+Phones not playable: Galaxy 10.1, HTC wildfire.
+
+
+
+Praise
+Â» Awesome, just like in the good 'old days! Right in the palm of my hand... -Super Dave
+
+Â» Good job and thank you!! Best couple of bucks I ever spent for surez! ... You're not paying for the game you are paying for the awesome prboom port for android... Figure it out -Louis
+
+Â» Nostalgic I couldn't even imagine I could play Doom on my cellphone when I was a kid. This app is great!! Many thanks for bringing back memories! -Olli
+
+Â» Great!! Works with my Doom2.wad from my old orig. Doom2-Cd!  I can play Doom2 now on my mobile!! Fantastic! -Marcel
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Note:
+- How to play other version, like final doom TNT,DOOM2 ?
+Copy the WAD file to the SD card /sdcard/doom. then start the game, if you want music Music,copy music files to /sdcard/doom/music.
+- The code of this game is under GPL, the code is here: 
+http://code.google.com/p/doom-android/
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Update:
+2011-12-28
+fix the bug of can't showing menu when game is playing. now press the menu button to show the menu
+2011-12-26
+Fix the bug of D-Pad movement geting "stuck"
+2011-12-25
+1.Change control. default use DPAD key to control to move
+2.Add support of Xperiaâ„¢ PLAY key. welcome to your feedback
+3.When you accidentally press the escape key. press the fire button to goon playing game
+4.Fix the crash happened on Xoom
+2011-12-20
+Install on sdcard
+2011-11-3 version 2.7
+1. Now playing other map become much easier than ever before, just copy the map file(wad format) to /sdcard/doom. then restart the game. HAVE FUN guys!!!!
+2.add disable music option for performance issue
+2011-9-16 version 2.6
+1.add keyboard. now you can input cheat code
+
+2011-9-4 version 2.3
+1. fix a little bug of touchscreen control. witch is that when your finger press both the Dpad up icon and turn left icon. then release turn left finger. although you still press the Dpad up icon, but the character doesn't move up any more. now fix this problem.
+2011-9-10 version 2.4
+support phone Xperia Play
+2011-8-8 version 2.1
+1.add options that you can use dpad to turn left/right instead of strafe
+2011-7-28 version 2.0
+1.add god mod . you can turn god mode on/off by pressing the god icon.
+2.fix bug of left button doesn't working sometimes
+2011-7-7 version 1.9
+1.so many people didn't like the change. so change it back
+2.add a option. so now you can reposition position of all touchscreen icons
+2011-7-5 version 1.8
+1.resort the touch screen icon for more playable
+2011-6-20 version 1.7
+1. Now if you didn't use volume button to control game. it's used to control music volume
+2. Now can save and restore the wad file name you input.
+2011-6-13 version 1.6
+1. fix touch screen control bug. sorry for this bug. this bug can make character keep running . now I fix it.
+2. add menu entry to reset to default key binding.
+3. Update music name on prboom.cfg file. so now if you have download the doom2_music.zip and play final doom(like tnt doom or plutonia),you can here music
+2011-6-9 version 1.4
+change icon and it's positon
+2011-5-12 version 1.3
+* add option of choosing wad file, Now you can play all kinds of wad file
+2011-5-12 version 1.2
+1. Support phone button binding. make the game more playable. If your phone has no keyboard. now you can choose to use the volume button,the search button and so on to control the game.
+2. now you can modify the transparent of the icon

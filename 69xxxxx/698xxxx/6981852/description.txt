@@ -1,0 +1,7 @@
+CHANGELOG  
+   - Added knife hostage animation (replaces choke when using knife)
+   - Added throat cut (press attack during knife hostage)
+   - Added one-handed body drag when wielding weapon
+   - Initial sticking and cutting for thrown sharp weapons
+   - Sharp weapons check sharpness maps for collision type
+   - Weapon-throw AI leads moving targets, calculates arc and number of spins needed

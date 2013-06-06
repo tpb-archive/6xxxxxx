@@ -1,0 +1,103 @@
+----------------------------------------------------------------
+
+GTA: Elite Collection [Vice Cite Mod]
+
+----------------------------------------------------------------
+
+Created by KloneB@DGuY | www.homedition.ru
+
+----------------------------------------------------------------
+
+Version: 1.1
+Year: 2007
+Genre: Action [Shooter] / TPS [3rd Person]
+Online game: Yes
+Developer: Rockstar North & HomEDition Company 
+Publisher: HomEDition Company
+Localization: Fargus
+Platform: PC
+Language Text: Russian / English
+Language Voice: English
+Support OS: Windows 98 / ME / 2000 SP3 / XP SP1 / Vista / Seven
+Support x64: Yes
+
+----------------------------------------------------------------
+
+Recommended system requirements:
+- OS: Windows XP SP3
+- CPU: Intel Pentium 4 /Athlon XP 2 GHz
+- RAM: 1 Gb
+- Video-Card: ATI Radeon X1600 Pro 256 Mb [DirectX 9-compatible]
+- Sound-Card: DirectX 9-compatible sound card with Dolby Surround
+- HDD: 1.7 Gb
+- Controls: Keyboard + Mouse
+- Additional: Geympad [if required]
+- Online Game: Internet access / LAN [if required]
+
+----------------------------------------------------------------
+
+Description: Global alteration game GTA: Vice City.  Maud has
+absorbed all the best versions ever created for the VC! The
+quality of the execution mode, the chips and copyrights
+attributed radios allow for a fresh look at the game!
+
+----------------------------------------------------------------
+
+A short list of innovations:
+- added a couple of new missions [ Mayak and near club Navigator ]
+- You can buy a new building [ airport, a lighthouse, and so on.]
+- added garage booking cars [ looking in the Mexican quarter ]
+- added new locations [ Skate Park, a park of OGGY, \" Gemini \"]
+- localize the texture [ road signs, posters, etc..]
+- added the ability to slow down time [ both on foot and in car ]
+- You can create bodyguards
+- Now in one click you can spread all around
+- added to the generator of transport
+- replaced with models of all transportation
+- new management for all transportation
+- in transportation, you can use nitro acceleration
+- Now the plane Air Force Skimmer fused bombs and warheads
+- altered characteristics of weapons
+- altered characteristics of close combat
+- replaced with models of all weapons
+- replaced all the radio stations
+- new textures / models of pedestrians, gangs and so on.
+- replaced by the texture of the road and sidewalk
+- lots of new textures, and more...
+
+----------------------------------------------------------------
+
+Fix Bugs:
+
+1. Fix problems with changing weather:
+ When the weather changes a unique jump. Fashion Bug
+ \"Speedometer.\" If this annoys you, just delete the d3d8.dll
+ and speedo.cfg of the game folder. But instead, you will lose
+ a graphic indicator of the speed!
+
+2. Fixed problems with displaying videos:
+ If you have installed K-Lite Codec Pack, you can not play
+Â introductory videos. To resolve this bug, set the Decoder
+Â as shown in this picture http://homedition.ru/logos/games/how_to_fix_playing_video_in_games.png
+
+----------------------------------------------------------------
+
+Additional information:
+ If you have problems with starting the game, then
+ try to run in compatibility mode for Windows 95/98/XP!
+
+ Savegames here lie My Documents\\GTA LC User Files
+
+ See bonus in the game directory in bonus folder!
+
+----------------------------------------------------------------
+
+Additional installer parameters:
+ /S silent install/uninstall game [without dialogues]
+ /D=path specify a folder to install the game*
+ /NCRC disable integrity installer checks
+
+ * always have to write this command only at the end of the line! 
+ sample: setup.exe /S /NCRC /D=C:\\Games\\My Test Game
+
+----------------------------------------------------------------

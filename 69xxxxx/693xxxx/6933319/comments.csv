@@ -1,0 +1,16 @@
+User Type,Username,Date,Text
+,baloo2.1,2012-01-05T14:37Z,"Thanks to you too, marcoscu3!
+
+As an addendum: Once I've seeded enough, I usually revert to seeding IPv6 only.
+
+You probably have noticed, that the media industry is a decade or so behind in terms of technological developement. They have barely left DC++ yet.
+
+It's probably rather safe to assume that it will take at least five years before they can handle IPv6, so anyone seeding IPv6-only will be safe for years ahead.
+
+With uTorrent all you have to do, to use only IPv6, is creating a file 'ipfilter.dat' with this one line:
+
+000.000.000.000 - 255.255.255.255 , 000 , IPv4
+
+... and then save it in (for Windows users)  
+
+\Documents and Settings\(your name)\Application Data\uTorrent\"

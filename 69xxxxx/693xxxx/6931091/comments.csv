@@ -1,0 +1,6 @@
+User Type,Username,Date,Text
+[T],skJGZV6z,2012-01-08T04:42Z,"@Nyhanare Had a quick think on it, and it sounds like you were having trouble getting the torrent to download, yeah?
+
+I'm guessing that you had this worm already extant on your system. If it inserts itself into the file, your client's housekeeping will see that parts of the file no longer pass hash checks and this would manifest itself either as difficulty completing, or a completed torrent that flips spontaneously from seeding, back to downloading. Essentially, the torrent client and the worm are at war: one trying to re-conquer the file, the other trying to patch it back to what the torrent says it ought to be.
+
+If this symptom manifests with other files, I'd say my guess is likely correct."

@@ -1,0 +1,21 @@
+tTorrent FULL v0.9.1
+Requirements: Android 1.6+
+Overview: tTorrent is a BitTorrent client for Android based devices.
+
+
+
+
+Features:
+- multiple torrent downloading, queuing
+- search for torrents
+- Wifi only mode
+- able to limit Upload/Download speed
+- web browser integration
+- trackerless torrent (DHT) support
+
+What's in this version:
+- Show 0% as progress for files with zero priority in details view.
+- Fixed FC when adding new torrents from search results.
+- Fixed some other force closes.
+
+Provided by: -Market Militia-

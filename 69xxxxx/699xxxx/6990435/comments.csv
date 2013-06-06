@@ -1,0 +1,16 @@
+User Type,Username,Date,Text
+,Cpat2971,2012-05-09T13:32Z,@Samo_vccs thanks! works great!
+t it from TibbleA post. All the credits to him, but i didn't understood at first. So i`ll translate his instructions.
+
+1 - open the folder where the ""Foundry License Installer"" is.
+2 - right click ""Foundry License Installer"" and click: ""show package contents""
+3 - a folder with ""contents"" will open / click contents / click MacOS
+4 - you will see LicenseCmd and LicenseInstaller in this folder. All we have to do is change the mode of these files to executables. We will gonna do this in the terminal, with the command ""chmod"" (change mode) and +x (plus x, or plus execute)
+5 - open terminal (type in spotlight ""terminal"" and click)
+6 - type: chmod +x (and here you drag and drop one of the files)
+7 - respect the spaces! is: chmod(space)+x(space)drag and drop LicenseCmd(enter)
+8 - do the same with LicenseInstaller
+9 - you should notice that they became from a document file to a unix file
+
+10 - now double click the Foundry License Installer (the first one we opened in this instruction)
+11- voila"

@@ -1,0 +1,19 @@
+Introduction
+
+I have created a USB driver which allows you to use wired XBox 360 Controllers via USB, and wireless XBox 360 Controllers via the Microsoft Wireless Gaming Receiver for Windows, on your OSX machine, including support for the Apple Force Feedback library. The driver is licenced under the GPL.
+
+Snow Leopard
+
+I\\\\\\\'ve released a version which will hopefully install and work fine on 32-bit Snow Leopard. It also contains 64-bit binaries, however I\\\\\\\'ve been unable to test them because Apple have disabled my MacBook from booting into 64-bit mode. I have however been informed that 64-bit and 32-bit builds are both working.
+
+ChatPad
+
+I have got the Microsoft ChatPad working with my wired controller. The latest release of the driver includes support, and I\\\\\\\'ll be updating the USB information section of this website shortly. I\\\\\\\'ve not yet checked the wireless receiver for compatibility.
+
+Other info
+
+Sadly, my PowerMac has died, which as my primary development machine has slowed progress.
+
+I have added a version of the driver without support for the Guitar Hero controller, to allow the Guitar Hero for Mac game to work (it attempts to access hardware directly, which doesn\\\\\\\'t work if a real driver has claimed the device).
+
+Download

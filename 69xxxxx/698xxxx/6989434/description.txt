@@ -1,0 +1,177 @@
+General
+Format                           : Matroska
+Format_Version                   : Version 2
+FileSize/String                  : 27,0GIB
+Duration/String                  : 3h 48min.
+OverallBitRate_Mode/String       : Variable
+OverallBitRate/String            : 16,9Mbps
+Movie                            : ESDLA La comunidad del anillo V.Extendida BDrip 1080 by Nestai
+Encoded_Date                     : UTC 2011-09-18 08:18:43
+Encoded_Application              : mkvmerge v4.9.1 (\'Ich will\') creado el Jul 11 2011 23:53:15
+Encoded_Library/String           : libebml v1.2.1 + libmatroska v1.1.1
+
+Video
+ID/String                        : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format_Profile                   : High@L4.1
+Format_Settings_CABAC/String     : Si
+Format_Settings_RefFrames/String : 4marcos
+CodecID                          : V_MPEG4/ISO/AVC
+Duration/String                  : 3h 48min.
+BitRate/String                   : 13,3Mbps
+Width/String                     : 1 920pixeles
+Height/String                    : 800pixeles
+DisplayAspectRatio/String        : 2,40:1
+FrameRate/String                 : 23,976fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8bits
+ScanType/String                  : Progresivo
+Bits-(Pixel*Frame)               : 0.360
+StreamSize/String                : 21,9GIB (81%)
+Title                            : ESDLA La comunidad del anillo V.Extendida BDrip 1080 by Nestai
+Language/String                  : EspaÃ±ol
+Default/String                   : No
+Forced/String                    : No
+
+Audio #1
+ID/String                        : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+CodecID                          : A_AC3
+Duration/String                  : 3h 48min.
+BitRate_Mode/String              : Constante
+BitRate/String                   : 640Kbps
+Channel(s)/String                : 6canales
+ChannelPositions                 : Front: L C R, Side: L R, LFE
+SamplingRate/String              : 48,0KHz
+BitDepth/String                  : 16bits
+StreamSize/String                : 1,02GIB (4%)
+Title                            : Ac3 5.1@640 kbps (DTS-MA Blu Ray)
+Language/String                  : EspaÃ±ol
+Default/String                   : Si
+Forced/String                    : No
+
+Audio #2
+ID/String                        : 3
+Format                           : DTS
+Format/Info                      : Digital Theater Systems
+Format_Profile                   : MA / Core
+CodecID                          : A_DTS
+Duration/String                  : 3h 48min.
+BitRate_Mode/String              : Variable
+BitRate/String                   : 1 561Kbps / 1 510Kbps
+Channel(s)/String                : 6canales
+ChannelPositions                 : Front: L C R, Side: L R, LFE
+SamplingRate/String              : 48,0KHz
+BitDepth/String                  : 16bits
+Compression_Mode/String          :  / Lossy
+Title                            : DTS 6.1@1DTS-HD (Core DTS-MA Blu Ray)
+Language/String                  : EspaÃ±ol
+Default/String                   : No
+Forced/String                    : No
+
+Audio #3
+ID/String                        : 4
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+CodecID                          : A_AC3
+Duration/String                  : 3h 48min.
+BitRate_Mode/String              : Constante
+BitRate/String                   : 640Kbps
+Channel(s)/String                : 6canales
+ChannelPositions                 : Front: L C R, Side: L R, LFE
+SamplingRate/String              : 48,0KHz
+BitDepth/String                  : 16bits
+StreamSize/String                : 1,02GIB (4%)
+Title                            : Ac3 5.1@640 (DTS-MA Blu Ray)
+Language/String                  : InglÃ©s
+Default/String                   : No
+Forced/String                    : No
+
+Texto #1
+ID/String                        : 5
+Format                           : UTF-8
+CodecID                          : S_TEXT/UTF8
+CodecID/Info                     : UTF-8 Plain Text
+Title                            : Forzados (Elficos)
+Language/String                  : EspaÃ±ol
+Default/String                   : Si
+Forced/String                    : No
+
+Texto #2
+ID/String                        : 6
+Format                           : UTF-8
+CodecID                          : S_TEXT/UTF8
+CodecID/Info                     : UTF-8 Plain Text
+Title                            : Forzados (Elficos)
+Language/String                  : InglÃ©s
+Default/String                   : No
+Forced/String                    : No
+
+Texto #3
+ID/String                        : 7
+Format                           : UTF-8
+CodecID                          : S_TEXT/UTF8
+CodecID/Info                     : UTF-8 Plain Text
+Title                            : Completos
+Language/String                  : EspaÃ±ol
+Default/String                   : No
+Forced/String                    : No
+
+Texto #4
+ID/String                        : 8
+Format                           : UTF-8
+CodecID                          : S_TEXT/UTF8
+CodecID/Info                     : UTF-8 Plain Text
+Title                            : Completos
+Language/String                  : InglÃ©s
+Default/String                   : No
+Forced/String                    : No
+
+Texto #5
+ID/String                        : 9
+Format                           : PGS
+MuxingMode                       : zlib
+CodecID                          : S_HDMV/PGS
+CodecID/Info                     : The same subtitle format used on BDs/HD-DVDs
+Title                            : Forzados
+Language/String                  : EspaÃ±ol
+Default/String                   : No
+Forced/String                    : No
+
+Texto #6
+ID/String                        : 10
+Format                           : PGS
+MuxingMode                       : zlib
+CodecID                          : S_HDMV/PGS
+CodecID/Info                     : The same subtitle format used on BDs/HD-DVDs
+Title                            : Completos
+Language/String                  : EspaÃ±ol
+Default/String                   : No
+Forced/String                    : No
+
+Texto #7
+ID/String                        : 11
+Format                           : PGS
+MuxingMode                       : zlib
+CodecID                          : S_HDMV/PGS
+CodecID/Info                     : The same subtitle format used on BDs/HD-DVDs
+Title                            : Forzados
+Language/String                  : InglÃ©s
+Default/String                   : No
+Forced/String                    : No
+
+Texto #8
+ID/String                        : 12
+Format                           : PGS
+MuxingMode                       : zlib
+CodecID                          : S_HDMV/PGS
+CodecID/Info                     : The same subtitle format used on BDs/HD-DVDs
+Title                            : Completos
+Language/String                  : EspaÃ±ol
+Default/String                   : No
+Forced/String                    : No

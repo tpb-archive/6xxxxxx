@@ -1,0 +1,44 @@
+Corona A5 jailbreak nearly ready to pop!
+
+Ever since the December release of @pod2gâ€™s â€œcoronaâ€ untether for iOS 5.x on A4 and earlier devices, all eyes have been on the attempts to extend it to the A5 devices: the iPhone4S and iPad2. Due to the combined efforts of @pod2g and members of the iPhone Dev Team and Chronic Dev Team, weâ€™re nearly ready for a general release! All technical hurdles dealing with the underlying technique have been overcome, and itâ€™s now all about making the jailbreak as bug free as possible.
+
+On his blog, @pod2g playfully nicknamed the combined effort a â€œdream teamâ€. Itâ€™s an ironic name, because the past few weeks have left everyone involved with very little sleep and the opportunity to dream But weâ€™re now near the final stages of testing the public version of the jailbreak. Please allow time to clean up any remaining bugs in the jailbreak clients.
+
+Jailbreak programs:
+
+To be as flexible as possible, the A5 version of the corona jailbreak will take multiple forms:
+
+Chronic Dev have incorporated the overall flow into a GUI that runs on your Mac or PC. The goal is for the GUI to be enough for most cases.
+iPhone Dev have also incorporated the exact same flow into an alternative command-line interface (CLI). This will allow us to help users through individual steps of the jailbreak manually, to both help the user and help improve the overall flow. Although the CLI will also allow the user to perform the entire jailbreak from beginning to end, we anticipate it will be more useful in debugging the occasional errors. The CLI currently has over 20 individual options (in addition to the single â€œjailbreakâ€ option) that should be useful during debug after the GUI release.
+Once all the bugs in the flow are worked out, weâ€™ll also incorporate it into the redsn0w GUI (but still leave the CLI freely available too). In order to maximize the chances of the jailbreak working for everyone, the redsn0w GUI will use native Apple iTunes libraries â€” this technique is slightly different than how the Chronic Dev GUI handles communications, and should provide nice combined coverage for all the odd computer configurations out there.
+
+Paypal Contributions:
+
+Because there were so many different people and teams involved in the A5 corona release, we all felt the most equitable approach to any Paypal contributions should involve a single shared account. If you do feel the desire to contribute to the â€œdream teamâ€ Paypal account, it will be distributed to the members according to internally agreed-upon proportions (Please refer to this blog post for that specificlink, to avoid frauds!) The same link will be on both the Chronic Dev and iPhone Dev versions of the GUI. This method seemed like the fairest to everyone involved!
+
+Firmware:
+
+The supported firmware versions will be:
+
+iPhone4S: 5.0 (9A334), 5.0.1 (9A405) and the â€œotherâ€ 5.0.1 (9A406)
+iPad2: 5.0.1 (9A405)
+iPhone4S owners looking to maximize their chances of achieving an eventual software-based carrier unlock should be staying at 5.0. Everyone else should be at 5.0.1. If youâ€™re an iPhone4S owner who already updated to 5.0.1, itâ€™s too late to go back down to 5.0, but if youâ€™re on 9A406 it is possible to downgrade the BB by going to the 9A405 version of 5.0.1 while the window is still open.
+
+Support:
+
+The overall flow used by the GUI and CLI to inject the A5 corona jailbreak has never been done before, and there may be unforeseen problems once itâ€™s released to the public. Itâ€™s very important for you to sync your data, photos, and music before attempting any version of this jailbreak. Weâ€™ll be watching the comments section below for signs of any widespread problems, but please be aware that you jailbreak at your own risk! 
+
+When:
+
+As mentioned at the start of this post: when testing has shown most of the bugs have been fixed!
+
+Updates:
+
+If the Absinthe webclip shows â€œError establishing a database connectionâ€, please go to Settings, turn on VPN and wait instead. 
+Toggle VPN only AFTER Absinthe says itâ€™s done, or it will not work. 
+VPN SHOULD error and then reboot soon. If it does not, rerun Absinthe!
+If you get a strange problem, we advise you to restore your iPhone with iTunes, if you can (i.e. if youâ€™re not on 5.0 waiting for an eventual 4S unlock).
+The OS X version of the CLI mentioned in the post can be downloaded here. Itâ€™s primarily to help us debug specific issues, but tinkerers might like to play around with some of its advanced options! More info is here.
+
+
+Source: http://blog.iphone-dev.org/post/16162905938/corona-a5-jailbreak-nearly-ready-to-pop

@@ -1,0 +1,41 @@
+Detective kernel Ã© uma ferramenta gratuita que ajuda a detectar, analisar, modificar manualmente e corrigir algumas modificaÃ§Ãµes do kernel do Windows NT. Detective Kernel lhe dÃ¡ o acesso ao kernel diretamente, entÃ£o nÃ£o Ã© orientado para iniciantes. MudanÃ§a fundamental no modo kernel objetos sem conhecimento suficiente vai levar vocÃª a um sÃ³ resultado ... BSoD!
+
+VersÃµes suportadas NT:
+XP / Vista / Server 2008/Seven
+
+
+Detective Kernel lhe dÃ¡ a capacidade para:
+1 - Detectar processos ocultos.
+3 - Detectar Threads Oculto.
+2 - Detectar DLLs Oculto.
+3 - Detectar Handles Oculto.
+4 - Detectar Driver de Oculto.
+5 - Detectar SSDT Hooked.
+6 - Detectar SSDT Sombra Hooked.
+7 - Detectar IDT Hooked.
+8 - Detectar alteraÃ§Ãµes no modo kernel de cÃ³digo e ganchos.
+9 - Desmonte (Read / Write) Kernel-mode/User-mode memÃ³ria.
+10 - Monitor de saÃ­da de depuraÃ§Ã£o em seu sistema.
+
+
+Enumerar processos em execuÃ§Ã£o e imprimir valores importantes, como Id Processo, ID do processo pai, ImageBase, EntryPoint, VirtualSize, endereÃ§o de bloco PEB e endereÃ§o do bloco EPROCESS. Especial algoritmos de detecÃ§Ã£o de indocumentados foram implementados para detectar processos ocultos.
+
+Detectar tÃ³picos ocultos e suspeitas no sistema e permitir que o usuÃ¡rio forcely finalizÃ¡-las.
+
+Enumerar um especÃ­fico processo de execuÃ§Ã£o bibliotecas de vÃ­nculo dinÃ¢mico e mostrar todos os ImageBase Dll, EntryPoint, Tamanho e Path. VocÃª tambÃ©m pode injetar ou mÃ³dulo especÃ­fico livre.
+
+Enumerar um processo especÃ­fico em execuÃ§Ã£o abriu alÃ§as, mostrar o nome de cada alÃ§a do objeto e endereÃ§o e dar-lhe a capacidade de fechar a alÃ§a.
+
+Enumerar carregados drivers de modo kernel e mostrar todos os ImageBase driver, EntryPoint, tamanho, nome e caminho. Algoritmos de detecÃ§Ã£o de indocumentados foram implementados para detectar motoristas escondidos.
+
+Examinar a tabela de serviÃ§os do sistema (SSDT) â€‹â€‹e mostrar todos os endereÃ§os funÃ§Ã£o de serviÃ§o eo endereÃ§o funÃ§Ã£o real, algoritmo de detecÃ§Ã£o melhorada para contornar KeServiceDescriptorTable EAT / IAT hooks.You pode restaurar endereÃ§o Ãºnica funÃ§Ã£o do serviÃ§o ou restaurar a tabela inteira.
+
+Digitalizar a sombra tabela de serviÃ§os do sistema (Shadow SSDT) â€‹â€‹e mostrar cada sombra endereÃ§o funÃ§Ã£o de serviÃ§o eo endereÃ§o funÃ§Ã£o real. VocÃª pode restaurar Ãºnica sombra endereÃ§o funÃ§Ã£o do serviÃ§o ou restaurar toda a tabela
+
+Examinar a tabela interrupÃ§Ãµes (IDT) e mostrar a cada manipulador de interrupÃ§Ã£o offset, seletor, tipo, atributos e manipulador de reais offset. Este Ã© aplicada a cada processador em um multi-processadores de mÃ¡quinas.
+
+Digitalizar os mÃ³dulos do kernel importantes do sistema, detectar as modificaÃ§Ãµes no corpo e Ã© analisÃ¡-lo. Por enquanto ele pode detectar e restaurar modificaÃ§Ãµes de cÃ³digo inline, EAT e IAT ganchos. Estou Ã  procura de mais outros tipos de releases ganchos ao lado de detetive Kernel.
+
+Um disassembler bom contar com OllyDbg motor DISASM, graÃ§as Oleh Yuschuk para a publicaÃ§Ã£o de seu motor DISASM agradÃ¡vel. Com ele vocÃª pode desmontar, montar e editar hex memÃ³ria virtual de um processo especÃ­fico ou atÃ© mesmo o espaÃ§o de memÃ³ria do kernel. Detective Kernel usÃ¡-lo da prÃ³pria Read / Write rotinas de modo kernel e nÃ£o depender de qualquer API do Windows. Que fazem Detective Kernel capaz de VM processos R / W mesmo NtReadProcessMemory / NtWriteProcessMemory estÃ¡ ligado, tambÃ©m ignorar a ganchos na outra de modo kernel rotinas importantes como KeStackAttachProcess e KeAttachProcess.
+
+Mostrar as mensagens enviadas pelos motoristas para o depurador de kernel como Dbgview por Mark Russinovich. Ã‰ fazer isso ligando 0x2d interrupÃ§Ã£o que Ã© responsÃ¡vel por outputing mensagens de depuraÃ§Ã£o. Capturar interrupÃ§Ãµes podem causar problemas em algumas mÃ¡quinas para DebugView Ã© desligada por padrÃ£o, para ligÃ¡-lo vocÃª deve executar Detective Kernel com "-debugv" parÃ¢metro.

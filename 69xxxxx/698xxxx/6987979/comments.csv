@@ -1,0 +1,12 @@
+User Type,Username,Date,Text
+,profish1,2012-05-23T02:06Z,"By the way, before you attempt to run SAS EG 4.1, don't forget to apply 
+expiration hotfix as specified by SloveniaX. "
+6.
+2) make sure MS framework..dotnetfx is installed
+3) Extract downloaded SAS EG 4.1 torrent and save in a folder
+4) Click on setup from SAS Enterprise Guide 4.1
+    extracted folder and run in XP SP2 Compatibilty mode
+5) Run repository setup which will make SAS server your    localhost,  ie.. Windows user name, machine name
+6) Run Install EG 4.1 in XP SP2 compatibility mode.
+7) This worked for me. Was able to connect to DB2 Express and run 
+    old sas code with no problem.  "

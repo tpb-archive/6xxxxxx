@@ -1,0 +1,11 @@
+   - Max speed parameter works properly with running
+   - Added SSAO shader (can test by renaming post.frag to post_old.frag,  
+     and renaming post_ssao.frag to post.frag)
+   - Characters look around during idle animations
+   - Sound priorities
+   - Some torso movement during head look
+   - Fixed color palette cancel
+   - Fixed problem with weapons and idle animations
+   - Possible fix for "editor_mode: false" issue
+   - Added colors to all enemies on main levels
+   - Fixed shadow decal opacity on objects
