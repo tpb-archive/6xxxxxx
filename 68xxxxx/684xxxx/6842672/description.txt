@@ -1,0 +1,49 @@
+Crayon Physics Deluxe is a 2D physics puzzle / sandbox game, in which you get to experience what it would be like if your drawings would be magically transformed into real physical objects. Solve puzzles with your artistic vision and creative use of physics.
+
+Languages: English, Finnish and Swedish
+
+Game features:
+
+- Awesome physics
+- Over 70 levels
+- Replay Solutions
+- Easy to use level editor
+- Rockets, ropes and hinges
+
+OS: Windows XP/Vista/7
+
+
+Changelog - release 55:
+
++ Added: OpenGL implementation
++ Added: Clear Map was added to options
++ Added: Localization implementation was added
+
+= Tweaked: The main loop sleeps now, which makes the game more laptop friendly
+= Tweaked: Main menu background animation now plays even if it's not in focus
+= Tweaked: log.txt is now saved to C:\Users\username\AppData\Crayon Physics Deluxe\log.txt
+
+- Fixed bug: Copy-Pasting should work now better
+- Fixed bug: The ball was off center in a bunch levels
+- Fixed bug: Sometimes the user created levels didn't load properly
+
+
+My Updates / Mods:
+
+- Added: Hi-Res Icons and Swap Music batch file*
+- Tweaked: Re-enabled the Toggle Music Hotkey
+- Removed: Update Manager, Login & Playground Buttons**
+
+* Swap Music batch file: Toggle between the original music and the music from the iPhone and iPod Touch version
+
+Update: The game now displays the Mac apple in the Main Menu when it plays the iMusic :)
+
+** I've removed all Online features, if you want to have access to them (sharing levels, downloading updates, etc..), you'll need to buy the game and register.
+
+
+Install: Extract & Play
+
+
+Cheers,
+
+ADHDerby

@@ -1,0 +1,75 @@
+FOR TESTING
+
+Description
+A non-innovative, lightweight, fast and simple GNU/Linux Distribution, based on Debian Sid. 
+
+Features
+    * Cool
+    * Simple
+    * Debian-based
+    * Is not Windows! 
+http://sourceforge.net/projects/semplice-linux/
+
+Semplice 2.0rc1 'emily' Release Notes
+Introduction and warnings
+
+Semplice is a cool, free, light, simple, fast and libre GNU/Linux distribution, based on Debian Sid, the 'unstableâ€ branch of the Debian project. Because of its instability, Semplice Linux is not ideal in production systems, and there is no guarantee that everything works, now or in the near future.
+
+This build was compiled in 2011-12-10.
+Known issues
+(Live) non-free removal produces output
+
+If using nonfree=false boot parameter (only in live), the non-free removal script displays output during the boot phase. This issue will not affect the Semplice Live usage.
+(Live) resizing window during installation may crash the installer
+
+This is not a linstaller-related issue (but of the library who draws the progressbar) but a workaround should show up into the final release.
+Missing adwaita engine
+
+The adwaita engine is missing into the ISO image. The GTK3 applications are still usable and only some details are wrong. An OTA update will fix this.
+Summary of the CD content
+Semplice Live
+
+The Semplice Live System is a Semplice installation that works from a CD. With Semplice Live, you can try Semplice without doing changes to your computer. The changes that you do in the Live System will be deleted at the system shutdown.
+
+The Semplice Live System cointains:
+Openbox 3.5.0
+
+Openbox is the Window Manager used in Semplice. This, with other applications, make the default desktop of Semplice Linux.
+Linux Kernel 3.1.4
+
+This release contains the Linux Kernel 3.1.4, bringing the latest and greatest drivers and performance.
+
+The 32bit version uses the debian 486 kernel, which does not support multiple cores and PAE (you can add support by switching kernel to the -686 one, just install the 'linux-2.6-686' package)
+
+The 64bit version uses instead the debian amd64 kernel.
+Chromium web browser 15.0.874.121
+Chromium is the not-branded version of the famous Google Chrome Web Browser. It is based on the rendering engine WebKit.
+Exaile 0.3.2.2 and GNOME MPlayer 1.0.4
+Exaile is a music manager and player for GTK+ written in Python. It incorporates automatic fetching of album art, lyrics fetching, Last.fm scrobbling, support for many portable media players, internet radio such as shoutcast, and tabbed playlists.
+GNOME MPlayer: The power of MPlayer combined with a friendly interface for your desktop. You can play all your multimedia (audio, video, CD, DVDs, and VCDs, streams etc. with full DVD and MKV chapter support), organize, sort and create playlists, take screenshots while playing videos, be notified about media changes, retrieve cover art and more.
+Abiword 2.9.1 and Gnumeric 1.10.17
+AbiWord is a free word processing program similar to MicrosoftÂ® Word. It is suitable for a wide variety of word processing tasks. Gnumeric is a free spreadsheet similar to MicrosoftÂ® Excel.
+Pidgin Internet Messenger 2.10.0
+Pidgin is a graphical, modular Instant Messaging client capable of using AIM/ICQ, Yahoo!, MSN, IRC, Jabber/XMPP, Napster, Zephyr, Gadu-Gadu, Bonjour, Groupwise, Sametime, SILC, SIMPLE, QQ, Facebook and MySpaceIM all at once.
+Guake Terminal 0.4.2
+Guake is a GTK+ drop-down terminal. To invoke it, just press F12 - press F12 again to hide it.
+Changes from 2.0 Beta 1.1
+GTK3+ Theme
+In order to have a consistent theme accross all GTK* applications, we included a GTK3+ theme based on AdwaitaDark.
+Calendar on clock
+A new simple calendar has been introduced. A left-click on the clock will show it. Another click to hide.
+Ability to hide the Preferences and Administration menus
+A new xdgmenu (alan's dynamic applications menu) setting has been implemented: hide_settings_menus. If True, the Preferences and Administration menus will not be shown (but will show into the System menu instead).
+Installer updates before installing
+linstaller can now check for installer updates before continuing the installation. This is handled by the new 'updateâ€ module.
+Bug fixes
+
+Many bug fixes have been issued. 
+http://semplice-linux.sourceforge.net/doku/semplice:develop:2.0:relnotes:rc1
+ 
+http://semplice-linux.sourceforge.net/discover/ 
+http://semplice-linux.sourceforge.net/doku/ 
+http://semplice-linux.sourceforge.net/
+
+sha1sum : a0f4803a86a66f4655003f293af58688ac8622d4  semplice64_2.0rc_190.0.iso
+md5sum : 82980f32fd6dfd52cf47f431c1bda7af  semplice64_2.0rc_190.0.iso

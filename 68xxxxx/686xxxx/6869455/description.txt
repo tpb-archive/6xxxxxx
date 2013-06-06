@@ -1,0 +1,180 @@
+PrRescue is a Gentoo amd64/i686 based rescue cd supporting nilfs2 and btrfs.
+It's goal is to always include newest kernel and Gentoo packages.
+
+DISCLAIMER:
+
+PRRESCUE WAS CREATED IN MY SPARE TIME FOR MY OWN USE !
+IT IS SHARED WITH OTHERS IN HOPE IT CAN BE HELPFUL !
+IT MIGHT DESTROY HARDWARE OR DATA !
+USE IT AT YOUR OWN RISK !
+
+MOST PACKAGES ARE UNDER THE GPL LICENSE !
+SOURCES ARE AVAILABLE AT  
+http://distfiles.gentoo.org/distfiles/ !
+SEE man prrescue-packages and /root/licenses/ FOR LICENSING DETAILS !
+...
+#  PrRescue amd64/i686 version 0.17 from 04.12.2011 (423MB)
+# PrRescue amd64 version 0.17 from 04.12.2011 (233MB)
+# PrRescue i686 version 0.17 from 04.12.2011 (200MB)
+...
+Kernel: 3.1.4 
+Package list: 
+app-admin/eselect-1.2.15: GPL-2
+app-admin/eselect-ctags-1.13: GPL-2
+app-admin/eselect-python-20100321: GPL-2
+app-admin/eselect-vi-1.1.7-r1: GPL-2
+app-admin/localepurge-0.5.2: GPL-2
+app-admin/perl-cleaner-2.7: GPL-2
+app-admin/python-updater-0.9: GPL-2
+app-admin/syslog-ng-3.2.4: GPL-2
+app-antivirus/clamav-0.97.3: GPL-2
+app-arch/bzip2-1.0.6-r3: BZIP2
+app-arch/cpio-2.11: GPL-3
+app-arch/gzip-1.4: GPL-2
+app-arch/tar-1.23-r2: GPL-3
+app-arch/xz-utils-5.0.3: LGPL-2.1
+app-benchmarks/cpuburn-1.4: GPL-2
+app-editors/vim-7.3.266: vim
+app-editors/vim-core-7.3.266: vim
+app-emulation/emul-linux-x86-baselibs-20110928: Artistic GPL-2 BSD GPL-2 BZIP2 CRACKLIB DB GPL-2 GPL-2 AFL-2.1 LGPL-2 LGPL-2.1 GPL-3 LGPL-3 MIT MPL-1.1 OPENL
+DAP OpenSoftware openssl OracleDB ZLIB tcp_wrappers_license as-is UoI-NCSA wxWinLL-3.1
+app-misc/ca-certificates-20110502-r1: MPL-1.1
+app-misc/livecd-tools-2.0.2: GPL-2
+app-misc/mc-4.7.5.2: GPL-2
+app-misc/mime-types-8: GPL-2
+app-misc/pax-utils-0.2.3: GPL-2
+app-misc/realpath-1.15-r1: GPL-2
+app-portage/gentoolkit-0.3.0.4-r4: GPL-2
+app-portage/portage-utils-0.3.1: GPL-2
+app-shells/bash-4.1_p9: GPL-3
+dev-lang/perl-5.12.4-r1: Artistic GPL-1 GPL-2 GPL-3
+dev-lang/python-2.7.2-r3: PSF-2
+dev-lang/python-3.1.4-r3: PSF-2
+dev-libs/eventlog-0.2.12: BSD
+dev-libs/expat-2.0.1-r5: MIT
+dev-libs/glib-2.28.8: LGPL-2
+dev-libs/gmp-5.0.2: LGPL-3
+dev-libs/libconfig-1.4.7: GPL-2
+dev-libs/libevent-2.0.14: BSD
+dev-libs/libffi-3.0.10: MIT
+dev-libs/libgcrypt-1.4.6: LGPL-2.1
+dev-libs/libgpg-error-1.10: GPL-2 LGPL-2.1
+dev-libs/libnl-1.1-r2: LGPL-2.1
+dev-libs/libpcre-8.12: BSD
+dev-libs/libtasn1-2.9-r1: GPL-3 LGPL-2.1
+dev-libs/libtommath-0.42.0: WTFPL-2
+dev-libs/libusb-1.0.8: LGPL-2.1
+dev-libs/libxml2-2.7.8-r3: MIT
+dev-libs/mpc-0.8.2: LGPL-2.1
+dev-libs/mpfr-3.0.1_p4: LGPL-2.1
+dev-libs/openssl-1.0.0e: openssl
+dev-libs/popt-1.16-r1: MIT
+dev-perl/Locale-gettext-1.50.0: Artistic GPL-1 GPL-2 GPL-3
+dev-python/argparse-1.2.1: PSF-2
+dev-python/setuptools-0.6.19: PSF-2.2
+dev-util/ctags-5.8: GPL-2
+dev-util/dialog-1.1.20100428: GPL-2
+dev-util/gtk-doc-am-1.17: GPL-2 FDL-1.1
+dev-util/pkgconfig-0.26: GPL-2
+net-dialup/ppp-2.4.5-r1: BSD GPL-2
+net-dns/bind-tools-9.8.1: as-is
+net-fs/mount-cifs-3.0.30: GPL-2
+net-fs/nfs-utils-1.2.3-r1: GPL-2
+net-ftp/ftp-0.17-r7: as-is
+net-libs/gnutls-2.10.5: LGPL-2.1 GPL-3
+net-libs/libnfsidmap-0.21-r1: BSD
+net-libs/libtirpc-0.2.1-r1: GPL-2
+net-misc/dhcpcd-5.2.12: BSD-2
+net-misc/iputils-20100418-r1: BSD
+net-misc/netkit-telnetd-0.17-r6: BSD
+net-misc/openssh-5.8_p1-r1: as-is
+net-misc/rsync-3.0.8: GPL-3
+net-misc/wget-1.12-r3: GPL-3
+net-nds/rpcbind-0.2.0: BSD
+net-wireless/wpa_supplicant-0.7.3-r2: GPL-2 BSD
+sys-apps/acl-2.2.51: LGPL-2.1
+sys-apps/attr-2.4.46: LGPL-2.1
+sys-apps/baselayout-2.0.3: GPL-2
+sys-apps/busybox-1.19.0: GPL-2
+sys-apps/coreutils-8.7: GPL-3
+sys-apps/debianutils-3.4.4: BSD GPL-2 SMAIL
+sys-apps/diffutils-3.0: GPL-2
+sys-apps/dmidecode-2.10: GPL-2
+sys-apps/file-5.07-r3: as-is
+sys-apps/findutils-4.4.2: GPL-2
+sys-apps/gawk-3.1.8: GPL-2
+sys-apps/grep-2.5.4-r1: GPL-3
+sys-apps/groff-1.21: GPL-2
+sys-apps/help2man-1.38.2: GPL-2
+sys-apps/kbd-1.15.3: GPL-2
+sys-apps/less-444: GPL-3 BSD-2
+sys-apps/lm_sensors-3.2.0: GPL-2 LGPL-2.1
+sys-apps/lshw-02.15b: GPL-2
+sys-apps/man-1.6f-r4: GPL-2
+sys-apps/man-pages-3.32: as-is GPL-2 BSD
+sys-apps/man-pages-posix-2003a: man-pages-posix
+sys-apps/memtest86+-4.00: GPL-2
+sys-apps/mlocate-0.23.1-r1: GPL-2
+sys-apps/module-init-tools-3.16-r1: GPL-2
+sys-apps/net-tools-1.60_p20110409135728: GPL-2
+sys-apps/openrc-0.9.4: BSD-2
+sys-apps/pciutils-3.1.7: GPL-2
+sys-apps/portage-2.1.10.11: GPL-2
+sys-apps/sandbox-2.5: GPL-2
+sys-apps/sed-4.2.1: GPL-3
+sys-apps/shadow-4.1.4.3: BSD GPL-2
+sys-apps/smartmontools-5.42: GPL-2
+sys-apps/sysvinit-2.88-r2: GPL-2
+sys-apps/tcp-wrappers-7.6-r8: tcp_wrappers_license
+sys-apps/texinfo-4.13: GPL-3
+sys-apps/usbutils-001: GPL-2
+sys-apps/util-linux-2.19.1-r1: GPL-2
+sys-apps/which-2.20: GPL-3
+sys-auth/pambase-20101024: GPL-2
+sys-block/parted-3.0: GPL-3
+sys-devel/autoconf-2.68: GPL-3
+sys-devel/autoconf-wrapper-10-r1: GPL-2
+sys-devel/automake-1.11.1: GPL-2
+sys-devel/automake-wrapper-5: GPL-2
+sys-devel/bc-1.06.95: GPL-2 LGPL-2.1
+sys-devel/binutils-2.21.1-r1: GPL-3 LGPL-3
+sys-devel/binutils-config-2-r1: GPL-2
+sys-devel/bison-2.4.3: GPL-2
+sys-devel/flex-2.5.35_p10: FLEX
+sys-devel/gcc-4.5.3-r1: GPL-3 LGPL-3 GPL-3 libgcc libstdc++ gcc-runtime-library-exception-3.1 FDL-1.2
+sys-devel/gcc-config-1.4.1-r1: GPL-2
+sys-devel/gettext-0.18.1.1-r1: GPL-3 LGPL-2
+sys-devel/gnuconfig-20110202: GPL-2
+sys-devel/libperl-5.10.1: Artistic GPL-1 GPL-2 GPL-3
+sys-devel/libtool-2.4-r1: GPL-2
+sys-devel/m4-1.4.15: GPL-3
+sys-devel/make-3.82-r1: GPL-3
+sys-devel/patch-2.6.1: GPL-2
+sys-fs/ddrescue-1.14: GPL-2
+sys-fs/dosfstools-3.0.9: GPL-3
+sys-fs/e2fsprogs-1.41.14: GPL-2 BSD
+sys-fs/fuse-2.8.5: GPL-2
+sys-fs/nilfs-utils-2.1.0: GPL-2 LGPL-2.1
+sys-fs/ntfs3g-2011.4.12: GPL-2
+sys-fs/ntfsprogs-2.0.0-r1: GPL-2
+sys-fs/sysfsutils-2.1.0: GPL-2 LGPL-2.1
+sys-fs/udev-164-r2: GPL-2
+sys-fs/xfsprogs-3.1.4: LGPL-2.1
+sys-kernel/genkernel-3.4.20: GPL-2
+sys-kernel/linux-headers-2.6.39: GPL-2
+sys-libs/cracklib-2.8.16: LGPL-2.1
+sys-libs/db-4.8.30: OracleDB
+sys-libs/e2fsprogs-libs-1.41.14: GPL-2
+sys-libs/gdbm-1.8.3-r4: GPL-2
+sys-libs/glibc-2.12.2: LGPL-2
+sys-libs/gpm-1.20.6: GPL-2
+sys-libs/ncurses-5.9: MIT
+sys-libs/pam-1.1.5: BSD GPL-2
+sys-libs/readline-6.2_p1: GPL-3
+sys-libs/timezone-data-2011l: BSD public-domain
+sys-libs/zlib-1.2.5-r2: ZLIB
+sys-process/procps-3.2.8_p11: GPL-2
+sys-process/psmisc-22.14: GPL-2
+www-client/lynx-2.8.7_p1: GPL-2 
+http://prrescue.prnet.org/index.php/Main_Page 
+http://freecode.com/projects/prrescue

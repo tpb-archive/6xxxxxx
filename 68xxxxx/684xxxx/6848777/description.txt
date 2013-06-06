@@ -1,0 +1,302 @@
+ http://en.wikipedia.org/wiki/Dark_Side_of_the_Rainbow
+
+The Dark Side of the Moon 5.1 surround sound mix (2003) (96kHz/24bit)
+Wish You Were Here        5.1 surround sound mix (2009) (96kHz/24bit)
+
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 22.9 GiB
+Duration                         : 1h 41mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 32.2 Mbps
+Encoded date                     : UTC 2011-11-27 17:17:48
+Writing application              : mkvmerge v5.0.1 ('Es ist Sommer') built on Nov 26 2011 21:51:23
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 41mn
+Width                            : 1 480 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 1.370
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Title                            : Blu-ray Edition MPEG4 Video (H264) 1480x1080
+Writing library                  : x264 core 119
+Encoding settings                : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=18.3 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Default                          : Yes
+Forced                           : No
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio #1
+ID                               : 2
+Format                           : PCM
+Codec ID                         : 00001000-0000-0100-8000-00AA00389B71
+Duration                         : 1h 41mn
+Bit rate mode                    : Constant
+Bit rate                         : 13.8 Mbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 96.0 KHz
+Bit depth                        : 24 bits
+Stream size                      : 9.82 GiB (43%)
+Title                            : Pink Floyd Immersion Edition (The Dark Side of the Moon/Wish You Where Here)
+Default                          : Yes
+Forced                           : No
+
+Audio #2
+ID                               : 3
+Format                           : TrueHD
+Codec ID                         : A_TRUEHD
+Duration                         : 1h 41mn
+Bit rate mode                    : Variable
+Maximum bit rate                 : 1 782 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 24 bits
+Compression mode                 : Lossless
+Delay relative to video          : 1ms
+Title                            : Dolby TrueHD Remastered Soundtrack
+Default                          : No
+Forced                           : No
+
+Audio #3
+ID                               : 4
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : Header stripping
+Codec ID                         : A_AC3
+Duration                         : 1h 41mn
+Bit rate mode                    : Constant
+Bit rate                         : 640 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 10ms
+Stream size                      : 466 MiB (2%)
+Title                            : AC-3 Remastered Soundtrack
+Default                          : No
+Forced                           : No
+
+Audio #4
+ID                               : 5
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : Header stripping
+Codec ID                         : A_AC3
+Duration                         : 1h 41mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 1 channel
+Channel positions                : Front: C
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 10ms
+Stream size                      : 140 MiB (1%)
+Title                            : Background Audio (w/o dialog)
+Default                          : No
+Forced                           : No
+
+Audio #5
+ID                               : 6
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : Header stripping
+Codec ID                         : A_AC3
+Duration                         : 1h 41mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 10ms
+Stream size                      : 140 MiB (1%)
+Title                            : Audio Commentary
+Default                          : No
+Forced                           : No
+
+Text #1
+ID                               : 7
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Text #2
+ID                               : 8
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : French
+Default                          : No
+Forced                           : No
+
+Text #3
+ID                               : 9
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : German
+Default                          : No
+Forced                           : No
+
+Text #4
+ID                               : 10
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Italian
+Default                          : No
+Forced                           : No
+
+Text #5
+ID                               : 11
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Spanish
+Default                          : No
+Forced                           : No
+
+Text #6
+ID                               : 12
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Dutch
+Default                          : No
+Forced                           : No
+
+Text #7
+ID                               : 13
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Chinese
+Default                          : No
+Forced                           : No
+
+Text #8
+ID                               : 14
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Portuguese
+Default                          : No
+Forced                           : No
+
+Text #9
+ID                               : 15
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Danish
+Default                          : No
+Forced                           : No
+
+Text #10
+ID                               : 16
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Finnish
+Default                          : No
+Forced                           : No
+
+Text #11
+ID                               : 17
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Norwegian
+Default                          : No
+Forced                           : No
+
+Text #12
+ID                               : 18
+Format                           : PGS
+Muxing mode                      : zlib
+Codec ID                         : S_HDMV/PGS
+Codec ID/Info                    : The same subtitle format used on BDs/HD-DVDs
+Language                         : Japanese
+Default                          : No
+Forced                           : No
+
+Menu
+00:00:00.000                     : :The Dark Side of the Moon Immersion Edition 5.1 Surround Mix (2003) 24bit / 96kHz Uncompressed
+00:43:25.435                     : :Wish You Where Here       Immersion Edition 5.1 Surround Mix (2009) 24bit / 96kHz Uncompressed
+
+
+
+MKV Player Compatibility w/Dark Side of the Rainbow (Immersion Edition):
+(listed from most to least compatible)
+
+
+MPC HomeCinema v1.5.2.3456 = 100% fully compatible!
+all audio tracks, chapter menu (Navigate/Jump To...), and subtitles work!: 
+http://sourceforge.net/projects/mpc-hc/files/MPC%20HomeCinema%20-%20x64/MPC-HC%20v1.5.2.3456_64%20bits/
+
+
+PowerDVD 11 Ultra build 2211 = audio track selections work but chapters or subtitles selection does NOT work: 
+http://www.cyberlink.com/downloads/support/powerdvd/patches_en_US.html
+
+
+TotalMedia Theatre 5.0.1.114 = Only Pink Floyd Immersion Edition default audio track will play.  Chapters and subtitiles also will NOT work: 
+http://www.arcsoft.com/forum/forum_posts.asp?TID=8996&title;=totalmedia-theatre-501114-release-notes
+
+
+WinDVD Pro 11 - Service Pack 1 = Pink Floyd Immersion Edition audio track will NOT play.  Chapters and subtitles also NOT working: 
+http://www.corel.com/corel/pages/index.jsp?pgid=800161&ppid;=3500025
+
+
+VLC media player for Windows v1.1.11 = Pink Floyd Immersion Edition audio track will NOT play: 
+http://www.videolan.org/vlc/download-windows.html
+
+
+For all those various flavours of mkv players not specifically listed, if you are unable to select any of the five available audio tracks, or unable to navigate to individual chapters and turn on the subtitles then your mkv player software is not fully compliant to the Matroska file format standard.  MPC HomeCinema v1.5.2.3456 is the ONLY mkv software player tested that fully supports all features included in the Dark Side of the Rainbow.mkv!
+
+  
+
+ 
+http://mancavedaily.newyork.cbslocal.com/2011/09/21/journey-of-a-rock-music-myth-dark-side-of-the-rainbow/
+
+Anyone who knows anything about the Pink Floyd of that era knows that creating something so special around an entertainment property that was so intensely popular (and profitable on a corporate level) was pretty much the last thing they would have focused so much energy towards. Likewise, talk to any psychologist on the matter and youâ€™ll hear a description of apophenia, the mindâ€™s tendency to think it recognizes patterns while discarding any data that doesnâ€™t fit.
+ 
+Regardless of these naysaying notions, the myth continues on, continually referenced in popular entertainment, including Family Guy and The Colbert Report. And the legend will likely continue to grow, showing no signs of going-away. As advancements in technology have made the experiment an easier one to experience, itâ€™s very possible that Dark Side of the Rainbow will remain a common bond between college kids, their fathers and, hell, probably their grandfathers too.
+
+

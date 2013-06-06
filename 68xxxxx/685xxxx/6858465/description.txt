@@ -1,0 +1,76 @@
+Alfred is a quicklaunch application for Mac OS X, which aims to save you time in searching your local computer and the web. Whether itâ€™s maps, Amazon, eBay, Wikipedia, you can feed your web addiction quicker than ever before.
+
+    Increase your productivity by launching apps with shortcuts
+    Quicker access to web searches, bookmarks & more
+    Be the first to identify â€œthat guyâ€ in a movie with speedy IMDB search
+    Ward off RSI â€“ skip using the mouse with easy shortcuts
+
+
+WHATâ€™S NEW
+
+Version 1.0:Global Hotkeys
+
+    Significant improvements to Powerpack Global Hotkeys:
+    Assign hotkey to Application and optionally toggle show/hide with assigned hotkey
+    Assign hotkeys to your extensions and optionally pass a parameter
+    Assign hotkeys to Alfredâ€™s built in system commands such as Sleep, Empty Trash etc
+    Assign hotkeys to Alfredâ€™s iTunes functions such as Random Album, next, previous, iTunes volume
+    Assign hotkeys to groups of URLs to show all your favourite sites in a single keypress
+    Assign a hotkey to a folder to browse in Finder or directly within Alfredâ€™s filesystem navigation
+    Global Hotkey Syncing between your macs
+    Relative ~ paths for hotkeys linked to files for better syncing
+
+
+Features
+
+    New Payment process: We now accept CC payments & PayPal directly: alfredapp.com/purchase
+    Remember recently typed URLs for subsequent recall / use. New preferences section to configure this
+    cmd+c now copies information for the current result in Alfredâ€™s default results (e.g. file path or URL)
+    Improvements to snippets preferences allowing for searching and sorting for editing:
+
+
+Improvements
+
+    Improved preferences, consistency and performance
+    Snippets can now be used when the Clipboard History is disabled
+    Show the clipboard history source icon next to the clipboard history icon for better context
+    Show a nice generic icon to represent web links rather than the Safari document icon
+    More available custom fallback searches (6 instead of 3)
+    Allow wildcarding in iTunes search and also improve search accuracy
+    Flatten diacritics in iTunes search for more predictable matching
+    Better distinction between Album and Artist icons in iTunes mini player
+    Tickbox to enable/disable individual extensions
+    Improved / less imposing look to the â€œAlfred should have found somethingâ€ fallback result:
+    Better URL handling and recognition (can now accept things like messages://)
+    Nicknames now accepted in Alfredâ€™s â€˜Email toâ€™ action
+    Drop folders directly into Alfredâ€™s search scope list
+    Increase the total storage time for clipboard history to 3 months
+    Allow for + for space encodings in custom searches to support more site searches
+    Improve accuracy when using double tap hotkeys, ensuring that shift doesnâ€™t interfere
+    If {query} is used in a custom searchâ€™s title, no longer automatically appending {query}
+    Alfred can now eject all items in /Volumes (set this in the preferences)
+    Improve the â€˜playâ€™ keyword to also look at file name as well as track name
+    Allow extension parameters to be marked as â€˜optionalâ€™ as well as â€˜requiredâ€™ for more flexiblility
+    Global [advanced] option to mark AppleScripts as â€˜runâ€™ instead of â€˜openâ€™ (can still open using cmd+o)
+    Update to newer Growl framework
+    Remove and update deprecated code to make Alfred more future proof
+    Make the delete/backspace key work for deleting extensions for consistency
+
+
+Bug Fixes
+
+    Improve defence against odd unicode character entry into Alfred search box
+    Run â€œempty trashâ€ command in the background to prevent blocking Alfred with very many trash items
+    Fix subtext for iCloud synced contacts for correctly showing in Alfred
+    Ensure that ~ correctly resolves to the home folder in the actions views
+    Make the numpad â€œenterâ€ key work the same as the â€œreturnâ€ key
+    Better handling of symbolic linked folders and files in Alfredâ€™s file system navigation
+    iTunes keywords now removed from the default results when disabled in prefs
+    Remove trailing slash from Applications when using the Finder Selection hotkey
+    Remove defunct Â§ key from launching the iTunes mini player (legacy)
+    When importing a new extension, correctly scroll to the new extension in the list
+    Correctly launch contact web addresses when they are missing the http://
+    Work around Lion bug where isCaseInsensitiveLike was failing for certain strings causing a hang
+    No longer miss off the first letter of an email address if setting the email keyword to @
+    Stop custom search icon from being lost when adding a second custom search with identical URL
+    Fix help text on reindexing shell script, changing â€˜any keyâ€™ to â€˜enterâ€™ for continue

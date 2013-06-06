@@ -1,0 +1,8 @@
+Changelog:
+- Added parameters to hotspot
+- Added parameter editor UI
+- Added reset level, display text and load level hotspots
+- Fixed crash on LoadLevel script command
+- Fixed crash with single-object imposters
+- Fixed hotspot undo/redo
+- Fixed hotspots sticking to the ground

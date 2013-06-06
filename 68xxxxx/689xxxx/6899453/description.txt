@@ -1,0 +1,171 @@
+Windows Unattended CD Creator 0.9.8
+
+[User]
+users=USER
+USER.localgroup=\\\"Administrators\\\"
+
+[Software]
+Themes.checkPoint
+Themes.remote
+Themes.Steps
+Themes.Step.1
+vista sounds.checkPoint
+vista sounds.Steps=
+vista sounds.Step.1
+Windows 7 Cursor.checkPoint
+Windows 7 Cursor.Steps=
+Windows 7 Cursor.Step.
+Reg Tweaks.checkPoint
+Reg Tweaks.remote=
+Reg Tweaks.Steps=
+Reg Tweaks.Step.1=
+Reg Tweaks.Step.2
+Reg Tweaks.Step.3=
+Reg Tweaks.Step.4=
+Reg Tweaks.Step.5=\
+Adobe Acrobat Reader 9.0 Lite.checkPoint
+Adobe Acrobat Reader 9.0 Lite.remote=
+Adobe Acrobat Reader 9.0 Lite.Steps
+Adobe Acrobat Reader 9.0 Lite.Step.1
+Google Chrome.checkPoint=
+Google Chrome.remote=
+Google Chrome.Steps=
+Google Chrome.Step.1=
+Mozilla Firefox.checkPoint=
+Mozilla Firefox.remote=
+Mozilla Firefox.Steps
+Mozilla Firefox.Step.1
+The KMPlayer.checkPoint=
+The KMPlayer.remote=
+The KMPlayer.Steps=
+The KMPlayer.Step.1
+The KMPlayer.Step.2=
+Winamp.checkPoint=
+Winamp.remote
+Winamp.Steps
+Winamp.Step.1
+RocketDock.checkPoint
+RocketDock.remote=
+RocketDock.Steps=
+RocketDock.Step.1=
+Internet Download Manager.checkPoint=
+Internet Download Manager.remote=\\\"Pac\\\"
+Internet Download Manager.Steps=\\\"1\\\"
+Internet Download Manager.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Internet Download Manager\\\\Internet Download Manager.Silent.exe\\\"\\\"
+Disk Cleaner.checkPoint=\\\"Packages\\\\Disk Cleaner\\\\Disk Cleaner.Silent.exe\\\"
+Disk Cleaner.remote=\\\"Pac\\\"
+Disk Cleaner.Steps=\\\"1\\\"
+Disk Cleaner.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Disk Cleaner\\\\Disk Cleaner.Silent.exe\\\"\\\"
+WinRAR.checkPoint=\\\"Packages\\\\WinRAR\\\\WinRAR 3.80 Reg.Silent.exe\\\"
+WinRAR.remote=\\\"Pac\\\"
+WinRAR.Steps=\\\"1\\\"
+WinRAR.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\WinRAR\\\\WinRAR 3.80 Reg.Silent.exe\\\"\\\"
+Bandwidth Monitor.checkPoint=\\\"Packages\\\\Bandwidth Monitor\\\\Bandwidth Monitor.Silent.exe\\\"
+Bandwidth Monitor.remote=\\\"Pac\\\"
+Bandwidth Monitor.Steps=\\\"1\\\"
+Bandwidth Monitor.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Bandwidth Monitor\\\\Bandwidth Monitor.Silent.exe\\\"\\\"
+Search Everything.checkPoint=\\\"Packages\\\\Search Everything\\\\Search Everything Setup.exe\\\"
+Search Everything.remote=\\\"Pac\\\"
+Search Everything.Steps=\\\"1\\\"
+Search Everything.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Search Everything\\\\Search Everything Setup.exe\\\"\\\"
+System Tools Pack.checkPoint=\\\"Packages\\\\System Tools Pack\\\\System Tools Pack.Silent.exe\\\"
+System Tools Pack.remote=\\\"Pac\\\"
+System Tools Pack.Steps=\\\"2\\\"
+System Tools Pack.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\System Tools Pack\\\\System Tools Pack.Silent.exe\\\"\\\"
+System Tools Pack.Step.2=\\\"regedit /s \\\"%CDROM%\\\\Packages\\\\System Tools Pack\\\\IsoBusterReg.reg\\\"\\\"
+Internet Tools Pack.checkPoint=\\\"Packages\\\\Internet Tools Pack\\\\Internet Tools Pack.Silent.exe\\\"
+Internet Tools Pack.remote=\\\"Pac\\\"
+Internet Tools Pack.Steps=\\\"1\\\"
+Internet Tools Pack.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Internet Tools Pack\\\\Internet Tools Pack.Silent.exe\\\"\\\"
+7-Zip.checkPoint=\\\"Packages\\\\7-Zip\\\\7-Zip.Silent.exe\\\"
+7-Zip.remote=\\\"Pac\\\"
+7-Zip.Steps=\\\"1\\\"
+7-Zip.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\7-Zip\\\\7-Zip.Silent.exe\\\"\\\"
+Alarm.checkPoint=\\\"Packages\\\\Alarm\\\\Alarm.Silent.exe\\\"
+Alarm.remote=\\\"Pac\\\"
+Alarm.Steps=\\\"1\\\"
+Alarm.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Alarm\\\\Alarm.Silent.exe\\\"\\\"
+BatteryCare.checkPoint=\\\"Packages\\\\BatteryCare\\\\BatteryCare.Silent.exe\\\"
+BatteryCare.remote=\\\"Pac\\\"
+BatteryCare.Steps=\\\"1\\\"
+BatteryCare.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\BatteryCare\\\\BatteryCare.Silent.exe\\\"\\\"
+TuneUp Utilities.checkPoint=\\\"Packages\\\\TuneUp Utilities\\\\TuneUp Utilities.Silent.exe\\\"
+TuneUp Utilities.remote=\\\"Pac\\\"
+TuneUp Utilities.Steps=\\\"1\\\"
+TuneUp Utilities.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\TuneUp Utilities\\\\TuneUp Utilities.Silent.exe\\\"\\\"
+XWidget.checkPoint=\\\"Packages\\\\XWidget\\\\XWidget.Silent.exe\\\"
+XWidget.remote=\\\"Pac\\\"
+XWidget.Steps=\\\"1\\\"
+XWidget.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\XWidget\\\\XWidget.Silent.exe\\\"\\\"
+BitComet.checkPoint=\\\"Packages\\\\BitComet\\\\BitComet.Silent.exe\\\"
+BitComet.remote=\\\"Pac\\\"
+BitComet.Steps=\\\"1\\\"
+BitComet.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\BitComet\\\\BitComet.Silent.exe\\\"\\\"
+FastStone Image Viewer.checkPoint=\\\"Packages\\\\FastStone Image Viewer\\\\FastStone Image Viewer 4.0.Silent.exe\\\"
+FastStone Image Viewer.remote=\\\"Pac\\\"
+FastStone Image Viewer.Steps=\\\"2\\\"
+FastStone Image Viewer.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\FastStone Image Viewer\\\\FastStone Image Viewer 4.0.Silent.exe\\\"\\\"
+FastStone Image Viewer.Step.2=\\\"regedit /s \\\"%CDROM%\\\\Packages\\\\FastStone Image Viewer\\\\Settings.reg\\\"\\\"
+WMouseXP Remote 3.0.checkPoint=\\\"Packages\\\\WMouseXP Remote 3.0\\\\WMouseXP Remote 3.0.Silent.exe\\\"
+WMouseXP Remote 3.0.remote=\\\"Pac\\\"
+WMouseXP Remote 3.0.Steps=\\\"1\\\"
+WMouseXP Remote 3.0.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\WMouseXP Remote 3.0\\\\WMouseXP Remote 3.0.Silent.exe\\\"\\\"
+Skype.checkPoint=\\\"Packages\\\\Skype\\\\Skype.Silent.exe\\\"
+Skype.remote=\\\"Pac\\\"
+Skype.Steps=\\\"1\\\"
+Skype.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Skype\\\\Skype.Silent.exe\\\"\\\"
+Essential Fonts Pack.checkPoint=\\\"Packages\\\\Essential Fonts Pack\\\\Essential Fonts Pack.Silent.exe\\\"
+Essential Fonts Pack.remote=\\\"Pac\\\"
+Essential Fonts Pack.Steps=\\\"1\\\"
+Essential Fonts Pack.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Essential Fonts Pack\\\\Essential Fonts Pack.Silent.exe\\\"\\\"
+Adobe Flash Player.checkPoint=\\\"Packages\\\\Adobe Flash Player\\\\Adobe Flash Player.exe\\\"
+Adobe Flash Player.remote=\\\"Pac\\\"
+Adobe Flash Player.Steps=\\\"1\\\"
+Adobe Flash Player.Step.1=\\\"\\\"%CDROM%\\\\Packages\\\\Adobe Flash Player\\\\Adobe Flash Player.exe\\\"\\\"
+Opera.checkPoint=\\\"Software\\\\Opera\\\"
+Opera.Steps=\\\"1\\\"
+Opera.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\Opera\\\\Opera.Silent.exe\\\"\\\"
+Adobe Photoshop 6 Extended.checkPoint=\\\"Software\\\\Adobe Photoshop 6 Extended\\\"
+Adobe Photoshop 6 Extended.Steps=\\\"1\\\"
+Adobe Photoshop 6 Extended.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\Adobe Photoshop 6 Extended\\\\Adobe Photoshop 6.0 Extended.Silent.exe\\\"\\\"
+Total Video Converter.checkPoint=\\\"Software\\\\Total Video Converter\\\"
+Total Video Converter.Steps=\\\"2\\\"
+Total Video Converter.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\Total Video Converter\\\\REG.reg\\\"\\\"%CDROM%\\\\Software\\\\Total Video Converter\\\\Total Video Converter.Silent.exe\\\"regedit /s \\\"%CDROM%\\\\Software\\\\Total Video Converter\\\\REG.reg\\\"\\\"
+Total Video Converter.Step.2=\\\"\\\"%CDROM%\\\\Software\\\\Total Video Converter\\\\Total Video Converter.Silent.exe\\\"\\\"
+Audacity.checkPoint=\\\"Software\\\\Audacity\\\"
+Audacity.Steps=\\\"2\\\"
+Audacity.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\Audacity\\\\Audacity 1.0.Silent.exe\\\"\\\"
+Audacity.Step.2=\\\"regedit /s \\\"%CDROM%\\\\Software\\\\Audacity\\\\Settings.reg\\\"\\\"
+sorftware packs.checkPoint=\\\"Software\\\\sorftware packs\\\"
+sorftware packs.Steps=\\\"9\\\"
+sorftware packs.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\Adobe PageMaker 6.5.Silent.exe\\\"\\\"
+sorftware packs.Step.2=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\BitLord 1.1.Silent.exe\\\"\\\"
+sorftware packs.Step.3=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\English Malayalam Dictionary.Silent.exe\\\"\\\"
+sorftware packs.Step.4=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\InfraRecorder.Silent.exe\\\"\\\"
+sorftware packs.Step.5=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\LEAP Office Full.Silent.exe\\\"\\\"
+sorftware packs.Step.6=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\Mp3 Ripper.6.Silent.exe\\\"\\\"
+sorftware packs.Step.7=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\Ultra Video Splitter 5.4.0822.Silent.exe\\\"\\\"
+sorftware packs.Step.8=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\Video Edit Master.Silent.exe\\\"\\\"
+sorftware packs.Step.9=\\\"\\\"%CDROM%\\\\Software\\\\sorftware packs\\\\Youtube Downloader HD.sfx.exe\\\"\\\"
+Deamon Tool.checkPoint=\\\"Software\\\\Deamon Tool\\\"
+Deamon Tool.Steps=\\\"1\\\"
+Deamon Tool.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\Deamon Tool\\\\DTLite4413-0173.exe\\\"\\\"
+Windows 7,XP, Vista Activator [Thumperâ„¢].checkPoint=\\\"Software\\\\Windows 7,XP, Vista Activator [Thumperâ„¢]\\\"
+Windows 7,XP, Vista Activator [Thumperâ„¢].Steps=\\\"1\\\"
+Windows 7,XP, Vista Activator [Thumperâ„¢].Step.1=\\\"\\\"%CDROM%\\\\Software\\\\Windows 7,XP, Vista Activator [Thumperâ„¢]\\\\Windows 7,XP, Vista Activator [Thumperâ„¢].exe\\\"\\\"
+Nimbuzz.checkPoint=\\\"Software\\\\Nimbuzz\\\"
+Nimbuzz.Steps=\\\"1\\\"
+Nimbuzz.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\Nimbuzz\\\\setup_2.0.1.exe\\\"\\\"
+Microsorft office 2010.checkPoint=\\\"Software\\\\Microsorft office 2010\\\"
+Microsorft office 2010.Steps=\\\"1\\\"
+Microsorft office 2010.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\Microsorft office 2010\\\\X16-32250.exe\\\"\\\"
+AVG PC TUNE UP.checkPoint=\\\"Software\\\\AVG PC TUNE UP\\\"
+AVG PC TUNE UP.Steps=\\\"1\\\"
+AVG PC TUNE UP.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\AVG PC TUNE UP\\\\avg_pct_stf_all_2012_26_c6.exe\\\"\\\"
+AVG 2012 KEYS.checkPoint=\\\"Software\\\\AVG 2012 KEYS\\\"
+AVG 2012 KEYS.Steps=\\\"1\\\"
+AVG 2012 KEYS.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\AVG 2012 KEYS\\\\AVG_IS_2011_Serial_Number.txt\\\"\\\"
+AVG 2012.checkPoint=\\\"Software\\\\AVG 2012\\\"
+AVG 2012.Steps=\\\"1\\\"
+AVG 2012.Step.1=\\\"\\\"%CDROM%\\\\Software\\\\AVG 2012\\\\AVG 2012.exe\\\"\\\"
+Reihenfolge=\\\"Themes;vista sounds;Windows 7 Cursor;Reg Tweaks;Adobe Acrobat Reader 9.0 Lite;Google Chrome;Mozilla Firefox;The KMPlayer;Winamp;RocketDock;Internet Download Manager;Disk Cleaner;WinRAR;Bandwidth Monitor;Search Everything;System Tools Pack;Internet Tools Pack;7-Zip;Alarm;BatteryCare;TuneUp Utilities;XWidget;BitComet;FastStone Image Viewer;WMouseXP Remote 3.0;Skype;Essential Fonts Pack;Adobe Flash Player;Opera;Adobe Photoshop 6 Extended;Total Video Converter;Audacity;sorftware packs;Deamon Tool;Windows 7,XP, Vista Activator [Thumperâ„¢];Nimbuzz;Microsorft office 2010;AVG PC TUNE UP;AVG 2012 KEYS;AVG 2012\\\"

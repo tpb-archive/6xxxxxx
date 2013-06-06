@@ -1,0 +1,23 @@
+AIX 4.3.3 5.1 5.3 Updates / Fix Packs
+
+In January 2012 IBM will cut the downloads for non-contracted and out-of-warranty users. I have assembled these update packs so that everyone can use the latest version/sp that was released.
+I omitted 6.1 and 7.1 as those users probably have a support contract and/or are still in warranty, thus they can access the updates.
+
+== Contents ==
+
+- The latest fixpack for 4.3.3, ML11 and Post ML11 bundle
+- The latest fixpack for 5.1, ML9 and Past ML9 bundle
+- The latest fixpack for 5.3, 5300-12, SP 5 and requisite SP1
+- Various PDFs with security and administration tips for 5.3
+- Firmware updates for 7028-6E1, 7028-6C1, 9112-265 (needed in order to use 5.3, if you have those machines).
+
+== Instructions ==
+
+- To upgrade to 5.3 if you use the pSeries 610 or InteliStation Power 265, you need to first update the firmware. (AIX 5.3 isn't included in this torrent).
+- Read each of the README files in the corresponding directory for the update instructions. Don't skip this step.
+
+== Seed ==
+
+- Don't delete the files even if you are not uploading. You don't need to keep torrent uploading all the time, but if members request seeders, be kind and seed for a couple of days.
+
+~bgalakazam

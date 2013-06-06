@@ -1,0 +1,17 @@
+     Program name:	GEDCO OMNI 3D Design v11.000
+     Protection type:	HASP, RLM, SPro
+     Build date:	24/10/2011
+
+     Instructions:	Unrar and install the application.
+			Copy \patch\RLM\ folder to the &lt;installdir&gt;
+			Set up new system variable (my computer -&gt;
+			properties -&gt; advance -&gt; environment variables -&gt;
+			system variable):
+			RLM_LIC_HOST = 28000@&lt;your_host_name&gt;
+			Restart PC.
+			Edit Gedco_Key_Number_0.lic (in the above
+			mentioned already copied RLM folder):
+			replace (computer Name) in the first string
+			with your computer name (&lt;your_host_name&gt;)
+			Excute rlm and keep it running.
+			Run then app.

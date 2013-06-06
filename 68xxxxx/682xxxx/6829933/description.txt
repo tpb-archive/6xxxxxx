@@ -1,0 +1,16 @@
+FOR TESTING BETA RELEASE
+Shard Linux is a Minimal lightweight no nonsense linux distribution, built upon Debian Netinstall Minimal.It uses the XFCE window manager, each library and package was added by hand, no meta packages were used at all to attain the lightweight nimbleness that is lacking in so many other distributions.
+Every app is gtk+ 2.0 to keep the libraries to minimal, the only app that isn't gtk is vlc and it only has 3 qt libraries wich is justifiable as it is the best media player app for linux. each package must be full featured but lightweight to be considered for shard linux if it doesnt have a purpose it wont be in shard linux.
+This is not a beginner distro, If your not 100 percent confident of your linux knowledge I would recommend trying linux mint or ubuntu. If your a risk taker, willing to learn, or have a working knowledge of linux. Shard Linux might be for you then.
+Because of these set of rules and the way it was put together, Shard Linux has very low system requirements and can run on even the slowest of 686 processors. 
+
+Shard Linux comes in 2 diffrent ISO's a Stable Iso or a Beta 'Testing' ISO. Each is still based on Debian stable but the beta just has adjustments over the stable once the adjustments have been confirmed to be good and no bugs the beta will go to the release and be considered stable.  
+http://sourceforge.net/apps/mediawiki/shardlinux/index.php?title=Main_Page
+ 
+http://sourceforge.net/projects/shardlinux/ 
+http://sourceforge.net/projects/shardlinux/files/Release/ (stable) 
+http://sourceforge.net/projects/shardlinux/files/Beta/ 
+http://freecode.com/projects/shard-linux
+
+sha1sum :681cb002212d92d2568aed3dda221f09cfe4f086  v3beta2.iso
+md5sum : 5420988baa3acece9c39a3a0f750c371  v3beta2.iso

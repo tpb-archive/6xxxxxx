@@ -1,0 +1,29 @@
+CDlinux is a compact distribution of GNU/Linux. The name is a synonymous of â€œCompact Distro Linuxâ€. It is small in size, yet rich in features.
+You can use CDlinux as your â€œMobile OSâ€. Install it onto a USB key, take it anywhere and turn any PC/Mac that supports booting from USB to your own workstation, with the same user interface. CDlinux ships with an up-to-date version of the Linux kernel, Xorg, Xfce, and many popular applications, like Firefox, Pidgin, GIMP, and even Java and Wine. Just work anywhere like at home.
+You can also use CDlinux as a handy admin/rescue tool. For this purpose, the much smaller â€œstandardâ€ edition is enough. The standard edition bundled with a lot of popular admin/rescue tools, like parted, partimage, partclone, testdisk, foremost, ext3grep, e2undel, e2fs/jfs/hfs/ntfs/reiserfs/vfat/xfs tools, and much more. Enough for your routine admin/rescue work. 
+CDlinux has good i18n/locale support. Currently de_DE, en_CA, en_GB, en_US, fr_CA, fr_CH, fr_FR, ja_JP, ru_RU, zh_CN, and zh_TW are fully supported. And users can easily configure CDlinux to support their own locales. 
+... 
+http://cdlinux.info/wiki/doku.php/about
+
+This is a development release. Built with our new, gcc-4.6 based toolchain. In fact, every bit in 0.9.7 was rebuilt from scratch. And almost all components were upgraded to their latest stable version.
+Our tests show that, this release is already quite stable and ready for general use. But to ensure long-term production use, more tests and fine-tunings are still needed.
+Major user noticeable changes in 0.9.7 are:
+      SquashFS-4: 0.9.7 now uses the new squashfs 4 filesystem. As a result, your old .md files won\'t be recognized by default. If you want to convert your squashfs 3 .md files to squashfs 4, please use \'unsquashfs3\'and \'mksquashfs\'(shipped with 0.9.7).
+      Hybrid ISO: You can \'dd\' the 0.9.7 ISO image onto a USB stick, and boot from it.
+      Amount: CDlinux\' own hotplug solution to replace hal/udisks. It\'s (hopefully) simple and stupid, and may needs more fine-tunings.
+
+The package upgrade list is huge, some major ones:
+      linux-3.1
+      glibc-2.14.1
+      gcc-4.6.2
+      xorg-server-1.11.2
+      firefox-8.0
+
+The Standard Edition can be found at SourceForge.net. All other editions and optional add-on modules can be downloaded from the download page.  
+http://cdlinux.info/wiki/doku.php/download/latest 
+http://cdlinux.info/wiki/doku.php/news/latest
+ 
+http://www.cdlinux.info/wiki/doku.php/
+
+sha1sum : 93356d01433ae7427829867259ec0267c0b6e8d5  CDlinux-0.9.7.iso
+md5sum : 038af41f05db8f8a4a19ea36a80345f6  CDlinux-0.9.7.iso

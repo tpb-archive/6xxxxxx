@@ -1,0 +1,19 @@
+ http://www.wowebook.pro/book/transactional-memory-2nd-edition/
+
+Book Description
+The advent of multicore processors has renewed interest in the idea of incorporating transactions into the programming model used to write parallel programs. This approach, known as transactional memory, offers an alternative, and hopefully better, way to coordinate concurrent threads. The ACI (atomicity, consistency, isolation) properties of transactions provide a foundation to ensure that concurrent reads and writes of shared data do not produce inconsistent or incorrect results. At a higher level, a computation wrapped in a transaction executes atomically â€“ either it completes successfully and commits its result in its entirety or it aborts. In addition, isolation ensures the transaction produces the same result as if no other transactions were executing concurrently. Although transactions are not a parallel programming panacea, they shift much of the burden of synchronizing and coordinating parallel computations from a programmer to a compiler, to a language runtime system, or to hardware. The challenge for the system implementers is to build an efficient transactional memory infrastructure. This book presents an overview of the state of the art in the design and implementation of transactional memory systems, as of early spring 2010.
+
+Table of Contents:
+
+Introduction
+Basic Transactions
+Building on Basic Transactions
+Software Transactional Memory
+Hardware-Supported Transactional Memory
+Conclusions
+Book Details
+Paperback: 264 pages
+Publisher: Morgan and Claypool Publishers; 2nd Edition (June, 2010)
+Language: English
+ISBN-10: 1608452352
+ISBN-13: 978-1608452354

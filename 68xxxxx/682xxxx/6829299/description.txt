@@ -1,0 +1,47 @@
+Welcome to Tiny Core Linux
+Tiny Core Linux is a very small (&lt;12 MB) minimal Linux GUI Desktop. It is based on Linux 3.0 kernel, Busybox, Tiny X, and Fltk. The core runs entirely in ram and boots very quickly. Also offered are Micro Core, a 8 MB image that is the console based engine of Tiny Core, and Multi Core, which includes Tiny Core, Micro Core, networking tools and an installer. Micro Core contains CLI versions of Tiny Core's programs allowing the same functionality of Tiny Core's extensions, only starting with a console based system.
+It is not a complete desktop nor is all hardware completely supported. It represents only the core needed to boot into a very minimal X desktop typically with wired internet access.
+The user has complete control over which applications and/or additional hardware to have supported, be it for a desktop, a netbook, an appliance, or server, selectable by the user by installing additional applications from online repositories, or easily compiling most anything you desire using tools provided.
+The latest version: 4.1 
+http://distro.ibiblio.org/tinycorelinux/welcome.html
+
+Team Tiny Core is proud to announce the release of Tiny Core & Micro Core v4.0. 
+http://distro.ibiblio.org/pub/linux/distributions/tinycorelinux/4.x/x86/release
+
+Change log since v4.0:
+
+* Updated pcmciautils-018
+* Updated sudo-1.7.7
+* Updated freetype-2.4.7
+* Updated imlib2-1.4.5
+* Updated libpng-1.2.46
+* Updated busybox to 1.19.3
+* Updated tc-config new boot code pretce for raid and lvm support.
+* Updated tc-config dropped default TZ=UTC as such default (UTC) is embedded with no need to set TCZ.
+* Updated tc-config for better detection of /dev/rtc and handling of loadcpufreq.
+* Updated tc-config for microcore without X.
+* Updated tce-setdrive improved error handling.
+* Updated tc-terminal-server for new kernel.
+* Updated ab fixed OnDemand bug.
+* Updated mnttool added -g option for user defined initial position when used in .xsession.
+* Updated appbrowser improved screen dispay handling.
+* Updated appsaudit Updates for base version check.
+* Updated exittc for segfault when no env BACKUP encountered.
+* Updated startx for microcore to allow noicons to trump the loading for wbar.tcz
+* Updated version now supports options -c -l -s (check, long display, and short display).
+* Updated udev rules to correct reported permission issues on usb devices.
+* Updated select to accept input from stdin.
+* Updated tc-functions getKeyEventDevice
+* Updated rebuildfstab for better cdrom scanning and to eliminate boot errors.
+* Updated filetool.sh, rc.shutdown, tc-restore.sh, filetool GUI, and exittc GUI;  backup_device moved to /etc/sysconfig.
+* Updated filetool.sh for initial use of SAFE backup option.
+* Updated tce-setup for microcore initial ondemand setup.
+* Updated tce-setup for processing extensions on cd - new boot code 'cde'
+          which results in scanning cd for additional extensions to load.
+          This should eliminate the cd boot errors and is used in new multicore.
+* Applied optimization to shared libraries to reduce size.
+* Added /etc/protocols to base.
+
+Note: Microcore users need new wbar.tcz, Xprogs.tcz, and Xlibs.tcz which are now posted in the repository.
+
+

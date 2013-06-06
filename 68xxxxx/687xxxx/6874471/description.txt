@@ -1,0 +1,81 @@
+This is the concurrent Level 5 as Public Alpha Cut. PUBLIC means everyone can have it, so we haven`t included any fancy team secrets like very special shadercodes. ALPHA means it`s not in the stage for balancing and final beta testing, still some polishing to do. However, it can be played till the levels end both shooter style and tinker way. CUT means we have taken out some things that would spoiler too much from the previous levels: - The Mission Log described here: has been removed, all necessary hints are provided as voice overs. - Enemy types have been reduced to 1 enemy ty, as the others in this level are not yet announced. - Cutscenes are substituted with nightvision sequences as the movie cutscenes aren`t shot yet - 2 puzzles have been removed as they rely on skills and informations from the previous levels
+
+
+
+All about the TECH-SPEC:
+
+Screen Resolution:
+
+is set to 1680*1050, as this turned out to run fluently on mid-range machines.
+If your monitor doesn`t support that or you want to go higher, open the setup.ini here and look for
+
+width=1680
+height=1050
+
+in the [Gamedebug] section.
+
+Replace with
+
+width=1024
+height=768
+
+OR
+
+width=1280
+height=800
+
+or any other resolution supported by your system. Game has been tested from 800*600 to 1920*1080.
+
+Minimum System requirements:
+
+Dualcore / X2 2*2GHZ or better, 2.0GB RAM, Radeon 2600 PRO or better, latest DX and Xvid Codec installed.
+
+Recommended:
+
+Phenom @ 2.4GHZ / I3 2.6 GHZ or better, 4GB RAM, Radeon 4600 PRO or better, latest DX and Xvid Codec installed.
+
+Controls:
+
+WASD - Player Movement
+Mouse - Head Movement, Shooting (Leftclick), Aiming (Rightclick), Carrying Objects (Rightclick)
+R - Reload (As in Real Life, you can "overload" any weapon by choking and restocking magazine, so you have a total of Mag capacity + 1 shot.)
+Q/E - Peek left / right
+C - crouch
+SPACE - jump
+ENTER - Interaction / Pickup
+F - Special Weapon ability (silencer, IR...)
+CREDITS:
+
+Internal Credits:
+
+Ivan Ertlov - Basic Idea, Editor work, GFX, SFX and scripting
+Luna Riedler - Compass creation, Beta and focus testing
+Forian Machl - Focus testing
+Peter Kuhn - Focus testing
+
+TGC & Community - Scripts, shaders, ideas, assets and inspiration came from:
+
+TGC Store (various)
+TGC Model Packs (various)
+Errant AI
+Bond1
+Rolfy
+Cosmic Prophet
+Wolf
+PWP
+WXG
+and most likely I forgot someone else...
+
+External stuff partially taken from:
+
+freesound project
+CGtextures
+Freepic Base
+imagesource
+
+AND TWO IMPORTANT MESSAGES LAST:
+
+1. PLAY IT DURING NIGHTTIME WITH LIGHTS OFF OR IN A 100% DARKENED ROOM.
+2. PLAY IT LOUD!!!
+
+Developed By: IvanErtlov

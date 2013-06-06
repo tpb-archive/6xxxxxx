@@ -1,0 +1,44 @@
+Release Notes for Acronis True Image Home 2012 Update 1 (Build #6131, English)
+List of fixed issues
+Acronis True Image Home 2012 doesn't detect hard disk drives after installing it over a previous Acronis True Image Home version 
+Acronis True Image Home 2012 may fail to create Acronis Rescue Media with the error "Cannot load required components: ti_boot.so" 
+Backup to a Synology NAS fails with the error "Access is denied" 
+Hard drives sometimes are not detected under Windows after Acronis True Image Home 2012 installation 
+Acronis True Image Home 2012 displays the error message "Error while writing PEM file" when attempting to log into Acronis account 
+Data located in the subfolders of a synchronized folder may disappear after synchronizing it with Acronis Online Storage 
+Installation fails with rollback and "error CustomAction _USRCUSTACT_MsiCustomActionInstall_VddApi returned actual error code 1603" 
+Nothing happens if a user clicks "Connect" for a NAS folder in the Sync creation wizard 
+Upgrade from Acronis True Image Home 2011 to Acronis True Image Home 2012 fails with the "Installation has failed. The value can't be found." error message 
+A new sync does not appear after clicking Create New Sync 
+Backup to a QNAP NAS fails with the "access denied" error message, NAS subfolders can't be browsed 
+GUI hangs for 1 minute during program start if a mapped share is unavailable 
+The "configure disk backup process" window in multiple partitions selection view should contain 5-6 partitions by default (if there are many partitions in the system) 
+An unlettered storage device is always selected as a source when editing the single partition backup settings 
+The Online backup created by Acronis True Image Home 2011 isn't listed in the Recover menu of Acronis True Image Home 2012 after upgrade 
+The error "Failed to update snapman driver" appears when trying to upgrade Acronis True Image Home 10 (10.0.0.4942) to Acronis True Image Home 2012 
+Rollback during upgrade of Acronis True Image Home 2011 to Acronis True Image Home 2012 
+The "recover" function cannot browse xlsx\txt\docx files after the files have been edited 
+The error "Failed to open (initialize) the computer" may appear during the Clone operation 
+Activation works incorrectly after upgrading Acronis True Image Home 2012 from the trial version to the full one 
+Acronis True Image Home 2012 is seen as de-activated 30 days after activation 
+Acronis True Image Home 2012 fails to restore deep level files by drag and drop 
+Acronis True Image Home 2012 creates long backup names after changing a USB storage device, and does not delete previous backup versions 
+On an expanded backup plate the "backup is valid" banner is not seen after validation. 
+List of known issues
+Incremental backups created by Acronis True Image Home 2012 when Microsoft Outlook is open differ in size from the same backups created when Microsoft Outlook is closed 
+The disk recovery options saved as default are not kept after reboot 
+Queued backup tasks run in a random order and not in the order in which they were queued 
+Acronis True Image Home 2012 is unable to browse for the files located at Western Digital MyBook World Edition. You need to use a full UNC path to get access to them. 
+Sometimes installation may fail with the error "CustomAction _USRCUSTACT_MsiSyncAgentServiceInstall_SyncAgent returned actual error code 1603". In this case, please ask the Support team for the clean-up tool and install the application for "the current user only". 
+During restore, the boot media fails to pass through the credentials entry window on an UnRAID device running v4.5.6 Pro, LimeTech RB1200 
+Acronis True Image Home 2012 may prevent a USB flash drive from being properly detected under Windows. A fix will be available soon. 
+The "Cleanup by number of versions" option does not work for Acronis Online Backup. 
+A new "SyncMe" sync is created after each update or reinstall of Acronis True Image Home 2012. 
+Acronis True Image Home 2012 may prevent USB cards from being properly read by Windows through card readers. If this occurs, please reconnect the card reader with the already installed card. 
+Syncagentsrv.exe may crash if Acronis True Image Home 2012 is removed after updating to build 6131. However, the removal will complete successfully. 
+Live Update does not work for Windows Home Server 2003. To install fresh updates, users need to download and install them manually. 
+
+
+CRC32: 926A6126
+MD5: EB931451B08579967CD46D6DE9401FA0
+SHA-1: 6946545F8566D21A4778490553AA1231B0F8D069

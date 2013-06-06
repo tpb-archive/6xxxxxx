@@ -1,0 +1,81 @@
+Please help seed!
+
+Instructions:
+-------------------
+1. Download.
+2. Extract.
+3. Copy extracted folders to your WoW/Interface/AddOns folder.
+   - Both Horde and Alliance folders are included, if you don\'t play both, don\'t worry, WoW will only load the appropriate guide.
+4. Launch WoW.
+5. Once you are logged in and at your character screen, click the AddOns button and make sure that ZygorGuidesViewer and ZygorTalentAdvisor are checked.
+6. Launch the game and enjoy.
+
+Bug Fixes:
+-------------------
+December 8th, 2011
+
+Alliance Guides Change Log:
+All Darkmoon Faire Quests and Dailies complete
+All Darkmoon Faire Achievements Complete
+
+Leveling
+Updated the Swamp of Sorrow coordinates for Lord Itharius.
+Removed the quest "Just Checkin" from the guide. Seems to be obsolete and its replacement requires players to go inside Gundrak.
+Guide now has users pick up quest "Test Flight: Razaan's Landing" from Tally Zapnabber instead of "Rally".
+
+Achievements
+Fixed some labels that were causing issues in the "To All The Squirrels" section
+Added tip to food and water achievement.
+
+Professions
+- Changed the crafting procedure for getting to 75 in the Engineering guide since Copper Tube's were taken out of the game. Increased the amount of materials needed.
+- Skinning guide now has players get to skill level 120 before moving on to a new area.
+
+Horde Guides Change Log:
+All Darkmoon Faire Quests and Dailies complete
+All Darkmoon Faire Achievements Complete
+
+Leveling
+Updated the Swamp of Sorrow coordinates for Lord Itharius.
+Removed the quest "Just Checkin" from the guide. Seems to be obsolete and its replacement requires players to go inside Gundrak.
+
+Achievements
+Added tip to food and water achievement.
+
+Pets and Mounts
+Fixed typo in the label "R_PreQuest"
+
+Professions
+- Changed the crafting procedure for getting to 75 in the Engineering guide since Copper Tube's were taken out of the game. Increased the amount of materials needed.
+- Skinning guide now has players get to skill level 120 before moving on to a new area.
+
+Guides Viewer Change Log:
+General Viewer
+Added Archaeology to Profession.lua file. Was causing a localization issue on German clients.
+
+Talent Advisor Change Log:
+* Talent Advisor no longer is sometimes confused on the amounts of pet talents and no longer suggests to learn what the pet has already learned
+* Talent advisor now tries not to suggest glyphs available on higher levels
+
+Other changes:
+* Clockwerk arrow behaviour corrected with multifloor maps
+* Fixed old syntax in Worgen guides which lead the waypoints to be incorrectly parsed.
+* Carbonite clear distance on waypath restored to normal
+ 
+Zygor Guides Info:
+-------------------
+The Cataclysm is upon us! Level from 1-85 now with the fastest, most feature rich guide in the world.
+
+    Completely Redesigned Minimalist User Interface. Switch Between Full or Mini View Modes, the choice is yours
+    4 Full 1-60 Guides For Kalimdor & Eastern Kingdoms. 40 Zones Covered, 12 More Than Competing Guides
+    2 Full 60-70 Guides For Outland and Northrend
+    5 Full 80-85 Guides For All Cataclysm Zones
+    Goblin and Worgen Starter Guides Included
+    In-Game Talent Build Advisor For All Skill Trees
+    Built In Waypoint Arrow, No TomTom Or Other Addons Needed
+    NEW! Loremaster Achievement Guide
+    All Dailies Covered for both Cataclysm and Wrath of the Lich King.
+    Covers all Prerequisites Required To Unlock Dailies including full zone guides for Uldum and Deepholm.
+    Speed Gold Runs Make You Over 300 Gold In Just An Hour
+    Includes All 10 Seasonal Events Needed For The What A Long, Strange Trip It\'s Been Achievement
+    Get Your Crusader Title And Earn Epic & Heirloom Items

@@ -1,0 +1,234 @@
+
+I JUST FOUND ON OTHER TORRENT SITE WHY NOT ON TPB
+
+
+
+This kitt of Windows 7 ultimate x64 SP1 is activated, unattended installation except the partition step 
+No serial needed, no user creation, no network location no UAC
+
+It's ment to be a clean install NOT an upgrade or repair so DO NOT run setup.exe on a allready installed win! you'll get only an invalid sn error...Just boot-format-install
+
+
+Includes office 2010 std - see below how to activate office
+Also includes a list of postinstall software and registry tweaks as listed below:
+
+Postinstall software:
+
+7zip x64
+Daemon Tools 4402-0131
+WinRAR 4 x64
+Acrobat Reader 10.0.1
+Defrag 14.1 Pro x64
+Firefox 4
+Google Chrome 11
+Java(TM) 6 Update 25
+Nero Burning ROM 10 lite
+Microsoft Security Essentials
+Office 2010 Standard + KMS.activator
+Flash Player
+Yahoo Messenger 10
+Classic Shell Toolbar+Menu
+AIMP2+AIMP tools
+AIDA64 Extreme Edition
+Total Commander
+Teamviewer6 portable edition
+The KMPlayer
+Sidebar Gagets
+Few wallpapers
+
+Registry Tweaks:
+
+Show Windows classic folders (File | Edit | View | Tools | Help)
+Force Explorer to Display Correct Filename Capitalization
+Remove ' - Shortcut' Suffix from shortcuts
+Add "Device Manager" to the right click menu of "Computer"
+Add "Services" to the right click menu of "Computer"
+Disable file association web-service - Bypassing "Browse web for program" to open unknown extension-Open With..." becomes default
+Add "Command Prompt" when you shift+right click on a folder
+Add Notepad as a Right Click Item
+Disable Tracking of Broken Shortcut Links
+Search All File Types
+Make the Windows registration with Microsoft unnecessary
+Show the real CD-recording speed in Nero (example: 21.6x writing speed)
+Allows installing PlexTools Upgrade as full version
+Disable the Windows Mail splash screen
+Disable automatic updates for Windows Media Player
+Do not show 'Default Programs' on Start Menu
+Show "Administrative Tools" on the Start Menu
+Typing Long File Names In DOS
+Right-click any drive to close the tray of the optical drive
+Remove new BMP file
+Adds an option in the right-click menu to open any folder on your computer in a new window
+Disable the NTFS Last Access Time Stamp (speeds up viewing folders in ntfs)
+Optimize Core System Performance
+All items have an "edit.." on right-click sending to notepad
+Add register / unregister to the context menu for .ocx files
+Add register / unregister to the context menu for .dll files
+Opens 16-bit apps in a separate memory space
+Notepad saves window position
+Makes a right click option for unknown files (Open with notepad)
+Enable Wordwrap in Notepad
+Enable Status bar in Notepad
+Enable Status Bar in all windows
+Enable search system folders in Search
+Kill hung services after 5 seconds
+Open HTA files (used for WPI) with MSHTA.EXE
+Speed up shell response
+Disable 'Windows Defender' startup
+Stops the 'Welcome Center' loading (for current user) when Windows starts
+Set mouse pointer speed to maximum
+Add Expand&gt; and MakeCAB&gt; context menu to system files
+Add or Remove Programs to computer context menu
+Taskmgr- computer context menu
+Remote Desktop Connection- computer context menu
+Control Panel- computer context menu
+CMD- computer context menu
+Show Computer and Network on desktop
+Set custom logonui background
+Disable UAC
+
+[img]http://imageshack.us/m/156/3184/01sp1.jpg[/img]
+[img]http://imageshack.us/m/189/1356/02sp1.jpg[/img]
+[img]http://imageshack.us/m/863/764/03sp1.jpg[/img]
+[img]http://img819.imageshack.us/img819/3539/04x64.jpg[/img]
+[img]http://img846.imageshack.us/img846/582/05x64.jpg[/img]
+[img]http://img31.imageshack.us/img31/9941/06x64.jpg[/img]
+[img]http://img828.imageshack.us/img828/8571/06x65.jpg[/img]
+[img]http://img217.imageshack.us/img217/6215/07x64.jpg[/img]
+[img]http://img836.imageshack.us/img836/3217/08x64.jpg[/img]
+[img]http://img691.imageshack.us/img691/7716/09x64.jpg[/img]
+[img]http://img64.imageshack.us/img64/7918/10x64.jpg[/img]
+[img]http://img838.imageshack.us/img838/2931/11x64.jpg[/img]
+[img]http://img89.imageshack.us/img89/1268/12x64.jpg[/img]
+
+
+
+How to create usb stick with win7 bootable:
+
+Method1:
+
+this will work only on vista or 7 enviroment NOT in XP!
+you'll need a 4-8gb fast usb stick - insert it (all information on the usbkey will be lost)
+in cmd type:
+
+01. diskpart
+02. list disk
+03. select disk 3,7 or whatever (usb stick!!!!! not your hdd!!!)
+04. clean
+05. create partition primary
+06. select partition 1
+07. active
+08. format fs=fat32
+09. assign
+10. exit
+
+Now to copy Windows Seven's DVD content to the Flash Drive
+Simply type in CMD the following command to start copying all the content from the Windows Vista/7 DVD to your newly formatted high speed flash drive.
+xcopy /s/e/f F:\*.* H:\
+
+where F is your dvdrom or daemontools virtual dvdrom and H is the letter or your usb stick
+(F and H are just for example - your letters might be different so pay attantion!)
+
+Note x64 boot is diffrent than x86 32bit boot so you really need to make all these steps if 
+you use the same usb key where you have x86 win.
+
+boot up install enjoy
+
+Method2:
+use ultraiso to put iso image to usbkey - also works with win 2k, xp
+
+
+How to activate office:
+
+On C: drive I put a hidden folder called IT - i'll explain below it's purpose
+So after install win and all the drivers do not update windows yet, go to C:\IT
+Because IT folder is hidden you may type in a explorer window in addresbar C:\IT and hit enter...
+There you have OTK2010V216.rar and IORRT 3.5.cmd
+Option 1: Unrar and use EZactivator to have activated office with 180 days till next activation
+Option 2: Use IORRT to have unactivated office with 30 days reset counter on every restart forever
+NOTE: You can't use EZactivator if you have IORRT installed
+
+While the EZactivator installs autoKMS and other goodies the antivil will pop-up that detects unwanted software so you need to allow these in order to activate otherwise activation will fail. The activator is easy to use and if it fails first time you have other options to try again. Don't worry it will work just check green log on it's main window scroll down to see the result. Should state succesfully activated.
+
+What for is that IT hidden folder:
+
+This is only for advanced users so if you're a regular user don't bother...
+It's purpose is to install specific drivers during windows installation so when windows complete to install the drivers will be also installed and the system is ready to go.
+
+How can be done?
+Well if you use dvd.iso it can't, you need to create usb stick.
+
+After create your usb pen drive with wf7sp1x64 installation files you have to prepopulate usb\...\IT\Drivers\corresponding subfolders with DIGITALLY SIGNED drivers of your coresponding hardware.
+First you have to download the drivers and unpack them. Don't use .exe drivers just inf, cat etc- the uncompressed form of the driver
+Navigate to usb stick to ...\sources\$OEM$\$1\IT\Drivers\ there you have a directory structure with audio, video, chipset, etc place your drivers into the corresponding folders without changing the names of the folders, keep the directory structure intact! ADD ONLY THE DRIVERS THAT YOU KNOW ARE OK, AND IF WIN 7 KNOWS THE CHIPSET LET IT BE, ADD ONLY WHAT IT MUST BE ADDED!
+If you have a driver that can't be unpacked you can place it to soft folder and define silent swiches in the install.cmd file for example the nvidia driver:
+the file from internet is let's say 266.58_desktop_win7_winvista_32bit_international_whql.exe it can be unpacked/extracted to a folder that contains a lot of other folders and files needed for a full option install of driver with DisplayControlPanel, PhysX, etc but the main is setup.exe along with setup.cfg so we need to run setup.exe just with silent swich, the rest will take care setup.cfg file.
+So in usbkey ..\sources\$OEM$\$1\IT\Drivers\Soft\ we create a folder nv that contains all files and folders needed for nvidia driver and now  we have to edit install.cmd like that:
+
+
+original:
+
+~~~~~~~~~~
+@echo off
+Echo Installing aditional driver software
+Echo.
+Echo nothing to install
+echo.
+
+REGEDIT /S %systemdrive%\custom\DTlite\DTlite.reg
+ECHO performing clean-up...
+ECHO.
+RD /S /Q %systemdrive%\custom
+del /F /Q /S %systemdrive%\custom.wim
+del /F /Q /S "%systemdrive%\deploy.cmd
+del /F /Q /S "%systemdrive%\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\deploy.cmd
+ECHO done.
+Echo.
+ECHO Pending reboot
+ECHO         Please Wailt...
+Shutdown.exe /r /t 10 /c "Rebooting... Remove WF7 dvd/usb key from the unit"
+ECHO done.
+call "%programfiles%\windows sidebar\sidebar.exe
+
+exit
+~~~~~~~~~~
+
+
+edited:
+
+~~~~~~~~~~
+@echo off
+Echo Installing aditional driver software
+Echo.
+Echo nvidia display driver suite
+c:\it\drivers\soft\nvidia\setup.exe /passive /norestart
+echo.
+
+
+ECHO performing clean-up...
+ECHO.
+RD /S /Q %systemdrive%\custom
+del /F /Q /S %systemdrive%\custom.wim
+del /F /Q /S "%systemdrive%\deploy.cmd
+del /F /Q /S "%systemdrive%\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\deploy.cmd
+ECHO done.
+Echo.
+ECHO Pending reboot
+ECHO         Please Wailt...
+Shutdown.exe /r /t 10 /c "Rebooting... Remove WF7 dvd/usb key from the unit"
+ECHO done.
+call "%programfiles%\windows sidebar\sidebar.exe
+
+exit
+~~~~~~~~~~
+
+
+In a simmilary fashion you can install a touchpad driver or a activeprotect driver the trick is to find silent swiches for them
+setup.exe /q or dpinst.exe /s ...you got the ideea
+Remember that has to be signed drivers otherwise you'll be prompded to "continue anyway" thing...
+Of cause I could use bcedit functions to temporary disable dirvers signing policy but another restart is not quite welcomed...
+
+enjoy, post your opinion
+
+Regards,
+Firekeeper

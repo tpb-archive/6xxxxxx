@@ -1,0 +1,27 @@
+This is a file that fools Capture One to think you have more
+than 30 days to try the program. In fact is for life.
+
+I found this in a torrent signed mad_dog along with 
+Capture One 6.2.1 - 32bits.
+I tried this with several versions including the last 
+Capture One 6.3.2 - 64bits on Windows 7 64bits and it works like a charm.
+
+How to use:
+1.Install any version of Capture One 6.2 or newer (on Phase 
+One's home sites you'll find the last version - 6.3.2 for now). 
+http://www.phaseone.com/en/Downloads/SoftwareArchive/CaptureOneArchiveWin.aspx
+
+2.Don't start Capture One.
+
+3.Put the file CaptureOne6.cmd on your desktop.
+
+4.If you've installed Capture One in default location (on C:\Program Files...)
+you can use CaptureOne6.cmd for starting the program. You'll see a License window.
+Choose "Try (30 days left)" and "Capture One Pro" from the pop-up list, then hit 
+on the bottom right the "Try" button. Don't try to activate. Every time you want 
+to start the program you have to double click CaptureOne6.cmd. Forget about the
+original Capture One icon/shorcut.
+
+5.If you have installed Capture One anywhere else than default location, 
+then you have to edit CaptureOne6.cmd file, according with your new location.
+You cand edit cmd file with notepad, wordpad... etc.

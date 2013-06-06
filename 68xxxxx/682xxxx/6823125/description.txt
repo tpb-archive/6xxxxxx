@@ -1,0 +1,29 @@
+There will be two desktops in the live CD. The normal gnome-shell and a fallback modus similar to Gnome 2.
+Snowlinux 1 Winter should come today in his first version in a release candidate.
+All tests we did were successful. 
+http://www.snowlinux.de/blog/156-snowlinux-1-preview
+
+Snowlinux is a brand new project. See here. It uses GNOME 3 and GTK 3. By default there are GNOME-Shell and GNOME-Fallback pre-installed. You can also add MATE (GNOME 2 fork) from the own Snowlinux repository. Also you can add Unity. All installations can be done side by side. In the login manager you can switch between these. Snowlinux uses lightdm by default. This is a very light login manager which is used from Ubuntu, too. The Snowlinux ISO has got CD size. The system requirements are explained at the bottom. Snowlinux uses chromium by default.
+New features:
+    * GNOME-Shell and GNOME-Fallback
+    * Hardware-Manager
+    * Better software selection
+    * Snowlinux-Metal-Icons
+    * Ubuntu-Font
+    * New look and feel
+    * Improved speed and response
+    * System improvements
+
+System requirements:
+x86-CPU
+256 MB memory
+4 GB free disk space
+Graphics card capable of 800Ã—600 resolution
+CD-ROM drive or USB port 
+http://www.snowlinux.de/blog/157-snowlinux-1-qwinterq-rc-released
+ 
+http://www.snowlinux.de/donations 
+http://www.snowlinux.de/ 
+http://www.computerhilfe-forum.com/board101-snowlinux/
+
+md5sum : 0de496d154a17a8ee140bb28cec8cb69  snowlinux-1-gnome-amd64-rc.iso

@@ -1,0 +1,14 @@
+Freshly dumped from the original game, one week before the official European release!
+
+Seems that USB Loader GX can't load it at the moment (return immediatly to the Wii home screen).
+
+
+****
+WIA compressed image, must be converted to ISO or WBFS with tools like wit, see: 
+http://wit.wiimm.de/info/wia.html
+
+to convert to iso:
+wit copy "The Legend of Zelda Skyward Sword [SOUP01].wia" -d . -I
+
+to wbfs:
+wit copy "The Legend of Zelda Skyward Sword [SOUP01].wia" -d . -B

@@ -1,0 +1,99 @@
+[center]
+
+[code]UUUUUUUU     UUUUUUUU           SSSSSSSSSSSSSSS         MMMMMMMM               MMMMMMMM     
+U::::::U     U::::::U         SS:::::::::::::::S        M:::::::M             M:::::::M     
+U::::::U     U::::::U        S:::::SSSSSS::::::S        M::::::::M           M::::::::M     
+UU:::::U     U:::::UU        S:::::S     SSSSSSS        M:::::::::M         M:::::::::M     
+U:::::U     U:::::U         S:::::S                    M::::::::::M       M::::::::::M     
+U::::     D:::::U         S:::::S                    M:::::::::::M     M:::::::::::M     
+U::::     D:::::U          S::::SSSS                 M:::::::M::::M   M::::M:::::::M     
+U::::     D:::::U           SS::::::SSSSS            M::::::M M::::M M::::M M::::::M     
+U::::     D:::::U             SSS::::::::SS          M::::::M  M::::M::::M  M::::::M     
+U::::     D:::::U                SSSSSS::::S         M::::::M   M:::::::M   M::::::M     
+U::::     D:::::U                     S:::::S        M::::::M    M:::::M    M::::::M     
+U::::::U   U::::::U                     S:::::S        M::::::M     MMMMM     M::::::M     
+U:::::::UUU:::::::U         SSSSSSS     S:::::S        M::::::M               M::::::M     
+ UU:::::::::::::UU   ...... S::::::SSSSSS:::::S ...... M::::::M               M::::::M     
+   UU:::::::::UU     .::::. S:::::::::::::::SS  .::::. M::::::M               M::::::M     
+     UUUUUUUUU       ......  SSSSSSSSSSSSSSS    ...... MMMMMMMM               MMMMMMMM   
+
+
+[/code]
+
+  Warrior 2011 TS XViD - U.S.M
+
+
+SOURCES:
+
+Warrior.2011.720p.HDCAM.TNZ
+reCodeM8-KinG RG
+
+IMDB:
+ 
+http://www.imdb.com/title/tt1291584/
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : 2
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (MPEG)
+Muxing mode                      : Packed bitstream
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 2h 7mn
+Bit rate                         : 2 102 Kbps
+Width                            : 720 pixels
+Height                           : 288 pixels
+Display aspect ratio             : 2.500
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.405
+Stream size                      : 1.87 GiB (94%)
+Writing library                  : XviD 64
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 2h 7mn
+Bit rate mode                    : Constant
+Bit rate                         : 128 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 44.1 KHz
+Compression mode                 : Lossy
+Stream size                      : 117 MiB (6%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 40 ms (1.00 video frame)
+Interleave, preload duration     : 500 ms
+
+
+WORKDONE:
+
+Ok we were lucky enough to be given some nice 720p file for this to work with .....still had a fair
+amount of issues but better having source files.
+ANyway the video was full of noise and had loads of glares and brightness levels way too high,which made
+the noise stand out even more....
+So ....what we did was made a script to crop,resize,heavy noise filter and dropped that into vdub.From there
+there was still alot of noise so opted to run a HQ smoother over it and made it darker by changing the contrast
+and brightness levels.Also used a RGB EQ to balance out the colours.
+Audio we stripped off recodem8's release and and had to resync it in parts as in was oos in 3 places ranging from
+-100 - -350ms.
+Check sample for Q.
+
+SCREENIES:
+
+[img]http://img710.imageshack.us/img710/4016/exnss.png[/img]
+[img]http://img847.imageshack.us/img847/6315/vxxd1.png[/img]
+[img]http://img197.imageshack.us/img197/504/4twzl.png[/img]
+[img]http://img24.imageshack.us/img24/3670/sioyh.png[/img]
+[img]http://img189.imageshack.us/img189/4126/f9qkd.png[/img][/center]

@@ -1,0 +1,28 @@
+NitroBlast
+
+Description : A new fracturing plugin from the creator of Thrausi and Catastrophe. Allowing completely automatic, collision driven fracturing, Nitroblast is written from the ground up to be faster, bigger, more powerful and better from all angles than the previous fracturing plugins.
+Even though itâ€™s numerous, powerful features, it was designed with simple, easy to use interface in mind. Features include:
+Autobreak: Completely automatic impact based fracturing: You donâ€™t have to do anything, just run a dynamics simulation or even a custom animation with 2 objects colliding, and the auto-break will do the rest. It will break the objects based on their impact point. It supports:
+- Multibreak for multiple colliders on an object,
+- Deepbreak (as described below)
+- Cracks: Generate parametric Cracks for the part of the object that stays behind
+Deep Break: Used for incremental breaking of an object. For example you when want to break an object into pieces, and then these pieces to break again themselves when they collide with another object. You can easily set up the breaking levels as well as which objects will initiate them, with Deep Break.
+Voronoi break quality: Low, Medium, High and Extreme. Low is for fastest, Extreme is for the highest quality final result, that fully preserves the original shape of the most complex objects.
+Vertex map based fracturing: You can use vertex map to control the density of the fractures, as well as intuitively control with a fall-off of which pieces are static and which are dynamic.
+Thickness: You can set the fractured object to be hollow inside, with a controlled parameter.
+Bake Normals: Bakes the normals for removing any artifacts from the objectâ€™s surface, that were visible after the fracturing.
+Bake Object : 1-click bake of any object that has a dynamic tag (including Nitroblast objects) into keyframes and export in a format that can transfer your work to other programs .
+Transparency: For transparent objects, you can hide the fractured pieces inside before the impact.
+Style presets: Already including preset settings for stone, artifact free glass and lava, you can also easily create your own presets.
+Dust: Automatically generated dust. It is Thinking Particles based, so it can be edited or used in conjunction with other Thinking Particles for further control.
+Materials: You can apply inside and outside materials. By using a subpolygon displacement material for the inside surfaces, more realistic cuts can easily be created, that are not flat.
+Easily set which pieces are static and which are dynamic.
+Special Nitroblast objects are used to provide elaborate and intuitive control over the fractured objects. Furthermore, parametric objects (such as nurbs objects) are preserved, so they can be changed and fractured again.
+Additional tools:
+Nitroblast Splinebreak: Break and extrude any spline into fully parametrical individual segments. Animatable parameters include: Mode (segment size or count), Offset, Depth, Gap and others.
+Nitroblast Bomb: Can be used to automatically fracture, and explode an object on an impact point. Bomb can also be used to effortlessly explode already shattered objects.
+System : Win and Mac 32,64 bit
+Cinema4D : R12 , R13 ( Dosenâ€™t work in demo version )
+Version : Studio
+Avalable Verion : 1.01
+What you get : a Login for the video tutorials and extras stuff ,  The plugin

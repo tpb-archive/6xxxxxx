@@ -1,0 +1,317 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 28. February 2009, 15:23
+
+Devin Townsend / Ziltoid The Omniscient
+
+Used drive  : ATAPI   DVD A  DH20A4P   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  1:17.30 |         0    |     5804   
+        2  |  1:17.30 |  8:09.38 |      5805    |    42517   
+        3  |  9:26.68 |  3:42.63 |     42518    |    59230   
+        4  | 13:09.56 |  9:46.47 |     59231    |   103227   
+        5  | 22:56.28 |  3:47.69 |    103228    |   120321   
+        6  | 26:44.22 |  5:30.49 |    120322    |   145120   
+        7  | 32:14.71 |  5:44.73 |    145121    |   170993   
+        8  | 37:59.69 |  0:48.03 |    170994    |   174596   
+        9  | 38:47.72 |  9:44.49 |    174597    |   218445   
+       10  | 48:32.46 |  4:15.05 |    218446    |   237575   
+       11  | 52:47.51 |  1:03.14 |    237576    |   242314   
+
+
+Track  1
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\01 - ZTO.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC CE92BAA9
+     Accurately ripped (confidence 19)  [B6EB881E]
+     Copy OK
+
+Track  2
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\02 - By Your Command.wav
+
+     Pre-gap length  0:00:00.09
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC D92585C7
+     Accurately ripped (confidence 19)  [D3ED6376]
+     Copy OK
+
+Track  3
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\03 - Ziltoidia Attaxx!!!.wav
+
+     Peak level 99.8 %
+     Track quality 99.9 %
+     Copy CRC 94F8F4EE
+     Accurately ripped (confidence 19)  [881ECFB9]
+     Copy OK
+
+Track  4
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\04 - Solar Winds.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC 5286CB7A
+     Accurately ripped (confidence 19)  [DBD7B97E]
+     Copy OK
+
+Track  5
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\05 - Hyperdrive.wav
+
+     Pre-gap length  0:00:00.01
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC 7F5B1E96
+     Accurately ripped (confidence 19)  [FE95A81C]
+     Copy OK
+
+Track  6
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\06 - N9.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC F9799BAD
+     Accurately ripped (confidence 19)  [845F79AF]
+     Copy OK
+
+Track  7
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\07 - Planet Smasher.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC 8B323727
+     Accurately ripped (confidence 19)  [27E8940C]
+     Copy OK
+
+Track  8
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\08 - Omnidimensional Creator.wav
+
+     Peak level 67.0 %
+     Track quality 100.0 %
+     Copy CRC 8D164EE2
+     Accurately ripped (confidence 17)  [F5EF5EBA]
+     Copy OK
+
+Track  9
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\09 - Color Your World.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC CFFD6C8F
+     Accurately ripped (confidence 19)  [D679BDEB]
+     Copy OK
+
+Track 10
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\10 - The Greys.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC 453AB9E1
+     Accurately ripped (confidence 19)  [0DFACF6E]
+     Copy OK
+
+Track 11
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\11 - Tall Latte.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC 2CBA3B6C
+     Accurately ripped (confidence 19)  [3598478A]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report
+
+
+
+
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 28. February 2009, 15:27
+
+Devin Townsend / Ziltoid The Omniscient Bonus Disc
+
+Used drive  : ATAPI   DVD A  DH20A4P   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:34.59 |         0    |    34108   
+        2  |  7:34.59 |  2:14.35 |     34109    |    44193   
+        3  |  9:49.19 |  4:30.41 |     44194    |    64484   
+        4  | 16:51.60 | 26:57.02 |     75885    |   197161   
+
+
+Track  1
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\CD 2\01 - Don't Know Why.wav
+
+     Pre-gap length  0:00:02.00
+
+     Copy aborted
+
+Track  2
+
+     Copy aborted
+
+Track  3
+
+     Pre-gap length  0:04:04.00
+
+     Copy aborted
+
+
+No tracks could be verified as accurate
+
+There were errors
+
+End of status report
+
+------------------------------------------------------------
+
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 28. February 2009, 15:47
+
+Devin Townsend / Ziltoid The Omniscient Bonus Disc
+
+Used drive  : ATAPI   DVD A  DH20A4P   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:34.59 |         0    |    34108   
+        2  |  7:34.59 |  2:14.35 |     34109    |    44193   
+        3  |  9:49.19 |  4:30.41 |     44194    |    64484   
+        4  | 16:51.60 | 26:57.02 |     75885    |   197161   
+
+
+Track  1
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\CD 2\01 - Don't Know Why.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 80.2 %
+     Track quality 100.0 %
+     Copy CRC 9EDED445
+     Accurately ripped (confidence 10)  [C1A0C500]
+     Copy OK
+
+Track  2
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\CD 2\02 - Travelling Salesman.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC F42326F7
+     Accurately ripped (confidence 10)  [34F97719]
+     Copy OK
+
+Track  3
+
+     Filename F:\Music\Rips\Devin Townsend - Ziltoid The Omniscient\CD 2\03 - (Untitled).wav
+
+     Pre-gap length  0:04:04.00
+
+     Peak level 97.4 %
+     Track quality 100.0 %
+     Copy CRC 90EF1A89
+     Accurately ripped (confidence 8)  [22F0578C]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

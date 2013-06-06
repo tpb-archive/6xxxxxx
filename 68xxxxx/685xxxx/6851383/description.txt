@@ -1,0 +1,18 @@
+ETKA 7.3 Plus, VW and Audi, all markets (defaulting to US, and Europe is the "Other" market), and with updates to 885 (the latest as of this posting).
+
+This requires 32-bit Windows (I believe XP, may work on 2000). Not WINE, and it really must be a 32-bit version - the Hardlock driver and crack won't work on 64-bit.
+
+Let me say this again: This requires a 32-bit version of Windows. It works fine on Windows 7, just not 64-bit. If you have a 64-bit version of Windows, or something that isn't Windows at all, get a VM with a 32-bit version in it. Microsoft offers a perfectly good one for free, with XP already set up in it, if you're running Windows 7 Pro or higher. If you're not, or you're running Linux or a Mac, there are free options, and for the Windows license, well, you're on TPB, I'm sure you can figure something out. ;)
+
+Installation is as follows:
+
+Extract to a temporary folder
+Run Hardlock.exe
+Run Crack by Voliacom\Installer.exe and click the Install button. (If you can't read English or Russian (at least I think it's Russian), it's the first one.)
+Run setup.exe
+Set the settings to whatever's appropriate for your country
+TELL IT THAT YOU ARE NOT CONNECTED TO THE INTERNET. This will get rid of a bunch of annoying error messages about not having a myETKAinfo ID, as well as the futile attempts to autoupdate.
+Wait forever and a century.
+Once it's done, start ETKA. It'll tell you that brand Volkswagen and brand Audi have expired, and it'll also ask if you want to run VW update 843. Dismiss the error, and tell it yes.
+Wait forever and three centuries.
+Congratulations, you now have ETKA!

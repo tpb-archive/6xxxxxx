@@ -1,0 +1,15 @@
+ . Duration        :: 49 Minutes
+ . Release Size    :: 205MB (81% Compress)
+ . x264 r2106      :: 444 Kbps
+ . AAC 2ch CBR     :: 128 Kbps
+ . Resolution (AR) :: 852x480 (1.775)
+ 
+ Source : Dexter S06E10 720p HDTV x264-IMMERSE : 1.03GB
+ 
+ raw852x480p 0:0 @ 10000000/417083 fps (cfr)
+ x264profile High, level 4.1
+ x264frame I:950   Avg QP:22.22  size: 23515
+ x264frame P:26954 Avg QP:25.68  size:  3970
+ x264frame B:43083 Avg QP:28.62  size:   873
+ x264consecutive B-frames: 10.2% 21.6% 15.3% 53.0%
+ encoded 70987 frames, 29.99 fps, 451.12 kb/s

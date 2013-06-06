@@ -1,0 +1,65 @@
+FSUIPC4: Flight Simulator Universal Inter-Process Communication (FSX version)
+
+FSUIPC4 is an add-in for Microsoft Flight Simulator X which provides an interface for other programs to read and write all sorts of pertinent data relating to the simulation, and in many ways even to control the actual process itself.
+
+It is an essential ingredient in many add-on FS programs, and, in fact, may be installed on your system by any one or more of them already. For most such programs you do not need to actually purchase FSUIPC4. That deal, for their access, will often have been already done by the add-on program makers.
+
+But, in addition, FSUIPC4 contains a number of useful features for you, the Flight Simulator user, features that can assist you setting up the best simulation environment and making the best of what you have. It can do this because, by its very nature as an interface program, as a â€œpuller of wires and pusher of switchesâ€ on behalf of external applications, it is also in the best position to help you do the same.
+
+To use these additional features you need to register your copy of FSUIPC4 here and obtain an Access Key, which will unlock them.
+
+Facilities provided to the Registered User of FSUIPC include:
+
+Joystick control facilities:
+
+    * Facilities for joystick calibration â€“ specifically, more accurate setting of dead zones and centres.
+    * Joystick mapping for multi-engined aircraft throttles
+    * Facilities for reverse thrust adjustment on each throttle, or via a separate reverser,
+    * Joystick button programming, for any Flight Sim control, including those not available in FSâ€™s own assignment menu.
+    * Joystick buttons can also be made to produce key-presses, for instance when this is the only way to control an add-on aircraft panel or other accessory.
+    * Joystick button assignments for Project Magenta controls, and for Roger Wilcoâ€™s PTT action.
+    * Joystick button assignments for use by WideFS clients on Networked PCs.
+    * All button assignments programmable separately for press and release
+    * Facilities for analogue flap and spoiler setting, with detentes.
+    * Facilities for analogue elevator, rudder and aileron trim setting.
+    * PFC COM-port connected devices, operating through my PFCFSX DLL driver, can also have their switches and buttons programmed using the same facilities.
+    * Capabilities for all of these things to be specific to an aircraft, automatically changing when you change aircraft.
+
+Direct axis assignments
+
+    * Facilities for asignment of any Windows API (not DirectInput) joystick axis to any FS axis control, or sequences of other controls dependent upon axis range and direction of change.
+    * Axes can be read as Windows Game controler calibrated values, or direct as â€˜Rawâ€™ values for setting specific values.
+    * Capabilities for these things to be specific to an aircraft, automatically changing when you change aircraft.
+
+Key press programming facilities:
+
+    * Key-press programming, for any Flight Sim control, including those not available in FSâ€™s own assignments dialogues.
+    * FS controls can be sent with fixed parameter, for use in setting specific analogue values.
+    * Key-press combinations including TAB, MENU and WIN as extra shifts, for many more assignment possibilities.
+    * Key-press assignments for Project Magenta controls, and for Roger Wilcoâ€™s PTT action.
+    * Key-press assignments for use by WideFS7 clients on Networked PCs
+    * All key-press operations programmable separately for press and release, and for specific aircraft or general.
+    * A page of special Hot Key programmable functions for some special FSUIPC4 actions, such as clearing the weather, setting STD altimeter,
+    * switching throttle sync on and off, and hiding/viewing the FS message window.
+
+Assorted â€˜fixesâ€™ and improvements, including:
+
+    * Extending the FS aircraft battery life, when the engines arenâ€™t running to maintain them. This seems to be very useful still, as none of the default aircraft, at least, yet have true APU simulation nor external power connections.
+    * Synchronising the FS clock seconds (and minutes, within reason) with the PC it is running in, so that it doesnâ€™t lose or gain time when running at normal simulation speeds.
+    * Optional addional FSX menu items for loading Flights and Plans from any folder.
+    * Removing unwanted spikes from main aircraft controls (as generated, for instance, by some panels).
+
+Many weather filtering options:
+
+    * Too numerous to mention here, and not all fully useful yet due to FSX problems which will be resolved in due course. Please keep an eye on the Support Forum, where developments will be announced.
+
+And, on top of all that:
+
+    * The possibility of additional user options to come. There are always a few on my list, but I cannot guarantee any until I get to them and study the implications. I am also open to requests and suggestions, as in fact I have been over that last seven years -- that is how FSUIPC has become what it is, and I donâ€™t see why that will stop with FSUIPC4.
+    * Support from myself for any queries or problems arising from the use of FSUIPC4, or identifiable as FSUIPC4 even when using an application. I would still expect the application developer to be the prime support for his own application, and it is easier for him to sort out FSUIPC4 interfacing problems with me rather than between the user and me, if you see what I mean.
+    * All this for at least the life of FSX, provided I live that long. I cannot guarantee to continue this into and beyond FSXI or whatever, that would really be asking too much. There will be no charge for updates before the next version of FS, and, judging by the number there were over the last three years, that represents a lot of work, believe me!
+
+With Medicine
+
+
+Have fun Guys :+)

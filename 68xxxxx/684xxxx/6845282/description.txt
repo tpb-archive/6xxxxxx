@@ -1,0 +1,21 @@
+Power Supply design is all about detail. And a large part of that detail lies in the practical domain, largely because of the typically small number of microseconds of switching periods involved, and the even smaller tens of nanoseconds of switch transition times --- all these, in effect accentuating various "second-order" effects, that eventually end up playing prime havoc with "normal" expectations of how the circuit should behave. So not unsurprisingly, even after reading several books, most readers still find themselves no closer to the ultimate goal of designing an actual power supply.
+
+Sooner or later, all engineers start realizing the hard fact that designing a switching power supply isn't the trivial task it once seemed to be. But even after years of successfully mastering the underlying theory, the ultimate goal of creating a cost-effective, reliable and commercially viable power supply may still remain a distant dream, since success ultimately hinges on experience. That is, in fact, what clearly differentiates a senior and seasoned power supply engineer from the others --- the ability to navigate and surmount a veritable minefield of tricky issues that can only be learned the hard way, by actual hands-on experience on the job.
+
+This book presents practical knowledge the author acquired rather painfully, while working "in the trenches" for several years in major engineering companies scattered across several continents. This is intended to be the mythical senior engineer's "bag of tricks," finally made available in the form of an easy-to-read book on your shelf. This book will make life for the ambitious power supply engineer much simpler --- besides reducing significantly, the rigorous requirement of having to be a senior engineer's protÃ©gÃ© for years on end, just to gain a small measure of real success in this field.
+
+* A practical presentation that answers the important question: why is my switching converter behaving so differently than what I was expecting on the basis of my paper design? And how do I bridge that huge gap?
+* For the first time, a systematic and thorough discussion of troubleshooting switching power supplies.
+* Coverage of AC/DC and DC/DC power supplies.
+* Bench Evaluation of semiconductor ICs used in power conversion --- describing standard and unusual techniques mastered by the author, while testing similar chips at National Semiconductor.
+* Detailed coverage of vital topics that haven't been covered by available sources --- grounding systems, the subtleties of component datasheets, and using instruments and probes effectively.
+* Systematic investigation (type of failure mechanism, topology, etc.) and solutions for 5 years of reported power supply issues on a prominent, public web forum. This approach will ensure that engineers will not repeat the same mistakes.
+* A unique, readable style: personal and direct; no mystification--- just the plain truth, easily and logically explained, with plenty of pictures, graphs and plots.
+
+
+
+# Hardcover: 320 pages
+# Publisher: Newnes; 1 edition (September 14, 2007)
+# Language: English
+# ISBN-10: 0750684216
+# ISBN-13: 978-0750684217

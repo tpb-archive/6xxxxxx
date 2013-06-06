@@ -1,0 +1,38 @@
+Tails is a live system: a complete operating-system designed to be used from a CD or a USB stick independently of the computer's original operating system. It is Free Software and based on Debian GNU/Linux.
+Tails comes with several built-in applications pre-configured with security in mind: web browser, instant messaging client, email client, office suite, image and sound editor, etc.
+... 
+https://tails.boum.org/about/index.en.html
+
+Notable user-visible changes include:
+
+      Tor
+          o Upgrade to 0.2.2.34. This fixes CVE-2011-2768 and CVE-2011-2769 which prompted for manual updates for users of Tails 0.8.1.
+          o Suppress Tor's warning about applications doing their own DNS lookups. Some users have reported concerns about these warnings, but it should be noted that they are completely harmless inside Tails as its system DNS resolver is Torified.
+
+      Linux 3.0.0-6, which fixed a great number of bugs and security issues.
+
+      Iceweasel
+          o Upgrade to 3.5.16-11 ((fixes CVE-2011-3647, CVE-2011-3648, CVE-2011-3650).
+          o Torbutton: upgrade to 1.4.4.1-1, including support for the in-browser "New identity" feature.
+          o FireGPG: upgrade to 0.8-1+tails2. Users are notified that the FireGPG Text Editor is the only safe place for performing cryptographic operations, and these operations has been disabled in other places. Performing them outside of the editor opens up several severe attacks through JavaScript (e.g. leaking plaintext when decrypting, signing messages written by the attacker).
+          o Replace CS Lite with Cookie Monster for cookie management. Cookie Monster has an arguably nicer interface, is being actively maintained and is packaged in Debian.
+
+      Software
+          o Install MAT, the Metadata Anonymisation Toolkit. Its goal is to remove file metadata which otherwise could leak information about you in the documents and media files you publish. This is the result of a Tails developer's suggestion for GSoC 2011, although it ended up being mentored by The Tor Project.
+          o Upgrade WhisperBack to 1.5~rc1. Users are guided how to send their bug reports through alternative channels upon errors sending them. This will make bug reporting easier when there's no network connection available.
+          o Upgrade TrueCrypt to 7.1.
+
+      Miscellaneous
+          o The date and time setting system was completely reworked. This should prevent time syncing issues that may prevent Tor from working properly, which some users have reported. The new system will not leave a fingerprintable network signature, like the old system did. Previously that signature could be used to identify who is using Tails (but not deanonymize them).
+          o Erase memory at shutdown: run many instances of the memory wiper. Due to architectural limitations of i386 a process cannot access all memory at the same time, and hence a single memory wipe instance cannot clear all memory.
+          o Saner keyboard layouts for Arabic and Russian.
+          o Use Plymouth text-only splash screen at boot time.
+
+Plus the usual bunch of minor bug reports and improvements. 
+https://tails.boum.org/news/version_0.9/
+ 
+https://tails.boum.org/download/index.en.html#index3h1 (read on verifying the ISO image)
+
+Trackers : 
+http://z6gw6skubmo2pj43.onion:8080/announce 
+https://www.les-renseignements-genereux.org/tracker/announce

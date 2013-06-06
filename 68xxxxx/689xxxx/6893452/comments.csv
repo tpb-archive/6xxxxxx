@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,Obzen999,2012-05-31T04:47Z,"To those having any language issues, the fix is simple.
+
+Go to your installation directory and find lang.dat
+
+Open that with note pad and ensure the number is 44 (represents English)
+
+Then, go to your shortcut that was created upon install and right click it, go into properties.
+
+Notice the target location is to your installation directory, but at the end is -language 7.
+
+Remove -language 7
+
+Play your game in English. Enjoy."

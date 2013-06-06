@@ -1,0 +1,93 @@
+Another strange and touching movie by the unique Harmony Korine.
+
+I was dissatisified with the quality of the versions available, and ARTE ran it in HD so here it is in H264 at last.
+
+I'm not one for synopsys, so I'll just give some snapshots and technical data.
+
+SNAPSHOTS :
+ 
+http://www.imagebam.com/image/b0b3f9164554592
+ 
+http://www.imagebam.com/image/47064d164554595
+ 
+http://www.imagebam.com/image/827c0a164554598
+ 
+http://www.imagebam.com/image/dad1f2164554606
+ 
+http://www.imagebam.com/image/809b39164554611
+
+Technical aspects :
+
+The video was encoded according to AVCHD specifications so I guess a DVD-R readable by your Blu-Ray player is doable.
+
+Picture :
+
+The source HD DVB-T, and the broadcaster (arte) harcoded the french subtitles on the video. Nothing I can do about that. Most of these are located under the picture tough. Mpc-hc displays other subtitles at the same height over these, which you may like or not (you should have the option to move them as you see fit, if you don't).
+
+Very few and short imperfections because of the reception (which was very good), they should not be a concern.
+
+I was unsatisfied by the offer on bittorrent on Mr. Lonely There was no H264 of the DVD. Arte (fr) ran it in "HD", with a quality probably higher than the DVD, so here we go.
+
+Also, I have worked to find and use the "best" avisynth technology on the source, and applied the strongest denoising/sharpening that wouldn't remove any noticable precision (and obv. thanx to high quality x264 encoding not loose anything noticeable there too).
+
+SUBTITLES INCLUDED:
+Czech
+English
+Finnish
+Hungarian
+Italian
+Portuguese
+Russian
+Serbian
+Slovak
+Spanish
+Turkish
+(and the french hardcoded obv.)
+
+MEDIA INFO:
+
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 47mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 056 Kbps
+Maximum bit rate                 : 14.0 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.089
+Stream size                      : 1.55 GiB (87%)
+Writing library                  : x264 core 119 r2106 07efeb4
+Encoding settings                : cabac=1 / ref=4 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=3 / sliced_threads=0 / slices=4 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=1 / constrained_intra=0 / bframes=3 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=1 / weightp=1 / keyint=24 / keyint_min=2 / scenecut=40 / intra_refresh=0 / rc_lookahead=25 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=14000 / vbv_bufsize=14500 / crf_max=0.0 / nal_hrd=vbr / ip_ratio=1.40 / aq=1:1.00
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 2
+Codec ID                         : A_MPEG/L2
+Codec ID/Hint                    : MP2
+Duration                         : 1h 47mn
+Bit rate mode                    : Constant
+Bit rate                         : 256 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Delay relative to video          : 8ms
+Stream size                      : 198 MiB (11%)
+Language                         : English

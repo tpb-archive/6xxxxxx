@@ -1,0 +1,9 @@
+LabVIEW 8.2 for Linux (.DEB packages, 64-bit version).  These .DEB packages were converted from 64-bit .RPM's using Alien.  There weren't many toolkits included in the original 8.2 .RPM's, so there aren't many toolkits in these .DEB files either.
+
+I had a little trouble with the Help &gt; Search function, but a 2nd install of the 'help' .DEB automatically fixed the problem (probably in the 'root' file permissions or the install scripts).  See the README file in the highest directory for details, and I wrote an "INSTALL_Ubuntu.sh" installation script for BASH that can be found under the /DEBs/ directory.
+
+I won't copy & paste the LabVIEW description- if you are interested in LabVIEW, you probably already know what it as and are already capable of using a web browser to find the "factory" description somewhere (if it is still online for something this 'old').
+
+I've not seen many (read ANY) 64-bit Ubuntu versions of LabVIEW in many months of looking, so I eventually put my own together and tested it.  I haven't seen any problems (other than the Help &gt; Search thing already mentioned and covered in the README file inside the .7z archive) in the week or so that I've been running it. I installed and tested this under 64-bit Ubuntu 10.04 LTS (I know- that's also 'old' by some standards, but I absolutely HATE Unity and Ubuntu 11.xx- my computer is NOT a cell phone for chrissakes!).
+
+Enjoy your .VI's and G code in all its 64-bit Debian (or Ubuntu) Linux goodness! Happy 'wiring!'

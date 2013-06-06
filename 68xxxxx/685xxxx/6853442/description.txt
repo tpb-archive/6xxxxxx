@@ -1,0 +1,41 @@
+The NAM Team is pleased to announce the long-awaited release of NAM Version 30.  The product of a 13-month development cycle, NAM Version 30 offers the following:
+
+    Elevated Road, One-Way Road and Avenue viaduct models have been revamped, with new orthogonal-to-diagonal curves added to One-Way Road and Avenue Viaduct sets.
+    Numerous new Tram-in-Avenue, Tram-in-Road and Tram-on-Road puzzle pieces, many of which dramatically improve diagonal functionality.
+    New Elevated Maxis Highway Interchanges for Tram-in-Avenue, and improvements to existing Diagonal Avenue Elevated Maxis Highway interchanges.
+    New Underground Rail puzzle pieces have been added.
+    NAM Controller and Bridge Controller files have been updated.
+    New Turn Lane Extension Pieces (TuLEPs) have been added, including TuLEP Rail Crossings.
+    Avenue Roundabouts Plugin updated, adding new BSC Ripptide filler, and support for Flexible Underpass (FLUPs) functionality.
+    Two new styles of Draggable Ground Light Rail/Tram with easily-customizable base textures have been added with the optional Draggable GLR/Tram Extension Plugin.
+    (Please note that due to the model-based nature of this functionality, the natively-built pillars on the Elevated Rail network had to be removed.  You may need to reconstruct sections of your Elevated Rail network to re-add the pillars with this plugin installed.)
+    RUL updates for the RealHighway Mod (RHW), Network Widening Mod (NWM), Street Addon Mod (SAM) and soon-to-be-released Diagonal Bridge Enabler (DBE), all downloaded separately.
+    Traffic Simulator Configuration Tool (TSCT) updated to Version 1.2.6, reflecting proper One-Way Road capacities.
+
+
+Additionally, this marks the release of RealHighway (RHW) Version 5.0 and Network Widening Mod (NWM) Version 2.0:
+
+RHW 5.0 includes the following features:
+
+    New "V5-Spec" texture set, with improved scaling and aesthetics.
+    New networks--in addition to the Double-Decker RHW-4 (DDRHW-4), the RHW-3, Elevated RHW-2, Elevated RHW-6S and Elevated RHW-6C have been added.
+    FlexSPUI system, allowing for a flexible, overrideable Single-Point Urban Interchange system that can be elevated.
+    RHW Regional Transport View Mod by jondor added, allowing RHW networks to appear on the Regional Transport View.
+    Fractional Angle RHW (FARHW) system expanded to include FARHW-6C, and numerous new transitions and exit/entrance ramps.
+    Basic, stable draggable diagonal and curving functionality added to the RHW-6S, 6C, 8S, 8C and 10S.  New RHW-3, ERHW-2 and DDRHW-4 networks also support limited diagonal functionality. (ERHW-6S and ERHW-6C cannot yet curve
+    or go diagonal.) Please Note: If you have built any RHW-6C diagonals with Version 4.0 or 4.1, you will need to rebuild them.
+    New, simpler ramp interface nomenclature system, coupled with a number of new ramps.
+    Draggable Ramp Interface (DRI) functionality added to RHW-6S and RHW-8C networks.
+    Additional functionality for FLEXFly.
+    Many new cosmetic pieces, allowing you to better control the look and realism factor on even more RHW networks.
+    DDRHW-4 plain bridge added.
+    Improved stability and pathing.
+
+
+NWM 2.0 includes the following features:
+
+    Three new networks have been added, including the triple-tile 6-lane Avenue and 7-lane Turning Lane Avenue, plus the single-tile 4-lane Narrow Medianless Avenue
+    Draggable transition functionality, allowing easier connections with default networks, other NWM networks, and networks in the RealHighway addon (downloaded separately).
+    Basic diagonal and curving functionality for dual-tile and triple-tile networks (note: this does not include intersections).
+    Numerous new T-intersections, including dual-tile networks ending at single-tile networks.
+    Limited support for diagonal intersections on single-tile networks--this functionality is still experimental and offered on an "as-is" basis.

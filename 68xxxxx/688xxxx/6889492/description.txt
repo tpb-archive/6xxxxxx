@@ -1,0 +1,75 @@
+GINGERBREAD 2.3.5 FIRMWARE FOR ANDROID PHONES
+
+
+---------
+Credits:
+---------
+1. XXKI3 Stock Kernel firmware courtesy of Intratech.
+2. CF-Root firmware courtesy of Chainfire.
+
+You can find Intratech and Chainfire and their excellent works for the Android platform at: http://forum.xda-developers.com.
+
+
+------
+Note:
+------
+Firmware tested and worked on Samsung Galaxy S2 mobile phones. The firmware, if update is successful, will upgrade your phone to:
+
+a. Android Version: 2.3.5
+b. Baseband Version: I9100XXKI3
+c. Kernel Version: 2.6.35.7-I9100XXKI3-CL577579 se.infra@SEP-55 #2
+d. Build Number: GINGERBREAD.XXKI3
+
+This firmware is a vanilla release from Samsung so it does not have any provider's crap in it. Users have informed me that the firmware worked in Europe, Australia and New Zealand.
+
+
+------------
+DISCLAIMER:
+------------
+YOU HEREBY ACKNOWLEDGE BY USING THE SOFTWARES INCLUDED IN THIS TORRENT THAT I'M NOT LIABLE FOR ANY DAMAGE OR BE HELD RESPONSIBLE IN ANY WAY, WHETHER EXPLICIT OR IMPLIED, IF YOU BRICK OR TURN YOUR PHONE INTO A USELESS PAPERWEIGHT. YOU ARE USING THE SOFTWARES AT YOUR OWN RISKS.
+
+
+---------------------------
+Prerequisite requirements:
+---------------------------
+1. A rooted Samsung Galaxy S2 Phone.
+
+2. IMPORTANT: Ensure you have a constant power supply source when you flash the firmware onto your phone. Otherwise, any power outage, will inevitably brick your phone in the process. Best to have your PC connected to a UPS unit in case the power supply from your provider suddenly stopped (i.e. power outage).
+
+
+------------------------------
+Steps to install Gingerbread:
+------------------------------
+
+1. If you haven't installed the USB drivers in Windows for your Samsung phone, then run "Samsung Mobile Phones USB Drivers 1.4.2.2.exe". Otherwise, skip this step.
+
+2. Open Odin3 (This version runs in Windows only).
+
+3. Check only "Auto Reboot" and "F. Reset Time" options.
+
+4. Click the "PDA" button and select the firmware package "GT-I9100_OXA_PDAXXKI3_PHONEXXKI3_CSCOXAKI3.tar".
+
+5. Shut down the phone.
+
+6. Boot the phone into Download mode i.e. Hold Volume Down + Home + Power buttons down simultaneously. Then, press Volume Up button to initiate Download mode.
+
+7. Plug in phone's USB cable.
+
+8. Back in Odin3, hit the "Start" button and wait.
+
+9. Once Odin3 signalled "PASS!", unplug phone's USB cable. You will now have Gingerbread 2.3.5 firmware on your phone.
+
+
+----------
+Optional:
+----------
+To enable Root permission (i.e. full access) for your phone, you'll need to flash your phone first with:
+
+1. Repeat the above steps (where applicable) but in step 4 select "CF-Root-SGS2_XX_OXA_KI3-v4.1-CWM4.tar"
+
+then with:
+
+1. Repeat the above steps (where applicable) but in step 4 select "GT-I9100 XXKI3 Stock Kernel.tar".
+ 
+
+Enjoy.

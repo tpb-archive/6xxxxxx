@@ -1,0 +1,10 @@
+User Type,Username,Date,Text
+[T],skJGZV6z,2011-11-17T19:53Z,"@icanhazbits Probably no on pushing to usenet.
+
+I haven't looked at usenet since it was common for ISPs to run a news server along with providing your basic service, UUCP was the dominant file transfer protocol (unless you were using zModem or Kermit from your terminal client), and everyone knew how to use a terminal client!
+
+I'm too much of a noob to it's modern-era uses. (And I think I'd have to buy access to a news provider, like Easynews or somthing, right? Anywho...)
+
+I think it's the usenet users who are responsible for those torrents consisting of multipart RARchives. RAR and bittorrent don't belong together. Dang I hate those things: an orphan torrent with only 98% or so of it's data still in the residual swarm will often yield damaged, but still playable files in modern media formats (if the header bytes of the file are part of the surviving data). RARchives can sometimes tolerate a missing part, but a similar orphan torrent with 0.98 availability results in teeny errors on all the parts, making its underlying content unextractable, and a RARchive an all or nothing affair. A stupid shame. (Ooops, sry. Hit upon a pet-peeve of mine.)
+
+Helpful hint: Anyone receiving a RARchive from another source and wanting to repost a torrent, please unpack the data. Media files don't benefit from compression, and torrents can natively encapsulate a folder-structure and aren't constrained to maximum post sizes."

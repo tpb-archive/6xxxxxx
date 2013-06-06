@@ -1,0 +1,23 @@
+Book Description
+Web services have been used for many years. In this time, developers and architects have encountered a number of recurring design challenges related to their usage, and have learned that certain service design approaches work better than others to solve certain problems.
+
+In Service Design Patterns, Rob Daigneau codifies proven design solutions for web services that follow the REST architectural style or leverage the SOAP/WSDL specifications. This catalogue identifies the fundamental topics in web service design and lists the common design patterns for each topic. All patterns identify the context in which they may be used, explain the constituent design elements, and explore the relative strengths and trade-offs. Code examples are provided to help you better understand how the patterns work but are kept general so that you can see how the solutions may be applied to disparate technologies that will inevitably change in the years to come.
+
+This book will help readers answer the following questions:
+
+How do you create a web service API, what are the common API styles, and when should a particular style be used?
+How can clients and web services communicate, and what are the foundations for creating complex conversations in which multiple parties exchange data over extended periods of time?
+What are the options for implementing web service logic, and when should a particular approach be used?
+How can clients become less coupled to the underlying systems used by a service?
+How can information about a web service be discovered?
+How can generic functions like authentication, validation, caching, and logging be supported on the client or service?
+What changes to a service cause clients to break?
+What are the common ways to version a service? How can web services be designed to support the continuing evolution of business logic without forcing clients to constantly upgrade?
+This book is an invaluable resource for enterprise architects, solution architects, and developers who use web services to create enterprise IT applications, commercial or open source products, and Software as a Service (SaaS) products that leverage emerging Cloud platforms.
+
+Book Details
+Hardcover: 352 pages
+Publisher: Addison-Wesley Professional (October 2011)
+Language: English
+ISBN-10: 032154420X
+ISBN-13: 978-0321544209

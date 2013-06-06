@@ -1,0 +1,34 @@
+User Type,Username,Date,Text
+,Ljusa,2011-12-03T22:55Z,"Yes, file is ready to download, this engine tweaks works great for me, J modified by my self. Try it. It will work."
+ize=256,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_Character=(MinLODSize=256,MaxLODSize=1024,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_CharacterNormalMap=(MinLODSize=128,MaxLODSize=1024,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_CharacterSpecular=(MinLODSize=128,MaxLODSize=128,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_CharacterSpecPower=(MinLODSize=128,MaxLODSize=128,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_Effects=(MinLODSize=128,MaxLODSize=128,LODBias=0,MinMagFilter=linear,MipFilter=point)
+TEXTUREGROUP_EffectsNotFiltered=(MinLODSize=128,MaxLODSize=256,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_RenderTarget=(MinLODSize=1,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_Skybox=(MinLODSize=256,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_UI=(MinLODSize=1024,MaxLODSize=1024,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_Vehicle=(MinLODSize=128,MaxLODSize=1024,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_VehicleNormalMap=(MinLODSize=128,MaxLODSize=1024,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_VehicleSpecular=(MinLODSize=128,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_Weapon=(MinLODSize=128,MaxLODSize=1024,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_WeaponNormalMap=(MinLODSize=128,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_WeaponSpecular=(MinLODSize=128,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_World_Low=(MinLODSize=128,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_World=(MinLODSize=128,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_WorldNormalMap=(MinLODSize=128,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_WorldSpecular=(MinLODSize=128,MaxLODSize=128,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_World_Hi=(MinLODSize=128,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_WorldNormalMap_Hi =(MinLODSize=128,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_WorldSpecular_Hi =(MinLODSize=128,MaxLODSize=128,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_ProcBuilding_Face=(MinLODSize=256,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_ProcBuilding_LightMap=(MinLODSize=256,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+
+[Engine.StaticMeshCollectionActor]
+MaxStaticMeshComponents=25
+
+[SystemSettingsEditor]
+TEXTUREGROUP_ProcBuilding_Face=(MinLODSize=256,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)
+TEXTUREGROUP_ProcBuilding_LightMap=(MinLODSize=256,MaxLODSize=512,LODBias=0,MinMagFilter=aniso,MipFilter=point)"

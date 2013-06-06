@@ -1,0 +1,32 @@
+About
+
+Goals
+CRUX is a lightweight, i686-optimized Linux distribution targeted at experienced Linux users. The primary focus of this distribution is keeping it simple, which is reflected in a straightforward tar.gz-based package system, BSD-style initscripts, and a relatively small collection of trimmed packages. The secondary focus is utilization of new Linux features and recent tools and libraries. CRUX also has a ports system which makes it easy to install and upgrade applications.
+Unlike other distributions, the primary goal of CRUX is not to be the most popular (read: biggest number of users) or to put as many features as possible into the system. The idea is rather to build a streamlined distribution, targetted at a specific audience which in turn gets a system without compromises. Some of the characteristics of CRUX are:
+    * KISS (Keep It Simple, Stupid) concept, applied to both the system and the development process
+    * Source based package installation using a ports system
+    * Simplicity over automation
+    * Targetted at experienced users with compact, to the point documentation
+    * Native configurations over configuration abstraction layers (think: sysconfig)
+    * Slim, stripped of unneeded documentation and files (including National Language Support; CRUX only supports the native language the programs were written in, which is english in most cases)
+    * Up to date features and packages, however no bleeding edge software in the main repositories
+    * Easy way to extend the system by yourself
+    * Active community of contributors outside the core development team 
+
+The result may not be the best distribution for everybody, but as mentioned above, that's not the goal. If you're part of the target audience however, you might enjoy running CRUX just as much as we do.  
+http://crux.nu/Main/About
+
+Current release is 2.7.1.
+CRUX 2.7.1 image for the i686 architecture. The image is processed with isohybrid and is suitable for burning on a CD and putting on a USB drive.
+ 
+http://crux.nu/gitweb/?p=system/iso.git;a=blob_plain;f=ChangeLog;h=87ca6d21c6e83f1d12d8b2c3b1f3636a5739cfdb (changelog) 
+http://crux.nu/Main/ReleaseNotes2-7-1 
+http://crux.nu/Main/Handbook2-7 
+http://crux.nu/ 
+http://crux.nu/Main/Download (x86_64)  
+http://www.obra.se/c64/2.7.1/ (x86_64)
+
+md5sum : dd722f8b1e18db88f0b0f5dca4cc53c8  crux-2.7.1.iso
+
+Original torrent : http://crux.nu/files/crux-2.7.1.torrent 
+http://crux.nu:6969/announce

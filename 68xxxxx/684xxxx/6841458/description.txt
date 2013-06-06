@@ -1,0 +1,115 @@
+[i]From the creator of Micro XP Pro,[/i]
+DarkReverser [i]Presents: [/i]
+
+[b]Micro XP Pro 0.98 New Edition[/b]
+
+Install time..........:......~11 min on Fast System (~25 min on 500 mhz pentium 3 with 12GB hard drive)
+Speed:........................Fastest
+Default Security:..........Unrivaled (Tweaks + Updates)
+Functionality:..............Retail
+Iso Size:.....................203,292,672 bytes
+Ram Usage: .......... ....50 MB 
+Automatic: .................Setup & speed enhancements
+
+
+[b]Purpose:[/b]  To make the retail version of XP Pro better.
+  -Faster install and speed
+  -Less memory and cpu usage
+  -Increased security via tweaks and updates
+  -Increased compatibility via updates
+  -Faster deployment; getting your system ready shouldn\'t take eons.
+  -Passes WGA
+  -No need to activate
+  -Pre-shipped with handy applications, tools and a few drivers for fast deployment
+  -Micro XP Pro 0.98 will not produce any more errors then the retail copy*  
+  -Must be quality enough to fix a friend\'s computer and zero head aches
+
+[b]Changes since 0.97:[/b]
+ -Security Updates November 2011
+ -Re-included floppy, iomega, gravis and \"firewire network\" support
+ -Re-included xp games except for pinball and spider solitaire
+ -Re-included ps/2 and multifunctional driver to make install on old computers more seemless.
+ -No changes to Security/Speed/Scripts, except for 1 which ensures quick launch functionality.
+ -No change to USB3/Sata support
+ -For improved stability/compatibility, Windows Installer 4.5 is not built-in, and must be installed if you want it. 
+ -Removed PowerUser account and Administrator password; gets in the way of deployment.   
+ -Updated Root Certificates; important for website and application compatibility i.e., Titan Poker.
+ -XP setuperr.log in windows directory remains 0 kb :)
+
+[b]Sata Support[/b]
+ -ESB2
+ -Desktop/Mobile ICH6 chipsets
+ -Desktop/Mobile ICH7 chipsets
+ -Desktop.Mobile ICH8 chipsets
+ -Desktop ICH9R chipset
+ -AMD AM7 chipsets**
+ -AMD AM8 chipsets**
+
+*Raid and Nvidia chipsets are currently unsupported
+**More info: http://en.wikipedia.org/wiki/Comparison_of_AMD_chipsets 
+
+Note, you can now load your own sata controller driver via floppy; I don\'t recommend integrating with nlite; likely result BSOD.
+ 
+All Crammed on 193.88MB Iso that produces as little errors as retail, not bad!
+
+[b]Supported Languages:[/b]
+
+All included languages and language regions are supported except: Chinese, Japanese, Hebrew, Korean, Thai.
+Those languages take too much space.
+If your concern is international websites in one of said language, then befriend Google Chrome.
+
+[b]Instructions:[/b]
+
+Extract iso from archive.
+Burn the iso on any media with imgburn, poweriso etcâ€¦with verify option checked.
+Configure your bios to start from optical drive, place disk in this drive.
+Install is automatic.
+
+[b]VMware Instructions[/b]
+
+Micro XP Pro 0.98 is incompatible with \"easy install\" from Vmware.
+When creating, a new virtual machine YOU MUST SELECT \"I will install the operating system later\".  Then start the virtual machine, click on \"Virtual Machine\", \"Removable Device\", \"CD/DVD, \"settings\".  Select use iso.  Browse to image file, press ok, and restart the virtual machine.
+This time, you will avoid having to put in a serial number, and you will also avoid Error Code: 0x80070002 upon first XP startup. You see - easy install bypasses one of my important manual install procedures, that\'s why you get that error.
+
+[b]Past Releases Sizes:[/b]
+
+0.88    206.95 MB
+0.90    262 MB
+0.91    217 MB
+0.92    217 MB
+0.95    211 MB 
+0.97    198 MB
+0.98    193 MB 
+0.98    [b]TBA[/b]
+   
+[b]Complete List of Removed Features[/b]
+
+Windows Update*, \"Device AutoPlay\", Serial Port support, Password Storage Service**, Terminal Services/Remote Desktop/Remote Registry/Netmeeting/Telnet/FastUserSwitch***, Internet Information Service, Windows Sounds, Multi-language Windows dialog boxe, Secondary Logon, QOS, FAT to NTFS converter, File and Settings Wizard, Help and Support, Indexing, Upgrade Installation, Secondary logon, Posix Support. 
+
+*The bulk of your security is in your security software (Anti-Virus, Virtualization, Firewall) not in XP updates.
+**Nothing to do with XP or Wireless password.  Component vulnerable to hack therefore removed.
+***Terminal Services allows users to connect interactively to a remote computer i.e., netmeeting.  It\'s removal provides security benefits.  Despite it playing no role in the following software, the software fails to install and therefore earn my Award for Garbage software packages:  Toshiba Notebook Utilities, Windows Search 4.0, Norton Antivirus 2003.
+
+[b]General Recommendations[/b]
+
+	Read this entire guide.  Continue seeding after download.  Leave feedback. 
+	
+	[b]Getting Started[/b] (after install)
+            1. Only on first startup, you may want to password-protect the account. 
+            2. Install your hardware drivers.        
+            3. Install software drivers through AIO .net shortcut that is on the Desktop.  
+             When the installer starts up, everything is selected.  
+             First click pause, then unselect german language packs. Click install.  
+             4. [b]Good to go.[/b]  Now you can install your other apps.
+             Or choose \"Portable Apps Platform\" or \"Ninite\" to install mass volumes of free apps easily.
+             You can also have a look at the included apps in the start menu.
+	    
+Note: To launch \"depends\", \"jruler\" and or \"autoruns\", use run command and the type: depends 
+To start any of included ms games, start -> run -> sol, winmine, freecell, or mshearts
+        
+            
+[b] Security Quiz 101[/b]
+
+   What causes most PC infections apart from Warez aka illegal software?  Drive by Downloads.  A drive by download occurs without your awareness simply by browsing an infected site.  The malware scans your computer for outdated software, and if found infects your PC. The best way to protect yourself is to use latest Java Runtime Environment, JRE 6 update 29 or later, and Google Chrome which is 10 fold more secure than Internet Explorer.  Do not use Internet Explorer except for Government/Professional websites if needbe.  Malware can easily infect Internet Explorer on Windows XP.
+
+[b]Flashboot 2.1F[/b]

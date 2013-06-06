@@ -1,0 +1,59 @@
+*********************************************************************
+* TeknoMW3 1.0 hotfix - Modern Warfare 3 Steamless LAN Spec Ops / Survival Loader *
+*********************************************************************
+-- http://www.teknogods.com --
+
+==Changes==
+- LAN hosts have now better connectivity
+
+==Requirements==
+- .NET Framework 4.0 
+http://www.microsoft.com/download/en/de ... x?id=17851
+- Original Modern Warfare 3 version without updates (should work in future updates)
+- Original IW5SP.exe
+- No pirated versions
+
+==Usage for host==
+1. Copy TeknoMW3.exe, steam_api.dll to your game folder.
+2. Run TeknoMW3.exe
+3. On first run select nickname
+4. Check 'I am the host' and press 'Start Game'
+5. In game press Multiplayer to host
+
+==Usage for client==
+1. Copy TeknoMW3.exe, steam_api.dll to your game folder.
+2. Run TeknoMW3.exe
+3. On first run select nickname
+4. Enter IP Address and press 'Start Game'
+5. In game press Multiplayer to join
+
+==NOTE==
+- This release is not intended for piracy usage!
+- You must always use the launcher to run the game.
+- If you want to revert back to Steam version just replace our steam_api.dll with the original.
+
+==Support==
+This release is beta quality. If something breaks, review any
+pertinent comments on teknogods.com, then email me as a last resort.
+Include all log files and a detailed description of problem and
+how to reproduce it.
+
+==Thanks==
+Testers: Happy, Obso, MG
+Our community of course! 
+
+Enjoy.
+-- Reaver <reaver@teknogods.com>
+-- Smurfette <smurfette@teknogods.com>
+Questions or comments are welcomed.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS â€œAS ISâ€ AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGE.

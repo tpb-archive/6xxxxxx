@@ -1,0 +1,29 @@
+LinuxTimon is a USB/SD/MMC/PXE miniature Linux distribution which just includes clients for XDMCP, Windows Terminal Server 200X, RS232, and telnet.
+Release Notes: This release supports USB, SD, MMC, and PXE booting, and parallel, serial, and USB printers  
+http://freecode.com/projects/linuxtimon 
+
+Bienvenidos a Linux TimÃ³n
+Escrito por German Yovan   
+18-11-2005 a las 22:52:18
+
+Luego de varios aÃ±os estamos con nuevas version, ya pasaron 6 aÃ±os de la primera versiÃ³n para disquete de nuestra minidistribuciÃ³n, el proyecto nunca se detuvo, siguio su evoluciÃ³n pero por cuestiones de tiempo y falta de colaboradores no se realizaron nuevas publicaciones, hoy creo que tenemos una distribuciÃ³n muy madura, muy probada y no querÃ­a dejar de compartirla con todos ustedes, estoy seguro que serÃ¡ de gran utilidad en empresas, entidades de gobierno o sin fines de lucro o entidades educacionales. Es la herramienta perfecta para recuperar los viejos Ordenadores y ponerlos en marcha nuevamente con un muy bajo costo.
+
+Dentro del as nuevas caraterÃ­sticas pordemos destacar
+    * Kernel 2.6 con una colecciÃ³n de drivers actualizados
+    * Boot desde USB, SD, MMC o Disco Local
+    * Boot desde la red con PXE
+    * Podremos conectarnos a un Terminal Server, XDMCP (terminal GrÃ¡fica de linux), Telnet, SSH, TN5250 de IBM, RS232 vÃ­a puerto Serie.
+    * Soporte de Impresoras Paralelas, Serie y USB
+
+Linuxtimon es opensource 
+Escrito por German Yovan   
+08-08-2004 a las 23:30:34
+
+Linuxtimon dentro de su aplicaciones princiaples utiliza buildroot, busybox, uclib, rdesktop, kernel 2.6, xorg
+Linuxtimon utiliza busybox, uclib, rdesktop, kernel 2.6, xorg
+Ãšltima actualizaciÃ³n ( 19-11-2011 a las 15:10:15 )  
+http://linuxtimon.com.ar/v2/index.php?option=com_content&task;=view&id;=4&Itemid;=9
+ 
+http://linuxtimon.com.ar/v2/index.php?option=com_frontpage&Itemid;=1 (homepage) 
+http://linuxtimon.com.ar/v2/index.php?option=com_content&task;=section&id;=3&Itemid;=32 (documentation) 
+http://linuxtimon.com.ar/v2/index.php?option=com_content&task;=blogsection&id;=0&Itemid;=9 (blog)

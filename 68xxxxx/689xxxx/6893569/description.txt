@@ -1,0 +1,180 @@
+Kevux
+
+Kevux is an operating system based mainly on GNU operating programs and a Linux kernel, all compiled with uclibc instead of the more common glibc. It is not FHS or LSB compatible. Compared to other Linux distributions, Kevux is space efficient (making it suitable for USB disk operation) and difficult to hack into. 
+http://freecode.com/projects/kevux
+
+Turtle Kevux - 0.9.4
+Fixes of Turtle 0.9.3 Problems
+    * Fix major networking problem in 0.9.3 where devices are improperly started
+    * Once again attempt to solve the autologin relogin problem with qingy (this time completely strip out the code that does a timestamp check, if the file exists then do not re-login, period
+    * When shutting down or rebooting, make sure to tell all sshd connections to close and turn off network devices
+    * Network scripts did not stop dhcpclient, wpa_supplicant, and hostap if it was running when the network script was stopped
+    * /etc/hosts was being used instead of /etc/network/hosts
+    * Fixed initrd boot process problems
+    * Removed floating_root parameter from squish and squash boot options, making floating_root unconditional for squash and squash booting
+
+New Software
+    * Added joy2key
+    * Added vala
+    * Added gstreamer (which doesn't really work anyway..)
+    * Added webkit
+    * Added midori (replacing seamonkey)
+    * Added libvpx
+    * Added tunctl
+    * Added bind (replacing maradns)
+    * Added celt
+    * Added links back now that it appears to be actively maintained once again
+    * Added strace to the toolchain
+    * Added libpki
+    * Added openca-ocspd
+    * Added libotr and pidgin-otr for encrypted chat support
+
+Removed Software
+    * Removed seamonkey
+    * Removed maradns (does not support dnssec, so it was replaced with bind)
+    * Removed ps3-utils
+    * Removed tcl/tk
+    * Removed pidgin-encryption in favor of pidgin-otr
+
+Network Changes
+    * Removed support for /etc/network/proc_settings
+    * Added network device setting file auto-generation and auto-degeneration support
+    * Prevent already started or stopped network devices from being re-started or re-stopped
+    * Add extension support to dns resolver
+    * Add non-standard port support for ipv4 dns resolver
+
+Other Changes
+    * Shortened udev settle time to 4 seconds
+    * Added support for /etc/sysctl.conf (this also replaces /etc/network/proc_settings)
+    * Desktop build now adds fewer xorg video drivers
+    * Now supports custom xorg.conf.d directories at /etc/X11/ (This helps enable KMS) 
+http://kevux.org/turtle/changelog.html
+
+2011 / 12 / 16
+Turtle Kevux 0.9.4 Released.
+
+The highlights of this release are:
+...
+DNS Extension Support
+
+/etc/resolv.conf (which on kevux is /etc/network/resolution) defines how to talk to domain name authorities in order to resolve a domain name such as www.google.com to its appropriate ip address.
+The standard way in which this happens is via the nameserver settings, such as: nameserver 8.8.8.8.
+DNS extension support provides a way to specify a nameserver based on the extension being looked up.
+That is to say, one could provide their own private dns server with their own extension, such as 'computer', and only the private dns server will be used for all domain names that end in '.computer'.
+If the private dns server was 192.168.0.1, then the extension line for this would be: extension computer 192.168.0.1.
+A complete /etc/network/resolution file using the mentioned extension and nameserver would be:
+extension computer 192.168.0.1
+nameserver 8.8.8.8
+
+DNS Private Ports
+Just like with DNS Extension Support, DNS private ports alters how the dns resolution process works.
+Traditionally port 53 is used for dns and no other port is supported.
+DNS private ports alters this behavior such that any port may be used, thus allowing a single server to host dozens of separate dns servers.
+To utilize this, one need only add ':port_number" where 'port_number' is replaced with the desired port number.
+Lets use the example /etc/network/resolution example file specified in DNS Extension Support.
+The '.computer' domain name server at 192.168.0.1 for whatever reason wants to run its dns on port 80, the resulting /etc/network/resolution file would look like:
+extension computer 192.168.0.1:80
+nameserver 8.8.8.8
+At this time only ipv4 addresses are supported.
+
+Kevux Undernet
+The first stage of the kevux undernet utilizes the DNS Extension Support and DNS Private Ports to provide the kevux domain name authority.
+To utilize the kevux undernet domain name server, simply add: extension kevux 76.76.104.234:1 to the top of your /etc/network/resolution file.
+The standard kevux /etc/network/resolution file looks like:
+extension kevux 76.76.104.234:1
+nameserver 8.8.8.8
+options timeout:2 attempts:2
+
+The kevux undernet provides the following services:
+    * .kevux domain names
+    * Kevux SSL certificate authority
+    * Kevux undernet primary website (HTTPS only)
+    * Kevux package manager server (HTTPS only)
+
+At this time the SSL authority and certificates are experimental and will be changed once a better understanding of the process is achieved.
+DNS Security is also available, but it is even more experimental and less tested.
+
+Kit, the Kevux (Git) Package Manager
+The package manage is planned to be developed through-out the next few releases such that it turtle kevux can be slowly converted to using it.
+Therefore, it is being released in stages of functionality.
+This first release does practically nothing at all and currently only provides source based installation for whatever packages might that might be available.
+The only package available as of the release date for turtle kevux 0.9.4 is the linux kernel.
+The Turtle Kevux Installation Scripts have been promoted to version 1.0.0 as they are being replaced by Kit.
+
+Planned Package Manager Functionality:
+    * Source Based Package Installation
+    * Binary Based Package Installation
+    * Pick and Choose Between Binary and Source Based Packages
+    * Source and Binary Based Dependency Handling
+    * Package Rollback/Revert Support
+    * Custom/Private Repository Support
+    * Compile/Build System from Scratch via Package Manager
+    * Completel Log of All Operations Performed
+    * Built Using Bash, Git, and a Handfull of Other Common/Standard Linux Utilities
+
+HTTPS is now the default protocol, for better and worse
+In an attempt to push for using encrypted websites by default for security purposes, the HTTPS protocol is now used by default.
+This means that typing www.google.com will get you https://www.google.com/ instead of http://www.google.com/.
+The downside of this is that a large number of websites either do not listen on HTTPS or provide a completely different website on HTTPS.
+For those cases, you will have to manually prepend http:// to the problematic url.
+
+New Problems
+This really isn't a good thing, but users should be aware of both good and bad things about a release.
+This highlights the major problems that were introduced and have been unable to be fixed by the time of the release for one reason or another.
+
+A handfull of applications decided they did not want to work with no obvious reasons as to why.
+These applications are:
+    * Gstreamer
+    * Qemu
+    * Lbreakout2
+    * Claws-mail
+    * Freedroid RPG
+
+Gstreamer
+I have only had bad experience with gstreamer and have never liked it (not to mention the bloat it adds to the system).
+However, a lot of the newer functionality, such as HTML5 support in webkit and video conferencing in pidgin, depend on it and do not provide an alternative.
+For this reason gstreamer was added, but as far as I can tell, gstreamer does not work in the slightest way.
+It fails to detect that sound support exists (while every single other application and library on the system can).
+It fails to report that it is capable of playing video and as such midori won't play any HTML5 video and pidgin video conferencing cannot be supported.
+
+Qemu
+Qemu recently stopped starting up.
+It appears to startup and then deadlocks or gets caught an infite loop doing no apparent task but waisting cpu time.
+I have no idea what or why this is happening.
+This has prevented me from doing some much needed work in non-x86 architectures.
+
+Lbreakout2
+The latest version of lbreakout2 appears to have the same problem as qemu.
+Fortunately, downgrading from 2.6.3 to 2.6.2 seems to get lbreakout2 working again.
+Fixing this may lead to solving the qemu problem.
+
+Claws-mail
+The latest version of claws-mail at the time of this release is 3.7.10.
+When claws-mail tries to read IMAP mail, it segfaults.
+I have consistently had problems with claws-mail, IMAP, and uClibc in the past, so this may be caused by some uClibc bug as well.
+
+Freedroid RPG
+Like claws-mail, Freedroid RPG decided it wants to segfault.
+There is no clear reason as to why and as such I can only assume its a uClibc given that freedroid rpg has not been changed since the previous release of turtle kevux (and it worked in the previous release).
+
+There a couple of problems with cdroms:
+    * Burning CD-Roms
+    * Booting 64-bit Live CD-Roms
+
+Burning CD-Roms
+When a non-root user tries to burn a cdrom, the cdrom? symbolic links disappears.
+The only way to I have been able to burn to /dev/cdrom? is to do so as the root user.
+This is either a bug in the kernel, udev, or both.
+
+Booting 64-bit Live CD-Roms
+The 64-bit live cdroms do not properly load grub for some reason.
+This can be worked around if you have booted to the live cd and ar sitting at a grub prompt.
+At the said grub prompt, type in the command: configfile /boot/grub/menu.lst.
+This could be related to how I am using the 32-bit grub on the 64-bit live cdroms. 
+http://kevux.org/news.html
+ 
+http://kevux.org/turtle/download.html (_64,DVD,...) 
+http://kevux.org/turtle/documentation.html 
+http://kevux.org/mailman/listinfo/turtlesupport_kevux.org
+
+sha256sum : 3814c9fd94d9723a51fd9adeb5b4b6a8455c1c9ba450c3a84910a13dcf42e08e  turtle-0.9.4-live.iso

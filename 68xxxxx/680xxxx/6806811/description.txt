@@ -1,0 +1,19 @@
+ http://www.wowebook.pro/book/working-with-nhibernate-3-0/
+
+Book Description
+This book provides examples using the IQuery, ICriteria, QueryOver, and LINQ to NHibernate APIâ€™s within the context of an example Guitar Store inventory program.  The reader is walked through the creation of a Microsoft SQL Server 2008 database, the creation of a Visual Studio 2010 solution consisting of 3 projects (a Window Presentation Foundation (WPF), a Console Application, and a Class Library). Each one utilizes the .NET 4.0 framework.  Then the reader is walked through the steps required to configure and use the many features available contained within NHibernate 3.2.  Further instructions and examples exist for the insertion of parent/child relationships, Session management, entity states (transient, persistent and detached), deletion, caching, and batching.The last chapter utilizes ASP.NET MVC 3 and jqGrid for the creation of an internet program for viewing the guitar inventory using NHibernate and the session per web request model.
+
+Table of Contents
+Chapter 1: Getting Started With Nhibernate 3
+Chapter 2: Using Hql
+Chapter 3: Using Icriteria
+Chapter 4: Using Linq to Nhibernate
+Chapter 5: Managing State and Saving Data
+Chapter 6: Using Nhibernate with an Asp.Net Mvc 3 Application
+
+Book Details
+Paperback: 230 pages
+Publisher: Wrox (August 2011)
+Language: English
+ISBN-10: 1118112571
+ISBN-13: 978-1118112571

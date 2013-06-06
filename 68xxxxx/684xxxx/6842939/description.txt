@@ -1,0 +1,51 @@
+Mac Platform: Intel
+Includes: Pre-Cracked
+
+OS version: Mac OS X 10.5 or later
+Processor type(s) & speed: Intel Core 2 Duo or better
+RAM minimum: 2GB
+Video RAM: 512MB
+
+Link for more information: http://www.deadislandgame.com/
+
+Port Status
+ATI : GREY [May not work but good chance there is a work around]
+NVIDIA : GREEN [Working]
+GMA : GREY
+
+Description
+The game is set in the fictional island of Banoi, located off the coast of Papua New Guinea. The main characters wake up in the Palms Resort hotel to find the island attacked by zombies and mysteriously, they are immune to whatever is making people into zombies. As they try to find and help other survivors, they must also find a way to escape the island as well.
+
+
+Port Info
+Wineskin Wrapper: 2.5
+Engine: WS8Wine 1.3.29
+
+Install Instructions
+Use rar, Winrar or UnRarX to decompress and type password manually.
+Open dmg file and drap app to your applications folder. Resolutions can be set from video settings menu within the game. By default I have set the game to open in windowed mode with low shadow detail and low resolution. You can of course change this to your liking through 'set screen options' in wineskin.app inside the wrapper.
+
+Minimum System requirements
+- OS: Mac OS X 10.5 Leopard / Mac OS X 10.6 Snow Leopard / Mac OSX 10.7 Lion
+- CPU: Intel Core 2 Duo Processor
+- RAM: At least 2GB and above
+- Video: nVidia 8xxx Series or AMD 3xxx or 4xxx Series Video Card recommended
+- Apple's X11 must be installed
+- about 8 GB Hard Drive Space required
+
+Recommended System Requirements
+4GB RAM and 1GB Video RAM recommended
+
+Known issues
+Game might freeze when talking to the 'Life Guard' in the red shirt after saving him from the zombies in the first mission. To skip this freeze issue, Keep pressing SPACE and the A button until it says you have accepted his mission. (You can also load my save which has skipped this part)
+
+
+
+Port courtesy of DanIsTheMan at portingteam
+
+PLEASE READ BEFORE DOWNLOADING
+If you have an ATI card, you will have a hard time getting this to run. Not to say that there isn't a workaround but you are more likely than not to get a black screen.
+With NVIDIA, it is playable if you have a decent card. With my 9800GTX+ 512 mb, I can play it at medium settings though the shadows sometimes do crazy things. Best set them to the lowest settings.
+No guarantee this will work at all on integrated video chips which share video memory (Intel GMA, etc.)
+
+As noted above, the game might freeze at a certain point in the first mission. To get past that, just load the save that starts from the second mission onwards.

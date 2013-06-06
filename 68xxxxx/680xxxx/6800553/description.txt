@@ -1,0 +1,79 @@
+here it is another fresh new beta pre build1 of vlc media player 1.1.12
+from today : november 7
+
+Not official yet,still as beta stage and still under development anyway.
+
+few details now on changelog between 1.1.10 to 1.1.12 :
+
+Changes between 1.1.10,1.1.11 and 1.1.12:
+----------------------------------
+
+Audio outputs:
+
+ * Mac OS X / auhal: multiple fixes for the Digital Audio output (S/PDIF)
+                     including support for OS X Lion
+ * Multiple fixes and improved synchronization for PulseAudio support
+ * Support for AC-3 and DTS passthrough with PulseAudio 1.0
+
+Unix port:
+
+ * Fix build compatibility with taglib &lt; 1.6 and Xulrunner 1.9.1
+
+Misc:
+
+ * Fix crashes with Japanese locale on OS X
+ * Minor fixes for Webplugin under Win32, AVI demuxer, smem and AudioScrobbler
+ * Fix crash in HTTP and RTSP server (stream output or Web interface)
+
+Translations:
+
+ * Update of Breton, Chinese Simplified and Basque
+
+
+Changes between 1.1.10 and 1.1.11:
+----------------------------------
+
+Security:
+ * Fix buffer overflows in the RealMedia demuxer (CVE-2011-2587)
+   and the AVI one (CVE-2011-2588).
+
+Mac OS X:
+ * Fixed scrolling direction if the input device's signal is inverted
+ * Update Auhal audio output to the latest API
+ * Fix images disappearing issue on the interface
+ * Reduced installation size by up to 30 MB
+ * Resolved conflict between iTunes and VLC wrt Media Key handling
+
+Mozilla/ActiveX webplugin:
+ * Fullscreen mode is fixed on Win32
+ * Very simple fullscreen controller is visible on Win32
+
+Demuxers/Meta Readers:
+ * Better support for cover art embedded in mp4, wma
+
+Muxers/Output:
+ * Fix AVI muxer so the generated files are readable on other players
+
+Extensions:
+ * Multiple fixes for crashes and malfunctionning issues
+
+Qt Interface:
+ * Fix quitting on Linux
+ * Fix opening of VIDEO_TS folders through the open disc dialog on Windows
+ * Miscellaneous
+
+Win32 port:
+ * Update of codecs, fixing the mpeg-2 decoder crash
+
+Translations:
+ * Update of Slovak, Lithunanian, Russian, Brazillian Portuguese, Serbian
+
+
+untouched and delivered such "as is" for personal testing purpose only.
+this version is for windows x32 only !!!
+
+Enjoy
+
+have a nice day
+
+best regards

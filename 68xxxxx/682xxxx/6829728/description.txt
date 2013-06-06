@@ -1,0 +1,79 @@
+Official Web Site:  http://macitbetter.com/
+
+BetterZip lets you quickly inspect archives without first extracting their contents.
+
+* Extract Only Files You Really Need: If you only need a few files or
+  folders from a larger archive, you don\'t have to extract the whole thing.
+  Simply drag the files you need from the BetterZip window to any Finder
+  window or the desktop.
+
+* Open Archives Without Extracting: Not only can BetterZip open
+  archives without first extracting them but you can also search for a file
+  using the iTunes-like interface. BetterZip can open and extract archives 
+  with the most common formats: ZIP, SIT, TAR, XAR, GZip, BZip2,
+  RAR, 7-Zip, CPIO, ARJ, LZH/LHA, JAR, WAR, CAB, ISO, CHM,
+  RPM, DEB, NSIS, BIN, HQX.
+
+* Create Archives: Simply drag files and folders from your hard drives, 
+  disks, or network places into your new zip file. You no longer have to
+  copy all the files into a temporary folder first. The supported formats are
+  ZIP, TAR, GZip and BZip2 compressed TAR, XAR, 7-ZIP, and RAR
+  (using the external RAR commandline tool). Large archives can also be
+  split.
+
+* Protect Your Data: BetterZip can protect your data with a password and
+  create WinZip compatible AES-256 encrypted archives. 7-zip and rar
+  archives can also be protected.
+
+* Update Archives: Add new or updated files to existing archives.
+  Remove any file or folder from an archive, or even move files around
+  inside the archive as if it were a normal folder.
+
+* Make Archives Compatible: Strip Mac specific files and resource forks
+  from archives for best compatibility with systems like Windows or
+  Linux.
+
+What\'s New
+
+New Features
+
+* Added a Russian localization.
+
+Enhancements
+
+* Hold down the Cmd key while dropping a folder in the queue window
+  to recursively extract all archives in it.
+
+* Hold down the Alt key while dropping an archive in the queue window 
+  to force compression.
+
+Bug Fixes
+
+* When starting BetterZip through one of the services in the Services
+  menu, no empty archive window will be opened.
+
+* Fixed a possible crash when quitting BetterZip with the favorites
+  sidebar opened.
+
+* The registration window could lead to an infinite loop under certain
+  circumstances.
+
+* The split size for 7z archives was limited to 4GB.
+
+* Fixed a bug in handling \"additional options\" when creating archives.
+
+* Using the option \"show save panel\" together with the queue could lock
+  up BetterZip.
+
+* Trailing numbers are no longer cut off from the filename when saving
+  with automatically created archive names.
+
+* Fixed \"reuse passwords for subsequent archives\" in queue.
+
+System Requirements:
+
+Intel Mac OS version: Mac OS X 10.6 or later
+
+--- PLEASE SEED ---
+
+Sorry no image, bayimg is down

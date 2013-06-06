@@ -1,0 +1,25 @@
+PuppEX 2012 LiveCD
+PuppEX 2012 is a remaster of Puppy Linux Slacko 5.3.1, released on December 12, 2011. Kernel 2.6.37.6 is used when running the system live, but if you install PuppEX to hard disk, you can use 'my' own compiled kernel 3.1.5-puppex instead. PuppEX 2012 uses, like the original Puppy Slacko, JVM, Fvwm95 and IceWM as desktop interface. In PuppEX there are, however, elements of LXDE, such as the file manager PCManFM and LXTerminal. These programs are more useful than ROX-Filer respectively RXVT, I think. The ISO file is on the whole 405 MB, which is due to me including all the necessary additions in order to install programs from source, the extra kernel 3.1.5, Vlc, Gimp and NVIDIA's own graphics driver 285.05.09. Slacko 5.3.1 is only of 126 MB. PuppEX is despite this still running as fast as the original, which means it runs very, very fast compared to most other Linux systems.
+Kernel 3.1.5 is the latest available stable kernel (as of 111215).
+Kernel with support for almost anything
+If you have a new or/and unusual hardware you should try PuppEX. This is because the system when installed to harddisk can use kernel 3.1.5 with support for 'all forms of' now used hardware.
+Default language
+The default language (locale) is set to English.
+Keyboard
+The default keyboard layout is American (us). Change it by running the command setxkbmap se (for Sweden) or click on the icon 'setup' on the desktop.
+Installation to HDD or USB stick
+PuppEX can easily be installed to hard disk or USB stick. Click on the icon Install &gt;&gt; Universal Installer. After installing to a USB stick, you can save changes to the system (including software installations) directly on the stick. When you shut down the system for the first time you will be asked if you want to save your changes. After that all changes are automatically saved.
+Switching to kernel 3.1.5-puppex
+After a hard disk installation (full, not 'frugal'), you can switch to 'my' kernel 3.1.5-puppex if you wish. Do it like this:
+1. Boot up PuppEX from hard disk
+2. Run the command cp /usr/share/puppex/boot/vmlinuz-3.1.5-puppex /boot
+3. Change your Grub Legacy configuration. Edit menu.lst (/boot/grub /menu.lst) to look like this:
+title PuppEX Linux 5.3 (sda6)
+root (hd0,5)
+# kernel /boot/vmlinuz root=/dev/sda6 pmedia=atahd
+kernel /boot/vmlinuz-3.1.5-puppex root=/dev/sda6 pmedia=atahd
+4. Restart your computer
+NOTE: In the above example PuppEX is installed on /dev/sda6. You must of course change (hd0,5) and /dev/sda6 so that it matches your installation. 
+http://puppex.exton.net/
+
+md5sum : 71def51e60702432e2de79274edee8eb  puppex-405mb-111215.iso

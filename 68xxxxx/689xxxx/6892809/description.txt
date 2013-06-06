@@ -1,0 +1,45 @@
+FINNISH VERSION OF WINDOWS XP PROFESSIONAL SP3 DECEMBER 2011
+
+SUOMENKIELINEN WINDOWS XP PROFESSIONAL SP3 JOULUKUU 2011
+
+Integroitu tuotetunnus (ei tarvita tuotetunnusta asennuksessa).
+Integroitu aktivointi (ei tarvitse aktivoida asennuksen jÃ¤lkeen).
+
+Integroitu Windows Updaten ensisijaiset pÃ¤ivitykset (joulukuu 2011).
+- mukaan lukien Internet Explorer 8 ja Windows Media Player 11
+
+NÃ¤itÃ¤ kahta pÃ¤ivitystÃ¤ ei ole integroitu, mutta voit hyvÃ¤ksyÃ¤ Windows Updatesta nÃ¤iden pÃ¤ivityksien asennuksen, koska aitoustarkistus onnistuu tÃ¤llÃ¤ Windows XP:llÃ¤.
+- Windowsin aitouden varmistustyÃ¶kalu (KB892130)
+- Windows Genuine Advantage Notification -tyÃ¶kalu (KB905474)
+
+Microsoft .NET Framework (valinnaiset ohjelmistopÃ¤ivitykset) ei ole integroitu.
+
+LisÃ¤ksi integroitu seuraavat pÃ¤ivitykset joita ei ole Windows Updatessa.
+- DirectX 9.0c (uusin versio)
+- KB955704 Add support for the exFAT file system format
+- KB942288 + KB981669 Windows Installer 4.5
+- KB969084 + KB2483614 Remote Desktop Connection 7.0 Client
+
+Windows XP:n pÃ¤ivityksien integrointi on tehty HFSLIP ohjelmalla
+
+--------------------------------------------------------------------------------
+
+Windows 7:ssa polta ISO-tiedosto CD/DVD-levylle valitsemalla ISO-tiedosto hiiren kakkospainikkeella ja valitse "Tallenna levyn nÃ¤kÃ¶istiedosto".
+
+Windows XP:ssÃ¤ ja Vistassa polta ISO-tiedosto esim ImgBurn ohjelmalla.
+- valitse "Write image file to disc"-painike.
+- valitse "Browse for a file"-kansiokuvake.
+- valitse levynkuva (ISO-tiedosto) ja valitse "Avaa"-painike.
+- laita tyhjÃ¤ CD/DVD-levy asemaan.
+- "Write Speed"-alasvetovalikosta pienennÃ¤ polttonopeutta maksiminopeudesta.
+- valitse "Write"-painike.
+
+--------------------------------------------------------------------------------
+
+Ennen Windows XP:n asennuksen aloittamista tarkista tietokoneen BIOS-asetuksista ettÃ¤ SATA-ohjaimen tilana ei ole AHCI/RAID tai muuten Windows XP:n asennus keskeytyy virheilmoitukseen. Jos haluat kÃ¤yttÃ¤Ã¤ SATA-ohjaimen AHCI/RAID-tilaa, niin silloin Windows XP:n asennuslevylle pitÃ¤Ã¤ integroida nLite ohjelmalla tietokoneen SATA-ohjaimen AHCI/RAID-ajuri.
+
+Integration of Intel's SATA AHCI and RAID drivers
+www.msfn.org/board/topic/107504-integration-of-intels-sata-ahci-and-raid-drivers
+
+Integration of NVIDIA's nForce RAID and AHCI drivers
+www.msfn.org/board/topic/51140-integration-of-nvidias-nforce-raid-and-ahci-drivers

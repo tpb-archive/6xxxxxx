@@ -1,0 +1,5 @@
+User Type,Username,Date,Text
+,hitchup,2011-12-12T07:21Z,Thanks for the up bigough.Work perfect in fsx.
+dll, .exe or process. ""Follow Me"" had been disabled and was causing me issues in FSX until I removed it's entry from the exe.xml document. Also, my freshly re-installed Flight Sim was having trouble with komu's bglmanx.dll. I disabled it and the sim loads faster with higher frame rates. I have not yet visited any FSDT airports to learn if I have to re-enable the .dll to get the airports to show up.
+
+You can replace your .xml's and .cfg's to help find a hang-up. The dll.xml document must be present, but you can hide or remove your exe.xml and your scenery.cfg and FSX will write a new default one."

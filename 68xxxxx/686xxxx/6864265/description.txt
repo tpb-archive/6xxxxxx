@@ -1,0 +1,38 @@
+BG-Rescue Linux is a Busybox and uClibc-based rescue system with a 2.4 series Linux kernel. It supports full read/write support for NTFS using ntfs-3g. It is loaded either from two floppy disks or from one 2.8MB El Torito CD. The system runs entirely in RAM. It supports a wide range of hardware (including SATA and DM/LVM2) and filesystems (including ext2/3, hfs/hfs+, and xfs) and can serve as a full backup/restore system for MS Windows systems that use FAT12/16/32 or NTFS. It also includes many utilities, including strong compresstion tools like lrzip. 
+http://freecode.com/projects/bgrescue
+
+Version 2.0.0 - 2011/12/04
+
+The upgrades since 1.1.2 include some maior feature upgrades and therefore I
+announce the new release proudly as BG-Rescue Linux 2.0.0.
+This release is 1.1.4 without further changes.
+
+Changes since version 1.1.2 include the following ones:
+
+Booting from USB-Stick is now supported. Therefore it is possible to use
+BG-Rescue Linux to boot either from 2 Floppy Disks, 1 CD or 1 USB-Stick.
+
+Integration of F-Prot antivirus is now compatible with latest release.
+
+Updated busybox, dosfstools and lrzip to the latest available releases.
+
+Updated ntfs-3g to the latest available version including ntfsprogs.
+Therefore the standalone version of ntfsprogs is not needed any more.
+
+
+Added ntfs-3g_ntfsprogs 2011.4.12
+
+Updated busybox to 1.19.3  (including patches: getty, modinfo)
+Updated dosfstools to 3.0.12
+Updated lrzip to 0.608
+
+Removed ntfsprogs 2.0.0 
+Removed ntfs-3g 2011.1.15
+
+Released 2-Floppy, CD, USB-Stick and ZIP Version. 
+http://www.giannone.ch/rescue/current/changelog.txt
+ 
+http://www.giannone.ch/rescue/current/ (img, zip,...) 
+http://www.giannone.ch/rescue/current/sha1sums.txt
+
+sha1sum : b7a3af6ce43a0c22e95c342b2f894ad4ac0cdb3e  bgrescue-2.0.0.iso

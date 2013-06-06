@@ -1,0 +1,93 @@
+FBANext r490 ROM Collection (ROMs)
+
+Missing
+â”¬â•–Sets                 0/3047
+â”¬â•–ROMs                 0/43478
+â”¬â•–CHDs                 -/0
+â”¬â•–Samples              -/0
+â”¬â•–Bytes                0/32gb
+
+Fixed Wrong Case
+â”¬â•–Sets                 0/0
+â”¬â•–ROMs                 0/0
+â”¬â•–CHDs                 -/-
+â”¬â•–Samples              -/-
+
+Fixed Unneeded
+â”¬â•–Sets                 0/0
+â”¬â•–ROMs                 0/0
+â”¬â•–CHDs                 -/-
+â”¬â•–Samples              -/-
+
+Fixed Wrong Name
+â”¬â•–Sets                 0/0
+â”¬â•–ROMs                 0/0
+â”¬â•–CHDs                 -/-
+
+Fixed Wrong Size
+â”¬â•–ROMs                 0/0
+
+Fixed Wrong Date Time
+â”¬â•–ROMs                 0/0
+
+Wrong Hashes
+â”¬â•–Wrong CRC32 ROMs     0
+â”¬â•–Wrong SHA1 ROMs      0
+â”¬â•–Wrong MD5 ROMs       0
+â”¬â•–Wrong SHA1 CHDs      -
+â”¬â•–Wrong MD5 CHDs       -
+
+Corrupt Containers    0
+
+---------------------------------------
+
+Active Sets           3047/3047
+â”¬â•–Parents              682/682
+â”¬â•–Clones               1771/1771
+â”¬â•–Others               592/592
+â”¬â•–BIOS                 2/2
+
+Active ROMs           43478/43478
+â”¬â•–Parents              9355/9355
+â”¬â•–Clones               27271/27271
+â”¬â•–Others               6582/6582
+â”¬â•–bad dumps            0/0
+â”¬â•–no dumps             249/249
+â”¬â•–verified dumps       0/0
+â”¬â•–BIOS                 21/21
+
+Active CHDs           0/0
+â”¬â•–Parents              0/0
+â”¬â•–Clones               0/0
+â”¬â•–Others               0/0
+â”¬â•–bad dumps            0/0
+â”¬â•–no dumps             0/0
+â”¬â•–verified dumps       0/0
+â”¬â•–BIOS                 0/0
+
+Active Samples        0/0
+â”¬â•–Parents              0/0
+â”¬â•–Clones               0/0
+
+Active Bytes          32gb/32gb
+
+by Lovok
+
+Note:
+I recommend transferring these directories to ROMS directory on internal HDD of PS3 and modifying xml as follows:
+<rom>
+<path>/dev_hdd0/ROMS/Capcom CPS1/</path>
+<path>/dev_hdd0/ROMS/Capcom CPS2/</path>
+<path>/dev_hdd0/ROMS/Capcom CPS3/</path>
+<path>/dev_hdd0/ROMS/Cave/</path>
+<path>/dev_hdd0/ROMS/Kaneko 16/</path>
+<path>/dev_hdd0/ROMS/Konami/</path>
+<path>/dev_hdd0/ROMS/Misc/</path>
+<path>/dev_hdd0/ROMS/NeoGeo/</path>
+<path>/dev_hdd0/ROMS/PGM/</path>
+<path>/dev_hdd0/ROMS/Psikyo/</path>
+<path>/dev_hdd0/ROMS/Sega Megadrive/</path>
+<path>/dev_hdd0/ROMS/Sega System 16/</path>
+<path>/dev_hdd0/ROMS/Taito/</path>
+<path>/dev_hdd0/ROMS/Toaplan/</path>
+</rom>

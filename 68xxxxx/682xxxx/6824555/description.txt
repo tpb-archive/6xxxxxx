@@ -1,0 +1,7 @@
+NVIDIA System Tools (previously called nTune) is a collection of utilities for accessing, monitoring, and adjusting system components, including temperature and voltages with user-friendly control panels within Windows, rather than through the BIOS.
+ 
+Additionally, System Tools has a feature that automatically adjusts settings and tests them to find what it believes to be the optimal combination of settings for a particular computer hardware configuration. Everything, including the GPU, CPU, MCP, RAM, Voltage and Fans are adjusted, though not all motherboards support all of these adjustment options.
+ 
+Configurations can also be saved. This allows the end user to toggle between performance gaming profiles, quiet profiles for less demanding work, or some other profile that is usage-specific.
+ 
+NVIDIA System Tools is also a front end for the BIOS. Most settings that can be changed in the BIOS are available in the utilities included. BIOS and driver updates to both nForce and GeForce hardware can also be done through System Tools. It additionally supports hardware which is certified under the Enthusiast System Architecture and connects to the motherboard via USB.

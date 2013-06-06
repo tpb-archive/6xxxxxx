@@ -1,0 +1,62 @@
+Only available in this Full Edition :
+
+Convert your DVD collection to 3D high definition videos!
+Yes, you can now use FairUse to convert your DVD collection into 3D side-by-side high definition videos! Resulting videos require a 3D display panel to view the content in 3D.
+
+Encode for your iPhone, iPod, AppleTV, Zune, Xbox 360, PS3, TiVO HD, or Computer with optimized quality!
+Encode your DVDs to watch them on your prefered device with optimal quality! FairUse Full Edition included highly optimized encoding profiles for a variety of popular devices!
+
+Encode much faster !
+Encode much faster(1) with a Dual-Core, Quad-Core, SMP, and Hyper-Threading processors optimized build !
+
+Optimize your encodings with the "quality" mode !
+Get the best possible quality while only using exactly the needed space. The quality mode is best suited for the archiving of DVD quality movies !
+
+Break the 700 MB limit !
+Encode to 1400 MB (up to 10 GB) target file size for superior video and audio quality !
+
+Select exactly what to encode !
+Remove any unneeded or repeating credits, encode only your favorite movie parts, ...
+
+
+Version history
+
+3D
+Fixed:
+ - fixed IFO parsing which resulted in missing program chains. All valid program chains should now display as expected.
+
+Added:
+ - added 3D side-by-side encoding option. Yes, you can now convert your DVD collection to high-definition 3D rips!
+
+2.11b
+Fixed:
+ - fixed the "no space left on device" error when using UNC paths
+
+2.11a
+Fixed:
+ - fixed the VCM error for unrestricted H264 encoding profiles
+
+2.11
+Fixed:
+ - fixed the preview flickering
+ - fixed the project list not always displaying correctly
+ - fixed missing titles in some multi-episode discs
+ - fixed analysis issue with some new discs
+
+Added:
+ - added an HTC HD/HD2/Mini encoding profile
+
+2.10
+Fixed:
+ - optimized handling of some new discs
+ - filtering of invalid program chains (a.k.a. "scrambled chapters")
+ - fixed the VMC error with recent x264 builds
+
+Added:
+ - added compatibility with Windows visual themes
+ - added a progress bar integrated with the Windows 7 task bar
+ - added the number of chapters in the chain selection screen
+
+Changed:
+ - updated the internal XviD codec to the latest release
+ - updated the internal x264 codec to the latest release

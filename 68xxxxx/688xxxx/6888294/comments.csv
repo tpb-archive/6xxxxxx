@@ -1,0 +1,6 @@
+User Type,Username,Date,Text
+,maxred3,2012-04-11T22:43Z,"I'm running Win7 64bit, TT 2011 Deluxe edition, not the home and business, but this still might help some people...
+
+Go to [HKEY_CURRENT_USERSoftwareIntuitTY11]
+Some say delete the entire Intuit folder, I only deleted the TY11 part. Re-open TT, click start for the new state. It hesitated the first time, so I clicked edit for the first state, then clicked back to the previous screen and tried it again, worked fine after that. I used this after I had already done my federal and one state.
+Someone else said to go to ""C:ProgramDataIntuitTurboTaxTY11"", there are 3 files in there, a *.ini and 2 *.xml (Entitlement_TTWin.xml and Price_S2011US1040PER.xml). Just delete the 2 *.xml files and restart TT. I didn't try that one, found it after I fixed mine, but a few other people said it worked great for them."

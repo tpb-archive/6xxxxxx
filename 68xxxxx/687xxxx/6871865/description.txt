@@ -1,0 +1,7 @@
+A very lightweight utility for monitoring and securing the VPN connection
+
+VPNetMon prevents unsecured connections after your VPN connection went down. It simply closes specified applications when the VPN connection is down (for example SecureIX or Relakks Service).
+
+If soft closing of the applications is not possible it will kill the applications the hard way. So make sure to deselect any additional questions of your applications like "do you really want to quit?" when it's shutting down.
+
+You will find VPNetMon very useful once you've tried it!

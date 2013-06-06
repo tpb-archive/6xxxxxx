@@ -1,0 +1,44 @@
+[KaOs]
+
+COD.MW3.FIX-KaOs
+
+
+FIX-NOTES:
+
+A Typeo Caused A Game Archive To Not Extract Correctly Causing The Game 
+To Fail On Startup \"Zone Error\"
+
+
+INSTRUCTIONS:
+
+-After.Install.FIX-
+
+This Option Is For People Who Have Already Fully Installed Our Release And Have The \"Zone Error\" (Using This Method Will Save You Most Of The Install Time As You Done Most Of It Already)
+
+1. Fully Install COD.Modern.Warfare.3-KaOs
+2. Copy All The Contents From The After.Install.FIX folder To Your Games Root
+   Folder And Replace Files If Required.  
+3. Double Click ~unpack~.bat From The Root Folder And Wait For The Mislabled 
+   Archive To Correct Itself And Extract.
+4. Click iw5sp.exe To Play.
+
+
+-Before.Install.FIX-
+
+This Is A Replacement ~unpack~.bat For People Who Have Just Downloaded And Not Yet Installed Our Release.
+(This Method Is If Your Installing From Scratch)
+
+1. Unrar The Game Manually To Were You Want It (Not Using The Install.exe)
+2. Copy The Replacement ~unpack~.bat from The Before.Install.FIX Folder To The 
+   Games Root Folder And Replace The Old One.
+3. Double Click ~unpack~.bat And Wait Awile For The Game To Rebuild.
+4. Click iw5sp.exe To Play.
+
+
+NOTES:
+
+The Person Responsible Has Been Warned To Double Check Work Done.
+We Hate Fixs & Repacks \"Sure You Do To\" But In This Case It Was Necessary
+Sorry For The Tiny Imperfection And Any Inconvenience.
+
+Your Friends From KaOskrew.

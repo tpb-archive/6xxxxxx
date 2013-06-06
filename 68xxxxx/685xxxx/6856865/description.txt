@@ -1,0 +1,13 @@
+Shard Linux is a Minimal lightweight no nonsense linux distribution, built upon Debian Netinstall Minimal.It uses the XFCE window manager, each library and package was added by hand, no meta packages were used at all to attain the lightweight nimbleness that is lacking in so many other distributions.
+Every app is gtk+ 2.0 to keep the libraries to minimal, the only app that isn't gtk is vlc and it only has 3 qt libraries wich is justifiable as it is the best media player app for linux. each package must be full featured but lightweight to be considered for shard linux if it doesnt have a purpose it wont be in shard linux.
+This is not a beginner distro, If your not 100 percent confident of your linux knowledge I would recommend trying linux mint or ubuntu. If your a risk taker, willing to learn, or have a working knowledge of linux. Shard Linux might be for you then.
+Because of these set of rules and the way it was put together, Shard Linux has very low system requirements and can run on even the slowest of 686 processors.  
+http://sourceforge.net/apps/mediawiki/shardlinux/index.php?title=Main_Page
+ 
+http://sourceforge.net/projects/shardlinux/ 
+http://sourceforge.net/projects/shardlinux/files/Release/ (stable)  
+http://sourceforge.net/projects/shardlinux/files/Beta/  
+http://freecode.com/projects/shard-linux
+
+sha1sum : e3f679596cc864cee3e5d7640df8f69b2aa1eba7  V3-Shard-Linux-686-11-29-11.iso
+md5sum : f1b668b6ad7fd578ffcfda491631b645  V3-Shard-Linux-686-11-29-11.iso

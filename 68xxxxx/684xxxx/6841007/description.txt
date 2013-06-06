@@ -1,0 +1,141 @@
+Hunter Windows 7 Ultimate SP1 1.8 64bit "New Look" :
+----------------------------------------------------
+In deze onofficiÃ«le versie van Windows 7 zijn veel dingen toegevoegd, die zorgen voor gebruikersgemak zo zijn er meer dan 200 updates verwerkt.  En is Windows 7 voorzien van een nieuwe look die het mogelijk maakt het nieuws te lezen op het bureaublad!
+En zijn veel gebruikte programmaâ€™s al voor geÃ¯nstalleerd,  zoals een shark Win7codecpack en Adobe Flash Player.
+
+Een Product-code of crack is bij deze versie niet nodig, deze is al door mij verwerkt in de installatie. 
+Deze versie kan je simpel weg installeren door te booten vanaf de DVD of usb-stick! 
+
+De onderstaande voor geÃ¯nstalleerde software is Ã©cht voor geÃ¯nstalleerd en wordt niet zoals bij anderen tijdens de installatie geÃ¯nstalleerd, Dit komt de installatie tijd ten goede! 
+
+een gebruikersnaam en computernaam is niet door mij ingevuld, dit kan je dus gewoon zelf doen. 
+het administrator password is: user123
+
+het gebruik van deze dvd is geheel op eigen risico, en is uitsluitend voor privÃ© gebruik.
+
+De titel nieuwe look slaat op het aanwezig zijn van Rainmeter met Omnimo WP7 skin, dat gebaseerd is op metro van Windows 8 maar dan op het bureaublad (zie plaatje)  met dank aan HJW voor de tip!
+Rainmeter 2.1 met WP7 skin is verwerkt in deze versie, een 1920x1080 beeldscherm is hiervoor aangeraden. 
+
+aanwezige versie van Windows: 
+*****************************
+Windows 7 Ultimate SP1 NL 64bit 
+
+
+Verwerkte programma's en/of onderdelen: 
+---------------------------------------
+Rocketdock 1.3.5 
+Direct X 9.c 
+.Net framework 4 + alle updates 
+Windows Update's t/m November 2011 
+Java  6U29 32/64bit
+Adobe Flash Player 11.1.102.55 
+Adobe Reader x 10.1.0
+Adobe Shockwave Player 11.6.3.633
+Win7codecs V.3.2.6 32bit/64bit
+Winrar 4.00 pro 64bit
+Windows Live Messenger 14.0.8177.0416 (niet de 2011 versie) 
+Messenger Plus! 5.10
+Rainmeter 2.1 met WP7 skin
+Visual C++ redist alle versies 32/64bit
+
+
+*Internet Explorer 9, is niet geÃ¯nstalleerd deze staat nog tussen de Windows Update en kan je zelf installeren. 
+
+Tweaks en aanpassingen: 
+***********************
+1. UAC het beruchte gebruikers account beheer is uitgeschakeld.
+is nodig voor het installeren van Unattended/Silent installers. 
+
+via start - msconfig - hulpprogramma's - UAC instellingen. weer aan te zetten. 
+
+2. Energieschema is op Hoge prestatie gezet. 
+omdat anders je computer in stand-by gaat na een tijdje. 
+
+via bureaublad eigenschappen - schermbeveiliging energie-instellingen wijzigen - 
+selecteer een energiebeheerschema en dan vervolgens op Gebalanceerd (aanbevolen) zetten.
+
+3.De Taakbalk is klein ingesteld zodat deze er hetzelfde uitziet als in de vorige versies van Windows. 
+
+Via Taakbalk rechtermuisknop â€“ eigenschappen â€“ kleine pictogrammen gebruiken uitvinden - 
+en taakbalkknoppen op combineren labels verbergen zetten weer ongedaan  te maken.
+
+4. Kleine bureaublad pictogrammen. 
+
+via bureaublad rechtermuisknop - beeld - normale pictogrammen - weer terug te zetten naar normaal.
+
+5. Rocketdock en Rainmeter starten automatisch op. 
+
+via Start - uitvoeren - msconfig - opstarten - weer ongedaan te maken. 
+
+6. alle bureaublad iconen zijn verwijderd zelfs de prullenbak. 
+
+via bureaublad -> rechtermuisknop -> persoonlijke instellingen -> bureaubladpicotogrammen wijzingen weer terug te zetten. 
+
+7. snelstart is toegevoegd aan de taakbalk zoals in Windows XP/Vista. 
+
+via taakbalk rechtermuisknop -> werkbalken -> quicklauch uitvinken weer ongedaan te maken. 
+
+8. Windows Update vraagt niet meer om een herstart na het installeren van Updates. 
+
+via start -> regedit -> [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU] -> "NoAutoRebootWithLoggedOnUsers"=dword:00000001 
+van =dword:00000001 dit maken: dword:00000000 weer ongedaan te maken. 
+
+9. internet Explorer 8 werkbalk favorieten zijn uitgezet. 
+
+10. Google in de zoekbalk van Internet Explorer 8.
+
+
+
+Windows 7 Loader: 
+-----------------
+door de win7 loader van DAZ is Windows na de installatie meteen geactiveerd. er komen vaak nieuwe versies van de Loader uit 
+mocht je problemen ondervinden met de Windows 7 loader of een nieuwe versie willen installeren dan kun je hier een kijkje nemen: 
+
+  http://forums.mydigitallife.info/threads/24901-Windows-Loader-Current-release-information 
+
+Na de installatie kan je een virusmelding krijgen over Loader.exe, deze heb ik bewust in de map Windows\Setup\script laten staan 
+zodat je deze kan deinstalleren mocht er een nieuwere versie van de Daz Loader uit zijn en je problemen ondervindt. 
+Deze virusmelding kan dus als een vals alarm worden beschouwd. 
+
+
+Rainmeter: 
+**********
+in deze versie heb ik Rainmeter verwerkt, en voor geconfigureerd op een resolutie van 1920x1080. bij lagere scherm resoluties moet je zelf even rainmeter een reset geven dit doe je zo: 
+rechtermuisknop icoontje van rainmeter in het systeemvak -> themes -> Omnimo -> en vervolgens het gewenste thema kiezen en de juiste resolutie. 
+
+het kan zijn dat je wel over een 1080P scherm beschikt maar dat de videokaart drivers nog niet geÃ¯nstalleerd zijn. installeer deze eerst 
+en ga vervolgens naar rainmeter in het systeemvak -> refresh all. en alles staat weer op de juiste plek.
+
+mocht je rainmeter+rocketdock helemaal niks vinden dan zijn deze natuurlijk te deinstalleren. 
+
+
+INSTALL NOTES: 
+--------------
+Installeren van uit een bestaande Windows Installatie is niet mogelijk, je moet opstarten vanaf de DVD of USB-stick  (Meestal kom je in het boot-menu omdat tijdens het opstartscherm op F8 te drukken)
+
+Vervolgens selecteer je de Gewenste partitie, en formateer je deze. 
+
+De installatie gaat nu zijn werk doen, alles is van tevoren door mij opgegeven behalve de computernaam en gebruikersnaam. 
+
+wanneer het bureaublad voor de eerste keer geladen word loopt er een script die de laatste taken uitvoert, laat dit script zijn werk doen en laat je computer met rust. 
+
+
+Mijn dank gaan uit naar: 
+************************
+HJW
+Muiz 
+Roeldie
+
+
+
+Volg mij op =>  Twitter:
+
+Hunter
+
+
+SPOT INFO: 
+
+Nu meteen voor iedereen beschikbaar, op nieuwsgroepen en torrents! 
+Niet meer eerst een week in de VIP van piratesplanet. 
+
+[IMG]http://www.mijnfilehost.nl/image/direct/9t7fTgsyle/3d.png[/IMG]

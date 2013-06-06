@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,kepler42,2011-12-05T07:15Z,What is the purpose of that ???
+ 
+
+I have injected code into uTorrent as you can see with the 6 radio buttons.
+
+It multiplies you actual data in real time so if you select X50 and upload @ 10kb/s for 10 sec uTorrent is
+gonna show that you have uploaded:
+
+10kb x 50 x 10s = 5000kb (5MB)
+
+If you then swtch back to X1 @ 10kb/s for 10 sec uTorrent is gonna report that you have uploaded
+
+10ikb x 1 x 10s = 100kb (0,1MB) for a total of 5,1mb"

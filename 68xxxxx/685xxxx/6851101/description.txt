@@ -1,0 +1,53 @@
+FILES IN THIS RELEASE:
+* ISO: slackware-13.37-install-dvd.iso
+* MD5 Checksum: 64394febb8fb82520164645ade7dbaa0
+* Artwork: slackwarecover.jpg
+* Read Me: readme.txt
+
+FILE INFORMATION:
+* Format: ISO Disc Image
+* Size: 4.23 GB (4,544,397,312 bytes)
+* Source: http://www.slackware.com
+* Release Date: April 27th, 2011
+
+SPECIAL INSTRUCTIONS:  
+     To ensure disc integrity, burn at the lowest possible burn rate.  I have found that burning the disc above 4x speed results in less than optimal disc quality.  Please rate and comment!
+
+
+How To Get Your Maxspeed (uTorrent) - Thanks extremezone!
+
+Torrent Client - Preferences - Bandwidth - Number of connections - Set aprox. 500 for each 
+Torrent Client - Preferences - BiTorrent - Protocol Encryption - Forced
+Bandwidth Allocation - High (Set download/upload limit - Unlimited)
+Stop Other Active Torrents - Start downloading and wait for connections.
+Enjoy and Seed for at least 1:1 ratio.
+
+PLEASE RATE AND COMMENT!  THANK YOU - Team Kardinal
+
+///////////////////////////////////////////////////////////////////////////////////
+
+Slackware 13.37 brings many updates and enhancements, among which 
+you'll find two of the most advanced desktop environments available 
+today: Xfce 4.6.2, a fast and lightweight but visually appealing and 
+easy to use desktop environment, and KDE 4.5.5, a recent stable release 
+of the 4.5.x series of the award-winning KDE desktop environment.  
+We continue to make use of HAL (Hardware Abstraction Layer) and udev, 
+which allow the system administrator to grant use of various hardware 
+devices according to users' group membership so that they will be able 
+to use items such as USB flash sticks, USB cameras that appear like USB 
+storage, portable hard drives, CD and DVD media, MP3 players, and more, 
+all without requiring sudo, the mount or umount command.  Just plug and 
+play.  Properly set up, Slackware's desktop should be suitable for any 
+level of Linux experience.  New to the desktop framework are ConsoleKit 
+and PolicyKit.  ConsoleKit handles "seats", things like dealing with 
+devices when switching from one user to another.  PolicyKit is a system 
+for fine-grained access control, allowing a non-root user to run certain 
+tasks with elevated privilege, but more securely than if the entire task 
+were simply run as root.
+
+    Slackware uses the 2.6.37.6 kernel bringing you advanced performance 
+features such as journaling filesystems, SCSI and ATA RAID volume 
+support, SATA support, Software RAID, LVM (the Logical Volume Manager), 
+and encrypted filesystems.  Kernel support for X DRI (the Direct 
+Rendering Interface) brings high-speed hardware accelerated 3D graphics 
+to Linux.

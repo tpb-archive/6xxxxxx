@@ -1,0 +1,52 @@
+Book Description
+â€œThorough and comprehensive coverage from one of the foremost experts in browser security.â€
+â€”Tavis Ormandy, Google Inc.
+
+Modern web applications are built on a tangle of technologies that have been developed over time and then haphazardly pieced together. Every piece of the web application stack, from HTTP requests to browser-side scripts, comes with important yet subtle security consequences. To keep users safe, it is essential for developers to confidently navigate this landscape.
+
+In The Tangled Web, Michal Zalewski, one of the worldâ€™s top browser security experts, offers a compelling narrative that explains exactly how browsers work and why theyâ€™re fundamentally insecure. Rather than dispense simplistic advice on vulnerabilities, Zalewski examines the entire browser security model, revealing weak points and providing crucial information for shoring up web application security. Youâ€™ll learn how to:
+
+Perform common but surprisingly complex tasks such as URL parsing and HTML sanitization
+Use modern security features like Strict Transport Security, Content Security Policy, and Cross-Origin Resource Sharing
+Leverage many variants of the same-origin policy to safely compartmentalize complex web applications and protect user credentials in case of XSS bugs
+Build mashups and embed gadgets without getting stung by the tricky frame navigation policy
+Embed or host user-supplied content without running into the trap of content sniffing
+For quick reference, â€œSecurity Engineering Cheat Sheetsâ€ at the end of each chapter offer ready solutions to problems youâ€™re most likely to encounter. With coverage extending as far as planned HTML5 features, The Tangled Web will help you create secure web applications that stand the test of time.
+
+Table of Contents
+Chapter 1 Security in the World of Web Applications
+
+Part I: Anatomy of the Web
+Chapter 2 It Starts with a URL
+Chapter 3 Hypertext Transfer Protocol
+Chapter 4 Hypertext Markup Language
+Chapter 5 Cascading Style Sheets
+Chapter 6 Browser-Side Scripts
+Chapter 7 Non-HTML Document Types
+Chapter 8 Content Rendering with Browser Plug-ins
+
+Part II: Browser Security Features
+Chapter 9 Content Isolation Logic
+Chapter 10 Origin Inheritance
+Chapter 11 Life Outside Same-Origin Rules
+Chapter 12 Other Security Boundaries
+Chapter 13 Content Recognition Mechanisms
+Chapter 14 Dealing with Rogue Scripts
+Chapter 15 Extrinsic Site Privileges
+
+Part III: A Glimpse of Things to Come
+Chapter 16 New and Upcoming Security Features
+Chapter 17 Other Browser Mechanisms of Note
+
+Chapter 18 Common Web Vulnerabilities
+
+Appendix Epilogue
+Notes
+UPDATES
+
+Book Details
+Paperback: 320 pages
+Publisher: No Starch Press (November 2011)
+Language: English
+ISBN-10: 1593273886
+ISBN-13: 978-1593273880

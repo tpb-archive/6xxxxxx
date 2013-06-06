@@ -1,0 +1,42 @@
+Mac OS X 10.7 Lion Install DVD Bootable... (INTEL ONLY) just burn it and installit....
+:0)) AND GUYS...PLEASE..... SEED IT... :D
+
+MD5 (Mac OS X 10.7 Install DVD.iso) = 1e0d5d5355d659a7c146a1bc67f1badb
+
+Contents:
+
+Install Mac OS X Lion.app (GM) from App Store
+MD5 (InstallESD.dmg) = b5d3753c62bfb69866e94dca9336a44a
+
+Patched/added files:
+
+System/Installation/Packages/OSInstall.mpkg (patched: MBR, Platform check, 2 GB RAM check)
+System/Library/PrivateFrameworks/Install.framework/Frameworks/OSInstall.framework/Versions/A/OSInstall (patched: MBR by nawcom)
+System/Library/Caches/com.apple.kext.caches/Startup/Extensions.mkext (added kext cache to speed boot)
+usr/standalone/i386/cdboot (added Chameleon v2.1svn r1703)
+Extra
+Extra/Preboot.dmg
+
+Preboot.dmg contents:
+Extra/Extensions.mkext
+Extra/org.chameleon.Boot.plist
+
+Extensions.mkext contents:
+FakeSMC.kext
+AppleACPIPS2Nub.kext
+VoodooPS2Controller.kext
+VoodooPS2Keyboard.kext
+VoodooPS2Mouse.kext
+VoodooPS2Trackpad.kext
+NullCPUPowerManagement.kext
+
+The boot: prompt waits for you to type advanced startup options. (just press F8 to enter the prompt)
+
+If you don\'t type anything, the computer continues starting up normally. It
+uses the kernel and configuration files on the startup device, which it also
+uses as the root device.
+
+Some Useful Boot Options: USBBusFix=Yes... GraphicsEnabler=Yes or No...-v (Verbose Mode)...-x (Safe Mode)....-s (Single User Mode)....
+
+Att: here`s the link for all boot flags and some examples...  
+http://forge.voodooprojects.org/p/chameleon/source/tree/HEAD/trunk/doc/BootHelp.txt

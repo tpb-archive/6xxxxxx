@@ -1,0 +1,189 @@
+Sword of Damocles - Warlords
+(Test Combatent) v3.92 Full
+By: Computica / SOD TEAM 2011
+Date: 12/08/2011
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=CHANGELOG=-=
+--Bug Fixes--
+*3.91b4 -> 3.92
+-Rebalanced Foil & Estoc
+-Top-tier Conquistadors receive Estoc
+-Base exp. given to garrisoned AI troops is way too high. Rebalanced to make the game more enjoyable.
+-I increased the number of hidden bandit caves from 5 to 12.
+-AI Hiring rounds for the Barracks, Stable, & Practice Range was just +1 for any instead of 1 for each.
+-AI Hiring Rounds are for improvements add to a random instead of being a fixed number.
+-Fixed Dialog when hiring troops from other lords. One check was blocking everything.
+-Made hiring troops from Garrisoned lords easier to do.
+-I had the effects of serfdom backwards in some scripts.
+-Enemy and Allied parties that are in a Castle or Town can no longer leave to help fight unless they are part of the player faction.
+-Fixed the Tavern Traveler dialog when asking about companions.
+-^Increased the amount of times to ask to two a day.
+-Fixed a small code mishap during field battles
+-Made it harder for troops to surrender.
+-Fixed Faction Defeated Triggers
+-King Titles Fixed
+-Fixed several pieces of Spouse Dialog
+-Enabled Regiments to reinforce a garrison again. This time they will be no longer hidden but shown in the garrison.
+-Increased Map Travel Speed
+-Write important info to log Ex: Last known Companion Location, List of Towns with Tournaments
+-Adjusted Hoof Dust to prevent lag but still look nice.
+-Cut the time of gun smoke by half.
+-MAP SPEED FIXED
+-Legion Troop horses rebalanced. (Before they were more like living tanks. They could use more tweaking)
+-Village Stratana Scene replaced
+-Newer bows were made a bit stronger and received a small price increase.
+-Fixed Firearm selection for companion auto-looting
+-Completed Economy (1 of 3) [At least 3 trade routes are automatically set for each town.]
+-Completed Economy (2 of 3) [Economy Goods automatically are set for each town & Village.]
+-Optimized many auxiliary textures
+-Limited the amount of prisoners minor parties on the world map can have.
+-Reduced the size per player level of outlaw parties
+-Made it even easier to hire troops from lords
+-You can hire troops from lords when there on the field.
+-The Impacts of Winning & Losing a In-battle duel are much more effective.
+-Horse Weaknesses apply for tournament matches.
+-Fixed the new sun textures
+-Made Samurai/Ronin Armors and Weapons buy able.
+-Made some blocked Legion Equipment buy able.
+
+--Added/Experimental Features--
+*3.91b4 -> 3.92
+-Updated and fixed the formats of many textures
+-Bump & Specular maps were added/re-made to many textures
+-During Battle the transparent map will show up.
+-Total Duels between Lords/Kings & Companions is now listed in the Report Menu.
+-In-Battle Dueling System
+-Allies Can Duel For You (In-Battle Dueling System)
+-In-Battle Chatter (In-Battle Dueling)
+-Companion Level Scaling
+-Number of available mercenaries is based on town population and player level. (Tavern)
+-Number of available peasants is based on towns surrounding bound villages collective population. (Tavern)
+-Revised the 'Buy troops from lord dialog' *again* this time it works much better than before.  :D
+-Increased the max amount you can burrow from a lord at one time to 50,000 denars.
+-Better Prisoner Management (1 of 3) [Tell Prison Guard to send all prisoners in party to fief garrison.]
+-Arena Rewards are now based on town population and prosperity
+-Villages can't send reinforcements if infested with bandits.
+-The Culture of all fiefs change to that of the faction that took it.
+-Castle & Town garrison max is based on town population and bound village population for castles.
+-Revised Textures using proper shaders.
+-Dual Barrel Musket
+-Completed Economy (3 of 3) [Snow fiefs have there own economic demands, before there was just Urban, Rural, & Desert Demands for certain goods.]
+-Improved several auxiliary textures
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Requirements:
+1. Need to have Warband version 1.143
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Install Instructions:
+1. This time everything is in a nice installer.
+2. Make sure Warband is updated
+3. Make Sure the mod is installed in the correct directory because some people have the steam version.
+4. Check the "_Optional" folder in the Mods directory for uh... optional stuff.
+5. Enjoy the mod
+6. Vote for it on ModDB
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+NOTICE:
+Understand the Multiplayer Portion of this game is in a beta state but it does work.
+I'll release the source for the MP portion for the "Sword of Damocles: Bloodshed" Release.
+
+This release also includes several translations preloaded into the language folder.
+None of them are up to date but I would love some support from translators.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+~~Credits~~
+
+SOD: Warlords Team
+Computica (SOD Warlords - Mod Leader/Lead Coder/All-Around Design)
+MorrisB (SOD Gold/Warlords - Lore/History/Story/Script Master)
+Daedelus_McGee (SOD Warlords/Mod Organizer)
+LibSpit (SOD Gold/Warlords - Creative Direction/Writer/Companions)
+Manekemaan (SOD Gold/Warlords - Major Mod Supporter)
+
+SOD: Gold Team
+Vonmistont (SOD Gold - Original Mod Leader)
+Mordachai (SOD Gold - Lead Programmer)
+Cyclohexane (SOD Gold - Texture Artist, Scene Artist, 3D/2D Model Artist)
+Kuba (SOD Gold - Programmer)
+Twan (SOD Gold - Programmer)
+Siofna (SOD Gold - 3D Modeller)
+
+Voice Actors
+Libspit (Voice Acting for future release)
+Sirbab (Voice Acting for future release)
+Master Ronin (Voice Acting for future release)
+
+Resources
+Waalx (Original Weapon Models & Textures)
+Barf (Pistol Sword 3D Model)
+Checkmaty (More Metal Sound Mod 2.2)
+Rubik (Released Custom Commander Source Code)
+Dunde (Enhanced Process Scripts)
+Neil_v (Blood Tweak Tutorials)
+zParsifal (Released Diplomacy + Source Code)
+Jrider (Faction Relation Presentation Codes)
+æµæ°´æ— å¿ƒ (Inadvertent Flow[CHMB]) (M&B; Tenka 2 Mod Leader| Samurai Base Models)
+Caba`drin (Educational Help| Released useful Source Codes)
+lucky lancer (Modified training scenes)
+MadVader (Mouse Death Cam)
+
+Beta Testers
+Fyorax
+KnightOfVaegir
+Valdarr
+Halsemon
+polydamas
+zee
+Teronius
+Fyorax
+Alu
+zee
+zoolder
+Winterwolf00
+GenericSoldierX
+Alavaria
+Goldbrandsz
+Notsure
+tdring
+Teronius
+andaries
+xchrisx(GER)
+ashevil2
+Master Ronin
+
+Special Thanks
+Aliang227 (Educational Help)
+Theoris
+Alex Dragon (Mod Supporter)
+CryptoCactus (Educational Help)
+Waihti (Uses Diplomacy as a base Thank you Waihti)
+Elric_de_Melnibone (Mod Supporter)
+Somebody (Educational Help)
+CptJoker (Educational Help)
+Cruger (Educational Help)
+Duh (Mod Supporter)
+Lumos (Educational Help)
+Kinseth
+Edenspring
+Arys Dayne
+BerTolkien (French Translation)
+Fidelity
+Evil Lemon (Mod Supporter)
+LordSim (Extra Signatures)
+ShrikeGFX (Extra Signature)
+Jammen690 (Mod Supporter)
+Notsure (Mod Supporter)
+Zombo (Provided Solution to the Module_Music.py)
+Vincenzo (Educational Help)
+Specialist (Educational Help)
+xenoargh (Educational Help|Crossbow Models Textures)
+Vornne (Educational Help)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-Notes-
+I want to thank everyone in the Taleworlds community, and especially everyone in the ChineseMB forums.
+If you don't know about ChineseMB you should register there and go to there english forum.
+I want to give a special thanks to all of my mod supporters.
+Without them I wouldn't have known how important this mod is to everyone.
+I greatly respect the previous SOD modders of the Classic M&B; Era.
+I hope to take this mod to the next level.
+Also I'm still looking for work and I'm pretty much self taught.
+So if anyone is hiring in computer or game design send me a message. ;D
+
+www.moddb.com

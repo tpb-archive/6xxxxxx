@@ -1,0 +1,44 @@
+User Type,Username,Date,Text
+,Sheboink,2011-12-03T06:07Z,"Details:
+
+General
+Format                           : Matroska
+File size                        : 540 MiB
+Duration                         : 1h 39mn
+Overall bit rate                 : 760 Kbps
+Encoded date                     : UTC 2011-12-02 12:51:06
+Writing application              : mkvmerge v2.4.1 
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 39mn
+Width                            : 720 pixels
+Height                           : 384 pixels
+Display aspect ratio             : 1.875
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Writing library                  : x264 core 66 r1092 60f4cd8
+Encoding settings                : cabac=1 / ref=3 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=hex / subme=9 / psy_rd=1.1:0.0 / mixed_ref=0 / me_range=16 / chroma_me=0 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / chroma_qp_offset=-2 / threads=6 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / wpredb=1 / keyint=250 / keyint_min=25 / scenecut=40(pre) / rc=crf / crf=26.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / vbv_maxrate=25000 / vbv_bufsize=14000 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Codec ID                         : A_AAC
+Duration                         : 1h 39mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz"

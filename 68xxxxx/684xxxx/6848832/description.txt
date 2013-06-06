@@ -1,0 +1,58 @@
+Pheonix Service Software 2011.38.003.46817 Cracked
+
+Main component versions in the release:
+
+â€¢ DK2 Driver Version 07.14.0.25
+ â€¢ Nokia Connectivity Cable USB Driver Version 7.1.45.0
+ â€¢ Flash Update Package 2011.34.000
+ â€¢ FLS-x Drivers Version 2.09.28
+ â€¢ FUSE Connection Manager v 2011.34.1
+
+MAIN CHANGES & ERROR CORRECTIONS FROM PREVIOUS VERSION 2011.24.2.46258
+
+New Products added
+ â€¢ RM-814, RM-815, RM-816, RM-781, RM-832, RM-833, RM-834, RM-761, RM-762, RM-799, RM-800, RM-764, RM-778
+
+New features
+ â€¢ New version of FUSE connection Manager
+ â€¢ New version of Flash Update Package
+ â€¢ New version of Autotuning components
+ â€¢ New version of Product API
+ â€¢ New version of Connectivity Cable Driver
+ â€¢ Support for Windows 7 64 bit version (Note: FLS- 5 drivers do not support 64 bit OS, so phones using FLS-5 /USB_FBUS connection can not be serviced in 64 bit operating systems)
+ â€¢ New installation package with MS Visual C++ 2010
+
+Error Corrections & changes
+ â€¢ Installation package now includes MS Visual C++ 2010 Redistributable Package. Installation will happen automatically when Phoenix_Service_Software_2011_38_3_46817.exe is run.
+ â€¢ The Envira Tool ( The ZIP package generator in Help / Troubleshooting â€“ menu) updated
+ â€¢ Correction to DCT-4 autotuning with Willtek / Aeroflex test equipment detection. Testers were previously identified only if they reported themselves as Willtek. Testers are now identified also as Aeroflex.
+ â€¢ Improvements to Product Code changes with simultaneous flashing. Readiness to flash future â€œUSB Onlyâ€ â€“ concept phones added. NOTE: Please see product specicic documents for information on the restrictions of product code changes with â€œflashâ€ â€“ option, especially in the cases of Software downgrade with Tucson system!
+ â€¢ Updated label printing components
+ â€¢ Support for long product codes
+ Please note:
+ â€¢ Microsoft DOT.NET version 2 Service Pack 2 is now the minimum requirement. Phoenix installation will check PC for the DOT.NET version and update it automatically when PC has online connection. Without online connection, old DOT.NET versions must be updated manually.
+ â€¢ New common data package location in use. Please see document SR1315 in KICS Information Center for further information.
+ â€¢ All Nokia Service Software Applications will use following location for product specific data:
+ - Windows XP: C:\\Documents and Settings\\All Users\\Application Data\\Nokia\\Packages
+ - Windows 7: C:\\Program Data\\Nokia\\Packages
+ â€¢ Please see articles SR1774 and 1786 for more information on the use of Nokia Data Package manager â€“ tool, and article SR1854 for more information on the Nokia Service Application Manager Tool.
+ â€¢ During installation, Data Packages should be installed in these directories, if they install to any other location by default. target folder for local data packages can be changed in the installation wizard manually
+ â€¢ This version contains the latest Tucson components. Therefore it is not necessary to use Tucson Add-On Installation Packages
+ â€¢ Before you start Phoenix or Care Suite installation to Windows 7 the User Account Control (UAC) should be turned off from Windows Control Panel settings.
+ â€¢ For more information concerning new options in â€œFirmware Updateâ€ â€“ menu and their use, Please see documents SR1313 and SR1659 in KICS Information Center.
+ â€¢ Tucson operations combined with â€œflashâ€ â€“ option are now handled in the same way as â€œrefurbishmentâ€, which requires Mass Memory Content File to be available.
+ â€¢ Use of Flash option simultaneously with product code change for USB Only phones is restricted. It is recommended to flash phone separately with Firmware Update. Please refer to product specific instructions.
+ â€¢ Connection media to FLS-5 must be configured to be â€œUSB_FBUSâ€, after FLS-4 support has been removed FBUS does not work anymore with FLS-5
+ â€¢ Install and use the latest available product specific data packages or flash bundles
+
+Supported operating systems and user rights
+
+â€¢ Windows XP Service Pack 1 or higher
+ â€¢ When installing Phoenix into Win XP you must have local admin rights.
+ â€¢ When using in Win XP, user must have power user rights.
+ â€¢ Windows 7 32 Bit version
+ â€¢ Windows 7 64 Bit version
+
+Tutorial here: 
+ 
+http://thepiratebay.org/torrent/6056768/Nokia_Flashing_Tool_-_Phoenix_Service_Software_2010.38.005.44210

@@ -1,0 +1,54 @@
+General
+ID                                       : 4097 (0x1001)
+Complete name                            : Jaakiekon MM 2011 - Finaali - SWE-FIN
+Format                                   : MPEG-TS
+File size                                : 7.86 GiB
+Duration                                 : 3h 48mn
+Overall bit rate                         : 4 918 Kbps
+Network name                             : Digita Finland
+
+Video
+ID                                       : 513 (0x201)
+Menu ID                                  : 33 (0x21)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=12
+Codec ID                                 : 2
+Duration                                 : 3h 48mn
+Bit rate mode                            : Variable
+Bit rate                                 : 4 449 Kbps
+Maximum bit rate                         : 8 400 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.429
+Stream size                              : 7.11 GiB (90%)
+
+Audio
+ID                                       : 660 (0x294)
+Menu ID                                  : 33 (0x21)
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 2
+Codec ID                                 : 4
+Duration                                 : 3h 48mn
+Bit rate mode                            : Constant
+Bit rate                                 : 224 Kbps
+Maximum bit rate                         : 252 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -257ms
+Stream size                              : 367 MiB (5%)
+Language                                 : Finnish

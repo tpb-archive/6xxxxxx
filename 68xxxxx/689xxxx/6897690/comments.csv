@@ -1,0 +1,7 @@
+User Type,Username,Date,Text
+,cibervaso,2012-03-01T20:48Z,"Nice work. Thank you. Everything works fine, except palettes( it where showing as ? (question marks) but there a fix enter 2 commands into terminal.Close AutoCAD for Mac and verify that it is not running.
+Open a Terminal window (the Terminal app is typically found in the /Applications/Utilities folder).
+Type cd ""/Applications/Autodesk/AutoCAD 2011/AutoCAD.app/Contents"" and press return.
+Type sudo ./copyreg.sh  ""/Applications/Autodesk/AutoCAD 2011/AutoCAD.app"" and press return.
+At the Password prompt, enter the admin password and press return (you will not see the password echoed).
+Quit the Terminal application."

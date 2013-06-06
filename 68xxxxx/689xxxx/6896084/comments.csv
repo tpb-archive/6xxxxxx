@@ -1,0 +1,12 @@
+User Type,Username,Date,Text
+,BrageP,2011-12-18T18:50Z,"I noticed that in case you install it to your hard drive, it will be set up with user as user name, user as password, and with root as root password. It is a good idea to change that as soon as possible, and this is how you do it:
+
+1. Open the command prompt in the quicklaunch menu.
+2. Type su and press Enter.
+3. Type root as root password.
+4. Type adduser and your desired user name and press Enter. Answer the questions and type a new password.
+5. When done, type passwd root to reset the root password.
+6. Log out (or reboot the computer) and back in with your new user name.
+7. Repeat steps 1. and 2. Press userdel user to delete the user account.
+8. If your (non English) locale isn't generated, press dpkg-reconfigure locales, and scroll down to your desired locale with the Up and Down Arrow. Press Space to select, Use Tab to navigate and Enter to confirm. (Same as during install.) Log out choose your new locale in the GDM login menu.
+9. If you need a non-English locale in Iceweasel (Firefox), install it from Synaptic Package manager. "

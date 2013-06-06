@@ -1,0 +1,15 @@
+User Type,Username,Date,Text
+,Gmeplayer2,2012-01-21T01:35Z,"why  they say ""possibly insufficient resources"
+windows installed on your c:\ drive or a other one.
+
+The program looks for the skin files in ""C:\Program Files (x86)\Portable\VirtualDJ Pro v7.0.5\""
+
+If windows is installed on d:\ or higher,
+then copy ""YOURDRIVE:\Program Files (x86)\Portable\VirtualDJ Pro v7.0.5\"" 
+to ""C:\Program Files (x86)\Portable\VirtualDJ Pro v7.0.5\""
+
+Or if you know how to change things in your registry goto:
+[HKEY_CURRENT_USER\Software\VirtualDJ]
+And change:
+""RunFolder""=""C:\\Program Files (x86)\\VirtualDJ\\"" and ""HomeFolder""=""C:\\Program Files (x86)\\VirtualDJ\\""
+to the correct drive."

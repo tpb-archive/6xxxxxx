@@ -1,0 +1,81 @@
+Here it is a test for fix two anomalies found concerning Cyberlink
+PowerDirector 10 from my previous torrent.
+Should fix :
+
+A)MPEG2 component activation issue
+
+B)H264 component activation issue
+
+Why do you get this problem ?
+The response is simple anyway...
+Well i think but may be i'm wrong...anyway i'm not sure at all.
+But it seems working for me so i hope it will the same as well for you then.
+This is an anomalie in both custom ini included in the setup executable.
+
+Btw,listen to me again !!!
+
+Don't try to activate my version with my serial as connected on the net as online or my serial will be blacklisted very quickly !!!
+there no need to be online to activate my retail,right ?
+Other products from Cyberlink require that,but not this one !
+Also,do not use my serial with the standard trial version cause i'm not sure it will accept it and if ya,most of time,trial versions need to be activated online only.
+There's a difference so...
+This way i hope be clear enough so !
+Don't forget your promess about terms and conditions to be allowed to download my previous torrent concerning this product,right ?
+Don't make the idiot with my serial,please !
+No need if you follow my intructions...
+Normaly,if the version needs to be activated online,you will get a message for.
+For my retail :
+no need !!!
+you must activate it only offline to avoid my serial to be blacklisted anyway sure.
+Btw : patch update and powerdirector content pack are only installable once you will have activated your version with my serial such offline so.
+
+How to resolve and change it :
+
+A)First,you will have to reinstall all anyway and i hope my fix will resolve both
+problems as well.
+Extract PowerDirector 10 build 1005 Setup exe somewhere in your computer and be carefull cause if the name will be too long you might encountering several error while extracting all files so.
+Best is to create a folder caleed : "K" directly on your desktop and thus,put and place into this one your setup exe file and after extract all with winrar.
+
+B)open your complete file that has been extracted and search an ini called "Custom.ini" and btw,same ini is present in the "x64" folder as well.
+Anyway,when you will open it you should see and read this :
+
+
+
+[PowerDirector]
+IsEnableUUID=1
+DvChk=0
+BU=CLT
+vtype=ultra64
+Utype=deluxe
+Vender=CyberLink
+Company=CyberLink
+ProductName=PowerDirector
+Ver=10.0
+OLReg=1
+Silent=0
+SilentUninst=0
+ComboType=NA
+DesktopIcon=1
+SupportLanguage=Chs;Enu;Fra;Deu;Ita;Cht;Jpn;Kor;Esp;Nld
+SmartSound=1,2
+Google=0
+ScUninstallIcon=0
+DolbyShare=0
+PatchSIMDeluxe=0
+ActivateH264=1
+ActivateMPEG2=1
+ActivateDVD6C=0 ---&gt;(change value "0" by value "1" in both Custom.ini)
+ActivateBD=1
+
+and i hope it will resolve all anyway.
+It is a test and if it does not work we might need Adherby help to resolve this issue then.
+
+Anyway i up the fix containing both Custom.ini
+first goes directly in the general folder and the second named : x64
+must go in the x64 sub folder of your setup exe as extracted.
+this way,please,let me know asap if the problem will have disappeared as well.
+And it's better to install my retail version on x64 os edition,sure.
+Ty for understanding
+I'm not responsible of this problem,this comes from Cyberlink,not from me !
+anyway GL 
+regards

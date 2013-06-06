@@ -1,0 +1,38 @@
+Note: This only works with the TomTom iOS app - version 1.9
+
+Car Symbol Installation
+1) Connect your jailbroken iDevice to your computer via Wi-Fi or USB and open Cyberduck, Fugu, or iExplore
+2) Open an SFTP Connection (openSSH must be installed via Cydia) and press connect
+	Server: [your iDevice's IP address]
+	Port: 22
+	Username: root
+	Password: alpine (unless you changed it)
+3) Go to /var/mobile/Applications
+4) Your TomTom app is in one of these folders. Only way to find it is by guessing. (Write it down after)
+5) Continue to var/mobile/Applications/random numbers & letters/US-Canada.app/art/cars
+6) Drag and drop all of the .bmp files in 'Car Symbols' into the 'cars' folders
+7) Continue to Premium Voice Installation or skip to step 8
+8) Press disconnect, close Cyberduck, make your TomTom app isn't running in the multitask bar, and respring/restart your iDevice
+9) Launch your TomTom app and go to: Change Settings/Map/Car Symbol
+10) Your new car symbols should be listed as 'Not Defined', but they work. Select one and test it out.
+11) If it doesn't work, you fucked up. Post in the comments if you need help.
+
+Celebrity Voice Installation
+1) Connect your jailbroken iDevice to your computer via Wi-Fi or USB and open Cyberduck, Fugu, or iExplore.
+2) Open an SFTP Connection (openSSH must be installed via Cydia) and press connect.
+	Server: [your iDevice's IP address]
+	Port: 22
+	Username: root
+	Password: alpine (unless you changed it)
+3) Go to /var/mobile/Applications
+4) Your TomTom app is in one of these folders. Only way to find it is by guessing. (Write it down after)
+5) Continue to /var/mobile/Applications/random numbers & letters/US-Canada.app
+6) Delete the folder named 'premium_voices'
+7) Drag and drop the new 'premium_voices' into the 'US-Canada.app' folder
+8) Go to /var/mobile/Application/random numbers & letters/US-Canada.app/Library/Caches/Navigator
+9) Delete the folder named 'premium_voices'
+10) Drag and drop the new 'premium_voices' into the 'Navigator' folder
+11) Press disconnect, close Cyberduck, make your TomTom app isn't running in the multitask bar, and respring/restart your iDevice
+12) Launch your TomTom app and go to: Change Settings/Voices/Celebrity Voices
+13) Your new celebrity voices should be listed here. Select one and test it out.
+14) If it doesn't work, you fucked up. Post in the comments if you need help.

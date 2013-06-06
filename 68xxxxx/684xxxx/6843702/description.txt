@@ -1,0 +1,18 @@
+What is Carrier IQ?
+Written by Trevor Eckhart
+
+Carrier IQ (CIQ) sells rootkit software included on many US handsets sold on Sprint, Verizon and more.  Devices supported include android phones, Blackberries, Nokias, Tablet devices and more.
+
+From carrieriq.com:
+
+Carrier IQ is the market leader in Mobile Service Intelligence solutions that have revolutionized the way mobile operators and device vendors gather and manage information from end users.
+
+Recognizing the phone as an integral part of a mobile service delivery, and using the device to measure key parameters of service quality and usage, the Carrier IQ solution gives you the unique ability to analyze in detail usage scenarios and fault conditions by type, location, application and network performance while providing you with a detailed insight into the mobile experience as delivered at the handset rather than simply the state of the network components carrying it.
+
+From  http://www.bgr.com/2011/09/01/htc-sensation-and-evo-3d-revealed-to-be-spying-on-users/
+
+Carrier IQ is used to understand what problems customers are having with our network or devices so we can take action to improve service quality.
+
+It collects enough information to understand the customer experience with devices on our network and how to devise solutions to use and connection problems. We do not and cannot look at the contents of messages, photos, videos, etc., using this tool
+
+Great! Less dropped calls, better network experience.  It sounds good on the surface.  I was also able to obtain a stock copy of carrier IQ before it gets modified by third parties, and it has surveys users can fill out if they get a dropped call, browser ends unexpectedly, etc.  It makes its presence known by putting a checkmark in the status bar. This could potentially be pretty useful information from a network administration standpoint, and is made clear to users its running.  Unfortunately this is not always the real world case, it can be modified to be completely hidden.

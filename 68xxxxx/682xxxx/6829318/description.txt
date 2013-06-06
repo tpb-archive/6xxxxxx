@@ -1,0 +1,15 @@
+Exton|Defender SRS is a Linux system available as a bootable DVD or USB stick for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer 
+http://defender.exton.net/ 
+http://sourceforge.net/projects/exton-defender/
+
+ABOUT Exton|Defender 2012 SRS DESCRIPTION Exton|Defender 13.37 SRS is a Linux system available as a bootable DVD or USB stick for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of Linux software such as system tools and basic tools (editors, Midnight Commander, network tools). Exton|Defender can, however, also be used as a normal Linux Desktop System. It requires no installation, but can easily be installed to hard drive or to a USB stick. SYSTEM TOOLS INCLUDED NTFS-3g, GParted 0.10.0, PartImage 0.6.9, Shred 8.11, Sfdisk (util-linux-ng 2.19), Rsync 3.0.8, Ddrescue 1.14, FSArchiver 0.6.12 and Midnight Commander 4.7.5.2. Other programs (among many others): Wicd, Firefox 8.0, Gimp, Samba, Java Runtime Environment (JRE), Emacs and many compilation tools.
+...
+SPECAL FEATURES in version 111115 of Exton|Defender I have replaced SlackwareÂ´s 13.37 original kernel 2.6.37.6 with kernel 3.0.9-exton with support for 'everything'. All component software is upgraded to the latest version by now (20111115). Most importantly, however, is that I have arranged for all of your changes to the system to be saved even if you run Exton|Defender from disc (DVD) or USB stick. If you run Exton|Defender from a USB stick, all your changes can be saved directly on the stick. That will make you really portable. I have also arranged so this new version of Exton|Defender (111115) can be downloaded for free. NOTE that Exton|Defender advantageously shall be installed on a USB stick of at least 2 GB. The system is running really fast then and you won't hear the sound from CD/CD-ROM drive. Note also that, among other things, Exton|Defender 2012 can be seen as an alternative to Mandriva Flash (which costs 50 Euro). PASSWORDS The password for root (superuser) and live (normal user) is: root/live. 
+... 
+http://sourceforge.net/projects/exton-defender/files/
+ 
+http://defender.exton.net/ 
+http://linux.exton.net/english
+
+sha1sum : 8debb197a0baf60414283af7f261fe009f2efbc1  exton-defender-2012-1038mb-111115.iso
+md5sum : e038fc1fc8c041d7ef143a838c9d485d  exton-defender-2012-1038mb-111115.iso

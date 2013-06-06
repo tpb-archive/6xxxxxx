@@ -1,0 +1,98 @@
+Digital Showbiz - The Flux Collection
+
+20 plugins for Photoshop
+
+Plugin Descriptions:
+
+
+Cassini generates looping patterns around center points you define. You specify the thickness of the rings, the number of centers and the general color balance.
+
+To set center locations click "Randomize Centers" to set all centers or chose a center from the "Center Selection" drop down list, then click in the blank box left of the "Cancel" and "OK" buttons to set its position. To adjust the color balance use the red, green and blue sliders.
+sample output 	
+Electrosphere
+
+ElectroSphere generates soft smooth background images intended for multimedia. Four sliders, Current, Voltage, Heat and Frequency, define the appearance of the image. Adjusting hue allows you to generate drastically different shapes or patterns.
+
+Because of the large number of floating point calculations Electrosphere's interactive preview can be somewhat slow on older machines.
+sample output 	
+Isotope
+
+Isotope generates colorful and highly saturated background images for multimedia use. The colors created by Isotope are mostly outside the CMYK color gamut and are thus not suitable for printing. On computer or video monitors they look spectacular. Because of the smooth nature of these backgrounds they are well suited for web usage.
+
+You set the Tension, Attraction, Radiation and Distance. When you're satisfied with the general appearance use the hue slider to alter not only the image hue but also its apparent three dimensional depth. Because of the large number of floating point calculations performed Isotope's interactive preview can be somewhat slow on older machines.
+sample output 	
+Blast
+
+The Blast plugin "blasts" across an image mixing original color and blasted color along the way. You define the direction, left, right, up or down and overall amount of blast as a percentage or absolute in pixels.
+
+The Blast plugin randomizes individual blasts within these limits, mixing colors as it proceeds.
+sample output 	
+Bright Noise
+
+This plugin sprinkles an image with noise depending on the brightness. You can darken or lighten the image or mix noise into the image. You specify the noise intensity and the direction.
+sample output 	
+Bubbles
+
+The bubbles plugin speckles your image with a grid of bubbles. You manipulate the number of bubbles, their density and frequency, using tune to make slight variations.
+sample output 	
+Center Mirror
+
+Places a number of double sided mirrors in the center of an image and reflects. You set the number of mirrors - we used four - and the rotation.
+sample output 	
+Gears
+
+Shapes an image into gears from its center. You control the number of gears and the strength.
+sample output 	
+Mirror
+
+Mirrors an image along a horizontal or vertical axis. You specify the location of the mirror, its direction - horizontal or vertical - and the amount of blending between the original and the mirrored image. We placed the mirror in the center of the image and used a blend of 50%.
+sample output 	
+Linear Transmission
+
+Cuts an image into horizontal or vertical strips, offsetting alternating strips and blending these with the original. You set direction, horizontal or vertical, the offset and blend factor.
+
+Blend factors from 0 to -100 increase contrast between the strips, peaking in a pattern of black and white lines. Blend factors from 0 to 100 blend the offset strips with the underlying image.
+sample output 	
+Mosaic Ripple
+
+Cuts an image into tiles and ripples each tile individually. You specify the number of mosaic tiles and the amount of ripple pull.
+sample output 	
+Psychedelic
+
+Modifies colors in an image without geometric distortion. You control the amount of red, green and blue psychedelic generation, plus overall frequency and intensity.
+sample output 	
+Radial Mosaic
+
+Arranges an images into a radial mosaic preserving some of the original texture. You define angle and mosaic size.
+sample output 	
+Radial Noise
+
+Creates a noisy version of your original image, which is scaled, rotated and blended with the original.
+
+You vary the size, rotation, noise threshold and intensity.
+sample output 	
+Radial Smox
+
+Distorts an image using "smox" arranged in a radial fashion. You control scale, density and frequency of the "smox.
+sample output 	
+Radial Transmission
+
+Cuts an image into circular rings, rotates these into opposite directions and blends rings with the original image.
+
+You specify ring size, rotation and blend factor. Blend factors from -100 to 0 increase contrast peaking at -100 in black and white circular rings. Blend factors above 0 blend the rotated rings with the underlying image.
+sample output 	
+Radial Warp
+
+Warps an image using radial motion. You use six sliders to control the distortion.
+sample output 	
+Radical Warp
+
+Warps an image using a more radical variation of the radial engines used in "Radial Warp". You use the same six sliders to control the distortion.
+sample output 	
+Spider Web
+
+Puts an image behind a spider web. You control the number of rays [an absolute value] and rings [relative] plus how much spider web darkens the image.
+sample output 	
+Tiler
+
+Takes part of an image and tiles it repeatedly. You specify the horizontal and vertical dimension of the tile [in percent of the image size] and its horizontal and vertical origin. 

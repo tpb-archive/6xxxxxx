@@ -1,0 +1,18 @@
+MetaX is a Windows movie tagging program for MP4, M4V and MOV files. You can search both Amazon and tagChimp, as well as IMDB and Yahoo posters for information and then write that information into the file so that it is displayed in iTunes, on Apples Front Row or on an Apple TV. Works for showing covers in Xbox 360 Media Center too.
+
+MetaX will read any metadata information that is in the file, but it also makes it easy to search for information on the Internet. It will automatically search Amazon (and you can set which country\'s Amazon site to use) and tagChimp (a great source of information. To donate click below) to retrieve information on a movie. You can also bring up IMDB for additional information, as well as Barnes & Noble for chapter information, and Yahoo Posters for cover art. You can also use your own cover art. 
+
+Included is Movie Library v.2.07
+
+MovieLibrary is a companion program to MetaX that creates a database of all your movies that you can search, categorize and print. MetaX will automatically update your MovieLibrary database when you tag a file. 
+
+v.2.17 Changelog:
+
+- fix bug when ellipsizing null string
+- fix problem with Amazon searches not working
+- double click on genre gives horiz scrollbar
+- turn amazon/tagchimp/... errors into status, not popups
+- fix tmdb to return original sized poster
+- log error messages to status box
+- allow copy to clipboard (ctl - c) from status box
+- handle decimal numbers in episode number correctly for european users

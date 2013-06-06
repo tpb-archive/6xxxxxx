@@ -1,0 +1,37 @@
+Rescatux is a GNU/Linux rescue CD that comes with Rescapp, a nice wizard that will guide you through your rescue tasks. It can restore Grub to the MBR update a Grub configuration, perform filesystem checks, fix a Windows MBR, and more. Features that can indirectly assist the rescue process include chat programs to let you reach human online help, a share log (automatic pastebin), and a share log that uses formatting appropriate for posting on a forum.  
+http://freecode.com/projects/rescatux
+
+Posted on December 6, 2011 by adrian15
+...
+Source code and other downloads 
+http://developer.berlios.de/project/filelist.php?group_id=11211
+Useful Rescatux Options:
+    * Restore Grub to the MBR
+    * Update Grub Configuration
+    * Filesystem check (Fix forced)
+    * Fix of Windows MBR (Currently in beta status)
+    * Blank Windows password
+    * Boot Info Script
+Changelog:
+    * Hard disk order dialog rewritten into python
+    * UI was improved with some icons
+    * Tried to improve Fix of Windows MBR option
+
+Some comments about the release:
+
+This release does not add any new useful options compared to Rescatux 0.29 so you are not advised to renew your Rescatux disk if you already have Rescatux 0.29.
+This is the second release of the Rescatux 0.30 series. It is a beta because there are some many changes in the UI. Please comment your experience on the Rescatux forum. Please say your word at Super Grub mailing list or try to find us at Rescatux chat.
+The rewrite of a hard disk dialog into Python usually it is not a reason to make a release not even a beta release. Butâ€¦ it is because the current dialog is quite a nightmare to understand. Now you choose a hard disk press on UP button and it moves upwards.
+Now that I have managed to implement such a python dialog I think the rest of the Rescatux 0.30 development will be easier. Itâ€™s interesting that some people think that Rescatux lacks an application for installing packages (synaptic). I will think about it.
+I have also tried to improve the Fix of Windows MBR option but install-mbr command is deceiving me. I might finally rely on syslinux and setting up active partitions.
+
+Waiting for your feedback! 
+http://www.supergrubdisk.org/category/download/rescatuxdownloads/
+ 
+http://www.supergrubdisk.org/donate/ 
+http://rescatux.berlios.de/wiki/Main_Page 
+http://www.supergrubdisk.org/rescatux/ 
+http://www.supergrubdisk.org/forum/index.php?PHPSESSID=d1c91278c59d8574e2ece180602e787e&board;=10.0 (forum en) 
+http://www.supergrubdisk.org/forum/index.php?PHPSESSID=d1c91278c59d8574e2ece180602e787e&board;=11.0 (forum sp)
+
+md5sum : 8b27041463d3b8c31ba1f62019908695  rescatux_cdrom_usb_hybrid_i386_486-amd64_0.30b3.iso

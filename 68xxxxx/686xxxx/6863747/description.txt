@@ -1,0 +1,122 @@
+Red Hat Enterprise Linux 5.7 x86
+Binary DVD (Server Core/Cluster/Cluster Storage/Virtualization) 3,075 MB
+MD5: d738dcaf8d65ebf03d6da32916ddde43
+SHA-256: 1f358ae1ed41ff17a4768d739d2a8e64b658afa0dcdc6013aa2d081399be85be
+
+Also included is:
+Red Hat Enterprise Linux 5.7 Documentation
+
+Please be patient. The initial seeding will be slow because I don't have a high speed connection. Please seed to others whatever fraction of this torrent you have. This way you get the rest of the fraction quicker!
+
+Release Notes for Red Hat Enterprise Linux 5.7
+
+1. Installation
+The Red Hat Enterprise Linux installer (also known as anaconda) assists in the installation of Red Hat Enterprise Linux 5. The Red Hat Enterprise Linux 5.7 includes the following enhancements:
+
+A kickstart installation, by default, has the SSH port open in the firewall settings. In Red Hat Enterprise Linux 5.7, the new "--no-ssh" kickstart option for the firewall command can be used to ensure that SSH access to a system is disabled.
+The new blacklist functionality in anaconda is used to avoid the installation or probing of drivers.
+anaconda provides added support for the subscription and entitlement changes implemented in Red Hat Enterprise Linux 5.7. Refer to Section 2, â€œSubscriptions and Entitlementâ€ for further information.
+
+2. Subscriptions and Entitlement
+Effective software and infrastructure management requires a mechanism to handle the software inventory â€” both the type of products and the number of systems that the software is installed on.
+Red Hat Enterprise Linux 5.7,includes support for the new Entitlement Platform which provides oversight for the software entitlements for an organization and a more effective content delivery system. On local systems, the new Red Hat Subscription Manager offers both GUI and command-line tools to manage the local system and its allocated subscriptions.
+A better method to handle subscriptions will help our customers maintain their software compliance and will make installing and updating Red Hat products much simpler.
+Note
+For more information refer to the Overview of changes to Red Hat subscription and entitlement management article on the Red Hat Knowledgebase.
+3. Virtualization
+3.1. Xen
+Xen is a high performance and secure open source virtualization framework. Virtualization allows users to run guest operating systems in virtual machines on top of a host operating system. Red Hat Enterprise Linux 5.7 provides the following bug fixes and enhancements for Xen:
+
+The performance of Xen guests in 32-bit domains is improved.
+The maximum amount of disks that can be attached to a Xen guest has been increased from 100 to 256.
+The time needed to boot Xen guests is reduced.
+Xen guests now support up to 4 serial ports.
+xz compression support is now available in Xen pygrub.
+
+3.2. KVM
+Red Hat Enterprise Linux 5.7 includes support for the Kernel-based Virtual Machine (KVM) hypervisor. KVM is integrated into the Linux kernel, providing a virtualization platform that takes advantage of the stability, features, and hardware support inherent in Red Hat Enterprise Linux.
+This release provides the following bug fixes and enhancements:
+
+CDROM emulation in KVM is improved.
+Live migration convergence speed is improved.
+issues with the boot order of virtual machines have been fixed.
+
+4. Device Drivers
+4.1. Storage Drivers
+
+The bnx2i driver for Broadcom NetXtreme II iSCSI has been updated to version 2.6.2.3
+The mpt2sas driver that supports the SAS-2 family of adapters from LSI has been updated to version 08.101.00.00. Most notably, this update provides support for WarpDrive SSS-6200 devices.
+The megaraid driver is updated to version 5.34
+The arcmsr driver for Areca RAID controllers is updated
+The bfa driver for Brocade Fibre Channel to PCIe Host Bus Adapters is updated to the current scsi-misc version.
+The be2iscsi driver for ServerEngines BladeEngine 2 Open iSCSI devices is updated.
+The qla2xxx driver for QLogic Fibre Channel HBAs is updated to version 8.03.07.00.05.07. Additionally, the qla24xx and 25xx firmware is updated to 5.03.16.
+The lpfc driver for Emulex Fibre Channel Host Bus Adapters is updated to version 8.2.0.96 driver.
+The IBM Virtual Ethernet (ibmveth) driver is updated, adding support for the optional flush of the rx buffer, scatter-gather, rx_copybreak, and tx_copybreak support, and enhanced power virtual ethernet performance.
+The ibmvfc driver is updated to version 1.0.9
+The mptfusion driver is updated to version to 3.04.18rh
+The cciss driver for HP Smart Array controllers has been updated, adding kdump support and performance mode support on the controller.
+
+4.2. Network Drivers
+
+The cxgb4 driver for Chelsio Terminator4 10G Unified Wire Network Controllers is updated.
+The cxgb3 driver for the Chelsio T3 Family of network devices is updated.
+The e1000 driver for Intel PRO/1000 network devices has been updated, adding support for the Marvell Alaska M88E1118R PHY and CE4100 reference platform.
+The enic driver for Cisco 10G Ethernet devicesis updated to version 2.1.1.9
+The myri10ge driver for Myricom Myri-10G Ethernet devices has been updated to version 1.5.2
+The igb driver for Intel Gigabit Ethernet Adapters is updated
+The tg3 driver for Broadcom Tigon3 ethernet devices is updated to version 3.116, adding support for EEE.
+The bna driver for Brocade 10Gb Ethernet devices is updated to version 2.3.2.3
+The qlcnic driver is updated to 5.0.13, adding support for large receive offload (LRO) and generic receive offload (GRO)
+The netxen driver for NetXen Multi port (1/10) Gigabit Network devices is updated to version 4.0.75, adding support for GbE port settings.
+The be2net driver for ServerEngines BladeEngine2 10Gbps network devices is updated, adding support for multicast filter on the Lancer family of CNAs and enabling IPv6 TSO support.
+The ixgbe driver for Intel 10 Gigabit PCI Express network devices is updated to version 3.2.9-k2, adding support for FCoE and kcq2 support on the 57712 device.
+The iwl6000-firmware is updated to version 9.221.4.1.
+The iwl5150-firmware package is now available on the Supplementary CD.
+The 1000e driver is updated to version 1.3.10.
+The ixgbevf driver is updated to version 2.0.0-k2.
+The igbvf driver is updated.
+The bnx2x driver is updated version to 1.62.00-6, adding DCB/PFC, FCoE ring support, 57712 device support and BCM84823 to the supported PHYs. Additionally, the bnx2x firmware is updated to version 6.2.5.0.
+The bnx2 driver is updated to version 2.0.18+.
+The atl1e driver for Atheros GbE NICs driver is now available in Red Hat Enterprise Linux 5.7.
+The iw_cxgb4 driver is now available in Red Hat Enterprise Linux 5.7.
+The iw_cxgb3 driver is updated
+
+4.3. Graphics Drivers
+
+The vesa driver is updated, to allow the native screen resolution (1366x768) to be set on Dell M4500 machines.
+The ati driver is updated, enabling DisplayPort interfaces on RV635/RV730 cards
+The mga driver is updated, providing support for G200eH/eR devices.
+
+5. Filesystem/Storage Management
+Red Hat Enterprise Linux 5.7 provides the following notable filesystem improvements:
+
+A new debugging facility for Network File System (NFS) address space operations (aops)
+Additional checks to ensure that quota limits cannot be set too high.
+
+5.1. Global File System 2 (GFS2)
+The Red Hat GFS2 file system is a native file system that interfaces directly with the Linux kernel file system interface (VFS layer). When implemented as a cluster file system, GFS2 employs distributed metadata and multiple journals.
+GFS2 in Red Hat Enterprise Linux includes the following notable new features:
+
+The fallocate() system call preallocates filesystem blocks to a file. Red Hat Enterprise Linux 5.7 introduces support for the fallocate() system call on the GFS2 filesystem.
+Performance when bouncing locks in a cluster with GFS2 is improved.
+gfs2_grow is used to expand the GFS2 filesystem. Previously, growing a GFS2 filesystem that was at capacity (full) was unsupported. Red Hat Enterprise Linux 5.7 introduces support for growing a full GFS2 filesytem.
+
+6. System Security Services Daemon (SSSD)
+The System Security Services Daemon (SSSD) provides a set of daemons to manage access to remote directories and authentication mechanisms. It provides Name Service Switch (NSS) and Pluggable Authentication Modules(PAM) interfaces toward the system and a pluggable back end system to connect to multiple different account sources.
+SSSD in Red Hat Enterprise Linux 5.7 includes the following notable bug fixes and enhancements:
+
+The new ding-libs package provides utility functions to manipulate filesystem pathnames (libpath_utils), a hash table which dynamically resizes to achieve optimal storage and access time properties (libdhash), a data type to collect data in a hierarchical structure for easy iteration and serialization (libcollection), a dynamically growing, reference-counted array (libref_array), and a library to process configuration files in initialization format (INI) into a library collection data structure (libini_config).
+Added support for netgroups
+Group support to the simple access provider is now supported.
+A Kerberos access provider is now included to honor .k5login.
+Improved support for delayed online Kerberos authentication.
+Significantly reduced time between connecting to a network or Virtual Private Network (VPN) and acquiring a Ticket Granting Ticket (TGT).
+The new automatic Kerberos ticket renewal feature allows long-lived processes or cron jobs to function even when the user logs out.
+Support for providing kerberos tickets for long-lived processes or cron jobs even when the user logs out
+Support for 'shadow' access control.
+Support for authorizedService access control.
+Ability to mix-and-match LDAP access control features.
+A new option, providing separate password-change LDAP servers for platforms where LDAP referrals are not supported.
+Performance improvements when group processing RFC2307 LDAP servers.
+A new option, dns_discovery_domain for better configuration when using SRV records for failover.

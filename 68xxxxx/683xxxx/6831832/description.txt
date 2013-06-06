@@ -1,0 +1,49 @@
+Changelog:
+
+- Problems with BF3 drivers setting render frames to 3 instead of 1 on Nvidia
+  cards (CAUSING MOUSE LAG,stuttering in your other games....) fixed and set back
+  to 1)
+
+- New patch system to keep patches at 10-20 MB max. (sorry this is what took time
+  and lots of testing)
+
+- Re enable voice chat (down while testing Push to talk)
+
+- Push to talk now on mappable key â€“ default is ON
+
+- Key mapping fixes and prompts
+
+- Crouch toggle option
+
+- Text Chat in End screen of Heist
+
+- Laptop over heating fixed
+
+- Reduced internet traffic for less de synch issues (will still be some for high
+  ping clients)
+
+- Added STEAM server filter on range (close, far, worldwide)
+
+- Addressed a bug that disabled mouse in the ESC menu while in lobby
+
+- More frame rate for low end systems (laptops and 4-5 year old desktop computers)
+
+- Steam Community Message in the load screen 
+
+- Single Player Pause (looping sounds loop though, but hey you got it)
+
+- Alienware command center fix (Fix black screen at start up)
+
+- Fix for random crash in game
+
+- Mute individual player in options
+
+- Mouse smoothing is removed and direct mouse input is in for faster response on
+  low end computers
+
+- Bank AI is fixed with ALL special team animations now functional (amongst them 
+  the stoppage of team AI at the C4 wall is gone) 
+
+- Made Team AI more aggressive and agile
+
+- Vsynch Auto (on?off next patch)

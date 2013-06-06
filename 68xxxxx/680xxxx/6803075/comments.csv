@@ -1,0 +1,7 @@
+User Type,Username,Date,Text
+,blackboxcard,2011-12-05T08:57Z,"Can't find any servers? here the solution:
+
+Find file ""rev.ini"" in installation folder and open it.
+ In this file you should find line ""[steamclient]"". After this line add new line:
+ MasterServer = 63.234.149.83:27011
+ Save and close this file."

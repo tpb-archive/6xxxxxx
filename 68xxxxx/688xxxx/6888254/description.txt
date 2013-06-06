@@ -1,0 +1,17 @@
+Icaros Desktop is a pre-configured AROS desktop environment for the PC platform, distributed on a bootable live media. The AROS Research Operating System is a open source lightweight, efficient and flexible desktop operating system, aiming at being compatible with AmigaOS 3.1 at the API level, while improving on it in many areas. 
+http://www.icarosdesktop.com/dl.htm
+
+Icaros Desktop 1.3.3 available for download
+Posted by Paolo Besser at Tuesday, December 13, 2011
+
+A new, important update for Icaros Desktop is ready. This release introduces preliminary hardware 3D acceleration on Intel GPUs already covered by the Intel GMA driver. Preliminary means that there is still much work to do on this new Gallium implementation, but you can already play Quake III Arena and most AROS games on your netbook at decent speeds, which is a great news for Aspire One-and-alike owners. The new driver has also some 2D acceleration functions enabled, so you will notice improvements also on emulators and applications: for instance, MAME and LodePaint performances are now noticeably better. Icaros Desktop 1.3.3 also includes all the bug fixes already covered by the 'AROS Paper Cuts' initiative, making overall user experience fairly better than before: Wanderer now behaves correctly when selecting and dragging multiple files, immediately changes the desktop wallpaper using its preferences, and many CLI commands that gave different results than the ones in AmigaOS 3.x now act correctly, helping people who make scripts for both operating systems. There are also many little-big improvements: try, for instance, dragging a file on a file-requester window: it will be automatically selected as the file to open. InstallAROS can now copy the AROS file from a twice-partitioned USB pendrive and much, much more. If you liked Icaros Desktop 1.3.2, you'll love this new release! 
+http://www.icarosdesktop.org/
+ 
+http://www.icarosdesktop.com/icarosfiles/IcarosDesktop_manual.pdf 
+http://aros-exec.org/modules/newbb/viewforum.php?forum=24
+
+ABOUT AROS, 
+Do you remember the good old Amiga times? Computing was funny and almost never a pain. AmigaOS was really easy to understand and, thanks to its elegance and optimisation, could run excellent applications on low-spec machines, without wasting hardware resources. But it was ages ago. The AROS Research Operating System tries to port al the good things of AmigaOS on other platforms, being an open-source re-implementation (rewritten from scratch) of Amiga API and environment. 
+www.aros.org
+ 
+http://aros.sourceforge.net/license.html

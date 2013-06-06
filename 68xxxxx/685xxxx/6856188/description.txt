@@ -1,0 +1,102 @@
+I used drhonk's kernel: 
+http://forum.xda-developers.com/showthread.php?t=1194032
+
+And RaverX3X's 2.3.6 Gingerbread rom: 
+http://forum.xda-developers.com/showthread.php?t=1351783
+
+I wanted it de-bloated but not as debloted as Simply Simple (which I didn't use for this, just the list of things they safely removed): 
+http://forum.xda-developers.com/showthread.php?t=1321611
+
+********
+And I HATE that tmo splash screen, so I changed the startup and shutdown from  robbbbit: 
+http://forum.xda-developers.com/showthread.php?t=1080426
+********
+
+I removed many bloated apps, and added what I consider to be essential apps (list to follow).
+Made LauncherPro the default launcher, hell the only launcher :^) 
+
+You can mess around in the /data/app folder of the zip file and add or delete at will before you flash.
+
+You need cwm, so if you don't have it you should flash drhonks KJ1 kernel with Odin (link above)
+
+In order for Netflix and Nook to work I had to move them to the SD card and back. I didn't keep Nook in
+the rom for that reason. Also, ES File Explorer will work, but you can only get root access if you move to the SD card and back. 
+***DOES ANYBOFY KNOW HOW TO FIX THIS?
+
+Also- I only left my favorite wake-up alarm and phone ring tone. Who TF uses those stock tones for a ringer or wake-up alarm?
+
+I actually removed a few apps that are favorites of mine but which may have a narrower audience. The rom I use also has:
+
+Added:
+^^^^^^^
+roadsync (For ol task sync)
+amazon market
+usnewspapers
+speedx
+coverart
+dictionary
+adblocker
+dropbox
+es file explorer --must move to sd and back to get root access :-(
+launcherpro
+screenshot
+crackle
+wordfeud
+titaniumBackup
+juicedefender
+mobisystems.editor.office
+netflix --must move to sd and back :-(
+grss
+overdrive
+xdaforum
+tvdotcom
+sugarsync
+xda.quickboot
+galleryexcluder
+ScreenOn
+smspopup
+MOVED youtube and kindle to /data/app
+
+Removed:
+^^^^^^^^^^
+AddToHome.apk
+AmazonMp3.apk
+Aurora.apk
+BooksPhone.apk
+BuddiesNow.apk
+com.mobitiv.client.tmobiletvhd.apk
+Dlna.apk
+FBAndroid.apk
+GenieWidget.apk
+Layar-samsung.apk
+LiveWallpapers.apk
+LiveWallpapersPicker.apk
+Luminescence.apk
+MagicSmokeWallpapers.apk
+MediaHub.apk
+Memo.apk
+MiniDiary.apk
+MovieShortcut.apk
+MobileBackup.apk
+MyAccount-5.0.3002.apk
+MyFiles.apk
+Protips.apk
+qik-11.52-release-tmo.apk
+SamsungWidget_ProgramMonitor.apk
+SamsungWidget_StockClock.apk
+sihome-signed-aligned-tmo-android-8-prod-107357.apk
+slackerradio.apk
+SnsProvider.apk
+SwypeTip-release.apk
+talkback.apk
+Telenav.apk
+thinkdroid.apk
+TouchWiz30Launcher.apk
+VoiceDialer.apk
+VoiceRecorder.apk
+vvm-signed.apk
+WiFi-Calling.apk
+WriteandGo.apk
+
+I have only been using for a few hours, but all seems great except as above. 
+Use at your own risk, but please share your experiences. You can only find this rom here :-)

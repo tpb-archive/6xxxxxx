@@ -1,0 +1,32 @@
+0 delta
+0 fait la fete avant les fetes de fin d'annee et presente sa nouvelle version, delta.
+Beaucoup de changements ont eu lieu depuis la gamma de septembre, avec notamment :
+    * la mise en place de depots de paquets distants, installables a distance avec 0installer
+    * la mise a jour automatique de la distribution et des depots installes avec 0actualiser
+    * la possibilite de choisir facilement ses depots des l'installation de la distribution
+    * extra/ a disparu au profit des depots
+
+Ces outils d'organisation et d'agrement n'empechent pas du tout de continuer a installer ses paquets avec spackadd et ne sont la que pour faciliter l'utilisation de 0 en automatisant des tÃ¢ches qui peuvent etre rebarbatives. Voyez les pages :
+    * Arborescence des paquets 	http://0.tuxfamily.org/doku.php?id=documentation:gestion_des_paquets#arborescence_des_paquets
+    * Outils de 0
+    http://0.tuxfamily.org/doku.php?id=documentation:outils_de_0_pour_la_configuration_systeme
+	 
+Du cote des nouveautes, audacious a vu naÃ®tre son depot, aux cotes de scribus, catalyst, brasero, poedit, streamtuner2, ocaml et vala et les pilotes pour cartes Broadcomm B43 ont ete ajoutes.
+Notons que dhcp a cede sa place a dhcpcd, avec lequel il faisait double emploi. Beaucoup de mises a niveau bien sur, linux 3.0.1, mozilla-firefox 8.0, nvidia 285.05.09, midori 0.4.1, jdk 7u1 pour les plus notables et des mises a jour pour les bureaux enlightenment E17 et xfce 4.8. 
+...
+0 est un systeme GNU/Linux francophone complet pour systemes x86 64 bits uniquement, construit depuis rien et pleinement compatible 32 bits (ou'multilib').
+0 tente d'etre un systeme francise autodidactique : de nombreux fichiers de configuration sont traduits en franÃ§ais et contiennent des commentaires sur leur utilisation ; l'installateur quant a lui demande d'utiliser plusieurs consoles pour renseigner le systeme, le tout en ligne de commande uniquement, mais de faÃ§on assistee.
+Le systeme est pense d'abord pour un poste de travail et pour le multimedia : le noyau, par exemple, est'preemptif'et on trouve de nombreuses bibliotheques et codecs pour l'audio et le multimedia.
+L'environnement graphique par defaut est XFCE et Enlightenment est inclus.  
+http://0.tuxfamily.org/doku.php
+ 
+http://distrowatch.com/dwres.php?resource=links#new  0Linux (submitted on 2011-05-31)   
+http://ftp.igh.cnrs.fr/pub/os/linux/0linux/0/paquets/  
+http://0.tuxfamily.org/doku.php?id=documentation:telechargements  
+http://listengine.tuxfamily.org/lists.tuxfamily.org/0linux-dev (liste de diffusion)  
+http://0.tuxfamily.org/doku.php?id=communaute:accueil (..., salons de discussions)
+  
+http://en.wikipedia.org/wiki/CeCILL (license)
+
+sha1sum : 17c43ef23091610692bc87da16e445f811aa6082  0linux-delta-DVD.iso
+md5sum : 259adcc2c3f9ba208d69a0e03f1369f5  0linux-delta-DVD.iso

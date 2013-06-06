@@ -1,0 +1,10 @@
+User Type,Username,Date,Text
+,macomaniac,2012-02-05T15:06Z,"Thanks for the file, jbc4m!
+
+Perhaps the following elaboration will not be useless? (Take a breath) :
+
+- Before launching 'Squeeze Mac Installer.app', select that file and make a right-click on it (or the equivalent you have chosen if using your trackpad). Chose 'Display the pack content'. Open the folder 'Contents' which appears. Open the sub-folder 'Resources'. Select file 'Squeezeinstall.mpkg. Make a right-click (or equivalent) and chose 'Display the pack content'. Open the folder 'Contents' which appears. Open sub-folder 'Plugins'. Replace file 'InstallerSections.plist' by the one found in the original folder you get from downloading.
+
+- Now launch the 'Squeeze Mac Installer.app' contained in the original folder and install 'Squeeze'. Don't launch the app. Neglect any warning from a window saying the app. is not correctly registered.
+
+- Double click now on the 'Squeeze 8 patch.pkg' file and install the program. Restart your computer. When done, you are able normally to launch 'Squeeze.app'  contained in 'Squeeze' folder."

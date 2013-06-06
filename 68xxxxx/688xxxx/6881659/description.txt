@@ -1,0 +1,33 @@
+Major changes 1.12 =&gt; 1.15
+
+Clean-ups & updates:
+- Spring 84.0 ready: updated many gadgets and widgets to be compatible with the recent spring engine version
+- replaced the "old" Survival Mode with the brand new Zombie Survival Mode
+- added UI elements for the Survival Mode
+- added map-borders (an effect to make maps look like being part of a bigger "world")
+- AI controlled ghouls and skeletal mages will jump/teleport in survival mode now
+- implemented a LuaAI for skirmish games (CAI - from Zero-K)
+- added a parry system for melee untis (paladin, ghoul and skeleton)
+- merged and updated the jumping and teleport gadgets to work smoother
+- added a mod option to define how long corpses should stay on the battlefield
+- added a new experience system: units will gain XPs for all killed enemies within a certain range
+
+Balance: 
+- melee weapons only do 50% damage against heavy armour (this will make early ghoul rushes more ineffective)
+- altered the imperial marine's fire mode
+- added advanced walls for the cursed
+- many small balance changes were performed (adv. artillery ranges, some costs,...)
+
+Bugs: 
+- AOE units (like the imperial pyros) won't hurt themselves anymore
+
+Polishing: 
+- updated the user interface (using the ZeroK-selection menue)
+- updated some sounds
+- updated some explosion effects (using stuff from Smoth's GundamRTS)
+- added some new normal maps
+
+Installer:
+- removed all skirmish AIs except the LuaAI (for compatibility reasons)
+
+

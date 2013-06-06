@@ -1,0 +1,40 @@
+Windows 8 32 and 64 Bit and 64 Bit with Developer Tools
+Windows 8 Developer Preview (Pre-Beta) Build 8102 Released
+
+Microsoft has officially released the developer preview version of Windows 8 during the BUILD developer conference. The Windows Developer Preview is a pre-beta version of Windows 8 for developers, and thus is not suitable for those looking for stable or intending to run on production system, as the downloads include prerelease software that may change without notice.
+
+The released Windows 8 Developer Preview has the build version of Windows 8.8102.0.WINMAIN_WIN8M3.110824-1030, or full build string for x86 edition of version 6.2 (Build 8102.101.x86fre.winmain_win8m3.110830-1739), or indicating itâ€™s compiled and signed off on August 30th, 2011, and is still a build within M3 development brand. Meaning itâ€™s pre-beta.
+
+1. Windows Developer Preview English, 64-bit (x64)
+
+Size: 3.6 GB
+SHA-1 Hash: 79DBF235FD49F5C1C8F8C04E24BDE6E1D04DA1E9
+
+
+Note: Includes a disk image file (.iso) to install the Windows Developer Preview and Metro style apps on a 64-bit PC.
+
+2. Windows Developer Preview English, 32-bit (x86)
+
+Size: 2.8 GB
+SHA-1 Hash: 4E0698BBABE01ED27582C9FC16AD21C4422913CC
+
+
+Note: Includes a disk image file (.iso) to install the Windows Developer Preview and Metro style apps on a 32-bit PC
+
+3. Windows Developer Preview with developer tools English, 64-bit (x64)
+
+Size: 4.8 GB
+SHA-1 Hash: 6FE9352FB59F6D0789AF35D1001BD4E4E81E42AF
+
+
+Note: All of the following come on a disk image file (.iso): 64-bit Windows Developer Preview, Windows SDK for Metro style apps, Microsoft Visual Studio 11 Express for Windows Developer Preview, Microsoft Expression Blend 5 Developer Preview and 28 Metro style apps including the BUILD Conference app
+
+Windows 8 has the similar system requirements with Windows 7:
+
+1 gigahertz (GHz) or faster 32-bit (x86) or 64-bit (x64) processor 
+1 gigabyte (GB) RAM (32-bit) or 2 GB RAM (64-bit) 
+16 GB available hard disk space (32-bit) or 20 GB (64-bit) 
+DirectX 9 graphics device with WDDM 1.0 or higher driver 
+Taking advantage of touch input requires a screen that supports multi-touch
+
+As itâ€™s a prerelease software, some features are not available yet. According to Building Windows 8 blog, the preview build does not include the Windows Store, Windows Live Metro style apps, and some of the user interface features; and tha the focus of the preview is the API and development tools for building Metro style apps. In fact, Microsoft gives the following warning: The software is provided as is, and you bear the risk of using it. It may not be stable, operate correctly or work the way the final version of the software will. It should not be used in a production environment. The features and functionality in the prerelease software may not appear in the final version. Some product features and functionality may require advanced or additional hardware, or installation of other software.

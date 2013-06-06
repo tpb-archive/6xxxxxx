@@ -1,0 +1,47 @@
+FOR TESTING ALPHA RELEASE
+
+Otakux GNU/Linux : Linux for Otakux
+Otakux is made for otaku and all types of end users with the aim to let users enjoy anime and doing everyday tasks such as listening to songs, word processing and web browsing more easy. With Otakux, everything is delivered free (such free as free speech and free as free mineral water), no cost will be charged for those who use Otakux. Ask for refund if you are charged for acquiring or using Otakux. Everyone is invited to use Otakux!
+... 
+http://otakux.tk/blog/?page_id=62
+
+New:
+- Danbooru Client
+- Skype
+- HJSplit
+- Yakuake
+- MyPaint
+- Minus Cloud Storage
+- FileZilla
+Changes:
+- Linux 3.0.0
+- KDE 4.7.3
+- Clementine replaces JuK
+- Chromium replaces Google Chrome
+- FatRat replaces KTorrent and KGet
+- Kopete replaces Pidgin
+- Sun Java 6 replaces OpenJDK 6
+Known problems:
+- Skype crashes as soon as it starts
+- No login sound
+- Kdenlive cannot record monitor, wrong parameter prompted
+- Installer cannot run (but can run from Terminal, 'sudo ubiquity')
+- Grub-install will produce error if /boot is installed into Btrfs partition
+
+Live user account info
+Username: otakux
+No passsword. Just press enter when asked for password.
+
+Do you know?
+- That inside every Otakux version, there is already installed Fluxbox, Conky and Nitrogen? Feel free to explore them. :)
+User feedback are welcomed. Please post your feedback 
+http://otakux.tk/forum/viewtopic.php?id=16
+ 
+http://otakux.tk/blog/?p=181 (announcement) 
+http://www.otakux.tk/
+
+sha1sum : 1b881e79b2ff422e0c26c099187b163db29d6944  otakux-2-i386-alpha1.iso
+md5sum : cb1f855e5bbe90faabfd7f5acccc4dc3  otakux-2-i386-alpha1.iso
+
+Please don't forget to share a little bit of your bandwidth : seed :)
+Torrent's details created with the team : thx for the help :)

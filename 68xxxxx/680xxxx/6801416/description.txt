@@ -1,0 +1,19 @@
+Tin Hat is a Linux distribution derived from hardened Gentoo which aims to provide a very secure, stable and fast Desktop environment that lives purely in RAM. Tin Hat boots from CD, or optionally a pen drive, but it is not a LiveCD. It does not mount any file system from CD via unionfs or otherwise. Rather, Tin Hat is a massive image (approx. 2.3GB) which loads into tmpfs upon booting. One pays the prices of long boot times (5 minutes off CD, 2 minutes off pen drives), but the advantage afterwords is that there are no delays going back to the CD when starting applications. Needless to say, this has some rather extreme advantages and disadvantages, making Tin Hat a rather particular distribution.
+... 
+http://opensource.dyc.edu/tinhat
+
+20111107 - The hardened kernel was updated to 3.0. branch. The hardened toolchain was updated:
+
+    * gcc-4.5.3-r1
+    * glibc-2.12.2
+    * binutils-2.21.1-r1
+    * hardened-sources-3.0.4-r5 = vanilla 3.0.4 + genpatches-3.0-7 + grsecurity-2.2.2-3.0.4-201110080819
+
+Approximately 295 packages were updated and 30 were added. The following links shows a full list of the upgraded packages: http://opensource.dyc.edu/sites/default/files/diff-epm-qa.amd64-20111107-20110613.txt amd64  
+http://opensource.dyc.edu/sites/default/files/diff-epm-qa.i686-20111107-20110613.txt and i686. 
+ 
+http://opensource.dyc.edu/pub/TinHat/images/ 
+
+md5sum : ee9311d416ca34b5d59dc2652a920538  th-i686-20111107.iso
+
+Tracker : http://opensource.dyc.edu:6969/announce

@@ -1,0 +1,26 @@
+Rescatux is a GNU/Linux rescue CD that comes with Rescapp, a nice wizard that will guide you through your rescue tasks. It can restore Grub to the MBR update a Grub configuration, perform filesystem checks, fix a Windows MBR, and more. Features that can indirectly assist the rescue process include chat programs to let you reach human online help, a share log (automatic pastebin), and a share log that uses formatting appropriate for posting on a forum. 
+http://freecode.com/projects/rescatux
+
+Useful Rescatux Options:
+    * Restore Grub to the MBR
+    * Update Grub Configuration
+    * Filesystem check (Fix forced)
+    * Fix of Windows MBR (Currently in beta status)
+    * Blank Windows password
+    * Boot Info Script
+Changelog:
+    * Main UI was rewritten into Python + QT4 (pyqt4)
+    * Help is displayed inside an integrated webbrowser
+Some comments about the release:
+This release does not add any new useful options compared to Rescatux 0.29 so you are not advised to renew your Rescatux disk if you already have Rescatux 0.29.
+This is the first release of the Rescatux 0.30 series. It is a beta because there are some many changes in the UI. Please comment your experience on the Rescatux forum. Please say your word at Super Grub mailing list or try to find us at Rescatux chat.
+Remember to read License agreement very carefully if you want me to accept your registration to forum
+Programming with Python is very fast as it is an interpreted language I can debug at run time. Python is also very powerful because I can write in an object-oriented way. And QT seems to me one of the best UI toolkits. If I am foolish enough I might switch from LXDE to Razor-QT andâ€¦ you know whatâ€¦ I might drop Iceweasel (Firefox) to include Rekonq.
+
+Waiting for your feedback! 
+http://www.supergrubdisk.org/category/download/rescatuxdownloads/
+ 
+http://www.supergrubdisk.org/forum/index.php?PHPSESSID=f5d0de8d7ba37248893e54dc0b737dc5 (forum en+es) 
+http://rescatux.berlios.de/wiki/Main_Page
+
+md5sum : 1160b3ae458586aea65efd8772a3c83a  rescatux_cdrom_usb_hybrid_i386_486-amd64_0.30b1.iso

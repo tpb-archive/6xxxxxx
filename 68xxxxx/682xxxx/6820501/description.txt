@@ -1,0 +1,59 @@
+linuxmint-12-gnome-dvd-64bit-rc
+
+New features in Linux Mint 12
+
+Linux Mint 12 is a new step forward, using new technologies and a brand new desktop.
+
+Linux Mint 12 "Lisa"
+Gnome 3 and MGSE
+
+Linux Mint 12 comes with a brand new desktop, built with Gnome 3 and MGSE.
+
+"MGSE" (Mint Gnome Shell Extensions) is a desktop layer on top of Gnome 3 that makes it possible for you to use Gnome 3 in a traditional way. You can disable all components within MGSE to get a pure Gnome 3 experience, or you can enable all of them to get a Gnome 3 desktop that is similar to what youâ€™ve been using before. Of course you can also pick and only enable the components you like to design your own desktop.
+
+The main features in MGSE are:
+
+    The bottom panel
+    The application menu
+    The window list
+    A task-centric desktop (i.e. you switch between windows, not applications)
+    Visible system tray icons
+
+
+The task-centric Alt-Tab in MGSE
+
+MGSE also includes additional extensions such as a media player indicator, and multiple enhancements to Gnome 3.
+
+The Linux Mint 12 desktop is a mix of old and new. Itâ€™s a brand new desktop but with traditional components. The new technology in Gnome 3 is exciting but the components contributed by MGSE make users feel at home. Linux Mint 12, like previous releases, and despite the fact that it's based on Gnome 3, looks and behaves like a Mint desktop. You can launch applications from the bottom left, easily switch between applications and workspaces using the window list or keyboard shortcuts, keep an eye on your notifications at the top and access Gnome 3 features like "activities" from the top-left corner.
+
+The new MGSE menu
+MATE
+
+MATE is a fork of Gnome 2 which is compatible with Gnome 3. Thanks to MATE, you can run both versions of Gnome on the same system.
+
+MATE is present on the DVD edition of Linux Mint 12. Users of the CD edition can install it via the mint-meta-mate package.
+
+MATE is brand new, it's not completely stable yet, and it's missing a few parts. It's being actively maintained and with close collaboration between the MATE developers and Linux Mint. With time the project will gain maturity and provide users with a traditional and solid desktop experience.
+
+Eventually, MATE will be in every way identical to Gnome 2 and represent the future of traditional desktops within Linux.
+
+In Linux Mint 12, both mintDesktop (in the RC) and mintMenu (in the stable release) are adapted and receive full support to work with MATE.
+Artwork improvements
+
+Linux Mint 12 uses a new theme called Mint-Z which is based on Mint-X and Zukitwo.
+
+The Mint-Z desktop theme
+
+Backgrounds: Like in the previous release, the default background shows a 3D scene featuring the Linux Mint logo. The original artwork comes from an artist called Gelsan. Additional quality backgrounds are also available, including fantastic photographs from India and the Yellowstone National Park.
+
+Some quality backgrounds
+Search engines
+
+Duck Duck Go: The new default search engine is Duck Duck Go. It doesn't show different results depending on who's making the search, it doesn't track or record user information, it provides you with optmized results and it's built on and contributes to Open Source.
+
+Development of a new business model: Search engines will share with Linux Mint the revenue generated for them by Linux Mint users. Some search engines partnered with Linux Mint already and are present in Linux Mint 12.
+
+Easy installation of other engines: The way you install search engines in Linux Mint 12 is radically different than in previous releases. Clear explanations and easy instructions are there for the user to understand how search engines help Linux Mint and to decide what to do. The installation of additional search engines is also now much easier than before.
+Upstream components
+
+Linux Mint 12 features the following upstream components: Ubuntu 11.10, Linux 3.0, Gnome 3.2.

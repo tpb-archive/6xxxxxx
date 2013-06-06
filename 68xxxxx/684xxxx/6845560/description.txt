@@ -1,0 +1,12 @@
+Dead Island Bloodbath Arena only aka update 7 of 23 November 2011 it is still v1.3.0
+
+YOU need to have Dead Island already installed (for example the RELOADED release)
+this is only the patch here which includes/adds Bloodbath arena DLC
+
+Bloodbath Arena DLC is unlocked only if you use GreenLuma to start steam (greenluma is included in this torrent v2.2.9 because the originating site was down for too many days/weeks now). Just put greenluma files in steam folder and quit steam (if already running) then start greenluma.exe
+
+So using greenluma you have unlocked automatically BBA and Ripper Mod, not Ryder (which is not yet coded)
+
+For those that already have game and are applying this as an update, your savegames won't be lost, because steam_appid.txt is not included and won't change your appid when you overwrite all. Also read the included .txt files for more info.
+
+If you want to play alone without requiring steam or greenluma (but you cannot play coop this way) then you need to use the file named "steam_api.DLL-forSINGLEPLAYER_noSTEAMrequired" just rename that as steam_api.dll it's the 16kb one, your savegames will be stored in out folder under game folder, if you later decide to play coop, it will be tricky to transfer your savegames into the steam folder where savegames are stored when playing coop version of the .dll (which is the default)

@@ -1,0 +1,40 @@
+This is TES5: Skyrim ncf files with content. All validated in CFToolbox.
+Available languages: english, russian, german, french, spanish, italian, polish and czech (only subtitles).
+
+Installation.
+1. Copy CONTENT of skyrim content.v3 and skyrim exe.v1 folders to your SteamApps folder (C:\Program Files\Steam\SteamApps\ for example). 
+2. Copy content of ONE language folder to your SteamApps folder.
+3. If you use CZECH or POLISH version also copy Skyrim - Voices.bsa and Skyrim - VoicesExtra.bsa files from skyrim english.v3\common\Skyrim\Data folder to your SteamApps\common\Skyrim\Data folder.
+FOR EXAMPLE: german version should have skyrim content.ncf, skyrim exe.ncf and skyrim german.ncf files in SteamApps folder and all game files in SteamApps\common\Skyrim folder.
+
+For LEGIT users:
+1. Launch Steam and log into your Steam account.
+2. Click the Games Menu.
+3. Choose Activate a Product on Steam...
+4. Enter product key.
+5. Follow the onscreen instructions to complete the process.
+6. Wait validation.
+7. Launch game from Library.
+
+For NON LEGIT users:
+1. Create text file, open it (NOTE: use REAL path, i.e. for example if your game files in X:\Games\steamapps\common\skyrim folder then use "X:\\Games\\steamapps\\common\\skyrim\\").
+  a) for 32-bit Windows paste this text:
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Bethesda Softworks\Skyrim]
+"Installed Path"="C:\\program files\\steam\\steamapps\\common\\skyrim\\"
+
+  b) for 64-bit Windows paste this text:
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Bethesda Softworks\Skyrim]
+"Installed Path"="C:\\program files (x86)\\steam\\steamapps\\common\\skyrim\\"
+
+2. Save this file as skyrim.reg, launch it and agree to change your registry.
+3. Launch DirectX10\DXSETUP.exe, VCRedist\vcredist_x86.exe and DotNetFX\dotnetfx35setup.exe in game folder.
+4. Copy SkyrimPrefs.ini file from SteamApps\common\Skyrim\Skyrim folder to My Documents\My Games\Skyrim folder.
+5. Copy cracked SkyrimLauncher.exe to SteamApps\common\Skyrim folder.
+6. If you use CZECH, POLISH or RUSSIAN version also copy TESV.exe from skyrim exe.v1\common\Skyrim folder to SteamApps\common\Skyrim folder (it haven't protection).
+7. Launch SkyrimLauncher.exe and tweak graphics options, close this program.
+8. Launch TESV.exe to play.
+NOTE: if you use NON ENGLISH version after using SkyrimLauncher.exe open My Documents\My Games\Skyrim\Skyrim.ini and fix sLanguage string (i.e. for example for german version change sLanguage=ENGLISH to sLanguage=GERMAN).

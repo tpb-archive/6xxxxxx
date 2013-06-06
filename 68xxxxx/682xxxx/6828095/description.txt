@@ -1,0 +1,32 @@
+TeraCopy is a utility designed to copy/move files faster and more secure. Can resume broken file transfers. TeraCopy skips bad files during copy and even shows the skipped files at the end of files transfer. TeraCopy will calculate files CRC checksum on the fly to speed up source and target files comparsion. Seamless integration with Windows Explorer allows you to keep working with files as usual.
+
+TeraCopy is a compact program designed to copy and move files at the maximum possible speed, providing the user a lot of features: 
+- Copy files faster. TeraCopy uses dynamically adjusted buffers to reduce seek times. Asynchronous copy speeds up file transfer between two physical hard drives. 
+- Pause and resume file transfers. Pause copy process at any time to free up system resources and continue with a single click. 
+- Error recovery. In case of copy error, TeraCopy will try several times and in the worse case just skips the file, not terminating the entire transfer.
+- Interactive file list. TeraCopy shows failed file transfers and lets you fix the problem and recopy only problem files.
+- Shell integration. TeraCopy can completely replace Explorer copy and move functions, allowing you work with files as usual. 
+- Full Unicode support. 
+- Windows 7 x64 support. 
+
+TeraCopy Pro:
+- You can also buy a Pro version of the program that lets you do the following:
+- Copy/move to favorite folders.
+- Select files with the same extension/same folder.
+- Remove selected files from the copy queue.
+- Get free updates and priority support.
+- More features coming soon!
+
+Changes:
+- Added: â€˜Remove otherâ€™ to remove non-selected files from the list [Pro].
+- Added: Better handling multiple copy processes.
+- Added: Multiple retries to delete source files and folders after moving.
+- Added: Tray notification when adding files to the existing process.
+- Fixed: Problem with some non-Latin filenames.
+- Fixed: Copied files now have a correct creation time.
+- Added: WaitBeforeMinimize option to ini file.
+
+
+OS: Windows XP/Vista/7
+Home Page: www.codesector.com
+Interface: Multilingual

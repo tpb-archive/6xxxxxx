@@ -1,0 +1,11 @@
+Shard Linux is a lightweight, no nonsense, Debian based linux distribution. It uses the Xfce window manager with Gtk+ applications and a few QT apps. Because of this combination, Shard Linux has very low system requirements and can run on even the slowest of 686 processors. It has been tested and ran on machines as slow as a 1.4ghz machine with 256megs of ram. Shard Linux is distributed on a Live CD, so you can test before you install.  
+http://sourceforge.net/apps/mediawiki/shardlinux/index.php?title=Main_Page
+
+Shard Linux is an advanced lightweight GTK+ 2.0 Linux distribution based on Debian Stable. It uses the XFCE window manager. Every package is hand picked. It also has support for many wireless cards out of the box that most other distributions don't support.
+Release Notes: This release edits the preseed file, and installs should be a lot smoother now. It removes X-archiver in favor of File-roller, Tixati in favor of Deluge Daemon and GTK Client, and Filezilla in favor of gftp (since it uses QT libs).  
+http://freecode.com/projects/shard-linux
+ 
+http://sourceforge.net/projects/shardlinux/
+
+sha1sum : 43a9ae6db026b7923d99e341a3d127d73c6b6853  V2-Shard-Linux-686-11-12-11.iso
+md5sum : 0d87e6c981ea0570f3c2cd46d26b524b  V2-Shard-Linux-686-11-12-11.iso

@@ -1,0 +1,62 @@
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L2.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 50mn
+Bit rate                                 : 634 Kbps
+Maximum bit rate                         : 2 566 Kbps
+Width                                    : 608 pixels
+Height                                   : 256 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.170
+Stream size                              : 774 MiB (86%)
+Writing library                          : x264 core 68 r1183M f21daff
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=4 / psy_rd=0.0:0.0 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / chroma_qp_offset=0 / threads=3 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / wpredb=1 / keyint=250 / keyint_min=25 / scenecut=40 / rc=2pass / bitrate=634 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00
+Encoded date                             : UTC 2009-10-09 12:51:50
+Tagged date                              : UTC 2009-10-09 15:09:24
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 50mn
+Bit rate mode                            : Variable
+Bit rate                                 : 96.0 Kbps
+Maximum bit rate                         : 106 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 117 MiB (13%)
+Language                                 : Hindi
+Encoded date                             : UTC 2009-10-09 15:09:18
+Tagged date                              : UTC 2009-10-09 15:09:24
+
+Text
+ID                                       : 3
+Format                                   : Timed text
+Codec ID                                 : tx3g
+Duration                                 : 2h 49mn
+Bit rate mode                            : Variable
+Bit rate                                 : 44 bps
+Stream size                              : 54.7 KiB (0%)
+Language                                 : English
+Encoded date                             : UTC 2009-10-09 15:09:24
+Tagged date                              : UTC 2009-10-09 15:09:24
+ 
+http://img839.imageshack.us/img839/1032/dum2003hindidvdripmp4sn.jpg 
+http://img202.imageshack.us/img202/1032/dum2003hindidvdripmp4sn.jpg 
+http://img684.imageshack.us/img684/1032/dum2003hindidvdripmp4sn.jpg

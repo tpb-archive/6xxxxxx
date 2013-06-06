@@ -1,0 +1,13 @@
+User Type,Username,Date,Text
+,londonparis9,2011-11-22T20:09Z,"I open the Application, and it comes up with:
+
+""Error""
+
+""Program application database cannot be found""
+
+I looked online and the 'sys.txt' file appears to be empty. Should this have something inside? I can see the maps in the files on my iphone when I SSH into it, but I think the sys.txt needs some code to make the database actually work..?
+
+EG: The HTC Touch needs this:
+
+[folders]
+app=""\My device\Internal Storage\iGO8"""

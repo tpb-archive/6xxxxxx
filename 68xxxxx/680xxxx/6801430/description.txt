@@ -1,0 +1,45 @@
+Description
+LibertÃ© Linux is a secure, lightweight, and easy to use Gentoo-based Linux distribution intended as a communication aid in hostile environments. LibertÃ© installs on a USB key, and boots on any computer or laptop.  
+http://sourceforge.net/projects/liberte/
+
+2011-11-07
+   2011.2 release
+
+  * ISO image generation, useful for VMs and independent installs
+  * Support for installing to ext2/3/4 filesystems
+  * Directories are hidden on FAT (during install) and ISO (in Joliet layer)
+  * Added silent splash theme, which also disables logo in X server
+  * Added configuration-gathering tool for bug reporting
+  * Kernel 2.6.39 with SquashFS XZ compression and NX support
+  * Requirements bumped to PentiumIII+ (implies MMX, SSE) with PAE
+  * All RAM is wiped on shutdown/reboot, regardless of 3GiB address space limit
+  * Xorg server 1.10, better touchpad support
+  * Better integration as VirtualBox (including clipboard), VMWare, QEMU guest
+  * VirtualBox shares are now supported as automount directories
+  * HFS and HFS+ filesystems are now supported as read-only automounts
+  * Optional I2P support via gentoo=i2p kernel argument
+  * HTP time daemon has been hardened and extended to aid I2P service
+  * OTFE partition now supports file permissions, sanitized during boot
+  * OTFE partition now uses NTFS compression for all data
+  * Added an applet for switching Tor identity (NEWNYM)
+  * Cables communication is now a separate project
+  * Cables communication daemon runs under a designated user
+  * Cables communication supports I2P as source and destination addresses
+  * Added cables communication identity information applet
+  * Added small and fast Java runtime environment (JamVM)
+  * Added HTML5 and plugin-based video/audio support to Midori
+  * Added SASL (plain) authentication and OTR encryption support to XChat
+  * Added PPTP/OpenVPN/Cisco VPN support to NetworkManager
+  * Added emelFM2 2-pane file manager
+  * Replaced MPlayer with Totem (GStreamer-based)
+  * Replaced xvkbd with Florence virtual keyboard
+  * Audio mixer channels are heuristically set up on boot
+  * Selected Tor-friendly IRC networks for XChat
+ 
+http://dee.su/liberte 
+http://sourceforge.net/donate/index.php?group_id=320084 (donations) 
+http://sourceforge.net/projects/liberte/files/2011.2/packages-2011.2.lst/download 
+http://sourceforge.net/projects/liberte/files/2011.2/ (zip,...)
+
+sha1sum : 9c6623717fab8074c30eaae1f44c722f79c245c8  liberte-2011.2.iso
+md5sum : 06271e881a5d86a37d7878e5bb2036b4  liberte-2011.2.iso

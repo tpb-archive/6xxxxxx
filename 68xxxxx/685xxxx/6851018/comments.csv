@@ -1,0 +1,2 @@
+User Type,Username,Date,Text
+,gyaradon,2012-06-02T18:13Z,"I've never seen a crack of this that kept working beyond 60 days. It's unfortunate, but the little maintenance you need to keep it working is worth it. Here's the easy way to do it when your 60 day period is up. With Regedit, navigate to HKCU > Software > Actual Tools > Actual Window Manager. Delete the value ""EvalDate6"" (or perhaps EvalDate with some other number.) Then run the installer again. You're good to go for another 60 days. It's a hassle, but it's worth it."

@@ -1,0 +1,47 @@
+How it works
+
+x360key consists of 2 parts, a motherboard and a remote.
+
+The motherboard connects to the SATA bus inside the Xbox 360, and sits between the drive and the Xbox 360 motherboard. x360key is a full-fledged computer system running embedded Linux. It is capable of many things such as
+- Emulating the Xbox 360 DVD drive
+- Reading USB hard drives and other USB media with various file systems
+- Updating itself and other hardware from USB media
+- Communicating with the remote and other external USB devices
+- And a lot more! (embedded Web server and Wifi connectivity for example)
+
+The remote is a simple yet stylish piece of hardware that features an OLED display and 3 buttons. It connects to the x360key motherboard via a high speed USB2 connection. It also has USB for connecting USB hard drives and other devices. The OLED and buttons are used to control various aspects of x360key. It is also used for browsing attached USB media devices and launching games.
+ 
+http://xk3y.com/
+
+-----------------------------------------
+New features in 01.11 Final [9/12/11]
+-----------------------------------------
+- Added support for static IPs
+- Added support for Unecrypted & WEP WLANs
+- Added more languages
+
+LANGUAGE=XXX
+
+Where XXX is one of the following:
+
+IND Indonesian
+POL Polish
+ROM Romanian
+FRA French
+NOR Norwegian
+DEN Danish
+RUS Russian
+
+- Improved disk profiling code
+- Added "No Profile Data" message
+- Added more game profiles
+- Integrated Mr Waffles latest code
+- More Mr Waffles latest code
+- Added support for disk profiling.
+
+In this build XGD3 games - Disk Profile ID
+0c3df524599094e6cb87ecc8-f87a804e
+COD:MW2 & COD:BO - Title IDs 41560817 / 41560855
+
+- Bug fixes
+

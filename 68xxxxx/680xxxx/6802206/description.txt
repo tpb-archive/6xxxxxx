@@ -1,0 +1,24 @@
+Rename Long Filenames that explorer fails on - WinLongRenamerTool v1,0a (coded by psspss)
+FREEWARE
+
+ok took me 4 hours to figure it out
+
+here is the 32 bit executable tool that will rename long file names even in multiple sub folders or long folder names
+
+I wont say its bug free but I did some tests on a very long file name inside 2 sub folders and worked like a charm
+
+Ive provided the code so anyone can improve on my work and even compile it for 64bit etc if you download the autoit 3 compiler which is also freeware :)
+
+programs like utorrent can download to mulitple folders
+and create a filename that exceeds windows explorers capabilities
+when people like descriptive filenames so can use search to find
+based on keyword etc (like what I like to do) 
+
+wher you can play rename or move the darn thing.
+
+even though you can have 250 char filename it dont seem to take in to
+account the length of the folder names or if its a sub folder etc
+
+its more a problem witn window explorer so this tool gets around it
+
+the problem also exist in latest windows !! (win 7) in fact its probably worse then XP for the problem

@@ -1,0 +1,44 @@
+Ch01: Vectors: The Basics
+In the first chapter Bobo gives an introduction to the concept of 1 and 2 dimensional vectors, Vector addition and multiplication.
+
+Ch02: 3 Dimensional Vectors
+We move on to 3 Dimensional Vectors and treating RGB colour space as a Vector.
+
+Ch03: Unit Vectors
+Bobo explains the importance of Unit Vectors and shows a practical application within a scripted PFlow Operator.
+
+Ch04: Trigonometry & Vector Operations
+Moving on from Vectors we look a trigonometry and how the sine and cosine functions relate to angles and vectors. We also look at vector dot and cross products.
+
+Ch05: Barycentric Coordinates
+We look at how a position on a triangular face can be specified via barycentric coordinates.
+
+Ch06: Ray Intersections
+In this chapter we look at the MAXscript Ray and RayEx. functions and how they can be used to find collisions within 3D space.
+
+Ch07: The Matrix: Explained
+The Matrix... here Bobo explains the basics of how a matrix is used within 3D software to store a nodes position in space, its rotation and also its scale and shows how nodes and PFlow particles can be aligned using their Matrices.
+
+Ch08: The Matrix: Continued
+Continuing with Matrices we look at how we can determine if two objects face towards each other and how to rotate an object within another objects transform space.
+
+Ch09: Vectors and Matrix3 Values
+We look at how we can convert a single vector into a full Matrix, also the same but with an up vector and more.
+
+Ch10: Sub-object Transformations
+We look at controlling Modifier Gizmo's position and orientation using its matrix and how this can be used to slice many objects with the same plane at the same time.
+
+Ch11: Camera & View Transform Matrix
+Bobo explores the fact that any scene camera has its own transform matrix and how this can be used to determine all objects in front or behind the camera.
+
+Ch12: A Basic Rendering Pipeline
+We start our end project, constructing a fully functional scripted rendering system. First we implement a basic diffuse shading model and also Z-Depth testing.
+
+Ch13: Implementing Textures
+Then we move on to support textures within our shading model and also ambient light.
+
+Ch14: Phong And Blinn Highlights
+We look at how Phong and Blinn highlights are calculated and then we implement Blinn highlights.
+
+Ch15: Implementing Shadows/Reflections
+And we complete our rendering system by adding ray traced shadows and final ray traced reflections.

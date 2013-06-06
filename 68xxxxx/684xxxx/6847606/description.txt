@@ -1,0 +1,15 @@
+PowerAMP-2.0.2 build-458 non-market distribution version.
+
+Changelog:
+
+- main external storage is now set as Music Folder by default
+- added support for folders/library auto-update on music download or MTP transfers
+- added option for folders/library scan on PowerAMP start
+- main screen panels are now visible by default
+- main screen shuffle/repeat icons are now visible and touchable by default
+- fixed issue with some cover images in folders
+- fixed issue with Music Folders selection dialog
+- fixed issue with lists on Android 3.0+
+- fixed issue with playlist reorder icon
+- uninitialized widgets are now transparent instead of white
+- other bug fixes and stability improvements

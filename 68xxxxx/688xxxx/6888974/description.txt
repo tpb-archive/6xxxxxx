@@ -1,0 +1,172 @@
+ http://bayimg.com/faLgNAAda
+Command & Conquer: Red Alert: A Path Beyond [Gamma] [2.1]
+
+Red Alert: A Path Beyond version 2.1 is here! This is the client version, enabling you to connect to a server and play the game. Included is the game itself, all stock maps, C++ redistributables, and frontend/launcher. You can also use this client build to host a LAN game for you and your friends.
+
+There are a number of balance changes, graphics and audio updates, and changes in support of community mapmakers. A partial list is given below.
+====================================================================================
+APB Gamma 2.1 Change Notes
+====================================================================================
+************************************************************************************
+Balance
+************************************************************************************
+************************************************************************************
+General Things
+************************************************************************************
+Refill: 14 second delay between refills
+Vehicle Limit: 16 Ground, 8 Air
+Support Pistols: Reduced naximum firing rates (Beretta and Makarov)
+Support Pistols: Added slow repeat-fire
+Support Pistols: Increased effective ranges to 50 meters (was 10)
+Support Pistols: Rocket/RPG soldiers now have limited-ammo pistols
+Support Pistols: Limited-ammo variants have doubled ammo supply (54 Allied / 72 Soviet)
+Support Pistols: Now instant-hit again
+Mines: Cloaking logic; visible on radar for your team, entirely invisible at long range, etc
+Mines: Mine limit is now 80
+Mines: Increased Minelayer ammo to 8 (was 5)
+Mines: Fixed issue with mines that are blown up by the other team not being removed from the mine limit
+Cloaking: Visibility distance increased (Phase, Gap, Mines)
+Supply Truck: Increased health to 110 health /35 armor (was 110/0)
+Demo Truck: Increased health to 110 health /35 armor (was 110/0)
+AA Defenses: AntiAircraft warhead, less damage versus non-aircraft (was Shell/Explosive)
+Defenses: Should properly acquire targets now (no â€˜stupid flametower')
+Defenses: Atomic weaponry has an extra 50% penalty against defenses
+A-Bomb: Increased blast radius to 120 meters (was 100 meters)
+A-Bomb: Increased damage to 1000 damage (was 785) (would not kill a CY in 2.0)
+Repair Gear: Reduced Repair Tool, Golden Wrench, Mechanic radius
+Engineer: Changed GoldenWrench to destroy mines
+Engineer: Decreased GoldenWrench swing rate by around 50%
+Engineer: Mine pinging sound slightly easier to pinpoint
+Cannon: Remove stealth and correct exit zones
+Purchase Terminals no longer provide cover, meaning you can be shot immediately after spawning or while buying things instead of having slight protection
+Repairs: Fixed repair bay deducting too much money if its only repairing health or only repairing armor
+Repairs: Repair cost lowered to 25% (was 50%)
+Repairs: Repair bays won't work if they're dead (for real)
+C4: There are "no C4" zones available now, to prevent C4 atop Tesla Coils etc
+C4: C4 points reduced to 25 (was 50)
+C4: Health reduced to 65 (was 80)
+AOE: AOE weapons will properly identify what to damage/repair now.
+Made bullets collide with back-faces.
+Turrets: Turn rate of all turrets adjusted
+Warhead: "Explosion" increased by around 30% against buildings
+Warhead: "Steel" adjusted down
+Fall Damage: Slightly decreased due to new Refinery Stairs and it was a bit high
+Snipers: Weaponry now identical
+
+************************************************************************************
+Physics
+************************************************************************************
+Supply Truck: Reduced mass (cannot ram, more easily rammed)
+Supply Truck: Reduced acceleration (must be â€˜put in gear')
+Light Tank: Reduced turn rate (cannot zigzag)
+Light Tank: Reduced mass (cannot ram as easily)
+Heavy Tank: Increased traction
+Heavy Tank: Increased top speed
+Ranger: More stable, less easy to flip
+Ranger: Reduced steering speed
+V2 Launcher: More stable, less easy to flip
+V2 Launcher: Adjusted acceleration profile
+V2 Launcher: Traction increased
+Artillery: Traction increased
+Ore Truck: Increased speed
+Ore Truck: Increased mass (less easily rammed)
+Ore Truck: Increased steering speed
+Demo Truck: Mirrored Supply Truck settings, but higher mass
+Doors: Reduced activation zone size (you must get closer now)
+Longbow: Reduced climb rate
+Hind: Reduced climb rate
+Overhauled helicopter handling, not "twitchy" and you must commit to a direction more
+Elevators should work better
+Refineries have stairs instead of elevators anyhow
+
+************************************************************************************
+Allies
+************************************************************************************
+Thief: Replaced Beretta with Silenced Beretta
+Added quick repeat-fire to silenced pistols (Spy and Thief)
+MRJ: Reduced scramble volume by 25%
+MRJ: Added fake EVA warnings
+Spy: Increased Shocktrooper speed to 6 (was 5.5)
+Spy: Fixed fake weapon effective ranges and hitter types
+Spy: Sniper disguise replaces Flamethrower disguise
+Captain: Increased M60 range to 75 meters
+Captain: Swapped PKM/M60 spray error (1 / .8 degree, respectively)
+Captain: Increased M60 magazine to 75 rounds
+Captain: Increased M60 velocity to 390
+Captain: Increased M60 damage to 10.25
+Captain: Changed M60 to use Steel_NoBuilding warhead (former Hind warhead)
+Rocket Soldier: Increased effective ranges to +3 meters beyond actual
+Phase Tank: Increased frag damage to 35 (from 30)
+Phase Tank: Can now aim up and down slightly
+Phase Tank: Fires missiles in pairs, empties clip faster than before
+Phase Tank: Health increased to 150/150
+Thief: Can now steal vehicles
+AT Mine: Increased health to 60 (was 40) plus 120 weak hitpoints
+AT Mine: Decreased damage to 600 (was 700)
+AT Mine: Adjusted blast radius
+Longbow: Damage increased to 165 (was 145)
+Medium Tank: Range reduced to 95 (was 100)
+Medium Tank: Damage reduced to 82 (was 90)
+Medium Tank: Engine sound reduced to 65% (was 75%)
+Light Tank: Damage increased to 51 (was 48)
+Artillery: Damage increased roughly 30%
+
+************************************************************************************
+Soviet
+************************************************************************************
+MAD: Increased charge-up audio
+Grenadier: Increased secondary accuracy slightly
+Grenadier: Explosion radius increased to 6.5 m (was 6)
+Kapitan: Increased PKM range to 75 meters
+Kapitan: Swapped PKM/M60 spray error (1 / .8 degree, respectively)
+Kapitan: Increased PKM magazine to 75 rounds
+Kapitan: Increased PKM velocity to 390
+Kapitan: Increased PKM damage to 12
+Kapitan: Changed M60/PKM to use Steel_NoBuilding warhead (former Hind warhead)
+Hind: Chaingun replaced with Autocannon (blast radius, damage changes)
+Hind: Ammunition supply adjusted
+ShockTrooper: Increased secondary damage to 15 (was 11)
+ShockTrooper: Increased secondary spray to 3 (was 2 degrees)
+RPG: Increased effective range to +3 meters beyond actual
+AP Mine: Increased health to 60 (was 40)
+AP Mine: Adjusted blast radius
+AP Mine: Detection radius to 4 meters (was 6)
+V2 Launcher: Increased V2 blast to 36 meters (was 30)
+V2 Launcher: Uses Explosion instead of Shell
+V2 Launcher: Damage increased to 850 from 700
+V2 Launcher: Can aim lower by 3 degrees
+RPG: Anti-air speed increased to 250 m/s (was 140)
+RPG: Explosion type changed to "Rocket", from "Explosive". Deals less damage to infantry, except Volkov
+Volkov: Napalm grenade explosive damage increased to 50 (was 40)
+Volkov: Anti-infantry range increased to 40m (was 30m)
+Volkov: Anti-infantry accuracy improved slightly
+SAM: Tracking increased
+Flamethrower: 2x bullet damage problem rectified
+Flamethrower: Armor (15) improved to match midrange body armor resistances
+Flamethrower: Suicide damage increased to 275 (was 200)
+Heavy Tank: Rate of fire increased
+Tesla Tank: Increased splash damage
+Tesla Tank: Secondary damage increased to 100% versus mines (was 28%)
+Tesla Tank: Secondary damage decreased to 10% versus Mammoths (was 60%)
+Tesla Tank: Secondary damage decreased to 10% versus aircraft (was 100%)
+Tesla Tank: Primary damage against buildings decreased by 20%
+Radar Dome: No longer gives 3x points
+Tesla Coil: Cannot be C4ed on top of the zappy tower
+
+************************************************************************************
+Tech Levels / Purchasing
+************************************************************************************
+Theft: Vehicles now have a proper 30 second theft protection (except vs Thieves and Spies)
+Demo Trucks: Build limit 2
+MRJ: Build limit 2
+Captains: Price to 250 (was 200)
+APC: Tech level 2 (Was 3)
+Engineer: Tech level 2 (Was 3)
+Artillery: Tech level 2 (Was 3)
+V2 Launcher: Tech level 2 (Was 3)
+Tesla Tank: Tech level 4
+Mammoth Tank: Tech level 4 (Was 5)
+Phase Tank: Tech level 4 (Was 5)
+Fixed unit limit script to work properly
+Air Factory: New building controller type, intended for helipads and will eliminate the need for the MDB_ExpVehFac scripts.
+Snipers: Tech level 3 

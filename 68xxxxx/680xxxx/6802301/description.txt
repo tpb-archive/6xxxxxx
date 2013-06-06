@@ -1,0 +1,34 @@
+Native Instruments Massive 1.3
+
+Tested and working.
+
+This is not an update. It is the complete synth so please uninstall any previous versions.
+
+What's new:
+- New preset browser with 4 columns: Bankname, Type, Subtype, Mode
+- Changed preset file format - files are now called .nmsv
+- Batch file conversion from .ksd to .nmsv added to File menu
+- Import option for single .ksd files added to File menu
+- File open/save only works with .nmsv files files from now
+- Plugin states will be recalled in host, but saved in new format
+=&gt; reopening projects saved with Massive 1.3 will require 1.3 or higher
+
+The new file-name extension means that you'll have to batch convert all the ksd patches. This does not delete or change your old ksd patches - it leaves them intact. Run the batch convert in stand-alone mode. 
+
+INSTALLATION
+
+    Mount or burn with your favorite virtual drive
+
+    Run setup
+
+    Done.
+
+SYSTEM REQUIREMENTS
+
+Windows 7 (latest Service Pack, 32/64 Bit) or Windows XP , Intel Core Duo or AMD Athlon 64, 2 GB RAM 
+
+
+
+
+
+

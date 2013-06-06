@@ -1,0 +1,152 @@
+S.M.R.T.E.R. Pripyat - A Call Of Pripyat Modification
+
+Requirements: S.T.A.L.K.E.R. Call of Pripyat
+Current Release: S.M.R.T.E.R. Pripyat v0.41 -Alpha-
+Release Date: Dec 26th 09
+Mod Author: smrtphoneusr
+
+Complete list of changes:
+
+- added 18 places to sleep
+- added 65 hidden stashes (with new guns and items)
+- added more irradiated zones
+- added ~80 anomalies in Zaton
+- added 65 anomalies in Jupiter (they move after blowouts)
+- added 40 anomalies in Pripyat
+- added 2 new anomaly fields spawning random artifacts in Zaton
+- added 1 new anomaly field spawning random artifacts in Jupiter
+- added 4 new anomaly fields spawning random artifacts in Pripyat
+- added 2 Psi-Zones in Zaton
+- added 16 smart terrains in Zaton
+- added 13 smart terrains in Jupiter
+- added 6 smart terrains in Jupiter Underground
+- added 12 smart terrains in Pripyat
+- added 24 new Outfits and helmets (Outfit Mod)
+- added Zombies to the range of mutants
+- added Izloms to the range of mutants
+- added Cats to the range of mutants
+- added old strong boars to the range of mutants
+- added regular Levelchangers to all levels
+- added AK74u with dotsight (Arsenal Mod SoC)
+- added HK416 (Arsenal Mod SoC)
+- added HK417 Sniper (Arsenal Mod SoC)
+- added SR25 Sniper (Arsenal Mod SoC)
+- added Gewehr 43 (Arsenal Mod SoC)
+- added MP7a3 (Arsenal Mod SoC)
+- added Arctic Warfare (Arsenal Mod SoC)
+- added Sayga (Arsenal Mod SoC)
+- added AK74 with Dot Sight (Arsenal Mod SoC)
+- added Sig 551 (Arsenal Mod SoC)
+- added Sig 552 (Arsenal Mod SoC)
+- added Flamethrower
+- added M16 (Arsenal Mod SoC)
+- added FN FNC (Arsenal Mod SoC)
+- added G36k (Arsenal Mod SoC)
+- added G36c (Arsenal Mod SoC)
+- added G36e (Arsenal Mod SoC)
+- added Colt Xm177e2 (Arsenal Mod SoC)
+- added FN FAL (Modern Mod)
+- added P90 (Arsenal Mod SoC)
+- added Custom Sig 220 (Modern Mod)
+- added Custom Colt 1911 (Modern Mod)
+- added AK 47 (Modern Mod)
+- added Benelli M3 (Modern Mod)
+- added Spas 12 (Modern Mod)
+- added Walther P99 (Modern Mod)
+- added HK USP Match (Modern Mod)
+- added M4a1 (Modern Mod)
+- added XM8 (Modern Mod)
+- added XM177e2 Colt Commando (Arsenal Mod SoC)
+- added silencers and scopes (for arsenal weapons)
+- added nightvision to seva suit
+- added random trash and fireplaces
+- added dreams
+- added some scripted spawns (quest related)
+- added a toolbox for repairing weapons and armor
+- added a throwable flashlight (similar to signal rockets)
+- Jupiter Underground is now redoable
+- Cleaned up the HUD, made it smaller
+- NPC Counter removed
+- noise and visual indicators removed
+- smaller warning icons in HUD
+- removed &apos;slightly damaged&apos; icons for weapons, suit and helmet
+- quick button indicators removed
+- increased amount of blood
+- new hit texture for monsters
+- traders buy heavier damaged goods
+- weight limit increased to 80kg
+- added teleporters (increases the size of the maps a little bit)
+- replaced the bolt with a throwing knife
+- allowed weapons in base
+- intro screens can now be skipped by a single press on Esc
+- changed a lot of the vanilla spawns, made them more versatile
+- reworked phantoms, poltergeists and psy dogs
+- tweaked some of the monster relations
+- increased the number of &apos;jobs&apos; on some smart terrains
+- loading screen has been changed
+- new item "Caff-Pow" (extra strong engergy drink)
+- new item "Burn Protection"
+- new Weaponsounds
+- some vanilla weapons are a little stronger now
+- most new weapons are a little weaker now
+- new animation on low health (modified AMK script)
+- new animation when bleeding (modified AMK script)
+- possibility that the actor drops his weapon when badly hit (modified AMK script)
+- new weather
+- NPC, monsters and objects can be dragged
+- far less food/drugs/vodka/knifes/flashlights when looting
+- radiation is now really dangerous
+- psi radiation is now really dangerous
+- heat is now really dangerous
+- Grenade/hit Indicator removed
+- bandages only heal bleeding, no more health restore
+- AI will only loot nearby bodies and is more aggressive
+- added weapon descriptions (german/english)
+- game starts at night
+- monolith survive emissions. (messed up AI sometimes when they didn&apos;t)
+- Custom upgrades for Sniper Rifles
+- new toolkit for upgrading Sniper Rifles
+- custom assault rifle upgrades
+- custom submachine guns upgrades
+- new achievement: Sharpshooter
+- new achievement: Righteous Stalker
+- new ammo .300 Lapua Magnum (AWM)
+- new ammo 5.7x28mm (P90)
+- new ammo 4.6x30mm (MP7)
+- 7 different Acog Scopes with different reticles
+- changed textures on almost all vanilla weapons
+- Upgrades are more expensive
+- added new sprint animations to some weapons (animations by Gosuke)
+- blowouts can be survived in the open when equipped with enough medkits
+- mutant bodies get removed every 12 hours
+
+
+
+Credits:
+
+This mod includes meshes and textures from the (Kevlar) Outfit Mod by Ricochet.
+Some Weapon meshes, sounds and textures from the Modern Mod Alpha by Nemesis7773 and his Team were used.
+Some Weapon meshes and textures from the Arsenal Mod for ShoC by Dester and Zereset were used.
+Some (hud and effect related) Scripts from AMK Team were modified and used.
+Additional textures by Gnomus, teh Snake and Millenia were also used.
+The russian to english translation was done by Tagaziel.
+Last but not least, GSC for making a great game!
+
+
+Installation:
+
+- Make sure you don&apos;t already have a gamedata folder in your Stalker CoP main directory. If you do, delete or rename it.
+- Copy or move the gamedata folder from this mod to your Stalker CoP main dir.
+- if you haven&apos;t played a Mod before, open fsgame.ltx with notepad and change the line "$game_data$ = false| true|" to "$game_data$ = true| true|"
+- Start the game. A new game is required for the mod to work.
+
+Notes:
+
+- This mod is NOT compatible with other mods except from the Panoramic Mod by Argus. (if you want panoramic mod in place, install this mod first)
+
+
+
+
+Instalati S.T.A.L.K.E.R. COP cu ultimul patch aplicat,dezarhivati cu 7-zip in folderul jocului continutul torrentului(folderul gamedata si daca doriti si trainerul cu 10 cheat-uri),modificati fisierul fsgame.ltx dupa cum scrie mai sus si.....gata!
+Am "reparat" ce a fost de reparat,daca mai este ceva reparati si voi :)))
+PS:puteti duce max weight 500kg,ramane blocat la 800kg :)))

@@ -1,0 +1,67 @@
+Hello guys ! 
+MW3 can now be played using tunngle as teknogod has released the latest version 1.2
+
+How to install:
+1. first of all do not forget to back up ur files, 1st update ur game by copy pasting the 1.4 patch then put the teknogod and steam file into main game dir 
+2. game should be original with no crack nor a pirated version as original iw5sp.exe file is needed to play it
+3. now play the game through teknogod launcher and click on teknogod coop to play multiplayer 
+4. seed and enjoy and don't forget to give ur response and reputation !
+
+
+TeknoMW3 1.2 - Steamless LAN Spec Ops / Survival Loader
+****************************************************************************
+* TeknoMW3 1.2 - Modern Warfare 3 Steamless LAN Spec Ops / Survival Loader *
+****************************************************************************
+-- http://www.teknogods.com --
+
+==Changes==
+1.2:
+- New advanced patching code to prevent timeouts.
+- All IP ranges now work.
+- IP Box recoded for better usability.
+- Bug that caused Client to die on startup is now fixed.
+- .NET 4.0 Problems should now be gone.
+- Added FOV (65-120) support under settings.
+- Now checks for updates on each startup to keep users up-to-date.
+- Added "TeknoGods Coop" over the multiplayer text to make it more clear.
+- Lot of small bug fixes on loader.
+- Version 1.4 of the game now works properly.
+- Fixed "," issues with foreign language Windows.
+- Added notice when joining game that makes troubleshooting easier
+- Added notice when host and client have same IDs.
+- Launcher now requires admin rights in order to run.
+
+Hotfix:
+- LAN hosts have now better connectivity
+
+==Requirements==
+- .NET Framework 4.0 
+http://www.microsoft.com/download/en/de ... x?id=17851
+- Original Modern Warfare 3 1.0 or 1.4 update
+- Original IW5SP.exe
+- No pirated versions
+
+==Usage for host==
+1. Copy TeknoMW3.exe, steam_api.dll to your game folder.
+2. Run TeknoMW3.exe
+3. On first run select nickname
+4. Check 'I am the host' and press 'Start Game'
+5. In game press TeknoGods Coop to host
+
+==Usage for client==
+1. Copy TeknoMW3.exe, steam_api.dll to your game folder.
+2. Run TeknoMW3.exe
+3. On first run select nickname
+4. Enter IP Address and press 'Start Game'
+5. In game press TeknoGods Coop to join
+
+==NOTE==
+- This release is not intended for piracy usage!
+- You must always use the launcher to run the game.
+- If you want to revert back to Steam version just replace our steam_api.dll with the original.
+
+==Support==
+This release is beta quality. If something breaks, review any
+pertinent comments on teknogods.com, then email me as a last resort.
+Include all log files and a detailed description of problem and
+how to reproduce it.

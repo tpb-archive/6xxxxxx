@@ -1,0 +1,55 @@
+TeraCopy is a compact program designed to copy and move files at the maximum
+possible speed, also providing you with a lot of features. 
+
+* Copy files faster. TeraCopy uses dynamically adjusted buffers to reduce 
+  seek times. Asynchronous copy speeds up file transfer between two physical 
+  hard drives.
+
+* Pause and resume transfers. Pause copy process at any time to free up system
+  resources and continue with a single click.
+
+* Error recovery. In case of copy error, TeraCopy will try several times and 
+  in the worse case just skips the file, not terminating the entire transfer.
+  
+* Interactive file list. TeraCopy shows failed file transfers and lets you fix
+  the problem and recopy only problem files. 
+
+* Shell integration. TeraCopy can completely replace Explorer copy and move 
+  functions, allowing you work with files as usual. 
+
+* Full Unicode support.
+
+* Windows 8 x64 support.
+
+
+TeraCopy Pro Features:
+
+- Copy/move to favorite folders.
+- Save reports as html and csv files.
+- Select files with the same extension/same folder.
+- Remove selected files from the copy queue.
+
+
+Change Log v2.27 (November 18th, 2011):
+
+ Added: "Remove other" to remove non-selected files from the list.
+ Added: Better handling multiple copy processes.
+ Added: Multiple retries to delete source files and folders after moving.
+ Added: Tray notification when adding files to the existing process.
+ Fixed: Problem with some non-latin filenames.
+ Fixed: Copied files now have a correct creation time.
+ Added: WaitBeforeMinimize option to ini file.
+
+
+OS: Windows XP/Vista/7/8
+
+
+Install: Extract the TeraCopy directory to your flash drive
+
+If you want to make it UnPortable (drag-and-drop integration), copy the 
+TeraCopy directory to your Program Files and remove the "Portable" file.
+
+
+Cheers,
+
+ADHDerby

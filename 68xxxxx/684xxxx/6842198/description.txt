@@ -1,0 +1,39 @@
+Mac Platform: Intel-Cider
+Includes: Pre-cracked
+
+OS version: Mac OS X 10.5.6 or later
+Processor type(s) & speed: Intel Core 2 Duo 1.86 GHz or better
+RAM minimum: 1024MB
+Video RAM: 128MB (Shader Model 2.0)
+
+Link for more information: http://www.atari.com/games/fahrenheit/pc-download
+
+This is the full translated ENGLISH (uncut EU) version of the wrapper uploaded here yesterday with updated cider engine, dylibs and WS resolutions.
+
+
+Port Status
+ATI/AMD : GREY [Untested: please report]
+NVIDIA : GREEN [Fully Working]
+GMA : GREY [Untested: please report]
+
+
+Port Info
+Transgaming Cider 7081
+
+Installation Instructions
+Open dmg file and drap app to your applications folder. Resolutions can be set from the visual settings menu within the game. By default the game is set to open at 1024x768 resolution with no AA/AF. AA and AF can be set to max if you have a good enough graphics card.
+
+I have modded the game\'s bytecode.btc file to include two WS resolutions (1280x800 and 1920x1080). Other resolutions are 1280x1024, 1024x768, and 800x600.
+
+Recommended System requirements
+OS: Tested on 10.7 (OS X 10.6 and 10.5 untested, please report if working)
+Processor: Intel Core 2 Duo 2.66 GHz or better
+Memory: 2 GB
+Hard Disk Space: ~ 4GB free hard drive space
+Graphics: 256 MB (Shader Model 3.0 compliant)
+
+Known issues
+- Subtitle font rendering is a bit off. You can see this in the screenshots. Certain characters (g,y,p,-,Âº) are misaligned.
+- Gamepad support is untested but could work.
+
+Thanks to original wrapper uploader and RG Mechanics for the game crack
