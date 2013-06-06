@@ -1,0 +1,13 @@
+multiMAN 1.16.02/03 CHANGELOG
+NTFS support for external USB HDD (START+/ to switch to NTFS driver)
+USB.CFG configuration file edit required: 0xVNID:0xPRID:V (vendor ID, product ID,
+V=number of volumes)
+Only copy from NTFS is supported - nothing more, nothing less
+Folder/File copy in FileManager from NTFS volumes
+Merging split files while copying from NTFS is not supported (only 1:1 copy)
+Altered display modes 1, 2, 3 and 4 (small device icon in lower right corner)
+Fixed 99% progress bar freeze
+Fixed "not enough space on destination drive" in rare cases
+New cache convention
+Added support for 3.56 spoof
+Probably a lot of other things...

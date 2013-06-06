@@ -1,0 +1,33 @@
+This is not useful to 99% of humans.  Having said that if you are one of them 1% then have fun.
+
+Report a bug if you find it.
+
+-----
+
+
+
+
+--5.7
+Figure out something useful to do with xID. (iTunes Extras) 
+http://www.apple.com/itunes/lp-and-extras/
+
+--5.6
+Implemented iTunes Genre ID for Movies, TV Shows and Music Videos
+
+Genre validation.  No longer can you type whatever you want for a genre.
+
+Requires AtomicParsley with geID support (Mac universal binary included)
+everyone else go compile it yourself.
+
+--5.5
+Long description and description are encoded in UTF8 prior to written with AtomicParsley.
+
+cnID can accept tt(digit) syntax (saves time when copying from iMDB)
+
+FPS 25 changed to 25/1
+
+Refs changed from 5 to 3 on Apple TV encodes
+
+Encode time works for extracted audio tracks.
+
+

@@ -1,0 +1,88 @@
+IBM OS/2 Warp for PowerPC - Beta - Dec 1995
+
+Operating System and Application Sampler ISO images.
+
+
+-----------------------------------------------------
+
+The Hardware
+
+OS/2 PPC only supported extremely limited range of hardware -- IBM Personal Power Series machines. Those were desktop models 830 and 850, and OS/2 PPC probably also supported the Power Series ThinkPads 820 and 850, though I can only guess from the fact that the graphics chipset employed by these ThinkPads is part of the very short list of supported devices in OS/2 PPC.
+
+The IBM Power Series computers were IBM's rather short lived foray into the PowerPC based desktop personal computer market, circa 1995-1996. The PowerPC CPU aside, the systems were very similar to Intel based hardware of that era. They were designed around the PCI bus, but also included ISA expansion slots and onboard Crystal Audio ISA PnP chips. The desktop Power Series machines were IDE based, ThinkPads used SCSI disks. The computers had standard serial and parallel ports most of typical PC hardware such as interrupt and DMA controllers. The desktops had onboard S3 864 video, ThinkPads used Western Digital flat panel chipsets. Several optional graphics cards were supported, notably Weitek P9100 based accelerators. The desktops also had onboard Ethernet chips.
+
+The Power Series systems were closely related to certain IBM RS/6000 workstations. The RS/6000 Model 43P-7248 was nearly identical to the Power Series 850. They used the same motherboard, only the RS/6000 had onboard SCSI controller. Unlike the RS/6000 systems intended for the workstation market and running almost exclusively IBM's AIX operating system, the Power Series systems were designed for the "regular" personal computer users. The machines were supposed to run OS/2, Windows NT, AIX or Solaris. I don't believe Solaris for PowerPC was ever finished. OS/2 PPC was only semi-finished, Microsoft dropped PowerPC support in 1996 not long after NT 4.0 release, and most of the Power Series systems ended up running AIX, which supported them until version 5.1. Linux also supports the Power Series to some extent. I have briefly used the PowerPC version Windows NT so I can compare it to OS/2 PPC. I've also used AIX and Linux on IBM PowerPC systems, but Windows NT was clearly the closest competitor of OS/2 PPC.
+
+My OS/2 PPC system is a Power Series 830, although it lives in a RS/6000 43P case. The CPU is a 100MHz PowerPC 604 with 256KB L2 cache, and the machine is equipped with 192MB RAM, which is the maximum it can handle. The graphics is PCI onboard S3 Vision 864 with 2MB video memory and true color S3 SDAC. I'm using a 2.1GB IDE hard drive -- AIX can handle up to 8GB and Linux even bigger disks, but OS/2 and NT weren't happy with anything over about 2.5GB. Incidentally, the 830 was originally sold with either 500MB or 1GB drives and 16MB RAM. The Power Series 850 systems were equipped with 100 or 120MHz CPUs and slightly more RAM and bigger disks.
+
+The Software
+
+OS/2 Warp, PowerPC edition comes on two CDs. The first CD contains the operating system and BonusPak, the second CD is an application sampler with several demo applications.
+
+Installation is surprisingly easy and painless. The CD is bootable and there are almost no choices to make -- only about disk partitioning. The PowerPC operating systems (OS/2, NT, AIX and Linux) generally won't coexist together as there is no real equivalent of a boot manager. The OS/2 installer will repartition the disk and overwrite any other operating systems. The boot partition must be FAT. It is possible to create HPFS data partitions, but the HPFS support appeared to be rather unstable and likely a last-minute addition.
+
+After rather long install, caused by slow CD-ROM probably combined with a poor CD-ROM driver, OS/2 PPC install finished and the system booted from disk. I was greeted by this screen:
+
+First screen after installation
+
+No, this is not a mistake. OS/2 PPC really looks just like OS/2 Warp, at least at first glance. The system booted up in 640x480 mode with 256 colors, using the accelerated S3 driver. The desktop right after installation looked like this:
+
+Desktop after installation
+
+Still very much like OS/2 Warp, except for that little Systems Management folder. This feature was not present in the Intel OS/2 Warp release, although it was added later. After installing the BonusPak and a few other additions and changing the resolution, the desktop still looked like plain OS/2 Warp, with the exception of the background bitmap of course (click on the picture to see full size screenshot):
+
+
+Slightly tweaked OS/2 PPC desktop
+
+The system was now running in 1024x768 resolution, but still with 256 colors. The graphics chip supports 64K colors just fine at this resolution, unfortunately Impos/2 was unable to take any screenshots. 256 colors it is then, and time to more closely examine the operating system. The README file is a good starting point, and it's quite long in OS/2 PPC. It consists mainly of a list of unimplemented or incomplete features.
+
+For one thing, notice the "Connect" in the screenshot. OS/2 Warp, PowerPC Edition, doesn't have any connectivity to speak of. Networking support, in a word, didn't exist. No LAN Server client, no TCP/IP, nothing. There was just HyperAccess Lite and CompuServe Information Manager, which worked (in theory at least) over a modem. The name seems to have been a last minute change. Programs and documentation in many instances refer to OS/2 Warp Connect, PowerPC Edition, but the final product was called just OS/2 Warp and not "Connect". One of the README files explains the name change and alludes to networking support in "future versions".
+
+For development versions of OS/2 PPC there was TFTP support that talked directly to the microkernel Ethernet or Token Ring driver and entirely bypassed OS/2. This transport layer also supported remote debugging. This is in sharp contrast to Windows NT which fully supports networking (TCP/IP and file sharing) on the same hardware. Networking was obviously planned for OS/2, but the project was killed before this part was done.
+
+Not everything was so blatantly unfinished though. I was quite surprised by the DOS support in OS/2 PPC:
+
+OS/2 PPC DOS support
+
+If you look closely, you'll see that OS/2 PPC included a full fledged PC emulator, which supplied a virtual x86 CPU as well as common PC hardware. Interestingly, the DOS support in OS/2 PPC was based around PC-DOS 7 and not the outdated DOS 5 level code that OS/2 on Intel is stuck with. The OS/2 PPC DOS boxes thus had for instance the DOS E editor (very similar to TEDIT) or REXX support. Why IBM never updated the DOS support on the Intel side is beyond me. OS/2 PPC supported both windowed and full screen DOS sessions. The full screen sessions always ran in graphics mode, even when the emulated DOS application was using text mode.
+
+Not satisfied with "just" DOS emulation, IBM also supported Win-OS/2, both full screen and windowed:
+
+OS/2 PPC Win-OS/2support
+
+
+I have not extensively tested the DOS or Win-OS/2 emulation, but whatever little utilities came with the OS/2 system seemed to work well, including wave audio in Win-OS/2, and the performance was better than I expected. IBM must have spent a lot of effort on the x86 emulation support. Documentation hinted at a possibility of future support for native OS/2 x86 applications via emulation.
+
+IBM also obviously spent a lot of time on the multimedia support in OS/2 PPC. The multimedia support works unexpectedly well, especially for someone used to the problems common on Intel machines.
+
+OS/2 PPC multimedia support
+
+The system plays video and audio without problems, with MIDI support either via a software synthesizer or OPL3 compatible chip (software synthesizer sounds far better). The application sampler CD came with several videos, mostly ads for OS/2. The PowerPC Toolkit also came with a beta version of OpenGL support, which shared code with IBM's AIX workstation class implementation.
+
+OS/2 PPC was a hybrid halfway between Warp 3 and Warp 4. The user interface looked like Warp 3, but many of the features of OS/2 PPC later showed in Warp 4 on Intel. One of them was the not very popular Feature Installer:
+
+Feature Installer
+
+The Feature Installer was used to install the BonusPak, several tools and games, and curiously enough, also the Command Reference which for some mysterious reason wasn't part of the base install. Here's one of those games:
+
+Klondike solitaire
+
+Again, there is no real difference from the Intel version, except for the about box text (notice the "Connect" text). 
+
+OS/2 PPC was a strange OS. In many ways it was exactly identical to the Intel version, yet in other ways it was completely different. The user interface was the same and the entire API practically unchanged. Some of the  differences were addition of full Unicode support and 32-bit console API (Kbd/Mou/Vio). Largely unchanged API was a reason why it was relatively easy to port existing OS/2 software to PowerPC. The biggest difference was not even the CPU but rather the compiler -- IBM used the MetaWare High C/C++ for PowerPC development (allegedly it was cheaper for IBM OS/2 division to contract MetaWare rather than IBM's own compiler group). To my knowledge, the MetaWare was exclusively used as a cross compiler running on x86 OS/2 systems. IBM used MetaWare's compiler for embedded PowerPC development in general, and MetaWare also had x86 support for OS/2. Watcom was at the time working on PowerPC version of their compiler, but OS/2 PPC was killed before that project was finished. Toolkit documentation mentions VisualAge C++ for PowerPC, but I doubt that was ever released. I did not find any mention of a compiler (or debugger) running natively on OS/2 PPC.
+
+The OS/2 PPC development tools were quite different from their Intel counterparts. For starters, instead of the LX executable format, OS/2 PPC used the industry standard ELF. Several tools were completely unchanged (IPFC for instance), most were entirely new (linker, librarian, resource compiler). The ABI (Application Binary Interface) used in OS/2 PPC was based on and very similar to the UNIX SVR4 PowerPC ABI, although OS/2 of course ran in little endian mode, unlike PowerPC Unices but just like Windows NT.
+
+Going deeper into the kernel, OS/2 PPC had precious little in common with the Intel version. The product was based on the IBM microkernel, which was a refinement of the Carnegie Mellon University MACH microkernel. The microkernel bore no resemblance to the Intel OS/2 kernel whatsoever and it was also very different from other operating systems.
+
+The initial grandiose plan was to build the Workplace OS, the One Ring to Bind Them All of operating systems. Workplace OS (or WPOS for short) was supposed to be built on top of the MACH microkernel and support multiple "personalities". The personalities would implement existing operating systems such as OS/2, AIX, Windows NT and perhaps even MacOS. In the end this never happened and the only supported personality was OS/2.
+
+The initial design is still tangible in OS/2 PPC. The OS/2 personality is implemented in the "OS/2 Server" and there are certain "personality neutral" services. Most device drivers were personality neutral and worked directly with the microkernel. This included disk and network drivers. A notable exception were display drivers, where OS/2 PPC introduced the GRADD model, later ported to Intel OS/2.  Documentation on OS/2 PPC internals is somewhat sparse and the online books shipped with PowerPC Toolkit are in many cases either incomplete or simply unmodified copies of OS/2 for Intel documentation. A good source of information is redbook entitled "OS/2 Warp (Power PC  Edition) - A First Look" published by IBM International Technical Support Organization in December 1995, document number SG24-4630-00 for those interested.
+OS/2 for PowerPC Impressions
+What was OS/2 Warp, PowerPC Edition like? An unfinished product, rough around the edges but simultaneously technically very interesting and advanced and showing promise. Even though the OS/2 PPC release wasn't called beta, it is obvious that this is a beta level product (if even that in some respects). Many features are unfinished or completely missing (networking in the first place). The kernel level code doesn't look much like production build and prints out quite a lot of debugging output on the serial console. The HPFS support was very unstable, and the stability of Win-OS/2 left a lot to be desired. There were too many clearly unfinished parts of the product (documentation, missing utilities etc.).
+
+On the other hand a large portion of the system worked well. The user interface and graphics subsystem in general didn't exhibit any anomalies. Multitasking was reliable and all things considered, responsiveness quite good for a 100MHz CPU and code that was not likely to have been performance tuned. The multimedia subsystem worked much better than I expected. Many things were much improved compared to Intel OS/2 -- internationalization, graphics subsystem, updated console API and so on. The system seemed to have enough raw power, even if it wasn't harnessed too well. Boot time was rather long but once up and running, the system was snappy (with some exceptions, notably the CD-ROM driver). To reach true production quality, the OS would have needed at least additional six months of intense development, probably more.
+
+How useful is OS/2 PPC? Not very. In fact, it is almost completely useless. It only runs on three or four models of rather rare IBM machines and supports almost no additional devices. The OS is clearly unfinished and not entirely stable. Worst of all, there are about zero applications. Because OS/2 PPC was never truly in use, PowerPC versions of OS/2 applications were never sold (at least to my knowledge), although several OS/2 ISVs ported their applications to OS/2 PPC as evidenced by the application sampler. Porting wasn't very difficult and tools for building PowerPC applications were available, but since there was no demand for them, there was little point in porting.
+
+OS/2 for PowerPC was undoubtedly an interesting experiment, albeit a failed one. It is impossible to tell whether this failure was caused more by shortcomings of OS/2 for PowerPC or the failure -- perhaps just falling far short of expectations -- of the PowerPC platform as a whole.

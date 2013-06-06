@@ -1,0 +1,687 @@
+User Type,Username,Date,Text
+[V],Murlok,2011-03-08T18:28Z,Thx :)
+,Kronical4,2011-03-08T18:33Z,"So I did everything you said, and it is in my installed dlc, but I cant seem to find the missions for them, am I not far enough in the game?"
+,karaouli3,2011-03-08T18:33Z,ty! :D
+,Kronical4,2011-03-08T18:34Z,.
+,deathspank,2011-03-08T18:37Z,Works like a charm. Thanks bro. 
+,premiado,2011-03-08T18:38Z,"same thing Kronical4, wondered if i am really not far into game"
+,baskinsy,2011-03-08T18:40Z,THANKS!!!
+,Shadowhawke,2011-03-08T18:41Z,dosent work!:(
+,premiado,2011-03-08T18:41Z,.
+,Shadowhawke,2011-03-08T18:42Z,"cant seem to find the missions for them, no mention in the journal."
+,premiado,2011-03-08T18:44Z,"Still need a crack for dlcs, even tho this will appear on screen inside your downloadble content."
+,neonazgul,2011-03-08T18:45Z,Thank you!
+,premiado,2011-03-08T18:45Z,editting XML isnt goin to help
+,premiado,2011-03-08T18:47Z,`
+,harri1990,2011-03-08T18:49Z,"How do i install it exactly, where do i put those folders. Thers none add-ons foldier in game dir. Dont really get it. Thanks."
+,Rawmeat,2011-03-08T18:58Z,"Crap... same prob on the clone dvd version as the high res textures had, says the game isn't installed."
+,logannovoselic,2011-03-08T19:27Z,"rawmeat
+
+did u try copying the rest of the content from the torrent folder to the installed folder??"
+,baskinsy,2011-03-08T19:34Z,"logannovoselic
+
+Folders have only the installation exe file and a manifest xml file. Nothing else."
+,logannovoselic,2011-03-08T19:41Z,"Is this already working, or does it need a crack? because where do i get the black emporium itens? where do i find the prince?? 
+
+thx"
+,GrimMaggot,2011-03-08T19:42Z,Someone confirm if this is working.
+,logannovoselic,2011-03-08T19:43Z,"baskinsy
+
+I was trying to help rawmeat... cause he downloaded the same version as me and i had similar problem trying to install the game itself "
+,yes201,2011-03-08T20:35Z,"Doesn't work. For the Exiled Prince, you should be finding a new quest in the middle of Hightown, I believe, which isn't happening. I remember for Dragon Age Origins you needed to run a program to decrypt the DLC, we'll probably have to wait till somebody creates one for this one, too."
+,Sethelae,2011-03-08T20:43Z,"hey, i tried to use the dlc decrypter that i used in DAO with all the official DLCs that Bioware released but nothin happened..I suppose thay need a crack.."
+,yic17,2011-03-08T21:12Z,will this work on the THETA version?
+,Shadowhawke,2011-03-08T21:13Z,because that decrypter was made for origins not da2.
+,Shadowhawke,2011-03-08T21:16Z,"@yic17
+It will work but it need s a dycrypt."
+,Sethelae,2011-03-08T21:46Z,so i guess we have to way for a decrypter?
+,nick.nider,2011-03-08T22:31Z,"installs correctly but do not show in game...
+but u can see in downloadable contents they r installed"
+,Reviewer,2011-03-08T22:49Z,"@holloow
+
+I did at first because I picked the Warrior....but then I started over and picked a Mage, now the game is much better. "
+,Kronical4,2011-03-08T22:56Z,"@hollow
+
+no."
+,yic17,2011-03-08T23:22Z,oh man. guess it'll be awhile for the DA2 decrypter to be made huh.
+,morel142,2011-03-08T23:28Z,"Guys..
+
+ Edit each manifest.xml for each dlc and remove the part that says RequiresAuthorization=""0"" completely.
+
+ The slightly altered it, but for the most part, most dlc's for dragon age 2 follow the same rules as for Dragon age 1.
+
+ Basically after the specific dlc data it should look like this.. 
+
+ExtendedModuleUID=""campaign_base"" Priority=""100"" Enabled=""1"" State=""2"" Format=""1"" BioWare=""0"">
+
+ Boot up game and poof, activated and working.. :)"
+,Aledd,2011-03-08T23:31Z,"Mage is the way, melee is shit :P"
+,crazyey,2011-03-08T23:48Z,I will see if it works.
+,Fooooook,2011-03-09T00:26Z,"@morel142
+
+
+Except it doesn't actually work in the game. "
+,Kronical4,2011-03-09T00:37Z,"@morel142
+
+It did not work."
+,yes201,2011-03-09T00:37Z,"Yeah, they're still not showing up in the actual game itself. They're listed in the Downloadable Content menu, but the missions, items, characters, and the like aren't actually showing up at all when you play the game."
+,shanefilan,2011-03-09T00:41Z,these contents are not working.
+,Dw514,2011-03-09T00:46Z,"Dear Dragon Age 2 Pirates
+
+This torrent only includes the DLC for The Black Emporium and Exiled Prince. 
+
+But it does not include a Decrypter needed to activate this DLC ingame. 
+
+A DLC Decrypter for this game will be released in the week. 
+
+Please remember, that changing the RequiresAuthorization=""1""  to ""0"" will activate the DLC on the downloadable content in the main menu, but will not show in game.
+
+So please be patient and a DLC decrypter will be available soon. 
+
+Thank You and have a nice day."
+,morel142,2011-03-09T00:47Z," Odd, Since I'm playing one of the missions right now. :)
+
+
+"
+,morel142,2011-03-09T00:48Z,"Hrm.. It may be working because I allowed it to connect to the bioware servers initially that ""turned it on""..
+
+ Other then that I donno what to tell you.. :( Sorry I tried.. "
+,Kronical4,2011-03-09T00:55Z,"did anyone get it to work, cause i could not,"
+,Kronical4,2011-03-09T00:57Z,"Well...i guess back to playing, and waiting for the decrypter"
+,rjike21,2011-03-09T01:26Z,"How to install this? it says I need to install Dragon Age 2, but I already did? Is it some how the same way you install 'Dragon Age 2 - HighResTexture Pack' "
+,Kronical4,2011-03-09T01:29Z,"@morel142
+
+what do you mean by ""turned it on""?"
+,rjike21,2011-03-09T01:37Z,How to install this? it says I need to install Dragon Age 2 but I already did? 
+,Kronical4,2011-03-09T01:37Z,.'
+,rjike21,2011-03-09T01:39Z,How to install this? it says I need to install Dragon Age 2 but I already did?
+,rjike21,2011-03-09T01:40Z,How to install this? it says I need to install Dragon Age 2 but I already did??
+,Kronical4,2011-03-09T01:44Z,is anyone else having a problem getting these comments to show up? it takes me typing a comment to see the new ones...so sorry for all my posts.
+,bjh089,2011-03-09T03:24Z,no need for crack guys. all you need is an account with ea/bioware and sign in.Both dlc will pop up in your journal when you start the game.
+,overcan,2011-03-09T03:48Z,"@bjh089
+
+i have orginal da2.i always login but it did not work."
+,yic17,2011-03-09T03:50Z,@bjh089 thanks man. it works =)
+,Kronical4,2011-03-09T03:55Z,"i have an ea account and mines not popping up at all, and im signed in"
+,Rakaija,2011-03-09T03:59Z,Anyone have any information on when/how a Ser Isaac's Armor DLC will pop up?
+,Kronical4,2011-03-09T04:01Z,"@djh089
+
+what version of the game did you download? clone, reloaded?"
+,Kronical4,2011-03-09T04:29Z,"it does say in the instructions for this dlc... 
+
+1. Download and install Dragon Age 2 [RELOADED].
+
+which I don't have, so i guess i am gonna download the reloaded one."
+,kevinnguyen123,2011-03-09T05:45Z,"can anyone upload the unlockables on a different torrent? 
+
+vgrevolution.com/2011/03/all-of-the-dragon-age-2-unlockables/"
+,kevinnguyen123,2011-03-09T05:46Z,"anyone gonna upload the other unlockables seen in this? 
+.vgrevolution[.]com/2011/03/all-of-the-dragon-age-2-unlockables/
+
+remove [.]"
+,Shadowhawke,2011-03-09T05:56Z,Just wait for the decrypter.
+,Kronical4,2011-03-09T06:05Z,anyone else have any luck?
+,yes201,2011-03-09T06:37Z,"Nope. I've logged in and still don't get the quests, and I'm using the Reloaded version of both the game and the crack."
+,yic17,2011-03-09T06:38Z,nevermind. it doesn't work. I signed in and got 2 Premium Content and I thought they were this but it's not.
+,yes201,2011-03-09T06:41Z,"For those who do get it to work, should the manifests look like this:
+
+The Black Emporium:
+
+
+Exiled Prince:"
+,bjh089,2011-03-09T06:47Z,I think that's the problem than. I'm using the clone version so maybe something to do with that?
+,bjh089,2011-03-09T06:51Z,And just to note when i started the game i seen them pop up but havent played the game since so i'd have to confirm when i check the dlc out. It might just show up in game but still not let you play them or access them? And ya in game is where i seen it at i know it also shows in downloadable content at the main menu.
+,Reviewer,2011-03-09T06:56Z,"You people are foolish to sign in using your EA account with a game you pirated. Why not just tell them you got the game for free, and want some more free stuff ? "
+,yes201,2011-03-09T06:59Z,"I doubt it, I used the CloneDVD one, too, at first but it still didn't work. I switched over to the Reloaded version to see if it made any differences, but it didn't."
+,Kronical4,2011-03-09T07:15Z,"@Reviewer
+
+You OBVIOUSLY didn't play DAO, I was singed in the whole time playing that game with mods and they didnt care, same with Mass effect 1,2"
+,ryger48,2011-03-09T07:41Z,"@bjh089
+Just to clarify: when you say they pop up in-game, were they the actual dlc quest names, or were they the premium content quest names that get auto-added when you link your account?  Because I linked everything up, but the dlc doesn't show up on the ea/bioware account (but the premium content does), and when I go in-game I have 4 new quest entries in the journal with the pop ups on the screen, but that's just the premium stuff too..."
+,yic17,2011-03-09T08:16Z,for everyone who hasn't got it working .. is it possible that we're simply not yet to the point where they activate?
+,karaouli3,2011-03-09T08:27Z,i remember reading that you can get both after the opening when you get to kirkwall so.. i guess we wait for a decrypter
+,THE_SK1TZ,2011-03-09T10:53Z,Has anyone gotten this to work on the CLONE version? I really dont want to download and install the RELOADED. If anyone figures out how to get it working on CLONE let me know. Thanks.
+,DimDima,2011-03-09T11:15Z,"It does not work neither on the clone version, nor the reloaded version. You can relax."
+,morel142,2011-03-09T11:27Z,"
+ Well if you don't remove the authorization part, each one will show ""Unauthorized"" next to it's name on your downloaded content screen.
+
+ If you don't connect at least once to the EA servers it shows it as an ""offer"" 
+
+ After that you get the quests after you start  the game.. 
+
+As for the ""DA2 Not installed means you need to copy the entire cloneDVD Contents into the almost empty directory in C:\program files\blah blah..  Depending on what release you downloaded :)"
+,weewing427,2011-03-09T11:35Z,"to be able to install the dlc, simply launch DragonAge2Config.exe, and then go to repair and click all of the options there, it will basically add shortcuts & registry entries all by itself. You'll be able to then install the DLC's and HiRes textures afterwards. Hope it helps"
+,yes201,2011-03-09T11:46Z,"All I see in the repair section is:
+Create Start Menu Shortcuts
+Create Desktop Shortcut
+Create Quick Launch Shortcut
+Add Firewall Exception
+
+I don't see how any of those would help activate DLC. And trying them out, they don't seem to help."
+,DimDima,2011-03-09T12:01Z,"@morel142
+It doesn't matter. Even when the DLC is ""authorized"", there are no quests in game to being it."
+,Shadowhawke,2011-03-09T12:28Z,We will just have to wait for the decrypter. '(
+,weewing427,2011-03-09T13:18Z,"hmm, i saw this tip in another forum, basically activate the config in administrator mode, then click on all, and it should let you install."
+,paxhell,2011-03-09T14:14Z,"This work for me, you have to log in with your Bioware account once and then check your journal ""premium content"" and you have it there ...I also got the blood dragon armor ;) 
+"
+,DimDima,2011-03-09T15:07Z,"@paxhell
+Are you sure you got the exiled prince & the black emporium, and not the premium books?"
+,mavaho,2011-03-09T15:14Z,u get the premium books for doin that i just tried it out
+,RhymesMatter,2011-03-09T15:23Z,Can you all stop the shitstorm and create an account with ea?This will let you enjoy this content no need to decrypt!Oh just make sure to uncheck sending gameplay info to ea.Just in case
+,Fooooook,2011-03-09T15:31Z,There is a decrypter out now. I just tried it and the DLC showed up in the game.
+,cyrax200,2011-03-09T15:33Z,"nopp it dosent work for me eaither i installed, extracted and BOM. i can see it in the donwloadablecontants but it dosent show in game.
+
+and im using the CloneDVD version.
+for you guys who it says you need DAII installed to install this DLC or Hi res pack. just extract the whole DAII mapp to
+ C:\Program Files (x86)\Electronic Arts
+thats how i got it to work."
+,Advize,2011-03-09T15:46Z,"For those who have trouble installing it and don't have the reloaded version... I got it to install by running DragonAge2Config.exe as administrator, selecting the repair tab, and clicking all but the ""Create Quick Launch Shortcut"" options. "
+,Arkt0s,2011-03-09T15:52Z,"@Fooooook
+
+Were did you get that decrypter from? Can you link to it or upload it?"
+,EvilCorporateWhore,2011-03-09T15:59Z,"@RhymesMatter
+
+You can completely confirm it works if you have an EA account?
+
+
+@Fooooook
+
+Where is this 'decrypter', and how do we get it to work? I haven't tried installing it, yet... waiting for some kind of solid confirmation."
+,Klimt_Westwood,2011-03-09T16:05Z,Could someone who has the alleged decrypter perhaps upload it for all to enjoy?
+,Eazy G,2011-03-09T16:06Z,"@foook where?
+
+
+@rhymes bullshit and you know it"
+,DimDima,2011-03-09T16:07Z,"@Fooooook
+Where did you get it? I cant seem to find it."
+,overcan,2011-03-09T16:09Z,"@Fooooook
+
+where is decrypter?"
+,napoli666,2011-03-09T16:14Z,there is no decrypter. the decrypter is a lie.
+,Kronical4,2011-03-09T16:16Z,"@Fooooook
+
+can you send a link to it?"
+,Kronical4,2011-03-09T16:22Z,"@weewing427
+
+""hmm, i saw this tip in another forum, basically activate the config in administrator mode, then click on all, and it should let you install."" 
+
+You and the other guys info about the config does not make sense, what do you mean by ""click on all""?"
+,Burnout60,2011-03-09T16:24Z,I think Fooooook is pulling everyone's chain. I hit up every forum that I saw that had been trying to decrypt the DLC and not a single person on any of them was talking about a new decrypter for DA2. 
+,dilupus,2011-03-09T16:35Z,"@RhymesMatter
+I tried that, and it worked! Now let's see how long it takes them to ban me. Doesn't matter since it's not linked to any other games I may have legitly."
+,Samz0r,2011-03-09T16:38Z,"Log in with EA account? Ye right...
+
+I can´t log in. I have an EA Account. But when I press sign in I just get ""Could not connect to dragon age servers"" or something like that. 
+
+And no its not any problem on my end. All other games etc works. But not DA2, blocket internet access with reloaded crack?"
+,HaoSs07,2011-03-09T16:43Z,I can log in. dont have a problem. but the DLC is not working 
+,Grimmstone,2011-03-09T16:48Z,"Samz0r
+
+I can login and the DLC works like the U/Ler said it would.  For the record, I'm using the THETA crack."
+,cyrax200,2011-03-09T16:54Z,"@RhymesMatter
+
+i had an account since 2010 and i used it but i didnt get the Dlc, i tried all the possible way and its the same. then maybe you where the luckey one."
+,uroshuchiha92,2011-03-09T16:57Z,Thanks weewing427 I can install them now....not sure if they will work but I can install them at least on clonedvd version.
+,Kronical4,2011-03-09T17:09Z,"I just tried using the THETA crack, did not do anything different for me, still not working :(."
+,bighouse5,2011-03-09T17:23Z,"Does anyone have any news from reloaded, razor or skidrow about cracking DLCs?
+
+I also remeber there was a great dude named Danger boy who cracked prety much all of DA:O DLCs, would love to hear something from him."
+,ryger48,2011-03-09T17:46Z,"I used to get that connection error (I am using Theta crack...also I don't have the reloaded version, I d/l'd the ""Dragon.Age.II.2011.PC-R.G.-KC.TV"" one, mounted it and used a serial to install... and I can't find any mention of that torrent anywhere any more.  Anyone happen to know if this is a bad version or something, and I should switch?? Anyway, back to the connection issue:), I had to manually add the DragonAge2 [.] exe to my firewall exceptions and it worked fine after that.
+
+Just to make sure (I was a little confused with the original instructions), using black emporium as an example, are we supposed to be placing the manifest file directly into the da2_prc_one folder (if so, with or w/o the exe used to install it), or are we supposed to copy the ""black emporium"" folder that holds both of those files into that directory (would this even make a difference?) Sorry for the length, just trying to narrow things down and make sure everyone's on the same page."
+,Kronical4,2011-03-09T18:12Z,"I guess some people are just the lucky ones, or there is a certain combination of the crack+which DO2 torrent you downloaded."
+,DimDima,2011-03-09T18:20Z,"@ryger48
+Just download the RELOADED version and that's it, just to be safe.
+About the DLC, it doesn't really matters because nothing works. The manifest.xml file should be placed inside the DLC folder (after installed) and that is it. You can change yourself the existing manifest.xml with notepad but it still will not work."
+,uroshuchiha92,2011-03-09T19:19Z,bighouse5 yeah me too...I downloaded his complete set of DLCs.
+,uroshuchiha92,2011-03-09T19:21Z,Samz0r disable the option to upload your gameplay and character
+,Kronical4,2011-03-09T19:23Z,'
+,toto621,2011-03-09T19:46Z,"The signature Edition DLC is also aviable on the web, easy to find (I can't post link here it cause database error).
+
+All we have to do is waiting decrypter :)"
+,toto621,2011-03-09T19:49Z,"Damn it's hard to post link here...
+
+The Signature Edition DLC : 
+[.] m e d * a f * r e [.] c o m / ? 878sj33jzjx5keu
+
+note : add www, remove spaces and replace [.] by .  and * by i for valid link."
+,toto621,2011-03-09T19:51Z,"If someone (extremezone ?) want to add it as torrent (only 2Mb file) go and go it.
+
+Sorry for the 3 posts..."
+,cyrax200,2011-03-09T20:22Z,"@toto621
+
+thank you very much for that. I installed it but its the same as other dlcs, appears in the downloadbale content but not ingame. still waiting for the decrypter"
+,GrimMaggot,2011-03-09T20:27Z,"I keep seeing some people say it works, others saying it doesn't.  I have done as it asks but it still doesn't work so can someone explain?"
+,Sethelae,2011-03-09T20:30Z,"so, if we download that signature edition file, what is going to change?"
+,Sethelae,2011-03-09T20:35Z,hey i installed the signature edition but the things that i'm supposed to find in my chest are not there...i'm guessing it's that same thing with the exiled prince and black emporium..so..decrypter is needed again..
+,Kronical4,2011-03-09T20:42Z,"@toto621
+
+It's all good bro, your just trying to help us get the download, thanks a lot for finding that!"
+,Kronical4,2011-03-09T20:45Z,"@GrimMaggot
+
+Either there pulling your chain, or there lucky, either way I have tried every single way.. every diff DO2 torrent, and crack combo, nothing works, my advice is don't waist your time trying, and wait for the decrypter, it should not take that long."
+,Klimt_Westwood,2011-03-09T21:13Z,"@toto621
+
+Thanks for the Signature Edition link!
+
+Now we can continue camping here it the faint hope someone is actually working on the decrypter.
+
+I'd like to start the game with everything loaded and working."
+,deadman_uk,2011-03-09T21:18Z,"Guys, can anyone tell me how it works?
+
+i tryed everything i guess
+
+as anyone got it working?"
+,232323,2011-03-09T21:47Z,"IT IS NOT WORKING FFS!
+I wonder if mental retardation could be healed?"
+,bighouse5,2011-03-09T21:48Z,"Its not working yet, just wait for DLC crack."
+,DimDima,2011-03-09T21:50Z,"@deadman_uk
+It doesn't work, for now."
+,Kronical4,2011-03-09T22:02Z,"@232323
+
+You have some issues bro, I think you should go back on your happy pills."
+,Kronical4,2011-03-09T22:13Z,The Signature Edition was uploaded here by Shadowhawke - http://thepiratebay.org/torrent/6230797/Dragon_Age_2_Signature_Edition_DLC
+,jbanic,2011-03-09T22:35Z,Check this out http://www.dl4all.com/games/698130-dragon-age-ii-2011pcmulti2repack-3dlchighres-texturecrack-thetareloadedsoundtracksave-generator-by-ultra-.html
+,uroshuchiha92,2011-03-09T22:56Z,"Kronical4
+Thanks a lot.Can't wait for the decrypter :D"
+,inbox_,2011-03-09T23:18Z,@jbanic have tried to dl that pack? it says smth bout the dlc shits .. 
+,inbox_,2011-03-09T23:22Z,"btw till they re done with the dlc crack i may have finished the game :P
+ .. i mean...   :(
+
+ps. fck cant decide who should i keep in the pt.
+
+Fenris is so cool,, varric too.. prolly sebastian..
+but those bitches are so ugly damn it... specially  queen of uglyness is Aveline.. jeez she looks like Conan's sister ffs "
+,premiado,2011-03-09T23:54Z,Anyone has any luck porting over blood dragon amour over to DA2?
+,fiftynine,2011-03-09T23:57Z,"@inbox_
+uh, you have sebastian already? isn't he a dlc character? how did you unlock him? sorry, from your statement i'm not sure whether you have him already or not.
+
+i've played 30+ hours already, majority of them are side quests. nothing really interesting as far as main story goes, so don't shy away from playing the game ^^
+"
+,inbox_,2011-03-10T00:21Z,"@fiftynine sorry dude,, i dont have seb as u see i stated ""prolly sebastian"" i ment probably seb-is going to be cool char ..
+
+btw has any1 tried that link of jbanic , it has a huge pack of torrent download , we can uncheck everything xept the dlc dycripter/cracker wtf is that "
+,loganv14,2011-03-10T00:27Z,"You don't need a decrypter just do as follows:
+1. Download torrent
+2. Install both DLCs
+3. Go to where ever you installed them to and right click on manifest.xml and click edit using notepad.
+4. Change requiresauthorization=""1""  to requiresauthorization=""0""
+5. Delete MID=""200"" leaving just one space between Bioware=""1"" and requiresauthorization=""0""
+6. Save, close, play
+Hope this helped! :) "
+,caewyr,2011-03-10T00:36Z,Madness
+,yes201,2011-03-10T00:50Z,"@loganv14
+
+As repeatedly said, that does not work. All that does is make it show up in the game's Downloadable Content menu as installed. It doesn't allow you to actually recruit the characters, get the items, or play the missions in-game."
+,luto516,2011-03-10T00:50Z,"K guys stop it.. Just because u managed to removed the unauthorized label doesnt mean it is working.
+
+Please actually test it in game before saying something works. Like actually go into the emporium. 
+
+As of now it does not work. Anyone who says so is misinformed or lying. "
+,misior.,2011-03-10T01:30Z,"There is a russian decrypter, but it's work in progress. All unlocks work, but as for Emporium and Exiled Prince.. Not so much. And it's in russian ofc. I'd propably just give it a couple more hours. ;)"
+,toto621,2011-03-10T01:35Z,"I tried the russian DLC activator version 6, it didn't deypted DLCs but the ""bonus unlocker"" button worked a bit, it unlocked 4 items (belt+lion sword+lion shield+tome), here is the download link : 
+rghost . net/4702354?key=54e5837839bb69f6fba854865214cff0"
+,planescaped,2011-03-10T01:35Z,"Shame it doesn't work.
+
+I bought the game and got the emporium.
+
+I fuck no am I shelling out anything for DLC. Especially day 1 DLC.
+
+I truly hate DLC. I still want it though."
+,misior.,2011-03-10T01:41Z,I got all unlocks i was missing.
+,toto621,2011-03-10T02:32Z,"After some try, all 18 bonus items were unlocked using the russian activator, pretty good, now we just have to wait for decrypter :)"
+,yic17,2011-03-10T02:46Z,"@misior which button do you click? left or right?
+
+for me, it's all ??????????? ..."
+,toto621,2011-03-10T03:00Z,"There is a quick howto in english here with pictures : 
+tehparadox . com/forum/f43/%5Bmu-hf-fs-dl%5Ddragon-age-ii-exiled-prince-dlc-iblackemporium-dlc-1917715/index5.html"
+,Fooooook,2011-03-10T03:03Z,"Just wanted to say that the activator I used earlier didn't unlock the DLC but only some of the bonus items.
+
+Someone on NFOHUMP has managed to unlock the DLC using an activator though so hopefully we'll have something here soon."
+,misior.,2011-03-10T03:23Z,@yic17 it's the left ones..
+,kaliver,2011-03-10T04:03Z,"media 
+
+fire . c.om /?5bsm49ek91319go
+
+for the dlc unlocker"
+,luto516,2011-03-10T04:32Z,"thanks that dycrypter worked for black emporium and exiled prince. 
+
+it doesnt work for signature edition tho."
+,Helicees,2011-03-10T04:33Z,hmm
+,Helicees,2011-03-10T04:35Z,"dl *dot*
+dropbox *dot*
+com *slash*
+u *slash*
+7849 *slash*
+daokg *slash*
+DragonAge2DLC *slash*
+deda2drm.zip 
+
+DLC decrypter and Item unlocker."
+,misior.,2011-03-10T04:44Z,the one posted by kalvier - looks to me like renamed da:o decrypter..
+,misior.,2011-03-10T04:51Z,I stand corrected. It really works for exiled prince and emporium.
+,EvilCorporateWhore,2011-03-10T05:20Z,"@kaliver
+
+Do you need to register to EA, or have an account to get these DLC's to work?"
+,yic17,2011-03-10T05:25Z,Thanks kaliver. that worked! Got both DLCs now =)
+,EvilCorporateWhore,2011-03-10T06:38Z,How do we get to the Black Emporium? Or just check if it's installed properly? It says it's loaded in the 'Down-loadable Content' but how do we check it in world?
+,yic17,2011-03-10T07:06Z,@EvilCorporateWhore I think you need to login to your EA or DA account for any newly installed DLC to activate.
+,yic17,2011-03-10T07:07Z,"@EvilCorporateWhore also, once installed properly, you will get a new quest message telling you to check your home. read the message and the place will appear."
+,reeche999,2011-03-10T07:15Z,Can someone post step by step instructions on how to unlock from that kaliver post? I tried it and it didn't work for me
+,reeche999,2011-03-10T07:24Z,Never mind. I figured it out. I was running the exe files instead of the bat files. 
+,kaz050,2011-03-10T07:31Z,ya wtf is up with that i got the 4 items unlocked and the dlc added when i go home i see the box but cant click on that damn thing i try going out and comeing back  in nothing
+,EvilCorporateWhore,2011-03-10T07:55Z,"@reeche999
+
+""Never mind. I figured it out. I was running the exe files instead of the bat files. ""
+
+Oh, FFS. That's what i was doing, too. lmao. Thanks a lot for posting that, reeche... i probably never woulda figured that out.
+
+It's working now, i'm at the emporium. Thanks guys."
+,azzaload,2011-03-10T08:12Z,"it does not seem to work with me i run the decrypter as admin since i have dragon age 2 installed in program files
+
+it says this in the decrypters command window
+
+'deda2drm.exe' is not recognized as an internal or external command,
+operable program or batch file.
+
+pretty much 80% of people will install to program files"
+,sheikh22,2011-03-10T08:19Z,i love how the uploaders directions go from 1. 3. 4. 5. 6. Play the game. lol his directions are extremely confusing can somenone tell me how to get this working? i dont know what to do with the DLC's in the prime folders
+,misior.,2011-03-10T08:21Z,@azzaload You need to run the *.bat file with deda2drm.exe in the same dirrectory..
+,uroshuchiha92,2011-03-10T08:43Z,kaliver thanks.Atm I am in black emporium.I also saw the quest mark for sabastian in hightown.I will check it later need to go to school now.But the fact that I am in the black emporium means its working.I also got some tome in my delivery chest that game me 2 points to attribute.
+,Rucklier,2011-03-10T08:43Z,"ok so first the decrypter said: 'deda2drm.exe' is not recognized as an internal or external command,
+operable program or batch file.
+
+now its saying: invalid DLC. 
+can anybody help me out?"
+,azzaload,2011-03-10T08:55Z,"@misior yeah dude i am still getting the same issue so heh ill wait for a more straight forward way of unlocking it atm it just is not working for me, iv rechecked multiple times too"
+,Eazy G,2011-03-10T09:07Z,"just reinstalled in other than program files and decrypt works
+
+
+btw whats wrong with installing in programfiles?
+
+''if you did something silly
+      like installing to Program Files you'll....''"
+,fiftynine,2011-03-10T09:12Z,"i just ran decrypt_dlc.bat and nothing else, and now i have the DLC. i'm lucky, i guess? o_O
+
+install the prince and emporium DLCs first then copy/overwrite manifest files to their respective folders. download unlocker posted by kaliver, and run decrypt_dlc.bat.
+
+as per other comments, the decrypter won't work with the signature edition."
+,Rakaija,2011-03-10T09:34Z,This stuff's great; but anyone hear anything on Ser Isaac's armor dlc being cracked?
+,yes201,2011-03-10T09:41Z,"Got the Exiled Prince and the Black Emporium to activate and work right. However, I'm having trouble with unlocking the special items. I put the unlockables.gba into the override folder and they're showing up as unlocked in the 'Extras - Unlockable' menu, but they aren't showing up in-game. Can anyone help?"
+,JackalX8,2011-03-10T10:05Z,"For people who've installed in program files:
+run cmd.exe (as administrator) and start the .bat files that way."
+,StewPadazzo,2011-03-10T10:14Z,"For those who installed DA2 to program files and get the "".erf"" file error; I managed to get it to work by granting myself full security access (DA2 install dir under properties). After this, run bat as administrator and it works. "
+,nick.nider,2011-03-10T10:20Z,"decrypter definitly working, unlocks all items and dlc..."
+,sraza666,2011-03-10T10:20Z,"i've found decrypter here...
+haven't tried it yet coz didn't finish dled da2 reloaded yet... maybe u guys could try....
+n plz response
+
+rlsbb
+.com/2011/03/10/dragon-age-2-dlc-p2p/"
+,sraza666,2011-03-10T10:22Z,"it also give signature edition dlc....
+so plz give a try n tell me if it work or not...."
+,Furious1964,2011-03-10T10:39Z,Anyone have the code for the Sir issac armor?
+,smth024,2011-03-10T11:03Z,"@ sraza666 : not working for me, tho it's the same one as was posted before - deda2drm.exe
+What worked for me is that russian test-version thing (also posted couple pages before), but it worked only for signature stuff. Still can't make prince or emporium working... 
+Is there a difference where from you run those files? Maybe they should be inside each addon folder or something?"
+,cyrax200,2011-03-10T11:26Z,"i used the deda2drm.exe
+and it worked i got all the Dlc and the unlockables.
+
+Proff.
+
+http://img856.imageshack.us/i/screenshot2011031011230.jpg/
+"
+,sraza666,2011-03-10T11:29Z,"@smth024
+did u follow all the instruction in here??
+http://
+paste2
+.org/p/1293678"
+,mich2806,2011-03-10T11:30Z,"hey boys and girls, this torrent seems to have it all (3 dlcs + unlocks all items):
+
+thepiratebay
+.org/torrent/6232326/Dragon.Age.2.DLC-P2P
+
+seems legit, will try it out after work"
+,fiftynine,2011-03-10T11:34Z,"this torrent activated the emporium and prince DLCs for me. 
+
+i got the signature DLC activator from the link posted by ""sraza666"", and it DID work. 
+
+had a bit of problem not being able to click on the chest to retrieve the items, but i just went to another place and went back to the hawke's home and i got it ^^"
+,fiftynine,2011-03-10T11:37Z,"oh, now i got it. don't forget to COPY ""unlockables.gda"" to Documents\BioWare\Dragon Age 2\packages\core\override.
+
+it was the reason i wasn't able to click on the chest to retrieve the items"
+,smth024,2011-03-10T12:31Z,"@sraza666:
+well yeah, except i already had DA2 installed in custom location, cracked, and all the epics already activated, so i moved to ""run decrypt_dlc.bat"" part. 
+
+But really, that's all the same i did before and i don't see a point to uninstall the game and do it all again unless someone can confirm it can help (i.e. who had it same way before and made it work after reinstalling). "
+,Tulizx,2011-03-10T13:03Z,"@ Kaliver thanks, DLC work in game now."
+,Kimovec,2011-03-10T13:23Z,"Hey, its working, great!!! Thanks
+Just one question? Where I find the Exiled Prince? THX)))"
+,Kimovec,2011-03-10T13:29Z,"THX, working, but can somebody tell me, where I find th exiled prince? thx:)"
+,uroshuchiha92,2011-03-10T14:08Z,Exiled prince is in front of the chantry in Kirkwall.At chantry board
+,adam1240,2011-03-10T14:53Z,"Does anyone know where the prince is? i don't the 2 quests.. finding him, killing them money, in 3-4 different areas, now hes in chantry? will he come to me later on in the main plot? or how do i get him to join me
+
+i believe there's another 2-3 more quets to do, but i cannot find them
+
+i'm still behind the Deep Roads bit.. getting money etc.
+
+HELP?:O"
+,adam1240,2011-03-10T14:54Z,"Does anyone know where the prince is? i don't the 2 quests.. finding him, killing them money, in 3-4 different areas, now hes in chantry? will he come to me later on in the main plot? or how do i get him to join me
+
+i believe there's another 2-3 more quets to do, but i cannot find them
+
+i'm still behind the Deep Roads bit.. getting money "
+,Kimovec,2011-03-10T14:57Z,"well, I do everything, but, should I do somtehing like activation for DLC? I already install them boath, I use the decrypter, and thats all, or I need to do something more? Please som advice, thx:)"
+,HappySword,2011-03-10T15:40Z,The decrypter posted by Kaliver works for me.
+,Kimovec,2011-03-10T15:55Z,HappySword: How did u do that? can you describe me it like I am a child? Please?:)
+,Kimovec,2011-03-10T16:04Z,Well I did this: I installes Dragon Age 2 reloaded anc cracked it. Then I donwload this torrent and installed both DLC and overwrite both manifests. Then I dowload descrypter from Kaliver and run decrypt_dlc.bat. It told me than descryption was succesfull. Is that all? Cause I´can´t find exiled prince and black emporium. Some advice?? BIG THX
+,kaz050,2011-03-10T16:39Z,well it works i got all dlc and 10 extrz unlocked but the other 5 are still locked 
+,kaz050,2011-03-10T17:12Z,ok i got all of them working but i cant get Signature Edition items too unlock anyone got any idea? 
+,uroshuchiha92,2011-03-10T17:14Z,DLCs work for me but I can't get the signature pack items
+,Tulizx,2011-03-10T19:14Z,"1. Download torrent
+2. Install both DLCs
+3. Replace manifest.xml
+4. Create an account for Dragon Age
+5. Download: rghost . net/4702354?key=54e5837839bb69f6fba854865214cff0
+
+Instructions: tehparadox . com/forum/f43/%5Bmu-hf-fs-dl%5Ddragon-age-ii-exiled-prince-dlc-iblackemporium-dlc-1917715/index5.html
+-Thanks to toto621
+6. Download: media 
+
+fire . c.om /?5bsm49ek91319go
+7 RUN THE .BAT FILES NOT THE .EXE
+-Thanks to Kaliver
+
+Note: For Step 4 and 5 I'm not sure if you need an account or not, I created a gibberish account, went to step 5 and used it in the e-mail field.
+
+I did all this and its working fine now.
+Quest for Exiled Prince should be in Hightown during the way
+Black emporium should be accesible in the map
+Items should be accisible in Galem's house"
+,Kalops,2011-03-10T20:16Z,"fire . c.om /?5bsm49ek91319go  doesn't exist, or is there are removal of the period? Does someone know why or could upload the file on fileserve?"
+,uroshuchiha92,2011-03-10T21:09Z,@Kalops remove the . in c.om
+,uroshuchiha92,2011-03-10T21:13Z,"oh and you need to add media before fire
+The link on step 5 that Tulizx posted doesn't work for me."
+,uroshuchiha92,2011-03-10T21:33Z,"@Tulizx
+I tried all that and still nothing...the items are shown in Extras as unlocked but they are not in the chest.If someone knows how to unlocked the items on CLONEDVD version please post."
+,EvilCorporateWhore,2011-03-10T22:05Z,"
+Here's the decrypter(and activator?)... from the links above, just hosted on a site you don't have to hack the hell out of to post. lol
+
+Activator: http://filesmelt.com/dl/DA2_DLC_Activator-TEST_VERSION_6.exe
+Decrypter: http://filesmelt.com/dl/deda2drm.zip
+
+I'm exactly sure what the acvitator is for, i just decided to host it as well... but running the BAT files in the decrypter should work."
+,EvilCorporateWhore,2011-03-10T22:13Z,"Sorry, above should say ""i'm *not* exactly sure...""
+
+
+@uroshuchiha92
+
+I believe i am using the clonedvd file... well, i used the MDX torrent that was taken down on the 6th. Anyway, all i did was as most have done:
+
+1. installed both DLC's
+2. copied the manifests to their appropriate folders & overwrote originals
+3. created and logged into EA account and checked they were installed in-game(they were)
+4. closed the game and ran the deda2drm BAT file to activate
+5. ran the game again and checked my messages at home
+
+worked for me... i'm not sure if creating an EA account had anything to do with it, worth a shot i guess."
+,Brockrock,2011-03-10T22:15Z,"Same problem as Azzaload, 
+
+""'deda2drm.exe' is not recognized as an internal or external command,
+operable program or batch file.""
+
+I have fiddled around with the decryptor and the russian program, I have managed to unlock a lot of ""premium content"" items, but what I really am trying to get is the black emporium.  If you can, please help me out.  I have the Clone dvd version, it didn't install to program files I don't think :S"
+,uroshuchiha92,2011-03-10T22:16Z,"Ok its my forth post and I know that I am spamming but I finally unlocked the signature pack items with
+thepiratebay
+.
+org
+/
+torrent
+/
+6232599
+I am using CLONEDVD version.Actually I am missing Ring of Whispers but meh 17 items out of 18."
+,Brockrock,2011-03-10T22:19Z,"Nevermind! disregard my last post.  Just had to go to properties on the deda2drm.exe file, and always run as admin, then run the decrypt_dlc.bat file."
+,tat.zizzy,2011-03-10T22:22Z,works perfect! thanx for the upload
+,crohnick,2011-03-10T22:24Z,put media in front of fire
+,fiftynine,2011-03-10T22:40Z,"anyone here who has finished the game, or at least did the uncle's quest with the gem? i received a letter about it in hawke's home, but when i try to accept it, it says ""connection to server lost"" or something like that. i can still play the game, though, but it seems to be a quest of some sort that fails to activate.
+
+sorry if it's kind of cryptic, i don't want to give anyone spoilers."
+,fiftynine,2011-03-10T22:42Z,uhm.. i mean the letter after finishing the uncle's quest with the gem. sorry for the double post.
+,Pirate102,2011-03-10T23:25Z,"OK IF YOUR HAVING TROUBLE WITH THE CLONEDVD FOR PRINCE AND BLACK EMP HERE IS A ANSWER.
+
+K so i was breaking my head trying to figure out why the hell i was only getting the unlockable items and not the Prince and Empoirum.
+
+Everytime i ran the batch file without admin it would say Dragone age 2 is running jerk or try running in admin. I would run in Admin and get this isnt a windows bla bla bla.
+
+So before all this i had moved my the electronic arts folder in the clonedvd to Program file x86. I run windows 64bit. 
+
+Right Click your Electronic Arts folder. Go to the Security Tab. Make sure everything (like the name of your PC) has full control. I noticed mine didn't so i had to give it full control. After this run the batch file and Boom it should work."
+,Pirate102,2011-03-10T23:27Z,the batch file is from the dlc unlcoker in case your wondering
+,Yisaa,2011-03-10T23:27Z,"Anyone managed to install this with the CloneDVD version? Telling me I need to install Dragon Age II first. Same happened with the high res textures and I got round that by opening the .exe with 7z and extracting manually to DA2 directory. Wouldn't work with these.
+
+Also, why is it only 45mb? Is this actually working?"
+,uroshuchiha92,2011-03-10T23:44Z,"@Yisaa
+Yeah its working.About that thing when it tells you that the game is not installed go to bin_ship and DragonAge2Config.Go to Repair and click everything.Then the DLCs will see the game as installed."
+,itzmike,2011-03-11T00:21Z,"i cannot install the dlcs it says ""the black emprium/the exiled prince requires to have dragon age 2 installed first please install dragon age 2"" i do have dragon age installed....."
+,itzmike,2011-03-11T00:24Z,nvm ty uroshuchiha92 
+,rjike21,2011-03-11T00:56Z,help cant edit manifest say access denied. any one know why
+,kaz050,2011-03-11T01:07Z,"@uroshuchiha92
+thanks bro worked out great for me"
+,darktengu,2011-03-11T02:17Z,i also downloaded the clonedvd but for some reason i can find the installdir/ addin folder anywhere
+,yoognr1,2011-03-11T03:14Z,"ive tried everything it just does not work. in game it says installed, but i see no new mail or any emporium on map.
+
+also when running deda2drm.bat it says that its not recognized.
+and cant edit manifest  in da2_prc_seb say access denied. any one know why
+can i get some help ?
+"
+,EvilCorporateWhore,2011-03-11T05:14Z,"@yoognr1
+
+Sounds like you don't have admin rights on your computer. Can you not right click and choose run as administrator?
+
+Although, i'm not sure that will help you with the manifest file. What are you trying to open it with? If Notepad doesn't work, try Notepad ++, everyone should be using that to edit game files anyway."
+,forestiscool69,2011-03-11T05:20Z,"i have downloaded everything but when i run the .bet file in the decrypter i get all these .erf errors and says are you running the game you jerk, i need some help someone"
+,EvilCorporateWhore,2011-03-11T05:39Z,"@forestiscool69
+
+lmao. Alright, well... stupid question i guess, but *were* you running the game when u tried activating the BAT file?"
+,forestiscool69,2011-03-11T05:41Z,"@StewPadazzo
+how did you fix the .erf thing ?"
+,rebirf,2011-03-11T06:20Z,"I've done everything and the black emporium shows up on my map but when I try to go to it it says ""Unable to load area"" and takes me out to the main menu"
+,rebirf,2011-03-11T06:25Z,Nevermind. In case someone else has the problem I just restarted the game after I tried to enter and it allowed me to accept the quests from the letters and enter the emporium. Good luck!
+,paulboscu,2011-03-11T07:00Z,"if this doesn't work try this dlc decrypter, it's legit and it worked for me 
+
+http://thepiratebay.org/torrent/6231928"
+,uroshuchiha92,2011-03-11T07:51Z,"@paulboscu
+That one worked for me.Its a version 2 decrypter.I used it yesterday and it unlocked everything.I mean the items I had the DLCs working earlier.Actually I am missing only one item Ring of Whispers.I have everything else.Even signature edition items.Now I only need to find a way to get that ring."
+,smth024,2011-03-11T08:22Z,"Ok, just found something that worked for me. (note: had problems with activation BE/EP dlc's, nothing helped, even tho deda2drm had no errors running)
+
+This: 
+rg 
+host. 
+ru 
+/4707562/private/dd595eb6aa865d4dff22b94533358f4c
+
+- is the same russian activator, but RC1 (not test6) version. It includes already installed 3 dlc, you just need to copy it first over whatever you installed before. Then run the thing, click first button - and it's done.
+
+If you were having problems before like i did, try this. "
+,forestiscool69,2011-03-11T09:25Z,"@EvilCorporateWhore
+
+haha no i wasnt, idk what would cause that though!!!
+
+does anyone know how to fix the .erf thing when you run the .bat decrypter "
+,Kimovec,2011-03-11T10:35Z,"well, i try everything, the dlc are installed, iteams are unlocked but nothing works, shame////"
+,Yisaa,2011-03-11T11:39Z,"@uroshuchiha92 Thanks man, worked just fine after doing that."
+,nick.nider,2011-03-11T11:46Z,this game is awsome :)
+,mrbigg69,2011-03-11T18:09Z,"When ever I open the ""deda2drm"" file ( even as admin) it closes the second it opens. I'm not quite sure what I'm doing wrong. And i get the .erf JERK error from the bat. .
+(My Dragon Age 2 install dir has full admin) "
+[V],matimike,2011-03-12T12:47Z,works thanks
+,Mesko2,2011-03-12T14:22Z,"I need help.
+
+
+I installed DLCs, copy and pasted manifest, game is saying they are installed but nothing happens in game.
+
+No message for any DLC and no mission to talk with Sebastian.
+
+
+How do I fix it?"
+,Mesko2,2011-03-12T14:25Z,"Never mind, just read comment that I need decrypter like with DA:O and ME2 DLCs."
+,Ricman0108,2011-03-12T21:20Z,"So i run the deda2drm.exe as admin then it pops up and closes and then i run th decrypt_dlc.bat and it tells me if im running the game (which im not) and and it tells me i may need to run deda2arm as admin (which i am) 
+and i have the requiresauthorization to 0 
+help anyone? "
+,AngrySmurf,2011-03-13T01:25Z,"I'm not even sure where to begin to use the decrypter.
+all it gives me are just errors and sometimes it just flash the command prompt
+can anyone make a step by step directions?"
+,dark_illusions,2011-03-13T06:08Z,"if you cant get this to work since im seeing ppl haveing issues get this 1
+http://thepiratebay.org/torrent/6235703/Dragon_Age_2_DLC_Pack_-illiria
+i downloaded it its all in 1 exe file and works great no installing 50 things its all in that 1 file im seeding it for awhyle if anyone gets it"
+,dark_illusions,2011-03-13T06:10Z,"if this dlc set wont work for you try this 1
+http://thepiratebay.org/torrent/6235703/Dragon_Age_2_DLC_Pack_-illiria its all in the 1 exe file together works perfect im seeding it for a bit as well"
+,dark_illusions,2011-03-13T06:11Z,"if this dlc set wont work for you try this 1
+http://thepiratebay.org/torrent/6235703/Dragon_Age_2_DLC_Pack_-illiria its all in the 1 exe file together works perfect im seeding it for a bit as well"
+,dark_illusions,2011-03-13T06:12Z,wow sry bout the triple post my internet explorer was messn up and wouldnt post so had to swich to firefox and guess it went crazy
+,Skullaaa,2011-03-15T22:11Z,"ALMOST everything is working here. I got the Emporium and the prince. I got the book of atributes, the book of poems(+2500XP) and that present of +5gold. How do I make the dragon armor and other itens on the game? They already show on my menu as unlocked"
+,diogosousa,2011-03-16T04:57Z,"Can anyone? I can not, what should I do exactly?"
+,Bert_Pow,2011-03-16T16:23Z,not working
+,diogosousa,2011-03-16T20:29Z,"impoverisx
+i cant download"
+,Mandabar,2011-03-16T21:04Z,"New all in one dlc/crack/patch.
+
+Just tested it, it works!
+
+Everything unlocked except Ring of Whispers. From what I've heard that one is still not possible to get. Yet =)
+
+http://thepiratebay.org/torrent/6243153/Dragon_Age_2_DLC_Pack_(with_Patch_1.01)_-illiria"
+,diogosousa,2011-03-16T21:08Z,i trying but nothing :S
+,Misir88,2011-03-17T17:52Z,Cheeeers mandabar :D
+,kariesw,2011-03-18T06:06Z,works perfectly
+,thirdeye-,2011-03-18T14:37Z,"http://thepiratebay.org/torrent/6232599/
+
+decrypter
+
+its a process, so take the time to do the steps right"
+,grimreaper217,2011-03-23T22:11Z,"If you do as the instructions says itll work perfectly
+Thanks for great torrent :)"
+,gmcr,2011-05-08T14:43Z,"HOW I GOT THIS SHIT TO WORK
+=======================
+
+1. Install DLC
+
+2. Open manifest.mxl with notepad++
+
+3. Replace the line RequiresAuthorization=""1"" with RequiresAuthorization=""0""
+
+4. Play
+
+Note: This will not work if you are using the regular notepad, you have to use notepad++.
+Also, I'm using the reloaded version if that makes any difference.
+
+Confirmed to be working for the Black Emporium and Exiled Prince DLC"
+,gmcr,2011-05-08T14:46Z,Derp.. I meant manifest.xml not manifest.mxl
+,hack_sparrow,2011-06-02T22:56Z,"thnx a lot extremezone -- ,   FOR THOSE HAVING PROBLEMS WITH INSTALLATION  ---(this is a DETAILED explaination  on how to install the  patches --- simply 
+ 1-----copy the folders to the main dragon age II folder 
+2---  open the installer in each one of the two folders , install the  packs  (the useable (.exe) file) just keep doing next ,etc,..
+3--- the  go to the  addins folder in the main DAII folder(directory) , you'll see that there are two folders made ,.. da2_prc_one AND da2_prc_seb ,, 
+4---go back to the  downloaded folders  COPy the MAINFEST file from the black emperor folder and paste it into the da2_prc_one folder AND Replace the old MANIFEST FILE --
+5---- now copy the manifest file in the EXILED PRINCE   folder  and paste it in  the da2_prc_seb folder and replace the old mainfest file --  and you Should be  done --  
+ hope it helped --   :3"
+,Prissyponts,2011-07-02T20:56Z,"Me and my brother downloaded the torrent about an hour ago, and followed the instructions. But it seems it won't work, I don't receive the letter. Can someone help me?"
+,reambonanzajan,2011-11-02T03:46Z,This is how i did to make it work. Run the dragon age launcher as administrator then install the 2 DLCs. After that just follow hack_sparrow's instruction on copying the manifest.

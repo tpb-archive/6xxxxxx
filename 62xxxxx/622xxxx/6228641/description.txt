@@ -1,0 +1,117 @@
+This is the full pre-release text of the book \\\"The Joy of Clojure\\\" by Michael Fogus and Chris Houser. The text has been extracted to an HTML file with some loss of formatting, but the book is still very readable.
+
+
+
+TABLE OF CONTENTS
+
+         1. Foreword (to be announced)
+         2. Acknowledgments
+         3. Introduction
+         4. Notational Conventions
+         5. Getting Clojure
+         6. Road Map
+      FOUNDATIONS
+         1. Clojure Philosophy
+               1. The Clojure Way
+               2. Why a(nother) Lisp?
+               3. Functional Programming
+               4. Why Clojure is Not Especially Object-oriented
+               5. Summary
+         2. Drinking From the Clojure Firehose
+               1. Scalars
+               2. Putting Things Together: Collections
+               3. Making Things Happen: Functions
+               4. Vars
+               5. Locals, Loops, and Blocks
+               6. Preventing Things from Happening: Quoting
+               7. Leveraging Java via Interop
+               8. Exceptional Circumstances
+               9. Namespaces
+              10. Summary
+         3. Dipping Our Toes Into the Pool
+               1. Truthiness
+               2. nil Pun With Care
+               3. Using Destructuring
+               4. Using the REPL to Experiment
+               5. Summary
+      DATA TYPES
+         3. On Scalars
+               1. Understanding Precision
+               2. Try To Be Rational
+               3. When To Use Keywords
+               4. Symbolic Resolution
+               5. Regular Expressions - The \\\"Second Problem\\\"
+               6. Summary
+         4. Composite Data Types
+               1. Persistence, Sequences, and Complexity
+               2. Vectors: Creating and Using Them in All Their Varieties
+               3. Lists: Clojure\\\'s Code Form Data Structure
+               4. How to Use Persistent Queues
+               5. Persistent Sets
+               6. Thinking in Maps
+               7. Putting It All Together: Finding the Position of Items in a Sequence
+               8. Summary
+      FUNCTIONAL PROGRAMMING
+         5. Being Lazy and Set in Your Ways
+               1. On Immutability
+               2. Designing a Persistent Toy
+               3. On Laziness
+               4. Putting It All Together: A Lazy Quicksort
+               5. Summary
+         6. Functional Programming
+               1. Functions in All Their Forms
+               2. Closures
+               3. Thinking Recursively
+               4. Putting It All Together: A* Pathfinding
+               5. Summary
+      LARGE-SCALE DESIGN
+         7. Macros
+               1. Data is Code is Data
+               2. Defining Control Structures
+               3. Macros Combining Forms
+               4. Using Macros When Changing Forms
+               5. Using Macros to Control Symbolic Resolution Time
+               6. Using Macros to Manage Resources
+               7. Putting It All Together: Macros Returning Functions
+               8. Summary
+         8. Combining Data and Code
+               1. Namespaces
+               2. Exploring Multimethods with the Universal Design Pattern
+               3. Types, Protocols, and Records
+               4. Putting it All Together: A Fluent Builder for Chess Moves
+         9. Java.next
+               1. Generating Objects On the Fly with proxy
+               2. Clojure gen-class and GUI Programming
+               3. Clojure\\\'s Relationship to Java Arrays
+               4. All Clojure Functions Implement...
+               5. Using Clojure Data Structures In Java APIs
+               6. definterface
+               7. Be Wary of Exceptions
+               8. Summary
+        10. Mutation
+               1. Software Transactional Memory with Multiversion Concurrency Control and Snapshot Isolation
+               2. When To Use Refs
+               3. When To Use Agents
+               4. When To Use Atoms
+               5. When To Use Locks
+               6. When To Use Futures
+               7. When To Use Promise and Deliver
+               8. Parallelism
+               9. Vars and Dynamic Binding
+              10. Summary
+      TANGENTIAL CONSIDERATIONS
+        11. Performance
+               1. Type Hints
+               2. Transients
+               3. Chunked Sequences
+               4. Memoization
+               5. Understanding Coersion
+               6. Summary
+        12. Clojure Changes the Way You Think
+               1. DSLs
+               2. Testing
+               3. A Lack of Design Patterns
+               4. Error Handling and Debugging
+               5. Fare Thee Well
+         1. Appendix A: Clojure Style
+         2. Appendix B: Annotated Bibliography

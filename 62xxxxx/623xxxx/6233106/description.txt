@@ -1,0 +1,29 @@
+What is ODIN and what does it do with my system?
+
+ODIN is a new way in activating Windows 7 and Windows Server 2008 R2 as OEM and is not a GRUB based loader or a pure software solution like Chew7. It installs a driver which simulates SLIC 2.1 support for various OEM brands like Acer, Dell or Toshiba etc. On amd64 aka x64 systems this software will also patch ntoskrnl, winload & BCD, otherwise it will not work â€œproperlyâ€.
+
+What are the supported systems?
+
+- Windows 7 Starter x86
+- Windows 7 Home Basic x86
+- Windows 7 Home Basic x64
+- Windows 7 Home Premium x86
+- Windows 7 Home Premium x64
+- Windows 7 Professional x86
+- Windows 7 Professional x64
+- Windows 7 Ultimate x86
+- Windows 7 Ultimate x64
+- Windows Server 2008 R2 Standard
+- Windows Server 2008 R2 Foundation
+- Windows Server 2008 R2 Enterprise
+
+Keep in mind that IA64 is not the same as x64. Which means it is not compatible with Intel Itanium CPUs and therefore must not be installed. ODIN will install the x86 driver if no x64 CPU was found!!!
+
+Do I need ODIN?
+
+Do I need ODIN?
+You need ODIN if one of the following applies to your current situation:
+- Your BIOS has no SLIC table
+- Your BIOS has a SLIC 2.0 table
+
+More info in file

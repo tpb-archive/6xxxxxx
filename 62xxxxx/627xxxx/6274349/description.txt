@@ -1,0 +1,40 @@
+This DVD5 ISO contains the following editions:
+Windows 7 SP1 Starter x86
+Windows 7 SP1 Home Basic x86
+Windows 7 SP1 Home Premium x86
+Windows 7 SP1 Professional x86
+Windows 7 SP1 Enterprise x86
+Windows 7 SP1 Ultimate x86
+
+Windows 7 SP1 Home Basic x64
+Windows 7 SP1 Home Premium x64
+Windows 7 SP1 Professional x64
+Windows 7 SP1 Enterprise x64
+Windows 7 SP1 Ultimate x64
+
+The difference with most other All-In-One versions, is that this version
+also has a 64-bits Recovery Mode, for system recovery. Other All-In-One
+versions are often (read: almost all) based on the 32-bits version, which
+makes it unable to use the Recovery Mode if you're on a 64-bits OS.
+
+For a clean install: boot from ISO and just let the bootmenu timer pass
+(10 sec.). Setup will be started and you can also launch the Recovery Mode for
+a 32-bits OS from there. If you use a 64-bits OS, in the bootmenu choose
+"x64 Recovery Mode" (don't use this for installation!).
+Also with this version it's possible to upgrade from as well a 32-bits OS,
+as a 64-bits OS. Depending on the type of OS you use, the correct setup
+will automatically be started.
+Tested upgrade from Vista SP2 32-bits and 64-bits -> OK.
+NOTE: the "setup64.exe" is not signed, this is correct!
+
+Apart from combining the editions and above described elements, there
+are no modifications. All material is from the original MS ISOs
+(so not activated!). Activation can be done using a OEM or Retail productkey
+(except Enterprise editions). After a clean install or an upgrade, all
+installed files on the disk where Windows is installed are 100% original
+and untouched.
+
+Activation (located in Tools folder of .iso file)
+- mini Activator (1.072 by WZor) for Enterprise editions
+- Windows Loader (1.9.5 by Daz) for the other ones
+

@@ -1,0 +1,296 @@
+User Type,Username,Date,Text
+,sawjonathan1,2011-03-24T10:08Z,"so, is this working?"
+[V],Cyberpiraten,2011-03-24T12:42Z,"Working just fine at my Macbook Pro 13"" You judge. "
+,sawjonathan1,2011-03-24T12:57Z,when i open terminal it asks for apassword...what to do now?
+,sawjonathan1,2011-03-24T12:59Z,"when i enter the pass it says this:
+ is not in the sudoers file.  This incident will be reported."
+,sawjonathan1,2011-03-24T13:02Z, ** (my name) is not in de sudoers file
+[V],Cyberpiraten,2011-03-26T03:46Z,Are you admin? 
+,RyansFeedback4YOU,2011-03-27T18:29Z,Thank You Very Much! Works fine on my MacBook
+,leesgirlrn,2011-03-31T14:42Z,"OMG!! it WORKED!!! thank you SO much!! I've actually bought this program twice, but when my computer crashed, they wouldn't let me re-download - said I had to upgrade for several hundred dollars AGAIN! seriosly???  Thank you Thank you Thank you!"
+,leesgirlrn,2011-03-31T14:43Z,oops-sorry - didn't realize I came to the Mac one- I downloaded the WIN one!
+,ragefresh,2011-04-02T20:19Z,"ok everything went smoothly till, i got the part where I open the terminal to past the text that begins with Sudo. when i past that part and press enter it tells me to be careful using sude command and to enter a password. when I try to enter a password, it simply won't let me type! what the heck? HELPP!!?!?!"
+,hlitani,2011-04-02T23:15Z,"Thanks! that did work wonderfully! 
+
+Ragefresh: Just type it anyway, and if it doesn't take, change permission in the sudoers file to include yourself. To do that you have to to 'apple shift G' in the finder then '/etc/' in the box. in the etc folder you will find the sudoers file, get info on it and + yourself in the permissions. if your user password is nothing than it won't take either. Good luck"
+,elmaestrojoe,2011-04-05T02:25Z,"hlitani: I'm having the same problem as ragefresh, we copy the first Sudo into terminal then text edit prompts us for a password but we don't have permission to write, I found the file in finder and clicked get info like you said but we can't give ourselves access because write permission is greyed out. Under sharing & permissions it lists user capabilities:   system :read & write  wheel: read only__ everyone: read only - all greyed out.  this happened to me with photoshop too, anyone help please?"
+,WA3d,2011-04-05T18:01Z,"the same thing happened with me ! in the very beginning I got the same message. when I tried to make it I lost the data which suppose to be written in Terminal and it's empty right now ! I just don't know what to do.
+this is so hard, is there any activator or any one ho really can help ?"
+,boid3,2011-04-06T02:59Z,so can I delete the dmg now?
+,calorax,2011-04-08T14:05Z,"I'm also having trouble, I first had problems like RadeFresh but then i followed hlitani's advice and now terminal only says this :
+
+sudo: /etc/sudoers is mode 0640, should be 0440
+Segmentation fault
+
+Any ideas?"
+,ftsystem2,2011-04-10T21:17Z,"so SLOW!! please seed, im getting between 20 -50 kbps all day :( im gona be seeding for a couple weeks after so anybody with a good connection please seed i can upload at around 4.5mps cmon!"
+,Cab12,2011-04-13T11:10Z,"Hi, I click download and I am getting a .torrent file which my Mac is asking which Application to run in.
+Your installation instructions mention the .dmg, which I am not getting. Help please?"
+,Cab12,2011-04-13T11:14Z,"Oh, also, I am wondering whether Plugins will run correctly on this?"
+,Skatefilm,2011-04-16T05:26Z,"PLZ HELP: This is working perfectly, however; this is my first experience with this and everything and I NEED YOUR HELP WITH THIS: So i did everything and pasted that code in terminal, pasted that long thing in textedit, BUT, when i saved it, i opened after effects, and Its asks for a serial number. How would i find a serial number ""inside the torrent?"" i already looked at the torrent (in bittorrent) and could not find it. PLEASE HELP QUICKLY! And also, what does that textedit thing do when you save it? thanks, 
+alejandro"
+[V],Cyberpiraten,2011-04-16T16:55Z,"The ""Activation Blocker"" simply block's adobe so that they can't check the serial. (With other words, then the serials will work) 
+
+Serials will be inside the ""iNSTRUCTIONS"" file, i always leave my serials inside it. 
+
+With Regards 
+-CyberPiraten"
+,firstcut,2011-04-17T20:37Z,"I mistakenly ran the program after installation before I had opened terminal and pasted the codes. Yes, what you explicitly mentioned not to do. Where do I go from here? Should I uninstall and start from scratch?"
+[V],Cyberpiraten,2011-04-18T01:32Z,"If you did use the ""trial"" then you just close it, run the terminal and all that stuff, then reopen when done and enter a serial :) Should work just fine! 
+
+Good luck :) "
+,tunk4life,2011-04-18T09:52Z,it wont even let me download this at all can u plaza help?
+[V],Cyberpiraten,2011-04-18T15:28Z,You need to explain more specific...
+,firstcut,2011-04-18T21:04Z,I just wanted to make sure I wasn't jeopardizing the privacy of the serial numbers by having inputted them before I ran terminal. Everything works great. You are truly the shit. 
+,tunk4life,2011-04-19T00:29Z,DO I NEED A PROGRAM OR SUMTHIN TO DOWNLOAD A TORRENT BECUZ SAFARI WONT ALLOW ME TO DO IT
+,tunk4life,2011-04-19T00:38Z,DO I NEED A PROGRAM TO DOWNLOAD A TORRENT BECUZ SAFARI WONT LET ME DO IT
+[V],Cyberpiraten,2011-04-19T18:20Z,"@firstcut
+Thanks :) Hope it work't out for ya! :) 
+
+@tunk4life 
+Dude, if you can't download a torrent then your one dumb kid.... 
+
+Download the torrent > open the torrent in utrorrent > Waith while its downloading > When it's done you let it seed for a while, and your torrent is finish :)  
+
+There you go, one piece excellent information! 
+
+with regards, cyberpiraten :) "
+,tunk4life,2011-04-19T20:33Z,EVEN THO THAT WAS HIGHLY DISRESPECTFUL AND EVERYONE DOESNT KNO HOW TO DO  THINGS LIKE THIS IN THA WORLD I DO APPRECIATE THE HELP THANX BRO
+[V],Cyberpiraten,2011-04-20T00:06Z,"I ment no harm tho, I'm sorry :) 
+What's up with the caps lock?
+
+Thanks btw! :) 
+Peace bro! "
+,tunk4life,2011-04-20T04:36Z,didn't mean to have it on. Ok i down loaded it and when i install it asks for a serial number. now what?
+,tunk4life,2011-04-20T04:39Z,i got it my bad
+,tunk4life,2011-04-20T04:43Z,but one question what is the terminal app?
+[V],Cyberpiraten,2011-04-20T18:56Z,"By default it provides a bash shell, which allows the OS X user to visually interact with the system core.
+
+Allmost the same as CMD in windows :) "
+,tunk4life,2011-04-20T22:49Z,OK so how do i exactly do steps 4 and 5 because i think i did it wrong. I went in to documents and typed terminal and went from there wasn't exactly sure what to do with step 5 so i put it in tha sam place as 4. and now i opened the program and its not plain any audio and it plays only like 10 sec. of video.
+[V],Cyberpiraten,2011-04-21T04:06Z,"Take a look here: http://bayimg.com/gAHPEAadk
+
+Paste it in to the Terminal as i have done on the picture, hit enter, write your password (it won't show that your writing), hit enter again, the ""host file"" will now show up, then you enter all that stuff into the hosts, now save pressing CMD+S. 
+
+It's not so difficult.. Now open AE, then use one of the serials and your Adone After Effects will be full activated. 
+
+Good luck! :) "
+,samftw,2011-04-21T08:03Z,"worked perfectly, many thanks!"
+,tunk4life,2011-04-21T18:59Z,Bro im losing faith i've dine everything u said and i still cant get this shit to work!!!! i don't kno what to do. i guess i am dumb.
+,tunk4life,2011-04-21T19:35Z,and im haven trouble wit premiere to i ran it as a pretrial im on tha part where u open it wit the whole flush thing how do i do that and when i do it how do i kno that it worked? and when i open premiere pro do i put the serial in now or do i continue as trial?
+,tunk4life,2011-04-21T19:44Z,and i cant deactivate premiere pro
+,tunk4life,2011-04-21T20:15Z,well i got premiere still cant get this one. sorry to be a bug bro.
+[V],Cyberpiraten,2011-04-22T00:11Z,"Screw the flush and the deactivate stuff, it's ok if it didn't work :) As long as the serial work't then your fine! :) And yeah you put the serial in when you run it the first time ;)"
+,tunk4life,2011-04-22T01:58Z,i had already got premiere to work beef u hit me back im still stuck on after effects
+[V],Cyberpiraten,2011-04-22T04:58Z,If you allready had fixed the host's you don't need to do it again... What's the problem? 
+,redeiws,2011-04-25T16:38Z,"TY, Everything works great, download and serials are good.
+
+!!!!!! One problem. I had CS4 installed and now with the installation of AE CS5 I see an Adobe Updater Icon in my Mac toolbar. Is this something I should be worrying about? OR does changing the host database disable exactly this?"
+,redeiws,2011-04-25T17:09Z,"I opened the Adobe Application Manager and disallowed Adobe to check for updates and then refused to update all of the CS5 applications.
+
+Just to make sure, it would be a foolish move to try and update AE using this crack, amiright?"
+,tunk4life,2011-04-26T04:59Z,tha host works for both is that what ur saying??? and if it is i don't kno why it still isn't working.
+[V],Cyberpiraten,2011-04-26T07:18Z,"@redeiws
+Hehe, yeah ^^, that won't work ;)
+
+@tunk4life
+yes, maby your not a admin user? "
+,tunk4life,2011-04-26T19:39Z,yes i am its my mac and i set it up myself. 
+,avi473,2011-05-02T04:32Z,"@Cyberpiraten
+
+Thanks alot!!!
+works so fuckin smoothly man!!
+
+just one question.
+I did the all the Terminal stuff you put in the instructions, is that for like so that Adobe cannot track us for our serial??? 
+
+again thanks bro!"
+[V],Cyberpiraten,2011-05-03T00:33Z,"I got the same shit, ready to upload. GTFO."
+[V],Cyberpiraten,2011-05-03T00:35Z,"@avi473
+That, and so they can't check if it's valid or not. (if it's blocked or not) 
+"
+[V],Cyberpiraten,2011-05-03T00:38Z,"@avi473
+That, and so they can't check if it's valid. (blocked or not) 
+
+Thanks btw :) "
+,hcobb,2011-05-03T10:46Z,"hi im using a mac, when i try to open the program it says: 'after effects warning: unable to create font.' 
+then i press okay in the pop up and another one comes up saying 'after effects cant continue: unexpected faliure during application startup' 
+and then it closes :( please help!  "
+,knocturnal69,2011-05-06T06:29Z,hey thanks your torrents are amazing just one question i downloaded and did everything you said except i typed in the serial before i did the terminal thing instead of typing in the serial after doing the whole terminal thing does that matter?
+,knocturnal69,2011-05-06T06:41Z,well i deaactivated and typed in a different serial number just in case thank you very much man your a genius
+,m0ep,2011-05-09T20:24Z,"what are the sudo and the following text used for or what do they change?
+im not familiar to that topic so a detailed explanation would be nice ;)"
+,biggie01,2011-05-10T18:22Z,"Anyone try this to disable Adobe from checking for updates? 
+
+
+Machine-wide disablement
+To disable access to updates for all users on a given machine, administrators can create an admin preference file. (This file disables access to updates both from the Help > Updates menu, as well as automatic update checks.) Create a plain-text file named AdobeUpdaterAdminPrefs.dat with the following contents:
+
+
+
+
+
+
+
+	1
+
+
+
+Put the file in the following location:
+
+Mac OS	/Library/Application Support/Adobe/AAMUpdaterInventory/1.0/AdobeUpdaterAdminPrefs.dat 
+Windows XP and Higher	 C:\Program files\common files\adobe\AAMUpdaterInventory\1.0\AdobeUpdaterAdminPrefs.dat 
+Windows XP and higher (64-bit)	 C:\Program files(x86)\common files\adobe\AAMUpdaterInventory\1.0\AdobeUpdaterAdminPrefs.dat 
+Note: This will also prevent administrators from checking for updates and installing updates through that update check. This is easily dealt with by simply renaming the AdobeUpdaterAdminPrefs.dat file, running the update check and installation with the Adobe Application Manager, then restoring the file to it's original name.
+
+Alternatively, with the system wide update disablement in place, administrators can install updates by downloading them from http://www.adobe.com/downloads/updates. "
+,foreheadface,2011-05-10T18:23Z,"I followed your instructions, but no where has come up where i can enter a serial code. will it still be ok? "
+,NickMan90,2011-05-12T08:58Z,Ok someone i need some help please. I downloaded it and did everything it said to do and i followed the instructions exactly but any time i import a video there is no audio. I dont know if its me and something im doing wrong in adobe after effects or if its something wrong that i did in the installation can someone help please?
+,dollaadministration,2011-05-14T21:20Z,Worked great for me
+,xReal_FuRioUz,2011-05-15T23:29Z,is this free to update?
+,TNHTechnology,2011-05-16T12:59Z,can i update????
+,Nick31313,2011-05-17T04:36Z,Great Upload! everything works great
+[V],Cyberpiraten,2011-05-17T15:32Z,"If you're gonna update then you must download the update here, http://www.adobe.com/downloads/updates. 
+Othervise you can't download the update throught AE cause we blocked the Adobe servers. 
+
+Enjoy.
+
+Btw thanks for the great comments :)"
+,rachb73,2011-05-25T11:14Z,"Huge thank you, will definitely continue to support this one by seeding it for a long time. Instructions and follow up comments have been excellent : )"
+,HappyHippys,2011-05-26T14:45Z,PLEASE HELP. IM NOT GETTING ANY AUDIO AT ALL? NO VIDEO AUDIO OR MP3'S???? DANG PLEASE HELP PLEASEPLEASEASEASEAEASE
+,codism,2011-06-02T08:22Z,"@Cyberpiraten 
+When i get to Options. what should i uncheck? or should i just not uncheck them. (is everthing checked useful?)"
+,adampwndu,2011-06-12T04:16Z,i cant find the serial
+,blankesp,2011-06-13T20:55Z,"I keep getting an error after I close out AE & eject my external (I'm running all this off my external), saying cannot open try uninstall reinstalling. When It says install in the directions then put the serial code in later, does this mean install the trial or are the steps wrong? "
+,knA7ySz,2011-06-29T23:01Z,"Thanks so much man!  One question, if I buy the CS5.5 upgrade update on top of this software, do you think it will work? "
+,Arztut,2011-07-02T19:27Z,"When I try to save the hosts file, it says I don't have permission. Help me out?"
+,JimmyNeutron7S,2011-07-04T10:27Z,I love you.
+,mezzam,2011-07-05T12:21Z,Thank you good sir!
+,2118,2011-07-07T16:33Z,"HI, SORRY BUT NEW AT THIS, WHERE OR HOW DO I FIND THE 'TERMINAL' FILE?"
+,lcquintana,2011-07-13T23:46Z,"@Cyberpiraten 
+
+I already blocked my hosts before installing other adobe junk. Do i need to do it again?
+
+Thnx buy the way men, great help!
+
+Keep on Seeding!"
+,kingr930,2011-07-19T11:55Z,When I try to import After Effects crashes. What can I do?
+,kingr930,2011-07-19T16:31Z,"When I try to import, After Effects crashes. What's the problem?"
+,Loay.aj97,2011-07-22T11:41Z,"@Cyberpiraten , i did everything u said , step by step .. But adobe keeps asking for a fuckin serial code ... if i start the program without internet connection it works fine , with internet it asks for a serial code .
+
+Shouldnt the text u gave us block ADOBE ??
+Answer ASAP !"
+,jgm1490,2011-07-24T17:57Z,"hello cyberpiraten, first let me say your torrents are flawless i used to have them on 3 imacs (adobe ps, ai and ae CS5 + final cut). 
+thing is i just upgraded to os x lion and it all went to heeeeell! i uninstalled AE and tried to install it again using the same instruccions i have used before. Terminal wont open hosts, this is the message i get after i paste the hosts command:
+TextEdit[1988:7917] PersistentUI: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts
+and thats all nothing else happens. Do you know anything that could solve this? 
+
+thankyou very much. "
+,jgm1490,2011-07-24T18:01Z,ps  @Cyberpiraten saludos desde MĂŠxico :)
+,jgm1490,2011-07-25T00:56Z,"it has worked now by reentering serials, but theres trouble because it asks you several times..
+
+anyways hope not to many snow leopard to lion users have a bad time cause of this. "
+,miamidolphins23,2011-08-09T05:29Z,thanks a ton for this also do you suppose you could put up adobe photoshop elements 9 editor? if not its fine if so yippee. thanks
+,razzer007,2011-08-13T12:53Z,"this seemed like a great upload but could you please upload a x32
+That woul be great Thanks"
+,razzer007,2011-08-13T12:53Z,"this seemed like a great upload but could you please upload a x32
+That woul be great Thanks"
+,fortinbuff,2011-08-15T01:04Z,YOU THE MAN! I've been looking for this everywhere. Thanks and I WILL leave this up for seeding!
+,Enigmatrix,2011-09-01T04:09Z,"Thanks a mill, mate! Will the fact that I blocked adobe from connecting to my machine affect either installation or function? Whether this works or not, your work is much appreciated!"
+,Pushin,2011-09-05T04:57Z,"@Cyberpiraten 
+
+Thank you SO much. I made an account just to thank you, bro. I've downloaded After Effects and Final Cut Pro X from you and they both work great. You've saved me so much money and I owe you. I don't understand how all these people have so much trouble downloading your torrents. I simply followed your instructions and had no problems. 
+
+Any chance of getting After Effects CS 5.5 for Mac anytime soon?
+
+Once again, thanks bro. "
+,3rd.1,2011-09-05T13:29Z,Thx man! Awesome -> iiiiiiiHHhhhhaaaaaaaaaaaa..
+,myskoxe,2011-09-08T21:41Z,"U rock.
+
+Any chance we will see the 5.5 any time soon. I
+m dying to try out the smooth effect!!
+
+Thanx!"
+,lewissn,2011-09-25T13:32Z,"hi, is there something different to write in terminal for lion users because the one in the instructions doesn't work for me, thanks"
+,zoeyspal,2011-09-26T22:26Z,"@Cyberpiraten 
+Thanks so much for all the shit you put up!!! your the best guy on pirate bay and probaly the whole torrent world
+!!
+THANKSSSS!"
+,theashley4,2011-11-28T01:28Z,Thanks a lot man
+,SourDee,2011-11-29T21:06Z,can't get this to work with lion. Get stuck at entering terminal command. plz help.
+,skooter1,2012-01-06T03:04Z,when I paste sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts in to Terminal I keep getting this message can you please help me : 2012-01-06 02:11:19.334 TextEdit[1418:9d07] NSTrackPersistentURLs: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts (/etc/hosts)
+,powers905,2012-01-12T02:34Z,"FOR ANY AND ALL LION USERS ON MAC!!!!!!!!
+
+AS FAR AS PASTING THE INFO INTO TERMINAL, DON""T DO IT!!!!!!!
+OPEN FINDER THEN GO TO THE TOP TOOLBAR OR WHATEVER AND CLICK GO
+THEN SELECT GO TO FOLDER
+ENTER /private
+ONCE DONE GO TO FILE etc
+THEN LOOK FOR THE FILE THAT JUST SAYS hosts
+THEN ENTER THE STUFF IN BETWEEN THE APPROPRIATE NUMBERS.
+IF  YOU HAVE SOME PASSWORD LOCK YOU MAY NEED TO AUTHENTICATE IT!!!
+ONCE DONE RESTART YOUR MAC AND IT WILL WORK FINE!!!!!!!!!!!!! :) HOORAY!"
+,sunshyn7,2012-02-14T17:02Z,"As always, CyberP, you are the man. Much love!"
+,Kulemarcello,2012-02-23T13:59Z,"Why does my computer say, that the command that you told us to copy & paste into the terminal, could do malicious damage to my computer?"
+,nickjd22,2012-03-01T07:44Z,"i pasted that in the terminal but then it said this:
+
+sudo: /etc/sudoers is mode 0666, should be 0440
+Segmentation fault
+
+and idk what that means and then what and where to paste the next part in i need like step my step help"
+,penguihns,2012-03-08T15:57Z,It works! Thank you so much. 
+,penguihns,2012-03-11T15:56Z,@Cyberpiraten  doesn't seem to work on Lion. It doesn't accept the sudo path on terminal. Any ideas?
+,sibaroo,2012-03-14T05:12Z,"If anyone has problems editing a host file check out this page for a simple step by step: http://www.switchingtomac.com/tutorials/how-to-edit-the-hosts-file-in-os-x/
+
+Do the DNS flush at the end.
+
+works like a charm"
+,dingy14,2012-03-14T23:30Z,"Hi all,
+Was using this fine for about 2 weeks, now it's not opening and i'm getting the following error.  Tried re installing and no luck.  Any help please?
+
+Last log message was:    /Library/Application Support/Adobe/Common/dynamiclink/CS5/dynamiclinkmanager.app"
+,cyberuser2295,2012-03-15T23:14Z,What exactly is our password for the terminal? also i am signed in as admin. Is it the password for the admin account?
+,JethroN,2012-04-06T23:33Z,"To open the hosts file in Mac OS Lion, open the Terminal Application and type:
+
+sudo nano /private/etc/hosts
+
+hit enter
+
+type your password (if prompted)
+
+hit enter
+
+do Step 5 in INSTRCTiONS.rtf
+
+for Step 6: When youâre done, press control-o to save the file. You will see a prompt at the bottom of the screen that reads:
+
+File Name to Write: /private/etc/hosts
+
+Hit Enter to save the file in this location then press control-x to exit the nano text editor.
+
+Once the hosts file has been edited, you need to flush the DNS cache for the changes to take affect. To do this, run the following command:
+
+$ dscacheutil -flushcache
+
+continue with step 7 in INSTRCTiONS.rtf"
+,lee111pro,2012-04-08T12:02Z,"Friends! Please help!!!!! I'm new on Mac... Have a Lion one. I followed your instructions: 1.Run the dmg. .. but then I can't find  ""Adobe_After_Effects_Install.dmg"" only some pdf files and folder Adobe AE CS5 - there is file Install.app..... What I have to do???   "
+,CHillCali,2012-05-02T04:56Z,"When I initially ran the program after instillation it worked just fine but the second time I opened it it crashed and gave me this
+
+After Effects Alert
+
+Last log message was:    /Library/Application Support/Adobe/Common/dynamiclink/CS5/dynamiclinkmanager.app
+. 
+
+And its been doing this ever since. I tried reinstalling but it did not work. Any Suggestions?"
+,grantmans,2012-05-10T01:43Z,@Cyberpiraten The serial numbers arent showing up on my computer what is one that i could use?
+,jameses,2012-05-10T10:36Z,"works perfect. but when your typing in your password you need to remember that you cant see it, just type it and press enter. Thanks again mate."
+,OnlyOneKenobi,2012-05-14T01:29Z,"Awesome effort.  Followed very easy-to-use instructions and works perfectly so far.  As other posters have said already, at the password stage in terminal your typing is invisible, just type it in and hit enter, all will become clear.  Thank you Cyberpiraten!"
+,BetsyZ,2012-06-03T10:16Z,Can't find the Adobe_After_Effects_Install.dmg in the torrent I downloaded... HELP !!
+,TheAmogha,2012-06-12T21:55Z,"hey :)
+i did everything u said in the instructions but every time i open up after effects, it tells me that the serial number i put in is wrong and i have to put in another one, I'm running out of serial numbers :P,
+please tell me way should i do/have i done anything wrong?, at the moment i have uninstalled it and am starting from scratch
+ANY HELP WOULD BE GREATLY APPRECIATED :)
+pls reply ASAP :)"
+,Justmetoo,2012-06-22T08:53Z,"Thank you so much my German Cyberpiraten....I have been using your upload of Photoshop CS5 since you uploaded it here. Now this completes my package perfectly. I installed it following your instructions although they were somewhat outdated since some of us upgraded to Lion. But with the comment posted by JethroN I was able to access my host file and to my surprise the information I needed to insert into the host file as per your instructions was already there. Of course this is due to the fact I had already installed Photoshop CS5 with your blocker instructions inserted in the host file so I did not have to do it again. When I finally launched After Effects it did not even ask me for the serial and away we go all sails up on to new and exiting pirate adventures.
+
+Many many thanks Cyberpiraten.....Long live thepiratebay and its members."

@@ -1,0 +1,13 @@
+1. Navigate to C:\WINDOWS\system32\drivers\etc\ and replace the file hosts with the new one
+2. Install the trial version of Adobe CS5 Photoshop ( download the original from http://www.adobe.com/go/tryphotoshopextended )
+
+if you have 64 bit windows installed
+
+    3. Replace the file C:\Program Files\Adobe\Adobe Photoshop CS5 (64 Bit)\amtlib.dll with /64bit - Patched/amtlib.dll
+    4 (optional). Replace the file C:\Program Files (x86)\Adobe\Adobe Photoshop CS5\amtlib.dll with the /32bit - Patched/amtlib.dll
+
+else 
+
+    3. Replace the file C:\Program Files\Adobe\Adobe Photoshop CS5\amtlib.dll with the /32bit - Patched/amtlib.dll
+
+DONE!

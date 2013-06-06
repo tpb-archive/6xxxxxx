@@ -1,0 +1,77 @@
+User Type,Username,Date,Text
+,Artist-8,2011-03-08T21:42Z,"Game seems legit. Checked with abgx360 and aside from the fact that there weren't no verified ini when I checked (5 to 6 hours ago), it seems valid. I'll check it again soon and post the log! Thanks for the upload!!"
+,Artist-8,2011-03-09T14:48Z,"Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+D:\Dragon Age 2 Consolastope\dmn-dra2.dvd is valid
+
+Checking Game
+     ISO: ""D:\Dragon Age 2 Consolastope\dmn-dra2.iso""
+     Size: 7838695424 bytes
+     Files in ISO: 4286, Folders in ISO: 120
+     Total bytes used: 6429299270 (88.09%)
+Game appears to have random padding
+
+Checking default.xex
+     Original PE Filename:  default.exe
+     Original PE Timestamp: 2011/01/28 02:37:08
+     Game Name:             Dragon Age II
+     No Avatar Awards
+     Achievements:          50 Achievements totaling 1000 Gamerscore
+     XEX CRC = B1DFA738
+     XEX Media ID: 34931A991293F48B2CBF4841-14F3A730
+
+Region Code: 0xFFFFFFFF
+     Region Free!
+
+Checking SS
+     Timestamp of Authoring: 2011/01/31 00:00:00
+     Timestamp of Mastering: 2011/02/05 01:24:00
+     SS Version: 1
+
+Caution: This SS contains a value (angle 359) that will cause older versions
+of iXtreme to return a detectable bad response! Make sure your drive is flashed
+with iXtreme version 1.4 or newer. Alternatively, you may enable the option to
+adjust angle 359 for compatibility with iXtreme < v1.4
+
+     SS CRC = 5D615D4A (RawSS = 6AF78F6A)
+     SS Media ID: 34931A991293F48B2CBF4841-14F3A730 (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2011/01/31 00:00:00 (matches SS)
+     DMI CRC = 145269FB
+     DMI Media ID: 34931A991293F48B2CBF4841-14F3A730 (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = E18BC70B
+PFI matches known data (10th - 11th Wave)
+
+Video partition found
+     Video is zero padded
+     Video CRC = BA47FD12 (V0 = DD2BCA74, V1 = DFEFC0BF)
+Video partition matches known data (11th Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+     Looking for 5D615D4AB1DFA738.ini in the online verified database
+     5D615D4AB1DFA738.ini was downloaded successfully
+
+     Using 5D615D4AB1DFA738.ini (343 bytes)
+     Video CRC matches
+     V0    CRC matches
+     V1    CRC matches
+     PFI   CRC matches
+     DMI   CRC matches
+     SS    CRC matches
+     Xex   CRC matches
+     AnyDVD style corruption was not detected
+     Game CRC = B19992F1 (matches)
+
+All CRCs match
+Verification was successful!
+
+SplitVid is valid
+L1 Video is zero padded"

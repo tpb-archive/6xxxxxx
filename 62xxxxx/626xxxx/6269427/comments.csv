@@ -1,0 +1,30 @@
+User Type,Username,Date,Text
+,tpb2009Nov13jb,2011-03-25T05:18Z,"These are the latest Rybka chess engines.
+
+Please seed!"
+,Petervanloo,2011-03-27T12:50Z,"these are ok if i have only a single processor?
+What means 'deep' ? same as 'MP' ?
+Can I use a 'deep' engine? Please help me......!!..!!..!!
+
+Peter the ...? (Best, or..)"
+,tpb2009Nov13jb,2011-03-27T17:15Z,"these are ok if i have only a single processor?
+-Yes, it works OK for me with 1 processor.
+
+What means 'deep'?
+-It works with multiple processors or processors with multiple cores.
+
+same as 'MP'?
+-I haven't seen that acronym, but... Yes, if MP=Multiple Processors.
+
+Can I use a 'deep' engine?
+-Sure, but you need a GUI that allows 'deep' analysis if you want it to use more than 1 processor/core."
+,DARKBLACK3,2011-04-02T03:32Z,deep means multi processor if you only have 1 core use houdini
+,tpb2009Nov13jb,2011-04-10T02:38Z,Thanks for the info! Houdini is at cruxis.com
+,Jovebilal,2011-05-12T08:32Z,"how does it work.. when i dl, it gives me a dos screen after i click. how to use it?"
+,Konobarcek,2011-05-15T12:43Z,"Great engine, but there is one iritating thing about this engine.. When there is position where is mate in in 1or few moves, it's still calculating positions instead of instantly giving the mate.. If anyone has a solution for this ""bug"", i would appreciate it.."
+,tpb2009Nov13jb,2011-05-19T12:58Z,"Jovebilal - Read the instructions. These are only engines. you'll need a graphical user interface (GUI) such as Arena, Winboard, Shredder, etc.
+Konobarcek - I hadn't noticed and haven't tried it, so can't confirm. But author would have to fix that, so let him know."
+,hameerabbasi,2011-07-17T12:02Z,"@Konobarcek:
+Engines analyze every possible move, even those where you don't have a mate. Try playing with the options to get what you want, although it probably isn't a good idea."
+,tpb2009Nov13jb,2012-01-31T19:34Z,"Konobarcek:
+I've recently played around with these engines and can confirm that Rybka keeps analyzing even if mate or the perfect solution via tablebases is found. That's characteristic of Rybka. Other engines may behave differently. Some of them stop, but some keep analyzing like Rybka does. I haven't played around with different GUI's so don't know if that can affect it, but I doubt it."

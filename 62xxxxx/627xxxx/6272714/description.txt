@@ -1,0 +1,57 @@
+ConvertXtoDVD (formerly DivXtoDVD) is a software to convert and burn your videos to DVD. With ConvertXtoDVD and in a few clicks you can backup your movies to DVD playable on any home DVD player. ConvertXtoDVD, our AVI to DVD converter software, has included a conversion advisor tool that will automatically apply the best quality settings based on the videos you have added to your project. Create DVDs from various video formats to watch them on TV with any DVD player. ConvertXtoDVD has been designed so you do not need to think about anything. Add 1 or more video files, insert a blank DVD and your videos will be converted and burnt automatically on to DVD with chapters and an elegant DVD menu. No external codecs needed. Best quality with the fastest conversions possible is the way ConvertXtoDVD is developed to meet the needs of both beginner and advanced users. With the settings below the computer geek can set his or her favorite video settings: 
+
+â€¢ 2pass encoding
+â€¢ Multiple encoding profiles
+â€¢ Multi-core processor optimized
+â€¢ Video/Audio/Subtitle synchronisation
+â€¢ Various audio output formats
+â€¢ Audio amplifier
+â€¢ Padding and cropping
+â€¢ De-interlacing
+â€¢ Image resize filters (lanczos, linear, cubic, etc . . .)
+
+
+FEATURES:
+â€¢ Convert video to DVD and watch on any DVD player
+â€¢ Convert Avi to DVD, DivX to DVD, WMV to DVD, RM to DVD, YouTube to DVD etc. . . .
+â€¢ Burn automatically to DVD after video conversion
+â€¢ Excellentand fast converter for users of all levels
+â€¢ Create menus with videos and music
+â€¢ Preview window
+â€¢ Add chapters - automatic or custom
+â€¢ Subtitle files supported
+â€¢ Convert NTSC to PAL and vice-versa
+â€¢ Merge function - like for CD1 + CD2
+â€¢ Multilingual support
+â€¢ Works with 32 and 64bits edition of Windows XP, Vista, 7
+
+Output settings:
+Convert and burn AVI to DVD and such videos to DVDvideo standard format (vob files) to guarantee compatibility with all home DVD players. Use a blank DVD or double layer DVD and the VSO burning engine included in ConvertXtoDVD will take care of the rest for you. You get quality burning results especially when using quality disks like with the brands: Verbatim, Taiyo Yuden or Sony.
+â€¢ Compatible with any disks (see supported format tab)
+â€¢ ISO output available
+â€¢ NTSC + PAL region formats
+â€¢ 16:9 widescreen + 4:3 fullscreen
+â€¢ Burn multiple copies
+â€¢ VSO burning engine included
+â€¢ Various SD resolutions available
+
+Changes in ConvertXtoDVD 4.1.11.351:
+* subtitle resizing issues
+* choppy playback - bad frame rate detection issues
+* conversion freezing issues
+* interface (toolbars) update
+- 0003730: [Bug] whening chaning menu I access violation in a non reproducable manner (wesson) - resolved.
+- 0003908: [Bug] regression no audio on test validation file (wesson) - resolved.
+- 0004246: [Information] when a conversion is paused - the settings name should be changed to resume (wesson) - resolved.
+- 0003194: [Crash] Access Violation when deleting an item (wesson) - resolved.
+- 0003862: [Bug] regression ts file not supported in version 4, did work in version 2 (wesson) - resolved.
+- 0004166: [Information] chapter edition (must press enter twice to validate change) (wesson) - resolved.
+- 0004167: [Feature Request] have + add file icon always showing in merge window (wesson) - resolved.
+- 0002901: [Bug] video does not play "smooth' after conversion / Video format AVC (wesson) - resolved.
+- 0004212: [Bug] subtitle not correctly resized in ts file (wesson) - resolved.
+- 0004231: [Crash] conversion freezes at 90% (wesson) - resolved.
+- 0004221: [Bug] Garbled audio, going too fast (wesson) - resolved.
+- 0004239: [Bug] ConvertXtoDVD only converts part of a .flv file while AVS completes conversion of whole file (wesson) - resolved.
+- 0004243: [Bug] subtitles included in MKV, too low to be seen on screen - only a problem when converting in NTSC (wesson) - resolved.
+- 0004247: [Bug] image is distorted after conversion (wesson) - resolved.
+- 0004182: [Unsupported file/stream format] Avi doesn't load: there is no decodable video stream (wesson) - resolved.

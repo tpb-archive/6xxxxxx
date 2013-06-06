@@ -1,0 +1,18 @@
+In order to use these files you first must:
+
+1. Have to have both Age of Kings and The Conquerors installed using the installers off of the CD\'s.
+2. Have the latest updates installed for both Age of Kings and The Conquerors installed. (Version 1.0c for The Conquerors)
+
+Or if you don\'t have exactly that, like say you copied the AoEII folder from a friend and didn\'t install it,
+and you think you\'re smart, you can extract the files using 7zip, and put them where you think they belong.
+
+NOTES:
+
+If the installers don\'t automatically detect where your AoEII installtion is at, that means that an entry that should be in your registry, isn\'t in your registry.
+Not all is lost though, you can always try pointing the installers to the root of your AoEII game directory.
+
+In order for the population mod to work in multiplayer, everyone must have the mod installed. If everyone doesn\'t have it installed,
+you will just end up with \"Out of sync\" errors 30 minutes or so into the game with everyone else mad at you. (Don\'t do that.)
+
+The color fix installer is just a batch script that kills explorer.exe and starts the game. I don\'t know why, but it fixes it, and
+it\'s the only way I know how. If you have Windows XP or earlier, don\'t bother installing this, it wont do you any good.

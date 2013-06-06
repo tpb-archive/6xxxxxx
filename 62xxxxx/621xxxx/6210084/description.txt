@@ -1,0 +1,36 @@
+Just Passing this along PSP Tools to sign/convert iso files to be playable on OFW
+I'll try to make this as easy-to-understand as possible for everybody, so here's the simple facts.
+If you're having problems with the images, right-click and select "View Image"
+1 - Many PSP games can be resigned to play on official firmware (OFW)
+2 - This tool only supports .iso files (remember this, it's important)
+3 - This tool has a hard size limit of 728MB right now (that's the biggest PSN demo to date)
+4 - The games signed this way only play in firmwares 6.31 or HIGHER (at least until Sony decides to block this somehow)
+
+Okay, have you read that? Yes? Good, read it again just to make sure you took it all in. Because now I'll be showing you, step-by-step, how to do this.
+
+First, we have a few games, on the left. As you can see, I've appended their names with their sizes - and Dracula X Chronicles is CLEARLY too large to run through the tool. So we'll just delete it.
+ 
+http://img823.imageshack.us/img823/1747/step1qn.png
+
+
+Okay, so next we'll open one of the games in UMDGen so we can use the XMB Icon properly, and once that's done we rename the game's iso to "np.iso" as pictured.
+ 
+http://img826.imageshack.us/img826/6495/step2pg.png
+
+Okay, we're almost done, just three steps to go! Next, we simply make a folder for the eboot.pbp that's about to be made. Name it something you'll recognize - the game's name is easiest.
+
+Only two steps to go now! It really IS this easy!
+Now, as you can see, I've run fake_np.exe and it's doing its job. This only works when the ISO you're signing meets the requirements I listed at the top of the topic. Did you read them? Now would be a good time to go RE-read them.
+ 
+http://img171.imageshack.us/img171/1200/step3a.png
+
+
+Okay, after it's loaded the iso file the cmd prompt will show the following, and when it's done it'll close by itself. We're almost done now! You can go ahead and delete the iso and icon files you just used if you want.
+ 
+http://img52.imageshack.us/img52/5131/step3b.png
+
+All that's left is to see if your game plays!
+Stick the eboot.pbp into the folder you made for it, then put it into your ms0:\PSP\GAME\ or ef0:\PSP\GAME\ and try to run it from your XMB!
+If all went well, it'll run great and you just signed a pirated PSP game to run on OFW!
+ 
+http://img809.imageshack.us/img809/3122/step4tn.png

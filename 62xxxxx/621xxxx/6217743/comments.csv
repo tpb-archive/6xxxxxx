@@ -1,0 +1,29 @@
+User Type,Username,Date,Text
+,dkhere,2011-03-05T16:55Z,Dude please put the subtitles too...
+,dkhere,2011-03-05T16:55Z,"Yeah and forgot to say..
+THANKS FOR THE UPLOADS OF TV SHOWS...
+Waiting for Smallville complete series..."
+,thak123,2011-03-08T12:37Z,Hey anyway u can do battlestar gallactica?? rpl plzz
+,petrpan004,2011-03-09T20:40Z,great uploads..small size series torrents..n gud quality..can u tell vich series u gona upload in future??
+,Mickaus,2011-04-09T12:16Z,"Very nice :) although I must admit, I prefer slightly less lossy settings... Quite offen I see new x264 encodes using ancient versions of the encoder, or very much sub-optimal quality settings (such as ME/Subme settings), and when using CRF having it way too high! (lower is better quality).
+
+I think thats one reason why x264 (a h.264 encoder for those that don't know) hasn't become more popular, because even though it has a superior quality vs file size ratio when using the correct settings, the use of improper settings means suboptimal quality, which in turn puts people off.
+
+The great thing about x264 is, with the correct settings, you can get make encodes which are as good as the source in quality, which includes the finer details and background textures that xvid just washes out (unless using an unrealistically high bitrate).  The current x264 versions is 1924.
+
+These are pretty full on settings, but are great for quality:
+
+--crf 20 --open-gop normal --ref 5 --rc-lookahead 80 --bframes 5 --b-adapt 2  --direct auto --subme 10 --trellis 2 --psy-rd 1:0.15 --me umh --aq-mode 2
+
+More conventionally, and not as efficient, but still good results (faster encoding):
+--crf 20 --ref 5 --rc-lookahead 80 --bframes 5 --b-adapt 2  --direct auto --subme 7 --me umh
+
+A crf of 20 is a good value to make reasonable size files but of excellent quality.  --ref 5 reference frames is a realistic balance between usefulness and speed.  -bframes 5 is good for most sources, its the typical maximum consecutive b-frames of most sources.  --b-adapt 2 is definitely desirable, as it allows to take advantage of more and better b-frame placement.  Without this, more than 3 consecutive b-frames are rarely used, and placement may be suboptimal.  With b-adapt 2, the higher the b-frame setting, the slower the encode as it does an active analysis, but a setting of 5 doesn't cause very much of a performance drop."
+,rsuvarna,2011-06-05T22:05Z,great ul man... thanks a lot...
+,test202020,2011-06-10T20:17Z,thanks a lot.
+,pjsmoke,2011-06-29T10:14Z,"These all seem to be DVDrips and all have the same resolution per season - some have 512x384 while others have 576x432. Good quality too.
+
+Well done."
+,pjsmoke,2011-07-13T16:42Z,"The torrent is missing s11e11 High Holidays, but thats it. Unless I missed something?"
+,mater2012,2011-08-03T00:08Z,thanks...pls seed coz getting lots of HASH fails[like 200+]...
+,DadsOf3,2012-05-10T14:51Z,Dear Lord! Please seed! ETA of 8w 4d >.

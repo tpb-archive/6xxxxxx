@@ -1,0 +1,36 @@
+Name 04-04-2011_TV 2 Zebra_LSK-Brann.ts 
+Size 4.969 GB 
+Duration 01:46:58.21 
+Mux type TS Stream 
+
+Video: 
+Encoding MPEG2 VideoStreamID xB1 
+Frame rate 25.00 fps Encoding size 720 x 576 
+Aspect ratio 16:9 Header bit rate 10.000 Mbps 
+VBV buffer 224 KBytes Profile Main@Main 
+Progressive Prog or Int Chroma 4:2:0 
+Bit rate 5.700 Mbps   
+
+Audio Stream: 1 (Primary) 
+Codec MPEG MPEGLayer Layer 2 
+Channels 2.0 Language nor 
+PID xB2 PES Stream Id xC0 
+Bit rate 256 Kbps Sampling rate 48000 
+Sample size 16 bits 
+
+
+Output
+
+Audio frame errors: 2 
+Input Sequence Errors: 5 
+Audio resync frames added: 1 
+TS Video packets:  23665622 
+TS Audio packets:  1337245 
+TS PSI packets:  123046 
+TS Null packets:  0 
+TS MUX Rate (Mbps):  19.20000 
+Video output frames: 160472 
+Audio output frames: 267449 
+Processing time (secs): 1344 
+Processed frames/sec: 119.37 
+Actual Video Bitrate:  5.39 Mbps 

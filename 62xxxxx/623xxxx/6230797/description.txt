@@ -1,0 +1,14 @@
+The signature edition DLC for Dragon age 2
+
+Might of the Sten
+Seeker's Bulwark
+Apostate's Courage
+Adder of Antiva
+Ring of Resilience
+
+Istall the Dlc then go to the Dragon Age 2 install directory(E:\Program Files\Dragon Age 2\addins\da2_pro_col)
+
+then edit the manifest.xml document by opening it with notepad
+delete the mid=203 and change requires authentication=1 to requires authentication=0
+
+WAIT FOR THE DECRYPTER.

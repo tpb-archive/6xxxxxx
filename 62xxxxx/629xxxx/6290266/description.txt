@@ -1,0 +1,64 @@
+Poster:  
+
+Sceneshots:   http://torrentimagehost.com/images/imperiumne.jpg
+
+IMDB:   http://www.imdb.com/title/tt0383790/
+
+General
+Format                           : Matroska
+File size                        : 2.58 GiB
+Duration                         : 3h 11mn
+Overall bit rate                 : 1 924 Kbps
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 16 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 3h 11mn
+Width                            : 720 pixels
+Height                           : 400 pixels
+Display aspect ratio             : 16:9
+Original display aspect ratio    : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : A_AAC
+Duration                         : 3h 11mn
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Title                            : English
+Language                         : English
+
+Text #1
+ID                               : 3
+Format                           : VobSub
+Muxing mode                      : zlib
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Title                            : English
+Language                         : English
+
+Text #2
+ID                               : 4
+Format                           : VobSub
+Muxing mode                      : zlib
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Title                            : French
+Language                         : French
+

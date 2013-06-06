@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,Ingvarlav,2011-09-11T10:24Z,What is the difference between this one and the one which is only 349MB and is also HD?
+,funkingonutz,2012-05-22T16:52Z,"In answering Ingvarlav's question (I just came here, so I see that I'm quite late in answering this):
+
+From what I can tell the differences are mainly:
+
+1)  The other video used xvid encoding, whereas this video used x264 encoding.  From my understanding, x264 yields a better type of encoding/compression, resulting in an over all better image.
+
+Generally, it would seem that x264 (or 'h.264') is the best balance of performance, file size, and image quality for most people these days.  This could be the subject of debate and it is also a matter of individual preferences/needs.
+
+Even within x264, there are settings which can be changed when encoding (ripping) a video, and these settings can affect size and quality changes ...
+
+
+2)  Therefore, part of the size difference could be explained by other settings in the encoding of the video:
+
+For example, the frequency with which keyframes are recorded.  Typically, more keyframes = better over all viewing experience (with some limitations) because the occasional ""crunchy"" parts of the video (jigsaw puzzle pieces that look a bit ""off"") are remedied more quickly as the video plays.  In other words, those fuzzy blocks that occasionally appear in videos will be corrected in a second or two, rather than remaining onscreen for a long time.
+
+Other settings, such as a higher bit-depth of color might have been employed (perhaps a color range involving millions of colors, rather than thousands)
+
+In short:  This is probably a more pleasant copy for viewing, because it uses x264 and squishing an HD video down to 349 MB usually involves some quality trade-offs.
+
+I hope my explanation helps to convey the gist of the differences that might create these two different file sizes.  I am sure there are inaccuracies, because I'm not a 'pro', but hey, I tried my best.  :)"
+,funkingonutz,2012-05-22T16:55Z,"Terribly sorry, I need to publish a small correction to my wording:
+
+""...squishing an HD video **of this length** down to 349 MB usually involves some quality trade-offs.""
+
+(of course a very short HD video might just naturally come in at about 300MB, because of the length of the vid)"

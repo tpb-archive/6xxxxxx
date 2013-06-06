@@ -1,0 +1,31 @@
+User Type,Username,Date,Text
+,bert16,2011-03-24T04:44Z,Let me ask you something. There are sites (such as Demonoid and Bitsoup)) that count how much you upload versus how much you download. What happens if you use a program like this? Do the sites in question go by your login and password or do they identify you by your IP address?
+,DarthBubba,2011-03-24T05:41Z,How does this compare to Peer Block for effectiveness?
+,s807,2011-03-24T18:55Z,"PeerBlock is my friend.
+Wonder if this new one is better"
+,bert16,2011-03-25T03:39Z,Does it slow down your speed as would happen with a proxy server or some other way to mask your IP?
+,bert16,2011-04-01T03:10Z,"No it doesn't slow down your speed, on the contrary when you check the trackers tab in uTorrent there's a whole stack of them with people seeding. I don't think there's a problem either with sites that are picky with uploads, they let you in with your login and password and I think that's how they go by. "
+,some-young-guy,2011-04-17T17:30Z,"Also be mindful of the following scenario,
+
+A legit uploader creates and seeds a torrent on TPB or other site.  Agent of Anti-P2P agency is contracted by various companies to locate pirated copies of a given product, so agent begins his search at all the known hotspots.  He then locates a legit torrent matching the description of the product he was contracted to find.  He begins downloading and there are 1000 seeders and 775 leechers currently with whole or part of the given torrent.  He clicks the Peers tab on the bottom and finds IP addresses and logs them all, then contacts the ISP for each informing them of such and ISP further send out a copyright infringement email that can further lead to prosecution of the client.  Prior to this program, I have received quite a few, but no longer do.
+
+Not saying this is 100% effective, but it has greatly slimmed the odds to my favor.  As stated, I found this on another website and thought TPB members, especially newbies would enjoy such a program as newbs are usually the target of agents as they dont know much."
+,MrElectrifyer,2011-04-18T09:56Z,"Nice upload, but I think you made a little boo boo in your own instructions.
+
+When you run the self extracting archive, it doesn't extract any file to your desktop, it extracts them to
+
+C:\Users\\AppData\Roaming\uTorrent\READ_ME.txt
+
+and the file you are surpose to run is the ""IP filter Âľpdater.bat"" file, after that, keep following the included instractions"
+,MrElectrifyer,2011-04-18T09:57Z,"Nice upload, but I think you made a little boo boo in your own instructions.
+
+When you run the self extracting archive, it doesn't extract any file to your desktop, it extracts them to
+
+C:\Users\USER NAME\AppData\Roaming\uTorrent\READ_ME.txt
+
+and the file you are surpose to run is the ""IP filter Âľpdater.bat"" file, after that, keep following the included instructions"
+,MrElectrifyer,2011-04-18T10:15Z,"Hmm, this torrent IP checking site still detected my correct IP. Guess this doesn't actually do as it claims :(
+
+http://checkmytorrentip.com/#"
+,some-young-guy,2011-05-04T23:52Z,"I guess it is pure coincidence that I no longer receive  copyright infringement emails, and ironically they ceased @ exactly the same time that I loaded this software.
+"

@@ -1,0 +1,77 @@
+            ====================================================  
+                       D I R E C T    A C C E S S   5 . 1   
+                                                                      
+                                  READ.ME   
+                               April 9, 1991   
+                                                                      
+            ====================================================  
+                                                                  
+                           Copyright (c) 1986-91   
+                                         
+                       Fifth Generation Systems, Inc.   
+                          10049 North Reiger Road   
+                        Baton Rouge, LA  70809-4562   
+                               (504) 291-7283   
+                            FAX: (504) 295-3268   
+                            BBS: (504) 295-3344   
+   
+
+This copy of DIRECT ACCESS 5.1 contains some features that are not fully
+described in the documentation.     
+   
+This file contains important information that is intended to supplement the
+User\'s Manual.  Included are descriptions of the following features:   
+
+     1.   Device Driver Installation  
+
+     2.   Usage Tracking of Custom Applications when the Device Driver is 
+          Loaded  
+
+     3.   Disable \"Shelling\" to DOS with Device Driver 
+
+
+Should you have questions, Fifth Generation System\'s technical support staff
+is available by calling 504-291-7283 Monday through Friday 7 AM to 7 PM
+(Central Time).  We hope you enjoy using Direct Access 5.1!  
+ 
+============================================================================
+
+1.   Device Driver Installation (Optional)  
+
+     The Direct Access Network Device Driver must be installed on each    
+     workstation separately using the installation routine INSTLDEV.EXE or  
+     using an editor to modify the CONFIG.SYS file.  After installation, the
+     workstation must be rebooted to activate the Device Driver. 
+    
+
+============================================================================
+
+2.   Usage Tracking of Custom Applications when the Device Driver is Loaded 
+     
+     Two entries will occur in the Usage Tracking Log file for a Custom
+     Application if the Direct Access Network Device Driver is active.  This
+     will not affect the total time recorded for the application because the
+     first entry will have N/A as the total time.  
+
+
+============================================================================
+
+3.   Disable \"Shelling\" to DOS with Device Driver 
+
+     You may want to use the Device Driver to prevent access to DOS by
+     disabling the ability to \"shell\" out of applications.  To prevent
+     shelling, you must do two things: 
+
+     1.   Install the Device Driver as described in the User\'s Manual.
+          Answer \'Yes\' to the question that asks \'Do you wish to activate
+          security?\' 
+
+     2.   For any menu items that have the capability to shell out to DOS,
+          you will need to change one of the option settings. 
+
+          a.   Go to Create/Modify Sub-Menus for the item for which you
+               will disable the \"shell\" function. 
+
+          b.   Press the F8 key. 
+
+          c.   Set the option for \'Disable Control-Break\' to \'Yes\'.

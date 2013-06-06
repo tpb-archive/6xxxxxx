@@ -1,0 +1,31 @@
+StreamReactor allows you to stream media, such as movies directly from usenet.
+
+Official Documentation:
+
+Introduction:
+StreamReactor is a Usenet Streaming Client especially designed for media files. It downloads and extracts media content on-the-fly. So, the media file(s) can be watched almost immediately after the download has been started. The embedded player is based on the powerful VLC media player and handles nearly every audio and video format available. The integrated download client supports SSL Encryption, multiple servers and is supposed to work with every Usenet provider. It can also be used to download non-media content.
+
+Key-Features:
+- On-The-Fly streaming of media content from the usenet
+- Integrated Usenet download client with SSL Encryption and multiple server support
+- Integrated video player (support for almost every format, customizable settings like deinterlacing, video-filters...)
+- Panorama View (four video windows for simultaneous playback)
+- Playlist with multiple functions (e.g. rearranging items, save playback position...)
+- Integrated Web-Browser
+- Integrated NFO-Viewer
+- Integrated RSS Feed Reader with NZB download functionality, Search and Auto-Download of feeds containing a specified search string
+- Integrated Search with NZB download functionality
+- Detailed Server Logging
+- Customizable Shutdown-Timer
+- Support for Stereo, 5.1, 6.1, 7.1 and SPDIF speakers setup
+- (Auto-Repair of damaged archives) coming soon...
+- (Better download-handling of non-video files) coming soon...
+
+
+System Requirements:
+- Windows 7, Vista or XP (32&64 bit systems)
+- .NET Framework 3.5
+- Duo-Core CPU (recommended)
+- Video card with 256 MB Video Ram (recommended) 
+ 
+http://www.streamreactor.com

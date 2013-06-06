@@ -1,0 +1,450 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+
+<title>Dr PC Helpful Downloads. Do Future Repairs Yourself</title>
+<!-- written for advanced PC users
+     by Christopher C. Charles, March 04, 2011     -->  
+
+</head>
+<body BGCOLOR=#000000 TEXT=#EEEEBB LINK=#44DDFF VLINK=#00FF88>
+
+<p>
+<MARQUEE BEHAVIOR=ALTERNATE scrollamount="6">
+<B><font face="Arial,Helvetica" size=+2 color=#FF66FF>
+
+SAVE MONEY:  DO FUTURE REPAIRS YOURSELF!
+</b></font>
+</MARQUEE>
+<hr>
+<B><font face="Arial,Helvetica" size=+2 color=#FF66FF>DR PC Helpful Downloads
+<P>
+Bookmark:  Ctrl + D
+<p>
+<HR>
+<p>
+
+<h1>Deploy BottitNG Images of Windows Vista Ultimate Light</h1>
+<p>
+
+<p>
+<pre>
+
+
+Email me: cccharlz@gmail.com
+Call me:  416 398 3772
+
+Look forward to helping my disciples
+Chris
+March 03, 2011
+</h1>
+
+
+<A HREF="http://thepiratebay.org/torrent/5756706/SUPV32">Deploy BootitNG Images of Win Vista Ultimate 32 Bit</a>
+
+
+Vista Ultimate (6000.vista_rtm.061101-2205) 
+ 
+http://drpcdr.ca
+March 03, 2011
+
+
+Deploy My images of Windows onto PCs (laptops, netbooks or desktops). No activation or produuct keys required!
+
+
+Restoring images wipes everything off the target partition and is NOT for NOOBS!
+
+
+V32LO.img: Vista Lite image needs 80 GB HD, minimum 1 GB RAM, 2+ GHz
+
+
+Apparatus:
+
+1.  Desktop PC
+2.  DVD burner
+3.  Spare 80 GB HD (see above paragraph)
+4.  2 blank CDs: 1 to make BootitNG boot CD, the other Vista Boot Recovery CD 
+
+Software needed:
+
+Torrent client to download torrents, http://www.snapfiles.com/reviews/u-torrent/uTorrent.html
+
+Help.txt  This help file
+
+Almost always, you need to enter bios to change SATA operation from AHCI to ATA, IDE or Auto
+
+Vista Boot Recovery.iso creates Vista Boot Recovery CD.  
+It is NOT a Windows Vista CD and may be necessary for doing boot repairs.
+
+Frequently, the Vista Boot Recovery disk is needed to perform initial boot repairs.
+Frequently the Vista image will not boot on newer vista machines. 
+
+If so you can boot spare HD on a compatable PC. 
+Use regedit to edit registry settings of HKLM/System/CurrentControlSet/Services/
+
+Change the start DWORD values for msahci from 3 to 0 and, pciide 
+from 0 to 3.
+
+Replace spare HD and your boot should succeed.
+
+
+DrPCDr.flv is an 8 minute movie explaning the bootit rescue procedure 
+and how to manage Avast antivirus.
+
+Deploying Windows Vista involves restoring the windows partition onto free space.
+Then the data partition is restored onto the remaining free space. The data partition is
+resized to max capacity of the HD. 
+
+
+The images of Windows were created in 2GB blocks:
+
+Vista Ult Lite: V32LO.img, v32LO.001, V32LO.002. DTV32LO.img is data partition for 6 users
+
+
+METHOD:  
+
+
+***Step 1:  Download bootitng.iso and the image files (.img)  
+
+***Step 2:  Use Bootitng.iso to create BottitNG boot CD and leave it in the drive.
+
+***Step 3:  Shutdown your desktop PC. Remove top cover of case to expose top side of MB.
+
+***Step 4:  Connect spare HD as slave to MB.
+
+***Step 5:  Turn on PC and check bios to make sure CDROM boot device boots before HD.
+
+***Step 6:  Make Spare HD all free space:
+
+Place Bootit CD into DVD drive. Turn off PC then turn it on again
+The PC must be set to boot from CDROM before your HD.
+
+If Bootit does not recognize your mouse then Use [Keyboard] [Shortcuts] in [ ]
+If mouse works with Bootit then ignore whatâ€™s in [ ] brackets
+
+BootIt setup screen appears:
+Click CANCEL [TAB]  [ENTER]
+Click OK to you are now entering maintenance mode [ENTER]
+Click PARTITION WORK   [ALT] + [W] 
+Bootit will automatically list all prtitions on primary HD0
+Carefully select the HD that is your spare (probably HD1).
+Delete all partitions. Your entire spare HD should be all free space.
+
+***Step 7:  Restore OS Partition of windows Vista to spare HD.
+
+If Bootit does not recognize your mouse then Use [Keyboard] [Shortcuts] in [ ]
+If mouse works with Bootit then ignore whatâ€™s in [ ] brackets
+
+Click HD0 [ALT] + [0]
+If HD0 is partitioned then navigate to the partition containing the downloaded image files
+Click Image [ALT] + [i]
+Click restore from file [ALT] + [R]
+Navigate to where you downloaded the image (.img) files
+Click on vista32LO.img
+Click OK [ENTER]
+When it says Paste Pending at bottom of screen:
+Click HD1 (Just below HD0 at top left under work with partitions) [ALT] + [1]
+Click Paste [ALT] + [P]
+
+Bootit will start restoring the image. Do not touch keyboard or mouse.
+
+Click OK to operation completed successfully  [ENTER]
+
+Make sure restored Windows partition is active (bootable)
+
+The boot partition of HD1 you just restored should already be selected.
+Click view MBR [ALT] + [V]
+If the boot partition is not set active then Click Set Active [ALT] + [S]
+Click Apply [ALT] + [P]
+
+If you want to make C:\ larger follow step 9 below. You may resize the Windows partition
+to a larger size. Remember to leave enough space for the data partition which must be equal 
+or greater than the windows partition in order to paste an image of windows onto it.
+
+***Step 8:  Restore Data Partition onto free space below Windows partition
+
+If Bootit does not recognize your mouse then Use [Keyboard] [Shortcuts] in [ ]
+If mouse works with Bootit then ignore whatâ€™s in [ ] brackets
+
+Click HD0 [ALT] + [0]
+If HD0 is partitioned then navigate to the partition containing the downloaded image files
+Click Image [ALT] + [i]
+Click restore from file [ALT] + [R]
+Navigate to where you downloaded the image (.img) files
+Click on xpdata.img or vstadata.img or win7data.img
+Click OK [ENTER]
+When it says Paste Pending at bottom of screen:
+Click HD1 (Just below HD0 at top left under work with partitions) [ALT] + [1]
+Select free space
+Click Paste [ALT] + [P]
+
+Bootit will start restoring the image. Do not touch keyboard or mouse.
+
+Click OK to operation completed successfully  [ENTER]
+
+***Step 9:  Use BootitNG to resize data partition to maximum HD capacity
+
+If Bootit does not recognize your mouse then Use [Keyboard] [Shortcuts] in [ ]
+If mouse works with Bootit then ignore whatâ€™s in [ ] brackets
+
+The data partition you just restored should already be selected 
+Click resize [ALT] + [R]
+Click OK to error check the file system [ENTER]
+Click in new size window [TAB]
+Enter number displayed for max size.  Click OK [ENTER]
+Click continue to warning about data loss [ALT] + [C]
+When resize is completed click close [ENTER]
+
+***Step 10:  Remove BootitNG CD from drive and power off PC.
+
+***Step 11:  Disconnect your HD.  Connect the spare HD as master. Turn on PC.
+
+If your restored images of Vista don't boot then do a boot repair, Step 12
+
+***Step 12:  Use Windows Vista Boot Recovery CD to do boot repair:
+
+Insert Windows Vista Boot Recovery CD 
+Power off PC then power on again.   
+When prompted press any key to boot from Windows CD/DVD
+Wait while Windows DVD loads files
+Click next to Install Windows Vista screen
+Click repair your computer
+Wait while Windows DVD/CD attempts repairs to your Windows
+Click Repair and restart
+
+Step 13:  If image fails to boot set the bios SATA operation to Auto, ATA, IDE or compatability mode
+Almost always, you need to enter bios to change SATA operation from AHCI to ATA, IDE or Auto
+
+Vista Boot Recovery.iso creates Vista Boot Recovery CD.  
+It is NOT a Windows Vista CD and may be necessary for doing a boot repair.
+
+Frequently, the Vista Boot Recovery disk is needed to perform initial boot repairs.
+Frequently the Vista image will not boot on newer vista machines. 
+
+If so you can boot spare HD on a compatable PC. 
+Use regedit to edit registry settings of HKLM/System/CurrentControlSet/Services/
+
+Change the start DWORD values for msahci from 3 to 0 and, pciide 
+from 0 to 3.
+
+Replace spare HD and your boot should succeed.
+
+
+----------------------------------------------------------------------------------------------
+
+***Step 14.  Install MB devices, peripherals and specialized software:
+
+Everest found in stuff >Tools may help you install uninstalled motherboard devices.
+After device manager is perfect proceed to install peripherals like printer and webcam.
+
+Avoid installing drivers and software while connected to the Internet.
+
+***Step 15:  Create an image of the Windows partition for emergency restoration of your Windows.
+Images may also be pasted onto a series of blank DVD or CD disks. The peocedure is similar to
+step 16 below, however, CDz is selected after it says paste pending. Burn images onto blank
+CD-R or DVD-R at 8X speed.  Just follow the screen prompts.
+
+If Bootit does not recognize your mouse then Use [Keyboard] [Shortcuts] in [ ]
+If mouse works with Bootit then ignore whatâ€™s in [ ] brackets
+
+Put BootIt Boot CD Disk in DVD Drive
+BootIt setup screen appears
+Click CANCEL [TAB] [ENTER]
+Click OK to you are entering maintenance mode [ENTER]
+Click PARTITION WORK [ALT] + [W]
+Click on Windows partition (MBR Entry 0)
+Click IMAGE [ALT] + [i]
+When it says paste pending at bottom of screen:
+Click Data Partition [Down Arrow] (New MBR entry 1)
+Click PASTE [ALT] + [P]
+Give the Image File a name, 8 characters max, all 1 word no spaces (default extension is .img)
+Click OK [ENTER]
+Click YES TO VALIDATE [ALT] + [Y]
+
+If it validates then Operation completes
+successfully.
+
+Step 16:  In Emergency, use BootitNG to restore your Windows without losing your files:
+
+If Bootit does not recognize your mouse then Use [Keyboard] [Shortcuts] in [ ]
+If mouse works with Bootit then ignore whatâ€™s in [ ] brackets
+
+1.  Start computer
+2.  Put Boot Restore CD Disk in CDROM Drive
+3.  Restart computer
+BootIt setup screen appears:
+4.  Click CANCEL [TAB]  [ENTER]
+5.  Click OK to you are now entering maintenance mode  [ENTER]
+6.  Click PARTITION WORK   [ALT] + [W]
+7.  Click on Data Partition (new MBR Entry 1 for XP + Vsta, new MBR entry 2, Win7)  [DOWN ARROW]
+8.  Click Image [ALT] + [i]
+9.  Select Restore from file [ALT] + [R]
+10. Click OK [ENTER]
+11. Click on image file created in Step 18 above (scroll to see it) [TAB] [DOWN ARROW]
+12. Click OK at top [ENTER]
+13. When it says paste pending at bottom, 
+Click on Windows partition (MBR Entry 0) [UP ARROW]
+14. Click paste  [ALT] + [P]
+15. Click yes to all data will be destroyed popup  [ALT] + [Y]
+16. Click OK to restoring image popup [ENTER]
+17. Click No to popup about validate [ALT] + [N]
+
+Restoring should progress to successful completion
+Do not touch keyboard or mouse while restoring 
+
+18. Click OK to operation completed successfully [ENTER]
+19  Remove Boot CD from DVD drive
+20. Power off Computer
+21. Power on Computer
+
+--------------------------------------------------------------------------------------------
+If you decided to paste an image on CD or DVD blanks then do the following restore procedure:
+
+Step 17:  Restore image of Windows from Series of CD or DVD Disks
+
+If Bootit does not recognize your mouse then Use [Keyboard] [Shortcuts] in [ ]
+If mouse works with Bootit then ignore whatâ€™s in [ ] brackets
+
+Click CDz [ALT] + [Z]
+Click Image [ALT] + [i]
+Insert image disk 1 DVD into DVD drive.  Click OK [ENTER]
+Bootit will request the last disk of recovery set
+Remove image disk 1 DVD and insert last DVD disk into DVD Drive. Click OK [ENTER]
+Bootit will eject last DVD disk then request disk1 DVD
+Remove last  DVD disk and insert disk 1 DVD into DVD Drive. Click OK [ENTER]
+When it says Paste Pending at bottom of screen:
+Click HD0 (Just above CDz at top left under work with partitions) [ALT] + [0]
+Click on free space [down arrow]
+Click Paste [ALT] + [P]
+
+Bootit will start restoring the DVD image. Do not touch keyboard or mouse.
+
+Bootit will eject disk1 DVD then request disk2 DVD
+Insert disk2 DVD into DVD Drive.  Click OK [ENTER]
+
+Bootit will start restoring the DVD image. Do not touch keyboard or mouse.
+
+Click OK to operation completed successfully  [ENTER]
+Remove Last DVD from DVD drive
+----------------------------------------------------------------------------------------------
+
+Enjoy my disciples!  May the force be with you!
+
+
+What I installed on all Images
+
+1.  Firefox 3.5.3
+2.  Essential PIM
+3.  DVD Decrypter
+4.  DVD Shrink
+5.  Nero 7 *
+6.  Power ISO 4.4 *
+7.  UndercoverXP
+8.  Paltalk
+9.  Skype
+10. Windows Live Messenger
+11. Yahoo Messenger
+12. Fruity Loops 9 *
+13. CCleaner
+14. Hijackthis
+15. IlSystem Wiper
+16. Regseeker
+17. UTorrent
+18. Free YoutubeDownloader
+19. Free Youtube to Mp3 Converter
+20. Camtasia Studio 7 *
+21. 130+ old skool games for PC
+22  Adobe Reader 9.3
+23. PhotoFilter 1.0
+24. XnView
+25. Office 2007 *
+26. Group Mail 5
+27. DVD Region + CSS Free *
+28. Real Player SP
+29. iTunes + QuickTime
+30. VLC Media Player 8.6
+31. Winamp 2.95
+32. ABBY scan tO Office *
+33. Avast Antivirus 6
+34. PC Tools Firewall Plus
+35. SpywareBlaster 4.3
+36. WinPatrol
+37. Diskeeper 2008*
+38. Encrypted FTP
+39. Everest 5 *
+40. Hidownload 7.03 *
+41. IZArc
+42. PhoneTray Free
+43. RegSeeker 1.55
+44. Sequoia View
+45. Kid's Typing Tutor
+46. KP Typing Tutor
+47. DirectX 11
+48. Java 6 Update 13
+49. Latest Flash in IE7 and  in Firefox 3.5.3
+50. Latest ShockWave in IE7 and Firefox 3.5.3
+51. Yet Another Webcam
+52. My Professional Business Cards
+53. Virtual DJ 4.3 *
+54. Wave Pad *
+55. kirans typing tutor
+56. Rapid Typing
+57. Stamina Typing
+58. Ares regular
+59. Step by step tutorials for office and visio
+60. ConvertxtoDVD *
+61. Free Adobe authorware in browsers
+62. SIW, system info
+63. Stellar Phoenix *
+64. English Grammar
+65. Old HTML Tutor
+66. Traktor DJ Studio 3
+67. RKS Fax *
+
+Big Thank you to all the torrent trackers, uploaders, seeders and commentators. 
+Without your help these images would cost more than days of toil.
+Thanks to Pirate Bay,btjunkie, snapfiles, cnet, filehippo, oldversion.com,
+mydigitalife, blackviper, BootitNG, Avast, Driverguide, Google, CUSTOMERS!
+
+NB my disciples:
+
+Beware of Acer Computers.  Acer HDs change the first partition on the HD.  
+Therfore you need to do Step 8 after Step 6.  
+This puts a dummy 2 GB data partition onto the beginning of the HD. 
+Make the dummy partition botable (set active using BootitNG)
+After you restore the dummy partition continue with steps 7 - 11. 
+After step 11 use BootitNG to set active the partition immediately below the
+dummy then boot PC normally. Remember this will shift everything down by 1.
+So MBR Entry 1 becomes MBR Entry 2 and New Volume-2 becomes New Volume-3.
+
+Also beware, if the PC has micro drives then remove the wire from the motherboard first, 
+because the drive letter D: may be assigned to one of the micro drives.
+
+Drive letter D: must be assigned to the data partition.
+Upon first boot the drive letters should be assigned properly. 
+Upon first boot, HD must boot alone without any other hard drives or flash drives attached.
+Then shutdown PC and reconnect micro drives. 
+
+If drive letter D: is not assigned to New Volume partition then:
+
+click start >Right click computer >manage >disk management >
+Right click on DVD or micro drive that has been assigned letter D: >
+Change drive letter and paths >change >
+Click drop down arrow and choose available drive letter >
+Yes to warning about programs may not run correctly >Change New Volume to D:
+
+Good Luck my disciples! 
+
+May the force be with you!
+
+Please post some comments
+
+You may email me at cccharlz@gmail.com	
+
+ 
+</pre>
+
+
+
+</body>
+</html>

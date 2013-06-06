@@ -1,0 +1,117 @@
+Just Dance Kids
+
+
++-------------+
+|What Is This?|
++-------------+
+
+This torrent contains a Nintendo Wii Game in WBFS format, which is actually just a compressed ISO image. It is important to note that your Wii reads this file directly from a hard drive (there is really no need to convert it). However, this game can easily be converted back to a full-size ISO faster than it takes to extract a ZIP file using either of these programs for Windows or Mac:
+ 
+http://wiibafu.codeplex.com/ 
+http://thepiratebay.org/torrent/6216909
+
+In order to play this game on your Nintendo Wii, you will need a special chip installed that allows it to play backed-up games, or you will need to perform a soft-mod and install The Homebrew Channel. Here is an excellent source for everything you need to know about soft-modding your Wii and installing The Homebrew Channel:
+ 
+http://thepiratebay.org/torrent/6222088
+
++------------+
+|Instructions|
++------------+
+
+To get Wii games onto your console after you have bought a chip or performed a soft-mod, you will need to put them on an external hard drive or burn them to a disc. Whenever you burn a Wii ISO image to a disc, always burn at a slower speed (2x or 4x) for best results and use a dual-layer disc if the ISO exceeds 8 GB in size. You can use one of these programs for Windows or Mac:
+ 
+http://www.imgburn.com/index.php?act=download 
+http://burn-osx.sourceforge.net/Pages/English/home.html
+
+If you own an external hard drive and want to play Wii games directly off of it, use one of the following programs for Windows or Mac to format the hard drive to WBFS and transfer games:
+ 
+http://wbfsmanager.codeplex.com/ 
+http://wiibafu.codeplex.com/ 
+http://thepiratebay.org/torrent/6216909 
+http://thepiratebay.org/torrent/6216931
+
+To play the Wii games after transferring them to an external hard drive, you will need what is called a USB loader of some sort. It is important to note that some USB Loaders can read games from an NTFS or FAT32 partition (just copy the WBFS file to the main root of the device), but there are limitations to each of these and you will generally have more success formatting to WBFS.
+
+You can use one of these USB loaders to play your games, just follow the instructions located on the site to install it via The Homebrew Channel (basically put any Homebrew program in a folder called "apps" on the root of your SD card and make sure the DOL file is named "boot.dol"):
+
+
+USB Loader GX:
+ 
+http://usbloadergx.koureio.net/downloads
+
+Configurable USB Loader:
+ 
+http://gbatemp.net/index.php?showtopic=147638
+
+WiiCoverFlow (aka CoverFloader):
+ 
+http://code.google.com/p/wiicoverflow/
+
+WiiFlow:
+ 
+http://www.wiiflow.org/
+
+USB Loader MRC:
+ 
+http://gbatemp.net/index.php?showtopic=211423&st=0
+
+NeoGamma:
+ 
+http://gbatemp.net/index.php?showtopic=158884
+
+uLoader by Hermes:
+ 
+http://www.wiihacks.com/software-backup-loaders/58438-uloader-5-0-here.html
+
+
+Every game that I upload is in NTSC-U (North American) format, but many can also be played with PAL (European) or NTSC-J (Japanese & Korean) Wii hardware.
+
+Every game that I upload has been tested thoroughly and works perfectly on an NTSC Wii console using USB Loader GX, with the setting "Force NTSC" enabled.
+
+The reason this Wii game might be smaller in size than the original ISO file is the result of super-compression only. I have not taken out anything but empty data, and if converted back to ISO this game will certainly be full-size, either 4.3 GB or 8.5 GB.
+
+
++-------------------+
+|Wii Emulator for PC|
++-------------------+
+
+In order to play this game on your PC, you will need a very fast CPU and a high-performance graphics card. A special tip: Press Control-Shift-Escape to open the Task Manager, and end the process explorer.exe while running the Dolphin Emulator. When finished playing, go back to the Task Manager and press File, New Task and type in explorer.exe and click OK.
+
+Here is the only successful Wii Emulator for PC:
+ 
+http://www.emulator-zone.com/doc.php/gamecube/dolphin.html
+
++------+
+|Covers|
++------+
+ 
+http://wiitdb.com/Game/SDZE41
+
++-------+
+|Reviews|
++-------+
+ 
+http://www.metacritic.com/game/wii/just-dance-kids
+
++-----------------+
+|My Other Torrents|
++-----------------+
+ 
+http://thepiratebay.org/user/wiiGM/
+
++-----------------+
+|How To Contact Me|
++-----------------+
+
+Register at Suprbay:
+ 
+http://forum.suprbay.org/member.php?action=register&referrer=185328
+
+Then PM me here:
+ 
+http://forum.suprbay.org/member.php?action=profile&uid=185328
+
+
+Sincerely,
+
+The Wii Game Master [wiiGM]

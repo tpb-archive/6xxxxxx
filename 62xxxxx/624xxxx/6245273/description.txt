@@ -1,0 +1,193 @@
+Official Web Site:  http://agilewebsolutions.com/products/1Password/Mac
+
+1Password is a full-featured password and identity manager. Thanks to a powerful desktop client and mobile applications designed for iPhone, iPod touch, and Palm devices, 1Password gives you a more secure, convenient online experience no matter where you are.
+Take a look at the many ways 1Password can become an indispensable tool for harnessing all your passwords, identity, and personal information.
+
+* Automatically Save and Fill Website Logins
+
+* True Integration With Web Browsers
+
+* Support for Popular Web Browsers
+
+* Strong Password Generator
+
+* Rock Solid Security
+
+* Securely Organize Your Life With Wallet
+
+* Automatically Fill Credit Cards While Shopping Online
+
+* Automatically Fill Addresses, Contact Information, Forums, and More
+
+* Password History
+
+* Secure Notes
+
+* Stay Organized
+
+* Access Your Data Anywhere
+
+* Automatically Keep Your Data in Sync Between Macs
+		
+Features:
+
+Automatically Save and Fill Website Logins
+
+1Password allows you to quickly save new Logins from within every browser it supports. It will detect when you are logging into a web site, and if it notices a password you do not already have saved, 1Password will prompt you to save the new Login in your secure, encrypted data file to use later.
+
+True Integration With Web Browsers
+
+1Password offers what no one else does: true web browser integration. Many applications provide safe storage areas for your private web information, but you often need to add your data by hand, then manually copy it back out when the time calls. We knew there had to be a better way.
+
+True Integration With Web Browsers
+
+1Password offers what no one else does: true web browser integration. Many applications provide safe storage areas for your private web information, but you often need to add your data by hand, then manually copy it back out when the time calls. We knew there had to be a better way.
+
+ Support for Popular Web Browsers
+
+The password, identity, and personal information tools that come pre-bundled with web browsers are specific to their exclusive playgrounds. Your data is locked up in each browser, forcing you to find a way to migrate your passwordsâ€”if thatâ€™s even possibleâ€”every time you switch browsers. With 1Password, your information travels with you.
+
+Strong Password Generator
+
+Letâ€™s face it: the days of using your petâ€™s name or your anniversary as a password are long gone. While 1Password remembers all your passwords so you donâ€™t have to, it also has a great tool called the Strong Password Generator for creating really strong, un-guessable passwords to keep you safe online.
+
+Rock Solid Security
+
+All of your confidential information is encrypted using AES, the same state-of-the-art encryption algorithm used as the national standard in the United States (Fun fact: AES stands for â€œAdvanced Encryption Standardâ€). 1Password uses 128-bit keys for encryption, which means it would take millions of years for a criminal to decrypt your data using a â€œbrute forceâ€ attack.
+
+Securely Organize Your Life With Wallet
+
+The Wallet provides a secure place to store sensitive information like credit cards, bank accounts, memberships and reward programs, etc. You can use 1Passwordâ€™s powerful encryption technology to safely save all this information and find it when you need it.
+
+Automatically Fill Credit Cards While Shopping Online
+
+Shop more conveniently and keep your credit card numbers out of business hands by saving them locally in 1Passwordâ€™s Wallet, then filling them into shopping forms when you want.
+
+Automatically Fill Addresses, Contact Information, Forums, and More
+
+In addition to credit card numbers, 1Password allows you to automatically fill even more things like your address, contact information, favorite links, and forum registrations with just a single click. You can save all or some of this information in a 1Password Identity, and you can create as many Identities as you like.
+
+Whats new:
+
+New Setup Screens
+
+* Improved Welcome screens to help new and existing users  setup
+  1Password.
+* New introduction screens for categories with no items, as well a
+  ability to import sample data to quickly see how 1Password works.
+
+Main Window
+
+* New Activity view to display and manage background tasks.
+
+* Improved search in Snow Leopard, the found items can now be selected
+   immediately using Up and Down arrow keys, without the need to leave
+   the search field.
+
+* 2 new window layouts: Widescreen and Shelves.
+
+List View
+
+* Ability to customize which columns are shown in list views for each
+    category
+
+* Navigate between items using three-finger multi-touch swiping.
+
+* New icons for wallet items and accounts.
+
+* Category item counts can now be shown or hidden.
+
+* Keyboard shortcuts for quick navigation between the categories and 
+   changing layout mode.
+
+* Improved password strength indicators to better display very low
+   strength passwords.
+
+Detail View
+
+* Configure iPhone security levels directly on your Mac.
+
+* Dynamically resizing single-line and multi-line edit fields.
+
+* Spell checking in Secure Notes
+
+* Search text inside Secure Notes as well as auto-scrolling to found text
+   when using the find panel.
+
+* Ability to add and remove fields from Logins.
+
+* Easy way to configure Login username and password.
+
+* Better date field entry using popup calendar.
+
+* Improved copy-to-clipboard for the credit card numbers to not include
+   spaces or dashes.
+
+* Passwords can be hidden even in edit mode to protect your privacy.
+
+* Hidden passwords can be quickly revealed by holding the Option key.
+
+* Can now quickly generate passwords for Wallet Items and Accounts.
+
+* New hover graphics for one-click copy of usernames, passwords, and 
+  all other fields for easy pasting into other applications.
+
+Browser Extensions
+* Browser toolbar buttons are now completely customizable using the 
+   new ~/Library/Application Support/1Password/Custom/ToolbarButtons
+   folder.
+* Added Help > Troubleshooting > Reset Folder Permissions to fix 
+   majority of the configuration problems.
+
+* Improved Go&Fill window in the browser. In Snow Leopard items can 
+  now be selected immediately using Up and Down arrow keys without 
+  needing to press Tab.
+
+* Better compatibility with Evernote and other Safari extensions.
+
+* 1Password will now offer choice to enable the extensions in untested 
+    versions of most browsers. This will make it easier to use nightly 
+   Camino and WebKit builds.
+
+Preferences
+
+* Added new Autosave preference for "Automatically include username 
+   in Login title"
+
+* The lock/unlock sounds are controlled by System Preferences > 
+   Sounds.
+
+* Improved security preferences.
+
+* New General Preferences pane to allow data file configuration even
+   when 1Password is locked.
+
+Internal
+
+* 1Password application is now codesigned to ensure the integrity of 
+   code and provide better update experience.
+
+* Large number of internal code improvements and bug fixes.
+
+* Many performance improvements
+
+* Innumerable internal code optimizations to take advantage of new
+   Leopard technologies
+
+* 1Password now runs as a 64-bit application on supported Snow
+   Leopard machines.
+
+* 64-bit Safari extension.
+
+* Improved automatic update feature.
+
+* Improved browser extensions allow 1Password.app to be replaced even
+   when browsers are running. This avoids the infamous "File in Use" 
+   problem as well as the need to restart the browser.
+
+
+System Requirements:
+
+Mac OS X 10.5.8 (Leopard) or Mac OS X 10.6 (Snow Leopard) and supports most modern web browsers.
+
+-- PLEASE SEED --

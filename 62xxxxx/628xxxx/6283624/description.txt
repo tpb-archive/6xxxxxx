@@ -1,0 +1,40 @@
+CoreAVC H.264 Video Codec - Version 2.5.1.0 (20110328)
+- FIX: Windows Media Player seeking with MKV
+- FIX: MediaPortal crashing
+- FIX: Graphstudio crashing
+
+
+
+
+
+CoreAVC H.264 Video Codec - Version 2.5.0.0 (20110326)
+- ADD: DXVA1 support (with red tray icon)
+- ADD: DXVA2 support (with red tray icon)
+- ADD: new x64 blit asm code (unified with x86)
+- FIX: SPS memory leaks
+- FIX: Properly support SPS resolution changes (soft/cuda decoding)
+- FIX: Bug in YUV->YUV blit code
+- CHG: Unify x86 and x64 CUDA asm code
+- CHG: Unify x86 and x64 AVC asm code, enabling SSE2/SSE3/SSSE3/SSE4 for x64
+- CHG: Increase max supported resolution (approx 8100x8100)
+- CHG: Refactor directshow frontend code
+- CHG: Modify CUDA locking method
+- CHG: Rearrange/enlarge settings dialog
+- OEM: YASM padding bug for OSX target
+- OEM: Android support added to SDK
+
+Haali Media Splitter (20110303)
+- ADD: AC3 in MP4 support
+- ADD: WebM support
+- ADD: More H264 aspect ratio options
+- FIX: Show error code in GDSMux when muxing is aborted
+- FIX: Accept more AAC media types in the muxer
+- FIX: Use correct timescales when processing MP4 edit lists
+- FIX: Scan the folder for more segments only if the file references external segments
+- FIX: Fixed a lot of issues with the mp4 muxer
+- FIX: Better support for VC1 in MPEG Transport Streams
+- FIX: Aspect ratio processing in certain Matroska files
+- FIX: Bug in uninstaller that prevented it from properly unregistering all filters
+- FIX: Unrecognized video track in some transport streams
+- FIX: Occasional excessive disk I/O when paused
+

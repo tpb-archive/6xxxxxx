@@ -1,0 +1,47 @@
+User Type,Username,Date,Text
+[T],Tyr3ll,2011-04-10T15:44Z,"After several months of hard working, the brand new qt build of DVDFab is available now.
+
+DVDFab 8.0.8.7 Beta (Qt):
+http://www.dvdfab.com/mlink/download.php?g=DVDFAB_QT
+
+Why Qt?
+1. We can have some advanced UI effects like skins and animations in future versions.
+2. We have moved an important step to the Mac version.
+
+Please help us to try it if you like to do beta testing, thank you very much!
+
+To report problem of this version, please start your own thread at specific sub-forum, with 8087Qt in prefix or title, thanks.
+
+What's New:
+
+DVDFab 8.0.8.7 Beta (April 3, 2011)
+
+New: Updated all Qt languages to latest version.
+New: Some minor changes and improvements.
+
+DVDFab 8.0.8.6 Beta (April 1, 2011)
+
+New: Rewritten user interface with Qt.
+New: Changed language files to Qt format.
+New: Some minor changes and improvements.
+
+Blu-ray Copy:
+New: Added support for ATI Stream acceleration technology.
+Note: Please update AMD Radeon video card drivers first.
+1. Visit http://sites.amd.com/US/GAME/DOWNLOA...downloads.aspx
+2. Download both ""Catalyst Software Suite"" and ""AMD Media Codec Package"" (Optional Downloads).
+Currently the ATI Stream support is limited to video decoding only. It's the problem of AMD driver, and we need to wait for driver updates to support H.264 video encoding. Also the decoding speed of ATI Stream is not very faster than DXVA, but it should be more stable than DXVA.
+Fix: A problem that output size is too small when compressing certain discs like ""The Social Network"" to BD25.
+Fix: A problem that 2D copy of Blu-ray 3D disc cannot be played on certain players like PS3.
+
+Blu-ray Ripper:
+New: Added support for ATI Stream acceleration technology.
+Fix: A crash problem when converting certain discs like ""Robin Hood"".
+
+Blu-ray to DVD Converter:
+New: Added support for multiple audio stream selection.
+Fix: A video quality problem caused by the new VBR encoding.
+
+Video Converter:
+Fix: Several problems when rendering external subtitle.
+"

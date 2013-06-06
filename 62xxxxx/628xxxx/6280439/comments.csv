@@ -1,0 +1,122 @@
+User Type,Username,Date,Text
+,iqandjoke,2011-03-29T16:31Z,"Thanks for your work!
+Sorry to bother. But what is the password?"
+[V],ChattChitto,2011-03-29T16:35Z,"No Password, It's a .exe file - Just run it :)"
+,erabu,2011-03-29T16:51Z,finaly a working 64bit version thanks for great work
+,grg426,2011-03-29T18:08Z,Thanks for your efforts guys! Much appreciated!
+,robalm,2011-03-29T22:22Z,"The -64 crack work in ""xp -64"" not in vista or windows 7 -64.
+There will probably never be a sandboxie -64 crack for windows 7 -64."
+,mike777iom,2011-03-29T23:09Z,Thank you very much.
+,klord2010,2011-03-30T14:30Z,so 'no go' for 7 64-bit users. that's kinda sad. nice up though.
+,erabu,2011-03-30T20:01Z,i run w7 ultimate 64bits and it worked like a charm so you must have done something wrong i think here is how i did it after finishing instalation i opened msconfig and closed sandboxie service from services tab and sandboxie from startup tab reboot then run automated cracking when done open msconfig and enable what you disabled earlier reboot again and ignore any activation message you get 
+[V],ChattChitto,2011-03-30T22:22Z,"@erabu
+There is no need to even close the services manually. Automated cracking will do it for you."
+,klord2010,2011-03-31T14:25Z,"@erabu
+Are you sure?
+If you mean Auto Cracking Method 1 (x64) I checked the file hashes and no overwrite happened. or with Method 2 it does overwrite but you can't re-start SB service at all. Either way, dead end.
+And are you sure you can use features for fully registered version? I just wonder with your comment ""ignore any activation message you get"" that doesn't sound you did it right to me.
+And just out of curiousity, included version is for 32-bit only (yeah I say ONLY and you can't install it on 64-bit machine) so you dled your program from official site, right?
+
+Maybe I got something wrong. Is this really working (Vista, 7 x64)? Or simply someone got something wrong?"
+,erabu,2011-03-31T16:21Z,"sandboxie opened a window and it was asking me to activate , i just hit cancel and the program worked and stil works fine guys, so i told you how its done you got to try and try till you find a way to make it work for you cause no pc is the same maybe my way wont work with your pc "
+,DarkHorseDre,2011-03-31T19:25Z,"Thanks for the up!
+
+I'm having an issue on win xp sp2, 32bit - I try to run an online game sandboxed and Sandboxie shows a dialogue box saying ""could not initialise winsock"" - anyone know whats up?
+FYI: I had an older version that ran fine on my pc, and I uninstalled and rebooted before installing this one.."
+,klord2010,2011-04-01T06:16Z,"@erabu
+I double checked cracking procedure and 'Method 1' extract 'crack files' to 'Program Files (x86)' folder not 'Program Files' (aka x64) folder it means 'Windows 64-bit: Fully supported.' is false information.
+
+And your SB is in trial/shareware/demo/unregistered mode and not fully registered or cracked.
+
+Please check 'Sandbox setting' > 'Applications' > 'Web Browser' > 'IE' > 'Force IE to run... (Reg Version Only)' option and (please!) tell me it's working.
+
+Again, you think it's working but nah... I don't think so."
+,erabu,2011-04-01T15:19Z,"klord2010 
+did what you said and you are right man it didnt work"
+,erabu,2011-04-01T15:36Z,no sorry guys scratch last comment it works yes it does klord2010 
+,klord2010,2011-04-01T16:27Z,"@erabu
+You mean if you start IE with that option Checked -- I mean just IE neither 'SB' > 'Run Sandboxed' > 'Run Web Browser' nor 'Run Web browser sandboxed.lnk' because you can do that with Unregistered and Non-Cracked version, too. -- it started in Sandboxed mode?
+
+And could you check this folder for me?
+""C:\Program Files (x86)\Sandboxie\""
+You got ONLY 3 files there, right?
+These files are not compatible with 64-bit version of SB and, even worse, in wrong folder.
+
+Urgh... this is getting stupid.
+ChattChitto, tell us. Vista, 7 64-bit really supported?
+I think I should roll back to 3.46."
+,erabu,2011-04-01T17:34Z,dude i opened sandboxie control hit sandbox tab >defaultbox>sandbox settings>applications>web browser>ie>and added force ie to run in this sandbox(registered version only) then clicked apply and ok now about the folder you said yes it contains 3 files only but still works.when you open it what does it do cause i dont get what your problem is and cant make it work.
+,wullie7362,2011-04-01T21:21Z,"Cheers  for the upload, works a charm, listen to erabu as his method works for me on 64bit."
+,klord2010,2011-04-02T14:53Z,"Your SB is installed HERE:
+'C:\Program Files\Sandboxie\'
+(it was Win 7 Ultimate x64, rrright?)
+
+not HERE:
+'C:\Program Files (x86)\Sandboxie\'
+
+I'm telling you that those 3 files are crack.
+So where is your crack now? Bingo.
+Wrong files in the wrong place. Got it?
+Your program isn't cracked at all.
+
+Even if you try Auto Crack 1 (x32) it does overwrite crack to right place but NOT working.
+Don't ask me. ChattoChitto did that way this time.
+
+Wrong menu behaviors:
+Click AC1(x32) > crack went x64 folder
+Click AC1(x64) > crack went x32 folder
+
+I tested this torrent with XP SP3 (x86) + VPC 2007 and it worked perfectly!
+Even 'About' box said
+'Sandboxie is registered and the license is ACTIVATED.'
+Wooot! My poor 7 Pro x64... :/
+
+My point is ""You don't even have to ignore activation message if your SB is EVER cracked.""
+I think you are in it's TRIAL MODE.
+
+Check you SB's about box."
+,wullie7362,2011-04-03T05:53Z,I don't know about the activation message that erabu was ignoring as it never appeared on mine but it did say licence is activated.
+,wullie7362,2011-04-03T06:01Z,and it's in C:/program files (86)/sandboxie/
+,wullie7362,2011-04-03T06:03Z,by the way it's in C:/program files/sandboxie
+,wullie7362,2011-04-03T06:17Z,sorry..i double checked and ignore my last comment as it is in C:/program files(86)/sandboxie/ your getting me confused now as well.
+,klord2010,2011-04-03T13:00Z,"As you can see in ChattChitto's NFO, included crack is done by EAT and if you search in here TPB you can find original form of release 'Sandboxie.v3.54.Multilingual.Cracked-EAT' uploaded by scene4all.
+
+Important thing is EAT's crack is for SB x86 (aka 32-Bit, sorry but there's no such a thing 'x32') only. In their NFO they explained why, so if you interested go search and figure. Personally I think it's BS but it's not important.
+
+This is my final research or mess around result:
+In this very torrent...
+1) Included SB is 32-Bit and you can't install it on 64-Bit OSes.
+2) Included crack is 32-Bit and cracked by EAT and does not compatible with 64-Bit version of SB.
+
+That's it and all. Have a good day."
+,wullie7362,2011-04-03T15:45Z,"I went through this program with a fine tooth comb and guess what Klord2010....your right, it is not activated although it said it was, it is running in trial mode..wtf..this is weird as it looks like it is working.
+
+I gotta take my hat of to you as you knew all along but why does it have a 64 crack in the files?"
+,CHAOS1972,2011-04-12T01:30Z,"Why would you include a 64bit crack with a 32bit program that WONT even install on W7 64bit ?
+
+Everytime i try to install the program it say's it's a 32bit version and will not install on a 64bit system!"
+,Quiggie,2011-04-13T05:10Z,"ChattChitto, I recognize quite a few names on this site, but a LOT of the dl's I've gotten on here have been from you, and they're always the best freaking stuff, thanks so much for doing such a great job, helps me out a lot, I'm very appreciative :D"
+,ALIEN68,2011-04-17T23:02Z,I have Sandboxie v 3.44 from ChattChitto and it's working like a charm on my Windows 7 x64 Ultimate.
+,koji2u,2011-04-29T13:21Z,"scanned with NOD 32 v4 and IO bit security 360 and its clean, thanks"
+,CVezery,2011-05-03T23:55Z,not installing in windows 7 x64... :\ i'll still seed though
+,Mississippi19,2011-05-05T21:22Z,Thanks so much 
+,Charger2007RT,2011-05-13T09:10Z,"*ChattChitto
+
+Thanks :D"
+,Jan De Computerman,2011-05-25T20:12Z,"Sandboxie 354 + crack is not installing on my windows 7 64bit please help.
+I installed from the sandboxie site and hope to find a crack in the future"
+,Celtics18,2011-06-06T20:47Z,"This did not work for me. It says that it is 32b and won't work on 64b system. I was not able to locate file in your instructions in ""the how to use guide"" nothing was coming up in my comp for: ""C:|Program Files|Sandboxie"" I am using Win 7 Ult on 64b comp am I missing something here? It does not look like this works on 64b. Will look for an older version fron ChattChitto or someone else."
+,Celtics18,2011-06-06T20:56Z,"ChattChitto you have to update your notes, its says ""Windows 64-bit fully supported"", you need to remove this from your notes or tell me what I am doing wrong. Thanks!"
+,Laovniux,2011-06-30T10:53Z,"Cant get this working on win 7 ultimate 64 bit sp 1
+
+error:
+
+http://img810.imageshack.us/img810/8582/unlednx.png"
+,madycoot,2011-08-11T11:19Z,"i need help can someone pls help me on this
+
+i always get this error 
+
+SBIE2306 Could not locate user directory : [C000000/11]
+SBIE2304 Initialization Failed for process start.
+
+pls help as soon"

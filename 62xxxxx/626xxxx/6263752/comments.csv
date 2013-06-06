@@ -1,0 +1,74 @@
+User Type,Username,Date,Text
+,fenix8334,2011-04-06T03:41Z,I'm having trouble getting this to work.  I install and copy the crack files to the proper locations but it says that the license server isn't configured properly.  I copied the nx7.lic file to the folder it says but I just can't get it to work. Any help?
+,Jhex,2011-04-08T20:16Z,Please help!  I'm having the same problem as fenix.  Can you post detailed instructions on the configuration?
+,CaptainKoveras,2011-04-26T23:47Z,check
+,CaptainKoveras,2011-04-27T00:29Z,"-Mount or burn the ISO file.
+-Install NX7.
+-Do not install licensing.
+-Copy all files from the Magnitude folder into the exact same locations of your installation folder.
+-Click start menu and right click computer, select properties>advanced system settings>environment variables.
+-Scroll down and find UGS_LICENSE_SERVER, select it and click edit, (if it's not there, just click new and create it. in the varaiable name place UGS_LICENSE_SERVER and in the value place the location of your nx7.lic file which should be  C:\Program Files\UGS\NX7.0\UGFLEXLM\nx7.lic"
+,CaptainKoveras,2011-04-27T00:35Z,"-Do the same thing for UGS_LICENSE_FILE and click ok all the way out. Open LMTOOLS located at C;\Program Files\UGS\NX7.0\UGFLEXLM\lmtools.exe
+-select configure using services and then select the config services tab.
+-Click browse in the 1st box and navigate to your lmgrd.exe file located in C:\Program Files\UGS\NX7.0\UGFLEXLM\lmgrd.exe
+- Click broswe in the 2nd box and navigate to your license file located at C:\program Files\UGS\NX7.0\UGFLEXLM\nx7.lic
+-check the start server at power up and use services box and then click save service."
+,CaptainKoveras,2011-04-27T00:41Z,"-Click the Service/license tab and you should now see the flexlm listed if it wasn't before, select it and click the start\stop\reread tab.
+-Check the force server shutdown box and click stop server. Should say unable to stop or stopping server. ignore it. click service/license file tab and select configure using license file.
+-Click stop/reread tab and it will read the file and most likely say no server found or somehing, ignore it. click service/license file tab again and select configure using services, then click the start/stop/reread tab and select reread then select start server. should say server start successful. Close out of lmtools, disconnect from the internet and open NX7.0. boom done. For some reason this sneaky program likes to toss out bundle errors and everything will be greyed out if you open it while connected to the net. Anyway, hope this helps. I'll check back to see if anyone is having problems."
+,AerialAxis,2011-05-05T22:47Z,thanks CaptainKoveras
+,CaptainKoveras,2011-05-15T05:37Z,"No problem. Took me about 8 hours to figure out how to get it to work lol 
+
+Also, it seems that you only have to boot up with the internet off for the 1st boot and start creating. After that you should be able to boot without disconnecting from the net. at least, that's what happened for me lol"
+,tater85,2011-05-16T22:43Z,"i tried to follow the steps, but i got to the part when you (check the start server at power up and use services box and then click save service) when i do this it pops up with an error that says
+
+This item cannot be modified at this location.
+Please refer to the ""borrowing"" tab to make changes to this item.
+
+thanks for any help"
+,CaptainKoveras,2011-05-22T22:37Z,What OS are u running? Try running lmtools as administrator by right clicking lmtools and selecting run as administrator if you're on vista or 7. I run 7 but I have uac turned off. Let me know if that helps. 
+,ron46,2011-06-09T13:45Z,should i keep my internet connected or disconnected while installing 
+,bibaputtr,2011-06-27T11:10Z,"i followed each and every step of captainkoveras...but it dont works
+i got NX Licensing Error
+mentioning that
+. 
+the proper license does not exist.
+tht UGS_LICENSE_BUNDLE variable is either not set orset incorrectly.
+please select FILE-->UTILITIES-->Select BUNDLES to properly set a license bundle or file or FILE--->EXIT to shut down.
+.
+the application windows opens with de-activated options. nothing can be done on it. i tried many times but i couldn't... i m am having XP sp3....
+please HELP...."
+,bibaputtr,2011-06-27T11:14Z,i also tried with net connected...
+,CaptainKoveras,2011-06-27T23:52Z,"After following the installation instructions, you have to DISCONNECT from the web before launching the program. Once you launch the program, create something and save it and after that you should be able to run the program without having to disconnect. The bundle error you're receiving is because you're launching the program with the net connected. "
+,dragomix,2011-07-03T00:19Z,"It wont work! Step when I need to click stop server says Stopping Server, and after the same problem as bibaputtr even if I am disconnected from internet! Help PLEASE!!!"
+,diablo2701,2011-07-15T18:50Z,"First attempt to install I disconnected from the net, it loaded but everything was greyed out so couldn't use any of the icons. 
+
+The second attempt I just got license errors. Should the initial install be done while connected to the net and do you need to copy all the files from within the Magnitude folder or just the license file?
+
+Would be good to get this working and thanks CaptainK for detailed install notes......"
+,CaptainKoveras,2011-07-30T09:36Z,"Well to be honest, i'm not surprised that people are having problems because it seriously took me about 6 hours to figure out how to get it to work lol. Anyway I went ahead and completely removed unigraphix from my computer and then reinstalled it using the exact instructions that I posted above just to make sure I didn't forget anything and it worked like a charm for me. Are you guys absolutely sure that you have no interenet connectivity when you boot it up after installation?"
+,CaptainKoveras,2011-07-30T09:39Z,"Also, when I installed nx7 and all throughout the tedious steps i followed to get it going I left my internet connected and only disabled it right before booting up nx7 and it works like a charm. Now im not sure if it matter but im using windows 7 64-bit with uac completely turned off(cause I hate it) :) Anyway I'm still checking this torrent for your responses so let me know how it goes and good luck!"
+,CaptainKoveras,2011-07-30T09:43Z,"@diablo2701 Yes, you must copy ALL of the files from the magnitude folder into the exact same locations on your hdd. "
+,Donsoper,2011-08-08T21:06Z,"Works a treat ,no problems ,thank you "
+,weekendranger,2011-08-19T10:01Z,"Had to run lmtools.exe as administrator to get it to work but following CaptainKoveras steps worked when I did that. Also, I noticed that the path was screwy there was an extra space in NX7.0 between the NX and 7.0. Also, mine was installed to C:\program files (x86)\UGS\NX 7.0\UGFLEXLM
+
+But it does work! :)"
+,cubbysfan49,2011-08-20T15:20Z,"Does anyone have NX 7.5 ! Pleeeassse....
+:)"
+,CaptainKoveras,2011-08-30T23:57Z,"Glad to see some people are getting this to work besides myself! Hopefully that little tut I wrote can help the rest of you get this going. It's really a cool program to use. Oh! and I forgot to say thanks to the uploader so, THANKS! XD"
+,dhayakumar,2011-09-23T17:59Z,i also have same problem nxlicensing error pls help me! pls pls pls
+,Huarachi,2011-09-28T02:11Z,"OK, I spent a long time trying to get this installed and I was sure that I had followed CaptainKoveras's instructions correctly but it still wasn't working. I was getting the error message saying that the license file needs to be configured correctly etc etc. I checked a few other sites and found this: Instead of setting the LICENSE_FILE environment variable to the path of your license file, just put in your host name eg: 28000@your_computer_name. I tried this and it worked instantly! Hope this helps some of you who are having problems. Big thanks to CaptainKoveras for his comments^^"
+,winterhammer1,2011-10-05T22:53Z,"Finally after about 3 hrs got it to work, ofcourse with a small twist to Huarachi and CaptainKoveras: I set both the Environment Variables: UGS_LICENSE_SERVER and UGS_LICENSE_FILE = 28000@PC ID.
+
+Thanks Huarachi and CaptainKoveras and ofcourse the Uploader.
+
+Don't think i want to upgrade NX7 for a few years now :)"
+,jadudedu,2011-11-18T02:35Z,"ooh so close tried your guid for 3 h but now i get..
+
+
+the proper license does not exist.
+the UGS_LICENSE_BUNDLE variable is either not set or set incorrectly.
+please select FILE-->UTILITIES-->Select BUNDLES to properly set a license bundle or file or FILE--->EXIT to shut down.  .. help? and yes i turnd of internet"
+,jadudedu,2011-11-18T02:38Z,some how when i pressed ok the program started but its grayed. cant do a shit
+,Stan_Kee,2012-01-22T13:04Z,Problemtatic to say the least! FINALLY got it working tho. I edited the licence file in notepad after finding a good thread elsewhere.. I also changed the UAC control down to the lowest setting. Then it worked... on the 3rd or 4th attempt.
+,mattgo49,2012-06-08T17:21Z,same shit as @jadudedu with internet turned off

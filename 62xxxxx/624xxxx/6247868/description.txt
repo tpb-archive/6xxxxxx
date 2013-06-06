@@ -1,0 +1,558 @@
+________________________________________________________________________
+
+ eXPerience Presents... 
+
+ Windows Tiny7 Rev01 Unattended Activated CD (x86)
+
+ ________________________________________________________________________
+
+ Thank you for trying Windows Tiny7 Rev01.
+
+ Based on: Windows 7 Ultimate x86 build 6.1.7600.16399
+
+ This guide is split into the following sections:
+
+ - INSTALLING
+ - FIXES
+ - STATISTICS
+ - INCLUDED HOTFIXES
+ - ADDED DRIVERS
+ - KEPT COMPONENTS
+ - INCLUDED FEATURES
+ - INSTALLED PROGRAMS
+ - DESKTOP eXPerience FOLDER
+ - QUICK LAUNCH ENABLER
+ - RIGHT-CLICK "Computer"
+ - REMOVED COMPONENTS (in 3 stages)
+ - Special note from eXPerience
+ - Forum url
+
+ ________________________________________________________________________
+
+ INSTALLING
+
+ To install Windows Tiny7 from this CD, set your PC 
+ up so it will boot from the CD-ROM in the PC's BIOS.
+
+ There is no upgrade option available in Tiny7,  because the option
+ is removed.
+
+ Only install Tiny7 onto a freshly formatted partition or hard disk.
+
+ You do not need any product key in this release - the installation
+ of Tiny7 is unattended, apart from in the very beginning where you
+ choose which drive or partition to install to.
+
+ All installations are set to US English. If you do not want the US
+ keyboard settings, you will have to change this in Windows when it
+ has installed (as opposed to choosing it at install time), its easy
+ enough, just open the "Keyboard Settings" folder in the desktop
+ eXPerience folder and read the included ReadMe.txt that is there.
+
+ ________________________________________________________________________
+
+ FIXES:
+
+ Fixes since the last version:
+
+ - All services are enabled.
+ - Folder renaming bug "This item no longer exists" is fixed.
+ - Wolfenstein 2009 compatibility fixed.
+ - GTAIV compatibility fixed.
+ - KMplayer compatibility fixed.
+ - Hibernation in Windows fixed.
+ - Devices and Printers opens properly.
+ - Safely Remove Devices is fixed.
+ - No migwiz.exe error if you run "Easy Transfer" which is removed.
+ - No msdt.exe errors (MS Diagnostic Tool, now kept)
+
+ ________________________________________________________________________ 
+
+ STATISTICS:
+
+ - ISO File Size.............................. 699 Mb
+ - RAM Usage On First Installation............ 185 Mb (VMware, 256Mb RAM)
+ - Entire Installation Size................... 1.64 Gb
+ - WINDOWS Folder Size........................ 1.55 Gb
+ - Running Processes.......................... 25
+ - Install Time (In VirtualBox, 512Mb RAM).... 11 minutes
+
+ ________________________________________________________________________
+
+ INCLUDED HOTFIXES:
+
+ - KB123334
+ - KB123456
+ - KB674103
+ - KB675605 v2
+ - KB675605
+ - KB675606
+ - KB972636
+ - KB973525
+ - KB973751
+ - KB973874
+ - KB974039 v2
+ - KB974138
+ - KB974176
+ - KB974179
+ - KB974204 v2
+ - KB974204
+ - KB974324
+ - KB974327
+ - KB974332
+ - KB974638
+
+ ________________________________________________________________________
+
+ ADDED DRIVERS:
+
+ The following drivers were added to Windows.
+
+ This is just a small selection of 32 added drivers to support
+ various devices that otherwise do not work right away...
+
+ ACPI:
+ - ATK0110 ACPI Utility
+
+ Audio:
+ - nVidia nForce4 Audio
+ - SndT Audio
+ - VIA Vinyl AC'97 Audio Controller (WDM)
+ - VirtualBox Sound Driver (Intel)
+
+ CD-DVD-ROM Drive:
+ - Mitsumi CD-ROM Drive
+
+ Chipset:
+ - ATI Rage, Fury, Magnum, Xpert, All-In-Wonder (128Mb VGA)
+ - Intel 82801 6300ESB 82371/2 82440 EHCI 960 631xESB ICH8 ICH9 ICH10
+ - Intel Turbo Memory
+ - Mobile Intel PM965, GM965, GL960
+
+ Ethernet LAN:
+ - 3Com 3C905-TX 3C905-T4 3C900-TPO 3C900-COMBO
+ - 3Com EtherLink 10 100 PCI NIC (3C905-TX)
+ - Marvell Yukon Ethernet Controller
+ - Realtek RTL8139 + 810x Family Fast Ethernet NIC
+
+ Misc:
+ - Microsoft iSCSI initiator
+ - Open VPN
+
+ Modem:
+ - Intel RCA USB Digital Cable Modem Driver
+
+ Monitor:
+ - LG W2242 Monitor
+
+ Phone:
+ - Windows Live Phone
+
+ RAID:
+ - JMicron RAID
+
+ SATA:
+ - Intel SATA AHCI Controller
+ - Promise FastTrak 376+378 Controller
+
+ USB:
+ - UMBus Root Bus Enumerator
+ - USB Hubs
+
+ Wireless LAN:
+ - Belkin Wireless G Desktop and Notebook Card
+ - Intel PRO Wireless 2915ABG Network Adapter
+ - Libertas 802.11 Wireless
+ - Linksys Wireless-G PCI Adapter
+ - Marvell Libertas EAP
+ - Ralink RT61 Turbo Wireless LAN Card
+
+ ________________________________________________________________________
+
+ KEPT COMPONENTS:
+
+ Tiny7 Rev01 gives you back everything you could need in Windows...
+
+ Accessories:
+ - Accessibility
+ - Character Map
+ - Disk Cleanup
+ - Game Explorer
+ - Mobility Center
+ - Notepad
+ - Paint
+ - Snipping Tool
+ - System Information
+ - Welcome Center
+ - Windows Gadgets
+ - Wordpad
+
+ Drivers:
+ - Modems
+ - QLogic Fibre Channel Adapter
+ - Storage controllers
+ - TV Tuners
+
+ Hardware Support:
+ - Dynamic Volume Manager
+ - Fax Support
+ - Firewire (1394)
+ - Floppy Disk Support
+ - Infrared Support
+ - Internet Small Computer System Interface (iSCSI)
+ - Microsoft Multi-Path Bus
+ - Modem Support
+ - Printer Support
+ - Smartcards
+ - TV Tuner support
+ - Windows HotStart
+ - Windows Image Acquisition
+ - Windows Portable Devices
+ - WLAN Support
+ - XBOX 360 Controller
+
+ Languages:
+ - Arabic
+ - Brazillian
+ - Bulgarian
+ - Croatian
+ - Czech
+ - Danish
+ - Dutch
+ - Estonian
+ - Finnish
+ - French
+ - German
+ - Greek
+ - Hebrew
+ - Hungarian
+ - Italian
+ - Latvian
+ - Lithuanian
+ - Norwegian
+ - Polish
+ - Portuguese
+ - Romanian
+ - Russian
+ - Serbian
+ - Slovak
+ - Slovenian
+ - Spanish
+ - Swedish
+ - Thai
+ - Turkish
+ - Ukrainian
+
+ Multimedia:
+ - Intel Indeo
+ - Media Metadata Handler
+ - Photo Metadata Handler
+ - Shell event sounds
+ - SideShow
+ - Sound Recorder
+ - Windows Aero Theme
+ - Windows Media Codecs
+ - Windows Media Player
+
+ Network:
+ - Connect to a Network Projector
+ - Distributed File System (DFS)
+ - File and printer sharing (Server)
+ - Internet Explorer
+ - Internet Information Services (IIS)
+ - Link-Layer Topology Discovery (LLTD)
+ - Network and Sharing Center
+ - Network Explorer
+ - Quality of Service (QoS)
+ - Remote Desktop and Assistance
+ - Remote Desktop Client
+ - RIP Listener
+ - Simple Network Management Protocol (SNMP)
+ - Simple TCPIP services
+ - Telnet Client
+ - Telnet Server
+ - TFTP Client
+ - Windows Collaboration
+ - Windows Firewall
+ - Windows Mail
+
+ Services:
+ - Application Experience
+ - Background Intelligent Transfer Service (BITS)
+ - Computer Browser
+ - Desktop Window Manager
+ - DHCP
+ - Diagnostics
+ - Distributed Link Tracking Client
+ - Distributed Transaction Coordinator (DTC)
+ - DNS Client
+ - Extensible Authentication Protocol (EAP)
+ - Interactive Services Detection
+ - Internet Connection Sharing (ICS)
+ - IP Helper
+ - IPsec Policy Agent
+ - Multimedia Class Scheduler
+ - Network Access Protection Agent
+ - Network List Service
+ - Network Location Awareness (NLA)
+ - Offline Files
+ - Protected Storage
+ - Quality Windows Audio Video Experience
+ - Remote Access Auto Connection Manager
+ - Remote Access Connection Manager
+ - Remote Registry
+ - Routing and Remote Access
+ - Secondary Logon
+ - Secure Socket Tunneling Protocol (SSTP)
+ - SSDP Discovery
+ - SuperFetch
+ - Task Scheduler
+ - TCP/IP NetBios Helper
+ - Telephony
+ - TPM Base Services
+ - Universal Plug and Play (UPNP)
+ - User-mode Driver Framework
+ - Volume Shadow Copy
+ - WebDAV (WebClient)
+ - Windows Color System (WCS/ICM)
+ - Windows Connect Now
+ - Windows Event Log
+ - Windows Remote Management
+ - Windows Time
+ - Windows Update
+
+ System:
+ - 16-bit Support
+ - Beep
+ - Crash Dump Support
+ - Digital Rights Management (DRM)
+ - Disk Quota
+ - IMAPIv2 Burning Support
+ - Jet Database Engine
+ - MDAC
+ - Microsoft Client For NFS
+ - Microsoft HTML engine
+ - Microsoft Message Queue (MSMQ)
+ - Parental Controls
+ - Performance Counters
+ - Reliability and Performance Monitor
+ - Remote Differential Compression
+ - Run a legacy CPL elevated
+ - Software Quality Management (SQM)
+ - Subsystem for UNIX-based Applications (SUA)
+ - Sync Center
+ - User Account Control (UAC)
+ - Windows Picture and Fax Viewer (Shimgvw)
+ - Windows SAT (Performance Index)
+ - Zip Folder
+
+ ________________________________________________________________________
+
+ INCLUDED FEATURES:
+
+ - 20 Windows Updates Slipstreamed
+ - eXPerience Desktop folder with vital essentials 
+ - eXPerience Wallpaper
+ - Quick Launch enabler on desktop (Thanks to ntoskrnl)
+ - Dozens of tweaks to improve Windows
+ - Windows is activated offline (Thanks to Hazar)
+  
+ ________________________________________________________________________
+
+ INSTALLED PROGRAMS:
+
+ - DirectX 9c DLL Files (some standalone/ripped games might need these)
+ - Everything Search v1.2.1.371 (find files and folders without waiting)
+ - Flash v10.0.32.18 for IE (player for YouTube and Google Video etc)
+ - Foxit PDF Reader Pro v3.0.1817 (open PDF files from the web in IE)
+ - HashTab v2.1.1 (adds a tab on file properties to see file checksum)
+ - WinRAR v3.90 (compression tool to handle various archive formats)
+
+ ________________________________________________________________________
+
+ DESKTOP eXPerience FOLDER
+
+ Most of these folders contain quick solutions to things that otherwise
+ would be buried away in the Windows GUI, or you would have to know the
+ command to run the item, like "control userpasswords2" will open the
+ screen to change your Windows 7 login password, or "intl.cpl" runs the
+ "Regional and Language Options" from Control Panel.
+
+ [eXPerience folder contents]
+ - Comodo Firewall - Download link to Comodo Firewall. 
+ - Desktop Icon Layout - Allows you to save your desktop icon setup.
+ - Hibernation - Turns Hibernation on/off with one double click. 
+ - Keyboard Settings - Quick way to open "Regional and language Options"
+ - Keyboard Shortcuts - Lists dozens of shortcuts you can use.
+ - Registry Backup - Easily backup your registry in one double click.
+ - TCPIP Patcher - Patch your tcpip.sys to allow 255 connections, not 10.
+ - User Password - Easily change your password for Windows.
+
+ ________________________________________________________________________
+
+ QUICK LAUNCH ENABLER
+
+ On the desktop is a tool that can enable Quick Launch and make it
+ just like it was in XP/Vista.
+
+ If the program doesn't make Quick Launch the first time, just remove
+ the Quick Launch toolbar and run the enabler again.
+
+ Program created by ntoskrnl.
+
+ ________________________________________________________________________
+
+ RIGHT-CLICK "Computer"
+
+ On the right click of "Computer" you have the following added:
+
+ - Advanced System Properties
+ - Device Manager
+ - Edit Registry
+ - MSCONFIG
+ - Services
+
+ ________________________________________________________________________
+
+ REMOVED COMPONENTS
+
+ PART 1/3: DISM
+
+ With DISM the following packages were REMOVED:
+ 
+ - Anytime Upgrade Results
+ - BLB Client
+ - Business Scanning Feature
+ - Clips In The Library
+ - Printer Drivers
+ - WinOcr
+ - GroupPolicy Client Extensions
+ - IIS WebServer AddOn
+ - IIS WebServer AddOn 2
+ - Indexing Service
+ - IE Troubleshooters
+ - Links
+ - Local Pack AU
+ - Local Pack CA
+ - Local Pack GB
+ - Local Pack ZA
+ - Local Pack US
+ - Mobile PC Client Sensors
+ - Optical Media Disc
+ - PeerDist Client
+ - Printing XPS Services
+ - RasCMAK
+ - RecDisc SDP
+ - Sample Content Ringtones
+ - Secure Startup
+ - Share Media Control Panel
+ - Shell Home Group
+ - Sidebar Killbits SDP
+ - StickyNotes
+ - Terminal Services Command Line Tools
+ - Terminal Services Misc Redirection
+ - Terminal Services Publishing WMI Provider
+ - Terminal Services Remote Applications Client
+ - Terminal Services USB Redirector
+ - Terminal Services WMI Provider
+ - Windows Media Player Troubleshooters
+ - WMP Network Sharing Service
+ - Networking MPSSVC Rules Ultimate Edition
+
+ ___________________________________
+
+ REMOVED COMPONENTS
+
+ PART 2/3: DELETED DIRECTLY FROM MOUNTED IMAGE:
+
+ About 550Mb was removed from:
+ Windows\System32\DriverStore\FileRepository\
+ These items were: Printer Drivers, Camera Drivers.
+ 
+ About 3700Mb was removed from:
+ Windows\winsxs\
+
+ Other miscellaneous items were removed like the contents of the
+ Recovery folder and certain folders from the Web folder.
+
+ ___________________________________
+
+ REMOVED COMPONENTS
+
+ PART 3/3: vLite
+
+ In vLite the following items were REMOVED:
+
+ (vLite "Last Session.ini" is included in the sources folder)
+
+ Accessories:
+ - Games
+ - Speech Support
+
+ Drivers:
+ - Diva Server
+ - Printers
+ - Scanners
+
+ Languages:
+ - Japanese
+ - Korean
+ - Simplified Chinese
+ - Table Driven Text Input Processor
+ - Traditional Chinese
+
+ Multimedia:
+ - Media Center
+ - Music and Video samples
+ - Sample Pictures
+ - Screensavers
+ - Wallpapers
+
+ Services:
+ - Error Reporting
+ - Windows Search
+ 
+ System:
+ - BitLocker Drive Encryption
+ - Help
+ - Manual Install (Setup.exe)
+ - Natural Language
+ - Security Center
+ - System Restore
+ - Tablet PC
+ - Windows Defender
+ - Windows Easy Transfer
+ 
+ ________________________________________________________________________
+
+ Special note from eXPerience:
+ 
+ I have used this modded OS for a few days and it seems every bit as fast
+ as Windows XP. If you have always wanted to use Vista, but were holding
+ out for Windows 7 - its worth it! This slimmed edition boots up fast,
+ shuts down fast, opens applications fast, even VMware v5.5 runs fast
+ on it once its started up. File copying seems no slower than XP. All
+ in all this new Windows really blows away XP because of all the new
+ features. You have to remember XP is from 2001 when no one even had
+ such a thing as "Wireless" or a SATA drive. Now all this new hardware
+ runs on Windows XP but the OS was never designed to run it really.
+ You might wonder why not just use Vista - don't even go there. Lets
+ just pretend Vista never existed. In fact Microsoft should have not
+ ever released it but I guess they had to in order to improve on it
+ and eventually get it right - with Windows 7.
+
+ ________________________________________________________________________
+
+ Don't forget To Join The Forum @ SnipeR's Redemption Network:
+  http://forum.retestrak.nl/
+
+ Enjoy this fine release from eXPerience 
+
+ Build Date: 31st August 2009
+
+ Release Date : Late Summer 2009
+
+ ________________________________________________________________________
+
+ ISO file MD5 checksum:
+ F20AFF0BC34E4965531B48FE36589D52

@@ -1,0 +1,41 @@
+User Type,Username,Date,Text
+,SoulFirez,2011-03-22T13:07Z,"Damn you have to be one of the most active uploaders going, and now helping out others.
+
+I tell you my nights home when i am back from the mines wouldnt be the same without you but keep them coming mate i still got 8tb of hd space to fill 8). Silly question is there some way to give rep or something to you so your better known to the community (like in normal forums) here on the pirate??"
+[V],HolyRoses,2011-03-22T14:23Z,no.  you could leave useful comments on torrents perhaps.
+,tim9294,2011-03-22T14:52Z,"Hey, Holyroses i love your work. It always top on line. 
+
+
+Wondering if you could seed this.
+Much appreciated."
+,tim9294,2011-03-22T18:54Z,"i got it 
+
+---thank you"
+[V],HolyRoses,2011-03-22T19:26Z,"It's only designed to work with these version of x264 and ffmpeg, below is source code download.  Also is link to pre-compiled static ffmpeg.  Binary is for linux.
+
+http://rs.com/files/385137995/x264-0.83.1391.tar.gz
+http://rs.com/files/385136990/ffmpeg-21221.tar.gz
+http://rs.com/files/385149602/ffmpeg-21221-linux-static-compiled.tar.gz
+
+replace rs.com with well known digital locker.  you will also need mkv tools and a52dec and a few others perhaps.  the script will complain to you and let you know.  Most of the tools you can get through apt-get or yum."
+[V],HolyRoses,2011-03-22T19:29Z,"will also need AtomicParsley, get off bitbucket.org."
+,tim9294,2011-03-23T01:59Z,"Thanks holyroses. Never used atomicparsley for coding.
+
+I'm willing to learn. "
+,ultimagic,2011-03-23T12:09Z,"hey men, is it possible to extract the h.264 and aac codec from mp4 to m4v? just like YAMB. thanks"
+[T],qwersd,2011-03-23T17:00Z,awesome mate...
+[V],HolyRoses,2011-03-23T17:54Z,"@ultimagic not sure what you are asking here, wondering if you have a typo in there :)
+
+mp4 and m4v are essentially the same.  rename .mp4 to .m4v if you like."
+,Critic_101,2011-03-23T23:42Z,"R.I.P ""POPPEDTART"" was good while you lasted!!"
+,ultimagic,2011-03-24T06:18Z,"@HolyRoses
+oh i see, just simply rename it. i just notice that M4V is smoother than Mp4 when i played it in itunes. thanks"
+[V],HolyRoses,2011-03-24T06:33Z,"oh, well that is likely just due to the encoder using different settings.  Not all mp4 is the same.  can be vastly different depending on who encoded it and the settings they used."
+,ultimagic,2011-03-24T11:02Z,"yeah, i play 720p @ 1800kbps(2.35:1) and it's very laggy and yours is 3000kbps(16:9) and plays smoothly. your right, maybe the settings of the encoder."
+,afranc,2012-01-23T12:58Z,"hi HR, can I ask you what is the command line you use to create m4v for appletv using as a source a mkv with DTS audio.
+I know you've been taking some rest so I decided to take a shot using some mkv's from bozx.
+I want to create exactly as you do with ac3 and acc audios.
+thanks for your work and enjoy your time off :)"
+,afranc,2012-01-23T13:30Z,"just to make it clear. I'm using the following command:
+encode-handheld-5.4.pl -m4 -t appletv -pbMS
+are these the parameters you use?"

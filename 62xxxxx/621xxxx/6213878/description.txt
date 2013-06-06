@@ -1,0 +1,10 @@
+Description:
+graf_chokolo's custom Linux kernel 2.6 for the PS3. With this kernel you'll get:
+Added new PS3 hv calls
+Added possibility to access more than one region of a PS3 storage device simultaneously
+Added new PS3 NOR and VFLASH block device drivers
+Added new PS3 RAM misc device driver that enables direct read/write access to the whole
+RAM of PS3
+Added PS3 VUART 10 (Dispatcher Manager) support
+Added new PS3 Dispatcher Manager Proxy misc device driver
+Fixed return value in ps3ram_ioctl

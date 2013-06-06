@@ -1,0 +1,50 @@
+Crysis 2 - Build 5620 Benchmark Addon + Optional CFGs
+==========================================
+
+Required - Crysis 2 (5620) developer leak
+
+
+Provided - Benchmarks Addon
+
+             - Cleaned up Bin32 dir (AI fix & no protect included)
+
+             - Modified Engine.pak for Benchmarks Addon support
+
+             - Optional cfg files (tested on GeForce GTX 275)
+
+
+Installation - Delete the original "Bin32" dir & replace with the provided one
+                - Copy the provided Engine.pak, replacing the original
+
+
+Optional - Copy the provided cfg files, replace "system.cfg"
+
+             - These cfg files have been adjusted for maximum possible quality
+               and performance, inside are descriptions of most CVARS.
+
+             - Realistic HDR, Global Illumination, Shadow fixes, Shader Optimization &
+               NO Texture Streaming, are only some of the modifications included in the cfg.
+
+             - Multiplayer LAN workaround is also included (use Tunngle/Hamachi)
+
+
+Description - Basically this addon allows you to benchmark Crysis 2 performance on your machine.
+                   In the "Benchmarks" dir, there are 4 CPU Benchmarks & 4 GPU Benchmarks included.
+                   The optional cfgs provided have been extensively tested on a GeForce GTX 275
+
+
+NOTE: If you are planning on running Crysis 2 (5620) in 64bit (Bin64), best forget about it.
+          The 64bit executable has sound issues, AI issues and countless other problems.
+
+Though the 4th level of quality is not FULLY implemented in the leak, the provided CFGs will force VeryHighSpec. 
+           
+           The only differences between HighSpec & VeryHighSpec are:
+           -polygon count (tris)
+           -higher quality particles
+           -shader calculation changes (only visible through debug)
+
+
+THIS ADDON DOES NOT ADD OR ENABLE DX11 SUPPORT. IT IS NOT AVAILABLE IN THE LEAK
+
+
+ENJOY :)

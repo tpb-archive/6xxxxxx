@@ -1,0 +1,62 @@
+User Type,Username,Date,Text
+,robsinbc,2011-03-05T02:53Z,"thx RobbingHood;
+always appreciate your shares!
+i followed the instructions to the letter, but it says it's only licensed till 4/4/2011
+any help?
+thx"
+,robsinbc,2011-03-05T04:11Z,"P.S. - windows 7 - 64 bit..
+cheers"
+[V],RobbingHood,2011-03-05T12:40Z,"@robsinbc 
+
+It's working here, but I'll check it again (on other computers)."
+,matthill4569,2011-03-07T03:16Z,"same here bro. .   followed the directions throughly,  and it says expires on 4/6/11.  im on windows 7 pro x64.  but thank u for all ur time and dedication, its much appreciated."
+,nvh1409,2011-03-08T07:11Z,Same for me m8 but I do thank you for all your time and effort it is appreciated :-)
+[V],RobbingHood,2011-03-08T20:45Z,"IN CASE OF LICENSE PROBLEMS:
+****************************
+Remove the lines in the Config.ini file, and add the following lines
+(should be good til march 03 2094):
+
+[lang]
+Language=English
+[RunTime]
+RunDate=40602.7611953819
+[General]
+Language=English
+CheckUpdate=0
+News=0
+NewsID=0
+Disc=3
+ExpiredDate=70921.6910998958
+[Global]
+CurBnumber=209
+[DiskCleaner]
+History=1
+Cookies=1
+WinPatch=1
+UserTmp=1
+WinTmp=1
+PatchSource=0
+Recent=1
+Shortcut=0
+ScanDisk=0
+StartDate=40602.7611953819
+DeleteTo=
+ClearMode=2
+LastSearch=
+[Scrubber]
+ShellEx=0
+[RegCleaner]
+EnableUndo=1
+ScanMode=0"
+,matthill4569,2011-03-09T11:38Z,"the fix worked, good till march 2094!  you sir, are a gentleman and a scholar!  thank u bro."
+[V],RobbingHood,2011-03-09T13:57Z,"@matthill4569
+
+Anyone can mess around a bit with the ExpiredDate of the Config.ini.
+Replacing and trying different numbers will change the license date, month, and year."
+,robsinbc,2011-03-09T23:20Z,"@ RobbingHood;
+the fix worked perfect -  good till 3/3/2094
+
+thx + cheers!!!"
+,smithcarl,2011-03-16T14:59Z,RobbingHood  thank u bro................
+,pearst,2011-05-09T07:23Z,Hi can u explain how to edit config file in window 7. I am novice. thanks Proj
+,Kanga666,2011-06-06T16:55Z,"Thanks very much! Great program! However when I tried the license fix I wasn't allowed to save... Got a contact the admin message. As I am the admin and I was in contact with myself the whole time, I'm confused as to what to do next. Any ideas? "

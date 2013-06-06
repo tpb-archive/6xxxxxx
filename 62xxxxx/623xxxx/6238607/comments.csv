@@ -1,0 +1,114 @@
+User Type,Username,Date,Text
+[V],FalconFour,2011-03-12T22:24Z,"Beautiful, as usual I forgot to escape my backslashes in the description. Damn you, TPB. Damn you to hell. I'd think after all these years of fucked-up description parsing, you'd've fixed that bug in the code that causes special characters to get double-escaped. /sigh"
+,demonish666,2011-03-13T03:19Z,Many THANKS!!! 
+[V],FalconFour,2011-03-13T03:58Z,"Thanks, many late nights and resulting dead-tired mornings of going to work went into this version :)
+
+Also noticed it's not backslashes we're having trouble with this time (unlike previous versions)... it's the greater-than and less-than symbols (HTML tags), that are getting double-escaped. Basically it seems to be searching for those intentionally (like, a pre-posting scan for HTML tags), then it runs the whole thing through an htmlspecialchars()-style (PHP) function. That results in re-escaping the already-escaped characters in the description. D'oh. Come on TPB, fix this. :P"
+,Dorogaja,2011-03-13T13:06Z,"Thank you Falconfour, I was in need for this :) Awesome"
+,Haywood Yublome,2011-03-13T18:17Z,"Awesome, thank you FF."
+,jay are two,2011-03-17T17:51Z,"Sweet, thanks much.  =]  Awesome toolset you have put together, it reduces the workload tremendously for me."
+,Nishinoran,2011-03-24T07:13Z,"Awesome! This disc is incredible! I haven't been too happy with the recent Hiren's rebuilds, and the actual disc is missing a handful of key tools, your disc solved most of my issues. For one, it is significantly easier to customize, so I can add whatever I feel is missing, and even without my own personal touches, the disc is significantly better, great work! :)"
+[V],FalconFour,2011-03-25T06:13Z,"Thanks guys! Definitely inspiring to me to continue work on it... like v4.0 I still plan on doing ""Micro"", but I also want to do a ""Mega"" as well, without cutting any corners (including AV definitions, DaRT 5, 6, and 6.5 x86/x64), etc. Stay tuned of course :)"
+,Sne9x,2011-03-31T20:43Z,Can this be used for offline registry editing?
+,PhantomBlade,2011-03-31T22:25Z,"Awesome disk you just saved my life. My pc kept crashing on me due to my hdd becoming faulty. I popped this disk in, imaged my disk across to a new drive and have had no problems so. Thanks man!
+How ever on future builds is there a way to use win xp sp2 or later as the base for the mini xp?"
+[V],FalconFour,2011-04-02T14:47Z,"@sne9x: Use ""Registry Editor PE"" in MiniXP. It'll locate and load your offline registry for editing in the all-too-familiar regedit :)
+
+@PhantomBlade: Thanks! MiniXP is an odd thing, it's a very stripped-down Windows NT 5.1 core (hardly even considered ""XP"") but is already mostly built using SP2 components. Is there some particular tool that's complaining about SP2?"
+,PhantomBlade,2011-04-02T21:02Z,"It is not a tool. The OS in my netbook corrupted, so I went to re-install using minxp to launch the iso file from my external HDD.
+However it says I need to update to sp2 or later.
+My netbook has no disk drive and the iso is unbootable so I can't convert it and install from usb.
+"
+,felacio,2011-04-03T02:46Z,"@PhantomBlade
+Use xboot with this iso or any iso you'd like and you are good to go "
+,PhantomBlade,2011-04-03T08:38Z,"@felacio 
+Unfortunately my iso file is unbootable so unless you can find a fully functional win xp sp2 or later live iso then xboot is no good."
+,Bakerboy448,2011-04-08T04:44Z,"@PhantomBlade
+http://thepiratebay.org/torrent/6230196/Microsoft.Windows.XP.SP3.Professional.March.2011"
+[V],FalconFour,2011-04-08T07:42Z,"You *cannot* install MiniXP to a PC, it can only run from the disc. Believe me, I created the disc (but can't take credit for all of MiniXP)... and I can't even get the damn thing to boot from a hard drive. I mean, I could probably hack Grub4DOS onto a hard drive and boot it that way, but it'd still be a RAM-loaded, read-only drive... it's just not ""installable"".
+
+Windows XP install ISOs are a dime a dozen... really, really not hard to get :)"
+,milanzec,2011-04-10T18:09Z,"I am having the same issue with this as I had with hirens, I cant get my wifi to work! I can run the internet fine if I connect directly to the router via ethernet, but it will not give me the option to connect via my onboard or usb wireless card. I got everything else to work but this and I know it has to be something stupid because it's on both my windows vista laptops (one dell one lenovo) that it does it, not just one, so it's not a hardware issue.  Please help this disk is amazing otherwise! "
+,nuxbag,2011-04-12T23:58Z,@milancez you need to select the dorp down box in net work support and choose your wifi 
+[V],FalconFour,2011-04-14T09:24Z,"Wireless drivers ARE NOT UNIVERSAL... there are only a selection of Wi-Fi drivers available. Wi-Fi support is merely a convenience, and F4UBCD is not meant to be used as a computer's OS. You boot it, fix the problem with the computer's startup, and EJECT it, move on to the next system or shelve it for the next time something breaks. If Wi-Fi isn't working, you just reach for an Ethernet cable and plug it in. Not even on my radar for fixing this ""issue""... no way all Wi-Fi cards could be supported here."
+[V],FalconFour,2011-04-14T09:27Z,"As an estimate, I'd say only about 50% or less of Wi-Fi cards in laptops are supported. It's a ""nice surprise"" to see that Wi-Fi is working on any given computer you boot it with. Windows drivers are so picky, there will never *ever* be a single universal ""one size fits all"" solution. Don't expect it to work... but be happy when it does. There's no real reason to need Wi-Fi in MiniXP anyway!"
+,furtive,2011-04-19T06:05Z,"FalconFour,
+
+Thanks a lot for making this. I can tell a lot of time and effort went into it. 
+
+I'm personally looking forward to trying the 0x7b hdc fix."
+,darkmanmd,2011-04-20T02:21Z,"Yo..yep you, the guy with all the talent. Gotta tell you sir, I have never seen a prettier and more functional creation than Your Ultimate Utility Boot CD. It is a real masterpiece. Hell, you might as well have gone ahead nd built windows 9!!! Sincerely Mate, nice work. I know that yo  didn't make that offering for new guys like me, but since there are new guys like me, likely to pick it up. I was wondering if you might add a few directions inside... eg. I've got a dead laptop drive. I used 4 or 5 of the tools, AND although it sometimes looked like it was gonna make it through, it just teetered out at the end. No formatting :( How about giving me a clue. If you could care less about the data reclamation, which tools and in what order would you employ them to see if we might resurrect this Hitachi animal? I could use a little help. Any reply would be appreciated. Thanks again for all of your efforts. It could not have been easy FalconFour. Take care."
+,ICPeti,2011-04-29T14:54Z,"Great job, FalconFour!!! Many thanx, Your CD/USB versions has done it all easier for me; more time 4 relaxx :D"
+,The_Harlequin,2011-05-01T09:42Z,"Beautiful work as always, FalconFour. You're a legend, mate!"
+,MrCyberdude,2011-05-13T15:39Z,"Nice work, just voted you up."
+,Solidus-Snake,2011-05-15T16:24Z,"Thanks for sharing! Great disk!
+
+If you're looking for the latest DaRT/ERD, you should download Microsoft Desktop Optimization Pack 2011. http://thepiratebay.org/torrent/6239105/MICROSOFT_DESKTOP_OPTIMIZATION_PACK_2011_%5Bthethingy%5D
+
+Or google this SHA1 hash
+
+848B59800A357BDAAB2C03BEDC1ED2FC77FEC404"
+,qwq324ww,2011-05-18T22:27Z,"FalconFour,
+
+Thanks a lot for this"
+,shapeshifter910,2011-05-30T09:09Z,"Couldn't find HDD Regenerator.
+Was it removed?
+If so then what do you use instead?"
+,h1ghl1fe,2011-05-31T21:13Z,"Thanks FalconFour, you have made my job so much simpler with your collection of tools.  I have imaged your disc to a bootable USB hard drive and now all your tools are available extremely fast : )
+
+Also added install discs for the different OEM versions of XP/Vista/7 for fast, easy and legal installations of Windows.
+
+4.5 is the best release yet, keep up the great work, good sir."
+,TheSdrawkcab,2011-06-01T21:52Z,"I have no idea what to say, but thanks man. There aren't any amount of words that can really show gratitude for all the work you've done. You sir, are an I.T legend in my book! Thanks so much and all the best!"
+,beastage,2011-08-19T18:39Z,"Awesome work, a life saver at my work :)"
+[V],FalconFour,2011-09-09T00:00Z,"You all make me so warm and fuzzy feeling :D
+
+HDD regenerator: never used it, I didn't remove it but it was probably pulled from Hiren's. There's no decent recovery software out there that I know of, and hard drives can only be re-surfaced (repaired) in one way: read ALL sectors (to find all the bad blocks and flag them in SMART), then run a proper FORMAT (with MHDD) or WRITE (with HD Tune) across the whole drive, which will ""regenerate"" and re-test any failing sectors. Recovery is only possible with what the drive gave you to begin with, using Active File Recovery. And a word of advice: DO NOT USE SPINRITE ANYMORE. Spinrite is obsolete. I've had it kill multiple hard drives by constantly slamming them with repeated read-requests of bad blocks, which trashes the heads (especially when the drive's failure-mode consists of slamming the head each time) and makes the REST of the drive unusable as well. Don't use Spinrite. ESPECIALLY do not use Spinrite to try to ""repair"" a damaged drive back to operation - if you don't need the data, READ AND WIPE IT. That's the only way to repair a modern ""intelligent"" drive (any drive in the last 10 years, including all SATA drives).
+
+For anyone looking to show some love, Bitcoin (weusecoins.com): 19U5krMNrScHWdVurD8dHAUmd9Hb9onLJV - any amount is welcome :)"
+,FailedSuicideAttempt-,2011-09-23T06:37Z,"Thank you FalconFour.  Wanted to say that first.  But though SpinRite 6 has limitations of such as not working with large Hard Drive sizes; however your interpretation of it killing your hard drive are incorrect.  
+If a hard drive is suspected to be failing, some examples heads failing, bearings failing, or if you've been using a monitoring program and noticed a growing number of bad sectors you should NOT be using Spinrite.  It isn't that SpinRite will be damaging your hard drive (that has already occurred) however what spinrite does is excessively exercise a drive, this is something a heathy drive has no difficulty with as it represents what a hard drive is made to do and that is simply read and write every sector as a 0 or 1.  The program is VERY GOOD at what it does, but unfortunately people are using it incorrectly on problem A.K.A. bad or failing drives and then they draw the conclusion that SpinRite killed it.  This is incorrect.  It simply did what your computer or server would have done over the next minutes, hours, days or weeks depending on your use.   ""I've had it kill multiple hard drives by constantly slamming them with repeated read-requests of bad blocks, which trashes the heads""  This is not a correct statement.  If a sector is located that cannot clearly be read and write both a 0 and 1 and back again then it is a bad sector and is marked, taken out of service and the data that can be recovered is relocated to one of the drives spare sectors."
+[V],FalconFour,2011-10-01T02:23Z,"Little bit mixed up in that reply, there. It doesn't ""exercise"" the drive, as normal operation of the drive doesn't entail 100% of the drive's read-requests of the same failed sector (that the drive cannot repair on its own until it's given a ""write"" command to that sector instead of ""read"" - simple logic there, buddy). That constant re-reading invokes the drive's recovery mechanism each time, which often consists of 10-20 seconds of the drive slamming/dropping sync of the head, resyncing the head, attempting to read the sector again, slamming the head on loss, resyncing, re-reading, slamming, resyncing - THAT'S the ""click"" noise you hear when you're reading a dying drive. It's not gentle. It ruins the heads (instead of the disk surface, which can be remapped), which ruins the whole drive at once. And Spinrite does not repair the drive, it simply issues a ""write"" to the failed sector once it recovers enough data to convince it to move on (after about 2,000-3,000 drive-damaging ""reads"" of the same sector), then verifies that the drive repaired the sector by verifying that last write. Then it moves on.
+
+The EXACT same thing can be accomplished by performing a blind read of the whole drive (a ""surface scan"" and ignoring any read errors), then writing the whole drive with zeroes (or just areas of any sectors with read errors). The drive will then be able to test and optionally remap any errors that occurred during the initial read operation. This doesn't recover data, but it WILL repair any hard drive that can be ""repaired"" with Spinrite, to a functional status.
+
+Spinrite is strictly used for RESTORING data to a FAILING drive. It's not even a data-recovery program, its sole reason for existence is to try to ""make a failing drive look better"", and restore some of the damaged data in the process.
+
+It's best use today would be on floppy disks. They have no error correction, frequently degrade their data, and can often be repaired by rewriting the degraded track on the disk. We don't use floppies. And because Spinrite uses a piss-poor disk-interaction methodology - blindly re-reading a failed sector thousands of times without consideration of the drive's actions (and time) - it really serves no useful purpose in today's technology.
+
+Although I'm still open to anyone that could explain otherwise."
+[V],FalconFour,2011-10-01T02:29Z,"Long story short (tl;dr): if Spinrite isn't meant to be used to recover data from bad/dying drives, then please explain to me what in the hell it IS good for? It's sure not for testing drives - most if not all of its interface is geared towards ""recovery options"" and ""recovery status"", so please enlighten me what it's supposed to do if not attempt to work with dying/damaged drives?"
+,matrixrips,2011-10-12T18:26Z,You are amazing FalconFour! Thanks so much for this Bootable CD!!!! :) 
+,cefca,2011-10-16T19:56Z,how would one go about making a bootable usb drive out of this?
+,SteamPower413,2011-10-18T19:35Z,"I found this Vs (4.5) while downloading Vs 1.5, is there any advantage to having both? (It's free, so WTH?) or should I just delete the 1.5 download?
+
+Thanks in advance, I'll write a longer review once I try it out! :-) Hopefully it will help me revive the HDD on my Acer Aspire 1..."
+,SteamPower413,2011-10-18T23:59Z,"Excellent! Boots fast! A true PC toolbox on a CD.
+My Acer HDD is toast, But at least I know for sure now... "
+[V],FalconFour,2011-10-19T23:35Z,"Haha... just delete v1.5. It's only there for historical preservation. Each new version adds shiny new toys and works better than the last version, at least, that's how I designed it to be ;)"
+,cybershaman,2011-11-13T14:55Z,"thank You, falconfour! i use Your hirens version since 2.0 and everytime with thankfulness and better results - in fact these tools are majority from my own utility collection and if i were computer programmer i would do the same as You and hiren.  but please, falconfour, help me to tune or make Yourway so, that the embedded minixp may run on laptop with 128mb shared memory - older laptops are virtually impossible to enhance sometimes. and there are plenty of users on earth with old pcs wich want to use the most reliable bag of tools known today. as for today, i know only the digiwiz compilation from experience's ultradvd wich runs on my old toshiba 4060 with 128mb of ram. all other live windows-cds want exactly 128mb ram or more. thank You again, falconfour for the great working. wish that You release more often microversions. and yes, just like You i often look in the skys for saying hello to some human-maded falcon."
+,Nightbreeder,2012-02-17T16:06Z,"Awesome dude !! Thank you for this, I was building my own but now I dont have to. :)
+I suck at GUI's anyways. As long as this torrent is still alive I will check back in and flip ya a few bux.
+
+Mind you, you have the job I wanted to get back into :P But when all of bluddy Toronto has flagged you as an overqualified 'company' man ( just cuz I saved the last place I worked for 120,000 by accident, Bigbossman was hiding in the elevator while I was discussing writing a nice batch file for the login server to auto grab new virus sig's and fix all 4000 pc's in 30 mins ) - Sounds like a good thing, but when your whole department loses their OT because of it, well ya know. LOL
+
+Now I drive Rig and do Home systems. lala Anyways again thanx a butload, had a massive outbreak of some serious joo joo malware around here, so this makes my side job alot easier.
+
+ I have one request, and if can fill it I will wire you 10k right off the hop.
+
+Can you make a fix-it disk for my wife ????!!!
+
+Cuz I have ran out of ideas. My only idea I have left for that problem is called my old 36oz cooper magnum baseball bat 'fix it disk' :)
+
+Fine 20k, and I will pay for the marketting fees and TV advertisements, if it works. ( I mean your fix it disk not MY ""fix it disk"" :)
+
+Cheers Duder"
+[V],FalconFour,2012-02-20T09:51Z,"@Nightbreeder: Whoa.
+
+Facebook. Hit up the f4ubcd page, look at ""page owners"" on the side, and send me a message. Because I have no idea how to take you up on that offer. LOL
+
+Dude, if I even made more than $100 off this disc, I might be inclined to put more effort into a new version... donations are so slow, the last one was... *checks*... almost a month ago (1/24). Even if you aren't serious, lol... I'd still love to help for *something* more than table scraps, haha... I save the day every day at my stuffy corporate job, and I barely take home enough to pay rent and minimal bills (split with roommate). "
+,BruzeWill,2012-02-25T21:18Z,"Great winPE interface. Identifies my wireless hardware with ease. But my only request: 
+I would love to boot this from an USB and the accompanying usb boot software is not cutting it, for this novice. 
+But my final word is this is an awesome cd! Great work!"
+,BruzeWill,2012-02-26T17:39Z,"Ok this is awesome. The other day I made the cd and found full functionality on apps like winPE, wireless network, ghost 11.5 etc. Today I followed your instructions closely and now have great boot usb. GREAT WORK. This is a deep well of resources to play around with."

@@ -1,0 +1,38 @@
+This is my second contribution to TPB. Please - leave some comments and let me know what you think!
+
+
+This is a Magic Memory Stick with the programs necessary to install CFW Prometheus 5.50 onto your psp.
+
+DISCLAIMERS:
+You NEED a Pandora Battery to do this.
+Don\'t do this on a PSP that doesn\'t support it.
+
+
+
+Packaged stuff includes:
+
+PSP Grader 8 w/5.00 eBoot
+GEN-D3
+Prometheus 5.50
+JoySens
+PopsLoader
+CXMB
+PSP-FTPD
+
+
+
+Installation Instructions:
+
+Back up all of your files on your mem stick on your PC.
+Place this file onto your mem stick root (ms0:) and extract it.
+Open RUN.ME, using the PSPgrader.exe.
+Don\'t select format, select Create Pandora Stick.
+Activate/insert your Pandora Tool battery from a cold boot - holding the left trigger.
+Select 5.00M33 and reboot when done.
+Select GEN-D3 from MS Game menu, reboot when done.
+Select Prometheus from MS Game menu, reboot when done.
+
+Ouila! Finished.
+
+
+_DuctTapedGoat

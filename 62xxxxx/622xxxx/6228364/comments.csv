@@ -1,0 +1,39 @@
+User Type,Username,Date,Text
+,marcellocord,2011-03-08T19:20Z,"hey man, file extension still buggy, i've tryed running in administrator, and still the same thing, if I select a extension, apply, deselect and apply, the file get none extension"
+,marcellocord,2011-03-08T19:21Z,"*windows 7 ultimate 64x"" \/"
+,robsinbc,2011-03-09T01:22Z,thx - much appreciated
+[T],XxFukenGruvenxX,2011-03-09T03:46Z,"there you go, i was beginning to think you were missing :)
+
+another great update as usual, something for me to do now.
+
+thank you, seeding."
+,ptmp,2011-03-09T18:06Z,nice upload....
+,Tiny Turtle ,2011-03-10T21:18Z,"This one just as previous versions (I've tried 1516 & 2429) is broken. When using the Cinema mode (i.e. from inside Windows Media Center) the SPDIF digital sound output is muted. Playing the same disc in the standalone player works just fine and using analog output in Cinema mode works as well.
+
+There was a major thread about these issues over at CyberLink's forum but the complaints died out when they figured out that everybody with the issue were using a pirated version.
+
+ADHDerby, Are these newer releases ""new from scratch"" or are they just patched versions of an original crack which will make the bug perpetual?
+
+(Of course this could've been fixed since the 2429 version I had installed previously and the bug just remained because of a previous installation. - Can anybody corroborate?)"
+[T],ADHDerby,2011-03-11T13:42Z,"@ marcellocord: I didn't experience this before but I've got the same issue now :/
+I'm also using Windows 7 Ultimate 64-bit (Service Pack 1)
+
+@ XxFukenGruvenxX: I've been busy (got a third kid recently) ;)
+
+@ Tiny Turtle: I've fixed this a few builds ago (one of the license files was outdated).
+The SPDIF output in Cinema Mode works fine here. You can download and install the trial version to check if it has the same problem."
+,Tiny Turtle ,2011-03-11T15:25Z,That's weird - but great news! Any idea on how to clean the registry (which I assume is what's required). Maybe there's some sort of cleanup tool (I vaguely recall seeing a link to somtething like that although I might be confusing different programs here.
+[T],ADHDerby,2011-03-11T17:24Z,"You can try this: First uninstall PowerDVD, download and run CLCleaner-PowerDVD10.0.exe
+http://forum.cyberlink.com/forum/posts/downloadAttach/3452.page (rename .e__ to .exe)
+Reboot and install PowerDVD with Administrator rights."
+[T],ADHDerby,2011-03-12T00:44Z,"+ If you have a RealTek Audio chipset, then make sure that you have installed the latest drivers."
+[T],ADHDerby,2011-03-13T01:14Z,"They changed the skin again :/
+If you use old skins, the tabs won't hide in full screen mode.
+
+PowerDVD 10 Skinpack for build 2701: http://thepiratebay.org/torrent/6238848"
+,marcellocord,2011-03-15T20:20Z,the way i fixed this problem was installing v10.0.1705.51 and updating from the official site to 10.0.2701.51 and copying the PowerDVD.sim from this torrent to the PowerDVD folder 
+,Galendo,2011-04-01T08:57Z,"Question, when an update to powerdvd is released, do can you update it like the official versions or do we need to come back here to you :)?"
+[T],ADHDerby,2011-04-03T01:16Z,"You can safely update it,.. just make a backup of PowerDVD.sim and copy it back after the update."
+,Tiny Turtle ,2011-04-18T08:35Z,"Sorry for not getting back earlier, but I just wanted to say that using that CLCleaner fixed my problem.
+
+Thanks!"

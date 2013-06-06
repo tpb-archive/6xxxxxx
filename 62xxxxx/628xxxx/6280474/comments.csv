@@ -1,0 +1,107 @@
+User Type,Username,Date,Text
+,idontcare007,2011-03-29T16:42Z,WAAAW!!
+,gpstorrentz,2011-03-29T18:52Z,"doesnt work with 3.55 even if you use the insluded eboot.bin 
+"
+,ajtongurizi,2011-03-29T19:19Z,ı have gaia for kmww 3.55 do you know its gone work
+,gpstorrentz,2011-03-29T19:49Z,"i tried with gaia manager and multiman, both didnt work :("
+,ajtongurizi,2011-03-29T23:15Z,thanks for info ...
+,ajtongurizi,2011-03-30T01:31Z,did someone started the game
+,cheesymic,2011-03-30T05:42Z,i have got this working 3.55 kmeaw multiman 16.11 just replace the eboot with the one includede and on multiman press select and x for first boot works great
+,cheesymic,2011-03-30T05:43Z,fully working just replace the eboot with one included
+,cheesymic,2011-03-30T05:45Z,yeah sorry about second comment i thought the first one had'nt worked
+,-spook-,2011-03-30T07:38Z,Works a treat. Thanks AiTB!
+,-spook-,2011-03-30T07:40Z,Could you please upload WWE All Stars for the PS3?
+,gpstorrentz,2011-03-30T07:42Z,"i have got an older version of multiman, i will update to the lastest 16.11 and try again
+
+thanks"
+,gpstorrentz,2011-03-30T18:06Z,it works :D internal hdd only
+,PS3HD,2011-03-31T11:16Z,im new to this... so how do you load the game onto the ps3?
+,gpstorrentz,2011-03-31T12:34Z,"@PS3HD
+
+copy the game to you usb drive or external HDD and connect it to your ps3. then copy the game from the external HDD to your internal HDD on the pas with multiman 1.16 or gaiamanager.
+
+it only works internal, if you try it external you will get a black screen freeze...
+
+good luck"
+,gabriel84,2011-03-31T18:18Z,"It works on 3.55 Kmeaw
+
+How I did it:
+First thing you need to follow the instruction here and replace the eboot.bin file (if you can't find it do a windows seach inside the folder)
+
+Before I Installed Multiman I used Gaia to copy the NFS2 to HDD (after I replace the eboot) On Gaia press ""O"" on the controller to activate the copy menu and then you should figure out what to do.  
+
+1- go to http://www.ps3-hacks.com/file/160
+2- download ""multiMAN 1.16.11 for 3.40 - 3.55""
+3- Inside the zip file you will find 3 package files
+4- Transfer file ""multiMAN ver 1.16.11 BASE (20110322_170000).pkg"" to USB drive root
+5- Install the package
+6- Now you should have Multiman installed on the menu
+7- Run Multiman app and look for NFS2 game (Make sure you look for the one in the HDD) and hold ""select"" and hit ""X""  
+8- It will ask you if you wanna lunch the game without going back to the PS3 Menu 
+9- Hit ""NO"" and then PS3 will reset and you will see the game loaded in the menu
+
+FAQ 
+* Yes you can have multiple Game Managers Installed like Gaia, Multiman Etc 
+* If you have Older version of Multiman you Delete it and install the new one
+* Cant think of anything else, have fun"
+,Alexnader78,2011-04-02T23:10Z,"I have the latest 16.13 Multi-man, used the included eboot and get a black screen ... must be an HDD only game once again, but I already have Vanquish and Killzone 3 on there so can't test it off the HDD right now."
+,sunieel,2011-04-12T22:31Z,"i have open manager does it work 
+can anyone give me hint about it"
+,Dekado,2011-04-14T20:44Z,Make it works with latest multiman and 3.55 firmware. just replaced eboot.bin with attached one.
+,akshu709,2011-04-16T04:14Z,"Hi
+
+I just bought a PS3 yesterday. I don't know how to install pirated game on the system. Can u plz help me out. Plz give me the steps for what other software i need to download and how to install them also. Plz it would be a great help.
+
+Akshayy"
+,Adeel080,2011-04-17T00:16Z,"AKSHU:
+First U have to Download Kmeaw 3.55 cfw. U can Search on GOOGLE..!
+When U finish Download.. U will se PS3UPDATE file..! 
+
+Time to install the custom firmware. This step is pretty much standard for all/any patched CFW file you may be using. Copy the newly created and renamed
+
+
+PS3UPDAT.PUP to your flash drive (/PS3/UPDATE/PS3UPDAT.PUP). And now update your PS3 firmware as normal via XMB.
+
+
+Note: If you get a error saying that your already at the latest update and it kicks you out, then you need to update your PS3 CFW via RECOVERY mode. TO boot into recover mode read THIS.
+
+
+I got that error first time going through so I went ahead via recovery menu to complete the process.
+
+
+
+If you see this on your XMB then the CFW installed properly:
+
+Step 3
+Install a backup manager (must be signed), I recommend and am using Rogero manager v7.9a:
+
+    multiMAN v1.13.15 (DOWNLOAD)
+
+
+Some notes on backup managers â€“ you must have any original PS3 game inside and you must boot from XMB.
+
+
+And there you go, you should have backups + PSN now running on your PS3
+
+Read more: PSGroove.com - Tutorial - How to Install Kmeaw CFW - No Bricking + Backups + PSN..."
+,Adeel080,2011-04-17T00:19Z,AKSHU: Just forget about errors..! all u need is to put KMEAW 3.55 CFW on USB than Install that Firmware .. Simply go to settings and There U will find SOFTWARE UPDATE just install KMEAW firmware.! You can also Watch on YOUTUBE..;) best of luck..! And Remember Do at your own risk If you have PS3 SLIM 320 Gb than it's fine to install.;)
+,R.Jonnys,2011-04-24T06:49Z,It did not work for me ... Even changing the eboot it asks for the version upgrade 3.56 ...
+,Gokulr1,2011-05-05T17:06Z,"THANKS UPLOADER! WORKED GREAT! :D :D
+easy as cake. 
+CFW 3.55-kmeaw, "
+,irfan_ace23,2011-05-11T21:16Z,"downloaded this, extracted the files to usb drive using 7zip, as G:\GAMEZ\BLES-01066 .. etc.., replaced the original eboot.bin in BLES-01066\PS3_GAME\USRDIR with the modified file from Shift.2.Unleashed.PS3-DUPLEX\dpx-nfs2.r00\NFS2.DUPLEX\Eboot\ (since i am using cfw 3.41), then installed multiMAN ver 1.16.15 BASE (20110409_190000).pkg.
+went into gaia manager to find that the game was showing as a game title, namely BLES-01066, and not by the game's real name, nehow, i copied the game to internal hdd and later started multiman to find out that this game wasnt showin in its list, i refreshed it , but still didnt show.
+then went back to gaia to mout the same game, when exited to xmb, the blu-ray disc was showing as 'corrupted data'. please help!!!!"
+,RatManiax,2011-06-07T07:26Z,Works great on PS3ITA 3.55! just replace the eboot and ur good! thanx! seeding..
+,harrowwwww,2011-06-30T03:00Z,I haven't done this before... if you get a step incorrect does your PS3 block up? Is it the same procedure for all PS3 models??
+,vadersny,2011-07-13T04:17Z,"works like a charm. thanks uploader... 
+
+HINT: hit (select+x) on multiman"
+,lateurzdesign,2011-07-15T23:54Z,Patch with Multiman and play with gaia no disc needed in bd
+,SoxPatsFanInKC,2011-07-31T01:02Z,All I get is black screen with Rebug 3.55 with MM from external. Any ideas?
+,diabolicalx,2011-07-31T06:15Z,"Working on 3.55 kmeaw with latest multiman on internal hdd with param.sfo patch applied.
+
+Doesn't seem to work on external hdd.
+
+If anyone is having problems try using the eboot
+thats included and replace the original."

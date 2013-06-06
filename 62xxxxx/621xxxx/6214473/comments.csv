@@ -1,0 +1,203 @@
+User Type,Username,Date,Text
+,ZidaneNL,2011-03-02T23:31Z,"Doesn't work (yet) on R4i Gold Revolution v1.4, firmware 1.44b."
+,tpbSurge69,2011-03-02T23:43Z,Games run on DeSmuME but they have the xp bug that stops your pokemon from gaining xp and leveleing.
+,ZidaneNL,2011-03-03T00:26Z,"@tpbSurge69
+Confirmed. My Tepig remains level 5. =')"
+,ronniemeas,2011-03-03T02:41Z,Works on akaio acekard perfectly!!!
+,ronniemeas,2011-03-03T04:02Z,Damn It no exp gained :(
+,Jackarus,2011-03-03T05:00Z,"I'm not sure why you're not getting any XP.
+It's working perfectly fine on my supercard and my Snivy gained xp and levelled up in the first battle.
+I'm using Black, are you using White?"
+,ZidaneNL,2011-03-03T08:12Z,I'm also using Black.
+,noblers,2011-03-03T09:07Z,can i use it on r4 card? 
+,ElDigato,2011-03-03T10:15Z,Is it good for No$gba?
+,ElDigato,2011-03-03T10:20Z,Does this work on No cash gba?
+[T],consolasatope,2011-03-03T11:59Z,"You have heare the patch:
+
+5584 - Pokemon White Version [EDCD5161]
+00004600: B0 68 8A 00 79 AA 19 72 13 9A B6 9F E1 CC 8B 10 â†’ 3C 00 9F E5 00 10 90 E5 38 20 9F E5 02 00 51 E1
+00004610: 6F 5B 4F A0 96 42 86 94 76 C3 26 C3 A8 DE 0F A0 â†’ 34 10 9F 05 08 10 80 05 48 11 80 05 2C 10 9F 05
+00004620: 67 61 FE DF 5A F9 45 41 DA 64 3C B1 23 5C 8A F6 â†’ A8 10 80 05 E8 11 80 05 24 00 9F E5 00 10 90 E5
+00004630: A4 4F EC 86 C5 A7 9C B9 41 BB E4 30 F4 FF 67 5D â†’ 20 20 9F E5 02 00 51 E1 01 10 A0 03 0A 10 C0 05
+00004640: 26 8E B1 79 8B 29 02 64 C9 D7 AA 3E 9A A4 83 EA â†’ 1E FF 2F E1 84 7F 18 02 4F 03 5F E1 37 B3 AA 36
+00004650: 70 FB D7 39 32 C6 6D 3A D2 6F 6F 7B â†’ 6A E0 AA 36 00 0A 18 02 1F FF AA 28
+00004EA4: 1E FF 2F E1 â†’ D5 FD FF EA
+
+5585 - Pokemon Black Version [E2BEE619]
+00004660: F5 68 9A FF 29 F8 80 02 A2 27 3C 92 20 AF 36 65 â†’ 3C 00 9F E5 00 10 90 E5 38 20 9F E5 02 00 51 E1
+00004670: AF 69 DE CF FC AA F4 9D 5F 9D D4 BA 8D 22 5A C7 â†’ 34 10 9F 05 08 10 80 05 48 11 80 05 2C 10 9F 05
+00004680: F1 23 08 E2 A1 2D CA BE 4F EE D2 8F D6 A8 9D 2B â†’ A8 10 80 05 E8 11 80 05 24 00 9F E5 00 10 90 E5
+00004690: E2 74 11 7C 14 DF 70 47 63 B0 73 DF E3 2C D1 FC â†’ 20 20 9F E5 02 00 51 E1 01 10 A0 03 0A 10 C0 05
+000046A0: C5 AE DD A7 7E DD 26 E7 18 1F EB A9 27 57 BF C2 â†’ 1E FF 2F E1 64 7F 18 02 4F 03 5F E1 37 B3 AA 36
+000046B0: 58 00 27 4B 63 98 C0 96 73 4E EE E4 â†’ 6A E0 AA 36 E0 09 18 02 1F FF AA 28
+00004EA4: 1E FF 2F E1 â†’ ED FD FF EA"
+,maronics,2011-03-03T12:56Z,Hexedit works. Thank you.
+,countorlockiii,2011-03-03T13:16Z,"Apologies for sounding noobish,but how do you apply the patch? 
+Do you know if it solves the errcode=-5 error?
+Thanks
+:)"
+,ntfcAndy,2011-03-03T13:48Z,these english roms or translated?
+,kazaxu91,2011-03-03T13:51Z,"I can't open it with DeSmuME 0.9.4, says its not a valid rom. What program you guys using to play this? Sorry for being noobish. :)"
+,Movies101,2011-03-03T13:54Z,"my no$ gba gives me a Can't acces save data reinsert cartridge error, i tried all the save format's but none of them seem to work, (no$ 2.6 win7)"
+,acidhigh,2011-03-03T15:23Z,"http://thepiratebay.org/torrent/6216193
+
+This patch worked for me on a ezflash 5 card to fix the exp point problem.
+picked it up from gba temp all credit goes to retrogamefan"
+,rafyboycool210,2011-03-03T16:39Z,werkt niet op mijn m3
+,Z_Pirate,2011-03-03T16:43Z,"A useful thread:
+http://gbatemp.net/t255676-pokemon-black-or-white-doesn-t-work-on-my-flashcart-emulator-yet-a?
+Might solve some of your issues."
+,Italian_Boy1Up,2011-03-03T17:59Z,"@ntfcAndy
+
+This is the European version, so basically the same thing you're gunna get in the US version. This is not the Japanese translated project.
+
+Also this works on my AceKard 2.1, however the AP kicked in and my Oshawott wouldn't gain exp. It'd be lovely if someone could upload a patched version as I'm patching illiterate.
+
+Good upload though, nice to have the game a few days early."
+,noblers,2011-03-03T19:06Z,can i use it on r4 card?
+,dragongard91,2011-03-03T21:03Z,"Works on my Ez-flash 1.4.1, i've just started the campain for like 10m and everything seems to normal :p 
+GREAT UPLOAD"
+[T],consolasatope,2011-03-03T21:38Z,"Of course is the European version
+
+If you want the patched ROM:
+http://thepiratebay.org/torrent/6216784/Pokemon_Black_and_White_%5BNDS%5D%5BEnglish%5D%5BPatched_ROM%5D%5Bwww.consolas"
+,azureray,2011-03-03T21:39Z,"No exp and 15 event trigger on my acecard akaio. Also, this doesn't seem to be the actual clean rom file, or it would be 256MB, not ~263. 
+
+Actually matches the file size for the patch found at [http://gbatemp.net/t255095-official-ap-patch-for-pokemon-black-and-white] which makes sense, because the checksum fails when I try to apply that patch.
+
+Also, that hexedit didn't work me. Had no effect at all."
+,azureray,2011-03-03T21:47Z,"eh, disregard that stuff about filesize in my last comment. still not sure why that patch wouldn't work though :/"
+,mikkomik,2011-03-05T13:39Z,"Doesn't work on EDGE.
+:("
+,mikkomik,2011-03-05T19:02Z,"Working on EDGE v2.2
+Thank you"
+,gaysianlover,2011-03-13T07:30Z,Why does my game hang every time  I start it?  It's around when that girl throws her ball at the very beginning.
+,christian_persson,2011-04-22T11:06Z,use (artmoney) as a cheat to get money if you can't get the codes to work. it's a very simple tool and its free
+,scgpromotv,2011-05-01T09:54Z,got questions need help? message me utube username :scgsouth
+,cool363,2011-05-01T10:40Z,"***Playing PokÃ©mon Black & White on NO$GBA DS Emulator***
+
+How to ""PATCH"" the rom to fix the problems using Raw Action Replay codes in PokÃ©mon Black & White on NO$GBA 2.6a
+
+1. First load the ROM.
+2. Go to NO$GBA top menu: Utility -> Cheats -> Add New
+3. Select ""ACTION REPLAY"" and ""RAW""
+4. Enter this code in the upper box and click OK.
+(Works With Both The Versions)
+--------------------------------
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 021809E0
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+--------------------------------
+5. A section will appear in the ""No$gba Cheats"" dialog box.
+6. Tick the box next to it and click OK.
+7. Now, RESTART the rom from the menu: File -> Reset Cartridge
+8. You have to REPEAT the steps 6 & 7 everytime you load the ROM.
+
+ENJOY THE GAME ;-)"
+,cool363,2011-05-01T11:35Z,"*****PLEASE IGNORE MY PREVIOUS COMMENT*****
+
+***Playing PokÃ©mon Black & White on NO$GBA DS Emulator***
+
+How to ""PATCH"" the rom to fix all the problems using Raw Action Replay codes in PokÃ©mon Black & White on NO$GBA:
+
+1. First load the ROM.
+2. Go to NO$GBA top menu: Utility -> Cheats -> Add New.
+3. Select ""ACTION REPLAY"" and ""RAW"".
+4. Enter these version specific codes in the upper box and click OK.
+
+* For PokÃ©mon Black Version (E):
+--------------------------------
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 021809E0
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+--------------------------------
+
+* For PokÃ©mon White Version (E):
+--------------------------------
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 02180A00
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+--------------------------------
+
+5. A section will appear in the ""No$gba Cheats"" dialog box.
+6. Tick the box next to it and click OK.
+7. Now, RESTART the rom from the menu: File -> Reset Cartridge.
+8. You have to REPEAT the steps 6 & 7 everytime you load the ROM.
+
+ENJOY THE GAME ;-)"
+,rafyboycool210,2011-05-04T16:54Z,"hoe moet je dit spelen?
+Ik snap het niet hoe je dit op je chip moet zetten.
+kan iemand helpen?"
+,lemurqueen,2011-05-20T04:09Z,how do you save your game using desumume?
+,omnia666,2011-06-08T09:06Z,why 52 files your rom sucks  
+,jamieking111,2011-09-10T15:21Z,working perfect on wifi r4i
+,SLS1992,2011-10-23T20:08Z,"seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! 
+seed ! seed ! seed ! seed ! seed ! seed ! seed ! "
+,LMajor7,2012-01-05T03:22Z,The start button doesn't work on desmume. Is there any way to fix this
+,LMajor7,2012-01-05T03:31Z,Never mind. Figured it out
+,diegofg10,2012-03-28T20:04Z,works fine on SuperCard DSTWO in 3DS

@@ -1,0 +1,13 @@
+v1.4 CHANGELOG 
+Added more return codes 
+Another new command parser (even better) 
+Moved IP retrieval function to its own thread (no more hanging; method still requires internet) 
+Now detects all known dev_flash writable mount points 
+Rewrote/reengineered alot of functions 
+Added a little more user-friendly information on the screen 
+Moved PASSWD and EXITAPP commands under SITE-specific commands (see SITE HELP) 
+Changed LIST format to somewhat match "ls -a -l" 
+Greatly shortened code 
+Improved performance and stability 
+Fixed some bugs 
+More FTP client compatibility

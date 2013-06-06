@@ -1,0 +1,36 @@
+User Type,Username,Date,Text
+[T],fachman,2011-03-22T16:02Z,"hi
+
+I am sorry for inconvenience, but it turns out that the MP4 file created by the latest MP4box rev 2735 is creating corrupted MP4 files which does not work on some devices like Playstation 3. 
+Fortunatelly the fix is quite easy.
+1. Please download older Mp4box from here http://komisar.gin.by/tools/MP4Box_0.4.6_7.golgol.git-70f809b-r2053.x86.exe and copy it into the pack.
+2. Create remux.bat file using NOTEPAD and put this into it
+-------------------------
+md NEW
+mp4box.exe -raw 1 RESIDENT_EVIL_1_2002_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4
+MP4Box.exe -add ""RESIDENT_EVIL_1_2002_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264#trackID=1:fps=23.976"" -add ""RESIDENT_EVIL_1_2002_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4#trackID=2:lang=English"" -new ""NEW\RESIDENT_EVIL_1_2002_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4""
+del RESIDENT_EVIL_1_2002_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264
+
+mp4box.exe -raw 1 RESIDENT_EVIL_2_APOCALYPSE_2004_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4
+MP4Box.exe -add ""RESIDENT_EVIL_2_APOCALYPSE_2004_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264#trackID=1:fps=23.976"" -add ""RESIDENT_EVIL_2_APOCALYPSE_2004_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4#trackID=2:lang=English"" -new ""NEW\RESIDENT_EVIL_2_APOCALYPSE_2004_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4""
+del RESIDENT_EVIL_2_APOCALYPSE_2004_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264"
+[T],fachman,2011-03-22T16:03Z,"mp4box.exe -raw 1 RESIDENT_EVIL_3_EXTINCTION_2007_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4
+MP4Box.exe -add ""RESIDENT_EVIL_3_EXTINCTION_2007_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264#trackID=1:fps=23.976"" -add ""RESIDENT_EVIL_3_EXTINCTION_2007_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4#trackID=2:lang=English"" -new ""NEW\RESIDENT_EVIL_3_EXTINCTION_2007_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4""
+del RESIDENT_EVIL_3_EXTINCTION_2007_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264
+
+mp4box.exe -raw 1 RESIDENT_EVIL_4_AFTERLIFE_2010_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4
+MP4Box.exe -add ""RESIDENT_EVIL_4_AFTERLIFE_2010_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264#trackID=1:fps=23.976"" -add ""RESIDENT_EVIL_4_AFTERLIFE_2010_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4#trackID=2:lang=English"" -new ""NEW\RESIDENT_EVIL_4_AFTERLIFE_2010_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4""
+del RESIDENT_EVIL_4_AFTERLIFE_2010_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264"
+[T],fachman,2011-03-22T16:04Z,"mp4box.exe -raw 1 RESIDENT_EVIL_DEGENERATION_ANIME_2008_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4
+MP4Box.exe -add ""RESIDENT_EVIL_DEGENERATION_ANIME_2008_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264#trackID=1:fps=23.976"" -add ""RESIDENT_EVIL_DEGENERATION_ANIME_2008_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4#trackID=2:lang=English"" -new ""NEW\RESIDENT_EVIL_DEGENERATION_ANIME_2008_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM.mp4""
+del RESIDENT_EVIL_DEGENERATION_ANIME_2008_1080p_BluRay_QEBS_AAC_PS3_MP4-FASM_track1.h264
+----------------
+
+3. Run remux.bat and enjoy corrected movies"
+,muzamalasif,2011-04-20T20:37Z,do i need to copy all this in one remux file or one data for one file
+,barbarosac,2012-04-06T17:54Z,"nice work
+like evreting in the FASM
+but i aspected to see HAPPY FEET DOULOGI in the FASM rip because in my opinian is the best qulity.
+I love HAPPY FEET and my child she loved.
+i cant belive whay  nobody not converted in FASM FOR PS3.Is the best movie for children, and for us.
+I just hope is not just my request , i belive is a lot of people how want to see this movie in the best quality ( FASM - PS3 ) And i hope sombody it will encode for PS3 SOON.          "

@@ -1,0 +1,21 @@
+SID file = license information for SAS
+
+
+NOTE: Follow these instructions carefully, otherwise your installation will fail!!!!
+
+1. Find the torrent with the ISO file you need to install SAS (http://www.kickasstorrents.com/sas-system-9-2-t2593878.html). Disregard other users' comments, some people are just plain stupid. Do not install SAS yet!
+2. Set your system date to any time between Jun 30, 2008 and Jun 30, 2009.
+3. Install SAS (mount ISO & run setup.exe) and use the ORIGINAL(!!!) SID file provided with the ISO (very important!) - also found in this torrent.
+4. Set your system date back to the current date.
+5. Click SAS License Renewal & Utilities -> Renew SAS. Use the SID file provided in this torrent.
+6. SAS should be licensed till Sept 2011 and you won't need to set the date back to 2009 in order to use it. Verify this by running "proc setinit; run;" in SAS (click the small running person to run).
+
+Caveat: It might be that the Sept 2011 SID file (=license) does not cover every SAS component in the ISO file (which might not run after you update the license info). Everything worked for me, but there's a chance it won't for you. If so, you could also use the July 2011 license info (provided in the torrent).
+
+
+If you can't follow these instructions, you'll probably never be able to use SAS, so make yourself a favor and stop here.
+
+I found all this on a Chinese forum (http://www.verycd.com/topics/2723698/comments/page8) - if you want to know more or are looking for a new SID file after this one expires, go use Google Translate and see if there's a new SID file posted there. Also, you might want to read that forum to help you with troubleshooting ("Run as Administrator" issue, etc.). Don't whine here if you don't know how to install SAS, use the brain cells you have and read a bit about it!!!
+
+
+PS-Don't bother with the SID file that expires in 2019 and is floating around the net - it does not work!

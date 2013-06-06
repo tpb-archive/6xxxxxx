@@ -1,0 +1,78 @@
+User Type,Username,Date,Text
+,Mickaus,2011-03-10T05:57Z,"Hi! first of all, thankyou for these torrents, they're much appreciated!
+
+I saw when using the Mediainfo GUI that the version of x264 you are using is several hundred of revisions old.  The latest x264 can be downloaded from www.x264.nl
+
+In your x264 settings, I noticed you set me-range to 64.  That is a little excessive, and would only serve to noticeable reduce compression speed.  Default 16 isn't bad for DVD sources, although 24, maybe 32 may provide very slight benefits in shows with lots of high speed motion."
+,Mickaus,2011-03-10T05:58Z,"I see you also have subme set to 9.  This is one setting I recommend you set higher, at 10.  Setting this to 10 will provide a greater benefit in quality than choosing a me-range of 64 over 24 :)
+
+Optimal b-frame mode is great, and much more effective! but is progressively slower the higher the b-frame number.  b-frame setting of higher than 8 is quite pointless as they will never be used, if they do there might only be 1 occurence in every 40 encodes... If you reduced the setting to 8, there will be no quality difference but the encode speed will be significantly faster.
+
+Also consider -aq-mode 2 (thats the command line setting, not sure how to set it in handbrake as I don't use handbrake).  This setting is known as 'variance AQ', It is better on almost all encodes.  There were rare instances when it wasn't quite as good, which is why its not default yet, but I think the benefits outweight this.
+"
+,Mickaus,2011-03-10T05:59Z,"You have psy-rd set to the default 1.0:0, it may be worth to apply a very slight psy-trellis of around 0.2.  This seems to give the best results.  The main developer is working on a new psy-rd, psy-trellis system, but not sure how this is coming along.
+
+To summarise:
+- Set subme to 10 (from 9)
+- Set me-range to 24 or maybe 32 (from 64)
+- Set the number of b-frames (this is consecutive b-frames) from 16 to 8
+- Set psy-trellis to 0.2 which the command line setting would read --psy-rd 1.0:0.2
+- Keep x264 updated
+- Update Mkvtoolnix (the mkv writer) available from here (this is the official site):
+http://www.bunkus.org/videotools/mkvtoolnix/win32/
+Newer, non-official builds are available in the pre folder
+You should be able to copy these newer files directly over those contained in the handbrake folder.  Its well worth it!
+
+btw x264 has long had a basic but useful temporal denoise function.  It is available by using --nr in the command line settings.  It can be set from 0 (disabled, default) to 65535 (chronically ecessive).  A setting of around 400 or 500 can reduce temporal noise that you can't see, which can slightly improve encoding efficiency.  The weak denoiser you use beforehand is most likely a spatial denoiser, which works on a frame-by-frame case, and not across frames (temporal).  
+
+These actions will result in significantly faster encodes, and a higher quality potential! :)"
+[A],toba,2011-03-10T14:40Z,Well put Mickaus. Enjoy your green skull!
+[V],meech,2011-03-12T16:47Z,"Mickaus:
+Wow!  I've never have anyone take so much interest in my encodes/settings/etc.  It must have taken you a long time to do the research and type up these comments.  I do appreciate it and will take all you said into consideration.  A couple notes in response to your analysis...
+
+1. These files were encoded a while ago, at least a few months, maybe more.  I had ripped them and watched them a while back for myself and thought others might be interested.  I was already uploading Star Trek Voyager, so I waited to upload The Shield.  That's why the revision of x264 you saw was so old.  It was most likely the latest one out at the time of encode.  Handbrake updates it fairly regular when significant changes are made to it.
+
+2. Funny you mention the me-range/subme value trade-off.  I actually have already lowered that to 32 in my recent encodes and have upped subme to 10 as suggested.  You will see this in my future releases.
+
+3. B-Frame setting IS at 8 in these encodes.  Not sure where you got the 16 from.  Going too high with those can break compatibility with some devices.  And like you said, it's rare that it would even be used.  I have always used a value of 8.  I rechecked these files with mediainfo and it does indeed say 8 b-frames. 
+
+4. I will look into ""variance AQ"" to see if it's worth it.  Thanks for the tip!
+
+5. I will also look into modifying the psy-trellis.  I saw somewhere that 0.15 is recommended for film sources.  One again, I will look into it further.  Thanks again for the tip...."
+[V],meech,2011-03-12T17:08Z,"@Mickaus (cont..)
+6.  I'm not sure how updating mkvtoolnix will improve quality all that much...if it's really worth it.  You mentioned putting it into the Handbrake folder, however this tool isn't packaged with Handbrake.  So one must download, install, and use it separately.  The only reason I use it, is to mux the subtitles.  Is there some other reason to update it so often with non-official builds?  If it's worth it, I'd certainly consider this as well.
+
+7. Denoise Filter: The Handbrake denoise filter works both spatially AND temporally, and therefore does work across frames. It is a filter from MPlayer, called hqdn3d.
+Even so, I very rarely use the denoise filter anyway.  By definition, it reduces detail which I'm not a fan of.  I'd rather it have a little more grain, then smooth it over too much like xVid.  It's very rare to see my encodes use a denoise filter.  This particular series happened to have A LOT of noise.  In retrospect, I wonder if any of it was intentional to create an effect.  The camera style was a little unique to begin with."
+[V],meech,2011-03-12T17:14Z,"@Mickaus (cont..)
+8. As far as speedier encodes go, I'm not too worried about that.  My computer is pretty fast and even with these settings maxed out the way it is, the encoding process still take a reasonable amount of time.  Lowering merange and upping subme (which I have done for my own recent encodes) was about an even trade-off.  So speed is going well.  However, I am interested in increasing quality and will take your points into consideration.  Although the current settings for these and other encodes are pretty high already...probably many times higher than other available torrents.
+
+For not using Handbrake, you sure know a lot about it! I appreciate your research and suggestions.  I will definitely take them all into consideration.
+
+I may be switching over to VidCoder in the near future as Handbrake recently got rid of File Target Size in it's nightly releases.  VidCoder uses the same open-source code as Handbrake with just a different interface (which is actually pretty nice).  The only issue with VidCoder is that it's not updated as often.  However, if it keeps File Target Size, I may be switching.  I'll have to see if the trade-off of fewer updates vs. the pain in the neck to have to calculate avg. bitrate every time, to get my file size in Handbrake, is worth it.
+
+In the meantime, I hope you enjoy these rips.  The Shield is a great show and deserves a better quality than the other torrents out there.
+
+BTW...Season 6 is now out.  As soon as there are enough seeders to sustain it, I will release the 7th and final season."
+[V],meech,2011-03-12T17:28Z,"BTW...how did you get a green skull if you haven't uploaded any torrents?  I would love to have a green skull...isn't that the highest you can get (VIP status?).  Did you use to have a different user name or something...or is your username link not working?  I know thepiratebay has been a little buggy lately with it's search option?  Just wondering, because I would like to get a green skull one day, and wonder how you did it without any torrents...is there another way to get one?"
+,Mickaus,2011-03-12T19:38Z,"I haven't uploaded any torrents and this is my first username.  I've used this site for quite a while though, I do think its the best torrent site around!
+
+I think I must have got the green skull for my comments regarding encoding.  I've used x264 since its early days, and its certainly come a long way! 
+
+I took a look at Handbrake, it looks like it has the codecs compiled in instead of their normal compiled versions.  That does have some advantages, although it does mean you can't update separate components when new versions come out.  In terms of MKVtoolnix (MKV writer), the new v4.6.0 won't really be any faster than v4.0.0, it just has compatibility and other fixes as outlines here http://www.bunkus.org/videotools/mkvtoolnix/doc/ChangeLog
+"
+,Mickaus,2011-03-12T20:16Z,"For psy-trellis, the figure of 0.15 is ideal (I think)! It is an option that isn't very good on low bitrate encodes (if these exact encodes were 140mb files etc), but on higher bitrate encodes such as these it can make a nice difference without the side effects.  To enable Auto Variance-AQ, add :aq-mode=2 at the end of the settings window down the bottom (the colon before the a separates the commands).
+
+Another option worth considering changing is rc-lookahead.  The default setting for x264 is a memory friendly and probably slightly too low 40, and a higher setting can be beneficial.  rc-lookahead has no affect on compatibility, just keep in mind a higher setting will use more memory (and be slightly slower) and has diminishing returns in terms of benefit.  A setting of around 100 should maximise quality benefits.  It can be enabled in handbrake by adding :rc-lookahead=100 at the end of the command window, as with the aq-mode.  "
+,Mickaus,2011-03-12T20:22Z,"Out of curiosity, I was wondering whether there are any plans to do the x-files and quantum leap? I apologise if you've already answered someone else, I did see sliders is coming at some stage which would be great too.
+
+And again, thanks for providing these shows, its much appreciated!"
+[V],meech,2011-03-13T14:12Z,"Mickaus:
+Thanks so much for you tips.  I am going to try them out.  Right now my mkvtoolnix is at 4.4.0.  I think I will leave it at that for now, but will upgrade perhaps when they get a little farther with it.  I am definitely going to try your other suggestions.  Like I said, my computer is fairly powerful and should be able to handle some higher settings.  I am a quality freak, so I'm always looking to max things out...of course within reason...I don't want my encodes moving at 3fps.  I have a question for you about something else regarding encoding settings but don't want to clog up this torrent any more.  Is there another way I can contact you, perhaps through thepiratebay forum?  Thanks."
+[V],meech,2011-03-13T14:18Z,"As far as x-files and Quantum Leap.  I have already ripped Quantum Leap.  I just need to add subtitles.  Once again, it was ripped at my older settings, but it is pretty nice quality.  I just finished watching all 5 seasons (literally just saw the last episode last night) on my 50inch lcd and I was very happy with the quality.  After season 7 of The Shield is up and the subtitles are added, Quantum Leap will be uploaded next.
+
+X-files sounds like a good one for the future.  I never got to watch more than a few episodes at the time it was out, but remember enjoying it.  I would like to watch it from start to finish.  Since most of my torrents are just shows I want for myself too, you will probably see it up here down the road.  But first Quantum Leap and then Sliders.  Thanks again for your tips and I hope to get some other contact info from you so I can ask you a couple more questions."
+[V],meech,2011-03-13T14:19Z,"Oh...I forgot to add that I've also begun encoding Smallville.  That may possibly go up after Quantum Leap.  If not, then after Sliders."
+,Mickaus,2011-03-14T21:17Z,Through the forum would be fine! Maybe a thread under general discussion?
+[A],toba,2011-03-15T22:35Z,"""I think this is the beginning of a beautiful friendship"" :)"
+,thearches,2011-04-26T17:37Z,"Wow.  This exchange makes my want to do my own video conversions.  Thanks for the tutorial, guys."

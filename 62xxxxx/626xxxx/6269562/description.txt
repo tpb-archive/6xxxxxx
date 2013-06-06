@@ -1,0 +1,6 @@
+Panning v1.0 (audio vst for Windows)
+Taking in count the Haas effect and the real diferences of sound when the source moves side to side, I took a few days and developed a windows vst, it adjust delay, eq and level (all in the same knob). Far away more realistic than a regular pan-pot (level only).
+It obviously works on stereo channels only, but you can route mono signals to stereo mixing channels in most of programs.
+I also added the posibility to name instances to get a clear workflow using multiple instances.
+For install just paste the panning.dll file in to your vst folder
+

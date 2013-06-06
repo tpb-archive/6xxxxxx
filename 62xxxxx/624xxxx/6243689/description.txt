@@ -1,0 +1,201 @@
+Created By Animal99
+
+This UFD has 3 partitions. You must at least use a 16 GIG Flash drive. This is an AIO UFD.
+You must use Acronis True Image Home 2011 (I used Build 6696) to recreate this UFD.
+I have successfully installed every version that is on here to fully test this out.
+If you are having problems getting this to boot, read the read me on the root dir.
+
+There is not any activiation methods included. Use DAZ's Loader 1.9.7 or KMS Activator (for Enterprise versions).
+
+This UFD includes installs for:
+
+01. Windows 7 Starter SP1 Retail x86
+02. Windows 7 Home Basic SP1 Retail x86
+03. Windows 7 Home Premium SP1 Retail x86
+04. Windows 7 Professional SP1 Retail x86
+05. Windows 7 Ultimate SP1 Retail x86
+06. Windows 7 Enterprise SP1 OEM x86
+07. Windows 7 Home Basic SP1 Retail x64
+08. Windows 7 Home Premium SP1 Retail x64
+09. Windows 7 Professional SP1 Retail x64
+10. Windows 7 Ultimate SP1 Retail x64
+11. Windows 7 Enterprise SP1 OEM x64
+12. Windows Server 2008 R2 Foundation SP1 OEM x64
+13. Windows Server 2008 R2 Standard SP1 OEM x64
+14. Windows Server 2008 R2 Standard Core SP1 OEM x64
+15. Windows Server 2008 R2 Enterprise SP1 OEM x64
+16. Windows Server 2008 R2 Enterprise Core SP1 OEM x64
+17. Windows Server 2008 R2 HPC SP1 OEM x64
+
+01. Windows Vista Starter SP2 RTM x86
+02. Windows Vista Home Basic SP2 RTM x86
+03. Windows Vista Home Basic N SP2 RTM x86
+04. Windows Vista Home Premium SP2 RTM x86
+05. Windows Vista Business SP2 RTM x86
+06. Windows Vista Business N SP2 RTM x86
+07. Windows Vista Ultimate SP2 RTM x86
+08. Windows Vista Home Basic SP2 RTM x64
+09. Windows Vista Home Premium SP2 RTM x64
+10. Windows Vista Business SP2 RTM x64
+11. Windows Vista Ultimate SP2 RTM x64
+12. Windows Longhorn Server 2008 Web SP2 RTM x86
+13. Windows Longhorn Server 2008 Web Core SP2 RTM x86
+14. Windows Longhorn Server 2008 Web SP2 RTM x64
+15. Windows Longhorn Server 2008 Web Core SP2 RTM x64
+
+This UFD also includes installs for:
+
+Windows XP Home SP3 Retail x86
+Windows XP Professional SP3 Retail x86
+Windows XP Media Center Edition SP3 OEM x86
+Windows XP Professional SP3 VLK x86
+Windows XP Professional Retail x64
+
+On each of the XP Installs, you must boot from the UFD TWICE! You would use Step 1 for the first time, then Step 2.
+
+It also includes:
+
+Hirens 13.1
+Acronis Media Rescue
+UBCD 5.03
+
+Some minor things that do not work (due to no drivers for 64 bit) but I am working on for future reference:
+
+1. The x64 Repair for both Vista and Windows 7 does not work properly.
+If anyone knows how to create dummydisk.sys or cfadisk.inf for 64 bit, please contact me.
+I would be able to implement this into the boot.wim's on both Vista and Win 7 to make this work.
+If you want to copy the files of either Windows 7 or Vista to another USB Flash Drive and make it bootable,
+the x64 Repair WILL work! It just will not work since I had to make Windows think it is a Hard Drive.
+I have not tested this on an actual USB Hard Drive. I believe if you extract the partitions on an actual USB Hard Drive,
+the x64 Repair should work as well! Sorry about this, but I can not figure it out.
+
+2. The Windows XP 64 bit will install, but it may or may not install if the FIRADISK does not have your proper driver.
+
+This was created by the following ORIGINAL MSDN .ISO's:
+
+MICROSOFT.WINDOWS.7.ULTIMATE.RTM.WITH.SP1.X86.RETAIL.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x86fre_client_en-us_Retail_Ultimate-GRMCULFRER_EN_DVD.iso
+SIZE: 2,563,039,232 byte
+SHA-1: 92C1ADA4FF09C76EC2F1974940624CAB7F822F62
+MD5: 24F3A45D43D7C532AA3126CC094C61BD
+CRC: C2966895
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.7.ULTIMATE.RTM.WITH.SP1.X64.RETAIL.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x64fre_client_en-us_Retail_Ultimate-GRMCULXFRER_EN_DVD.iso
+SIZE: 3,319,478,272 byte
+SHA-1: 1693B6CB50B90D96FC3C04E4329604FEBA88CD51
+MD5: 56A26636EC667799F5A7F42F142C772D
+CRC: 8589EE18
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.7.ENTERPRISE.RTM.WITH.SP1.X86.VOLUME.OEM.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x86fre_enterprise_en-us_VL_OEM_Enterprise-GRMCENVOL_EN_DVD.iso
+SIZE: 2,433,157,120 byte
+SHA-1: 4788041EB06E0F49720C112FBD256AC637909D4F
+MD5: 0F75C64DE4B10FD581845ABA99E1591D
+CRC: E3382829
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.7.ENTERPRISE.RTM.WITH.SP1.X64.VOLUME.OEM.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x64fre_enterprise_en-us_VL_OEM_Enterprise-GRMCENXVOL_EN_DVD.iso
+SIZE: 3,181,234,176 byte
+SHA-1: 2C9774A1F48570E749E6D33C642FE8F6F7898CB0
+MD5: 8DB2FA2C64160F582BD099E86DBE219F
+CRC: DCA3CF57
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.SERVER.2008.R2.FOUNDATION.RTM.WITH.SP1.X64.OEM.ENGLISH.DVD-WZT 
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x64fre_serverfoundation_en-us_OEM-GRMSFxFREO_EN_DVD.iso
+SIZE: 2,892,701,696 byte
+SHA-1: C04E5BA6EBF65974FC1AA8687DF8EA04D78333A6
+MD5: 0D08D5EBFFFBD92E4F8E9C5149D07E07
+CRC: 4C160641
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.SERVER.2008.R2.RTM.WITH.SP1.X64.VOLUME.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x64fre_server_en-us_VL-GRMSXVOL_EN_DVD.iso
+SIZE: 3,166,720,000 byte
+SHA-1: 7E7E9425041B3328CCF723A0855C2BC4F462EC57
+MD5: 8D397B69135D207452A78C3C3051339D
+CRC: EC134FE1
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.SERVER.2008.R2.ENTERPRISE.RTM.WITH.SP1.X64.VOLUME.ENGLISH.DVD-WZT 
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x64fre_serverenterprise_en-us_VL-GRMEXVOL_EN_DVD.iso
+SIZE: 2,960,093,184 byte
+SHA-1: 9E323BFF27393B37EE3CF85D78F13380359540D9
+MD5: 35769D5AC0F3D71938EF48ECAE79172B
+CRC: CF656DBD
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.SERVER.2008.R2.HPC.RTM.WITH.SP1.X64.VOLUME.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x64fre_serverhpc_en-us_VL-GRMSHxVOL_EN_DVD.iso
+SIZE: 2,900,881,408 byte
+SHA-1: 35F9D5C9653D220148CED8AE68DB64648DE1DAF2
+MD5: A1504F57DC82378B7C189705B44E685E
+CRC: E470D81D
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.VISTA.ULTIMATE.WITH.SP2.X86.RTM.RETAIL.ENGLISH.DVD-iAPULA
+BUILD: 6002.18005.090410-1830
+FILE: 6002.18005.090410-1830_x86fre_Client_en-us-FRTMCFRE_EN_DVD.iso 
+SIZE: 3243413504 byte
+SHA1: 25AD9A776503E6A583BEC07879DBCC5DFD20CD6E
+MD5: 19CA90A425667812977BAB6F4CE24175
+CRC: E2AD10F9 
+--------------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.VISTA.ULTIMATE.WITH.SP2.X64.RTM.RETAIL.ENGLISH.DVD-iAPULA
+BUILD: 6002.18005.090410-1830
+FILE: 6002.18005.090410-1830_amd64fre_Client_en-us-FRTMCXFRE_EN_DVD.iso  
+SIZE: 3,861,460,992 byte
+SHA1: AAEE3C04533899F9F8C4AE0C4250EF5FAFBE29A3
+MD5: A1C024D7ABAF34BAC3368E88EFBC2574
+CRC: 80B2EDB5
+--------------------------------------------------------------------------------------------
+Windows XP Home with Service Pack 3 (x86) (English)
+Includes: Home Edition-Retail; 
+File Name: en_windows_xp_home_with_service_pack_3_x86_cd_x14-92413.iso
+MD5: A22030DF1988445436F300BC29C32DD2
+SHA1: 5A6B959AD24D15DC7EBD85E501B83D105D1B37C6
+--------------------------------------------------------------------------------------------
+Windows XP Media Center Edition With SP3 OEM
+File name: en_winxp_pro_media_center_edition_with_sp3_oem.iso 
+Size: 699.36MB (733335552 Bytes) 
+MD5: 5a34c0b1dfd1c5c55729e346f2448fad 
+SHA1: 20F3C6FB07DB0AD7BE2CA6AD2C8C0F5E87C028DC 
+--------------------------------------------------------------------------------------------
+Windows XP Professional with Service Pack 3 (x86) (English)
+Includes: Professional-Retail; 
+File Name: en_windows_xp_professional_with_service_pack_3_x86_cd_x14-80428.iso
+MD5: f424a52153e6e5ed4c0d44235cf545d5
+SHA1: 1C735B38931BF57FB14EBD9A9BA253CEB443D459
+--------------------------------------------------------------------------------------------
+Windows XP Professional With Service Pack 3 (x86) (English)
+Includes: Professional-VLK;
+File Name: en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso
+MD5: 5BF476E2FC445B8D06B3C2A6091FE3AA
+SHA1: 66AC289AE27724C5AE17139227CBE78C01EEFE40
+--------------------------------------------------------------------------------------------
+Windows XP Professional with No Service Pack (x64) (English)
+Includes: Professional-Retail; 
+File Name: en_windows_xp_professional_x64.iso
+MD5: D089DD4E7529219186E355E0306E94B0
+SHA1: 8E914F652DFF0AA8FD16F41B583817C7E107BBA5
+--------------------------------------------------------------------------------------------

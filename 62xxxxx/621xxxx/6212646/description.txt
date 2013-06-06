@@ -1,0 +1,16 @@
+avast! Antivirus Ã¤r perfekt fÃ¶r personer som skickar e-post och surfa populÃ¤ra webbplatser. avast! Ã¤r ett paket av program som syftar till att skydda din dator frÃ¥n ett eventuellt virus infektion eller annan malware hot. Om du anvÃ¤nder den pÃ¥ rÃ¤tt sÃ¤tt, och i kombination med andra program, sÃ¥som sÃ¤kerhetskopiering verktyg kommer det att avsevÃ¤rt minska risken fÃ¶r att din dator attackeras eller smittad av ett virus, och dÃ¤rmed risken att fÃ¶rlora viktiga eller privata uppgifter.
+
+Installationen:
+
+1. Koppla bort internetuppkoppling
+2. Installera Avast Pro Antivirus eller Internet Security
+3. Avmarkera Delta i avast! gemenskap
+4. Starta inte om datorn, VÃ¤lj startar senare
+5. FrÃ¥n Avast grÃ¤nssnitt vÃ¤lja: StÃ¤lla> FelsÃ¶kning> Avmarkera Aktivera avast! sjÃ¤lvfÃ¶rsvar modul sedan OK
+6. Tryck pÃ¥ Ctrl + Alt + Delete dÃ¥ Avsluta process fÃ¶r AvastSvc.exe, AvastUI.exe
+7. Kopiera ashBase.dll till sÃ¶kvÃ¤gen: C: \ Program Files \ ALWIL Software \ Avast5 och tillÃ¤mpa ersÃ¤tta
+8. Starta om datorn
+9. Aktivera avast! sjÃ¤lvfÃ¶rsvar modul
+10. Anslut internetuppkoppling
+11. FrÃ¥n Avast grÃ¤nssnitt vÃ¤lja UnderhÃ¥ll> Prenumeration> Aktivera prÃ¶votid
+12. LÃ¥t inte Avast sÃ¶ka efter produktuppdateringar, bara vÃ¤lja uppdatera databasen med virusdefinitioner. (InstÃ¤llningar-> Uppdateringar-> PROGRAM: VÃ¤lj "Manuell uppdatering)

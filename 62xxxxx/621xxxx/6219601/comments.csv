@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,hakilash,2011-03-05T02:01Z,"Erata:""3-Windows 7 ....... De la partitionare pina la instalare totul decurge automat, totul este in limba romana.""
+ a se citi: ""3-Windows 7 ..... Dupa  partitionare, instalarea decurge automat, totul este in limba romana.
+
+La Windows 7, in cazul in care nu este Genuine, dupa instalrare:
+1-cu DVD in unitate, intri pe litera ce desemneaza unitatea optica
+2-clic pe iconita cu monitor cu numele autorun.exe
+3-clic pe butonul "" Windows 7 Genuine""  urmat de ""Install"" 
+4-astepti cu rabdare mesajul ca s-a instalat, clic pe confirmarea de repornire....si gata!"
+,sir_nykolai,2011-03-05T13:02Z,"Poti sa ne zici pe ce calculatoare poate fi instalat? adica ce procesor,rami....etc....astept rasp urgent"
+,hakilash,2011-03-05T13:30Z,"Amindoua ( Windows7 si Windows Xp) sunt pt x86 pe 32 bit....Am ales variantele 32bit, deoarece sunt putini cei care folosesc X64 64bit (probleme de compatibilitate programe)."
+,sir_nykolai,2011-03-05T15:01Z,ok...dar te am rugat sa dai detali mai precise...adik zi cam cat recomanzi procesor pt aceste windoswri si cu rami la fel si cu video-grafik...
+,hakilash,2011-03-05T18:22Z,"Windows 7 system requirements
+
+If you want to run Windows 7 on your PC, here's what it takes:
+*1 gigahertz (GHz) or faster 32-bit (x86) or 64-bit (x64) processor
+    *1 gigabyte (GB) RAM (32-bit) or 2 GB RAM (64-bit)
+    *16 GB available hard disk space (32-bit) or 20 GB (64-bit)
+    *DirectX 9 graphics device with WDDM 1.0 or higher driver
+
+The minimum hardware requirements for Windows XP Professional include:
+
+    * Pentium 233-megahertz (MHz) processor or faster (300 MHz is recommended)
+    * At least 64 megabytes (MB) of RAM (128 MB is recommended)
+    * At least 1.5 gigabytes (GB) of available space on the hard disk
+    * CD-ROM or DVD-ROM drive
+    * Keyboard and a Microsoft Mouse or some other compatible pointing device
+    * Video adapter and monitor with Super VGA (800 x 600) or higher resolution
+    * Sound card
+    * Speakers or headphones"
+,hakilash,2011-03-05T18:24Z,"Nu este nimic special la niciuna dintre ele, sunt windowsuri standard, asa ca cerintele minime de sistem sunt cele enumerate mai sus"
+,IceEros,2011-03-12T11:28Z,"Instalat XP pe 3 PC-uri si un laptop [cu sau fara extensia in limba romana] si am intampinat aceiasi problema: 
+Imediat dupa logon PC-ul se blocheaza pentru circa un minut DACA dai click pe icon - Network Connection,  Connect To sau direct pe conectia la internet.
+Deasemeni la Laptop placa de retea ramane in stand by chiar si dupa ce laptopul a fost oprit. Ledul de la placa ramane aprins singura solutie gasita de a deconecta placa  fiind deconectarea (disable this device) din control panel.
+Viteza de conectare la internet a scazut (DOAR LA LAPTOP) considerabil de la 5,5 - 6.7 (pe utorrent) la 2.8 maxim 3.5. Indiferent de setari si alte tweakuri (TCP-IP si altele) nu am mai reusit sa obtin (pe laptop) viteza pe care o aveam cu OS-ul precedent (tot un XP SP3) "
+,daniel84sm,2011-03-18T11:55Z,mie nu imi apare primu meniu unde sa selectez sistemu de operare .imi ramane imaginea neagra oare carei cauza
+,hakilash,2011-03-18T12:24Z,"IceEros, multumesc pentru feedback...Kit despre problema ""Imediat dupa logon PC-ul se blocheaza pentru circa un minut DACA dai click pe icon - Network Connection, Connect To sau direct pe conectia la internet."", eu personal nu am intilnit-o.Testul l-am facut pe pc-ul meu personal, pe un sistem de operare virtual instalat in WMvare Workstation varianta 7.1.0 build-261024 si pe un sistem al unui amic de al meu. M-ar ajuta daca ar mai semnala cineva aceeasi problema, eventual daca mi-ai da detalii despre placile de baza din sistemele care le ai. (marca, versiune).
+Presupun ca observatiile legate de viteza de internet depind ori de setarile de software cu care lucrezi, ori de driver-ul folosit pentru placile de retea...( logica elementara ne spune ca daca sistemul de operare instalat ar fi cauza problemei, atunci indiferent de sistemul hardware folosit, efectual ar fi acelasi.)"
+,hakilash,2011-03-18T13:03Z,"daniel84sm,
+
+multumesc pentru semnalarea erorii.Problema respectiva am intilnit-o si eu la kiteva laptop-uri aduse spre service. Din pacate inca nu am reusit sa aflu cauza, doar o banuiesc:
+- boot-area grafica este facuta pe o platforma grub4dos, iar rezolutia pe care am folosit-o pentru grafica este de 1024x768. Presupun, ca laptop-urile la care am intilnit efectul respectiv au probleme in a afisa grafica la rezolutia de mai sus . Voi reface meniul de boot in asa fel inkit rezolutia de baza sa fie de 800x600, iar in meniu sa existe un buton pentru cei care doresc "" full screen"". "

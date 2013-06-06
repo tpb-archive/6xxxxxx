@@ -1,0 +1,25 @@
+ebootFIX.exe
+
+This tool processes whole game folders;
+drag & drop the folder of whatever PS3 game, the parent
+folder holding all the game files and sub-folders onto
+this executable and after it crunches away
+youâ€™ll be left with two new folders: [NPDRM] and [RETAIL].
+Whatâ€™s the diff? From _readme.txt:
+[NPDRM] â€“ content ready to be installed as PSN-style XMB game:
+You will find two PKG files in the folder.
+The tool will decrypt and sign all executables (EBOOT.BIN and
+other .self / .sprx files) to make them compatible with lower firmware versions.
+Follow the generated INSTRUCTIONS in [NPDRM] folder.
+[RETAIL] â€“ all files which you can replace in your original backup copy to play the
+game via a Game Manager.
+
+ebootMOD.exe
+
+This one takes a single file â€” drag & drop an
+EBOOT.BIN or a .self or .sprx â€” and itâ€™ll result in a
+decrypted and signed file that is again
+compatible with lower firmware versions.
+Of course you can find more info in â€œ_readme.txtâ€ and at the source.
+Also included is a version of multiMAN v1.16.11;
+a test build that properly handles sprx files when using â€œshadow copy.â€

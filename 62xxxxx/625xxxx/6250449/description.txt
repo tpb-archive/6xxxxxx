@@ -1,0 +1,52 @@
+
+
+  Up to date  Microsoft Windows XP 64 Bits Edition (SP2 and ALL post SP2 updates)
+
+    + Up to date:
+
+  - Microsoft Visual C++ 2005 Redistributable Service Pack 1 + ATL (x64)
+  - Microsoft Visual C++ 2008 Redistributable Service Pack 1 + ATL (x64)
+  - Microsoft Visual C++ 2010 Redistributable (x64)
+  - Java Runtime Environment v1.60. Update 24 (x64)
+  - Microsoft Silverlight v4.0.60129 (x64)
+  - Adobe Flash Player v10.2.152.32
+  - Winrar v4.0 (x64)
+  - SPTD v1.77  (x64)
+
+                     (SO YOU DO NOT NEED TO INSTALL THEM :)
+
+
+
+  This release DOES NOT contain any version of:
+  -  Net Framework 
+ 
+  This release has:
+  -  Windows Media Player 10
+  -  Direct X 9.0 that comes with the original XP x64 SP2 source 
+
+  For this reason you will find attached next to the iso image:
+
+  - NetFramework 2.0 SP2 (x64) 
+  - Dx web (online) update tool
+
+  but also:
+  - K-Lite_Codec_Pack_64bit_450
+  - vlc-1.1.7-win32bit
+
+ REMEMBER TO INSTALL NET FRAMEWORK FIRST (BEFORE UPDATING DIRECT X)
+ OTHERWISE A DIRECT X COMPONENT RELATED TO NET FRAMEWORK (5 MB OF SIZE)
+ IT WILL BE DETECTED AGAIN, IF YOU FIRST UPDATED DIRECT X
+ ANYWAY YOU MUST UPDATE DIRECT X ! (huge important pack to be downloaded) 
+
+ if you need Net frame v3.5 SP1 (x64) or v4.0 (x64) or Windows Media Player 11
+ PLEASE USE MICROSOFT UPDATE SITE AND SELECT THEM 
+
+ *** No serial or activation needed, IF you burn the CD and BOOT from it ***
+
+ Intel SATA drivers added to skip F6 use of a diskette (if needed)
+ ATI drivers 
+ HDMI drivers
+ Nvidia Lan
+ AMD Processor driver
+ Nvidia SMU, SMBUS, Away
+ Creative Audigy driver

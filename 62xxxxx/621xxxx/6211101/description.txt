@@ -1,0 +1,12 @@
+The Linux Schools Project provides an operating system that installs a server or set of
+servers based on your school needs, some of the roles available are: PDC, File,
+Print, Web and Proxy.
+Once the server role has been chosen, the services required are automatically
+configured for a school setting, some of the services pre-configured are Samba, LDAP, Apache, Moodle, Cups, MySQL and Joomla.
+The servers are maintained via a web interface that allows easy to use and remote administration of your network and provides access to the functions of day to day jobs like creating users or changing user passwords.
+ 
+http://www.linuxgfx.co.uk/karoshi/v2/index.html
+
+md5sum :
+a72ffa0114f1d3fa3d2d550b77d99932  karoshiv7.0.2_ub64_27-02-11.iso
+49b67e3531f176bc8964211eaaba6d2f  karoshiv7.0.2_ub32_27-02-11.iso

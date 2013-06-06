@@ -1,0 +1,57 @@
+User Type,Username,Date,Text
+,longdistance,2011-04-02T15:58Z,Thanks for Sanctuary!
+,jawick,2011-04-02T16:21Z,Is there a Camelot episode 1?
+,jon4fun,2011-04-02T16:28Z,"Hi 20-40,
+Thanks for the encodes/upload.
+
+Cheers
+Jon
+
+Another epic Pack! Thanks for ALL of it."
+,Dr-nidO,2011-04-02T17:18Z,"thanks once again...
++1 as always"
+,jmac85,2011-04-02T17:27Z,"[+1] Thanks for this pack.
+I have a question:
+I've read that it is more desirable to encode in resolutions that are either one- half, third, or quarter of the resolution of your display device. Reasoning is, pixels that have to be multiplied by non-whole numbers sometimes are skewed/distorted. I haven't noticed it personally, but are you aware of this anomaly? For instance, I have a 1920x1080p plasma, so if I wanted to maintain small size while only doubling pixels on display I'd do 960x540... Thoughts?"
+[V],twentyforty,2011-04-02T18:52Z,"@jmac85: There is no simple answer to that. End-user and his playback system always has some restrictions. Other side (encoding mechanism) has restrictions too, like preferred frame size should be dividable with 16. H264/x264/AVC even asks for that and is defined as part of h264 standard. 
+
+H264 compressors are able to use and determine (hard-code within) a pixel aspect ratio and manipulate display size, unlike decade old XviD/DivX which possessed some rudimentary ways of those, but never was fully developed.
+
+So, when you encode, you automatically obey the rules of specific codec and specific target - in case of H264,  one must stay ""in"" corresponding H264 built-in profile/level.
+
+For SAR and PAR 1:1 (when you encode) any frame-size (W and H) should be dividable with 16 - just care about division with 16 or 32 and you would be fine.
+
+Number of pixels (W multiplied with H) must be in accordance with target-profile.
+
+Aspect-ratio would be derived from PAR and SAR, keeping in mind that if one pixel is 1x1 (PAR and SAR) and  frame size is 400x300, one can hard-code DAR (display aspect ratio) as 1.2 and NOT 1.33 as he mathematically is, also when pixel has hard-coded aspect ratio of 0.97 - display aspect ratio is different.
+
+Majority of people have no idea about that, and that's why I find all morons who have something to say about - incredibly silly.
+
+I suggest you to hard-code PAR (SAR) as 1:1 and follow modern standards for resolutions. IF (very often) aspect ratio should be corrected (I do that as a rule), simple corrections of output frame sizes in 16 or 32 steps are best and safest way to go.
+
+Beside, all, especially HD resolutions, are well known and you have good wikipedia page for that, with links to other pages about the same subject. "
+,believenu,2011-04-02T19:05Z,"thank you, seeding is sharing. "
+,spiritualiste,2011-04-02T19:47Z,"Thanks a lot for your constant unique piece-of-art shares...+1...
+Special thanks for Chaos and Cougars...
+Live Long and Prosper...
+Spirit..."
+,johndoe1974,2011-04-02T20:32Z,"you always do the best work cheers
+can i ask are you thinking of doing the green hornet on maybe a 480p cheers"
+,Kencoldman,2011-04-02T20:59Z,Thank's for Los Angeles
+,froglog,2011-04-02T23:01Z,Thanks for Chaos & The Borgias
+,ladderman22,2011-04-03T00:44Z,"thanks for chaos!
+(and borgias even though i already got that from an earlier pack)"
+,jotalopes,2011-04-03T03:48Z,"Thanks for Battle Los Angeles, The Borgias and all your work."
+[V],twentyforty,2011-04-03T08:08Z,Thanks guys.
+,abobill,2011-04-03T14:27Z,"Thanks for Ricky Gervais, Borgias and Camelot.. btw is this the full 2hr episode of Camelot or just part 2?
+
+Appreciate all the hard work!"
+,jawick,2011-04-03T17:11Z,"abobil, it is pt. 2 of Camelot.
+
+twentyforty,  can you please upload pt. 1 in your weekly pack?
+
+Thanks, and thanks for all of your hard work in providing these shows for all of us on a daily basis.  You rock!"
+[V],twentyforty,2011-04-03T21:06Z,"@jawick: Sorry, I can put in Weekly pack only the stuff from that week. Then server is cleaned on Monday morning and new week starts. Sorry, I do  not have money to pay for additional space, even if I know how much that be good."
+,abobill,2011-04-04T15:18Z,"@Jawick
+
+The first episode of Camelot is in the 4th week of February Pack"

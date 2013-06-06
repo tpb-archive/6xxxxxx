@@ -1,0 +1,21 @@
+Golden Trout Software Shadow Copy Cloner 1.1.3
+
+Shadow Copy Cloner backs up all of your files, including Windows system files, by copying them to a second disk drive. Since the backup disk is a normal NTFS file system you can easily recover a corrupted file or folder by copying it back. Unlike other backup products, Shadow Copy Cloner preserves Windows file and folder permissions, preserving the security of your multiple-user system. A key feature of Shadow Copy Cloner is that it can make a bootable copy of your system drive. Should the system disk in your computer crash, you can install the backup disk in your computer and boot your system as it was when your last backup was made.
+
+Version 1.1.3
+Fixed an issue with the computation of used space on the source drive.
+Fixed a crash that sometimes occurs when populating the reconfigure drives list.
+Added up-front checks to see if the make bootable process will fail so you do not have to wait until the backup is finished to find out.
+Added code to prevent program use by non-administrator users.
+Improvements to error reporting to help us diagnose boot-ability issues.
+Cosmetic changes and spelling corrections.
+
+System Requirements:
+Microsoft Windows XP SP2, Windows Vista, or Windows 7
+.NET Framework 3.5 or later (standard on Windows Vista and Windows 7)
+An extra hard drive large enough to hold your data, formatted as NTFS
+Administrator privileges on your computer
+Bootable backups require a compatible hard drive
+
+Home page - http://www.goldentroutsoftware.com/
+

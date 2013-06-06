@@ -1,0 +1,19 @@
+DropboxPortableAHK.exe 0.3
+by agathecur (against the current)
+
+
+Description:
+I tried many of the portable dropbox version out there, but none of them has made me happy.
+So I started to create my own DropboxPortableAHK, here it is.
+
+Instructions:
+1. start DropboxPortableAHK.exe
+2. enter your preferred name for your new dropbox folder
+3. go through the normal setup steps of dropbox (which is launched by DropboxPortableAHK.exe)
+4. after finishing the setup steps, DropboxPortableAHK closes dropbox
+5. choose wether you want to move your existing dropbox folder to the portable directory or let dropbox download all files
+6. DropboxPortableAHK moves the dropbox folder to the current DropboxPortableAHK.exe directory
+7. DropboxPortableAHK runs dropbox again -> Happy syncin'!
+
+From now on, simply start DropboxPortableAHK.exe and you are done.
+Even if you move from Vista/7 to XP (usb-stick) dropbox does not have to be set up again.

@@ -1,0 +1,138 @@
+--------------------------------------------------------------------------------
+                                                                                
+           SSSSSSSSSSSSSSS       444444444                 AAA                  
+         SS:::::::::::::::S     4::::::::4                A:::A                 
+        S:::::SSSSSS::::::S    4:::::::::4               A:::::A                
+        S:::::S     SSSSSSS   4::::44::::4              A:::::::A               
+        S:::::S              4::::4 4::::4             A:::::::::A              
+        S:::::S             4::::4  4::::4            A:::::A:::::A             
+         S::::SSSS         4::::4   4::::4           A:::::A A:::::A            
+          SS::::::SSSSS   4::::444444::::444        A:::::A   A:::::A           
+            SSS::::::::SS 4::::::::::::::::4       A:::::A     A:::::A          
+               SSSSSS::::S4444444444:::::444      A:::::AAAAAAAAA:::::A         
+                    S:::::S         4::::4       A:::::::::::::::::::::A        
+                    S:::::S         4::::4      A:::::AAAAAAAAAAAAA:::::A       
+        SSSSSSS     S:::::S         4::::4     A:::::A             A:::::A      
+        S::::::SSSSSS:::::S       44::::::44  A:::::A               A:::::A     
+        S:::::::::::::::SS        4::::::::4 A:::::A                 A:::::A    
+         SSSSSSSSSSSSSSS          4444444444AAAAAAA                   AAAAAAA   
+                                                                                
+                                                                                
+---------------------------------------------------------------------------------
+
+                Kaspersky PURE 2 v 9.1.0.124(a.b) + NEW ABLPatch v1.1            
+
+---------------------------------------------------------------------------------
+
+Kaspersky PURE 2 v 9.1.0.124(a.b) + NEW ABLPatch v1.1
+
+With FIX for : fltlib.dll getting deleted
+
+Updated on 2nd MARCH 2011
+
+K-PURE INSTALL INSTRUCTIONS -- Including FIX Instructions.
+
+Please do not skip any steps, even reboots
+
+01] Uninstall K-PURE if installed (use uninstaller given in [Bouns] folder)
+
+02] Reboot >> Restart your computer (Important)
+
+03] Run "pure9.1.0.124en.exe" as administrator to start Installation
+
+04] Follow through the installation, leave everything default.
+Remember to uncheck
+"I agree the terms of participation in Kaspersky Security Network".
+
+05] After Installation, Activate 30days trail version, and run update center.
+
+06] When updates completed,
+Go to > Settings > general (general Settings) > Self-Defense > Uncheck (Disable) "Enable Self-Defense"
+Go to > Settings > Protection (Protection Center) > general Settings > Uncheck (Disable) "Enable Protection"
+
+07] Open K-PURE and go to license manager (click on License at right bottom)
+In license manager you can find a key like this "0577-0004CE-XXXXXXXX"
+Beside this Key there will be a red "X" mark, use it to remove existing trail License
+
+Delete existing License,a message pops up - Select YES
+
+08] Reboot >> Restart your computer (Important)
+
+09] Right click of K-PURE icon in taskbar (tray, Righ bottom). Click EXIT
+
+10] Open [KABL Patch v1.1] Folder and extract files from "KPURE2.rar"
+
+11] Copy 2 patch files fltlib.dll and fltlib.ini from "KPURE2" K-PURE Install directory.
+
+32Bit OS Users Path
+C:\Program Files\Kaspersky Lab\Kaspersky PURE\
+
+64Bit OS Users Path
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky PURE\
+
+12] Disable Internet connect (open RUN > ncpa.cpl > Select Network > right click > Disable)
+
+13] Open K-PURE > Click on License > Activate commercial License >
+
+Input 11111-11111-11111-1111X, then click "Next".
+
+It will be unable to connect to the Activation servers. Click "Browse" and open
+PURE.CRYSTAL_9.key given in [KABL Patch v1.1\KEY] folder. Click "Next", then "Finish".
+
+14] Open K-PURE > Click on "My computer Protection" >
+Settings > Threads and exclusions > Exclisions > Settings > Exclusion Rules > click on "+ADD " > Select object
+
+32Bit OS Users Path
+C:\Program Files\Kaspersky Lab\Kaspersky PURE\fltlib.dll
+C:\Program Files\Kaspersky Lab\Kaspersky PURE\fltlib.ini
+
+64Bit OS Users Path
+C:\Program Files\Kaspersky Lab\Kaspersky PURE\fltlib.dll
+C:\Program Files\Kaspersky Lab\Kaspersky PURE\fltlib.ini
+
+Click on OK to add those 2 patch files in to exclusion list, So that K-PURE wont consider them any more.
+
+Click Apply and Ok on Settings window (Important)
+
+15] Install Universal Shield v4.4 given in [Bonus] Folder (Patch Included)
+
+Restart - After Installing Universal Shield (Important)
+
+16] Open "Universal Shield" Add patch files to protect them (from Kaspersky)
+
+Click on Protect > Select file > Browse for the following 2 files
+
+64 Bit OS Users
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky PURE\fltlib.dll (NO ACCESS)
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky PURE\fltlib.ini (READ ONLY ACCESS)
+
+32 Bit OS Users
+C:\Program Files\Kaspersky Lab\Kaspersky PURE\fltlib.dll (NO ACCESS)
+C:\Program Files\Kaspersky Lab\Kaspersky PURE\fltlib.ini (READ ONLY ACCESS)
+
+
+17] Now Select "Security" (tab) in Universal Shield > Trusted Processes > Add to List > add "avp.exe" to Trusted Processes.
+
+64Bit OS Users
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky PURE\avp.exe
+
+32 Bit OS Users
+C:\Program Files\Kaspersky Lab\Kaspersky PURE\avp.exe
+
+18] Select "Options" (tab) >
+
+Enable - Protect After Exit
+Enable - Protect On Windows Start
+Enable - Protect In Windows Save mode
+
+19] Turn internet back on and Enable Self-Defense and Protection in settings.
+remember ? Point 06] and 12]
+
+Now every thing completed, Check your license once again in License manager
+Update KIS - Restart (How many time you would like) - Update KIS
+
+
+Install Instructions 15] 16] 17] 18] are FIX for fltlib.dll file getting deleted
+Remember, you have to apply all install instructions before you applying FIX
+
+---------------------------------------------------------------------------------

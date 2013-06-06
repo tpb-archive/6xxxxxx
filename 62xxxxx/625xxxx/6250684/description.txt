@@ -1,0 +1,93 @@
+VMware Workstation/Player (Multi-Brand) Bios Installer
+Works on VMware W'Stn (v6-7.x) & Player (v3.x)[Windows]
+
+Decription:
+
+It works by finding vmware-vmx.exe (if present in one of the 5x locations), where Restorator 
+silently patches binres 6006 entry with the selected resource file, and confirms the job is done. 
+It will patch any version whether x32 or x64 bit by disregarding CRC checking. 
+It's portable, nothing is actually installed to your system.
+
+How To Use:-
+
+1. Make sure VMware W'Stn (v6-7.x) or VM Player (v3.x) is turned off 
+   (can't patch a file if it's in use).
+2. Double-click the Installer and make your selection ...it will confirm done, seconds later.
+3. VMware should now run with the bios file you selected.
+
+Note:- on first use a "back-up" copy of your vmware-vmx.exe is made and confirmation of 
+it's location displayed ... if for any reason you wish to return to an untouched state, you have 
+the ability to just manually overwrite vmware-vmx.exe in your Program Files with your untouched 
+back-up copy.
+
+Main Menu
+
+1-55:
+Individual manufacturer brands with SLP 2.1 + 1.0 (*=no SLP1.0)
+
+XP:
+Virtual PC Mode for XP
+
+SLP:
+Multi (AIO) manufacturer brands (over 90+) with SLP1's for XP
+
+USB:
+USB_Boot.iso file delivered to Desktop to allow booting USB Stick in VMWare
+
+ON/OFF:
+10 second boot delay option (on/off)
+
+00:
+return VMWare to default state (un-patched)
+
+USB Boot (USB_Boot.iso allows booting from USB Stick)
+
+The VMWare virtual machine's BIOS does not offer the option to boot from USB.
+
+There is a workaround:-
+
+* Download the plpbt-x.x.x.zip file and unzip it.
+* Boot your virtual machine on plpbtnoemul.iso or plpbt.iso
+
+* Choose USB with up/down arrows and press ENTER.
+* Before you press ENTER, remember to "connect" your USB drive to the virtual machine:
+
+Note that: This trick doesn't work under VirtualBox.
+
+Source Files:- Plop [ http://www.plop.at/]
+Source Info:- Kioskea [ http://en.kioskea.net/faq/7591-boot-from-your-usb-drive-under-vmware]
+
+DOWNLOAD LINK 1:- Main Patcher
+ 
+http://www.datafilehost.com/download-d4269581.html
+
+* updated 28/02/2011
+
+* added various "Brands"
+
+* updated script
+
+File: VMBIOS_Selector_v315l.7z
+CRC-32: 5008cb83
+MD4: 4a8a795baa2c73a0a8ff04718bd4b931
+MD5: d34ed5c1cced5cd51bb1c671c36d0127
+SHA-1: d141ecb530cf9de3df7df8a554146736304d464c
+Size : 7.21mb
+
+DOWNLOAD LINK 2:- ROM Collection
+ 
+http://www.datafilehost.com/download-741de919.html
+
+* updated 28/02/2011
+
+* added various "Brands" & "BootLogo's"
+
+* collection of individual VMWare Bios Rom files from main patcher (over 50+ brands)
+
+File: VMWare_ROM_Collection.7z
+CRC-32: a22c013c
+MD4: 48267ed82dc5784af653ddbd3031477b
+MD5: 5923471127f6a74996d280cbee140285
+SHA-1: 5bcf97b9df023e2b379c334bf1491e4cf7ef1f95
+Size : 1.6mb
+

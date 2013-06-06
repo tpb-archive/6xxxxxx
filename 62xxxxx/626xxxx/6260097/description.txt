@@ -1,0 +1,22 @@
+v3.04.1389 (24 Feb 2011) 
+- Added support for Windows 7 SP1.
+- Added Internet Explorer UserData cleaning and management.
+- Added Safari cookie management.
+- Improved Google Chrome detection.
+- Added Google Chrome JumplistIcons folder cleaning.
+- Added Opera Icon Cache folder cleaning.
+- Added support for Comodo Dragon.
+- Added support for SongBird embedded browser.
+- Added support for Thunderbird embedded browser.
+- Added Registry cleaner for Sound Events.
+- Improved Registry cleaning for Unused File Extensions.
+- Improved Registry cleaning for Application Paths.
+- Added environment variable support in Custom Locations.
+- Command line exporting of embedded INIs (/export [folder path]).
+- Added cleaning for Excel Viewer, FeedDemon, WinDiff and Last.FM,
+Free Download Manager, Internet Download Accelerator
+and Internet Download Manager.
+- Improved cleaning for AntiVir Desktop, AVG AntiVirus 10.0
+and Windows Media Player. 
+- Improved system file detection security.
+- Minor bug fixes

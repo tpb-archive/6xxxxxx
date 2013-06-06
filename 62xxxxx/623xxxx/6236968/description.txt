@@ -1,0 +1,150 @@
+ _____                  ____ ____ _   _    _     __        __         _    _                 _    
+|  ___| __ ___  ___    / ___/ ___| \ | |  / \    \ \      / /__  _ __| | _| |__   ___   ___ | | __
+| |_ | '__/ _ \/ _ \  | |  | |   |  \| | / _ \    \ \ /\ / / _ \| '__| |/ / '_ \ / _ \ / _ \| |/ /
+|  _|| | |  __/  __/  | |__| |___| |\  |/ ___ \    \ V  V / (_) | |  |   <| |_) | (_) | (_) |   < 
+|_|  |_|  \___|\___|   \____\____|_| \_/_/   \_\    \_/\_/ \___/|_|  |_|\_\_.__/ \___/ \___/|_|\_\
+
+Free CCNA Workbook
+----------------------
+Section 1 â€“ Getting Started with your Cisco Lab
+    Lab 1-1 - Identifying Router Components and Accessories
+    Lab 1-2 - Connecting to a Cisco Router or Switch via Console
+    Lab 1-3 - Identifying Router & Switch IOS Software
+    Lab 1-4 - Configuring a Cisco Access Server
+    Lab 1-5 - Installing Graphical Network Simulator v3
+    Lab 1-6 - Basic Graphic Network Simulator v3 Configuration
+    Lab 1-7 - Configuring The FreeCCNAWorkbook GNS3 Topology
+    Lab 1-8 - Configuring a GNS3 Ethernet NIO Cloud
+
+Section 2 â€“ Basic Cisco Router and Switch Management
+    Lab 2-1 - Cisco 2500 Series Router Password Reset
+    Lab 2-2 - Cisco 2600 Series Router Password Reset
+    Lab 2-3 - Fixed Configuration Catalyst Switch Password Reset
+    Lab 2-4 - Cisco Device Initial Configuration Dialog
+    Lab 2-5 - Navigating the Cisco Command Line Interface
+    Lab 2-6 - Configuring an IP address on an Interface
+    Lab 2-7 - Configuring Interface Specific Configurations
+    Lab 2-8 - Configuring a Loopback Interface
+    Lab 2-9 - Upgrading the Cisco Internetwork Operating System
+    Lab 2-10 - Recovering a Corrupt Cisco IOS Image on a 2500 Series Router
+    Lab 2-11 - Recovering a Corrupt Cisco IOS Image on a 2600 Series Router
+    Lab 2-12 - Recovering a Corrupt Cisco IOS Image on a Catalyst Switch
+    Lab 2-13 - Configuring the Login, EXEC and MOTD Banners
+    Lab 2-14 - Reset Cisco IOS Configuration Specific Defaults
+
+Section 3 â€“ Configuring Basic Cisco Device Security
+    Lab 3-1 - Configuring Basic Password Authentication
+    Lab 3-2 - Configuring Local User Database Authentication
+    Lab 3-3 - Configuring AAA Authentication Lists
+    Lab 3-4 - Configuring AAA Authentication via TACACS+ Server
+    Lab 3-5 - Configuring Secure Shell Virtual Terminal Access (SSH)
+    Lab 3-6 - Configuring Numbered Access Control Lists
+    Lab 3-7 - Configuring Named Access Control Lists
+    Lab 3-8 - Configuring the VTY Line(s) Access Control List
+    Lab 3-9 - Configuring the Password Encryption Service
+    Lab 3-10 - Configuring an exec timeout and Login Failure Rate
+    Lab 3-11 - Configuring Cisco IOS Web Server Authentication
+    Lab 3-12 - Configure logging to a Remote SYSLog Server
+
+Section 4 â€“ Configuring Cisco Catalyst Series Switches
+    Lab 4-1 - Configuring Cisco Discovery Protocol (CDP)
+    Lab 4-2 - Creating Virtual Local Area Networks (VLANâ€™s)
+    Lab 4-3 - Configuring a Management VLAN Interface
+    Lab 4-4 - Configuring Trunk Ports using ISL or 802.1q
+    Lab 4-5 - Configuring An EtherChannel Link
+    Lab 4-6 - Configuring EtherChannel Utilizing PAgP
+    Lab 4-7 - Configuring EtherChannel Utilizing LACP
+    Lab 4-8 - Configuring a Port Channel Interface
+    Lab 4-9 - Configuring a Static ARP Entry
+    Lab 4-10 - Configuring VLAN Trunking Protocol (VTP)
+    Lab 4-11 - Configuring VTP Transparent Mode and VTP Pruning
+    Lab 4-12 - Configuring Inter-VLAN Routing (Router-on-a-Stick)
+    Lab 4-13 - Configuring Per-VLAN Spanning Tree Protocol
+    Lab 4-14 - Configuring Rapid Per-VLAN Spanning Tree Protocol
+    Lab 4-15 - Configuring Multiple Spanning Tree Protocol (MSTP)
+    Lab 4-16 - Configuring Switchport Spanning Tree Portfast
+    Lab 4-17 - Configuring Switchport Spanning Tree BPDU Guard
+    Lab 4-18 - Configuring STP Interface Specific Attributes
+    Lab 4-19 - Configuring Dynamic Switchport Security
+    Lab 4-20 - Configuring Sticky Switchport Security
+    Lab 4-21 - Configuring a Switched Port Analyzer Session
+
+Section 5 â€“ Configuring Wide Area Network Links
+    Lab 5-1 - Configuring Point-to-Point T1 Links using PPP or HDLC
+    Lab 5-2 - Configuring Point-to-Point Frame Relay Links
+    Lab 5-3 - Configuring Point-to-Point Frame Relay Sub-Interfaces
+    Lab 5-4 - Configuring a Point-to-Multipoint Frame Relay WAN
+    Lab 5-5 - Configuring and Understanding Frame Relay Inverse ARP
+
+Section 6 â€“ Configuring Static Routing
+    Lab 6-1 - Configuring Static Routing
+    Lab 6-2 - Configuring a Floating Static Route
+    Lab 6-3 - Configuring a Static Default Route
+
+Section 7 â€“ Configuring Routing Information Protocol (RIP)
+    Lab 7-1 - Configuring Routing Information Protocol (RIP)
+    Lab 7-2 - Configuring RIP Versions 1 and 2
+    Lab 7-3 - Configuring RIP Timers
+    Lab 7-4 - Configuring RIP Triggered Updates
+    Lab 7-5 - Configuring RIP Interface Options
+    Lab 7-6 - Configuring RIP Static Neighbors
+    Lab 7-7 - Configuring RIP Default Information Originate
+    Lab 7-8 - Configuring RIP Route Summarization
+    Lab 7-9 - Configuring RIP Route Metric Offset-Lists
+
+Section 8 â€“ Configuring Enhanced Interior Gateway Routing Protocol (EIGRP)
+    Lab 8-1 - Configuring Basic EIGRP
+    Lab 8-2 - Configuring EIGRP Static Neighbors
+    Lab 8-3 - Configuring EIGRP Split Horizon
+    Lab 8-4 - Configuring EIGRP Stub Area Networks
+    Lab 8-5 - Configuring EIGRP Timers
+    Lab 8-6 - Configuring EIGRP Maximum Paths
+    Lab 8-7 - Configuring EIGRP Passive Interface
+    Lab 8-8 - Configuring EIGRP Route Summarization
+    Lab 8-9 - Configuring EIGRP Default Route Propagation
+
+Section 9 â€“ Configuring Open Shortest Path First (OSPF)
+    Lab 9-1 - Configuring Basic OSPF
+    Lab 9-2 - Configuring OSPF Priority
+    Lab 9-3 - Configuring OSPF Network Types
+    Lab 9-4 - Configuring OSPF Static Neighbors
+    Lab 9-5 - Configuring Multi-Area OSPF
+    Lab 9-6 - Configuring The OSPF Router-ID
+    Lab 9-7 - Configuring OSPF Timers
+    Lab 9-8 - Configuring Per Interface OSPF
+    Lab 9-9 - Configuring OSPF Stub Areas
+    Lab 9-10 - Configuring OSPF Interface Cost
+    Lab 9-11 - Configuring OSPF Auto Cost Reference Bandwidth
+    Lab 9-12 - Configuring OSPF Passive Interface
+    Lab 9-13 - Configuring OSPF Maximum Paths
+    Lab 9-14 - Configuring OSPF Route Summarization
+    Lab 9-15 - Configuring OSPF Default Route Propagation
+
+Section 10 â€“ Configuring Route Redistribution
+    Lab 10-1 - Configuring Static Route Redistribution
+    Lab 10-2 - Configuring Mutual OSPF and RIP Redistribution
+    Lab 10-3 - Configuring Mutual OSPF and EIGRP Redistribution
+    Lab 10-4 - Configuring Mutual EIGRP and RIP Redistribution
+
+Section 11 â€“ Configuring IP Services
+    Lab 11-1 - Configuring Network Address Translation (NAT) One-to-One
+    Lab 11-2 - Configuring a Network Address Translation (NAT) Pool
+    Lab 11-3 - Configuring Port Address Translation (PAT) Many-to-One
+    Lab 11-4 - Configuring the Cisco IOS DHCP Server
+    Lab 11-5 - Configuring an IOS DHCP Server IP Exclusion Range
+    Lab 11-6 - Configuring an IP DHCP Helper Address
+    Lab 11-7 - Configuring the Cisco IOS NTP Client
+    Lab 11-8 - Configuring the Cisco IOS NTP Server
+    Lab 11-9 - Configuring Cisco IOS DNS Name Servers
+
+Section 12 â€“ Configuring IP Version 6 (IPv6)
+    Lab 12-1 - The Basics of Internet Protocol Version 6 (IPv6)
+    Lab 12-2 - Configuring IPv6 Interface Addressing
+    Lab 12-3 - Configuring IPv6 Static Routing
+    Lab 12-4 - Configuring Basic IPv6 RIPng
+    Lab 12-5 - Configuring Basic IPv6 OSPFv3
+    Lab 12-6 - Configuring IPv6 Access List
+
+Section 13 â€“ Installing and Configuring Cisco GUIâ€™s
+    Lab 13-1 - Configuring SDM Minimum Requirements
+    Lab 13-2 - Installing Cisco Security Device Manager (SDM)

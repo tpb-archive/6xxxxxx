@@ -1,0 +1,42 @@
+AIDA64 (former EVEREST) - the utility is a powerful tool for identification and testing of virtually all components of personal computers running operating systems Windows. Gives you detailed information about all the hardware and software, in addition, with built-in modules for testing and calibration can be further tested the individual subsystems PC. Displays detailed information about all the hardware and software installed on your system.
+
+Features:
+- Level information about motherboard and CPU
+- Details of the video drivers and monitor
+- Information about all storage devices
+- Exhaustive information about network adapters, multimedia and input devices
+Information about other glands (PCI, PnP, PCMCIA, USB)
+- Details of Windows, including the date of installation, the license key and more
+Information about network shares, users and groups list, and much more
+- Large amount of information about networking status, remote access, network resources and Internet settings
+- Detailed information about installed programs, scheduled tasks and startup programs
+- Information about operating system security
+- A list of firewalls, anti-spyware and anti-
+- System Stability Test
+- CPUID Panel
+- Hardware monitoring
+- Benchmarks CPU and FPU
+- Tests of memory
+- Module performance test drive
+- Detection of possible misconfiguration and compatibility issues of hardware and software
+- Report Wizard
+- Mailing and printing
+
+
+Changes in AIDA64 Extreme Edition 1.60.1314 Beta
+* firewall software support for McAfee Total Protection 2011
+* improved and fixed support for AMD K14 processors
+* identification of Mobile AMD Athlon 64 (aka Oakville, Odessa)
+* identification of AMD Opteron 41xx (aka Lisbon)
+* identification of Intel Xeon E3-12xx (aka Sandy Bridge-WS)
+* Intel Processor Number detection for Atom N570
+* Intel Processor Number detection for new Core 2 Duo E8135
+* improved motherboard specific sensor info for ASRock boards
+* motherboard specific sensor info for MSI MS-7670
+* fixed: GPU temperature measurement on Inno3D 8800GT
+* fixed: BIOS settings detection via Intel XTU
+
+
+Tested And Working
+
+Enjoy

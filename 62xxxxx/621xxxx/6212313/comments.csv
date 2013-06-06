@@ -1,0 +1,43 @@
+User Type,Username,Date,Text
+,TheBhaasa,2011-03-02T13:32Z,Can i run this game on my ps3 without jailbreaking or without any mod chip... Plzz help me..
+,robbie_74,2011-03-03T01:44Z,has any1 got this 2 work cause i cant
+,anon,2011-03-28T08:27Z,"instructions:
+
+copy game to USB external (FAT32) 
+game is 1.24GB extracted. (make sure u have enough free space)
+
+
+copy game folder(game_name) to /GAMEZ/game_name
+
+plug into ps3
+boot ps3
+execute LV2 patcher.pkg
+(running CFW 3.55 kmeow)
+
+
+open MultiMAN v01.16.16
+
+you should see 
+(Game Title);
+/dev/usb0/GAMEZ/game_name
+
+now press 
+select + X buttons on controller.
+
+""do u want to enable BD-ROM mirror?""
+choose ""Yes""
+
+
+now open game from XMB menu.
+
+the game will now launch 
+and ask for installation.
+
+choose Yes.
+
+Note: it may lag at 77%
+
+leave the room, do something else, come back.
+
+game now installed, working.
+"

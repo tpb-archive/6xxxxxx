@@ -1,0 +1,84 @@
+User Type,Username,Date,Text
+,newsride,2011-04-04T14:26Z,"Hello! This has a same error of Rars like x32. This is not IOS Post. I downloaded twice but same problem for R03,r10,r12,r13,r20 incomplete damaged. So can not used after mount ISO (volume crashed). Without Par I cannot fixed or recovery. Plz post ISO file directly, NOT breaked RARs. Thanks"
+[V],Chris-Aksel,2011-04-04T17:21Z,"try this way out :
+
+I have to be honest ;)
+
+I got the mec.simul. 100%, removed it from uTorrent and right-click extract on the single .rar file.
+
+It gave error-msg on the iso just before end of extract. This it did twice.
+
+Later i tried again - still on the single .rar, knowing that rar continues by itself to next.. and by surprise it finished without any errors
+
+totally weird
+
+maybe uTorrent still had it's claws on something though the DL was removed from uTorrent..."
+,Disctrainer,2011-04-08T18:24Z,Unpacks all ok but asks for DVD 2 during install. 
+,hahalolfailmupp,2011-04-08T20:35Z,"If the setup calls for a cd, try unpacking the ISO into a folder and run it from there, also, don't select all companys in the component library, only the ones you need."
+,rolfd,2011-04-08T21:33Z,Need DVD2... have cheked the manufactures i need but they are on DVD2... Have my own genuine serial but a broken disc number two...
+,hahalolfailmupp,2011-04-09T20:41Z,"@rolfd Unpack the ISO into a folder, run the setup and it will install just fine"
+,hahalolfailmupp,2011-04-10T04:15Z,"Okay, deinstalled this and removed all the reg keys.
+
+Tried an install by mounting the ISO
+It fails when selecting 1 or all component manufacturers.
+
+Then i tried a extract of the ISO with winrar.
+Selected all manufacturors
+And it installs fine. "
+,zazzaroth,2011-04-22T12:57Z,"Keygen filen varnar för PWS-SpyEye!env.a
+en så kallad Trojan. level 4 i skadlighet.
+Ganska ny trojan som tydligen kommit ut nyligen.
+Vore trevligt om nån mer kan kolla så det inte är en sån där vanlig sak AV program gör när den ser ett keygen program."
+,5234523,2011-04-30T16:13Z,"workaround to those (like myself) that had the ""insert dvd 2"" issue:
+
+1)when you get the dreadful dialog open the task manager and quit the installer.
+
+2)there should be a shortcut on your desktop already. open it. you'll get error messages claiming certain DLLs cannot be found. using the search function find them on the disk image and copy them over. 
+
+3)use your head a little bit to avoid tons of grunt work.
+
+maybe someone will find a more elegant method but this worked for me. (if you look in the setup.ini file it references a dll that seems to handle checking to see if a disk is mounted (i already tried commenting the line out))
+
+big ups to distributors that choose quality over quantity."
+,5234523,2011-04-30T16:15Z,"also, i'm willing to bet the problems winrar has with utorrent is that utorrent fucks with the native disk caching. too unmotivated to experiment with it though."
+,konstantily,2011-05-01T03:52Z,"i have a problem with the activation. i'm pressing the mem patch button when i'm at the activation screen but the above message appears: 
+'Could not get debug privilege! Are you admin?'
+And also the activation code that is generating is not acceptable from the autocad application. It has less letters and numbers than those in the empty gaps.
+
+Please help me..."
+,soulfly78,2011-05-11T13:09Z,"anyone can post a list with the companys
+that are on disc 1.
+maybe uploader can upload disc 2 also ?"
+,rockvael,2011-07-10T21:57Z,"To install without problems
+1 - Unzip the files, and will result in a disk image.
+2 - Using WinRar, extract all files from the disc and leave in any folder.
+2nd - Me, has a problem because the directory path was longer than 93 characters (do not ask Purpose of the problem), so I created a folder in the root and it worked
+3 - After extracting all files, usually following the install file / crack / install.txt
+---------------------------------------------
+Para instalar sem problemas
+1Âº - Descomprima os arquivos, e resultarÃ¡ em uma imagem de disco.
+2Âº - Usando o WinRar, estraia todos os arquivos do disco e deixe em uma pasta qualquer.
+2.a - Comigo, deu um problema porque o caminho do diretÃ³rio era maior que 93 caractÃ©res(nÃ£o me pergunte a rasÃ£o do problema), entÃ£o eu criei uma pasta na Raiz e deu certo
+3Âº - ApÃ³s extrair todos os arquivos, instale normalmente segundo o arquivo /crack/install.txt"
+,bafo,2011-07-20T08:59Z,"During installation, i can't find installation option for symbol librarys. I want to import IEC library and not the default JIC.
+Only appears the option for manufacturer librarys.
+Has anyone a solution?
+Thanks in advance. 
+"
+,MTpipes,2011-08-11T06:34Z,"The reason I think that it is asking for a 2nd disk is because the crack is part of the iso image.  When the ISO is mounted it sees the additional files and reads it as having more data than can fit onto a dvd. I think if that was seperated there would be no problem at all.  
+
+BTW Thanks for the upload I got cad as well worked flawless. Great Job!"
+,haidsz14,2011-09-11T03:56Z,"This torrent is GREAT!!! worked 100% easy install!!
+
+took a while to extract because of the size of the file and took some time to install but it works fine. some of the install files were missing but all you had to do was ignore the errors. they had nothing to do with the main software."
+,GAZ_C,2011-11-04T11:35Z,"Anyone know how to complete the install when its asking for disk 2?? I've previously installed the 32-bit version on a different PC and it never asked for disk 2, both installs I'm doing are identical "
+,dmartyni,2012-02-11T19:13Z,"To get this to work for me...
+
+I had the same issue with the 2nd disc. hahalo's recommendation worked finally. 
+
+I simply opened the files through d-tools after extracting 1 rar file with winrar (because it automatically does all of them until the file is whole) and copy and pasted into an empty folder i created on my desktop. I also removed the Crack folder out of the ISO once it was copied (may not be necessary). 
+
+Then I ran the installation from the folder that has the copied ISO and did the instructions as in the Crack/install.txt
+
+Hope that this helps someone else."
+,Xinthose,2012-04-10T00:03Z,"What I did is open the .iso with WinRAR and extract the contents to a folder, then cut the 'Crack' folder out of there, and it stopped the error message.  But on the second try of installing it, it seemed to freeze on step 8 of 17 for me, on the Language pack part.  I cancelled the installation and started it anyway and it started fine with no error messages or anything.  Using the key gen is a little tricky but it worked in the long run.  Thanks Chris-Aksel!  I like the music you put into the key gen as well"

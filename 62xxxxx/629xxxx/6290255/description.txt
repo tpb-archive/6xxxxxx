@@ -1,0 +1,30 @@
+                                     ~~~~README~~~~
+Hello!
+This is an image of a DELL OEM Windows XP Professional SP2 disk, but with modded USB drivers so it can be installed to USB flash drives, and remove languages. Besides that, I have not done anything to change it. You need to have your own XP Pro SP2 key at the GUI setup. But, if you have a DELL PC, you don't have to enter a key, lucky you. After searching for hours trying to find a premade USB XP Pro, I did not find anything, so, I found my old SP2 XP Pro DELL disk, and edited files so it could do this, tested it on a 4GB SanDisk Cruzer.
+Tested Computers:
+SanDisk Cruzer 4GB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+|Gateway NV5378u    - Yes|
+|Dell Inspiron 600m - Yes|
+|Dell XPS m140      - Yes|
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Installation Instructions:
+1.) Download this torrent
+2.) Plug in your USB flash drive and format it with the HP Format tool in NTFS format (Extras folder)
+3.) Burn the sp2_pro_rtm_usb.iso with ImgBurn (in the Extras folder)
+4.) Go to a pc (Take out the normal hard drive if possible, this may screw up your MBR bootloader)
+5.) Unplug all USB devices except for your USB Keyboard and Mouse (if you have one) and the drive without a hub
+6.) Select your flash drive and tell it you want it to leave file system intact (if you get the thing saying you canâ€™t install it, make sure you format the flash drive appropriately and clear any MBR)
+7.) Let the flash drive boot up and finish the install
+8.) If it asks if you want to install USB drivers, click YES every time.
+9.) When install completes, you can plug in all your hard drives and such back in to the PC
+
+
+~~~~Troubleshooting~~~~
+Alright, I tried to make this as simple as possible.
+1.) If you get the cant install thing in the text mode setup, format the USB drive again in the HP format tool and try again. If it still fails, try a different USB flash drive, eSATA, or an External USB hard drive.
+2.) If you did not click yes on a driver install, you fucked up. You need to reinstall and click YES to EVERYTHING.
+3.) If you get stop error 0x000007B this normally indicates a boot failure. Restart the PC and press F8 to select safe mode and normally it will boot up. I had to install video drivers and network drivers n the Gateway NV53 to get rid of this.
+4.) If you can't even boot from the USB flash drive, in your BIOS (Del, F2, F10, F12, etc...) and check your boot devices.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Hopefully, I provided everything you need to know to get a portable XP!
+Please note that I am NOT responsible for anything that happens to your computer. I am only providing this for your evaluation.

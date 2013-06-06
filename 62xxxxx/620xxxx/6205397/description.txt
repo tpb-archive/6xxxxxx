@@ -1,0 +1,24 @@
+This is the exact package, I used to upgrade from 3.41, using a dongle, to CFW. 3.55. 
+
+This is a simple guide for the noobs lol :-) 
+
+- Delete all game data (not save game data) 
+
+- Upgrade to official firmware 3.55 (Regardless of which firmare you are currently on) 
+Copy 'ps3' folder from 'step one' to root of USB Stick. Insert USB into PS3 and update through XMB (or recovery mode if the system tells you that you already have the latest update) 
+
+- Install Custom Firmware 
+
+Copy 'ps3' folder from 'step 2' to root of USB Stick (remember to remove folder from step 1 on USB).Insert USB into PS3 and update through XMB (or recovery mode if the system tells you that you already have the latest update.) 
+
+- Install Backup Managers 
+
+Copy contents from 'step 3' to root of USB Stick (remember to remove previous data from USB). Insert USB into PS3 and select 'install package files (Multiman First, then BDEMU-355KM)' from XMB and install packages. 
+
+
+**Congratulations you now have a jailbroken PS3 with working backup manager** 
+
+- All backups are to be launched through XMB via BM 
+- Any original PS3 game needs to be in disk drive on launch of backup
+
+Now there is no reason to be on 3.41 Firmware

@@ -1,0 +1,30 @@
+CorkScrew
+
+Title: Fallout: New Vegas
+Type: Game - Action/RPG
+Rating (appdb): Gold
+Date: 2011, 03-31
+Release Source: SKIDROW
+AppDB Link: http://appdb.winehq.org/objectManager.php?sClass=version&iId=21692
+Notes: This release contains all the updates released from SKIDROW up till now, including the downloadable extras and Dead Money.
+
+About:
+
+CorkScrews are prepackaged wine prefixes inspired by the "Wine bottle" of
+Crossover (cxgames.). This package was built using ArchLinux and also tested on Ubuntu 10.04, it should work properly on any Linux distribution with wine properly installed.
+
+To install the game run installer.sh. This will extract the archive to ~/.wine/wineprefixes/FalloutNewVegas. 
+
+To launch the game execute the script located in ~/bin, either by double clicking on it, or from a terminal enter: "~/bin/falloutnv" (case sensative). I reccomend adding $HOME/bin to your PATH, especially if you want to use more then one corkscrew (hint: google it). A desktop launcher is not included with this release, but you can easily make one yourself using the included icon.
+
+To uninstall delete the FalloutNewVegas folder in ~/.wine/wineprefixes.
+
+I encourage you to package, test, and distribute CorkScrews of other applications and games. This package along with the installer can be freely redistributed and/or modified only by qualified software pirates. If you are happy to see a game or program you like running on linux be sure to let the developers know. 
+
+For other packages just search "CorkScrew" on your favorite torrenting site. 
+
+Any requests/feedback/questions/issues/comments/virgin offerings, are welcome. Leave a comment or find me on freenode IRC as "evilgold".
+
+Thanks to Skidrow for the original scene release and crack.
+
+Please do not download this release unless you are able to seed it for a while. If you are unable to seed, please download the original SKIDROW release instead (it already has lots of seeds).

@@ -1,0 +1,58 @@
+CBT Nuggets: Microsoft 70-685 Windows 7 Enterprise Desktop Support Technician
+
+Video 1: Series Overview|10:40
+â€¨About this Series. About Microsoft DST Certification. About the 70-685 Exam. In this nugget we introduce the series and describe how it (a) matches the Microsoft-published exam objectives extremely closely; and (b) will help you attain your certification goal in minimal time. We also describe the somewhat confusing world of Microsoft Desktop Support Technician (DST) certification, paying particular attention to the 70-685 test.
+
+Video 2: Handling New Software Installation Issues|51:51
+â€¨Controlling Installation Permissions. Deploying AppLocker. Managing Driver Signing. Understanding Licensing Options. We dive right into the material in this nugget. Here we learn how software installation works out of the box in Windows 7. We also learn how to use AppLocker, the new and powerful method for controlling software installation on Windows 7 systems. We also cover device driver signing, digital certificates, and how Microsoft licensing works with respect to Windows 7. Relevant Exam Objectives: Identify and resolve new software installation issues.
+
+Video 3: Resolving Software Configuration Issues|41:11
+â€¨Enabling and Disabling Features. Deploying Application Shims. Pointing to a Network Resource. In this nugget we learn how to manage installed software in Windows 7. We cover how to enable and disable out-of-box features, how to use the Application Compatibility Toolkit (ACT) to deploy application shims, and then how to make client-side network connections to server-based resources. Relevant Exam Objectives: Identify and resolve software configuration issues.
+
+Video 4: Managing Software Failure Issues Part 1|42:26
+â€¨Checking Event Logs. Accessing Safe Mode. Repairing a Windows 7 Installation. In this nugget we explore the myriad ways to troubleshoot a failed software installation in Windows 7. Specifically, we perform a deep-dive into the Windows Event Logs, Safe mode and other diagnostic boot modes, and then finish with a consideration of the Windows 7 repair process. Relevant Exam Objectives: Identify cause of and resolve software failure issues.
+
+Video 5: Managing Software Failure Issues Part 2|39:45
+â€¨Managing Programs and Features. Restoring or Reimaging Windows 7. Editing the Default Settings on the System Image. In this nugget we go further in learning to master software management and uninstallation in Windows 7. We also cover administration of Windows 7 operating system images, including how to customize a reference OS image using the Microsoft deployment tools in Windows Server 2008 R2. Relevant Exam Objectives: Identify cause of and resolve software failure issues.
+
+Video 6: Troubleshooting Logon Issues|35:23
+â€¨Logon Context. Trust Relationships with Computer Accounts. Password expiration and Logon Hours Compliance. In this nugget we tackle the extremely common DST troubleshooting issue of the failed network logon. We discuss the trusted connection that exists between a client and a server computer in an Active Directory Domain Services (AD DS) environment. We also look at password expiration and logon hours compliance and how these play into resolving usersâ€™ logon problems. Relevant Exam Objectives: Identify and resolve logon issues.
+
+Video 7: Identifying Network Connectivity Issues Part 1|35:56
+â€¨Determining the Issue Scope. TCP/IP Configuration. Testing Network Connectivity. In this nugget we begin with an overview of network troubleshooting methodology, paying particular attention to determining issue scope. Next we ensure that we have the basics of client-side TCP/IP configuration down. We finish with using various built-in Windows 7 command-line tools in order to test and troubleshoot network connectivity. Relevant Exam Objectives: Identify and resolve network connectivity issues.
+
+Video 8: Identifying Network Connectivity Issues Part 2|35:07
+â€¨BranchCache Overview. The Default Gateway. Network Location Awareness. We begin this nugget by providing a detailed discussion of BranchCache, a cool new Windows Server 2008 R2 feature that provides Windows 7 clients and their users much faster access to shared resources in a multi-side Active Directory internetwork. We then examine the role of the default gateway in routed TCP/IP communications, and spend the remainder of our time togeter in this nugget mastering the mechanics of the Network Location Awareness (NLA) service and how this technology interplays with Windows Firewall, Group Policy, and AD DS. Relevant Exam Objectives: Identify and resolve network connectivity issues.
+
+Video 9: Managing Name Resolution Issues|33:31
+â€¨Verifying Name Resolution Configuration. Managing the DNS Cache. Using nslookup. In this nugget we perform a deep-dive into Domain Name System (DNS) and how we can leverage our expertise with server-side setup to resolve client-side name resolution problems. Specifically, we learn how to manage the client-side name resolve cache and use nslookup to query resource records on an authoritative DNS server. Relevant Exam Objectives: Identify and resolve names resolution issues.
+
+Video 10: Administering Network Printer Issues|39:39
+â€¨Hardware and Printer Failure. Server-Side Configuration. Managing Driver Issues. Handling Network Issues. Because printing is both a core network service as well as a popular vector for DST troubleshooting, we spend a significant amount of time here learning practical strategies for approaching hardware failure, software failure, server-side print queue configuration, and how to administer network drivers and associated services. Included in this nugget is a practical overview of the nifty Print Management Microsoft Management Console (MMC) tool. Relevant Exam Objectives: Identify and resolve network printer issues.
+
+Video 11: Identifying Performance Issues Part 1|42:51
+â€¨Analyzing System and Application Logs. Troubleshooting Services. Using Performance Monitor. In this nugget we learn to â€œput our finger on the pulse,â€ as it were, of a troublesome, or suspected troublesome, Windows 7 system. Specifically, we learn how to analyze the appropriate Windows event logs, troubleshoot system services, and use the Performance Monitor console. Relevant Exam Objectives: Identify and resolve performance issues.
+
+Video 12: Identifying Performance Issues Part 2|47:34
+â€¨Configuring Power Management. Managing Hard Drive Space. Optimizing Virtual Memory. In this nugget we carry over our discussion started in the previous nugget on performance monitoring and tuning in Windows 7. Here we begin with power management, and then move on to managing hard drive space and optimizing virtual memory. Relevant Exam Objectives: Identify and resolve performance issues.
+
+Video 13: Resolving Hardware Failure Issues|35:41
+â€¨Hardware Troubleshooting Tools. Resolving Hard Drive Issues. Updating the System BIOS. Diagnosing Memory Failure Issues. In this nugget we shift our attention away from software and turn to how to resolve hardware-related issues in Windows 7 systems. To wit, we start with an overview of built-in hardware troubleshooting tools. Next we examine hard drive issues, learn the whys and hows of updating the system BIOS, and finish by learning how to use the slick Windows 7 Memory Diagnostic tool. Relevant Exam Objectives: Identify and resolve hardware failure issues.
+
+Video 14: Managing Wireless Connectivity Issues|31:24
+â€¨Client-Side Wireless Configuration. Managing Data Encryption. Using Wireless Profiles. Group Policy Management. More than ever before in business, IEEE 802.11 wireless connectivity is a core network service offered to users and site visitors. Therefore, as DSTs we need to learn the proverbial ins and outs of client-side wireless connection management, understand wireless data encryption protocols, as well as how to set up and manage wireless profiles both manually and with the help of Windows Server 2008 R2 domain Group Policy. Relevant Exam Objectives: Identify and resolve wireless connectivity issues.
+
+Video 15: Handling Remote Access Issues|43:55
+â€¨Remote Access Connection Methods. Managing Access and Authentication. Troubleshooting Client Connectivity. Description: Assisting remote users in establishing virtual private network (VPN) connections is part of most DSTsâ€™ job roles. In this nugget we review the remote access connection methods that are supported by Windows 7 and Windows Server 2008 R2 Network Policy Server. We delve into the arcana of remote access/VPN protocols to ensure secure authentication and data confidentiality. Finally, we learn how to troubleshoot client remote access connections. This nugget also provides an overview of the Connection Manager Administration Kit (CMAK), a tool for simplifying the deployment of remote access profiles to several Windows 7 client computers. Relevant Exam Objectives: Identify and resolve remote access issues.
+
+Video 16: Solving Internet Explorer Security Issues|44:44
+â€¨Adding Trusted Sites. Accessing Advanced Options. Managing Add-ins. Administering Digital Certificates. Group Policy Restrictions. Any revision to the Microsoft Internet Explorer Web browser is bound to introduce both a new learning curve as well as new opportunities for troubleshooting. In this nugget we review how IE security zones work. We also rummage around in the Internet Explorer â€œadvanced optionsâ€ feature set, including how to manage add-ins, digital certificates, and Group Policy software restrictions. Relevant Exam Objectives: Identify and resolve Windows Internet Explorer security issues.
+
+Video 17: Resolving Issues Due to Malicious Software|37:58
+â€¨Resolving Malware Infections. Malware Protection Tools. In this nugget we cover practical approaches to resolving malicious software infections on Windows 7 systems, with an eye toward preventing their reoccurrence. We also review all of the anti-malware tools Microsoft both bundles with Windows 7 and/or offers to the public as separate products. Relevant Exam Objectives: Identify and resolve issues due to malicious software.
+
+Video 18: Identifying Encryption Issues|40:37
+â€¨Understanding EFS. Understanding BitLocker. Introducing BitLocker to Go. In this nugget we clearly delineate the two primary methods of deploying file system data encryption in Windows 7: Encrypting File System (EFS) and BitLocker. We also spend some time looking at a new addition to the BitLocker technology: BitLocker To Go, which offers full volume protection for removable media, such as USB flash drives. Relevant Exam Objectives: Identify and resolve encryption issues.
+
+Video 19: Administering Software Update Issues|30:27
+â€¨Verifying Software Update Status. Configuring Automatic Update. Troubleshooting Update incompatibilities. The unfortunate bottom line with Microsoft software updates is, as most working DSTs know, that sometimes updates â€œbreakâ€ the systems on which the updates are installed. In this nugget we take a proactive approach to patch management in a Windows 7/Windows Server 2008 R2 environment. Specifically, we learn how to verify software update status in Windows 7, configure Automatic Update, and troubleshoot update compatibilities. In this nugget we also review Windows Server Update Service (WSUS) to ensure that we have a well-rounded understanding of Windows Update technologies. Relevant Exam Objectives: Identify and resolve software update issues.

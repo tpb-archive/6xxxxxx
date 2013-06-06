@@ -1,0 +1,39 @@
+BULK VIDEO THUMBNAIL and SCREENSHOT TOOL (by Ekarth)
+
+
+Detailed Description:
+
+Everytime you want to create thumbnails for your movies, its all point and click this and that so much time wasted. 
+This tool simplifies and makes the creation of thumbnails/screenshots easy.
+
+Just select multiple files/folders and drag and drop them in program and it'll automatically create thumbnails: 
+be it 10 movies, 100 movies no problem. whether its in a same folder or in the 10th level subfolder of a folder no problem, it'll search all media files and create thumbnails for it! Even if some of those subfolders have non-media files; don't worry, program will skip them and work flawlessly.
+And  if you want Thumbnails can be created and saved in a zip file! Hence you can directly zip-upload it to your favourite image host site.
+
+Consider the time, keyboard strokes and mouse clicks saved! Just drag and drop.
+
+Supported video formats:-
+.3gp,.3g2,.asf,.avi,.dat,.divx,.dsm,.evo,.flv,.m1v,.m2ts,.m2v,.m4a,.mj2,.mjpg,.mjpeg,.mkv,.mov,.moov,.mp4
+.mpg,.mpeg,.mpv,.nut,.ogg,.ogm,.qt,.swf,.ts,.vob,.wmv,.xvid
+
+Options
+you can set the Movie screenshot's number of 
+Rows
+Height
+Columns
+jpeg quality 
+and more...
+
+Troubleshoot:Thumbnails not created
+Reason:1- Maybe the required video codecs are not installed in your system. This software basically works on FFmpeg libraries.so you need to download and install a codec package like Vistacodec or K-Lite Megacodec to fix the problem. [both are free.]
+Reason:2- Maybe your video file or output folder has UNICODE names like Chinese,Arabic etc. Be sure that all file and folder names are English only.
+
+APPRECIATION AND THANKS GO TO THE CREATOR [EKARTH] 
+FOR THIS  SIMPLE AND USEFUL TOOL.
+
+Installation Instructions
+
+1> Extract using Winrar To folder location of your choice
+2> Launch Application [ Launch ME]
+
+

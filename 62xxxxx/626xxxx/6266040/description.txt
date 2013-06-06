@@ -1,0 +1,50 @@
+This is the Transcoded file of my previously uploaded torrent. (http://thepiratebay.org/torrent/6262279)
+
+In other words a 3D Blu-Ray rip.
+
+!!!For the 2D version download only left eye video channel!!!
+
+!This torrent contains both left and right eye video from the original disc but only the left eye contains the audio!
+
+About the streams:
+
+Left eye:
+
+Video Codec................. H264, MPEG-4 AVC
+Resolution.................. 1920x1080
+Frame Rate.................. 23.976
+Bistream.................... Variable, about 5000kb, max 7000kb
+
+Audio Codec................. A52 Audio (aka AC3)
+Audio Channels.............. 5.1
+Bistream.................... 256kb/s
+Sample Frequency............ 48 000Hz
+
+
+Right eye:
+Video Codec................. H264, MPEG-4 AVC
+Resolution.................. 1920x1080
+Frame Rate.................. 23.976
+Bistream.................... Variable, about 5000kb, max 7000kb
+
+No audio on the right eye videostream.
+
+
+!!The .mkv files can be played with almost any player if you have the Matroska codec installed. If you do not, please download the "K-Lite Codec pack" or similar.!!
+
+
+!!I recommend using the "Stereoscopic Player" by Peter Wimmer, available at
+!!The player supports opening different left and right eye files and supports playback in most 3D formats; (Side By Side (also flipping left and right for Crosseye) and Top Bottom. Also Interlaced and Proggressive for viewing with shutter glasses. TRY IT FOR FREE OR BUY FOR ONLY 39â‚¬!!
+
+
+!!For viewing in Crosseye using regular media players (WMP or Vlc), you have to merge the two files into one, placing the left stream on the right side and the right stream on the left side.!!
+
+I use AviSynth and VirtualDubMod for the job. If you are new to AviSynth I can only redirect you to the forums at avisynth.org
+
+
+
+!!Included in the download is a simple AviSynth script for merging the files together. Open the .avs file in a regular text editor, my notes will guide you through the process!!
+
+***Open for any uploading suggestions!! Tell me what you want!***
+
+***Smaller size 720p Crosseye 3D version coming soon!***

@@ -1,0 +1,17 @@
+User Type,Username,Date,Text
+,quadman77,2011-03-29T16:47Z,SWEET!!
+,Dimmis80,2011-04-05T17:56Z,@Stun thanks dude the movies working great.Very good quality.One of my favorite movies from Video Game to Movie..Now guys bring us the Game the new game for the 360..Cheers.
+[T],fachman,2011-04-17T09:15Z,"hi
+
+ I am sorry for inconvenience, but it turns out that the MP4 file created by the latest MP4box rev 2735 is creating corrupted MP4 files which does not work on some devices like Playstation 3. 
+ Fortunatelly the fix is quite easy.
+ 1. Please download older Mp4box from here http://komisar.gin.by/tools/MP4Box_0.4.6_7.golgol.git-70f809b-r2053.x86.exe and copy it into the pack.
+ 2. Create remux.bat file using NOTEPAD and put this into it
+ -------------------------
+mp4box.exe -raw 1 MORTAL_KOMBAT_1995_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM.mp4
+MP4Box.exe -add ""MORTAL_KOMBAT_1995_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM_track1.h264#trackID=1:fps=29.970"" -add ""MORTAL_KOMBAT_1995_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM.mp4#trackID=2:lang=English"" -new ""NEW\MORTAL_KOMBAT_1995_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM.mp4""
+del MORTAL_KOMBAT_1995_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM_track1.h264
+
+mp4box.exe -raw 1 MORTAL_KOMBAT_ANNIHILATION_1997_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM.mp4
+MP4Box.exe -add ""MORTAL_KOMBAT_ANNIHILATION_1997_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM_track1.h264#trackID=1:fps=23.976"" -add ""MORTAL_KOMBAT_ANNIHILATION_1997_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM.mp4#trackID=2:lang=English"" -new ""NEW\MORTAL_KOMBAT_ANNIHILATION_1997_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM.mp4""
+del MORTAL_KOMBAT_ANNIHILATION_1997_BluRay_1080p_QEBS_AAC_PS3_MP4-FASM_track1.h264"

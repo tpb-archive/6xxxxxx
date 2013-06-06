@@ -1,0 +1,76 @@
+User Type,Username,Date,Text
+,TempDude29,2011-03-24T16:10Z,"So exactly what is? ""MOVIE.ADDON""?"
+,Likeadidas95,2011-03-24T16:19Z,"his torrent was only 3 gig, ( reloaded was 12 gig ) w/out any movies and crap, and this is teh addon if u wanna see movies ?! "
+,clemlenain,2011-03-24T16:23Z,it adds the movies xD
+,svadilfari,2011-03-24T16:24Z,im guessing the cut scences ie movies that they cut in the RIP of the game (that was uploaded already (by gansuk(great rip btw))) :)
+,TempDude29,2011-03-24T20:12Z,Oh right! I didnt even know there was a rip of shogun out there. :)
+,zeDaBdan,2011-03-26T02:01Z,"So let me get this straight, is this the full game With the cutscenes/movies or does this only add them to the other release you put out? :)"
+[V],gansuk,2011-03-26T05:24Z,this release is a addon so it only includes the movies not the game you will need the game installed to be able to use the movie addon
+,achusp,2011-03-26T06:15Z,Dude could u please release a  deadspace 2 rip? All other rips are fucked up. Please!!!!
+,alpha7725,2011-03-27T13:07Z,too bad there is still a problem with the sound though!
+,ramza00,2011-03-27T16:42Z,this works! thanks!
+,fitz093,2011-04-02T03:19Z,the movie addon is great but the rip has sound problems and crashes 
+,ndcelario,2011-04-14T08:05Z,"gansuk, hope you upload a sound effect fix for this. its really an awesome game! "
+,465521,2011-04-16T16:53Z,"when i start the game,screen become black and my PC stop responding,Help
+
+MY CONFIG:
+INTEL CORE 2 QUAD Q8400 @2.4 GHZ
+4 GB DDR3 RAM
+TWO OF NVIDIA 9600 GT 512 GB"
+,BaronVonGotha,2011-04-24T03:43Z,need SFX fix
+,Echiman,2011-04-24T10:18Z,"Nice upload.. But i'm still missing The Takeda, Tokugawa & Uesugi clan intro. Also currently just finished short campaign, i get the become shogun movie, but didn't get victory campaign movie. Anyone experience this also? thanks"
+,karkar99,2011-05-05T15:25Z,dude gansuk lesson to ur fan men we need sum sound effect fix its been a month now but we dont have a reply from u... r u gonna released it or not men did u even think a fight with no sound kinda boring ryt??? but i have a big trust 2 u dat u gonna released the fix... so very good rip but failed in sound effects sound  
+,karkar99,2011-05-05T18:40Z,i mean listen
+,timer_maker,2011-05-06T06:49Z,hey pls fix da sound effect problm...da battles r really borin witout em....oder dan tat its a great UL ...great game!!!
+,theanith,2011-05-07T21:46Z,Thank for Addon. But when i copy the three file to my game direction. I have all movie except oda n few other clan Intro. Could any one help?????????
+[V],gansuk,2011-05-11T09:40Z,http://thepiratebay.org/torrent/6382222/Total.War.ShoGun.2.Sound.FIX-KaOs
+,Echiman,2011-05-15T18:00Z,"Finally decide to extract the movie pack files & watch them with bink player. 
+The results are most of them are playable, except some clans intro, all of the victory movies & an unknown movie file named ""tut_out.bik"".   
+I really hope KaOsKrew will release a v2 version with all of the movies playable. 
+Still it's a nice addon anyway.  Keep up the good work :)"
+,Bad213Boy,2011-05-26T18:17Z,"I think I found the problem. The last poster gave me an idea. I opened movies2.pack up and noticed that the Tokugawa START folder had 2 movies in there. There should only be 1. When I went to the Tokugawa END folder, I noticed there wasn't any movie files there.
+
+Unfortunately these BINK videos were scrambled so I couldn't use RAD Tools to initially play the videos. I had to use a program called FMV-Extractor to analyze the file and then it allowed RAD Tools to play the file. You actually need RAD Tools installed for this to work.
+
+The software I used to extract the .PACK files was Pack File Manager. I received a .NET Framework error message when I tried to replace the Tokugawa START and END fsm_tok.bik files.
+
+So if someone knows how to actually repack this, it should work theoretically. My thinking is that it messed up loading the movie files for the Takeda, Tokugawa, and Uesugi movie files because the Tokugawa files were packed wrong. The only thing I can think of is that these clans are in this exact order on the selection screen.
+
+From my Neverwinter Night modding days, there was always a file that needed to read any modifications added. I wonder if there is another file that must read these .pack files. Anyhow, I'm gonna keep working at it. Hopefully someone can post a solution if this doesn't work.
+
+I feel like I helped start the ground work for it, but this is my first time actually opening .PACK files."
+,Bad213Boy,2011-05-26T18:38Z,"Yep that was the problem. However, the video files for the Tokugawa and Takeda were placed wrong. I'm gonna fix these files and see if I can post a link. Someone else can post a Torrent of the fix as long as they put my call name Bad213Boy on it. 
+
+Also, I found a .pack extractor program that actually works:
+
+Pack File Manager 1.12 (w/ integrated .loc editor) 
+http://www.twcenter.net/forums/showthread.php?t=234546
+"
+,Bad213Boy,2011-05-26T18:44Z,"***UPDATE***
+
+Seems as if the Videos were OK, but there's someone wrong with the Subtitle. I'll keep working. I don't know if there's another missed placed file or what. Maybe someone can help me figure this out."
+,Bad213Boy,2011-05-26T20:31Z,"Apparently a lot of the videos were in the wrong place. I fixed all the STARTING intros with the exception to the Takeda. Apparently the the Tokagawa's intro was placed there, which is probably why you don't have a starting video for the Takeda.
+
+There are quite a few ending videos missing. The Mori, Oda, Takeda, and Uesugi are all missing.
+
+If I could get my hands on these videos I could probably fix them. I'll keep looking. I'm gonna try and install other versions of Shogun 2 to see if I can get extract these videos and repack them to work as they should."
+,Echiman,2011-05-29T16:28Z,It seem some of your victory clan movies are playable. Could you upload it? i would like to have it. Thanks
+,Echiman,2011-05-29T16:43Z,Wow! you got some of the victory movies playable?? is there anyway u can share it?
+,Echiman,2011-05-29T16:50Z,"I already got a playable takeda clan intro movie, but it seem u can't post an url link here. "
+,Bad213Boy,2011-11-26T22:18Z,"***UPDATE ONCE AGAIN***
+
+This download is old and is missing tons of stuff, including the movies. If you want the complete version with all movies and DLC's do a search for:
+
+Total War Shogun 2 v.1.10 + 3DLC RePack by R.G.Mechanics
+
+R.G.Mechanics is Build 4247, so I don't think you'll need to download ""Total War Shogun 2 : Rise of the Samurai + IkkoIkki & SJUP DLC + Latest Patch & Crack"" patch. Either way, you'll still need ""patch10.pack Build 4358"" & ""3DMGAME-Shogun2.v1.1.0.Build.4358.0.Crack.Fix2.Patch-3DM"".
+
+Do another search for:
+ [FSrv] Total War Shogun 2 : Rise of the Samurai + IkkoIkki & SJUP DLC + Latest Patch & Crack
+
+Anyone who's played Build 4247 knows how fucked up the game is. The latest patch, Build 4358, and crack are on the thread 35:
+
+Page 35:
+ patch10.pack build 4358
+ &
+ 3DMGAME-Shogun2.v1.1.0.Build.4358.0.Crack.Fix2.Patch-3DM "

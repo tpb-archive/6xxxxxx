@@ -1,0 +1,21 @@
+Description:
+jjolano's open source FTP server for the PS3. See the README for the default user/pass and other
+info.
+
+v2.0 CHANGELOG
+
+Changed ICON0.PNG
+Moved to a different XMB category (now under Network)
+Fixed another possible memory leak
+Added "dev_dragon" to mount detection and warning list
+Changed LIST command output format (again)
+Added new algorithms and methods
+Should support Remote Play (untested)
+Added a better way to get the IP (no internet required anymore - thanks andoma)
+Added /app_home and /host_root to listing exceptions as they cause problems
+Now uses Hermes' sysfs sprx link instead of lv2 syscalls
+Tweaks made to improve internal performance, stability, and reliability
+Added a "screen saver" (simply blanks screen after 60 sec of no controller input)
+Added an exit application button combination shortcut (SELECT + START)
+Added an internal "retry system" designed to reduce failed transfers for small files
+New git for v2.0 and later: http://git-hacks.com/openps3ftp

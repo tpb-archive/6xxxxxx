@@ -1,0 +1,92 @@
+[font=Verdana]Hello, just to give choice I'm uploading my conversion which I made for fun.
+Origional file was Tron.Legacy.720p.BluRay.x264-TWiZTED weighing in @ 6.55 GB (7,040,196,562 bytes)
+
+Personally I think the quality differential between my conversion is absolutely negligible compared to the source.
+
+Converted using x264 command line using  --crf 25 --preset veryslow with a High strength FluxSmooth(4) Noise filter for video which took 20 hours to convert on my Quad-core  ::) . And also done some crazy tweaking of the AAC audio codec and enabled SBR+PS so some players might not support the PS advanced feature which VLC can playback.[/font]
+
+[hr]
+
+[font=Verdana][b][color=Red]----->[/color] Album of Screenshots:
+
+[color=Red]----->
+
+
+[hr]
+
+[font=Verdana][b][color=Red]----->[/color] Video Samples: [/b]
+
+Using the same x264 conversion settings, downloadable from()(My fav file share these days): [/font]
+
+[font=Verdana]If you use Google Chrome as your browser you can stream the samples without downloading  :P :[/font]
+
+[hr]
+[code]Mediainfo:
+
+General
+Complete name                    : TronLegacy720p-x264.mp4
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 721 MiB
+Duration                         : 1h 58mn
+Overall bit rate                 : 854 Kbps
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 16 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 1h 58mn
+Bit rate mode                    : Variable
+Bit rate                         : 797 Kbps
+Maximum bit rate                 : 8 873 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.036
+Stream size                      : 673 MiB (93%)
+Title                            : Video
+Writing library                  : x264 core 114 r1924 08d04a4
+Encoding settings                : cabac=1 / ref=16 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=25.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AACv2 / HE-AAC / LC
+Codec ID                         : 40
+Duration                         : 1h 58mn
+Bit rate mode                    : Variable
+Bit rate                         : 53.7 Kbps
+Maximum bit rate                 : 65.8 Kbps
+Channel(s)                       : 2 channels / 1 channel / 1 channel
+Channel positions                : Front: L R / Front: C / Front: C
+Sampling rate                    : 48.0 KHz / 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 45.4 MiB (6%)
+Language                         : English
+[/code]
+
+[hr]
+
+[font=Verdana]Checksums of the video file:
+MD5       = acd203e2ffd345795447398a8bd8dfd2
+SHA-1     = ff8ed9ae467eec75e4eb6700d761ef5edeb0bdb0
+SHA-256   = d5534c5ad2a7cd32ea9ad77ba2dae24409180d9b1927f97d6f9d59617d4dcd9b
+Tiger-192 = bcddc87413b00b7a58f540f41219565074287a0a02118eba
+
+If you have Silverlight this URL is handy to check checksums: [url]http://www.hashsum.com/[/url][/font]
+
+
+[hr]

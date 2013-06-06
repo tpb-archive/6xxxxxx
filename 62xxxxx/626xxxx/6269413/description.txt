@@ -1,0 +1,11 @@
+DEFT 6 is based on Lubuntu with Kernel 2.6.35 (Linux side) and DEFT Extra 3.0 (Windows side) with the best freeware Computer Forensic tools; it is a new concept of Computer Forensic live system, ewflib ready, that use WINE for run Windows Computer Forensics tools under Linux.
+
+This is a list of changes made to the release candidate version:
+
+[new] Update FTK Imager from 2.9 to 3
+[new] Update Digital Forensic Framework from 0.8 to 0.9
+[new] Added Xmount 0.4.4
+[new] Added mount_ewf utility
+[bug fix] VWrong Guymager release, now is the 0.5.7
+[bug fix] Fixed iso md5 file check
+[bug fix] Fixed some grammatical errors

@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,MrZeroGravity996,2011-02-28T11:06Z,whats this?
+,newersayd,2011-06-01T13:26Z,"It's old Solaris OS version.
+
+Disk images still can be downloaded from Sun:
+http://www.sun.com/software/solaris/releases.jsp
+https://cds.sun.com/is-bin/INTERSHOP.enfinity/WFS/CDS-CDS_SMI-Site/en_US/-/USD/ViewProductDetail-Start?ProductRef=Sol10-U5-SP-x86-FULL-DVD-G-F@CDS-CDS_SMI
+https://cds.sun.com/is-bin/INTERSHOP.enfinity/WFS/CDS-CDS_SMI-Site/en_US/-/USD/ViewProductDetail-Start?ProductRef=Sol10-U5-SP-x86-SEG-DVD-G-F@CDS-CDS_SMI
+https://cds.sun.com/is-bin/INTERSHOP.enfinity/WFS/CDS-CDS_SMI-Site/en_US/-/USD/ViewProductDetail-Start?ProductRef=Sol10-U5-SP-x86-CD-G-F@CDS-CDS_SMI"
+,ciscobox,2011-08-31T10:17Z,"hello,
+i know its irrelevant question, but i just wanna ask if its possible to ""emulate"" or run a sparc OS on intel or linux platform? i have a sparc executable image, that i really need to run and test under intel/linux. google says it might possible under qemu, but i want to know your opinion about this, with all your torrent, it seems like you're knowledgable on solaris plaform. thanks in advanced mate!"
+,newersayd,2011-09-15T10:44Z,"[quote=""ciscobox""]i just wanna ask if its possible to ""emulate"" or run a sparc OS on intel or linux platform? i have a sparc executable image, that i really need to run and test under intel/linux[/quote]
+
+Yes, it's some kind of possible.
+1) QEMU can emulate 32- and 64-bit systems, SPARC support isn't perfect, but sometimes it works;
+2) TME (The Machine Emulator) is an emulator of very old Sun computerts;
+3) Simics can emulate complete systems, but it's very slow;
+4) QuickTransit was a binary translator for Linux and Solaris, but Transitive Corp. was acquired by IBM and this program is no longer available.
+
+By the way, don't repost the same comment many times, it can look like a spam, so you can get a ban :)"
+,ciscobox,2011-10-05T13:22Z,"""4) QuickTransit was a binary translator for Linux and Solaris, but Transitive Corp. was acquired by IBM and this program is no longer available. ""
+
+awesome!
+thanks for that.
+btw.. quicktransit is really no where to be found now. spent an hour in google but nothing..
+do you have it? :) or maybe someone you know..
+thanks again!"

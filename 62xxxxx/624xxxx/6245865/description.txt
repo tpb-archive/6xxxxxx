@@ -1,0 +1,16 @@
+Piyo Piyo Productions presents: 
+Exper Zenon v1.0 (Video version 4.0, script version "C") 
+http://www.otakubell.com/ppp/
+Plot synopsis:
+Zenno, a master gamer, has been offered a chance to play the newly-released game, â€œExpers.â€  But when a naked girl appears in his classroom to give him his Expers Suit, complete with real superpowers, he learns that â€œExpersâ€ is not just a simple computer game â€“ its a real-life kill-or-be-killed PvP game.  Only the â€œmain characterâ€ of the game can survive until the end â€“ but who is the main character?  And, perhaps more importantly, who is controlling the game?
+Project notes:
+I captured the video from my laserdisc (see scans below).  This was my first â€œseriousâ€ attempt at video cleanup, and it turned out to be unusually difficult.  My â€œusualâ€ methods that I developed only later really didnâ€™t work well here.  I had a lot of trouble with artifacts, but I got most of them cleaned up.  There is still a problem with anti-aliasing in some scenes, which was introduced during the (imperfect) deinterlace.  But I swear, this is cleaned up as much as I am able with my current level of experience.  Perhaps I need to defeat some AV Expers.
+The script was timed by "inactive," who also arranged for the translation, and I did a lot of script editing.  Unfortunately, I lost contact with inactive, so I am now proceeding on my own.
+I do not currently consider the script to be 100%.  There are some segments that are a bit weird, and the ending song is not translated or even romanized, which I strongly prefer.  But I never had any direct access to the translator who worked on this, and my contact who I was originally working with on this has vanished for now.  I hope someday I can get somebody to help me correct these faults.
+AVISynth script (video 4.0):
+AVISource(â€œZenonRECAP-LAGARITH.aviâ€)
+TDeint(mode=2, mtnmode=1, blim=100, type=1, sharp=true, denoise=true, tryWeave=true, slow=2)
+crop(6,0,-12,0)
+Spline64Resize(640,480)
+FFT3DFilter(sigma=3.0, plane=4, bw=48, bh=48, bt=4, ow=16, oh=16, sharpen=0, interlaced=false)
+vmToon()

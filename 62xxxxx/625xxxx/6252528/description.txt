@@ -1,0 +1,33 @@
+Hi guys after many hours of searching the internet for a way to genearate
+a Bios Master code for a Dell Laptop 595B Service Tag i stumbled upon this little gem!!!
+
+This was made by a Russian hacker who goes by the name of HPGL so first of all many thanks to him!
+
+it can unlock both the "Bios lock" and the "HDD Lock" (not sure if this works on all models) 
+tested on Latitude D630)
+
+
+***************
+ INSTRUCTIONS
+***************
+
+1) Run dell.exe
+
+2) turn your pc or laptop on and you should see the screen that looks like this:
+
+This computer system, #9LSSPJ3J-595B, is protected by a 
+password authentication system. You cannot access the data
+on this computer without the correct password.
+
+Please type in the administrator password
+and press <Enter>
+
+3) now enter the dell service tag LSSPJ3J-595B into the key-generator The key-generator will now generate
+you a master Bios password for your system (input that into your Dell computer and you should be granted access!
+
+4) I would also write this master password down for future use!
+
+
+Once again i did not write this software i am just making it available to you guys who have had the same headache as me trying to find it for hours upon hours! 
+
+ALL CREDITS GO TO HPGL (Russia)

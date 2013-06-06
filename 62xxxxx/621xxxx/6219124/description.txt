@@ -1,0 +1,33 @@
+About Activiti 5.3
+
+The first version of the Business Process Modeling Notation (BPMN 1.0) is from 2004 and helped the Business Process Managers and Business Process Analysts to model their business processes. Programmers and developers used WS-BPEL 2.0. BPMN 2.0 defines one language for modeling business processes and making them executable on a process engine without the need of conversion.
+
+Tom Baeyens and Joram Barrez, the former leaders of jBPM now working for Alfresco, started the Activiti project to create this superb BPMN 2.0 process engine. Half a year later Activiti 5.0 was released. Activiti is lightweight and has a very clean and open API.
+
+Big thanks for all the hard work!
+
+
+About the ActivitVM
+
+This is an Ubuntu 10.04 LTS installation running the Activiti 5.3 Demo. You'll need at least VMware Player to run this Virtual Machine (to download the VMware Player please visit http://www.vmware.com/). Most Ubuntu applications have been cut out of this VM to reduce space, you can re-install them if you want to.
+
+Virtual Machine name : activiti-demo-desktop
+
+Activiti User
+User : activiti
+Password : welcome
+
+
+Running Activiti 5.3 in the ActivitVM
+
+Start the ActivitVM by double clicking the ActivitiVM.vmx file and wait for Ubuntu to start.
+
+Log on with the activiti user credentials (password = welcome) and open the browser in your Virtual Machine, check the bookmarks and enjoy the Activiti Demo!!!
+
+
+Credits
+
+This Virtual Machine is a tribute to all the developers of the Activiti BPM suite!
+
+
+Special thanks to Winko Erades for writing the "How to install Activiti on Ubuntu" user guide as described in the Activiti User Forum.

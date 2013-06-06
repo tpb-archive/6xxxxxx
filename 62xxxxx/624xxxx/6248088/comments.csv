@@ -1,0 +1,123 @@
+User Type,Username,Date,Text
+,psaikia,2011-03-17T09:04Z,could you please upload crack for PTC arbortext editor. please .. please
+,yccyf,2011-03-19T17:17Z,thanks dude!
+,dario7000,2011-04-01T07:31Z,"I download the software with no problem, i install it step by step how you write in the instructions, but when i try to run the patch seem like if the patch do not recognize the file, Any suggestion? "
+,claynelson,2011-04-07T14:49Z,im not seeing the lic file or the patch all i get is the rar files and unpack them to get a bin and cue file.  help would be greatly appreciated.  thanks
+,chmod777,2011-04-08T05:44Z,"Instructions are wrong, refers to patch.exe which does not exist.
+HS-AD10.exe does exist, but seems to do nothing.
+Included license file HS-AD10.alf does not load.
+And there is no way to activate.
+
+Basically, this entire thing is useless!
+
+Maybe Altium uploaded this torrent themselves just to frustrate??"
+,claynelson,2011-04-08T05:46Z,found the files mine is also saying can not find the file dxp.exe
+,chmod777,2011-04-08T05:47Z,"claynelson, the .bin and .cue are disc images. Use some software like VirtualCloneDrive to mount the images, and you will see the install files."
+,lolermaster,2011-04-10T04:17Z,"This thing works, just use your damn brains ... come on!"
+,claynelson,2011-04-10T06:01Z,run it as admin works fine for me now.
+,sjsnew,2011-04-12T00:23Z,"In case anyone is still having trouble with this.
+
+1. After unraring and mounting the bin/cue files, install the program as usual.
+2. In the root directory of the mounted DVD, inside the ""TeamHS"" folder, copy the exe and alf file to the root directory of the installation (by default, this directory is C:\Program Files\Altium\AD 10).  The alf file can really go anywhere, but I found it easiest to leave it here.
+3. Run the exe file and click the patch button.
+4. Open Altium Designer.  It will report that it does not have a license.  On the My Account page (this is the page that it opens to by default after the install...you can also get here by going to Help>About>My Account button), look for the option to ""Add standalone license file"".  Navigate to the location of the alf file and select it.  The license is now all set.  It may say ""Subscription Expired"", but it will still work.
+
+Don't forget to check out the additional libraries and goodies in appropriately marked folders in the root directory of the DVD.
+
+Hope that helps anyone else who may get stuck."
+,foxelein,2011-04-18T17:12Z,thanks... :)
+,impr0v3d,2011-05-04T16:46Z,"okay. im really sorry but this is the first time i encountered something like this xD 
+
+i got PowerISO for mounting stuffs, but should i extract all the .bin and .cue files from each rar file? or just one? or should i mount the all the rar files? 
+
+im really confused. sorry"
+,sjsnew,2011-05-09T04:00Z,"@impr0v3d
+
+Extracting from the main rar file will automatically extract from all of the other parts (r00, r01, etc).  Once extracted, you would then mount the bin/cue files that were inside."
+,Madarali,2011-05-20T19:19Z,"Attention - Snaps in this version don't work:
+
+Snap to linear guides
+Snap to point guides
+Snap to grids
+Snap to object axis
+Snap to object hotspots
+--------------------------------------------------
+To access snap option [PCB]:
+Design > Board Options"
+,Tshering,2011-05-31T08:24Z,"How to install Altium10:
+
+1. Download altium v.10 and extract it.
+2. Download either
+http://www.poweriso.com/
+OR
+http://www.yasasoft.com/press_release/open_cue_file.htm
+inorder to mount the .bin/.cue files.
+
+3. Open the .bin files on either PowerISO or MagicISO (from above download).
+Extract altiuminstaller.exe and install it under C:\program files\Altium\AD 10. 
+4. Open TeamsHS and copy HS-AD10.exe and hs-ads10.alf files and paste it to the root directory of installation.
+5. In the root directory, right click on the HS-AD10.exe files and run as administrator (First extract it if not runnig). 
+Click Patch button and make sure you see it displays:done!. 
+6. Open Altium Designer(DXP) from the root directory.
+7. Click on Add standlone license files and open the hs-ads10.alf file from the root directory.
+8. It may say subscription expired; But below you can see expiry date as infinite and status as OK.
+That is it, guys. 
+Master altium and good luck in design.
+"
+,nellyg8002000,2011-06-08T06:57Z,"follow instructions precisely guys , works great thanks dude"
+,thewiseone,2011-06-19T22:51Z, HS-AD10.exe hits on virus scan as a worm
+,thewiseone,2011-06-19T22:57Z, HS-AD10.exe hits as a trojan 
+,longword,2011-08-17T00:31Z,"If it detects worms, trojans or anything, get a better antivirus :-) It's safe and clean, unless you already have something in your system infecting stuff for you on the fly.....
+
+Besides, mostly it's reported as malware... as most keygens and patchers..."
+,alsooti,2011-09-25T14:41Z,"When I try to install a log in page appear that won't let me install the program even !!
+
+can anyone help me ?"
+,alsooti,2011-09-25T14:52Z,guys after mounting the bin file I found the altiuminstall.exe after I click to install a page appear asking me for user name and password from the altium design website. can anyone help me please ??
+,robinzon15,2011-10-07T16:10Z,"The Help does not work. Even when trying to open directly the xxx.chm files in the folder Help it doesn't work, exept two of them, even one reporting ""Missing DXPHelp.chm file""
+In fact there is not such file in the folder.
+All the rest open with a blank pane, no text.
+Anybody experiencing the same problem?
+Check and reply appreciated. Any sugestions?"
+,icebilly,2011-11-17T11:29Z,thank you so much for the software!  this is perfect for me !  the software work perfect (sorry for my bad english)
+,robotirider,2011-12-19T12:25Z,"Ok noobs follow this instruction
+
+1. Download PowerISO from torrent and install you need this
+
+2. Open the altium.Designer.v10.0.iso-hs folder and right click on hs-ads10.rar and extract file in a new folder
+
+3. You will see two hs-ads10 files. click on the first one and extract it with poweriso
+
+4 After extracting the file go to that folder and click on altiuminstaller to install the file
+
+5 Go to teamHS folder and copy the HS-AD10 which is the patch file and hs-ads10.alf which is the licence and paste them to the C:\Program Files (x86)\Altium\AD 10 or C:\Program Files\Altium\AD 10.
+
+6. Right click on the HS-AD10 and run as administrator. and patch it!
+
+7 open the altium designer and  click on add  Add standlone license
+
+8 And block the sites using wirefall or router ip it says in readme file in Altium\TeamHS folder"
+,dumbilol,2012-01-03T15:00Z,"Hi, u must run the crack as admin"
+,Sonnig,2012-04-03T16:33Z,"Thank you, and thanks to the guys solving my problems in chat, before they even accured to me :)!! great torrent!"
+,kakadudu,2012-04-12T09:25Z,"Hi,
+After make this running I've notice that all elements become invisible (hide) while moving. Altium is useless with that. I've tried find out Altium settings but it did not help.
+Any suggestion what it might be? Any one have same problem?
+Thax"
+,exposing111,2012-05-03T07:01Z,"Works perfect 
+1. Download altium v.10 and extract it.
+2. Download either
+http://www.poweriso.com/
+OR
+http://www.yasasoft.com/press_release/open_cue_file.htm
+inorder to mount the .bin/.cue files.
+
+3. Open the .bin files on either PowerISO or MagicISO (from above download).
+Extract altiuminstaller.exe and install it under C:program filesAltiumAD 10. 
+4. Open TeamsHS and copy HS-AD10.exe and hs-ads10.alf files and paste it to the root directory of installation. PROGRAM FILESAltiumAD 10
+5. In the root directory, right click on the HS-AD10.exe files and run as administrator (First extract it if not runnig). 
+Click Patch button and make sure you see it displays:done!. 
+6. Open DXP from the AltiumAD 10 directory.
+7. Click on Add standlone license files and open the hs-ads10.alf file from the root directory.
+8. It may say subscription expired; But below you can see expiry date as infinite and status as OK.
+That is it, guys. 
+Master altium and good luck in design."

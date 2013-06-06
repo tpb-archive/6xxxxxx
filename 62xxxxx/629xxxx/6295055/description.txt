@@ -1,0 +1,3 @@
+Almost all of them.
+
+Ripped directly from the site, using the URLs in 'podcasts'.  First few seeders can just download wget (for OS X) and the 'podcasts' txt file, then type ./wget -i podcasts from the appropriate directory. Let's not abuse NPR's servers by doing this too much, though.

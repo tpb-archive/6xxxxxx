@@ -1,0 +1,11 @@
+User Type,Username,Date,Text
+,iamcims,2011-07-05T03:46Z,Why did you not mention this is in russian uploader? When you load the torrent it clearly reveals this in the name.
+,Vicar in a Tutu,2011-08-29T12:20Z,"English is there as 'audio 2'.
+
+Use MKVToolnix, deselect the Russian audio, remux as a new file, should be a bit smaller than the original.
+
+If the file refuses to play on a home HD media player, then in MKVToolnix, go to options, and tick the box 'Disable header removal compression...'. Remux the file again (original file or the new 'english only' file)."
+,Vicar in a Tutu,2011-08-29T12:27Z,"...oh and just for the peeps that don't know, MKVToolnix does not re-encode the file. So:
+
+1. it will take minutes to edit an mkv rather than hours.
+2. no loss of detail, compression etc. it just strips out the video and audio and 'muxes' them into a new file (unchanged)."

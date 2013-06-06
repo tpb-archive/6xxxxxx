@@ -1,0 +1,71 @@
+User Type,Username,Date,Text
+,df02fslfs,2011-03-01T23:28Z,"do you also have the deleted scene's? 
+really love them "
+,Mathlol,2011-03-07T03:00Z,"This looks incredible.  What would we do without you.
+I would like to ask some questions and would like a method to contact you, if thats acceptable Stun.  Please reply back here unless or with a preference of your choice.  I'd appreciate it, thank you."
+,UKTUSA,2011-03-10T16:58Z,man YOU ARE AWE+++++++ CAN U UPLOAD TRON LEGACY 2010 1080P AS FAST AS POSSIBLE
+,Mathlol,2011-03-10T20:56Z,"I don't usually do this but this time the technique has some drawbacks.  Yes, the image is very sharp and crisp, but there is a definitive loss in color.  I saw this in theaters 2x and remembered something more bright on the screen. 
+Some movies aren't meant to be tampered with =\
+
+http://screenshotcomparison.com/comparison/34724"
+[T],fachman,2011-03-11T17:22Z,"friend, I use original Bluray colours all the time, but the effect you have shown me can be caused by using different programs for making the screenshot. The movie is stored in YV12 and every program has slight different routine for colour conversion to RGB, hence colour differences. As for the other things, well mine looks definitelly worse, but try to catch pixelisation watching this movie ;-) "
+[T],fachman,2011-03-12T00:55Z,"here you have the proper comparision, using the screenshots taken from the same program MPC and in resolution FULLHD.
+http://screenshotcomparison.com/comparison/35001"
+,yashcool,2011-03-27T22:20Z,SEED PLZZ BROS ! GETTING A LOW SPEED ! THANKS FOR THE GREAT UPLOAD
+,lordiaco,2011-03-29T11:31Z,"LOOKS AMAZYNG WITH ALL DETAILS AND WORKS GREAT ON AN IBM ThinkPad T410 & VLC, THANKS SO MUCH"
+,HaoleDave,2011-03-30T10:41Z,"Hi!
+I saw this and it looked like it had the best quality ever! However, when I tried to play it in iTunes or Quicktime, it lagged like so much... How do I fix this? You're instructions didn't talk about them.."
+,Philonetic,2011-04-13T07:30Z,"@HaoleDave
+Running high def video has the same effects as running a graphic intensive game, if your computer can't handle it then get a lower quality video or a new computer."
+,RipppeR_QQ,2011-04-14T17:50Z,"looks Awesome on my bravia lcd..
+Great Copy A-10 : V-10"
+,JVAnctil,2011-04-16T12:34Z,"Mine's retardedly laggy...Is my computer/setup just slow, or am I doing something wrong?"
+,hongsydney,2011-04-20T23:25Z,"Hi Stun, i really appreciate ur work but im a bit confusing about the quality of this version. My connection is super slow so downloading a big file is something i need to consider. From ur description, the quality using FASM is the same or even better the original. 
+
+So is this 4gb file quality the same as the 15gb file of this movie? Please let me know...thank you Stun."
+,hongsydney,2011-04-20T23:36Z,"Sorry for writing the comment twice, but this version is running on 24 frame/s comparing to the 15gb version running on 25 frame/s...please any1 tell me which version is better..thanks"
+[T],fachman,2011-04-21T00:51Z,"all bluray copies have 23.976.
+25fps is used on PAL HDTV.
+if you have slow connection, then you wont find anything with better quality in your situation."
+,hongsydney,2011-04-21T06:25Z,"Hi Fachman, please let me know about the Video quality between this 4gb and the 15gb HD one? I dont know which 1 is better. Thank you."
+,ForceMultipler,2011-04-21T12:08Z,"Plays V10 A10 on my PS3 but fails when I fast forward or use 1min screen select, any one else confirm. 
+I pulled out of movie at 2hours to check wifi for my partner and when going back to movie it didn't start from where I left off so I forwarded to 2hours but the video failed to work, sound was fine and kept playing though. "
+,TheHerpaDerpa,2011-05-04T18:47Z,"Download was atrocious. No low end to the audio, and there was some high-pitched screeching noise to it, as well. Not gonna seed this."
+,Movaddct,2011-05-07T18:12Z,audio cuts out and is all weird...any suggestion as to fixing it or is it gnna happen all the time?
+,raoul63,2011-05-08T15:34Z,"Hi, you said any observation is welcome, so here goes.
+I know your included doc on fixing player problems says about sync problems that ""You think that if you
+have never before experienced such problems, the player is OK, but the video is not. WRONG!!!"".
+
+I don't doubt you're correct that this release is theoretically correct and fully compliant etc but the fact is that IN PRACTICE this release does have sync problems.  Sync starts out correct but drifts gradually so the video is about 400ms ahead of audio by the end of the movie.  I get the same result through two completely independent playing methods:
+1. VLC on PC
+2. Audio converted to AC3 via ffmpeg, remuxed in with mkvmerge, played on WDTV Live.
+
+Note that no other movies give me any trouble.
+
+I've now remuxed with a time stretch of 400ms added to the video stream (using a stretch factor of ""102924/102920"" in mkvmerge) and it's all good ... again both in VLC and on my WDTV Live.
+
+I hope this helps."
+,TehRaver,2011-05-16T19:44Z,"Fucking awesome! THX! 
+Great q/s!"
+[T],fachman,2011-05-18T13:34Z,"raoul63: thanx for the info, besides i dont use VLC because it gives significiant worse quality than MPC and bad colours I would like to explain why this could happen on incorrectly written players.
+This release uses very high resolution of 1920x1080 and fewer Key frames to maximize the commpression. In fact you can have up to 999 frames depended to each other. This requires from the player good synchronisation between video and audio. This is all within h264 specification, but some players might not be prepared to buffer and synchro such large amount of data, hence this problemms you experienced. My advice is to move to MPC."
+,FUCK_PRAGYA,2011-05-21T20:35Z,"MAN I HAVE DOWNLOADED THIS AND PLAYED IN GOM,VLC AND EVEN ATTEMPTED THE PROCEDURE THAT YOU DIRECTED IN THE PDF FILE,BUT NOTHING WORKED THE MOVIE GOES COMPLETELY OUT OF SYNC AFTER FIVE MINUTES OF PLAYING IT,PLEASE SUGGEST ME WHAT TO DO,TELL ME WILL IT EVER WORK OR I LL HAVE TO DELETE IT,PLEASE TELL ME QUICKLY,
+I AGAIN WANT TO MENTION THATT I HAVE ALREADY DONE WHATEVER YOU TOLD TO DO IN UR TUTORIAL......................:(
+
+PLEASE PLEASE PLEASE HELPPPPPP"
+[T],fachman,2011-05-24T09:12Z,"make sure that in Media Player Classic in OPTIONS External filters is nothing. Only internal filters must be used.
+Also if it goes out of the sync it might suggest you lack of compute power to decode it.
+In that case you could turn off any background programs like antivir or something.
+also you can check other PLAYBACK DIPLAY modes like overlay mixer..."
+,FUCK_PRAGYA,2011-05-24T22:11Z,"FIRST I WANT TO SAY FACHMAN YOU ARE A SUPERHERO,AN ANGEL............YOU SAVED MY ASS........THANKS A MILLION TIMES.......YOUR REMEDY WORKED PERFECTLY BROTHER.......AS YOU GAVE ME DIRECTION TO TURN OFF MY ANTIVIRUS TO RELEASE MORE COMPUTING POWER......SO I DID TURN OFF MY NORTON ANTIVIRUS SONAR PROTECTION AND GUESS WHAT THE AVATAR PLAYED PERFECTLY......WITHOUT GOING OUT OF SYNC.....I HAVE 2 GB RAM AND 512 MB GRAPHIC CARD AND THE COMPUTER DECODED PERFECTLY WELL.......................I DID'NT HAVE ANY IDEA ABOUT NORTON INTERNET SECURITY SUCKING SO MUCH OF MY PRECIOUS COMPUTING POWER WHICH IN TURN MADE OTHER THINGS GO DIFFICULT.................AGAIN AGAIN AGAIN THANKS A LOT BROTHER"
+,BobaFett_X1,2011-07-15T15:04Z,"M-10 
+V-10
+A-10
+By Far the best movie and torrent ever. Absolutely Epic. Especially with such a small torrent size, Absolutely Amazing. Superb audio and video quality and by far one of the greatest shows that i've seen. Many thanks to the uploader ! Awesome torrent !!!!"
+,aviator7,2011-07-24T18:16Z,Could you pleeeeeeeeeease seed ?
+,AXHEJAZ,2011-08-03T10:00Z,Thank You very much buddy! Your the best in the west!
+,desertlover,2011-08-23T14:04Z,Amazing torrent!! only minor thing(well not really) is that the credits are cut off. And for anyone that wants to stream to xbox 360 i used avidemux to transcode the audio and it worked perfect for me. 
+,fh.36.gw,2011-08-29T20:36Z,"im not seeding this, terrible download, ive seen better recoding"
+,seigle,2011-09-03T20:59Z,hello sir where can I get full english subtitles please? thanks
+,seigle,2011-09-06T20:25Z,whats the difference between this fasm version and the fasm version  uploaded yesterday?
+,chi18593,2011-09-19T16:08Z,plzz hlp me...i am not getting the subtitles..i did the same written in instructions but without any benefit...plz hlp..

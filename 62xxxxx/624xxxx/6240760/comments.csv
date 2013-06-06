@@ -1,0 +1,12 @@
+User Type,Username,Date,Text
+[T],nobody2007,2011-03-14T09:13Z,"WARNING - be carteful
+
+It is highly recommended to use Little Snitch to block them - EyeTV (Elgato) is calling home.
+
+Edit YOUR host-file (use the Host-Manager from Macupdate.com, it does a well job), Put following into the host:
+127.0.0.1 services.eyetv.com
+127.0.0.1 updates.elgato.com
+
+Block it with Mac OSX Firewall too."
+[T],nobody2007,2011-03-14T09:15Z,"Host Manager
+http://www.macupdate.com/app/mac/37571/host-manager"

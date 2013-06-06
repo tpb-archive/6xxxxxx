@@ -1,0 +1,58 @@
+Dragon.Age.2.DLC-P2P
+
+DLC includes the following content:
+
+- Black Emporium and Exiled Prince DLC
+- Signature Edition DLC
+- DLC Decrypter
+- 18-Basic Unlockables Activator
+
+
+Instructions:
+
+- Install and Crack DA2, be sure to install in a Custom Location, do not install 
+  in the default location.
+
+- Run DA2
+
+- Backup and delete profile.dap from Documents/Bioware/Dragon Age 2/Settings
+
+- Run DA2, again.
+
+- Exit DA2
+
+- Run Activator
+
+- Use mail@mail.ru for the email address
+
+- Click the button below the area where you put the email.
+
+- Agree - left button
+
+- Select the new profile.dap from Documents/Bioware/Dragon Age 2/Settings
+
+- A box should pop up, saying that everything has been unlocked
+
+- Exit Activator
+
+
+- Now install all the DLC - Black Emporium/Exiled Prince/Signature Edition
+
+- Edit decrypt_dlc.bat and add the following lines:
+  rem Signature Edition
+  deda2drm.exe DA2_PRO_COL C70C-FD85-FD48-FB7C-1035-5683-62C2-4979
+
+- Run decrypt_dlc.bat from deda2drm.zip
+
+- Once everything is decrypted, go to your DA2 Folder, move to addins.
+
+- You should see three folders, da2_prc_one, da2_prc_seb, da2_pro_col.
+
+- Open the manifest.xml of each folder, and change RequiresAuthorization="1" 
+  to RequiresAuthorization="0" in each.
+
+- Play with all Unlockables/DLC.
+ 
+
+
+Enjoy!

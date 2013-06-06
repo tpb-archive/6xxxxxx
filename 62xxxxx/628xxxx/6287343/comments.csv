@@ -1,0 +1,76 @@
+User Type,Username,Date,Text
+,topanyel,2011-04-12T19:58Z,"It works, do I need to log in to describe details?"
+,topanyel,2011-04-12T20:22Z,"Ok so I was logged in :D
+
+So I just managed to install and play Tides of Darkness on Win7 32, as follows:
+
+1. Mounted the MDS image file to Daemon Tools, copied all files from it to c:\warcraft. 
+
+2. Created an empty directory c:\war2 
+
+3. Got DOSBox from:
+http://sourceforge.net/projects/dosbox/
+After installing and running it, you need to type the following commands:
+mount c: c:\war2
+mount e: c:\warcraft -t cdrom switch 
+e:\
+setup
+
+It will start the installation; install it to the previously created c:\war2 (it should be the dir originally offered by install)
+
+4. Install should complete without any problem so exit and navigate to installed dir and run with war2.exe (still from DOSBox!)
+
+Game should run fine, I am pretty sure Beyond the Dark Portal can be installed the same way.
+
+Next time you want to run the game, run DOSBox and use these commands:
+
+
+mount c: c:\war2
+mount e: c:\warcraft -t cdrom switch 
+c:\
+cd war2
+war2.exe
+
+Have fun all, and many thanks for sharing BackToWeb."
+,Nemase,2011-04-25T16:35Z,"Im using DOSbox and everytime i run it its smallscreen, does anyone know if i somehow can get it to be fullscreen??"
+,Bam866,2011-05-02T23:10Z,"Okay i Installed using vuze on windows xp and extracted using 7-zip file manager, copied it too a new file and tried using Virtual Clone drive... What next? "
+,cerin616,2011-05-04T13:12Z,"Making it work with a .iso
+
+If you have the ""Beyond the Dark Portal"" CD but don't want to bother with it each time, you can create a .iso file that DosBox will recognize as the original CD (provided you give it the right instructions).
+
+MacOSX can help you with creating this file : after you have inserted your CD of ""Beyond the Dark Portal"" on your CD drive, type in the following code in the Terminal :
+
+hdiutil makehybrid -o warcraft2x.iso -udf -iso -joliet /Volumes/warcraft2x
+
+Then, put the .iso file into the right folder (see the pathway I chose below, for example) and you'll be able to start ""Tides of Darkness"" with the following commands :
+
+1) mount C ~/Warcraft2
+
+2) IMGMOUNT E /users/Yourname/Warcraft2/warcraft2x.iso -t iso -fs iso
+
+3) C:
+
+4) cd/WAR2
+
+That stands for : ""choose directory WAR2""
+
+5) war2
+
+You're started, congratulations ! 
+
+lolowned"
+,cerin616,2011-05-04T23:38Z,"also, dont forget to convert to ISO for that, and to mount the image as whatever letter you installed as."
+,Deathsky22,2011-06-26T14:35Z,"Probably should of guess that this would be difficult being on a mac. *sigh* didnt get what i expected the file to be. thats besides the point though ... anyone there to help me out here? ive actually never seen a mds file and what it does. i seen converting and things like that but âŚ i sincerely have no idea. vie dug around, downloaded 3 different failed versions of WC2 ToD and im actually kind of frustrated. any help is appreciated."
+,stephon_,2011-07-02T13:32Z,"game works, however mouse cursor is too fast even at lowest speed setting, it's so hard to play"
+,superawesomefuntimekai696,2011-09-11T00:16Z,"For those wondering ""Alt+Enter"" (or return, however you want to say it) brings DosBox to a FULLSCREEN state, press this combination again to make it minimized. Please do a bit of research (:
+
+and for those wondering WHY it won't work on a mac, it's because your using a Mac. Get Bootcamp."
+,sci_13,2011-11-13T19:42Z,"i have some problem at the 3rd step -
+
+mount e: c:\warcraft -t cdrom switch 
+e:\
+setup
+
+after entering these the program returns 
+""illegal command : setup"""
+,sci_13,2011-11-13T20:17Z,"yeap. for the expansion installation in the 3rd step, instead ""setup"" - ""install"" command is used, and the original has to be installed too already"

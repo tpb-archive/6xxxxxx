@@ -1,0 +1,131 @@
+
+
+Version: 
+
+
+270.51 BETA 
+
+
+
+
+Operating System: 
+
+
+Windows Vista 64-bit, Windows 7 64-bit 
+
+
+
+
+Language: 
+
+
+English (UK) 
+
+
+
+
+This is the first release from the Release 270 family of drivers (versions 270.xx to 274.xx).
+ 
+This driver package supports GeForce 6, 7, 8, 9, 100, 200, 300, 400, and 500-series desktop GPUs as well as ION desktop GPUs.
+ 
+New in Release 270.51
+ GPU Support
+ â€¢Adds support for the newly released GeForce GTX 590, GeForce GTX 560 Ti and GeForce GTX 550 Ti GPUs.
+ Performance
+ â€¢Increases performance for GeForce 400 Series and 500 Series GPUs in several PC games vs. v266.58 WHQL drivers. The following are examples of some of the most significant improvements measured on Windows 7. Results will vary depending on your GPU and system configuration:
+ GeForce GTX 580:
+ â€¢Up to 516% in Dragon Age 2 (SLI 2560x1600 8xAA/16xAF Very High, SSAO on)
+â€¢Up to 326% in Dragon Age 2 (1920x1200 8xAA/16xAF Very High, SSAO on)
+â€¢Up to 11% in Just Cause 2 (1920x1200 8xAA/16xAF, Concrete Jungle)
+â€¢Up to 11% in Just Cause 2 (SLI 2560x1600 8xAA/16xAF, Concrete Jungle)
+â€¢Up to 7% in Civilization V (1920x1200 4xAA/16xAF, Max settings)
+â€¢Up to 6% in Far Cry 2 (SLI 2560x1600 8xAA/16xAF, Max settings)
+â€¢Up to 5% in Civilization V (SLI 1920x1200 8xAA/16xAF, Max settings)
+â€¢Up to 5% in Left 4 Dead 2 (1920x1200 noAA/AF, Outdoor)
+â€¢Up to 5% in Left 4 Dead 2 (SLI 2560x1600 4xAA/16xAF, Outdoor)
+â€¢Up to 4% in H.A.W.X. 2 (SLI 1920x1200 8xAA/16xAF, Max settings)
+â€¢Up to 4% in Mafia 2 (SLI 2560x1600 AA on/16xAF, PhysX = High)
+ GeForce GTX 560 Ti:
+ â€¢Up to 461% in Dragon Age 2 (SLI 1920x1200 8xAA/16xAF, Very High)
+â€¢Up to 241% in Dragon Age 2 (1920x1200 4xAA/16xAF, Very High)
+â€¢Up to 19% in Just Cause 2 (SLI 2560x1600 8xAA/16xAF, Concrete Jungle)
+â€¢Up to 13% in Just Cause 2 (1920x1200 4xAA/16xAF, Concrete Jungle)
+â€¢Up to 6% in Far Cry 2 (SLI 2560x1600 8xAA/16xAF, Max settings)
+â€¢Up to 5% in Call of Duty: Black Ops (1920x1200 noAA/AF, Jungle Map)
+â€¢Up to 5% in H.A.W.X. 2 (SLI 1920x1200 4xAA/16xAF, Max settings)
+â€¢Up to 4% in Call of Duty: Black Ops (SLI 2560x1600 4xAA/16xAF, Jungle Map)
+â€¢Up to 4% in Civilization V (1920x1200 noAA/AF, Max settings)
+â€¢Up to 4% in Left 4 Dead 2 (SLI 1920x1200 4xAA/16xAF, Outdoor)
+â€¢Up to 4% in Metro 2033 (SLI 1920x1200 4xAA/16xAF, PhysX on)
+ NVIDIA Update
+ â€¢This is a new feature in Release 270 and later drivers. NVIDIA Update keeps your PC up-to-date with the latest NVIDIA drivers by notifying you when a new driver is available and directing you to the driver on www.nvidia.com. When you install a Release 270 or later GeForce driver from www.nvidia.com, you will be presented with the option to install NVIDIA Update. Click here to learn more about NVIDIA Update.
+ 
+NVIDIA 3D Vision 
+â€¢With Release 270 drivers, the 3D Vision Controller driver is now included with all GPU driver installations. This driver package includes v270.47 3D Vision Controller driver. Users are no longer required to install a separate 3D Vision Controller driver or CD driver. For more information, please view this knowledgebase article for more information. 
+â€¢New features added to 3D Vision window mode 
+â—¦Adds support for HDMI 1.4 3D TVs when using 3DTV Play software, including DirectX 9 games, Google Earth, and 3DVisionLive.com.
+â—¦3D Vision window mode now works with Windows Aero enabled
+â—¦New NVIDIA Control Panel option to toggle 3D Vision window mode on or off.
+â€¢Performance improvements
+â—¦DirectX 9 applications when using NVIDIA SLI 
+â—¦Better performance using the in-game crosshair for Half-life 2, Left4Dead, and Left4Dead2
+â€¢Adds support for new 3D Vision Desktop LCD monitors: Tongfang LM2230W
+â€¢Adds support for new 3D Vision projectors: Acer X1261P, Acer X1261-3D, DepthQ HDs3D-1, NEC NP-V300X, Sanyo PDG-DXL2000
+â€¢Fixed problem with DLP HDTVs and SLI which caused problems with eye synchronization
+â€¢Add support for new 3D Vision All In One PCs: Acer Aspire Z5673, Lenovo B520
+â€¢Added the following 3D Vision game profiles: 
+â—¦Alice Madness Returns
+â—¦Crysis 2 (including multi-player demo)
+â—¦Dead Space 2
+â—¦DeathSpank
+â—¦Dragon Age II
+â—¦Duke Nukem Forever
+â—¦Dungeon Defenders
+â—¦Dungeon Siege III
+â—¦Fable III
+â—¦Faxion Online
+â—¦F.3.A.R.
+â—¦Final Fantasy XIV
+â—¦Homefront (DirectX 9 and DirectX 10)
+â—¦Lego Universe
+â—¦Need for Speed World
+â—¦Portal 2
+â—¦Richard Burns Rally
+â—¦Rift
+â—¦Section 8: Prejudice
+â—¦Shift 2 Unleashed
+â—¦Shogun 2: Total War
+â—¦Star Wars: Clone Wars Adventures
+â—¦Test Drive Unlimited 2
+â—¦The Sims Medieval
+â€¢Updated the following 3D Vision game profiles
+â—¦MX vs. ATV Reflex
+â—¦Monster Hunter Frontier Benchmark
+ 
+NVIDIA Surround
+ â€¢Adds 3D Vision Surround support when using 3D Vision monitors with built-in IR emitters
+â€¢Increase performance for GeForce 200 series, 400 Series and 500 Series GPUs in several DirectX 9 PC games vs. the latest Release 265 drivers. The following are examples of some of the most significant improvements measured on Windows 7 64-bit. Results will vary depending on your GPU and system configuration.
+ 
+GeForce GTX 480 SLI in 3D Vision Surround: 
+â€¢Up to 109% in Aliens vs. Predator (5760x1080 1xAA / 16xAF) 
+â€¢Up to 107% in Burnout Paradise (5760x1080 2xAA / 16xAF)
+â€¢Up to 267% in Call of Duty Black Ops (5760x1080 2xAA / 16xAF)
+â€¢Up to 177% in Call of Duty: Modern Warfare 2 (5760x1080 2xAA / 16xAF)
+â€¢Up to 15% in Far Cry 2 DirectX 9 (5760x1080 2xAA / 16xAF)
+â€¢Up to 250% in Left4Dead2 (5760x1080 2xAA / 16xAF)
+â€¢Up to 159% in Need for Speed Shift 2 (5760x1080 2xAA / 16xAF)
+ CUDA
+ â€¢Adds support for applications using CUDA 4.0 features such as Unified Virtual Addressing (UVA) and GPUDirectâ„¢ v2.0.
+ Other 
+â€¢Installs HD Audio driver version 1.2.22.1
+â€¢Installs PhysX System Software to version 9.10.0514
+â€¢Supports the new GPU-accelerated features in Adobe CS5. 
+â€¢Supports GPU-acceleration for smoother online HD videos with Adobe Flash 10.1. Learn more here. 
+â€¢Supports the new version of MotionDSP's video enhancement software, vReveal, which adds support for HD output. NVIDIA customers can download a free version of vReveal that supports up to SD output here.
+â€¢Supports OpenCL 1.0 (Open Computing Language) for all GeForce 8-series and later GPUs.
+â€¢Supports OpenGL 3.3 for GeForce 8-series and later GPUs.
+â€¢Supports OpenGL 4.1 on GeForce 400 series and later GPUs.
+â€¢Supports single GPU and NVIDIA SLI technology* on DirectX 9 and OpenGL.
+â€¢Supports GPU overclocking and temperature monitoring by installing NVIDIA System Tools software. 
+
+*Note: The following SLI features are only supported on Windows Vista and Windows 7: Quad SLI technology using GeForce GTX 590, GeForce 9800 GX2 or GeForce GTX 295, 3-way SLI technology, Hybrid SLI, and SLI multi-monitor support.

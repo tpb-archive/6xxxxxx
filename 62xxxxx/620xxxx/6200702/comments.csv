@@ -1,0 +1,40 @@
+User Type,Username,Date,Text
+,kyp0001,2011-02-25T03:36Z,"Sooo after I've seeded the 1.1.1 Patch for some time now with Patch 1.2.0 it is actually playable now :O 
+(some rare crashes are still happening thx to the superior Kalypso Management Capabilities)"
+,halsemon,2011-02-27T19:02Z,"I'm unable to get this to work. Did all the steps and I start the Dungeons.exe, it throws me to the DungeonsStarter.exe where you have to put your email and password. If left empty then it tells me I have the wrong login or password. Am I supposed to put something in or change something else?"
+,padag,2011-02-28T07:48Z,"I""m afraid that I have the same problem as Halsemon. Ther appears to be no obvious way arround the email/password question- at least with Win7 anyway. 
+(Using the included  Win7 patch did not work either).
+
+Does anyone have any suggestions? (or a suitable email/password?)"
+,Madoga,2011-03-01T01:30Z,"Doesn't work.
+Stackoverflow exception."
+,kyp0001,2011-03-04T00:11Z,"I'm on WinXP SP2
+
+If you use the crack exe (Dungeons.exe) there should be no Login-Window poping up. Instead a black console window thats showing the loading of  the game.
+
+As there are over 200 downloaders happy with it and only 5 or so having problems its most likely you did make a mistake at installation or not using the Dungeons-FLT Version ?
+"
+,kyp0001,2011-03-04T00:15Z,"Some comments here might be helpfull for some:
+
+http://www.rlslog.net/dungeons-flt/#comments"
+,qqlanu,2011-03-04T07:14Z,"worked flawless for me on win7
+1.mount image/install
+2. install update 1.2
+3. disconnect the game from internet via firewall
+4. copy contents from win7 fix archive"
+,mr1black,2011-04-01T19:59Z,"Hokay, worked on my win 7 SP1 with the included additional win 7 crack, didn't try the original crack.
+One thing, though: I didnt put the cracked files in the ""username\..."" file, but in the main game dirrectory, which for me was C:\Program Files\Kalypso Media\Dungeons
+
+As for win 7 firewall, quick tutorial:
+WARNING, UNSECURE, but I tested it on my comp and had no problem, and also, the procedure is the same for some other games/programs and shouldn't make any damage BE CAREFULL!
+-Go to control pannel/win firewall (its in system and security, if you use the default view)
+-on the left should be an option named ""advanced settings"", or ""additional"", or simmilar, sorry, I'm translating from my native language... you should have admin rights for it, go there
+-new window opens, in the left column again there's an option ""inbound rules"" with an icon of arrow pointing to the wall. Click it. There are hundreds of rules shown for different programs.
+-In the right column there is an option ""new rule"" with the same icon. 
+-Another window opens. I clicked next, becouse ""Dungeons"" IS a program, then select ""this program path"" and browse to the dir where the dungeons.exe is, for me it was C:\Program Files\Kalypso Media\Dungeons. so select the exe file. click next.
+-select the last option ""block the connection"", next 2x, name it something you can remember, and finnish. If you fucked it, there you can also delete the newly created rule..
+hope it helps!"
+,stevenstoop007,2011-05-03T12:19Z,"Thanks worked 100%, also big thanks to Mr1Black"
+,lankaras,2011-05-31T06:27Z,"Works for me, I followed mr1black's steps but one thing is wrong: You have to block OUTBOUND connections for Dungeons, not inbound. Hope this helps someone"
+,renaldoaoa,2011-10-09T00:31Z,"Win XP
+I'm unable to run the patch. Clicking dungeons_deen_1.0.0.1_1.2.0.0, brings up ""preparing to install"" and then just goes blank. It just sits there. Any ideas? "

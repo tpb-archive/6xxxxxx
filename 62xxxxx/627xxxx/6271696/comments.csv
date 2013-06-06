@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,SNYGGASTSWE,2011-05-29T20:11Z,where are the video need help=D
+,netrek,2011-08-04T04:12Z,"I found it on you*tube, video id is furJJbh9xSs"
+,haxrl33t,2011-08-28T04:03Z,i ran everthing correctly but im having copatability issues i have 7 so it should b ok any tips
+,Naraku77,2011-10-24T20:30Z,"I actually own the Diablo Battlechest (from back when it actually contained both games -- how can they continue to call the new one that with it only containing Diablo II?).  However, this sounds like it's the DVD version, and would therefore save me time compared to my old CD ISOs.  Thanks, I""ll have to check this out.
+
+Oh and, you forgot to mention the best free virtual drive software of them all -- Alcohol 52%.  It can create images, unlike Daemon, and it has a command line app that lets you create batch files that can mount your image and load your game (AxCMD).  Forget cracks for 120% that only partially work (never with AxCMD or the shell extensions), thanks to ImgBurn, the free part's all you need.  PowerISO?  Seriously?  Its proprietary image format was an unforgivable offense.  I hated PowerISO before I even had it downloaded.  When ImgBurn added support for their format, I deleted it like the parasite I've always seen it as.  Maybe that's not giving it a fair chance, but they did it to themselves (with a little help from the noobs).
+
+@haxrl33t:  Windows 7 and Vista both seem to have a problem with the combination of Aero AND Explorer running causing game corruption on old games.  This happens with ""Diablo 1"" and ""Ys Book I and II Complete"" to name a couple of others.  Your options are either disable Aero, or kill explorer.exe (and launch the game via task manager or CMD).  Three permanent solutions exist:
+
+1.  Create batch files to disable Aero, launch the game, then re-enable Aero upon exit, for every single old game that needs it (tedious).
+
+2.  Just disable Aero and leave it that way (ugly as HELL).
+
+3.  Ditch Explorer for Emerge Desktop (best option).
+
+You can find emerge at:
+
+http://emergedesktop.org
+
+On the plus side, Emerge is lighter and gives you the classic cascading start menu from XP back, and you can access it from anywhere on the desktop via a right-click (much like E17 or Fluxbox), or hit the start button and one will pop up under your mouse cursor (regardless of whether it's over the desktop or not).  Also, click the clock for a command line (gotta love that).
+
+On the minus side, it doesn't do pinned start menu programs (though it will let you create your own menus, so, minor detail), its taskbar doesn't stack, you have to hide unused tray icons manually (not hard though), and the Winamp tray controls don't seem to work with it (use the hotkey, Luke).
+
+Overall, I find it a worthy tradeoff, and this does let you customize it extensively, much like most Linux environments.  Read the instructions though, you have to configure the desktop borders so your apps don't cover the bars if you move them around, but it's easy (Settings, Configure Workspace).  You're also free to remove things you don't need.  If you're using Auto Hot Key or Rocketdock, you might not need the Launcher, for example (especially since you can get a start menu anywhere).  If you use a laptop you probably will need to add the Power app.  It has an optional resource monitor as well.  Basically, every component is a separate app.  You can make your shell as featured or minimalistic as you like (as long as you at least have a system tray all of your apps will be fine, and most don't even require that -- I've run CMD as a shell, and only had trouble with one app I know of)."
+,Naraku77,2011-10-24T22:48Z,"On closer inspection, these are the original CD images (minus the Securom, though the patch disables the disc checks anyway).  So, apparently they won't save me any time reinstalling the game.  Oh well, thanks for the key changer, might need it someday."
+,kalish87,2011-12-18T08:51Z,plz seed

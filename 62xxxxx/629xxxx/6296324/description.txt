@@ -1,0 +1,29 @@
+Description:
+
+multiMAN packs many facets: It's a Backup Manager, a File Manager, an FTP server, and an
+AVCHD and BDMV (Blu-ray) video player.
+
+Included are 3 versions:
+
+1. multiMAN 1.16.13 for 3.40 (Dongle Jailbreak) - 3.55 (Kmeaw CFW)
+2. multiMAN 1.16.13 for 3.55 (tagged "WT" - geohot/Wutangrza/Waninkoko)
+3. multiMAN 1.12.05 for 1.90 - 3.30
+
+multiMAN 1.16.12/13 CHANGELOG
+
+Added: new options in options.ini: [usb_mirror], [verify_data] and [download_dir]
+Added: support for new version of "ebootFIX" tool (PSN-style XMB games)
+Added: support for â„¢, Â© and Â® symbols when renaming game titles (converts (TM) (R) and
+(C) to â„¢, Â© and Â®)
+Changed: Max number of games in the list set to 2048
+Added: [START]+[SELECT] restarts multiMAN
+Added: RELOAD.SELF to multiMAN USRDIR folder (this way multiMAN can be
+launched from other applications)
+
+Added: support for XMB*.PNG images in themes (XMB0.PNG->PIC0.PNG, XMB1.PNG
+->PIC1.PNG, XMB2.PNG->PIC2.PNG)
+
+Added: proper detection of spoofed firmwares
+Added: /ps3_home/archive folder for .mmiso. experimental support (not available yet)
+Fixed: Prompt to change PARAM.SFO when launching newer games
+Fixed: Prompt to change PARAM.SFO version even when PS3 FW version is the same

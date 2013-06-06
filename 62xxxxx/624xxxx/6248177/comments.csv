@@ -1,0 +1,134 @@
+User Type,Username,Date,Text
+,JkCleary,2011-03-16T21:39Z,does this fully work on prometheus 4? i've tried a couple others but they freeze on the first mission.
+,Asgfsda,2011-03-17T02:38Z,"Try backing up, deleting, then replacing your various plugin folders.
+I had bare my root folder then replace them all with backups.
+It might not be necessary but It worked for me.
+I was freezing on attack till I did It.
+It works fine on Prome 4."
+,LOS1228,2011-03-17T06:06Z,I have 5.50 gen d3 but for some reason the game won't work..does anybody have any suggestions? 
+,laiko,2011-03-17T09:02Z,LOS: trying upgrading to prom v4 for 5.50gen d3 or look for a patched iso.
+,solidesnake,2011-03-17T16:35Z,"@ ""LOS1228""
+try adding prome 4 to ur cfw 5.50 gen d3 this might help.
+it helped with bunch of games before 
+i didn't test this one so i cannot confirm that will work but its worth trying"
+,thebigwn1122,2011-03-18T15:01Z,@Asdfsda Hey could you give a bit more info on how to back up the plugin folders. thx
+,thebigwn1122,2011-03-18T15:47Z,@Asgfsda Hey could u give a little more info on how to back.delete the replace the plugin folders...mines keeps freezing on the first attack to... thx
+,mk2007123,2011-03-18T18:47Z,"This is working for me 
+5.03 3004 psp prom-3 
+no freeze after first mission, all good so far."
+,emandude2,2011-03-20T14:06Z,first attack makes my game freeze. help :D
+,marshmello1230,2011-03-21T11:19Z,i'm using 5.50 prom 4 and it freezes in the first mission.
+,mjnovak,2011-03-22T18:08Z,"This .iso works great for me, no errors or freezing. I am using m33-6 and prome-4 plugin.
+
+I made some codes for CWcheat that work with this iso and since there seem to be a lot of codes floating around that work with various iso I thought that I would just post these ones here for those who download this one. 
+
+The codes I made are to multiply items in the inventory to 99. I made one for each item slot in the inventory so you don't have to deposit and withdraw items from the storage if you don't want to. 
+
+_S ULUS-10563
+_G God Eater Burst [USA]
+_C0 Inv Item ID #1
+_L 0x003156DE 0x00000063
+_C0 Inv Item ID #2
+_L 0x0031572A 0x00000063
+_C0 Inv Item ID #3
+_L 0x00315776 0x00000063
+_C0 Inv Item ID #4
+_L 0x003157C2 0x00000063
+_C0 Inv Item ID #5
+_L 0x0031580E 0x00000063
+_C0 Inv Item ID #6
+_L 0x0031585A 0x00000063
+_C0 Inv Item ID #7
+_L 0x003158A6 0x00000063
+_C0 Inv Item ID #8
+_L 0x003158F2 0x00000063
+_C0 Inv Item ID #9
+_L 0x0031593E 0x00000063
+_C0 Inv Item ID #10
+_L 0x0031598A 0x00000063
+_C0 Inv Item ID #11
+_L 0x003159D6 0x00000063
+_C0 Inv Item ID #12
+_L 0x00315A22 0x00000063
+_C0 Inv Item ID #13
+_L 0x00315A6E 0x00000063
+_C0 Inv Item ID #14
+_L 0x00315ABA 0x00000063
+_C0 Inv Item ID #15
+_L 0x00315B06 0x00000063
+_C0 Inv Item ID #16
+_L 0x00315B52 0x00000063
+_C0 Inv Item ID #17
+_L 0x00315B9E 0x00000063
+_C0 Inv Item ID #18
+_L 0x00315BEA 0x00000063
+_C0 Inv Item ID #19
+_L 0x00315C36 0x00000063
+_C0 Inv Item ID #20
+_L 0x00315C82 0x00000063
+_C0 Inv Item ID #21
+_L 0x00315CCE 0x00000063
+_C0 Inv Item ID #22
+_L 0x00315D1A 0x00000063
+_C0 Inv Item ID #23
+_L 0x00315D66 0x00000063
+_C0 Inv Item ID #24
+_L 0x00315DB2 0x00000063
+_C0 Inv Item ID #25
+_L 0x00315DFE 0x00000063
+_C0 Inv Item ID #26
+_L 0x00315E4A 0x00000063
+_C0 Inv Item ID #27
+_L 0x00315E96 0x00000063
+_C0 Inv Item ID #28
+_L 0x00315EE2 0x00000063
+_C0 Inv Item ID #29
+_L 0x00315F2E 0x00000063
+_C0 Inv Item ID #30
+_L 0x00315F7A 0x00000063
+_C0 Inv Item ID #31
+_L 0x00315FC6 0x00000063
+_C0 Inv Item ID #32
+_L 0x00316012 0x00000063"
+,sanu101,2011-03-25T07:36Z,guys is there any way to play this on cfw 5.03 m33-6?? help plzz
+,miktran,2011-03-28T01:27Z,"You will need a custom firmware to make this game works. And also, you need to install a plug-in, which is calles ""Prometheus""... search on the internet for its 4th version"
+,DyceHyral,2011-03-31T18:46Z,"i'm still having probs, still freezing. i'm using 5.03 prometheus-4 (prom-3 on my psp when i install it) any ways still not roking. pls help. reaallly luv the game but cant make it work."
+,DyceHyral,2011-03-31T19:01Z,sorry for the typo. is there someone that uses 5.03 prom-3 that works gods eater burst? pls help...
+,bonghubilla,2011-04-05T03:08Z,"it's not working,i was just wasting my time"
+,redhatGizmo,2011-04-08T22:22Z,"To Fix the Freezing issue 
+
+1.Dowload the patch from here -- bit ly/ehgtrT   --and extract it.
+
+2.Run WQSG UMD and open the iso 
+
+3.Go to PSPGAME\SYSDIR
+
+4.Now Drag N Drop all files from ""M631"" Folder To PSPGAME\SYSDIR
+
+5.thats It Close WQSG UMD and Copy Iso to psp. 
+
+Tested & Working on 5.00 M33.
+"
+,-KillerBee-,2011-04-09T11:06Z,"@redhatGizmo
+
+Thanks for the info."
+,pspedro,2011-04-09T20:00Z,what exactly do i have to do to download redhatgizmo's patch? sorry for being such a noob :(
+,matt_2007,2011-05-08T01:30Z,"@ pspedro
+WQSG_UMD_R31
+
+But i have no idea what the M631 older is"
+,matobato,2011-05-10T15:47Z,"Only thing that works for m33-06 is redhatGizmo's method!
+
+Thanx dude!"
+,John040104,2011-05-31T09:54Z,"My Help:
+Download ofw 6.35
+search it in google
+then put it in GAME/UPDATE folder 
+if you need to create any folders necessary
+do it.
+then run it in game in your psp then after update
+download cfw 6.35 pro b3 search it in google
+then after that run it and there you go, you can play it"
+,fasthandsdan,2011-06-09T20:57Z,Working fine on CFW 6.38ME. No freezing. Interesting game. Kinda like Crisis Core meets Monster Hunter. Ty Combate
+,123faisal,2011-07-05T06:08Z,does it work on 3004 pro b6 ?? plz say.
+,HenryPL,2011-09-24T19:37Z,Works on PSP 3004 03g with 6.20 PRO-B9.

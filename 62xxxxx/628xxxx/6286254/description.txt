@@ -1,0 +1,67 @@
+Contains all the files needed to flash Darky's ROM v10.0 Release Candidate 3.
+
+====
+
+Files:
+1. Instructions.txt
+2. GT_I9000_XXJVK_XXJVK_OXAJVK_Sbl.exe
+3. darky10kernel.tar
+4. Darkys_v10.0_Extreme_Edition_RC3.zip
+
+=====
+
+INSTRUCTIONS:
+
+1. If you are using Darky's App, ensure that the following configurations have been made. If you do not use Darky's App, skip this step and proceed to step 2.
+
+The ones in CAPS and with arrows (=>) are necessary to have a working, booting system.
+=> Wipe: YES
+=> Kernel: DARK CORE
+Modem: JQ1
+Ad-Hoc Wifi: no
+Circle Battery Icon: yes or no
+=> Gray settings: NO
+Boot animation: yes or no
+Samsung Social Apps: yes or no
+=> Lockscreen Wallpaper: NO
+swype: yes or no
+live wallpapers: yes or no
+extra fonts: no
+3rd party apps: yes or no 
+
+1. Run the self-extraction file (GT_I900_XXJVK_XXJVK_OXAJVK_Sbl.exe)
+
+2. Flash stock XXJVK with bootloaders using Odin
+* Start Odin without connecting the device.
+* Load the files that you want to flash:
+PDA = PDA
+PHONE = PHONE
+CSC = CSC
+* Put the phone on Download Mode and connect the device.
+* Wait for Odin to detect the device and hit Start
+
+3. Flash darky10kernel.tar using Odin as a PDA file
+
+4. Go to recovery mode and flash Darky ROM v10 RC3
+
+IT IS RECOMMENDED THAT YOU WIPE DATA BEFORE FLASHING A ROM
+
+=====
+
+Instructions taken from:
+1.
+2. http://forum.xda-developers.com/showthread.php?t=1011901
+As of 1 April 2011
+
+
+=====
+
+Up-to-date thread here:  
+http://forum.xda-developers.com/showthread.php?t=814091
+
+=====
+
+Credits:
+Darky - for his awesome ROM
+ficeto - for his awesome kernel
+[Ramad] - for providing the awesome XXJVK stock ROM

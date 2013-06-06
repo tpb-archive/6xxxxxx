@@ -1,0 +1,28 @@
+User Type,Username,Date,Text
+,pillzhereish,2011-06-09T14:52Z,'The Merger' has a sound issue :(
+,nslugr,2011-08-08T02:06Z,"""The Merger"" and ""The Job"" do have sound issues. The audio only comes out from the left side. I fixed that on my computer.
+Download and install the following software (all free, just google it):
+- MKVExtractGUI
+- mkvmergeGUI
+- Audacity 1.3 (beta, for AC3 support)
+- ffmpeg for audacity
+
+First, extract the audio file (ac3 file) from the mkv with MKVExtractGUI.
+Next, import it in Audacity to create a stereo track and export it again as AC3: http://chacadwa.com/foh/mono-to-stereo-in-audacity
+Finally, open both mkv and ac3 files in mkvmergeGUI, unselect the previous audio file and create a new mkv.
+
+Hope this helps somebody."
+,nslugr,2011-08-08T04:01Z,"Adding to my previous comment,
+- ""The Convention"" also has the same problem
+- The volume needs to be decreased by -13dB (before exporting) to match the volume of the other files [http://compsci.ca/v3/viewtopic.php?t=18250]
+- The track doesn't need to be converted to stereo, just the import and export in Audacity fixes the problem
+- In the export dialog, select 384kbps to leave the same bitrate as the others
+
+Peace"
+,maggot_corpse,2011-08-19T17:58Z,"about the problem with the sound in ""The Merger"" & ""The Job"". in KMPlayer in Audio -> Stream selection choose Left (or Right), i don't remember, deleted the episodes. and the audio will be fine. no additional codecs installed needed :-)"
+,machasdo,2011-12-15T17:47Z,"Downloaded it and the episodes only play up to 5 seconds then passes on to the next.
+Using KMPlayer and season 1 and 2 play fine.
+Downloading it again and I'll get back if the problem continues."
+,nickstarks,2012-04-17T23:38Z,"theres a torrent floating around with those 3 episodes ""REPACKED"" and the complete HD Season 5..
+
+http://www.torrents.net/torrent/1903777/The-Office-seasons-1-7-HD-720p/"

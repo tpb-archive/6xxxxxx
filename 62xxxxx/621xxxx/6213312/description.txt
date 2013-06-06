@@ -1,0 +1,132 @@
+0. Who?/Why?
+--------------------------------------------------------------------------------
+redump.org is a disc preservation database and internet community dedicated to
+collecting precise and accurate information about every video game ever
+released on optical media of any system. This information consists of data
+checksums and some additional characteristics of the physical medium. redump.org
+also provides guides to ensure the backups used for checksum calculation are
+correctly done. Users of the website who follow the guides are encouraged to
+participate by sharing their results, contributing this way to the advancement
+of the project. Information from different people are compared to ensure the
+accuracy of the results and to identify alternate versions of the same game. 
+http://redump.org/
+
+They currently have more than 17700 (~5250 PS) disc entries present in their
+database.
+
+By submitting information about missing discs to the redump.org database, you
+would be helping to achieve this greater common goal.
+If you have original black CDs not listed in the PS database or even listed
+ones, please go that extra mile and learn their preservation methods.
+
+Their guides on how to backup discs properly can be found here: 
+http://wiki.redump.org/index.php?title=Dumping-Guides
+
+If you need more help, you can also visit redump.org's forum: 
+http://forum.redump.org/
+
+!!!Content of this torrent is NOT provided by redump.org.!!!
+
+redump.org does not provide copyrighted material nor do they condone software
+piracy. Please, no torrent-talk on that site, only database and CD media
+related things or be ready to face consequences (ban, most likely).
+--------------------------------------------------------------------------------
+
+
+1. How to prepare?
+--------------------------------------------------------------------------------
+The discs have been packed using PakkISO which works just like torrentzip.
+Simply put, PakkISO is the torrentzip of disc based games. It will create
+exact archives of matching files. It runs the data tracks through ECM, and
+then compresses with 7z. Audio tracks are compressed using the Monkey Audio
+lossless format (.ape). This results in a much higher compression ratio
+compared to torrentzip or standard archivers.
+
+You can choose from several programs to use for decompression. They all are
+included in this torrent within 'important.zip'.
+
+1.1. PakkISO shell integration *RECOMMENDED* (PakkISO-0.4-setup.exe).[1]
+
+To unpack a single game, right-click the game's folder and select 'UnpakkISO'.
+
+To unpack a group of games, right-click the folder containing ALL game's
+folders to be processed, and select 'UnpakkISO (Batch)'. The process will be
+automated.
+
+To pack a single game, right-click the game's folder and select 'PakkISO'.
+
+To pack a group of games, right-click the folder containing ALL game's folders
+to be processed, and select 'PakkISO (Batch)'. The process will be automated.
+
+1.2. PakkISO (PakkISO-0.4-non-install.zip).[1]
+
+To unpack a game, simply drag and drop the game's folder into unpakkIso.exe.
+
+To pack a game, simply drag and drop the game's folder into pakkIso.exe.
+
+1.3. redumpExtractor (redumpExtractor_exe.zip or redumpExtractor.zip).[2]
+
+Simple and intuitive GUI program. More information: 
+http://thejbnet.com/progs/re/
+
+After successful decompression you should have one cue sheet file (.cue) and one
+or several binary files (.bin).
+--------------------------------------------------------------------------------
+[1] Archives will be deleted after decompression; raw files after compression,
+i.e. content is transformed from compressed to decompressed state or vice versa.
+So it is preferable to make a copy of directory you want to work with and use
+that copy instead of source.
+[2] External programs needed for this application are available in
+'PakkISO-0.4-non-install.zip'.
+
+
+2. How to play?
+--------------------------------------------------------------------------------
+To play on real hardware (console), first you need to burn the image(s) to a
+disc using your favorite disc recording software and good quality blank media:
+load the '.cue' file and burn. Make sure your console is capable of playing
+backups.[1] 
+http://www.imgburn.com/
+
+The best way to play the games included in this collection on emulators is by
+mounting them on a virtual drive (Daemon Tools/Alcohol). Once you have the disc
+mounted, just open the emulator and 'Open>CD-ROM via SPTI...' (Xebra) or 
+'Insert CD drive' (pSX). 
+http://www.daemon-tools.cc/eng/products/dtLite 
+http://trial.alcohol-soft.com/en/downloadtrial.php 
+http://drhell.web.fc2.com/ps1/index.html 
+http://psxemulator.gazaxian.com/
+--------------------------------------------------------------------------------
+[1] Please do not use Alcohol for recording, it is known to have problems with
+cue sheet parsing and therefore will produce incorrect copies (virtual drive
+function works fine though). Preferred programs are: ImgBurn *RECOMMENDED*,
+BlindWrite and CDRWIN.
+
+
+3. How to update?
+--------------------------------------------------------------------------------
+Included with torrent within 'important.zip' are several '.dat' files to verify
+downloaded files, update from previous torrent or audit your collection. Use
+them with RomCenter, clrmamepro or other similar ROM manager. 
+http://www.romcenter.com/ 
+http://mamedev.emulab.it/clrmamepro/
+--------------------------------------------------------------------------------
+
+
+Noes conserning this update:
+
+Rules regarding PS backup creation slightly changed @redump.org. There are cases
+when the last sector of the data track ir erroneous (only container information,
+no actual embedded program data is affected and those last sectors are empty
+anyhow - it's a buffer zone). Previously such sectors were corrected but now
+this erroneous structure will be left intact. This means that data tracks for a
+lot of CDs have changed. This is the last update provided in accordance with the
+old standard (nil). Included in directory 'patches' in 'important.zip' are
+patches to update your set to the new standard (ecc). To update copy patches to
+the main directories that contain individual game sub-directories, i.e.:
+[redump.org] PSX (Japan) [#-E]
+[redump.org] PSX (Japan) [F-M]
+etc.
+and run 'nil2ecc.bat' batch file.
+Conversion of the whole set should take less than 30 minutes.
+All following updates and full set uploads will be done in new standard.

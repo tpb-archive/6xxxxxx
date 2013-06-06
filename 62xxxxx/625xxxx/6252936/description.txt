@@ -1,0 +1,37 @@
+3DMark Vantage includes two new CPU tests, two new graphics tests, several new feature tests, and of course support for the latest hardware. 3DMark Vantage is the new industry standard PC gaming performance benchmark from Futuremark, newly designed for Windows Vista and DirectX10. 3DMark Vantage is based on a completely new rendering engine, developed specifically to take full advantage of DirectX10, the new graphics API from Microsoft.
+A key new feature in 3DMark Vantage is the rendering option Presets. These pre-selected combinations of rendering option settings, like resolution, anti-aliasing and texture quality, represent different, successively more advanced levels of visual quality.
+
+When running 3DMark Vantage with one of the presets selected, the benchmark produces an official score for that preset. Instead of the single default setting of previous 3DMarks, there are four Presets available for Entry, Performance, High and Extreme visual quality.
+Requirements:
+Processor
+Â· Requirement: SSE2 support
+Â· Recommendation: A dual-core processor with performance equivalent to Intel Core 2 Duo E6600, AMD Athlon X2 6000+, or higher
+
+Graphics Card
+Â· Requirement: Fully DirectX10-compliant graphics hardware
+Â· Recommended: 512MB of video memory (Needed to run every Preset)
+
+Display Device
+Â· Requirement: Capable of 1280x1024 resolution
+Â· Recommendation: Capable of 1920x1200 resolution (Needed to run every Preset)
+
+System Memory
+Â· Requirement: Windows Vista minimum requirement
+Â· Recommendation: 2 GB or more
+
+Hard Disk
+Â· Requirement: 1 GB of free hard disk space
+
+What's new in 3DMark Vantage 1.1.0:
+Â· Trial Edition has been removed
+Â· Basic Edition is now free
+Â· Added display scaling to improve display compatibility
+Â· PPU acceleration of the CPU tests is now disabled by default
+Â· Re-compiled with Visual Studio 2010
+Â· Updated the SystemInfo component to version 0
+
+
+Tested And Working
+
+
+Enjoy

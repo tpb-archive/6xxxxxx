@@ -1,0 +1,47 @@
+This package contains Rosetta Stone Version 3
+
+CorkScrews are prepackaged wine prefixes inspired by the "Wine bottle" of
+Crossover (cxgames.). This package was built using ArchLinux and also 
+tested on Ubuntu 10.04, it should work properly on any Linux distribution
+ with wine properly installed.
+
+To install the game run rs_installer.sh. This will extract the archive 
+to ~/.wine/wineprefixes/RosettaStone. 
+
+This package only contains the main rosetta stone application.
+You will need to install at least one language for this to be useful.
+
+To install a language, mount the iso or CD to /media/cdrom, then run 
+~/bin/RosettaStone, and add the language as normal.
+
+If you do not mount the CD to /media/cdrom it will not be detected.
+
+You can find language packs on your favorite torrent site, I personally
+tested this one: 
+http://bitsnoop.com/rosetta-stone-v-3-swedish-level-1-3-q911554.html
+
+If you don't know how to mount an ISO here is an example:
+sudo mount -o loop /path/to/somelanguage.iso /media/cdrom
+
+To launch the application execute the script located in ~/bin, either by double 
+clicking on it, or from a terminal enter: "~/bin/RosettaStone" (case 
+sensative). 
+
+I reccomend adding $HOME/bin to your PATH, especially if you 
+want to use more then one corkscrew. 
+A desktop launcher is not included with this release, but you can easily make one 
+yourself using the included icon.
+
+To uninstall delete the RosettaStone folder in ~/.wine/wineprefixes.
+
+I encourage you to package, test, and distribute CorkScrews of other applications 
+and games. This package along with the installer can be freely redistributed 
+and/or modified only by qualified software pirates. If you are happy to see a game 
+or program you like running on linux be sure to let the developers know. 
+
+For other packages just search "CorkScrew" on your favorite torrenting site. 
+
+Any requests/feedback/questions/issues/comments/virgin offerings, are welcome. 
+Contact me on Demonoid:or leave a comment 
+on thepiratebay, i check both regularly.
+

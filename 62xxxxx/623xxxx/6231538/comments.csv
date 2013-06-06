@@ -1,0 +1,47 @@
+User Type,Username,Date,Text
+,escarabajo_demolition,2011-03-13T22:08Z,"Problemas conocidos:
+Ciertos usuarios no pueden instalar debido a que lesdetecta que ya esta instalado, permitiendo unicamente jugar.
+
+Solucion:
+Te quedan restos en el registro, por eso no instala y te lo da por instalado.
+
+Ve a Inicio-Ejecutar
+Pon regedit- clic en Aceptar
+Se abrira el registro:
+Busca y abre ( clic en el simbolo de la izquierda):
+Si usas 32 bits (x86)
+HKEY_LOCAL_MACHINE\SOFTWARE\BioWare\Dragon Age 2
+Si usas 32 bits (x86)
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\BioWare\Dr agon Age 2
+
+y borra la carpeta Dragon Age 2 (clic derecho del raton en ella y clic izquierdo en eliminar). Asegurate que no esta en ninguna de las 2 o las borras ambas
+
+Cierras el registro e intenta instalar de nuevo. Ahora ya si podras
+
+
+Siento el inconveniente, proximas releases no llevaran ese problema. Se les quitara que revisen el registro o dejara instalar la encuentre o no.
+
+
+
+
+Known issues:
+Some users can not install because lesdetecta already installed, allowing only play.
+
+Solution:
+You are remains in the registry, why not install and gives it to install.
+
+Go to Start-Run
+Put regedit, click OK
+Will open the registry:
+Locate and open (click the symbol on the left):
+If you use 32-bit (x86)
+HKEY_LOCAL_MACHINE \ SOFTWARE \ BioWare \ Dragon Age 2
+If you use 32-bit (x86)
+HKEY_LOCAL_MACHINE \ SOFTWARE \ Wow6432Node \ BioWare \ Dr agon Age 2
+
+and delete the folder Dragon Age 2 (right mouse click on it and left click delete). Make sure not in any 2 or delete both
+
+Close the registry and try installing again. Now if you can
+
+
+Sorry for the inconvenience, upcoming releases not bearing this problem. They removed review the record or stop in, or not installed."

@@ -1,0 +1,19 @@
+1.- Descomprimir
+2.- Grabar Ã³ montar la imagen (Iso)
+3.- Instalar
+4.- Jugar.
+
+Incluidos los DLCs:
+El emporio negro
+El principe exiliado
+
+dentro del DVD, en la carpeta DLCs
+
+Una vez instalados los DLCs,
+hay que editar los "manifest.xml"
+
+Enabled="1" poner Enabled="0"
+y
+RequiresAuthorization="1" poner RequiresAuthorization="0"
+
+(estan en donde instalaste el juego\addins\ dentro de las carpetas estÃ¡ el de cada uno)

@@ -1,0 +1,18 @@
+What is AUSTRUMI ?
+Fastest Linux distribution with 3D support for ATI, Nvidia and Intel video cards
+Contains all necessary basic programs for work and entertainment
+The modern user interface into Latvian, Russian, English, Greek and other languages
+Simple boot from CD, flash drive or HDD
+It is fitted out for the servers and workstations
+
+Release Notes
+removed MySQL added MariaDB
+updated: opera, squashfs-tools, postgresql, php, cpio, ed, logrotate, which, acpid, findutils, sed, module-init-tools, ntfs-3g
+updated libs: gtk+2, glib2, libraw1394, libcap, libart_lgpl, libpng, libvorbis, libXxf86dga, libXvMC, libXv, libXt, libXScrnSaver, libXres, libXrender, libXrandr, libXpm, libXp, libXi, libSM, libICE, libfontenc, nvidia-glx, poppler, procps
+updated kernel 2.6.38
+ 
+http://cyti.latgola.lv/ruuni/ 
+http://forums.slackers.lv/viewforum.php?f=12 (official) 
+http://www.punbb-hosting.com/forums/austrumi/ (unofficial : EN)
+
+md5sum : d1c0fa28591088306a78434ba680b92a  austrumi-2.3.2.iso

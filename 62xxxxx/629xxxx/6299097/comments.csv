@@ -1,0 +1,83 @@
+User Type,Username,Date,Text
+,conani,2011-04-18T16:22Z,"Good morning, I'm having problems with your file ""Terminator.Salvation.2009-ViTALiTY. How to install? already grouped files (001002003, etc. ..) and now? help please"
+,conani,2011-04-18T16:23Z,please help my email: gilbertofrancadasilva@gmail.com
+,leksi1,2011-05-03T16:17Z,how i can get this works? 
+,jmobius,2011-05-13T20:59Z,I assume nothing is ripped and this is just well packed. 
+,Itbroke,2011-06-03T19:07Z,How do you get this thing to work?
+,Beast_Gribbler,2011-06-05T18:19Z,"This is what I did my fellow torrent users... Okay first I downloaded the torrent. After the torrent is finished downloading, I un-rared it with 7zip.. The program that you RAR with doesn't really matter, just get the torrent un-rared.. Okay now, after the torrent is finished and un-rared you go into the folder that it unpacked into... Their are two folders that are both called ""Command.And.Conquer.3-Kanes.Wrath.RIP.Multi6-Skullptura."" You go into the first folder. Then while you're in the first folder you drag the second folder into your C:\Program Files\Electronic Arts  right under your Command & Conquer 3. You have to have Command & Conquer 3 in order to play the Kanes Wrath Expansion. Okay now you have both games and you wanna play... Go into the Command.And.Conquer.3-Kanes.Wrath.RIP.Multi6-Skullptura folder that you dragged over into your Electronic Arts folder, then you run the SETUP, double click it! A black box will appear, wait for it to finish. It should say ""press any key to finish or continue.."" After that's done, you should notice a shortcut has been added to your desktop. Double click that icon that's now on your desktop, then.... Bimbadaboum you're play C&C3-Kanes Wrath. If you need more help, e-mail me at bradseriousmail@aol.com, peace and have fun playing :)"
+,Wilsy53,2011-06-20T14:50Z,everyone knows what the game is! you forgot to put details how to do it ! to me i think thats just shit and pathetic! 
+,navy5465,2011-06-25T02:03Z,"works great, just followed the instructions said by Beast_Gribbler  in the comments above"
+,erlangga,2011-07-07T10:48Z,"THIS GAME WORK PERFECT & NO VIRUS DETECTED .....!!!! THANKS Skullptura 
+
+But to play this Command.And.Conquer.3-Kanes.Wrath u must have installed  Command.And.Conquer.3 tiberium wars first and if u dont have can try this :
+
+
+How do you play command and conquer 3 kanes wrath without command and conquer 3 tiberium wars?
+
+How to play Kane's Wrath on the PC without Tiberium Wars:
+
+THIS FOR WINDOWS XP....!!!
+
+[1] INSTALL THE GAME: C&C3 KANE'S WRATH TO ITS DEFAULT DIRECTORY..(THE ORIGINAL SOURCE SAYS THAT ITS IMPORTANT)
+
+I TRIED IN ANOTHER DIRECTORY, ITS WORKNIG, SO NOT IMPORTANT, JUST CORRECT THE INSTALLPATH IN REG FILE BELOW (MJR)
+
+[2] IN THE DIRECTORY (OR OTHER DIR IF YOU CHANGED THE INSTALL PATH AS I MJR) ""C:\Program Files\Electronic Arts\Command & Conquer 3 Kane's Wrath\retail Exe\1.0"" MAKE A COPY OF THE FILE cnc3ep1.dat & THEN RENAME THE COPY TO cnc3game.dat
+
+[3] IN THE DIRECTORY (OR OTHED DIR MJR) ""C:\Program Files\Electronic Arts\Command & Conquer 3 Kane's Wrath"" MAKE A COPY OF THE FILE cnc3ep1.exe & THEN RENAME THE COPY TO cnc3.exe
+
+CUT FROM HERE:
+
+
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Electronic Arts\Electronic Arts\Command and Conquer 3]
+""InstallPath""=""C:\\Program Files\\Electronic Arts\\Command & Conquer 3 Kane's Wrath""
+
+[5] RUN RunMe.REG
+[6] IT ASKS IF YOU WANT TO ADD THIS INFO TO REGISTRY, THEN ADD IT
+[7] READY ! HAPPY PLAYING!
+
+Read more: http://wiki.answers.com/Q/How_do_you_play_command_and_conquer_3_kanes_wrath_without_command_and_conquer_3_tiberium_wars#ixzz1RPJPH1Ez
+
+[4] MAKE A NEW TXT FILE & PASTE IN WHAT IS BELOW ""CUT FROM HERE:""
+(SAVE AS RunMe.REG)
+
+!!! AND IF YOU CHANGED THE INSTALL DIR THEN CORRECT THE INSTALLPATH VARIABLE BELLOW !!! THE DOUBLE ""\"" ARE CORRECT AND A MUST! USE THIS FORMAT BECAUSE ITS THE ONLY WAY THAT WORKS
+
+"
+,Christofer_Lynch,2011-07-16T20:32Z,"Surprisingly works! Works perfectly. Which is surprising since there is no real install to it - it's just a registry edit and it works perfect. You can also use trainers with it, or update it and it still works. Movies are also included in this rip as far as I have found.
+
+1. Unrar/unzip
+-In any folder you like but I prefer:
+Computer > Local Disc (C:) > Program Files > Electronic Arts > Command & Conquer 3 Kane's Wrath
+
+2. Then just enter the folder to the main directory where you see various folders like ""Core"", and simply click ""setup.dat"".
+3. Play
+
+NOTE: It works with updates but if you update it to either 1.1 or 1.2 you'll have to get the corresponding fixed .exe for it
+
+NOTE 2: If you use trainers the best trainers are only available in 1.0 and 1.1 version unless you can find a free 1.2 version trainer besides for Cheathappens promo."
+,E-GRANDE,2011-08-05T22:10Z,"I do not understand what you are writing, how do I install the game here blbu. I guess I will have to have a c & c 3 or so? It would be longer fool if I had that game and would like there to give it a second time just for your joy, so ask concretely explain the installation"
+,xtremeklutch,2011-08-13T05:19Z,"ok my friend has an error that i didnt have when i set it up, the only difference in our ways was he was 64bit so i put it in (x86) the error was SETUP FAILED delete game / extract archive 'run' is not recognized a san internal or external command, opperable pregram or batch file ECHO is off"
+,Yusuke_DS,2011-09-11T21:54Z,"I found the sollution/fix for ""please install at least one language pack"" question..
+
+You just need to download the registry file from:
+
+http://www.regfiles.net/file/18/
+
+and execute.."
+,FTT_Ryan,2011-09-15T19:53Z,"hi guys, not having problems just to clarify when kaynes wrath expansion is installed and stuff, if you click on shortcut and load up do you still get your normal CnC3 campaign missions and stuff through the kaynes wrath shortcut or do you have to click on normal Cnc3 shorcut to do original campaign and stuff? appreciated if i get any reply's but overall exellent torrent much recommended easy install cant complain at all :)  "
+,jarsa82,2011-09-30T23:30Z,"Ok fellas, usually I never comment on these things, but this was a tough one for me too. Almoust gave up. First You unrar the file and run the setup. Then downloaded http://thepiratebay.org/torrent/4103266/kanes_wrath_vista_x64_fix and just ran torrent´s the reg.edit and it works, for me anyway =) Doesn´t matter where the damn kane´s wrath or tiberium wars are. This for Win7 64-bit. "
+,peter.faux,2011-12-22T11:43Z,thanks Christofer_Lynch got it working
+,xbinddas,2011-12-25T09:17Z,"Can any1 tell how solve the problem ""Please insert the original ""Command & Conquer™ 3: Kane's Wrath"" CD/DVD"""
+,Dan-the-man91,2012-02-09T13:34Z,"HI i works great good torrent , i have one question , i have map manager installed and it allows me to install the custom maps for CNC3 but says it can not find the custom map folder for kanes wrath , do you have a fix for this ? . Cheers"
+,Dan-the-man91,2012-02-09T13:36Z,"hi i having a problem adding custom maps to kanes wrath it says that there is no custom map folder , do you have a fix for  this ? "
+,Noob1991,2012-04-08T18:47Z,"Hi, 
+I am new to the torrent downloading scene and I did everything and applied patch for win7x64. But I get an game crash that says 
+""can't open stream datastatic_L.manifest
+ 10 addresses:......"" 
+and lists lots of other data I have no idea about. I really want to play this game and would appreciate the help."
+,alexbr,2012-04-22T12:30Z,WORKS JUST INSTALL IT RIGHT DONT BE NOOBS!
+,Xanghi,2012-05-10T00:21Z,ok so idk if i'm just a retard but there is no .rar file its just an MSinfo and a bunch of R03 files
+,SevenVampire,2012-06-01T20:37Z,Is There a Chance to play this game without no Tiberium Wars?? .. . .  

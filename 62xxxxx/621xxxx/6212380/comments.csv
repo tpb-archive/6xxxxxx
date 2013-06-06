@@ -1,0 +1,41 @@
+User Type,Username,Date,Text
+,User897,2011-03-02T03:48Z,"You'd think TvTeam would have been prepared for this release.
+
+SLOWEST. TORRENT. EVER."
+,User897,2011-03-02T03:48Z,"BTW, the image links DO NOT WORK."
+,Balthazar7,2011-03-02T04:35Z,"Give away something for FREE and some people still bitch! If you can do better, do it.
+
+Check you advanced settings in whatever client you're using. Also, disable any ad-blockers/hosts files. I'm avg 500KB down.
+
+TvTeam is the best!"
+,Balthazar7,2011-03-02T05:38Z,"V: excellent
+A: very good
+seeding"
+,User897,2011-03-02T06:15Z,"Balthazar7
+
+My client is µTorrent, so I would like to know what settings could possibly be changed on MY end to make people seed.
+
+Please share and I'll be glad to give it a try."
+,User897,2011-03-02T06:19Z,"Also, no links to tutorials, that's cheating.  :)"
+,Balthazar7,2011-03-02T18:48Z,"Make absolutely sure your firewall is allowing free and unrestricted access for uTorrent.
+
+uTorrent > options > preferences > connection tab: you will see a random port button. You may click this button but make certain your router matches this port exactly.  You will have to log into your router using â€œ192.168.xxx.xxxâ€ (check owners manual) Do not enable â€œport forwardingâ€ this will weaken security, rather set the port manually.
+
+uTorrent > options > preferences > BitTorrent tab: uncheck â€œenable bandwidth management.â€
+
+uTorrent > options > preferences > BitTorrent tab: â€œprotocol encryptionâ€ â€œoutgoingâ€ set to forced and check â€œincoming legacy connection.â€
+
+Advanced settings definition:
+http://www.nsaneforums.com/topic/40790-utorrent-2x-advanced-settings-explained/"
+,Balthazar7,2011-03-02T18:55Z,"edit:corrections...
+
+Make absolutely sure your firewall is allowing free and unrestricted access for uTorrent.
+
+uTorrent > options > preferences > connection tab: you will see a random port button. You may click this button but make certain your router matches this port exactly. You will have to log into your router by typing into the URL bar using ""192.168.xxx.xxx""Â (check owners manual) Do not enable ""port forwarding"" this will weaken security, rather set the port manually.
+
+uTorrent > options > preferences > BitTorrent tab: uncheck ""Enable bandwidth management.""Â
+
+uTorrent > options > preferences > BitTorrent tab: ""protocol encryption""Â ""outgoing""Â set to forced and check ""incoming legacy connection.""Â
+
+Advanced settings definition:
+http://www.nsaneforums.com/topic/40790-utorrent-2x-advanced-settings-explained/"

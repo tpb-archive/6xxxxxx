@@ -1,0 +1,18 @@
+
+  Details:
+
+- Official maps collected from the Navigon servers (PHP-exploit)
+- map: Andorra, Austria, Belgium, Denmark, Finland, France, Germany, Gibraltar, Iceland, Isle of Man, Italy, Lichenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Portugal, Republic of Ireland, San Marino, Spain, Sweden, Switzerland, United Kingdom, Vatican City
+- poi: autovelox
+- Should work on most Navigon devices
+- Tested on Navigon 40 Easy
+
+
+  Instructions:
+
+- Backup your Navigon (Just in case)
+- Delete old file from map directory and copy new maps to your SD-card or Navigon device
+- Only copy and overwrite poi files
+- Select the new maps (See the Navigon website for more info)
+- Restart device (Yup, it's Windows CE)
+- Done!

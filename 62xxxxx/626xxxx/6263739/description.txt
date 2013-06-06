@@ -1,0 +1,22 @@
+TRANSLATORS WANTED FOR EPISODE 3 OF YAGAMI'S FAMILY PROBLEM (and other projects) - contact erik@otakubell.com if you can help, please!
+
+Piyo Piyo Productions presents:
+Yagami's Family Problem episode 1 (of 3) v1.0 (Video version 2.0, script revision "B")
+
+Plot synopsis:
+Yagami has a problem with his family. It isnâ€™t the usual kind of problem. Its just that heâ€™s noticed that his mother is a bit of a MILF.
+Like, really noticed. A lot.
+Unfortunately (or not, depending on how you view such things), Yagami isnâ€™t the only one who has noticedâ€¦
+
+Project notes:
+Back in the old Lupin Gang Anime days I had a more-or-less finished version of Yagami 1-2, but I was missing a translation for 3. None of my regular translators wanted to touch it.
+To give you an idea of the issue â€“ I bought the finished version of 1-2 to a conventionâ€¦ Animazement, I think? Iâ€™d say about a dozen people showed up in the theatre to check it out. They had all bailed by the time the first eyecatch came around, leaving me alone in the theatre with the projectionist. It was not my happiest moment. And its a shame, because Yagami is pretty damn funny. I suspect it might be better received nowadays, now that incestuous romantic comedies have become their own twisted little subgenere. That, and the internet is full of perverts.
+Like with Exper Zenon, I once again do not have any translation of romanization for the ending theme. Maybe if I get a translator for episode 3 I can get that flaw corrected as well.
+
+AVISynth script (video 2.0):
+AVISource("yagami1-lagarith.avi")
+AnimeIVTC(mode=4,omode=1)
+crop(6,0,-12,0)
+Spline64Resize(640,480)
+FFT3DFilter(sigma=2.0, plane=4, bw=48, bh=48, bt=4, ow=16, oh=16, sharpen=0, interlaced=false)
+vmToon()

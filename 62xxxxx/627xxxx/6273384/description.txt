@@ -1,0 +1,33 @@
+tinyxp-se
+
+this is windows xp, 32 bits (x86), based on tinyxp release by experience. this is a branch caused by various improvements brought to an already great, although stagnant, product.
+
+this includes every driver released since the release of xp, although for it to fit a cd the drivers are a little outdated. however this can be resolved by manually updating the iso drivers, by following the instructions included in the readme file. that way, drivers can be updated through a few clicks up to current-day ones, but you will need to write the resulting iso to a dvd instead of a cd, as it will break the 700-or-so-megs limit of the former writing medium.
+
+if there are enough demands i could upload the tinyxp-se dvd edition, but that would be dumb to do since i would thus be obliged to update once every few months, as new drivers come up often. instead, stick seeding this cd edition, but manually update drivers using the included instructions. i am repeating myself.
+
+some useful applications are dropped on the desktop. those are a result of thorough thinking from my part. you can choose to install them or not. something you may be tempted to criticize is the lack of an antivirus program. i will not explain the reasons for that lack of an inclusion here (okay, the reason is that wise browsing, in my opinion, is enough to stop malware infections, while random browsing even coupled with common protections will some day result in even the nastiest of infections)., but you can if you want download free antiviruses online or elsewhere.
+
+that said. this is lite. conceived in the tinyxp spirit. experience is an hero in this domain. he set the standard for speediness, while maintaining functionality. security is too here maintained, given the user is wise in his or her online activities. you cannot catch viruses opening files with k-lite or sumatra pdf, which are included in this release. you will have a hard time catching malware using those programs, let me tell you. that's a plus, definitely.
+
+so.. be wise, and keep yourself clean.
+
+also seed, if you think this is a good release, so others can download too if they see the release is popular because of the high numbers of seeders.
+
+you can also navigate using winkey+r, running things like sokoban spelling notepad and such lines.
+
+oh yeah, and on the differences between ntfs and quick-ntfs formatting, the latter merely is the former with disc health verification in less.
+
+furthermore, while updating driverpacks, one can skip updating base, as the included version seems to have problems updating itself through the automated installer. manual installation from getting the application from the site works fine, though.
+
+finally, after having installed 7-zip, you might be better to go to tools > options and selecting all of them as associations.
+
+if you're using a ssd instead of a hdd in your machine, then you might have some things to tweak here and there. google some utilities.
+
+let's just hope that drivers are going to be kept written for xp for eternity. because, such a support being dropped would kill us.
+
+here is an update, directly quoted from experience himself (also applies to this release): "this is usable for most people, but it does not include chinese, japanese or korean languages. it also has a lot of other things removed that are classed as a waste of resources."
+
+system restore is enabled by default, but if you are just like me then there is no need of that, and hence can safely be disabled.
+
+did i mention it might be a good idea to perform routine backups just in case your hard disk drive crashes? at least now i just did.

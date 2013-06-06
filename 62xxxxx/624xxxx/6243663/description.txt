@@ -1,0 +1,21 @@
+I'm pleased to announce that VC version 6.2 has completed verification and is now available for download.
+Vyatta VC 6.2 features package updates and major improvements to usability, quality and stability, including:
+- Improved Configuration Management
+- OpenVPN Enhancements
+- IPv6 DNS Resolver
+- Rebase to Debian Squeeze
+Significant branch maintenance was done by the Vyatta engineering team, including the following package updates:
+- iptables 1.4.9
+- ipset 4.3
+- pmacct 0.12.3
+- net-snmp 5.6
+- ntpd 4.2.6p2
+- busybox 1.18.0
+- open-vm-tools 8.4.2
+- vbash 4.1
+See the full Release Notes and Reference Guides on the documentation page for details on new capabilities.
+For information on installing and upgrading please read the Release Notes and the Vyatta Installation and Upgrade Guide.
+ 
+http://www.vyatta.org/forum/
+
+md5sum : 4bf8207550f1a5293ccc4985d0afb954  vyatta-livecd_VC6.2-2011.02.09_2011-02-09_i386.iso

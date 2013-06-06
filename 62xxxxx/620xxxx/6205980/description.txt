@@ -1,0 +1,34 @@
+Ikki Boot (FR only)
+est un live cd multiboot qui a pour objectif le dÃ©pannage, le partitionnement de disques, la sauvegarde et la restauration de donnÃ©es.
+
+Il contient :
+
+Parted Magic un live cd pour le partitionnement des disques durs.
+RIPLinux (Recovery Is Possible) un puissant rescue cd.
+Toutou Linux un live cd rapide, fiable, simple d\'utilisation et en franÃ§ais.
+CDlinux est petit, pratique, efficace et multi langue.
+
+Ainsi que les outils suivants :
+
+Memtest 86+ est un outil pour tester la mÃ©moire
+Darik\'s Boot and Nuke supprime dÃ©finitivement les donnÃ©es d\'un disque
+Offline NT password efface ou modifie des mots de passe
+Super Grub Disk permet de restaurer Grub
+GAG un gestionnaire de boot
+Balder une disquette de sauvetage basÃ©e sur FreeDOS
+Hardware Detection Tool affiche la configuration matÃ©rielle du poste
+
+Changelog : 
+4.0 - 26/02/11
+- mise Ã  jour : Syslinux 4.03
+- mise Ã  jour : Memtest86+ 4.20
+- mise Ã  jour : RIPLinux 11.4
+- mise Ã  jour : Offline NT password 100627
+- mise Ã  jour : Parted Magic 5.10
+- mise Ã  jour : Darik\'s Boot and Nuke 2.2.6 (Beta)
+- mise Ã  jour : HDT 0.4.1
+ 
+http://ikkiboot.tuxfamily.org/index.html
+
+md5sum : 9ea3216daf497bf2c7c116575acb78f0  Ikki_Boot_4.0.iso
+sha1sum : c6f0663a0995560862414365b75dbf594bfc12ce  Ikki_Boot_4.0.iso

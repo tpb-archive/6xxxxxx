@@ -1,0 +1,70 @@
+User Type,Username,Date,Text
+,NLSUB,2011-04-06T19:55Z,"Great keygen! 
+
+name : sK(xDtIbc6)Ogl8L
+Serial : THIS-ISRI-DICU-LOUS"
+,compcomp,2011-04-07T14:15Z,Thanks! Self-made!
+,CTX123,2011-04-07T17:51Z,"Can this bit of software be installed on ""admin"" so that the ""user or guest"" account can be logged?"
+,compcomp,2011-04-07T19:22Z,"@CTX123: Yes, install it as admin. Then add it in the register under startup programs in the HKEY_LOCAL_MACHINE key. So it will start for all users: Add it here:
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run"
+,CTX123,2011-04-08T10:37Z,Sorry Im a little bit of a n00b when it comes to changing the registry files.. 
+,compcomp,2011-04-08T13:01Z,"@CTX123:
+1) Run ""regedit"".
+2) Navigate in the tree at the left to 
+   ""HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run"" 
+3) Add a value (in the right panel, right click, new, string value)
+4) Name it bpk
+5) The value is surrounded by quotes the absolute path of the ""bpk.exe"". Normally it is this:
+   ""C:\Program Files\BPK\bpk.exe""
+Don't forget the quotes! They are necessary."
+,CTX123,2011-04-11T17:05Z,"..Only me again, So I install under the ""admin"" account & once installed also edit the registry in the admin account? 
+
+1. As & when this is done (using your help) will I be able to log every key stroke under the ""user"" account?
+2. Where do I view the logs under my ""admin"" account?"
+,compcomp,2011-04-11T17:44Z,"Yes.
+Yes.
+The logs are stored in C:\Program Files\BPK\dt
+But I think you will be able to see them in the GUI of Perfect Keylogger."
+,CTX123,2011-04-13T17:51Z,"If i'm monitoring ""user"" can I view the logs under ""admin""?"
+,yakusa47,2011-04-27T14:17Z,PKL Keygen.jar was extracted but dont know how to use it?
+,compcomp,2011-04-28T20:18Z,"@yukusa47: Jar is a Java ARchive. The keygen in written in Java. So, if you don't have Java, download it. Then you will be able to double click on the Jar and the keygen will start."
+,whitebeard,2011-05-19T12:11Z,"Thanks for this upload . Is there anyone around that has a serial for "" allinone keylogger 3.3 ""? will be a great help if you can post , thanks ."
+,haijaaa,2011-05-29T21:11Z,"The program doesn't start up automatically in win7. And the hotkey doesn't seem to work and I can't find the program itself in c:/ What can I do when I have it in stealth mode, but can't find it anymore... ?"
+,Shadicus,2011-07-02T22:25Z,"For some reason I cant get the remote installer working. I get the error message ""An error has occurred while creating the package. The wizard will be closed. Please make sure that keylogger is running from the original location"". Im stumpd, I'm pretty sure it is running from the original location. Any thoughts?"
+,aafz02,2011-07-28T13:33Z,"The file contains a trojan - compcomp u utter fucktard.
+
+-------------------------------------------------
+
+28/07/2011 12:27:55
+Real-time file system protection	
+
+file:	D:\torrents\Perfect Keylogger\i_bpk_trial.exe	Win32/Spy.PerfKey.NAA trojan	
+
+cleaned by deleting - quarantined	LOCALHOST\localhost	
+
+Event occurred on a file modified by the application: C:\Program Files\net\uTorrent\uTorrent.exe."
+,aafz02,2011-07-28T13:35Z,"The file contains a trojan - compcomp u fucktard.
+
+-------------------------------------------------
+
+28/07/2011 12:27:55
+Real-time file system protection	
+
+file:	D:\torrents\Perfect Keylogger\i_bpk_trial.exe	Win32/Spy.PerfKey.NAA trojan	
+
+File deleted."
+,aafz02,2011-07-28T13:40Z,"eat shit and die compcomp u utter fucktard - file contains a trojan
+-------------------------------------------------
+
+28/07/2011 12:27:55
+Real-time file system protection	
+
+file:	D:\torrents\Perfect Keylogger\i_bpk_trial.exe	Win32/Spy.PerfKey.NAA trojan	
+
+File deleted."
+,compcomp,2011-08-11T16:32Z,"@aafz02: Yeah, how come? You are working with a keylogger, don't be surprised when your virus scanner sais it is a virus..."
+,Usurario,2011-08-29T17:45Z,"Even following the instructions, couldn't set it up to star with Windows. So, couldn't enjoy it... :("
+,asmmsa,2012-04-17T14:20Z,Hey compcomp..i m a lil new wid keyloggers...Actually i jus wantd 2 knw dat is it fine if AV shows a trojan??...Will it affect my p.c. in any means???
+,aaron.fogle,2012-05-17T19:14Z,hey iam a noob to this but when i try to install it say windows cant find setup.exe
+,Akh608,2012-06-24T05:34Z,"Hey... one question: after I start the program, AVG keeps telling me I have a harmful software installed. Two notices: one for the program itself, another for the registry key.
+Now, I know that it is something it would recognise as such, but if it keeps telling me (or anybody who uses the computer) it has a keylogger... well, it loses the point, you see?"

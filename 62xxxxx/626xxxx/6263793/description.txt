@@ -1,0 +1,131 @@
+Experience the first fully portable edition of Windows 7 x64 EVER created! 
+
+Install Windows 7 Ultimate to your USB drive/stick, take it with 
+you - and run from any x64 computer (even Macs). Bring your entire 
+operating system, desktop, programs, games, files, personal settings, and much 
+more with you - everywhere! You can now carry your personal operating system in 
+a pocket!  
+
+This is not bartpe/winpe/livecd or anything similar! This is the first real and 
+full version of Windows 7 Ultimate that can be run on any x64 computer from a USB drive! 
+
+This is the 64 bit edition which allows you to get most out of a x64 processor. 
+Check out the 32 bit edition, it runs on ANY computer and only requires 8GB disk 
+space: http://ub3r.1337.cx/7  or   7usb.tk/7
+
+Version 3.0 brings you the completely NEW cloning feature. You can now easily share Win7 USB Edition with your friends (or back it up)! 
+
+#################################################
+Installation is easy as 1 2 3!
+Requirements: 
+- at least 16GB high speed (15+ MB/s) USB drive or stick 
+- .Net Framework 2 - http://ub3r.1337.cx/net 
+[Tested on Windows 7/XP/Vista/2008 R2/2003] - can be installed from Mac/Linux as well, instructions are at http://ub3r.1337.cx/support 
+If your are running XP, make sure that the \"don\'t format\" checkbox is selected! 
+
+1. Extract the archive to a different location than your USB drive (e.g. desktop) 
+2. Run \"INSTALL 7 USB Edition\" (You can use installer.bat, too.) 
+3.a: Insert the USB drive into (any) computer [without any hubs!], (re)start it and press F8, F9, F11, F12, option or another key depending on your hardware. 
+A menu should appear, choose your USB drive from it. You can also change the 
+boot device order in the bios[press ctrl + s, F2, F10 etc.]. Read the motherboard 
+manual or google it. (This method works on computers that can boot from USB.) 
+-==OR==- 
+3.b: Burn the bootloader to an empty CD [run \"burn bootloader.bat\"], insert the CD 
+and the USB drive to (any) computer, (re)start it and choose \"USB\" from the menu. 
+(This method will work on almost any computer.) 
+-==FOR MAC==- 
+3.c: Install the included rEFIt bootloader on your Mac, insert the drive and reboot. 
+
+That\'s it; enjoy carrying a full copy of Windows 7 Ultimate x64 
+in your pocket! 
+
+[extra]: 7 Ultimate supports ANY language! In order to change it to your native 
+language go to start, type update and press \"windows update\". Then click \"check for 
+updates\", select the languages you want to install and wait. [I don\'t recommend 
+installing any other updates as it may destroy the crack] Finally set the language 
+by going to start - control panel - clock language and region - change display 
+language. Enjoy using your portable windows in your native language! [Don\'t forget 
+to install your network and display drivers first!] 
+
+[Optional:] If your drive is bigger than 8GB you may want to increase the size 
+of the virtual system drive of your 
+new Windows in order to gain more disk space: 
+1) browse to your USB drive and move the 7USBEditionByiMortaluz.vhd somewhere 
+else (e.g. desktop) 
+2) start VHDResizer.exe and select this file 
+3) press \"save as\" and browse to you USB drive again. Call the file 
+7USBEditionByiMortaluz [It won\'t work if you call it something else!] and press 
+save 
+4) Choose the size depending on the size of your USB drive and press resize. Get 
+yourself a cup of coffee, it\'s going to take long time. 
+5) When you boot your new portable windows for the first time - press start 
+menu, type partition and hit enter. Right click 7USBEditionByiMortaluz and 
+choose \"extend volume\". Keep pressing next. 
+################################################*
+
+Recovery: If your personal portable Windows does no longer boot, you can repair 
+it with the included \"fix boot.bat\" tool. 
+If it doesn\'t help, copy 7USBEditionByiMortaluz.vhd from your USB drive 
+to your desktop, reinstall Win7 USB Edition, copy the 7USBEditionByiMortaluz.vhd 
+file back to the USB drive (replace the existing file). No files will be lost! 
+
+You can mount the virtual system partition from any other Windows 7 installation! 
+Go to start, type partition, press \"create and format disk partitions\". Press 
+action - attach VHD and browse to the 7USBEditionByiMortaluz.vhd file. You can 
+then access (or recover) all your files. 
+################################################
+*
+New in version 3.0: 
+-Graphical installer, cloning utility, countless fixes & full XP compatibility 
+
+Additional info: 
+This is a fully functional and cracked copy of Windows 7 Ultimate x64. I don\'t 
+recommend updating it with Windows Update, as this can destroy this system - do it 
+at your own risk. Bear in mind that most USB sticks are slower than disks and that 
+performance may suffer. 
+
+MD5 Checksum: D5EA94B5326220E6E68419B263B62AFB
+
+Included software: 
+Driver Genius Professional - quickly find the drivers you need 
+Chrome Plus [with adblock]- because Internet Explorer sucks... 
+Steam - now you can carry all your favorite games with you - everywhere! 
+Everest Ultimate - Get advanced information about your hardware 
+7zip - a free WinRAR replacement 
+uTorrent - never stop downloading and seeding! 
+CCleaner - easily free up disk space 
+Ettercap - control local network, recover (or hijack) passwords 
+RemoveWAT - restores or removes Windows Activation, you can use this to activate Win7 
+with a valid license from Micro$oft 
+
+Included tools: 
+DriverPack - additional network drivers - use if you have no internet connectivity 
+Gogonet - instant ipv6 connectivity - everywhere! 
+Win7logon changer - change your logon background 
+Ultimate Win7 Tweaker 
+ProceXP - advanced task manager 
+PassRenew - change passwords, add/delete users on any computer that you start 
+your new portable Windows on! 
+Wingate - start programs without logging on, log on without password (can be 
+used for recovery (or evil) purposes) 
+GodMode - useful Windows 7 Easter egg 
+
+Applied tweaks: 
+Disk performance has been improved by enabling drive caching 
+Some services (error reporting, windows defender, etc.) have been disabled in 
+order to give you the maximum performance 
+Windows Activation is completely removed! (problem, Micro$oft?!) 
+Terminal Server Patch applied, Windows 7 USB Edition supports unlimited remote 
+desktop connections! 
+#################################################
+
+Created, uploaded and written by iMortaluz. If somebody else shared it, check the 
+checksum of the archive with the included MD5Verifier.exe tool against those found 
+at http://ub3r.1337.cx/7x64 to make sure that the release is not fake or infected! 
+
+Copyright - Right To Copy - Share this as many times as you can! 
+Do you like it? Share it with your friends using the CLONE utility! 
+If you have any problems or comments, go to the official forum -> 7usb.tk or http://ub3r.1337.cx
+
+DIRECT DOWNLOAD LINK -> 7usb.tk/dl  or  http://ub3r.1337.cx/dl
+Download link is below, use bitlet.org if you don\'t have a torrent client!

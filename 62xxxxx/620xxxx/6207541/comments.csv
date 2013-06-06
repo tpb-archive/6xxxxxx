@@ -1,0 +1,34 @@
+User Type,Username,Date,Text
+,PitterPat,2011-03-02T17:17Z,"I must be doing something wrong because it doesn't work for me.  It says ""No maps found"".
+
+I tried both fastactivate and autoactivate with no joy.
+
+Do I have to remove the old meta file and or rename something?  Any other ideas?
+
+Thanks"
+,abernier,2011-03-02T23:32Z,"I would suggest reading the faqs at navitotal.com.
+You will have to register but it is free.
+I deleted the old .meta but you must leave the old .meta.dct.
+The activation apps use the old .meta.dct file to get your gps particulars for activation.
+"
+,wonderfulguy,2011-03-07T19:37Z,BEWARE!! Backup your system before running FastActivate.exe.  Windows 7 would not boot after running FastActivate.exe Map update worked OK.  Norton warned of a problem.
+,FORGOTTEN128,2011-04-18T05:28Z,"@PitterPat if you are using windows vista or 7 hold Ctrl + Shift and right click on the exe file and click ""Run as Administrator..."""
+,FORGOTTEN128,2011-04-18T05:30Z,also make sure the program is in the root folder of your gps or it wont find the files its supposed to update
+,larrybum,2011-04-26T01:42Z,"More info to flesh this out.  If you have a tomtom with a SD card containing the maps, here's how you do it:
+
+1. Hang onto your old SD and buy a new SD for the file you are to download.
+2. copy the contents of the old SD to a computer folder
+3. copy that computer folder to the new SD and verify it will start the gps
+4. delete the MAP folder (north american and Mexico) on the SD chip to make room for the new folder you are copying from the .RAR file.
+5. The name of that folder will be slightly different, but copy the entire folder to the root of the SD chip.  Leave the other files in the root untouched. 
+6. Copy the fastactivate and autoactivate files to the root also.
+7. Run the fastactivate from the root of the SD chip and click on all the options one at a time.
+8.  If you get no errors, you are good to go.  Install the chip in the tomtom and see if it boots up.  You will probably have to set up your home location and any favorites again, but that's it."
+,777THEPIRATEBAY777,2011-06-30T13:48Z,thnx wrks perrrrrrrffffffffffffeeeecccccccccctttttttt!!!!!!!!!!!!!!!
+,r00ted,2011-09-30T17:40Z,"Will this work for the cheap-o TomTom XL 4ET03?  Kinda curious....mine is just a standalone GPS, no fancy phone hook ups, bluetooth, or SD card slot(s).....it's all integrated in one...."
+,africanbrit,2011-10-02T02:26Z,"guys, this is a good torrent but if you go to navitotal.com there is an easier way of installing this, it is the autoinstaller, I got my old tomtom one up and running, also there are forums there so helpm is available.
+again this torrent by abernier is good, but things can get complecated."
+,saanigee,2012-03-08T23:59Z,"hello i tried this every thing was well but my tomtom start 310 is stuck on home screen tomtom with registered trade mark and when i use it with tomtom home it says ''you can't use this map on this device''
+i am on windows 7 i tried it with holding ctrl+shift run it admin mode but no joy
+
+what should i do any help please"

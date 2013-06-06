@@ -1,0 +1,52 @@
+All I did was use WAIK to import each version into 1 install.wim file and recreated the .iso. These installs will be the original Windows 7 install of your flavor!
+
+I have also included the repair module for BOTH x86 and x64.
+
+This will fit on a DVD5 but WILL NOT work on a 4 gig USB stick. It will work on an 8 gig USB stick though.
+
+I used the following MSDN Original ISO\'s to create this 11-in-1 AIO. Nothing is changed or added to the actual Windows install. The only thing that was added was to create a repair module for x64!
+
+Use Daz\'s Loader (Currently 1.9.7) to activate all but Enterprise Versions.
+
+Use KMS Activator (Currently 5.0, but has Alpha 6.0 out) to activate Enterprise Versions.
+
+
+MICROSOFT.WINDOWS.7.ULTIMATE.RTM.WITH.SP1.X86.RETAIL.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x86fre_client_en-us_Retail_Ultimate-GRMCULFRER_EN_DVD.iso
+SIZE: 2,563,039,232 byte
+SHA-1: 92C1ADA4FF09C76EC2F1974940624CAB7F822F62
+MD5: 24F3A45D43D7C532AA3126CC094C61BD
+CRC: C2966895
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.7.ULTIMATE.RTM.WITH.SP1.X64.RETAIL.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x64fre_client_en-us_Retail_Ultimate-GRMCULXFRER_EN_DVD.iso
+SIZE: 3,319,478,272 byte
+SHA-1: 1693B6CB50B90D96FC3C04E4329604FEBA88CD51
+MD5: 56A26636EC667799F5A7F42F142C772D
+CRC: 8589EE18
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.7.ENTERPRISE.RTM.WITH.SP1.X86.VOLUME.OEM.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x86fre_enterprise_en-us_VL_OEM_Enterprise-GRMCENVOL_EN_DVD.iso
+SIZE: 2,433,157,120 byte
+SHA-1: 4788041EB06E0F49720C112FBD256AC637909D4F
+MD5: 0F75C64DE4B10FD581845ABA99E1591D
+CRC: E3382829
+NOTE: this is original M$ image.
+by W.Z.T
+--------------------------------------------------------------------------------------
+MICROSOFT.WINDOWS.7.ENTERPRISE.RTM.WITH.SP1.X64.VOLUME.OEM.ENGLISH.DVD-WZT
+BUILD: 7601.17514.101119-1850
+FILE: 7601.17514.101119-1850_x64fre_enterprise_en-us_VL_OEM_Enterprise-GRMCENXVOL_EN_DVD.iso
+SIZE: 3,181,234,176 byte
+SHA-1: 2C9774A1F48570E749E6D33C642FE8F6F7898CB0
+MD5: 8DB2FA2C64160F582BD099E86DBE219F
+CRC: DCA3CF57
+NOTE: this is original M$ image.
+by W.Z.T

@@ -1,0 +1,54 @@
+Please help seed!
+
+Instructions:
+-------------------
+1. Download.
+2. Extract.
+3. Copy extracted folders to your WoW/Interface/AddOns folder.
+   - Both Horde and Alliance folders are included, if you don't play both, don't worry, WoW will only load the appropriate guide.
+4. Launch WoW.
+5. Once you are logged in and at your character screen, click the AddOns button and make sure that ZygorGuidesViewer and ZygorTalentAdvisor are checked.
+6. Launch the game and enjoy.
+
+Bug Fixes:
+-------------------
+March 24th, 2011
+
+Alliance Guides Change Log:
+* Fixed various things in the Shadowmoon Valley Leveling guide
+* Merged Feralas Leveling guides into a single guide
+* Fixed waypoint issue in first step of the Uldum Leveling guide (Stomwind to Stormwind)
+* Added Loremaster guide redirects to make using the Leveling guides to get Loremaster achievements less confusing, as most of the Loremaster achievements don't need special Loremaster guides (you can simply use the specific zone's Leveling guide most of the time)
+* For zones that need a separate Loremaster section for group quests (Dustwallow Marsh, for example) - The first step of the separate Loremaster guide recommends you to complete the zone's Leveling guide first, before trying to use the zone's separate Loremaster guide. You will be able to click a red question mark button (similar to if you were using an item in the guide window) to be sent directly to the zone's Leveling guide, for convenience.
+
+Horde Guides Change Log:
+* Fixed an NPC ID in the Blade's Edge Mountains guide
+* Fixed several flight steps that had the wrong completion coordinates
+* Added Loremaster guide redirects to make using the Leveling guides to get Loremaster achievements less confusing, as most of the Loremaster achievements don't need special Loremaster guides (you can simply use the specific zone's Leveling guide most of the time)
+* For zones that need a separate Loremaster section for group quests (Dustwallow Marsh, for example) - The first step of the separate Loremaster guide recommends you to complete the zone's Leveling guide first, before trying to use the zone's separate Loremaster guide. You will be able to click a red question mark button (similar to if you were using an item in the guide window) to be sent directly to the zone's Leveling guide, for convenience.
+
+Guides Viewer Change Log:
+* Fixed Auto-Accept / Auto-Turnin Issue
+* Options menu no longer spams "feeding" into the chat
+* Dynamic Progress options section re-added
+* Skip Impossible Steps options re-added in the Dynamic Progress options section
+* Displaying the Options screen when no guide is loaded no longer crashes
+* Dustwallow Marsh NPC location description changed
+* Added / Edited NPCs
+* Guide Status wording changed to be more clear
+Gray = Obsolete
+Green = Valid
+Yellow = Suggested
+Red = Improper
+
+Zygor Guides Info:
+-------------------
+The Cataclysm is upon us! Level from 1-85 now with the fastest, most feature rich guide in the world.
+
+    * Completely Redesigned Minimalist User Interface. Switch Between Full or Mini View Modes, the choice is yours
+    * 4 Full 1-60 Guides For Kalimdor & Eastern Kingdoms. 40 Zones Covered, 12 More Than Competing Guides
+    * 2 Full 60-70 Guides For Outland and Northrend
+    * 5 Full 80-85 Guides For All Cataclysm Zones
+    * Goblin and Worgen Starter Guides Included
+    * In-Game Talent Build Advisor For All Skill Trees
+    * Built In Waypoint Arrow, No TomTom Or Other Addons Needed

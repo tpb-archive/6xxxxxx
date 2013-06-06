@@ -1,0 +1,57 @@
+Here's all the episodes of Dinosaur Train, from PBS Kids. The exceptions are  Episode 40 (from wikipedia) which hasn't aired yet AFAIK.
+These are my caps from WNED-HD TV in Buffalo, NY, trimmed in VideoRedo, and converted from a 1920x1080 MPG to a 720x480 Xvid AVI file using WinFF and ffmpeg.
+For all the Dinosaur obsessed kids out there!
+
+ 
+http://en.wikipedia.org/wiki/Dinosaur_Train
+
+A representative Mediainfo is here :
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 342 MiB
+Duration : 25mn 6s
+Overall bit rate : 1 904 Kbps
+Writing application : Lavf52.32.0
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : Yes
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 25mn 6s
+Bit rate : 1 698 Kbps
+Width : 720 pixels
+Height : 480 pixels
+Display aspect ratio : 16:9
+Frame rate : 29.970 fps
+Standard : NTSC
+Resolution : 8 bits
+Colorimetry : 4:2:0
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.164
+Stream size : 305 MiB (89%)
+Writing library : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID : 1
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Format_Settings_ModeExtension : MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 25mn 6s
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Stream size : 34.5 MiB (10%)
+Alignment : Aligned on interleaves
+Interleave, duration : 24 ms (0.72 video frame)

@@ -1,0 +1,53 @@
+Description
+
+Electroacoustics Toolbox is a modularized, multi-channel dynamic signal analyzer and data acquisition platform for Mac. It brings powerful new tools to the Macintosh platform for multi-channel, audio-band data acquisition and real-time analysis of electrical, acoustical, and electroacoustic signals and systems. It enables precise measurements of acoustic quantities, such as equivalent and time-weighted sound levels, as well as acoustic and electroacoustic systems, such as listening rooms and loudspeakers. The software is designed to work with any Mac-compatible audio hardware and supports multiple channels of 8, 16, 24, or 32-bit data with sample rates as high as the hardware will support.
+
+Measurements:
+- Frequency response magnitude and phase
+- Impulse response
+- Auto and cross correlation
+- Time delay (latency)
+- Group delay
+- Signal-to-noise ratio (SNR)
+- Total harmonic distortion (THD, THD+N)
+- Coherence
+- Crest factor and rms, peak, and peak-to-peak signal levels
+- Signal mean, variance, and standard deviation values
+- Flat, A, and C-weighted equivalent (Leq), time-weighted (Lp), and percentile-exceeded (Lx) sound levels
+- And more!
+
+Built-in Tools:
+- Dual FFT Analyzer (TF/IR analyzer)
+- FFT Analyzer
+- Meter Bridge
+- Octave Analyzer (RTA)
+- Oscilloscope
+- Signal Generator
+- Sound Level Meter
+- Spectrogram
+- X/Y Plotter
+
+Electroacoustics Toolbox is a project-based application, which allows you to configure and save project files. Projects may contain one or more tools available in the toolbox, along with any captured data associated with those tools. Electroacoustics Toolbox allows for the creation of an arbitrary number of tools of a certain type, or tools of different types. For example, a project may contain an oscilloscope, two FFT analyzers, and two signal generators. The oscilloscope and FFT analyzers may each simultaneously analyze multiple input channels of a single device. However, there is no requirement that all tools must work with the same device.
+The Toolbox also offers advanced capabilities for configuring input and output device parameters and assigning labels, units, and transducer sensitivities to individual input and output channels.
+
+Electroacoustics Toolbox Features
+- Hardware-accelerated OpenGL graphics for fast real-time plotting
+- Quartz-based graphics for high-resolution still images and prints
+- Advanced control over input and output devices
+- Whole device and individual channel sensitivity (level) calibration
+- Support for units, including Volts, Amps, pascals, and Engineering Units
+- Saving complete configurations and data in project files
+- Exporting data to ascii text or MAT-files for easy import into other applications
+- Work with multiple independent audio devices simultaneously
+- No arbitrary limits on how many devices or channels are used, or on sample rates or signal formats--these are limited only by your hardware
+- Applescript support for measurement automation and remote control
+
+Manual
+1. Unzip and move .app to Applications folder
+2. Enjoy!!!
+
+A Team ReApp Release
+- AJhacks
+- Reagan07
+
+Follow Us On Twitter:

@@ -1,0 +1,22 @@
+User Type,Username,Date,Text
+,artfuldod,2011-04-01T02:45Z,"So I'm pretty sure that after running this ""windows failed to start. a recent hardware or software change might be the cause.  to fix the problem: "" etc....i want to say that this ruined my harddrive...but i suppose i'm not sure...is there anyone out there smarter than i who could help me undo this great evil?"
+,hbk4754,2011-04-24T04:26Z,"@artfuldod - 
+
+The screen you are seeing just means that the windows system files are corrupted. This either means that a: windows didn't install correctly, or b: there is something wrong with the install files.
+
+Try installing windows again with the same files/disc you used the first time. If it boots, problem solved 
+
+If that doesn't work, that means that there is something wrong with the setup files and you need to find a different source to obtain windows. Use these new, different files/discs to install windows and it should work fine.
+
+If that still doesn't work, then yes, you unfortunately have a glitch on the HDD, the Bios, or in anywhere of 150 different places. 
+
+For the final attempt, google your computer's model and try to find the instructions on how to reset your bios to default. after doing that, install windows again..... Still not working..... then I'm afraid that you've got a hard drive glitch......
+
+Hope this helps...."
+,mzieg,2012-01-04T20:27Z,"Has anyone verified this?  The proper SHA1 would be 25AD9A776503E6A583BEC07879DBCC5DFD20CD6E, per MSDN."
+,mzieg,2012-01-05T13:59Z,"I confirm the error received by artfuldod, and further confirm that this ISO does NOT have the SHA1 digest listed by MSDN:
+
+$ openssl sha1 *.iso
+SHA1(en_windows_vista_with_sp2_x86_dvd_342266.iso)= b03e37c0396dd20bda263411947748a9666ec0e5
+
+I recommend deleting this torrent, as it seems useless."

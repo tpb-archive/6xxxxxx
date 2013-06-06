@@ -1,0 +1,80 @@
+User Type,Username,Date,Text
+,OmniusPrime,2011-04-04T20:44Z,Doesn't seem to want to work on my system. I installed my apps partition and followed the instructions as best I could with and without the automated cracking) and it still comes up and says trial version. At least it doesn't _seem_ to be a virus ...
+[V],ChattChitto,2011-04-04T20:56Z,"You must run the release as Administrator.
+and don't forget to click on Reg!"
+,OmniusPrime,2011-04-04T21:46Z,"Ran downloaded exe as admin (great leap of faith there). Clicked setup, installed to apps partition. Did not let it run. Clicked on automated crack 2, selected install dir; said ""jobe"" done. Clicked on Reg, got one ""are you sure"" box and one ""changed"" box. Ran software, got ""trial version"" box."
+,jersson,2011-04-04T23:13Z,"This one worked without no problem, great job, thanks"
+[V],ChattChitto,2011-04-04T23:25Z,"Well yes it's working Perfectly as always..
+Proof: http://www.chattchitto.net/host/?di=11130195223414
+
+you must be doing something wrong @OmniusPrime Please try replacing the crack manually."
+,OmniusPrime,2011-04-05T00:00Z,"Last try: Uninstalled previous installation to start from scratch. Ran downloaded .exe in admin mode. Clicked the ""setup"" area, let it install to the apps partition (e:\MyVideoConverter), let the program run, shut it down. Clicked the ""crack"" area, specified the folder to extract into, verified the replace. Closed that window, clicked the ""reg"" area. Got the ""are you sure"" box, clicked OK, got the ""change made"" box, closed it. Verified through RegEdit that key specified in the .reg file is now in the registry. Ran the program, got the trial box.
+Not going to bother trying to install to C: since that's not where I want it."
+,aerotoystore,2011-04-07T05:45Z,"@ChattChitto Thanks for the upload. Like @OmniusPrime I too am experiencing the Trial/Register screen upon opening the program. I have tried all three methods of doing the crack. However, I checked the registry and there are no values set. I have the following:
+(Default) REG_SZ (value not set)
+VendorID REG_SE
+
+Any help would be appreciated. BTW, I did run the installed as admin since I am on Win 7 Ultimate SP1.
+
+Thanks again!"
+,aerotoystore,2011-04-07T06:00Z,"@ChattChitto Okay, I located this in my registry, right where your loader puts it, and I still get the Trail Screen.
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\makconra]
+""name""=""ChattChittoRG""
+
+Any ideas?"
+,aerotoystore,2011-04-07T06:10Z,"Strange, seems my last two post have disappeared? At least I can't see them, but the comment count says 8, and I only see 6. Weird. Anyway, @ChattChitto thanks for the upload. Unfortunately for me I cannot get it to work either. I have tried several methods, and ran as admin. Neither work. I am not saying it does not work at all, just must be something on my end and @OmniusPrime No big deal, but any suggestions would be appreciated. Thanks again for the upload!"
+[V],ChattChitto,2011-04-07T06:12Z,"Very weird!
+It just need crack replacement, and then enter the reg key!"
+,theoriginalphantom,2011-04-07T11:55Z,"Cant get it to work either. Tried all ways could think of. Never mind though. Thanks for the up CC, and have to say its the first time I have ever had a problem with anything you have upped. So on that score I cannot nor will not complain."
+,aerotoystore,2011-04-09T05:32Z,"I was thinking of installing using Windows XP Compatibility. Since I am running Win 7 Ultimate SP1, perhaps this has something to do with it. Either way, I too applaud ChattChitto's contributions here and elsewhere. I have downloaded MANY of his works and like phantom, this is the first I have not gotten one of CC's uploads to work. Certainly nothing to complain about when you see all he has provided for us. I'll give the Compatibility install a shot and post the results back here. Thanks again!"
+,PBPrivateerFU,2011-04-09T14:58Z,Works great using XP SP1!!!  You guys having probs neeb to try install in XP mode. Thanks again ChattChitto - quality shit as always!
+,frsanc,2011-04-26T07:00Z,"I am completely a NOOB. However, I run everything according to the directions and when I open the .exe, the file it opens without requesting that I register (the trial version window).  When I run a conversion, however, it still plays with the watermark.  Does anyone have any advice?"
+,jhagg,2011-04-30T06:26Z,Like everyone else here I am not able to get past the trial screen.  Any help is appreciated.
+,D0MiNiC,2011-05-12T22:36Z,Good at patching and working with crack for so many years... The crack doesnt works. Cracked it and regged it but it doesnt work still trial version. 
+,No0bzZ,2011-05-14T16:14Z,The registry is not working.
+,No0bzZ,2011-05-14T16:18Z,Could you upload a proper crack? Just askin
+,10cefiro,2011-05-17T14:30Z,"Tried and didn't work for me on Windows Vista Home and XP with different PCs... same watermark problem. I think the ""MyVideoConverterReg.reg"" add information to the registry doesn't work. I think CC must have tried installing with different PCs himself by now, and hope a revised up would come out soon. CC, great thanks as always! "
+,DPalmz,2011-05-27T20:14Z,"yeah man, your crack doesn't work.  Still asks for a registration number.  This is on WinXP SP3"
+,TheEnlightened,2011-05-28T09:00Z,"I was gonna say thank you for this but then I read this after I clicked View Info: 
+
+As Always: If you like the software BUY IT!
+              Thank You And ENJOY!!
+
+WTF? No thanks, none of these so called cracks worked! So people, don't download this old ass piece of shit software. Save yourself the time & look for another program somewhere else. "
+,sandro_69,2011-06-13T07:02Z,I also cannot get the crack to work. What is the registration code?
+,Doriro,2011-07-13T22:28Z,"I FOUND THE SOLUTION.
+
+Had the same problem. Even after the crack was used the program still covered my file with ""MyVideoConverter Unregistered"". couldn't find anything on the web so had to solve it myself. 
+
+THERE IT GOES:
+
+1. Open ""MyVideoConverter"".The program needs to run while you change some things. No need to use the crack.
+
+2. Open the program folder (C\ProgramFiles....)
+3. Open ""Styles"" folder.
+
+4. There would be a file named something like 1123547994. The file is a .png file. Every time you'll open the program it will change it's name, so you must repeat the whole process. This picture is the image the program pastes on top of your video.
+
+5. Go to Google :)
+
+6. Search for a Transparent image.
+
+7. Save a Transperent image on your computer. Make sure it weights more then 100 bytes. It must by at least 50X50 pixels size.
+
+8. Change it's name, the same as the 11258672.png file you found earlier on ""Styles"". 
+
+9. Save the picture as .png
+
+10. Replace the 2 images.
+
+11. Convert freely. 
+
+As long as you won't close the program, you can convert as much as you want. When you'll do it again, repeat the process. If anything doesn't work - replace the image you found onlne with another one. MUCT BE TRANSPARENT, so it won't be visible.
+
+GOOD LUCK.
+
+
+I created this account so I could help you guys, it took me quite a while to figure it out..... Wanted to kill myself. Have fun, Doriro :)"
+,Modibo,2011-08-08T20:41Z,"Your idea works great, Thanks Doriro"
+,nightwraith3,2011-09-20T07:11Z,dont bother with this the cracks useless

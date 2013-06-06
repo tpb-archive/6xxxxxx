@@ -1,0 +1,63 @@
+fresh new release of DVDFab 8.0.8.2 Final from today... 
+
+Changes in v8.0.8.2:
+
+New: Updated language files.
+New: Some minor changes and improvements.
+
+DVD Copy:
+New: Added warning when opening Cinavia protected DVD discs.
+New: PathPlayer will be disabled automatically when it has problem with certain old discs.
+Fix: A freeze problem when opening "127 Hours" with PathPlayer enabled.
+
+DVD Ripper:
+Fix: A jumpy playback problem for iPod/iPhone/iPad conversion when CUDA encoder is used.
+
+Blu-ray Copy:
+New: Added support for AACS MKB v23.
+New: Added option "Create .miniso file in output folder to be mounted by DVDFab Virtual Drive".
+New: It's possible to create .miniso file when copying Blu-ray disc, or from existing Blu-ray folder.
+New: Improved copying speed up to 200% for certain discs with many small m2ts files.
+Fix: A freeze problem when copying certain discs, like "The Vampire Diaries".
+Fix: A very long scan time problem for certain discs.
+
+Blu-ray Ripper:
+New: Added "to M2TS" and "to TS" in navigation bar.
+New: Added several new profiles (H.264 and AC3) for M2TS/TS output.
+New: Added subpicuture "Remux into file" option for M2TS/TS output.
+Fix: A wrong audio channel problem when converting to MKV file with AC3 audio stream.
+Fix: A jumpy playback problem for iPod/iPhone/iPad conversion when CUDA encoder is used.
+
+Blu-ray 3D Ripper:
+New: Added "Output two seperated files" option.
+New: Added "to M2TS" and "to TS" in navigation bar.
+New: Added several new profiles (H.264 and AC3) for M2TS/TS output.
+New: Added subpicuture "Remux into file" option for M2TS/TS output.
+Fix: A crash problem for "Output two seperated files" when using CUDA encoder.
+Fix: A freeze problem when converting certain 3D discs, like "Dolphins and Whales 3D".
+
+Blu-ray to DVD Converter:
+Fix: A problem that the DVD subtitle is hard to read in certain cases.
+
+Video Converter:
+New: Improved demuxer a lot, many problem files can be opened now.
+New: Original source resolution will be used as default output resolution if it's allowed, to avoid resizing.
+New: Audio encoding bitrate will be saved to default profile now.
+Fix: "Deinterlacing" detection doesn't work.
+Fix: "Deinterlacing" doesn't work when user enabled it manually.
+Fix: MP4 title tag can contain non-English character now.
+Fix: A jumpy playback problem for iPod/iPhone/iPad conversion when CUDA encoder is used.
+
+
+Homepage - http://www.dvdfab.com
+
+
+seed as long as you can with me,please !
+asap !
+Ty for understanding
+
+kind regards
+
+
+
+

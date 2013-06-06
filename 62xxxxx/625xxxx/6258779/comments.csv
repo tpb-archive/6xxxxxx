@@ -1,0 +1,64 @@
+User Type,Username,Date,Text
+,Abdallah9,2011-03-21T06:22Z,"Long life to ""VaticanCity"""
+,adp784613,2011-03-21T10:32Z,"-Thanks! :))))))
+-Request:Justflight Wildcat & Martlet!!!"
+,giuli67,2011-03-21T11:36Z,"THANk YOU!
+please seed ""Canberra"" series from Flying Stations"
+,giuli67,2011-03-21T11:37Z,"THANK YOU!
+Please seed the ""Canberra"" series from Flying Stations"
+,tbonebhs,2011-03-21T14:43Z,"thanks!!! works well!!
+request realair turbine duke"
+,N109GE,2011-03-21T15:28Z,"Is anyone missing textures.  I am missing the right wing for the white, the red, and gold. The blue and the KLM are ok....Just asking.  THANK you for this torrent.  :)"
+,fsxvzla,2011-03-21T19:26Z,All textures works fine to me. THANKS !!
+,jimbob43,2011-03-22T02:07Z,"Great Job VC!!!
+The other one was an abortion.."
+,noneofyourbusiness1981,2011-03-22T02:08Z,"All works fine
+
+Thanks alot"
+,N109GE,2011-03-22T12:46Z,I tried several downloads and I am still missing JUST the right wing...  Any suggestions..  :(
+,aarque,2011-03-22T15:16Z,"Haha, I was just about to rip on you for stepping on Mickey then I see he flubbed. 
+
+Anyway, this is the version from ""wickedfriends"" whoever they are (they were quoted where I downloaded the B58, same issues, different site and before it was even posted at TPB). I can't help but suspect this was intentionally stripped of one of it's texture flies. What is fascinating is that there are no files missing, the KLM and the Gold/Green texture folders each contain 36 files which means the individual bitmaps must have been edited.
+
+The obvious solution is to Photoshop a mirror of the left wing and use that for the right wing texture."
+,noneofyourbusiness1981,2011-03-22T15:31Z,"there is horrible jumping effect which takes place when you change views. I have done a modification to the aircraft.cfg to fix this:   Under [Contact_Points] in the aircraft.cfg you will see static height and static pitch. replace those two lines with the following and save it.
+
+static_pitch = 3.66
+static_cg_height = 2.62
+
+that should fix any jumping when switching views ;)"
+,aarque,2011-03-22T16:04Z,"ok, I have also devised a solution for the missing textures. Open the model.cfg located within the Carendo B58 installation using notepad. Copy/paste the following text, save and exit. Re-load FSX and all textures are present.
+
+""[models]
+normal=1PB58
+interior=1PB58_Interior""
+
+I think this plane was intentionally booby trapped and the Carendo kids must be marveling at our ingenuity *smiles for the camera* :)"
+,N109GE,2011-03-22T18:55Z,"Aarque,
+
+THANK YOU, you advice worked...I owe you one."
+,VaticanCity,2011-03-22T20:14Z,Thanks for the fix Aargue. ;+)
+,VaticanCity,2011-03-22T20:53Z,Actually in all Honesty I didn't see the problem you guys had I tried to fix the other torrent and was using the texture file from the Carenado 340ii and than installed over that with this torrent and all textures are fine for me.So you can use the texture file from it and than overwrite with this installer and all should be fine.
+,roume1,2011-03-23T02:11Z,Thanks s works great... REQ: LatinVFR Montego Bay Airport....
+,aarque,2011-03-23T11:13Z,"well see the problem is the .mdl file. All the texture files are present and intact, I confirmed this using FSRepaint, DXTBmp and Photoshop, just to make sure. It is as if they did not ""paint"" the wing onto this (2PB58) model and there is no known way to decompile a .mdl file to fix it. If you make other textures work that is fine but counter-intuitive because it would mean those textures had been assigned to the model instead.
+ They are crappy, but I have compiled FSX models..."
+,N109GE,2011-03-23T13:56Z,"Aarque, Can the Baron be repainted in FSRepaint..?"
+,mickyfinny,2011-03-23T18:52Z,"Yes u can use FSRepaint+Photoshop,on any of these aircraft,cos ive just done it.And what a great job ive done lol:+)"
+,N109GE,2011-03-23T20:03Z,Mickyfinny...Thanks..
+,N109GE,2011-03-24T14:13Z,Looking for FSRepaint for this Baron
+,aarque,2011-03-26T04:04Z,"mickyfinny is straight up lying, the airplane .mdl with missing textures CAN NOT be repainted. All textures are already present, but the right wing is not mapped to the model file. I don't care how many times or what programs you use to paint whatever colors you please, they will NEVER show on that particular model.
+
+ I posted the only practical solution above which is to use a different model which accepts the mapped textures."
+,mickyfinny,2011-03-26T11:25Z,"@Aarque ive repainted this particular  model Baron58 ""GoldGreen""model using FSRepaint for viewing,Dxtbmp for sending to photoshop,and for saving in Extended 32bit 888-8.And so unless i have missed something about what u said. i am not a liar."
+,aarque,2011-03-27T20:02Z,"Ok mickey my bad, but the only way you could have repainted it is with an intact model file. The one used in this installer is unable to accept textures with the format we use. FSRepaint presents tiles or plates (the .bmps or .dds' or whatever) that are mapped to the model. If the tiles already have textures which aren't blank but aren't showing in FSR or FSX, the is no way to use that model without going deeper using FSDS or MDL Tweaker or Model Converter X or something. Closest I've come to that is to be able to modify the specularity or remove LOD's or something."
+,N109GE,2011-03-28T14:46Z,"Ok so I am correct, I tried to repaint using FSRepaint and no luck.  I thought I was doing something wrong.  So how do you repaint this aircraft..?"
+,N109GE,2011-03-28T15:42Z,"Can anyone crack, SibWings releases Cessna O-1/L-19 Bird Dog..?"
+,Katin85,2011-03-29T19:28Z,"Is it working fine? Have the texture folder, with blank textures?"
+,Zimpilot,2011-03-29T23:40Z,"Great torrent, thanks Vatican City! I'm having texture failures though despite Aarque's fix - the Barrons work perfectly but the cowlings, engines, nose and both wings are absent on all variants. The fuselage, tail, props, spinners, interiors, gaugest etc are fine though. Any ideas? Please help if you can!"
+,AnWa06,2011-04-01T03:37Z,Can anyone upload the most recent Bonanza V35B from Carenado? The one's that are on here are all the initial release and they have numerous problems. 
+,fsuser,2011-04-01T13:30Z,request baron service pack out 3/31/11
+,inanc6240,2011-04-02T19:05Z,Thank you good job
+,Marco321,2011-04-03T16:44Z,"Thank you! Thank you! Thank you!
+
+Can I ask for a request? "
+,JunkParts,2012-04-23T09:58Z,"I know I'm a little behind, but thanx for this I really like flying this airplane."

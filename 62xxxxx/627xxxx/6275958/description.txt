@@ -1,0 +1,273 @@
+Warcraft 2 Combat Edition
+-------------------------
+Idea and first versions by zzzKOTzzz,
+update and revision by il (versions 3.xx)
+
+0. Introduction
+---------------
+Warcraft 2 Combat Edition is modification of well-known game Warcraft II Battle.net Edition.
+A goal of modification is maximal decrease game size and allow to use it without compact disc, thus making the game accessible to most people.
+At the same time general game elemets were saved:
+- multiplayer game, especially on battle.net server of russian war2 community
+- single game vs computer players
+- game appearance and general sounds
+
+But some elements were removed from the game:
+- music
+- campaigns and some maps
+- map editor
+- sound editor
+- video staff
+- campaign speech
+- heroes voices
+- units annoy voice
+
+New in version 3.04:
+- some small fixes: gateways, interface, intro and banner pictures, AIE maps
+
+1. Installation
+---------------
+Just execute installation exe-file and follow installation wizard
+To do it you need not administrative privileges.
+You can select some components during installation process. Default is recommended, but you can select/deselect some components manually:
+- New AI for ground attack by zzzKOTzzz
+Improved ground attack. It becomes very difficult to win even 2 computer opponents with ground attack.
+Classic AI for ground attack will be unavailable if you select this.
+
+- Rewrite gateway list
+It will write official bnet and 2 war2.ru gateways to your system. It won\'t be removed if you decide to uninstall war2combat.
+It will remove any other gateways from your list if you install it.
+If you install war2 for the first time you needn\'t use this, gateways will be updated automatically during the first start.
+It\'s recommended to use it only if you haven\'t all gateways you need to play.
+
+- War2Ppatcher 5.0 and WPpatch14.88
+Utilities for tweaking war2 (Described below).
+I can\'t find why you needn\'t install them. These are very small utilities which can help you to do some tweaks with war2.
+These utilities applies only to executing process, not to exe-file, and you can just start war2 without them if you want.
+
+If you want to change some installation components you can just start installation process once more to the same folder. Uninstallation will remove all your installations.
+
+2. Starting
+-----------
+After you installing war2combat you have program group with some shortcuts and an icon on desktop (optionally).
+
+War2Combat link on desktop is actually a link to \"War2Launcher.bat\" or WPpatch.exe or War2noCDloader.exe - it\'s small loader to start it without CD.
+
+War2Combat loader starts war2 with all features listed in section \"WP patch 1.488\"
+Activated War2Combat starts war2 with all features listed in section \"Warcraft 2 Process patcher\" except \"First TH\"
+
+You can always check activated features (or deactivate them) starting \"Warcraft 2 Process patcher\"
+You can also select features for War2Ppatcher manually, editing \"War2Launcher.bat\" in your game directory (section \"Warcraft 2 Process patcher\")
+
+
+3. Uninstallation
+-----------------
+Uninstallation will remove any files created by installation but not any saved games or your maps and other files you put there later.
+Uninstallation also leave all registry keys untouched. All registry keys created by war2combat are in \"HCKU\\Software\\Battle.net\" and \"HCKU\\Software\\Blizzard Entertainment\".
+
+
+4. Additional features
+----------------------
+- After you install war2combat you can use it as portable - you can start it on any other computer from your flash drive, or from compact disc or even via neighbourhood.
+You need only to activate \"War2noCD.reg\" once on any new computer. To start war2 you just need to start War2noCDloader.exe, and no administrative privileges need to do it.
+
+- war2combat includes some maps:
+classic maps, and ladder maps: standard ladder map pack as well as ladder versions of some other maps (look at your maps\\ladder directory)
+you also can play Iron Man Ladder but it\'s random map selected only from standard ladder list.
+
+- You can play Iron Man Ladder games with rating 1100 or higher that could be useful for tournaments (section \"Warcraft 2 Process patcher\")
+You can also select any resources playing Iron Man.
+
+- This version is compatible with War2InSight, WarLatency, Warvideo and other tools.
+
+- You can play on official bnet servers using war2combat.
+You should start war2 via War2noCDloader.exe, not War2Ppatcher or WP patch.
+After starting war2 and before joining bnet you should start War2noCDunloader.exe.
+After joining bnet you can start any features by War2Ppatcher.
+Be sure you set correct CD-key. Default CD-key of war2combat is disabled of course.
+
+=================================================================
+AIE - AI Extended, version 3.03
+-------------------------------
+New AI by Rotonda makes the computer players better. AI can \"select\" different strategies for different maps.
+New AI can be used ONLY on maps from \"aie\" directory. AI would be standard on usual maps.
+
+Maps in Scenarios and Scenarios_Sea directories require game type \"Use Map Settings\" and default resources.
+All the maps have been tested, and you can win on all maps although it can be difficult.
+
+=================================================================
+Warcraft 2 Process patcher
+--------------------------
+This program allows you to use some useful features for warcraft 2, but it is not hack!
+To use it you can enable any features any time after you start your Warcaft II BNE
+
+You can enable or disable any features.
+You can use either graphic interface or command prompt.
+
+Today last version of program has 6 features:
+
+1. Warlatency.
+It do the same as the same well-known utility, but I hope it\'s more comfortable to use it.
+
+2. First TH
+Classic game returns!
+If you ever played war2 via null-modem or IPX you can remember that you could build any structures (barracks, farm etc) without first TH.
+This feature allows you to do it at battle.net.
+Building of first TH also takes more time, so you can build barrack or farm faster than your opponent builds TH.
+Attention! It\'s not hack!
+If hacker will try to play with this feature activated when others don\'t, synchronization will be lost and hacker will be dropped.
+All players must activate this feature to use it.
+
+3. Resource bug
+Warcraft II BNE has a bug:
+
+When hosting a game on High resources you must click through low and high again for it to work or it will stay on default. (Game glitch)
+
+
+This feature can fix this bug same as ZWarLat.
+Warning! this bug returns if you want to play Iron Man Ladder, but it can be fixed by next features.
+
+4. Even Faster speed for Ladder/Iron Man Ladder
+By default Ladder/Iron speed is fixed at faster.
+If you don\'t like faster you can use this feature to use even faster speed.
+You need not it if you want only to join ef ladder or iron game.
+
+5. Iron Man Ladder resources
+By default resources for Iron Man Ladder are low and you can\'t change it.
+This unlocks any type of resources for Iron Man ladder.
+If you use resource bug fix and don\'t use this feature resource bug is active for ironman. But if you activate this, resource bug for ironman becoming inactive.
+
+6. Iron Man Ladder threshold lowering
+By default you can play Iron Man games if your ladder rating not less than 1200. This feature allows you to play Iron Man Ladder if your rating not less than 1100.
+
+
+How to use it:
+If you just double-click at program\'s icon, a window will appear.
+However if you start this program from command prompt (or .bat file) using some parameters, some actions will be done automatically.
+
+You even can tell program to wait war2 being started (\"-w\"). Then program will be started, but no windows will appear, and it will be running until you start war2 or close program from task manager.
+
+You can use \"-h\" to see these parameters.
+Here they are:
+-a activate WarLatency
+-d deactivate WarLatency
+-b set first TH as War2 BNE
+-c set first TH as War2 Classic
+-f fix resource bug
+-u unfix resource bug
+-se set speed in iron/ladder to Even Faster
+-sf set speed in iron/ladder to Faster
+-ir unlock resources in iron
+-iR lock resources in iron
+-i1100 set ironman ladder threshold to 1100
+-i1200 set ironman ladder threshold to 1200
+-w wait until War2 is started
+-h see this usage screen
+
+As you see, any features can be activated by both methods - command prompt and graphics window.
+
+Warcraft II BNE.bat :
+I have icon for war2 on my desktop. It\'s shortcut to .bat-file listed below:
+------------------- startwar2.bat
+start war2ppatcher.exe -a -f -se -ir -i1100 -w
+\"Warcraft II BNE.exe\"
+------------------- end
+
+every time I start warcraft 2 I\'m sure to have:
+activated WarLatency, fixed resource bug, even faster ladder, all resources for iron.
+
+I hope, my utility will be useful for you.
+Let\'s try!
+
+=================================================================
+WP patch 1.488
+--------------
+for Warcraft II BNE 2.02
+
+Created by zzzKOTzzz and il
+
+Email:
+zzzkotzzz@list.ru
+
+Instruction:
+Copy file \"WPpatch.exe\" to your Warcraft II BNE directory.
+Run \"WPpatch.exe\". It will run Warcraft II BNE with WP patch features.
+
+Functions:
+- Loads game without CD*
+- Even Faster speed for Ladder in create game screen
+- Even Faster speed for Ironman Ladder in create game screen
+- Unlock resources for Ironman Ladder in create game screen
+- Fix bug with resources in create game screen
+- Allows you to build walls in Single Player
+
+* - Usage:
+1) Copy file \"install.exe\" to your Warcraft II BNE directory (from game CD)
+2) Go to registry HKEY_CURRENT_USER\\Software\\Blizzard Entertainment\\Warcraft II BNE
+3) Find (or create) value War2CD and change it to your Warcraft II BNE directory
+4) Go to registry HKEY_LOCAL_MACHINE\\Software\\Blizzard Entertainment\\Warcraft II BNE
+5) Find (or create) value War2CD and change it to your Warcraft II BNE directory
+6) Execute WP patch
+
+=================================================================
+War2Combat history
+------------------
+New in version 3.03:
+- improved sound quality, almost like full version
+- gateway list updated
+- new AI by Rotonda, full version compatible and maps for it
+- fixed bug with banner in game chat
+- a pair of maps added
+- small modifications: renamed files, shortcuts, small installation interface modification
+
+New in version 3.01/3.02:
+- War2Ppatcher updated to 5.1 - Iron Man Ladder threshold lowered to 0
+- no more than 1 shortcut created on desktop
+- no privileges required to install
+- shortcut created on current user desktop, not all users
+- war2combat title changed
+- ladder list updated
+
+New in version 3.00:
+- Iron Man Ladder bug fixed
+- Installer size compressed to 11 Mb
+- New installer, making installation process more flexible
+- Some useful tools included
+
+=================================================================
+Warcrat II BNE 2.02 patch
+-------------------------
+CHANGES IN VERSION 2.02
+-------------------------------------------------------------------
+Improvements
+
+- Eye of Kilrogg can now patrol.
+- Fixed some Battle.net issues.
+- Added support for Battle.net gateways.
+- [PC Only]. The registry key HKEY_CURRENT_USER is used rather than
+HKEY_LOCAL_MACHINE.
+- Battle.net Create Game Chatroom now lists resources and starting
+location along with map size and game speed.
+
+Major bug fixes
+
+- Fixed a hack which would allow you to perform upgrades repeatedly,
+bringing your units to normally unattainable levels.
+
+Minor bug fixes
+
+
+- Fixed a bug where sappers would sometimes walk up to the wall,
+but not detonate.
+- Fixed a bug which caused the menu screens to become unresponsive
+to clicks if the computer had been left on for 24 days or more.
+- If a player is #1 on both Ironman and Regular ladder, it now shows
+Ironman stats, not the Regular stats.
+- Map-passing now sets the mapâ€™s creator code to W2Be (a Map
+Editor file) instead of W2BN (a War2BNE file).
+- Clicking on the portrait of an invisible unit not your own no
+longer centers the map on that unit.
+- Previously, if somebody else had allied with you, you could not
+cast death coil on them even if you were not allied with them.
+- [Mac only]. The application resource version no longer states
+beta, and copyright notices corrected.

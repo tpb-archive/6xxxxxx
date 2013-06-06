@@ -1,0 +1,48 @@
+User Type,Username,Date,Text
+,elessarGObonzo,2011-03-05T17:18Z,dont notice any difference using this VS the high quality setup already uploaded on here. do get better sound using the 32bit over the messed up 64bit it came with.
+,muratce020181,2011-03-05T20:43Z,everething is just fine every level loading just fine
+,Trigguh,2011-03-05T21:48Z,"@elessarGObonzo
+
+Well look in the cfg file for yourself, and you will see what has changed. Better yet, load up a few levels (outside environment, inside) and take before and after screenshots. you will notice where the differences are. Most noticable differences are (decals don't dissapear, decals can overlap, shadows, lightning, view distance)"
+,C-Element,2011-03-07T15:47Z,"I think I must have made a mistake whe installing this, now I get just a blank screen when I load the game,  I will take another look at what I did and get back later after work to see if I can receive any help.  thanks all"
+,nefric,2011-03-08T16:55Z,"@Trigguh
+
+Hello, could You tell me how to make those precompiled shaders work with medium spec configuration (advanced)? I have 8800GT 512MB graphic card, and on yours veryhighspec.cfg i have around max 30fps in 1440x900 - while at ""advanced"" it gives me ~40-50fps. I would like to have possibility to play without stuttering/frequent hdd seek - but in ""advanced"" spec with my monitor's native resolution 1440x900 (with all other optimizations included in your config turned on). Could You tell me how to do this, or upload config pack with ""advanced"" configuration included? Is this possible with these precomiled shaders pack to run them in ""advanced"" spec? thanks"
+,Trigguh,2011-03-09T02:15Z,"@nefric
+
+look in the veryhighspec.cfg and remove
+
+r_width=1680
+r_height=1050
+
+The above two will always force that resolution when you launch the game.
+
+e_LodRatio
+e_LodMin
+e_LodMax
+e_ViewDistMin"
+,Trigguh,2011-03-09T02:20Z,"@nefric
+
+For advanced spec just change all the
+//Force Very High Spec//
+settings to advanced...
+Set all ""sys_"" values to 2
+Set q_objquality to 2.
+Set all ""q_"" values to 1.
+
+This will give you the same settings as advanced. However I would play around with the ""q_"" values and set some to 2. Same with the ""sys_"" values.
+Good luck."
+,nefric,2011-03-09T03:03Z,"@Trigguh
+
+I tried to edit these parameters earlier. It's useless. Even if all of sys_ and q_ are set on 2, with 1440x900 forced - the game gets max 3-5 fps more. I also turned off vsync, reduced anisotropy to 4 - nothing helped - the game still runs much slower than on default game's config (not tweaked) in settings set to ""advanced"". I would only like to know, how to disable stuttering and frequent hdd seek on default config. So I would be pleased if You could tell me witch commands are responsible for disabling that stuttering (or what should I do to link these precomiled shaders with default config). It's really a huge difference in performance between this tweaked and my old config (improved by few commands). thanks and greetings"
+,nefric,2011-03-09T03:22Z,"BTW, this config really did a good job - many problems are solved; with this config and command log_includetime set to 0 the game runs very smooth on my friend's GTX 260 for example - but for my good old GF8800GT - hardcore settings are a bit too much.. ;)"
+,Trigguh,2011-03-09T03:29Z,"run the test chain loading file on advanced settings. make sure you delete your shaders dir first. let it run all the levels. after its done, it should have most of the shaders precompiled."
+,Trigguh,2011-03-09T03:53Z,"btw. to those interested... I uploaded a v3 of this addon pack. enjoy.
+
+http://thepiratebay.org/torrent/6229250"
+,nefric,2011-03-09T20:19Z,"@Trigguh
+
+Thank You very much - it helped a lot :) now all shaders are precompiled, and all works fine on ""advanced"" settings without any lags."
+,lkmn,2011-03-22T10:02Z,"how to use the cfg files
+please help me i  could not understand how to use them   
+i would be thankfull if you help me"

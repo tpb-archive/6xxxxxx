@@ -1,0 +1,15 @@
+1- Disable your Internet connection.
+
+2- Install \\\\\\\\\\\\\\\"MicrosoftFixit50053.msi\\\\\\\\\\\\\\\" 
+
+3- Install \\\\\\\\\\\\\\\"ZoneAlarm Extreme Security\\\\\\\\\\\\\\\" and restart your PC.
+
+4- Enter the serial number then, restart your PC in the safe mode ( F8 while booting ).
+
+5- Search your system drive for a file called \\\\\\\\\\\\\\\"zllictbl\\\\\\\\\\\\\\\" but to find it you must search in the hidden files like this : 
+press the search icon -> All files and folders -> More advanced options ( then check \\\\\\\\\\\\\\\"Search hidden files and folders\\\\\\\\\\\\\\\" -> press \\\\\\\\\\\\\\\"Search\\\\\\\\\\\\\\\"
+
+6- after you\\\\\\\\\\\\\\\'ve found it ( right click the file -> properties ) uncheck \\\\\\\\\\\\\\\"hidden\\\\\\\\\\\\\\\" box, & in the \\\\\\\\\\\\\\\"security\\\\\\\\\\\\\\\" tab Check \\\\\\\\\\\\\\\"deny\\\\\\\\\\\\\\\" box towards \\\\\\\\\\\\\\\"write\\\\\\\\\\\\\\\" permission for every user name appears in properties window ( see \\\\\\\\\\\\\\\"figure 1\\\\\\\\\\\\\\\" ), then, apply -> ok.
+
+7- restart your PC & connect to the Internet and update \\\\\\\\\\\\\\\"ZoneAlarm Extreme Security\\\\\\\\\\\\\\\",
+Enjoy...

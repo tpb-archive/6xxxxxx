@@ -1,0 +1,612 @@
+User Type,Username,Date,Text
+[T],consolasatope,2011-03-03T21:36Z,"This is the code of the path used:
+
+5584 - Pokemon White Version [EDCD5161]
+00004600: B0 68 8A 00 79 AA 19 72 13 9A B6 9F E1 CC 8B 10 â†’ 3C 00 9F E5 00 10 90 E5 38 20 9F E5 02 00 51 E1
+00004610: 6F 5B 4F A0 96 42 86 94 76 C3 26 C3 A8 DE 0F A0 â†’ 34 10 9F 05 08 10 80 05 48 11 80 05 2C 10 9F 05
+00004620: 67 61 FE DF 5A F9 45 41 DA 64 3C B1 23 5C 8A F6 â†’ A8 10 80 05 E8 11 80 05 24 00 9F E5 00 10 90 E5
+00004630: A4 4F EC 86 C5 A7 9C B9 41 BB E4 30 F4 FF 67 5D â†’ 20 20 9F E5 02 00 51 E1 01 10 A0 03 0A 10 C0 05
+00004640: 26 8E B1 79 8B 29 02 64 C9 D7 AA 3E 9A A4 83 EA â†’ 1E FF 2F E1 84 7F 18 02 4F 03 5F E1 37 B3 AA 36
+00004650: 70 FB D7 39 32 C6 6D 3A D2 6F 6F 7B â†’ 6A E0 AA 36 00 0A 18 02 1F FF AA 28
+00004EA4: 1E FF 2F E1 â†’ D5 FD FF EA
+
+5585 - Pokemon Black Version [E2BEE619]
+00004660: F5 68 9A FF 29 F8 80 02 A2 27 3C 92 20 AF 36 65 â†’ 3C 00 9F E5 00 10 90 E5 38 20 9F E5 02 00 51 E1
+00004670: AF 69 DE CF FC AA F4 9D 5F 9D D4 BA 8D 22 5A C7 â†’ 34 10 9F 05 08 10 80 05 48 11 80 05 2C 10 9F 05
+00004680: F1 23 08 E2 A1 2D CA BE 4F EE D2 8F D6 A8 9D 2B â†’ A8 10 80 05 E8 11 80 05 24 00 9F E5 00 10 90 E5
+00004690: E2 74 11 7C 14 DF 70 47 63 B0 73 DF E3 2C D1 FC â†’ 20 20 9F E5 02 00 51 E1 01 10 A0 03 0A 10 C0 05
+000046A0: C5 AE DD A7 7E DD 26 E7 18 1F EB A9 27 57 BF C2 â†’ 1E FF 2F E1 64 7F 18 02 4F 03 5F E1 37 B3 AA 36
+000046B0: 58 00 27 4B 63 98 C0 96 73 4E EE E4 â†’ 6A E0 AA 36 E0 09 18 02 1F FF AA 28
+00004EA4: 1E FF 2F E1 â†’ ED FD FF EA"
+[T],consolasatope,2011-03-03T21:37Z,"!!!PokÃ©mon Black Version (E)
+!!IRBO 106820A5
+
+::Load ROM and fix saving in No$GBA
+:::Code By M@T
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 021809E0
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+
+!!!PokÃ©mon White Version (E)
+!!IRAO 0F0875FE
+
+::Load ROM and fix saving in No$GBA
+:::Code By M@T
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 02180A00
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000"
+,noblers,2011-03-03T21:47Z,dose it work on r4 card?
+[T],consolasatope,2011-03-03T22:20Z,"Try it.
+
+Read this for more info
+http://gbatemp.net/t255676-pokemon-black-or-white-doesn-t-work-on-my-flashcart-emulator-yet-a"
+[T],consolasatope,2011-03-03T22:38Z,"Heare you can see a proof of the patch that fix the EXP problem :)
+
+http://bayimg.com/caeNjaaDD"
+,Lord_Baby,2011-03-03T23:01Z,"This is the real European English version. Works fine on my R4. EXP works too.
+Thanks!"
+,TPB_helper,2011-03-04T04:19Z,Pokemon White is working fine on M3i Zero
+,CaptainMorgenstern,2011-03-04T04:52Z,This isn't working on DSTT flashcard or no$gba emulator.
+,hunter212yy,2011-03-04T07:42Z,"Fully working on Wood R4, at first I had a problem with saving coz menu ain't on START anymore, it's on X I think."
+,segadomcast,2011-03-04T07:49Z,Anyone know if trading and battling with an american version will be possible?
+,segadomcast,2011-03-04T07:57Z,Any idea if local trading/battling will work with other regions?  Specifically US.
+,CaptainMorgenstern,2011-03-04T16:20Z,Can confirm now that this works with Wood TTDS.
+,noblers,2011-03-04T16:38Z,"dont work on r4 card :( just get a white screen, any ideas on wat to do guys? thanks"
+,CaptainMorgenstern,2011-03-04T17:44Z,"You should probably try Wood R4, reported working on it."
+,steafan,2011-03-04T18:09Z,doesn't work on ez-flash vi
+,ntfcAndy,2011-03-04T19:00Z,works on my m3i zero with sakura latest firmware
+,cclloyd,2011-03-04T21:13Z,"Is the WHOLE game english patched as if it was Europe/US version?
+
+Also is there a way I could transfer my save to a US version (NO$GBA) after it comes out?"
+,CaptainMorgenstern,2011-03-04T22:27Z,"To clarify, this IS the US version, the patch is to make it work on flashcards and emulators."
+,extreme300,2011-03-04T22:49Z,"Works perfect on M3DS Real
+Thank you very much!! :D"
+,Tarson,2011-03-05T02:29Z,"Pardon my newbnessity...
+
+But could someone be so kind as to post an idiots guide to getting this file to play on an Emulator?  To be honest, I wasnt even aware there was a DS Emulator until..  *checks his watch*..  five minutes ago.
+
+Needless to say I am a bit lost."
+,slaindz,2011-03-05T02:45Z,Works great!
+,Tarson,2011-03-05T03:11Z,Every time I try to open it with No$GBA DS it tells me that the file name is invalid and won't even attempt to start the game.
+,CaptainMorgenstern,2011-03-05T05:41Z,"If you want to play it on an emulator, you will need to use desmume, if you dont really know what you are doing. It plays the patched ROM with no problems."
+,kuugakun,2011-03-05T06:04Z,"Working on R4-SDHC v1.33b play it with wood :D, Thanks!!! I've been playing thru the 4th gym, no probs so far."
+,kuugakun,2011-03-05T06:04Z,R4i-SDHC*
+,misery89,2011-03-05T09:50Z,No$gba Fix http://thepiratebay.org/torrent/6220758
+,thebigwn1122,2011-03-05T11:05Z,where do i put the patch for the no exp thing....plz help
+,hmtester,2011-03-05T15:43Z,"Doesn't work on R4i-SDHC v1.4.1 with firmware v1.33b.  kuugakun, how do you use the Wood on this card?  Where do you download the wood menu/firmware for use on the card?"
+,hmtester,2011-03-05T15:52Z,"It doesn't work on R4i SDHC with firmware v1.33b.  Got an error code -5 when it tried to load.  kuugakun, what version of wood are you running and where did you get it to run on the R4i SDHC card?"
+,sexy13beast,2011-03-05T20:32Z,I can't even get this to unrar... The filename is too big among other errors...
+,sexy13beast,2011-03-05T20:33Z,"Sorry, ignore my last post, I figured it out... V_V THANK YOU FOR POSTING THIS!!!!"
+,kidmantar,2011-03-06T03:10Z,"@ CaptainMorgenstern , Wood TTDS? I didn't know that existed. Hopefully you or anyone who knows about it can provide some insight on how to get it."
+,NickNaicker,2011-03-06T03:20Z,Why does it freeze when you reach route 6. Please help. I am rather annoyed about it. It freezes everytime you start the game. 
+,NickNaicker,2011-03-06T03:21Z,Why does it freeze when you reach route 6? Please help. I am rather annoyed about it. It freezes everytime you start the game. 
+,NickNaicker,2011-03-06T07:03Z,Can someone help? It keeps freezing everytime i try to start the game since iv reached route 6.
+,KMYash,2011-03-06T15:01Z,Hey I keep getting frozen when I try interacting with Reshiram. Any ideas why? Or fixes? Thanks
+,hugorochahgp,2011-03-06T21:33Z,Works great! Thanks a lot!! :D
+,bobj74,2011-03-06T22:08Z,"Anyone have trouble getting cheats to work?  Im on M3DS Real, game works fine, but when I try to select the cheats the whole machine freezes.  Does not do this on any other game.  Is it my DS or is the the game/cheat file?"
+,chihsmos,2011-03-07T02:48Z,"How do I get it unrar?
+Please help!"
+,chihsmos,2011-03-07T02:50Z,How do i get it Unrar?
+,chihsmos,2011-03-07T02:50Z,"How do I get it Unrar?
+Please help!"
+,toastking13,2011-03-07T09:55Z,I have a saved file and I'm using Desmume how do I load my saved game file? 
+,folmeron,2011-03-07T17:42Z,"Works perfect on my M3i Zero, the best card around :)"
+,elmexx,2011-03-08T00:37Z,"starts but then i get black screen, some help please
+
+R4 Rev wood 1.26"
+,Cyrez60659,2011-03-08T00:55Z,"Works 100% fine using Desmume Emulator in WinDS Pro. I'm using version 0.9.6
+
+XP is also fine. I haven't encountered any bugs. Everything levels up properly."
+,Lateralus1980,2011-03-08T01:52Z,"Grow up, Pokemon is gay."
+,.nanashi.,2011-03-08T04:47Z,It works on original r4 with wood firmware
+,Severan_,2011-03-08T17:40Z,"Hey guys!Just letting you know that everything is working under M3 real with the latest firmware. At the moment I do not have access to a WEP wireless network, but can anyone confirm if we have wireless connectivity to nintendo wi-fi with these roms? Thank you in advance!"
+,synxop,2011-03-08T21:09Z,is this the official USA release?
+,Cyrez60659,2011-03-08T23:41Z,"If you have problems getting the .rar file to uncompress, then just rename the output directory to something different. Winrar gives an error because the default output name is way too long (over 200 characters). Rename it to something shorter and it will uncompress without any problems."
+,Dville86,2011-03-08T23:51Z,"Using no$GBA, and I'm having some trouble getting it to work. It says save data could not be accessed. I'm having trouble finding an answer to this online. Any help would be awesome."
+,Z_Pirate,2011-03-09T00:20Z,"A couple of tips for anyone using R4i-SDHC / R4i-SDHC 1.4.
+If you are have a 1.4 then you will want to run Wood4TT 1.25, which can be gotten here http://www.r4wood.com/pages/TTi-DSTT-Kernel.html.  Just rename ""TTMENU.DAT"" to ""TTMENU.nds"", then drop it and the ""_rpg"" folder into the root of your card.  Easy as.
+If you have the original R4i-SDHC it is a little more complicated, you will have to search for ""RetroGameFan Multi Cart Update"" and download it off of Filetrip.
+6.53 will be the version you are after, you should easily find the R4i-SDHC folder amongst the other flash carts.  Within this there will be all the files you need and instructions on how to install.
+
+If you are unsure which R4i-SDHC you have, just check out http://www.r4i-sdhc.com/downloade.asp."
+,Z_Pirate,2011-03-09T00:23Z,"Also forgot to mention, that if you are using the original R4i-SDHC you have to use a clean rom to play.  Such as http://thepiratebay.org/torrent/6214473/Pokemon_Black_and_White_%5BNDS%5D%5BEnglish%5D%5BClean_ROM%5D%5Bwww.consolasat."
+,telaros,2011-03-09T22:27Z,"@Dville86 please before commenting check the previous comments for an answer.
+http://thepiratebay.org/torrent/6220758
+a link posted in a previous comment
+if you have tried it and didnt work my bad. but inform us then"
+,dbmeboy,2011-03-10T04:25Z,"Using No$GBA it's freezing for me once I select ""New Game.""  I'm already using the fixes listed above."
+,mrgogos,2011-03-11T21:01Z,does anyone know how to play it in r4i3d??? thanks..
+,capone7867,2011-03-12T17:52Z,"Yo Lads I can confirm this shit is working on a R4i Gold version 2.9 downloaded from www.r4i-gold.hk. and then wat i did was do what z_pirate said. Downloaded that woody shit n put both files in the root of my memory card. Then put this game in that ""consolasatope"" uploaded in the meory card and thats it man works like a fucking CHARM games all original english and legit! hope this shit dont freeze so far so good...
+
+Respect to both man
+""consolasatope"" 
+""Z_pirate""
+
+To you folks that are confused i was too man bare muhfuckers releasing so many different Cards and so many fuckin different softwares and shit dont know where to look for what man.
+but thanks to these forums we can figure shit out quickly.
+
+Peace Out"
+,craiggalexander,2011-03-12T23:19Z,"ok the ROM works perfectly fine in Desume 0.9.7.  but the only problem im having with alllllll of these rips of pokemon black or white is that the start button does NOT work. meaning, after you beat the first gym leader and leave you get the HM CUT, but you cant teach your pokemon the move due to lack of having the ability of pulling up the start menu, saving and loading is fine, but the start menu is ot there. if anyone knows how to pull that up, please email me. 
+craiggjones1@hotmail.com     thank you very much "
+,Tempa133,2011-03-12T23:43Z,"Just a quick question, i tried this on R4 ultra v1.56 and it doesnt work. stuck on a white screen after loading, anyone know how to fix this pls?"
+,xgst,2011-03-13T01:33Z,Having the same problem as dbmeboy. Using no$gba and its freezing with a black screen after i hit new game. Help
+,snagillim,2011-03-13T04:21Z,Any evolution editor for this? So you can get pokemon to evolve who usually only evolve via trading?
+,razpaz,2011-03-13T05:41Z,Working perfectly on both M3DS Real with wi-fi settings and on Desmume version 0.9.5 (I realize this can be updated). Thanks for the great download.
+,EndeW,2011-03-13T16:02Z,"To Z_Pirate: The Wood 4TT thing is working fine, the game launches but after the professor finishes talking to me I get a black screen instead of the game beginning... HELP! ^^ 
+
+(I got a R4i Gold SDHC 1.41)"
+,Aledd,2011-03-13T20:14Z,Does this work? if it does ima DL this... :)
+,jobvermeulen,2011-03-13T20:16Z,"if i want to save a code then it says: can's save cheats to file 
+who knows what to do"
+,Aledd,2011-03-13T20:31Z,Whats the best Emulator guy? :)
+,baserun,2011-03-13T20:54Z,"kan iemand uitleggen hoe ik de files unrar want als ik ze unrar staan ze er wel na een error melding maar als ik ze open met een emulator (desmume)
+krijg ik een zwart scherm 
+alsvast bedankt"
+,baserun,2011-03-13T20:57Z,"srry for my previeus post i forgot it was an english forum srry again 
+but can sombody plz post a full guide (how to unrar included)"
+,jobvermeulen,2011-03-13T21:10Z,with no$gba it dont works and with the emulgator of this torrent http://thepiratebay.org/torrent/5882646/Pokemon_Black__amp__White_(Eng_V6_Patch)___Emu it works but i cant cheat who knows what i should do
+,Aledd,2011-03-13T21:11Z,Worked it out after a while and XP works fine all on DeSmuME :) Havent tested the saving thing yet will try now :)
+,Aledd,2011-03-13T21:32Z,"All I did to unRAR was use WinRar and pressed Wizzard, although it said the name was too long I pressed continue it still unrared fine... Then open the file go to the game you want, copy/paste that into your Emu's ROM Folder and then go on your Emu and OPEN then ROM from the Emu's Folder then your done :)"
+,baserun,2011-03-13T21:40Z,"when i unrar i get 2 problems  
+The system cannot find the path specified.
+and somthing is more then 260 signs 
+how do i solve this problems plz help"
+,Aledd,2011-03-13T21:52Z,"@baserun 
+
+even tho it says that it doesnt matter it still works fine... just open the ROM in your Emu and it'll work :)"
+,baserun,2011-03-13T22:01Z,ty it was the emulator that wasent working  but many thanks for taking the time helping me out
+,Aledd,2011-03-13T22:24Z,@baserun No Probs :) Try use DeSmuME it worked fine for me :)
+,baserun,2011-03-13T22:54Z,yeah it was a bad dload of desmume i was using sow my screen just turned gray got a newer version know works fine ty again
+,jobvermeulen,2011-03-13T23:38Z,"@aledd
+i am using the DeSmuMe too but cant use cheats do you know how that works"
+,alfiejr,2011-03-14T02:25Z,"Use the Desmume one,works fine.
+
+Thanks!"
+,ajdoms,2011-03-14T08:26Z,how to make it work in R4i?
+,void246,2011-03-14T11:42Z,"works well on ttds with new firmware
+follow link use ttds on top left of list
+http://www.r4wood.com/pages/TTi-DSTT-Kernel.html
+Thanks for the up consolastope"
+,iluvtofu,2011-03-14T16:56Z,"I am using Desmume and every time I open the rom file with the emulator and select new game, the rom just resets and shows me the screen as though I just turn it on.  I don't know what to do with the patch that came with this.  Please help!  Pardon my noobness :P"
+,jobvermeulen,2011-03-14T22:19Z,"@alfiejr
+can you use codes with desmume because when i input a cheat and want to save it it says:
+cant save cheats to file 
+do you know how to solve this"
+,jobvermeulen,2011-03-14T22:26Z,"@alfiejr
+i cant save the cheats because when i save the cheat it says:
+cant save cheats to file
+do you have this problem to and do you know how to solve this"
+,Aledd,2011-03-15T01:44Z,"@jobvermeulen
+
+If you work it out tell me cause I couldnt work it out either... :) Thanks! :D"
+,SpykeV,2011-03-15T02:11Z,Anyone have a fix for the black screen after the professor stops talking to you? Other people are having this problem too. We're on Wood TTDS
+,jobvermeulen,2011-03-15T18:04Z,"@aledd
+the cheats still dont work but i know how to speed up the game at DeSmuMe
+in the toolbalk is what i mean
+config 3D settings then take away all v's next
+config emulation settings then take away all v's too
+through by this te system will reset next
+go to config frame skip choose 9 
+this will speed up the game"
+,con16,2011-03-17T18:51Z,"Thank you 4 all the uploads. it would be great if u could upload wwe smackdown vs raw 2011 for NDS, no 1 seems to have uploaded yet thanks again"
+,dodle99,2011-03-17T21:47Z,is there any way to pull up the start menu as mine wont come up neither will the items menu
+,b_rawly1987,2011-03-17T22:37Z,OMG Finally Found out how to use cheats!!! its soooo simple when u do it!!!!
+,b_rawly1987,2011-03-18T15:20Z,"Heres a tutorial i made to help with the cheats problems on Desmume!!!!
+Please share!!!
+"
+,b_rawly1987,2011-03-18T15:21Z,http://www.y0utube.com/watch?v=jCu8yRcFe2Q
+,b_rawly1987,2011-03-18T15:23Z,"
+http://www.youtube.c0m/watch?v=jCu8yRcFe2Q
+
+just change the 0 from.com to an o!!!"
+,TheBoxNinja,2011-03-19T03:21Z,"Works fine on the Acekard 2i, just make sure you are running akaio 1.8.1, instead of the more recent 1.8.7.
+
+It can be found here: http://filetrip.net/f21926-AKAIO-1-8-1.html."
+,Cervino5,2011-03-19T19:25Z,"The pokemon i have wont get any exp. is it a problem with this? or desmume (0.9.7)?
+
+and it works fine. this is my only problem"
+,Poketamonsta,2011-03-20T00:53Z,"I have an r4i advance.
+
+i downloaded this and put the .nds files of the game into the game folder. When i try to start the game, it says errcode 8.
+
+please help me. i am very new to this."
+,wk87,2011-03-20T04:33Z,I've personally tested it on R4ultra card using YSmenu and it works perfectly now. 
+[T],Distrance,2011-03-20T16:20Z,"Works perfectly on Supercard DSTWO. Thanks!
+
+To all without a Supercard : Get one. All games work on it and there are no exceptions."
+,Dayne80,2011-03-21T05:45Z,Ok so im not a new pirate just new to nds bought my daughter one. Someone explain or give a good link on what i need (acekard) .  I have done some research and plan on doing more in case no one helps. Thanks for taking your time to read this.
+,rypy17,2011-03-21T19:58Z,"Still doesnt work in My emulator :( Shame great DL though 800kbs, will seed for a month"
+,gaungee,2011-03-22T12:30Z,im using desmume and i have downloaded 4 different pokemon black/whites and on all of them the start button doesnt (button to go to your bag and your pokemon and all that stuff) work can someone please help?
+,pprraajj,2011-03-25T10:25Z,"Could someone help me out with this rom, It wont play in No$GBA emulator. 
+I cant understand how to use the codes mentioned in the comments to get it to work under no$."
+,pprraajj,2011-03-25T10:34Z,"Are the codes for no$ listed above one long code or separate code. 
+Like do I have to add it all in one code or do I have to add each line (52004EA0 E8BD01F0, etc) separately?"
+,Destoroyah,2011-03-26T15:45Z,@gaungee: try X or Y buttons to go to the menu. its not mapped to Start in this game
+,pinkflame,2011-03-27T06:15Z,dose dis work on teh no$zoomer?
+,Downperth,2011-03-27T16:30Z,"1. Unrar ( extract here )
+2. Download DeSmuMe
+3.Open DeSmuMe and click Open rom ( ctrl + O )
+4.Find the .nds file witch is located in the folder, open it and start playing."
+,Puttmeister,2011-03-28T23:21Z,"The bag/ inventory wont come up!!
+Help any1 pls
+tRly want to play this"
+,GROTEZK,2011-03-29T20:31Z,it's so slow with DeSmuME
+,loganv14,2011-03-31T22:46Z,"Search this in you tube:
+
+Pokemon Black/White English Rom and No$gba fixes
+the video is by blahblah937211"
+,sh3bangsh3bang,2011-04-01T05:15Z,Works. 
+,pan!C,2011-04-03T01:27Z,"Nice torrent overall... after playing around with it a bit on several computers I can safely say WHITE does not run... DeSmuMe will run Black with no issues what-so-ever, but it will not read White, you get a black screen that will never go away."
+,StinkOctopus,2011-04-03T21:24Z,"Acekard 2i fix black screen / no load
+
+If anyone is having this problem this is my solution:
+
+1. Download this torrent (obviously, because it rocks, ty consolasatope)
+2. Unzip blah blah blah
+3. Download the latest Acekard firmware i.e. 1.8.6a from here >>> http://filetrip.net/file.php?id=24259
+4. MAKE SURE YOU FORMAT YOUR SD CARD. I have a Sandisk 4GB SDHC. I used this software to format it on PC. (for those using a mac, it doesn't work on mac using crossover, i have bootcamped windows) find the software here >>> http://www.sdcard.org/consumers/formatter_3/
+5. Load up all the files that you have downloaded. That should be the __aio file, the akmenu4.nds file and the pokemon[colour].patched.nds file, onto the SDHC card.
+6. Play
+
+This is what worked for me. I actually get to the menu screen with no loading problems at all. I'm currently talking to Prof Juniper and have already typed in my name with no problems.
+I've looked around the internet like the rest of you having problems with this (acekard users particularly) for a good few hours. If you're reading this I strongly suggest you try it. 
+
+This method could also work for R4...I don't have this model card so I can't say."
+,1998nick1998,2011-04-10T11:04Z,I get a white screen 
+,1998nick1998,2011-04-10T11:12Z,I get a white screen when i start the game 
+,Astrosteez,2011-04-12T02:00Z,"im using this with DeSmuMe on a mac, and it works SOO much better than i expected. thank you so much."
+,frypan91,2011-04-14T00:11Z,"Hey,
+
+If you google DeSmuMe and downloaded the latest version of that, unzip it it plays Pokemon Black fine!
+
+It's really easy you just open the ROM you want and your away "
+,LaciBug,2011-04-16T19:39Z,When I try and play Black it crashes. I have tried it on 2 different emulators Desume and No$gba and it crashes on both and with white it only plays to the start menu :/
+,StinkOctopus,2011-04-16T20:40Z,"I've tried this with Desmume also, and it worked well for me. 
+
+@Lacibug I suggest you look back at how you unzipped the file? You really shouldn't have any problems with this torrent"
+,LaciBug,2011-04-18T02:40Z,Maybe I unzipped it wrong? Was I supposed to put it in a certain folder?
+,LaciBug,2011-04-18T02:43Z,Yay I finally got it working! I used the code that consolasatope posted and it worked! I had been using the ones from No$gba.com! :D
+,LaciBug,2011-04-19T01:32Z,Only problem I now have is that it makes my computer super lag and freeze :(
+,LaciBug,2011-04-19T01:37Z,Btw anybody have the action replay code for The Liberty Pass?
+,LaciBug,2011-04-19T01:41Z,Does anyone have any Action Replay codes for BW yet?
+,Zegapain,2011-04-19T10:21Z,"Anyone getting game freeze when confronting Zekrom for the first time just before you battle N in the Team Plasma Castle? Running Acekard 2i (AKAIO 1.8.6a). 
+
+Thanks."
+,iraqi1998_m,2011-04-19T16:46Z,SEED!!
+,christian_persson,2011-04-22T11:05Z,use (artmoney) as a cheat to get money if you can't get the codes to work. it's a very simple tool and its free
+,asgard666,2011-04-27T23:17Z,"on DesSmuME its to slow
+Black works fine but white is slow as hell
+Anybody knowing how to solve this?"
+,asgard666,2011-04-27T23:18Z,"Black works fine
+White is slow
+Any solutions?"
+,cool363,2011-05-01T10:40Z,"***Playing PokÃ©mon Black & White on NO$GBA DS Emulator***
+
+How to ""PATCH"" the rom to fix the problems using Raw Action Replay codes in PokÃ©mon Black & White on NO$GBA 2.6a
+
+1. First load the ROM.
+2. Go to NO$GBA top menu: Utility -> Cheats -> Add New
+3. Select ""ACTION REPLAY"" and ""RAW""
+4. Enter this code in the upper box and click OK.
+(Works With Both The Versions)
+--------------------------------
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 021809E0
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+--------------------------------
+5. A section will appear in the ""No$gba Cheats"" dialog box.
+6. Tick the box next to it and click OK.
+7. Now, RESTART the rom from the menu: File -> Reset Cartridge
+8. You have to REPEAT the steps 6 & 7 everytime you load the ROM.
+
+ENJOY THE GAME ;-)"
+,cool363,2011-05-01T11:33Z,"*****PLEASE IGNORE MY PREVIOUS COMMENT*****
+
+***Playing PokÃ©mon Black & White on NO$GBA DS Emulator***
+
+How to ""PATCH"" the rom to fix all the problems using Raw Action Replay codes in PokÃ©mon Black & White on NO$GBA:
+
+1. First load the ROM.
+2. Go to NO$GBA top menu: Utility -> Cheats -> Add New.
+3. Select ""ACTION REPLAY"" and ""RAW"".
+4. Enter these version specific codes in the upper box and click OK.
+
+* For PokÃ©mon Black Version (E):
+--------------------------------
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 021809E0
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+--------------------------------
+
+* For PokÃ©mon White Version (E):
+--------------------------------
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 02180A00
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+--------------------------------
+
+5. A section will appear in the ""No$gba Cheats"" dialog box.
+6. Tick the box next to it and click OK.
+7. Now, RESTART the rom from the menu: File -> Reset Cartridge.
+8. You have to REPEAT the steps 6 & 7 everytime you load the ROM.
+
+ENJOY THE GAME ;-)"
+,Aypolo,2011-05-01T19:07Z,not working with flashcard. getting save game error. help?
+,StinkOctopus,2011-05-02T22:54Z,@Aypolo What flashcard are you using? Is the firmware up-to-date?
+,Kamori,2011-05-04T04:33Z,"Works great on Windows 7, decent on Mac (DeSmume, on both). Played for half an hour on both Black and White and it is fine."
+,theswordbuggy,2011-05-04T12:25Z,R u serious i have already played this nd is so gay nd the only other real pokemon from the other game is magikfuck and u have to pay it how can it be in the top 100
+,Aypolo,2011-05-04T22:17Z,how do you save a game in no$gba? thanks
+,xplosivwar69,2011-05-06T01:23Z,Zekrom crash on White as well anyone get past this?
+,lilazzhole,2011-05-06T22:26Z,"@cool363 Those codes worked fine, but I found I was crashing literally every 5 minutes or so.  I'd either freeze running or the fight would begin but I couldn't choose an option.  I did a quick google search and found these slightly different codes (still need to do RAW and Action Replay DS):
+
+For both Black and White start with:
+02006F2C 00000000
+02180B8C 00000000
+
+Then add for Black:
+52006f2c fdd8f1d8
+02006f2c 00000000
+d2000000 00000000
+52180b88 42018811
+52180b8c 4770d1fc
+12180b8c 000046c0
+d2000000 00000000
+
+And for White:
+52006f2c fde8f1d8
+02006f2c 00000000
+d2000000 00000000
+52180ba8 42018811
+52180bac 4770d1fc
+12180bac 000046c0
+d2000000 00000000
+
+Haven't tested White ones yet but no crashes with Black since!"
+,zingmars,2011-05-08T22:03Z,"No$GBA Doesn't seem to be loading the game ('Can't load the save game'), however DeSmuME seems to be working alright. 
+Thanks for the upload."
+,x80n3s,2011-05-21T05:40Z,"Hey, I need help. 
+
+It starts fine with DeSmuMe, but then when I get to the initial menu, I can highlight different options but not select any of them."
+,Finitless,2011-05-27T19:47Z,"Lilazzhole's tutorial works fine with both Pokemon Black and White on NO$Zoomer, thanx!"
+,Finitless,2011-05-27T19:51Z,"Scratch my previous comment, neither seem to be getting past the ""New Game"" option, following it with all black."
+,Finitless,2011-05-27T20:01Z,I just switched to DeSMume and everything seems to be working great! No codes needed.
+,imsharkbait,2011-05-30T14:39Z,"Works great, thanks a bunch.  Been looking for a R4I compatible version for a while.  Will seed for as long as I can."
+,shikhar,2011-05-30T17:38Z,works great on desmume thnx man
+,codencis,2011-06-06T04:06Z,My Acekard 2i can't read the file and on my laptop it comes up as a UNIX Executable Flie. I'm running Mac. Any suggestions?
+,omnia666,2011-06-08T09:01Z,"@ people that use cheats 
+
+stop using cheats why dont you just work your buts off to play through the game "
+,JayMK1993,2011-06-08T16:41Z,"I tried this on no$gba, but didnt work. It says ''The savedata could not be accested. Please turn off and reinsert  the Game card''. Then i downloaded Desmume, and it worked fine, until i came to the screen where i can choose new game etc. I can highlight the options, but i cant select anything. Can i please get help? :S"
+,heintz_nick,2011-06-18T21:55Z,"@JayMK1993
+If you read the previous comments you would find the answer to your question, but I will re-post cool363's answer.
+
+-----------------------cool363-----------------------
+
+***Playing PokÃƒÂ©mon Black & White on NO$GBA DS Emulator***
+
+How to ""PATCH"" the rom to fix all the problems using Raw Action Replay codes in PokÃƒÂ©mon Black & White on NO$GBA:
+
+1. First load the ROM.
+2. Go to NO$GBA top menu: Utility -> Cheats -> Add New.
+3. Select ""ACTION REPLAY"" and ""RAW"".
+4. Enter these version specific codes in the upper box and click OK.
+
+* For PokÃƒÂ©mon Black Version (E):
+--------------------------------
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 021809E0
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+--------------------------------
+
+* For PokÃƒÂ©mon White Version (E):
+--------------------------------
+52004EA0 E8BD01F0
+02004EA0 EAFFF25C
+E2001800 0000005C
+E92D4008 E3A00000
+E3A0150E E2811A06
+E5810B44 EA5FE9F2
+E59F4034 E59F5034
+E5845000 E59F4020
+E5945000 E59F601C
+E1550006 03A05001
+05C4500A 03A05000
+E1445DB4 E8BD01F0
+EA000D95 02180A00
+28AAFF1F 037FBFE0
+EAA01606 00000000
+D0000000 00000000
+--------------------------------
+
+5. A section will appear in the ""No$gba Cheats"" dialog box.
+6. Tick the box next to it and click OK.
+7. Now, RESTART the rom from the menu: File -> Reset Cartridge.
+8. You have to REPEAT the steps 6 & 7 everytime you load the ROM.
+
+ENJOY THE GAME ;-) 
+
+-----------------------cool363-----------------------
+
+I had the same error and this fixed it, and cool363, thank you for posting this originally.
+
+***Also, @justinrpg, just because YOU can't get it to work doesn't mean it doesn't work! Don't be stupid calling people liars!"
+,TheDeathDoctor,2011-06-21T02:02Z,"THANK YOU SO MUCH.
+
+Finally a patched ROM that actually works. "
+,Thoorop,2011-06-23T12:25Z,"hey guys,
+
+whats the story when me getting always a white screen when I start the game ? i'm not even getting into the menu it just keeps showing a white screen. ?
+
+any help ?"
+,akismav,2011-06-23T12:40Z,"the black rom is playing ok... i just want to ask how can i run ? or ""super"" run via Nogsba ? in other pokemon roms i could.. now what .. ?  
+
+thx very much in advance"
+,akismav,2011-06-23T12:52Z,i cant run dammit... how can i run ... ?
+,sirbas,2011-06-25T15:44Z,"hey guys,
+
+I have entered the code and folle the steps but is still doesnt work
+
+anyonw that can help"
+,jjkang,2011-06-26T19:14Z,"for people still having problems, try going to options
+-> emulation setup and then change your nds cartridge backup media to flash 512kbytes and then reset the cartridge. Also make sure you have the right codes for the right version"
+,faslify,2011-07-06T12:49Z,"Heintz nick, that worked perfectly for me. solved the save game problem. Some people are jsut far too clever haha cheers mate"
+,SlyRaccoon,2011-07-08T16:10Z,"Game runs good but Start button doesn't work so i can't save the game,check my items/pokemons etc. What can i do?"
+,SlyRaccoon,2011-07-08T16:17Z,I'm using no$gba emulator
+,SlyRaccoon,2011-07-08T19:30Z,I found what's wrong...Its a bit stupid but I'm gona tell you what was wrong so none else has the same problem...The menu on ds opens with X button NOT start button!So make sure you use the right buttons...
+,Sn0okk,2011-07-13T19:19Z,"freezes when you defeat 4th gym leader in pokemon white, it gives white screen after you defeat her, im using R4 orginal, with wood firmware (the newest)
+
+help?"
+,RhOiYdS,2011-07-18T17:51Z,"@SlyRaccoon
+You wouldnt believe it... but you just solved my problem..."
+,SatansTrash,2011-07-19T05:54Z,it freezes t zekrum PLS HELP ME. little bit pissed xD it fully workd perfect and then it just froze
+,12hes21,2011-07-20T19:47Z,"@heintz_nick all that worked, up until I reset the cartridge...it still had the same error : The save data could not be accessed"
+,alpmano,2011-07-21T15:24Z,"@jjkang 
+you are a life saver i almost gave up if it weren't for ur solution.
+
+great download and took no time at all"
+,Ivyflower,2011-07-21T16:55Z,"Didn't work on my R4 cards, none of the downloaded torrents black & white worked.. "
+,ramro2002,2011-07-23T02:28Z,Can someone upload persona 3 for PSP and seed?!?!?!? Thanks if you do :D
+,JayMK1993,2011-07-25T21:45Z,"Finally got it to work!! Thanks to those who replied me :) But now another problem occured... When i get to the start screen where i can start a new game, i can highlight the option but i cant lick it... Im running No$GBA..."
+,JayMK1993,2011-07-26T14:48Z,"Nvm the last comment, i got it fixed :D But is there any way to make the screen larger?"
+,BarberTomahawk,2011-07-30T03:27Z,if you use the De$uME Emulator it works just fine. No Glitches so far
+,wawin,2011-08-07T16:07Z,hello i have problems with my card dstti.loadrom errorcode=4.downloaded the new software v1.18
+,TianquanZhan,2011-08-23T14:23Z,BRILLIANT 
+,jokerbwoii,2011-08-28T23:47Z,works for me... no changing settings or nothing... needed to be seed tho... thanks for the upload
+,christaaar,2011-09-09T04:43Z,I can't get this crap work... when i try to start the game with desmume i only get white screen ... HELP PLEASE !!!!?
+,JunkyVirus,2011-09-11T20:33Z,"The code worked great, thx so much :)
+I just have one question, is there a way to turn the music or all sound off ? I've done it in emulator setting but that freezes the game until you turn it on again :P "
+,Altaadela,2011-09-24T02:16Z,ok so i have it working on my flashcart (r4i v1.4) but it runs extremely slowlly is there anything i can do or should i just get over it
+,chaosOwns,2011-10-18T21:30Z,Is this EU or US versions?
+,Aypolo,2011-10-31T00:49Z,black screen after I hit new game?
+,RitaRookworst,2011-11-25T20:37Z,"I tried to use it on DSTT, not working.
+It says: error code =-4 or something.
+Can someone please help me?"
+,srgamg,2011-12-28T07:18Z,"I may be way late to this party, but if anyone is still getting stuck at the end(game freezing when you try to battle the legendary pokemon before *N), make sure you don't have the code for shiny pokemon enabled.  Apparently that one can't be shiny, so telling the game to make them all shiny may be what's freezing it.  Maybe this only worked for me though."
+,Suomisisu,2011-12-29T16:21Z,"Works fine maybe you retards should stop fucking around with GAYshark codes and just play the fucking game properly instead of trying to make all the pokémon fucking shiny or whatever.
+
+If it's running too slow it's because your computer sucks ass.. Buy a nice i7 extreme processor and quit bitching.
+
+Noobs."
+,nr14,2011-12-30T00:29Z,"Potential bug or something:
+
+3DS version 3.0.0.someting
+R4i card with latest drivers
+
+When one of my pokémen got the flame status the game froze, or rather, when the text spelled out that I had gotten BRN status.
+
+Also the game just crashed when I finished fighting the twins guarding the road on route 3."
+,nr14,2011-12-30T00:39Z,"Never mind what I said, the problem is that I touched the card, I think, as I replicated the result by doing just that."
+,MovieFreakPiraye,2012-01-22T18:44Z,Do these have .nds on the end of the file?
+,PADDYWHACKED,2012-02-07T22:47Z,i have a wired 360 controller and it wont let me input the controls im using the NO$GBA emulator
+,CircaWillSurvive,2012-03-06T06:31Z,"I've been playing up till the desert (6hrs into the game) and really had no problem at all.
+
+Not until recently have I had problems. I clicked the item section and it froze on me, restarted it. Froze in game for about 2 more times within 4 minutes until it finally started freezing when I clicked ""continue to play"" it would just turn black screen.
+
+I'm playing on R4 gold.
+
+Any suggestions?"
+,diegofg10,2012-03-28T19:34Z,works fine the unpatched ver. on SuperCard DSTWO in 3DS
+,dennio0345,2012-04-07T20:45Z,Does it work on 3DS?
+,Infalk,2012-04-08T17:49Z,"This shit just frustrates me. Spent like thirty minutes finding a decent emulator (settled for No$GBA); then it crashes. Try again with a fix; saving doesn't work. Find another fix and am able to save; in battles stylus randomly activates stopping me from taking turn - I reset cartridge. Try again with another fix; lose access to my save (My save file is still there, there's just no way to direct the emulator to access it). Now I'm meant to blindly follow fixes that don't fix things until EVENTUALLY I get one that works?
+
+Like I said, total bullshit."
+,NyaTaku,2012-04-15T10:53Z,"If it suddenly starts freezing on your R4i Gold after 6~7 hours, just pop the SD card into your computer and replace the .nds file with the exact same one you downloaded."
+,Noraaron,2012-04-22T15:21Z,"To get this working on your Ds, you need to update your firmware and make sure the cartridge isn't a fake like r4III or whatever"
+,zqa10,2012-05-06T21:31Z,seed please! is it for r4?
+,bill1576,2012-05-10T19:58Z,"I just got a copyright notice after downloading this torrent, just an fyi"
+,_antongirdeux_,2012-05-13T14:38Z,use DSMUME dudes!
+,jocova,2012-05-25T08:19Z,"well it works on te M3 card
+so i'm really happy
+but poor for my sis it doesn't work for the R4
+can you make an update for that"
+,gwapitonorf,2012-06-02T05:13Z,"Guys if u want to work this on ur NDS.. download R4 wood v1.48... hope it helps :)
+
+thank u CONSOLASATOPE!"
+,ArmyofZeus,2012-06-04T04:45Z,"{Sry but this Nub needs help}
+Not claiming enough knowledge to speak openly about emulators but I've been using them for a few months now.
+That being said, I can't get this to work on No$gba [The DS emulator]  
+It simply tells me 
+""The save data could not be accessed. 
+Please turn the power off and reinsert the Game Card.""
+
+Is there something I'm not understanding or am I just failing?"
+,ArmyofZeus,2012-06-04T04:48Z,"Just seen the comment by  Consolasatope 
+*bows head in shame..*"

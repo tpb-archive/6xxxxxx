@@ -1,0 +1,83 @@
+User Type,Username,Date,Text
+,lingcen,2011-04-03T08:58Z,sent to lingcen.chong@utoronto.ca
+,san134,2011-04-04T19:58Z,Worked!!! Thanks a Lot...
+,lr09dk,2011-04-17T17:42Z,"installed correctly, thanks! Using Win7 64x.
+however with the renewal part, it keeps giving me an error and saying I either don't have permission to access the file location or just rejects it. 
+I have ran it as an admin and still the same thing.
+as of now, i'm stuck in 2009 year, it would be nice to know how to fix this. however i'm happy it works, thank you"
+,SloveniaX,2011-04-18T07:06Z,"I'm willing to bet this can be solved if using some sort of compatibility mode (i.e. it has to be either because you're using Win7 or because it's a 64-bit OS). anyway, have you checked that chinese forum?"
+,pkanna,2011-04-19T10:36Z,Hi SloveniaX its work like a charm thanks for uploading.woundefull job
+,pkanna,2011-04-19T10:38Z,"@lr09dk : Dude althogh you are administrator, while renewing the liscence you should run it as admin istrator. Right click on the Renew SAS software, Run as administrator and update the liscence. 100% it works"
+,md3338,2011-05-18T16:16Z,"Hi SloveniaX, can you help me with PDF Revu not working? (see the torrent comments for more info)"
+,jackysit,2011-05-31T01:35Z,"Does this include miner???
+
+If not, can you provide a SAS that includes SAS Enterprise Miner.
+
+Thank you very much for your help"
+,SloveniaX,2011-05-31T11:17Z,"no clue, I suggest you check out that Chinese forum, sorry"
+,xcalibur123,2011-07-30T07:03Z,Can someone please seed this. I really need this! Thanks in advance. 
+,SloveniaX,2011-09-05T05:00Z,"new SID valid till Dec 31 2011:
+bayfiles com/file/YxF/P9CEfP/December2011.txt
+
+from that Chinese forum again (post 480, page 10) - not sure if it works (haven't tested it yet)"
+,KMiller5155,2011-09-13T22:58Z,"Works!
+
+ I found I had to reboot after changing system time for the installation to work properly.  Currently the only SID that has worked for me is the Sept2011 one, which is almost expired! Please post if you find a newer one.
+
+SloveniaX - I noticed the Dec312011 has extra spaces in the code compared with Sept version.  Could this be the problem?
+
+I'm sorry if I said anything painful obvious or dumb, but i'm learning:) 
+
+Thanks Slovenia!"
+,SloveniaX,2011-09-16T08:21Z,"@KMiller5155: yeah you're right, I haven't noticed this until now. as I said I haven't tested the Dec2011 file at all, I just posted what I found on that website (and I relied exclusively on Google Translate there, heh). try this file (I corrected the issue with spaces = tried to match them to how they look in the Sept SID file): bayfiles com/file/12xL/aGWXBi/December2011_v2.txt"
+,SloveniaX,2011-09-16T09:16Z,"if this still doesn't work, try comparing the two files (Sept vs. Dec) yourself and experimenting with different variations of spaces... good luck"
+,prasoon271,2011-09-16T17:07Z,Dec2011 SID file works.... thanks SloveniaX
+,Solidarnos,2011-10-06T01:50Z,Thanks SO MUCH Slovenia et al for bringing this to the people!  
+,dicentiu,2011-10-13T21:55Z,no Enterprise Miner in this install :(
+,dicentiu,2011-10-15T09:24Z,"for Enterprise Miner, search on google this torrent: ""SAS_9.1.3_with_SP4_JMP_7_Statistical_Discovery_and_E-Books"" and select the sid from Disk 2. that sid contains the 'dmine' component"
+,bcip,2011-12-15T13:53Z,@sssccc if you put the dot before com it will work...
+,katsu-sama,2012-01-17T07:04Z,"Can someone please help with the new July31/2012 SID from the chinese website?
+
+I've tried altering it to match the Sept SID, but no luck.. sorry I am an extreme newb at this.
+
+Thanks!
+
+http://www.verycd.com/topics/2723698/comments/page13"
+,dear_marish,2012-01-18T13:54Z,http://ist.njit.edu/software/sas/sidfiles/SAS92_99DTJM_70008639_Win_Wrkstn.txt
+,dear_marish,2012-01-18T13:55Z,Start 'Renew SAS Software' as Administrator
+,katsu-sama,2012-01-19T07:46Z,@ dear_marish : Thanks a lot!! 
+,SloveniaX,2012-01-20T03:51Z,"@dear_marish thanks man :)
+
+here's another sid file i found with the same expiration date (i HAVE NOT checked if it works or not, so please take this with a grain of salt): http://bayfiles.com/file/1mYZ/f14iY6/SID_31July2012.txt"
+,SloveniaX,2012-01-20T03:53Z,"ok, i should've read katsu-sama's comment first... it appears the file above might not work. if so, go with dear_marish's link..."
+,KMiller5155,2012-01-24T02:31Z,"@Slovenia X @dear_marish  The SID dear_marish provided works!  Thank so much!  The lasted one from SloveniaX was not recognized for me, but I still appreciate you monitoring this thread, you've been a great help!"
+,Cdragan,2012-01-24T17:45Z,"SloveniaX, your torrent is so far the best I've found all over the web. I'm desparately trying to fing SAS Enterprise guide 4.2 or 4.3. , for free download. I see you're an expert for this, can you give me a link where it can be downloaded for free?
+Tnx upfront"
+,SloveniaX,2012-01-27T01:38Z,"@all - I've uploaded the latest working SID file on the bayfiles server in case NJIT figures out their license is on a publicly accessible server and shuts it down, heheh: http://bayfiles.com/file/1v5L/92slpd/SAS92_99DTJM_70008639_Win_Wrkstn.txt
+
+@Cdragan - sorry I searched everywhere and a (fully functional!) Enterprise Guide 4.1 was the best I could do... (see here: http://thepiratebay.org/torrent/6987979). I also explained how to use the 3.0 version, if that's what you prefer..."
+,SloveniaX,2012-02-14T21:01Z,"Enterprise Guide 4.2 (not an installable version though!): http://bayfiles.com/file/2W8F/elApNf/SAS_Enterprise_Guide_4.2.rar
+
+Unpack the EnterpriseGuide folder in your main SAS folder and run the executable inside. Hopefully it will work for you - I had to first install MS WSE 3.0 (attached), but now it works perfectly fine with SAS 9.2 from this very torrent (and without prior installation of EG 4.1 or any similar modifications).
+
+I'm not making a torrent out of it cause it cannot be installed the usual way. If it works for you, great! If not, too bad - don't come back here whining about it and just use 4.1! :)"
+,Solidarnos,2012-03-15T22:46Z,"@SloveniaX: Thanks, you rule.  I have been using this SAS version happily.  I tried to renew with the latest .txt file from your bayfiles link (SAS92_99DTJM_70008639_Win_Wrkstn.txt), but got the following error: ""An error occurred applying the setinit file. Please refer to the log file for additional information.
+
+C:Program FilesSASSASFoundation9.2(32-bit)setinit.log""
+
+Any insight on how to get around this?
+
+Thanks again! "
+,SloveniaX,2012-03-18T20:54Z,"http://support.sas.com/kb/34/694.html (have you ever checked out that log file?)
+
+no clue why it's not working for you, sorry..."
+,SloveniaX,2012-04-15T06:46Z,"SID file with a September 2012 expiration date (I have NOT personally tested it, although it should work), posted by Doubzstep
+
+http://bayfiles.com/file/7PdR/Hmb6KV/Sept2012.txt
+
+Doubzstep actually uploaded another SAS 9.2 torrent where he collected everything you need (the ISO image linked above, the original SID file and this new Sept 2012 one). If you prefer a one-stop solution for your SAS 9.2 needs, go check out his torrent: http://thepiratebay.se/torrent/7045274/SAS_9.2___September_2012"
+,Doubzstep,2012-05-08T22:37Z,"@SloveniaX, You wanna make a joint thread on Suprbay in order to help people with all of their SAS install/upgrade issues?"
+,Doubzstep,2012-05-10T17:11Z,"Okay TPB users, I have SAS 9.3, but cannot install because x64 bit needs a new SID file that I am pretty sure does not exist or is fairly rare. Should I still upload it here for everyone?"
+,SloveniaX,2012-06-06T08:59Z,"yo Doubzstep, I've been really busy lately, am in my lab 24/7... this is actually the first time I've logged in here at TPB in a looong while
+
+i might come around every now and then, but I can't promise anything (plus I hate how the majority of Stata/SAS/""scientific software in general"" users come and beg for help but then never say thanks or leave any feedback that could help others)... btw, can see you got your hands on 9.3, great job dude, hehehe!"
