@@ -1,0 +1,74 @@
+User Type,Username,Date,Text
+,Casevil,2011-09-13T19:18Z,"Thanks, will seed till 1.0 if it is going to be shitty, if it's good a little bit more."
+,Casevil,2011-09-13T23:18Z,"Works well, it is shit though. :P"
+,vincentdesrd,2011-09-14T03:48Z,"You know this game is gonna be good :) Think of all the poor american football gamers stuck with shitty NFL games year after year while the quality of the FIFA game keeps going up and up and up...
+
+God bless canadians developers! :))"
+,NarutoNamikaze,2011-09-14T17:03Z,"FIFA 12 Demo Fixes:
+Please visit this site for some fixes like Installing it without having to uninstall FIFA 11. Playing for more than 3 mins.
+
+http://www.fifa-infinity.com/fifa-12-2/fifa-12-official-demo/
+
+I found a way to keep your custom controls for keyboard permanently.
+
+Go to the Game folder inside the installation directory
+Open the buttonDataKeyBoardMouse.ini
+
+Here you have to change the first column of the 7th paragraph.
+There are 4 lines:
+1st Line: Shoot
+2nd Line: Pass
+3rd Line: Sliding Tackle/Cross
+4th line: Through Ball/Goalkeeper Charge
+
+Take a note in which style controls are written. like LSHIFT.
+
+Now change them according to your wish.. I set it like this
+
+AddMap SC_D VB_AI_B # B
+AddMap SC_A VB_AI_A # A
+AddMap SC_S VB_AI_X # X
+AddMap SC_W VB_AI_Y # Y
+
+the 8th and 9th paragraph look same. so i don't know which one is for menu and which one is for controls. Since I play with gamepad and needed to change to to play double player with my friend, I changed for both the paragraphs (as I control menu with gamepad) Since the 2nd column for paragraph 7 is VB_AI_, I think the most probable paragraph for controls is paragraph 9. Go test it.
+
+For 9th or 8th Paragraph
+1st Line: Switch Player/Trigger Run
+2nd Line: Teammate Contain/Juggle
+3rd Line: Pace Control
+4th Line: Sprint
+
+Again change the value of first column in similar way. I kept it like this. (Showing the 9th paragraph)
+
+AddMap SC_Q VB_AI_LB # L1
+AddMap SC_LSHIFT VB_AI_RB # R1
+AddMap SC_C VB_AI_LT # L2
+AddMap SC_E VB_AI_RT # R2"
+,fzq124,2011-09-14T23:50Z,"i have Core i3 and NViDiA 8400 GS why is it not working for me, there is a black screen and then the game exits....please help...!!!"
+,arpit123,2011-09-15T07:36Z,"is is game really works plezzz telll OS Name	Microsoft Windows XP Professional
+Version	5.1.2600 Service Pack 3 Build 2600
+OS Manufacturer	Microsoft Corporation
+System Name	HOME-FC4B1CF59C
+System Manufacturer	HCL Infosystems Limited
+System Model	MS-7528
+System Type	X86-based PC
+Processor	x86 Family 6 Model 15 Stepping 13 GenuineIntel ~1999 Mhz
+BIOS Version/Date	American Megatrends Inc. V1.0B17, 6/23/2008
+SMBIOS Version	2.5
+Windows Directory	C:\WINDOWS
+System Directory	C:\WINDOWS\system32
+Boot Device	\Device\HarddiskVolume1
+Locale	United States
+Hardware Abstraction Layer	Version = ""5.1.2600.5512 (xpsp.080413-2111)""
+User Name	HOME-FC4B1CF59C\Arvind
+Time Zone	India Standard Time
+Total Physical Memory	2,048.00 MB
+Available Physical Memory	1.32 GB
+Total Virtual Memory	2.00 GB
+Available Virtual Memory	1.96 GB
+Page File Space	3.84 GB
+Page File	C:\pagefile.sys"
+,ali11,2011-09-15T08:18Z,just wait for the full version to release ..who the hell plays demo..
+,pirataki,2011-09-16T21:46Z,it says E0001 anyone? :/
+,progenS,2011-09-17T22:26Z,"Doesn't work on my computer. When I open the autorun and click play, there appers starting screen, but then after few seconds the game shuts down..."
+,samfos,2011-10-03T20:08Z,E0001 means not compatible with your graphic card. must be shader model 3+

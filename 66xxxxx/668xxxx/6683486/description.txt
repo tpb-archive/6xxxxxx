@@ -1,0 +1,15 @@
+Welcome to the home page of the pfSense project!
+pfSense is a free, open source customized distribution of FreeBSD tailored for use as a firewall and router. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. pfSense is a popular project with more than 1 million downloads since its inception, and proven in countless installations ranging from small home networks protecting a PC and an Xbox to large corporations, universities and other organizations protecting thousands of network devices. 
+This project started in 2004 as a fork of the m0n0wall project, but focused towards full PC installations rather than the embedded hardware focus of m0n0wall. pfSense also offers an embedded image for Compact Flash based installations, however it is not our primary focus.  
+http://www.pfsense.org/index.php?option=com_frontpage&Itemid=1
+
+Features
+pfSense includes most all the features in expensive commercial firewalls, and more in many cases. The following is a list of features currently available in the pfSense 1.2.3 release. All of these things are possible in the web interface, without touching anything at the command line.
+In addition to features, this page also includes all limitations of the system of which we are aware. From our experience and the contributed experiences of thousands of our users, we understand very well what the software can and cannot do. Every software package has limitations. Where we differ from most is we clearly communicate them. We also welcome people to contribute to help eliminate these limitations. Many of the listed limitations are common to numerous open source and commercial firewalls. 1.2.3 limitations already fixed in the code that will become the next major release will be noted. 
+... 
+http://www.pfsense.org/index.php?option=com_content&task=view&id=40&Itemid=43
+ 
+http://doc.pfsense.org/index.php/2.0_New_Features_and_Changes 
+http://www.pfsense.org/index.php?option=com_content&task=view&id=69&Itemid=80 (donations)
+
+md5sum : e4cb45c7bff0936e8eb80ff2ce9f606d  pfSense-2.0-RELEASE-i386.iso.gz

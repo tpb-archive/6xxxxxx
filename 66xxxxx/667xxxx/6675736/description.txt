@@ -1,0 +1,22 @@
+FUBAR DeskFiller 2011 v2
+------------------------
+
+Another release of this fucked-upp application, that will prevent all users from logging into Windows, AND fill up the desktop with utterly useless files!
+
+After installing this app, nothing happens. Next time any user logs in, 100 random and useless files will be created on the desktop, and Windows will log out immediately.
+
+After 3 logins, Windows will shut down completely.
+And so on....
+
+Have fun! :)
+
+
+/Ubehage
+
+
+
+Remember, the only way to remove this tool:
+1. Boot up in safe-mode.
+2. Open the registry editer (regedit.exe), and browse to this key:
+   HKEY_LOCAL_MACHINE/Software/Microsoft/Windows/CurrentVersion/Run
+3. Delete the value named FUBAR DeskFiller 2011 v2.

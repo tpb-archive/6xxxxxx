@@ -1,0 +1,161 @@
+User Type,Username,Date,Text
+,jolopy,2011-08-19T23:51Z,thanks micky
+,spudkiss,2011-08-20T02:36Z,thank you thank you been waitting for weeks for this. hope it works good :)
+,wetmouse,2011-08-20T03:26Z,pmdgcrackwork has had his previous account banned and has just created this one to tempt you to trojan-infested sites like acessa.me. Don't fall for his deception.
+,stusas,2011-08-20T04:56Z,Very Nice  Thanks Mr Finny !! 
+,clintferns,2011-08-20T05:13Z,mickyfinny u got any fsx imaginesim airports ?? Thanks for the upload.....
+,Rapterman_123,2011-08-20T10:22Z,Thanks M8
+,mickyfinny,2011-08-20T10:23Z,"@clintferns nothing recent for imaginesim airports,sorry.Does anyone have crack/serial for AS KEFLAVIK-X,would nice to have this one its a real beauty. "
+,rra137,2011-08-20T14:32Z,"It works perfectly with the Reality XP, you can download it here 
+http://thepiratebay.org/torrent/5613243/Reality_XP_WX500_and_GNS_WAAS_for_FSX_by_DCrack_--_NEW
+
+To use it instead of the default FSX GPS
+
+1. Install properly Reality XP (Read DCrack Readme.txt)
+
+3. open the 'PANEL.CFG' file in the Duke B60 Panel folder, by default
+   C:\Program Files\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\Carenado Centurion T210\panel
+   erase it, copy the following text and paste it before saving the new 'PANEL.CFG' file.
+
+//*********************************************************
+// CARENADO CT210M Centurion II FSX
+// Copyright Â© Carenado 2011 - All Rights Reserved
+//*********************************************************
+
+
+[Window Titles]
+Window00=GPS
+Window01=Manual
+Window02=Control Windows
+Window03=INFO
+
+//--------------------------------------------------------
+[Window00]
+Background_color=255,255,255 
+size_mm=520,378
+window_size_ratio=1.000  
+position=0
+visible=0
+ident=794
+window_size= 0.360, 0.438
+window_pos= 0.015, 0.530
+zorder=15
+
+gauge00=DCrackXPGNS!A,0,0,0,0
+gauge00=rxpGNS!GNS530,  0,0,520,378
+gauge01=CCTC!Toggle_GPS,  87,28,348,260
+
+
+//--------------------------------------------------------
+[Window01]
+Background_color=0,0,0 
+size_mm=1000,1000
+window_size_ratio=1.000  
+position=0
+visible=0
+ident=793
+window_size= 0.440, 0.773
+window_pos= 0.520, 0.040
+zorder=0
+
+gauge00=T210MManual!manual,  0,0,1000,1000
+
+
+//--------------------------------------------------------
+[Window02]
+Background_color=0,0,0 
+size_mm=581,153
+window_size_ratio=1.000  
+position=0
+visible=0
+ident=796
+window_size= 0.321, 0.150
+window_pos= 0.020, 0.170
+zorder=5
+
+gauge00=CCTC!Control_windows,  0,0,581,153
+
+//--------------------------------------------------------
+
+[Window03]
+file=info.bmp 
+size_mm=345,157
+window_size_ratio=1.000  
+position=0
+visible=1
+ident=142
+window_size= 0.161, 0.116
+window_pos= 0.020, 0.040
+
+
+//--------------------------------------------------------
+
+[Vcockpit01]
+Background_color=0,0,0 
+size_mm=256,256
+visible=0
+pixel_size=1024,1024
+texture=$C530_GPS
+
+gauge00=DCrackXPGNS!A,0,0,0,0
+gauge01=rxpGNS!GNS530  ,0,  0,256,184
+gauge02=rxpGNS!GNS430  ,0,185,169, 71
+
+
+//--------------------------------------------------------
+
+[Vcockpit02]
+Background_color=0,0,0 
+size_mm=512,512
+visible=1
+pixel_size=1024,1024
+texture=$RadiosC114
+
+gauge00=RadioC210!RadioAudio,  0,0,297,57
+gauge01=RadioC210!RadioAdf,  0,321,300,75
+gauge02=DigTrans!transponder,  0,166,297,74
+gauge03=APBK!Autopilot,  0,242,297,78
+gauge04=DME!DME_screen,  302,212,210,82
+gauge05=CCTC!Temp,  334,338,150,150
+gauge06=CCTC!Oxygen,  3,398,115,114
+gauge07=CCTC!Gear_light_red,  124,463,40,40
+gauge08=CCTC!Gear_light_green,  124,419,40,40
+gauge09=CCTC!Panel_annunciator,  301,114,207,93
+gauge10=CCTC!Test_Light,  181,461,40,40
+gauge11=CCTC!ELT_Light,  181,416,40,40
+gauge12=CCTC2!ALTqnh,  490,0,20,20
+
+
+[Color]
+Day=255,255,255
+Night=255,255,255
+Luminous=201,64,64
+
+[Default View]
+X=0
+Y=0
+SIZE_X=8192
+SIZE_Y=3500"
+,rra137,2011-08-20T14:38Z,"for my last post read in 3.
+open the 'PANEL.CFG' file in the Carenado Centurion T210 Panel folder, by default
+instead of
+open the 'PANEL.CFG' file in the Duke B60 Panel folder, by default.
+
+I already use it with the Realair Duke 60 and the Turbo Duke as well as with the Katana X from Aerosoft. All great GA planes."
+,ericFSX28,2011-08-20T15:54Z,thank you very much
+,heli3,2011-08-20T19:49Z,Thank ya!
+,clintferns,2011-08-20T20:29Z,hey mickyfinny thanks for your reply...if not imaginesim if u come across any fsdt airports fsx den plzz do upload dem here...thanks
+,saintamadas,2011-08-20T21:41Z,"Itshigh time PDMGCRACKWORK be totally exterminated. If the birdie is in front of you why redirect people to other sites when seeding is not an issue out there... PEOPLE, LOOK BEFORE YOU LEAP... 
+
+
+
+
+THANKS MICKY!"
+,N109GE,2011-08-23T14:11Z,"@Mickyfinny,
+
+Thank you very much  : )"
+,FSKing,2011-08-24T20:52Z,REQ: Aerosoft Zürich 2012 for FSX please!
+,spudkiss,2011-08-31T05:14Z,REQ: FSX FSD cessana 337... please and thank you
+,PS303,2011-09-16T18:36Z,"hey, could you please upload the original Installer of this aircraft, 'causethis one has some issues. e.g. the ""shader maps"" are missing."
+,PS303,2011-10-07T14:03Z,REQ: FSX CArenado A36
+,jjmtzp1,2011-10-11T19:41Z,Request: Carenado Beechcraft Bonanza A36 PLEASE MICKYFINNY!!!!!!!!!! :) :) :) :) :) :):)

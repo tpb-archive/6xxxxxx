@@ -1,0 +1,5 @@
+This build adds support for multichannel audio output on PS3 (AC-3, DTS and 8 channel
+linear PCM). Note that due to how the PS3 audio frameworks applications can not output
+raw digital bitstreams. So Showtime still needs to decode the audio and than the PS3 will
+reencode the audio in the best available encoding mode the user has selected (or don't do any
+encoding at all if 8 channel PCM is available)

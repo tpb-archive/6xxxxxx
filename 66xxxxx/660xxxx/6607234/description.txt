@@ -1,0 +1,62 @@
+Season 1 complete episodes(8)
+
+Format                           : MPEG-TS
+Overall bit rate                 : 29.0 Mbps
+Maximum Overall bit rate         : 35.5 Mbps
+
+Video
+ID                               : 4113 (0x1011)
+Menu ID                          : 1 (0x1)
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 2 frames
+Codec ID                         : 27
+Duration                         : 53mn 8s
+Bit rate mode                    : Variable
+Bit rate                         : 26.0 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Interlaced
+Scan order                       : Top Field First
+Bits/(Pixel*Frame)               : 0.418
+Stream size                      : 9.65 GiB (90%)
+
+Audio
+ID                               : 4352 (0x1100)
+Menu ID                          : 1 (0x1)
+Format                           : DTS
+Format/Info                      : Digital Theater Systems
+Format profile                   : MA / Core
+Muxing mode                      : Stream extension
+Codec ID                         : 134
+Duration                         : 53mn 8s
+Bit rate mode                    : Variable
+Bit rate                         : 1 561 Kbps / 1 510 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 24 bits
+Compression mode                 : Lossless / Lossy
+Language                         : English
+
+Text #1
+ID                               : 4608 (0x1200)
+Menu ID                          : 1 (0x1)
+Format                           : PGS
+Codec ID                         : 144
+Language                         : English
+
+Text #2
+ID                               : 4609 (0x1201)
+Menu ID                          : 1 (0x1)
+Format                           : PGS
+Codec ID                         : 144
+Language                         : English on BLACK BACKGROUND
+

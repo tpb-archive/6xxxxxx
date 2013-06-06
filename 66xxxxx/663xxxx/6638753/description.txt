@@ -1,0 +1,7 @@
+NetbootCD is a GNU/Linux live CD based on Tiny Core Linux. The live CD allows the user to download and run one of several Linux netboot installers, which can install a full GNU/Linux system with only a hard drive and Internet connection.
+Several of the distributions supported by NetbootCD are prerelease distributions (such as Debian testing) or development distributions (openSUSE Factory, Fedora Rawhide, Debian sid.) Because NetbootCD downloads the latest installer, which in turn downloads the latest system components, you can install a fully up-to-date system without burning a new CD.
+ 
+http://netbootcd.tuxfamily.org/ 
+http://download.tuxfamily.org/netbootcd/4.5/ (other .iso available)
+
+md5sum : 30a3ecc61b09404293d0eecfe38bb472  NetbootCD-4.5.iso

@@ -1,0 +1,13 @@
+Make sure to read through this all so you're sure what you need:
+
+To clear it up first before you read anything else: You don't need a registered UDID to install these firmwares, the string which signals that the firmware is in beta has been removed.
+
+Alright, now we got that out of the way; this is the latest iOS 5 beta which came out yesterday and each of these firmwares are jailbroken (tethered) via the limera1n exploit. No iPad2 for that reason. 
+
+The iPhone 3GS Old Bootrom is untethered, meaning that you don't have to follow the redsn0w section of the video, you just restore to the firmware. Old Bootrom 3GS = the 4th and 5th digits of the serial number are less than or equal to 40. For example, a serial number MB5381024 would be older bootrom, due the 4th and 5th digits being the number 38. However, we've completed a cycle now so you may get a number like 03 if your device was purchased recently, meaning you have a new bootrom. If in doubt, contact me about it. 
+
+Hacktivation is supported on each device that uses it, and baseband preservation is included in ALL firmwares. Hacktivation is for people who need an unlock or don't have a SIM card to activate their device. 
+
+Use iBooty to boot tethered. Watch the video link if you need any further help.
+
+Remember to seed please

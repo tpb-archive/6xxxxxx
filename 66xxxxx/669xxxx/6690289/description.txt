@@ -1,0 +1,27 @@
+FR ONLY, FOR TESTING
+0 est un systeme GNU/Linux francophone complet pour systemes x86 64 bits uniquement, construit depuis rien et pleinement compatible 32 bits (ou ' multilib ').
+
+0 presente sa nouvelle version, gamma. La numerotation grecque des versions de test (beta, gammaâ€¦) laissera bientot sa place Ã  une numerotation romaine. 0 Linux I serait donc Ã  priori la premiere version utilisable de 0.
+Au tableau des nouvelles recrues, on trouve maintenant l'environnement enlightenment dans sa version ' E17 ' officielle (depot e/), tres legere mais fonctionnelle. En ce qui concerne le multimedia, inkscape a fait son entree aux cote de l'editeur audio audacity et du lecteur multimedia exaile. Quelques applications comme lm_sensors, recordmydesktop, iftop ffmpegthumbnailer ou isomaster ont fait leur apparition, gparted a repris sa place et tyrry nous gratifie de nouveaux papiers peints originaux, merci Ã  lui.
+Cette version voit son noyau passer Ã  linux 3.0.1. On y trouve evidemment des mises Ã  niveau des paquets, udev 172, jdk 7, firefox 6.0.2 et thunderbird 6.0.2, vlc 1.1.11, nvidia 280.13, opera 11.51 et beaucoup de paquets pour le depot xfce/. 
+...
+Le systeme contient entre autres :
+      eglibc multilib du 20 octobre 2010
+      gcc 4.5.1
+      linux 3.0.1
+      X.org 7.6
+      Xfce 4.8
+
+0 compte Ã  ce jour environ 540 paquets disponibles. Le systeme comprend le necessaire pour compiler et executer des programmes en 64 bits (x86_64) et en 32 bits (i686) nativement (' full multilib '). 
+... 
+http://0.tuxfamily.org/doku.php
+ 
+http://distrowatch.com/dwres.php?resource=links#new  0Linux (submitted on 2011-05-31)  
+http://ftp.igh.cnrs.fr/pub/os/linux/0linux/0/paquets/ 
+http://0.tuxfamily.org/doku.php?id=documentation:telechargements 
+http://listengine.tuxfamily.org/lists.tuxfamily.org/0linux-dev (liste de diffusion) 
+http://0.tuxfamily.org/doku.php?id=communaute:accueil (..., salons de discussions)
+ 
+http://en.wikipedia.org/wiki/CeCILL (license)
+ 
+http://freetorrent.fr/catalog.php?search=0linux&category=0&active=1 (other torrent : private, DHT PEX disabled)

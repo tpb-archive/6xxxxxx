@@ -1,0 +1,12 @@
+Zeroshell is a Linux distribution for servers and embedded devices aimed at providing the main network services a LAN requires. It is available in the form of Live CD or Compact Flash image and you can configure and administer it using your web browser. The main features of this Linux distribution for Network Appliances are listed below: 
+... 
+http://www.zeroshell.net/eng/
+
+September 10, 2011 	
+The release 1.0.beta16 fixes some problems of the Captive Portal that slow the opening of the authentication page on browsers that perform CRL or OCSP checks. The recovery mechanism in case of LDAP DB corruption after a crash has been improved.
+The support for Shibboleth Service Provider that redirects the Captive Portal authentication against an Identity Provider belonging to a standalone or federated AAI has been added.  
+http://www.zeroshell.net/eng/announcements/
+ 
+http://www.zeroshell.net/eng/license/
+
+md5sum : a10df08d8c4b4f1fe48828d00bf68a6e  ZeroShell-1.0.beta16-CompactFlash-IDE-USB-SATA-1GB.img.gz

@@ -1,0 +1,18 @@
+The aim of this book is fourfold: (1) to develop the mathematical theory behind signal processing as used in modern digital communication systems, (2) to extend these theoretical signalling concepts into information transmission links which are robust in the presence of noise and other impairment mechanisms, (3) to investigate how these transmission links can be developed into fixed and mobile data communication systems for voice and video transmission, and (4) to develop queuing theory techniques and explore their development in small and large scale data transmission networks such as ISDN.
+
+In Chapter 1, we discuss in general terms the history behind communication systems and introduce the basic concepts of accessing, modulation, switching for line and radio transmission.
+
+The next 18 chapters are organised in four parts. Specifically Chapters 2 through 4 are devoted to basic theory of periodic and transient signals, the statistics behind random processes and the concept of linear transmission systems. Chapters 5 through 13 cover the fundamentals of digital communications and include sampling and multiplexing, baseband transmission over metallic lines, decision and information theory and error control coding. This second part also includes a description of the many sophisticated bandpass modulation schemes, the calculation of the received power and associated signal-to-noise ratio in a practical communications link, and an indication how the performance of a system can be accessed by simulation, before the actual construction is attempted.
+
+The third part, Chapters 14 through 16, extends the previous link budget analysis to fixed point-to-point terrestial and satellite based microwave communication systems as well as mobile and cellular radio communication and video (TV) transmission and storage. The fourth part, Chapters 17 through 21, is devoted to communication networks. This starts with a discussion of network topologies, access techniques and their signalling and routing protocols and architectures before moving on to queueing theory. It then progresses naturally to public networks, SDH and ISDN, the internationally agreed standard for the worldwide digital telecommunications network before finally concluding with broadcast networks, both wired and wireless local area networks. This completely revised and extended networks section in the second edition introduces the reader to a range of rapidly evolving wireless networking techniques.
+
+This book is aimed at readers who are completing a graduate level B.Eng./M.Eng. first degree course in Communications, Electronics or Electrical Engineering. It is assumed that these readers will have competence in the mathematical concepts explored in earlier courses in basic mathematical techniques, to handle comfortably the material in Part One.
+
+We have deliberately extended our coverage of digital communications to include the practical aspects of the implementation of digital PCM, SDH, packet speech systems as well as examining the capability of optical and microwave long-haul communication systems. With this balance between theory, applications and systems implementation we hope that this text will be readily used both in academia and in the rapidly growing mobile communications industry. 
+
+
+
+
+3rd Edition China Machine Press, 2010
+
+ISBN 978-7-111-31669-5, 1024 pages 

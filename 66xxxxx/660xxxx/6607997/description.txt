@@ -1,0 +1,33 @@
+Official Web Site:  http://totalfinder.binaryage.com/
+
+Brings tabs to your native Finder and more!
+
+released on August 11, 2011
+
+* New Tab command opens default window location as set in General
+  Finder Preferences. Previously it was opening the same location as the
+  current tab. This was causing a lot of support requests because novices
+  can be stuck in DMG view without sidebar (Lion does not have pill
+  button anymore and CMD+OPT+T to show/hide toolbar with sidebar is
+  not very well known keyboard shortcut).
+
+* Show/Hide Path Bar and Show/Hide Status Bar commands work
+  reliably (even in dual mode).
+
+* Resolved some rare crashes in Folder On Top feature.
+
+* Fixed Applescript command for setting window bounds (issue).
+
+* Ironed out more sidebar issues.
+
+* The CrashWatcher was improved and open-sourced. I've also resolve
+  memory leaks.
+
+* TotalFinder.app can be freely relocated. Also optional ~/.totalfinder
+  config is not used anymore.
+
+System Requirements:
+
+Intel Mac OS 10.6 or better, Lion ready
+
+--- PLEASE SEED --

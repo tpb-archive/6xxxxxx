@@ -1,0 +1,19 @@
+ http://www.wowebook.com/book/parallel-programming-with-microsoft-visual-c-design-patterns-for-decomposition-and-coordination-on-multicore-architectures/
+
+Book Description
+
+Your CPU meter shows a problem. One core is running at 100 percent, but all the other cores are idle. Your application is CPU-bound, but you are using only a fraction of the computing power of your multicore system. Is there a way to get better performance?
+
+The answer, in a nutshell, is parallel programming. Where you once would have written the kind of sequential code that is familiar to all programmers, you now find that this no longer meets your performance goals. To use your systemâ€™s CPU resources efficiently, you need to split your application into pieces that can run at the same time. Of course, this is easier said than done. Parallel programming has a reputation for being the domain of experts and a minefield of subtle, hard-to-reproduce software defects. Everyone seems to have a favorite story about a parallel program that did not behave as expected because of a mysterious bug.
+
+These stories should inspire a healthy respect for the difficulty of the problems you will face in writing your own parallel programs. Fortunately, help has arrived. The Parallel Patterns Library (PPL) and the Asynchronous Agents Library introduce a new programming model for parallelism that significantly simplifies the job. Behind the scenes are sophisticated algorithms that dynamically distribute computations on multicore architectures. In addition, MicrosoftÂ® Visual StudioÂ® 2010 development system includes debugging and analysis tools to support the new parallel programming model.
+
+Proven design patterns are another source of help. This guide introduces you to the most important and frequently used patterns of parallel programming and provides executable code samples for them, using PPL. When thinking about where to begin, a good place to start is to review the patterns in this book. See if your problem has any attributes that match the six patterns presented in the following chapters. If it does, delve more deeply into the relevant pattern or patterns and study the sample code.
+
+Book Details
+* Paperback: 208 pages
+* Publisher: Microsoft Press (March, 2011)
+* Language: English
+* ISBN-10: 0735651752
+* ISBN-13: 978-0735651753
+* File Size: 9.7 MiB

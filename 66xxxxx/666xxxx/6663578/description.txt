@@ -1,0 +1,17 @@
+MuPDF is a lightweight PDF and XPS viewer and parser/rendering library.
+
+The renderer in MuPDF is tailored for high quality anti-aliased graphics. It
+renders text with metrics and spacing accurate to within fractions of a pixel
+for the highest fidelity in reproducing the look of a printed page on screen.
+
+MuPDF is also small, fast, and yet complete. We support PDF 1.7 with
+transparency, encryption, hyperlinks, annotations, search and many other bells
+and whistles. MuPDF can also read XPS documents (OpenXPS / ECMA-388).
+
+We don't support interactive features such as form filling, javascript and
+transitions. MuPDF is written modularly, so such features can be added on by
+integrators if they so desire.
+
+==============
+
+Still don't believe me that it is the fastest PDF viewer ever ? Try it yourself, what are you waiting for!

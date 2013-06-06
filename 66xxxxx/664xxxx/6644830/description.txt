@@ -1,0 +1,17 @@
+Tiny Core Linux is a very small (10 MB) minimal Linux GUI Desktop. It is based on Linux 2.6 kernel, Busybox, Tiny X, and Fltk. The core runs entirely in ram and boots very quickly. Also offered are Micro Core, a 6 MB image that is the console based engine of Tiny Core, and Multi Core, which includes Tiny Core, Micro Core, networking tools and an installer. Micro Core contains CLI versions of Tiny Core's programs allowing the same functionality of Tiny Core's extensions, only starting with a console based system.
+It is not a complete desktop nor is all hardware completely supported. It represents only the core needed to boot into a very minimal X desktop typically with wired internet access.
+The user has complete control over which applications and/or additional hardware to have supported, be it for a desktop, a netbook, an appliance, or server, selectable by the user by installing additional applications from online repositories, or easily compiling most anything you desire using tools provided.
+The latest version: 3.8.4
+
+Tiny Core v3.8.4 minor release is now posted at http://distro.ibiblio.org/pub/linux/distributions/tinycorelinux/3.x/release/
+
+Change log:
+
+ Updated busybox 1.19 with latest patches and fix for chpassswd segfault.
+ Updated tce-load to handle multiple extensions copyfs or mount from command line.
+ Updated ondemand to handle command line usage without X via Freedesktop, e.g. Exec=cliorx sudo cfdisk
+   also support for using base icons.
+ 
+http://distro.ibiblio.org/tinycorelinux/welcome.html
+
+md5sum : 520ddf8f01d77d3f0a84d4134c0063c8  microcore_3.8.4.iso

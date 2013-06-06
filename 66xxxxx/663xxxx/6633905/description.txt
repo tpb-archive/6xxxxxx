@@ -1,0 +1,16 @@
+This is a trainer from \"filthy monkey\".
+Am just quoting his post.
+
+I hunted down the actual pointer values and made a cheat engine trainer. This is for the version released last night. Let me know if it all works. This is the first trainer I\'ve tried to make, so it is possible I screwed something up. It works here though.
+
+It can freeze health, energy, and ammo. It can also add money and praxis.
+
+This was made using the US steam version of the game. If you have some other exe, it probably won\'t work for you.
+
+The trainer/table won\'t work with anything but 1.1.622.0.
+
+Freeze ammo does exactly that. It takes whatever the value of your loaded ammo is, and makes sure that it doesn\'t change. If you freeze your ammo with the stun gun out, then switch to something else without turning the freeze off, your new weapon will have one ammo loaded. Better to enact the freeze when you are holding something with a bigger clip.
+
+As for the health freeze, yeah, you can still die. The trainer sets the frozen values once every 1/10 of a second. If you take enough damage to die within that 1/10 of a second, you\'ll still die. So no rocket jumping or the like.
+
+A better trainer would probably use code injection to make dying actually impossible. I am not quite to that stage yet though.

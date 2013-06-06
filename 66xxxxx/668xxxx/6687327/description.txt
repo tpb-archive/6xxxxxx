@@ -1,0 +1,34 @@
+The X-Files [VL-CE]
+virtually lossless - collector's edition
+by reeldeel
+
+   [VL-CE] = DVD9 R1 (NTSC) &gt; H264 + AC3 &gt; TS
+
+   This release is the best quality there can be. Video is re-encoded to H264 in full DVD resolution without any processing (except IVTC), audio is left untouched. NTSC DVD's were used because the image quality is better than PAL. No video resize was peformed to avoid any additional image distortion.
+
+   It looks like there will be no Blu-ray release of the series. The quality of the video is just not sufficient. You can see it in some close up scenes that the video is upscaled (even for DVD resolution!!!). The iTunes H264 release is horrible and makes me laugh.
+
+   x264 encoder was used for this release, configured to use:
+
+   -only as much bitrate as needed
+    to maintain a certain level of quality (CRF 18);
+   -thorough image analysis and compression algorithms
+    to retain all the quality (preset slower).
+
+   (Lots of test encodes were done to achieve this.)
+   This means that bitrate wasn't wasted anywhere
+   and was sufficient everywhere.
+
+   Also included are the russian sound tracks, in a separate folder.
+   This is done to preserve the same HASH. You know what that is for.
+   If you don't need those you can always uncheck the folder
+   and not download it.
+
+video: H264 720x480p @ 4:3/16:9 (640x480p/853x480p), 23.976fps, ~2Mbps,
+       Bits/(Pixel*Frame): ~0.250
+
+Audio: AC3 CBR 192Kbps 48KHz stereo (eng)
+       MP3 CBR 128kbps 48KHz stereo (rus) in separate files
+
+You can download samples, subs and other related stuff here:
+   media firecom [slash] reeldeel

@@ -1,0 +1,14 @@
+The Book of PF, 2nd Edition: A No-Nonsense Guide to the OpenBSD Firewall
+
+
+This second edition of The Book of PF has been completely updated and revised. Based on Peter N.M. Hansteen's popular PF website and conference tutorials, this no-nonsense guide covers NAT and redirection, wireless networking, spam fighting, failover provisioning, logging, and more. Throughout the book, Hansteen emphasizes the importance of staying in control with a written network specification, keeping rule sets readable using macros, and performing rigid testing when loading new rules.
+
+The Book of PF tackles a broad range of topics that will stimulate your mind and pad your resume, including how to:
+Create rule sets for all kinds of network traffic, whether its crossing a simple LAN, hiding behind NAT, traversing DMZs, or spanning bridges or wider networks
+Create wireless networks with access points, and lock them down with authpf and special access restrictions
+Maximize flexibility and service availability via CARP, relayd, and redirection
+Create adaptive firewalls to proactively defend against would-be attackers and spammers
+Implement traffic shaping and queues with ALTQ (priq, cbq, or hfsc) to keep your network responsive
+Master your logs with monitoring and visualization tools (including NetFlow)
+The Book of PF is for BSD enthusiasts and network administrators at any skill level. With more and more services placing high demands on bandwidth and an increasingly hostile Internet environment, you can't afford to be without PF expertise.
+

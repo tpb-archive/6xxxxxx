@@ -1,0 +1,40 @@
+User Type,Username,Date,Text
+,jaiskorpio,2011-08-19T15:29Z,"Please seed!!
+
+Desperately want to watch this today but I'm only getting upto 177 KB/s out of a possible 1.5 MB/s!
+
+I'll keep seeding too.
+
+Thanks!"
+,nakedswan,2011-08-19T19:52Z,There is a bit missing. I need fairplay-uefa.el.2011.08.18.hearts.vs.tottenham.hotspur.part00.rar I think.
+,jaiskorpio,2011-08-19T20:44Z,"You're right nakedswan. It's failing to extract in sequence.
+
+For some reason, sceneline has named the .sfv file as part 00 which is wrong. I've tried using WinRAR and 7-Zip to extract and I'm getting errors everytime.
+
+Can anyone help please??!"
+,jaiskorpio,2011-08-19T20:54Z,"I've opened the .SFV file with Notepad to check it, and the parts are listed from part01 to part51. There is no part00 needed apparently.
+
+Maybe it's a problem with the checksums? I don't a whole lot about archiving."
+,jaiskorpio,2011-08-19T21:02Z,"I'm getting ""unexpected end of archive"" when trying to extract from part01. Please help sceneline! I want to watch it! :("
+,jaiskorpio,2011-08-19T23:23Z,Could you tell us how you did it? Because we can't get it to extract properly. Seems to be a problem with the CRC checksum. All I'm getting is error messages for broken files and bad checksums.
+,limmel,2011-08-19T23:24Z,"I have tried everything I can think of, but cannot unrar this. end of archive errors.."
+,jaiskorpio,2011-08-19T23:34Z,"I still can't get it to work with WinRAR or 7-Zip. I'm getting errors with part01 and it's also looking for a part52 (which doesn't exist).
+
+Has anybody been able to get this to work yet? I've seen no comments to suggest this works at all."
+,jaiskorpio,2011-08-19T23:43Z,I've stopped seeding. Hasn't been archived properly unfortunately. Save your bandwidth.
+,jaiskorpio,2011-08-20T00:04Z,"If you go into WinRAR and Show Info on each individual file, you will see they've been numbered in backwards order (part01 = 51, part02 = 50 etc). At least I think that's what it means. Maybe just a mistake? I'll keep trying."
+,jaiskorpio,2011-08-20T11:35Z,"**** DONE IT! ****
+
+Ok - sceneline you muppet, you've numbered the parts in REVERSE order! lol
+
+Here's how I fixed it (not v quick - if you find an easier way, good luck)....
+
+You have to RENAME each file from PART01 to PART51 in REVERSE order. You can't just change the number (you will make duplicates). I did it by adding the correct number after the old one, and then going through them again and removing the old number.
+E.g. fairplay-1) uefa.el.2011.08.18.hearts.vs.tottenham.hotspur.part0151.rar
+2) uefa.el.2011.08.18.hearts.vs.tottenham.hotspur.part51.rar
+
+So 01 = 51, 02 = 50, 03 = 49 in backwards order.
+Then extract from the new part01 and it works!
+
+Good luck fellas. Got there in the end."
+,nakedswan,2011-08-20T12:24Z,"quickest way, start at the bottom and rename that one 01, next 02 all the way to 51 and it works. Thanks to sceneline though apart from the slight mistake the match is perfect. "

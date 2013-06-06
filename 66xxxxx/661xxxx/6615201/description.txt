@@ -1,0 +1,15 @@
+A new and updated Cider Wrapper increases the performances with ~25%. 
+
+
+More info:  
+http://na.leagueoflegends.com/board/showthread.php?t=1058418  
+http://euw.leagueoflegends.com/board/showthread.php?t=132051
+
+All kudos go to Drakulix
+
+
+Known Issues:
+-There can appear up to 5(!) LoL Icons in the Dock. One for each process (rads_user_kernel, LoLLauncher, Adobe AIR, PvP.net, LeagueofLegends.exe),
+the LoL cider does not display all of them. But with this Cider version I cannot fix this behavior.
+-Also the client may crash on the very first start, before the Updater gets displayed. Just quit it and ran the game again, should work after that.
+(tested 3 times, 2 times the first start did not work, there is a wired error about a failure in the rads_user_kernel self update log file. When it did work one time, the selfupdate will not run again, until a new version gets released, so it should really just happen the first time and after some big patches.)	

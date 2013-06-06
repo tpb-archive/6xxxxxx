@@ -1,0 +1,132 @@
+User Type,Username,Date,Text
+,buzznett,2011-09-24T20:31Z,Worked great on Windows 7 64bit
+,Bolle420,2011-09-30T11:23Z,Thanks!!!
+,g_brod,2011-10-09T08:09Z,"I followed all the instructions and what I get in the end is this: ""Replay Media Catcher has encountered a problem and needs to close. We are sorry for the inconvenience.""
+
+Guys, any advice ?
+Kipp0 ?"
+,Kipp0,2011-10-10T01:22Z,"Never encountered that problem - There are a few ways to troubleshoot problems like this
+
+Simplest suggestion is to just reinstall it and follow all instructions exactly - but that doesn't always work
+
+We can guess that the problem may be a graphics issue:
+Try updating your adobe flash player (from filehippo - get the IE and non-IE versions)
+Try updating java
+Try updating your video card
+
+We can guess it's a comparability issue:
+I can probably lend you more assistance in this area personally - what Operating System are you using (include 32 or 64bit)"
+,gusarski_brod,2011-10-11T01:12Z,"gusarski_brod=g_brod (I had some login trouble)
+
+I forgot to mention that I use XP PRO SP3 (32 bit) - sorry about that.
+
+- Try updating your adobe flash player (from filehippo - get the IE and non-IE versions) - DONE
+- Try updating java - DONE
+- Try updating your video card - DONE
+- ... reinstall it and follow all instructions exactly - DONE
+
+It just crashes, "
+,gusarski_brod,2011-10-11T01:15Z,... no matter what I do - maybe that dll is the cause ?
+,nautica002,2011-10-12T20:14Z,"it worked. if u guys had problems,start over.in instructions shows where hosts file located and aliccl.dll located. easy,i went to start,run,enter file locationa nd there it is. copy files to correct folders,asks to replace original,click yes. done,start program,enter serial-unlocks full version. yay"
+,gusarski_brod,2011-10-13T19:08Z,"@nautica002
+
+I already did all that - and to the letter - I am not some PC noob - on the contrary.
+
+Kipp0, are you still there ?
+
+nautica002, what kind of operating system you use ?
+
+What is really interesting that  I had no trouble at all with version 3 ?!?"
+,asdhokker,2011-10-15T00:08Z,"IT ONLY WORKS IF YOU TURN INTERNET OFF, INSTALL FROM THE INCLUDED SETUP AND THEN RUN THE PATCHER !!!! (which filename says that you dont need it, but YOU DO NEED IT!)
+
+it wont start with manually copying the dll!!
+USE THE PATCHER!"
+,asdhokker,2011-10-15T00:12Z,"edit the hosts file too ofc, but the patcher is the key!
+(you can deselect the .dll and serials.txt before downloading)"
+,asdhokker,2011-10-15T00:28Z,"for teh newbies:
+
+1) Turn off your internet (important)
+2) Install Replay Media Catcher, don't open it (untick&finish)
+3) add to your hosts file:
+127.0.0.1       www.applian.securesites.com
+4) Run the patcher in ..\program files\applian...\.. etc.
+5) Launch Replay Media Catcher & input one of the following serials:
+
+6) DONE"
+,asdhokker,2011-10-15T00:35Z,"also... lol...
+
+if you cant record flash, then:
+1) go to Tools->Settings
+2) under RTMP tweaks select ""always record RTMP streams (instead of downloading)
+3) restart program and enjoy!"
+,gusarski_brod,2011-10-15T12:13Z,"@asdhokker
+Well, I did exactly as you said, but the result is still the same - program crashes on start.
+
+It seems to me that patcher just copies and pastes changed dll that is already in the torrent folder or it is simply not working.
+
+I would really like that solution for this is as simple as you say.
+
+Any other ideas ?"
+,Kipp0,2011-10-15T21:28Z,"I'm not completely sure how RMC is coded, but you could also:
+-Try repairing/reinstalling your .NET framework installations (2, 3, 3.5, & 4)
+-Try repairing/reinstalling your microsoft visual C++ 2005, 2008, & 2010
+-Any updates via Windows Update?
+
+As far as I can tell, your problem is very specific - perhaps a virus damaged something or security software is forcing it to crash (I think the virus one is more likely)"
+,gusarski_brod,2011-10-17T02:32Z,"@Kipp0 - You are the man !
+You really nailed it - I did as you said - I installed all that stuff, and updated it (updates and security patches, just to be sure) and it worked !
+
+I am not sure exactly what was missing, so I installed everything - LOL
+
+Just one little curiosity - if you put back original dll, RMC does NOT crash (without all that frameworks and visual c++ stuff) - it just says it cannot connect to the server to check the registration code (because of the hosts file) - weird isn't it ?
+
+Thanks to all of you guys who offered help - customer support here at TPB is really awesome LOL !"
+,devontei234,2011-10-24T01:20Z,"I was having the same issue as gusarski_brod. I would get an error/close window when launching RMC with the modded aliccl.dll (no problems launching when using the original aliccl.dll file).
+
+My PC is a fresh Vista 64 install without .NET Framework 3.5 installed. I installed the .NET Framework and went through the RMC installation again following the easy Readme.txt instructions and everything worked perfectly.
+
+Perhaps it should be noted in the Readme.txt that the user must have .NET Framework installed.
+
+Thank you Kipp0 for this program and torrent!"
+,Shadow Master,2011-11-06T08:31Z,"I didn't bother disconnecting the internet, but I followed everything else exactly and it worked."
+,craigt3365,2011-11-27T08:53Z,BitDefender blocked multiple viruses from this RAR.  Is there a problem with this?
+,tabootribe,2012-01-04T11:27Z,worked perfectly...but this app downloads vids at a slow pace compared to IDM. JUST SAYING
+,MikeR56,2012-01-08T04:52Z,This program will not record Glenn Beck or GBTV. Worthless.
+,MikeR56,2012-01-08T04:53Z,Works great on youtube. BFD.
+,maxjasper,2012-01-12T20:01Z,(Not Needed)RMC 4.3 Patcher.rar contains Trojan installation which is blocked by McAfee. 
+,lkadar,2012-01-15T09:00Z,"Works great on HP Win 7 x64
+THANKS!"
+,masterschwarz,2012-01-16T19:43Z,"Very easy to install, works on win7 64bit"
+,operator1101,2012-01-20T03:20Z,"First, the Keygen gets flagged by some antivirus software because...guess what.. it's an Patch! Durp.
+
+Second, Unfortunately RMC 4.3 adds it's own network drivers which give me BSOD. (Win7 x64). I can reproduce the BSOD to show it's the terrible coding in their network driver. :("
+,losfreddy,2012-01-25T20:52Z,I kept trying the serials and was getting frustrated when it wasnt working..  then i read the instructions and realized i had to replace the host files with those provided.  Works great!!  ive tried several programs to grab videos from the internet and this is BY FAR the best!!!
+,pmaryo,2012-02-02T12:57Z,"It's good. But now i have a problem. I've installed it once and worked fine.Now after re installation of my OS i installed this and changed hosts, but didn't change aliccl.dll because if i change that then when opening RMC it shows Replay Media Catcher has encountered a problem and needs to close. We are sorry for the inconvenience. So i didn't do that. Disconnected internet and added serial but it shows license error. Solve it plz."
+,brenobrendan,2012-02-10T18:17Z,Kipp0 It crashes on start. I did it all as you said but I just can't run it.
+,brenobrendan,2012-02-10T18:18Z,Does anyone know what the problem is?
+,Winnah,2012-03-01T04:27Z,"Works great!! - Thanks!!
+
+To everyone who is complaining: You don't have to open the (Not Needed)RMC 4.3 Patcher.rar, that's why it says ""(Not Needed)."" Just add 127.0.0.1       www.applian.securesites.com to the bottom of your hosts file and replace the aliccl.dll, it's so easy and if you can't follow that, then maybe you shouldn't be trying to get free stuff off the net!"
+,wvyno,2012-03-02T07:23Z,"You do not need to do the host file part. And honestly, the host file part seems major sketchy. The URL is securesite or whatever.com, not applian.com, the site of the software company. It is disguising it to look like a sub-site of Applian, but it's not. I skipped that step and it worked fine. I wonder if you even need to replace that DLL. Definitely some sketchy instructions, the serial numbers here work just fine."
+,osstation,2012-03-18T00:34Z,"to solve the problem, don't forget to update Vista."
+,jifer,2012-03-18T23:04Z,"I have weird problem with driver.
+
+I installed this with no problem and it works perfect but the DRIVER is blocking my internet connection!
+
+Driver allows me to run connection 1-2sec after request. This allow me to open most pages.
+Pages with a lot images stops load.
+
+Same thing is for flash things. F.e. YouTube movies are loaded for 1-2sec than stops. Same thing for flashgames and many other things not being flash. It seems that this just block http protocol.
+
+Problem is caused by driver delivered with application.
+
+Any ideas how to solve that?"
+,guitargraham,2012-04-18T09:01Z,Excellent upload works perfectly and very simple  instructions to follow. Running windows 7  64 bit.
+,cansat66,2012-05-18T04:50Z,"thanks
+works great, win7-x64"
+,SpaceCadet6969754,2012-05-28T20:24Z,"It works it installs and that I d/c internet then did it all replaced DLL hosts file entries put serial then reconnect internet.
+I downloaded about 6 videos flv format using jwplayer, and the playback is all stuttered starting and stopping like a bunch of pictures.
+Definitely something not working with it."
+,justinrpg,2012-06-05T23:24Z,"THERE IS A VIRUS IN THE PATCHER!!!!!! THIS IS WHAT MSSECURITY ESSENTIALS DETECTED
+http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?name=Trojan%3aWin32%2fDynamer!dtc&threatid=2147638124"
+,alissonpc,2012-06-06T16:45Z,"The new version of Replay Media Catcher is 4.4.3 i tried to install with the same way of this 4.3.2 but don't works, the program is on Trial (with the Buy Now appearing) but when i click to put registration code it says ""Could not be able to detect internet, check if you're on internet and try again"". So please someone do a right keygen/crack to the new Replay Media Catcher 4.4.3"

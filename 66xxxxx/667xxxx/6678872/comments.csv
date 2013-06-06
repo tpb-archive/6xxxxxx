@@ -1,0 +1,10 @@
+User Type,Username,Date,Text
+,ffejrxx,2011-09-17T10:21Z,"v1.81 available at the linked site
+
+fixes include
+
+Replaced the keyboard hook-based micro-stutter fix with a FilterKeys one. Should fix any issues people have been having with weird sound or framerate issues when this tweak is active. 
+Updated the disable bloom, weapon refraction and dust tweaks to use the files in Data02.pak. This should hopefully fix the issues people have been having where effects seem to disappear while these tweaks are active 
+The auto-update feature can now be disabled 
+Laid some groundwork for an in-game save feature. Should be in for v1.9 
+Added a periodic check for the Dead Island process that will set the process priority to â€œNormalâ€ if it ever drops to â€œBelow Normalâ€ or â€œLowâ€ "

@@ -1,0 +1,40 @@
+Chakra GNU/LInux is a free, user-friendly and extremely powerful liveCD and distribution using the award winning KDE SC and Plasma Desktop with a bundle system to use GTK-apps.
+
+The Chakra Development Team is proud to announce the release of Edn, Chakra GNU/Linux featuring Linux 3.0 and KDE 4.7.
+
+Since our last stable image Aida (2011.04-r2) many things are updated, and have changed, which makes it hard to install for Chakra Newcomers. We decided to release Edn a bit ahead of schedule because of this. We switched to KDE 4.7 and added Linux 3.0 as new basis to our repositories. Appset and CCR got enhanced.
+With this release we offer:
+ KDE 4.7.0
+ Linux 3.0.3
+ minimal image you can build your desktop on
+ ported tribe for KDE 4.7 series
+ updated initscripts with the option to test systemd
+ updated mesa-stack
+
+You can install additonal packages from our repositories.
+For all our GTK fans we added some more popular GTK-apps as bundles. You can download them from our bundle page and run them with a simple double-click right away. More about it you can read here. 
+http://www.chakra-project.org/bundles.html
+If you miss one package you need you can take a look at the Chakra Community Repo where our users add additonal PKGBUILDs you can simply compile from source tarballs or install with AppSet. Read the CCR User Guidelines to get started.
+A good start is to read our Wiki or visit our Forums. If you are from Italy or speak Italian, we recommend our partner page chakra-project.it.
+
+Other features to mention:
+ Xorg 7.6 Stack with Mesa 7.11 and Xorg-Server 1.10.4
+ Updated Xorg Drivers
+ switch from heimdal to krb5 (including rebuilds of depending pkgs)
+ fixed burg theme
+ burg saves last boot-state
+ fixes for kvm and virtualbox
+ updated networkmanagement
+
+Read the 'Build Notes' for further information.
+
+All the best
+
+The Chakra GNU/Linux Developers Team 
+http://chakra-project.org/get/release_notes.php?release=stable
+ 
+http://chakra-project.org/index.html 
+http://chakra-project.org/donate.html
+
+sha1sum : e24d7cb333dfdaa26a7529f9e52f8f58636d6a45  chakra-2011.09-edn-i686.iso
+md5sum : a87160e24d2226b28f12a370ce86fca0  chakra-2011.09-edn-i686.iso

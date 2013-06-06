@@ -1,0 +1,25 @@
+Official Web Site:  http://www.barebones.com/products/bbedit/
+
+Info Whatâ€™s new in BBEdit 10.0.1?
+
+Lots. Hereâ€™s a summary of the high points, but we encourage you to read the complete change notes.
+
+Project and document window changes â€“ Project windows have been enhanced, to include a list of recently used documents in that project. The multiple-documents-in-a-window interface has been updated: files that are open in the window are shown in a sidebar list, as well as documents that were recently opened into that window. At your convenience, any window containing multiple documents may be saved as a project.
+
+Preferences and setup improvements â€“ The Preferences window has been completely rewritten and re-imagined. Many obsolete preferences, as well as settings never used in daily operation, have been removed from the GUI in the interests of reducing complexity. A new Setup window presents a centralized location for managing configuration data which is not strictly related to user preferences: FTP/SFTP bookmarks, Grep patterns, file filters, and web site configurations for the HTML markup tools.
+
+Reinvented and enhanced HTML markup tools â€“ The UI for the HTML markup tools has been redesigned. When creating or editing an element or its attributes, the markup tools now offer the flexibility to use any available attribute, while helping to create valid markup by presenting completions for the attributes that are valid for that particular element. â€œPreview in BBEditâ€ windows have been enhanced to support page templating (so that you can preview partial page content while presenting a standard appearance defined elsewhere) and switchable style sheets.
+
+Dropbox support â€“ If you use Dropbox, you can relocate your BBEdit application support data to your active Dropbox folder, and BBEdit will use them there in preference to the locations in `~/Library/`. In this way, you can easily share supporting files with multiple BBEdit installations (handy for multiple machines on your desk). The BBEdit application support folder itself has been reorganized to make management and backup simpler.
+
+Switchable syntax coloring schemes â€“ The â€œText Colorsâ€ preferences now add an interface for loading and saving color schemes. The format for color scheme files is the same one used by BBColors and in fact, BBEdit will import any BBColors files that you have created. You can also specify color schemes on a per-language basis.
+
+Packages â€“ A Package is a collection of the sort of things youâ€™d place into ~/Library/Application Support/BBEdit/ to extend BBEdit, such as clippings, scripts, language modules, and text filters; but makes it easier to install such items when they are all related to a single type of task, rather than having to manually install and manage items spread out between different folders.
+
+Search, replace, and edit in Zip archives â€“ BBEdit 10 adds significant capabilities for working with Zip files. (Zip is a popular and commonly used compression format, both on Mac OS X and on other platforms, as well as being a preferred distribution format for EPUB documents.) It is now possible to edit and save documents opened from within Zip files, not just view them; edits are written back to the Zip archive. Multi-file search-and-replace, as well as text factory application, can now be used to process files inside of Zip archives.
+
+System Requirements:
+
+OS version: 10.6.8 or better
+
+-- PLEASE SEED ---

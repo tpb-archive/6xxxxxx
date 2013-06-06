@@ -1,0 +1,44 @@
+User Type,Username,Date,Text
+,adcosoft,2011-09-05T20:36Z,This patch doesn't work... After patching the program won't run...
+[V],scene4all,2011-09-06T01:35Z,"This is the 3rd time I'm reinstalling and it's working fine.
+
+If your using win vista or win 7 run the patch as admin, then it will ask you to browse the folder, so choose your main local disk then Program files then GlobalSCAPE and then CuteFTP 8 Professional, make sure that you select CuteFTP 8 Professional not GlobalSCAPE. Then it should say patch was successful.
+
+Here's Proof:
+
+http://www.postimg.com/47000/photo-46287.jpg"
+,GazNicki,2011-09-08T18:04Z,I am downloading this now. On Windows 7 and will report on how it went with the install.
+,GazNicki,2011-09-08T18:08Z,"Install was smooth, easy and WORKED!! Thanks scene4all"
+[V],Sagablanc,2011-09-18T00:36Z,Thanks!
+,wizzkid1970,2011-10-02T18:46Z,patch dont work on 64 bit windows 7
+,dublinsteve,2011-11-30T14:14Z,"worked for me on win 7 x64 ultimate, installed and opened in demo mode, closed and applied patch as admin and browsed to C:\Program Files (x86)\GlobalSCAPE\CuteFTP 8 Professional, reopened and wolla! patched and working!"
+,Nevodaniel,2011-12-14T05:31Z,"Wicked Share, way better then other releases. Installed, Patched and everything works. The only thing i had to do is tell cute ftp to save the information somewhere because I'm guessing the patch deleted the default sites and cute ftp tripped out asking me to save them somewhere again without any information in the dialogue box. If you click no, it doesn't work and you don't use the program. If you click yes, it asks you to save it and once you do, everything works fantastic, even after closing it and reopening! Thank you for the share!"
+,welsh17,2012-02-01T05:00Z,wIN 7 x64 DOES NOT WORK.
+,ImSoJaded,2012-03-06T20:20Z,"It does work on Win7 x64 if you are not retarded, and you were not lazy to read ""dublinsteve's"" comment. ^.^
+Thanks."
+,JiggaNut,2012-03-13T17:23Z,"I tired following the exact instructions..
+
+Install (ok)
+Install Patch with Admin
+* First I get, ""Path not Found"", click OK, then I get the choice to locate the folder.. (C:Program Files (x86)GlobalSCAPECuteFTP 8 Professional) then I get the same error again.  ""Path not Found"", clikc OK, Then I get ""Patch installed""
+
+When I try to open cuteFTPpro.exe I get the following error: ""CuteFTP was unable to load the resource file. Please reinstall CuteFTP and select 'Repair'.
+If yyou continue to receive this error, please contact our support department.""
+
+I tried several times, and I keep getting the same error.
+
+I am on Win 7 Home Premium x64
+
+What am I doing wrong?"
+,JiggaNut,2012-03-13T17:36Z,"Update,
+
+I moved the Patch to the installation folder before patching.. Then it worked fine.."
+,JuanEllo,2012-04-13T03:41Z,"It does work in W7 x64, this is how I did it:
+
+1. Install program
+2. Open program, Select Trial
+3. Exit Program
+4. Copy Patch to Installation Folder
+5. Right click Patch and Run as Administrator
+6. Select Program Path, make sure CuteFTP 8 Professional folder is selected
+7. Enjoy."

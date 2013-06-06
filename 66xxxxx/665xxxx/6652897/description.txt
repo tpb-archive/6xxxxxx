@@ -1,0 +1,8 @@
+WHAT IS EVERYDESK? Conecta Research has developed EveryDesk, a reinterpretation of the Linux desktop. It executes from a 4GB USB Key, and allows the user to run a modern and efficient Linux Desktop on most PCs without the need of changing or removing the native operating system such as Windows. Designed to be used in Public Administrations or as an enterprise desktop, EveryDesk is a real OS on a USB key, not a live CD, and as such allows for extensive customization and adaptation to each Public Administration need. It is the result of the open sourcing of parts of the Conecta HealthDesk system, designed using the result of our past European projects COSPA (a large migration experiment for European Public Administrations), SPIRIT (open source health care), OpenTTT (OSS technology transfer) and CALIBRE (open source for industrial environments). EveryDesk is a binary image designed for 4GB USB keys, easy to install with a single command both on Linux and Windows, simple to replicate and adapt. It does provide a simple and pleasing user interface, with several pre-installed applications and native support for Active Directory. EveryDesk supports roaming/nomadic work through a special mode that stores all user data on a remote SMB server (both Samba and Windows are supported). This way, the user's USB key contains no personal data, and can be used in environments that manage sensitive data, like health care or law enforcement.  
+http://www.everydesk.org/about/
+ 
+http://www.everydesk.org/ 
+http://sourceforge.net/projects/everydesk/files/
+
+sha1sum : 31e74be3fd8a939c90280e6c5e2f0745a9744418  everydesk-rc2.zip
+md5sum : 0c7f5492fbd59de81d5bd61264faa928  everydesk-rc2.zip

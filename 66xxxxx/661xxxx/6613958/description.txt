@@ -1,0 +1,12 @@
+Advanced Installer 8.3 Build 36963 Architect
+
+1. install and then don't run advanced installer yet
+2. copy the patch to caphycon\advanced installer 8.3\bin\x86
+3. run the patch as admin, and press the PATCH++ button
+4. in the new dialog, type "aspirasisoft"
+5. you can close the patcher, and run advanced installer
+6. go to options/auto updates and disable update checking
+7. the first time you may get a warning about your license key, ignore it
+8. if you're really paranoid, you may disable network connections with your firewall
+
+thanks to AspirasiSoft for this release!

@@ -1,0 +1,46 @@
+Website: http://www.haiku-os.org
+Release Notes: http://haiku-os.org/get-haiku/release-notes
+
+Video:
+
+Company: Haiku, Inc.
+OS family:	 BeOS
+Working state:	Alpha
+Source model:	Free and OpenSource software
+
+Release: R1/Alpha 3 / June 20th, 2011
+Works for	Personal computer
+Language(s):	Multilingual
+Platforms:	x86-32
+Kernel type:	Hybrid
+License: MIT License
+
+
+Haiku is a free and open source operating system compatible with BeOS. Its development began in 2001, and the operating system became self-hosting in 2008, with the first alpha release in September 2009, the second in May 2010 and the third in June 2011.
+Haiku is supported by Haiku, Inc., a not-for-profit organization founded in 2003 by former project leader Michael Phipps. Haiku, Inc. is based in Rochester, New York.
+
+Haiku began as the OpenBeOS project in 2001, the year that Be, Inc. was bought by Palm, Inc. and BeOS development was discontinued; the focus of the project was to support the BeOS user community by creating an open-source, backward-compatible replacement for BeOS. The first project by OpenBeOS was a community-created \"stop-gap\" update for BeOS 5.0.3 in 2002. In 2003, a non-profit organization (Haiku Inc.) was registered in Rochester, New York, to financially support development, and in 2004, after a notification of infringement upon Palm\'s trademark on the BeOS name was sent to OpenBeOS, the project was renamed as Haiku. However, development would only reach its first milestone in September 2009 with the release of Haiku R1/Alpha 1. This was followed in May 2010 by R1/Alpha 2, which contains more than 300 bug-fixes and improvements. R1/Alpha 3, released in June 2011, contains additional improvements and more than 950 bug-fixes.
+
+Development
+
+Haiku is developed in C++ and provides an object-oriented API.
+The modular design of BeOS allowed individual components of Haiku to initially be developed in teams in relative isolation, in many cases developing them as replacements for the BeOS components prior to the completion of other parts of the operating system. The original teams developing these components, including both servers and APIs (collectively known in Haiku as \"kits\"), included:
+App/Interface â€“ develops the Interface, App and Support kits.
+BFS â€“ develops the Be File System, which is mostly complete with the resulting OpenBFS.
+Game â€“ develops the Game Kit and its APIs.
+Input Server â€“ the server that handles input devices, such as keyboards and mice, and how they communicate with other parts of the system.
+Kernel â€“ develops the kernel, the core of the operating system.
+Media â€“ develops the audio server and related APIs.
+MIDI â€“ implements the MIDI protocol.
+Network â€“ writes drivers for network devices and APIs relating to networking.
+OpenGL â€“ develops OpenGL support.
+Preferences â€“ recreates the preferences suite.
+Printing â€“ works on the print servers and drivers for printers.
+Screen Saver â€“ implements screen saver functionality.
+Storage â€“ develops the storage kit and drivers for required filesystems.
+Translation â€“ recreates the reading/writing/conversion modules for the different file formats.
+A few kits have been deemed feature complete and the rest are in various stages of development.
+The Haiku kernel is a modular hybrid kernel and a fork of NewOS, a modular kernel written by former Be, Inc. engineer Travis Geiselbrecht. Like the rest of the system it is currently still under heavy development. Many features have been implemented, including a virtual file system (VFS) layer and rudimentary symmetric multiprocessing (SMP) support.
+ 
+http://www.osnews.com/story/24864/Haiku_Alpha_3_Released 
+http://www.osnews.com/topics/20

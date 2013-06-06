@@ -1,0 +1,11 @@
+User Type,Username,Date,Text
+,aaronbewza,2011-09-22T12:29Z,"So I do not need to use a merge utility, like ClrMamePro? Generally the ""contents"" of the new update zip files are merged with the existing ROM zip files... to produce a new updated ROM. Are these already merged like that? Thank you for clarifying before I mangle the entire collection lol! And thank you very much for your hard work, btw... very much appreciated, you've inspired me to once again update everything :)"
+,Lovok,2011-09-22T16:45Z,"Yes, updates are created to be as simple as possible. This means that update zips are full romsets (split/merged to be precise) including all roms, not even added/changed ones. So nothing more than described three steps is needed to use them (ClrMamePro is not needed). Zips which names are no more used/are renamed, are included as zero size files, which allows, after replacing original ones, to simply identify and delete them, again without need of ClrMamePro."
+,aaronbewza,2011-09-22T18:01Z,"Thank you very much for the information, Lovok... and for the extra work you put into making the updates very easy! Great job!"
+,aaronbewza,2011-09-22T19:15Z,"To compliment your fine work, I have added unofficial MAMEUIHiScore.exe version 143u6 here:
+
+http://thepiratebay.org/torrent/6694391
+
+- x86 and x64 versions
+- HiScore support (enabled by default)
+- no nagscreen and no loading screens (adjust these options in INI)"

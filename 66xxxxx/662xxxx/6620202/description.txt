@@ -1,0 +1,93 @@
+                         --------------------------------------
+                        |Realism Patch V2.15 for any OF version|
+                         --------------------------------------
+
+
+THIS PATCH CAN BE APPLIED TO ANY OPEN FALCON VERSION, REGARDLESS OF ANY PREVIOUS REALISM PATCHES...!
+THE "REALISM PATCH V2.0/2.1x OF" IS ALREADY INCLUDED INTO THIS PATCH, SO YOU ONLY NEED TO APPLY THIS ONE OVER "Falcon4" FOLDER
+
+
+
+     This patch has major changes in the aircrafts data..., once again bringing them one step closer to the real thing!
+
+***********************************************************************************
+     All the modifications within the tables have been meticulously reworked in concordance with real diagrams and polars,in an effort of bringing the
+aircraft's flight models as closer to their real behavior as possible, in terms of roll rates, pitch rates, accelerations on X and Z axis
+(that means coeficients of lift, drag coefs and propulsion tables modified) as well as angle of attack limiters for given G values!
+
+
+I wish that the real F-16 pilots have finally found the simulator which makes them feel just like in the real F-16 with it's performances!
+
+"F-16 and other fighter pilots..., welcome to a new world!"
+***********************************************************************************
+
+
+Other modifications are as follows:
+
+
+-----------------------------------------------------------------------------------
+The F-16 Block 52+CFT has unknown data issues which makes Falcon4 crash when attempting to fly it, therefore it has been taken out from DGFT menu!
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+The following aircrafts, now have their specific top speeds achievable, just like the real ones: 
+
+- The F-16's now can reach 2.05M or M2.10+ depending on variant/block/engine manufacturer
+
+- The F-14A top speed = 2.38M (40000ft)
+
+- The F-14B/D top speed = 2.35M (40000ft)
+
+- The F-15C = M2.5+ (50000ft)
+
+- Other F-15 variants now reach their real top speeds aswell
+
+- The F/A-18A/C = 1.8M (@36000-38000ft)
+
+- The F-18E/F Super Hornet = M1.8+ (40000ft)
+
+- The F-22 Raptor = M1.82+ for supercruise and M2.4+ with afterburner (real top speed is higher, but classified...) (40000ft)
+
+- The MIG-23ML armed with two R-23 Apex, now reaches from 600km/h to 900km/h in 12.2 seconds at 3000ft, same as the real ML, and from 1.00M to 2.00M
+in about 160 seconds (2 minutes and 40 seconds) at an altitude of 36000ft
+
+- The MIG-29's = 2.35M
+
+- The MIG-31 = 2.8M (above 70000ft)
+
+- The Su-27/30/37 = 2.35M
+
+- The Su-32 = 1.8M (36000ft)
+
+- The Su-33 = 2.17M (33000ft)
+
+- The Su-35 = 2.25M
+
+- The SR-71 = M3.2+ at around 80000ft
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+The following aircrafts now have a better Cobra and Kulbit/Powerloop behaviour:
+
+- MIG-29 all variants
+
+- Su-27/30's/32/33/35/37
+
+- The F-22 Raptor
+
+***Although the Cobra ability for MIG-29 and Su-27/30 is now closer to real, there is a small issue with the rudders going in opposite direction when
+applied somewhere between 200-300kts, because of the limitations within the .dat files..., but this shouldn't affect the landing speed or cause any
+difficulties in any way!***
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Thank you for choosing the Realism Patch of Open Falcon for a higher level of accuracy and performance...!
+
+"Always looking towards a better Falcon!"
+
+
+Greetings...!
+
+	"Falconeers"		

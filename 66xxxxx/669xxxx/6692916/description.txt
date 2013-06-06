@@ -1,0 +1,29 @@
+Tails is a live system: a complete operating-system designed to be used from a CD or a USB stick independently of the computer's original operating system. It is Free Software and based on Debian GNU/Linux.
+Tails comes with several built-in applications pre-configured with security in mind: web browser, instant messaging client, email client, office suite, image and sound editor, etc.
+... 
+https://tails.boum.org/about/index.en.html
+
+Changes
+
+Notable user-visible changes include:
+    * Tor 0.2.2.33
+    * I2P 0.8.8
+    * Linux 3.0.0
+    * Iceweasel 3.5.16-9
+    * Torbutton 1.4.3-1
+    * HTTPS Everywhere 1.0.1-1
+    * More random looking nicks in Pidgin.
+    * Replace the onBoard virtual keyboard with Florence.
+    * PiTIVi non-linear audio/video editor.
+    * Support arbitrary DNS queries.
+    * Use XZ compression to get much smaller ISO images and a bit faster boot.
+Plus the usual bunch of minor bug reports and improvements.
+See the online Changelog for technical details. 
+http://git.immerda.ch/?p=amnesia.git;a=blob_plain;f=debian/changelog;hb=refs/tags/0.8
+ 
+https://tails.boum.org/contribute/index.en.html 
+http://dl.amnesia.boum.org/tails/stable/tails-i386-0.8/tails-i386-0.8.iso.pgp (signature)
+
+Trackers : 
+http://z6gw6skubmo2pj43.onion:8080/announce 
+https://www.les-renseignements-genereux.org/tracker/announce

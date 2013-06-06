@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,thecrazyglopss,2011-08-20T01:36Z,"Hello again Delphi, is there any way you could make your own version of Civ 5 that would make this trainer work as it should like you did before? This one keeps crashing randomly, bro.
+
+But then again, there is update 1.0.1.383 out now -_-"
+,thecrazyglopss,2011-08-20T01:45Z,Also ver .383 has a Korea DLC which should be awesome
+,DelphiUniverse,2011-08-20T03:50Z,"Can you give a detailed description of what you are doing to cause the crash. I need to know exactly the things you do, it is of great help :)
+
+Does it crash randomly or does it crash right after you did something?"
+,DelphiUniverse,2011-08-20T03:50Z,Are you using 64 bit or 32 bit windows?
+,DelphiUniverse,2011-08-20T03:56Z,"Install this update: http://thepiratebay.org/torrent/6548877/Civilization_V_update_1.0.1.348
+
+This is the one I am using and it doesn't crash, not once. Are you using the same?"
+,thecrazyglopss,2011-08-20T17:01Z,"Yes, I am using that exact one.
+
+It just seems to be crashing at the most random of times, really.
+
+I'm using 64bit Windows."
+,DelphiUniverse,2011-08-20T18:51Z,Give me the crash report so I can find the crash reason. I need the details in it. :) If you can post it to a pastebin and then paste the link here. I will try to solve it.
+,DelphiUniverse,2011-08-20T18:55Z,"The link I gave you is patched by a chinese group, it is not skidrow. In your previous message you told me you were using skidrow."
+,DelphiUniverse,2011-08-20T18:58Z,"Never mind, it is really irrelevant which executable were made by whom. If you can give me the crash report, that's all I need to solve it."
+,thecrazyglopss,2011-08-20T21:05Z,"It never allows me to send a crash report, it only tells me that Sid Mier's Civilization V has stopped working and that Windows will find a solution if available etc etc. (which everyone knows it won't LOL)
+
+It never says anything about a crash report."
+,DelphiUniverse,2011-08-20T21:16Z,"A small utility called AppCrashView can tell you what caused it. IF you have time one day, check it out and let me know. If you give me the module and the adresses for the crash I can solve it."
+,thecrazyglopss,2011-08-20T22:05Z,"Have it right here:
+
+http://pastebin.com/Ux8D8CAm
+
+It's the one that happened today."
+,DelphiUniverse,2011-08-20T23:12Z,"I've peeked at the error report, it doesn't touch any areas where my own trainer is working on. Are you sure you are not using several trainers at the same time?"
+,DelphiUniverse,2011-08-20T23:12Z,"You should never combine several trainers at the same time, that can bring catastrophic results."
+,DelphiUniverse,2011-08-20T23:13Z,But I will look some more at it
+,DelphiUniverse,2011-08-20T23:25Z,"I have made a new test version, pre-release, can you test if it produces the same crashes.
+
+You can find the download url in the link from the pastebin : http://pastebin.com/8FVqwwpn"
+,thecrazyglopss,2011-08-21T00:12Z,"Nope the only trainer I've been using was yours, and I'll be happy to test yours out."
+,thecrazyglopss,2011-08-21T00:22Z,"OK, I've tried it and nothing at all worked.
+
+Didn't crash, but it didn't seem to respond."
+,DelphiUniverse,2011-08-21T01:08Z,"I know, it didnt work for me either, I forgot to do a simple thing. Im redesigning parts of the program to try to avvoid the crash."
+,thecrazyglopss,2011-08-21T02:01Z,"Thank you, DU."
+,DelphiUniverse,2011-08-21T04:18Z,"I have uploaded a new trainer if you want to try it. You can now launch the game or trainer in any order you like, it doesnt matter."

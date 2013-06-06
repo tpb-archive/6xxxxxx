@@ -1,0 +1,163 @@
+User Type,Username,Date,Text
+,illiria,2011-09-09T15:30Z,"Ok, I have installed the game on my computer - works great.
+
+Now I can give more details on the game's QuickTime requirements: game will not launch unless you have QuickTime 3.0 installed. Once you do, you can try launching the game, and it will work - but it will have a horrible, clicking sound (outdated audio codecs of QuickTime 3.0). Once you install the latest version of QuickTime (Or QuickTime 7.0 from my release), the game will have normal sound."
+,phil0sophy,2011-09-09T16:11Z,"Im seeding as fast a possible also, will leave it for 3-5 hours after dling so people can get this release as its such a quality / classic game"
+,illiria,2011-09-09T17:02Z,"@ phil0sophy
+
+Yup, my other torrents picked up more or less already, so I'm giving this game the priority. And I'm playing it now too. :) Indeed, such an incredible game. Looks VERY good for 1998! Just like a movie."
+,phil0sophy,2011-09-09T17:10Z,"@illiria Yeah its a great game, I loved games like this and the point and click pc movie adventures of the 90`s like phantasmagoria and other things of that nature where they mixed fmv with gameplay.
+
+X files was like resident evil mixed with the best of the fmv adventure games.
+
+Cant wait to finish dling and play thanks for the upload :-)"
+,phil0sophy,2011-09-09T19:01Z,"At 12% still getting slow dl but im still uploading as much as poss, will probably leave the upload on for a few days actually so plenty of people can get this, just out of curiosity also illiria are you doing a dead island repack with the day one patch by any chance?"
+,motley666,2011-09-09T23:18Z,3.29 GB for a 1998 game?!
+,ancient78,2011-09-09T23:30Z,"Thank you very much , i was tracking your progress with several torrents and you seem to get praise for your clean,virus free and fine work. 
+
+this is the first torrent i will download from you.
+
+Thank you again for upping this and i will help seed once i finished And keep up the good work i really appreciate your effort and time you spent on these repacks :)"
+,phil0sophy,2011-09-10T00:03Z,"@motley666, do you know how many discs this game was on? illiria is a reliable seeder, there is nothing to worry about."
+,illiria,2011-09-10T01:11Z,"@ motley666
+
+The game originally came out on 7 discs. It easily takes 3.29 gigabytes.
+
+
+@ EVERYONE
+
+If QuickTime 3.0 will not install on Vista/7 - tell me about it. I will try to dig up the files separately. Specifically, DLLs it puts in Windows directory, and registry entries it makes, to fool the game into ""thinking"" QuickTime 3.0 is installed."
+,phil0sophy,2011-09-10T02:03Z,@illiria is there not a way to use compatibility settings to make 3.0 work on windows 7? regardless I will try and let you know what happens.
+,illiria,2011-09-10T03:14Z,"@ phil0sophy
+
+Compatibility settings may not always work as intended. Some applications may still refuse to run. And QuickTime 3.0 is really old.
+
+I'm not saying it won't work, I'm only saying I haven't tested. So yes, please post the results."
+,phil0sophy,2011-09-10T12:01Z,@illiria the torrent stopped downloading at 98.9 % and has no seeds?
+,phil0sophy,2011-09-10T12:02Z,@illiria the torrent stopped downloading at 98.9 % and has no seeds? and wont let me upload anymore as I do not have the rest.
+,phil0sophy,2011-09-10T12:09Z,"nevermind it was my internet its back up now, will test it later 2 percent left."
+,phil0sophy,2011-09-10T20:24Z,"@illiria Ok download is complete I have seeded 6 gigs so far, problem with installing on windows 7 though I believe, When running the iso file The install menu comes up, When clicking the top option to install the game the menu just freezes out and stays frozen, does not start install and have to ctrl alt del out of autorun. So I tried opening iso and moving files to folder and running setup, again same problem setup freezes and ctrl alt del to unfreeze it.
+
+Restarted pc still having issue so it may just be a windows 7 thing? or I could be missing something what do you think?"
+,illiria,2011-09-11T03:19Z,"@ phil0sophy
+
+That's impossible. I could understand a bug in autorun, but in autorun AND setup? And both freeze for practically no reason, without any errors? I'm sure as hell there is something wrong with your computer. Anti-Virus, Admin Rights, UAC, I don't know. But that makes no sense at all. It is absolutely standard install and autorun, absolutely Windows 7 compatble, there is no reason at all why would they freeze.
+
+Much too strange, but I am absolutely sure the problem isn't in my files. Something must be blocking them or restricting access on your computer. Or maybe a corrupted download. Do other setup files on your computer run fine? Because I assure you, mine isn't any ""special"" kind."
+,illiria,2011-09-11T03:31Z,"Ah, I see where the problem lies. This repack is indeed very old. It contains one setup file which is 3,4 gigabytes in size. Only later on I found out that the setup occupies physical memory (RAM). Therefore, if setup is 3.4 gigabytes in size, you should have at least 3,4 gigabytes of physical memory (RAM) to run it. At least, that's what one programmer told me.
+But hell, I didn't want to believe it. Well, I guess he was right... My modern repacks come in a different structure (volumes), but nthis one... Yeah, I guess it requires a lot of RAM to run. Shit. Will see what can I do, but till then, yes, there is a chance it won't work for people will less than 4 gigabytes of RAM.
+
+Even then, I'm on Windows XP 32 bit, it doesn't allow any one application to use more than two gigabytes of RAM. So 2 gigabytes must be enough for setup. AND it should reserve the rest in a page file EVEN if you don't have enough RAM.
+
+No, either way, it has to work. Try waiting, okay? Maybe it buffers itself into page file, if you don't have enough RAM.
+
+How much RAM do you have anyway? Even less than 2 gigabytes? Then you really shouldn't be using Windows 7.
+
+
+----------
+Damn, it's just impossible to count in everyone, every operating system, every possibility."
+,phil0sophy,2011-09-11T13:08Z,"I have 4 gigs of ddr3 ram i have waited for 15 mins at the most and it just stays frozen im assuming its a windows 7 compatibility issue, all other setups run fine and my anti virus is not blocking or restricting anything have tried it with and without it still to no avail."
+,illiria,2011-09-12T03:09Z,"Right. Just installed Windows 7.
+
+Turns out 10-year old Windows XP supports large EXE files, and new Windows 7 does not.
+
+Holla uncle Bill. Rape your ass by all World of Warcraft's orcs. And my personal greetings to all the ""smart"" people who install Windows 7.
+
+Guess I'll be remaking it, to suit the requirements Microsoft makes up in every new fucking system of theirs.
+
+People, it's my personal opinion, but hey, don't switch to a piece of shit just because its ""newer"", kay?
+It's a fucking laugh, don't you think? 10-year old system supports what newest system doesn't."
+,illiria,2011-09-12T03:39Z,"No, sorry, did more testing. Windows 7 does not open EVEN files with 1 gigabyte in size. What, are we back to 1980 or something? Many repacks have EXEs that weight more than that.
+
+Just... just go on using Windows 7 people. It's ""pretty"" and ""new"". I guess that excuses Himalayan Mountains of bugs it has.
+
+I'll just stick to a NORMAL OPERATING SYSTEM.
+
+
+----
+And no, if you beloved can't handle one gigabyte (!) of data, that's not my problem."
+,phil0sophy,2011-09-12T13:08Z,"@illiria I wish I did not have windows 7 tbh, but it came with my gaming laptop that I had built and I got a good price on it so I could not turn it down, I admit windows 7 is a piece of shit but believe you me if I had it my way I would of never had it on there.
+
+Is there any work around for this issue? really want to play this game."
+,illiria,2011-09-14T06:56Z,"@ phil0sophy
+
+Sorry, I snapped. I've been under a lot of pressure lately. I have checked - X-Files works on wondows 7. At least, on 32-bit version. Windows 7 preloads all the installers. If the installer is big - yes, it may take 15-25 minutes to load it, because Windows 7, for some reason, apparently copies the entire contents of the disc before even loading it.
+
+Very strange, very bad behavior. It preloads any EXE before it even opens it. Installer does not hang - it is preloading into memory and page file. If you have 64-bit windows, I haven't tested yet, but my guess would be the same - it's preloading. Might try waiting even longer... Windows 7 54 preloads the *entire* setup, and on 64-bit systems - probably does that through virtual machine. In that case, preloading will take even longer.
+
+
+I have no idea why Microsoft did this, why preloading the entire file before even opening it, but thats what they did. Yes, the game works, installer works - I *AM* playing it in Windows 7 right now. But it takes helluva time to preload installer before it runs. Blame Microsoft, I have no idea why did they do this. Same crap goes for other repacks, other installers from different people. So yes, it's Microsoft's ""new feature"". No, it isn't my fault. :P
+
+In short - simply wait. A LOT. Works for me, though i waited for 15-20 minutes too (could very well be longer on 64-bit system). That's how new Windows systems handle large executable files."
+,illiria,2011-09-14T07:04Z,"Workaround - yes, there is a workaround for this issue. It would be to disable preloading of files in Windows 7. So far, I haven't figured out how to do this. Requested help from one programmer who helps me on occasion, maybe we'll come up with something. There should be a setting in Windows to disable it, we just haven't found it yet. So far, as I said - just try letting it load. For hours, if needed. Again, I want to make it very clear: it isn't my fault. Windows 7 handles *ALL* files like that.
+
+Leechers - please don't drop this torrent, it *DOES* work just fine in Windows 7. It installs fine, and plays fine - I've installed windows 7, the game, and tried playing it. Windows 7 simply loves to preload files before installation (caching the installation - after caching the installation runs a lot faster, but caching itself is long). It takes time, yes.
+
+Again: *********************************GAME WORKS FINE ON WINDOWS 7, JUST GIVE WINDOWS 7 TIME TO PRELOAD THE INSTALLER.*********************************"
+,illiria,2011-09-14T07:15Z,"P.S. I'm not sure I'll keep on working with torrents any time soon now. With all the recent developments, I have been quite discouraged to do so.
+
+I am rather skilled in this field, but I can't test and predict everything. And I don't want to make half-working releases.
+
+There are a couple of really great releases I've been preparing for a very long time, but once released, that will probably be the end of it."
+,Maledepecher,2011-09-14T18:21Z,"@illiria
+
+All your releases work PERFECT.
+Those who says that your releases doesn't work
+they are noobs.
+Please, please illiria don't quit now.
+I love all your releases and I am waiting new releases from you.
+You are the only one who releases perfect repacks.
+And if you quit I will be lost without your releases.
+So pretty please don't quit, don't give up.
+-----------------------------------------------------
+And now I got to ask you some favors, but only if you can do it.
+Could you make some perfect repacks with all DLC and with all patches the next games:
+
+-Two Worlds II (i can't find a working copy)
+-Jade Empire
+-The Saboteur
+-Fallout New Vegas
+-Crysis
+-Crysis Warhead
+-Crysis 2
+-Aliens vs Predator(2010)(compressed to 8GB)
+-Stalker Call of Pripyat
+-Wolfenstein(2009)
+-Call of Juarez The Cartel
+-Hunted: The Demon Forge
+-ArcaniA Gothic 4
+-Fable III
+-Mafia II (compressed to 4.3GB)
+-Alpha Protocol
+-Warhammer 40.000 Dawn of War II(compressed to 4.3GB)
+-Warhammer 40.000 Space Marine
+-GTA IV (compressed to 8GB)
+-Call of Duty Black Ops (compressed to 4.3GB)
+If you can't do all of them at least do some of them.
+------------------------------------------------
+You are the most intelligent human from here.
+(I don't know your gender are you a boy or a girl?)"
+,irishboyblue,2011-09-20T09:26Z,@illiria hell no look how far you.ve come Maledepechers right you are the smartest loader we got it wolud be a fucking shame tp lose you now i really appreciate your work man like a lot of orthers tc m8 chin up ! 
+,elturbo9077,2011-10-04T02:38Z,come on people seed
+,kentcave,2011-10-05T07:52Z,"lol yeah, me still using win 98 for the uber dos functions (used to be only elitist can be hacker, but nowadays..sigh, msoft had to downgrade and crippled theirs..for the ""masses"" lol)
+
+now xp rulez since dosbox is perfected..perfect emu set-up too..a nirvana for the non-lazy hobbyist
+
+oh yeah..if possible, can upload oldies to work in xp? like Hodge&Podge (still got the manual, but lost the ori cd, Supreme Warrior(?) (corny fmv kung fu game) played in 3DO but wanna try the PC version, Alpha Centauri complete (tpb have it, but some problems running it), Space Quest 6, Ultima IX (patch to the max, with improvements as your forte) etc etc
+
+Born on 75..had been playing and collecting games since Apple II days..still missed the oldies. 
+
+lol psst..still cant find Seymore Butts 2 PC..ancient 1st edition CD-Rom days..and plenty of PiXiS nostalgia hehe
+
+Unsure of your gender..but seems like an elven maiden..rite?"
+,kentcave,2011-10-05T08:00Z,"Dont mind the newest releases..wasted effort and time when a new DLC/fan-patches came out..rite?
+
+Concentrate on perfected oldies..niche market there.
+
+Oh yeah..there was once a Kung-Fu PC CD-Rom game..Heaven Sword & Dragon Sabre..a taiwan game..translated to english by a singapore branch. A gem indeed.
+
+And a suggestion..plenty of PS2 iso..uploaded in gigs..while they can be 7zip to megabytes and at most 1gb..with no loss in data and time (unzipping only in minutes, at most half an hour) and since you prefer yours in iso, why not look into it and experiment for a better solution?
+
+Psst..even though I had d/l plenty versions of DA/ME (havent play them, just for collection lol)..will still be looking forward to your ""perfect"" compilations.
+
+Reputation and experience will bring us closer than friends..even though we know almost nothing of each other. Respect gained from real works..none of those sucking-up fake ego-boost. Keep up the fight!!!"

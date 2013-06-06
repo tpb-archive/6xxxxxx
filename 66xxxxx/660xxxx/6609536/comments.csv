@@ -1,0 +1,41 @@
+User Type,Username,Date,Text
+,thecrazyglopss,2011-08-18T05:13Z,"Delphi, this doesn't work.
+
+I'm using the SKIDROW Update 7 with that 1.0.1.348 patch torrent, so how do I get it to work?
+
+Do you have your own version of 1.0.1.348 that works with this?"
+,DelphiUniverse,2011-08-18T13:42Z,"Hi thecrazyglopps, can you describe the error message you get"
+,thecrazyglopss,2011-08-18T14:37Z,"It's not an error message at all, it just won't work. I entered the amounts for the gold, culture, etc. and hit ""next turn"" and it doesn't input it into the game.
+
+I even started the trainer first before Civ so idk what's going on. Your previous trainers have worked perfectly, but only because it was your own version of the game."
+,DelphiUniverse,2011-08-18T15:49Z,Is any cheat working or is all corrupted?
+,DelphiUniverse,2011-08-18T16:16Z,"Also, important to know what OS you are using"
+,thecrazyglopss,2011-08-18T16:35Z,"I'll have to go see which are working and which aren't, but I know for certain the gold and culture aren't.
+I think the golden age cheat works.
+
+I'm using Windows 7 Home Premium."
+,DelphiUniverse,2011-08-18T16:55Z,"If you have time, can you give me the md5 hash of both civ executables. dx9 and dx11"
+,DelphiUniverse,2011-08-18T16:55Z,"If you dont have such a calculator, search for MD5 calculator."
+,DelphiUniverse,2011-08-18T17:48Z,"If you start a new game with zero gold you must do a next turn before you use the gold cheat. If you start a game in the future you usually start with 400 Gold, then you can use gold cheat right away"
+,thecrazyglopss,2011-08-18T19:40Z,"OK, I now know that culture, gold, resources and golden ages work on a new game. However, I'm not sure if the movement and experience cheats work.
+
+So basically, you will probably have to make a new game to use the cheats properly.
+
+And IDK how to get a hash or whatever, I'm not that smart lol."
+,thecrazyglopss,2011-08-18T21:11Z,"I have just used the trainer once again to see if the gold cheat works, and it doesn't. The gold cheat actually makes the game crash after you click ""Next Turn"", but everything else seems to work.
+
+I personally believe you should make your own version of 1.0.1.348 to get it working perfectly, if you can."
+,DelphiUniverse,2011-08-18T23:07Z,"Can you do me a favor, can you turn off the intro screen by editing the file UserSettings.ini which is in your documents folder and in the civ folder. Edit the line SkipIntroVideo = 1 set it to 1. Try again, let me know if it works, if it works then I can fix that problem."
+,DelphiUniverse,2011-08-18T23:55Z,Are you sure you are not using version 383? This trainer is for 348 only. :)
+,thecrazyglopss,2011-08-19T00:36Z,"I'm using the Skidrow 7 update with a torrent that required me to use that one to have ver 1.0.1.348. It was the only torrent that had that version, so that could be the case.
+
+As for the skipintrovideo = 1 deal, everything works except the gold cheat. Even the movement and promotions etc. work with slightly less crashes than before. The only thing wrong with it is no gold cheat and an occaisional crash."
+,DelphiUniverse,2011-08-19T01:04Z,"I have uploaded version 4.0.3 with a few extra customizable things, I've added something that might be relevant to your problem, can you download my latest trainer and see if it solves it? It is for the same version, 1.0.1.348"
+,DelphiUniverse,2011-08-19T01:05Z,"Also make sure the trainer is not running sandboxed or is partially blocked by anti virus. Make sure windows DEP is only active for system applications, not all applications."
+,DelphiUniverse,2011-08-19T01:10Z,"The executables should not be relevant, the only file that must be identical is CvGameCoreDLLFinal Release.dll
+
+That dll file must be version: 3.0.3.0 product version will say 3.0.3.1 and the size of it should be  2Â 905Â 600 bytes."
+,thecrazyglopss,2011-08-19T01:21Z,"YES! The new one works perfectly with no crashes! Thank you, Delphi!"
+,thecrazyglopss,2011-08-19T01:58Z,"Spoke too soon, sorry
+
+There still is an occaisional crash. But everything else works! The gold cheat finally worked, but only when I deleted one of my units, but it still worked."

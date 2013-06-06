@@ -1,0 +1,18 @@
+Ok, I got all this from: 
+http://www.hackstor.biz/2010/04/navigon-mobilenavigator-15-ipa.html
+
+I did all the work myself.  I first tried to use Winzip, but it made an improper IPA when I tried to install it.  I then used Powerarchiver to edit the IPA, and that worked.
+
+So basically, you only have to a couple things:
+Install the IPA (I use iphone explorer).
+
+From that site:
+"Do not launch the installed application yet! Use your preffered tool to access your device and go to /var/mobile/Applications.../NAVIGON/Library/Preferences. Put the .plist file there.
+Use iFile and make sure the owner and group of the .plist are both set to mobile."
+
+Basically, after you install the IPA, don't run it.  Put that plist file I included into the folder as described above.  Once you do that, you can then run the app.
+Don't forget to copy your recent/favorites from your old Navigon from the Documents folder back in, like I did.
+
+This works great.
+
+This is my very first torrent (not leeching for once).  If I did something wrong or whatever, let me know.  I'm only doing this because TPB didn't have 1.8.2, so I wanted to allow other people to have 1.8.2. without having to do all the bullshit work I did to put the IPA together.

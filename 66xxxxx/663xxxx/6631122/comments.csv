@@ -1,0 +1,85 @@
+User Type,Username,Date,Text
+,smithy125,2011-08-27T02:07Z,"Nice virsus here report 
+
+Antivirus 	Version 	Last Update 	Result
+AhnLab-V3	2011.08.26.01	2011.08.26	-
+AntiVir	7.11.14.0	2011.08.26	-
+Antiy-AVL	2.0.3.7	2011.08.26	-
+Avast	4.8.1351.0	2011.08.26	-
+Avast5	5.0.677.0	2011.08.26	-
+AVG	10.0.0.1190	2011.08.26	-
+BitDefender	7.2	2011.08.27	-
+ByteHero	1.0.0.1	2011.08.22	Trojan.Win32.Heur.Gen
+CAT-QuickHeal	11.00	2011.08.26	-
+ClamAV	0.97.0.0	2011.08.26	-
+Commtouch	5.3.2.6	2011.08.27	W32/Agent.JL.gen!Eldorado
+Comodo	9884	2011.08.26	-
+DrWeb	5.0.2.03300	2011.08.27	-
+Emsisoft	5.1.0.10	2011.08.27	-
+eSafe	7.0.17.0	2011.08.25	-
+eTrust-Vet	36.1.8525	2011.08.26	-
+F-Prot	4.6.2.117	2011.08.26	W32/Agent.JL.gen!Eldorado
+F-Secure	9.0.16440.0	2011.08.27	-
+Fortinet	4.2.257.0	2011.08.26	-
+GData	22	2011.08.27	-
+Ikarus	T3.1.1.107.0	2011.08.26	-
+Jiangmin	13.0.900	2011.08.26	TrojanDownloader.Generic.cuk
+K7AntiVirus	9.111.5060	2011.08.26	Riskware
+Kaspersky	9.0.0.837	2011.08.26	-
+McAfee	5.400.0.1158	2011.08.27	-
+McAfee-GW-Edition	2010.1D	2011.08.26	-
+Microsoft	1.7604	2011.08.26	-
+NOD32	6414	2011.08.27	-
+Norman	6.07.10	2011.08.26	-
+nProtect	2011-08-26.02	2011.08.26	-
+Panda	10.0.3.5	2011.08.26	-
+PCTools	8.0.0.5	2011.08.27	-
+Prevx	3.0	2011.08.27	-
+Rising	23.72.04.03	2011.08.26	Suspicious
+Sophos	4.68.0	2011.08.27	-
+SUPERAntiSpyware	4.40.0.1006	2011.08.27	-
+Symantec	20111.2.0.82	2011.08.27	-
+TheHacker	6.7.0.1.284	2011.08.26	-
+TrendMicro	9.500.0.1008	2011.08.25	PAK_Generic.001
+TrendMicro-HouseCall	9.500.0.1008	2011.08.27	PAK_Generic.001
+VBA32	3.12.16.4	2011.08.26	-
+VIPRE	10279	2011.08.27	-
+ViRobot	2011.8.26.4641	2011.08.26	-
+VirusBuster	14.0.186.0	2011.08.26	-
+Additional information
+MD5   : b7b02996a29bef37f1194bedd016796f
+SHA1  : 6224fac72bea40314971d48ab15c074b6a9ea144
+SHA256: 716b234414307c0219c2302478884fbeabc5e883ef03f932ecf9b405148f9643
+ssdeep: 768:Hh3sGvzwkG7YHhoJ2Y4pHSZQHbEzI3Z43jr:HyGLVG7YiJDrHQg
+File size : 27133 bytes
+First seen: 2011-08-26 23:59:26
+Last seen : 2011-08-26 23:59:26
+TrID:
+ZIP compressed archive (100.0%)
+sigcheck:
+publisher....: n/a
+copyright....: n/a
+product......: n/a
+description..: n/a
+original name: n/a
+internal name: n/a
+file version.: n/a
+comments.....: n/a
+signers......: -
+signing date.: -
+verified.....: Unsigned
+packers (F-Prot): UPX_LZMA
+ExifTool:
+file metadata
+FileSize: 26 kB
+FileType: ZIP
+MIMEType: application/zip
+ZipBitFlag: 0
+ZipCRC: 0x52869455
+ZipCompressedSize: 26711
+ZipCompression: Deflated
+ZipFileName: AOE_FIX.exe
+ZipModifyDate: 2011:08:26 23:14:04
+ZipRequiredVersion: 20
+ZipUncompressedSize: 44544"
+,_CVX_,2011-08-27T06:02Z,"False positives, the packer used in this, has been used for viruses by others"

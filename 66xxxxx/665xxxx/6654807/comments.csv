@@ -1,0 +1,196 @@
+User Type,Username,Date,Text
+,Bora84,2011-09-06T09:12Z,Please make 64bit version. Thanks
+,Raj07,2011-09-06T12:09Z,"Dear ivankehayov, i have downloaded ur previous windows 7 lite torrent few days back but that is not working.i made & tried  bootable cd/dvd as well as usb but it is not booting.my bios settings r fine, yet it is not working. i tried to mannually run the set up file but it always displays an error which says ""windows couln't determine d language to b used for set up"". i tried everything, please help & suggest wat should i do. waiting for ur help.... thanks in advance..!"
+,ivankehayov,2011-09-06T14:45Z,"@Raj07
+Never encounter your problem.
+Try this:
+1. Make a file lang.ini with content as shown below:
+
+[Available UI Languages]
+en-US = 3
+
+[Fallback Languages]
+en-US = en-US
+
+2. Save the file lang.ini anywhere.
+3. Open iso image with UltraIso (or PowerIso) and put lang.ini in \sources\
+4. Save changes to (rebuild) iso image.
+5. Boot again with your new iso image.
+
+Note that Windows cannot be installed as an upgrade. Don't try to extract files out of the iso image and run setup manually.
+
+Please post your feedback here."
+,613425,2011-09-06T16:47Z,"somebody please seed, there are many people who want this, including me off course
+many thanks"
+,ivankehayov,2011-09-06T20:04Z,"Something got wrong with the torrent.  SORRY!
+It's OK now. Had to restart it to start seeding.
+
+PLEASE SEED LONG ENOUGH TO HELP OTHERS!"
+,Raj07,2011-09-06T20:59Z,"Dear ivankehayov, thank u very very much 4 ur quick reply & solution. followed exactly wat u said & now its working.didn't know how to create a lang.ini file so i copied an lang.ini file from a win 7 iso & changed d contents as per ur instruction, recreated d iso, burned it & its working fine. i hav a humble question, if it  requires a lang.ini file in d source folder then y didn't u encounter d same problm? thank u very much & keep up d good work...!"
+,abunora,2011-09-07T00:23Z,"Thank You Soooo much .
+works like charm .
+
+Please , make 64bit version .
+
+dont forget this , please"
+,denniscu,2011-09-07T03:12Z,"sir ivankehayov, any chance for a 64bit version?"
+,milrob,2011-09-07T04:13Z,"Hi, Ivan!
+Thank you for your efforts, but Brother Printer scanner driver will not install (but is detected). If try to install driver from Brother software the printer is not detected! In full version will install from Windows Update (maybe, Brother support is missing?)"
+,ivankehayov,2011-09-07T08:45Z,"@milrob
+
+Brother devices support is not removed, only their drivers.
+
+Did Windows detect your device when you plug it?
+Are you sure you install correct driver?
+
+I can give you a tip how to use default Windows 7 drivers for brother devices:
+1. Find a unmodified iso of Windows 7
+2. Open the iso with WinRAR
+3. Go to root\sources and find install.wim and extract it.
+4. Open install.wim with 7-zip
+5. Go to \Windows\System32\DriverStore\FileRepository\
+6. There should be forders starting with string brmf (like brmfcwia.inf_x86_neutral_2d38149df9cd17c4)
+7. Extract them all (must be 6 total) in some folder
+8. Plug your Brother device, switch it on and wait for Windows to detect it.
+9. When it's detected, choose an option to install driver manually and browse to the folder with extracted brmf... files.
+10.Windows should install something.
+11.If your device doesn't work correctly after that you should install driver from official Brother driver support webpage.
+
+NORMALLY DRIVER FOR ANY EXTERNAL DEVICE SHOULD BE INSTALLED AFTER THE DEVICE HAS BEEN DETECTED BY WINDOWS AND NOT BEFORE!!!"
+,Bora84,2011-09-07T11:03Z,"@ivankeheyov:
+
+Cheers for this wonderful product, ive installed your first version on more then 10 computers so far and everything was running great except Norton antivirus which wouldnt install, now with V2 norton antivirus finally works.
+
+I love to test your stuff and install it cause its really fast and slick but also i need a 64bit for some computers. So can you tell me will you ever make a 64bit version of this? Please respond. Many thanks and keep up the good work. "
+,ivankehayov,2011-09-07T15:01Z,"To people asking for 64-bit version:
+----------------------------------------
+I've never tryed to make one but I'm almost sure that size of 700MB for 64-bit Windows 7 Ultimate is hardly attainable. If it can be done Windows will lack a lot of features and probably many programs will not work.
+
+Conclusion:
+This what I achieve with this 32-bit Windows cannot be achieved with 64-bit one. So, for now I don't intend to start working on 64-bit Windows.
+...in few weeks perhaps, in good mood and desire... Some day... Who knows..."
+,Bora84,2011-09-07T15:34Z,"Thanks for responding mate :) 
+
+It doesnt have to be 700mb like 32bit, i know its impossible cause 64bit is 1gb larger then 32bit.
+Just strip the same things from it and tweak it like 32bit and thats it.
+
+Dont care about the size. "
+,DeCliffe,2011-09-07T21:03Z,"Ivankehayov, you really inspire me, keep up the good work.... I also downloaded the win 7 ultimate lite-ik version but am having trouble creating the lang.ini file, is it possible for you to upload one for me, even to my my email (sacliffords@yahoo.com)... Thenx alot.... "
+,blacksidex6,2011-09-08T06:14Z,Downloading now...Of course I will seed...Thanks ivankehayov
+,milrob,2011-09-08T17:39Z,"Hi Ivan!
+
+Brother Printer scanner driver not installing due to Brmf2wia.dll missing from System32 folder. On a full installation, it is already there.
+I'll open up your ISO and add it-see what happens.
+Thanks for your reply."
+,milrob,2011-09-09T05:37Z,"Sorry for double post-there is another dependency for Brother printer drivers but I cannot locate. Oh, well."
+,ivankehayov,2011-09-09T08:31Z,"@mirlob
+
+Did you try steps in 9th post I gave you."
+,hanoii,2011-09-09T14:21Z,"Does it come with Spanish? I read language packs cannot be installed, any chance you can include it somehow on the build? Thanks a lot."
+,milrob,2011-09-10T04:38Z,"@Ivankehayov,
+Yes, I did. Only the printer driver installed, not the scanner driver. 
+Using the official installer, it is not detected. Using Windows Update, it is detected but will not install.
+Using full version, both are detected and install fine using either method. 
+There are files in Windows that Brother devices depend on, but I do not know what or where they are."
+,trala123,2011-09-10T15:24Z,"The reason you cannot install your Printer is because he removed Printer Drivers from the image... I see ivankehayov is not aware of this, but if you remove Printer Drivers from an image, you also break SUPPORT for any Printer. It doesn't matter if you have your own drivers, you CANNOT install any Printer if you remove Printer Drivers. Look it up if you don't believe me.
+
+Same thing goes for (certain) Scanners: If you remove Scanner Drivers, a lot of scanners require certain drivers/components in order to be installed. So many scanners cannot be installed if you remove Scanner Drivers from an image.
+
+So this Lite OS will not support installation of Printers and Scanners. So only use it if you don't require printer/scanner support. (Some scanners may work if they have their complete drivers components without requiring MS components, but NO printers will be supported.)
+
+ivankehayov, please consider making a version where you keep all Printer and Scanner Drivers, please. Also, double-check Office 2010 install support (regarding Japanese language). Thanks :)"
+,trala123,2011-09-10T15:31Z,"My posts disappeared... What I said was:
+
+If you remove Printer Drivers, it will break SUPPORT for all Printers... it doesn't matter if you have your own drivers or not. No Printers will be supported after removing Printer Drivers.
+
+(Almost) same thing goes for Scanner Drivers... if you remove these, many scanners cannot be installed anymore because they require certain components that are now removed. Again, it does not matter if you have your own drivers or not...
+
+Please don't remove my comment, people need to know this..."
+,laxconic,2011-09-10T18:12Z,"Great ISO! Fast install was perfect and no problems at all with heavy use, thanks so much for your work.
+
+One question is there any way via hack/tool etc to install language packs after install?  I need Japanese installed in addition to english.
+
+cheers"
+,ivankehayov,2011-09-11T00:10Z,"@trala123
+Do not mislead people. None support is removed. Printers and scanners ARE supported. Open the image in RT7lite and you can see that support is there. I use my old Canon printer with this Windows.
+
+What do you mean with ""double-check Office 2010 install support (regarding Japanese language)""? Please clarify!
+Office 2010 requires one japanese pack of fonts which is not removed. 
+
+@mirlob
+Use the steps in 9th post but this time you look for folders starts with wiabr00... (these are Brother scanners drivers)"
+,trala123,2011-09-11T02:40Z,"OK, don't call it ""Support"" then, but what I'm talking about is exactly what Milrob is experiencing. I have also made Lite builds myself. I have a Canon Printer+Scanner, and the driver install gets into a loop when using Canon website drivers. It then tries to get the drivers via Windows Update, and ends up in a loop -- downloading, installing, downloading, installing. 
+
+My point is: if you have to manually add files back into your image from a Full image of Windows, then I call that 'breaking support'. Do you understand what I'm saying here? It is not only a matter of having the drivers for your hardware yourself, it is also that some of these drivers require additional components (present in Full Windows) in order to function. So it may work for your printer or scanner, but obviously it doesn't work for every one out there...
+
+But I applaud your efforts. However, I would much prefer you release a 800 or 900mb version of this that includes Printer & Scanner drivers (and doesn't break the ability to install these, as with Milrob, for example). I know it's nice to be able to fit it on a CD-ROM, but most people can install from DVD or USB now. Sorry if I upset you, but I still think people need to know there are limitations, which have no been proven. Good luck for your next version -- I hope you follow my advice.
+
+Don't worry about the Office 2010 thing, I only said that in case you make another version (not to forget it) but I know it works fine in this release. Peace :)"
+,trala123,2011-09-11T02:43Z,"OK, don't call it ""Support"" then, but what I'm talking about is exactly what Milrob is experiencing. I have also made Lite builds myself. I have a Canon Printer+Scanner, and the driver install gets into a loop when using Canon website drivers. It then tries to get the drivers via Windows Update, and ends up in a loop -- downloading, installing, downloading, installing. 
+
+My point is: if you have to manually add files back into your image from a Full image of Windows, then I call that 'breaking support'. Do you understand what I'm saying here? It is not only a matter of having the drivers for your hardware yourself, it is also that some of these drivers require additional components (present in Full Windows) in order to function. So it may work for your printer or scanner, but obviously it doesn't work for every one out there...
+
+But I applaud your efforts. However, I would much prefer you release a 800 or 900mb version of this that includes Printer & Scanner drivers (and doesn't break the ability to install these, as with Milrob, for example). I know it's nice to be able to fit it on a CD-ROM, but most people can install from DVD or USB now. Sorry if I upset you, but I still think people need to know there are limitations, which have no been proven. Good luck for your next version -- I hope you follow my advice.
+
+Don't worry about the Office 2010 thing, I only said that in case you make another version (not to forget it) but I know it works fine in this release. Peace :) "
+,milrob,2011-09-11T04:20Z,"Thanks, Ivan! Will give it a go and report back."
+,nanachi,2011-09-12T18:02Z,Nice working perfect
+,newmouse,2011-09-13T14:47Z,"Thanks ivankehayov for a lot of good & clever hard work & particularly for your continuing follow up comments here.
+@@@
+I want to know.
+1) What will be the installed size.
+2) I do not have an OEM computer so no 
+SLIC 2.1 in the bios.
+What will my  best way to activate this ?
+
+NOTE: you can open this  ISO directly with 7-ZIP (free) & others.@@@"
+,laxconic,2011-09-13T21:08Z,"great iso, if anyone figures out how  to install an additional language please post how  thanks."
+,whiteblood92,2011-09-14T12:31Z,"Ivaan i ve enterprise editn running on Vmware for my certification bt in this version eventlog service is missing and becz of this i cnt start task scheduler and disk defrgmentation. I think its a trial version of windows...can u plz tell ur torrent include above applications? 
+Can i run this iso file with magic iso Or i must ve to make a cd of it?"
+,whiteblood92,2011-09-14T13:48Z,"ivan i tried to run ur iso image on vmware workstation but it gives eroor ""Could not detect which operating system is in this disc image.You will need to specify which operating system will be installed"" Thanks in advance
+
+Regards"
+,whiteblood92,2011-09-14T14:46Z,ivan ur torrent is perfectly working. All the application which was nt working in enterprise version is nw working with ur torrent. Also the link u gave for activation is working perfectly..U re genius man...GOD bless u 
+,darklords666,2011-09-16T21:41Z,"@laxconic at 2011-09-13 21:08 CET:
+great iso, if anyone figures out how to install an additional language please post how thanks.
+
+Use windows update. check for updates, click the optional tab, it should be there. there is quite a bit of lang's to choice from. it MIGHT be in the important section, i forget."
+,msal,2011-09-21T01:00Z,"pastebin.com/73Pt1k3N
+direct link Microsoft.Windows.7.with.SP1.All.Editions.x86.x64.UNTOUCHE"
+,vanjadjuric,2011-09-22T23:59Z,can someone explain how to install this? :/
+,junjunrel,2011-09-25T21:45Z,Hi Ivankehayov.. You're my idol...very nice version of windows 7... everything works fine except having trouble with my printer/scanner HP C4200.. it's not recognized no matter what i do.. seems like a missing ingredients so I'll be waiting to your version 3.. keep up the good work.. you're the best... 
+,elcheapo,2011-10-01T06:20Z,I installed it but when I clicked on control panel and then on system it says that this is a 30 day trial and wants a serial key to activate it-what to do?
+[V],Anacondaz,2011-10-02T05:27Z,+1 rep for another great work mate
+,mena_mon,2011-10-06T21:36Z,"i want to know how to edit the XML unattended file , 
+
+to change the user name as i tried to edit but when install of windows done it asks for password"
+[T],p47r0n,2011-10-18T10:06Z,"@laxconic
+
+Installing a language pack with this release won't work with window updates. However i found a way to do it, and it's quite easy.
+
+1. Download  Vistalizator_beta (Must be this version, tried with the original and didn't work)
+http://www.freewaregeeks.com/?page=detail&get_id=977&category=58
+
+2. Download a language pack here http://www.froggie.sk/7lp32rtm.html 
+
+3. Open Vistalizator and add your downloaded language pack, and choose the method of installing express not internal (Express mode will only work!) 
+
+4. Restart your pc and it will be in your language.
+
+I had few issues install some updates, this is fixable by download the Readiness Tool. 
+
+Link here 
+
+http://www.microsoft.com/download/en/details.aspx?id=3132
+
+I was able to install language packs aswell after installing readiness tool,  But they didn't work. The configuration failed. 
+However Vistalizator_beta made installing language packs work! So give it a go."
+,nunaa68,2011-11-05T15:42Z,anyone got  an activation link and product key??
+,akvadrako,2011-11-12T19:47Z,Great Torrent! Please make us a 64-bit version.
+,techsmith12,2012-03-29T02:26Z,"ivankehayov: amazing work. How did you strip winsxs down to 255mb? I have been trying to make a 64bit version, but even W7T doesn't help. any tips or can you make a new torrent with build instructions?"
+,archlichkingc,2012-04-06T10:33Z,"May I ask will this version consume less HDD space ?
+Because the original Windows 7 costs around 13gb-15gb and I don't have enough HDD for data (my HDD has only 80gb)"
+,ipaq8888,2012-04-06T15:33Z,"possible to know if it possible to add all the default drivers from the original win7 after installation of this version? 
+
+i had try to add the audio driver of my  hd6450 hdmi card but am facing problem
+"

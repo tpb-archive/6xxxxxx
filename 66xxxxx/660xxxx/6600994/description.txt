@@ -1,0 +1,9 @@
+Building Telephony Systems with OpenSIPS 1.6
+
+
+The whole telecommunication industry is changing to an IP environment, and telephony in the way we know today will disappear in less than ten years. SIP is the protocol leading this disruptive revolution and it is one of the main protocols on next generation networks. While a VoIP provider is not the only kind of SIP infrastructure created using OpenSIPS, it is certainly one of the most difficult to implement.
+
+This book will give you a competitive edge by helping you to create a SIP infrastructure capable of handling tens of thousands of subscribers. You can extend the examples given in this book easily to other applications such as a SIP router, load balancing, IP PBX, and Hosted PBX as well. This book is an update of the title Building Telephony Systems with OpenSER.
+
+The book starts with the simplest configuration and evolves chapter by chapter teaching you how to add new features and modules. It will first teach you the basic concepts of SIP and SIP routing. Then, you will start applying the theory by installing OpenSIPS and creating the configuration file. You will learn about features such as authentication, PSTN connectivity, user portals, media server integration, billing, NAT traversal, and monitoring. The book uses a fictional VoIP provider to explain OpenSIPS. The idea is to have a simple but complete running VoIP provider by the end of the book.
+

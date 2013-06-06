@@ -1,0 +1,32 @@
+Elastix is an appliance software that integrates the best tools available for Asteriskbased PBXs into a easytouse interface. It also adds its own set of utilities to make it the best software package available for open source telephony.
+
+                                  FOR TESTING
+
+Today we are releasing Elastix 2.2 RC1. This news may surprise many of you, due to the change of version; however, as you know there has been a lot of work on development on beta versions, some of them with important changes and new modules that have been incorporated.
+The Elastix development team reviewed the evolution from 2.0 till this new release and concluded that the number of changes and improvements were important enough to make a change in the version number.
+Compared to the last stable version of Elastix (2.0.3), Elastix 2.2 has the following features :
+
+ Elastix Web Services
+
+ Elastix MarketPlace
+
+ Statistics module
+
+ Advanced Security Settings module
+
+ FreePBX 2.8.1
+
+ CentOS 5.6 and the latest kernel
+
+ Asterisk 1.8 (Google Talk and Asterisk SRTP)
+
+Among others
+ 
+http://www.elastix.org/index.php/en/home.html 
+http://www.elastix.org/index.php/en/product-information/features.html 
+http://www.elastix.org/index.php/en/component/kunena/6-translations.html 
+http://www.elastix.org/index.php/en/community/how-to-get-involved.html
+
+sha1sum : 90efc90df143339fe2150d066a4324caac0f3ed0
+md5sum : fb113bddd06dfa1e737eb5caf08a64e5
+         fb113bddd06dfa1e737eb5caf08a64e5  Elastix-2.2.0-rc1-x86_64-bin-05ago2011.iso

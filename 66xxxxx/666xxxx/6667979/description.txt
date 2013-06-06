@@ -1,0 +1,46 @@
+	-------------------------------------------------------------
+					README for
+		Unofficial Windows 98 SE *3in1* Bootable image for 
+		Emulators such as MS Virtual PC, VM Ware, etc. 
+					August 2005
+	-------------------------------------------------------------
+
+	This release can be used on a real PC is installed corect on a Xenix, FAT, or 
+	FAT32 partition. Can create automaticly the fat32 partition on spare space and 
+	then can format the fresh partition and start the Windows Setup Wizard.
+	On the CD is included MS-DOS 7.1 special build so that old Windows 3.11 can be 
+	installed on save virtual enviroment, partition or on same drive with bual boot. 
+	However some options may not work direct from the boot menu in MS Virtual PC. 
+	The Internet Explorer build is a personalized version of ie 5.x, with latest 
+	upgrades that works on Windows 95 @ year 2001 level. 
+
+	Since all supported componets from unofficial service pack are allready 
+	installed is not recomandated that included 2.1a pack to be re-installed since 
+	will only break some icons reventing to old Windows 95 style. To refresh some 
+	system files you can run instead sysfsupd.exe from this CD. 	
+	
+	The installation inludeds Unofficial SP2.1a and the UberSkin support from the 
+	Windows 98 Revolutions Pack, however there are some prerequired and after should 
+	the included Internet Explorer 6 SP1 be installed to fix the taskbar icons for 
+	some styles.
+	The build icons set are borrowed from Windows XP and require 16/24/32 bit 
+	high color video card to show icons with maximum numbers of colors supported. 
+	
+	In the base setup there is a special himem system driver and virtual memory 
+	driver that should allow installing Windows 98 on a partition with more then 
+	1GB RAM memory and in ValueAdd there is a subfolder with latest version of 
+	KernelX (with the src code) that allows installing programs writen specialy 
+	for Windows XP such as latest version of Mozilla Firefox web browser or to 
+	load Winamp from a shared drive in compatibilty mode.  
+	If you dont know how to share the internet connection with the virtual 
+	enviroment or if you test this CD on a real machine you can run install 
+	first the older version "KernelEx.exe" that does not require a any 
+	internet connection.
+	
+	Like other Windows ISO images that can be downloaded for free from 
+	microsoft.com, and require a valide Windows 98 OEM or Retail VLK 
+	that is not included with this setup.
+	Note that the OEM version does not let you login in Windows after install
+	if you dont enter a valid key.
+	
+	ScreenShot: 	http://img295.imageshack.us/img295/9180/windows98sp1.png 	http://img844.imageshack.us/img844/2208/windows98sedesktopjpg.png 	http://image.bayimg.com/caphfaacf.jpg

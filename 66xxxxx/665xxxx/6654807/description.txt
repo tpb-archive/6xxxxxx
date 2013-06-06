@@ -1,0 +1,45 @@
+Win7.SP1.IE9.lite.v2-IK (size: 700 MB)
+______________________________________
+
+This is second (improved) version of my stripped down version of Windows 7 Ultimate with SP1 (32-bit).
+
+It\\\'s bootable image based on en_windows_7_ultimate_with_sp1_x86_dvd_u_677460.iso
+
+This Windows is updateable through Windows Update (language packs cannot be installed).
+
+There is no any software or updates added except newer Internet Explorer 9.
+
+Some tools used: dism, gimagex, vLite, RT7lite, W7T etc. (many thanks to their autors)
+______________________________________________________________________________________
+
+What\\\'s difference with last release (Win7.SP1.IE9.lite-IK):
+
+added: Remote Desktop Connection
+added: Backup and Recovery
+added: Windows PowerShell
+contains all sound and network cards drivers.
+removed: Minesweeper and Purble Place games only.
+less services are disabled.
+Windows 7 will be activated if SLIC 2.1 is found in BIOS.
+Windows should be 100% software compatible now.
+______________________________________________________________________________________
+
+Reminder: Note that almost all the drivers are removed and you should have your computer drivers ready before installation.
+
+If you are regular user you will not notice any difference using my lite version compared to full-featured Windows 7.
+
+An autoattended.xml file is inserted in the image to automate the installation (Language: EN, name: Administrator, PC name: IK-PC, time: UTC+2h. All can be changed 
+
+after setup). You need only to point a partition for installation and in 5-10 min Windows should be installed.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Always check hashes after download to ensure iso file is virus-free and unmodified.
+CRC32: 884B91A5
+MD5:   094BE542B3F292726EF7F16619CACA9A
+SHA-1: 040139B38596EEF05AB3AB72EFE5E0EEC0FEE84F
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Feel free using my lite Windows 7 Ultimate with SP1 and IE9.
+Enjoy!
+
+ivankehayov

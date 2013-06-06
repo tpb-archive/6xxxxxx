@@ -1,0 +1,54 @@
+User Type,Username,Date,Text
+,shamus178,2011-08-21T14:12Z,Thanks mate!!!
+,heli3,2011-08-21T14:36Z,Great Add-on thanks!!
+,orbat225,2011-08-21T18:37Z,What is your french page?
+,fltsimbloke,2011-08-21T20:14Z,thanks
+,rra137,2011-08-21T20:32Z,"@orbat225
+I found some interesting things on torrent411 but
+ they require to subscribe and then redirect people on unwanted porno adds. Better put all valuable stuff on TPB."
+,wetmouse,2011-08-22T07:32Z,http://acessa.me/gxyy is a Russian mafia site. Never visit anything pmdgcrackhead suggests.
+,FsMM,2011-08-22T08:04Z,"rra137 thanks for this torrent.  I've been waiting for this for a long time.  Question- I keep getting CTD's while selecting the 4X.  How do I activate this?  Do I need to run the Launcher?  
+Thx"
+,rra137,2011-08-22T15:08Z,"@FsMM
+I never experienced crashes when selecting the Katana, maybe asking for one or two gauges installation.
+You should uninstall it then reinstall using the email and serial provided, I don't remember whether the serial is required for the patch 1.01."
+,rra137,2011-08-22T15:13Z,"@FsMM
+It is useless to run the launcher, I did not install it and it works perfectly for me."
+,FsMM,2011-08-22T17:06Z,"@rra137 
+thanks for the reply.  I didn't run the launcher I was just wondering.  I've tried about everything that I can think of but still can't get this one working.  In the free flight menu, I select the 4X and I just get  fatal error.  I don't see any .dll crashes in my error reports either.  Can you verify which gauges are installed into FSX?  I'm not seeing and Diamond Katana gauges in my folder.  Thanks!"
+,FsMM,2011-08-22T18:14Z,Ok everything is working great now.  It was my RXP_GNS .dll that was crashing.  I didn't realize this panel had an entry for the rxp so I had to modify it just a tad.  Works good now though.  Thanks again for this great airplane.  I did my RW training in this airplane when it first came out.
+,rra137,2011-08-22T20:17Z,"If you have the GNS 530, the one cracked by Dcrack :
+http://thepiratebay.org/torrent/5613243/Reality_XP_WX500_and_GNS_WAAS_for_FSX_by_DCrack_--_NEW
+
+then you just have to modidy the 'panel.cfg' file inside the default installation path :
+C:\Program Files\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\Diamond DA20-100 'Katana'\panel
+In the [Vcockpit00] section
+I have 
+gauge45=DCrackXPGNS!A,0,0,0,0
+gauge46=fs9gps!gps_500,                 1244,   12,  790, 742
+gauge47=rxpGNS!GNS530,                  1245, 1140,  790, 570
+
+Then you can select the Katana without crashing.
+Inside you can install the Reality GNS 530 instead of the basic FSX GPS. It will update for a few seconds then it will work great.
+"
+,titio,2011-08-23T00:38Z,The serial is not working
+,Junado,2011-08-24T17:07Z,hey guys I appreciate what ur doing but can someone make a crack for AES 2.13 ? 
+,FSKing,2011-08-24T20:50Z,REQ: Aerosoft Z端rich 2012 for FSX please!
+,vittupaa1980,2011-08-27T01:18Z,REQ:LIVE
+,barabas12,2011-08-28T08:37Z,Great plane  thank you so much.
+,titio,2011-09-01T15:32Z,Can someone tell me why the serial is not working for me? (FSX SP1-2 and Win 7)
+,zlozla,2011-10-16T17:37Z,"req: Flight 1 Geoapr
+
+http://www.xxight1.com/products.asp?product=geoapr"
+,highspeedtwo,2011-10-24T15:34Z,REQ: Update to 1.02.
+,Skankzter,2011-10-30T12:46Z,Make that 1.03 now :)
+,Skankzter,2011-11-04T12:58Z,"ok...1.03 it still in beta...New features of the 1.02 patch are:
+Land at:
+Egelsbach ( germany?)
+Wiener Neustadt ( germany??)
+London Ontario ( canada)
+(Katana service centres)
+
+Pull up to the hangers and swith the engine off, and you will get a pop-up askin you if u want your plane serviced! :D...And apparently they do an oil change, useing higher quality oil then the oil u can put in urself at other (non servicing) airports.
+
+And other small changes"

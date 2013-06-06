@@ -1,0 +1,31 @@
+This version of the Server Bible will be the largest yet, catering to what is certainly the most advanced operating system introduced by Microsoft. The book will cater to the needs of the server administration community and will be designed to be a critical reference. The book will extensively cover the most notable new feature of Windows Server known as the "Server Core." Server Core is a significantly scaled-back installation where no graphical shell (explorer.exe) is installed, and all configuration and maintenance is done entirely through the command-line windows, or by connecting to the machine remotely using Microsoft Management Console. Server Core will also not include the .NET Framework, Internet Explorer or many other features not related to core server features. A Server Core machine can be configured for four basic roles: Domain controller, DNS Server, DHCP Server, and file server. Chapters on setup and installation will also cover the new componentized operating system Image-based setup and deployment tools, using WIM.
+
+In addition to the already extensive Active Directory support this book will now fully cover the "Read-Only Domain Controller" operation mode in Active Directory, intended for use in branch office scenarios where a domain controller may reside in a low physical security environment, was introduced in Windows Server 2003 R2 and will be extended in the 2008 version. Chapters covering policy-based networking, branch management and enhanced end user collaboration will be extended. Windows Server 2008 will also ship Internet Information Services 7 and the current chapters on IIS will thus be extended. Coverage of Windows SharePoint Services 3.0 will also be introduced into this part of the book. We will also include coverage of the improved hot patching technology, which is a feature that allows non-kernel patches to occur without the need for a reboot.
+
+A significantly upgraded Terminal Services component, supporting RDP 6.0. will be covered in the chapter on terminal services. The most notable improvement is the ability to share a single application over a Remote Desktop connection, instead of the entire desktop. This will be added to an already extended chapter on this remote access technology. In addition to these new features the book will also carry over existing features brought over from (SP1/R2) of Server 2003. These include covering of new security features of the operating system, Group Policy management, change control and service level, and administration practices.
+From the Back Cover
+Moving to Windows Server 2008? Start with this book.
+
+Windows Server 2008 has arrived with many new features and choices, and this hands-on reference shows you how to handle them all. Whether you're starting from scratch or upgrading, you'll find a wealth of information on how to install, configure, manage, and maintain Windows Server 2008â€”from the revolutionary new Server Core, which allows you to run Windows Server 2008 without a graphical user interface, to major enhancements to Active Directory, Group Policy, and much more.
+
+    *
+
+      Install and configure Windows Server 2008, and explore the new Server Core
+    *
+
+      Set up the Registry, networking, remote access, and other core services
+    *
+
+      Examine Windows Server 2008's File Server Role, the File Server Resource Manager, and Advanced File Management Services
+    *
+
+      Install, deploy, and manage the enhanced Active Directory services
+    *
+
+      Use the Read-Only Domain controller to increase security for branch offices
+    *
+
+      Learn how to create user and group accounts, and how to set up filesharing, printers, disk quotas, and more
+    *
+
+      Decipher encryption, Kerberos, and other security topics

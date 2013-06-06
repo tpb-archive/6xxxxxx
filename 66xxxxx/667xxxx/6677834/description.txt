@@ -1,0 +1,50 @@
+Format                           : Matroska
+File size                        : 283 MiB
+Duration                         : 3mn 17s
+Overall bit rate                 : 12.0 Mbps
+Encoded date                     : UTC 2011-09-14 10:49:40
+Writing application              : mkvmerge v4.5.0 ('Speed of Light') built on Feb  1 2011 02:10:32
+Writing library                  : libebml v1.2.0 + libmatroska v1.1.0
+
+Video
+ID                               : 1
+Format                           : MPEG Video
+Format_Commercial_IfAny          : HDV 720p
+Format version                   : Version 2
+Format profile                   : Main@High
+Format settings, BVOP            : Yes
+Format settings, Matrix          : Default
+Codec ID                         : V_MPEG2
+Codec ID/Info                    : MPEG 1 or 2 Video
+Duration                         : 3mn 17s
+Bit rate mode                    : Variable
+Bit rate                         : 11.4 Mbps
+Nominal bit rate                 : 17.9 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 59.940 fps
+Standard                         : Component
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.206
+Stream size                      : 268 MiB (95%)
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : Header stripping
+Codec ID                         : A_AC3
+Duration                         : 3mn 17s
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+ 
+http://www.postimg.com/48000/photo-47030.jpg

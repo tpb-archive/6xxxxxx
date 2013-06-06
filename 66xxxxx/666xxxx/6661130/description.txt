@@ -1,0 +1,97 @@
+RADGUGA 3.8 - RADIO AUTOMATION SOFTWARE [FM/INTERNET] + LIMITER PLUGIN [FM]
+
+Version 3.8
+
+Updated online manual with all new features
+Raduga now always uses the Fraunhofer MP3 decoder (if present) 
+to prevent problems with AudioCatalyst Xing MPEGPlayer
+Always show the album name in the window title (not the current song)
+Made Password protection a licensable feature
+Show an information text on shutdown of the demo version
+Don\'t redraw Explorer tree only if music directory hasn\'t changed
+Remember the active page in the Options dialog when closed with OK
+Support for special keys on Microsoft keyboards (Play/Pause, Stop, Next,
+Previous)
+New keyboard shortcut F12 = File|Save As...
+Removed Apply button in Options dialog
+Scheduled events now play in order by time, independent of the order in the list
+Added images for Play/Skip/Enable/Schedule events buttons
+Launch the events dialog by double-click on upcoming events list
+New look of the options dialog
+Moved digital clock to extra toolbar
+Show station name (registered company) in top toolbar
+Restore toolbar positions after restart
+Added icons for file types .txt .mp4 and .ogg
+Added .ogg files to accepted media files, removed .m3u
+Select current index when loading/saving .rotation and .pls files
+Remember playlist position within .pls files
+Bugfix: crash when double-click on top toolbar
+Bugfix: input fields for hours of scheduled events
+Scheduled events can be set to individual hours per day
+New column \"Hours\" in event list
+Added columns \"Week Days\" and \"Expires\" to event list
+The music directory is not used as starting point for the \"Add Songs\" dialog 
+anymore
+Updated Raduga SDK
+Updated CurrentSong add-in
+New FtpUpload add-in
+Added menu item \"View | Output Window\"
+When you run a .txt file from the playlist or scheduled event,
+the file content appears in the output window.
+Feature: select music directory as root for the Explorer tree
+Bugfix: rotations not rotating properly
+Bbugfix: playlists start with song #2
+Scheduled events can be set to individual hours per day
+Columns \"Week Days\", \"Hours\" and \"Expires\" to event list
+Select music directory as root for the Explorer tree
+Full screen mode
+Manually start or skip pending events
+Password protection for Options dialog
+Import/export Windows Media Player playlists (*.wmp)
+Show id3 tags and Windows Media meta data, 
+Configure display name,e.g. \"$(Artist) - $(Title)\"
+Load multiple add-ins concurrently
+Sort playlist by display name
+Sort events by time, mode, display name
+Context menu for event scheduler copy/paste/cut/delete
+Multiple selection of events
+Drag and drop of multiple events
+Insert scheduled events at cursor (focus) position
+
+Standard Features
+
+DirectX Support - allowing the use of third party enhancement plugins
+Easy to use and understand
+Uncluttered interface
+PC Based, Windows 98/98SE/ME/NT/2000/XP Compatible
+Supported Files Include Mp2 ,Mp3, WAV, WMA
+Support for MP3 Variable Bit Rate Format
+Full Automation or Live Assist
+Overlap (seguing, crossfading  of songs) with any single soundcard
+Overlap (global and individual)
+9 Instant Fire Hot Keys for assigning specific files, works like a cart machine
+Schedule Spots, Jingles, PSA\'s, Announcements, Programs to fire automatically at Exact times with our Event Scheduler
+Scheduled Event Warning System
+Schedule Play/Stop Commands
+Drag and Drop compatible
+Built in Windows Explorer Tree
+Create and save Playlists
+Create and save Mini-Playlists (a playlist within a playlist, great for spots)
+6 different Play Modes including Normal, Manual, Repeat, Random, Shuffle and Intro Scan
+Silence Detection to Minimize On-Air System Failure
+Automatic Logging of Times and Play Sequence
+Independent Variable Overlapping for each song
+Multi-Language Support (Swedish, Dutch, Russian, Greek, Turkish, Spanish)
+Built-In Help System
+Schedule live events (great for satellite feeds) (type \"120.live\" as file name for 120 seconds live feed)
+Schedule Playlists
+Open Winamp Playlists (with .m3u extention) & PLS
+Menu item to enable/disable scheduled events
+Digital Clock (12 or 24 hour format at the click of your mouse)
+Event precision of 1 second
+Live event through a selected mixer line
+Shutdown confirmation (can be disabled in Options/General)
+Full-Screen Video
+Raduga v3.8 will not run on Windows NT.  For NT users we can provide our v3.11 which will run properly on Windows NT.
+
+Raduga v3.8 will run on Windows 98.  However for stability we recommend Windows 2000/XP platform.

@@ -1,0 +1,40 @@
+              RELEASE INFO                                                    
+                                                                              
+
+           Terraria v1.0.6
+
+           (c) by Re-Logic
+
+           Date: 09-08-2011             Protection: Steam
+
+           Release: Cracked             by Ignite
+
+Changelog:
+
+v1.0.6.1:
+- Fixed a bug that would cause chests to contain stacks of empty items.
+- The crafting list now correctly updates after using the container loot buttons.
+- The direction bathtubs face when placed is now correctly sent to the server. This prevents bathtub duplication issues.
+- Smashing Obsidian Walls no longer gives Obsidian Ore.
+- Walls that are automatically placed to fill small gaps are now correctly taken from the playerâ€™s inventory.
+- Fixed a bug that causes Green Slimes to get stuck in the ground and start sinking.
+- Player ghosts no longer move when typing.
+- Fixed a bug that would cause mana to sometimes not regenerate when the player has 0 mana.
+- Slimes no longer chase the player in water when they are not in aggressive mode.
+- Lesser Restoration Potions and Restoration Potions now only heal for 50/100 life and 50/100 mana.
+- Lesser Mana Potions and Mana Potions now only restore 50/100 mana.
+- Changed the way the value of stacked items is rounded to fix selling/buyback inconsistencies.
+- Some items can now be placed in lava, this includes clay pots and fire blossom seeds.
+- Fixed a bug that would cause shadow orbs to me smashed during world generation. This was causing meteors to start spawning before the player is at the appropriate gear level.
+- Generated dirt walls now correctly blend with player placed dirt walls. Player placed dirt walls now have new graphics to differ from generated walls.
+- Boomerangs now reset correctly when you use your magic mirror if they are still flying.
+- Mediumcore characters now correctly drop ammo on death.
+- â€œMiscâ€ has been reworded to say â€œShoesâ€ on the shoes color settings screen.
+- Added the Sawmill which replaces the Workbench for â€œadvancedâ€ wood crafting. The Workbench is now designated for â€œbasicâ€ wood crafting.
+
+
+
+This time i kept the installer in the .rar so maybe people's AVs would stop deleting it instantly.
+Again, THETA releases get false positives and are perfectly clean. Just turn off your antivirus when downloading and just turn it back on after installing.
+
+If you have any problems running the game, install/reinstall Microsoft .NET Framework and Microsoft XNA Framework.

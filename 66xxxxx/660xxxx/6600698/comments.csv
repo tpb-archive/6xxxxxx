@@ -1,0 +1,37 @@
+User Type,Username,Date,Text
+,adncmo,2011-08-12T23:45Z,"By the way, version 1.0.40. Works on Mac OS X Lion :)"
+,rashai11,2011-08-13T01:36Z,"Seeds please ?
+
+Work ?"
+,adncmo,2011-08-13T02:42Z,"@rashai11
+
+Seeding... Sorry about the slow connection :/
+and yeah, it works. Playing right now on Mac OS X Lion."
+,rgmontejo,2011-08-13T08:03Z,y it isn't working on my lion?
+,rgmontejo,2011-08-13T08:05Z,"@adncmo
+
+how'd you do that? it isn't working on my lion."
+,adncmo,2011-08-13T08:05Z,"@rgmontejo
+
+I don't know bro, it's working on mine..."
+,jacintore,2011-08-13T14:53Z,"Permissions are not correct. chmod 777
+/Contents/MacOs/Plants vs. Zombies
+
+(this is the ""executable"")"
+,rgmontejo,2011-08-13T16:35Z,How do I make this work?
+,adncmo,2011-08-13T17:58Z,"Here guys, faster download: http://appd.in/plants-vs-zombies-1-0-4/"
+,Crackabad,2011-08-13T22:44Z,"doesn't work,
+just bounces on dock when i try to open it."
+,rafaltrus,2011-08-16T19:24Z,"Here is how to make it work on Mac OS X 10.7 LION
+
+As jacintore has noted, you need to change the file permissions. To do it, open the terminal (just search for it in the Spotlight). Type in the following
+
+chmod u+x /file/path
+
+Now, where it says /file/path, you need to provide the path to the /Contents/MacOs/Plants vs. Zombies file. The easiest way is to go to Finder, Application (or wherever you have the downloaded file), click show the contents of the Plants and Zombies, enter MacOS and drag the Plants vs Zombies file onto the terminal; the path will be posted in the command line.
+
+Hit enter, type in your password, and you should be good to go =)"
+,hamelin,2011-08-20T11:27Z,"can't get to work, tried in terminal, any other ideas ?"
+,hamelin,2011-08-20T11:28Z,in lion i mean
+,just_me_87,2011-08-29T13:32Z,"@hamelin
+might be worth checking that there isn't 2 // a second one came in when i dragged mine across, got rid of the second one and worked perfect "

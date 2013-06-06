@@ -1,0 +1,28 @@
+Esta vez ha sido basada en Debian squeeze, asi, el objetivo de la distribucion es contar con la compatibilidad y estabilidad de Debian, pero con una utilizacion e instalacion mas simple y amigable para todo tipo de usuarios. Esta nueva version de Tango incluye muchas correcciones de errores que habia en la primera version, actualizacion a versiones mas recientes de los programas y paquetes, por ejemplo, ahora incorpora HAL, que permite una mayor probabilidad de autodeteccion de dispositivos conectados a la PC (claro que ciertos componentes, como las placas de video, precisan de la instalacion y configuracion de su correspondiente driver).
+Ademas:
+ incorporÃ© ciertos drivers que facilitan la conexion a redes WiFi para gran parte de las placas de red
+Firestarter, firewall muy util y facil de configurar
+nueva version de la suite OpenOffice
+nueva version de emesene, tambiÃ©n se incluye Pidgin y empathy, en cuanto a VoIP esta Ekiga, que ya venia por defecto con Gnome
+Firefox 3.6, aunque si para la fecha en que bajan la distro ya salio uno nuevo, pueden actualizarlo perfectamente desde el menu Ayuda/Buscar actualizaciones
+un cliente de Bittorrent (Deluge)
+Mplayer con Gnome mplayer (es una interfaz que facilita el uso de mplayer para iniciaticos), tambiÃ©n estan Totem y Rhythmbox
+GIMP
+ Cups, para poder configurar impresoras (se incluyen muchos PPD para detectar automaticamente la impresora conectada, aunque algunas necesitan configuraciones particulares)
+Compiz, desactivado por defecto, si deseas habilitarlo previamente debes instalar y configurar el driver correspondiente a tu placa grafica
+Wine, para correr e instalar algunos programas de Windows en linux
+y muchos paquetes mas que ayudan al buen funcionamiento interno del sistema operativo, sobre todo en puntos que veia deficientes en la primera version
+problemas pueden surgir como con cualquier sistema operativo, pueden comentarlos en el foro. Recuerden que al estar basada en Debian, y al haber gran soporte en la red para Debian, pueden aplicar las soluciones que aparecen para esa distro en problemas en Tango, o si las dudas son con un programa en particular, buscar en la web del autor.
+Asimismo pueden instalar paquetes .deb, y cabe mencionar que, como en la primera version, se puede utilizar la distribucion en el modo Live, esto es, utilizarla desde el DVD o pendrive sin necesidad de afectar al disco duro de la PC ni provocar cambio alguno. Es una buena opcion para probar la distro, instalar y desinstalar programas y paquetes, etc sin correr riesgos.
+La instalacion ahora se hace desde el modo live, ejecutando en una consola de root el comando 'tangoinstalar' y corre un asistente basado principalmente en un script de Remastersys (utilidad para Ubuntu) que modifiquÃ© para adaptarlo a esta distro.
+
+NOTA: La distro incluye el plugin de Flash, que no es libre, unrar (para abrir archivos .rar), y parte de los drivers para soportar placas de red wifi, que tampoco lo son; estas cosas se incluyeron por una mejor comodidad y facilidad de uso de la distro sin tener que realizar tantas instalaciones de paquetes en un primer momento. En lo personal yo creo que el software de codigo abierto y el software de codigo cerrado pueden complementarse, ninguno debe morir a manos del otro (como dije, es una opinion personal), pero siempre es el usuario es el que debe decidirse por una u otra alternativa, por eso aclaro lo de estos drivers, el plugin y unrar, y si desean 'liberar' Tango lo pueden hacer ejecutando el siguiente comando: '  liberartango  '
+ (se desinstalaran estos componentes nolibres y se perdera la funcionalidad que proveian, para subsanar esto pueden instalar una alternativa libre de su agrado).
+
+Acerca de TANGO GNU/LINUX
+Aviso: Antes que nada, aclaro que la distribucion no es 100% libre ya que incluye ciertos archivos privativos (como el plugin de Flash), esto lo hice para facilitar el uso de novatos principalmente (sobre todo en el modo live), que suelen no estar familiarizados con las formas de instalacion de plugins y demas en linux. Sin embargo, si desean 'liberar' la distribucion de este software privativo e instalar su alternativa libre (opcion recomendada) ejecuten el comando que veran en este post del foro. 
+...
+About page : http://tangolinux.com.ar/index.php?ver=about
+
+Forum announcement : http://tangolinux.com.ar/foro/index.php?PHPSESSID=a7659caf6e6f73d564e12b441b668497&topic=18.0
+Home Page : http://tangolinux.com.ar/

@@ -1,0 +1,69 @@
+Openwall GNU/*/Linux (or Owl for short) is a small security-enhanced Linux distribution for servers, appliances, and virtual appliances.
+Owl live CDs with remote SSH access are also good for recovering or installing systems (whether with Owl or not). Another secondary use is for operating systems and/or computer security courses, which benefit from the simple structure of Owl and from our inclusion of the complete build environment.  
+http://www.openwall.com/Owl/
+
+Hi,
+
+Openwall GNU/*/Linux 3.0-stable has been updated to include almost all
+changes made and tested in Owl-current in recent months, including new
+package additions, and excluding only changes that would break binary
+compatibility with the 3.0 release (specifically, Owl-current's OpenSSL
+update and related changes are excluded from 3.0-stable):
+ 
+http://www.openwall.com/Owl/CHANGES-3.0-stable.shtml
+
+You may download new ISOs for i686 and x86_64 via direct links from the
+Owl homepage:
+ 
+http://www.openwall.com/Owl/
+
+or you may download them from many of the mirrors:
+
+
+(well, except for kernel.org at this time, for well-known reasons).
+
+New OpenVZ container templates, binary RPMs, and indeed sources are also
+available from the mirrors.  Not all mirrors have picked those up yet,
+but at least the Russian, French, Czech, and German mirrors did.  Things
+should propagate to all mirrors (except for kernel.org if it stays down)
+within one day.
+
+Let me use this opportunity to remind you that it's a good idea to check
+signatures on software you download, including from our mirrors.  For
+Owl, we generate *.mtree files with the mtree(8) program (which is part
+of Owl and *BSD), and we sign those files with GnuPG.  Our PGP keys used
+for signing may be downloaded from:
+ 
+http://www.openwall.com/signatures/
+
+(as well as from keyservers), and they're part of the PGP web of trust.
+
+Sample shell commands to verify downloads of Owl RPMs and sources may be
+found at:
+ 
+http://openwall.info/wiki/Owl/upgrade#Download-the-new-stuff
+
+For ISOs, you need to download iso.mtree and iso.mtree.sign (from the
+same directory with the ISOs themselves), then run commands like:
+
+gpg iso.mtree.sign
+mtree -f iso.mtree
+
+and pay attention to their output as the wiki page above says.
+
+If you do not have mtree installed, verify the signature on iso.mtree
+with 'gpg iso.mtree.sign' as suggested above, but then compute the SHA-1
+digest for the downloaded ISO with sha1sum or with 'openssl dgst -sha1'
+and compare it against one found inside the iso.mtree file.
+
+For OpenVZ container templates, everything is similar except that the
+two files are vztemplate.mtree and vztemplate.mtree.sign, respectively.
+
+As usual, any feedback is welcome on owl-users.
+
+Alexander 
+http://www.openwall.com/lists/announce/2011/09/09/1
+ 
+http://www.openwall.com/Owl/CHANGES-3.0-stable.shtml 
+http://www.openwall.com/signatures/ 
+http://www.openwall.com/donations/paypal

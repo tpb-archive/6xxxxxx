@@ -1,0 +1,20 @@
+Well for this time,it is a preactivated version for server edition
+should work for windows both version anyway. (x86 & x64 )
+please,install offline to avoid online server checker from Raxco.
+all previous version must be uninstalled first.
+DELETE ALL PREVIOUS REG KEY BY REGEDIT.EXE and complete folder as well.
+REBOOT ! and then install offline.
+
+What's new in PerfectDisk 12 (Build 290):
+         1. Thin provision drives were not being detected properly in vCenter (Virtual guest versions of PerfectDisk). This has been fixed.
+         2. The method used to detect solid state drives (SSD) has been changed to more accurately determine if a drive is an SSD or not.
+         3. Group Policy scheduling was broken. This has been fixed.
+         4. The command line flags for prep for Shrink and SSD optimize were coded backwards. This has been fixed.
+         5. Changes were made to the way WPI was querying was accomplished for improved performance.
+         6. When S.M.A.R.T. checks were disabled, some of the checks were still performed even though not needed. This has been corrected.
+
+as usual special thanks to Dimitry for sharing.
+
+Enjoy
+
+cu around... 

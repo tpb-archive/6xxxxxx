@@ -1,0 +1,33 @@
+User Type,Username,Date,Text
+[V],polisdavid,2011-08-28T20:13Z,Thank You Seeders!!  Âşâ)
+,masslingur,2011-08-28T20:22Z,Cannot get the keygen to work. Says invalid all the time. Any ideas?
+[V],polisdavid,2011-08-28T22:04Z,"masslingur,
+
+You could either try to install 4.4.3 and upgrade from there or:
+
+Unistall the current version and try this:
+
+
+[01] Open the following .plist file in PlistEdit Pro:
+~/Library/Preferences/com.stclairsoft.DefaultFolderX.plist
+[02] Click on the triangle for Settings:
+[03] Scroll down and locate the following three rows:
+[04] Double-click on the Value ( SN Generated from the keygen (-you choose name and org-) and change it to:
+RegisteredCode: [SN]
+RegisteredName: [Name]
+RegisteredOrganization: [Organization}
+[05] Save and close this .plist file.
+[06] Run the installer for a new version.
+[07] DO NOT click on Launch at the end of installation.
+[08] Instead, click on Preferences.
+[09] Click on the On button and check Enable at Login.
+[10] Use Little Snitch to block all outbound calls.
+
+"
+[V],polisdavid,2011-08-28T22:10Z,"It looks likie this at the bottom of the  .plist
+
+RegisteredCode
+		3EZA-M2AV-S2 
+		RegisteredName
+		Dr. David Polis
+		RegisteredOrganization"

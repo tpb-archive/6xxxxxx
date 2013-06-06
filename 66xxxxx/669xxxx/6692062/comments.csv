@@ -1,0 +1,200 @@
+User Type,Username,Date,Text
+,philteeth,2011-09-21T18:08Z,"Thank you sooo much, dude or dudette!!!"
+,osker246,2011-09-21T20:32Z,"Is this an update that you apply? Or is this the actual software with the update? If so, does the key from the previous release still work?"
+[T],joskewarez,2011-09-21T21:16Z,"This is the latest full version.
+Previous key is still working"
+,Arsventure,2011-09-21T21:52Z,"Thanks!!!
+"
+,Mike42S,2011-09-21T23:54Z,Can someone repost the serial? I forgot to save it and now my dad wants Parallels 7 as well.
+,thefog71,2011-09-22T06:12Z,@Mike42S ...Buy the Software!!! or Download the Torrent ..Sick Fuck!!!
+,thefog71,2011-09-22T06:16Z,@Mike42S Go buy the software!!! or download the torrent!!!! Sick Fucking Spies!!! 
+,n1ghtw0lf,2011-09-22T06:17Z,"@Mike425 you'll find it in the application menu bar at license info or whatever, btw for those already activated i'd say you better get it from the official web site, more reliable"
+,owen2nz,2011-09-22T06:54Z,how likely is it that ill get caught downloading this now since im in New Zealand and they have the three strike law in now?
+,Metalol123,2011-09-22T18:45Z,"I FINALLY made this work, and here's what I did, in case anyone else is wondering:
+
+1. Downloaded torrent
+2. Installed PD7
+3. Did NOT click Activate or anything when installation finished!
+4. Downloaded TextWrangler from AppStore
+5. Went into Finder -> Go -> Go to Folder -> Typed /etc -> Pressed Enter
+6. Locate the file named Hosts in the /etc folder (there is no file extension), Right-click, choose Open In: TextWrangler. 
+7. TextWrangler should now open the document. 
+8. There are already some lines of text, just click the first empty line below the existing text, and paste 
+127.0.0.1 parallels.com 
+127.0.0.1 registration.parallels.com
+127.0.0.1 update.parallels.com 
+127.0.1.1 pd6.blist.parallels.com
+127.0.0.1 pd7.blist.parallels.com
+127.0.0.1 pdfm7.blist.parallels.com
+that, into the document.
+9. Save the changes (if you get an Error code 5000, google it - cba writing the fix here, but its explained in one of the first few links that appear on google)
+10. Now you can click Activate and use the serial which is provided in the addict.txt document!
+
+Done! "
+,rene1704,2011-09-23T17:29Z,Please repost serial....thanks
+[T],joskewarez,2011-09-23T18:25Z,"it's in the txt file inside the torrent, asshole"
+,thefog71,2011-09-23T19:00Z,"@rene1704,Mike42S..and to ALL WHO WANTS SERIAL TO RE-POST?? Get The FUCK out of HERE!!! and BUY the SOFTWARE you fucking MORONS!!!"
+,rigpig1,2011-09-27T04:57Z,"Right on, thanks joskewarez, much appreciated! "
+[T],nobody2007,2011-09-27T07:51Z,"@Metalol123
+>4. Downloaded TextWrangler from AppStore<
+
+Why once should download a file from the appstore. when Host Manager (go to Macupdate.com) does the same job??"
+,BlackHawk00,2011-09-28T12:08Z,its activated in the first attempt...Thanks a lot!!!
+,BlackHawk00,2011-09-28T12:11Z,"After editing your 'host' file, run the following command on 'terminal' to flush the DNS cache, and have your host file changes to take immediate effect:
+
+dscacheutil -flushcache"
+,Kilamite,2011-09-28T14:16Z,"Works a treat.
+
+Thank you very much!"
+,ariful92,2011-10-02T05:21Z,"WAIT IS THIS CORRECT I DID WITH TEXT EDIT THEN SAVED IT IN MACINTOSH
+
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+127.0.0.1 pd6.blist.parallels.com
+127.0.0.1 pd7.blist.parallels.com
+127.0.0.1 pdfm7.blist.parallels.com
+127.0.0.1 registration.parallels.com
+127.0.0.1 parallels.com
+127.0.0.1 update.parallels.com "
+,nemosrings,2011-10-03T09:20Z,"Another NoOb question lol ... is it necessary to use TextWrangler, why not simply use TextEdit? Seemed to work for me on previous occasion from memory. TextEdit opens most files with drag & drop or set default."
+,chitoac,2011-10-05T19:18Z,"I got the error -5000 and this is what i did
+
+Step 1 â€“ Open the Terminal.app
+
+Either by start typing Terminal on the Spotlight, or by going into Applications -> Utilities -> Terminal.
+
+Step 2 â€“ Open the hosts file
+
+Open the hosts by typing on the Terminal that you have just opened:
+
+sudo nano /private/etc/hosts
+
+Type your user password when prometed. again you wont see the password this is normal
+
+Step 3 â€“ Edit the hosts file
+
+just copy paste de code provide in the torrent on the next empty line available  REMEMBER you can only navigate using the arrow keys from on the terminal 
+this are the lines i pasted provided in the torrent:
+
+127.0.0.1 pd6.blist.parallels.com
+127.0.0.1 pd7.blist.parallels.com
+127.0.0.1 pdfm7.blist.parallels.com
+127.0.0.1 registration.parallels.com
+127.0.0.1 parallels.com
+127.0.0.1 update.parallels.com
+
+Step 4 â€“ Save the hosts file
+
+When done editing the hosts file, press control-o to save the file and Press Enter on the filename prompt, and control-x to exit the editor.
+
+then close the terminal and you are done.
+ to recheck is your host file change, locate host file open with text editor and you should see your text change
+
+sorry my english ! hope it helps"
+,Bearsriver,2011-10-09T11:53Z,Thank you sooooooo much!!! :)
+,ged21x,2011-10-10T20:45Z,Holy shit. I hit 2.3 mb/s downloading this. Baller
+,Jeepster1,2011-10-11T20:22Z,"Stop press!
+
+caught parallels trying to contact:
+
+127.0.0.1 pdfm7.cepreport.parallels.com
+
+which is not included within the initial hosts blocking list, so I added this to my existing hosts file block list. 
+
+Don't know if it's of any significance, so its completely up to anyone if they want to include or not. Hope it may help!"
+,geeezyfbaby,2011-10-13T21:21Z,"I've had parallels 7 installed for months and months , activated and working perfect using said instructions and serial (running Windows 7 VM). Leave it to my curiosity to want to try the developer preview of Windows 8 (free dl from microsoft), so I decide to try to add a new VM, then realize to do so I must upgrade to parallels v. 7.0.14924.699487 (newest)......I didn't know I would have to activate again, I assumed it would just upgrade...wrong. serial is now BL'd and does not work (as others have recently posted as well), even when modifying the /etc/hosts and using little snitch. Anyone know a workaround such as modifying other files or have a new DL link? TIA"
+,kkcci00000,2011-10-16T10:55Z,"MUST NOT download while you install this PD7 from the official website OR you will get the 'the key you entered cannot be activated beca....'
+
+I re-install it using the file downloaded from here and everything is working fine (of course, needs to edit the host file)
+
+However, my PD6's Windows7 needs to re-activate after re-install the PD7 components...
+
+Anyway, Thanks"
+,SilentControlx,2011-10-21T09:28Z,"WHAT HOST FILE 
+I DONT GET IT PLEASE HELP ME 
+
+
+
+
+
+
+
+
+OR MAKE A VIDEO ON YOUTUBE
+
+
+
+
+
+"
+,Pessimistic1,2011-10-21T18:37Z,"Downloaded this last night. Installed it this morning. I used the key provided and it activated with no problem. Migrated my PC (Win 7) to my Mac (249GB) and it is working flawlessly!! Did not have to edit ""hosts"" file or anything else. Key is good as of 10/21/2011. THANKS FOR THE TORRENT AND WORK!"
+,Jeepster1,2011-10-23T12:14Z,"Can anyone confirm if key is working with the newer 7.0.14924 version? cheers
+
+Wan't to see if the so-far 'failed' claimed big improvements with gaming may actually work in the latest version 7.0.14924 because I didn't experience it in version 7.0.14920 and sadly the same applied for the torrent version 7.0.14922 that joskewarez kindly uploaded here for us all (much appreciated).
+
+Dont't get me wrong games function (except Dead Island for some reason that only runs in Bootcamp), however the performance isn't that good with frame-rates suffering making them unplayable compared to when booting solely in Bootcamp."
+,alamery,2011-10-24T21:30Z,"BEST WAY TO COPY THE LOCAL HOST OR CHANGE IT:
+
+1. go to finder and click and hold on it, choose Go to Folder
+2. type      /etc
+3. look for file named hosts inside the folder
+4. copy file and paste it in desktop
+5. change the file attributes before edit, and keep it ( Read & Write )
+6. open the hosts file and edit everything you want
+7. save the file and exit
+8. go to original file and move it to trash or delete it
+9. put the amended file in to the original file ( etc )
+
+
+That's all, and I'm so sorry for any wrong writing"
+,riduan011,2011-11-04T15:31Z,I need a serial key for Parallels.Desktop.v7.0.15050 plzzz..
+,killbush,2011-12-03T22:30Z,Thanks!
+,Dankbread,2011-12-23T21:30Z,"so apparently I have no /ect or host file... is this possible? are there any other ways of activating parallels, or making a host file?"
+,Dankbread,2011-12-23T21:34Z,so apparently i have no /ect or host file on my mac... is this even possible? i searched for a good 20 minutes in the finder. How can I make parallels work for my mac?
+,juicyboy2011,2011-12-27T07:21Z,"Hey Guys,
+I would really appreciate some help.
+I downloaded parallels 7(this torrent) and i find myself having a hard time getting it going. I also got my hands on the windows 7 to install with it. I just bought a mac, and im not to familiar with how this shit works. Really, im downloading parallels so i can get acid pro 7 working on the windows operating system since i cant put it on mac. If theres an option im not aware of out there that would help me avoid parallels and windows on my computer, id appreciate some help!! But in regards to this program, im not sure what to do as far as editing terminals and such. The Key activates the software, but it doesnt visibly do anything on the computer... if theres a how to guide someone can point me to or perhaps some guidance my fellow pirates can give me, it would help me out a great deal! thanks "
+,helvetico,2012-01-29T16:47Z,"Thanks joskewarez!!! Works GREAT!
+But is there still the Smartselect menu? It does not work for me..."
+,Windless,2012-02-06T04:57Z,"Hi! Anyone got this working? 
+Is the serial provided workable as well or do we have to find new serial?
+If so, where can we find new serial?
+
+Thanks! (Sorry for being such a noob)"
+,arsenal10112,2012-02-19T07:36Z,"very easy install, good job joskewarez!"
+,shen_long75,2012-02-21T13:47Z,Downloaded this today. works 100%. It even has uninstaller for PD6 which was really cool. thanks :)
+,shen_long75,2012-02-21T14:36Z,"Just in case anyone wants to update to the very latest version of PD7 v7.0.15054.722853 here is the serial key & it worked for me.
+
+
+M7W8MN-ZRXVF0-M03RQ2-T0BD3D-2JCRS6"
+,shroysha,2012-04-01T00:32Z,Thank you seeders!
+,Mus,2012-04-04T13:05Z,Thank's! Good work!
+,kengie23,2012-04-10T04:37Z,"Serial still works perfectly as of 9APR2012.
+
+PPL please stop posting the serials as this is a great way to get it black listed. Serial is included in the txt within the torrent.
+
+I had 0 problems at all although I installed it after windows is already installed on bootcamp. Just followed through with the PD7 installation and entered SN on file. "
+,kengie23,2012-04-10T04:38Z,"oh, great job and kudos to joskewarez!! Keep up the good work man!!"
+,electrobe,2012-04-13T13:50Z,"um I'm having some problems with the serial code, and it would be great if you guys could help me out.
+i have edited the hosts file
+and that didn't work, so i got little snitch and it still didn't work
+so can anybody help me out?"
+,jaykemet,2012-04-19T14:08Z,it is telling me it is unable to register parallels from this website. can anyone give advice
+,8oh8,2012-05-11T21:39Z,"okokok.... PLEASE DONT FLAME ME.... i have only bumped into this issue once before and never bothered to ask due to looking like a complete idiot... 
+
+during the install process I have bumped into this,
+
+""There is no operating system installed in this virtual machine. Please insert an operating system installation CD into the optical drive of your Mac and restart the virtual machine.""
+
+I have chosen the iso as an install point during the installation but for some reason I continue to run into this issue... I'm not a super nub at comps/mac just a bit turned around at the moment and would seriously appreciate a bit of help
+
+Mahalo in advance"
+,mbreed0990,2012-05-23T21:23Z,i cant seem to get to any of my files help anyone 

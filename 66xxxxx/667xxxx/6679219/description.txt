@@ -1,0 +1,139 @@
+Hirens' Boot DVD 14.1 Restored Edition V 1.0
+
+----------------------------------------------------------------
+For installation to USB read document 'usb-installation.pdf.
+----------------------------------------------------------------
+
+Hiren's Boot CD is a vast collection of bootable and portable
+utilities for the management, diagnosis and repair of computer
+problems, recover lost or deleted files or cracking passwords. 
+In addition, HBCD provides a means to take control of any 
+computer and communicate with other computers, surf the internet, 
+write documents or programs, without booting the installed 
+operating system. There are literally hundreds of utilities and 
+it is advised that you explore the contents before the need for 
+it arises.  Hiren's Boot CD can be used in two ways:
+
+1. As a boot CD to take control of the computer without starting
+   the installed operating system so that we can do repairs or clone 
+   the main disk, recover files, test the memory, clean severe
+   viral infections, et.c. To do any of these simply boot the 
+   computer from the CD and select a utility from the menu.
+   Note that the options include a couple of Linux rescue environments
+   which provide many powerful tools for solving and repairing
+   Windows and Linux problems.
+
+2. As a collection of portable repair and diagnostic utilities 
+   which can be run from within Windows without installation. 
+   To do this insert the CD when Windows is running and 
+   select a utility from the HBCD Program Launcher menu. 
+   If the CD does not autorun you may start the menu by running
+   \HBCD\HBCDMenu.exe.
+   When the operating system not functional or unavailable the 
+   portable utilities may be still be used if we boot the 
+   Mini Windows XP environment included in the CD. (4th option of
+   the main boot menu).
+
+----------------------------------------------------------------
+   For example Norton Ghost can be started in three ways:
+   
+   -- Boot the CD, select "Dos Programs" and then "Norton Ghost".
+      (useful if we wish to clone or restore the main hard disk 
+      and there is not enough memory to boot Mini Windows XP).
+
+   -- Boot the CD, select "Mini Windows XP" and then select Ghost
+      from the HBCD Program launcher menu.
+   
+   -- Boot to your windows operating system, insert the CD and 
+      select Ghost from the HBCD Program launcher menu.
+----------------------------------------------------------------
+
+This Restored DVD includes all the utilities found in the original
+Hiren's Boot CD 14.1 (August 2011).  [1]
+It is called Restored because it contains all the commercial utilities
+omitted from the official releases (since version 11.0.)
+It also includes the Acronis True Image Home 2011 and other 
+useful software fully integrated within Hiren's menus. 
+
+Below are listed only  the additional programmes and utilities
+found in this DVD. The numbers in square brackets [] are referring
+to the URLs listed at the bottom of this file.
+For the complete list of utilities in the official Hiren's 
+Boot CD, read the files HBCD.txt and changes.txt, or visit [1].
+
+
+----------------------------
+Restored DOS Menu utilities
+----------------------------
+
+These are found within the HBCD DOS menu.
+
+-- Acronis Disk Director 10.0 (build 2.160)
+-- Acronis True Image 8.1 (build 945)
+-- Active Partition Recovery (3.0)
+-- Active Password Changer (3.0.420)
+-- Active Undelete (5.5)
+-- Drive Image (5.6)
+-- ERD Explorer
+-- GetDataBack for FAT/NTFS (4.0)
+-- HDD Regenerator (1.71)
+-- NTFS Pro
+-- Norton Ghost 11.5.1
+-- Norton PartitionMagic Pro Server (8.05)
+-- PC-Check (6.21)
+-- Paragon Partition Manager (7.0.1274)
+-- Paragon Mount Everything (3.0)
+-- Synantec ImageCenter (5.6)
+
+------------------------------------
+Other included software
+------------------------------------
+
+-- Acronis Boot Disk [4].
+   It includes: 
+     -- True Image Home 2011 full version plus pack (build 6.597). 
+     -- Disk Director 11 (build 11.0.2121). 
+
+-- Active Boot Disk 5.3.3 [6]
+   With the option to boot either in a DOS or Win7 environment.
+   Contains tools to image disks, data recovery, partition management,
+   password resetting, data erasure, network access and other system utilities 
+
+-- Avast Registry Editor [7]
+-- DiskGetor Data Recovery 3.0
+-- Easeus Partition Master 6.5.2
+-- GetData Recover My Files Pro 4.6.8.933
+-- Ghost Cast Server
+-- Ghost Image Explorer
+-- HWiNFO 3.65
+-- Kaspersky Rescue Disk 10.0.29.6  Updated 24 August 2011 [5]
+-- Outlook Express Backup 6.5
+-- Passware Kit Enterprise 10.3.2585 (Crack any password)
+-- R-Drive 4.7 (4726)
+-- Spinrite 6
+-- WinRar 4.00
+-- WXHexEditor 0.11 Large (Terabyte) file/disk hex editor.
+-- SysRescueCD (2.3.0 August 2011). [2] 
+    A live Linux Gentoo based rescue CD.
+    It includes many tools for rescuing and managing
+    Linux and windows systems. Hundreds of utilities.
+    e.g. Clam antivirus, Gparted, ntfs-3g, wifi access,
+    syslinux, telnet, ssh, PXE boot, Firefox, vim, MC...
+
+-- Also note the new improved menu layout.
+
+-------------------------------------------------------------------
+Kudos and thanks to DimTam for his suggestions, testing, correcting 
+and uploading the CD.
+-------------------------------------------------------------------
+
+Enjoy!
+
+Proteus. August 2011
+
+References:
+[1] http://www.hirensbootcd.org/hbcd-v141 
+[2] http://www.sysresccd.org/Detailed-packages-list
+[4] http://www.acronis.com/homecomputing/products/trueimage/
+[5] http://support.kaspersky.com/viruses/rescuedisk
+[6] http://www.ntfs.com/boot-disk.htm

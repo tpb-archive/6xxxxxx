@@ -1,0 +1,34 @@
+              OWNLOAD                   IEW
+
+
+         Robinson.S14E03.SWEDiSH.PROPER.PDTV.XviD-D2V
+         
+         Release Date     : 2011-08-31
+         Source           : DVB stream
+         Video Format     : XviD (2-pass)
+         Video Resolution : 640x352
+         Video Framerate  : 25 fps
+         Audio            : MP3 128kbit/s VBR
+
+         Oh! Competition! Nice! But...
+         
+         RUTAN was a little too fast to make us NOT check their 
+         release with our proper-goggles on :)
+
+         And it took 20 seconds to find the flaw, and how they cheated.
+         
+         00m00s-20m58s = 7,9 avg.drf
+         20m58s-42m02s = 6,7 avg.drf
+
+         This means that RUTAN did a 2nd pass segment encode with 20m58s
+         as the cut between the segments. If they had done a full 2nd pass
+         encode the drf would have been much more similar between the segments.
+
+         Reminder of the rules
+
+         "The second pass must be done as spanning the entire episode with
+         bitrate distribution based on need determined from a stats file
+         referencing the entire episode; segmenting with arbitrary bitrates is
+         banned."
+
+         Better luck next time, cheaters

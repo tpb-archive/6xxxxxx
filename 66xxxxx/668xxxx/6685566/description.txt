@@ -1,0 +1,20 @@
+Software For BlackBerryÂ® Curve(TM) 8520 Smartphone
+This will install to any carrier\\\\\\\'s 8520 device by following the instructions below.
+
+BlackBerry Handheld Software v5.0.0.1728 (Multilanguage) 
+
+Package Version: 5.0.0.1728
+Consisting of:
+Applications: 5.0.0.1067
+Software Platform: 5.2.0.96
+File name: 8520wifiM_PBr5.0.0_rel1728_PL5.2.0.96_A5.0.0.1067
+File size: 125.47MB
+
+Instructions to install, regardless of carrier.
+
+1. Download the above OS file to the PC then install it to the PC by running (double clicking) the file you downloaded.
+2. Go to c:\\\\\\\\program files\\\\\\\\common files\\\\\\\\research in motion\\\\\\\\apploader and delete the file named \\\\\\\"vendor.xml.\\\\\\\" Vista/Win7 users: In the apploader folder, simply click on \\\\\\\"Compatibility files\\\\\\\" to see the actual Vendor.xml file. Once you\\\\\\\'ve got that - simply delete the vendor.xml file there (even if you\\\\\\\'ve deleted or think you\\\\\\\'ve deleted it in the folder previously).
+3. Plug in BB and double click on \\\\\\\"Loader.exe.\\\\\\\" It\\\\\\\'s located in the same place as the above vendor.xml file.
+
+The process takes about 45 minutes to an hour depending on how much data you have to backup and restore during the process. Once it\\\\\\\'s done loading the new OS it will reboot (it may do this twice during the entire process.) You will see a screen with an hourglass or status bar for up to 20 minutes at a time while the DM says \\\\\\\"waiting for initialization.\\\\\\\"
+If, for some reason, you end up with a white screen with small icons and the number 507, simply connect to the PC again and run Loader.exe again and it should load the OS to the device.

@@ -1,0 +1,150 @@
+                .: Call of Duty Black Ops - First Strike.
+
+                       Tutorials for Steam version
+
+ 1-Possess the original PC game! Then Extract the archive \\\"Call of duty Black ops - Fist Strike (By LeJoker). Rar\\\" in your \\\"SteamApps\\\". Default: \\\\ Program Files \\\\ Steam \\\\ steamapps \\\\
+2 - Replace files
+3 - Then go to your \\\"Player\\\". Default: \\\\ Steam \\\\ steamapps \\\\ common \\\\ call of duty black ops \\\\ players
+4 - Open config.cfg with a text editor (Word, etc ...)
+5 - Add a line: bind (the key you want, for example F11) \\\"map zombie_cosmodrome\\\"
+6 - Save and exit
+7 - Extract BOOptimizer_v0.31.zip in \\\\ Steam \\\\ steamapps \\\\ common \\\\ call of duty black ops (BOOptimizer and copy on your desktop for example)
+8 - Run Patch v0.31 BOOptimizer (run as administrator in \\\\ Steam \\\\ steamapps \\\\ common \\\\ call of duty black ops (nothing happens? Normal, he copied the files needed to use BOOPTIMIZER) After launching BOOptimizer. exe and then Call of duty Black ops
+9 - To start the map, press the key you set in the config.cfg and Have Fun!
+
+
+                                  Warning!
+
+1 - The map can be started by pressing the button you set in the config.cfg
+2 - You can only play solo. You can not play in private match or online.
+3 - The multiplayer maps does not work anymore, only the map zombie walk.
+4 - If black ops crash, BOOptimizer.exe run as administrator.
+5 - It is mandatory to start BOOptimizer.exe if you want to play a zombie the map.
+6 - If you have a message like this: \\\"Server unknown script compile error function\\\" is that you play with the version SKYDROW and that the map is compatible with.
+You can try reinstalling the game but I\\\'m not sure this will solve the problem.
+
+
+Here guys here are all of english DLC files for people who have bought the DLC, but dont have english version of black ops.
+
+you place these files in main
+localized English iw06.iwd 
+http://www.media fire. com/?3i5ii3v1 f79n2z7
+
+localized English iw07.iwd 
+http://www.media fire. com/?c47bf2h byhhk7nr
+
+localized English iw08.iwd 
+http://www.media fire. com/?wq9bu6 sy96aynkl
+
+
+
+you extract this file to zone folder
+
+English.rar 
+http://www.med iafire. com/?1hj24 1u8d22xj58
+
+heres localization.txt--&gt;
+
+code : english
+
+
+WIN_CONFIGURE_UPDATED_TITLE
+\"Recommended Settings Updated\"
+
+
+WIN_CONFIGURE_UPDATED_BODY
+\"The recommended settings have been updated since the last time you ran Call of Duty.
+Would you like the game to configure itself optimally with these new settings?
+
+This is recommended for most people.  It will change your system settings but not your controls.\"
+
+
+
+WIN_LOW_MEMORY_BODY
+\"It looks like you are low on virtual memory.
+This can cause the game to run slowly and it may stop completely.
+It is highly recommended that you close some programs before running Call of Duty.
+
+Do you want to run Call of Duty anyway?\"
+
+
+WIN_LOW_MEMORY_TITLE
+\"Low Memory\"
+
+
+WIN_COLORDEPTH_WARN_BODY
+\"It is highly unlikely that a correct windowed display can be
+initialized with the current desktop display depth.  Select
+\'OK\' to try anyway.  Press \'Cancel\' if you wish to quit.\"
+
+
+WIN_COLORDEPTH_WARN_TITLE
+\"Low Desktop Color Depth\"
+
+
+WIN_COMPUTER_CHANGE_BODY
+\"Your computer appears to have changed since the last time you ran Call of Duty.
+Would you like the game to configure itself optimally for your new hardware?
+
+This is recommended for most people.
+It will change your system settings but not your controls.\"
+
+
+WIN_COMPUTER_CHANGE_TITLE
+\"Set Optimal Settings?\"
+
+
+WIN_DISK_FULL_BODY
+\"Call of Duty: BlackOps couldn\'t write a file.  The hard drive is probably full.\"
+
+
+WIN_DISK_FULL_TITLE
+\"File Write Error\"
+
+
+WIN_IMPROPER_QUIT_BODY
+\"It appears that Call of Duty: BlackOps did not quit properly the last time it ran.
+Do you want to run the game in safe mode?
+
+This is recommended for most people.
+It will change your system settings but not your controls.\"
+
+
+WIN_IMPROPER_QUIT_TITLE
+\"Run In Safe Mode?\"
+
+
+WIN_ERROR
+\"Fatal Error\"
+
+WIN_NO_STEAM
+\"Steam must be running to play this game.\"
+
+WIN_OUT_OF_MEM_BODY
+\"Out of memory error.  You are probably low on hard disk space.\"
+
+
+WIN_OUT_OF_MEM_TITLE
+\"Out of memory error\"
+
+
+WIN_UNABLE_LOAD_DLL_BODY
+\"Unable to load a DLL.  Possibly due to low memory, insufficient hard drive space, or missing DLL files.\"
+
+
+WIN_DIRECTX_INIT_TITLE
+\"DirectX Error\"
+
+WIN_DIRECTX_INIT_BODY
+\"DirectX encountered an unrecoverable error.
+
+Check the readme for possible solutions.\"
+
+WIN_EXE_ALREADY_RUNNING
+\"Call of Duty: BlackOps is already running.
+
+You can switch between game modes from the menu.\"
+
+
+WIN_COULDNT_START_PROCESS
+\"Could not start process.\"

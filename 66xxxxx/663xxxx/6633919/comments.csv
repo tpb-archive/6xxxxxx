@@ -1,0 +1,116 @@
+User Type,Username,Date,Text
+,wmsec,2011-08-28T03:25Z,"Except a game saving issue (because of a non-existing location in the .app, âsave file # not presentâ error is shown) everything works great.
+Maybe it will work after creating a folder inside the .app file that will match the one used on the PC version.
+
+Don't forget to seed!"
+,Kojsu,2011-08-28T10:21Z,it is from mac app store?
+,Oskeee,2011-08-28T11:06Z,"@wmsec, are we able to create a save folder in the app? Also, this is a Mac App Store rip right?"
+,Kojsu,2011-08-28T13:19Z,"ok, game works fine, but still cant save it. 
+
+let us know if you find a solution, so others who come here looking can see it.
+
+thanks."
+,Bammer09,2011-08-28T14:55Z,Why are there 3 files? do i compress them all?
+,Bammer09,2011-08-28T15:13Z,Ok nevermind. But I really want to know how to save my game.
+,maczoli,2011-08-28T15:47Z,"NO Mac App Store version, it's a cyder port I think. But it runs well, even on an Intel x3100"
+,Bammer09,2011-08-29T05:18Z,im pretty sure its a mac app store version since it wasnt indicated that it was a cider and the details were like copied from the description in the app store
+,knif,2011-08-29T06:20Z,"To fix the save game issue:
+
+1) Open Finder, go to the Applications folder, right click on ""GTA Vice City"" and select ""Show Package Contents"".
+
+2) Inside the package, navigate to Contents and then Resources.
+
+3) Open user.reg and userdef.reg with your favorite editor.  Replace all occurrences of ""Tigran"" with the username you use to log in to OS X.  (Open terminal and type whoami if you're unsure.)
+
+Note: The %USERNAME% environment variable will not work, you must use your username.  I'm assuming this has something to do with Wineskin changing the username from ""Wineskin"" to your actual username after launch, but I'm not 100% sure.
+
+4) Save both files and start GTA.  You should now be able to save games.  If you already have a save game that you want to add, make a folder called ""GTA Vice City User Files"" within your local ""Documents"" folder and copy the GTAVCsf1.b to the folder you just created."
+,Bammer09,2011-08-29T11:26Z,"dude what the fuck hahaha that's so hard how about someone try doing this and see if it works, and re upload the torrent file?"
+,gbxdl,2011-08-29T12:36Z,"Thanks a lot knif!! The save fix worked:):):)
+and dude Bammer it's not difficult at all:-/"
+,coreelman,2011-08-29T16:05Z,"does anybody nows how to aim? And how to change weapon?
+
+The game runs great!"
+,Bammer09,2011-08-29T16:53Z,ok so what do i do replace all the tigran with what? the user account we use to log in? thats it? 
+,Bammer09,2011-08-29T17:00Z,haha find and replace did it already
+,wmsec,2011-08-29T20:52Z,"@Bammer09 
+What you said makes no sense, since everybody has a different user on his OSX.
+If such a small modification is so hard for you, use
+Windows with ""official"" cracks from the release groups, or buy the game directly in the App Store."
+,Bammer09,2011-08-30T03:28Z,wtf? i already did it man no probs..
+,Bammer09,2011-08-30T05:45Z,i can save already
+,Bammer09,2011-08-30T05:49Z,"sorry, didn't know how to delete comments. btw is there a way to play this game in windowed mode?"
+,Bammer09,2011-08-30T05:51Z,is there a way to play this game in windowed mode? (sorry if this post is doubled i just dont know cuz i didnt say my latest post)
+,Bammer09,2011-08-30T05:51Z,"OMG im really for spamming like seriously, and i meant see not say"
+,MarkGibbons,2011-08-30T07:06Z," @knif - any chance you could create a video and post us up a link? I'd be eternally grateful. - I'm new to macs so It's not my genre of expertise, but I  can follow instructions fine. I'm sure others would appreciate it to. you could turn it into a whole, ""How to get VCS for FREE!"" Video or something.
+
+And yes, this runs fine, just make sure you unzip it with StuffIT Expander to make things easy."
+,MarkGibbons,2011-08-30T07:07Z,"Also, It won't let me play MP3's (Which I don't care about) or change my resolution, even though it has a widescreen setting, bit of a bummer, but no real problems besides not being able to save. "
+,knif,2011-08-30T14:13Z,"@MarkGibbons
+I'm too lazy to make a video.  Try this out, though:
+
+http://i.imgur.com/gr7y4.jpg"
+,Bammer09,2011-08-30T14:22Z,"go open the two files then just find and replace .
+find tigran
+replace with ur username"
+,knif,2011-08-30T17:45Z,"For those that want windowed mode, you'll need to edit two files.
+
+1) /Applications/GTA Vice City.app/Contents/Info.plist
+
+Change: novdx24sleep0
+
+To: Current Resolutionx24sleep0
+
+2) /Applications/GTA Vice City.app/Contents/Resources/user.reg
+
+Change: ""Decorated""=""N""
+
+To: ""Decorated""=""Y""
+
+To revert back to full screen, just reverse the steps."
+,macattacker,2011-08-31T09:32Z,what do you do when the 3 files come up to get the game working?
+,macattacker,2011-08-31T09:38Z,what you to get the game to work with those 3 files that come up?????
+,MarkGibbons,2011-08-31T20:08Z,"What programe do I need to edit those. I should be able to do it with the above link. I'll make a video if I get this running, with your permission of course. "
+,MarkGibbons,2011-08-31T20:44Z,"Got it. Working fine, perfect upload. thank you! :D"
+,Bammer09,2011-09-01T10:26Z,how to make this windowed mode? dude i was trying to do that but i still end up getting fullscreen...
+,lucaasm,2011-09-02T19:06Z,Did anybody else notice the radios are different from the original version of Vice City?
+,NelsonMD,2011-09-03T17:34Z,"@lucaasm Yep, this is an horrible bug ! I can't use mouse up and down too, I have lots of lags, that sucks a lot... MacBook Pro 15"" December 2010 i5"
+,kourtney333,2011-09-05T14:48Z,can someone PLEASE explain what to do with the 3 files?
+,50indo,2011-09-06T19:19Z,bedankt
+,id3sire,2011-09-07T06:41Z,woot woot 1.67 mb/s
+,id3sire,2011-09-08T02:33Z,graphics are awful
+,DarkVOX,2011-09-09T04:00Z,"For those of you not sure what to do with the 3 files you get, go download a program like ""UnRarX"" or ""The Unarchiver"" and use one of those to open the first file.  Keep all 3 files together in their own folder (place all in one folder) and the program will do the rest for you."
+,LordEvoken,2011-09-10T15:31Z,"After playing the new-gen consoles, the graphics of this game seem ancient."
+,zoeyspal,2011-09-11T21:26Z,"@knif what program can i use to open it? give me an example please, thanks:P"
+,zoeyspal,2011-09-12T01:40Z,How do you scroll through weapons?
+,wmsec,2011-09-14T23:43Z,"@Phuque2
+
+You don't like?
+Buy from App-store."
+,Canad4rk,2011-09-19T01:49Z,"Here's a mod on how fix the save game issues posted by knif (I just added a step making the replacement of the occurence ""Tigran"" easier)
+
+
+1) Open Finder, go to the Applications folder, right click on ""GTA Vice City"" and select ""Show Package Contents"".
+
+2) Inside the package, navigate to Contents and then Resources.
+
+3) Open user.reg and userdef.reg with your favorite editor (i.e. Text Edit). Replace all occurrences of ""Tigran"" (See step 4) with the username you use to log in to OS X. (Open terminal and type whoami if you're unsure.) 
+
+4) Using apple F (command F) on your keyboard will open a search tool to simplify the replacement.  
+
+Note: The %USERNAME% environment variable will not work, you must use your username. I'm assuming this has something to do with Wineskin changing the username from ""Wineskin"" to your actual username after launch, but I'm not 100% sure.
+
+4) Save both files and start GTA. You should now be able to save games. If you already have a save game that you want to add, make a folder called ""GTA Vice City User Files"" within your local ""Documents"" folder and copy the GTAVCsf1.b to the folder you just created."
+,kizzck,2011-10-29T15:17Z,Is this the mac app store version?
+,killer-X-945,2011-11-03T01:44Z,Will this run on powerpc?
+,zoeb.khan,2011-11-28T04:06Z,"2 questions..
+1.do i have to replace '%USERPROFILE%' which already exists in both user.reg and userdef.reg files with my username.
+2. and when i opened the GTAVCsf1.b with GTA VC it showed 'Error: There is no windows program configured to open this file'"
+,Tihzz,2011-12-12T15:34Z,Is there any way to change the resolution? I tried to google it but didnt find any solution.
+,arthurtwosheds,2012-01-03T11:04Z,"Thanks to the uploader and to knif & Canad4rk for their guides, which worked a treat."
+,PPLOHMAMA,2012-01-27T20:04Z,"This works on Intel based Macbook, it has save game problem. You have to manually fix it, check out how from other comments.
+I played it Flawlessy from start to the point where you do voodoo lady missions. When i purchaced the Cherry-Icecream Studio and got past one or two missions i think.. it ruined my save game!!!!
+When i load, an error pops up!
+I think you cannot complete the game so download other version or something, this download is no good when your game is ruined."
+,jbal412,2012-02-07T03:34Z,the windowed doesn't work. i open it and it begins to open up in windowed but closes immidiatly. i followed the steps of knif
+,timwayne,2012-05-11T03:03Z,the file (when trying to open with miro) says it has been deleted outside of miro.. anyone know what that means?

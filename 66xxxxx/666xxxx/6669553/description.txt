@@ -1,0 +1,7 @@
+Evil Genius Soundtrack
+
+Ripped using ErbReader and DecodeTSubBand.
+
+I've preserved folder structure and naming used by the game. So if you wonder why is there a "New folder", that's just lazy Elixir devs. Also if you wonder why bgm/22.wav is missing, I've double checked the game files and it's not referenced in them, so it was never released with the game.
+
+The game uses custom lossy codec that is similar to MP3 128 kbit/s, so all files have frequency capped at 11 kHz. That is, the files are not 11025 Hz, but full 44100 Hz, they just don't have any audio material in the frequencies above ~11kHz.

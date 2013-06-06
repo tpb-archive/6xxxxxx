@@ -1,0 +1,16 @@
+The Raspberry Pi is a $25 Linux/ARM computer scheduled to be launched in November 2011. The purpose of Raspberry Pi (the name of both the computer, and the non-profit foundation that designs and sells it) is to help kids get access to computers and learn programming, in schools and the 3rd world, but the Pi (ARM11, 128/256 MB RAM, HDMI, USB...) is powerful enough for a variety of other uses (emulation, NAS, HTPC, Office work...). 
+
+More info here: http://www.raspberrypi.org/
+FAQ: http://www.raspberrypi.org/?page_id=8
+Wiki: http://elinux.org/RaspberryPiBoard
+
+Description of this torrent by the VM's creator:
+"VirtualBox Virtual Machine in which I have installed and configured Debian-i386, scratchbox2, qemu and the codesourcery toolchain so that it is possible to build software for the RaspberryPi (although no one actually has one, only a handful of alpha boards are in circulation right now).
+This virtual machine should also be usable for other ARM based devices, especially if you have a rootfs and can seed the scratchbox2 environment (see http://russelldavis.org/2010/10/20/setting-up-scratchbox2-to-build-software-for-zubuntu/ & http://russelldavis.org/2010/11/03/mounting-a-raw-disk-image/ & http://russelldavis.org/2011/09/07/setting-up-scratchbox2-from-scratch-for-the-raspberry-pi/ )."
+
+Please direct your questions/comments either to the VM creator's blog at  
+http://russelldavis.org/2011/09/10/virtualbox-vm-for-raspberrypi-development/
+or to that VM's post on the Raspberry Pi forum at http://www.raspberrypi.org/?page_id=43&mingleforumaction=viewtopic&t=454.0
+Comments here won't be closely monitored.
+
+This is version 1.0 ( 2011-09-11) of the VM.

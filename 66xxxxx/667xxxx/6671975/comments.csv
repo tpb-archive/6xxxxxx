@@ -1,0 +1,7 @@
+User Type,Username,Date,Text
+,grafkaal,2011-09-15T13:00Z,Why mkv this time and not the usual mp4? 
+[T],aularon,2011-09-15T13:17Z,"@grafkaal it's the same x264 video and aac audio streams, just packaged in an mkv container rather than the mp4 I previously used.
+
+The reason I changed to mkv is mainly to keep everything in one file, the video itself plus the subtitle files, plus some more space for tagging data.
+
+You can easily remux this and change the container to mp4 using the same audio/video streams (no conversion or any quality loss) if you like."

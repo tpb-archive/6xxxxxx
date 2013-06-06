@@ -1,0 +1,109 @@
+Adobe Photoshop Lightroom 3.5 RC | 228.46 MB
+
+Adobe Photoshop Lightroom - the program is essential for today's digital photography workflow. Now you can quickly perform actions on the import, processing and display images, as well as their management - one shot, and for a series of shots. Enhanced correction tools, powerful features and flexibility in print settings accelerate the process work. Using Lightroom can reduce the time spent at the computer, and spend free time to work with the lens.
+
+Additional Information:
+Lightroom combines photos into "collections" - a virtual gathering of files, which can quickly do a search. It stores information about keywords, preview and metadata for each image file, and a centralized database (engine SQLite). Therefore, the database can be accessed at the photos, which are now in the archives on DVD. The size is significantly smaller than the Bridge, it runs faster and uses less memory. In general, Lightroom is targeted exclusively to photographers who are interested in processing and cataloging of photographs and not the other way around. Another feature of the package Photoshop Lightroom - division of work with images in separate stages. For each of them is a functional module with the appropriate set of tools and palettes settings.
+
+The functionality of Lightroom include not only the RAW-converter and image processing, but also a powerful system of cataloging photographs, as well as tools for creating slide shows and web pages. Like many of today's RAW-converters, Lightroom uses the principle of non-destructive editing. This means that information about all transactions executed by the user and the settings stored in the Service file, while the original image remains intact. This approach allows us not only to minimize the likelihood of irreparable loss of the original processed images, but also allows you to create and print many different variants of the same image without the need to maintain an appropriate number of full-length graphic files quickly eat up free space on your hard drive. Upon completion of the work on the snapshot, you can save the processed version in a separate graphic file.
+
+The program has five modules:
+- Downloading, cataloging and searching photos (Library)
+- Correction of color and tone of image parameters (Develop)
+- Creating a slide show (Slideshow)
+- Printing (Print)
+- Creating Web Pages for publishing collections of images on the Internet (Web)
+
+New features:
+- Local adjustment brush
+- Enhanced organizational tools
+- Extensible architecture
+- Support for multiple monitors
+- Upgraded integration with Adobe Photoshop CS5
+- Enhanced output sharpening
+- Support for 64-bit Windows and Mac OS.
+[Collapse]
+What's New in This Release:
+Lightroom 3,5 and 6,5 Camera Raw are now available as release candidates on Adobe Labs. The label "release candidate" means that this update is well tested but would benefit from additional testing community before it is distributed automatically to all of our clients. The final version of Lightroom 3.5 and Camera Raw 6,5 may have additional corrections or camera support.
+
+Fuji FinePix F600EXR
+Olympus E-P3
+Olympus E-PL3
+Olympus E-PM1
+Panasonic DMC-G3
+Panasonic DMC-GF3
+Phase One IQ140
+Phase One IQ160
+Phase One P40 +
+Phase One P65 +
+Sony Alpha NEX-C3
+Sony SLT-A35
+Hasselblad "FFF" files created by the software Hasselblad Phocus for supported models are also now supported. (FFF files created with the software FlexColor not supported)
+Lens Lens Name
+The Canon Canon EF 14mm f/2.8 L USM
+The Canon SIGMA APO 120-300mm F2.8 EX DG OS HSM
+Hasselblad Hasselblad HC 2.2/100
+Hasselblad Hasselblad HC 2.8/80
+Hasselblad Hasselblad HC 3.2/150
+Hasselblad Hasselblad HC 3.2/150N
+Hasselblad Hasselblad HC 3.5/35
+Hasselblad Hasselblad HC 3.5/50-II
+Hasselblad Hasselblad HC 3.5/50
+Hasselblad Hasselblad HC 3.5-4.5/50-110
+Hasselblad Hasselblad HC 4 / 210
+Hasselblad Hasselblad HC 4.5/300
+Hasselblad Hasselblad HC Macro 4/120-II
+Hasselblad Hasselblad HC Macro 4 / 120
+Hasselblad Hasselblad HCD 4 / 28
+Hasselblad Hasselblad HCD 4-5.6/35-90
+Nikon Nikon AF Zoom-Nikkor 80-200mm f/2.8D ED
+Nikon Nikon AF-S NIKKOR 24mm f/1.4G ED
+Nikon Nikon AF-S NIKKOR 35mm f/1.4G ED
+Nikon Nikon AF-S NIKKOR 50mm f/1.8G
+Nikon SIGMA APO 120-300mm F2.8 EX DG OS HSM
+Pentax SIGMA 85mm f/1.4 EX DG HSM
+Sigma SIGMA 85mm f/1.4 EX DG HSM
+Sony SIGMA 85mm f/1.4 EX DG HSM
+Sony TAMRON 18-270mm F/3.5-6.3 Di II PZD B008S
+Sony Tamron SP 70-300mm F/4-5.6 Di USD A005S
+Using the arrow keys to change the display settings lacked responsiveness
+Publication collections targeting the hard drive on Windows, will not behave properly if the designated folder has been deleted from your hard drive
+After editing the time of capture in Lightroom, "Date Time Digitized" has been incorrectly changed. (Only the "Date Time Original" should be changed)
+On computers running Windows, Lightroom would interpret correctly the next time zone to record the customer: http://feedback.photoshop.com/photoshop_family/topics/xmp_metadatadate_has_wrong_time_zone
+Changing the date Lightroom created date field until 1933 as a result of unexpected values
+Lightroom 3,2 inefficiencies introduced a preview cache
+GPS metadata height was incorrectly excluded from the files converted to DNG format or exported as a DNG files from Lightroom 3.4.1
+For non-English language systems operating, the folder names in the import dialog might not be translating correctly
+When you export the images from the "Write Keywords as hierarchy Lightroom" is enabled, the key words to "Turn on the export" is selected will continue to be included in the export
+Preservation metadata for JPEG files in Lightroom 3.4, Lightroom can cause an unexpected application termination
+Publication collections in Lightroom 3,4 set to publish the original files will not be able to include XMP files for your own original formats.
+RECONYX images do not open properly in Lightroom 3,4
+When using the automatic correction of lens profile, Lightroom 3,4 does not automatically recognizes the following lenses: "Nikon AF-S NIKKOR 24mm f/1.4G ED"
+The use of plus or minus key to increment the module design parameters are not working properly on a Mac
+Limiting the size of the export file option was incorrectly including EXIF?? Metadata for export, when Minimize Embedded Metadata has been chosen
+In Mac OS X 10.7, Lightroom import dialog does not properly display the network volumes
+On computers running Windows, using Shift + scroll wheel to adjust the pen control brush size, the expected result scroll wheel movement was abolished following the feedback
+Lightroom does not provide a proper error message when you try to delete the photos posted on Facebook
+Lightroom will experience failure of capture of the cable on computers using OS X 10.6.8 and 10.7
+Design load time performance was inconsistent
+Please provide feedback about your experience with the Lightroom 3,5 Release Candidate Bug Report Form.
+GPS metadata height was incorrectly excluded from the files converted to DNG format or exported as a DNG files from Lightroom 3.4.1
+When using the settings in the Canon SRW 5D Mk II camera with white balance set to daylight magenta cast could appear in the image
+RECONYX images do not open properly in the Camera Raw 6,4
+When Camera Raw 6.4 and DNG Converter 6,4 is converted raw file with a stroller that includes a GPS in the namespace EXIF?? (But no real GPS EXIF?? In the raw file) to the DNG format or another format (eg: JPEG), Date GPS TimeStamp component was lost
+DNG Converter 6,5 no longer supports PowerPC-based Mac computers
+
+Note :
+1. Run the crack
+2. Navigate to the folder where the program ustanovlea by default
+C: \ Program Files \ Adobe \ Adobe Photoshop Lightroom 3.5
+3. In the Preferences LR choose German, and restart the program.
+Best Regards___Nikitich
+
+Title: Adobe Photoshop Lightroom
+Software version: 3.5 RC
+Official site: Adobe
+Language: Multi + Rusik
+Type of medicine: activated russificator
+System requirements:
+Windows XP, Vista, 7

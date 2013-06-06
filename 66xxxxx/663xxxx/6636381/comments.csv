@@ -1,0 +1,9 @@
+User Type,Username,Date,Text
+,Gethyper,2011-08-29T12:14Z,"http://subscene.com/english/spirited-away-sen-to-chihiro-no-kamikakushi/subtitle-421136.aspx
+
+ENGLISH SUBTITLE. 
+
+Great Quality , A = 10 , V = 10.......tried to remove the Russian Audio and Russian Subtitles with MKVmerge....but it only brings the audio out of sync somehow....so just put the English Audio within the same folder and give both the same name.....it should do great. Thanks for the upload."
+,shadow_lmd,2011-08-30T01:33Z,"Try using latest version of mkvmerge (4.9.1) to remove audio track and subtitles. Command line would be:
+
+mkvmerge --output WhateverYouLike.mkv --audio-tracks 2 --no-subtitles --no-attachments Spirited.Away.HDTVRip.720p.mkv"

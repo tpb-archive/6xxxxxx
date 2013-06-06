@@ -1,0 +1,31 @@
+IPFire - An open source firewall solution
+IPFire is a server distribution with intended to use as a firewall. It focuses on flexibility, and scales from small to middle sized business networks and home networks.
+Along with this hardened, minimalist come lots of addons that can be installed with a simple click. That's what makes IPFire different from other firewall distributions: it is easy to configure for any task, and easy to administer once it's set up.  
+http://www.ipfire.org/
+
+This is the 52nd update for the second series of the IPFire firewall distribution.
+
+Core Update 52 is addressing several security issues in the web proxy service and the Apache web server. It additionally introduces Russian language support and adds some minor features.
+
+It is recommended to install this update as soon as possible and please take notice that both services are restarted when updating.
+
+List of changes:
+
+    * squid 3.1.15 (security fixes)
+    * apache2 2.2.20 (security fixes)
+    * ethtool 3.0
+    * Add Russian language support
+    * Web proxy: Fix LDAP UTF-8 authentication
+    * Add namecheap as a dynamic DNS provider
+
+We appreciate any contribution to this release. If you appreciate our work as well, please donate. 
+http://www.ipfire.org/donation 
+http://www.ipfire.org/news/ipfire-2-9-core-update-52-released
+ 
+http://git.ipfire.org/?p=ipfire-2.x.git;a=shortlog;h=refs/heads/core52 
+http://www.ipfire.org/downloads (others files)
+
+
+sha1sum : 4400a19cd93da63a44e97e2afec89310ed84b943 ipfire-2.9.i586-full-core52.iso
+
+Tracker : http://tracker.ipfire.org:6969/announce

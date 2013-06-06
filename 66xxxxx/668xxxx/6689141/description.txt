@@ -1,0 +1,231 @@
+winamp2andfriends-r1
+
+an old version of winamp (2.91, release 20030416) and skins and plugins for it 
+i've accumulated since 2 came out. any comparison i've done to other 2+ 
+(but &lt;3) versions was many moons ago but i remember concluding that this was 
+the last huge update to 2 where functionality was concerned and the last one 
+before AOL started (completely) shitting all over it.
+
+many may be useless for you but here are the ones i still know to work well/use 
+regularly/have some tips for:
+
+albumlist143 hasn't crashed for me unlike albumlist2+
+
+analogvu analog and digital vu vis
+
+audioscrobbler last.fm support
+
+dlitez external par can triggering, no idea if it'll still work with current 
+windows device protection
+
+gen_(s)joy/mt_joyc used one of these quite a while ago for a simple ps1 pad 
+control on LPT interface, again might not work with current windows device 
+protection
+
+G-Force_22 g force gforce won't nag, fucking sweet ass visualizer
+
+WhiteCap_412 whitecap also won't nag, also fucking sweet ass visualizer
+
+InFlac-1.1.2 works with scrobbler, doesn't support new 1.2.1 encoded 24b 
+seeking, for that use the in_flac in flac-1.2.1-win.zip. which doesn't support 
+the scrobbler. anybody in the comments here want to hack the 1.2.1 decoder into 
+the plug with winamp library support or point me in the direction of how to do 
+it?
+
+lucidamp35 transparency with albumlist support
+
+shoutcast-dsp-1-9-0 don't know if there's a newer one that works with winamp2
+
+Wawi winamp web interface, if you're going to use this publicly do so over ssh
+
+Winamp_Control_Executables pretty self explanatory
+
+Winamp_KeyController global hotkeys, autoplay/resume, and auto bakup of 
+playlist/eq
+
+---
+
+all files
+
+plugs
+
+AlbumListv143
+ AlbumListv143.exe
+ AlbumListv143.zip
+AlbumListv20
+ AlbumListv20.exe
+ AlbumListv20.zip
+AlbumListv201.exe
+AlbumListv204.exe
+analogvu.exe
+audioscrobbler.wa.1.1.10.exe
+autoplay.exe
+Crudsoft_Gapless_Output_Plugin.exe
+dlitez210.exe
+dosomething_2_11.exe
+dudsoft-gapless-v1.4.exe
+flac-1.2.1-win.zip
+FLAC_encoder.exe
+Flac_Plugin_for_WA2.exe
+FLAC_plugin_with_library_support.exe
+G-Force_22_Winamp.exe
+G-Force_271.exe
+Gapless_audio_output.exe
+gen_httpSrv_systray.zip
+gen_jmp2.zip
+gen_joy.exe
+gen_sjoy_v01.exe
+gen_transparency.zip
+InFlac-1.1.2-setup.exe
+in_mp4.exe
+in_nsf18.exe
+in_tv_1.9beta2.exe
+lucidamp v3.0.exe
+lucidamp31.exe
+lucidamp35.exe
+MAD plug-in 0.14.2b.exe
+mt_joyc11.exe
+nsvtools-setup (update 4-19-03, downloaded 4-28-04).exe
+out_crossfade.exe
+shoutcast-dnas-1-9-8-windows.exe
+shoutcast-dsp-1-9-0-windows.exe
+wa2src.exe
+wawitray21.zip
+Wawi_7-5-12.exe
+Wawi_7-5-13.exe
+WhiteCap_412_Winamp.exe
+WhiteCap_470.exe
+winampac3_0_60b.exe
+winampac3_1_20a.exe
+WinampBar.exe
+Winamp_Control_Executables.exe
+winamp_japanese101.exe
+Winamp_KeyController_v4.exe
+
+skins
+
+357_Magnum.wsz
+akaneamp.wsz
+Aotearoa_Graffiti.wsz
+AQUA.wsz
+Aquair_Chimera.wsz
+Ars.wsz
+ayanami2.wsz
+ayanami5.wsz
+Barracuda.wsz
+BeOS.wsz
+Blink182_-_Dont_Leave_Me.wsz
+Blink_182_TV.wsz
+BlueCurve_Winamp.wsz
+Canicule.wsz
+Close the world txen eht nepO.wsz
+Cryostasis_T1.wsz
+Dark_Rei_Ayanami.wsz
+deFine2-Blue.wsz
+deFine2-Honey.wsz
+deFine2-OliveHC.wsz
+deFine2-RoseHC.wsz
+deFine2-Silver.wsz
+deFine2__Package.zip
+deFine3-DeepBlue PL Font Mod.wsz
+deFine3-DeepBlue.wsz
+deFine3-HazyBlue.wsz
+deFine3-Honey.wsz
+deFine3-Olive.wsz
+deFine3-OliveHC.wsz
+deFine3-Orange.wsz
+deFine3-Rose.wsz
+deFine3-RoseHC.wsz
+deFine3-Seaside.wsz
+deFine3-Silver.wsz
+deFine3__Package.zip
+Devil_Ant_-_Act2_encore.wsz
+Dominion1-0.wsz
+Evangelion_Asuka_amp.wsz
+excadark.wsz
+Expensive_Hi-Fi_1.1.wsz
+Forgive_Me.wsz
+Frequency.wsz
+Gorilla.wsz
+GreyScale.wsz
+Hacked Classic - Blue.wsz
+Hacked Classic - Brown.wsz
+Hacked Classic - Grey.wsz
+Hacked Classic Dark - Grey.wsz
+HACKER.wsz
+HackerS_kin_1.1.wsz
+Hand_Written.wsz
+Infected-FX.wsz
+Insomnia_36h.wsz
+Lightfield.wsz
+LoveHinaAMP.wsz
+Major_Tom-Remix.wsz
+MASSamp_4.wsz
+Milk 2 - Chrome.wsz
+Milk 2.wsz
+Milk2_waskins.zip
+Mint Bluey.wsz
+Mint Greeney.wsz
+Mint Purpley.wsz
+mint_v1_2.zip
+MoonSilver.wsz
+MotAmp.wsz
+Nemish.wsz
+Nonstep_1.wsz
+Nucleo_AlienMind.wsz
+Nucleo_NLog_v102_.wsz
+Orbital_Mobile.wsz
+Panther.wsz
+PlasticJS_X_4WA_2_9_BluE.wsz
+POSEIDON.wsz
+puff_amp.wsz
+Quiksilver_Skin.wsz
+RatchetsGame.wsz
+ReiBlue.wsz
+Rei_Amp.wsz
+rei_ayanami_transparency.wsz
+Slick_2.wsz
+Smooth Stripes Gloss Graphite.wsz
+SmoothStripesGloss1-0.wsz
+Steel_This_Amp.wsz
+Studio28
+ BeOS.wsz
+ Dominion1-0.wsz
+ Gorilla.wsz
+ GreyScale.wsz
+ Hacked Classic - Blue.wsz
+ Hacked Classic - Brown.wsz
+ Hacked Classic - Grey.wsz
+ Hacked Classic Dark - Grey.wsz
+ Panther.wsz
+ Smooth Stripes Gloss Graphite.wsz
+ SmoothStripesGloss1-0.wsz
+ Studio28 v3 (A).wsz
+ Studio28 v3 (B).wsz
+Studio28 v3 (A).wsz
+Studio28 v3 (B).wsz
+The_Matrix_2.wsz
+The_Pilot_of_EVA_02.wsz
+The_Silence.wsz
+TiAmp.wsz
+TiAmp.zip
+Tiger Brushed - Blue.wsz
+Tiger Brushed - Graphite.wsz
+Tiger Brushed.wsz
+Tiger Normal - Blue.wsz
+Tiger Normal - Graphite.wsz
+Tiger Normal.wsz
+Tiger_winamp_v1.zip
+usfamp.wsz
+Waiora_3000.wsz
+Weezer_-_The_Green_Album.wsz
+Weezer_-_The_Green_Amp.wsz
+WinAmp_XP_v2_-_Blue_Edition__.wsz
+Winamp_X_v.10.wsz
+yaXay_V1.wsz
+ZeroStyle.wsz
+zeus_v2_anoxia.wsz
+
+---
+
+enjoy.

@@ -1,0 +1,29 @@
+IPFire is a server distribution with intended to use as a firewall. It focuses on flexibility, and scales from small to middle sized business networks and home networks.
+Along with this hardened, minimalist come lots of addons that can be installed with a simple click. That's what makes IPFire different from other firewall distributions: it is easy to configure for any task, and easy to administer once it's set up. 
+
+This is the 51st update for the second series of the IPFire firewall
+distribution.
+Core Update 51 is addressing several security issues in the Linux kernel as well as stability fixes, performance optimization and driver updates.
+It is recommended to install this update as soon as possible and please take notice that a reboot is required to complete the installation.
+The update includes the latest Linux longterm kernel of the 2.6.32 series (2.6.32.45) and includes a lot of security fixes and driver improvements (see below).
+A couple of years ago, there have been problems with some TCP/IP options so these options were disabled to cause less trouble. As technology has developed, these options have now been re-enabled which improves the network throughput a lot.
+In the last minute, the kernel developers decided to change the algorithm that is used to generate the TCP sequence numbers (http://lwn.net/Articles/455135) from partial MD4 to MD5. Dan Kaminsky pointed out that the MD4 random numbers are not really random enough at all. The new algorithm improves security albeit not hitting performance too much.
+List of the updated drivers:
+
+compat-wireless (2.6.38-3-ns)
+e1000 (8.0.30)
+e1000e (1.3.10a)
+igb (3.0.19)
+v4l-dvb (git20110427)
+linux-firmware (20110518)
+zd1211-firmware.
+
+Altogether this update makes IPFire running on more recent hardware and improves support for wireless interfaces.
+We appreciate any contribution to this release (we had a lot of testers this time). If you appreciate our work, please evaluate a donation. 
+http://www.ipfire.org/donation
+For detailed information see the full changelog 
+http://git.ipfire.org/?p=ipfire-2.x.git;a=shortlog;h=refs/heads/core51
+ 
+http://www.ipfire.org/
+
+sha1sum : 292a703189019c73067dbfef358f72f0aa6aff3e ipfire-2.9.i586-full-core51.iso

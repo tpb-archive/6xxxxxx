@@ -1,0 +1,46 @@
+General
+Complete name                    : Batman Begins (2005).mkv
+Format                           : Matroska
+File size                        : 546 MiB
+Duration                         : 2h 14mn
+Overall bit rate                 : 568 Kbps
+Encoded date                     : UTC 2010-05-19 13:50:58
+Writing application              : mkvmerge v3.2.0 ('Beginnings') built on Feb 12 2010 16:46:17
+Writing library                  : libebml v0.7.9 + libmatroska v0.8.1
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Format settings, GOP             : M=1, N=11
+Muxing mode                      : Container profile=Unknown@3.0
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 14mn
+Nominal bit rate                 : 571 Kbps
+Width                            : 960 pixels
+Height                           : 416 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.057
+Writing library                  : x264 core 68 r1183M f21daff 
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : Yes
+Format settings, PS              : No
+Codec ID                         : A_AAC
+Duration                         : 2h 14mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz

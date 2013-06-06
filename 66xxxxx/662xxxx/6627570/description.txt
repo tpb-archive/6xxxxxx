@@ -1,0 +1,125 @@
+Windows XP SP3 UE v2 ES 2012 Actualizada a Julio del 2011
+
+* Nombre: Windows XP SP3 UE v2 ES 2012 
+* Idioma: EspaÃ±ol
+* Service Pack: 3
+* Arquitectura: 32 Bits x86
+* Formato archivo: Iso
+* Version: Actualizada a Julio del 2011
+* Booteable
+ 
+[InstalaciÃ³n]
+ 
+Corta descripciÃ³n de la instalaciÃ³n:
+-> Iniciar instalaciÃ³n
+-> Seleccionar particiÃ³n / disco y formatear
+-> Copiar archivos Windows
+-> Reinicia y copia coleccion de Drivers
+-> Se instala Windows
+-> Reinicia y configura la resoluciÃ³n
+-> Configura el paquete de controladores SATA y arranca WPI
+-> Instala aplicaciones WPI
+-> Aplica configuraciÃ³n Windows
+-> Limpia archivos temporales
+-> Inicia Asistente para establecer contraseÃ±a y cambiar el nombre del equipo
+-> Reinicia
+ 
+
+[Importante]
+Siempre formatear con una instalaciÃ³n de Windows. Es lo mejor para el equipo. TambiÃ©n se recomienda hacer la instalaciÃ³n en la particiÃ³n C:.
+Dejar el disco en la unidad hasta que la instalaciÃ³n este lista.
+Aunque se puede arrancar WPI en otros equipos o despuÃ©s de la instalaciÃ³n, es probable que de algÃºn fallo. El WPI estÃ¡ hecho para que funcione cuando Ã©l arranque SOLO en la instalaciÃ³n de Windows XP SP3 UE v2 ES 2012.
+Esta versiÃ³n de Windows estÃ¡ optimizada, aun asÃ­, se recomienda instalar solamente las aplicaciones necesarias. Leer descripciÃ³n en WPI si hay dudas.
+Una vez la instalaciÃ³n estÃ© finalizada, esperar un poco a que termine de limpiar los archivos temporales y salga el asistente â€“ esto puede tardar hasta dos minutos dependiendo de la configuraciÃ³n del equipo.
+DespuÃ©s de la creaciÃ³n de nuevos usuarios y el primer login, hay que reiniciar para que se configure todo. 
+
+Descripcion
+Windows XP SP3 UE v2 ES 2012 es bÃ¡sicamente un Windows XP con Service Pack 3, con actualizaciones integradas, desatendido, con algunos componentes dispensables eliminados y que ademÃ¡s lleva un par de aplicaciones bÃ¡sicas muy Ãºtiles, tambiÃ©n de forma desatendida.
+ 
+Â¿Que tiene integrado?
+Esta versiÃ³n lleva por supuesto Service Pack 3, Internet Explorer 8, Windows Media Player 11 y DirectX 9c integradas, .Net Framework, todas actualizadas hasta Julio del 2011.
+Lleva parches de SFC, limite de conexiones aumentado, temas no oficiales, WGA, OGA, etc.
+ 
+SATA
+PrÃ¡cticamente todos los equipos nuevos ahora vienen con discos duros SATA y probablemente controladores SATA que Windows XP no soporta de forma nativa. Normalmente, para poder instalar hay que tener los controladores en un disquete y presionar F6 al principio de la instalaciÃ³nâ€¦
+Pero todo eso no hace falta, porque Windows XP SP3 UE v2 ES 2012 lleva un amplio paquete de controladores SATA para poder instalarlo cÃ³modamente incluso en RAID.
+ 
+Novedades
+Tal y como lo pone arriba, esta versiÃ³n es fiel a la filosofÃ­a Windows uE, y esa es: â€œEstabilidad, rapidez y calidad.â€ No interesa un equipo que vaya rÃ¡pido pero mal, por eso solo se han quitado componentes dispensables. Lleva todas las actualizaciones post SP3 integradas para una mayor seguridad y un mejor funcionamiento.
+Las aplicaciones han sido actualizadas en totalidad, algunas desde cero, incluyendo asÃ­ muchas actualizaciones, como es el caso de .NET Framework.
+Esta versiÃ³n es aÃºn mÃ¡s desatendida. El proceso de instalaciÃ³n se paraba en dos puntos antes:
+- Antes de WPI para poder cambiar la resoluciÃ³n del monitor y aplicar el tema.
+- DespuÃ©s de WPI, para establecer la contraseÃ±a y el nombre del equipo.
+Por supuesto, ambos puntos son cruciales, pero ahora la selecciÃ³n de la resoluciÃ³n lo hace de forma automÃ¡tica cambiando a 1024Ã—768 (Ã³ 800Ã—600 si no soporta mÃ¡s), y luego siguiendo con WPI. El asistente para la contraseÃ±a y el nombre del equipo estÃ¡ al final del todo, cuando estÃ¡n las aplicaciones instaladas y solo hace falta reiniciar. PrÃ¡cticamente ahora la instalaciÃ³n es 95% desatendida.
+ 
+DespuÃ©s de seleccionar la particiÃ³n, el equipo instala Windows con los drivers necesarios incluidos en el DVD, continÃºa con las aplicaciones predeterminadas de WPI y termina con el asistente para contraseÃ±a y nombre del equipo. Como Ãºltimo paso, reinicia de forma automÃ¡tica y todo estÃ¡ listo.
+Se ha tenido mucho mÃ¡s en cuenta los usuarios creados despuÃ©s, ademas del usuario principal Administrador. Se ha comprobado que cada aplicaciÃ³n estÃ© configurada en espaÃ±ol (salvo el Nod 5 que estÃ¡ en InglÃ©s) y que los accesos directos funcionen.
+Se ha quitado el archivo cmdow.exe para ocultar ventanas de instalaciÃ³n, que tantos usuarios sin conocimientos reportaban como virus. El proyecto ha sido creado en un entorno limpio, ademÃ¡s, la ISO ha sido comprobada con varios antivirus, confirmando que la imagen ISO es libre de cualquier archivo daÃ±ino.
+ 
+Aplicaciones
+En cuanto a aplicaciones, la lista ha sido muy simplificada. Los motivos son varios:
+ 
+Actualizaciones del sistema han incrementado el tamaÃ±o de Windows.
+Las aplicaciones principales no solo han cambiado la versiÃ³n, el tamaÃ±o tambiÃ©n, aumentando por supuesto.
+Algunas aplicaciones se han quedado obsoletas o no eran tan utilizadas por la mayorÃ­a de la gente.
+Otro ejemplo podrÃ­a ser que ya no estÃ¡n las aplicaciones QuickTime Alternative, Real Alternative ni PowerDVD. Las funciones de dichas aplicaciones las realiza el paquete K-Lite Codec Pack en su versiÃ³n Full.
+ 
+Lista de Paquetes de Drivers
+ 
+DriverPacks - VersiÃ³n
+1. Chipset 11.07
+2. CPU 10.05
+3. Graphics A 11.07
+4. Graphics B 11.07
+5. Graphics C 11.07
+6. Graphics Languages 11.07
+7. Graphics PhysX 11.07
+8. LAN 11.01
+9. Mass Storage 11.07
+10. Runtimes for ATI 11.07
+11. Sound A 11.05
+12. Sound B 11.05
+13. WLAN 11.01
+ 
+Lista de Aplicaciones
+
+Programas - VersiÃ³n
+1. .Net Framework 1.1 SP1 (+Up)
+2. .Net Framework 2 SP2 (+Up)
+3. .Net Framework 3.5 SP3 (+Up)
+4. .Net Framework 4
+5. Adobe Reader 9.3.4 (Lite)
+6. CCleaner 3.09
+7. Damn NFO Viewer
+8. Everest Ultimate Edition 5.5
+9. HashTab Shell Extension 3
+10. Java RE 6Up21
+11. K-Lite Codec Pack 6.3.0 Full
+12. Messenger 2009_14.0.8117.416
+13. Microsoft Office 2003 Comp.2007-2010 (OGA + Up)
+14. Mozilla Firefox 5.0.1
+15. Nero Burning Rom 10.0.11 Micro
+16. NOD32 Antivirus 5.0.84.0
+17. Seven Remix XP 2.41
+18. Shockwave 11.5.7.609
+19. TuneUp Utilities 2010 9.0.4500
+20. UltraISO 9.3.6
+21. Unlocker 1.9.0
+22. uTorrent 3.0.0.25460
+23. Winamp 5.58 Pro + MMD3 Theme
+24. Windows Installer 4.5
+25. WinRAR 4.01
+26. WinSnap 3.5.1
+27. XPize Darkside 5 Release 6
+ 
+
+Lista de Tareas
+ 
+Tweaks Para configurar opciones:
+1. Desactivar la barra de idioma
+2. Activar Auto-Arranque CD/USB
+3. Activar carpeta TEMP clÃ¡sica
+4. Activar la cuenta de Administrador
+5. Activar IMAPI â€“ Grabador de Windows XP
+6. Activar Firewall de Windows XP
+ 

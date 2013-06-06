@@ -1,0 +1,87 @@
+User Type,Username,Date,Text
+,m2brier,2011-09-23T08:02Z,"sorry forgot to post it.  if its small then what the heck! if u have have until now ""unknown"" router issues i suggest you read this and probably some other reference material so your connects will always be solid!
+
+  This is a little discussion of ""connections"", i.e. how many to use?  I am hoping some dudes can post some S0L1D links or
+articles, whatever in the comment section if they comprehend what i'm talking about.  INTO:  Have you ever had weird
+problems with your home network, router re-booting constantly or machines dropping off for no reason or do you have a primo
+connection (for downloads) but you can't seem to seed back shite?  Well, i've experienced a few problems like this recently
+and i want to figure it out.  Put this way, once high speed data is flowing or after it has hit your nic/lan card then it's
+like a baseball flying through a vacuum at super speed devoid of any hinderances.  That said, managing the flow or allocation
+of said data can really put your router to the test.  Feel free to call me an idiot, whatever; all i can say is if it ain't
+broke then don't fix it, and that was my attitude towards this whole issue until it did get broke!
+
+BELOW is a fairly short query(ies) i recently sent to a site i go to.  i haven't recieved a reply yet and am really curious
+to see what Everybody thinks, because if and when this sort of garbage happens life can begin to suck.  Its my only weakness
+when it comes to hardware and i want to help others tackle the same trying issues at the same time.
+
+Before you reply scope out the couple other things i've posted previously as there may be something of interest there 4 U.
+
+Kind Regards, Remember, Sharing IS Caring.
+
+MESSAGE BEGINS BELOW THIS LINE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+m2brier   	
+# of connections = ""max num of connections"" in ut? sent at 2011-09-22 04:01 BST
+
+
+just read your intro guide to new users, very interesting. especially the bit about connections because I've been recently trying to solve a couple of router/associated problems. at one locale/not here but where my account will eventually reside as the connection is far better, and i have control of the router. anyways, addressing number of connections, in ut181(my preferred client) i used to go with the default drop down speed list relative to my connect speed. at my preferred connection we get 15-20 megabit(1.5-2.0MB/s) max d/l and about 300ish kbs up. I use a linksys WRT 310N router there, when up to two machines were constantly d/l ing and seeding i experienced very few problems even when using 90 % of the connect for torrents (900 kbs max x2 d/l) , meaning browsing and everything was fine plus seeding was ok. got my port fwd ing down pat, frw a range since usually used dhcp reserved ips bump up port #'s for some reason, plus firwall, etc. Now there are sometimes 4 dedicated machines on torrents ( when all had max # of connections set to 900)! i guess i sound stupid, but when i read my networking bible ten years ago i only had a 18kbs dial up connect and most of the protocols used today were theoretical then. now im finding out i need to figure out this stuff. problems started mainly 1 or two of the machines (always the hard wired ones with qos giving those ports priority in some manner). eventually (before changing the max # of connections in ut181 global settings) i got all machines to stay online by single sided/double sided quasi static ip's, basically whatever worked as i honed my skills set up win 95 and 98 machines and learned that to deal with what is is what was needed not what should be(especially regarding illogical manners in which i got device drivers installed for custom made or put together from whatever type of boxes, forcing hardware, etc.).. all that said, although most machines would stay online solid my uploads speeds really suffered since i finally decided to drop max # connections to say 100 -200 x 4 machines i have seen u/l's go way up. now my understanding was that using say 800 globals connects, m"
+,m2brier,2011-09-23T08:05Z,"CONTINUED(last bit)
+now my understanding was that using say 800 globals connects, means you may get 300 connected peers, and from that you get maybe 50 active connections to peers, ie i thought the global # needed to be divided by at least 10 (or more) resulting in actually 90 or less actively connected peers say. i did some searching last night and on average most guides appear to recommend setting global to about 400(assuming one machine on network because limiting factor is max # of connects to router, and that most can only handle 200 or so.
+
+OK sorry that took so long!
+
+my question is, since the mini guide i read recommends 60-100 connects or something like that(obviously hardware is important) what are your two cents on the relationship/ratio between (average if you can guess) Max/Global # Connects VS Connected Peers VS Active Connects(MATHEMATICAL RATIO ie xxx:xxx:xxx
+
+also, i did try static ip, i believe with 3 or 4 connected machines at the time and it worked great, esp for u/ls (110kbs x 2 active torrent machines = 220 average). the problem seemed to be associated with lease time, ie when it was supposed to re-start lease all connects dropped i believe. at the time i had huge max # connections 1000 x 2 machines. i am now guessing that is probably why i had problems, as i would love to go back to static. port forwarding always works with static was my brief experience.
+
+thanks in advance,
+
+bubs 
+
+ps I only download uncopyrighted material .  I do not advocate anyone transgressing the laws of the sovereign Nation-State of Canada."
+,m2brier,2011-09-23T08:06Z,"now my understanding was that using say 800 globals connects, means you may get 300 connected peers, and from that you get maybe 50 active connections to peers, ie i thought the global # needed to be divided by at least 10 (or more) resulting in actually 90 or less actively connected peers say. i did some searching last night and on average most guides appear to recommend setting global to about 400(assuming one machine on network because limiting factor is max # of connects to router, and that most can only handle 200 or so.
+
+OK sorry that took so long!
+
+my question is, since the mini guide i read recommends 60-100 connects or something like that(obviously hardware is important) what are your two cents on the relationship/ratio between (average if you can guess) Max/Global # Connects VS Connected Peers VS Active Connects(MATHEMATICAL RATIO ie xxx:xxx:xxx
+
+also, i did try static ip, i believe with 3 or 4 connected machines at the time and it worked great, esp for u/ls (110kbs x 2 active torrent machines = 220 average). the problem seemed to be associated with lease time, ie when it was supposed to re-start lease all connects dropped i believe. at the time i had huge max # connections 1000 x 2 machines. i am now guessing that is probably why i had problems, as i would love to go back to static. port forwarding always works with static was my brief experience.
+
+thanks in advance,
+
+bubs 
+
+ps I only download uncopyrighted material .  I do not advocate anyone transgressing the laws of the sovereign Nation-State of Canada."
+[S],velvet.,2011-09-23T08:07Z,"If you need help with uTorrent, use our forum:  https://forum.suprbay.org/"
+,m2brier,2011-09-23T10:01Z,"dude(s)
+
+only need help with the connections issue(the number of- relative to another -to another) , i'll scope out some general guides if i have to, but most i've read are contradictory(once you've read a few they are night and day).  Really need someone to answer the ratio question, hence a hardware junkie who comprehends this darn connection bs.  with one or two torrent machines on a network i really never have and never will have a problem unless from wifi off location.   if u didn't read the article i have wrt310N gigabit router w 4 machines seeding constantly(right now its fine all @ approx 50, so 200kbs*24hrs day is ok) many people waste money on hardware they dont need or probably wont fix the prob, but that is not me.  JUST the global connections (limit)vs # connected peers vs Connected peers where the connection IS ACTIVE.  i can get general guides, most of which are shite as they dont even address what the hell the number means, they simply say ""use this many connecitons"".  im not a moron and it should be obvious to everyone that it is not feasible to run 900+ connects on a router that can do a max of 200!!!!!!!!  i simply figured many dudes dont clearly comprehend the issue as having multiple machines on a local network today is commonplace.  i dont need help with port forwarding, proxies or any other hardware /software related issue, just what i asked about, and i Know that others many of whom may just be realizing oh sh*t maybe thats why after i put the new laptop on the network that all of a sudden local peers got dropped, or a sh*te seed rate after months or years of no problems.
+
+no .torrent ive uploaded has seen this much action so fast so many others must be wondering too.
+
+Velvet- thanks for the link, didn't even know you guys had a forum, probably would've looked there before posting this had i known.     you guys have been around for ever i and have a great deal of respect for all of you @ pb.
+
+
+PS this is a great way of introducing users to your forum!  
+
+bubs
+
+thank you very much for the guide  
+
+long live freedom of speech in Sweden and Canada!"
+,m2brier,2011-09-23T19:42Z,"JUst to let everyone know, im going to move all this to https://forum.suprbay.org/ as it appears to be the most appropriate venue.  after a very quick look around i couldn't see an exact answer or explanation to my query(ies) but i need to look closer.  if not there i'll re-post the exact question for a title to a thread.  hence, search for torrent name(minus m2brier) if necessary.  also going to leave this here for a few more days anyways because there do seem to be a lot of people with concerns similar to my own.  this way they can go to the forum (if needs be for any reason associated with computer issues-appears to be very solid.)  i know if people have oddball issues with scsi components and the like even i might be able to help other members!  good broad range of computer and societal /ethical type of thread categories.
+
+thanks for listening.
+
+bubs"
+,m2brier,2011-10-02T20:59Z,"what i've learned
+
+hardware wrtn150 w 15M-20bits down/2-3 up.
+4 machines torrenting.
+about 50-70 max connects per machine
+12-16peer
+4-8u/l slots
+
+everything been fine 4 while now.  all machines seed when peer on hook (good 40-60kbs per machine)
+max bandwidth down always.  
+must limit d/l speed so inet pages load good."

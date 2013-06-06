@@ -1,0 +1,35 @@
+The Matriux is a phenomenon that was waiting to happen. It is a fully featured security distribution consisting of a bunch of powerful, open source and free tools that can be used for various purposes including, but not limited to, penetration testing, ethical hacking, system and network administration, cyber forensics investigations, security testing, vulnerability analysis, and much more. It is a distribution designed for security enthusiasts and professionals, although it can be used normally as your default desktop system.
+With Matriux, you can turn any system into a powerful penetration testing toolkit, without having to install any software into your hardisk. Matriux is designed to run from a Live environment like a CD / DVD or USB stick or it can easily be installed to your hard disk in a few steps. Matriux also includes a set of computer forensics and data recovery tools that can be used for forensic analysis and investigations and data retrieval.
+
+Username : matriux
+
+Username : root
+
+Password : toor
+
+
+
+Instructions for starters:
+
+
+
+Use gparted to create a partition not less than 7GB ( 8GB preffered)
+
+
+mount the partition created to /mnt/matriux   (mkdir /mnt/matriux initially)
+
+
+Run the Matriux Installer present on the Desktop it will guide you through rest of the process.
+
+
+please feel free to drop your test results and suggestions @ http://forum.matriux.com/
+
+
+
+Happy testing !!!
+
+Web Site : http://www.matriux.com/index.php?page=home
+Promote Page : http://www.matriux.com/index.php?page=promote
+Virtual Box : http://forum.matriux.com/index.php?PHPSESSID=608b11e20d12a254dcecf7c4cddcd21c&topic=1049.0
+
+md5sum : 2126908871ccab450eb09751e9d40d39  Matriux-Krypton.iso

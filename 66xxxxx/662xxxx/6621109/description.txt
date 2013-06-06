@@ -1,0 +1,47 @@
+Features
+
+Some of its general features include:[5]
+Tabbed document interface[6]
+Drag-and-drop
+Multiple Clipboard (plugin required)
+Split screen editing and synchronized scrolling
+Spell checker (requires Aspell) (Spell checker does not distinguish between text and code)
+Supports text encoding formats such as Unicode, for international writing systems
+Find and replace over multiple documents
+File comparison
+Zooming
+[edit]Programming languages
+
+
+
+Running under Mac OS X using the Wine compatibility layer.
+It also includes features for source code editing:[5]
+Auto-completion
+Bookmarks
+Syntax highlighting and syntax folding
+Brace and indent highlighting
+Regular expression find and replace
+Speech synthesis
+FTP Browser (plug-in included in standard installation)
+Macro recording and execution.
+Various tools such as line sorting, text encoding conversion, text folding
+File status auto-detection
+Plugins for multiline regular expression search and replace
+Notepad++ supports syntax highlighting and syntax folding for 52 programming, scripting, and markup languages.[5][7] It attempts to automatically detect the language that a given file uses, using a modifiable list of file extension bindings. Users may also manually set the current language, overriding the extension's default language. The program also supports autocompletion for a subset of the API of some programming languages.
+The following 52 languages are natively supported by Notepad++ as of version 5.9.2: ActionScript, Ada, asp, Assembly, autoIt, bash, Batch, C, C++, C#, Caml, CMakeFile, Cobol, CSS, D, DIFF, Flash ActionScript, Fortran, Gui4CLI, Haskell, HTML, ini file, InnoSetup, Java, Javascript, JSP, KiXtart, LISP, Lua, Makefile, Matlab, NSIS, Objective-C, Pascal, Perl, php, PowerShell, Postscript, Properties file, Python, R and VHDL.
+Users can also define their own language (for syntax highlighting) and its respective API (for autocompletion) by using the built-in User Language Define System.[5] Users may configure the syntax highlighting's font styles per element, per language, and the resulting formatted script may be printed in full-color (WYSIWYG). Additionally, Notepad++ displays indent guidelines when source code is indented with tab characters, and highlights closing braces, brackets and tags.
+[edit]Plugins
+
+Notepad++ has support for macros and plugins.[8] Currently, there are 27 official plugins for Notepad++, 10 of which are included by default in the program.[9] The first plugin to be included in the program was "TextFX", which includes features such as W3C validation for HTML and CSS, text sorting, character case alteration and quote handling.[10]
+[edit]Development
+
+This project, based on the Scintilla editor component, is written in C++ with only Win32 API calls using only the STL in order to increase performance and reduce program size. The aim of Notepad++ is to reduce overall power consumption by using efficient binaries that require less CPU power.[5]
+[edit]Banned countries and controversy
+
+In 2008, the "Boycott Beijing 2008" banner was placed on Notepad++'s SourceForge.net homepage to point out the human rights problem in China. As a result, the entire SourceForge.net website was banned in China for about a month (June 26, 2008 â€“ July 24, 2008).[11][12][13]
+In January 2010, the US government forced open source project hosts to comply with US law and deny access from 5 countries (Cuba, Iran, North Korea, Sudan, and Syria). As a response to this violation of the Free and Open Source Software (FOSS) philosophy, in June 2010, Notepad++ moved out of US territorial jurisdiction by releasing a version on TuxFamily, in France.[14][15]
+[edit]See also
+
+List of text editors
+Comparison of text editors
+[edit]

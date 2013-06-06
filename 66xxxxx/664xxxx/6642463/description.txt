@@ -1,0 +1,32 @@
+What is paldo?
+
+paldo is a Upkg driven GNU/Linux distribution. It is kind of a mix of a source and a binary distribution. Even though it builds packages like a source distribution it provides binary packages.
+paldo stands for 'pure adaptable linux distribution' and we try to accomplish this in every package. paldo comes with very few patches against its packages. We have virtually no local changes, means every patch is one which will go upstream anyway (e.g. compile fixes) or one needed by the LFS build system to enable us to boostrap correctly. It is very easy to make changes to the distro. You can change every package by providing a local version of the sources and specifications you've changed. You can even configure your system automatically through local differencial repositories. The whole distribution is very flexible because It is built on top of Upkg.
+paldo wants to be a distribution according to the 'just-works' principle. It tries to configure automatically as much as possible without user intervention. paldo is task-oriented, means, that we won't provide several programs to do one and the same task, we will select the program which we think does this task best, and include it into paldo. paldo aims to support cutting-edge technologies. It is pure NPTL based (no linuxthreads support) and therefore does not work with a Linux kernel older than 2.6.x.
+Since paldo is task oriented we also have only one desktop environment, the GNOME desktop environment.
+paldo does not split packages, means, all development files will be installed if you install a library. All files you need around a package will be available as soon as it is installed.
+paldo supports the x86 and the x86_64 architectures at the moment and we do not plan to extend that.
+So what are the core points?
+ simplicity
+ purity - packages are only modified if they are broken in new environments
+ cutting-edge - only newest technologies gain entrance into paldo
+ binaries, although it is a source distribution
+ It is compact - all packages are installed as a whole
+ LSB and FHS compliance (we don't mean to install a LSB compliant RPM into paldo and we're not planning to add that for good reasons) 
+http://www.paldo.org/index-section-about.html
+ 
+http://www.paldo.org/ 
+http://www.paldo.org/wiki/Main_Page
+
+Live CD
+
+Here you can download a bootable live CD containing a complete paldo desktop system. You can use it to install or test paldo GNU/Linux or as a bootable rescue system. Have a look at the dependencies of the paldo-live-cd package to get a detailed listing what's included.
+To install or test paldo GNU/Linux from a USB pendrive, follow the instructions on the wiki.
+Default password for the root user is set to 'paldo' 
+http://www.paldo.org/index-section-downloads.html
+
+Latest x86_64 stable Live CD
+Image Size:	664 MB
+Build Date:	2011-08-30 11:52 GMT
+Build Host:	buildd3.paldo.org
+md5sum : ad4e5f78f2d7a152962778138686df56  paldo-live-cd-x86_64-stable.iso

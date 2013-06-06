@@ -1,0 +1,217 @@
+Credits to the original encoder: Twentyforty.
+
+IMDB: http://www.imdb.com/title/tt0112740/
+
+
+[ About file ]
+
+Name: Crimson.Tide.1995.BluRay.480p.H264[20-40].mp4
+Date: 11/08/2011 15:27:56
+Size: 372,967,057 bytes (355.689 MB)
+
+[ Generic infos ]
+
+Play duration: 01:51:36 (6695 s)
+Container type: MP4/MOV
+Major brand: Apple AAC audio w/ iTunes info version 0
+Compatible brands: ISO Base Media, JVT AVC
+Creation time: 10/08/2011 13:27:41 UTC
+Modification time: 10/08/2011 13:27:41 UTC
+Number of streams: 2
+Type of stream nr. 1: audio (AAC Low complexity) {GPAC ISO Audio Handler}
+Type of stream nr. 2: video (avc1) {GPAC ISO Video Handler}
+Audio streams: 1
+
+[ Relevant data ]
+
+Resolution: 704 x 304
+Width: multiple of 32
+Height: multiple of 16
+Average DRF: 23.652512
+Standard deviation: 2.742671
+Std. dev. weighted mean: 2.594912
+
+[ Video track ]
+
+Codec: avc1
+Resolution: 704 x 304
+Frame aspect ratio: 44:19 = 2.315789
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 44:19 = 2.315789
+Framerate: 23.976023 fps
+Number of frames: 160537
+Bitrate: 385.265575 kbps
+
+[ Audio track ]
+
+Codec: AAC Low complexity
+Bitrate: 56.427518 kbps
+Channels: 2
+Sample rate: 48000 Hz
+
+[ About H.264 encoding ]
+
+User data: x264
+User data: core 114 r1924 08d04a4
+User data: H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011
+User data: http://www.videolan.org/x264.html
+User data: cabac=1
+User data: ref=8
+User data: deblock=1:1:1
+User data: analyse=0x3:0x133
+User data: me=umh
+User data: subme=9
+User data: psy=0
+User data: mixed_ref=1
+User data: me_range=16
+User data: chroma_me=1
+User data: trellis=1
+User data: 8x8dct=1
+User data: cqm=2
+User data: deadzone=21,11
+User data: fast_pskip=0
+User data: chroma_qp_offset=0
+User data: threads=12
+User data: sliced_threads=0
+User data: nr=0
+User data: decimate=0
+User data: interlaced=0
+User data: constrained_intra=0
+User data: bframes=3
+User data: b_pyramid=1
+User data: b_adapt=2
+User data: b_bias=0
+User data: direct=1
+User data: weightb=1
+User data: open_gop=0
+User data: weightp=0
+User data: keyint=250
+User data: keyint_min=23
+User data: scenecut=40
+User data: intra_refresh=0
+User data: rc_lookahead=0
+User data: rc=2pass
+User data: mbtree=0
+User data: bitrate=386
+User data: ratetol=1.0
+User data: qcomp=0.60
+User data: qpmin=0
+User data: qpmax=65
+User data: qpstep=4
+User data: cplxblur=20.0
+User data: qblur=0.5
+User data: vbv_maxrate=62500
+User data: vbv_bufsize=62500
+User data: nal_hrd=none
+User data: ip_ratio=1.40
+User data: pb_ratio=1.30
+User data: aq=0
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 7
+  Aspect ratio: Square pixels
+  Chroma format idc: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: No
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+  Custom intra4X4 luma: 
+      8  16  23  30
+     16  25  34  40
+     23  34  46  60
+     30  40  60  84
+  Custom intra4X4 chromau: 
+     16  20  36  46
+     20  38  56  67
+     36  56  77 102
+     46  67 102 166
+  Custom inter4X4 luma: 
+     12  15  20  24
+     15  22  27  32
+     20  27  35  42
+     24  32  42  55
+  Custom inter4X4 chromau: 
+     18  20  32  38
+     20  36  44  56
+     32  44  66  78
+     38  56  78 100
+  Custom intra8X8 luma: 
+      8  13  16  18  23  28  29  32
+     13  14  18  22  26  27  29  33
+     16  18  23  27  28  29  32  35
+     18  22  27  30  32  34  38  39
+     23  26  28  32  37  42  45  47
+     28  27  29  34  42  49  55  57
+     29  29  32  38  45  55  63  69
+     32  33  35  39  47  57  69  84
+  Custom inter8X8 luma: 
+      8  12  14  15  16  17  18  20
+     12  13  16  17  18  19  21  22
+     14  16  18  19  20  22  24  25
+     15  17  19  21  24  26  27  28
+     16  18  20  24  28  29  30  32
+     17  19  22  26  29  32  35  38
+     18  21  24  27  30  35  42  46
+     20  22  25  28  32  38  46  55
+Number of frames: 160537
+Drop/delay frames: 0
+Corrupted frames: 0
+
+P-slices:  46773 ( 29.135 %) #######                  
+B-slices: 111948 ( 69.733 %) #################        
+I-slices:   1816 (  1.131 %)                          
+SP-slices:      0 (  0.000 %)                          
+SI-slices:      0 (  0.000 %)                          
+
+[ DRF analysis ]
+
+Average DRF: 23.671994
+Standard deviation: 2.751460
+Max DRF: 34
+
+DRF34:     0 (  0.000 %)                          
+
+P-slices average DRF: 22.500972
+P-slices std. deviation: 2.739150
+P-slices max DRF: 32
+
+B-slices average DRF: 24.223809
+B-slices std. deviation: 2.550930
+B-slices max DRF: 34
+
+I-slices average DRF: 19.816079
+I-slices std. deviation: 2.429010
+I-slices max DRF: 30
+
+[ DRF analysis (corrected) ]
+
+End credits time position: 01:51:03 (6662.530875 s) - ignored frames: 796
+
+Average DRF: 23.652512
+Standard deviation: 2.742671
+Max DRF: 34
+
+DRF34:     0 (  0.000 %)                          
+
+P-slices average DRF: 22.479499
+P-slices std. deviation: 2.731080
+P-slices max DRF: 32
+
+B-slices average DRF: 24.204717
+B-slices std. deviation: 2.540819
+B-slices max DRF: 34
+
+I-slices average DRF: 19.809707
+I-slices std. deviation: 2.425884
+I-slices max DRF: 30
+
+[ Profile compliancy ]
+
+Profile to check: MTK PAL 6000
+Resolution: Ok
+Framerate: 23.976023  25
+Min buffer fill: 81%
+
+This report was created by AVInaptic (18-11-2007) on 11 ago 2011, h 15:27:58

@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+,dan66,2011-08-20T20:07Z,CXEx Ebony Engine
+,dragoon353,2011-08-21T02:19Z,now downloading.....
+,MPAAss,2011-08-21T22:58Z,Are these the official App Store versions?
+,dragoon353,2011-08-21T23:24Z,Please Seed
+,kourtney333,2011-08-22T01:53Z,big file...downloaded all night and did not work. no white screen or anything. am i missing something?
+,dan66,2011-08-22T10:47Z,kourtney333: look here - http://forum.portingteam.com/index.php?sid=19983a2ed3a143f266e5e8429f705600
+,dragoon353,2011-08-22T23:16Z,it's working with me but..the screen stay rotating 
+,DonMK29,2011-08-23T16:21Z,vice city works fine...gta 3 works fine however i cannot spin 360 which makes it very difficult when aiming at a target whos running around behind you...how to fix?
+,BTion,2011-08-24T13:30Z,"Where is the ""real"" native MacOS X version of ""Grand Theft Auto 3"" ?"
+,DonMK29,2011-08-24T17:14Z,"newer gta games please
+4 maybe"
+,kourtney333,2011-08-29T02:45Z,"dan66, i don't understand what i am suppose to get from the link. i have macbook pro 13""  early 2011 with lion. has anyone got it to work on lion?"
+,Nanosaur12,2011-08-29T18:25Z,i downloaded it in 15 min. and it worked immediately! just copy the files GTA 3 and Vice City to Applications folder and you can play!
+,remcord,2011-09-03T15:49Z,Working on my late macbook pro 2011!!! I have lion. Great quality. Only problem on GTA 3 i can't 360 turn anybody has a solution?
+,Undersecretaries,2011-10-19T14:46Z,"It works! GTA 3 and GTA VC, no prob I'm running mac os x 10.7, about GTA III 360 degrees mouse problem, I just press ""escape"" to pause and then I press again to return the game then the mouse will work for a short time.."
+,Undersecretaries,2011-10-19T14:47Z,"btw, GTA VC I can't move my mouse when tommy rides any car..is this normal? thanks.."
+,DurtySocks,2011-12-18T21:44Z,"**MOUSE PROBLEM: Go to OPTIONS, change the controls from STANDARD to CLASSIC"
+,otousan,2012-03-31T11:13Z,"Mouse Problem: Browse content of GTA3.app then Contents->Root open user.reg file and add line: [Software\Wine\AppDefaults\GTA3.exe\DirectInput] 1253946465
+""MouseWarpOverride""=""force"""

@@ -1,0 +1,22 @@
+We have only just compiled a most up to date listing of IP ranges by country
+for an upcoming free compiled FoxPro program that will allow you to create your
+own IP filter from a menu of country choices.
+
+For now, here is a list of those countries that are most requested by Euro based
+peers trying to keep their seed to more relevant areas in hopes of efficiency.
+
+This ipfilter.dat text file can be used for utorrent and other such programs
+that use the same format. Its easy to view using notepad etc and can be added to
+for such problems as clients that are using defective software as often happens with 
+selected qbtorrent and even (more rarely) some utorrent clients etc that show no
+progress regardless of how much you seed them. The software should be smart enough
+to disconnect them - but then who ever said its a genius that wrote utorrent as it
+is! No logic to sharing patterns whatever! Simply insane!
+
+
+Michael Rizzo Chessman
+
+
+Simply place this file in your utorrent applications data directory (under 
+documents and settings) for the relevant user configuration for XP
+(Or search for the existing file and over-write it if desired)

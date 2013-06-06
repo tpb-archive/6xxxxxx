@@ -1,0 +1,91 @@
+User Type,Username,Date,Text
+,masi50,2011-09-20T12:42Z,"XGD2, wave13, dash 13599,no AP25"
+,rawag14,2011-09-20T14:35Z,"@masi wats that supposed to mean??? i have a 360 with hitachi drive, iX1.51 with LT+...will it work?"
+,masi50,2011-09-20T15:24Z,LT+1.91 fw and  2.0.13599
+,darron66,2011-09-20T16:04Z,"@rawag14 - masi50 is stating the games usual credentials such as dashboard version, protection type and so on. i have a hitachi drive with 1.4fw, currently downloading so dont know if works yet but from what i've read we should be ok with this one, ill let you know once ive downloaded, patched the iso with wave 3 patcher and tried it."
+,1ellis2345,2011-09-20T18:58Z,"I tried to play this game and it tried to install an update. It got half way though installing the update and a message popped up ""cant find update on disc"" now xbox wont play my back ups! I'm on LT+1.91
+
+Any ideas?"
+,homdawg,2011-09-20T20:20Z,"@1ellis2345 
+which firmware were u using before the update?"
+,ademirado,2011-09-20T21:47Z,"Updated with hitach drive some old fw, xbox wont play anyting now :(:(, need to update fw :(."
+,treetall,2011-09-20T22:04Z,"To anybody that has tried the update...
+ Microsoft is equipping all new games with the dashbord update, which essentially makes the xbox go to it's original firmware. 
+To a friend the update got stuck in the middle and even if he reset the console the update wanted to finish. xbox was completely unusable
+
+If you applied the update you have to update the firmware again. 
+
+Which you anyways have to do if you want to play any new games. "
+,BZRK01,2011-09-20T22:28Z,"@treetall: Tell your friend there's a solution to that, I fixed my own xbox yesterday, had the same problem after a disc update on the Monkey Island game.
+
+just follow these steps:
+
+1 - download either the May 2011 or July 19th dashboard update from microsoft (google: 2.0.13146.0 for May, 2.0.13599.0
+  for July)
+
+2 - Extract the RAR file, you'll end up with a folder called ""$systemupdate""
+
+3 - Put the entire folder in the root of an FAT32 formatted USB drive (make sure the drive is empty)
+
+4 - Put the disc you had in your tray during the failed update in your xbox and plug in the usb-drive in the controller port
+
+5 - Open and close the tray once, after this the update should resume (at least it did in my case)
+
+6 - You should be able to start up your xbox normally after this. Update to the latest dash and you're unbricked
+
+7 - Reflash your drive to play backups again, since the new MS update reflashes your drive back to stock. 
+
+Worked for me, so it should work for you.
+Good luck!"
+,BZRK01,2011-09-20T22:29Z,"@treetall: 
+Tell your friend there's a solution to that, I fixed my own xbox yesterday, had the same problem after a disc update on the Monkey Island game.
+
+just follow these steps:
+
+1 - download either the May 2011 or July 19th dashboard update from microsoft (google: 2.0.13146.0 for May, 2.0.13599.0
+  for July)
+
+2 - Extract the RAR file, you'll end up with a folder called ""$systemupdate""
+
+3 - Put the entire folder in the root of an FAT32 formatted USB drive (make sure the drive is empty)
+
+4 - Put the disc you had in your tray during the failed update in your xbox and plug in the usb-drive in the controller port
+
+5 - Open and close the tray once, after this the update should resume (at least it did in my case)
+
+6 - You should be able to start up your xbox normally after this. Update to the latest dash and you're unbricked
+
+7 - Reflash your drive to play backups again, since the new MS update reflashes your drive back to stock. 
+
+Worked for me, so it should work for you.
+Good luck!"
+,BZRK01,2011-09-20T22:36Z,"Damn, stupid double posting :)....."
+,dibb1e,2011-09-20T23:03Z,"i have LT +1.91, if i install update on disc will it reset my drive back to stock??"
+,Master3055,2011-09-21T01:26Z,"@dibb1e every time u install an update u should flash back to stock then install update and then reflash to the latest firware which is 1.91, but hopefullt 2.0 will be out soon
+
+If ur stuck in a middle of an update u must update through usb with the 13599 or 13146 update, then u have to reflash to latest fw 1.91 again"
+,darron66,2011-09-21T04:27Z,"This is weird, I have a hitachi drive flashed with 1.4, had it done about 3 years ago or so, recently it wouldnt load BODYCOUNT, asked to do an update so I clicked on yes and it didnt do anything, said disc was dirty or somethng so I left it. Anyway, I bought DRIVER:SF and went to play it, it said it needed to do a system update to be able to play the game, so I let it do it's update, my dash is now 13599 and went on to play the game. BODYCOUNT now loads and plays (shite game but it works weirdly) and F1 2011 also plays after patching iso with wave 3 patcher. It didnt ask to any updates just played from closing the dvd draw. Did the same with DEAD ISLAND that also works fine, my firmware has not been reset by any update and in any case how could it when your drive has to be connected up to a pc to be flashed??"
+,Master3055,2011-09-21T06:41Z,"Some discs have the update and they flash drives, maybe the hitachi gets around it not to sure.
+
+I updated afl live and that was fine but when i updated madden 12 i got stuck in the update loop, then i had to update through usb, and reflash my drive, i have a lite-on"
+,treetall,2011-09-21T17:03Z,"@BZRK01
+
+Thanks for the help, but he already went to the store to reflash it. (yeah, we have a legit store that is doing this)
+Because even if he would manage to update the dashboard we do not have the tools to update the firmware. 
+
+Maybe this is a silly question, but you do have to have special equippement for that, don't you? "
+,guyyoung28,2011-09-21T18:27Z,hitachi drives dont seem to be affected with updates the only one that dosnt wipe after updateing but c4eva site will tell you everything you need to know and for tools to do it your self try ck3.com
+,BZRK01,2011-09-21T20:17Z,"@treetall:
+
+Yeah you need some stuff, this is what I use:
+- Xecuter CK3 lite
+- Xecuter CK3probev3
+- T10 screwdriver
+- some cables (SATA, molex power) -> they come with the CK3 
+
+If the chipset on your motherboard isn't compatible (or you're using a laptop) then you'll need a seperate device to connect your drive to your computer (I recommend the USB360Pro) and something to power your drive, for instance a molex power-supply. Just google the stuff, there're a lot of webshops selling this equipment. It shouldn't set you back more then $70/â‚¬50 if you buy it as a package deal. Also, check youtube for some flashing tutorials.
+
+later"
+,theocf,2011-09-21T21:45Z,este jogo esta com dublagem em pt-br em português brasileiro?
+,elvisp23,2011-09-23T02:03Z,"worked fine on Samsung TS-H943A ixtreme 1.9 
+only issue i have is when saving game to drive it stops after 54%, anyone else getting this or shall i just re-burn as never really play games of the disc drive."

@@ -1,0 +1,25 @@
+Mini Linux Distribution
+
+2011-09-09
+
+4MLinux-3.0-installer released.
+
+All 4MLinux applications have been compiled under Slackware 13.37 (x86/32-bit/SMP):
+ - kernel 2.6.39.2,
+ - glibc 2.13,
+ - gcc 4.5.2.
+
+Have a nice Linux !
+Zbigniew Konojacki
+
+Read more at FreshMeat.net
+Download from SourceForge.net 
+http://4mlinux.com/news.html
+
+If you want to create 4MLinux Live USB, please use the UNetbootin tool which is available at http://unetbootin.sourceforge.net. If you have an older PC (with 64 MB of RAM and 200 MB of free disk space) you should download 4MLinux-3.0-installer.iso. All the other versions are designed for modern PCs with at least 256 MB of RAM. 
+http://sourceforge.net/projects/linux4m/files/3.0/livecd/
+ 
+http://4mlinux.com/donate.html
+
+sha1sum : e708697c6f401cfe6e4368b67602b99255b95ea6  4MLinux-3.0-installer.iso
+md5sum : 6b0c3dc571382c1c1be8807b88323221  4MLinux-3.0-installer.iso

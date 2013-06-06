@@ -1,0 +1,175 @@
+Ac Dc - Live At River Plate [BDRip-1080p-Mkv-Eng-Dts][Nautilus-BT]
+ 
+
+
+[ About file ]
+
+Name: Ac Dc - Live At River Plate [BDRip-1080p-Eng-Dts-Chapters][RiP By MaX].mkv
+Date: Thu, 23 Jun 2011 11:07:56 +0200
+Size: 8,544,301,013 bytes (8148.48 MiB)
+
+[ Magic ]
+
+Tipo file: data
+
+[ Generic infos ]
+
+Duration: 01:51:38 (6697.733 s)
+Container: matroska
+Production date: Thu, 23 Jun 2011 11:04:40 +0200
+Total tracks: 2
+Track nr. 1: video (V_MPEG4/ISO/AVC) [Ac Dc - Live At River Plate [BDRip 1080p][RiP By MaX]] {ita}
+Track nr. 2: audio (A_DTS) [Eng Dts 5.1] {eng}
+Muxing library: libebml v1.2.0 + libmatroska v1.1.0
+Writing application: mkvmerge v4.8.0 ('I Got The...') built on May 24 2011 03:12:58
+
+[ Relevant data ]
+
+Resolution: VERY HIGH (1920 x 1080)
+Width: multiple of 32 (GOOD)
+Height: multiple of 8 (16 would be better)
+Average DRF quality: LOW (27.775)
+Standard deviation quality: HIGH (0.574)
+Std. dev. weighted mean: HIGH (0.478)
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1920 x 1080
+Frame aspect ratio: 16:9 = 1.778
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 16:9 = 1.778
+Framerate: 23.976 fps
+[debug] codec private: 53 bytes
+Stream size: 7,911,389,799 bytes (7544.889 MiB)
+Duration (bs): 01:51:38 (6697.732 s)
+Bitrate (bs): 9449.634 kbps
+Qf: 0.19
+
+[ Audio track ]
+
+Codec ID: A_DTS
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 630,866,624 bytes (601.641 MiB)
+Bitstream type (bs): DTS
+Frames (bs): 627,104
+Duration (bs): 01:51:29 (6689.109 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 768 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): C + L + R+ SL+SR
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 115 r2008 4c552d8 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=4 | deblock=1:0:0 | analyse=0x3:0x133 | me=umh | subme=7 | psy=1
+User data: psy_rd=1.00:0.00 | mixed_ref=1 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=1
+User data: chroma_qp_offset=-2 | threads=6 | sliced_threads=0 | slices=4 | nr=0
+User data: decimate=1 | interlaced=0 | bluray_compat=1 | constrained_intra=0
+User data: bframes=3 | b_pyramid=1 | b_adapt=2 | b_bias=0 | direct=1
+User data: weightb=1 | open_gop=1 | weightp=1 | keyint=240 | keyint_min=23
+User data: scenecut=40 | intra_refresh=0 | rc_lookahead=40 | rc=2pass
+User data: mbtree=1 | bitrate=9451 | ratetol=1.0 | qcomp=0.60 | qpmin=10
+User data: qpmax=51 | qpstep=4 | cplxblur=20.0 | qblur=0.5 | vbv_maxrate=40000
+User data: vbv_bufsize=40000 | nal_hrd=vbr | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 3
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 160,585
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices:  53458 ( 33.290 %) ##########
+B-slices: 105090 ( 65.442 %) ####################
+I-slices:   2037 (  1.268 %)
+SP-slices:      0 (  0.000 %)
+SI-slices:      0 (  0.000 %)
+
+[ DRF analysis ]
+
+average DRF: 27.775
+standard deviation: 0.574
+max DRF: 29
+
+DRF&lt;19:      0 (  0.000 %)
+DRF=19:      2 (  0.001 %)
+DRF=20:      0 (  0.000 %)
+DRF=21:      0 (  0.000 %)
+DRF=22:    366 (  0.228 %)
+DRF=23:      8 (  0.005 %)
+DRF=24:    241 (  0.150 %)
+DRF=25:   1670 (  1.040 %)
+DRF=26:    406 (  0.253 %)
+DRF=27:  27054 ( 16.847 %) ####
+DRF=28: 130835 ( 81.474 %) ####################
+DRF=29:      3 (  0.002 %)
+DRF&gt;29:      0 (  0.000 %)
+
+P-slices average DRF: 27.813
+P-slices std. deviation: 0.512
+P-slices max DRF: 28
+
+B-slices average DRF: 27.81
+B-slices std. deviation: 0.46
+B-slices max DRF: 29
+
+I-slices average DRF: 24.975
+I-slices std. deviation: 0.516
+I-slices max DRF: 28
+
+[ Profile compliancy ]
+
+Selected profile: BDRip 1080p
+Resolution: Ok
+Framerate: Ok
+Buffer underflow: 00:49:32 (frame 71247)
+Buffer underflow: 00:55:40 (frame 80077)
+Buffer underflow: 01:07:01 (frame 96407)
+Buffer underflow: 01:19:23 (frame 114197)
+Buffer underflow: 01:19:25 (frame 114246)
+Buffer underflow: 01:28:05 (frame 126710)
+Buffer underflow: 01:28:17 (frame 126990)
+Buffer underflow: 01:28:19 (frame 127051)
+Buffer underflow: 01:28:20 (frame 127079)
+Buffer underflow: 01:39:34 (frame 143236)
+
+[ Edition entry ]
+
+UID: 3810525115
+Hidden: No
+Selected by default: No
+Playlist: No
+Chapters: 
+00:00:00,000-00:01:13,490: Concert Opens {und}
+00:01:13,490-00:05:43,468: "Rock N Roll Train" {und}
+00:05:43,468-00:10:00,016: "Hell Ain't A Bad Place To Be" {und}
+00:10:00,016-00:14:10,183: "Back In Black" {und}
+00:14:10,183-00:18:12,174: "Big Jack" {und}
+00:18:12,174-00:22:58,127: "Dirty Deeds Done Dirt Cheap" {und}
+00:22:58,127-00:26:29,046: "Shot Down In Flames" {und}
+00:26:29,046-00:32:05,841: "Thunderstruck" {und}
+00:32:05,841-00:35:39,429: "Black Ice" {und}
+00:35:39,429-00:46:24,615: "The Jack" {und}
+00:46:24,615-00:52:00,659: "Hells Bells" {und}
+00:52:00,659-00:57:52,886: "Shoot To Thrill" {und}
+00:57:52,886-01:01:15,005: "War Machine" {und}
+01:01:15,005-01:05:52,740: "Dog Eat Dog" {und}
+01:05:52,740-01:09:44,097: "You Shook Me All Night Long" {und}
+01:09:44,097-01:13:40,791: "T.N.T." {und}
+01:13:40,791-01:19:21,340: "Whole Lotta Rosie" {und}
+01:19:21,340-01:37:05,153: "Let There Be Rock" {und}
+01:37:05,153-01:41:48,185: "Highway To Hell" {und}
+01:41:48,185-01:51:37,733: "For Those About To Rock (We Salute You)" {und}
+
+This report was created by AVInaptic (25-07-2011) on 21-08-2011 14:52:57

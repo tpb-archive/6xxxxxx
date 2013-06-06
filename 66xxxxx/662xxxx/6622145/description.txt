@@ -1,0 +1,30 @@
+Problem:
+
+Modify the Inventory Program to include an Add button, a Delete button, and a Modify button on the GUI.
+
+These buttons should allow the user to perform the corresponding actions on the item name, the number of units in stock, and the price of each unit.
+
+An item added to the inventory should have an item number one more than the previous last item.
+
+Add a Save button to the GUI that saves the inventory to a C:\data\inventory.dat file.
+
+Use exception handling to create the directory and file if necessary.
+
+Add a search button to the GUI that allows the user to search for an item in the inventory by the product name.
+
+If the product is not found, the GUI should display an appropriate message. If the product is found, the GUI should display that productâ€™s information in the GUI.
+
+Solution:
+
+The application has four well-commented files:
+
+1. InventoryPart6.java â€“ contains the GUI and the main() method
+
+2. Computer.java â€“ represents the product manipulated by the application
+
+3. Supplier.java â€“ extends Computer
+
+4. Logo.java â€“ a JPanel extension which paints the company logo.
+
+
+This is the exact package that IT Martins sells for $20.  Use it for your final project in IT/215

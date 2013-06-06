@@ -1,0 +1,45 @@
+Manjaro Linux is a Linux Distribution based on Arch Linux. It is still under development, but an initial testing release is already available. Our aim is to create a light linux distribution, which is simple, up-to-date, fast and user friendly and which follows the K.I.S.S principle. We are using the Desktop Environment Xfce, which is light but powerfull. Arch Linux is a great GNU/Linux distribution, but installing and configuring it, needs some time and experience. So we improved Arch Linux. We created a more user friendly installation process, wrote bash scripts for managing graphic drivers, configured xfce with some useful functions and a GUI settings manager is also planed. Just try it. ;)
+
+# Changelog for Manjaro Linux Version 0.1.1
+# Released on the 14 July 2011
+
+Manjaro Linux:
+	If a package update was applied, then manjaro's filesystem package was   deinstalled
+	Print an infobox with current passwords
+	Fixed this error message on boot '/bin/chown: invalid group: root:utmp'
+	Removed package samba
+	Replace balsa with thunderbird
+	Installed gnumeric
+	If the architecture is x86_64, then add the multilib repo to pacman.conf
+	Added 3G support
+	Added conky
+	Updated /etc/readahead.d/ config files
+	Fixed some language problems
+	Fixed Groups error
+
+manjaro-installer:
+	Installer crashed on Systems with extended partitions. Libparted error
+	Added btrfs support
+	Added Infobox about supported filesystems
+	If installation was canceld, then the bash scripts were still running
+	Spelling mistake. Cancle -&gt; Cancel
+	Installation on more partitions failed
+	Fixed filesystem label problem
+	Removed mountpoint, which where not possible
+	Display minimal required empty space
+	Print also Partitions in Grub Combobox
+
+xoco:
+	Print a warning, if some changes on configs are made
+	If the architecture is i686 don't install lib32 packages
+	Nvidia and Catalyst installation failed because of missing dependencies
+	Fixed wrong outputs
+	Fixed DPREFER variable error
+	Fixed errors in configs
+	Added missing dependencies
+
+
+ 
+http://manjarolinux.org/index.html (en, de, fr) 
+http://manjarolinux.org/donate.html 
+http://manjarolinux.org/screenshots.html

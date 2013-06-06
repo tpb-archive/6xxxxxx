@@ -1,0 +1,26 @@
+User Type,Username,Date,Text
+,sanriver,2011-08-15T00:16Z,just 1 seeder...
+[V],rambam1776,2011-08-15T07:00Z,"Is it really necessary to choke bandwidth to less than 5 kbps just to ensure multiple seeders? The only other reason to upload this slowly is if you live in 1997 and are on dial-up. Somehow, I doubt it. Please take this off the leash."
+,sanriver,2011-08-15T21:08Z,this doesnt install right. tried in 2 different pc's
+,hedans,2011-08-16T10:09Z,"If you are running Windows 7 64 bits like I am, and are getting error messages like ""MSVCR100.DLL missing""
+when you launch Omnipage Pro 18, head over to the Microsoft Download Centre and look for the following:
+
+Visual C++ 2005 Redistributable SP1 x86
+Visual C++ 2005 Redistributable SP1 x64
+Visual C++ 2008 Redistributable SP1 x86
+Visual C++ 2008 Redistributable SP1 x64
+Visual C++ 2010 Redistributable SP1 x86
+Visual C++ 2010 Redistributable SP1 x64
+
+These 6 files need to be installed.
+The Omnipage installer is supposed to do it for you if they are not present, but maybe this one does not contain the MS packages.
+
+Anyway, this solved the problem for me."
+,jubba.the.hat,2011-08-16T12:19Z,"seems i only needed to download this:
+-----------------------------------------------
+Visual C++ 2010 Redistributable SP1 x86
+-----------------------------------------------
+to make it work. (I've got Vista)"
+,1TWISTED,2011-08-18T15:08Z,"thanks,.. nice upload,... well done,.. ; )"
+,Rocco9999,2011-08-25T20:16Z,Doesn't work on Windows XP. When you start the program it crashes. 
+,csobsidian,2011-09-27T21:33Z,"Could not get this to work on Windows 7 x64 even after installing the required Microsoft C++ Runtime files. Instead of crashing and saying ""MSVCE100.dll Missing."" it now simply crashes with ""Omnipage has stopped working properly."" There is a crash notification in the event log naming the event as a kernel crash."

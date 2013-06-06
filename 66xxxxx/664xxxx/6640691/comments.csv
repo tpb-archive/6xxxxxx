@@ -1,0 +1,35 @@
+User Type,Username,Date,Text
+,blazinZun,2011-10-08T20:44Z,I have Garmin Asus A10(Android). Can some one tell me how to update Map in this device .. Support is highly appreciated..
+,Ipmark,2011-10-09T01:31Z,"If you connect the GPS to a PC, you can see the files inside?
+Is there a folder with the map?"
+,blazinZun,2011-10-10T21:31Z,"Yes I saw a folder called Garmin , It has a Diag folder , one FCD folder and one XML file .."
+,Ipmark,2011-10-11T10:12Z,"Perhaps the map is in a hidden folder
+On the PC you need to enable the ability to see the files and system folders"
+,advaithk,2011-10-16T17:20Z,"Hey Ipmark,
+
+Could you give a little bit more detailed instructions on how to install this into a GPS? Btw i have a nuvi 710. I've even downloaded Middle East Maps from you and that installed quite easily with the "".msi"" file.... what do i do here?
+
+Thanks!!"
+,Ipmark,2011-10-17T10:36Z,"If you haven't any idea how to create the unlock file, the best choice is unlock the map with the Fast IMG Unlocker 2.1.exe tool, full format a 2GB SD with filesystem FAT32, create a Garmin folder and put the unlocked maps on it."
+,raamkum,2011-10-20T02:11Z,I used the Fast IMG Unlocker 2.1.exe and unlocked copied the unlocked img file to Garmin folder. When I changed the country to India and looked for Bangalore - I got only Bihar. Most of them are north india. can someone see Bangalore or Chennai?
+,raamkum,2011-10-20T02:14Z,BTW: Mostly only north india
+,urxwriter,2011-10-31T19:42Z,How can we add this to mapsource?
+,Ipmark,2011-11-05T16:29Z,"No.
+There isn't an official Mapsource version.
+You can see the map on the PC using BaseCamp, put the map on a pendrive (FAT32, Garmin folder), insert the pendrive in a USB port and start the program."
+,nairrb,2012-01-01T21:28Z,"Thanks Ipmark. Great detailed map (including south India). Works great with Nuvi 1390T. Far superior that mapsofindia. You are the man.
+
+For those who installs this -- first of all back up your default map on your PC and remove it from your device to get the best results. Copy this map to your device/memory card. Two maps of same area confuses the system. (Though it is safe, do it on your own risk just in case!!)"
+,visheshk,2012-01-07T14:05Z,"Hi Guys,
+
+I have downloaded the file...extracted the zip  file which has two files in it. one is .img and the other one .unl
+
+i have tried using the unlocker which runs for a while then identifies the version and times out after a countdown upto 6. Please advise me as to how shoud i get the maps on my garmin device. 
+
+I am an amateur to this stuff so clear guidance will be highly appreciated. Ipmark thanks for the maps.
+
+Cheers"
+,nairrb,2012-02-06T21:27Z,"Hi visheshk 
+
+Use the JM-KG-v1.5+5Digit+ChecksumFix for unlocking the map. Enter your Unit ID, select garmin mobile PC, select the map product as  and click generate. It will ask the custom mapset details. Fill in the FID (map ID) in this case 281 and click OK.  The unlock code will be generated. Use note pad to open the file with .unl extension, remove its contents and paste the generated unlock code and save (do not change its file type extension to .txt -- let it be .unl). Place both the .img and .unl file in a folder named as MAP and use it in the memory card or in the device itself. Select the desired map from the device's setting>map>info. If you have a map in the device, it will be permanently selected in addition to the added maps in the card. Hope you will be able to use the map by now."
+,chinguri,2012-06-10T07:08Z,"I downloaded this, but it did not come with a gmapsupp.unl file.  Where can I find this, or what I am I doing wrong?"

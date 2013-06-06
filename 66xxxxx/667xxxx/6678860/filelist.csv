@@ -1,0 +1,440 @@
+Filename,Size,Unit
+Libs32/cgauth.dll,48,K
+Libs32/dte_wrapper.dll,736,K
+Libs32/glslang.dll,534,K
+Libs32/glvm.dll,138.5,K
+Libs32/libmmd.dll,3.81,M
+Libs32/rt_opencl.dll,2.2,M
+Libs32/SecureEngineSDK32.dll,3,K
+Libs32/vray.dll,6.39,M
+Libs32/Vray_Stuff.dll,563.5,K
+Libs64/cgauth.dll,119.5,K
+Libs64/dte_wrapper.dll,1.05,M
+Libs64/glslang.dll,688,K
+Libs64/glvm.dll,164.5,K
+Libs64/libmmd.dll,3.1,M
+Libs64/rt_opencl.dll,2.53,M
+Libs64/SecureEngineSDK64.dll,2.5,K
+Libs64/VirtualizerSDK64.dll,2,K
+Libs64/vray.dll,7.69,M
+Libs64/vray_stuff.dll,1.31,M
+res/description/IesWrapper.res,156,B
+res/description/Mfastfurmaterial.h,436,B
+res/description/Mfastfurmaterial.res,1.03,K
+res/description/mVray2SidedMaterial.h,2.33,K
+res/description/mVray2SidedMaterial.res,2.57,K
+res/description/mVrayAdvancedMaterial.h,41.64,K
+res/description/mVrayAdvancedMaterial.res,51.01,K
+res/description/mVrayBlendMaterial.h,2.12,K
+res/description/mVrayBlendMaterial.res,2.58,K
+res/description/mVrayDisplaceMaterial.h,2.06,K
+res/description/mVrayDisplaceMaterial.res,2.41,K
+res/description/mVrayFastSSS2Material.h,3.36,K
+res/description/mVrayFastSSS2Material.res,3.93,K
+res/description/mVrayOverrideMaterial.h,2.03,K
+res/description/mVrayOverrideMaterial.res,2.58,K
+res/description/OFast_Fur.h,5.1,K
+res/description/OFast_Fur.res,18.37,K
+res/description/oinstanceproobject.h,114,B
+res/description/oinstanceproobject.res,178,B
+res/description/Ovrayproxy.h,245,B
+res/description/Ovrayproxy.res,364,B
+res/description/ovrayproxygen.h,326,B
+res/description/OvrayproxyGen.res,644,B
+res/description/tVrayCameraDomeTag.h,307,B
+res/description/tVrayCameraDomeTag.res,440,B
+res/description/tVrayCompositingTag.h,1.77,K
+res/description/tVrayCompositingTag.res,2.94,K
+res/description/tVrayDispTag.h,494,B
+res/description/tVrayDispTag.res,705,B
+res/description/tVrayFurTag.h,993,B
+res/description/tVrayFurTag.res,1.86,K
+res/description/tVrayLightTag.h,6.24,K
+res/description/tVrayLightTag.res,9.72,K
+res/description/tVrayMblurTag.h,218,B
+res/description/tVrayMblurTag.res,284,B
+res/description/tVrayPhysicalCameraTag.h,2.26,K
+res/description/tVrayPhysicalCameraTag.res,3.81,K
+res/description/TVrmeshExporter.h,278,B
+res/description/tVrmeshExporter.res,457,B
+res/description/vpvraybridge.h,23.75,K
+res/description/vpvraybridge.res,38.63,K
+res/description/xcustombuffershader.h,1.18,K
+res/description/xcustombuffershader.res,1.7,K
+res/description/XIesWrapper.h,97,B
+res/description/XIesWrapper.res,186,B
+res/description/xVrayBitmap.h,409,B
+res/description/xVrayBitmap.res,753,B
+res/description/xVrayChecker.h,280,B
+res/description/xVrayChecker.res,436,B
+res/description/xVrayNoise.h,728,B
+res/description/xVrayNoise.res,1.16,K
+res/description/xVrayShader.h,790,B
+res/description/xVrayShader.res,988,B
+res/description/xVrayTexLayered.h,345,B
+res/description/xVrayTexLayered.res,674,B
+res/strings_us/description/Mfastfurmaterial.str,448,B
+res/strings_us/description/mVray2SidedMaterial.str,2.38,K
+res/strings_us/description/mVrayAdvancedMaterial.str,48.88,K
+res/strings_us/description/mVrayBlendMaterial.str,2.24,K
+res/strings_us/description/mVrayDisplaceMaterial.str,2.06,K
+res/strings_us/description/mVrayFastSSS2Material.str,4.12,K
+res/strings_us/description/mVrayOverrideMaterial.str,2.05,K
+res/strings_us/description/OFast_Fur.str,5.83,K
+res/strings_us/description/oinstanceproobject.str,115,B
+res/strings_us/description/Ovrayproxy.str,178,B
+res/strings_us/description/OvrayproxyGen.str,545,B
+res/strings_us/description/ovrayproxyobject.str,115,B
+res/strings_us/description/tVrayCameraDomeTag.str,234,B
+res/strings_us/description/tVrayCompositingTag.str,2.73,K
+res/strings_us/description/tVrayDispTag.str,515,B
+res/strings_us/description/tVrayFurTag.str,1.17,K
+res/strings_us/description/tVrayLightTag.str,7.76,K
+res/strings_us/description/tVrayMblurTag.str,162,B
+res/strings_us/description/tVrayPhysicalCameraTag.str,2.6,K
+res/strings_us/description/tVrmeshExporter.str,336,B
+res/strings_us/description/vpvraybridge.str,29.42,K
+res/strings_us/description/XIesWrapper.str,89,B
+res/strings_us/description/xVrayBitmap.str,427,B
+res/strings_us/description/xVrayChecker.str,289,B
+res/strings_us/description/xVrayNoise.str,959,B
+res/strings_us/description/xVrayShader.str,833,B
+res/strings_us/description/xVrayTexLayered.str,398,B
+res/strings_us/c4d_strings.str,669,B
+res/c4d_symbols.h,520,B
+res/environment.hdr,1.54,M
+res/Fast_Fur.tif,20.7,K
+res/Fast_Fur_small.tif,19.16,K
+res/FontBuckets.jpg,23.64,K
+res/FontBuckets.tif,34.98,K
+res/FontVrayBrdigeMed.psd,215.54,K
+res/IesPreview.c4d,87.34,K
+res/IesPreview2.c4d,80.01,K
+res/vraybar_Console_small.tif,25.41,K
+res/vraybar_small.tif,30.5,K
+res/VrayCamera.tif,1.91,K
+res/VrayCommand.tif,1.91,K
+res/VrayCompositing.tif,23.41,K
+res/VrayConsole.tif,21.88,K
+res/VrayDisplacement.tif,1.91,K
+res/VrayDisplacement_Small.tif,1.91,K
+res/VrayFur.tif,11.41,K
+res/VrayLight.tif,1.91,K
+res/VrayLightTag.tif,1.91,K
+res/VrayMeshExporter.tif,23.49,K
+res/VrayMotionBlur.tif,19.57,K
+res/VrayProxy.tif,23.56,K
+Settings/Gi/- CUSTOM -,1.07,K
+Settings/Gi/00A_Default Universal Preset Stefan [very fast - very good],1007,B
+Settings/Gi/00B_DMCLC [Previews-Point 'n Shoot mode- Universal-Physical],1007,B
+Settings/Gi/00C_DMCLC Animation Universal [choose and use-not speed optimized],1007,B
+Settings/Gi/00D_DMC [Previews-Point 'n Shoot mode-Outdoors-Physical],1007,B
+Settings/Gi/01_IR-LC_very very fast [for big print size],1007,B
+Settings/Gi/02_IR-LC_very fast [for print size],1007,B
+Settings/Gi/03_IR-LC_fast [for print size],1007,B
+Settings/Gi/04_IR-LC_medium,1007,B
+Settings/Gi/05_IR-LC_medium [animation],1007,B
+Settings/Gi/06_IR-LC_high,1007,B
+Settings/Gi/07_IR-LC_high [animation],1007,B
+Settings/Gi/08_IR-LC very high [use only for very small res images],1007,B
+Settings/Gi/09_IR-BR_very fast outdoor [for print size],1007,B
+Settings/Gi/10_IR-BR_fast outdoor [for print size],998,B
+Settings/Gi/11_IR-BR_medium outdoor,1007,B
+Settings/Gi/12_IR-BR_medium outdoor [animation],1007,B
+Settings/Gi/13_IR-BR_high outdoor,1007,B
+Settings/Gi/14_IR-BR_high outdoor [animation],1007,B
+Settings/Gi/15_BR-LC_good [still-anim slight grain],1007,B
+Settings/Gi/16_BR-LC_medium [still-anim no prepass needed],1007,B
+Settings/Gi/17_BR-LC_very good [still-anim no prepass needed],1007,B
+Settings/Gi/18_BR-BR_medium outdoor [still-anim-use good AA thr. 0.005],1007,B
+Settings/Gi/19_BR-BR_high outdoor [still-anim-use good AA thr. 0.005],998,B
+Settings/Gi/20_LC-LC_very fast preview mode,1007,B
+Settings/Gi/21_LC-LC_medium [fast -good quality- indoor outdoor],1007,B
+Settings/Gi/22_LC-LC_ppt path-tracing [interactive preview],1007,B
+Settings/Gi/23_Stefan special preset 1 [for print size],1007,B
+Settings/Gi/24_Stefan special preset 2 [for small or print size],1007,B
+Settings/Gi/25a_Stefan special preset 4 [Object Anim prepass],1.07,K
+Settings/Gi/25b_Stefan special preset 4 [Object Anim renderpass],1.02,K
+Settings/Gi/26_Stefan special preset 5 [universal-old 21 preset],1007,B
+Settings/Gi/27_Stefan special preset 6 [for big size renders],1007,B
+Settings/Gi/28_Stefan special preset 7 [universal2 -in-outdoors],1007,B
+Settings/Gi/29_Stefan special preset 8 [complicated indoor],1007,B
+Settings/Gi/30_Stefan special preset 9 [HQ fast universal 2_also cam anim],1007,B
+Settings/Gi/31a_Stefan special preset 4 [Object Anim prepass],1.07,K
+Settings/Gi/31b_Stefan special preset 4 [Object Anim render pass],1.06,K
+Settings/Gi/32a_Stefan IR-LC Universal Experimental [anim prepass],1.07,K
+Settings/Gi/32b_Stefan IR-LC Universal Experimental [anim render pass],1.07,K
+Settings/Gi/33_Nederhorst_Production_Setting II [animation],1007,B
+"Settings/Gi/34_Nederhorst_Production_Setting [use with AA 1x32x 0,003- DMC 0.9]",1007,B
+Settings/Gi/35_Stefan IR-LC Universal Experimental [still],1.07,K
+Settings/Gi/36_DMCLC Animation Universal [more speed optimized],1007,B
+Settings/IES/1.IES,1.09,K
+Settings/IES/10 .IES,596,B
+Settings/IES/11.ies,316,B
+Settings/IES/12.IES,1.03,K
+Settings/IES/13.IES,596,B
+Settings/IES/14.IES,292,B
+Settings/IES/15.IES,303,B
+Settings/IES/1589835-nice.IES,622,B
+Settings/IES/16.ies,622,B
+Settings/IES/17.ies,243,B
+Settings/IES/18.ies,269,B
+Settings/IES/19.ies,1.34,K
+Settings/IES/2.IES,1.1,K
+Settings/IES/20.ies,1.34,K
+Settings/IES/21.ies,1.34,K
+Settings/IES/22.ies,315,B
+Settings/IES/23.ies,1,K
+Settings/IES/24.ies,329,B
+Settings/IES/25.ies,740,B
+Settings/IES/26.ies,580,B
+Settings/IES/27.IES,197,B
+Settings/IES/28.ies,1.32,K
+Settings/IES/29.IES,292,B
+Settings/IES/3.IES,660,B
+Settings/IES/30.IES,313,B
+Settings/IES/4.IES,937,B
+Settings/IES/5.ies,569,B
+Settings/IES/6.ies,376,B
+Settings/IES/7.IES,292,B
+Settings/IES/8.IES,303,B
+Settings/IES/9.IES,658,B
+vray_plugins32/vray_AAFilters.dll,64.5,K
+vray_plugins32/vray_BakeView.dll,40.5,K
+vray_plugins32/vray_BitmapBuffer.dll,1.63,M
+vray_plugins32/vray_BRDFBlinn.dll,103.5,K
+vray_plugins32/vray_BRDFBump.dll,58,K
+vray_plugins32/vray_BRDFCarPaint.dll,1.51,M
+vray_plugins32/vray_BRDFDiffuse.dll,67,K
+vray_plugins32/vray_BRDFGlass.dll,92,K
+vray_plugins32/vray_BRDFHair.dll,64,K
+vray_plugins32/vray_BRDFLayered.dll,55,K
+vray_plugins32/vray_BRDFLight.dll,48.5,K
+vray_plugins32/vray_BRDFMirror.dll,57.5,K
+vray_plugins32/vray_BRDFPhong.dll,63.5,K
+vray_plugins32/vray_BRDFSampled.dll,73.5,K
+vray_plugins32/vray_BRDFSimbiont.dll,105.5,K
+vray_plugins32/vray_BRDFSSS.dll,53,K
+vray_plugins32/vray_BRDFSSS2.dll,125,K
+vray_plugins32/vray_BRDFVRayMtl.dll,258,K
+vray_plugins32/vray_CameraDome.dll,40,K
+vray_plugins32/vray_CameraFilmTrans.dll,40.5,K
+vray_plugins32/vray_CameraPhysical.dll,107.5,K
+vray_plugins32/vray_CameraStereoscopic.dll,168.5,K
+vray_plugins32/vray_GeomBox.dll,84,K
+vray_plugins32/vray_GeomHair.dll,257.5,K
+vray_plugins32/vray_GeomMeshFile.dll,408,K
+vray_plugins32/vray_GeomMeshLoader.dll,76.5,K
+vray_plugins32/vray_GeomMeshLoader1.dll,83.5,K
+vray_plugins32/vray_GeomMeshTest.dll,410.5,K
+vray_plugins32/vray_GeomParticleInstance.dll,212,K
+vray_plugins32/vray_GeomPlane.dll,74.5,K
+vray_plugins32/vray_GeomStaticDisplacedMesh.dll,302.5,K
+vray_plugins32/vray_GeomStaticMesh.dll,291,K
+vray_plugins32/vray_GeomStaticNurbs.dll,398,K
+vray_plugins32/vray_GeomStaticSmoothedMesh.dll,378.5,K
+vray_plugins32/vray_Instancer.dll,52,K
+vray_plugins32/vray_lenseffects.dll,614.5,K
+vray_plugins32/vray_LightDirect.dll,79,K
+vray_plugins32/vray_LightDome.dll,114.5,K
+vray_plugins32/vray_LightIES.dll,118,K
+vray_plugins32/vray_LightMesh.dll,155.5,K
+vray_plugins32/vray_LightOmni.dll,88.5,K
+vray_plugins32/vray_LightRectangle.dll,147.5,K
+vray_plugins32/vray_LightSphere.dll,109,K
+vray_plugins32/vray_LightSpot.dll,98.5,K
+vray_plugins32/vray_MayaLightDirect.dll,72,K
+vray_plugins32/vray_Mtl2Sided.dll,50.5,K
+vray_plugins32/vray_MtlBump.dll,55.5,K
+vray_plugins32/vray_MtlDiffuse.dll,54,K
+vray_plugins32/vray_MtlDoubleSided.dll,46.5,K
+vray_plugins32/vray_MtlGLSL.dll,183,K
+vray_plugins32/vray_MtlLayeredBRDF.dll,49,K
+vray_plugins32/vray_MtlMaterialID.dll,37.5,K
+vray_plugins32/vray_MtlMulti.dll,40.5,K
+vray_plugins32/vray_MtlOverride.dll,47,K
+vray_plugins32/vray_MtlRamp.dll,75,K
+vray_plugins32/vray_MtlRenderStats.dll,41,K
+vray_plugins32/vray_MtlRoundEdges.dll,50.5,K
+vray_plugins32/vray_MtlSingleBRDF.dll,40.5,K
+vray_plugins32/vray_MtlWrapper.dll,81,K
+vray_plugins32/vray_NewGI.dll,559.5,K
+vray_plugins32/vray_Node.dll,51.5,K
+vray_plugins32/vray_OutputTest.dll,52,K
+vray_plugins32/vray_RenderChannelColor.dll,96,K
+vray_plugins32/vray_RenderChannelMultiMatte.dll,62.5,K
+vray_plugins32/vray_RenderView.dll,57.5,K
+vray_plugins32/vray_RTEngine.dll,496.5,K
+vray_plugins32/vray_Settings.dll,355,K
+vray_plugins32/vray_spherefade.dll,45,K
+vray_plugins32/vray_SphericalHarmonics.dll,110.5,K
+vray_plugins32/vray_sunsky.dll,149,K
+vray_plugins32/vray_TexAColor.dll,39.5,K
+vray_plugins32/vray_TexBitmap.dll,102.5,K
+vray_plugins32/vray_TexBlend.dll,47.5,K
+vray_plugins32/vray_TexBulge.dll,94.5,K
+vray_plugins32/vray_TexCellular.dll,113.5,K
+vray_plugins32/vray_TexChecker.dll,102.5,K
+vray_plugins32/vray_TexClamp.dll,45,K
+vray_plugins32/vray_TexCloth.dll,98.5,K
+vray_plugins32/vray_TexCustomBitmap.dll,106,K
+vray_plugins32/vray_TexDirt.dll,57.5,K
+vray_plugins32/vray_texedges.dll,39,K
+vray_plugins32/vray_TexFresnel.dll,41,K
+vray_plugins32/vray_TexGranite.dll,104.5,K
+vray_plugins32/vray_TexGrid.dll,97.5,K
+vray_plugins32/vray_TexICC.dll,233.5,K
+vray_plugins32/vray_TexInvert.dll,41,K
+vray_plugins32/vray_TexLayered.dll,91,K
+vray_plugins32/vray_TexLeather.dll,104,K
+vray_plugins32/vray_TexLut.dll,43,K
+vray_plugins32/vray_TexMarble.dll,100,K
+vray_plugins32/vray_TexMax.dll,486.5,K
+vray_plugins32/vray_TexMaya.dll,869.5,K
+vray_plugins32/vray_TexMulti.dll,54,K
+vray_plugins32/vray_TexNoise.dll,104.5,K
+vray_plugins32/vray_texparticle.dll,44,K
+vray_plugins32/vray_TexPtex.dll,373,K
+vray_plugins32/vray_TexRamp.dll,107.5,K
+vray_plugins32/vray_TexRemap.dll,63.5,K
+vray_plugins32/vray_TexRock.dll,98.5,K
+vray_plugins32/vray_TexSampler.dll,144,K
+vray_plugins32/vray_TexSnow.dll,95,K
+vray_plugins32/vray_TexSoftbox.dll,115.5,K
+vray_plugins32/vray_TexSwitch.dll,62,K
+vray_plugins32/vray_TexUVW.dll,38.5,K
+vray_plugins32/vray_TexWater.dll,61.5,K
+vray_plugins32/vray_TexWood.dll,103.5,K
+vray_plugins32/vray_TexXSI.dll,1.35,M
+vray_plugins32/vray_Toon.dll,50.5,K
+vray_plugins32/vray_UVWGenChannel.dll,62,K
+vray_plugins32/vray_UVWGenEnvironment.dll,56.5,K
+vray_plugins32/vray_UVWGenExplicit.dll,36,K
+vray_plugins32/vray_UVWGenObject.dll,42.5,K
+vray_plugins32/vray_UVWGenPlanarWorld.dll,54.5,K
+vray_plugins32/vray_UVWGenProjection.dll,91.5,K
+vray_plugins32/vray_VolumeEnvironmentFog.dll,163.5,K
+vray_plugins32/vray_VolumeFog.dll,47,K
+vray_plugins32/vray_VolumeMulti.dll,37.5,K
+vray_plugins64/vray_AAFilters.dll,79,K
+vray_plugins64/vray_BakeView.dll,49,K
+vray_plugins64/vray_BitmapBuffer.dll,1.93,M
+vray_plugins64/vray_BRDFBlinn.dll,119,K
+vray_plugins64/vray_BRDFBump.dll,68.5,K
+vray_plugins64/vray_BRDFCarPaint.dll,1.78,M
+vray_plugins64/vray_BRDFDiffuse.dll,78.5,K
+vray_plugins64/vray_BRDFGlass.dll,105,K
+vray_plugins64/vray_BRDFHair.dll,77,K
+vray_plugins64/vray_BRDFLayered.dll,65.5,K
+vray_plugins64/vray_BRDFLight.dll,58.5,K
+vray_plugins64/vray_BRDFMirror.dll,67,K
+vray_plugins64/vray_BRDFPhong.dll,74,K
+vray_plugins64/vray_BRDFSampled.dll,88,K
+vray_plugins64/vray_BRDFSimbiont.dll,122,K
+vray_plugins64/vray_BRDFSSS.dll,62,K
+vray_plugins64/vray_BRDFSSS2.dll,144,K
+vray_plugins64/vray_BRDFVRayMtl.dll,295,K
+vray_plugins64/vray_CameraDome.dll,47,K
+vray_plugins64/vray_CameraFilmTrans.dll,46.5,K
+vray_plugins64/vray_CameraPhysical.dll,138,K
+vray_plugins64/vray_CameraStereoscopic.dll,211,K
+vray_plugins64/vray_GeomBox.dll,101.5,K
+vray_plugins64/vray_GeomHair.dll,321.5,K
+vray_plugins64/vray_GeomMeshFile.dll,497.5,K
+vray_plugins64/vray_GeomMeshLoader.dll,92,K
+vray_plugins64/vray_GeomMeshLoader1.dll,101.5,K
+vray_plugins64/vray_GeomMeshTest.dll,514.5,K
+vray_plugins64/vray_GeomParticleInstance.dll,258,K
+vray_plugins64/vray_GeomPlane.dll,91,K
+vray_plugins64/vray_GeomStaticDisplacedMesh.dll,370,K
+vray_plugins64/vray_GeomStaticMesh.dll,352.5,K
+vray_plugins64/vray_GeomStaticNurbs.dll,488.5,K
+vray_plugins64/vray_GeomStaticSmoothedMesh.dll,457,K
+vray_plugins64/vray_Instancer.dll,63,K
+vray_plugins64/vray_lenseffects.dll,649,K
+vray_plugins64/vray_LightDirect.dll,93.5,K
+vray_plugins64/vray_LightDome.dll,134.5,K
+vray_plugins64/vray_LightIES.dll,138.5,K
+vray_plugins64/vray_LightMesh.dll,180.5,K
+vray_plugins64/vray_LightOmni.dll,104.5,K
+vray_plugins64/vray_LightRectangle.dll,170.5,K
+vray_plugins64/vray_LightSphere.dll,129,K
+vray_plugins64/vray_LightSpot.dll,116.5,K
+vray_plugins64/vray_MayaLightDirect.dll,84.5,K
+vray_plugins64/vray_Mtl2Sided.dll,60.5,K
+vray_plugins64/vray_MtlBump.dll,64.5,K
+vray_plugins64/vray_MtlDiffuse.dll,63,K
+vray_plugins64/vray_MtlDoubleSided.dll,55,K
+vray_plugins64/vray_MtlGLSL.dll,220.5,K
+vray_plugins64/vray_MtlLayeredBRDF.dll,57.5,K
+vray_plugins64/vray_MtlMaterialID.dll,45,K
+vray_plugins64/vray_MtlMulti.dll,50,K
+vray_plugins64/vray_MtlOverride.dll,56,K
+vray_plugins64/vray_MtlRamp.dll,84,K
+vray_plugins64/vray_MtlRenderStats.dll,49.5,K
+vray_plugins64/vray_MtlRoundEdges.dll,59,K
+vray_plugins64/vray_MtlSingleBRDF.dll,48,K
+vray_plugins64/vray_MtlWrapper.dll,93,K
+vray_plugins64/vray_NewGI.dll,587.5,K
+vray_plugins64/vray_Node.dll,61.5,K
+vray_plugins64/vray_OutputTest.dll,58,K
+vray_plugins64/vray_RenderChannelColor.dll,115.5,K
+vray_plugins64/vray_RenderChannelMultiMatte.dll,73.5,K
+vray_plugins64/vray_RenderView.dll,67,K
+vray_plugins64/vray_RTEngine.dll,587.5,K
+vray_plugins64/vray_Settings.dll,423,K
+vray_plugins64/vray_spherefade.dll,54,K
+vray_plugins64/vray_SphericalHarmonics.dll,134.5,K
+vray_plugins64/vray_sunsky.dll,166,K
+vray_plugins64/vray_TexAColor.dll,47.5,K
+vray_plugins64/vray_TexBitmap.dll,121.5,K
+vray_plugins64/vray_TexBlend.dll,57,K
+vray_plugins64/vray_TexBulge.dll,112,K
+vray_plugins64/vray_TexCellular.dll,134.5,K
+vray_plugins64/vray_TexChecker.dll,121.5,K
+vray_plugins64/vray_TexClamp.dll,54.5,K
+vray_plugins64/vray_TexCloth.dll,117,K
+vray_plugins64/vray_TexCustomBitmap.dll,125.5,K
+vray_plugins64/vray_TexDirt.dll,67,K
+vray_plugins64/vray_texedges.dll,46,K
+vray_plugins64/vray_TexFresnel.dll,48.5,K
+vray_plugins64/vray_TexGranite.dll,122.5,K
+vray_plugins64/vray_TexGrid.dll,116,K
+vray_plugins64/vray_TexICC.dll,288.5,K
+vray_plugins64/vray_TexInvert.dll,49.5,K
+vray_plugins64/vray_TexLayered.dll,107.5,K
+vray_plugins64/vray_TexLeather.dll,122.5,K
+vray_plugins64/vray_TexLut.dll,51,K
+vray_plugins64/vray_TexMarble.dll,118,K
+vray_plugins64/vray_TexMax.dll,563,K
+vray_plugins64/vray_TexMaya.dll,934,K
+vray_plugins64/vray_TexMulti.dll,65,K
+vray_plugins64/vray_TexNoise.dll,122.5,K
+vray_plugins64/vray_texparticle.dll,54.5,K
+vray_plugins64/vray_TexPtex.dll,454.5,K
+vray_plugins64/vray_TexRamp.dll,126,K
+vray_plugins64/vray_TexRemap.dll,76,K
+vray_plugins64/vray_TexRock.dll,117,K
+vray_plugins64/vray_TexSampler.dll,180,K
+vray_plugins64/vray_TexSnow.dll,113,K
+vray_plugins64/vray_TexSoftbox.dll,138,K
+vray_plugins64/vray_TexSwitch.dll,80,K
+vray_plugins64/vray_TexUVW.dll,46.5,K
+vray_plugins64/vray_TexWater.dll,78,K
+vray_plugins64/vray_TexWood.dll,122,K
+vray_plugins64/vray_TexXSI.dll,1.42,M
+vray_plugins64/vray_Toon.dll,58,K
+vray_plugins64/vray_UVWGenChannel.dll,72.5,K
+vray_plugins64/vray_UVWGenEnvironment.dll,64.5,K
+vray_plugins64/vray_UVWGenExplicit.dll,43,K
+vray_plugins64/vray_UVWGenObject.dll,51,K
+vray_plugins64/vray_UVWGenPlanarWorld.dll,64.5,K
+vray_plugins64/vray_UVWGenProjection.dll,104.5,K
+vray_plugins64/vray_VolumeEnvironmentFog.dll,182.5,K
+vray_plugins64/vray_VolumeFog.dll,55,K
+vray_plugins64/vray_VolumeMulti.dll,45.5,K
+SetPATH.cdl,102.5,K
+SetPATH.cdl64,118,K
+vraybridge.cdl,2.09,M
+vraybridge.cdl64,1.36,M
+xf-vray125.exe,72.5,K

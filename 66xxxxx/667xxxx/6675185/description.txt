@@ -1,0 +1,32 @@
+Please seed (share) these programs. Most people (just like me when I started) don't know how to do this. It simply means that when the download is complete, don't press stop or close down your program. Also don't move it from it's destination folder, you can install it from there. It will then be available to anyone who wants to download it from you. Thanks.
+
+
+Elcomsoft Wireless Security Auditor examines the security of your wireless network by attempting to break into the network from outside or inside. Elcomsoft Wireless Security Auditor works completely in off-line, undetectable by the Wi-Fi network being probed, by analyzing a dump of network communications in order to attempt to retrieve the original WPA/WPA2-PSK passwords in plain text.
+
+
+Elcomsoft Wireless Security Auditor allows carrying out a password audit within a limited timeframe. Representing state-of-the-art in password recovery, Elcomsoft Wireless Security Auditor is one of the fastest and most advanced tools for recovering Wi-Fi passwords. If Elcomsoft Wireless Security Auditor fails to recover a Wi-Fi password within a reasonable time, the entire wireless network can be considered secure.
+
+
+After trying out the previous version of this several times without success I emailed Elcomsoft like this -
+
+"I have a ten digit alphanumeric wireless key and EWSA was unable to find it despite numerous attempts. I think it would be good to specify the length of the key and type such as no special characters, etc. It is not a word and has been computer generated."
+
+
+Their reply was -
+
+"In its default mode EWSA uses wordlist attack which is effective agains human-memorizable passwords.
+
+
+If your password is a random 10-digit sequence of alphanumerics then chances of finding such password are slim: the number of such passwords is enormous and it will take months to years to try them all.
+
+
+That said, you still can use EWSA to try to break such passwords. You can do this by using Mask Attack. There you can specify password mask, i.e. for a password of 10 digits you may specify "?d?d?d?d?d?d?d?d?d?d" as a mask and EWSA will try only passwords that are exactly 10 digits."
+
+
+In the version I used (Elcomsoft Wireless Security Auditor 3.0.2.375) mask attacks were not available. But as of now version 4.0.211 is the latest and mask attacks have been included. 
+
+I now use 7-Zip to compress my files as it compresses even better than WinRAR. 7-Zip is public domain (free) and the file is self extracting (just click it).
+
+Please email me with your views and successes (but no abuse coz I didn\'t devise it) -
+
+donkeydick121@live.co.uk

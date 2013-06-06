@@ -1,0 +1,26 @@
+Tiny Core Linux is a very small (10 MB) minimal Linux GUI Desktop. It is based on Linux 2.6 kernel, Busybox, Tiny X, and Fltk. The core runs entirely in ram and boots very quickly. Also offered are Micro Core, a 6 MB image that is the console based engine of Tiny Core, and Multi Core, which includes Tiny Core, Micro Core, networking tools and an installer. Micro Core contains CLI versions of Tiny Core's programs allowing the same functionality of Tiny Core's extensions, only starting with a console based system.
+It is not a complete desktop nor is all hardware completely supported. It represents only the core needed to boot into a very minimal X desktop typically with wired internet access.
+The user has complete control over which applications and/or additional hardware to have supported, be it for a desktop, a netbook, an appliance, or server, selectable by the user by installing additional applications from online repositories, or easily compiling most anything you desire using tools provided.
+
+Welcome Page : http://distro.ibiblio.org/pub/linux/distributions/tinycorelinux/welcome.html
+
+The latest version: 3.8.2
+
+Tiny Core v3.8.2 minor release is now posted at http://distro.ibiblio.org/pub/linux/distributions/tinycorelinux/3.x/release/
+
+Change log:
+Updated busybox 1.19.0: df now correct with an embed boot. ash supports reverse searches.
+Updated init to make embed the default. Use new boot code noembed to not.
+Updated F4 boot message screen to reflect change to noembed boot code.
+Updated multicore:
+   New tcr boot option for ezremaster and tools.
+   New tca boot option to enable all extensions on multicore CD.
+New zsync files posted for iso images.
+
+If you have an older version of the same file, you can use zsync to only download changed parts, e.g.:
+zsync -i /path/to/tinycore_3.8.1.iso http://distro.ibiblio.org/tinycorelinux/3.x/release/tinycore_3.8.2.iso.zsync
+With new default boot to base is ~ 30% faster. See bootchart. 
+
+Forum announcement :
+
+md5sum : c1e51360b120a2e4d5a605903847f108  tinycore_3.8.2.iso

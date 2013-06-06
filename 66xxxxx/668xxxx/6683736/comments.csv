@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,telocity,2011-09-18T10:15Z,"Just woke up from a cold, midnight here.  Saw this torrent and thought ""why not?""  took 10min to download and wow it look amazingly good on my PC at 1920x1080 24""monitor.  only  slight waves and pixilated, but darn theres no sound.   Check settings, tried different players all the same.  LOL forgot I turned off my stero amp for the evening.
+Awesome job!  I ran a 59:28min ""true blood"" download which was 563mb through handbrake with ""normal settings"" and only thing I changed was to push the ""video"" setting slider up to 24.  Took less 15min to compile and ended up with a 226mb file.  data rate dropped from 1143kbps to 353.  audio when up from 140 to 160, should have checked that in settings 96kps is all you really need for most.  visually you only notice degration it in dark parts with lots of action.  Maybe a slight fuzzyness overall.   but I wouldn't mind watching videos at this quality.  Wish more where doing it at smaller sizes, maybe not quite as far as yours.  But it would save a lot of bandwidth."
+,telocity,2011-09-18T11:03Z,"OK, slight update for any interested. 
+1.  k3nd00d video perfectly fine, but I think you might try 60kbps+ on audio.  Good audio really helps and doesn't really take up much space.
+
+2. I reran the ""true blood"" video in handbrake with my own ""high quality"" settings.  Number of changes in the advanced tab, slows processing down.  Took 25min instead of 15min this time.  Also dropped audio to 96kbps mp3, put video quality at 23.5 .   Ended up with a 204mb 378kbps video that I can't really see any difference in from the original.
+
+advanced tab changes are as follows.
+
+Under analysis:
+Adaptive B-frames   ""optimal""
+motion estimation     ""transformed exhaustive""
+trellis                        ""default encoding""
+leave rest as is
+
+Under encoding:
+reference frames   ""5""
+max B-frames       ""5""
+and check mark   ""CABAC entropy"" ""8x8"" and ""p-frames""
+
+Those settings seem to work really well for most videos, but it does take longer to compile.  I am using a AMD am3 6core with 8GB memory in my PC.
+"
+,DeltaPan,2011-09-18T12:21Z,"^^I agree.^^
+
+- - - 
+
+Nice one k3nd00d matey. : )"
+,telocity,2011-09-18T17:22Z,"OK before I went back to bed I put a large 1.4GB HD quality mkv file through handbrake using my ""quality settings""  96kbps mp3 and pushing video slider to 24.5 (higher number on slider smaller the size and quality) 
+
+Now all I can figure out of the original is its 1280x720 25frames/sec and 48khz audio ac3 2channel. None of my video editors will open it so not sure what it uses for codec.
+
+Result from handbrake was a m4v (h.264) file of 583mb 1280x720 1666kbps video 25f/s 96kbps mp3.   video again seems very good, can't quite see the pores on the faces as well, but still quite good.
+
+This tells me the original was using some really high data rates.  It also confirms what I found creating FLV files for websites.  The size of the video 1280x720 in this case contributes to how good it looks on playback.  the Kbps contribute how smoothly it plays back in action sequences. Now the larger the picture the higher the Kbps will  be as each second has more data needed. But as rule of thumb I think keeping picture size larger and dropping the Kbps will end up in better looking picture of smaller size.  If you drop the picture size even if you keep Kbps higher you will still end up with a fuzzy picture when you expand it, though it will look smoother on playback.  Also I found with online videos dropping Kbps is key to ease of playback.  about 400kbps max.
+
+Anyway I'm heading off to work for bit, I will rerun mkv file, but this time force handbrake to limit file size to 200mb.  Will be interesting to see the results."
+,telocity,2011-09-18T23:05Z,"OK final comment I think.  
+
+I'm a little confused.  Ran the file through handbrake set to 200mb final size.
+I did 2   1 at 1280 size and 1 at 720 size.
+Now both came out same size 202mb and both have same data rate of 500Kbps.  But the 720 size one definitely looks better stretched to my monitor size of 1920.  Not sure why, thought it would have a higher data rate as size was smaller.  Perhaps it does in a way.  500kbps x length of film = final size therefore a larger image ends up more pixilated as there is a trade off for motion.  There must be some kind of chart available to determine best image size for a specific file size while maintaining decent motion."

@@ -1,0 +1,45 @@
+ What is Trisquel?
+Trisquel GNU/Linux is a 100% free operating system. It comes with a complete selection of programs that can be easily extended using a graphical installer. There are home, enterprise and educational editions available. 
+http://trisquel.info/en/faq
+
+Trisquel 5.0 Release announcement
+Submitted by Trisquel on 17 September, 2011 - 01:11
+
+In what we can now call it a tradition, we celebrate the Software Freedom Day by publishing our latest release: Trisquel GNU/Linux 5.0 STS, codename Dagda.
+Today we publish both the standard GNOME based, and the lightweight, LXDE based Trisquel Mini editions. Current Trisquel 4.5 users can upgrade using the update-manager application, without the need for reinstallation. Advanced installations -server, RAID/LVM, encrypted, etc- can be done using the netinstall images. Two more editions, one based on KDE and other using the educational environment Sugar are on the way.
+
+The standard edition includes, among many others, the following packages:
+ Linux-libre 2.6.38
+ GNOME 2.6.32
+ LibreOffice 3.3.3
+ Abrowser (our unbranded Mozilla based web browser) 6.0.2
+We would like to thank the FSF, and their campaigns intern Jonathan Nadeau for helping us improve this release\'s accessibility support. Among other changes, our international DVD boots now with a screen reader on by default, allowing blind users to run or even install the system without assistance. This change will also be applied to the system loaded in the FSF membership cards. 
+http://trisquel.info/en/trisquel-50-release-announcement
+
+Trisquel
+ CD iso image
+ GNOME desktop
+ English and Spanish translations preinstalled1
+
+Trisquel i18n
+ DVD iso image
+ GNOME desktop
+ Accessibility improved for visually impaired users
+ 50 language translations preinstalled2
+
+Trisquel Mini
+ CD iso image
+ LXDE desktop
+ English and Spanish translations preinstalled1
+
+NetInstall
+ CD iso image
+ Text based network installer
+
+ 
+http://trisquel.info/en (es,gl,fr,de available) 
+http://trisquel.info/en/donate
+
+MD5: http://cdimage.trisquel.info/trisquel-images/md5sum.txt
+
+Original tracker : http://trisquel.info:6969/announce

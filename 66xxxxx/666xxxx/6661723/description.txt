@@ -1,0 +1,14 @@
+Salix is a linux distribution based on Slackware that is simple, fast and easy to use. Salix is also fully backwards compatible with Slackware, so Slackware users can benefit from Salix repositories, which they can use as an 'extra' quality source of software for their favorite distribution. Like a bonsai, Salix is small, light and the product of infinite care.  
+http://www.salixos.org/wiki/index.php?title=Home&redirect=no
+
+Salix Ratpoison 13.37RC1
+
+Postby gapan  8. Sep 2011, 23:29
+So, here is Salix Ratpoison 13.37RC1. This time a 64bit image is included along with the 32bit image. I thought that since all the work was being done in both 32bit and 64bit repositories, it would be a waste not to have a 64bit iso. It's not much trouble creating one either since all the pieces are already in place.
+There have been several changes since the beta release. This time both Gslapt and Sourcery are included, since both are fully usable with only the keyboard now. Included in this release is also GMountMan, a local mountpoint manager written from scratch for this release. It's built using GTK+2 and it has been designed from the beginning with keyboard navigation and usage in mind, although it can be also used just as easily with a mouse. Using GMountMan, you don't have to revert to the terminal and mount plugged devices manually any more. Another important change is that Apvlv replaced Zathura as the default PDF viewer. Apvlv also supports djvu documents and it has a few more features, while still using vim-like keybindings for almost everything. 
+http://www.salixos.org/forum/viewtopic.php?t=2698&p=16957#p16957
+ 
+http://en.wikipedia.org/wiki/Ratpoison
+
+sha1sum : 5858e1c9ab0450441903861069e3b2d8fbc282a3  salix64-ratpoison-13.37RC1.iso
+md5sum : 9ae03e8fa2fff5bb8191c853b98fc2cd  salix64-ratpoison-13.37RC1.iso

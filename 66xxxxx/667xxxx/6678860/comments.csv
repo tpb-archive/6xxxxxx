@@ -1,0 +1,67 @@
+User Type,Username,Date,Text
+,grabberone,2011-09-15T22:15Z,hmm keygen for v1.2.5 :
+,grabberone,2011-09-15T22:25Z,"VRAY for C4D 1.2.6 R13 MAC+WIN | 53 MB
+Yet another VRAYforC4D update is going public, still free as usual to all users. this update is the first in a row from one 2011 development branch we work on, namely 1.2.6, 1.3 an 1.5. (1.3 is 1.2.6 + multipass, 1.5 is 1.2.6 + DR)
+1.2.6 is on first sight more an â€œunder the hood updateâ€, most important including the final 2.0 vray core, but also we decided to make a deep code cleanup which was needed after all the many changes in c4d and also vray last year. of course it incorporates many fixes of reported things.
+even tough it might not be visible on first sight the new bridge core changes a lot. may favorite the transition to native â€œvrsceneâ€ compatibility has been made too. the base for many cool features in the future.
+another good news is that 1.26 is already made compatible for Cinema4d version 13. so when it comes out you will be ready to use it with v13 from start- as promised.
+very new are also new â€œpoint and shootâ€ GI presets for still and also animation, for those who donâ€™t want to touch any GI setting, just choose and use an preset and render:-)
+please note also that this version had to drop the problematic 10.5 support, the third party code of the c4d sdk made it not possible to include the new features and 2.0 code reliable in there. the 1.2.6 version works from 11.0, 11.5, 12.0 and 13.0+
+it brings of course also new features, most important the main â€œtheme â€ of this update: â€œnew Proxy2â€³, GI multiplier per object etc.
+here the official â€œwhats new list and textâ€:
+Whats New:
+1) Vray 2.0 core, code cleanup, updates: 1.2.6 is the code basis for 1.3 and 1.5. For version 1.2.6 we did a deep code clean up and many fixes to reported things, which was a needed step due to the many changes to the c4d core and also V-Ray core in last years. It is the first version that features the final V-Ray 2.0 sdk core inside, which brings even more speed and enhancements in many parts of the engine. And also the complete rewrite of the V-Ray integration is now finished to be fully .vrscene compatible, which is a big and important step for many future features and it finally overcomes some older limitations.
+2) The main new feature is â€œPROXY 2â€³: our totally new incarnation of the proxy support and work flow. Much
+easier to use, even faster and less ram, support for selection tags, perfect smoothing, support for Netrender and â€“ last not least â€“ full animation! You simple use and normal c4d instance or mograph cloner or any plugin that supports the feature â€œrender instanceâ€ and vray will automatically generate real V-Ray proxies of it. It does this in direct passing the data to the V-ray core without the need of local disk files (disk I/O is slow), hereby through a special process it doesnâ€™t take more ram as the old proxies but in fact even less. so you can scatter even more and faster. The new Proxy 2 feature does in fact change the way one works with in c4d and V-Ray, it combines easy of use of C4D with the speed and power of V-ray. You can scatter now even more and faster, just proxy any thing that repeats in a scene now in few clicks, with an unbeaten work flow and speed.
+3) Vray Fast Fur/Hair generator Engine: This new feature is in the plugins menu of V-ray. it enables easy and fast geometry generation of fibers, grass, fur and hair. As V-Ray likes many polygons it can render this at unbeaten speed and therefore integrated. In additions it can be also used to be scattered with new proxy2 feature to generated fields of grass p.e. Fast Fur fibers can be also animated, combed or moving according to wind generators. Users of C4D versions without MAXON hair therefore now also are able to generate fur and hairs. But also for users of Maxon hair will benefits as it is easy and fast to use and render, perfect for grass or fur like hair. (the Vray Fast Fur is based on Renato Tarabellas well known Fast Fur tools)
+please note the fast fur tools are only in 11.5,12 and13 version due to c4d sdk limitations in 11.
+4) small but beautiful: GI multiplier per object"
+,grabberone,2011-09-15T22:25Z,"Yet another VRAYforC4D update is going public, still free as usual to all users. this update is the first in a row from one 2011 development branch we work on, namely 1.2.6, 1.3 an 1.5. (1.3 is 1.2.6 + multipass, 1.5 is 1.2.6 + DR)"
+,grabberone,2011-09-15T22:26Z,omg :D slowly posts :D  btw I am tested Vray on Cinema 4D R13 ...Work's ..
+,silvrmane,2011-10-07T23:29Z,so... any clue on how to install this on my Mac version of C4D?
+,miontrius,2011-11-10T22:23Z,"How do I install Vray? You got a ""README"" File anywhere? It would help me much if you had! "
+,u4it,2012-01-27T07:39Z,"ok 2 1: things u have no way of having us install it ive checked everying like 5 times, and 2: it looks like you just copied the files from you PC (which wont work if you have like win 7. since win vista cant read it and this hole thing it just confusing you need instructions. 
+and if you can can you just do one of the CD or something or have a good readme or something. 
+THANK YOU!! (srry it i sound a lil rude or anything.)"
+,decepticon_leaderz,2012-01-31T17:36Z,"@miontrius: Copy the downloaded folder to Cinema 4D/Plugins directory, use the keygen. Select Desktop, when asks for target folder. Copy VrayBridge.key from desktop to Cinema 4D main directory."
+,redot,2012-02-12T12:51Z,Has anyone got this working yet? can you tell me how to install please.
+,helix010101,2012-03-11T09:00Z,"1. Create a VRayBridge folder in C:Program FilesMAXONCINEMA 4D R13plugins
+
+
+2. copy into the new VRayBridge folder:
+                                          res folder
+                                          Settings folder
+                                          Vray_plugins32 folder (or 64bit ver)
+                                          SetPath.cdl file
+                                          vraybridge.cdl file
+
+3. Copy all the contents Lib folder into C:Program FilesMAXONCINEMA 4D R13 
+
+
+
+4. open C4d goto Help > Personalise and copy the serial for Cinema 4D and paste it      into the keygen (11 numbers)
+
+5. The keygen  generates the VrayBridge.key file copy this into C:Program FilesMAXONCINEMA 4D R13
+
+Enjoy!!"
+,helix010101,2012-03-11T17:33Z,"1. Create a VRayBridge folder in C:Program Files MAXON CINEMA 4D R13 plugins
+
+
+2. copy into the new VRayBridge folder:
+res folder
+Settings folder
+Vray_plugins32 folder (or 64bit ver)
+SetPath.cdl file
+vraybridge.cdl file
+
+3. Copy all the contents Lib folder into C:Program Files MAXON CINEMA 4D R13 
+
+
+
+4. open C4d goto Help > Personalise and copy the serial for Cinema 4D and paste it into the keygen (11 numbers)
+
+5. The keygen generates the VrayBridge.key file copy this into C:Program Files MAXON CINEMA 4D R13
+
+Enjoy!!"
+,rafc_dude,2012-03-26T17:09Z,Is it possible that the KEYGEN doen'st open? I'm on a mac! plz help!
+,rabhishek,2012-06-08T21:12Z,Excellent.. It worked wonders.. Thank u

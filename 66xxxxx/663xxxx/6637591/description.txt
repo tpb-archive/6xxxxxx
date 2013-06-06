@@ -1,0 +1,8 @@
+Wary Puppy is intended to be our on-going commitment to older hardware. Puppies built with recent Linux kernel and X.org may not work properly on older computers. In particular, some analog dialup modem drivers cannot be compiled with recent kernels. Another major area is old video hardware not working with latest X.org drivers. Many of our leading-edge puppies are built with recent kernel and X.org, however Wary is built with an 'old' kernel and X.org 7.3 so as to provide better drivers for the older hardware. However, Wary is in all other respects at the leading-edge like the other puppies, with recent applications, and support for all modern peripherals (printers, scanners, cameras, digital modems, etc.). Wary is also built with the latest Woof, so has the same infrastructure as other recent puppies.
+The packages used to build Wary were originally compiled from source in T2, then binary PET packages created. Wary is now built with PET packages, with a small but growing repository. As Wary is intended to be a long-term-supported project, there will be no major upgrade, only incremental improvements such as application upgrades and bug fixes. Thus, the PET repository will remain viable for years ahead and will continue to grow as developers contribute packages. 
+http://distro.ibiblio.org/quirky/wary-5.1.4/release-Wary-5.1.4.htm
+ 
+http://bkhome.org/wary/ 
+http://bkhome.org/blog/?viewCat=Wary
+
+md5sum : a9ae137990ea197f78bff40559937a23  wary-5.1.4.iso

@@ -1,0 +1,58 @@
+
+Ableton Suite v8.2.5 MAC OSX INTEL
+
+Ableton Suite is a complete software studio. Suite 8 gives you all of the features in Live 8 plus sound, with a radically new Library packed with beautiful new sounds and a wealth of useful resources. Suite 8 contains 11 Ableton instruments and effects including synths, a sampler, electric and acoustic drums, mallets, numerous sampled instruments, the new, reworked Operator and amp modeling effects. Two completely new instruments, Collision and Latin Percussion, round off the set. Ableton Suite 8 is a complete package: the tools and the sounds.
+
+Key features
+Multitrack recording up to 32-bit/192 kHz
+Nondestructive editing with unlimited undo
+Powerful MIDI sequencing of software and hardware instruments
+Advanced warping and real-time time-stretching
+Library with over 1600 expressive sounds, each with versatile control options
+A comprehensive selection of built-in audio and MIDI effects
+A wide range of software instruments
+Instrument Racks for simple management of complex instrument setups
+Drum Racks for intuitive and responsive beat-making
+Effect Racks for professional-grade mastering, mixing and creative sound processing
+New groove engine; apply and extract grooves in real time
+Construction kits containing loops and phrases in a number of styles
+Sound Objects Lite, from SonArte: a toolkit of real world object recordings
+440 MB of abstract, experimental loops from renowned music software pioneers Cycling '74 *
+Over 400 loops and samples from Zero-G *
+1000s of single-device presets: simple components for making new sounds and exploring synthesis
+Song templates with pre-configured tracks and routing
+Supports AIFF, WAV, MP3, Ogg Vorbis and FLAC files
+VST and AU support; automatic plug-in delay compensation
+REX file support plus built-in audio to MIDI slicing
+Video import and export for scoring, video warping
+Simple MIDI mapping plus instant mapping for selected hardware
+Full ReWire support; runs as Slave or Master
+Multicore and multiprocessor support
+Support for The Bridge, Ableton's collaboration with Serato
+
+Bugfixes
+Live would freeze and crash on OS X Lion when sending MIDI data to any MIDI port.
+Under certain conditions, quantizing transient markers could lead to overlapping warp markers, which would cause various problems when editing the warp marker or its segment BPM value.
+Under certain conditions, the "Transient"-based Beats warp mode would play double attacks. With this bug fixed, it is possible that some clips sound different.
+Excluding a plug-in from the scan process didn't work if Live crashed because of the first scanned plug-in, after enabling the VST plug-in source via Live's Preferences (Mac only).
+Rendering a Live Set containing an EQ3 at sample rates below 44.1 KHz would result in an audio file containing pure silence.
+Fixed a crash when loading a Live 7 Set with invalid clip color information in Live 8.
+Detail view appeared empty after Hot-Swapping an unfolded Rack, because devices were scrolled out of view.
+Infinitely long clips would be created if rewinding the global transport while making a new recording.
+Track names could be incorrectly displayed when unfolding a Live set in the Live Browser. This only happened for "automatic names" that tracks get from the Instrument they contain. For Live Sets saved in earlier versions, names of tracks containing Racks, Max for Live devices or third-party plugins may still look wrong. Re-saving the Sets will fix the problem.
+Some Operator presets could sound different when loading them, and then creating or moving a track.
+The Frontier Design Tranzport was not getting updated when switching tracks.
+The green zoom button was sometimes disabled when using Live with Mac OS X.
+Resuming a clip in Session view while the track is armed but OVR is OFF could result in the clip not playing its notes.
+Toggling OVR ON and OFF doesn't create an UNDO step anymore
+Certain Library content wasn't usable for Live Intro users since version 8.2.
+Enabling a clip loop via the loop switch or the Set Loop Length button would sometimes stop the clip.
+Fixed a crash which could occur when hot-swapping a certain Drum Rack pad.
+Eleven additional crashes were also fixed.
+
+Install:  
+        open ableton_suite_825_program_only.dmg
+          drag live-folder to Applications
+        if needed drag and drop Authorize821.auz onto registration-window
+
+enjoy and consider buying it

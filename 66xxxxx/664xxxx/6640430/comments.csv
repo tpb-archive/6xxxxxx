@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,ml1963,2011-08-30T20:59Z,Sound on this is out of sync.  Anyone know of a copy with correct sound.
+,FanPIX,2011-08-31T10:05Z,"@ml1963: suggest:
+http://thepiratebay.org/torrent/6410574/Jason_X_%282001%29_DVDrip_H264_AC3_5.1_V3nDetta__PURE_RG_"
+,ro4eva,2011-09-03T23:10Z,"One way you can fix the sound issues (assuming you're running a PC with WinXP/Vista/7):
+
+Software Required:
+
+AVIDemux 2.5.4 or newer - http://avidemux.sourceforge.net/
+MKVToolnix (MKVMergeGUI) 4.5.0 or newer - http://www.bunkus.org/videotools/mkvtoolnix/
+
+1) Run AVIDemux to convert the file container to MKV - Open the AVI file, then click on ""No"" when the pop up dialog box appears.  Afterwards, at the bottom left of the main window where it says ""Format"" there's a clickable drop-down menu.  Click on it and choose ""MKV"" (second from the bottom).  Now go to ""File->Save->Save Video..."" - write a filename including the .mkv extension and save it wherever.  Wait a minute for it to finish and exit AVIDemux.
+
+2) Run MKVMergeGUI to sync the AC3 audio - Open your newly muxed MKV file by clicking the ""add"" button (top right).  Once you've opened the file, click on the AC3 (Audio) stream in the ""Tracks, chapters and tags:"" textbox, then click on the ""Format specific options"" tab below.  In the ""Delay (in ms):"" textbox, type ""100"" without the quotes.  ALSO, in the ""Stretch by:"" textbox, type ""10001/10000"" without the quotes.  Now click on the ""Start muxing"" button at the bottom of the main window and wait a minute for your properly synced MKV file to mux.  Once it's finished, you can find the file in the same folder/directory as the source file and it'll be named the same as your source file with the exception that it'll have a "" (1)"" written in the filename as well.  Tap your heels 3 times and play the video."

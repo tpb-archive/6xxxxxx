@@ -1,0 +1,401 @@
+For courses in Software Engineering and Software Reliability. Successful Software Development takes a systematic approach to consistently successful software development. It proceeds from the fact that there is no one way to develop software systems and introduces a model for a mature software development process that accommodates flexibility, the Systems Engineering Environment (SEE). This model comprises two fundamental, interlocked elements: the policies and procedures that define how software development is performed and the technologies available to get the job done.
+From the Inside Flap
+PrefaceWe must not promise what we ought not, lest we be called on to perform what we cannot.â€”Attributed to Abraham Lincoln, speech delivered before the first Republican convention of Illinois, May 29, 1856, The Writings of Abraham Lincoln, ed. Arthur B. Lapsley, vol. 2, p. 249 (1905).
+
+Successful Software Development means "the ability to produce 'good' software systems 'consistently'"
+
+Customers want software systems to do what they are supposed to do, to be delivered on time, to be delivered for the agreed-upon cost, and to satisfy any other criteria they may specify. Sellers want the systems they develop to do what the customer wants, to be delivered ahead of schedule or on time, to earn them a reasonable profit, and to satisfy any other criteria that may govern the way they do business. Software systems satisfying both customer and seller criteria are "good." Customers and sellers also want their criteria satisfied "consistently." The software development business should not be a lottery.
+
+This book is a practitioner's guide for achieving successful software development.
+
+Making It Happen means "implementing a 'way' of successful software development"
+
+There is no one "way" to develop software systems. If there were, software systems development would have been reduced to an assembly-line process long ago. People with diverse experiences and educational disciplines contribute to advances in software development methodologies, processes, techniques, practices, and tools. This rich diversity brings about different "ways" to develop "good" software systems "consistently."
+
+This book is a practitioner's guide for making successful software development happen in a way that makes sense for your environment.Who Should Read This Book?
+
+The software development business is centered on a relationship between a customer and a seller of software products and services. So, this book is for both software customers and software sellers. More specifically, the intended audience is anyone who performs one or more of the following activities:
+
+Develops software products and software-related products
+
+Directly manages people who do the above
+
+Manages the above managers
+
+Buys/uses products from the above
+
+Educates the people above
+
+Individuals have used the first edition of this book to complement their particular expertise. Customers have used this book to refine their business dealings with sellers. Sellers have used this book to establish or refine their "way" of developing software systems for their customers. Sellers have also used the book to provide in-house training to their marketing personnel so the marketers better understand what their businesses are selling. Customers and sellers have used the book to train their human resource personnel so they better understand what skill sets are needed for the software development business. Universities have used the book in graduate schools to teach how to be successful in the software development business.
+
+For the software customer, we explain and illustrate mechanisms to effectively communicate to the software seller (1) what you want, (2) when you want it, and (3) how much you want to pay for it.
+
+For the software seller, we explain and illustrate the mechanisms to effectively communicate (1) to your customer your understanding of what the customer wants and (2) among your project team members how you are going to give the customer what the customer wants.
+
+For the educator, we provide supplemental training materials for the classroom. This material is packaged in a separately available study guide that consists of the following items:
+
+Over 500 pages that recast the book's contents as presentation material. This material is organized by chapter and lays out the material in the order that it appears in the chapter. Most of the book's figures, or adaptations of these figures, appear in this material.
+
+Sample questions for homework assignments.
+
+Sample class project.
+
+Sample course syllabus.
+
+Educators can use the above material in conjunction with the companion Web site at phptr/donaldson_siegel/ to develop courses based on the book's material. These courses can be part of a corporate training program or a college or university curriculum. The study guide material is adapted from our teaching experience in both of these environments.
+
+Regarding the presentation material in the study guide, we note that students can use this material without an instructor as a companion to the book. Example uses of this material as a companion to the book include:
+
+Before reading a chapter or part of a chapter from the book, the student can go to the corresponding study guide pages to get a quick look at the chapter or chapter part.
+
+While reading a chapter or chapter part, the student can, in parallel, look at the corresponding study guide pages. Sometimes a different look at the same material can facilitate learning.
+
+After reading a chapter or chapter part, the student can go to the corresponding study guide pages for review purposes and quickly recall key points, concepts, and book illustrations.How Is This Software Development Book Different from Other Such Books?
+
+Lots of things go into making successful software development happen. Among the important things, effective communication, risk reduction, and an organizational "way" of successful software development stand out and are threaded throughout this book.
+
+Effective communication means "transmitting information, thought, or feeling so that it is satisfactorily received or understood emphasis added."1 At the risk of oversimplification, people understand the mechanics of creating software code, but both the customer and seller have trouble understanding each other. Customers have said, "We thought we told the developers what we thought we wanted, but what they delivered is not what we wanted." Sellers have said, "We thought we understood what the customer was trying to tell us, but come to find out, what we delivered is not what the customer wanted." Therefore, for us, Successful software development is first and foremost an ongoing exercise in effective communication between the customer and the seller throughout a software project.
+
+Risk reduction means "reducing the likelihood that software systems development products will (1) not be delivered on time, (2) not be delivered within budget, and (3) not do what the seller and customer mutually agreed that the products are supposed to do."
+
+Simply stated, people understand there are risks with creating software code. However, many people do not assess risk, allocate appropriate resources to mitigate risk, monitor risk, and decide how to deal with risk. Customers have said, "We don't have documented requirements, but we expect the system to do what it is supposed to do." In response to such customer requests, sellers have said, "No problem! The software should do what you want and we will deliver it on time." Therefore, for us,Successful software development is also an ongoing exercise in risk reduction.
+
+An organizational "way" of successful software development means "a set of processes that an organization uses to develop and maintain software and software-related products." We proceed from the premise that, as we said earlier, there is no one way to build software systems. Again, at the risk of oversimplification, customers have said, "We don't have time to stop and plan the work to be done, just get started coding." Sellers have said, "We know what the users need, so let's get started." Therefore, for us, A "way" of developing software systems consists of processes that (1) promote effective communication throughout software systems development and (2) continually reduce risk.
+
+We present processes based on fundamental engineering and process principles that include (1) project planning, (2) change control, and (3) product and process reviews. We present a language-based measurement technology2 for evaluating software processes and the products they yield. We explain how to use such measurements to improve your processes and products. We explain how to plan process improvement to help bring about improvement in the way you develop software systems. We explain why the ideas presented work, give you suggestions on how you can make them work, and offer insights into what may not work.
+
+An organizational "way" of doing business needs to incorporate such things as the lessons learned from people's experiences and previous software development projects. If the organizational "way" includes such experiences and lessons learned, known and/or anticipated risks are reduced, but not necessarily eliminated. Also, effective customer/seller communication reduces misunderstandings, thereby reducing the risk that a software product will not satisfy its criteria.
+
+This book, therefore, presents you with techniques for effectively communicating and reducing risk. We explain and illustrate fundamental engineering and process principles for you to consider when Making It Happen in your environment.
+
+We stress that these techniques have been successfully implemented on real-world software systems development projects and programs. The size of these projects and programs ranges from tens of thousands of dollars to hundreds of millions of dollars.How Is the Book Organized?
+
+The chapters address the following topics:
+
+Chapter 1 The first chapter presents the business case for setting up a "consistent" way of doing software systems development. The chapter also presents some fundamental concepts and terms used throughout the book. These terms and concepts establish a working vocabulary to facilitate effective communication.
+
+Chapter 2 The second chapter presents techniques for project planning and reducing risks. Many organizations develop project plans and then start working. For us, planning is just one part of an organization's "way" of developing software systems.
+
+Chapter 3 The third chapter presents an organizational "way" (or process) for developing software systemsâ€”an organizational software systems development process. In effect, this "way" of doing business helps to set the stage for the rest of the book. There are many "best practices" for software development. The question is, "How do these practices interface with one another?" The organizational "way" presented consists of a set of related processes that embody fundamental engineering and process principles that specifically address effective communication and risk reduction. The organizational "way" presented contains a project planning process, a change control process, product and process review processes, and a measurement process. We define and explain roles, responsibilities, activities, and communication linkages. We present this "way" of developing software systems for your consideration when defining your way of doing business. We stated above a key principle regarding software developmentâ€”successful software development is an ongoing exercise in risk reduction. In the third chapter, when we present a "way" for developing software systems for your consideration, we stress the following corollary to this key principle:
+
+If you decide under certain particular circumstances that it may make better sense not to follow your organizational way of doing business, then you should keep in mind that you might be increasing software systems development risk.
+
+Chapter 4 No matter how well a project is planned, it is almost axiomatic that things will change once the project gets underway. Therefore, the fourth chapter presents the fundamental process of change control. This chapter also addresses the communications problems that plague any software systems development project. Sometimes the customer believes that the requirements were effectively communicated to the developer. Sometimes the developer believes the customer requirements were understood. Subsequent to developer implementation of the requirements, the customer and developer may have vastly different perspectives regarding requirements satisfaction. This chapter offers guidance for reducing the likelihood of such disconnects arising in your environment.
+
+Chapter 5 For us, "consistent" software development involves the systems disciplines of management, development, and product assurance. The fifth chapter presents product and process reviews from the perspectives of these three systems development disciplines. This chapter focuses on how reviews help customers and/or sellers gain visibility into project progress and risk so that intelligent, informed decisions can be made with respect to what needs to be done next.
+
+Chapter 6 Measurement for the sake of measurement is a waste of time and resources. The sixth chapter presents practical guidance on how to express meaningful measurement in everyday language that the intended audiences agree to and understand. Meaningful measurement contributes to (1) successful software systems development projects and (2) improvements in the "way" software systems are developed.
+
+Chapter 7 Pressures such as competition generally push organizations to continue to improve their skill sets, processes, and products. The seventh chapter addresses people issues associated with maturing the organization's "way" of doing business. Getting software systems development processes on paper to document this "way" is a challenge. However, getting people in the organization to help build this "way" and then follow it is an even more imposing challenge. We present ideas for how to deal with this challenge.
+
+Chapter 8 Finally, the eighth chapter presents guidance for planning improvements to your "way" of developing software systems. This chapter helps you select concepts from the preceding chapters to develop a process improvement approach. We discuss how to factor lessons learned from following your "way" of doing business or from not following your "way" into improvement activities. Also, we present other candidate practices for your consideration for improving your "way" of developing software systems.
+
+Table P-1 highlights in more specific terms what you will learn from each chapter. Table P-1 Chapter Highlights.
+
+Chapter Title and Purpose What You Will Learn
+
+1 Business Caseâ€”(1) makes the business case for setting up a "consistent" way of doing software systems development and (2) introduces fundamental concepts needed for the rest of the book.
+
+What successful software development means.
+
+Why investing in software process improvement to achieve consistently "good" products makes good business sense.
+
+Business way refinement/transformation is first and foremost a cultural change exercise.
+
+Successful software development must be a customer/seller partnership, where the "seller" is the software systems development enterprise and the "customer" is the buyer/user of what the seller provides.
+
+The ideas in the book are scalableâ€”they apply to customer/seller partnerships of almost any size.
+
+The ideas in this book encompass customer/seller partnerships in any business environment (e.g., commercial, government).
+
+Why the software development business does not have to be a lottery.
+
+Why successful software development is not inextricably tied to individual heroics to get the job done.
+
+Why there is no one way to build software systems and how this viewpoint influences the way to achieve successful software development.
+
+Why prescriptively applying an organization's business way makes good business sense.
+
+What "prescriptive application of an organization's business way" means and why prescriptive application holds the key to institutionalizing the business way.
+
+Definitions of key terms needed for the rest of the book (e.g., software, software process, software process capability, software process maturity, prescriptive application, product and process "goodness," software process improvement, life cycle, culture).
+
+The role of organizational commitment in making successful software development happen.
+
+Effective customer/seller communication is a key element of successful software development.
+
+A key mechanism for effecting good customer/seller communication is the change control board (CCB).
+
+People are the most important success factorâ€”not automated tools.
+
+Requisite software systems development disciplines for achieving successâ€”management, development, product assurance.
+
+Obstacles to effecting cultural change.
+
+Making software development success happen extends far beyond (1) management edicts, (2) assembling a team of experienced and good people, and (3) a five-minute conversation with a customer and a three-week coding frenzy.
+
+Alternative approaches to refining/transforming an organization's business way.
+
+A systems engineering environment (SEE) provides a means for making successful software development happenâ€”whether systems are developed sequentially or in parallel.
+
+The SEE consists of a process component (application development process environment ADPE) and a technology component (ADTE).
+
+2Project Planning Processâ€”provides practical guidance for effectively planning software systems development work.
+
+The project plan is a living contract that binds the customer/seller partnership by setting forth the work that the seller's management, development, and product assurance disciplines accomplish and the customer's management approves.
+
+Life cycle's role in project planning.
+
+Planning is an ongoing negotiation between the buyer/user and seller.
+
+How to account for the interaction among the requisite disciplinesâ€”management, development, and product assuranceâ€”throughout the project life cycle.
+
+How to plan for change.
+
+Contrasting views of work accomplishmentâ€”ideal, real, and realisticâ€”and their impact on project planning.
+
+How to construct a simple, but powerful, risk assessment approach for project planning use.
+
+How to incorporate risk reduction explicitly into a project plan budget.
+
+How to construct a risk-reduced project plan.
+
+How to develop an ADPE element defining an organization's project planning process.
+
+3 Software Systems Development Processâ€”(1) defines principles for putting together an organizationwide software systems development process (SOW), where the SOW is a customer vehicle framework that fosters success and (2) illustrates these principles by defining a top-level process that you can use as a starting point for defining a software development business way for your environment.
+
+Contractual agreements that can arise in the software systems development business.
+
+How to write a "good" statement of work for communicating to the seller what he/she wants.
+
+How the seller can constitute a project team and define associated responsibilities to accomplish project plan work.
+
+How the customer can effectively interact with the seller project team.
+
+How the seller can define a software systems development process that (1) explicitly includes the customer throughout the process and (2) can incorporate any product development life cycle.
+
+How to plug the seller organization and the customer organization(s) into the software systems development process so that both sides know how business is to be transacted.
+
+More about "prescriptive application" of the software systems development process.
+
+How to address process issues in those environments where numerous software systems development projects are unfolding more or less in parallel.
+
+How does a life cycle plug into the software systems development process.
+
+How level of detail and organizational scope are two major considerations in defining an organizational software systems development process.
+
+How the software systems development process can plug into a systems development process.
+
+How to design a form that helps track a product as it winds its way through the software systems development process.
+
+What are the responsibilities of the customer and the seller after the seller delivers the product to the customer.
+
+How to develop an ADPE element defining an organization's software systems development process.
+
+Why this element is a good place to begin setting up an ADPE.
+
+4 Change Control Processâ€”defines change control board (CCB) mechanics and provides practical guidance for setting up CCBs for your software projects.
+
+Why miscommunication can plague any software systems development project.
+
+How the customer and seller can have dramatically different views of the state of a product and what to do to reduce the likelihood of such different views arising.
+
+How to manage unplanned change as well as planned change.
+
+Why management of all change is crucial to achieving successful software systems development.
+
+How the need for managing all change mandates a CCB concept that extends far beyond the traditional configuration management control board concept.
+
+Change control mechanics of the software systems development process.
+
+How to establish seller and customer accountability through the CCB.
+
+The three scenarios governing all of change control:
+
+Do we want something new or different?
+
+Is something wrong?
+
+Should we baseline the product?
+
+CCB mechanics (e.g., what to record at CCB meetings, CCB role in traversing a project life cycle, who should be the CCB chairperson, what should be the CCB voting mechanism, what is contained in a CCB charter, how is a CCB meeting conducted, how frequently should the CCB meet).
+
+The information requirements for CCB minutes.
+
+How to write CCB minutes.
+
+When are CCB hierarchies appropriate and how they should be set up.
+
+How to design change control forms that make sense for an organizational way of doing business.
+
+How to develop an ADPE element defining the workings of CCBs in a software systems development process.
+
+5 Product and Process Reviewsâ€”describes the basic processes associated with the various reviews called out in Chapter 3 as a means for reducing software systems development risk and thereby achieving success.
+
+Principles pertaining to the purpose of reviews.
+
+How to resolve key issues regarding the review process involving peers.
+
+The mechanics of document reviews and acceptance testing that an independent product assurance organization conducts.
+
+How to make software requirements testable so that the software systems development process can be brought to a successful conclusion.
+
+What a software audit is and its relationship to reviews.
+
+The key role that acceptance testing plays in harmonizing seller and customer understanding of what the delivered software system and supporting databases are to contain.
+
+Senior management visibility needs and how reviews can help meet these needs.
+
+How technical editing can be incorporated into the software systems development process to help prevent compromising good engineering work.
+
+Technical editing suggestions that can be used as a starting point for constructing an organizational technical editing guide.
+
+How to develop ADPE elements addressing (1) independent product assurance, (2) peer reviews, and (3) the acceptance testing cycle.
+
+6 Measurementâ€”provides practical guidance for measuring product "goodness" and the "goodness" of the software systems development process that produced the products. The focus is on how to use measurement to achieve consistent product and process "goodness."
+
+Knowing when it makes sense to try to improve the software systems development process.
+
+How to avoid "measurement for the sake of measurement" activities.
+
+How to use an easy-to-learn and easy-to-apply measurement technique, called Object Measurement, that you can use to measure almost anything, including product and process "goodness."
+
+How to establish benchmarks to give meaning to product and process measurements.
+
+How to measure customer satisfaction.
+
+How to quantify the concept of product integrity as a means for assessing software product "goodness."
+
+How to extend the quantified product integrity concept to the software systems development process domain to assess process "goodness."
+
+How to use the product "goodness" metric to track product evolution through the software systems development process to head off product development problems.
+
+How to set up value scales for measuring product and process "goodness" in any environment.
+
+How to measure the "goodness" of the process described in Chapter 3.
+
+How to apply Object Measurement to alternative software business improvement approaches, such as those developed by the Software Engineering Institute.
+
+How to develop other product and process metrics in addition to those developed using Object Measurement.
+
+How to integrate measurement into the software systems development process.
+
+How to couple product and process measurements to facilitate improvements in the way software systems are developed.
+
+How to develop an ADPE element to (1) quantify where an organization is productwise and processwise, (2) quantify differences from this baseline assessment, (3) establish quantitative product and process goals, (4) quantify progress toward achieving these goals, and (5) define the approach for incorporating process and product improvements based on the measurement activity.
+
+7 Cultural Changeâ€”addresses human issues bearing on bringing about organizationwide cultural change during implementation of your systems engineering environment (SEE).
+
+How to anticipate and manage the cultural changes that go hand in hand with any program designed to refine or alter the software systems development process through the establishment of an SEE.
+
+The role in bringing about cultural change of the organization responsible for writing the ADPE elements and seeing to it that they are implemented and continually improved.
+
+How to deal with the challenges to ADPE implementation arising from the seller project-level individuals who will have to adapt to the ADPE practices that govern their work.
+
+How to deal with the challenges to ADPE implementation arising from those customer individuals responsible for giving direction to seller project managers for accomplishing project work.
+
+The impact on customer senior management that ADPE implementation brings about.
+
+The key role that seller senior management plays in effecting software systems development cultural change through ADPE implementation.
+
+How business pressures affect seller senior management support for ADPE implementation and how to alleviate these pressures.
+
+How "prescriptive application" of the software systems development process relates to empowerment and bringing about cultural change.
+
+The customer's role in ADPE implementation.
+
+The role of training in effecting cultural change associated with ADPE implementation.
+
+How to sell ADPE implementation as a career growth opportunity.
+
+The organizational factors bearing upon how long it takes to bring about cultural change.
+
+Why an ADPE element defining the ADPE element development and updating process is intimately tied to organizational cultural change.
+
+How to develop an ADPE element defining the ADPE element development and updating process.
+
+8 Process Improvement Planningâ€”provides practical guidance on how to write an SEE implementation plan. This plan serves as a roadmap for doing the things discussed in the preceding chapters.
+
+How to write an SEE implementation plan whose accomplishment can bring about organizationwide software process improvement.
+
+Factors bearing on the following 19 key SEE implementation issues and how to address these issues in an SEE implementation plan:
+
+What are timeline considerations for SEE implementation tasks and their phasing?
+
+How should ADPE elements be phased in?
+
+What ADPE elements should be included in your SEE?
+
+How should the ADPE be constitutedâ€”(1) from a small number of elements (i.e., approximately ten), each with tens of pages or more, or (2) from a large number of elements (i.e., tens or more), each consisting of a couple of pages, or (3) some combination of (1) and (2)?
+
+How frequently should an ADPE element be updated?
+
+What amount of detail should be included in individual ADPE elements?
+
+How can you define a plan for an application development technology environment (ADTE) for your organization?
+
+How do you package ADPE elements and related items?
+
+How should ADPE implementation be handled if your organization is small?
+
+What is an austere SEE implementation approach?
+
+How can mentoring and coaching be leveraged to facilitate implementation of ADPE practices?
+
+What strategies can be adopted to meet the cultural change challenges posed by SEE implementation?
+
+How do you deal with the business reality of the almighty dollar in bringing about ADPE implementation?
+
+How do you account for the reality that people within an organization span a broad spectrum of willingness to adapt to the engineering environment?
+
+Who should develop the SEE in your organization?
+
+How do you frame an SEE implementation policy?
+
+How do you plan ADPE implementation improvement at the project level?
+
+How can process and product measurement be integrated with your organizational process?
+
+How should you structure an SEE implementation plan?
+
+Appendix A How to Measure Strategic Information Management (SIM)â€”provides you with insight into applying Object Measurement outside a software context.
+
+What strategic information management (SIM) is.
+
+How to measure the improvements of an organization's performance in terms of SIM.
+
+Why the quantification of SIM is of interest.
+
+What Are the Book's Main Features?
+
+This book features the following items to help you make successful software development happen in your environment:
+
+Annotated outlines to help you overcome the blank-page syndrome in committing to writing down your desired "way" of doing business.
+
+Over 200 figures to help you quickly assimilate ideas and their relationships.
+
+A list of key ideas at the outset of each chapter to help you work your way through the chapter and organize what you want to take from it.
+
+Process diagrams that you can easily adapt to your environment so that (1) if you are a seller, you can set up a way of consistently producing "good" software systems, and (2) if you are a customer, you can direct a seller to work with you to give you what you want, on time, and within budget.
+
+Worked-out examples containing sufficient detail so that you can adapt the concepts illustrated to your organization.
+
+An easy-to-learn and easy-to-apply measurement technique, called Object Measurement, that you can use to measure almost anything, including product "goodness" and process "goodness."
+
+Easy-to-assimilate techniques for analyzing your organizational culture and determining how to evolve this culture toward achieving success in the software business.
+
+A simple and powerful technique to (1) assess software project risk and (2) produce a risk-reduced project plan, thereby increasing the likelihood of project success.
+
+Detailed treatment of 19 key process improvement issues that explains how to construct a process improvement program that makes sense for your organization.
+
+An index that facilitates quick retrieval of concepts, outlines, and techniques.
+
+At the end of the book, we include an annotated bibliography. Most of the bibliographic entries have been selected because of their practitioner bent. This bibliography is intended to (1) point you to alternative treatments of topics that we discuss, (2) help you gain greater insight into topics that we address, and (3) help you pursue topics that we only touch upon that may be of greater interest to you.
+
+We stress that this book is not tied to the use of any particular software systems development technology. You will find this book helpful whether you are using object-oriented technology, Unified Modeling Language (UML), automated tools, prototyping, or some combination of these and other technologies.How Does an Organization Institutionalize Its Engineering and Process Principles?
+
+The book's central concept for housing an organization's "way" of doing software systems development business is the systems engineering environment (SEE). The SEE consists of the following two complementary components:
+
+An application development process environment (ADPE)
+
+An application development technology environment (ADTE)The ADPE is that set of policies, guidelines, procedures, and standards defining an organization's "way" of doing business. These entities we call "ADPE elements." The ADTE is that set of technologies (e.g., personal computers, networks, and automated tools) used to develop the organization's software products and software-related products. The book focuses on the ADPE because its elements define the software systems development process. We show you how to capture software development concepts in a handful of these elements. We also give you practical guidance for taking the words in these elements and infusing them into your organization. This infusion (i.e., institutionalizing) is perhaps the most challenging aspect of maturing your organization's software systems development capability--because change is mostly emotional, not cognitive.Please join us now by turning to Chapter 1. 

@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+,cestpasgagne2,2011-08-25T13:47Z,"I forgot the tags : icaros,amigaos,aros,opensource"
+,cestpasgagne2,2011-09-03T10:32Z,"Patch 01 for Icaros 1.3.1 is ready
+Posted by Paolo Besser at Friday, September 02, 2011
+
+Here is a little patch for Icaros Desktop 1.3.1. What's new:
+- adds PCI128 range of sound cards support (and sound in VMware)
+- adds C-media CMI8738 sound chip support
+- updates Intel GMA driver
+- updates Janus-UAE with official 1.1 release
+- updates MilkyTracker, compiled with newest SDL (no more choppy sound)
+- fix many missing icons
+
+UPDATING PROCEDURE
+1. Please be sure you have already installed Icaros Desktop 1.3.1 onto your hard drive, either by installing Icaros Desktop 1.3.1 directly, or by updating to 1.3.1 an Icaros Desktop 1.3 installation.
+2. Download Icaros Desktop 1.3.1 patch 01 from our download section. Move it to your AROS machine if you have used a different computer to download it. Do not extract the files in the 7z archive.
+3. Run LiveUpdater from your SYS:Tools/LUPD drawer. Choose the File option and locate the icaros-patch13101.7z file with the file requester
+4. Wait for all files being copied. When finished, you may decide to reboot the system, but it's not mandatory. 
+
+http://www.icarosdesktop.com/updates/icaros-patch13101.7z"

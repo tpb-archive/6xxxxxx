@@ -1,0 +1,99 @@
+             Space Pirates & Zombies (S.P.A.Z.) v1.001
+             +++++++++++++++++++++++++++++++++++++++++
+
+This is the latest version of the game v1.001. All the changes are listed below.
+
+Changes from v1.000 to v1.001
+.............................
+fixed uncommon spec achievement sometimes not working
+fixed fusion beams, mines, particle cannon now cause anger in enemy ships
+fixed mass driver can pass through zombie killer shields
+fixed no acheivement credit for re-exploring stars
+fixed sometimes warpin stuck ship state
+changed balance of power starbase not an insanely strong
+
+Changes from v0.9007 to v1.000
+..............................
+Added tutorial skipper
+Added cloning system
+Added update checker
+Added in game upcoming feature list
+Added respec
+Added difficulty levels
+Added specialists
+Added stored designs for each hangar for easy switching
+Added a reset design button to reset the design to the current ship
+Added ships have a sense of self preservation (avoid exploding ships, if it will do major harm)
+Added cloaking stealth damage 1.5x + specialist and research boosts.
+Added Surplus cloaking device.
+Added zombie killers have shields
+Added zombie killers have armor
+Added on killer conversion shields and armor gone but will repair
+Added an extra set of 3 intro stars to make game start more sane
+Added critters damage shields armor and hull over time, progressively
+Added level down difficulty option (one way only)
+Added option to turn off auto pause on lose focus
+Added goon pods.
+Changed doubled critter shield damage.
+Changed higher critter health
+Changed smoother critter spawning
+Changed cull extra effects when frame rate is low.
+Changed critter updates optimized
+Changed self destructing ships cut their engines to drift into targets
+Changed zombie ships cannot spawn eggs for 5 seconds after birth.
+Changed ruptured eggs cause greater damage to the spawned ship.
+Changed rammed zombie critters do double damage but go splat
+Changed armor must be &lt; 25% for critters to invade
+Changed hull must be &lt; 50% for critters to invade.
+Changed zombie ship repair rate lowered
+Changed doubled boarding combat speed
+Changed zombies will not fire on infected ships.
+Changed zombie tech level scales with the progress toward the final battle. instead of being locked at 90
+Changed increased data cube lifetime
+Changed mass bombs inherit ship velocity
+Changed mass bombs now explode to drop a gravity well (does not effect allies)
+Changed mass bomb flight time effects grav well radius.
+Changed research damagestrength effects wisp damage too
+Changed research damagestrength also effects strength of gravity well.
+Changed mass bombs impact with high projectile damage
+Changed hunter srms are do ion damage but can hunt cloakers too (ion damage trippled)
+Changed lowered SRM count. spamming was overpowered. (also cpu pig)
+Changed launcher boosters from 25% bonus to 20% bonus to reload speed.
+Changed slight increase to missile reload times
+Changed slight increase in power consume for missiles
+Changed escorted ships get much less angry from friendly fire.
+Changed mass bombs no longer player pilotable. fire like torps now
+Changed upped mission counts in general and made metagame changers more common
+Changed lowered spread on scatter and particle cannons
+Changed drone bombers do high explosive damage
+Changed increase to disruptor cannon damage and speed
+Changed particle cannons, shoot 2x as fast as disruptors, do universal damage, shorter range than cannons, more power effieient shoot 6 shots at a time
+Changed scatter cannons longer range and do ion damage.
+Changed tractor beams work while cloaked
+Changed Auto target and first press of prev or next target target closest to reticule
+Changed targeting system will target the ship under the reticule on prev or next target pressed, always
+Changed inertial engines upgraded. Better top speed and acceleration. Very nice engine now.
+Changed removed inertial engines ambient damping
+Changed ai avoids wisps dropped by mass bombs
+Changed leech beams 40% weaker.
+Changed +50% goons cap, 20% default goons
+Changed more turns between zombie attacks
+Changed leech beams effect zombie killers but not breeders
+Changed ion damage effects zombie killers but not breeders
+Changed dont allow zombie ships to shoot crew pods
+Changed turret firing mode made global and saved
+Changed collection mode made global and saved
+Changed request crew hotkey added (M)
+Changed lots of upgrades for mines. beware.
+Changed AI better at deploying minefields.
+Changed mine droppers cloak disrupts when they lay a mine
+Fixed ai should not attack spaced goons anymore
+Fixed Cloaking booster hooked up properly
+Fixed repaired ships inheriting current design instead of just fixing current ship
+
+[Install Notes]: Double-click the setup file to begin installing to your hard-drive. Menu entry, Desktop Shortcut and Uninstaller will be created automatically. Start game from either menu or double-click the desktop shortcut. 
+
+___________________________________________________________________________________
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~HYPERDRVIVE 25~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+___________________________________________________________________________________

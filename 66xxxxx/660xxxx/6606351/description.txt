@@ -1,0 +1,32 @@
+LibertÃ© Linux is a secure, lightweight, and easy to use Gentoo-based Linux distribution intended as a communication aid in hostile environments. LibertÃ© installs on a USB key, and boots on any computer or laptop.
+Features
+Boot
+Kernel: Hardened Gentoo 2.6.37 with grsecurity/PaX + Unionfs 2.5.9 + fbcondecor console decoration
+System requirements: x86 PentiumPro+, ~128 MiB RAM, ~200 MiB on bootable removable media (USB key, SD card, ...)
+Laptop Mode Tools handle power management; hard disks are switched to quiet acoustic mode and spun down
+Extensive Ethernet and Wi-Fi network devices support
+Extensive autoconfiguration, including X server setup
+NetworkManager manages Internet connectivity
+Static and removable devices are available via udev + AutoFS
+No user interaction is required during boot, except for OTFE password entry
+User's important configuration changes are saved on OTFE encrypted volume upon shutdown
+Applications are pre-configured and ready to use 
+
+Applications
+Fully modular X server, with TrueType-only fonts for all SCIM-supported languages (with custom ebuilds for Sinhala and Dhivehi)
+LXDE- and GTK+-based desktop with lightweight applications: no GNOME/KDE
+Multilingualization using SCIM: all input languages that are supported by m17n-lib, native support for CJK languages (pinyin, anthy, hangul), an input pad and a virtual keyboard
+Application-level UI internationalization: all unicode locales are available; locale and timezone are easily switched with a custom tool
+Basic: LXPanel, Openbox, PCManFM / emelFM2, Xarchiver, Sakura / LXTerminal
+Editors/Viewers: gedit, AbiWord, Gnumeric, Evince (with DjVu support) / ePDFView, FBReader
+Internet: Midori, Claws Mail (customized communication layer), XChat, Pidgin (with OTR support)
+Audio/Video: Gnome MPlayer, Audacious, Geeqie / GPicView, GraphicsMagick, X-CD-Roast, MP4 and Speex clips encoding
+Extras: GNU Privacy Assistant, Qalculate! 
+ 
+http://dee.su/liberte 
+http://dee.su/liberte-security 
+http://dee.su/liberte-screenshots 
+http://sourceforge.net/projects/liberte/files/2011.1/ (stable version)
+
+sha1sum : 15db7f3cf13a00901807b25fb6582e592726356b  liberte-snapshot-20110721.iso
+md5sum : bc0a9f55f2cae8f30755b2dbb2ec9319  liberte-snapshot-20110721.iso

@@ -1,0 +1,74 @@
+The zip pwd is: DontUnderestimateAVirus!!!OrElseItWillDestroyYourComputer!!!
+
+This is a very small pack with real virusses.
+
+I found them scattered through the internet, and thought they would be safer on torrent-sites...
+
+So, the virusses:
+
+1. Virus Of Doom fake virus (Virus Of Doom.exe)
+
+This is a fun fake virus I just had to put in this pack!
+I recommend putting this file at a hidden location and put a shortcut in the Startup folder, so you could scare the shit out of someone!
+
+The only way this fake virus can actually harm your computer, is by making it sort of slow... I am not a computer-expert, so don't ask me why... But this is actually quite funny, so go ahead and try it yourself (without the victim watching of course! :p )
+
+If this fake virus DOES actually harm your computer, please report back (if possible), because that shouldn't happen!
+
+Oh, and uhm, the icon of the Virus Of Doom.exe is the Flash-logo, where it is made in. So you could maybe possibly technically practically change the icon...
+
+2. ILOVEYOU virus (LOVE-LETTER-FOR-YOU.TXT.vbs)
+
+This virus was created by Onel The Guzman.
+In 2002 he 'accidentally' opened the virus and within approx. an hour it caused $10Billion dollars of damage!
+It is unknown what this virus does, and I am NOT going to try it. (If you know what this virus does AT ALL, please report!)
+
+This virus will mess up your system (unknown in what way(s)) and when opened, it will spread itself through Microsoft Outlook and it will send itself to every contact you have in Outlook, thanks to a leak, found by the creator itself.
+But, because Outlook is old, and nearly nobody uses it anymore, this virus has a low change at causing spread-damage again, also because it's very easy to recognize the virus...
+
+But it still messes up the computer it's launched on.
+
+3. Say Hello virus (dlH.vbs)
+
+This virus simply creates a duplicate of ALL files and folders on your whole computer and keeps the same name, only with an added .HELLO extension. So that's pretty fucked up.
+
+The creator of this virus created an auto-remover batch file that deleted every .hello file on the PC, but the site he/she uploaded it removed it. 
+
+But this is still a very annoying virus.
+
+4. System Reboot virus (dlRB.vbs)
+
+Quote from Creator:
+"When this file is ran it will create a registry entry in HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\. This script will then write a script file to C:\%systemroot%\system32\ called dlRB.vbs. This file (dlRB.vbs) will reboot the computer when ran and yup you guessed it... because of the registry entry this 'reboot' file runs each time the target tries to log into Windows. After the script is done it will force a system reboot.
+
+You can remove the virus by booting to alternative OS, most likely you will use a DOS boot disk (make sure to add the program NTFSDOS.exe so you can mount your NTFS drives then just delete the c:\%systemroot%\system32\dlRB.vbs file. Reboot as normal. Once logged into Windows remove the registry entry. If the machine happens to have a Telnet or SSH server running you can still log in using one of those services and manually delete the file."
+
+5. Happy Birthday virus (dlBD.vbs)
+
+This virus is also known as the Timebomb virus.
+This is a very nasty and unremovable virus (once opened)!
+
+Quote of creator:
+"This VBS file when ran will:1) Check the date (This Virus is only active on my birthday therefore being classified a timebomb virus) 2) If it is NOT my birthday the file will create a rough copy of itself in %systemroot%\system32\ and then link that file to the registry location: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\ in order to run the file on each reboot. This file will continue to run on each reboot checking the date...this will continue until my birthday. Deleting the original 'host' file will NOT effect the trojanized copy. 3) If it IS my birthday the Virus will be activated. The Virus itself will search the entire machine for files ending with: .jpg, .gif, .log, .ini, .doc and .exe. When it finds a file with these extensions it will overwrite the original data with a 'happy birthday' message and then replace the current extension with a .txt extension. When it is done it will write and launch a batch file that says a happy birthday message."
+
+I searched through the virus and found out there are two dates the virus activates:
+March 31th
+&
+December 19th
+I don't know why...
+
+The creator says this virus is (once opened) unremovable!
+
+
+
+I don't remember where I got the Virus Of Doom from... Sry...
+
+dlH.vbs, dlRB.vbs and dlBD.vbs codes copied from: 
+http://www.tropicalpcsolutions.com/html/security/example-malicous-vb-javascript-code.html
+
+LOVE-LETTER-FOR-YOU.TXT.vbs code copied from: 
+http://www.elfqrin.com/docs/hakref/virus_iluvu_src.html (BEWARE: You can see Onel The Guzman's face!!! ENTER AT OWN RISK!!!)
+
+
+
+Finally, I am not responsible for ANYTHING you do with this (except the Virus Of Doom :P ), USE THESE FILES AT YOUR OWN RISK!!!

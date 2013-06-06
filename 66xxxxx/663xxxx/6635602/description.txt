@@ -1,0 +1,57 @@
+This pack contains: CrossOver Pro 10.1.1 and CrossOver Games 10.1.2. Both are compatible with OSX Lion (10.7+) and are pre-registered. 
+
+
+
+Name: CrossOver Pro
+Version: - 10.1.1
+
+Mac Platform: Intel
+Includes: Only the application or game is included
+
+OS version: Mac OS X 10.5 or later
+
+
+Pre-registered courtesy of TOBW
+
+CrossOver allows you to install many popular Windows applications and games on Mac OS X. CrossOver includes an easy to use, single click interface, which makes installing Windows software simple and fast. Once installed, your application integrates seamlessly in OS X. Just click and run your application directly from the OS X Finder. Clicking a Windows file or document - including email attachments - will launch the appropriate Windows program, allowing you to work on the files. Best of all, you do it all easily and affordably, without needing a Microsoft operating system license.
+
+Adding new Windows software is easy. Just place your install CD in your Mac, and CrossOver will recognize it and offer to begin the installation process. CrossOver then completes the installation and configures your application to run on your Mac. That's all there is to it.
+
+CrossOver Mac will be the very best way to run your Windows applications on your Intel based Mac. It will let you install and run Windows programs as though they were native, all without having to buy or run a copy of Windows itself.
+
+We strongly recommend that you review the list of Frequently Asked Questions prior to installing CrossOver. You may also want to browse the forums or search the Compatibility Center to see if your specific needs will be addressed.
+
+WHAT'S NEW
+Version 10.1.1 CrossOver - July 25, 2011
+
+* Added a workaround for a bug in OSX 10.7 Lion. Many games running in a virtual desktop cause a crash. This can be resolved by setting the CX_LEAK_XPLUGIN_SURFACES environment variable.
+* Work around a bug in OSX 10.6.8 Snow Leopard. 10.6.8 generated corrupt icon files which caused occasional Finder crashes. Now we use a different API to generate icon files which bypasses the issue.
+* Changed behavior of group permissions on certain files. Resolves an issue with .docx files on certain file systems.
+
+
+_________________________________________________
+
+Name: CrossOver Games
+Version: - 10.1.2
+
+Mac Platform: Intel
+Includes: Only the application or game is included
+
+OS version: Mac OS X 10.5 or later
+
+
+Pre-registered courtesy of TOBW
+
+CrossOver allows you to install many popular Windows applications and games on Mac OS X. CrossOver includes an easy to use, single click interface, which makes installing Windows software simple and fast. Once installed, your application integrates seamlessly in OS X. Just click and run your application directly from the OS X Finder. Clicking a Windows file or document - including email attachments - will launch the appropriate Windows program, allowing you to work on the files. Best of all, you do it all easily and affordably, without needing a Microsoft operating system license.
+
+
+Requirements
+Intel, Mac OS X 10.5 or later
+
+What's New:
+Version 10.1.2:
+* Added a workaround for a bug in OSX 10.7 Lion. Many games running in a virtual desktop cause a crash. This can be resolved by setting the CX_LEAK_XPLUGIN_SURFACES environment variable.
+* Work around a bug in OSX 10.6.8 Snow Leopard. 10.6.8 generated corrupt icon files which caused occasional Finder crashes. Now we use a different API to generate icon files which bypasses the issue.
+* Changed behavior of group permissions on certain files. Resolves an issue with .docx files on certain file systems.
+
+

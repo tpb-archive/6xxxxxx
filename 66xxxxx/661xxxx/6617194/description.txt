@@ -1,0 +1,90 @@
+Quick Heal Internet Security for Windows
+Copyright 2010 Quick Heal Technologies (P) Ltd.
+All rights reserved.
+                       
+This readme.txt file covers compatibility issues, known bugs and usage 
+information for Quick Heal Internet Security. This readme.txt is also stored in 
+Quick Heal Internet Security folder.
+
+Virus scanning recommendations from Microsoft
+---------------------------------------------
+Virus scanning recommendations from Microsoft for computers that are running 
+Windows Server 2003, Windows 2000, Windows XP, or Windows Vista 
+http://support.microsoft.com/kb/822158/en-us
+
+Windows Update
+--------------
+Fixing bugs and vulnerabilities of the Operating System and critical system 
+softwares like Internet Explorer are very much important. As operating system
+bugs and vulnerabilities are being exploited by the Viruses, Worms, Trojan, 
+Backdoors etc, we recommend you to patch your system using Windows Update module
+of Microsoft Operating System. Windows Update will patch your system for all the
+known bugs and vulnerabilities of the operating system and other critical software
+like Internet Explorer. To ensure that Windows Update is enabled, go to Windows 
+Control Panel and ensure that Automatic Update is configured to run automatically
+on  your computer.
+
+Quick Heal Network Filter Driver Known Issue
+--------------------------------------------
+
+- During installation of Quick Heal Internet Security, Network will be disconnected
+  for some moment. It is recommended to close all network activities
+  like file copying to remote shares, database updation etc. while Quick Heal Internet
+  Security is being installed.
+
+- Installation of WinPKFilter (Windows Packet Filter) is not recommended if 
+  Quick Heal Internet Security is already installed on your computer. Installing 
+  WinPKFilter on the same machine may result in improper functioning of Quick Heal
+  Internet Security.
+
+Quick Heal Self Protection Known Issue
+--------------------------------------
+
+- If you have added/removed physical storage disks on your system, then it is
+  recommended to update \\\\\\\'Self Protection\\\\\\\' configuration files. To update 
+  â€˜Self Protectionâ€™ configuration files, take below given steps.
+
+  1. Go to Quick Heal installation folder. i.e. C:\\\\\\\\Program Files\\\\\\\\Quick Heal\\\\\\\\Quick Heal
+     Internet Security.
+  2. Launch â€˜Self Protection configuration file updation tool\\\\\\\' by double clicking on
+     spconf.exe.
+  3. Click on Update.
+
+  Clicking on update will update â€˜Self Protectionâ€™ configuration files as per your
+  new volume information.
+
+Quick Heal Boot Time Scan Known Issue
+----------------------------------
+- On Windows 7 and above, Boot Time Scan might not complete. This behavior is 
+  observed because Windows goes into sleep mode after specific time. To allow Boot
+  Time Scan to complete you need to change the settings of Windows Power Options. To
+  change the settings, follow below given steps.
+
+  1. Go to Windows Control Panel.
+  2. Click on Power Options.
+  3. Select the preferred power plan.
+  4. Click on Change Plan Settings.
+  5. Click on advanced power settings.
+  6. Change the \\\\\\\'Turn off hard disk after\\\\\\\' to \\\\\\\'90\\\\\\\' minutes. 
+  7. Change the Sleep -> \\\\\\\'Sleep After\\\\\\\' Settings to \\\\\\\'90\\\\\\\' minutes.
+
+Quick Heal Internet Security Known Issue
+-------------------------------------
+
+- Quick Heal is not compatible in Guest User environment.
+- Quick Heal Update will not work in Windows Safe Mode.
+- Quick Heal Emergency CD cannot be created if you are using USB CD-ROM. It is recommended
+  to use normal CD-ROM to create Quick Heal Emergency CD.
+- Microsoft System Restore will not work if Quick Heal Self Protection is enabled.
+  Before performing System Restore, it is recommended to turn Quick Heal Self Protection
+  OFF. To Turn OFF Quick Heal Self Protection, perform following steps.
+  1. Open Quick Heal Internet Security.
+  2. Go to Settings and set Self Protection to OFF.
+- Quick Heal will automatically start scanning USB Hard Disk once you connect it to your
+  system. While scanning USB Hard Disk, Quick Heal will only detect infection (if any) but
+  will not repair it and you may see \\\\\\\'Access Denied\\\\\\\' prompt. To repair infection from USB
+  Hard Disk, perform following steps.
+  1. Open Scanner.
+  2. Go to Custom Scan.
+  3. Add USB Hard Disk Drive in Custom Scan.
+  4. Start Scan.

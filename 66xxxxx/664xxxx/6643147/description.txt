@@ -1,0 +1,27 @@
+A group of reporters who are trying to decipher the last word ever spoke by Charles Foster Kane, the millionaire newspaper tycoon: "Rosebud." The film begins with a news reel detailing Kane's life for the masses, and then from there, we are shown flashbacks from Kane's life. As the reporters investigate further, the viewers see a display of a fascinating man's rise to fame, and how he eventually fell off the "top of the world."
+
+Director: Orson Welles
+Writers: Herman J. Mankiewicz (original screenplay), Orson Welles (original screenplay)
+Stars: Orson Welles, Joseph Cotten and Dorothy Comingore
+ 
+http://www.imdb.com/title/tt0033467/
+
+Date .....: 30th August 2011
+Runtime ..: 01:59:24
+Size .....: 7840mb
+Video ....: 1488x1080 (X264 @ 23.976fps)
+Bitrate ..: 8406kbps
+Audio ....: DTS 768kbps
+Source ...: Retail Region A Blu-Ray
+Lang .....: English 
+Subs .....: English / French / Spanish / Portuguese / Czech / Polish / Hungarian / Romanian / Greek 
+
+
+Notes ....: The current and previous rulesets did not get in detail into reference frames settings. The high.definition.x264.standards.revision.3.1.addendum.1 elaborated and provided a formula explaining how max reference frames are to be calculated following h264 specs. While rules work well for standard WS releaeses ("--ref 5 or higher is required unless the vertical resolution is greater than 864, then 4 must be used to respect L4.1"), it is not accurate for full screen 1080p (1:~1.33).
+Blu-Rays in general follow h264 L4.1 and 4 reference frames, but they are all in 1:1.78 frame as they are meant for WS HD TVs (meaning FS movies have large black areas on the sides). For rips however all those black parts are cropped out.
+For this specific movie the vertical res is 1080 (1488*1080=1.378), however the horizontal resolution plays a big part unlike in widescreen movies. 
+The formula the rules were simplified from is:
+ref = 12288 * 1024 / (vertical resolution * horizontal resolution * 1.5)
+this gives a ref5 for 1488*1080 and silimiar resolutions: "12582912 / 2410560 = 5.21"
+Using the --level 4.1 switch basically automates the ref frames setting according to h264 requirements. See also http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC#Levels
+Bottom line: all the above blubbering is to explain why this rip has ref 5 and not 4 as we try to do things right (as much as possible) :)

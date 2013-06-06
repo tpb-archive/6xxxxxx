@@ -1,0 +1,122 @@
+new NVidia GeForce/ION desktop 280.28beta openGL 4.2 preview
+for Vista/Win7 x64 only !
+release date to public : 2011 august 8
+complete driver package and official anyway.
+supposed to be for desktop products only,this driver seems have-get notebook products support also.
+See for yourself to check if installable on your notebook so.
+Comes directly from NVidia developer branch
+untouched driver anyway.
+
+Release note :
+
+OpenGL Driver Support
+
+
+ Windows driver version 280.28 and Linux drivers version 280.10.01.02 provide full support for OpenGL 4.2 and GLSL 4.20 on capable hardware. This driver also supports several new OpenGL extensions for both 4.2-capable GPUs and older GPUs. The driver download links are at the bottom of this page.
+
+
+OpenGL 4.2 Driver Release Notes
+
+ You will need any one of the following Fermi based GPU to get access to the OpenGL 4.2 and GLSL 4.20 functionality:
+Î“Î“Ã©Â¼Ã³ Quadro Plex 7000, Quadro 6000, Quadro 5000, Quadro 4000, Quadro 2000, Quadro 600
+Î“Î“Ã©Â¼Ã³ GeForce 500 series (GTX 590, GTX 580, GTX 570, GTX 560 Ti, GTX 560, GTX 550 Ti, GT 545, GT 530, GT 520)
+Î“Î“Ã©Â¼Ã³ GeForce 400 series (GTX 480, GTX 470, GTX 465, GTX 460 SE v2, GTX 460 SE, GTX 460, GTS 450, GT 440, GT 430, GT 420, 405)
+
+  
+
+For OpenGL 2 capable hardware, these new extensions are provided:
+Î“Î“Ã©Â¼Ã³ARB_compressed_texture_pixel_storage (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_conservative_depth (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_internalformat_query (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_map_buffer_alignment (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_shading_language_420pack (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_texture_storage (also in core OpenGL 4.2)
+
+For OpenGL 3 capable hardware, these new extensions are provided:
+Î“Î“Ã©Â¼Ã³ARB_base_instance (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_shading_language_packing (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_transform_feedback_instanced (also in core OpenGL 4.2)
+
+For OpenGL 4 capable hardware, these new extensions are provided:
+Î“Î“Ã©Â¼Ã³ARB_shader_atomic_counters (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_shader_image_load_store (also in core OpenGL 4.2)
+Î“Î“Ã©Â¼Ã³ARB_texture_compression_bptc (also in core OpenGL 4.2)
+
+ The OpenGL 4.2 and GLSL 4.20 specifications, and all ARB extension specifications, can be downloaded here: http://www.opengl.org/registry/
+
+ For any bugs or issues, please file a bug through the developer website: https://nvdeveloper.nvidia.com/
+
+OpenGL 4.2 on NVIDIA Hardware FAQ
+
+ 1) How do I start using OpenGL 4.2 in my code base?
+
+ The default OpenGL context provides OpenGL 4.2 on supported hardware. In addition, the application can use a specific version of OpenGL by calling CreateContextAttribsARB (for WGL and GLX defined in the WGL/GLX_ARB_create_context extensions). For OpenGL 3.2, and later versions including OpenGL 4.2, you can additionally specify what profile you want the OpenGL context to support. Either the "Core" or the "Compatibility" profile.
+
+ 2) I hear about deprecation and removing functionality from OpenGL. What is going on?
+
+ Together with OpenGL 3.0, the OpenGL ARB introduced a deprecation mechanism. Deprecation means that a feature is marked for removal from a future version of the OpenGL spec. It is not actually removed yet from OpenGL 3.0, but this means that future versions of OpenGL will remove features. Several features are marked as deprecated in the OpenGL 3.0 specification (but none are removed).
+
+ The OpenGL 3.1 specification removed those features that were marked as deprecated in OpenGL 3.0.  However, the OpenGL ARB has recognized that there is a need to provide both new functionality in future versions of OpenGL, and still support the removed functionality. To support that market need, the ARB_compatibility extension has been created. This single extension encapsulates all the removed functionality, and re-introduces that back into core OpenGL 3.1. The entry points and tokens in this extension have not changed. No "ARB" suffix has been attached, for example. Implementation of the ARB_compatibility extension is optional. Some OpenGL vendors might chose not to implement it. NVIDIA does support this extension across all its OpenGL 3 capable offerings. This means that if the ARB_compatibility extension name is present in the OpenGL extension string, that the OpenGL implementation supports a fully backwards compatible OpenGL 3.1.
+
+ Starting with OpenGL 3.2, the OpenGL ARB has introduced two profiles. The "Core" profile and the "Compatibility" profile. A profile is a well defined subset of the OpenGL specification. The "Core" profile builds on top of OpenGL 3.1 (without ARB_compatibility). The Core profile does not support any deprecated features. The Compatibility profile builds on top of OpenGL 3.1 including ARB_compatibility. The Compatibility profile has full support for all features, including the deprecated ones. Both profiles are available in our OpenGL 4.2 drivers.
+
+ NVIDIA recommends that developers always create a Compatibility profile context, to ensure full backwards compatibility of existing OpenGL code.
+
+ The OpenGL ARB provides two OpenGL 4.2 specifications, one each for the Core and Compatibility profiles. For the OpenGL Shading Language version 4.20, the OpenGL ARB provides only one document, with the Compatibility profile functionality integrated and clearly marked. These three specification documents can be downloaded from http://www.opengl.org/registry.
+
+ 3) What about the "old" context creation API, WGL/GLXCreateContext. Can I still use it?
+
+ Yes. However, if you are writing new code we strongly recommend you use the new CreateContextAttribsARB API described in the WGL/GLX_ARB_create_context extension. The "old" CreateContext API will still function, and it will create an OpenGL 4.2 Compatibility profile.
+
+  
+
+ 4) Is NVIDIA going to remove functionality from OpenGL in the future?
+
+ NVIDIA has no interest in removing any feature from OpenGL that our ISVs rely on. NVIDIA believes in providing maximum functionality with minimal churn to developers. Hence, NVIDIA fully supports the ARB_compatibility extension and Compatibility profile, and is shipping OpenGL drivers without any functionality removed, including any functionality that is marked deprecated.
+
+ 5) Will existing applications still work on current and future shipping hardware?
+
+ NVIDIA has no plans for dropping support for any version of OpenGL on our existing and future shipping hardware. As a result, all currently shipping applications will continue to work on NVIDIA's existing and future hardware.
+
+ 6) What NVIDIA hardware will support OpenGL 3?
+
+ The new features in OpenGL 3 require G80, or newer hardware. Thus OpenGL 3.0/3.1/3.2/3.3 is not supported on NV3x, NV4x nor G7x hardware. This means you need one of the following NVIDIA graphics accelerators to use OpenGL 3:
+
+Desktop
+Î“Î“Ã©Â¼Ã³ Quadro FX 370, 570, 1700, 3700, 4600, 4700x2, 4800, 5600, 5800, Quadro VX200, Quadro CX
+Î“Î“Ã©Â¼Ã³ GeForce 8000 series or higher; Geforce G100, GT120, 130, 220, GTS 150, GTS 250, GT310, 320, 330, 340, GeForce GTX 260 and higher, any ION based products.
+
+Notebook
+Î“Î“Ã©Â¼Ã³ Quadro FX 360M, 370M, 570M, 770M, 1600M, 1700M, 2700M, 2800M, 3600M, 3700M, 3800M
+Î“Î“Ã©Â¼Ã³ GeForce 8000 series or higher
+
+ 7) What NVIDIA hardware will support OpenGL 4?
+
+ The new features in OpenGL 4 require a Fermi GPU. Thus OpenGL 4 is not supported on NV3x, NV4x, G7x, G8x nor GT2xx hardware. This means you need one of the following NVIDIA graphics accelerators to use OpenGL 4:
+Î“Î“Ã©Â¼Ã³ Quadro Plex 7000, Quadro 6000, Quadro 5000, Quadro 4000, Quadro 2000, Quadro 600
+Î“Î“Ã©Â¼Ã³ GeForce 500 series (GTX 590, GTX 580, GTX 570, GTX 560 Ti, GTX 560, GTX 550 Ti, GT 545, GT 530, GT 520)
+Î“Î“Ã©Â¼Ã³ GeForce 400 series (GTX 480, GTX 470, GTX 465, GTX 460 SE v2, GTX 460 SE, GTX 460, GTS 450, GT 440, GT 430, GT 420, 405)
+
+ 8) Will functionality marked as deprecated be slow on NVIDIA hardware?
+
+ No. NVIDIA understands that features on the deprecated list are critical to the business of a large part of our customer base. NVIDIA will provide full performance, and will support, tune, and fix any issues, for any feature on the deprecated list. This means that all the functionality in the ARB_compatibility extension and Compatibility profile will continue to operate at maximum performance.
+
+more details from the inf :
+
+; NVIDIA Windows Vista / Windows 7 (64 bit) Display INF file
+; Copyright (c) NVIDIA Corporation. All rights reserved.
+
+[Version]
+Signature   = "$Windows NT$"
+Provider    = %NVIDIA%
+ClassGUID   = {4D36E968-E325-11CE-BFC1-08002BE10318}
+Class       = Display
+DriverVer   = 08/04/2011, 8.17.12.8028
+CatalogFile = nv_disp.CAT
+
+supported products list is the same like the one of Vista/Win7 x32 driver
+see my previous torrent to learn more about so.
+Seed a bit if you like and don't forget to use a suffisant up speed and to regulary check most trackers of the list for this torrent.
+Enjoy
+have a very nice evening
+cheers

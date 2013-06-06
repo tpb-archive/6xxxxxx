@@ -1,0 +1,12 @@
+With the wireless networks (IEEE 802.11) devices proliferate, wireless network security issues become the focus of attention. Beini is used for wireless network security assessment of a system.
+Beini A wireless network security testing system,it is based on Tiny Core Linux.
+FeedingBottle Aircrack-ng's GUI on Beini.
+
+2011-08-14 Beini-1.2.3
+Updated FeedingBottle to 3.2.1: fixed the bug that can not run the program using right click menu on desktop.
+Added 'x_rtl8188ru_20110812.tce', include Realtek8188RU's drivers and firmware, support Realtek8188RU.
+Deleted 'x_ath9k_htc_compat-wireless-2.6.38-rc4-1.tce' and 'firmware.tcz'.
+Tips:This version build for Realtek8188RU chipset especially, non-users of these chips are not recommended. When no client, please use 'Fake Auth(by force)', not common 'Fake Auth(-1)'.
+ 
+http://www.ibeini.com/ (es, tr, en) 
+http://www.ibeini.com/screenshots.htm

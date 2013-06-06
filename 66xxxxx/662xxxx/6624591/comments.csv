@@ -1,0 +1,122 @@
+User Type,Username,Date,Text
+,FourTwenty83,2011-08-23T15:14Z,Thanks a Lot! Really awesome game!
+,craltijd,2011-08-23T22:35Z,plz seed!
+,sheeraz321,2011-08-23T23:09Z,thanks
+,tahl112,2011-08-24T06:10Z,Will this work on Lion?
+,maczoli,2011-08-24T12:27Z,"If something goes wrong please let me know in the comments section down below, I'm new at this but I want to be good at it. 
+To answer your question - Yes, it runs on Lion 10.7.1"
+,FourTwenty83,2011-08-24T13:21Z,"Does not work for me on 10.7.1 Lion, when i try to start the game it just bounces on the dock and then closes down :(
+
+Anyone else got it working?"
+,blumpkin123,2011-08-24T13:31Z,"same problem, just bounces about and closes"
+,arovsNL,2011-08-24T14:18Z,"yup, same proplem too, not using lion though..."
+,lennysglue,2011-08-24T14:55Z,"Ah, same problem too. Not working on 10.7.1."
+,maczoli,2011-08-24T17:33Z,"I think you should paste your own _MASreceipt file in to the contents folder of the game.
+Just download a free app, right click, show package contents, contents folder and there you'll find your own receipt file. Copy that to the same hidden folder of Jedi Outcast. 
+
+Check the system requirements of the game! It may not work on some video cards."
+,arovsNL,2011-08-24T17:59Z,"well, i got the system requirements, and my mac passed the test, but i can't seem to find this _MASreceipt file you're talking about?"
+,arovsNL,2011-08-24T18:01Z,"nvm, i found it, and copied it, but it doesn't work. It even stopped bouncing, so i guess it got worse :P"
+,arovsNL,2011-08-24T18:06Z,"It, uhm, doesn't seem to work. It stopped bouncing, so i guess it got worse..."
+,maczoli,2011-08-24T21:06Z,"I've found another source. It works! It's on fileserve. Just put this at the end of the link -»
+/file/qH2rH27
+"
+,blumpkin123,2011-08-25T00:24Z,"yeh, downloaded the one from that link, it works but is very buggy. every time you press escape it crashes to desktop and the fella looks like the human centipede, multiplayer didn't seem to work either"
+[T],nobody2007,2011-08-25T05:53Z,"Star WarsÂ®: Jedi KnightÂ® II: Jedi Outcastâ„¢
+Platforms: Mac
+Genre: Action/Adventure
+ESRB: Teen
+
+Minimum System Requirements:
+
+Operating System: Mac OS X 10.5 (Leopard), 10.6 (Snow Leopard) | Processor: Intel chipset | CPU Speed: 1.8 GHz or faster | Memory: 512 MB or higher Hard Disk Space: 665 MB free disk space | Video Card (ATI): Radeon X1600 | Video Card (NVidia): GeForce 7300 | Video Memory (VRam): 128 MB | Media Required: DVD Drive | Peripherals: Macintosh mouse and keyboard. | Multiplayer Requirements: Internet (TCP/IP) and LAN (TCP/IP) play supported. Internet play requires broadband connection.
+
+Supported Video cards: NVIDIA GeForceÂ® 7300, 7600, 7800, 8600, 8800, 9400, 9600, GT 120, Quadro FX 4500, ATI Radeon X1600, X1900, HD 2400, HD 2600, HD 3870, HD 4670, HD 4850
+
+Recommended System Requirements:
+Operating System: Mac OS X 10.5.4 | CPU Speed: 2.4 GHz | Video RAM: 256 MB
+
+NOTICE: IntelÂ® integrated video chipsets are not supported.
+NOTICE: This game is not supported on volumes formatted as Mac OS Extended (Case Sensitive)
+NOTICE: Apple IntelÂ® Chipsets only. Power PC Processors (G4 and G5) are not supported
+
+Note: DOES NOT SUPPORT OS 10.7
+
+http://www.aspyr.com/product/game_specs/130"
+,arovsNL,2011-08-25T08:34Z,"thx man, this one works :P and srry for the triple post..."
+,therealduckie,2011-08-25T09:27Z,"To fix this:  
+
+1. Open terminal
+2. change to /Jedi Knight II.app/Contents/MacOS/  directory
+3. type (or paste) this into terminal:
+
+sudo chmod u+x Jedi\ Knight\ II
+
+It will make it a unix executable
+
+Somehow the formatting broke because it was torrented as an app instead of compressed."
+,pmmmp,2011-08-26T01:07Z,"uhm im kinda a noob in this so can u please do your whole explanation in nooblanguage  cuz i dont understand a thing about fileserve and al that stuff
+tnx"
+,miGsKills,2011-08-26T23:59Z,"What the shit, it doesn't work. :|
+"
+,Sojio,2011-08-31T18:47Z,"Just clearing this up. I'm running a Macbook 2011 13 inch with the Intel HD 1000 Graphics. I'm getting no launch whatsoever not even a dock bounce. Will this work for me?
+
+Thanks for the download :D
+Will seed to 1:1 "
+,volver04,2011-09-16T05:55Z,Fuck it - doesn't work.
+,megastar7,2011-09-17T01:12Z,"I followed the Terminal Commands therealduckie said and it works, but brightness cannot be changed and is always super low. Other than that works fine."
+,naish10,2011-09-20T21:52Z,"therealduckie: it comes 
+chmod: Jedi Knight II: No such file or directory
+what i do???"
+,dogflesh,2011-09-23T06:59Z,You think it would fuck up if run it on a 2.3 GHz CPU?
+,awwgoddammit,2011-10-02T01:20Z,can you ul a fixed version? your terminal solution didn't work for me. :(
+,pn247,2011-11-02T10:11Z,This was a waste of my fucking time. NOTHING works. AT ALL. fuck you and have a horrible day.
+,tonyt387,2011-11-11T04:38Z,the terminal thing isnt working it keeps saying directory not found
+,JOLG,2011-11-16T11:14Z,"For the terminal command you need to write this in the terminal. And yes, it works after this!
+
+cd ""/Applications//Jedi Knight II.app/Contents/MacOS/""
+Then
+sudo chmod u+x Jedi\ Knight\ II"
+,jjsydroo,2012-01-27T15:33Z,"Thanks, a lot JOGL! Your solution works perfectly. For all those people who can't type:
+1)Open Terminal
+2)Type cd and drag MacOS folder to Terminal's windows
+3)copy-paste sudo chmod u+x Jedi\ Knight\ II
+4)TURN OFF ""F.LUX"" OR ""SHADES""!!!!!!!! After that, my brightness issue disappeared. 
+
+Thank you, maczoli for the upload!"
+,pogesichris,2012-02-05T06:58Z,"Uhm whenever I do this: 
+)Open Terminal
+2)Type cd and drag MacOS folder to Terminal's windows
+3)copy-paste sudo chmod u+x Jedi\ Knight\ II
+
+after the number 3 it ask me for password in my terminal and it doesn't even let me type.. any solutions? I dont want to waste my time on DL this good game... I want it to work pls help"
+,Dj-TweeX,2012-05-17T22:21Z,"@pogesichris
+when you type your password in terminal, it will seem like nothings typing but its just not displaying what you are typing. just type your password and hit enter. it works."
+,Jcc477,2012-05-19T01:19Z,"Hi guys! I just followed all steps posted by JOGL but it keeps telling me « No suck file or directory » 
+
+Here's what I did in terminal..Help please!
+
+MacBook-de-(myname):~ (myname$) cd/Applications/Jedi Knight II.app/Contents/MacOS u+x Jedi Knight II
+
+And the it keeps telling me this:
+
+-bash: cd/Applications/Jedi Knight II.app/Contents/MacOS: No such file or directory
+
+Any solutions ?
+(by the way, I dragged it into the terminal to be sure)
+Thanks guys!
+
+
+"
+,Jcc477,2012-05-19T01:24Z,"oops, sorry. 
+
+I copied it like that (with ''sudo chmod''...)
+
+« cd/Applications/Jedi Knight II.app/Contents/MacOS sudo chmod u+x Jedi Knight II »
+
+And then I press enter but doesn't work.
+My mac tellin' me: No such things like that in your computer, bro.
+Help me guys!
+(sorry for double post)
+"
+,israelnub,2012-05-30T05:26Z,"fixed the bouncing problem, now when I hit the first checkpoint or whenever I try to open the save menu it force closes and says: ""Z_Free(): Corrupt zone tail!"" How do I fix this?"

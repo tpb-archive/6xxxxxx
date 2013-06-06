@@ -1,0 +1,37 @@
+Swift Linux is based on antiX Linux, a lightweight version of MEPIS Linux. MEPIS Linux is derived from the stable and testing branches of Debian Linux.
+Except for Diet Swift Linux, all editions of Swift Linux now include OpenOffice and forensic/rescue/recovery programs. Forensic Swift Linux has been discontinued, but its capabilities live on in regular Swift Linux and the special editions.
+...
+Swift Linux provides the benefits of Ubuntu in a much lighter package. The result is a distro that works on even older computers, yet still has the user-friendliness and superior software selection of Ubuntu.
+... 
+http://www.swiftlinux.org/about
+
+SPECIAL NOTES!!!
+
+ Certain computers may only boot up Swift Linux and antiX Linux on CD-Rs. If your computer does not boot up Swift Linux on a CD-RW, try Swift Linux on a CD-R.
+ CRT users: Make sure your monitor is on when you boot up Swift Linux or antiX Linux. Do NOT turn off the monitor. If you are using a KVM switch, make sure your monitor is set for the computer booting up to Swift Linux, and do NOT switch to the other computer. If you try to boot up Swift Linux (or antiX Linux) without the monitor, things won't work properly. If you ignore this warning and find that you can't boot up properly, press Ctrl-Alt-Backspace to log in and enter the command "startx" at the prompt.
+
+Username/Password
+
+ When you boot up with the live CD, you may be asked to enter your username and password. Enter demo for both.
+ When you run Swift Linux with the live CD, you will be asked for the root/administrative password. Enter root.
+ If you install Swift Linux, you will be asked to provide a username, a password for that username, and a root/administrative password.
+
+Location
+The ISO files are hosted on SourceForge, where you can also find their md5sum values and sizes.
+Current Version: 0.1.2 (based on antiX M11)
+Plain vanilla editions
+Diet Swift Linux
+Regular Swift Linux
+
+Special editions
+Taylor Swift Linux
+Minnesota Swift Linux
+Chicago Swift Linux  
+http://www.swiftlinux.org/downloads
+ 
+http://www.swiftlinux.org/screenshots 
+http://www.swiftlinux.org/ 
+http://swiftlinux.org/discuss
+
+sha1sum : 0e491dd20cdb8319b3d17cb910f1ea15efcae49a  swiftlinux-0_1_2-taylorswift.iso
+md5sum : f03da0f25f32994ed494c54e2f0cc85c  swiftlinux-0_1_2-taylorswift.iso

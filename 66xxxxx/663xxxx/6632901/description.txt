@@ -1,0 +1,26 @@
+Dream Studio contains all the apps you need to create stunning graphics, captivating videos, inspiring music, and professional websites. Available as a free download, Dream Studio can be run directly from DVD, installed to your hard-drive, or even installed onto a USB Flash drive, for the ultimate in portability! 
+http://dream.dickmacinnis.com/forum/node/525
+
+Dream Studio 11.04 Official Release
+
+DickMacInnis.com is proud to announce the official release of Dream Studio 11.04. This exciting new version of Dream Studio (http://dream.dickmacinnis.com) has all the features that have made past releases one of the most successful multimedia software packages out there, including: multi-user, pulseaudio-integrated realtime audio via JACK, for use with programs like Ardour; the renowned Cinelerra video editor, a full graphic and web design suite; photography tools; and hundreds of assorted audio and video effects, fonts, and utilities for everything from multimedia file conversion to simple office work and web browsing. Not only that, but this latest version of Dream Studio also included hundreds of bug fixes and the following new features:
+-Blender has been upgraded to the new version 2.59, with the oceansim patch applied
+-Several new programs have been added, including MakeHuman (http://makehuman.org), Sonic Visualiser(http://www.sonicvisualiser.org/), and Smasher(http://smasher.sourceforge.net/)
+-A lowlatency kernel is installed by default, with automatic installation of the lowlatency-pae kernel for systems that have more than 3GB of RAM
+-Separate meta-packages have been created for graphic design and photography, as well as for software instruments and audio effects, for easy selection/removal of software you don't need
+-Dream Studio software sources automatically re-enable and update to newest distribution release on upgrade, to smooth transitions for less technically advanced users
+-All software has begun being moved from a personal repository to PPAs (personal package archives), to allow easier porting to different architectures and faster upgrades to new releases. This move will also enable easy backporting of newer software, so that users of LTS (long term support) releases will no longer need to upgrade to unstable releases to get the newest features of the software they use
+-KXStudio Team PPAs have been added by default, allowing users to easily install hundreds of additional multimedia applications
+-The unity desktop is now default (for users whose computers support 3d compositing). We realize, however, that many users find functionality missing in this controversial desktop, and as such have added useful packages to our repository for a smooth transition, such as a weather indicator (to replace the functionality lost in the new system clock), and a workspace indicator (for users who miss one-click workspace switching)
+-An all new look (screenshots - https://picasaweb.google.com/macinnisrr/DreamStudio1104?authuser=0&authkey=Gv1sRgCMyxjeTMyrCuSA&feat=directlink)
+As always, Dream Studio is based on Ubuntu, and as such is 100% compatible with ubuntu software, PPAs, and support forums and documents.
+ 
+*Special Notes
+-Although Dream Studio is fully compatible with virtualisation software like VirtualBox and VMWare, it is not intended to be used in this way. Due to the high availability needs of video and audio editing, hardware access is the only way to get the full Dream Studio experience. If you wish to test Dream Studio for evaluation or reviews, the recommended method is a full installation to and boot from a USB flash drive (which can be done via the aforementioned virtualisation software if you have no DVD drive - but will suffer from a loss of boot and application startup speed compared to a full Dream Studio installation), or by simply booting from the installation DVD (this method uses a compressed filesystem, however, and as such, boot and application startup times will be even slower than booting from USB)
+-Users who need to continue working on Cinepaint projects should remain on Dream Studio version 10.10 or earlier, as it has been functionally replaced with the Gimp Animation Package. 
+http://dream.dickmacinnis.com/forum/node/780
+ 
+http://dream.dickmacinnis.com/
+
+sha1sum : 3cd1252c950a9148c58a3aa91adbac0ea6a53ffe  dreamstudio_11.04.iso
+md5sum : 63d82867f48f597d9d1d7b9d527452be  dreamstudio_11.04.iso

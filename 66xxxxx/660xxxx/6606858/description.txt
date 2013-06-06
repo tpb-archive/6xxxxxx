@@ -1,0 +1,18 @@
+ZEN-mini (often shortened to ZEN) is a minimal livecd that is bootable and can be installed. It comes with a very basic GNOME desktop without additional applications. It is designed for advanced users or for users who wish to learn how to customize their system with the applications and support files they want to use. Additional software can be installed through the Synaptic Software Manager (requires network connection). Add your own background, window decorations, web browser client, email client, music client and fully trick out your desktop the way you want it.ZEN is based on PCLinuxOS!
+
+ZEN-mini 2011 is ready for downloadâ€¦ ISO is a little bit bigger than before because of new â€œbig' xorg update.
+
+News and changes:
+autologin to guest account with login info (livecd mode)
+changed grub, plymouth, gdm and wallpaper theme! Thanks to timeth and Archie for art work
+new kernel 2.6.38.8
+sound server is pulse â€“ hope will work better than alsa
+added small image viewer
+installation from GRUB menu
+still with GNOME 2.32.1
+
+Forum announcement : http://74.54.219.50/~lxgator/gnome/forum/viewtopic.php?f=1&t=3592&sid=d1d85675cbd79de384dbf19450746e0e
+home page : http://zen.pclinuxos.org.pl/
+donate : http://zen.pclinuxos.org.pl/?page_id=195
+Fora : http://74.54.219.50/~lxgator/gnome/forum/index.php (en)
+       http://forum.pclinuxos.org.pl/viewforum.php?f=48 (pl)

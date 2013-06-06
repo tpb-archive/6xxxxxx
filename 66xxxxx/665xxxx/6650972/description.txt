@@ -1,0 +1,106 @@
+The No. 1 Media & Blu-ray Player
+
+
+The No.1 Blu-ray player just got better with NEW PowerDVD 11.
+Experience all your media in a whole new light whether they are on disc, your computer, mobile devices or cloud.
+ 
+Find out more about PowerDVD 11's amazing features:
+
+- Enjoy all your HD media - movies, music, and photos
+- Play media from anywhere - PCs, smart devices, and cloud
+- Enhance the quality of all your media - videos, photos & music
+- Watch videos & photos on YouTube, Facebook and Flickr
+- Control PowerDVD from your iPhone, iPad & Android device with PowerDVD Remote
+ 
+PowerDVD 11 is the undisputed choice for all your media needs. Experience this amazing universal media player today.
+ 
+
+Available Languages:
+
+English, Chinese (Traditional), Japanese, Spanish, Korean, Chinese (Simplified), German, French, Italian, Russian, Portuguese
+
+
+Preactivated Recompressed Setup:
+
+- Installs the Ultra Version, pre-activated and pre-registered
+- The MoovieLive and Movie Remix features are disabled by default
+- Sets the cursor hide time in Full Screen to 1 sec (default = 3)
+
+
+-----------------------------------------------------------------------------------
+
+Changelog build 2024 (2011-09-01):
+
+Updates:
+- Bonus PowerDVD Mobile all-in-one Android media player lets you play and share media with PowerDVD & other devices
+- PowerDVD 11 as DLNA Server. Could transcode the media content to correct format for DLNA Player to playback
+- Extra 3D format support: (MVC 1080i 3D, MVC Transport Stream 3D)
+- Portrait mode support (Allow user to playback media content if one of the connected monitors is in Portrait mode)
+- Intel WiDi 2.1 Support
+
+Resolved Issues: 
+- MovieIQ did not work
+- Can not use CUDA on specific NVIDIA VGA cards
+- Can not read WMA losless Tags in Windows XP
+- Can disable DXVA accidently when playback BD (but UI shows enabled)
+- Can not manage BD-Live folder when the default storage location is changed
+- MKV subtitles are sometimes not shown correctly
+- Volume control did not sync in all modules (2%/10%)
+- Specific MPEG-PS can not playback anymore
+- Can not show BD thumbnails on the resume page (when available from BD)
+- Help file improvement
+- Shows a black rectangle when WMP is not installed
+- MCE plug-in can not close pop-up when use RC
+- Music EQ lost settings after restart
+- MKV with MPEG-2 has blocky issues
+- Mouse wheel behavior lost settings
+- Can not playback MKV when using PowerDVD as DLNA DMP
+- MKV can not show language name in UI
+- MKV can not show language name for audio tracks in UI
+- Can not show foreign language subtitles (e.g. Turkish and Hebrew)
+
+-----------------------------------------------------------------------------------
+
+
+Install: Just run Setup.exe and you are done, it's registered and activated.
+
+
+========================================
+:: 2 skins for PowerDVD 11 build 2024 ::
+========================================
+
+Changes between the default and the modified skins:
+
+* Replaced the backgrounds and removed the Feature Icons (logos)
+* Changed the autohide delay from the tabs to 1 sec (default = 3)
+* Removed the adds (New DVD Release section) from the resume page
+
+
+================================
+:: Tweak Pack for PowerDVD 11 ::
+================================
+
+Blu-Ray_Region_Reset.bat:         Resets the Blu-Ray region settings
+Disable_BD_Mouse_Pop-up.bat:      Disables the Blu-Ray disk Mouse support Pop-up
+Enable/Disable_MoovieLive.bat:    Enables/Disables MoovieLive, Remix & Comments
+MouseScroll_Setting.bat:          Change the Mouse scrolling value (Time, Step)
+Enable/Disable_CLFLVSplitter.bat: Enables/Disables the FLV Splitter *
+Enable/Disable RC Services.bat:   Enables/Disables the Remote Control Services **
+Enable/Disable Network Services:  Enables/Disables the DLNA Services
+Enable/Disable Cinema Mode.bat:   Enables/Disables the Cinema Mode
+Enable/Disable Facebook & Flickr: Enables/Disables the Facebook & Flickr buttons
+En/Disable Home Media Browsing:   Enables/Disables Home Media (DLNA) Browsing
+En/Disable Upgrade Button.bat:    Enables/Disables the Blue Upgrade Button
+Enable/Disable YouTube.bat:       Enables/Disables the YouTube buttons
+
+*   CLFLVSplitter.ax can cause a crash when you play flv videos in Windows Media
+    Player. Disable_CLFLVSplitter.bat will unregister the FLV Splitter, which 
+    fixes the problem
+
+**  Enables/Disables the Remote Control Services: CLHNService & RemoteControl11.
+    Don't disable them if you're planning to use a remote to control PowerDVD!
+
+
+Cheers,
+
+ADHDerby

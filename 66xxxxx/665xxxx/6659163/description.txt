@@ -1,0 +1,43 @@
+About VortexBox
+VortexBox is a free, open source (GPL v3), quick-install ISO that turns your unused computer into an easy-to-use music server/jukebox. Once VortexBox has been loaded on an unused PC, it will automatically rip CDs to FLAC and MP3 files, ID3 tag the files , and download the cover art. Vortexbox will then serve the files to network  media players such as Logitech Squeezebox, Sonos, or Linn. The music files can also be streamed to a Windows or Mac OSX system.
+
+Features
+ Convert an old PC to a CD ripper / jukebox / NAS in 15 minutes.
+ Based on Fedora so itâ€™s easy to modify.
+ Automatically tags all files from online music database.
+ Automatically downloads the cover art.
+ Automatic sharing of file to SMB (Microsoft) file shares.
+ Automatic re-indexing Squeezebox Server  after every CD is ripped.
+ AppleTalk â€“ for OSX or Bonjour for Windows.
+ DAAP â€“ Automatically shares all MP3s for streaming to iTunes and Roku Soundbridge.
+ NFS â€“ For Linux boxes and almost anything else, Solaris etc.
+ DLNA support â€“ Play music and video DLNA enabled players, XBOX 360,PS3, Windows 7 etc.
+ Easy installation of mplayer for AlienBBC support.
+ Good support for Sonos.
+ Works well as a back end server for XBMC (XBOX Media Center) running on XBOX, Windows, OSX, AppleTV, or Linux. 
+http://vortexbox.org/about/
+
+07 Sep 11 VortexBox 1.10 released
+It is been a while since we released a new version of VortexBox and there are a lot of small fixes and tweaks in this new version. There is the usually updates such as a new Kernel and SqueezeBox server 7.6.1. There are also a lot of small updates such as increased UPnP player support. VortexBox now supports the latest Samsung TVs and the BeoSound 5 from Bang and Olufsen.
+We added a lot of user requested features such as a one click restore button in the USB backup manager. We also added faster mp3 mirroring at the request of VortexBox users. This version has been tested with new products from Sonos and Logitech including the new Play:3 to ensure these devices are fully supported.
+VortexBox 1.10 supports the new VortexBox Orbiter, a fanless player that automatically finds your VortexBox. 
+http://vortexbox.org/
+
+Changelog
+
+VortexBox 1.10 â€“ September 07 2011
+ Logitech SqueezeBox Server 7.6.1 pre installed and configured
+ New Kernel for better hardware support of new motherboards and chipsets
+ Restore button for restore from USB backup
+ Better support for Replay Gain tags
+ Better error checking for GUI update and USB backup
+ Better mirroring support for hi-res FLAC files
+ Faster mirroring to mp3 when ripping a new CD
+ Better handling of embedded cover art in mp3 files
+ Support for VortexBox Orbiter
+ UPnP server now supports more devices
+
+ 
+http://vortexbox.org/buy/
+
+md5sum : 386fa9cb2eaa447ffbf346297cf729d7  vortexbox-1.10.iso

@@ -1,0 +1,167 @@
+Civilization V Trainer v 4.0.8 for Civilization 5 v 1.0.1.348 ..by DelphiUniverse
+
+-------------
+4.0.8 Changes
+-------------
+
+* Solved a stack cleanup problem which caused program to crash
+  when using ALT + BACKSPACE hotkey
+* Properly set token privileges
+* Properly suspended civilization when reading and writing to memory
+* Added warning when running without enough privileges
+* Added more error check during startup
+
+ (See Changelog.txt for all changes since version 4.0)
+
+-------------
+About Trainer
+-------------
+
+This trainer is designed to work with Civilization 5 v 1.0.1.348
+DirectX 9 and DirectX 11.
+
+Do not attempt to use it with earlier or future versions of the game.
+It will contaminate and corrupt memory if you do.
+
+This trainer will give you the following:
+
+* Gold
+* Golden Age Progress
+* Golden Age Turns
+* Culture
+* Strategic Resources
+* Luxury Resources
+* Clear spent resource slots
+* Great General
+* Unit Experience
+* Movement
+* Heal units
+* City Modifier
+* Full hotkey support
+* Customizable (See Settings.ini)
+
+------------
+Installation
+------------
+
+1. Create a new folder anywhere you like.
+2. Extract archive into that folder.
+3. Done.
+
+----------
+How to use
+----------
+
+Start Trainer or Game in any order you like.
+
+---------------
+Switched Cheats
+---------------
+
+1: MOVEMENT SWITCH:
+This cheat will give unlimited movement points to units. Activate it and then click any unit, in any number, in any priority and move them around. Always remember to deactivate a switched cheat before making another turn.
+
+Set the initial movement point in the left editbox to set a default initial value for your units. Why would you want to set a initial movement score when the movement is already infinite?
+
+The reason is simple: Because if you have 1 movement point left, it will cancel if you try to move it more than 1 hex, its pretty annoying. The default initial value is already set so you do not need to worry about it.
+
+2: EXPERIENCE SWITCH:
+This cheat will give experience to your units. Set a initial experience value in the editbox on the left, then click all your units. You only need to click them once. Then deactivate the cheat when finished.
+
+3: HEALING SWITCH:
+This cheat will set health points on your units. Set the health point you want in the editbox on the left side (it can be in the range of 0-10 where 0 is no health and 10 is full health) Then click all units you want to set this health value upon. Deactivate the cheat when finished.
+
+4: CITY MODIFIER SWITCH:
+This is probably the most complex cheat to use. (It's really not that complex). This cheat will set the city modifier value (it is in percentage %).
+
+It will set the modifier value on 3 things: Production, Science and Gold. To have this cheat work you will need to buy OR sell a building that affects any of these 3 areas. Thats it.
+
+Quick hint: I recommend buying:
+University (to enable modifier for science)
+Factory (to enable production modifier)
+Stock Exchange (to enable gold modifier)
+
+You can also sell buildings that affects these areas, the modifier will update that way too.
+
+-------
+Hotkeys
+-------
+
+(CAPS-LOCK-OFF) ALT + F1	= Movement Cheat
+(CAPS-LOCK-ON)  ALT + F1	= Movement Cheat with zero points
+
+(CAPS-LOCK-OFF) ALT + F2	= Give Unit Experience
+(CAPS-LOCK-OFF) ALT + F3	= Set Health on units
+(CAPS-LOCK-OFF) ALT + F5	= Set City Modifier (Science,Production and Gold)
+
+ALT + BACKSPACE = Turn off all cheat switches
+
+(CAPS-LOCK-OFF) ALT + INSERT	= Resources (Set value to value found in Settings.ini)
+(CAPS-LOCK-OFF) ALT + HOME	= Gold (Set value to value found in Settings.ini)
+(CAPS-LOCK-OFF) ALT + PAGEUP	= Culture (Set value to value found in Settings.ini)
+(CAPS-LOCK-OFF) ALT + DELETE	= Golden Age Progress (Set value to value found in Settings.ini)
+(CAPS-LOCK-OFF) ALT + END	= Golden Age Turns (Set value to value found in Settings.ini)
+(CAPS-LOCK-OFF) ALT + PGDOWN	= Great General Progress (Set value to value found in Settings.ini)
+
+(CAPS-LOCK-ON) ALT + INSERT	= Zero Resources
+(CAPS-LOCK-ON) ALT + HOME	= Zero Gold
+(CAPS-LOCK-ON) ALT + PAGEUP	= Zero Culture
+(CAPS-LOCK-ON) ALT + DELETE	= Zero Golden Progress
+(CAPS-LOCK-ON) ALT + END	= Zero Golden Turns
+(CAPS-LOCK-ON) ALT + PGDOWN	= Zero Great General Progress
+
+ALT + LEFT	= Free all used resource slots
+ALT + RIGHT	= Zero all (Will zero out the following):
+			1: Gold
+			2: Golden Age Progress
+			3: Golden Age Turns
+			4: Culture
+			5: All Strategic and Luxury Resources
+			6: Great General Progress
+
+---------------
+UpDown Controls
+---------------
+
+I have added Up-Down controls to all edit boxes in the program.
+You may change values in an edit box in many ways:
+
+1: Click a button to choose a predefined value.
+2: Click the edit box and type a custom value.
+3: Click the up-down control buttons to change values.
+4: Use the up-down arrow keys on your keyboard.
+5: Use mouse wheel to change values.
+
+---------------
+Troubleshooting
+---------------
+
+Q1: Trainer doesnt work?
+A1: Use only with Civ 5 version 1.0.1.348. It will not work with other versions.
+
+Q2: Trainer still doesnt work?
+A2: Your firewall/antivirus blocked it or sandboxed it. Unblock it, shut down trainer and restart it again
+
+Q3: Trainer is still not working?
+A3: The 6 primary cheats will only update after you click a city or do a next turn.
+
+Q4: I use WinXP and the trainer runs and quits almost instantly?
+A4: Try to run it using Win98 Compatability mode.
+
+--------
+Feedback
+--------
+
+Please report new suggestions and bug reports here on CivFanatics or on ThePirateBay.org where you can find me under
+the name of DelphiUniverse. Send an e-mail to the address found in the .rar archive comment section.
+
+------
+Author
+------
+
+Coded by DelphiUniverse using Microsoft Macro Assembly.
+
+My favorite coding equipment:
+
+* SteelSeries 7G keyboard (Nothing close to it, nothing above it)
+* 26" 2ms screen for coding happiness

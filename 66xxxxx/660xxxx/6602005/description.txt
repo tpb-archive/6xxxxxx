@@ -1,0 +1,10 @@
+The preface to our previous book, Beginning iPhone 3 Development, started with the phrase, â€œWhat an amazing journey!â€ Well, itâ€™s true. Weâ€™re having a blast, making a lot of new friends and, above all, learning, learning,learning. The iPhone SDK continues to evolve, and with each new release, it brings new concepts to explore and new design patterns to master.
+
+As its name implies, More iPhone 3 Development assumes youâ€™ve read Beginning iPhone 3 Development or one of the other terrific titles out there, or have tackled the iPhone dev learning curve on your own. If you are a beginner,
+not to worry, our approach is the same. We talk you through the concepts, and then build a new project and walk you through the source code, with a sprinkling of tips and cautions along the way.
+
+The book starts off with a series of chapters that cover Core Data, Appleâ€™s official iPhone persistence framework. If the concept of persistence is new to you, donâ€™t be intimidated by the name. When you want your data to stick around from one run of your app to the next, thatâ€™s persistence. Beginning iPhone 3 Development touched on the topic with a brief introduction to Core Data, but More iPhone 3 Development starts from scratch and gives you a
+complete tour through Core Data, with a lot of reusable code. By the time you are finished with the Core Data chapters, you should have everything you need to add Core Data to your own iPhone apps.
+
+Next up, we offer a series of chapters on GameKit and networking. The GameKit framework makes it easy to add Bluetooth connectivity to your apps. We bring GameKit to life by building a simple, two-person game. We then follow that up by taking iPhone networking to the next level, showing you how to expand your networking skill set to include game play over a local area network. Once youâ€™ve mastered those techniques, itâ€™s just a short step to adding Internet play. Our final networking chapter explores techniques for pulling data from the Internet and
+interacting with web servers.

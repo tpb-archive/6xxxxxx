@@ -1,0 +1,29 @@
+User Type,Username,Date,Text
+,fArGo1911,2011-08-29T19:48Z,http://www.xbox-scene.com/xbox1data/sep/EFEuVyAlAZFwExdkbZ.php
+,fArGo1911,2011-08-29T19:54Z,"Tutorial here:
+http://www.free60.org/Reset_Glitch_Hack"
+,fArGo1911,2011-08-29T19:58Z,"You will required special software and hardware to hack your xbox360:
+
+Prerequisites
+##################
+Installed Xilinx Lab Tools
+
+Software
+##################
+Python and Pyton Crypto
+Impact (from Xilinx Lab Tools)
+NandPro (>= v2.0e)
+
+Hardware
+##################
+USB SPI Programmer to dump/flash the Xbox360's NAND
+XC2C64A CoolRunner-II CPLD (aka Digilent C-mod)
+Socket for the CPLD
+XilinX JTAG Programmer cable
+1x 220pF capacitor
+Soldering material"
+,Flying_Poo,2011-08-30T17:47Z,"Really the only required hardware is a USB Jtag programmer or some way of reading the nand off the xbox and a programmed Digilent C-mod slightly modified. the tow combined is about the price you would pay for just about any other modchip. But since I already have 4 fat xenon Jtags, Im gana wait, sell them and get slims to mod for more reliability."
+,mike_1337,2011-08-30T21:25Z,"got this working now, yesterday i forgot to remove the cap from the cpld heheh
+
+btw newer version http://libxenon.org/index.php?topic=146.0"
+,jess8668,2011-09-29T23:41Z,could you upload the Software for this i cant find them

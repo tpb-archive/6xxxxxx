@@ -1,0 +1,11 @@
+Many users have complained about VueScan printing out watermarks when you choose to print out a scan, even thou you have entered the serial number and customer number and VueScan accepted it with an "OK" message.
+
+I bring you GOOD NEWS!
+
+As it turns out, it does help to create a few registry keys.
+
+You need to enter a serial number, that's the activation key, and you need to enter the corresponding customer number. The e-mail address can be anything.
+
+You can find serial number and customer number in the keygen. So you can generate these with the keygen and then manually add them to the registry, or you can, of course, also create a REG file and then merge with the registry.
+
+After you do this, you will NO LONGER have VueScan shitting watermarks on every printout. This should work for all 9.0 builds of VueScan.

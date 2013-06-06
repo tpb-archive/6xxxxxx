@@ -1,0 +1,19 @@
+User Type,Username,Date,Text
+,LocutusBorg,2011-09-02T15:08Z,thank you
+,pandit12,2011-09-05T10:30Z,Thnx again
+,teqno79,2011-09-06T10:12Z,"big thanks ;D, looked forward to some good quality rel's of smallville...been d/ling all of your rel's and gotta say that you did a really good job so far...i wonder do you have any plans for stargate atlantis?"
+[V],meech,2011-09-06T12:47Z,"Hi.  Thanks...and yes.  X-files is next, but then after that I am going to do Stargate Atlantis."
+,pandit12,2011-09-11T08:42Z,"Thanx... but
+
+Waht is wrong with this torrent? Ik seed 20gb of this thing and receive only 50%, "
+,pandit12,2011-09-14T08:11Z,"I have a ration of this torrent of 3.1 and I'm only seeding. over 2000 peers, And I don't receive any byte, for days 47%. What is wrong with this torrent??????"
+[V],meech,2011-09-14T13:12Z,pandit: it sounds like something is wrong with your torrent client.  Reporting over 2000 peers?  That is definitely wrong.  I would delete your current torrent and try downloading again.  And perhaps use a different client.  Are you using uTorrent?  I use that and have never had a problem.
+,pandit12,2011-09-28T07:36Z,"Hello Meech
+
+After I deleted the torrent file endid a recheck, the torrent was working. Thanx for your reply and off course your wonderfull posts"
+,thienkle,2012-01-20T02:20Z,PLEASE SEED!
+,spankie1300,2012-01-21T18:07Z,this torrent fucking sucks all it does is play part of the movie in vlc then turns off wtf
+,Tigercubette,2012-04-14T08:42Z,"Is it possible to get you to reupload the last 3 episodes of this. I tried redownloading, playing on different players and anything I could think of. There is either no sound on one player, or the sound and video is off."
+,kampeao,2012-04-17T23:11Z,All seasons and episodes with PERFECT quality so far...going for 4th season...thank you very much :)
+,ht0fff,2012-04-20T06:01Z,No audio in the last 3 episodes. Tried several SW players on 3 operating systems. Also on two HW players. Nothing works. Same problem on Season 5 from episode 13-22.
+,ht0fff,2012-04-20T06:36Z,I solved the audio mystery. The Matroska container is damaged. Solution: ffmpeg -i damaged.mkv -vcodec copy -acodec ac3 -ab 192k -scodec copy new.mkv

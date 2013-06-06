@@ -1,0 +1,42 @@
+Official Web Site:  http://www.stclairsoft.com/DefaultFolderX/index.html
+
+Description
+
+Default Folder X attaches a toolbar to the right side of the Open and Save dialogs in any OS X-native application. The toolbar gives you fast access to various folders and commands. You just click on the buttons to go to your favorite and recently used folders, manage the folders and files shown in the list, and make changes to your settings.
+
+Default Folder also fixes a number of problems in Open and Save dialogs, \"rebounding\" back to the last selected file, putting the path listing back in the top menu, and correcting bugs in scrolling column views.
+
+What\'s New
+
+* Added support for TextEdit and Preview in Lion.
+
+* Corrected errors at startup that prevented Default Folder X from loading
+  reliably on some Lion machines.
+
+* Eliminated debugging and error messages that Default Folder X was
+  printing in the Console log.
+
+How to install a new version:
+
+[01] Turn off Default Folder in its preference pane.
+[02] Close the preference pane.
+[03] Open the following .plist file in PlistEdit Pro:
+~/Library/Preferences/com.stclairsoft.DefaultFolderX.plist
+[04] Click on the triangle for Settings:
+[05] Scroll down and locate the following three rows:
+[06] Double-click on the Value and change it to:
+RegisteredCode: [SN]
+RegisteredName: [Name]
+RegisteredOrganization: [Organization}
+[07] Save and close this .plist file.
+[08] Run the installer for a new version.
+[09] DO NOT click on Launch at the end of installation.
+[10] Instead, click on Preferences.
+[11] Click on the On button and check Enable at Login.
+[12] Use Little Snitch to block all outbound calls.
+
+System Requirements:
+
+OS version: Mac OS X 10.5 or later
+
+--- PLEASE SEED ---

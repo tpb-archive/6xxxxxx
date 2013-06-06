@@ -1,0 +1,94 @@
+User Type,Username,Date,Text
+,Netarangi,2011-08-20T08:58Z,Sweet cheers. Wanted a smaller sized one.. heard it's pretty shit and a shitty port so didnt want to waste 1.5gb
+,alleasy23,2011-08-20T09:35Z,ty KaOs  
+,nickelbackfan,2011-08-20T10:38Z,I have a problem. It installed fine but when i click on the .exe there comes a little window with no text in it and i can only click OK. after that nothing happens
+,amit3945,2011-08-20T10:40Z,"Thanks..but why is the size almost 2.5 gigs?Most of the other torrents are around 1.4.
+Also everytime I click on the exe it gives me a Internet access problem error.
+Seems like internet IS required everytime you want to start the game.
+Any idea how I can bypass that as well?"
+,Netarangi,2011-08-20T11:13Z,Yep there's an error. Will try skidrow crack only and reply with results.
+,smsheese,2011-08-20T11:51Z,did skidrow crack work??
+,amit3945,2011-08-20T12:15Z,"Yup works for me.....
+Install with KaOs
+Extract Skidrow offline crack and overwrite all in the game folder
+Run exe...and you are through....:-)"
+,Netarangi,2011-08-20T12:22Z,"Nope.
+
+Ffs why release a game without testing it? Seriously. Wastes everyones fuckin' time and bandwidth."
+,Netarangi,2011-08-20T12:23Z,"Amit, link to crack you used."
+,amit3945,2011-08-20T14:32Z,"It's on TPB
+Link :
+http://thepiratebay.org/torrent/6617241/From.Dust.Offline.Fix-SKIDROW
+
+hope it works for you."
+,llnation26,2011-08-20T14:56Z,"Game Doesn't work here, even with the crack still nothing. And i do nothing wrong..
+
+-Clean installation
+-Extracting crack ( Copying them in the game folder)
+- and then run.exe 
+
+Im getting a sounds of error.. "
+,anuzbitt,2011-08-21T04:32Z,update game first then overwrite....
+,PaulAl,2011-08-21T13:38Z,"Works fine sofar:
+1. install
+2. run & let update
+3. overwrite w/ offline fix
+4. delete *.wav in BinPC (no longer needed)
+5. Final size: 1.66 GB"
+,gautamb42,2011-08-21T15:07Z,Works great thanks :)
+,DangerDan43257,2011-08-21T15:21Z,"yeah this release worked fine first time for me without the need of a fix, n yeah they forgot to delete unneeded audio, check your releases guys but yes nice job spot on :)"
+,Netarangi,2011-08-21T23:15Z,Bullshit. This DOES not work. Even with a clean install and the offline fix. Get a blank message
+,DragonXG,2011-08-23T13:07Z,"After trying the SkidRow (and the Offline fix) and the Kaos releases, FD still didn't work.
+Running From_Dust.exe just got a small blank dialog.
+I found a way to generate the UbisoftGameLauncher command line parameters, and using the Orbit folder was able to get into the Launcher, use any code, but when clicked Play, FD crashed.
+Look in the launcher Logs, use a Base64 converter for the path and put it together in a BAT.
+I found FD looking for the UGL in D:\, regardless of the registry saying otherwise.
+The solution... I put the FD folder onto a blank USB drive and the 'contents' of the Orbit folder into the root of the same drive.
+Sorry, I cannot remember where I got the UGL.exe that accepts any code, but it wasnt from KaOs or the SkidRow cracks. I tried many combos, so am not sure what came from where.
+From_Dust.exe then worked, started the Launcher, which accepted any code, and Play ran the game.
+Oh... another thing, I also use a Mimo 7"" USB LCD, managed by DisplayFusion.
+The game wont run with the second 'monitor' on. Dungeons (Kalypso Media) has the same problem.
+Hope this helps all those not able to play. Good luck. "
+,sansyeux,2011-08-23T14:10Z,"game works, but I have no audio, only in a few videos. does the audio work for anyone else?
+
+well, did extraction did crash at some point but I thought it was because of one fo the extra installers.
+anyhow thanks!
+
+I 'm loving this game.
+"
+,sansyeux,2011-08-23T14:12Z,excuse my typos lol
+,sansyeux,2011-08-23T14:28Z,kaosi. exe crashes - is this reason why audio isn't working?  it always crashes for me=
+[V],gansuk,2011-08-23T15:01Z,@sansyeux yeah kaosi rebuilds the games audio.
+,sansyeux,2011-08-23T17:07Z,"@gansuk
+
+sorry to be a bother, I tried 4 times and then  restarted my PC, I tried again  and this  problem i56.tinypic(.)com/673952.png -still happens.
+
+any tips to fix the situation?
+"
+,PaulAl,2011-08-26T12:36Z,"@sansyeux 
+the tool MUST run within the BinPC folder (as done by the install batch file).
+if running under vista/win7, chances are - running with admin rights - that it starts in your system directory...
+2 suggestions:
+a. add following just in front of arc commands:
+%~d0
+cd %~dp0
+(ensures that it executes in your game folder)
+b. open command box in BinPC, and perform Kaosi task manually (see batchfile for full command line)
+
+cheers,
+pol"
+,sansyeux,2011-08-29T04:46Z,"@PaulAl 
+
+thank you sir :D"
+,Dude93,2011-09-01T17:33Z,"Dude you rock!!! I downloaded most of your games.
+And i want to ask you ( if you can of course) upload MORTAL KOMBAT 9
+Or 
+Aliens Vs Predator 3
+I'd bee very appreciated.
+ Hope you see this"
+,stealthsilent,2011-09-10T15:25Z,How would you generate the UbisoftGameLauncher command line parameters? All it does when I click on the ubisoftGameLauncher is tell me that it cannot be started directly. 
+,erwin0629,2011-09-16T12:04Z,is this clean my anti virus detected it as a virus..
+,wolf277,2011-12-19T01:26Z,why has everyone downloaded this AND NOBODY IS FUCKING SEEDING!?!?!?!
+,AbhijeetSingh307,2012-01-14T18:35Z,plz seed guys this is very nice torrent ... n awosome game thanks gansuk
+,AbhijeetSingh307,2012-01-14T18:36Z,plz seed guys this is very nice torrent ... n awosome game thanks gansuk kaos
+,wickets123,2012-02-15T14:30Z,please seeeeeeeeeeeeeeeeeeeeeeeeeeeed

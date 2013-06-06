@@ -1,0 +1,188 @@
+The Bird With the Crystal Plumage [BDRip-1080p-Mkv-Ita/Eng-Ac3][Nautilus-BT]
+
+
+
+[ About file ]
+
+Name: L'uccello dalle piume di cristallo - The Bird With the Crystal Plumage [BDRip-1080p-Ita-Eng-Chapters][RiP By MaX].mkv
+Date: Thu, 08 Sep 2011 03:01:57 +0200
+Size: 4,703,128,123 bytes (4485.252 MiB)
+
+[ Magic ]
+
+Tipo file: data
+
+[ Generic infos ]
+
+Duration: 01:36:31 (5790.88 s)
+Container: matroska
+Production date: Thu, 08 Sep 2011 03:00:20 +0200
+Total tracks: 3
+Track nr. 1: video (V_MPEG4/ISO/AVC) [L'uccello dalle piume di cristallo - The Bird With the Crystal Plumage [BDRip 1080p][RiP By MaX]] {ita}
+Track nr. 2: audio (A_AC3) [Ita Ac3 5.1] {ita}
+Track nr. 3: audio (A_AC3) [Eng Ac3 5.1] {eng}
+Muxing library: libebml v1.2.1 + libmatroska v1.1.1
+Writing application: mkvmerge v4.9.1 ('Ich will') compilato con Jul 11 2011 23:53:15
+
+[ Relevant data ]
+
+Resolution: VERY HIGH (1920 x 820)
+Width: multiple of 32 (GOOD)
+Height: multiple of 4 (16 would be better)
+Average DRF quality: LOW (29.49)
+Standard deviation quality: HIGH (0.635)
+Std. dev. weighted mean: HIGH (0.592)
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1920 x 820
+Frame aspect ratio: 96:41 = 2.341 (~2.35:1)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 96:41 = 2.341 (~2.35:1)
+Framerate: 23.976 fps
+[debug] codec private: 57 bytes
+Stream size: 4,145,664,201 bytes (3953.613 MiB)
+Duration (bs): 01:36:31 (5790.827 s)
+Bitrate (bs): 5727.216 kbps
+Qf: 0.152
+
+[ Audio track nr. 1 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 277,962,240 bytes (265.085 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 180,965
+Duration (bs): 01:36:31 (5790.88 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 384 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 2 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 277,962,240 bytes (265.085 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 180,965
+Duration (bs): 01:36:31 (5790.88 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 384 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 116 r2074 2641b9e | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=5 | deblock=1:0:0 | analyse=0x3:0x133 | me=umh | subme=7 | psy=1
+User data: psy_rd=1.00:0.00 | mixed_ref=1 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=1
+User data: chroma_qp_offset=-2 | threads=6 | sliced_threads=0 | slices=4 | nr=0
+User data: decimate=1 | interlaced=0 | bluray_compat=1 | constrained_intra=0
+User data: bframes=3 | b_pyramid=1 | b_adapt=2 | b_bias=0 | direct=1
+User data: weightb=1 | open_gop=1 | weightp=1 | keyint=240 | keyint_min=23
+User data: scenecut=40 | intra_refresh=0 | rc_lookahead=40 | rc=2pass
+User data: mbtree=1 | bitrate=5727 | ratetol=1.0 | qcomp=0.60 | qpmin=10
+User data: qpmax=51 | qpstep=4 | cplxblur=20.0 | qblur=0.5 | vbv_maxrate=40000
+User data: vbv_bufsize=40000 | nal_hrd=vbr | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 4
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 138,841
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices: 45193 ( 32.550 %) ##########
+B-slices: 92746 ( 66.800 %) ####################
+I-slices:   902 (  0.650 %)
+SP-slices:     0 (  0.000 %)
+SI-slices:     0 (  0.000 %)
+
+[ DRF analysis ]
+
+average DRF: 29.49
+standard deviation: 0.635
+max DRF: 35
+
+DRF&lt;24:     0 (  0.000 %)
+DRF=24:     3 (  0.002 %)
+DRF=25:    14 (  0.010 %)
+DRF=26:   304 (  0.219 %)
+DRF=27:  1051 (  0.757 %)
+DRF=28:  3491 (  2.514 %) #
+DRF=29: 60711 ( 43.727 %) #################
+DRF=30: 72331 ( 52.096 %) ####################
+DRF=31:   726 (  0.523 %)
+DRF=32:   105 (  0.076 %)
+DRF=33:    38 (  0.027 %)
+DRF=34:    64 (  0.046 %)
+DRF=35:     3 (  0.002 %)
+DRF&gt;35:     0 (  0.000 %)
+
+P-slices average DRF: 29.537
+P-slices std. deviation: 0.635
+P-slices max DRF: 35
+
+B-slices average DRF: 29.494
+B-slices std. deviation: 0.57
+B-slices max DRF: 31
+
+I-slices average DRF: 26.692
+I-slices std. deviation: 0.674
+I-slices max DRF: 30
+
+[ Profile compliancy ]
+
+Selected profile: BDRip 1080p
+Resolution: Ok
+Framerate: Ok
+Min buffer fill: 94%
+
+[ Edition entry ]
+
+UID: 1004927135
+Hidden: No
+Selected by default: No
+Playlist: No
+Chapters: 
+00:00:00,000-00:02:12,215: 01 {und}
+00:02:12,215-00:04:00,115: 02 {und}
+00:04:00,115-00:07:45,298: 03 {und}
+00:07:45,298-00:11:30,940: 04 {und}
+00:11:30,940-00:14:40,963: 05 {und}
+00:14:40,963-00:18:02,707: 06 {und}
+00:18:02,707-00:21:55,397: 07 {und}
+00:21:55,397-00:25:01,709: 08 {und}
+00:25:01,709-00:29:02,407: 09 {und}
+00:29:02,407-00:32:14,349: 10 {und}
+00:32:14,349-00:37:12,647: 11 {und}
+00:37:12,647-00:41:20,144: 12 {und}
+00:41:20,144-00:46:39,547: 13 {und}
+00:46:39,547-00:49:05,442: 14 {und}
+00:49:05,442-00:52:15,341: 15 {und}
+00:52:15,341-00:56:36,810: 16 {und}
+00:56:36,810-00:59:33,320: 17 {und}
+00:59:33,320-01:05:28,133: 18 {und}
+01:05:28,133-01:11:21,486: 19 {und}
+01:11:21,486-01:17:25,683: 20 {und}
+01:17:25,683-01:21:41,772: 21 {und}
+01:21:41,772-01:24:57,175: 22 {und}
+01:24:57,175-01:30:05,358: 23 {und}
+01:30:05,358-01:32:56,821: 24 {und}
+01:32:56,821-01:34:54,647: 25 {und}
+01:34:54,647-01:36:30,880: 26 {und}
+
+This report was created by AVInaptic (25-07-2011) on 11-09-2011 15:29:34

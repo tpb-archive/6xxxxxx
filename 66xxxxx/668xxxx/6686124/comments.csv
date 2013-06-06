@@ -1,0 +1,23 @@
+User Type,Username,Date,Text
+,stevie.c,2011-09-21T23:53Z,"Does anyone know how I can seed faster? I have very quick internet, yet I'm only seeding each torrent at like 40 kbps? I have my upload max set to 0 (unlimited) so I don't know what else to do. If anyone else knows, please help me out. I'd like to upload these torrents for you as fast as possible. Thanks! :)"
+,Pirate_P,2011-10-08T12:33Z,"If your using uTorrent go to ""Options"", ""Preferences"", on the left select ""Bandwidth"".
+
+0 = unlimited
+
+At the top you will see ""Maximum upload rate""
+If you enter 0 it will use as much of your connection as possible. "
+,Pirate_P,2011-10-08T12:36Z,"Check your firewall and open the port your bittorent client is using. If your router has UPnP enabled you may not need to open the port.
+
+Also your router can have a throttling effect if it has a hard time keeping up with the many connections a torrent makes. "
+,Pirate_P,2011-10-12T01:49Z,"I do not see any seeds. :-(  
+It sounds like your having a hard time uploading. 
+
+For fast seeding Google ""seedbox"".
+
+A seedbox is a dedicated server used for uploading with a throughput of 100 Mbit/s +.
+
+Just watched a few episodes. Very Funny :-)"
+,stevie.c,2011-10-13T07:57Z,Thanks everyone. I've been waiting for some feedback. Sorry it wasn't seeding for the day. My computer shut down for some reason and I didn't know it til just now cuz I haven't been on it. I really do appreciate the feedback. I'll try and do that so I can't get these seeding for you faster. :)
+,geoffy23,2011-10-26T14:37Z,"Thanks stevie.c! Do you have Partridge Family, Waltons, Diff'rent Strokes? We all appreciate your hard work!"
+,dibols,2012-03-09T19:13Z,"To seed faster & download for U torrent, push CTRL ALT DEL & push start task Manager, click processes, Scroll down to uTorrent.exe, right click on it & go to Set Priority, set it to high "
+,WeanedOnGin,2012-05-05T10:39Z,"Thank you Stevie.C, looks like you put a lot of effort into this. Hell of a first torrent. Uploaders rule! Whoo-hoo!"

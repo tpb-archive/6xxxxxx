@@ -1,0 +1,23 @@
+User Type,Username,Date,Text
+,Charlie117,2011-08-20T20:23Z,This works with Tinyiso version.
+,Charlie117,2011-08-20T21:05Z,"woops, that was a question :)"
+,Bidbits,2011-08-21T04:13Z,"Works like a charm on the THETA release (obviously), thanks for the upload."
+,Strikefear13,2011-08-21T04:21Z,"Changelog
+# Updated the default ""Slinger-style"" WASD controls to make the character move relative to the isometric perspective.
+Note: In the previous update, this required using a commandline parameter ""-isomovement"", which is no longer necessary. To restore the original setting, use the new commandline parameter ""-orthomovement"".
+# In-game menus now respond to right-clicking as well as left-clicking.
+# Added support for resolutions greater than 1920x1080, at which visual issues with the background visuals could occur.
+# Fixed several issues that were causing the game to crash for some players.
+# Fixed an issue in Burstone Quarry that could cause players to get locked out of the level's final area.
+# Fixed an issue in Mt. Zand that could cause players to get locked out of the level's final area.
+# Fixed an issue in Zulten's Hollow that caused the level's weapon pickup animation not to play.
+# Fixed an issue in the Bullhead Trial where the text stated that the Gold Prize requirement involved completing the trial having taken less than two hits instead of three.
+# Fixed an issue causing the opening splash screens to overlap when running the game using the ""-nofixedstep"" commandline parameter, which unlocks the frame rate.
+# Fixed a rare issue where weapon slots at the Arsenal could become unselectable."
+,wira020,2011-08-21T18:52Z,DO i need the previous update? or does this one already contain it and just use this? thanks for the up.
+,miguelsz3,2011-08-21T23:27Z,It should contain fixes from previous updates.
+,ZtorkX86,2011-08-22T11:57Z,"http://www.virustotal.com/file-scan/report.html?id=5544f33db1fdce10a3872b47d5724c7bccad771e3fe8a7255819b4f4b4f14c3e-1314006741
+
+That wasn't few hits. Most of them are probably false but how can we be sure all are safe?
+
+Anyone tried it for a while?"

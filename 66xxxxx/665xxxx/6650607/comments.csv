@@ -1,0 +1,235 @@
+User Type,Username,Date,Text
+,Slorv,2011-09-06T07:22Z,How about some seeding!!!
+,tricky10601,2011-09-06T23:57Z,"hey guys...i have the edge 800 w city navigator US...i am going to belgium tomorrow and want to get europe on my unit...i downloaded this torrent and dont know how to get the euro map on my device...sorry, im new and could really use the help"
+,Ipmark,2011-09-07T01:18Z,"Decompress with Winrar the Western Europe.
+Full format a 2GB SD with filesystem FAT32 and create a folder named Garmin.
+Copy the gmapsupp.img file in the SD's Garmin folder."
+,tricky10601,2011-09-07T03:40Z,"thanks ipMark, was wondering about the 8 diff parts to western europe, do i unrar all of them, or are they each the same?  "
+,tricky10601,2011-09-07T03:50Z,"also, i loaded uk/ireland map, saw it on the unit as CN Europe NY, enabled it, and when i went to zoom in there was no detail for ireland or UK, it was no diff than if i didnt have the sd card in it...any thoughts?"
+,Ipmark,2011-09-07T09:58Z,"Every ...partx.rar is .... a part of the map.
+Decompress ONLY ...part1.rar file, the program will join togheter all other parts of the map.
+On your Edge you can put multiple maps on the SD, you can give them names like Benelux.img, UK-Ire.img, France.img, etc., but be careful not to activate 2 maps that overlap at the same time.
+If you can select the map, it is installed and working; keep in mind that these are road maps and not topographical ... 
+Zoom in to see the map detail.
+Bigger maps (Western Europe) have the same detail of the smaller (Benelux)."
+,tricky10601,2011-09-07T14:40Z,"Thanks IPMark, but again, when I decompressed benelux, i got a powerISO gmapsupp file, i created a folder titled garmin, added the PowerISO file to the garmin folder that was now titled gmapsupp.img, put the sd card in my unit, and enabled the map in map settings...but there is still no detail to the europe map, no roads..just countries, and major cities....what am i doing wrong?"
+,tricky10601,2011-09-07T14:43Z,"correction, i decompress using WinRAR, and what appears after is a PowerISO file titled gmapsupp, which i then title gmapsupp.img....my flight leaves at 4pm eastern today, im hoping to get this resolved...if IPMark or anyone wants to email me directly to help me, please do, I would be grateful...rpayne76@hotmail.com....i apologize for being an idiot on this forum"
+,Ipmark,2011-09-07T17:05Z,"Do NOT rename the maps!
+All map of this torrent are already gmapsupp.img file !!
+Your PC hide the extension for know filetype.
+If you rename maps you add another extension to the file (gmapsupp.img.img) and the nav cannot recognize them."
+,arty69,2011-09-13T04:06Z,"Typically even for IMG files one needs to know map FIDs and use them along with a garmin unlock tool to generate a file (like garmin.unl) to be placed into the root of folder of your device. There's no mention of FIDs here, is it right?"
+,casperboo,2011-09-13T06:46Z,"arty69, did you even read the title of this torrent?  It says ""Unlocked IMG Maps"" so why on earth are you asking about FIDs to unlock the maps with a generator when the ARE ALREADY UNLOCKED!"
+,Ipmark,2011-09-13T12:46Z,"How to see these maps on the PC:
+
+Download Basecamp from Garmin website, it's an update but if you haven't a previous version already installed on the PC, simply decompress the executable with Winrar in a temporary folder and launch BCMAIN.msi, then overwrite the original Basecamp.exe with the patched one (search TPB for Basecamp v3.2.2 Patched exe).
+
+Download Gmaptool (free, search the web, latest version is the v0.6.0b) and install in the PC.
+
+With Gmaptool load a map (gmapsupp.img) goto to Options > Flag Advanced Options; goto Join section, set Output File (ex.gmapsup2.img), Mapset (click on Info button to see the original one, however you can change it as you want), flag Version in header > set Ms to 0 (zero), click on Join selected.
+
+Copy the modified map on a pendrive (Garmin folder)
+
+Start Basecamp, it wil recognize the pendrive with the map, select the map.
+
+Enjoy !! "
+,weckri,2011-09-15T19:44Z,"Oh my god - this really works (on nüvi 250)!!!
+
+THANK YOU!!!!"
+,fullkoll,2011-09-16T11:59Z,"Works OK, thanks!
+Is there a way to show 2012.20 in the Mac version of BaseCamp?"
+,king8765,2011-09-16T12:21Z,"Thanks in advance. Sorry for a newbie question, but can I extract the img file to the internal memory and overwrite the existing map or is it absolutely essential to use an SD card?"
+,Ipmark,2011-09-16T17:02Z,"@fullkoll
+On MAC systems BaseCamp should work the same way (pendrive, Garmin folder).
+
+@king8765
+It's preferable to test the new map on an SD card to avoid any possible problem (download errors and incompatibilities), if everything is ok, you might think to copy the map in the internal memory of the GPS.
+It's very difficult to remove from the internal memory a map that crashes the GPS during the startup...."
+,king8765,2011-09-16T17:15Z,Thanks Mark.
+,shaattie,2011-09-19T16:21Z,"Thanks Ipmark.
+ Great I can load maps onto Garmin 660 2Gig card using Mapinstall.
+Thanks again."
+,morghath,2011-09-21T18:01Z,Amazing work my friend perfect on a nuvi 760 Big thanks
+,markoj38,2011-09-30T21:45Z,"Hello Ipmark. Thank you for this first of all. My question is this - when I have the data on the card, and I insert it into my Navi system, what then? I'm not the best at this kind of thing. Do I have to locate the file then change it or what? 
+Please help. I have a Garmin Nüvi 255 if that's any help.
+Thanks again."
+,Ipmark,2011-10-01T23:43Z,"Update Nuvi's firmware to the latest with Webupdater.
+Full format the SD with filesystem FAT32.
+Create a folder named  Garmin and put the map on it.
+On the SD you can use only maps named gmapsupp.img so only 1 at time (this is for the oldiest Garmin models, latest models can use multiple mapnames).
+Select the map in Wrench > Settings > Maps > MapInfo."
+,webspyder,2011-10-05T16:30Z,OMG!! It works! I had some difficulties in getting the .img file to show but i finally succeded and it now works with the 'latest' map -s  :-)  THANKS Ipmark!!
+,RafVne2,2011-10-06T12:50Z,"Still downloading, but Thank You in advance to the uploader."
+,basherbobski,2011-10-11T18:41Z,"Excellent job, Ipmark
+Just put this onto my nevi 200 stick; works a treat.
+Thanks a lot.
+One question; when I go to select maps, I get your 2012 map, and  my original 2010 map as tick boxes.
+Should I tick both, or only the new one.
+Thanks again, Bob"
+,Ipmark,2011-10-12T00:41Z,"Tick only the new one.
+Do not use simultaneously 2 maps that overlap."
+,strowley,2011-10-12T11:47Z,can these IMG files be used with the Mobile XT version?
+,Ipmark,2011-10-12T18:02Z,Yes.
+,mak505,2011-10-21T15:02Z,"If I want Eastern and Western Europe on my nuvi, do I have to decompres Part 1 west and part 1 east europe and copy to SD separatly??"
+,Jasperv6,2011-10-21T16:02Z,"@Ipmark:
+Sorry for the noobish questions ;p 
+- Setp 1: So I have only to uppack the Western Europe NT part 1 to the gmapsumpp.img?
+- Dont extract part 2 ect?
+
+- Open it with the Gmaptool & Basecamp is only to see the maps on the PC? 
+
+- Step 2: Extract this to a Sd card, in a map called Garmin?
+- And it will recognise itself with my nuvi 660 if I put the sdcard in it?
+- if I have to extract part 2,3 ect also > they overwrite themselfes.
+
+So I make an Sdcard with Garmin> Western Europe part 1 map + w.e. part 2 ect.. > put in the maps the files gmapsumpp.img??
+(or do ive only put part1 on my sd card?)
+
+Thanx allot with this one! Saves huge amount of money ;p"
+,Ipmark,2011-10-22T02:12Z,"@both
+Decompress with Winrar ONLY the ...part1.rar file, the program will join togheter all other parts automatically.
+
+@mak505
+Decompress Eastern and Western map in separated folder, then put the Eastern in the internal Nuvi memory and the Western in a 2GB SD, both in the Garmin folder.
+In Wrench>Settings>Maps>Maps Info you will see the two maps installed.
+
+@Jasperv6
+See above, at @both
+The procedure with Gmaptool & Basecamp is only to see the maps on the PC.
+Put the gmapsupp.img file in a SD's folder called Garmin, the SD (2GB capacity works for sure) MUST to be full formatted with filesystem FAT32 (NOT NTFS !!)."
+,Jasperv6,2011-10-23T13:53Z,"I do something wrong..
+
+Ive decompressed only part 1 of western. Copied that gmapsupp.img file to my 2GB sd card (formatted on fat32) and put it into a folder called 'Garmin'.
+
+When I put the SD card in my Nuvi 660 I seached by Maps-info and see only 1 map called v9 ect..
+
+Is there a manner to 'test' my SD card? For example put some video's in the map as well? So I'been sure the nuvi recognises the sd card.
+Thnx"
+,Jasperv6,2011-10-23T13:59Z,"I do something wrong..
+
+Ive decompressed only part 1 of western. Copied that gmapsupp.img file to my 2GB sd card (formatted on fat32) and put it into a folder called 'Garmin'.
+
+When I put the SD card in my Nuvi 660 I seached by Maps-info and see only 1 map called v9 ect.."
+,Ipmark,2011-10-23T15:48Z,"Very strange ....
+Your procedure seems ok, if you wants to test the SD, create a folder Garmin\Poi and put inside a file .gpi (Point of Interest), there is a lot of Poi files in Garmin site.
+Switch on the Nuvi, during boot the GPS should ask you for copying the Poi in the internal memory, answer NO.
+If you have this message the Nuvi recognizes the SD, otherwise NO.
+If the Nuvi still doesn't recognize the map,
+re-full format the SD (FAT32) and repeat the map copying procedure.
+Another thing: insert the SD BEFORE to switch on the Nuvi!!"
+,Ipmark,2011-10-23T16:02Z,"Another test:
+Download Gmaptool (free, search the web, latest version is the v0.6.0b) and install in the PC.
+
+With Gmaptool load a map (gmapsupp.img) goto to Options > Flag Advanced Options; goto Join section, set Output File (ex.gmapsup2.img), Mapset (click on Info button to see the original one, however you can change it as you want), flag Version in header > set Ms to 0 (zero), click on Join selected.
+
+Copy the modified map on a pendrive (Garmin folder), rename it to gmapsupp.img
+
+Download Basecamp v3.2.2 from Garmin website, download the patched exe from TPB's (mine) torrent, install and patch it.
+Start Basecamp, it wil recognize the pendrive with the map, select the map."
+,cougarric97,2011-10-24T21:16Z,"Sorry for not knowing much about this (I'm trying to put the maps on for my father).
+
+Does the Garmin Etrex Vista only allow maps via the micro SD card that I guess is not included, or is there some internal memory in it that will allow me to transfer the files in?
+
+Thanks in advance."
+,mak505,2011-10-25T02:12Z,"Thank you, but problem accured. My internal memory is 479 Mb large(nuvi200). I deleted old maps but still I cant menage to have 466 Mb free for Eastern Europe. If I delete some voice-text files from Garmin folder still need 20Mb. Any idea?? "
+,mak505,2011-10-26T00:27Z,"What if I buy 4Gb SD and maps free internal memory??? If yes, do I have to make 2 Garmin folders on SD and put different maps...or..."
+,Ipmark,2011-10-26T15:56Z,On the Nuvi 200's SD you can put ONLY 1 map (gmapsupp.img in Garmin folder).
+,alexei63,2011-10-26T18:32Z,I'm using a nuvi 1400 series. Can I just put everything on a bigger size SD card like an 8 GB and just run it from it instead of putting part of it on the internal memory of the unit and the rest on the card? This is a card that I was using on my camera for pictures...Is it already formatted with FAT32 as you suggested here?
+,alexei63,2011-10-26T21:39Z,"Anybody please help! I downloaded the file and when opened had a list of every country map, and then the different parts of western europe. I extracted all the files, by selecting select all and got a message that gmapsupp.img already existed, if I wanted to replace it, and I selected yes to all. Is this OK? Or have to do country by country? I'm a newbee, very confused. Please help!"
+,alexei63,2011-10-26T22:00Z,"One more question, and maybe I will sound stupid, but the reason that all the countries are in different files seaprately is if you just want that country only? The one that says western europe will include all those countries anyway (Spain, Portugal, France, Italy, etc)?"
+,Ipmark,2011-10-26T23:28Z,"@alexei63
+
+1) yes (I think)
+2) Decompress with Winrar ONLY the ...part1.rar file, the program will join togheter all other parts automatically. 
+Use a specific folder for each map.
+3) Older Nuvis models have limited computing power and it is preferable to use a small map instead a big one."
+,compasser,2011-10-28T04:47Z,"a question please:
+are these maps general for most of Garmin portable navigators? ex: garmin nuvi 1440 5"" will this maps work on it? I am a new-by  and want to buy a navigator but worried about the updates issue! and is garmin nuvi 1440 good anyway?"
+,JUCA14,2011-10-28T05:43Z,I LOVE you man...NO Homo tho. Yea the easiest way is to get yoself a 4GB MicroSD and place the merged .img file you made with GmapTool in the Garmin folder on the root dir on the microSD. Easy!!!
+,cougarric97,2011-10-28T15:02Z,"Ok, My mini sd card has arrived and I'm trying to get everything right before I travel to my fathers to try it in the garmin etrex vista he's just bought.
+Can someone clarify whether what I have done will work, and also whether there is anything I need to do in mapsource to enable it.
+I've formatted the mini sd to fat32. Made a folder on it called ""Garmin"", and copied the extracted UK file directly into that folder.
+Is it just a matter of inserting it into the handset or do I need to do something in mapsource?"
+,Ipmark,2011-10-28T21:19Z,"@compasser
+These maps works on all Garmin GPS that support NT technology (all Nuvis and later)
+
+@cougarric97
+That's all."
+,4trevor,2011-10-29T13:08Z,"OK Guys, so hereâ€™s how it worked for me on a Garmin Nuvi 1240
+
+I downloaded the torrent which contains combined maps for both W&C Europe, Eastern Europe & individual maps for all the regions as listed.
+
+I also downloaded software called Gmaptool but I will come to that later.
+
+Next I unzipped the region I wanted (in my case I wanted all of Europe for a planned  long distance trip in my Camper), in each case there will be a file named Gmapsupp.img, save a copy of this file somewhere safe then rename to Emapprom.img.
+
+Next connect your Garmin to your PC, make a back up of all the folders & files in case of emergency then browse the main Garmin folder on the device not the memory card, there you will find a system folder which contains the original Gmapprom.img file, delete this file and replace with the file you downloaded & renamed  and hey presto all should be fine with the latest maps.
+
+As I wanted the entire maps of Europe I needed to combine the maps for West & Wast Europe into one, this is where the Gmaptool comes in, first place a copy of an old Gmapsupp.img file somewhere convenient then  start the software, on the main page (files tab) add any maps you want to combine then select join from the menu, this takes you to the join tab, at output file browse for the old Gmapsupp.img you saved earlier, in Mapset Name give it a name so you can see it on your Garmin, I called mine â€˜All Europeâ€™, rename the new file to Gmapprom.img and use as above.
+
+Happy Travelling"
+,4trevor,2011-10-29T13:16Z,"Hi Again
+
+Just a little extra, before adding the combined East & West Europe maps I made room on the device by deleting the unwanted languages from the Voice folder to make enough room for the file, 2 files for each language.
+
+Cheers"
+,Loupac,2011-11-07T22:58Z,Thanks - worked fine on my Nuvi 310 and finally one with the Malta maps included. 
+,cudsuk,2011-12-06T22:20Z,"I know this is a stupid question but i have the 2011 update on a sd card and it works fine , but my old 2008 is still in internal and keeps saying i need to update , can remove my old one and just download the uk and ireland maps from this and pop it on the SD card ? if so can someone do a step by step so i don't mess it up , cheers :)"
+,renault28,2012-01-07T13:07Z,"Very thx Ipmark. 
+It's possible download all this map but in one folder for use map world ?
+
+Sorry for my english :s , i'm french."
+,2narmy,2012-01-16T18:37Z,"@Ipmark
+
+Hi There
+
+I want to put the western europe maps on to my nuvi 660. There are several folders in winrar, 8 to be exact. How do i put them all into the folder on the garmin named gmapsupp? i want to put them directly rather than use a card, is this possible.
+
+thanks"
+,taemurz,2012-01-21T22:25Z,"Ipmark: might be a silly question mate, but how do I upload these files onto my nuvi 1410 ? I already installed the Mid East maps from your other post to the main device memory and I want to upload the this set into the 4GB SD card. Any help would be highly appreciated. Thanks."
+,honda_guy,2012-02-02T19:35Z,Ipmark u a genius. thanks 4 effort in uploadin this worked on my nuvi 250w!! :)
+,Malborough,2012-02-06T06:35Z,"Having downloaded Garmin City Navigator Northï»¿ America NT and Europe NT, I installed the North America map into the garmin folder in my nuvi 360 as gmapprom.img per instructions and it works great. Thanks. Then I inserted a 4 GB SDHC FAT32 card into my nuvi, which is supposed to work with the latest nuvi software, renamed it GARMIN, created a folder in it called garmin, and loaded the Europe map into it as gmapsupp.img. I cannot see the Europ map and it is not in the Map Info list. Can anyone help? "
+,Malborough,2012-02-06T13:33Z,"I re-downloaded the torrent, extracted the map of the country I am interested in, Italy, loaded it into my nuvio 360, and now seem to have no problem. I can see the map of Italy, and I can program in an address in Italy. Thank you very much. If I try to create a route to a location in Italy, I get an insufficient memory message. I think it's because I am in North America. I am not sure how to make the nuvi think I am at a location in Italy, so I can make sure the route creation works properly."
+,tyler305,2012-02-21T15:44Z,"Stupid newbie question sorry.  Can I download this directly to my Garmin or do I have to get an SD card and put on there? Also do these include Ireland?
+
+Thanks!"
+,Achilless,2012-04-08T16:42Z,How to unrar all of this?
+,216579687,2012-04-14T00:09Z,"Works perfectly, thanks!
+Now I am going to fetch the newest version of those maps."
+,russellmillerthehero,2012-04-25T10:11Z,"Alright to all of you having trouble with this, i battled with getting this right for hours, so im hoping to help someone who is having problems. I have a Garmin Nuvi 255w and a 4gb SD card and i have ALL of the european maps on my GPS
+1. download this torrent (trust me it works)
+2. If you dont have WinZip, download and install it. (you must have this to unzip the compressed files, my computer did not come with it, but you can download here. 
+http://thepiratebay.se/torrent/5944822/WinZip_PRO_FINAL_v15.0___Serials_[ChattChitto_RG]      
+3. Unzip the western europe maps and eastern europe maps ONLY. All the other maps are included in these two so you dont need all to bother with all the rest. You will have to save them in different folders because they are going to unzip with the same name, ""gmapsupp""  DONT RENAME OR THE GARMIN WILL NOT RECOGNIZE THE MAPS
+4. Plug your garmin into your computer, BEFORE YOU LOAD ANYTHING ONTO YOUR GARMIN SAVE THE OLD FILE ""gmapsupp"" TO A SAFE PLACE OR YOU WILL LOSE YOUR CURRENT MAPS(you might as well back up the entire contents of the Garmin before its too late)
+5. After you have backed up your current Garmin contents, load the EASTERN european maps into the /Garmin folder, where the old""gmapsupp"" file lies.  Youre basically just changing the ""gmapsupp"" file with the new one you extracted from the eastern european maps WinZip file.
+
+So lets recap real quick before we move on to the SD card and the Western European maps.
+1. Get torrent
+2. Make sure you have WinZip
+3. Unzip or extract(same thing) the western and eastern european maps ONLY
+4. Plug your Garmin into the computer and back up all the contents
+5. Take the 'gmapsupp' file that was extracted from the Eastern European maps(.48 GB) and replace the current 'gmapsupp' that is already on the Garmin
+
+OK, so now onto the SD card. Youre going to lose any info already saved on this so back up the SD if you need to.
+
+1. Plug the SD card into your computer and right click"
+,russellmillerthehero,2012-04-25T10:31Z,"For the SD card: Youre going to lose any information on the SD card already so back it up if you need to.
+1. Plug the SD card into the computer and format to FAT32.  Right click on the SD card"
+,russellmillerthehero,2012-04-25T10:34Z,"For the SD card: Youre going to lose any information on the SD card already so back it up if you need to.
+1. Plug the SD card into the computer and format to FAT32. Windows will warn you that formatting will erase any info saved onto the card. click ok to format.
+2. Now that we have a clean SD card with the correct format, rename the SD card to 'Garmin'. 
+3. Create a new file on the card, named ""Garmin"". In this folder goes the ""gmapsupp"" that was extracted from the Western European maps.
+4. Along with the ""gmapsupp"" goes another file, THIS FILE IS ALREADY ON THE GARMIN DEVICE ITSELF, in the ""Garmin"" folder. The file is named ""Garmin Device"", it is an .XML file. Copy this next to the ""gmapsupp"" in the ""Garmin"" folder on the SD card. This file allows the Garmin to see the SD card as a device.
+
+So in a recap:
+1. Back up SD card, Format the SD card to FAT32.
+2. Rename SD to ""Garmin""
+3. Create new folder. Name this folder ""Garmin""
+4. Drag the ""gmapsupp"" that was extracted from the western european maps. should be approx 1.9GB
+5. Drag ""Garmin Device.XML"" to the SD card. There should be the ""gmapsupp"" and the .XML file in the ""Garmin"" folder. 
+
+That should be all to make the SD card work with the Garmin. Hope this helps someone!"
+,kingnepo,2012-04-28T13:07Z,Hi: why do my Garmin files not look like anything written here? Mine has a gmapprom and gmapprom.sum. Also a couple of other gmap..... files.Thanks.
+,kingnepo,2012-05-05T13:19Z,"Hi, does anyone have a suggestion on my previous question? thanks"
+,aistexxx,2012-05-09T21:35Z,"Does this has Lithuania,because when i install Est-Lit-Lat-Bel lit is not Lithuania????so where is Lithuania in this???thanks i would appreciate help."

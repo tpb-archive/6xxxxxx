@@ -1,0 +1,19 @@
+User Type,Username,Date,Text
+,Smedslund,2011-09-17T09:57Z,"I guess I'm stupid.
+I cant open the keygen
+I have wine installed..
+Please Help.."
+,ojcyal,2011-09-18T14:40Z,Just run keygen.exe inside XP in Virtualbox....
+[T],madman9999,2011-09-18T19:40Z,"To run keygen in linux:
+Install missing DLL's in wine with winetricks
+winetricks mfc42 vcrun6
+Run keygen : wine keygen.exe
+
+OR YOU CAN ENTER THIS SERIAL : JZ2A1-2H15P-PZZ20-HL1E0-8C5LQ "
+,ojcyal,2011-09-19T12:13Z,Thanks about missing DLL's..
+,majtophat,2011-09-30T19:13Z,not trying to be a troll but why would you keep the exe version of the keygen and not either make a linux version or paste some of the serials in a txt file?
+,firezip,2011-10-12T21:14Z,"Works great. Thank you for the upload.
+
+To install just type in the terminal in the download dicrectory
+
+sudo sh ./setup.x86_64.bundle"

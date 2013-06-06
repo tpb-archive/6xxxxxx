@@ -1,0 +1,31 @@
+User Type,Username,Date,Text
+,jimmyjamesbob,2011-09-03T08:42Z,i run the application and ubisoft opens then just closes
+,mikinho8,2011-09-03T16:07Z,"I'm on Windows 7 64-bit, and here's what worked for me:
+
+1) Download this torrent.
+2) Install the game by mounting the .iso and using the install wizard.
+3) Once installed, go to the install directory you chose during installation, or C:\Program Files(x86)\Ubisoft\From Dust\ by default, and run From_Dust.exe. This updates the game.
+4) Once it's done updating, a box will come up asking for a username and password. Close this window.
+5) Open the .iso using WinRAR or some other program to open it as a folder, rather than running it like a disc.
+6) Open the SKIDROW folder.
+7) Take the From_Dust.exe from the SKIDROW folder and copy it to your install directory, replacing the one you just used in step 3.
+8) In the orbit folder (which is inside the SKIDROW folder) copy the UbisoftGameLauncher.exe and paste it in C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\.
+9) Launch the game using From_Dust.exe.
+
+This method worked for me, and I have the game running as I type this. I didn't have to put in a username and password anywhere. Good luck."
+,Corbs6,2011-09-04T06:04Z,"I can confirm what Mikinho8 posted. It was the only way I could get it working. 
+
+I repeat, ALL you need is ""From_Dust.exe"" and ""UbisoftGameLauncher.exe""
+
+Do NOT use any of the extra files. "
+,jimmyjamesbob,2011-09-05T08:51Z,"ok what you said worked, it loads the rating then a planet then it crashes :\"
+,lockster246,2011-09-10T12:53Z,qtwebkit4.dll is missing !!! HELP
+,latroo,2011-09-10T14:19Z,MAC??? plz
+,lockster246,2011-09-11T19:02Z,I GET ERROR while updating
+,Pilari,2011-09-12T16:35Z,"Got the same problem... the game won't update... when i ignore that and follow the rest of steps the game crashes during start-up... 
+
+(and can't find any update except the automatic 1 from Steamclient)"
+,mhiel,2011-09-13T17:37Z,is this working in offline mode?
+,Mone008,2011-09-20T01:34Z,"If your getting the patch failed error you have to set the ""From_Dust.exe"" to windows XP sp3 compatibility mode and also run as admin :)"
+,owen2nz,2011-10-10T14:24Z,well i followed the step exactly and now its just stuck at the 'U Play' screen with a couple of loading circes spinning around and piss all words. At the bottom i clicked a button but then it says its unable to locate or start game. Whats wrong?
+,CarlCar,2012-05-27T13:28Z,"MINE IS STARTING , THEN SAYS ''From_Dust.exe has stopped working'' !! :("

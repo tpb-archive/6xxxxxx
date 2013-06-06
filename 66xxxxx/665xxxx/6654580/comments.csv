@@ -1,0 +1,11 @@
+User Type,Username,Date,Text
+[T],User_01,2011-09-06T06:28Z,"Don't forget to import the license key, after!"
+,ishenly,2011-09-07T07:29Z,"Hi man (men), all OK with patcher, but, when ending patching, and going to create a license file, then providing data, after put number of users of licensing, the console application crashs and (windows) show the error msg.
+
+With this, have created an license file (.xml), but it is incomplete (because the crash), and when import from SmartFTP, not work.
+
+I find a solution: Having an old license (.xml) file,   I open in a text editor the licenses, then copy that part saying 'maintenance' and 'issue' from old to new file. And, in the new file closing the correspondent label (  ), then saving. Then registry inside SmartFTP and OK!. XD."
+[T],User_01,2011-09-07T14:57Z,"for number of users you must input ""1""
+1 = multiple users"
+[T],User_01,2011-09-07T15:11Z,http://imageshack.us/photo/my-images/534/captureirm.png/
+,jdash2012,2012-04-01T21:51Z,where do i find the license after running the patch

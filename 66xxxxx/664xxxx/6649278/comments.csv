@@ -1,0 +1,40 @@
+User Type,Username,Date,Text
+[T],alexisthebest,2011-09-03T17:43Z,"CHANGES BROUGHT BY 1.0.0.3:
+BUG FIXES
+
+    Fix Mac Lion launcher issue from Steam Client
+    ghost sand block when toggling puzzle mode just after drilling a sand block
+    wrong tab content when returning to the level selection in the community section
+    level bonus 'hanging garden' fixed
+
+
+CHANGES in 1.0.0.2:
+BUG FIXES
+
+    rating level : up / (down + 1) instead of up / (up + down + 1)
+    Shooting star (star that disappear when you replay without staring again an already stared level)
+    auto anim
+    ground blocks not well initialized when opening/editing a map
+    [editor] editor lava blocks crash
+    actor picking on various auto
+    ground always select the regular ground one
+    achievement checker at launch to prevent missed ach due to offline mode
+    names of custom levels not displayed in pause menu (useful to give hints... or base your puzzle on the name of the level)
+    Falling blocks can crash the editor if they fall in an infinite gap (no ground under them)
+    crash when skiping tabs in My Creation Section (since there is no tabs in there)
+    stronger online code to try avoiding the fact that levels sometimes not uploaded on SSS server, or uploaded with corrupted files
+    Owner of a level shouldn't be able to vote for it's own level
+    When level fails to load, erase if it's a Community one!
+    some thumbs icons stay displayed if player vote quickly
+    bug crate that give a sand block
+    crash fix: sometimes game crash when crate are not filled with 4 or more blocks
+    remove (soon) from Gromy games One Eye Adventure (which is available!)
+    editor actors params not in good order (now sorted alpha)
+    some typos"
+,zekiel247,2011-09-04T02:01Z,"Great game but i couldnt find a way to save in other versions, can you save in this one? thx"
+,Fr33Soul,2011-09-26T16:26Z,"can any1 help please...installed the game but when i try to run the programme..there is an error comes up saying..msvcr100.dll is missing...how do i fix this up.
+
+thanks in advance."
+,m42e,2011-09-29T10:55Z,I got same error that say file missing MSVCR100.dll
+,m42e,2011-09-29T11:04Z,"Ok i fixed it, just download file at http://www.dll-files.com/dllindex/dll-files.shtml?msvcr100 and copy to C:/Windows/System32 folder."
+,WAASD27,2011-10-31T15:34Z,still can't save my game though...

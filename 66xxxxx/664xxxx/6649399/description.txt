@@ -1,0 +1,58 @@
+check out screen shots at...................
+
+
+
+
+
+
+General
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 101 MiB
+Duration                         : 21mn 22s
+Overall bit rate                 : 658 Kbps
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 21mn 21s
+Bit rate mode                    : Variable
+Bit rate                         : 490 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 29.970 fps
+Minimum frame rate               : 9.901 fps
+Maximum frame rate               : 30.303 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.018
+Stream size                      : 75.0 MiB (75%)
+Writing library                  : x264 core 112
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 21mn 22s
+Bit rate mode                    : Variable
+Bit rate                         : 160 Kbps
+Maximum bit rate                 : 198 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 24.5 MiB (24%)
+Language                         : English

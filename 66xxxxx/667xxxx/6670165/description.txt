@@ -1,0 +1,15 @@
+this is a dead island gamesave editor for xbox 360 saves. it lets you edit all your stats. i also have a pre-modded iso up if you prefer that method. How it Works...
+ 
+things you need: usb transfer cable/flash drive, xport 360 (free), modio (free), winrar (free), your gamesave (obviously)
+
+
+1. Open your Save_0 (confile) with modio/lefluffie/horizon/ ect.
+ 2. extract the save from the confile.
+ 3. open your extracted save with 7-zib/winrar, and extract it somewhere. Do not close 7-zib/winrar yet.
+ 4. edit the second extracted save with the editor, and make changes.
+ 5. Hit save and close the editor.
+ 6. drop your edited save to 7-zib/winrar.
+ 7. then goto your confile and replace the Save_0
+ 8. rehash/resigh, and enjoy. *modio works great to rehash and resign*
+
+ 

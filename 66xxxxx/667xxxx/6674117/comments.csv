@@ -1,0 +1,48 @@
+User Type,Username,Date,Text
+,SHERIFA,2011-09-14T06:27Z,"10-13 MB/s uploading speed, good. Thanks, fellas. Don't forget to hit ""plus"" button for ""quality""."
+,drtime91,2011-09-14T22:40Z,"download from http://msdn.microsoft.com/en-us/windows/apps/br229516 , no torrents no wait!"
+,Raymoz101,2011-09-15T01:56Z,"^ HAHAHA the Microsoft servers are crashing, cancelling peoples downloads at like 50%, the torrent network is handling much better and at faster speeds..."
+,Raymoz101,2011-09-15T01:57Z,Adding this to a 1Gbps server now boys... :)
+,SHERIFA,2011-09-15T03:21Z,"When I was downloading from M$ (1.5 hrs later after Pre) there was no problem with speeds like 10-15-20 MB/s (but no lower than 8 MB/s). 1 Gb here too (99% faster than all Bulgarian connections).
+
+753 GB uploaded so far."
+,navivb,2011-09-15T08:37Z,"how can we do  this as USB installer booting device
+
+* WindowsDeveloperPreview-64bit-English-Developer.iso"
+,G-skill,2011-09-30T10:18Z,easy use this program WinSetupFromUSB-Modified u can dul win XP n win 7 of win 8  
+,kingsizewe,2011-10-14T09:31Z,"Шериф, голям си! Върви ли по-бързо от XP?"
+,sparan,2011-10-20T12:53Z,"thaks for the share.
+plz upload missing files of ur previous torrent bhai"
+,maddo277,2011-10-23T05:18Z,"how you put on usb sick ok here we go step one 
+
+1 theres to ways you can do it get power iso mount the iso to a temp drive or you can burn to iso disk 
+with power iso and do the following 
+
+one open up cmd 
+type in disk part 
+then once loaded type list disk 
+will come up with all hdds on your computer depending on wot your usb drive is (8gb or 20 ect so say its disk 1 for example
+then form there you would do this 
+SELECT DISK 1
+CLEAN
+CREATE PARTITION PRIMARY
+SELECT PARTITION 1
+ACTIVE
+FORMAT FS=NTFS
+(Format process may take few seconds)
+ASSIGN
+EXIT
+(YOUR NOT DONE YET ONCE YOU GOT TO THIS STEP THEN TYPE THIS)
+
+Next insert your Windows 8 DVD into the optical drive and check the drive letter of the DVD drive. In this guide I will assume that your DVD drive letter is â€œDâ€ and USB drive letter is â€œHâ€ (open my computer to know about it).
+6. Maximize the minimized Command Prompt in the 4th step.Type  the following command now:
+D: CD BOOT and hit enter.Where â€œDâ€ is your DVD drive letter.
+CD BOOT and hit enter to see the below message.
+7. Type another command given below to update the USB drive with BOOTMGR compatible code.
+BOOTSECT.EXE /NT60 H: 
+
+ONCE YOU DONE THAT YOU SHOULD GET A MESSAGE ON CMD SAYING YOU DONE IT CORRECTLY THEN FORM THERE YOU JUST COPY YOUR WINDOWS 8 CONTENCE FORM THE DISK TO USB DRIVE DONE :) PUT IN COMPUTER IF IT DONT LOAD FORM USB FIRST TIME GO TO BIOS WITCH CAN BE LOCATED AT START UP PUSH DEL F2 F10 THINK THATS IT ONE OF THEM IF NOT LOOK AT THE BOTTEM OF YOUR SCREEN WHEN LOADING SHOULD TELL YOU WHAT TO PUSH TO ENTER SETUP GO TO BOOT OPTION ONCE IN SETUP AND USE USB AT FIRST BOOT DEVICE RESTART SHOULD BOOT INTO WINDOWS 8 ENJOY :)  "
+,aristotice,2011-11-04T02:07Z,how can i change the wallpaper once i've downloaded and opened the program it won't let me change certain things... other than that awesome download and very fast
+,Ghbz,2011-11-29T22:28Z,Wtf I burn the iso with the ashampoo burning studio 10  and when i restart my pc it  loadin files and after that comes blue screen and the program stuck wtf i duing wrong help me :D But Its Great Torrent I law This Stuff And Windows 8 
+,darkroad2023,2011-12-17T22:48Z,PLEASE SEED! 
+,SHERIFA,2012-03-31T02:58Z,"Win 8 is faster than 7, which is faster than Vista & XP."

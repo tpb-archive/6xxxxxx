@@ -1,0 +1,21 @@
+Some mIRC-scripting
+-------------------
+
+
+
+The commands available in this script:
+
+/massop
+/massdeop
+/massvoice
+/massdevoice
+
+
+With all commands, you must also specify the desired channel.
+Example:
+/massvoice #thepiratebay.org
+  - Will give voice to all non-ops on #thepiratebay.org
+
+
+
+/Ubehage

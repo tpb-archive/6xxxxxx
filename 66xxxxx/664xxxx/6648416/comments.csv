@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,h4ckerman,2011-10-31T19:32Z,"Great torrent 
+
+SEED"
+,fieldof,2012-02-23T11:31Z,"What is the point of using 15 MB .sub files when a small kilobyte sized .srt file will do just fine?  Also, I've yet to figure out how to use .sub files since they are incompatible with VLC media player."
+,crixeh,2012-04-19T19:25Z,"@fieldof
+.sub is not incompatible with VLC, but with this type of .sub you need both the .idx and the .sub files for it to work. Just keep all files in the same folder, and if the subs don't show up automatically, use the menu to choose subtitle track.
+
+The reason for the this .sub file being so big is that it's a whole different format than text based subtitle files like .srt. While .srt are made manually, .idx/.sub is made by ripping the subtitle track directly from the disc itself.
+
+Since subtitles on discs are not stored as text format on the discs, but rather as image files that is put on top of the movie (that is why the text color and style varies a lot between movies played on the same player), the resulting .sub file is a lot bigger than a .srt file.
+
+Converting between image based .sub files and text based .srt is difficult, and not always accurate. In my oppinion, a few MB extra for the subs doesn't really matter, since the video files themselves are >1GB anyways. I rather prefer 15MB of .idx/.sub ripped directly from the disc in perfect sync with the video, than trying to find a proper .srt for the same release that is in correct sync. Making .srts manually is a lot of work and is not really worth it if you already got working .idx/.sub files from the ripping itself."
+,gubak,2012-05-23T15:10Z,nice one but need seed plz thanks

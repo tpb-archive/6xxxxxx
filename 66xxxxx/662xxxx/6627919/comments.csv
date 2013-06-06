@@ -1,0 +1,34 @@
+User Type,Username,Date,Text
+,premiado,2011-08-24T22:13Z,Uploaded to MF
+,GoatDancer,2011-08-24T22:16Z,These real? They feel like fakes.
+,premiado,2011-08-24T22:22Z,MFdotcom/?upcfclhcp328xhy
+,premiado,2011-08-24T22:26Z,"MF is m3di@fir3
+
+i am streaming football matches and the seeding is killing me. Soory have to post in this way, linking is not allowed."
+,premiado,2011-08-24T22:36Z,"Peeps who downloaded thru MF, help me seed this in case that link expires or deleted by Mod. Thanks."
+,Arcilte,2011-08-25T03:28Z,Works great! Thanks for the up. Make sure you follow the directions.
+,GoatDancer,2011-08-25T09:50Z,"Yes works fine, i don't like the hammer though. Too bad it's the only 2 handed weapon that levels up."
+,astreqwerty,2011-08-25T09:56Z,"I do it all right but still the item packs remain unauthorized..plz help
+does it matter that i eddited the manifest first and then decrypted?"
+,premiado,2011-08-25T09:59Z,Decrypt first before editing the manifest.xml
+,astreqwerty,2011-08-25T10:38Z,"thnx..i deleted the files from the add ins file and then reinstalled and decrypted but when i went to edit the requiresautho it was already set in 0..i edited it back to 1,deleted the files again,reinstalled the item pack,ran the deda2,slurpda2 and slurpdakeys as admin then decrypted (again ran as admin) and then i reedited requiresautho to 0..still they remain unauthroized..i dunno maybe the xml.manifest edits are not saved but i cant see how is this possible"
+,premiado,2011-08-25T11:04Z,"@astreq, Just reinstall the item pack, run the decrypt, edit and save the manifest.xml found in da2_mtx_001, 002, 003. That is all, don't have to use the slurpa deda2 patchforunlockables etc. "
+,astreqwerty,2011-08-25T12:14Z,one final question: does it play any role that i run the decrypt file on my desktop?
+,premiado,2011-08-25T13:52Z,"Just make sure the decrypt and deda2 and inside the same folder. As long as they are together inside a folder on your desktop, your fine."
+,bliss214,2011-08-25T20:28Z,"every time i try to change the RequiresAuthorization=""1"" on the manifest it always says access denied. Ive installed the dlc and decrypt it 2nd, plz help"
+,premiado,2011-08-26T11:35Z,"@bliss,
+Right click on the Dragon age 2 folder found in the program files. Select ""properties"". Under ""security"" tab, edit the user name that u used for windows and give that account full control."
+,ollarb,2011-08-29T16:28Z,"Well I managed to DL it and install it, but I don't see any new items in-game. Maybe I've just progressed too much for the items to get to me?"
+,warettaja93,2011-08-29T19:45Z,I installed it and ran decrypt and edited the manifests but it says the item packs are unauthorized in the downloadable content menu. What did I do wrong?
+,jbrand2002uk,2011-08-29T19:56Z,works great right off the bat as long as you install 1st then alter the 3 manifest files then i put the decrypt_dlc and ran it followed by the deda2drm
+,blackjackel2,2011-09-10T21:08Z,"Do as ""jbrand2002uk""
+Said
+1. Install ""DA2_AllClassItemPack2.exe""
+2. Change the 3 Manifest.xml (inside \Dragon Age 2\addins) to ""RequiresAuthorization=""0""
+3. put the ""decrypt_dlc"" and ""deda2drm"" inside Dragon Age 2 folder, run the decrypt first, then when finished run the dead2drm.
+
+Its working perfectly after I did that! =D"
+,ViggeDigge,2011-12-06T15:09Z,Can't believe there are people who are so gullible to download this. SMH...
+,ViggeDigge,2011-12-06T15:10Z,"VIRUS!!!
+THX!!! YOU DESTROYED MY COMPUTER!!!
+DONT DOWNLOAD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"

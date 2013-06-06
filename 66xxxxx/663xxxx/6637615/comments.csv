@@ -1,0 +1,32 @@
+User Type,Username,Date,Text
+,crystalake,2011-09-01T16:28Z,Hey F1 how do you patch this? i run the patch after installation and nothing happens it says path not found so and so and so...when i click also on the file exe to patch it nothing happens there to! (windows 7 64 bit home Premium) Thanks for the upload by the way!
+[V],_F1_,2011-09-06T05:39Z,"The patch will ask for two files that you have to point manually in the appeared browse box:
+
+1. Dolphins 3D Screensaver.exe
+path: C:\Program Files\Dolphins 3D Screensaver\Dolphins 3D Screensaver.exe
+and 2. Dolphins 3D Screensaver.scr
+path: C:\Windows\System32\Dolphins 3D Screensaver.scr
+
+These are paths of 32bit system. 64bit may differ. If you can't locate the file; make a search in explorer. If everything goes OK; you'll have a log like this:
+
+---START PATCHING---
+
+[OFFSET PATCH]
+Loading File:
+C:\Program Files\Dolphins 3D Screensaver\Dolphins 3D Screensaver.exe
+Filesize Check : OK
+CRC32 Check : OK
+File patched!
+Backup File:
+C:\Program Files\Dolphins 3D Screensaver\Dolphins 3D Screensaver.exe.BAK
+
+[OFFSET PATCH]
+Loading File:
+C:\Windows\System32\Dolphins_3D_Screensaver.scr
+Filesize Check : OK
+CRC32 Check : OK
+File patched!
+Backup File:
+C:\Windows\System32\Dolphins_3D_Screensaver.scr.BAK
+
+---PATCHING DONE---"

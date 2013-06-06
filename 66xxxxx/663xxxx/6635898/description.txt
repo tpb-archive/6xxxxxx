@@ -1,0 +1,43 @@
+Sherlock Holmes (2009) 
+******************************************************
+DeMuxed DTS-HD MA (DTS-HD and DTS-Core in single file)
+
+Format                           : DTS
+Format/Info                      : Digital Theater Systems
+Format profile                   : MA / Core
+Muxing mode                      : Header stripping
+Codec ID                         : A_DTS
+Duration                         : 2h 8mn
+Bit rate mode                    : Variable
+Bit rate                         : 3 412 Kbps / 1 510 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 24 bits
+Compression mode                 : Lossless / Lossy
+Language			 : ENGLISH
+
+Notes :
+THIRD TIME LUCKY ;-)
+GOT THE SEEDBOX SORTED!!!!!
+
+DeMuxed DTS-HD MA track for those that wish to remux
+to a smaller video size than FUll BluRay.
+I personally enjoy muxing to IceBane's or Mkvonly's nice 
+1080p rips. ;) Cheers Guys, Great Work.
+
+If someone could do a demuxed audio in DTS-HD for
+the three LOTR extended editions I would be 
+very grateful ;).
+
+
+For TrueHD rips, you may have to remux into an m2ts using 
+TSMuxer or you may have to add an AC3 track for the core if
+muxing to MKV.
+
+For DTS-HD rips, you can mux safely into MKV with MKVmerge, and
+still have the core DTS available.
+
+Fixed the seedbox, so should be fast and RE-SEED!!
+
+IMDB : tt0988045

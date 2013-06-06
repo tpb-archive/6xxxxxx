@@ -1,0 +1,57 @@
+FOR MAC
+
+What\\\\\\\'s new in Beta 7?
+
+General
+
+Full Changelog
+
+Added support for music files (mp3, aac (adts), wav, aiff, m4a)
+Added AC3 and DTS (5.1+ surround) sound
+Added playback menu (hold select during playback)
+Added support for .srt subtitles
+Added support for multiple audio tracks
+Added support for chapters
+Added cloud backup for 3rd party settings
+Added three metadata views (overview, synopsis, technical)
+Added MPAA rating to metadata
+Added support for localized metadata
+Added support for local cover art
+Added option to refetch metadata for a specific file
+Added option to clear all metadata
+Added toggle setting for volume control
+Added access to DVD menus during playback (press menu)
+Added low buffer detection warning (prevents stuttering)
+Improved metadata fetching (courtesy of themoviedb.org)
+Improved progress bar controls
+Improved AFP/SMB reliability
+Improved DVD file playback
+Improved playback of larger files
+Improved buffering and re-buffering (when required)
+Improved FF/RW controls for larger files
+Improved audio decoding performance
+Improved center channel (voices) audio mixing
+Improved file sorting logic
+Improved performance and memory management
+Improved error handling
+Resolved screensaver/slideshow related issues
+Resolved playback issues for files with 20+ streams
+Resolved issues with AFP volumes with long file names
+Resolved floating issues with subtitles
+Resolved issues related to 3rd party remote apps
+Resolved floating crash in SMB library
+Resolved aspect ratios issues for certain video types
+Resolved file browsing related crashes
+Resolved metadata fetching related crashes
+Resolved audio queue related errors
+Resolved Top Shelf related playback issues
+Resolved playback related memory leaks
+Resolved DVD subtitle issues
+Resolved stalls observed with some files during and after FF/RW
+Resolved synchronization issues observed after buffering some files
+Resolved audio synchronization issues
+Resolved rare floating crash observed at the end of some files
+Resolved resume related playback issues
+Resolved various screensaver related issues
+Local files are now hidden when one or more remote shares are setup
+Minor UI and other miscellaneous fixes

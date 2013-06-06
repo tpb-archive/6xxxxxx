@@ -1,0 +1,15 @@
+Resolved an issue which could prevent the user successfully saving with profiles that contained unicode characters.
+UI elements are no longer incorrectly displayed in Gymkhana
+Improvements to input system, supporting multi-device action maps. The user can now set button configurations to span multiple devices; previously a bug would cause these settings to be lost upon game restart.
+Corrected various spelling mistakes across all languages
+Reset line corrections to prevent potential â€˜out of worldâ€™ or â€˜driving into crowdâ€™ issues on several tracks
+Corrected an issue which could, in rare circumstances, prevent the display from rendering in the event of 16xCSAA being selected.
+Steering wheel no longer jolts to the left in the race reward screen
+Removed an incorrect limitation which could cause VSync to lock the refresh rate to 60Hz on a 120Hz system.
+Physics output to motion simulators is now correctly faded out at the end of a race, preventing some situations within which motion would continue after crossing the finish line.
+Adjusted head camera configuration to avoid excessive vibration effects when VSync is disabled.
+Front end menu improvements for multi-display systems, correcting a small number of visibility issues.
+Improvements to GPU detection, correcting a potential issue which in some circumstances could prevent SLI scaling operating correctly with DirectX 11.
+Implemented native stereoscopic support for compatible devices.
+Inclusion of a benchmarking utility, simplifying the process of gathering performance statistics.
+Various stability fixes.

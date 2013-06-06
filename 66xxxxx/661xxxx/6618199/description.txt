@@ -1,0 +1,40 @@
+With much appreciation to the creators of CoolReader 3. Best software I have found for reading .epub and others.
+
+
+Easy to use software, just double click the file cr3 to launch your ebook reader.
+
+
+Supported platforms:
+
+    Windows (Qt based GUI)
+    Linux (Qt based GUI)
+    Android (new)
+    Embedded versions: for e-Ink based devices. Use in Jinke/LBook V3/V5/V3+/V60, Azbooka N516 
+
+Common features, for all platforms:
+
+    epub (non-DRM), fb2, txt, rtf, html, chm, tcr formats supported
+    Pages or scroll view
+    Table of contents
+    Bookmarks
+    Text search
+    Hyphenation dictionaries
+    Most complete FB2 format support: styles, tables, footnotes
+    Additional fonts support (.ttf)
+    Can read books from zip archives
+    Automatic reformatting of .txt files (autodetect headings etc.)
+    Styles can be customised in wide range using external CSS 
+
+Android specific:
+
+    Page flipping animation.
+    Built-in file browser, quick recent books access
+    Day and night profiles (two sets of colors, background, backlight levels)
+    Brightness adjustments by flick on left edge of screen
+    Background texture (stretched or tiled) or solid color
+    Paperbook-like page turning animation or "sliding page" animation
+    Dictionary support (ColorDict and Fora Dictionary)
+    Customizable tap zone and key actions
+    Place additional textures to /sdcard/.cr3/textures/ -- to be used as tiled page backgrounds
+    Place additional textures to /sdcard/.cr3/backgrounds/ -- to be used as stretched page backgrounds (/cr3/ directory can also be used instead of /.cr3/, and internal SD or internal storage instead of /sdcard/)
+    Select text using double tap (optional) 

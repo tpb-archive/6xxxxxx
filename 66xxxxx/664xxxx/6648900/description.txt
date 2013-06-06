@@ -1,0 +1,16 @@
+The Free and Open Source Software for Disk Imaging and Cloning
+
+Alternative Testing
+Clonezilla live 20110901-natty
+ 	
+ The underlying GNU/Linux operating system was upgraded. This release is based on the Ubuntu Natty repository (as of 2011/Sep/01).
+ New feature: By default when a GNU/Linux is restored, the udev hardware records (70-persistent-cd.rules and 70-persistent-net.rules under /etc/udev/rules.d/) in the restored OS will be removed. It can be disabled in the expert mode with the option "-irhr".
+ 	
+	-- Steven Shiau steven _at_ nchc org tw  Fri, 02 Sep 2011 10:43:00 +0800
+ 
+http://www.clonezilla.org/donations.php 
+http://www.clonezilla.org/ 
+http://www.clonezilla.org/downloads.php
+
+sha1sum : f91863ca0ad482093f950d70fb7484ac6160d4b3  clonezilla-live-20110901-natty.iso
+md5sum : d90b95f6e6f1c6b13cfd95998e37f29c  clonezilla-live-20110901-natty.iso

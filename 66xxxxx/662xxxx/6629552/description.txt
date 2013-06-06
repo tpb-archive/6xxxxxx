@@ -1,0 +1,24 @@
+Icaros Desktop is a pre-configured AROS desktop environment for the PC platform, distributed on a bootable live media. The AROS Research Operating System is a open source lightweight, efficient and flexible desktop operating system, aiming at being compatible with AmigaOS 3.1 at the API level, while improving on it in many areas.
+
+New from Icaros Desktop 1.3
+
+- fixed integration of Amiga Forever in coherency mode
+- fixed many issues with Janus-UAE GUI
+- fixed support for coherency mode at highest resolutions
+- enhanced stability of Janus UAE
+- enhanced stability of whole AROS system
+- AROS system files from August 3, 2011
+- Included Bearsoft's ATI drivers in Storage drawer
+- Included alternative arosc.library in Storage
+- compatible with recent Deadwood's games ports
+- updated drivers and libraries
+- updated fpc to version 2.5.1
+- updated xRick
+- updated Atheros 5xxx wireless driver
+- updated Intel GMA driver with support for more GPUs
+- recompiled many games and emulators with latest SDL
+- updated applications to latest versions 
+
+Donate page : 
+http://www.icarosdesktop.com/dl.htm 
+users of Linux and MacOS  please rename the filename extension from .7z.exe to .7z before extraction.

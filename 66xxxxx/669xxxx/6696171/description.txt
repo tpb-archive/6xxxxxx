@@ -1,0 +1,19 @@
+Format                           : MPEG-TS
+Format video                     : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format                           : DTS
+Format/Info                      : Digital Theater Systems
+Format profile                   : MA / Core
+Bit rate                         : 5 092 Kbps / 1 510 Kbps
+Channel(s)                       : 8 channels / 6 channels
+Channel positions                : Front: L C R, Side: L R, Back: L R, LFE / 
+Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+
+Subtitles: English
+
+Use tsMuxer GUI (  http://www.videohelp.com/tools/tsMuxeR  ) to make AVCHD disk or demux then mux in mkv with mkvmerge (  http://www.videohelp.com/tools/MKVtoolnix  ), eac3to (  http://www.videohelp.com/tools/eac3to  ) + surcode ( http://thepiratebay.org/torrent/4770554/Surcode_DVD_Pro_DTS_Encoder_v1.0.29.rar  ) to downmix multichannel (7.1 dts) to 5.1 dts...
+wha'ever...Google for answers before bitching others for not knowing..how to..
+
+I'll upload them sometime soon in BDRip 1080p (~12 GB) with DTS 768 KB/s, encoded with very high enc settings 6 re-frames, 7 b-frames, TESA 64, rc=80 etc.

@@ -1,0 +1,47 @@
+User Type,Username,Date,Text
+,Ravaner,2011-09-13T15:18Z,Game accepts serial but will not allow you to use it past demo mode
+,Ravaner,2011-09-13T15:21Z,"Tried 5 different serials still not allowed to continue after chapter 1, would recommend not updating to 1.3"
+,iycgtptyarvg,2011-09-13T22:18Z,Hmmm... can someone else confirm or reject Ravaner's claims?
+,davv3,2011-09-13T23:09Z,I can confirm. game pauses and asks for key right after chapter 1. i'm going to try 1.2 now instead. 
+,iycgtptyarvg,2011-09-14T19:43Z,Aaaaaahhhh shame. Thanks for the heads up guys.
+,zorbdacena,2011-09-16T17:52Z,"It worked fine for me.
+I managed to register the game with the keygen.
+Unfortunately doesn't work for chapter 2 When it ask again for the serial."
+,jakod,2011-09-18T11:31Z,It worked for me on chapter 1 and 2 so far. I just kept generating key over and over until one works.
+,kyp0001,2011-09-18T15:16Z,"Patched successfully from 1.2 to 1.3 and keygen worked as well
+
+just keep on trying a few keys ;)"
+,zorbdacena,2011-09-22T07:18Z,"I've found this solution and worked for me in all chapters and all serial registration errors.
+Hope that helps.
+
+Start menu > execute : type ""REGEDIT""
+
+the go to the key :
+""HKEY_CURRENT_USER\Software\Reality Pump\TwoWorlds\SerialKey""
+
+in the right part window you got a key also called ""SerialKey""
+
+select it and ""right click > modify""
+
+in the new window that opens take out all the data and click ""Ok""
+
+next step is you launch back two worlds "
+[T],ServiusTheBear,2011-09-28T21:53Z,This works :) First S/N I used.
+,Sugram1,2011-10-01T09:58Z,"@scene4all what u mean
+
+* We recommend using a firewall on all executables. Remember that the game
+now has 2 executables.
+
+do u mean, if game is disabled in firewall i shold enable it?"
+,darrko84,2011-10-08T19:59Z,"Keygen works fine with 1.3 patch.Firewalling regular .exe file don't work anymore,i blocked access for both main exe files,normal and dx10 exe and i was receiving not compatible with chapter 1,i first tried keygen after demo end.So i blocked entirely internet access,and keygen works perfectly,they changed something with internet access.I disabled my network card from device manager,later when i enabled it,game works just fine,they did some crapy protection here."
+,darrko84,2011-10-08T20:01Z,"And one more thing,only with this keygen i was receiving something other than invalid serial number,this realy work."
+,Captain_Zero,2011-11-02T06:16Z,"Seials work fine. The 1.3 patch is essential, game's totally borked without it. Do this:
+1- Install the game
+2- Install patch
+3 Use firewall to block the exe you use (there are two, one is dx9, the other dx10, you only need to block the one you use)
+4- Windows firewall is easy, addd a new rule (type: program) for both outbound and inbound and select ""block all""
+5. Use the KG to do the silly activation over the phone.
+6. Play through the prologue, takes a while.
+7. When chapter 1 is ready to begin, it will ask for a serial. Use the KG to generate a new one, click generate many times, repeat this process until it gets one that works.
+8. Repeat silly registration process as in step 5.
+9. Done!"

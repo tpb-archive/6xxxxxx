@@ -1,0 +1,16 @@
+Official release, 2011/09/21: http://www.kmplayer.com/forums/showthread.php?t=20690
+
+[build 1442]
+Updated items:
+
+Ver 1442 Update List
+- Add RTMP Source Filter.
+- Add RTSP Source Filter.
+- Add internal video codec(Intel's GPU)
+- RealMedia File Parser improvement and video sync error modification
+- File playback lagging bug modification
+- Fixed M2TS Source Filter error.
+- Fixed multi-channel audio noise bug error.
+- Changed Internal Video Decoder for GUI Preference setting
+
+NOTE: Be careful and DECLINE the installation of the AskToolbar at the end of the player's setup - if you don't want toolbars, that is.

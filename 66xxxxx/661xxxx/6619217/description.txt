@@ -1,0 +1,23 @@
+The files in this torrent contain of the snapshot the the Danish Government database of companies. â€œCVR, Det Centrale Virksomhedsregisterâ€ translates directly to â€œThe Central Company Registerâ€. The contents of the database is currently browsable on the cvr.dk website, but the database is not available in bulk unless you purchase a license.
+
+The snapshot was obtained during the summer of 2011 by systematically harvesting data from the public parts of the cvr.dk website.
+
+Contents:
+CVRfull.zip: Archive containing xml files with company information, including html from cvr.dk
+CVRCompact: As above, but without html
+
+The included fields are as follows:
+cvr: CVR-number (8-digit unique id, last digit is a checksum)
+corporationtype: Integer denoting type of company, eg. â€œ10 Enkeltmandsvirksomhedâ€ (Sole Proprietorship)
+incorporated: Date of registration
+dissolved: Date of dissolution, if dissolved
+industry: Code of the companyâ€™s main areas of business, eg. â€œ494100 Vejgodstransportâ€ (Transport of goods by road)
+documentcontent: Html of company page from cvr.dk (minus header and footer), only available in the â€œfullâ€ version
+
+The other fields are name, address, phone, fax and email -- they should be self-explanatory. If youâ€™re only interested in the information in these fields you should just get the compact file. If you want to parse more info out of the page you should get the full version which includes html.
+
+There are approximately 1,000,000 companies in the dataset. CVR reports 550,000 companies in existence, but that is likely not including the dissolved ones.
+
+This data is made freely available because it is wrong for the Danish government to require citizens to provide data for government databases, then use taxpayer money to gather, collate and store that data, only to ask citizens to pay if they want access to that same information from the the government.
+
+Free Aaron Swartz

@@ -1,0 +1,29 @@
+User Type,Username,Date,Text
+,thecrazyglopss,2011-08-21T04:47Z,"Still crashes :'(
+
+I think it may be because you can't select so many cheats at one time and it overloads it or something. I'll probably have to choose one cheat in different turns."
+,DelphiUniverse,2011-08-21T04:52Z,I have all 4 cheats enabled here at the same time
+,DelphiUniverse,2011-08-21T04:58Z,Hold on I will try to create an experiment just for you
+,DelphiUniverse,2011-08-21T05:02Z,"Try this, see if it works: http://pastebin.com/MSCFDXPt"
+,thecrazyglopss,2011-08-21T05:27Z,It doesn't do anything like that other thing.
+,DelphiUniverse,2011-08-21T06:04Z,"The problem is obviously adressing issues in the modules, you are using 64 bit windows and i am on 32 bit windows 7. I am trying to change parameters. Try this: http://pastebin.com/hRiF5FZ2
+
+I will go to bed now, see you tomorrow."
+,DelphiUniverse,2011-08-21T15:46Z,"I have done another change, I want you to try and see if this one works for you if you are using windows 64
+
+http://pastebin.com/Txm8jZAx"
+,DelphiUniverse,2011-08-21T16:23Z,"I don't think it will work however, I think I have a pretty clear idea what the problem is. Will try to solve it."
+,thecrazyglopss,2011-08-21T16:49Z,"It pretty much just did the same thing as v 4.0.4
+
+Using most of the cheats at once = crash"
+,DelphiUniverse,2011-08-21T16:55Z,"I've made another change, try this:
+
+http://pastebin.com/iVTnyVZu"
+,DelphiUniverse,2011-08-21T17:03Z,"I have made another one, this time I have implemented error checking. If it gives you an error, give me the error code.
+
+http://pastebin.com/KQVTEtiB"
+,thecrazyglopss,2011-08-21T17:39Z,"Error code was 299.
+
+It kept popping up loads of times so I used task manager on it, no big deal."
+,DelphiUniverse,2011-08-21T17:43Z,It is important for me to know if the error code popped up before you quit civilization or after you quit civilization.
+,thecrazyglopss,2011-08-21T18:22Z,After it crashed

@@ -1,0 +1,58 @@
+User Type,Username,Date,Text
+[V],.Dude.,2011-09-13T13:11Z,2mbps seeding server added :)
+,71460,2011-09-13T15:17Z,Thanks Dude
+,revista,2011-09-13T16:12Z,Thanks !!! =D
+,revista,2011-09-13T16:54Z,ps: had to unninstall fifa 2011 to install the 2012 demo ... 
+,cschrille1,2011-09-13T16:56Z,"Thanks .Dude, I love you :D"
+,revista,2011-09-13T17:03Z,ps2: im having crash with my usb joystick .. the game crashes when i have it plugged
+,revista,2011-09-13T17:07Z,note: you can find all fixes bugs here:  http://www.fifa-infinity.com/fifa-12-2/fifa-12-official-demo/
+,noverime,2011-09-13T17:07Z,Thank you again.
+,NarutoNamikaze,2011-09-13T20:53Z,wtf. why do we need to uninstall FIFA 11 to play the demo???
+,NarutoNamikaze,2011-09-13T20:58Z,"@ revista
+Thanks for the link"
+,NarutoNamikaze,2011-09-14T16:57Z,"Fixes:
+Please visit this site for some fixes. like installing FIFA 12 Demo without uninstalling FIFA 11. Playing a half time of more than 3 mins
+
+http://www.fifa-infinity.com/fifa-12-2/fifa-12-official-demo/
+
+I found a way to keep your custom controls for keyboard permanently.
+
+Go to the Game folder inside the installation directory
+Open the buttonDataKeyBoardMouse.ini
+
+Here you have to change the first column of the 7th paragraph.
+There are 4 lines:
+1st Line: Shoot
+2nd Line: Pass
+3rd Line: Sliding Tackle/Cross
+4th line: Through Ball/Goalkeeper Charge
+
+Take a note in which style controls are written. like LSHIFT.
+
+Now change them according to your wish.. I set it like this
+
+AddMap SC_D        VB_AI_B         # B
+AddMap SC_A        VB_AI_A         # A 
+AddMap SC_S         VB_AI_X        # X 
+AddMap SC_W        VB_AI_Y        # Y
+
+the 8th and 9th paragraph look same. so i don't know which one is for menu and which one is for controls. Since I play with gamepad and needed to change to to play double player with my friend, I changed for both the paragraphs (as I control menu with gamepad) Since the 2nd column for paragraph 7 is VB_AI_, I think the most probable paragraph for controls is paragraph 9. Go test it.
+
+For 9th or 8th Paragraph
+1st Line: Switch Player/Trigger Run
+2nd Line: Teammate Contain/Juggle
+3rd Line: Pace Control
+4th Line: Sprint
+
+Again change the value of first column in similar way. I kept it like this. (Showing the 9th paragraph)
+
+AddMap SC_Q           VB_AI_LB          # L1 
+AddMap SC_LSHIFT    VB_AI_RB         # R1 
+AddMap SC_C            VB_AI_LT          # L2 
+AddMap SC_E            VB_AI_RT          # R2"
+,KO51996,2011-09-17T17:14Z,thnxxx.........
+,KO51996,2011-09-17T17:14Z,thnxx
+,Flavinho,2011-09-17T21:24Z,"awesome,thanks for upload...when will appear the full game???"
+,dilinwe,2011-09-23T06:09Z,ive download this only to see the fucking bugs!!!
+,kakajeet,2011-09-23T17:50Z,"ANYWAY TO TURN ON LEGACY DEFENDING USING KEYBOARD AND TO CHANGE EVERYTHING (SUCH AS PASSING, SHOOTING, etc ) to Assisted from Manual using Keyboard. Plz tell me. I CHANGE IT IN CONTROLLER SETTINGS BUT IT CHANGES BACK TO MANUAL AUTOMATICALLY WHEN IN GAME. PLZ HELP. Thanx in advance."
+,14denho,2011-09-24T10:08Z,Thanks buddy!! the game work correctly!!

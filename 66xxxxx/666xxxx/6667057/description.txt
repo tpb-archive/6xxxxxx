@@ -1,0 +1,132 @@
+BitRock InstallBuilder Enterprise 7.2.5
+
+BitRock InstallBuilder is a development tool for building crossplatform installers for desktop and server software. With InstallBuilder, you can quickly create professional installers for Linux, Windows, Mac OS X, Solaris and other platforms from a single project file and build environment. In addition to installers, InstallBuilder will generate RPM and Debian packages and multiplatform CDs/DVDs. Its new automatic update functionality makes it easy to deliver updates directly to your users once they have your software installed.
+
+Save Development Time
+From one project file and build machine, you can generate both crossplatform installers and native packages for every supported platform, saving you from having to build and maintain separate project files. XML-based project files and a command line interface make it easy to integrate InstallBuilder installers into version control and automated build systems. An easy to use GUI makes creating and editing installers a fast, user-friendly process.
+
+Reduce support costs
+Providing easy to use installers for every platform you support will significantly reduce the number of incoming support requests you receive. Using InstallBuilder's update functionality, you can keep your users running the best available version of your software, so they don't run into bugs that have been fixed in a later release.
+
+Provide smaller, faster installers
+Installers generated with InstallBuilder are up to 30% smaller than their Java-based counterparts. Because InstallBuilder installers do not require a self-extraction step, they are faster and require less overhead than those that are Java-based.
+
+Key Features:
+
+â€¢ Desktop Integration : BitRock installers provide native look and feel and desktop integration for Windows, KDE and Gnome.
+â€¢ RPM Integration : BitRock installers can register your software with the RPM package database, combining ease of use with the powerful RPM package management system.
+â€¢ RPM and DEB generation : In addition to creating native executables that can register with the RPM subsystem, BitRock InstallBuilder can generate RPM and Debian packages that can be installed using the native package management tools.
+â€¢ Optimized : BitRock installers are optimized in size and speed and do not require a self-extraction step, reducing download, startup and installation time. Built-in LZMA support provides great compression ratios.
+â€¢ No External Dependencies : BitRock installers are single-file, self-contained native executables with no external dependencies and minimal overhead. Unlike
+competing products, all BitRock installers are truly native code and do not require bundling a Java Runtime Environment.
+â€¢ Ease of Use : BitRock installers provide an intuitive and easy to use interface on all platforms, even for end users without previous Linux experience.
+â€¢ Ease of Development : BitRock InstallBuilder includes an easy to learn, easy to use GUI environment. Design, build and test installers with the click of a button.
+â€¢ Time Saving Functionality : For advanced users, a friendly XML project format supports source control integration, collaborative development and customizing projects both by hand and using external scripts. A command line interface allows you to automate and integrate the building process. QuickBuild functionality allows you to update installers in a few seconds, without having to repack the entire application.
+â€¢ Built-in actions : BitRock InstallBuilder provides convenient built-in actions for commonly required installation functionality such as autodetecting a Java(tm) Runtime, changing file permissions and ownership, substituting text in a file, adding environment variables, adding directories to the path, creating symbolic links, changing the Windows registry, launching external scripts and so on.
+â€¢ Crossplatform Build Support : The installer builder tool can run on Windows, Mac OS X, Solaris, HP-UX, AIX, FreeBSD, OpenBSD, IRIX, and Linux (Intel x86/x64, Itanium, s390, PPC) and generate installers for all target platforms from a single project file. Create all your installers from a single build environment!
+â€¢ Customization : BitRock installers can be customized in a variety of ways, both graphically and in functionality. It is possible to ask for multiple parameters, like username and passwords, in the same installer screen. These helps simplify the installation process for end-users.
+â€¢ Multiple Installation modes : BitRock installers provide: several GUI modes with native look-and-feel, for installation in a variety of desktop environments, a text-based installation mode, for console-based and remote installations, and a silent/unattended install mode which can be used for integration in shell scripts for automated deployment.
+â€¢ Support for QtÂ® GUI Frontend : The InstallBuilder for Qt family of products provides a new GUI installation mode using the Qt crossplatform toolkit, enhancing the end-user experience
+â€¢ Rollback Functionality : BitRock installers by default perform a backup of all the files overwritten during installation, so in case there is an error, the system is recovered to its previous state.
+â€¢ Uninstall Functionality : An uninstall program is created as part of every installation, allowing users to easily uninstall the software. As the installer, it can be run in a variety of modes. On Windows, uninstall functionality can also be accessed from the Add/Remove Programs entry in the Control Panel.
+â€¢ Startup Failure Detection : BitRock installers will automatically detect the best installation mode available. Users also have the option to manually select a mode.
+â€¢ Language and Platform Independent : BitRock installers can install applications written in any language, including: Java, PHP, Perl, Python, Ruby, C/C++ and .NET/Mono.
+â€¢ Multiple Language Support : BitRock installers support a variety of installation languages, including English, German, Japanese, Spanish, Italian, French, Portuguese, Traditional Chinese, Dutch, Polish, Valencian, Catalan, Estonian, Slovenian, Romanian, Hungarian, Russian and Welsh. You can specify a default language or let the user decide. Please contact us if you require additional language support.
+
+
+Home Page - http://bitrock.com
+
+
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+
+
+*** When using TPB please read these important notes: 
+-----------------------------------------------------
+
+01. AV software may warn about keygens, patches, cracks etc because of their 
+    capabilities and signatures (generating codes, etc). Sometimes also they're 
+    added to the virus/spyware database and will be detected as malware. If not 
+    trusting keygens, patches, cracks etc don't use them.
+
+02. To avoid AV software removing/blocking clean cracks etc: exclude the crack 
+    or folder from being auto-protected & auto-scanned by the AV software.
+
+03. If AV software removed a clean crack usually it can be restored 
+    (if it's not in Quarantine then look at History or something similar).
+
+04. To avoid risks when using cracks also Sandboxie can be used to test them:
+    http://www.sandboxie.com/
+    http://thepiratebay.org/torrent/6487418
+
+05. Before running .exe-files, keygens, patches, cracks etc always check first 
+    if they can be unpacked. Often some thirth party added a virus to the 
+    original file, repacked it, and uploaded it again.
+
+06. Letting AV software software sending scan results to their companies 
+    can cause keygens, patches, cracks etc being added to their virus-database.
+
+07. Firewalls which are set to automatically decide for connections will allow 
+    connections for lots of apps & MALWARE!. To avoid so firewalls should be set 
+    to decide yourself which connection to allow or not.
+
+08. Clicking on unknown links can coz malware being silently installed on a pc!
+
+09. Usually (new) torrents with extreme many downloads & seeders in a short time 
+    are very suspicious! Torrents with a SKULL-logo are trusted.
+
+10. Some (frustrated) people use multiple accounts and post lots of FAKE comments 
+    and/or files trying to spread confusion. Usually they NEVER seriously reply 
+    on comments and don't have any torrent, or to look reliable just a few.
+
+11. In general often there are more fake & negative comments than reliable & 
+    positive comments.
+
+12. In some countries uploading/downloading copyright-protected material is 
+    forbidden, but showing some appreciation to reliable uploaders is not.
+
+13. Posting FAKE comments & uploads on TPB can result in getting banned from TPB!
+
+14. Comments are welcome, unlike ranting, trolling, whining, etc.
+
+15. No Promises ... No Debts!
+
+
+For reporting bad or suspicious torrents:                                                              
+http://forum.suprbay.org/forumdisplay.php?fid=29
+
+For requests:                                                             
+http://forum.suprbay.org/forumdisplay.php?fid=31
+
+For visiting my 1100+ torrents:                                                              
+http://thepiratebay.org/user/Anacondaz/
+
+
+
+-----------------------------------------------------------------------------------
+
+
+To the "United Reliable The Pirate Bay Users",
+
+Nowadays a lot of TPB members abuse their TPB membership by intentionally 
+posting fake comments & files. Their meaning is just trying to spread 
+confusion and to frustrate TPB and it's users. 
+Less downloaders = less seeders = less download speed etc = not good! 
+
+It's in the benefit of TPB and all reliable users to warn each other about people 
+who intentionally keep posting fake comments & files. It's an easy answer against 
+those who intentionally keep posting fake comments & files, which is a never 
+ending issue. 
+
+When reporting errors or false positives just keep in mind that what goes up for 
+one does not always goes up for another. That's for both the working of an app 
+and about false positives! Remember: whatever is said, say it constructive! 
+Let's just try to help each other and TPB by thinking about what's said & posted. 
+Things are all up to you, the "United Reliable The Pirate Bay Users"!
+
+
+Enjoy The Pirate Bay			
+		

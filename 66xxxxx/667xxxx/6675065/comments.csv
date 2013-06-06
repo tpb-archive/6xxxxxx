@@ -1,0 +1,130 @@
+User Type,Username,Date,Text
+,SuperFly2000,2011-09-14T11:37Z,"The virus scanner of Microsoft Windows 7 reports the keygen as a trojan !
+
+Caution is adviced by me !?!"
+,Viper23rd,2011-09-14T12:13Z,"@SuperFly2000
+
+False positive. Don't worry about it."
+,SuperFly2000,2011-09-14T12:35Z,"I ran the keygen in a virtual machine and so far it doesn't seem to do any harm. It just generates a key.
+
+Microsoft's website also seems to indicate this is just a general/generic warning, probably produced by a generic packer.
+
+So it could be a false alarm. So far I think the keygen is ok/safe."
+,supanut2000,2011-09-14T13:10Z,WTF IS THIS...A TOTAL VIRUS! MSE CLASSED IT AS SEVERE! DO NOT DOWNLOAD THIS! USE THE EXISTING V7 KEYGEN TO ACTIVATE; SHOULD STILL WORK!
+,cofd,2011-09-14T15:42Z,"Anyone can install vmware tools for windows?
+"
+,phrozenstare,2011-09-14T19:02Z,"thanks. i already downloaded this from the vmware website so all i needed was the keygen but had no problems with the keyen. using NOD32 4 and it did not report any viruses
+
+and they keygen worked in registering this version sucessfully"
+,wakintoch,2011-09-14T22:47Z,THX FOR THIS WORKS GREAT !! and the new interface is cool too !! 
+,coleix,2011-09-15T03:22Z,"Thx, needed this for windows 8, lol."
+,JPeterson,2011-09-15T04:04Z,"windows.iso is missing from the installation. impossible to install vmware tools in windows guests. ""could not find component on update server. contact vmware support or your system administrator."""
+,fhffan,2011-09-15T04:57Z,"FYI, Microsoft Security Essentials (and most other desktop anti-virus programs) almost always flag keygens as viruses because of the way keygens work. 99% of the time, these are false positives."
+,axeinc,2011-09-15T08:32Z,"Fine upload and NO virus detected by Norton, TrendMicro, Kasp.
+
+Great work dude."
+,JPeterson,2011-09-15T09:03Z,"ok. I get it now, tools-windows-8.8.0.exe fails with ""Error -4, while reading from C:\...\tools-windows-8.8.0.exe"". in theory you should obtain the iso from
+setup.exe /e tmp
+tools-windows-8.8.0.exe /e tmp
+but if that fails you don't get any windows.iso."
+,cofd,2011-09-15T13:08Z,"Use this link download vmware windows tools.
+ver 8.6
+http://packages.vmware.com/tools/esx/latest/index.html
+
+Not 8.8, but it work and wait vmware fix that."
+,JPeterson,2011-09-15T13:59Z,"Now I found the problem. No one nuked this release! The included installer is corrupted!
+setup.exe has crc32 EC49F475, should have
+12698A2D as VMware-workstation-full-8.0.0-471780.exe
+
+the result is that you get a corrupted tools-windows-8.8.0.exe
+bad A4945D04
+good D755115B
+
+I won't blame zwt without knowing more, it could be that vmware put out a bad installer at first."
+,marko_23,2011-09-15T14:14Z,what does it do?
+,JPeterson,2011-09-15T14:44Z,"I checked the original release from zwt now, to check if it's just this unrar that's botched. It has the same bad crc EC49F475, zwt screwed up with this one. Unless vmware has corrected the installer since the one zwt obtained."
+,1TWISTED,2011-09-15T15:08Z,"thanks,.. nice upload,... well done,.. ; )"
+,piratekitty,2011-09-15T17:30Z,"Used this keygen with the legit DL from VMware.
+
+Had same problem with upgrading Tools but after restarting each VM after opening once in VM 8...was able to upgrade Tools w/o problem.
+
+THX."
+,stmux,2011-09-15T21:05Z,"I upgraded from the last v7 to this and found while running two different VM's that run great on v7 vmware-vmx.exe slammed the cpu to 100% and stayed there, freezing the VM.  Anyone else seeing this behavior?  I had to revert back to v7
+mux"
+,AtlasPSX,2011-09-15T22:00Z,THANK YOU CYCLOPS! I can't get the damn keygen to work. I really appreciate the serials! 
+,jg4545,2011-09-15T23:28Z,"Hi,
+I downloaded VMware workstation 64 bit from VMware website but after entering countless serials and using the keygen I can't see whether the program accepted the key. When I look at the license information I don't see that I'm registed all I see is that the licence does not expire but that's the same as it was before the serial was inputted.
+Any help would be appreciated."
+,GodDamnedTrollz,2011-09-18T02:27Z,@ all you idiots: What could u noobs being all drama about a keygen(by the way any chicken chit moron obsessed about any alert by their crap anti IQ virus program shouldn't be in a p2p site to begin with just go to the developers site and pay for the dammed thing) reporting as a virus be testing in a virtual environment is really beyond me. 
+,supanut2000,2011-09-18T11:22Z,"@GodDamnedTrollz
+Well you can't call antivirus software crap, it's just that it's a false positive. MSE is the best antivirus IMO, but it's strange that it flagged the keygen as a 'severe' virus. Maybe it's to do with the packer, I don't know."
+,ancistis,2011-09-18T15:48Z,Anyone having osx guest unlocker for vmware workstation 8?
+,S.V.,2011-09-19T05:17Z,I need the patch to run OS X Lion in VMware 8...Anyone have a link to this?
+,SuperFly2000,2011-09-20T02:41Z,"@GodDamnedTrollz: 
+
+LOL, You really fun dude, calm down ! :P
+
+It's smart to test the keygen in a virtual environment when in doubt.
+
+If it was a trojan and it would immediatly strike, then this would become apperent in the virtual environment and only destroy the virtual environment.
+
+The real environment would still be safe. Though losing virtual environments is also just as bad.
+
+In this case I thought it was warranted since Microsoft flagged it as ""severe"". Having seen small little programs do massive ammounts of damage a small little file like this keygen could do massive damage ! Are you aware of that ?! ;) You seem a bit of a noob there yourself ! ;)"
+,cancon1,2011-09-20T23:43Z,"I use MSE and the keygen came up as a ""HackTool"" (which is what it is) with ""medium"" alert level.  Not sure why others are claiming that MSE reports a trojan with ""severe"" alert level."
+,Afroto2010,2011-09-24T02:24Z,"This a really Virus or Trojan !!!
+
+
+But anywhere.....
+
+SPECIAL THX FOR ""cyclops98"" .... FOR THESE SERIALS .... 
+
+MF2JA-FMK95-6ZG61-T92Q4-3APNQ
+0A2RD-FH011-XZYN1-CHCEP-03LHY
+4V2QH-0WJ4P-7ZEG0-F12N0-C3A4N
+
+IT WORKS !!!!!
+
++ + +"
+,Kipp0,2011-09-24T11:16Z,"uTorrent (the newest build) won't even let me finish DLing it ""because this file is contains a virus""
+
+When uTorrent has to stop a DL because it thinks something is a virus...that's when it's probably a virus XD"
+,Kipp0,2011-09-24T11:17Z,"er ""because this file contains a virus"" mybad =p"
+,garytn9988,2011-09-25T15:28Z,My Mcafee flaged the keygen file as a virus and deleted it.
+,asdhokker,2011-09-25T15:46Z,"@garytn
+
+it deletes your stuff and you are still using it??? WTF??
+
+its not a virus:
+http://www.virustotal.com/file-scan/report.html?id=3abf8ab53e57f7b5c70175e92318e19c5d59b2c23eaa9fafd86ddd0c0b9a6e51-1316955789"
+,pushkaryadav,2011-09-26T06:17Z,"gosh i didn't have any keygen file, don't know whether uTorrent deleted it or my bitdefender IS...
+but who cares, keys are easily available :p
+
+THANKS scene4all for the upload !"
+,Roberto2012,2011-09-26T08:25Z,some ppl like kippo really crack me up or it must have a virus if utorrent stops dling it even people that sit there and say well my antivirus says it has a trojen kk if you do not understand how alot of keygens have to work due to the security of the product ur using works then dont even bother dling them just stop cause all ur going to do by posting comments like u are is look like a stupid idiot alot of keygens has to work like a hack cause thats basicly what they are its simple little c++ coding dune works just like a hack does for a game so stop post stupid shit mse is worst antivirus out there anyways by the way not even microsoft themself wont even use it not even the ones that work for microsoft and if they wont even use it HELLO RED FLAG SOMETHING WRONG WITH IT DUHHHH malwarebytes and avast are the best to use together nothing better unless u wanna spend top doller on an antivirus 
+,Roberto2012,2011-09-26T08:28Z,and to Afroto2010 thanks your keys really work but take some advice dont post em in any forums or anywhere that is directly open to the public how they get blacklisted if they have to dl it they really dont bother with them they just wait till its been registered so many times then black list it
+,anti_piracy,2011-09-28T22:16Z,"Piracy is illegal. Please be aware that this application is developed by professionals who work for companies. Companies who invest in jobs. If you are productive with this application, please do the right thing and buy it. Thank you for not flaming a fellow developer who needs these jobs. "
+,Scorpio70,2011-10-07T09:23Z,"For god's sake, just download Sandboxie and try these files there first. No need for virtual machines, just a sandbox that the virus/malvare can't get out of."
+,Erik_O,2011-10-07T21:12Z,keygen is unfortunately infected.
+,rocket221,2011-10-09T00:58Z,Could you upload the Linux version?
+,Petetech888,2011-10-16T23:30Z,"The key generator downloads, I see it in the folder then disappears. What the f**k ??? Anyone know what the f**k that is and why the f**k its happening? I expect a VIP to be trustworthy, but that is pretty fu*k*n suspect dude!!!"
+,wolverine_marco,2011-10-19T19:00Z,"There is Problems in Graphics and Sound in Windows 7 x86 and x64 Using Aero making Screen goes Black, so i have to disable the ""Enable 3D Graphics Option"" to make windows run without Aero and no graphics problem, any fix for this or Expected Update?
+PC Specs:
+CPU: i7-2600 @4.2 GHz
+GPU: AMD Radeon HD 6950 2 GB memory with Latest Updates and Drivers
+RAM: 8 GB DDR3 @ 1600 MHz
+
+1)any Idea? or anyone have the same problem with Aero Feature?
+2) Another question, How could i Setup Mac OSX, what are the Specific Configuration?
+I have the VMWare on win7 x64, i need Mac OSX on VM. need help..."
+,GoldHosted,2011-10-20T15:57Z,Thank you
+,dson21,2011-10-22T03:19Z,"@superfly2000
+you rock baby!
+NICE!"
+,dson21,2011-10-22T03:23Z,"if you are in doubt with this safe keygen
+run it through sandbox
+it will not harm your working environment."
+,erikblazer,2011-10-23T04:52Z,"Why cant people understand that Keygens show up on Antiviruses as Trojans, people are so fucking stupid now a days, i thought that was understood that they were viewed as that? or have i just been telling myself that? btw great upload there mate, keep sharing!"
+,mojeeq,2011-10-23T07:05Z,"awesome!, if your anti-virus deletes the keygen just use keys given on other comments..."
+,raymart,2011-10-23T20:06Z,thanks!
+,rakeshk,2011-11-08T12:39Z,can some one post some more working keys???

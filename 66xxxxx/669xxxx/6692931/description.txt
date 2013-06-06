@@ -1,0 +1,9 @@
+A new version of the redsn0w jailbreak tool has been released by the iPhone Dev Team, mostly as a feature enhancement update. Versioned as 0.9.9b1, the release includes a variety of new features, including:
+
+Automatic device and firmware detection via DFU mode
+Grabs some IPSW versions from Apple
+Caches custom and beta IPSWâ€™s locally
+Easier tethered boot with preferences saved
+â€œPwned DFUâ€ option to quickly enter into DFU mode without the button sequence
+Various SHSH blob features pertaining to custom IPSW versions and storage on Cydia servers
+Note that redsn0w 0.99b1 does not jailbreak any new iOS versions, nor does it provide an untether for existing jailbreaks that are still tethered. It will continue to jailbreak iOS 4.3.5, and for developers with access, the iOS 5 beta builds, on supported iPhone, iPad, and iPod touch models.

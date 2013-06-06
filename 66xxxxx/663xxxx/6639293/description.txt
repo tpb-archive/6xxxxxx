@@ -1,0 +1,17 @@
+Changelog: 
+
+    -Testing no slow-motion
+    -Blood dries/absorbs over time
+    -Level end dialog distinguishes between victory and defeat
+    -Enemies randomly vary attack direction
+    -Weapon animation retargeting
+    -Weapon block animations
+    -Sword and spear can block each other
+    -Spark effect for weapon blocks
+    -New weapon block sounds
+    -Fixed problem with deleting equipped weapons
+    -Fixed level switch issues with imposters, sounds and fps label
+    -Cannot group item, character or waypoints
+    -Possible fix for enemies falling through ground
+    -Faster script function calls
+    -Character animation freq shifts based on distance and number of characters

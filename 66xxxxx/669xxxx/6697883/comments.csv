@@ -1,0 +1,114 @@
+User Type,Username,Date,Text
+[V],Anacondaz,2011-09-24T09:10Z,"to know , learn and get all things come and join here
+
+https://forum.suprbay.org/member.php?action=register&referrer=126762
+"
+[V],achaevil,2011-09-24T10:55Z,Anacondaz bro i want to talk with u.i need ur help.my email evilachrya@ymail.com
+,gallant_687,2011-09-24T16:30Z,"key doesnt work, says expired"
+,flexinqatar69,2011-09-25T14:23Z,"hey bro thanks for the up-load, working great after i blocked the fire wall setting....  But still asking for the master password before i can change some of the settings, any help you provide would be great...."
+,yeeglol,2011-09-26T08:19Z,"I had installed it. Serial key also worked, but from the second or third run it says ""Expired Version"", ""Click Buy Now to Register"". During installation i had my net disconnected, but during the the third or fourth run (from when the problem started ocurring) i had my net connected.
+What to do now? Plz help ASAP..."
+,AGADIL,2011-09-26T19:22Z,thanks for this upload but after one day it says expired version i need for valid key
+,darkshadow666,2011-09-27T02:18Z,Expired !!!!!!!!!
+,techranjit,2011-09-30T10:47Z,"follow these Steps!!
+
+uninstall all your folder lock appliction from your computer
+clean your registry with c cleaner or any other registry cleaner
+restart your computer
+1)disconnet your internet
+2)check your firewall setting and set it in normal or agressive mode .
+3) Now insatll folder lock 7(dont launch)
+4)now Connect your intenet
+5)launch  your folder lock
+6)yourFirewall will ask your permission to block folder lock or allow,you should block it permanently.
+7)Thats it,It will work
+8)In Future if you switch or make any changes to your antivirus firewall ,you again get the expired notice,so make sure your firewall is blocking this application always!!!"
+,darkshadow666,2011-10-02T09:00Z,@techranjit .not work! it says expired! we need new key.
+,techranjit,2011-10-02T11:29Z,"darkshadow666 
+
+
+My dear friend it will work!!
+ok do the following..
+do the following for last time with 7.0 version
+1)UNINSTALL FOLDER LOCK COMPLETELY
+2)RESTART YOUR COMPUTER
+3)CLEAN YOUR PC OR REGISTRY WITH C CLEANER OR ANY OTHER TOOL (GO TO YOUR PROGRAMFILES AND DELETE ANY FOLDER LOCK FOLDER LEFT IN PROGRAM FILES)
+4)DISABLE YOUR INTENET
+5)INSTALL FOLDER LOCK AS PER INSTRUCTIONS(DONOT LAUNCH)
+6)GO TO YOUR ANTIVIRIS FIREWALL THEN APPLICATION RULES OR SETTINGS,CHECK FOR FOLDER LOCK APPLICATION ,BLOCK THIS APPLCATION ON YOUR FIREWALL
+7)NOW LAUNCH FOLDER LOCK,IT SHOULD WORK,IF NOT CHECK  FOR  PREVIOUS VERSIONS!!"
+,darkshadow666,2011-10-04T16:28Z,"@techranjit : Thank you techranjit.
+I tried that, But not work with this key!"
+,BlackPearl73,2011-10-04T23:31Z,"darkshadow666,
+
+This approach definitely works, I installed it in a virtualized 32-bit Windows 7 Ultimate OS as well as an actual 64-bit Windows 7 Ultimate OS, and it worked in both cases.  The specific file that has to be blocked is WinFLTray.exe (if this isn't the file you're blocking, it's not going to work).  On a 32-bit system, it's located in C:\Windows\System32\ and on a 64-bit system it's located in C:\Windows\SysWOW64\.  "
+,darkshadow666,2011-10-05T15:48Z,"it's working great in my other systems.Thank you BlackPearl73 :)
+but i can't use this serial in this system(win 7)! because it's expired in this system!"
+,BlackPearl73,2011-10-07T19:14Z,"OK darkshadow666 (and everyone else that is having the ""expired"" problem), I think I've found the solution.  Note, I take no personal credit, this was posted elsewhere.
+
+If you have Folder Lock 7 installed and are getting the expired message:
+
+1.  Install CCLeaner
+2. Uninstall Folder Lock using CCleaner (Tools > Uninstall)
+3. When you get the restart message after uninstalling CCleaner, DON'T restart.
+4. Run the ""Registry"" section of Cleaner and remove everything that it finds.
+5. Restart computer.
+6. Disconnect you Internet.
+7.  Go into Folder Options for Windows and make sure ""Show hidden files, folders, or drives"" is ENABLED.  Make sure ""Hide protected operating system files (recommended) is DISABLED.
+8.  Do a search of the C: drive for a file named systemFL7.$dk.  Delete this file when you find it.
+9. Reinstall Folder Lock 7 and block the WinFLTray.exe file.
+10.  Reconnect Internet."
+,BlackPearl73,2011-10-08T00:44Z,"Here are the instructions for a first time install of Folder Lock 7 and a reinstall to fix the expired stuff...
+
+First time install:
+1. Disconnect from the Internet.
+2. Install Folder Lock, but don't let the program open upon installation completion.
+3. Block application from Internet with firewall. Specifically, block the ""WinFLTray.exe"" file which is located in the C:\Windows\System32\ folder on a 32-bit Windows OS and in the C:\Windows\SysWOW64\ folder on a 64-bit OS. 
+4. Open folder lock and enter the serial number and registration key.
+5. Reconnect Internet. 
+
+Reinstallation to fix ""expired"" message:
+1. Install CCLeaner
+2. Uninstall Folder Lock
+3. When you get the restart message after uninstalling Folder Lock, DON'T restart.
+4. Run the ""Registry"" section of Cleaner and remove everything that it finds.
+5. Restart computer.
+6. Disconnect your Internet.
+7. Go into ""Folder Options"" for Windows and make sure ""Show hidden files, folders, or drives"" is ENABLED. Also, make sure ""Hide protected operating system files (recommended) is DISABLED.
+8. Do a search of the C: drive for a file named ""systemFL7.$dk"", delete this file when you find it.
+9. Reinstall Folder Lock 7 and block the ""WinFLTray.exe"" file.
+10. Open folder lock and enter the serial number and registration key.
+11. Reconnect Internet. "
+,darkshadow666,2011-10-08T09:35Z,"@BlackPearl73
+Thank you very much!
+:)"
+,BlackPearl73,2011-10-09T01:53Z,Glad I could help.
+,devanoah123,2011-11-04T11:10Z,"Good Job, thanks dude!
+
+@BlackPearl73: thanks for step by step instructions.
+"
+,mohan143,2011-12-08T19:26Z,thanx uploader! & folder lock works fine!!
+,faasty,2012-01-14T05:56Z,"hey, i fixed all the expired stuff and folder lock is working. BUT has anyone experienced problems getting back into their folders later? I have been using it for about 2 weeks and one of the lockers (portable) opens fine, but the really large ones I made (5gig and 10 gig) don't want to open. I'm sure the password is fine aswell. Anyone else?"
+,bablookhan,2012-01-26T14:43Z,dear i have used all methods which are mention by u people but still facing problem of expired version. Plz tell any perfect method
+,dez8,2012-01-27T15:54Z,"shit! somebody pls help, so its the usual expired problem, BUT I CAN'T RECOVER MY FILES BACK. It's askin for me to buy the whole software!
+
+CAN SOMEBODY(ESPECIALLY YOU ANACONDAZ) PLS LET ME KNO IF I CAN GET IT BACK AND OUT OF THE LOCKER! "
+,pintu3,2012-04-12T08:31Z,"==========================================================
+
+SERIAL KEY : F7-20111116-7-829987
+
+REGISTRATION : EC6250DECC6C168448E066EE868EE4907CE01C74
+
+==========================================================
+
+SERIAL KEY : F7-20111116-5-112259
+
+REGISTRATION : B20A7474A210C8B21EC0427214D828946EDABE1C
+
+==========================================================
+
+SERIAL KEY : F7-20111116-9-738667
+
+REGISTRATION : 4200AC52442CA0CACCE4E21CD06E0EFE780EB6DE
+
+=========================================================="

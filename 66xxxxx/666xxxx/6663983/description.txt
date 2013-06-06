@@ -1,0 +1,19 @@
+Features
+
+FFSJ is...
+
+Very fast: FFSJ can optimize disk-cache and memory usage, this makes FFSJ 3-5 times faster than HJ-Split, WinSplit, MasterSplitter in both splitting and joining tasks. Of course, it is much faster than any compression program.
+
+Simple: FFSJ works well on all Windows platforms. FFSJ-Lite doesn\\\\\\\\\\\\\\\'t need any requirement of installations or complicated DLLs. FFSJ-Standard has only one simple installation package for integrating FFSJ into shell context menu.
+
+Small: Both FFSJ-Lite and FFSJ-Standard editions are small enough to fit on a floppy disk.
+
+Easy to use: FFSJ has a friendly user-interface, it can be used to split any file. FFSJ-standard can also create its shell context menus in order to perform splitting and joining tasks directly from Windows Explorer.
+
+Easy to be integrated: Since v3.0, FFSJ published its command-line interface. End-users can split/join multiple files using a .BAT file. Developers can write their own interface (in any language) to perform splitting/joining tasks from their applications.
+
+Secure: FFSJ uses an advanced encryption algorithm to make your data much more secure from unauthorized access. Since v2.9, MD5 checksum algorithm has also been integrated to verify data integrity.
+
+Compatible: FFSJ can join parts produced by HJ-Split.
+
+Free and Safe: FFSJ-Lite and FFSJ-Standard are free and clean, both editions do not contain any form of adwares, spywares, viruses, trojans and backdoors.

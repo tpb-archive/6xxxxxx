@@ -1,0 +1,23 @@
+For those having problems with the Tokyo DLC, this should fix the problem.
+
+Extract Update.rar to your main Cities in Motion directory, you will need the original game as this just includes updated files.
+
+Adds:
+
+Improvement: Player can rename stops.
+Improvement: Line number is shown in the box above player vehicles.
+Improvement: Bus and tram stops can be upgraded by constructing new stop at the same place.
+Improvement: A button to toggle all lines of the same type visible or hidden.
+Improvement: Wider audio device selection area in the settings menu.
+Improvement: Better prevention of unnecessary interchanges.
+Improvement: Player vehicles don't wait too long for passengers coming to the stop.
+
+Fixes:
+
+Fixed bug: Secondary viewport doesn't move with citizens when shadows are off.
+Fixed bug: Catchment area is not shown after disabling underground mode when creating stops.
+Fixed bug: Info sheet in secondary view shows wrong stop expenses.
+Fixed bug: Map editor deletes overlapping markers when bulldozing buildings.
+Fixed bug: Stop numbers don't appear in minimap.
+Fixed bug: Translation errors.
+Fixed bug: Vehicles sometimes load too many passengers after breaking down.

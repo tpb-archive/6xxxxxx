@@ -1,0 +1,123 @@
+Oh no, Yet Another "Ultimate" Boot Key ??
+
+Why this one is more ultimate than all the previous one ?
+
+This one is a big mix of best live environment (ok, not the best: my favorites), with a grub based booting system + a full Windows 2003 R2 SP2 ready to install from USB.
+
+A bit more details about what can we find in :
+- Windows 2003 Server R2 SP2 English (included : XP recovery console)
+- Backtrack 4 (Pre-Release) : even in pre-release, I cannot resist to include it (Possible bug : if it shows no activity during boot, just type in a letter (any) and press Enter)
+- WinPE "still alive" project : the "Ultimate Boot CD 4 Windows" (UBCD4Win) 3.5.0 
+- VistaPE ("still alive"... not so sure...) : Winbuilder - VistaPE 1.2
+- Vista Recovery CD
+- Ultimate Boot CD 4.1.1
+- Hiren's Boot CD 9.9
+- Acronis & Paragon tools (True Image 2009, Disk Director 10.0, Drive Cleaner 6.0, Migrate Easy 7.0, Drive Backup 9, Disk Wiper 8.5, Hard Disk Manager 2009)
+- Parted Magic 4.2
+- Norton Ghost 11
+- BootItNG 1.86
+- Active Password Changer 3
+- Peter Nordahl's chntpw (2008-08)
+- OnTrack Data Eraser 2.02
+- OnTrack Data Recovery 6.10
+- Disk Tools (SpinRite 6.0, Darik's Boot and Nuke v.1.0.7 + IBM, Samsung, Seagate, Western Digital Drive diagnostic tools)
+
+Nearly a thousand of tools in 4Gb USB key + Live Windows, Live Vista, Live Linux + Windows install !
+
+
+Folders content:
+================
+Contents of the root folder:
+- $WIN_NT$. ~ BT: Initial boot folder for Windows 2003 R2 SP2 English
+- $WIN_NT$. ~ LS: Installation folder for Windows 2003 R2 SP2 English
+- Boot: Boot stuff (grub + vistaPE)
+- casper: Root folder of Backtrack 4
+- Images: Root folder of bootable utilities (Ghost, Acronis, Paragon, ...)
+- minint: WindowsPE system folder
+- Programs: Applications for WindowsPE folder
+- pmagic : parted magic folder
+- Sources: Vista PE folder
+
+
+Updatable ???
+=============
+This bundle is completly updatable : you can change the windows installation files, change the backtrack live once the RC will arrive, put any other linux distrib if you want, and even you can update the two live Windows environments by simply using the UBCD4Win or WinBuilder interface...
+The same if you want to add some .img, .iso images with bootable stuff.
+Take care of one thing when updating Windows installation files : DO NOT REPLACE CONTENT OF FOLDERS $WIN_NT$.~LS or $WIN_NT$.~BT directly from your I386's one. You have to use the WinSetupFromUsb application as it makes extra works (update txtsetup...). If txtsetup file is not patched, you'll probaly run to the infamous rdummy.sys error ;-)
+
+All other things can be directly updated : change the ISO / IMG file and change menu.lst according. Change the boot.wim (vistaPE) by the updated vistape.wim or any other. Change Backtrack release by replacing the casper/filesystem.squashfs file...
+
+You'll find in the menu.lst file some example of using grub for booting all these differents things, this can give some clue on how to add new/modify stuff.
+
+
+How to install: *UPDATED*
+===============
+You need a USB key with a minimum capacity of 8GB mini, free of any content. And... fast enough (USB2 mini, my OCZ Rally2 rocks for such things).
+You can use USB Key or USB HDD, grub should work for both.
+
+1. Download the HP Flash Drive Format tool here: 
+http://www.hiren.info/download/freeware/usb_format.zip
+2. Format it in NTFS file system
+3. Use Ghost32 to put the image on your Flash Drive :
+- run the Ghost32.exe application from Ghost folder
+- click OK on first message
+- Choose Local - Disk - From Image
+- Select the file USB4G_2000907.GHO (one click)
+- At "Select local destination drive by clicking ...", SELECT YOUR USB KEY! (look for the size of the disks appearing in the "Size MB")
+- Click OK
+- Confirm the restoration of the image on your USB key (WARNING : ALL DATA ON TO THE KEY WILL BE DELETED)
+- Wait and once the restoration finished, select "Quit" from the menu.
+4. Download Grub4Dos here: 
+http://www.hiren.info/download/dos-files/grub4dos.zip
+5. Run Grub4Dos, select your flash disk and under PART list choose MBR, then click "Install"
+6. Should work now. Make sure grldr and menu.lst are on the flash drive.
+
+The actual content in the ghost image can fit on a 4GB flash drive but ghost wants to do a 1:1 copy so it thinks it needs and 8GB FD, like I said above you can copy all the files from the 8gb to a folder then put them on a 4gb, and then install grub4dos
+
+
+Thanks to gat0robot0 for these *working* installation steps  
+
+You can then put the key into a PC, reboot everything, and you should arrive soon in the grub menu !
+Once your have finished to work with live environments, restart the PC and remove the USB key.
+
+If your computer restarts on Windows without going through the menu of the USB key, check your boot order settings in the BIOS.
+Otherwise ... Well your BIOS probably does not boot from a USB device ...
+
+That's a shame I just cannot find a way to use grub for a bootable CD/DVD!! If so, it would be possible to choice between a usb key AND a live DVD. As some PC still cannot boot from usb, that would be a great alternative... If anybody has an idea...
+
+
+Links:
+======
+Ok, now all the usefull links to make it your own / customize it :
+- Boot part, windows installation from usb and some more : http://www.msfn.org/board/WinSetupFromUSB-with-GUI-t120444.html
+- Backtrack 4 : http://www.remote-exploit.org/backtrack.html
+- UBCD4Win : http://www.ubcd4win.com/contents.htm
+- Vista PE : http://vistape.net/
+- Ultimate Boot CD : http://www.ultimatebootcd.com/
+- Hiren's boot CD : http://www.hiren.info/pages/bootcd
+- Acronis & Paragon : http://www.paragon-software.com/ & http://www.acronis.com/
+- Parted Magic : http://partedmagic.com/
+- BootIt NG : http://www.terabyteunlimited.com/bootit-next-generation.htm
+
+
+Thanks !!
+=========
+Many thanks to ilko_t : great work !
+A big, big thanks to Backtrack creators & contributors for their enormous work on the new BT4 !
+Thanks to the creators and all contributors of the two projects UBCD4Win (WinPE) and WinBuidler (VistaPE).
+Thanks to all people that created / maintain all the other distros (pmagic, Hiren's boot CD, Ultimate Boot CD...)
+
+My personal contribution there is quite ridiculous : a big interest in Windows based live environments, two live Windows compilation (VistaPE and UBCD4Win) and a bit of copy/paste for putting all parts together. No thanks for that, please :-)
+
+
+
+If some are interessed by the sources (eg : Winbuilder / UBCD4Win) used to produce the two Windows live environment, just tell me, I'll upload them in a separate post. 
+Just be aware about producing you own Windows/Vista live : you absolutly need a FULL PROPER windows (XP, 2003 or Vista) source disc. By "FULL PROPER", aka : NO NLITED RELEASE !!!
+If you try to compile your live distro from a nlited/moded windows distributions, you'll most probably run in "cannot copy from i386\XXX file to destination" errors : these files have been removed (thanks to nlite...) from that source.
+The best Windows distros to use are full corporate ones try to find some slipstreamed ones for SP integration.
+
+This is a global remark about nlited distro : please, stop removing any file ! You can customize/tweak/add what ever you want, just stop removing components if you it's not *really* mandatory...
+
+
+
+Enjoy, and... Seeeeeeeeeeed !

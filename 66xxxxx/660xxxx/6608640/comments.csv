@@ -1,0 +1,13 @@
+User Type,Username,Date,Text
+,LechuCzechu,2011-08-17T15:29Z,"I don't wanna piss into your bonfire but this video doesn't work! It crashed TVP, crashes TVC when I tried to convert it to other format, crashed WMP and MPC. 
+And yes, I do have the latest codec pack, and yes I'm able to play every other .mp4 files I had encountered.
+
+I suspect you've encoded this file improperly. "
+[T],aularon,2011-08-17T16:38Z,"@LechuCzechu: I can play it with no problem using VLC, mplayer and Totem, they don't even show a warning about the file.
+
+Try using VLC, also try moving subtitle files (.srt, .ttxt) and the .txt file off the video directory, maybe your player is confusing something up with subtitles, which is causing the crash.
+
+Another possible cause is that some chunks in the download are messed up, use your bittorrent client to re-verify the file, it will re-download bad chunks, if any."
+,LechuCzechu,2011-08-17T17:15Z,"Ok, I managed to open the file with another player. 
+
+Sorry to blame you in the first place. Thanks for your uploads, science and technology related videos are much appreciated :) Good work, can't wait for another episode :) ."

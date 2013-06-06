@@ -1,0 +1,55 @@
+User Type,Username,Date,Text
+,LocutusBorg,2011-09-09T03:29Z,Thank You
+,bigmac39,2011-09-12T14:36Z,"Hi, first of all i have to say thank you very much. but i would love to know what program did you use to make these mkv rips. 
+are they from blue ray of dvd? 
+what is the program and the version."
+[V],meech,2011-09-25T01:19Z,"bigmac39:
+Hi. Sorry for the late response.  Not sure if you'll ever re-visit this torrent, but just in case...
+
+Once in a while, I'll get requests for my settings, etc.  So I put together a sort of ""how-to"", the exact method that I use to create my encodes.
+
+I used to use a program called Handbrake, but I more recently switched to Vidcoder.  It shares the same great encoding engine as Handbrake, but has a different (in my opinion better) interface.  Both Handbrake and Vidcoder share a much simpler, yet still powerful interface, than other - everything but the kitchen sink - encoders such as meGui.  The major difference between Handbrake and Vidcoder (at least for me) is that Vidcoder has the target file size feature (you can specify how large you want the file to be) and Handbrake does not.
+
+I made my encoding instructions into a pdf file and posted it on a free file hosting site.  It seems to be down right now, but hopefully will be back up later.  If the link below continues to not work, let me know and I'll post it somewhere else.
+
+View pdf containing encoding instructions here: http://www.files.com/set/4dbe09368b233"
+,karlnito,2011-11-05T16:20Z,thank you for this!.. i just wish there'd be more seeders though. thanks anyway.. :)
+,thienkle,2012-02-06T16:41Z,Please seed!! downloading at 4kb/s :(
+,iApples,2012-04-05T06:05Z,Some of the audio isn't working on episode 13 on..This happened with season 4 on the last three or four episodes.
+[V],meech,2012-04-06T06:02Z,Not sure about the audio problem.  I went through the series myself (ripped them so I could watch the series myself) and never ran across that problem.  I wonder if it could be a issue with your player?
+,ili2882,2012-04-06T18:51Z,"Watching them with Media Player Classic + ffdshow-tryouts on XP no problems, but there are small problems with the Audio loosing sinc I believe it's a hardware issue (these High profile rips need a little more power then P3's or old Celeron's or Athalon XP's) try using CoreAVC and the internal mkv splitter/AC3 decoder from the original mpc, mpc-hc needs more power then mpc and VLC for Windows is slower then CoreAVC+mpc"
+,iApples,2012-04-06T23:24Z,"Thanks for the reply.  I downloaded the season twice - same problem.  I also reinstalled vlc and it still didn't work.
+
+I'll use divx and deal with the lag or try windows classic. This hasn't happened on any of your rips before though."
+,ht0fff,2012-04-20T06:38Z,I solved the audio mystery. The Matroska container is damaged. Solution: ffmpeg -i damaged.mkv -vcodec copy -acodec ac3 -ab 192k -scodec copy new.mkv
+,kampeao,2012-04-25T08:56Z,"Thank you very much, I've seen all seasons till' now and going for the fifth...thanks a lot for the perfect quality in every upload :)"
+,phga,2012-05-07T18:06Z,"@ht0fff
+
+How do you fix the audio issues? Can't seem to get them to work for seasons 6-9 :/"
+,resurrectioncol,2012-05-13T23:45Z,"@phga I think I figured out how to fix this using ht0fff's tiny help. I'm not really into using the windows command prompt, I just used my intuition. Here are the instructions (sorry for my bad english):
+
+1. Download ffmpeg from this link: http://ffmpeg.zeranoe.com/builds/
+Use either the 32 or 64 bits build.
+2. Unzip the .7z file. You'll get 4 folders and a README.txt
+3. Open the windows command prompt. (press windows+r and type cmd)
+4. A black window will apear. Write ""cd"" + [space bar] in the console and drag and drop the ""bin"" folder you got from the .7z file into the black window. This will set the working directory of the command prompt to the bin folder (which contains 3 .exe files you'll use later).
+5. Pick one of the damaged episodes, copy and paste it into the bin folder. Rename it as ""damaged.mkv"".
+6. Scroll up to ht0fff's comment, select and copy the command he gave us, or here is it again:
+
+ffmpeg -i damaged.mkv -vcodec copy -acodec ac3 -ab 192k -scodec copy new.mkv
+
+7. Go back to the command promt, right-click and select paste. Press Enter.
+
+8. A bunch of matrix-like yellow code will begin to scroll in the window. Don't worry, it's doing its job. 
+
+9. Wait until it stops.
+
+10. You'll get a ""new.mkv"" new file on the bin folder. This file is almost corrected.
+
+I don't know how this final file will behave in your pc, but when I opened it, everything was right except a little audio delay. I opened the new.mkv file with VLC player and this is what happened:
+
+1. The audio started to sound alone. I didn't see anything, and the blue scroll bar was setted at the end and the playing time was at 40:39. 
+2. I clicked the scroll bar to almost the beggining of the video. Finally I got video+sound, but there was a considerable amount of delay between them.
+3. I pressed ""J"" until I got -1000ms delay. That's it. 
+
+I hope this will work with you. Sorry if now your eyes are bleeding because of my horrible english, but I'm trying to help."

@@ -1,0 +1,22 @@
+WHAT IS SMART UTILITY?
+SMART Utility is an application to scan the internal hardware diagnostics system of hard drives. SMART (Self-Monitoring, Analysis, and Reporting Technology) is a system built into hard drives by their manufacturers to report on various measurements(called attributes) of a hard drive\'s operation. The attributes can be used to detect when a hard drive is having mechanical or electrical problems, and can indicate when the hard drive is failing. SMART Utility can read and display these attributes. This allows time to hopefully backup, and then replace the drive. SMART Utility also allows running a drive\'s built in self test, which can also indicate malfunctions on the drive.
+
+WHY USE SMART UTILITY?
+SMART Utility is different from other drive utilities, such as Disk Utility, which only read the overall SMART Status. SMART Utility not only displays the individual attributes to see their status and information, but it also uses an internal algorithm based on those attributes to detect drives failing before SMART indicates it has failed. This pre-fail detection can save precious data before SMART has determined that the drive has failed. And, while the raw information can be viewed on the command line with smartmontools (which is what SMART Utility is based on, SMART Utility presents it in an easy to read format, as well as running its internal pre-fail algorithm. Plus, with the ability to run self tests, problems can be detected even sooner.
+
+FEATURES
+Displays all supported drives and their partitions
+Displays important information in the main window, such as drive model, capacity, power on hours, temperature, bad sector counts, and error counts and types
+Displays easy to read overall SMART status with color coded text
+Displays more detailed information in separate windows, including capabilities, all available attributes, and the past five errors
+Displays information using the Growl notification service (if installed)
+Displays information in menu bar
+Supports saving drive reports for later viewing
+Supports printing drive reports
+Supports scanning in the background
+Supports running a hard drive\'s built-in test, and displays the results of the test
+Supports scanning OS X software RAID drives, as well as drives in many RAID enclosures and cards (including SeriTek drives)
+Supports logging all information to a log file for verifying SMART data
+Supports customizing the pre-fail algorithm, including only alerting new bad sectors and error counts
+Supports Mac OS X 10.4.11, 10.5, 10.6, and 10.7, on both PowerPC and Intel Macs
+Fully localized in French, thanks to Ronald A. Leroux
