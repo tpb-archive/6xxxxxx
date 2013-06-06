@@ -1,0 +1,72 @@
+ http://www.bootmed.com
+
+This is the 64-bit version of BootMed, for the 32-bit version go to: http://thepiratebay.org/torrent/6203005/BootMed_1.0_x86
+
+What is BootMed?
+
+The BootMed Live CD is an Ubuntu Remix for those new to Linux. It's main goal is to help the average Windows user to recover a computer that will not boot. Besides troubleshooting boot problems, there are many other things that BootMed can guide you through.
+
+The first thing you need to know about BootMed is that it is a live cd. A live cd is basically a boot disk on a cd. You put BootMed cd in your computer, turn it on, and the computer will load an operating system from the cd. The operating system on the cd is completely independent of your hard drive, meaning that it will boot up even if Windows cannot.
+
+To begin using BootMed, just download this torrent and go to http://www.bootmed.com and follow the instructions.
+
+
+***What is on BootMed?
+ClamWin 
+ddrescue 
+Foremost 
+GParted 
+NTFSProgs
+PhotoRec
+Scalpel
+Stinger 
+TestDisk
+Wine
+
+***Some things that BootMed can do:
+
+Troubleshoot Windows Boot Problems
+
+Copy files from a computer that will not boot to a pen drive or external hard drive
+
+Scan for viruses with:
+   Stinger
+   ClamWin
+
+Make a forensic image of a damaged or corrupted hard drive with dd-rescue and recover files from the image
+
+Recover deleted files with:
+   TestDisk
+   PhotoRec
+   Foremost
+
+Recover a deleted partition with TestDisk
+
+Create a virtual machine from a physical computer
+
+Wipe (securely erase) a Hard Drive or Pen Drive
+
+
+***Problems BootMed Solves:
+
+*You deleted a file and need to recover it. - When a file is deleted, it is not actually destroyed. What happens is the Operating System is told to treat the area where the file is stored as free space. Ironically, you can destroy the file you are trying to recover, simply by installing a program like Recuva, since it will be installed into your hard drive's free space. That is why file recovery is best done from a live cd, which does not require an installation on your hard drive. Just be sure to download BootMed to a computer other than the one with the deleted file. Recover deleted files with TestDisk, PhotoRec or ForeMost
+
+*Your computer is infected with a Virus and will not boot. - BootMed comes with a couple basic virus removal tools. ClamWin and Stinger
+
+
+*Errors such as: Blue Screen of Death on boot
+   Operating System Not Found
+   Missing operating system
+   INACCESSIBLE_BOOT_DEVICE (STOP 0x0000007B)
+   UNMOUNTABLE_BOOT_VOLUME (STOP 0x000000ED)
+   NTFS_FILE_SYSTEM (STOP 0x00000024)
+   etc...
+
+   These kinds of errors can be indicative of hard drive failure. The best thing you can do is make an image (exact copy) of your hard drive. The image will be a clone of your damaged hard drive, copying both good and corrupt data. You then can retrieve your files from the image in Windows. Since hard drives become more corrupt with use, the best thing you can do is make the image and preserve your information. Then you can set the hard drive aside and recover from the image. 
+BootMed will help you make a forensic image of a damaged or corrupted hard drive with ddrescue and recover files from the image
+
+*You accidently deleted a partition and need to recover it. - This can be an easy accident to make when you are installing a new operating system. It is also can be easily reversed, if you have not written anything in place of the deleted partition. Just follow this tutorial and you will have your partition back in seconds: Recover a deleted partition with TestDisk
+
+*You want to securely erase (wipe) a hard drive or other storage media. - If you are about to sell a computer, hard drive, or even a pen drive, you should wipe it first. Recovering deleted files, even if you have reinstalled Windows, is not that difficult. Wiping your drive will remove any trace of your personal files. Just be sure that you have the Operating System installation discs, since you will not be able to reinstall from a recovery partition, if you wipe it. Use ddrescue to wipe (securely erase) a Hard Drive or Pen Drive
+
+*You want to create a virtual machine out of a physical computer. - This is a great way to move all of your data from your old computer to your new computer. By making a virtual machine out of your old computer you will be able to boot up your old computer in a window on your new computer. Here's how: Use ddrescue to create a hard drive image and then a virtual machine from that image

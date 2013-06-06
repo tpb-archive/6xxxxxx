@@ -1,0 +1,15 @@
+NovitÃ  di WinRAR 
+Versione 4.01 
+
+Aggiunto il supporto per la dimensione dei file memorizzata in formato binario in un archivio TAR.
+Alcuni archivi TAR utilizzano, per file piÃ¹ grandi di 8 GB, il formato binario per salvare la dimensione di un file, invece del solito formato ottale. 
+Problemi risolti: 
+Il comando "Ripara" falliva la ricostruzione corretta di un archivio RAR danneggiato che conteneva anche solo un file la cui dimensione compressa superava i 4 GB.
+Questo problema non incideva sulla riparazione basata sulle informazioni di recupero. Il problema accadeva solo se non venivano trovate le informazioni di recupero e WinRAR eseguiva una ricostruzione della struttura dell'archivio danneggiato. 
+Anche se l'opzione "Non estrarre i percorsi", nella sezione "Avanzate" del pannello d'estrazione, veniva selezionata, WinRAR scompattava comunque i file con il relativo percorso se veniva invocato dal menu contestuale di "Esplora risorse". 
+Dopo aver inserito una Parola chiave errata per un file ZIP criptato, qualche volta WinRAR ignorava i tentativi seguenti d'inserire una Parola chiave corretta. 
+L'operazione attivata con l'"Assistente" non permetteva di creare un archivio auto-estraente e multi-volume quando si comprimeva un singolo file o cartella senza estensione. 
+L'operazione "Importa la configurazione da un file" non ripristinava, per un profilo di compressione di WinRAR, un commento multi-linea. 
+Durante la conversione di archivi RAR multi-volume con il formato del nome del tipo nome1.nome2.part#.rar, l'operazione di "Converti archivio" rimuoveva erroneamente la parte ".nome2". 
+RAR poteva andare in errore quando creava un archivio con l'opzione -agNNN se NNN assumeva un valore uguale o superiore a 110. 
+WinRAR non visualizzava correttamente i nomi dei file in formato non-Inglese per archivi in formato 7-Zip se non utilizzavano un code-page predefinitio. Era solo un problema di visualizzazione: i file venivano scompattati regolarmente. 

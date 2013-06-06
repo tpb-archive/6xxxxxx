@@ -1,0 +1,54 @@
+User Type,Username,Date,Text
+[T],FatFreddy69,2011-06-22T07:49Z,"File size                        : 4.26 GB (with eng aac 224 KB/s)
+
+Skip from download the files you don't want.
+Read description.
+
+snap shots:
+http://www.bilderkiste.org/show/original/0130872158444/1.png
+
+http://www.bilderkiste.org/show/original/0130872161696/2.png
+
+http://www.bilderkiste.org/show/original/4130872163738/3.png
+
+http://www.bilderkiste.org/show/original/9130872166406/4.png"
+[T],FatFreddy69,2011-06-22T08:02Z,"you may want to see also
+True Grit 1969 BDRip 1080p Eng Fra Ger Ita Spa multisub [mkvonly]
+
+http://thepiratebay.org/torrent/6047362/True_Grit_1969_BDRip_1080p_Eng_Fra_Ger_Ita_Spa_multisub_%5Bmkvonly
+
+&
+
+The Good, the Bad and the Ugly 1966 Extended BDRip 1080p DTS Eng Fra Hun Ita Jap Tur multisub + Extras [mkvonly]
+
+http://thepiratebay.org/torrent/6253279/The_Good__the_Bad_and_the_Ugly_1966_Extended_1080p_DTS_multi_%5Bmk"
+[T],FatFreddy69,2011-06-22T15:54Z,"extra 720p ( Charles Portis ) multisub [mkvonly]
+has these subs:
+
+English, Arabic, Bulgarian, Chinese(2), Croatian, Czech, Estonian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Korean, Latvian, Lithuanian, Malay, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian,  Thai, Turkish, Ukrainian"
+,vitaliid,2011-06-23T05:00Z,"Hi mkvonly, 
+
+Thanks for all the hard work. I have downloaded a few of your torrents and they are all excellent, however, I have a little problem when I use mkvmerge to mux the video & audio files together. On my Windows 7 64 Bit after I successfully mux the files, the resulting file sort of locks my computer. Memory, all 8 GB of it, quickly gets used up as soon as I select the file to see the thumbnail for it and thumbnails are not generated. I can see the properties of the file with MediaInfo and I can play the file but that is not the best experience :). I did some searching and found a solution but it is not optimal. I have to run the file produced by mkvmerge through MetaFox and that fixes the file, which usually is a bit larger than the input file produced by mkvmerge. So, the question is, is there some settings I have to make on mkvmerge to make sure the muxed file is good? 
+Note, I am using mkvmerge 4.8. Also, your video files are fine and my PC can display the thumbnails for it. 
+Any suggestions?
+Thanks   "
+,vitaliid,2011-06-23T06:23Z,"Me again. This time with good news. You propably aware of the following but in case someone else has the same issue as me, here is the solution.
+
+I looked at your later uploads (e.g. Megamind) and it also has the same issue on my PC. The reason is mkvmerge v4.8, which you also used for Megamind. I think after v4.1 they forced compression and that causes issues, that is why your earlier releases didn't have this problem. So, I did a small test and set compression to ""none"" for video and audio tracks for Megamind release and the issue went away.
+Inspecting the files using MediaInfo I see that your main mkv file has ""Muxing mode: Header stripping"" for both audio and video (same as my files after I muxed them) and after I muxed it together with compression set to ""none"" the property disappeared, which also fixed the memory/thumbnail problem. Also, v4.8 has a setting in File->Options->""Disable header removal compression for audio and video tracks by default"", which does it automatically.
+
+Regards"
+[T],FatFreddy69,2011-06-23T06:31Z,"R:""...the resulting file sort of locks my computer.""
+That sounds weird. I've muxed hundreds and even on 1.5 GB ram pc and never had any issue.
+I use the same version as you and is perfect.
+Only one think I can think of, when there are more then 30 subs muxed in mkv then mpc won't play it most of the times. This file has 28 subs though.
+Is it installed in C: Programs(86) ? With all muxes you have this problem or only with specific mkv-s? Examples?
+Always run the audio first through delaycut before mux it. You better ask @ http://forum.videohelp.com/ , they know more.
+cheers"
+[T],FatFreddy69,2011-06-23T06:35Z,"Lol, we wrote at the same time. I didn't think of this, interesting. I'm glad you fixed it clever boy ;-)"
+,vitaliid,2011-06-23T06:46Z,"I was wondering if you are answering my first or second post :). 
+It is for all your the files that I would mux (well...yours are the only ones I need to mux, which is cool) and now also for the latest releases that you put up.
+I think it is related to the codecs I have installed on my PC (do not even remember what I have).
+Well, thanks for paying attention and more importantly for the work you do."
+,kejser11,2012-02-05T17:49Z,"@FatFreddy69:
+First of all thx a lot for your upload. I am new to .mkv-files, however, so I wonder if you could tell me how to get this dowm on a DVD to watch it on my TV. Can I de-mux the file so I can select which audio and subs I want included? :-)"

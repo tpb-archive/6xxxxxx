@@ -1,0 +1,17 @@
+
+
+** Skype protocol reverse engineered, source available for download **
+
+Hello, I'am Efim Bushmanov a freelance researcher and here is my project files on skype research.
+
+While "Wall Street Journal" makes politics and skype today's trend, i want to publish my research on this. My aim is to make skype open source. And find friends who can spend many hours for completely reverse it.
+
+Now, most of hard things already done(for 1.x/3.x/4.x versions of skype). Including rc4 and arithmetic compression.
+
+You have unique chance to take a look on skype internal protocol and encryption. You will see what it uses strong AES and RSA encryption with public key infrastructure.
+
+Here is yet a working "send message to skype" code. However, this is based on old skype 1.4 version protocol, which now slightly changed.
+
+Part of this code, idb files and decrypted binares was get from VEST corporation.
+
+Common info for first stage research was from EADS.net "vanilla-skype" presentation.

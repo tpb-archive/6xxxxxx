@@ -1,0 +1,39 @@
+User Type,Username,Date,Text
+,rickk1,2011-06-25T02:22Z,"thanks for all 3
+richard"
+,Finalreminder,2011-06-25T16:07Z,"Indeed, thanks for this mini-series"
+,rickk1,2011-06-26T00:29Z,"could not play 1 and 3   2 was ok
+fyi"
+,rickk1,2011-06-26T00:42Z,"could not play 1 and 3  , 2 ok"
+,BasilBrush,2011-06-26T15:49Z,"They all play ok at my end. I suspect your PC is too slow.
+They're all encoded with AVC High at Level 3.1 which should play on Atom Netbooks.
+720p HD uses High at Level 4.1
+CPU Usage is about half of what 720p needs.
+To test I used VLC 1.1.7 and MPC-HC 1.5.1.2903 along with ffdshow rev3851 plus Haali 1.11.96.14
+VLC gives the lowest CPU usage.
+MPC-HC gives the smoothest playback.
+Should also play under KMPlayer and GOM without a problem but I haven't tested these."
+,rickk1,2011-06-26T19:17Z,"i tried VLC  and only 2 played and 2 was the only one I could convert the other 2 (1&3) could not convert. is MPC- HC a program?
+
+thanks for info"
+,BasilBrush,2011-06-26T21:38Z,"As you haven't heard of MPC-HC I assume you might be a MAC user.
+
+To play CABAC encoded x264 you need to use the ffmpeg-mt on a multi-threaded CPU.
+
+If you are a MAC user try the Apple MPlayerX - it uses the ffmpeg-mt decoder. This is the multi-threaded version of libavcodec.
+
+If you search for ""Apple MPlayerX"" on the Google site you'll find the player on Apples site.
+
+If you're using a PC try searching ""MPC-HC"" on Googles site. If you want software playback then you'll also need ffdshow-tryouts and maybe the Haali splitter if you don't want to use the built-in splitter in MPC-HC.
+
+You can also get all the stuff from x264.nl"
+,BasilBrush,2011-06-26T21:40Z,If you're using a single threaded CPU stick to using libavcodec - it's better suited for slower single threaded CPU's but it's not as good as ffmpeg-mt for CABAC encoded 264 video.
+,BasilBrush,2011-06-26T21:44Z,"Try googling ""MPC-HC"".
+Also take a look here: x264.nl
+Also lookup ffdshow-tryouts and Haali."
+,rickk1,2011-06-27T00:27Z,"thanks for all the info.
+I have PC .
+What I do is download then convert with a program  and play on my DVD player.
+I will try to download 1 and 3 again maybe something went wrong. I did it with #2 no problem but the other two I could not convert.(error)
+thanks form all your help.
+richard"

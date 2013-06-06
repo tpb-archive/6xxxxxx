@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,oldertwin,2011-06-23T03:33Z,"all my other mkv aac files work this one doesnt want to play sound  in media centre, though works with media player. /scratches head."
+,LigGeorge,2011-06-23T09:35Z,I don't know why.It plays on every software I have.Try media player classic on a pc.
+,oldertwin,2011-06-24T06:20Z,"as i mentioned it works with media player but but in media centre, for some reason ffsow audio and ac3filter are not triggering on starting the movie in WMC in win7. movie then plays with no sound. seems to be the same as others i have that play in mkvinfo. aac, mkv. 
+
+its a weird one. for me its WMC or nothing. yours works ok in winn7 WMC?"
+,LigGeorge,2011-06-26T14:52Z,"It plays on windows media player 12 with ""shark 007"" codec pack.Windows media player doesn't support mkv.Also media player home cinema 1.5 (media player classic) isone of the best players for a pc and it's free."
+,meothui,2011-08-19T15:49Z,"Hi LigG, I appreciate all the work you've done for us. Here's just my few suggestions:
+
+-Use level 4.0 or 4.1 because not many TVs and standalone players support above that.
+
+-ReFrames 4 to 5 frames and set it to Constant Quality instead of Target Bitrate or File size. (CRF can be up to 22 if you rip from high quality source). 
+
+-You can keep the file size between 3 to 5 GB. Raising the ripping time and CRF value will reduce the file size while you still can have the quality. "

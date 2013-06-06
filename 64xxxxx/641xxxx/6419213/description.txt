@@ -1,0 +1,72 @@
+DisplayFusion Pro 3.3.1 Multilanguage
+
+DisplayFusion will make your dual monitor (or triple monitor or more) experience smooth and painless. With DisplayFusion you can add a taskbar to every monitor that works and looks just like the Windows Taskbar. Or take advantage of advanced multi-monitor wallpaper support, Flickr Integration for image searching and fully customizable window management hotkeys. These are just a few of the many things that DisplayFusion can do.
+
+Â» Advanced Multi-Monitor Taskbar support
+Â» Use a different desktop wallpaper image on each monitor
+Â» Use a desktop wallpaper image that spans all monitors
+Â» Randomly change your desktop wallpaper using local images or images from Flickr
+Â» Drag or middle-click the taskbar of maximized windows to move them to other screens
+Â» Auto-snap windows to the edge of your monitor
+Â» Integrated Flickr.com image search & download
+Â» Integrated Vladstudio.com image search & download
+Â» Manage application windows with fully customizable hotkeys
+* Move windows to the next monitor
+* Move windows to the next monitor and maximize them
+* Move windows to the centre, top, bottom, left or right side of the monitor
+* Size windows to a configured size or percent of the work area
+* Maximize windows so that they span all monitors
+* Customize your own hotkeys to do anything you can imagine
+Â» Built-in support for different languages:
+* English
+* French
+* German
+* Spanish
+
+What's New in This Release:
+Changed: Added the option to use the current desktop wallpaper image as the Windows Logon background
+Changed: Disabling the Windows Logon feature now resets your Windows Logon image to the Windows default
+Changed: DisplayFusion Taskbars now support the Start Button in all versions of Windows
+Changed: DisplayFusion Taskbars now have a "Show Desktop" button
+Changed: DisplayFusion Taskbars now support custom icons for all types of shortcuts
+Changed: Added an "Automatic" setting for Taskbar Button Alignment, Taskbar Clock and Taskbar Shortcuts to position them automatically based on where the monitor is positioned relative to the primary monitor
+Changed: Window Location feature now has a "Span" option
+Changed: Window Location feature now has a "Minimize" option
+Changed: Window Location can now run a selected HotKey against the new window, instead of using one of the 5 pre-configured options
+Changed: Added a new option to show a window's size and location when moving/re-sizing it (Settings > Window Management
+Changed: Added a new setting on the Window Management tab: "Allow DisplayFusion to help minimize all windows when Win + M is pressed"
+Changed: You can now middle-click in Firefox 4's caption buttons (min/max/close) to move it to the next window, because middle-clicking anywhere else opens a new tab
+Changed: Added a new HotKey/TitleBar Button: "Lock Mouse Cursor to Monitor"
+Changed: Added a new HotKey/TitleBar Button: "Lock Mouse Cursor to Focused Window"
+Changed: When right-clicking on the TitleBar Buttons, the context menu now contains all HotKeys so you can easily perform other actions on that window
+Changed: Window snapping is now immediate without needing to release the mouse button to snap (called Sticky Snapping)
+Changed: Added a new "Image Info" tab in the Wallpaper Settings window for embedding information about the wallpaper image or system info
+Changed: TitleBar Button offset compatibility settings can now be specified for normal and maximized windows separately
+Changed: Added an Advanced Setting called "Taskbar: Windows Key Opens DisplayFusion Start Menu Disabled"
+Changed: Added an Advanced Setting called "Don't Hide for Top-Tabs (Chrome, Firefox 4)"
+Fixed: Setting the Taskbar size mode to Automatic is now improved when the DF taskbar is on a different edge than the Windows taskbar
+Fixed: A few Win7 Taskbar sizing issues fixed
+Fixed: Issues with Compatibility settings have been resolved
+Fixed: Window Snapping is no longer performed when a window is being re-sized, only when a window is moved
+Fixed: Window Snapping no longer snaps to windows that are behind other windows
+Fixed: Window Snapping no longer snaps to desktop gadgets
+Fixed: Fullscreen Flash videos are no longer moved accidentally by the Window Location feature
+Fixed: Taskbar Shortcuts failed to load some website favicons
+Fixed: Taskbars now adjust correctly when changing Windows theme modes between Aero, Basic, Classic
+Fixed: DisplayFusion taskbar icon updates no longer miss an update
+Fixed: Improved monitor ID detection in Windows 7 (should have more accurate ID numbers now)
+Fixed: Windows can now be dragged to the top of the screen to maximize the window (a Windows 7 feature) while Window Snapping is enabled
+Fixed: TitleBar Buttons no longer get hidden behind their parent window
+Fixed: Taskbar sizing, positioning improvements for all rendering modes
+Fixed: Fixed a small proxy password and Vladstudio keycode decryption issue
+Fixed: Context menu colours now look correct in Windows XP and Windows Vista/7
+Fixed: TitleBar Buttons no longer cause VLC Media Player to crash while playing a fullscreen video on some computers
+Fixed: Taskbars no longer drop application items when docking/undocking or disconnecting from an RDP session
+Fixed: Taskbar now closes Excel and PowerPoint windows correctly when Taskbar Grouping is enabled
+Fixed: Taskbar now focuses Excel and PowerPoint windows correctly when Taskbar Grouping is enabled
+Fixed: TitleBar Button compatibility improvements: Skype 5.1, Firefox 4, MetroTwit, Mintty
+Fixed: Clicking on a taskbar button multiple times now works much faster without ignoring any clicks
+Fixed: Taskbar buttons now respect the "HKCU\Control Panel\Desktop\WindowMetrics\MinWidth" setting
+
+Home Page - http://www.binaryfortress.com/
+

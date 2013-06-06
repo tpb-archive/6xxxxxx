@@ -1,0 +1,26 @@
+phpBB 3.0.8 Ready To Publish Script - Saad-ImadÂ©
+
+
+This Script Is Created By Saad-ImadÂ© For Warez Sites, You Just Need To Configure And Change/Replace The Settings!
+
+First Of All Change Your Configuration At "config.php" With Your Hosting Details Provided By Your Hosting Provider,
+
+Please Change The Following Details Only:-
+
+$dbhost = 'localhost';
+
+$dbname = 'yourdbname';
+
+$dbuser = 'yourdbusername';
+
+$dbpasswd = 'yourdbpassword';
+
+Then Upload The Files Using Your FTP File Manager Or Any FTP Software On Your Root, Then Login With The Following Details Provided Below:-
+
+Username: Administrator
+
+Password: Administrator
+
+You Can Change These Manually,
+
+Then Login To You "ACP" (Admin Control Panel), Then Below The "General" Tab Under "BOARD CONFIGURATION" Click "Board settings" Then Change The "Disable board" To "No" Then Upload Your Site's Logo, Change The Site's Title, Upload Your Themes, That's All!

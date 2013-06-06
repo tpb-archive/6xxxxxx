@@ -1,0 +1,59 @@
+CheckOutEr:
+
+
+
+COPYRIGHT@: CheckOutEr
+RELEASE DATE: 22.06.2011
+RELEASE TYPE: Kaspersky Blacklist Cracks
+COMPATIBILITY: KIS7, KAV 7, KIS 8, KAV 8, KIS 9, KAV 9, KAV 2011, KIS 2011 
+     
+PASSWORD: CheckOutEr
+         
+     NOTE: The patch is password protected to prevent Kaspersky from 
+           deleting automatically. 
+
+INSTALLATION:
+
+01. In \"Settings\" > Disable \"Self-defense\" and \"Protection\".
+02. Delete all Keys
+03. Close Kaspersky > right-click Kaspersky\'s tray icon and exit
+04. Copy the 2 Patch files that match your Kaspersky version.
+05. Paste into Kaspersky\'s installation directory
+    For instance:
+    (C:\\Program Files\\Kaspersky Lab\\Kaspersky Internet Security 2011)
+06. Delete the 2 patch files BEFORE start and enable Kaspersky self defense again.
+07. Start Kaspersky BUT DON\'T ENABLE SELF DEFENSE YET!
+08. Add 2 patches into your Exclusion list-from Kaspersky installation directory to Kaspersky Exclusion rules.
+09. Enable \"Self-defense\" and \"Protection\".
+10. Install Key using \"11111-11111-11111-1111x\" as activation code (for KIS 2011)
+                       \"T1JVS-NNMBD-K1QTN-SUBP8\"as activation code (for KIS 2010)  
+11. Restart Computer > then Update Kaspersky
+    (Important to Restart for Patch to take effect)
+12. Complete .You can now update Kaspersky and set it up.
+
+
+[KIS 9 / KAV 9 *KNOWN ISSUE*]
+Kaspersky is blocked from deleting Exploit which causes an alert: \"no rights for 
+replace clldr.dll\" etc... just ignore it.
+
+[NOT WORKING FOR YOU?]
+* Maybe you are using unsupported version of KIS/KAV 
+* On Windows Vista/7: try turning off DEP and UAC
+
+[FALSE POSITIVE]
+* Kaspersky falsely identifies this exploit as \"Hacktool.Kiser\"
+* This is because it\'s used for hacking Kaspersky
+* Add to \"Exclusions\" list 
+  (wait for Kaspersky alert, then add to \"Exclusions\")
+  (Ensure you set Kaspersky to ask before making decisions)
+
+
+Enjoy & Seed!
+
+
+
+***************************************
+*TPB: thepiratebay.org/user/CheckOutEr*
+***************************************
+
+

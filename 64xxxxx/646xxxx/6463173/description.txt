@@ -1,0 +1,19 @@
+The new ImagineOS release is finally available. This livecd created by using Linux live scripts with few modifications uses KDE (4.5.5) as desktop environment and its based on Slackware 13.37 (current) with more applications and features. Thanks for everyone for making this release possible, everyone helping and working on open source applications.
+
+Some versions of major components of the system:
+Zen Kernel 2.6.38.4
+SquashFS 4.2
+AuFS 20110502
+C compiler gcc-4.5.3
+Binutils 2.21.51.0.6
+GNU C Library glibc-2.13
+X Window System Updated (but not â€œbleeding edgeâ€) packages from X.Org
+Kde 4.5.5
+ 
+http://www.imagineos.com.br/ 
+http://www.imagineos.com.br/blog/ 
+http://www.imagineos.com.br/forum/
+
+md5sums : 
+e6426c951c02829e40d353abea92c72e  Imagineos_br-20110606-i486-K1.iso
+83fc2cc9e13f69f689b646657aaf1eba  Imagineos_en-20110605-i486-K1.iso

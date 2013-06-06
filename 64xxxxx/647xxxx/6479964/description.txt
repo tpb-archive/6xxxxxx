@@ -1,0 +1,19 @@
+PS3 Media Server v1.25.0 CHANGELOG
+
+Overscan compensation feature added for MEncoder
+Return of the official OS X build, thanks for your patience!
+MEncoder no longer crashes when using more then 8 cores
+New build script for OS X that builds all dependencies (big thanks to Raptor399)
+French translation fixed
+
+Upgrade Notes:
+
+For versions prior to 1.23.0:
+
+To retain your old settings you may have to copy your old config file/s to a new directory.
+To find out where the new directory is on your computer, run the program and go to the
+Traces tab and look on the 14th line, the line that says "Profile directory:", that is the folder
+your config files should be saved now.
+If you use the "media library / cache" option you should reset it.
+
+Contains appz for Windows, MacOsX and Linux

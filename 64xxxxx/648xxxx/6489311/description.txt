@@ -1,0 +1,25 @@
+osx86 leo4all usb image
+
+
+If you wan't to install hackintosh(leo4all in this case) from usb without the hassle of doing it yourself then look no further.
+
+What this is exactly:
+This is an exact copy(.img) of an 8GB usb thumbdrive with leo4all in combination with the chameleon v2 bootloader to be able to boot from it.
+
+What you need:
+-semi hacker skillz(basic knowledge of linux, disks and partitions, mac,...)
+-a usb drive of at least 8gb(less WILL NOT WORK!!!)
+-a linux distribution of your choice (with dd capability) or a program that writes .img to usb
+-a pc that can boot from usb
+-the requirements for leo4all(normal version)
+
+Install:
+-download and extract the zip file
+-either write with the .img writing program or issue a dd in linux
+-change the bios boot sequence to boot from usb first
+-install as you would install a regular leo4all (google = your friend ^^)
+
+enjoy!
+
+
+please comment, seed,..!

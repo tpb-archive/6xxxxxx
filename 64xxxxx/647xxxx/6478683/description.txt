@@ -1,0 +1,5 @@
+Info:
+
+Unlock all features locked by slc.dll in all windows 8 build (7955,7959,7989,...) x86 and x64, without patching any dll (It just add a new slc.dll, and rename the old slc.dll to slcrp.dll).
+
+Allow to patch directy the install.wim files to unclock the new oobe (If you are on Windows 7 you need Net! 4).

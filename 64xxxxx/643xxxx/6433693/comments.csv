@@ -1,0 +1,266 @@
+User Type,Username,Date,Text
+,TryAgainLOL,2011-05-30T11:11Z,"4b. ...this utility
+http://www.arma2.com/index.php?option=com_rokdownloads&view=file&Itemid=20&id=748%3Aarma-2-reinforcements-dlcs-setup-utility〈=en"
+,Rockstar-1,2011-05-30T21:05Z,"Was wondering if this can be used along side a legit version of ArmA2:CO?...sorry prolly a dumb question, but hey I'm really high right now...:)"
+,TryAgainLOL,2011-05-31T06:55Z,"It should be fine. Here's what happens, when DLCs are installed on existing ARMA (with exe from website):
+- 2 new directories are created: BAF & PMC
+- registry enrty with new CD-key is added
+- new shortcut is created to OA exe with parameter -mod=BAF;PMC
+This CD is not cracked and it's checked only at install. So only problem could be with multiplayer, when going online and generated CD-key is not found in  DB. But IMHO multiplayer should still work fine from old shortcuts that do not activate DLCs. 
+But still, if there is problem with multiplayer, you can uninstall DLCs afterward (shortcut for this is created), and both directories and registry entry will be removed."
+,zooloo75,2011-06-05T22:16Z,Can someone confirm if this actually fixes FADE?
+,TryAgainLOL,2011-06-06T04:53Z,"This won't make it go away, if it's already triggered with Arma 2 or OA, but it won't trigger it like SKIDROW release does. FADE triggers on tinkered files or bad serial. SKIDROW release is completely messed up. This is just a clean copy + correct keygen.
+To avoid Arma 2 enabling FADE, use iTWINS (tested) or maybe Reloaded (untested) release with themabus' keygen, but don't use self-made custom images that might include cracks in installation. Patch it to latest version.
+http://thepiratebay.org/torrent/4974069/Arma.2.CLONEDVD-iTWINS
+http://thepiratebay.org/torrent/6405788/ArmA_II___OA___RFT_multi_keygen
+For Operation Arrowhead use FairLight release.
+http://thepiratebay.org/torrent/5662702/Arma_2_Operation_Arrowhead-FLT-[tracker.BTARENA.org].iso
+If you have those releases installed but got FADE after patching, it's because CD-key posted on web got blacklisted - use this keygen to change KEY in registry (lower generated value is for registry; upper for installation). You won't have to reinstall this way.
+I got all 3 installed like this for myself and some buddies, all using keygen and patched up and got no FADE. It can even be played in multiplayer: locally with bots, on LAN or throught Tunngle."
+,TryAgainLOL,2011-06-06T05:10Z,"If you want somebody else's experience, look for needlefeet comment at the bottom of the page 4 of SKIDROW torrent."
+,zooloo75,2011-06-06T06:58Z,"I have Combined Operations, I paid for it, legal, keys all that.
+
+I am torrenting this one. I torrented the Skidrow crack version, it has FADE. I am going to try this but I keep getting securom errors of 2500, even with ACID cloaking both DTLite and A52."
+,TryAgainLOL,2011-06-06T12:22Z,"I make 2 Alcohol virtual drives and 2 DTL, run ACID and Securom passes at least on one of them. On which ones, it looks somehow random to me. Maybe you could try changing virtual drive letters and rebooting. Currently I have G/J for DTL and Y/Z for Alcohol and setup works from all of them. 
+My PC and those others I installed it on had Win XP SP3."
+,zooloo75,2011-06-06T16:24Z,"Ok, 2 dtl, 2 a52, all of them cloaked, yet I still get the 2500 error for emulation... :\"
+,shayour,2011-06-06T18:45Z,"Well, i follow the steps but ... When i want play, it say to me : 
+
+wrong serial number, and i dont undestand why.
+
+I mount the dvd on 3 daemons disc, 2 on alcohol.  I use autorun to install the game.  Next, i use the keygen to bypass the security.  I use the arma 2 rft keygen. all my drivers are cloaked by acid.
+
+Install is done.  I click on the icon to launch the game, there is one file error, not a big problem, i have the screen with bohemian and then, the message : bad serial number.  Drivers still cloaked.
+
+What i do wrongly ?
+
+ps : i havent others arma extensions, nothing."
+,shayour,2011-06-06T19:51Z,"ok, i've find the solution.  Very simple : dont use the auto, but the setup icon for reinforcements.  That work now.
+
+Still a problem, i cant patch the game, wrong cd in the driver :/  If anybody have a solution ..."
+,shayour,2011-06-07T01:16Z,"And finally, does not work.  I can play without problem until i log off the game.  When i want play a second time, serial number is bad."
+,TryAgainLOL,2011-06-07T13:38Z,"zooloo75, I found one PC that would get 2500 from SecuROM no matter what too. Turned out DVD regions for virtual drives had to be set. It can be done from Alcohol options dialog. Also it had newer DTL version which couldn't be cloaked with ACID, so I uninstalled it. Don't know if it matters, I did it before finding out about regions. After all that installation runs from all 3 Alcohol virtual drives I set up there H/X/Y. 
+But don't forget to run ACID. If installation was executed without ACID cloaking drives and now returns error 5023 even with ACID running, you have to use SecuROM Removal Tool.
+
+shayour, I tried standalone Reinforcements and it worked fine. It installs and patches (1.58 to 1.59) and had no problems with files or serial. This is the key that I used: 
+H5RV-C17HF-E2J5P-0ELHZ-YXERZ 
+89c2cde0 b1702e59 09cffe1d df7e34
+Maybe your download got corrupted. You could try to rescan it with torrent client."
+,zooloo75,2011-06-07T19:11Z,"THANK YOU!!!!
+I got the installer running now! Hopefully there's no FADE! Will write back once I test this."
+,zooloo75,2011-06-07T19:29Z,"HOLY SHIZ!! This actually works!! I have ArmA2 Combined Operations - Legal, bought etc.
+
+I installed this as DLC, and it has NO FADE!! AND IT WORKS IN MULTIPLAYER! You are the best!
+
+I am of course going to buy this once it hits retail. The only reason I am torrenting this is because I went to Gamestop, and they said it won't come in until some date or something. BUT the game has been out for like ever...
+
+So once it's in stores, I will buy it. BIS are the only devs who care for the PC community, and I will support them."
+,zooloo75,2011-06-08T05:25Z,"Ok, same problem again. 2500 error.
+I need to reinstall RFT because of an error I got when I decided to try and change my OA key.
+I get something about header decryption fail or something when I start up Arma.
+
+So now I have to reinstall RFT and I'm getting the error again. H,X,Y are set to region 1, they are cloaked, and I run the setup and it detects emulation software."
+,zooloo75,2011-06-08T17:17Z,"Nevermind, got it to work again.
+Kind of a hit and miss deal with bypassing the 2500."
+,Bkp666,2011-06-13T20:54Z,Can someone please explain the way of installing this better?
+,Bkp666,2011-06-13T20:58Z,"A.C.I.D Log says:
+21:48:45	A.C.I.D v1.2.10010 started...!
+21:48:45	Alcohol52% v2.0.1.2033
+21:48:45	Microsoft Windows XP v5.1 (Build 2600: Service Pack 3)
+21:48:45	Detected 4 optical device(s), 4 physical & 0 virtual device(s)
+
+I have 3 Virtual drives set in Alcohol
+Region code set to 1
+Letters H/X/Y
+And still get the damn error about Emulation Software detected"
+,Bkp666,2011-06-13T21:00Z,"A.C.I.D says:
+21:48:45	A.C.I.D v1.2.10010 started...!
+21:48:45	Alcohol52% v2.0.1.2033
+21:48:45	Microsoft Windows XP v5.1 (Build 2600: Service Pack 3)
+21:48:45	Locale: Romanian
+21:48:45	Detected 4 optical device(s), 4 physical & 0 virtual device(s)
+I have 3 virtual drives set in Alcohol
+DVD Region Code set to 1
+Letters are H/X/Y
+And still getting that damn error about Emulation device detected"
+,TryAgainLOL,2011-06-14T09:17Z,"Please make sure that the regions for the virtual drives are set in Alcohol settings. This definately matters for some PCs.
+Relation to the drive letters is weird one, sometimes it works with ones, sometimes with others, you could try changing those. Maybe it's just that ACID has a custom cloaking mechanism and it changes along with the drive letters?
+Also you could try disabling real physical optical drives in Control_Panel/System/Hardware/Device_Manager. Apparently SecuROM identify some real devices as emulation software.
+
+
+If nothing works, maybe something gets posted on Alcohol forum (those advices are from there) and hopefully ACID will get updated soon - current version is half year old already.
+ACID updates are posted here:
+http://forum.alcohol-soft.com/index.php?/forum/126-important-information/
+troubleshooting here:
+http://forum.alcohol-soft.com/index.php?/forum/135-alcohol-trial-technical-support/"
+,TryAgainLOL,2011-06-14T09:30Z,"BTW
+For multiplayer ARMA2 FREE is coming out:
+http://www.shacknews.com/article/68834/arma-2-free-multiplayer-standalone"
+,Willy-X,2011-06-14T15:43Z,"Hi. I followed instructions but it didn't work.
+1. I installed ArmA 2 by iTWINS.
+2. Patched it from 1.00 to 1.70
+3. Installed Operation Arrowhead by FLT
+4. Finally I followed instructions on this page and point 4b, everywhere used multi keygen. Now if i try to launch the game it says that i have a wrong disc.
+I didn't use any crack and strictly follow instruction. Don't you know why it doesn't work?"
+,Willy-X,2011-06-14T16:22Z,ArmA 2 is working fine there is some problem with OA.
+,TryAgainLOL,2011-06-14T17:56Z,"Sounds like OA is unpatched. SecuROM is present in early versions of A2 and OA and gets disabled with patches. There is patch on the DVD and it is supposed to run but maybe they screwed up again with this alternative setup exe. Just patch it manually with latest, that should do it."
+,Willy-X,2011-06-14T21:17Z,"Well thank you very much. I didn't notice there is patch above 1.07 ^^. I had to reinstall Reinforcement after patch 1.59, but everything is fine now. Thanks again :)"
+,zZsaberbladeZz,2011-07-02T03:02Z,"After following install instructions to the letter, I got it going.  No FADE. I dont have any previous copies of ARMA installed.  I had 1 virtual drive in Alcohol52%, 3 virtual drives in Daemon tools lite, and mounted game on the 2nd virtual drive in Deamon tools.  Then I went to A.C.I.D wizard site and downloaded latest version and copied it into ACID program folder. Started ACID and cloaks drives, installed game by running Autorun.exe. Got the keygen from this torrents description, used generated key. Then downloaded latest patch for ARMA reinforcements from its official web site, installed that, then it worked perfectly!"
+,JaxDasher,2011-07-03T21:54Z,which region do u choose on the keygen?
+,WIN1964,2011-07-14T14:02Z,please help is there another way to install this game i can not find the version of Alcohol 52% with acid every version i find is higher than 1.2.1009
+,TryAgainLOL,2011-07-14T17:09Z,"Please google for ""alcohol 52 free"". You will find Free Edition 2.0.1.2033 that comes with ACID v1.2.10010."
+,TryAgainLOL,2011-07-14T17:20Z,"I'm sorry - ACID v1.2.10090 - the latest, in other words."
+,Majstor111,2011-07-16T21:59Z,"Great torrent, works perfectly.
+
+Here is how I did it:
+
+1. Installed using themabus' keygen
+2. Updated to 1.59 using official update
+3. Used DT PRO (!) not lite, just search TPB for DT pro torrent and you'll find it - didn't need a52, ACID, Yasu or any other crap... just simple mount and play but the trick is to run the game as administrator or it won't work
+
+Tx to the uploader"
+,WIN1964,2011-07-17T23:07Z,i got it to work without fade using majstor111 instructions but how do you install the dlc from dvd t
+,TryAgainLOL,2011-07-19T07:58Z,"To add DLCs to an existing Combined Operations (ArmA 2 + OA) or Operation Arrowhead, mount this image the same way, but instead of setup from dvd use following program (setup for DLCs on original disc were broken)
+http://www.arma2.com/index.php?option=com_rokdownloads&view=file&Itemid=20&id=748%3Aarma-2-reinforcements-dlcs-setup-utility〈=en"
+,h_lemos,2011-07-21T01:42Z,"i follow the instructions to the letter. i have Alcohol 52 and ACID with the latest version. I mount the .mds file with alcohol, cloak it with ACID, run the autorun.exe, but then a ""emulation software device found error"" message appears, can't even get to the ask cd-key part. Can anyone help? thanks"
+,h_lemos,2011-07-21T06:50Z,"never mind, got it to work, but the second time I ran it, it prompts a ""bad serial given at startup"" message. Any ideas? thanks"
+,TryAgainLOL,2011-07-21T17:42Z,Did you select ArmA 2: RFT in keygen? What language setting did you use?
+,Majstor111,2011-07-21T20:19Z,"The first one, with all the languages"
+,Majstor111,2011-07-21T20:20Z,"And yes, Arma:RFT"
+,h_lemos,2011-07-21T22:32Z,"yes, i used the keygen and did the same as Majstor111."
+,TryAgainLOL,2011-07-22T09:58Z,"Alright, I guess, if you're installing it on previous CO or OA, maybe these were installed with a different language settings and that matters. I myself did everything with the keygen. So you could try to run ""regedit"" and go to the:
+HKEY_LOCAL_MACHINE/SOFTWARE/Bohemia Interactive Studio
+and change the keys for all ARMAs to use the same language settings (second key in the keygen is for registry). Or just reinstall them. Also maybe narrow languages down to a less general setting, though I used default too and didn't have problems with it."
+,ghostac,2011-07-22T19:58Z,"@Majstor111:
+thanx a lot man! it works great! cool..."
+,json26,2011-07-23T22:35Z,"#1
+I have a problem installing alcohol 52 free. when i try to install it, it says: internal error, please contact....
+
+#2
+I tried to install arma (from this torrent) but it when it tries to install, theres a error (1000) saying to put a disk in....
+
+
+is there a way that i can download A.C.I.D without alcohol? thanks for your help."
+,jessez,2011-07-24T06:47Z,"I havn't tested the torrent yet , finally installing now. thanks Majstor111 for your comment. DT PRO worked perfectly I tryed alcohol 120% latest and full version mutliple times and only failed."
+,jessez,2011-07-24T07:05Z,"well installed but didn't play nor did i try to update it . i'm gona try installing OA first updating it and then installing this see if that fixes it , "" it said error wrong serial"" when i tried to run it , so lets see how this goes intsalling OA now "
+,jessez,2011-07-24T09:44Z,"Well his torrent worked after all , and it pissed me off a lot too , but i finally got it to work.
+I'm not even going to go over all the malfuntions i had just gona skip to what works. I did a clean install of ARMA OA , using the KEYGEN!!! not the one that comes with the game http://thepiratebay.org/torrent/6405788/ArmA_II___OA___RFT_multi_keygen
+after i installed it , i updated the game with the newest 1.59 patch. then i mounted reinforments with DT PRO . Then i used this ARMA 2: Reinforcements DLCs Setup Utility program from the offial site . heres the link http://www.arma2.com/index.php?option=com_rokdownloads&view=file&Itemid=20&id=748%3Aarma-2-reinforcements-dlcs-setup-utility〈=en . it installed the rest of the game . o then i ran in to one last problem it wouldn't let me fucking play the reinforements expanions all i had to do was run as admin and it fixed it and i stop giving me all errors. now you get another +1 altought you don't deserver it cause none of your directions make sense just other peoples i had to read to figure this out "
+,jessez,2011-07-24T17:16Z,"Hey i was able to mount with Alcohol 120%. you need to update the A.C.I.D. to 1.2.10090 or newer, by going to alcohol-soft.com and then going through the support forums . for some reason the site was blocked. I had to run the site through a proxy server. so alcohol works too! "
+,h_lemos,2011-07-25T23:09Z,"@TryAgainLOL
+I managed to get it working. i got the keys mixed up, lol. thanks, for the upload and the instructions. cheers"
+,Majstor111,2011-07-26T01:03Z,"The important thing is to run the game as admin, otherwise it will bring up the bad serial popup."
+,eagleone65,2011-08-15T15:15Z,"On mission 6 , one week later is the game hanging.
+when i try to get in the Heli then crash the game after i choose ""move to"" in the left menu .
+
+please what goes wrong"
+,Foxxel,2011-08-16T02:55Z,"Ok to get this to work with DT Pro you have to have a Virtual IDE drive and Physical IDE Drive. All you have to do is make the IDE Virtual Drive attach to the Physical IDE Drive and you won't get the SecureROM Error with 1000 or 2500.
+
+I spent like 15 hours trying to get this to work and now it was just something stupid I didn't think of... >.>"
+,saqune,2011-08-16T19:08Z,"Thank you Foxxel .... i had that error... and it worked
+
+and btw..Reboot is needed..."
+,eagleone65,2011-08-18T14:56Z,"Foxel hi, how did you ma"
+,eagleone65,2011-08-18T14:57Z,"hello Foxel,
+how did you make the attachement between the drives?
+
+rgds,
+E"
+,eagleone65,2011-08-18T15:32Z,"Ok Foxel , i found the way.
+
+rgds."
+,obeyXme,2011-08-23T02:46Z,"In Expansion menu it says it has only PMC, Reinforcements and Operation Arrowhead ( Lite) 
+I can't seem to play any OA campaigns? Is OA a standalone that I have to get ? And will be it be fade-free like this game?"
+,yopyopyopyop,2011-08-23T16:01Z,"I was trying to install this torrent, and noticed these prices on digital download versions, gonna get them all, really cheap!
+
+Arma 2                     - € 4.49 
+Operation Arrowhead - € 7.49
+British Armed Forces  - € 4.49
+Private Military Company - € 4.49
+
+http://www.sprocketidea.com/joomla/index.php?page=shop.browse&category_id=11&option=com_virtuemart&Itemid=2"
+,desertlizard,2011-08-23T16:42Z,"@yopyop
+
+Wow. Those prices are bizarre, but in a good way. Arma 2 at Steam seems to be priced at 14.99€, and $19.95 at Direct2Drive.
+
+Anyway, this torrent works! No FADE, as far as I can tell. Gun accuracy is good, and no ""Illegal Copies Ma Degrade"" message. I've played for about 2 hours - the first Lance campaign mission and a bunch of Armory scenarios. Instructions were good. However, I'm scared to update this, but this seems to be the 1.58 version, 1.59 being the latest at the moment, so..."
+,Flanker-B,2011-08-30T21:56Z,"I've discovered that the skidrow version can be patched to 1.59 if you installit after mounting it to a physical drive with VirtualCD10. Then it doesn't require the crack skidrow offers, but requires image to be mounted to the same physical drive. That way fade is also disabled, but only works if you install it as standalone."
+,Sivos,2011-09-09T00:19Z,"Alright, took me a while to get it working, but this copy works perfectly and yes, it is FADE FREE.
+
+First, use Daemon Tools Pro, much easier to work with.  Create an SSCI or IDE drive (I used an SSCI) if you don't already have one.  Mount the image and follow the steps.
+
+Use H5RV-C17HF-E2J5P-0ELHZ-YXERZ for the serial (just confirming that this one works, if your keygen worked then great).
+
+After the game is fully installed (may take about 5 to 10 minutes) start the game and test it.  IF YOU GET AN ERROR saying the addon didn't load or if you get the one that says ""Bad serial used in setup,"" simply run the game in Administrator and everything should work fine after that.  There was a time where I was able to get on fine the first time with no error, but every other time after that I kept getting it.
+
+This copy does work, it's a fast download for its size and despite what TPB says, there are a lot more seeders.
+
+Happy gaming :D"
+,Buck.Nasty,2011-09-12T20:44Z,Followed the instructions of Sivos. Works perfect. Have in mind that you cannot play online even not on private servers.
+,aseglkj,2011-09-13T19:09Z,"Eh? There's no need for Daemon Tools/Alcohol or anything (except for the install). DVD checks have been removed in the latest patches. The only thing that triggers FADE is the CD key! So, if you use the proper keygen, you should be fade free. I've been using the keygen that's floating around here, and so far (1 week), no FADE."
+,lolzillaXD,2011-09-21T04:35Z,"Ok people, just finshed installing and about halfway through bootcamp--no FADE so far, I repeat NO FADE bullshit nuking my gameplay.
+
+This torrent DOES work. Apparently the only one."
+,us01,2011-09-26T13:33Z,"For all ARMA 2. Use keygen for serials, patch game to latest, no need crackpatch, game works, sadly no online though."
+,OpiumStoned,2011-10-04T06:22Z,"Alright, i am about to go mad.. I have followed every single step, i have the latest version of ACID, cloaked the drives, mounted on every drive i could with DT and A52 i tried everything and i still get the error (1000). Never have i had any problems mounting anything before. I already installed and played the SKIDROW release, and got here because of FADE. Please help me before i start bombing my computer... "
+,OpiumStoned,2011-10-04T06:39Z,"Nevermind, just updated to DT Pro, and no more issues. I'd like to thank Sivo for his helpful comment. 
+
+Props to the uploader. "
+,ereveton,2011-10-09T12:51Z,"so,just to understand!
+i mount the image with dt,and whan key i use?and after install what?"
+,jimbus80,2011-12-29T22:00Z,does it work with 1.60 patch?
+,crf_woods,2012-01-17T07:02Z,"Okay this is really annoying me, i downloaded the torrent, used daemon tools and that worked but when i click install from the main menu it exits and my cursor turns into a disc and eventually a window pops up saying Unable to authenticate original disc within time limit. "
+,crf_woods,2012-01-17T07:06Z,"Wow two minutes later. lol All i did was change to a SCSI drive and it worked, awesome ul "
+,lyrch07,2012-01-19T03:16Z,"IF YOU HAVE ""Unable to authenticate original disc"" while trying to mount!!!
+
+1. open daemon ( or whatever you use to mount)
+
+2. You need to click on create SCSI drive, you probally have a DT ghost drive now... 
+
+3. It will tell you it needs to reboot, and after it does it creates the new drive, Mine was G: instead of E: 
+
+4. then mount like usual on the new SCSI drive..."
+,gamaxis,2012-02-10T05:01Z,"Well after all that it was explained . Alcoohol stuff and daemon tools .. etc Well I managed to mount it with daemon tools lite ( will all the advanced features enabled ) . All seemed ok , but a strange stuff happens every fucking time on the setup screen , when it asks the serial . It freezes my PC fully ( with 100 % of processing !! ) , I tried to put the serial quickly , but i didnt help much , cause it freezes on the next step.
+What can I do ????"
+,Plastic_L,2012-02-26T08:07Z,"OK got the game working following Sivos. It worked perfect the first time, no FADE. Running it now in Administor and still getting error that says ""Bad serial used in setup,"" anyone have any new ideas?"
+,Concorde1,2012-03-22T02:32Z,"if you were having problems with CRC not matching when installing just the DLC like I was, use this: http://www.arma2.com/index.php?option=com_rokdownloads&view=file&Itemid=20&id=748
+
+installation process is the same, mount reinforcements ISO, make sure you already have OA, etc. If you don't have OA then just do a full install.
+
+No fade, no problems, use your regular working keygen.
+
+ty for this torrent, whoever you are"
+,jimbus80,2012-04-02T07:44Z,"1. Is not possible to make a mini-image of this game or use Game Jackal?
+
+2. Can I burn it to a DVD-9 or FADE will appear? I mean, will it be fade free just by leaving it inside the DVD reader when I play the game?"
+,dhannemon13,2012-04-17T16:20Z,"I know this is a stupid questions but.. Because I confused:
+
+So I must mount the image before playing the game? If yes what software you used?"
+,dhannemon13,2012-04-17T16:21Z,"And BTW, still downloading this torrent, 79% remaining, good download speed ( 30 - 40 kb/s, this is normal at my country :D ) and I will seed this torrent if this fully works :)"
+,dhannemon13,2012-04-18T14:52Z,"And what the hell my download decreased to 6 kb/s??? Seeders give me more seed!!!!! :D
+Still stucked at 35.1% ._."
+,dhannemon13,2012-04-20T10:22Z,No anyone answers my fuckin' question?? C'MON!!!!! ( Still at 63% :D )
+,higopr,2012-04-22T19:21Z,"para instalar: 
+faça o download do Daemon Tools Pro+ serial, instale. emule a imagem, Mas nao clique nela, vai aonde voce emulo a imagem e com o botao direito   em abrir, va em setup.exe clique com o botao direito e execute como adminstrador... vai pedir o serial, procure por : ArmA II / OA / RFT multi keygen aqui no piratebay coloque o serial e instale :)
+
+------------
+to install:
+download Daemon Tools Pro + serial emule install the image, but not click on it goes where you emulate the image and the right button to open, go click on setup.exe the right button and run as administrator will ask for the serial, search for: ArmA II / OA / RFT multi keygen piratebay place here in the serial and install :)
+  translated by google translator"
+,dhannemon13,2012-04-23T11:40Z,"@higopr Thanks.. :) Just need use the Alcohol's ACID for hide the SecuROM error... xD
+
+BTW.. Didn't need mount the image for playing the game.. Works perfectly, FADE free... Good download speed.. :) And now I still make a mission using ARMA2 mission editor :D
+
+THIS TORRENT IS VERY RECCOMENDED FOR WHO WANT ARMA 2 FREE!!!! And now I seed this torrent at full speed :D"
+,daemon1100,2012-04-30T07:51Z,"i read some of the comments, im looking forward to this, is it sure that this copy is FADE free coz im getting confused at the older comments saying stuff like use this copy instead, etc"
+,hhorde,2012-05-18T17:25Z,WTF i cant mount it with poweriso??? the files are .MDF? and .MDS????
+,Concorde1,2012-05-20T02:49Z,"hhorde just use daemon tools or something, I've switched because of the lack of mds support. you should be able to find a torrent easily here"
+,PirateOfTheWorldDAN,2012-05-24T01:48Z,CAN SOMEONE PLZZZZZZZZZZZZZZ CREATE A VIDEO ON HOW TO INSTALL THIS PARTICULAR ARMA 2?
+,dhannemon13,2012-05-24T13:44Z,"@PirateOfTheWorldDAN
+I will make it later then xD"
+,GJSsucks,2012-05-25T18:52Z,IT WRITES WRONG CD KEY WITH ALL KEYS I ENTERED..... I DON'T KNOW WHY IT DOESNT WORK
+,s0tne67,2012-05-26T20:18Z,so does this realy work and can you play DayZ mod online?
+,fx36512,2012-05-30T15:47Z,how to attach virtual drive to a physical drive can someone help me 
+,ryancy80,2012-06-05T09:24Z,"I have legal bought copy of arma II combined operations.
+
+Can someone confirm if the DLCs in this will work with legal copy online?"

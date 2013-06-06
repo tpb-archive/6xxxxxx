@@ -1,0 +1,124 @@
+[ Info sul file ]
+
+Nome: Garfield.2009.iTALiAN.MD.BDRip.XviD-TNZ.avi
+data: 1/06/2011 21:10:26
+Dimensione: 734,824,448 bytes (700.783 MB)
+
+[ Info generiche ]
+
+Durata: 01:13:22 (4402.477898 s)
+Tipo di contenitore: AVI OpenDML
+Streams totali: 2
+Tipo stream n. 0: video
+Tipo stream n. 1: audio
+Audio streams: 1
+ISFT: VirtualDubMod 1.5.10.2 (build 2540/release)
+JUNK: VirtualDubMod build 2540/release
+
+[ Dati rilevanti ]
+
+Risoluzione: 720 x 384
+Larghezza: multipla di 16
+Altezza: multipla di 32
+DRF medio: 5.202580
+Deviazione standard: 1.447927
+Media pesata dev. std.: 0.676643
+
+[ Traccia video ]
+
+FourCC: xvid/XVID
+Risoluzione: 720 x 384
+Frame aspect ratio: 15:8 = 1.875
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 15:8 = 1.875
+Framerate: 23.976043 fps
+Frames totali: 105554
+Stream size: 661,346,167 bytes
+Bitrate: 1201.770788 kbps
+Qf: 0.181292
+Key frames: 1512 (0; 50; 246; 433; 673; ... 105507)
+Null frames: 0
+Min key int: 1
+Max key int: 240
+Key int medio: 69.810846
+Ritardo: 0 ms
+
+[ Traccia audio ]
+
+Audio tag: 0x55 (MP3)
+Bitrate (contenitore): 121.152 kbps VBR
+Canali (contenitore): 2
+Frequenza (contenitore): 44100 Hz
+Chunks: 168532
+Stream size: 66,672,665 bytes
+Preload: 522 ms
+Max A/V diff: 549 ms
+Tipo: MPEG-1 Layer III
+Encoder: LAME3.90. (Made with BeSweet v1.5b30)
+MPEG frames: 168532
+Durata: 01:13:22 (4402.468571 s)
+Bitrate (bitstream): 121.155054 kbps VBR
+Chunk-aligned: SÃ¬
+Emphasis: none
+Mode: joint stereo
+Ritardo: 0 ms
+
+[ Info sulla codifica MPEG4 ]
+
+User data: XviD0050
+Packed bitstream: No
+QPel: No
+GMC: No
+Interlaced: No
+Aspect ratio: Square pixels
+Quant type: MPEG
+Frames totali: 105554
+Drop/delay frames: 0
+Frames corrotti: 0
+
+I-VOPs:  1512 (  1.432 %)                          
+P-VOPs: 40200 ( 38.085 %) ##########               
+B-VOPs: 63841 ( 60.482 %) ###############          
+S-VOPs:     0 (  0.000 %)                          
+N-VOPs:     1 (  0.001 %)                          
+
+Max consecutive B-VOPs: 2
+    1 consec: 11025 ( 29.453 %) #######                  
+    2 consec: 26408 ( 70.547 %) ##################       
+
+[ Analisi DRF ]
+
+DRF medio: 5.202580
+Deviazione standard: 1.447927
+DRF max: 8
+
+DRF<2:     0 (  0.000 %)                          
+DRF=2:   308 (  0.292 %)                          
+DRF=3: 15080 ( 14.287 %) ####                     
+DRF=4: 27367 ( 25.927 %) ######                   
+DRF=5: 10572 ( 10.016 %) ###                      
+DRF=6: 24675 ( 23.377 %) ######                   
+DRF=7: 27494 ( 26.048 %) #######                  
+DRF=8:    57 (  0.054 %)                          
+DRF>8:     0 (  0.000 %)                          
+
+I-VOPs DRF medio: 3.207671
+I-VOPs deviazione std.: 0.435518
+I-VOPs DRF max: 4
+
+P-VOPs DRF medio: 3.645646
+P-VOPs deviazione std.: 0.505719
+P-VOPs DRF max: 5
+
+B-VOPs DRF medio: 6.230212
+B-VOPs deviazione std.: 0.789984
+B-VOPs DRF max: 8
+
+[ Profile compliancy ]
+
+Profilo da testare: MTK PAL 6000
+Risoluzione: Ok
+Framerate: 23.976043 <> 25
+Min buffer fill: 35%
+
+Rapporto generato da AVInaptic (18-11-2007) in data  1 giu 2011, h 22:10:19

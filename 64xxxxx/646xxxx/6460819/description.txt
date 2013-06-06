@@ -1,0 +1,55 @@
+SCREENS:
+ 
+http://image.bayimg.com/gaiamaadj.jpg
+
+
+
+General
+
+Format                           : Matroska
+File size                        : 402 MiB
+Duration                         : 1h 45mn
+Overall bit rate                 : 532 Kbps
+Encoded date                     : UTC 2011-06-10 03:48:55
+Writing application              : mkvmerge v4.6.0 ('Still Crazy After All These Years') built on Mar 10 2011 02:50:32
+Writing library                  : libebml v1.2.0 + libmatroska v1.1.0
+
+*SOURCE*                         : BluRay SiNNERS
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 2 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 45mn
+Nominal bit rate                 : 480 Kbps
+Width                            : 720 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 16:9
+Original display aspect ratio    : 16:9
+Frame rate                       : 23.976 fps
+Standard                         : NTSC
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.058
+Writing library                  : x264 core 115 r1947 b5a8ad7
+
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 1h 45mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+

@@ -1,0 +1,55 @@
+User Type,Username,Date,Text
+,Karee.11,2011-06-27T23:13Z,"Nice, thanks for the upload, but this version is the v4.6.2 :)"
+[T],dada_sh,2011-06-28T10:01Z,"@ /Karee.11/ Welcome buddy & thanks for your confirmation & Clarification... Sorry for the keying mistake the version is v4.6.2.1140 release June 24, 2011"
+,btk1w1,2011-06-28T14:41Z,"Works brilliantly! Thanks dada_sh!
+
+I have been sifting through the available versions of USB Safely Remove and this one is the most up to date and works as it should with a lifetime updates license.
+
+Now for the security conscious... the extracted executable was scanned with Jotti and VirusTotal and each returned one positive result (in my opinion from the same antivirus vendor for each and almost definitely a heuristic result):
+
+=================================
+
+MD5:	08c107712aa46f7817dced7ad76adc53
+Date first seen:	2011-06-28 11:13:50 (UTC)
+Date last seen:	2011-06-28 11:19:27 (UTC)
+Detection ratio:	1/39
+
+Antiy-AVL	2.0.3.7	2011.06.27	Backdoor/Win32.Delf.gen
+
+http://www.virustotal.com/file-scan/report.html?id=8add444dc6bb566e96c84813e24bee9b17108a2071208975bea9d035cab2fed3-1309259967
+=================================
+
+I also scanned the post install USBSafelyRemove.exe and returned one result:
+
+=================================
+
+MD5:	bdaea493af7825dc6ffda8e0270119f8
+Date first seen:	2011-06-26 17:10:02 (UTC)
+Date last seen:	2011-06-28 08:29:44 (UTC)
+Detection ratio:	1/42
+
+Rising	23.64.01.03	2011.06.28	Suspicious
+
+http://www.virustotal.com/file-scan/report.html?id=c89641ec7fae56c4dda0080dfa96044393f9a81d6f064271617855c82e6ddfe8-1309249784
+=================================
+
+I have since run full scans with Avast! and Malwarebytes Anti-Malware and returned a clean scan. I believe the single returned results (1 out of 42 and 1 out of 39) are false positives.
+
+I'm going to monitor with winpatrol for any hidden activity but believe it will be all good."
+,btk1w1,2011-06-28T14:57Z,"Apologies for the first scan result link on the previous post (the result is accurate, the filename might cause confusion).
+
+The correct link is:
+
+http://www.virustotal.com/file-scan/report.html?id=8add444dc6bb566e96c84813e24bee9b17108a2071208975bea9d035cab2fed3-1309264801
+
+
+file-2436972_exe and USB Safely Remove v 4.6.2.1140 by Moon-Dancer.exe are the same file. The hashes all match.
+"
+,ImSoJaded,2011-06-29T17:57Z,Works as 'advertised' ;). Scanned it with Avira (known to raise a lot of false positives) and it was declared clean. Thank you.
+,jez1961,2011-06-29T19:40Z,"Excellent UP..!! Works perfectly and is clean..
+Some people scoff at this prog but it's actually REALLY HANDY!! 
+Cheers Dada! :)"
+[T],dada_sh,2011-07-02T14:37Z,Cheers Buddies & thanks for your confirmations ;-)
+,glauzex,2011-07-08T11:16Z,Newbie here... The torrent is great...!!! nice and clean...!!!
+,U-Nes,2011-08-03T17:25Z,"Works like a charm! But took a little time to download, so I'm seeding :D"
+,abohasham,2011-08-05T08:00Z,Thanks

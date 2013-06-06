@@ -1,0 +1,36 @@
+FaceNiff is an Android app that allows you to sniff and intercept FaceBook profiles over the WiFi that your mobile is connected to.
+It is possible to hijack facebook sessions only when WiFi is not using EAP, but it should work over any private networks (Open/WEP/WPA-PSK/WPA2-PSK)
+It\\\\\\\'s kind of like Firesheep for android. Maybe a bit easier to use.
+
+------------
+
+GET THE MOST UPDATED VERSION AT http://Faceniff.Ponury.net/
+
+------------
+
+*** ROOTED PHONE *** is required. Please note that if facebook user uses SSL this application won\\\\\\\'t work. This application due to its nature is very phone-dependant so please let me know if it won\\\\\\\'t work for You
+Confirmed to work on:
+
+    * HTC Desire CM7
+    * Original Droid/Milestone CM7
+
+
+Use with stock browser (might not work with other)
+Legal notice: this application is for educational purposes only. Do not try to use it if it\\\\\\\'s not legal in your country.
+
+This apk is limited to use only 3 hijacked profiles, if you want more - there will be an option to buy unlock code through paypal.
+
+You can see how it works here:
+If you can - please make a \\\\\\\'better quality\\\\\\\' video - if I like it and use it then You\\\\\\\'ll get activation code for free!
+
+UPDATES
+
+    * 22-04-2011 (v1.2): fixed Permission Denied bug (thanks G.)
+    * 19-04-2011 (v1.3): lowered cpu usage + few bug fixes. (you will need to reinstall)
+    * 30-04-2011 (v1.4): *** UNINSTALL OLD APP FIRST ***
+          o fixed arp bug now hijacking should be more continuous and reliable.
+          o fixed name resolving problem that occur if hijacked invalid session
+    * 02-05-2011 (v1.5): fixed a bug when some devices couldn\\\\\\\'t buy an app from paypal, if you encounter any problems please uninstall, *re-download* and install again
+    * 07-05-2011 (v1.5b): during update somehow Permission Denied bug reappeared, this update fixes it (I hope)
+    * 20-05-2011 (v1.6): code cleanup + when wifi disconnects you will get a message about it (that was annoying)
+    * 20-05-2011 (v1.6.1): fixed FC when switching screens (thanks Matt!)

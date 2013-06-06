@@ -1,0 +1,443 @@
+  Micro XP Pro 0.91 New Edition
+
+By DarkReverser
+
+
+
+Installation time: ........11min
+
+Speed:.......................As fast as it gets
+
+Functionality:..............No errors, Fully functional
+
+Iso Size:.....................217 MB
+
+HD Space: ................ 482 MB (after swap deletion)
+
+Required Ram: .......... 64MB
+
+Security: ...................Improved (Tweaks + Updates)
+
+Automatic: ................Setup & speed enhancements
+
+Purpose.....................To minimize iso size while keeping most features and increasing security and speed.
+
+
+
+
+
+New in 0.91 release:
+
+-WGA checking apps like Security Essentials now work
+
+-Includes KB2492386 for maximum app compatibility
+
+-Automatic Update now works  
+
+-Size of Iso greatly reduced with next to no feature loss
+
+-Tweaks scripts updated
+
+-Added web installers and shortcuts to desktop to save you time in getting certain apps on your system
+
+-XPlite addon is removed
+
+-ReAdded Ethernet Drivers since its used by VirtualBox
+
+
+
+Summary:
+
+
+
+There are a lot of crap MicroXP out there, and this isn't one of them.
+
+This is a quality release.
+
+No need to activate.
+
+All significant speed enhancement are built-in except for swap file.
+
+Feature-wise, this copy has almost all the features of original XP Pro.
+
+Automatic Windows Update works.
+
+App Compatibility now exceeds retail copy.
+
+Why install this copy instead of retail? No need to activate, malware-free, much faster, more secure and requires less ram than retail copy.  
+
+Can I use this copy to fix my friend's computer?  Yes, this is a high quality release.
+
+
+
+Instructions:
+
+
+
+Make sure you "Force Recheck" the torrent once it is stopped and burn on a slow speed, select verify option.
+
+Burn on any media you want with imgburn, nero, poweriso etc...
+
+Install is automatic, just configure your bios, choose where to install and everything else will be done for you.
+
+
+
+Supported Languages:
+
+
+
+Arabic, Armenian, Chinese (Simplified only), Czech, Dutch, English, French, German, Hebrew, Hindi,
+
+Hungarian, Italian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish, Vietnamese
+
+
+
+Only the main regions for the languages are supported.  
+
+All options in "regional and language options" work, and in accordance to the included languages above.
+
+
+
+I don't want to install XP on C Drive?
+
+
+
+You have three options.
+
+Make sure only one storage unit is connected to computer prior to loading XP Setup; optical drive doesn't count.
+
+1. If you see another partition, select that partition.
+
+2. If there are no partitions, then you must create two partitions.
+
+  By default when you go to make a partition, XP gives the maximum size.
+
+  You need to reduce this size so that you can make a second partition.
+
+  Now create you second partition, and select it to install XP onto it.
+
+3. If there is exactly one partition, it is probably taking the whole hard drive, and you need to delete then create two partitions as discussed.
+
+
+
+Ever heard about MicroXP 0.82?  
+
+
+
+I am not the author of the product and happily so.  Anyways it installs in half the time because it only has about 20% of the original feature set.
+
+What does that mean for you?
+
+
+
+-Many applications including drivers will not install correctly or at all.
+
+-Many errors
+
+-No Security Policies furthermore security policies impossible to implement
+
+-Administration not possible e.g., password protected account cannot be enforced
+
+-Sharing of Hard Drive is automatically on by default
+
+-Windows Firewall isn't included etc
+
+
+
+In summary, that you can only use it on a offline computer and only for gaming.
+
+Can't be a good author if sharing of entire hard drive is on by default.
+
+
+
+What is MicroXP Pro 0.90 good for?  Everything, and improves security, speed and ram over retail.  It has about 90% of the feature set, yet is three times as small as original iso. That other 10% are features that can be forgotten, or for which a new version of the software exist.  Further below I list the removed components.
+
+
+
+
+
+Using Windows Update, and word about Application Compatibility
+
+
+
+I previously stated that Windows Update and WGA checking apps like Security Essentials require XP to be activated in order to function.
+
+I am happy to report that I was mistaken and have tricked XP into thinking it is activated even though the activation component is absent from the release; lol.
+
+Window Genuine Advantage is a backdoor.  It's a two-face program.  On the one hand, it will give its assessment of whether windows is genuine (properly licensed) or not, but
+
+on the other hand (as it regularly contacts Microsoft) Microsoft can give its own assessment, deem it ungenuine and instruct the app to de-activate windows or certain features.
+
+On MS update, it is currently known as KB905474, but future versions will come out; perhaps with a different Knowledge Base number.  The point is, we don't want a backdoor on pirated
+
+copy of XP.  Here pirated means (created from retail version, but unproperly licensed).  The genuine advantage is suppose to be access to exclusive MS apps and certain XP updates.
+
+But the program itself falsely identifies Micro XP Pro as genuine.  To add to insult, it comes to this conclusion with licensing component fully removed from XP
+
+But remember even if it marks XP as genuine, it is still a backdoor for Microsoft.  Yap, I've tricked XP into thinking it's properly licensed even though licensing component is removed
+
+Conclusion:  If your going to use install MS updates, don't install KB905474 or anything "Windows Genuine Advantage".  Not installing this may prevent you from installing updates from Internet Explorer.
+
+                  However, you'll still be able to update XP with Automatic updates.  In short, I garentee Automatic Updates.  Also avoid update KB955759 (as the component is removed from XP).
+
+      Alternatively to Automatic Updates, you may install and use Microsoft Baseline Security Analyser 2.2
+
+
+
+
+
+Finally, with regard to App Compatibility, one could argue that it is impossible to have better app compatibility in the wake of removed components/services.
+
+My counter argument is simply that next to no apps utilise the components/services I remove therefore unaffecting app compatibility
+
+AND
+
+I include a MS compatibility update; for software that failed to work out of the box for XP SP3 retail.
+
+Therefore, Micro XP Pro 0.91 has superior app compatibility than retail.
+
+
+
+
+
+Recommondations
+
+
+
+General
+
+          Read the "Using Windows Update" section.
+
+       Remember that windows is best protected by Virtualization or Anti-Virus products and Firewalls, not by security updates.
+
+If you wish to use themes, you must first enable it.  On the Desktop, click on theme.bat
+
+Do not turn off "file and printer sharing" firewall exception if you intend to do such an activity or your software uses the "computer browser" service.
+
+
+
+Core Dependencies
+
+Many apps, require a specific .net framework, flash player, java or visual c++ runtimes.  
+
+          Downloading and installing .net frameworks AIO x86 via desktop shortcut is a MUST.  
+
+          For games, you need to update directx via desktop web installer.
+
+
+
+Malware Protection
+
+Virtualization is best; Returnil Virtual System Pro and Deep Freeze are great products.
+
+Basically when you restart your computer, all changes to your system are undone; infect me trojan for upon restart you are gone.
+
+Anti-virus products are garbage in comparison, but still offer some protection.  I can easily make viruses to evade AVs.
+
+The best free product is Avira Personal for Antivirus; highest pro-activate and manual scan detection rate of any free AV product.
+
+
+
+Firewall Protection
+
+          Firewalls have one purpose; to control the flow of information.
+
+          An computer intrusion itself is merely used to acquire intel; how is your computer vulnerable?  Can I remotely install information stealing software?  Can I wardrive off your network?
+
+                                                                                                who are you? How can I profit off the intrusion.  No profit or gain potential, next computer.
+
+          A program seeking to relay a message over the internet is either a legitimate piece of software, or a trojan that recorded your keystrokes, took screenshots and wants to relay that
+
+          information to its master.
+
+          Windows Firewall only provides limited inbound or intrusion protection.  It provides no outbound protection, but it barely has any effect on the speed (latency) of the internet.
+
+          Comodo Firewall provides the greatest inbound and outbound protection, but it can reduce browsing speed.  
+
+          Zone Alarm Pro fails many outbound aptitude tests, and tends to be buggy.
+
+
+
+Recommended Utilities
+
+Install glary utilities and use all of their utitilies including 1-click maintenance and registry defrag.
+
+Install beachbit.  Cleans windows best.  Make sure to Uncheck free disk space AND memory dump; bsod logs.
+
+If using magnetic storage, defrag hard drive.
+
+For backups, use EASEUS Todo Backup Home.  Note: All partitions must be NTFS or of FAT type.  So if you're duel booting linux look elsewhere.
+
+Don't use internet explorer, use google chrome for browsing AND opening pdfs.
+
+For video, use VLC.
+
+Problem deleting files in use?  Install Unlocker.
+
+For archiving use 7zip, Peazip, Universal Extractor.
+
+
+
+
+
+Below you find in depth information about this release.  
+
+I remove components and services either because they present no benefit, little benefit or a security benefit.
+
+It's extremely rare to find an app that uses something I removed; so put your mind at ease.  Don't panic.
+
+
+
+Removed Components (as of 0.91)
+
+
+
+-XPlite (no longer beneficial; use add/remove windows component)
+
+-Images and Backgrounds (no benefit, either you use a plain or downloaded background)
+
+-Netmeeting (Old Software, use Team Viewer)
+
+-Outlook Express (Old Software, install Windows Live Mail)
+
+-Service Pack Messages (useless)
+
+-Indexing Service (useless, was already disabled in previous release...now removed)
+
+
+
+
+
+Removed Components (as of 0.90):
+
+
+
+               Support for Multi-port Serial Adapters (nobody uses this nowdays)  
+
+               Many UnnecessaryDrivers (space and slows XP install)
+
+   File and Settings Wizard (useless, transfers too little settings 2B worthwhile)
+
+               Korean/Japanese Languages   (huge thus removed)
+
+               XP Help Files (useless, web is better)
+
+               Out of Box Experience; (useless, past feature loss circumvented)
+
+               Upgrade Functionality (clean install is best anyway)
+
+               Program Compatibility Wizard (not needed)
+
+               MSN Explorer (not important)
+
+               .art image format (old)
+
+   Intel Indeo Codecs (old)
+
+   Luna Desktop theme (useless)
+
+   Movie Maker (old)
+
+   Music Samples (useless)
+
+   FrontPage Extentions (useless)
+
+               Old .net Framework Files (unused)
+
+               Old Blaster removal tool          
+
+   MS XML 2.0 (old)
+
+   Search Assistant (useless)
+
+               Tour (useless)
+
+   Removed CD Directories: DOCS,SUPPORT,VALUEADD                              
+
+                         
+
+I know what your thinking; already this copy of XP feels too modded too different from retail, but no other microXP of this size emulates the retail copy better than this one.
+
+
+
+Some services are removed via "startup.bat" in "$OEM$" either because they are relatively useless or for security reasons.
+
+Should you be aware of an app that depends on a few you need to delete lines from script and replace it on iso with MagicISO, save, burn, install xp.
+
+
+
+Removed Services and likelyhood some apps depend on it are:
+
+
+
+ Network DDE Rare  
+
+ Network DDE DSDM               Rare
+
+ IPSEC Services                      Rare, removed because very few people use this
+
+ Net Logon                              Rare, won't affect your internet; this isn't the dialup service
+
+ Routing and Remote Access   Rare, removed for security reasons
+
+ Shell Hardware Detection        Rare, won't affect hardware compatibility
+
+ WMI Performance Adapter      Rare, monitoring service that eats up ressources
+
+
+
+Network DDE is used to initiate and maintain the network connections needed for DDE conversations between applications running on different computers in a network. But even then DDE is rarely utilized. Network DDE is abondoned as of Vista.  Wireless file transfer doesn't depend on DDE.
+
+Routing and Remote Access is disabled on XP Pro SP2 and up by default, therefore removed; BlackViper source.
+
+Very very few apps should be affected by the removal of the above services, so few that it is safe to excluded them.
+
+
+
+
+
+Built-in tweaks: Some were builtin using nlite, the rest are found in startxp.bat.  There are over a hundred tweaks between them.
+
+
+
+Regarding IIS (install with Add/Remove Windows Component):
+
+
+
+IIS which is Microsoft's version of Apache webserver is included, but I choose not to integrate the following updates for it:
+
+KB953155
+
+KB970483
+
+KB2124261
+
+
+
+Complaints, installation errors, bsod etc
+
+
+
+If you experience installation errors or bsod, your copy of micro XP 0.91 is broken; follow the instructions and you should be set.
+
+It does not come with post install.  I cannot design a post install that will suit everyone, furthermore even if that were possible the iso size would be massive.
+
+That's completely against the goal of this project; yap you have to install software 1 by 1 unless you make or have your own AIO.
+
+Note: I did provide a link to .net frameworks AIO which comes with a bunch of other software.  
+
+Of course, Micro XP Pro comes with Internet Explorer and Windows Firewall.
+
+Automatic Updates works.  MUI works.  Themes work once enabled.
+
+Quick buttons on taskbar do not work; investigating.
+
+Installation errors are extremely rare if you have a good copy.
+
+The exception is malfunctioning hardware OR really old hardware manufactured before XP was released.
+
+BSOD can be caused by malfunctioning hardware OR really old incompatible hardware, but most of the time it is caused by cheaply designed drivers.
+
+If you get BSOD, ask yourself which hardware or software company gave me a crappy driver; you will be correct 99.9% if your copy of the driver and of windows are good, and your hardware is undamaged.
+
+In other words, if you get BSOD it has nothing to do with this copy of XP; nothing.

@@ -1,0 +1,36 @@
+This program is for Kaspersky 2012 v12.0.0.374 and PURE v9.1.0.124. It resets
+the trial period so you have more time to evaluate the product. It was tested
+on WinXP/Vista/7 (x86/x64). It may not work with newer or older versions of
+Kaspersky. This program requires the Net Framework 3.0.
+
+-------------------------------------------------------------------------------
+                                 Install Notes
+-------------------------------------------------------------------------------
+
+1. Disable the Self-Defense.
+2. Exit Kaspersky by using the trayicon.
+3. Start ganjin_ktr_2012.exe and press the -Reset- button.
+4. Wait for Kaspersky to launch and activate your new trial period.
+Done!
+Note: Your computer has to reboot when resetting 2012 versions of Kaspersky.
+
+-------------------------------------------------------------------------------
+                                 Full Changelog
+-------------------------------------------------------------------------------
+
+.Version 1.1c - 18.06.2011 - (1.11)
+IMP - Reset process on all systems
+IMP - Trial notifications disabler
+IMP - Shutdown dialog
+IMP - Minor things
+.Version 1.1b - 16.06.2011 - (1.10)
+FIX - 64bit systems not working
+.Version 1.0a - 16.06.2011 - (1.00)
+First release.
+
+Brought to you by
+Winboys Soft
+-[Abbas]- 
+(mpuria)
+
+

@@ -1,0 +1,81 @@
+User Type,Username,Date,Text
+,schrade,2011-06-14T20:46Z,"I keep getting this problem:
+
+org.lwjgl.opengl.GL11.glViewport(GL11.java:3199)
+ zombie.f.b.b(Unknown Source)
+ zombie.GameApplet.gameLoop(Unknown Source)
+ zombie.b.run(Unknown Source)""
+
+I Also have the latest Java 6. Not Java 7, Going to Java 6 was a suggestion as to how to fix the problem but didn't work for me. Can anyone please help? I really want to try this game."
+[V],.BONE.,2011-06-14T22:21Z,"not shore i tested it and had 2 download latest works fine on windows 7 64bit
+http://www.java.com/en/
+u have 2 click on LOG.bat or u will just get a blank screen "
+,schrade,2011-06-15T08:09Z,"I don't get A Blank Screen dumbass.
+I get this Error Message:
+ org.lwjgl.opengl.GL11.glViewport(GL11.java:3199)
+zombie.f.b.b(Unknown Source)
+zombie.GameApplet.gameLoop(Unknown Source)
+zombie.b.run(Unknown Source)""
+
+I've tried three versions of this and it doesn't work, despite the fact that I have the latest version of Java. I have windows 7 64 bit. and It DOESN'T FUCKING WORK. And I clicked on the log.bat, and guess what? IT STILL GIVES ME THE SAME ERROR MESSAGE.
+Can someone please find a fucking fix for this? I'm trying to decide whether or not I want to buy this game with this torrent, not just try and poach it for free."
+,schrade,2011-06-15T08:11Z,"I don't get A Blank Screen dumbass.
+I get this Error Message:
+ org.lwjgl.opengl.GL11.glViewport(GL11.java:3199)
+zombie.f.b.b(Unknown Source)
+zombie.GameApplet.gameLoop(Unknown Source)
+zombie.b.run(Unknown Source)""
+
+I've tried three versions of this and it doesn't work, despite the fact that I have the latest version of Java. I have windows 7 64 bit. and It DOESN'T FUCKING WORK. And I clicked on the log.bat, and guess what? IT STILL GIVES ME THE SAME ERROR MESSAGE.
+Can someone please find a fucking fix for this? I'm trying to decide whether or not I want to buy this game with this torrent, not just try and poach it for free."
+,lostlegends,2011-06-15T16:10Z,"@schrade try shouting at the people who make the game dumbass. Or even google the error. Im running windows 7 64, and it works fine. In other words its YOUR FUCKIN SYSTEM!
+On a more constructive note. AS for someone fixing this for you hows this - NO.
+the answer is on goole its real simple so you should be fine. just paste the error into google hit search and its in the top 3 results!.
+Now go shout all you like, if your attitude wasnt so shit somebody may have just told you how to fix it.
+As usual nice upload Bone"
+,schrade,2011-06-15T17:15Z,"Fine, I'm sorry for what I said, I was just getting really frustrated cause I've been at this problem for 2 days now and it still isn't working.
+It's not my system because It works fine on my dad's computer and he has almost exactly the same set up, I even tried literally copying his Java files, and replacing mine with them to no avail.
+I also threw the problem in google, two of the first three results were torrents from TPB for this, the third was some website for java programmers, not people having an issue running it."
+,lostlegends,2011-06-15T19:09Z,"typing ""org.lwjgl.opengl.GL11.glViewport(GL11.java:3199)"" gives you 3rd result down-
+http://www.theindiestone.com/community/viewtopic.php?f=22&t=1657&p=21534
+which in turn says too check this link - http://theindiestone.com/community/viewtopic.php?f=22&t=974&p=13909&hilit=glViewport#p13909
+basicly its a graphics driver error, doesnt mean it is the drivers but it is graphics card related. Update drivers for graphics card. if that doesnt work uninstall them and reinstall. if still doesnt work give up and try it on your dads pc. the game is still way too basic at present to be good anyway"
+,leimo25,2011-06-15T22:31Z,"Why am I getting black screen? I have the latest version of java, latest drivers.... Is it because I'm on XP? Oh and I ran the Log.bat file."
+,schrade,2011-06-15T23:18Z,"Again, apologies for before, It works fine now and you are my internet hero of the day."
+,rainxo,2011-06-16T04:47Z,"ok here is how you do it on Win XP if you got black screen.
+1. Go to: C:\Documents and Settings\USERNAME\Local Settings\Temp
+2. Create lwjglcache
+3.???
+4.Profit"
+,ShadowMastr,2011-06-16T06:44Z,Works fine for me on Win7 64 bit. Nice improvements over previous version.
+,mega_cell,2011-06-16T19:48Z,"I found how to solve the black screen issue. Instructions should be a bit more clear. The lwjglcache folder has to actually go in your windows temp folder. If you have moved it from the default location, like myself, you will need to manually create the folder. Game works great, thanks!"
+[V],.BONE.,2011-06-17T13:07Z,click on the click on LOG.bat 2 cure the black screen problem :p
+,Adam_Horovitz,2011-06-18T04:01Z,"Lol, they're shutting you faggots down. Nice try trying to rob the devs of money, now they've stopped development. fags LOL"
+,Adam_Horovitz,2011-06-18T04:03Z,and LOL @ being too poor to afford 5 bucks. Must suck to have alcoholic divorced parents. 
+,Alexnader78,2011-06-18T09:46Z,"@mega_cell thanks for the clear up.
+For others, just go to START>RUN and copy & paste this and hit enter:
+%temp%
+put the created folder in there :)"
+,kaliver,2011-06-19T13:31Z,I like how Adam visited and registered here JUST to call people fags. I hope he's enjoying that high moral ground he's standing on.
+[V],.BONE.,2011-06-19T18:47Z,ye but adam your wrong its the pirate copy that downloads the updates off there server they are pissed off about this torrent is not it
+[V],.BONE.,2011-06-19T18:49Z,"here is there post......
+
+Pirates have made a version of the game that auto-downloads Project Zomboid from our server whenever the player clicks an â€˜updateâ€™ button.
+
+Weâ€™ve always turned a blind eye to pirate copies, even on occasion recommending people who had problems with the legit version try a pirate version until the issues are resolved. We realise the potential viral benefits of pirate copies, and while obviously weâ€™d prefer people to purchase our issue is not with those.
+
+However, these â€˜auto updatingâ€™ versions of the game could screw us completely. We have a cloud based distribution model, where the files are copied all over the world and are served to players on request, which means we are charged money for people downloading the game. Whether piracy actually amounts to lost sales weâ€™re not going to get into. The possibility that it raises awareness and promotes the game cannot be ignored, but the difference is offline versions on torrents, which weâ€™ve been largely unconcerned about, do not cost us real money, only potential money, and even then we canâ€™t really guess at what the net effect is. Likewise people who download the game through our website only download it when there is a new version, so once every week or so. These new pirate copies have an â€˜update nowâ€™ button which will download the game every time itâ€™s clicked, potentially every time the game is run by everyone using it.
+
+Apologies for everyone whoâ€™s purchased the game, but this has the potential to cost some of the development funds weâ€™ve made so far, and we canâ€™t risk it. We may be overreacting. But we have no idea of the numbers that could be involved and since an auto-updating pirate version effectively removes any need to buy the game and suggests they are â€˜in it for the long haulâ€™ if they are playing the version for numerous updates, we canâ€™t count on â€˜try before you buyâ€™ sale conversions from them. "
+,stewox,2011-06-20T20:25Z,"Congratz , you made them shut down the game 
+
+reason: too high piracy which and they don't have money to further develop the game"
+,ahoi1,2011-06-21T14:48Z,"well, whoever made this version with update button could just release a new one without it and reupload ..."
+,pred10122,2011-06-25T01:39Z,"please don't download the updateable version! it literally costs the devs money for each download! If you are pirating this game, please download the offline version or the free demo on the devs website."
+,kaliver,2011-06-26T06:08Z,"This version has no update button, lets quit with the hand wringing, thanks."
+,sonic222333,2011-07-22T16:40Z,"Black screen, nothing happen
+
+Running with windows 7 x64"
+,EvilNooB96,2011-11-07T22:47Z,"For window 7 64 bit i found a solution and its very simple.
+Run Log.bat as admin then run Project Zomboid.exe as admin
+no problems for me so far"

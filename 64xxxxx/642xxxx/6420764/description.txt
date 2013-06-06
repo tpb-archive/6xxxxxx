@@ -1,0 +1,52 @@
+GLASS ONION VISUAL STYLE
+for Windows 7 x86 & x64
+Created by Solmiler
+
+
+INSTALLATION:
+
+1.	To use any 3rd party Visual Style your system must be patched first. . THIS NEEDS TO BE DONE ONLY ONCE, SO IF YOU ARE ALREADY USING OTHER VISUAL STYLES ON YOUR WINDOWS SKIP THIS STEP.  To do it use UXStyle patcher it is in Tools Folder. Select the right one for your version of Windows 7 (32bit or 64bit). You only need to do this once so if you already have some other visual style running you can skip this step. 
+
+2.	Extract the downloaded file and go to C:\...\Glass Onion for W7\Theme\  folder and copy .theme files and folders from C:\...\Glass Onion for W7\Theme\ to C:\Windows\Resources\Themes\ 
+
+3.	Select the theme from Presonalize menu.
+
+Thatâ€™s it.
+
+
+INSTALLATION OF THE SYSTEM FILES
+
+Changing the system files is not necessary to enjoy the theme, and you can skip it if you want.
+Explorerframe.dll changes the back/forward and search buttons in Windows Explorer. 
+Shell32.dll changes the panes in the Control Panel.
+System files are updated for SP1 and they are backward compatible (work with older versions of Windows 7) 
+
+BEFORE YOU BEGIN CREATE A SYSTEM RESTORE POINT.
+
+1.	If you are replacing the system files for the first time you will need to take ownership of the files first. Navigate to \...\Glass Onion for W7\Tools\TakeOwnership and double click InstallTakeOwnership.reg file.
+
+2.	Navigate to Windows\System32\  folder. right click the explorerframe.dll and choose Take Ownership from the right click menu.
+
+3.	RESTART before you continue, since some people had problems with renaming the files right away.
+
+4.	Rename Explorerframe.dll to Explorerframe.dll.original  and paste the Explorerframe.dll from \...\Glass Onion for W7\Explorerframe\ to  C:\Windows\System32\. Make sure that you use the right version for your system. If you use 32 bit Windows use the file form folder named "32 bit". 
+
+5.	64-BIT WINDOWS 7 USERS ONLY  navigate to C:\Windows\SysWOW64\  folder, take ownership and replace Explorerframe.dll found there with 32 bit version from \...\Glass Onion for W7\Explorerframe\32bit\.  
+
+
+
+
+6.	Restart and Enjoy.
+
+If you are not experienced with changing system files, donâ€™t change Shell32.dll it only changes control panel pane and can be a pain to change, and you wont lose much if you skip it. The procedure is the same and can be done along with changing Explorerframe.DLL.
+
+If the window apears blue when you select the theme Right-click on desktop, select Personalize>Window Color click "Show color mixer" and set the sliders for Hue and Saturation all the way to the left and move the Brightness all the way to the Right.
+
+To change start orb use the Start Button Changer in \...\Glass Onion for W7\Tools\Start Orb\ folder
+
+
+Thanks for the help: DaveSenior2010, mrgrim01, rajtheeban95
+And Lars Bjork http://www.flickr.com/photos/larsonist/  for a beautiful wallpaper. 
+
+Created by Solmiler
+Licensed under Creative Commons

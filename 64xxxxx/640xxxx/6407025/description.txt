@@ -1,0 +1,128 @@
+
+Windows Server 2008 R2 Standard,Enterprise,Datacenter,WebServer Edition
+
+
+
+.: Descrizione del Software :.
+Progettato sulla base del successo e dei punti di forza di Windows Server 2008, Windows Server 2008 R2 espande le tecnologie esistenti e apporta nuove funzionalitÃ  per consentire ai professionisti IT di aumentare l'affidabilitÃ  e l'efficienza dell'infrastruttura server.
+
+Gestione ottimizzata e aumento dei tempi di attivitÃ  dei server
+La virtualizzazione consente alle organizzazioni di ridurre notevolmente i costi operativi e il consumo energetico.
+La tecnologia di virtualizzazione basata sull'hypervisor Hyper-V, disponibile in Windows Server 2008 R2 Standard, Windows Server 2008 R2 Enterprise e Windows Server 2008 R2 Datacenter, migliora la gestione di macchine virtuali esistenti e aiuta a risolvere problemi IT specifici, in particolare quelli relativi al consolidamento dei server e alla disponibilitÃ .
+In Windows Server 2008 R2, Hyper-V Ã¨ potenziato con Live Migration, una funzionalitÃ  che consente di spostare macchine virtuali tra destinazioni fisiche in pochi millisecondi. Le operazioni di migrazione vengono cosâˆšÂ¨ eseguite senza che l'utente percepisca tempi di inattivitÃ . La tecnologia Hyper-V disponibile in Windows Server 2008 R2 velocizza le operazioni di amministrazione e aumenta i tempi di attivitÃ  grazie alla possibilitÃ  di eseguire l'avvio da hard disk virtuali e di aggiungere e rimuovere hard disk virtuali senza dover riavviare il sistema.
+I clienti che utilizzano System Center Virtual Machine Manager 2008 con il ruolo Hyper-V in Windows Server 2008 R2 possono usufruire di funzionalitÃ  di gestione e orchestrazione, come la nuova caratteristica Performance and Resource Optimization per macchine virtuali, che permette di sfruttare a pieno i processori x64 disponibili sull'host e incrementare le prestazioni della CPU con il supporto host per SLAT (Second-Level Address Translation).
+La nuova tecnologia di CompatibilitÃ  del processore facilita infine il lavoro dei professionisti IT consentendo la migrazione di macchine virtuali tra server fisici che utilizzano processori diversi da Intel o AMD, a condizione che tali CPU facciano parte della stessa famiglia di processori, ad esempio da Xeon a Xeon o da Opteron a Opteron, mentre con le versioni precedenti le migrazioni di macchine virtuali potevano essere eseguite solo tra server con classi di processori identiche.
+
+Incremento della produttivitÃ  con Windows 7
+Windows Server 2008 R2 include due nuove funzionalitÃ  per migliorare la produttivitÃ  degli utenti che utilizzano client con Windows 7 in postazioni remote.
+-DirectAccess: DirectAccess ottimizza la produttivitÃ  offrendo una valida soluzione per facilitare l'accesso di utenti remoti alle risorse aziendali senza che sia necessaria una connessione VPN tradizionale nâˆšÂ© software client. Con DirectAccess gli utenti non devono piâˆšÏ€ distinguere tra connessioni locali e remote, con conseguente risparmio di tempo ed energie. I professionisti IT possono controllare in modo preciso l'accesso e la sicurezza dell'intero perimetro della rete aziendale, contribuendo alla riduzione dei problemi di sicurezza e di gestione dei desktop remoti.
+-BranchCache: BranchCache Ã¨ una nuova soluzione di accesso ai contenuti che garantisce migliori tempi di risposta per gli utenti che operano in postazioni remote e succursali. Con BranchCache, quando i client richiedono l'accesso a dati o file dalla rete dell'organizzazione, il contenuto puâˆšâ‰¤ risultare disponibile nella rete locale della succursale, se tale file Ã¨ stato richiesto e pertanto archiviato a livello locale. BranchCache consente di aumentare la produttivitÃ  degli utenti remoti grazie a una maggiore velocitÃ  di risposta delle applicazioni, minori tempi di attesa per il trasferimento dei file e un utilizzo piâˆšÏ€ efficiente della larghezza di banda tra siti. BranchCache Ã¨ ottimizzato per i protocolli HTTP, SMB e BITS e consente di ridurre i costi di utilizzo di reti WAN e di aumentare la disponibilitÃ  della banda di rete per altri utenti.
+FunzionalitÃ  per l'accesso remoto e virtualizzazione
+Microsoft ha investito in due funzionalitÃ  chiave per migliorare l'accesso remoto: VDI e Remote Desktopt Services (RDS).
+VDI Ã¨ un'architettura per desktop centralizzata che consente alle aziende di riunire archiviazione, esecuzione e gestione di desktop Windows nel data center. Consente l'esecuzione e la gestione di Windows e di altri ambienti desktop su macchine virtuali in un server centrale.
+Servizi terminal Ã¨ diventato Remote Desktop Services, un'applicazione con tutte le funzionalitÃ  di Servizi terminal, oltre a nuove caratteristiche. Microsoft ha migliorato le funzionalitÃ  relative alla gestione e alle prestazioni in Remote Desktopt Services, aumentando la flessibilitÃ  della virtualizzazione della presentazione.
+Molto visibili i progressi nell'esperienza utente, grazie alle nuove funzionalitÃ  del protocollo RDP (Remote Desktop Protocol) . Tali nuove funzionalitÃ , abilitate dalla sinergia di Windows Server 2008 R2 con Windows 7 Enterprise e Ultimate Edition, migliorano in modo significativo l'esperienza degli utenti remoti, rendendola analoga a quella degli utenti che accedono alle risorse informatiche locali.
+Nei criteri di Active Directory sono integrate le funzionalitÃ  di virtualizzazione delle applicazioni e dei desktop Remote Application Deployment (RAD) e Virtual Desktop Infrastructure (VDI) per consentire agli amministratori di risparmiare tempo distribuendo applicazioni e desktop virtualizzati in base a criteri. Queste caratteristiche sono integrate con Windows 7 in modo tale che nella maggior parte dei casi gli utenti non distingueranno la differenza tra un'applicazione installata nel computer locale e un'applicazione virtualizzata.
+
+Maggiore risparmio energetico
+Windows Server 2008 R2 si basa sulla piattaforma di Windows Server 2008, espandendo la tecnologia esistente e aggiungendo nuove caratteristiche per consentire alle organizzazioni di ridurre ulteriormente il consumo di energia dei singoli server e per gestire il consumo energetico in tutto l'ambiente server .
+I miglioramenti alle funzioni di gestione dell'energia di Windows Server 2008 R2 sono:
+-Tecnologie di gestione dell'energia del processore migliorate
+-Core Parking, che consente di consolidare carichi di lavoro in un numero inferiore di core in un processore poco utilizzato, con un conseguente risparmio energetico durante l'inattivitÃ  di alcuni core
+-FunzionalitÃ  di misurazione dell'energia, inclusa la possibilitÃ  di visualizzare il consumo energetico all'interno del perfomance monitor o di raccogliere i dati in un centro dati tramite WMI, script o strumenti come System Center
+FunzionalitÃ  per la pianificazione del consumo energetico
+Archiviazione piâˆšÏ€ efficiente tramite una rete di archiviazione (SAN, Storage Area Network) centralizzata
+Miglioramento fino al 18% dell'efficienza dell'utilizzo energetico su componenti hardware identici rispetto a Windows Server 2003
+Con Windows Server 2008 R2 Ã¨ stato inoltre introdotto il logo "Enhanced Power Management Additional Qualifier (AQ) for the Windows Server" , che consente ai clienti di identificare i server di OEM che collaborano con Microsoft per ottimizzare il risparmio energetico.
+FunzionalitÃ  hardware migliorate
+Windows Server 2008 R2 supporta ora fino a 256 processori logici per una singola istanza del sistema operativo.
+Hyper-V puâˆšâ‰¤ utilizzare fino a 64 processori logici.
+
+
+.: Scheda del Software :.
+Nome:  Windows 2008 R2 x64
+Lingua: Inglese
+Anno: 2009                               
+Versione: 6.1 (Build 7601: Service Pack 1)
+Genere:  Sistema Operativo
+Produzione:  Microsoft
+Data di uscita versione base:  22 Ottobre 2009
+Processore: Progessore 1.4GHz (x64) o superiore o 1.3 (Dual Core)
+Ram: 512 MB di RAM
+Disco Rigido:32 GB di spazio libero
+
+.: Istruzioni per l'uso :.
+-Masterizzare il DVD ed installare il sistema operativo desiderato
+-Estrarre il file zip con la cura
+-Avviare la cura, applicare e riavviare
+-Enjoy ;)
+
+
+----------------------------------------------------------------------------------
+
+
+
+Windows Server 2008 R2 Standard,Enterprise,Datacenter,WebServer Edition
+
+
+
+.: Descrizione del Software :.
+Windows Server 2008 R2, now with Service Pack 1 (SP1) provides new virtualization technology that enables you to deliver more advanced capabilities to your business for increased IT efficiency and agility. Whether you want to consolidate servers, build a private cloud or offer Virtual Desktop Infrastructure, the addition of these powerful virtualization features enables you to take your datacenter and desktop virtualization strategy to a new level.
+
+Virtualize your Server and Desktop Infrastructure
+Virtualization is a major part of today's data centers. The operating efficiencies offered by virtualization allow organizations to dramatically reduce operational effort and power consumption. Windows Server 2008 R2 with SP1 provides the following virtualization types: Client and Server virtualization provided by Hyper-V and Presentation virtualization with Remote Desktop Services.
+-New Virtualization Technology in Hyper-V: Since the Windows Server 2008 release, Microsoft has introduced a new version of Hyper-V. Included as part of the Windows Server 2008 R2 with SP1 operating system, Hyper-V contains a number of core areas of improvements for creating dynamic virtual data centers and cloud computing, namely private cloud.  These improvements provide you with increased availability and performance, improved management, and simplified methods for deployment including live migration.  And, when combined with System Center, you are able to build out a dedicated private cloud environment to transform the way you deliver IT services to the business, using the infrastructure as a service (IaaS) model. Learn more about Hyper-V in Windows Server 2008 R2 with SP1.
+-Expanded Features in Remote Desktop Services: Remote Desktop Services provides users and administrators with both the features and the flexibility necessary to build the most robust access experience in any deployment scenario. To expand the Remote Desktop Services feature set, Microsoft has been investing in the Virtual Desktop Infrastructure, also known as VDI. VDI is a centralized desktop delivery architecture, which enables Windows and other desktop environments to run and be managed in virtual machines on a centralized server. Learn more about the Virtualization Platform in Windows Server 2008 R2.
+
+Improved Web Application Platform
+Windows Server 2008 R2 includes many enhancements that make this release the most robust Windows Server Web application platform yet. It offers an updated Web server role, Internet Information Services (IIS) 7.5, and greater support for .NET on Server Core. Design goals for IIS 7.5 concentrated on improvements that enable Web administrators to more easily deploy and manage Web applications that increase both reliability and scalability. Additionally, IIS 7.5 has streamlined management capabilities and provides more ways to customize your Web serving environment. The following improvements to IIS and the Windows Web platform are included in Windows Server 2008 R2:
+-Reduced Effort to Administer and Support Web-Based Applications
+-Reduced Support and Troubleshooting Effort
+-Improved File-Transfer Services
+-Ability to Extend Functionality and Features
+-Improved .NET Support
+-Improved Application Pool Security
+-IIS.NET Community Portal
+
+
+Improved Power Management and Streamlined Management
+The ongoing management of servers in the data center is one of the most time-consuming tasks facing IT professionals today.  Any management strategy you deploy must support the management of both your physical and virtual environments. To help with this problem, Windows Server 2008 R2 has new features to reduce the ongoing management of Windows Server 2008 R2 and to reduce the administrative effort for common day-to-day operational tasks.  Learn more about Improving Power Management and Streamlining Management in Windows Server 2008 R2.
+
+Increased Scalability and Reliability
+The ongoing management of servers in the data center is one of the most time-consuming tasks facing IT professionals today.  Any management strategy you deploy must support the management of both your physical and virtual environments. To help with this problem, Windows Server 2008 R2 has new features to reduce the ongoing management of Windows Server 2008 R2 and to reduce the administrative effort for common day-to-day operational tasks.  Learn more about Improving Power Management and Streamlining Management in Windows Server 2008 R2.
+
+Increased Scalability and Reliability
+Windows Server 2008 R2 is capable of unprecedented workload size, dynamic scalability, and across-the-board availability and reliability. A host of new and updated features will be available, including leveraging sophisticated CPU architectures, increased operating system componentization, and improved performance and scalability for applications and services.
+-Leveraging sophisticated CPU architectures
+-Increased operating system componentization
+-Improved performance and scalability for applications and services
+-Improved Storage Solutions
+-Improved Protection of Intranet Resources
+
+Integrated Experience with Windows 7
+Windows Server 2008 R2 has many features that are designed specifically to work with client computers running Windows 7, Microsoft's most current version of the Windows client operating system. Features that are only available when running Windows 7 client computers with server computers running Windows Server 2008 R2 include:
+-Direct Access to provide simplified remote connectivity for corporate computers
+-Secured remote connectivity for private and public computers
+-Improved performance for branch offices
+-Improved security for branch offices
+-Improved virtualized desktop integration
+-Higher fault tolerance for connectivity between sites
+
+
+.: Software Data :.
+Name:  Windows 2008 R2 x64
+Language: English
+Year: 2009                               
+Version: 6.1 (Build 7601: Service Pack 1)
+Kind:  Operative System
+Product:  Microsoft
+Base Version release date:  22nd October 2009
+Processor: Progessore 1.4GHz (x64) or superior o 1.3 (Dual Core)
+Ram: 512 MB of RAM
+Hard Disk:32 GB of free space
+
+.: Installation Instruction :.
+-Burn the DVD and install the desired operative system
+-Extract the zip file
+-Start the loader, apply and restart
+-Enjoy ;)

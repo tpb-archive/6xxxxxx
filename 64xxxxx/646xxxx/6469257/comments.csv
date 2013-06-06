@@ -1,0 +1,44 @@
+User Type,Username,Date,Text
+,johndmes1,2011-06-14T19:36Z,"Is this one actually functional?
+
+Using the last one, it wiped out all key assignments, so in-game could do nothing onthe SKIDROW release.  Had to restore the previous user..ini to make any further progress."
+[T],ADHDerby,2011-06-14T20:05Z,"Yes, it works, just make sure that you copy the user.ini from the Steam folder from this release.
+I've tested it with the release from Skidrow, Razor 1911 and the original steam version."
+,Korassu,2011-06-15T08:37Z,"I still need to try out the steam folder version, since i had the same problem as johndmes1. But i want to ask, i really wanted to check out the ""My Digs"" (dukes apartment) in the multiplayer section, but obviously that requires me to play multiplayer. Can you think figure out a way to lv up the multiplayer profile so i can unlock things in ""My Digs""?"
+,brianxxx,2011-06-15T16:16Z,"Thanks!
+Any chance of an option to stop the OVERHEAT feature on the turret guns, etc.? And an option to have unlimited BOOST on the vehicles? 
+Doesn't matter much really...just thought it would be fun! lol"
+,thcfreak666,2011-06-15T17:28Z,"Don´t work the control are dead, i can´t move "
+[T],ADHDerby,2011-06-15T19:31Z,"@ Korassu & brianxxx: I'll look into it
+@ brianxxx: To stop overheating, try F5 (Toggle Unlimited Ammo) it gives Unlimited Ammo for all weapons + no reload and no overheat
+@ thcfreak666: If you have the Skidrow version use the user.ini from the Steam folder!"
+,speedy123360,2011-06-15T19:39Z,Everytime I try to use it nothing happens I tryed everything. Maybe its because I have the multiplayer crack is it that?
+[T],ADHDerby,2011-06-15T20:07Z,@ speedy123360: Have you tried the user.ini from the Steam folder?
+[T],ADHDerby,2011-06-15T20:25Z,"If you are using the multiplayer crack, copy the user.ini from the Steam directory of this release to: ""%ProgramFiles%\Steam\Userdata\randomnumber\13140\Remote"""
+,Korassu,2011-06-15T20:49Z,"Just wanted to confirm that the steam user.ini works for the skidrow release. Also thank you so much for this, i only wish i had figured it out sooner, only ended up using it for the last 30 mins of the game."
+,jealaeci,2011-06-15T20:54Z,followed the steam installation instructions and copied the steam version of user.ini into the right directory but the cheats don't activate. any ideas on what to try?
+,speedy123360,2011-06-15T22:03Z,Yep I tried both i just redownloaded Duke Nukem so ima try it again.
+,brianxxx,2011-06-15T23:03Z,"Yeah...sorry about that...F5 does it for the overheat. I found that out when I used it finally today. lol. 
+
+For F4 - is there anyway to get the weapons to drop in less of a clump? lol Can be really hard to find what you want.
+
+Finally, nice cheat trainer. For me...running 7 Pro x64bit, Razor version of Duke -  it works nicely...no crashes like some of the other trainers.
+
+Now, I have to keep toggling between levels/transitions and turning things back on...is that normal?"
+[T],ADHDerby,2011-06-16T01:43Z,"Just to be clear: The randomnumber part in the path is a directory with a random number which already should be there.
+First run the game at least once and it creates system.ini and user.ini in the 57900\Remote directory (Steam version), the 57900\Storage directory (Skidrow version) or in the System directory of Duke Nukem Forever (Razor version).
+Make a backup of the original user.ini and copy and replace it with the modified one from this release.
+If you can't move in the game, you have copied the wrong user.ini: if you have the Skidrow or Steam version use the user.ini from the Steam folder!
+
+@ brianxxx: I can't change anything about the weapon drop, thats why I've added some of my favorite weapons to # 7 8 9 and 0
+It's normal that you must re-activate the cheats (it's programmed in the game this way) "
+,brianxxx,2011-06-16T15:57Z,"OK. Cool. Appreciate the follow up. BTW - love the 1st person view while driving the monster truck. Obviously it was programmed in and you unleashed it...but WTF didn't they let us choose that? I never saw an option for it. 
+
+And generally speaking...this game could have been better. 12 freakin' years and it feels like it was made in 1999 and just quickly redone. Shame on gearbox and 2kgames...even though I love the immature, potty humor! lol"
+,johndee,2011-06-17T17:05Z,"the cheat don´t work here have tryet on both Skidrow and Razor 1911
+cant get it to work"
+[T],ADHDerby,2011-06-17T19:06Z,"@ brianxxx: Same here (generally speaking) :D
+
+@ johndee: Which version do you use?"
+[T],ADHDerby,2011-06-18T14:29Z,"Duke Nukem Forever Cheat Enabler - Update 3: http://thepiratebay.org/torrent/6478512
+New in this release: SOS Prompt (Console) and Enable/Disable Depth Of Field Blur"

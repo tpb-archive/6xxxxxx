@@ -1,0 +1,37 @@
+OpenCV 2 Computer Vision Application Programming Cookbook
+
+
+In todays digital world, images are everywhere, and with the advent of powerful and affordable computing devices, it has become possible to create sophisticated applications manipulating images and videos. Adding special effects, enhancing image features, performing object recognition, and reconstructing 3D information are tasks that can be programmed easily with the OpenCV library, which is a widely used open source library that offers a rich set of advanced computer vision algorithms.
+
+
+OpenCV 2 Computer Vision Application Programming Cookbook will introduce you to numerous computer vision algorithms included in the OpenCV library. You will learn how to read, write, create and manipulate images. You will explore different techniques commonly used in image analysis and how they can be effectively implemented in C++. The book provides a complete introduction to the OpenCV library and explains how to build your first computer vision program. You will be presented with a variety of computer vision algorithms and be exposed to important concepts in image analysis that will enable you to build your own computer vision applications.
+
+
+The book helps you to get started with the library, showing you how to install and deploy the OpenCV library to write effective computer vision applications following good programming practices. The techniques to process an image and its pixels using the data structures offered by the library are explained in detail. You will learn how to build and manipulate an image histogram; how to detect lines and contours. You will be introduced to the concept of mathematical morphology and image filtering. The detection and use of interest points in computer vision is presented with applications for image matching and object recognition. Techniques to achieve camera calibration and 3D reconstruction are presented.
+
+OpenCV 2 Computer Vision Application Programming Cookbook is your guide to the development of computer vision applications. It is a comprehensive reference that exposes you to computer vision concepts illustrated with extensive examples.
+
+A step-by-step guide to computer vision programming using the C++ Interface of the OpenCV 2 library including advanced concepts
+
+What you will learn from this book :
+
+Create advanced computer vision applications using sound object-oriented programming practices
+
+Iterate over an image to process each of its pixels
+
+Enhance an image or interesting parts of an image using histograms
+
+Use mathematical morphology to process binary images and to segment images into homogenous regions
+
+Filter images by modifying their frequency content
+
+Detect the lines, contours , and objects contained in an image
+
+Apply different interest point operators in order to characterize an image content
+
+Exploit the image geometry in order to match different views of a pictured scene
+
+Calibrate the camera from different image observations
+
+Reconstruct selected image elements in 3D
+

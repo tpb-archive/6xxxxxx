@@ -1,0 +1,46 @@
+Introduction
+
+Visual Basic has been around for a long time and has been growing in popularity all the while. The word "Basic" in Visual Basic may be misleading. You might think that all serious Windows applications should be written using the C/C++ compiler and SDK for Windows. However, this is not the case. You can write advanced Windows programs in a fraction of the time it takes to write the same programs using other programming languages.
+What is it?
+
+Visual Basic as the name implies is a Windows programming language. With Visual Basic, if you want to create a button, a list box or text box etc. you simply select the item from the tool box and place it on a form. Items placed on the form have their underlying code written into the program along with their properties. Each item placed on the form can have its properties adjusted at design time. Items can also have most of their properties adjusted at run time. A simple program can be created with very little additional code.
+The Visual Basic environment
+
+Above: The drag and drop interface allows you to create simple programs easily.
+
+Perhaps one of the most powerful features of Visual Basic is its capability to incorporate Dynamic Link Libraries (DLLs). If the programmer wants to develop a program using a feature not available from the tool box, then the use of a DLL will almost certainly provide the answer.
+
+Visual Basic 5 comes in three flavours: the Standard or Learning edition, the Professional edition and the Enterprise edition. The Professional edition contains everything in the Learning edition plus additional ActiveX controls including Internet controls and Crystal Report Writer. The Enterprise edition contains everything in the Professional edition plus the Automation Manager, the Component Manager, database management tools and Microsoft Visual SourceSafe project orientated version control system. It should be noted that Visual Basic 5 is a 32-bit only program and will not run in Windows 3.1. It will only run in Windows 95 and Windows NT or greater.
+
+When you have finished your masterpiece it can be compiled into an executable program or EXE. This EXE can then be distributed, however, it requires quite a few additional files distributing with it. It needs the Run Time DLL for Visual Basic 5 and also several other support DLL files. There is a program provided within Visual Basic called a Set-up Wizard which will guide the user through the process of preparing the program for distribution.
+The Setup Wizard
+
+Above: The Setup Wizard automatically creates an installation routine for your project.
+What's new?
+
+Visual Basic 5 has a native code compiler, which they claim allows programs to run up to 20 times faster than they would with previous versions of Visual Basic. You can select between optimisation for speed or size.
+
+ActiveX Control Creation is included in the Professional and Enterprise editions. An ActiveX Control is a reusable component. It can also be used in other environments such as Visual C++, Visual J++ and any ActiveX-aware product.
+The Multimedia Control
+
+Above: ActiveX controls add extra functionality to your projects, such as this multimedia player.
+
+Visual Basic 5 includes Internet capabilities to let you create powerful applications hosted by standard browsers, going far beyond the limitations of standard HTML documents.
+
+In addition Visual Basic 5 includes several Wizards to assist in the creation of the following:
+
+    ActiveX Control Creation Wizard.
+    ActiveX Document Migration Wizard.
+    Application Wizard.
+    Data form Wizard.
+    Property Page Wizard.
+    Set-up Wizard.
+    There is even a Wizard Manager to help in creating your own wizard . 
+
+Conclusion
+
+Visual Basic 5 is a powerful easy to learn language. If you have done any programming in any other language, you will find Visual Basic an easy language to adapt to. Even if you have had no previous experience in programming, I would recommend Visual Basic 5 Standard Edition as a starting point.
+
+Visual Basic 5 is a very powerful professional programming language which is used by very many organisations. You need only look at the situations vacant section of any computing magazine to see advertisements for Visual Basic programmers.
+
+If youï¿½ want to produce professional code quickly then Visual Basic 5 Professional or Enterprise editions are eminently suitable.

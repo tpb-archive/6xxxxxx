@@ -1,0 +1,197 @@
+Exact Audio Copy V1.0 beta 1 from 15. November 2010
+
+EAC extraction logfile from 14. June 2011, 17:34
+
+Vetusta Morla / Mapas
+
+Used drive  : TSSTcorpCDDVDW SN-S083F   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : No
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : Yes
+Command line compressor         : D:\\Programas\\Editores Sonido\\EAC\\FLAC\\FLAC.EXE
+Additional command line options : -6 -V -T \"ARTIST=%a\" -T \"TITLE=%t\" -T \"ALBUM=%g\" -T \"DATE=%y\" -T \"TRACKNUMBER=%n\" -T \"GENRE=%m\" -T \"COMMENT=%e\" %j--picture=\"%i\"%j %s -o %d
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  6:27.71 |         0    |    29095   
+        2  |  6:27.71 |  4:12.45 |     29096    |    48040   
+        3  | 10:40.41 |  3:07.49 |     48041    |    62114   
+        4  | 13:48.15 |  4:16.59 |     62115    |    81373   
+        5  | 18:04.74 |  3:47.05 |     81374    |    98403   
+        6  | 21:52.04 |  3:05.41 |     98404    |   112319   
+        7  | 24:57.45 |  3:47.41 |    112320    |   129385   
+        8  | 28:45.11 |  4:02.41 |    129386    |   147576   
+        9  | 32:47.52 |  3:51.56 |    147577    |   164957   
+       10  | 36:39.33 |  3:53.27 |    164958    |   182459   
+       11  | 40:32.60 |  4:35.27 |    182460    |   203111   
+       12  | 45:08.12 |  4:42.08 |    203112    |   224269   
+
+
+Track  1
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 01 - Track01.wav
+
+     Peak level 100.0 %
+     Extraction speed 3.0 X
+     Track quality 100.0 %
+     Test CRC D3F3EF7A
+     Copy CRC D3F3EF7A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 02 - Track02.wav
+
+     Peak level 100.0 %
+     Extraction speed 3.3 X
+     Track quality 100.0 %
+     Test CRC 525DF07C
+     Copy CRC 525DF07C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 03 - Track03.wav
+
+     Peak level 100.0 %
+     Extraction speed 3.6 X
+     Track quality 100.0 %
+     Test CRC 73DCC862
+     Copy CRC 73DCC862
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 04 - Track04.wav
+
+     Peak level 100.0 %
+     Extraction speed 3.9 X
+     Track quality 100.0 %
+     Test CRC D499E624
+     Copy CRC D499E624
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 05 - Track05.wav
+
+     Peak level 100.0 %
+     Extraction speed 4.1 X
+     Track quality 100.0 %
+     Test CRC 852EF389
+     Copy CRC 852EF389
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 06 - Track06.wav
+
+     Peak level 100.0 %
+     Extraction speed 4.2 X
+     Track quality 100.0 %
+     Test CRC D318B2C4
+     Copy CRC D318B2C4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 07 - Track07.wav
+
+     Peak level 100.0 %
+     Extraction speed 4.5 X
+     Track quality 100.0 %
+     Test CRC 36F75AC3
+     Copy CRC 36F75AC3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 08 - Track08.wav
+
+     Peak level 100.0 %
+     Extraction speed 4.6 X
+     Track quality 100.0 %
+     Test CRC D45B2F58
+     Copy CRC D45B2F58
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 09 - Track09.wav
+
+     Peak level 100.0 %
+     Extraction speed 4.5 X
+     Track quality 99.9 %
+     Test CRC 8DD22958
+     Copy CRC 8DD22958
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 10 - Track10.wav
+
+     Peak level 100.0 %
+     Extraction speed 5.0 X
+     Track quality 100.0 %
+     Test CRC C883D615
+     Copy CRC C883D615
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 11 - Track11.wav
+
+     Peak level 100.0 %
+     Extraction speed 5.2 X
+     Track quality 100.0 %
+     Test CRC E068EE5F
+     Copy CRC E068EE5F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\\Users\\David\\Desktop\\Vetusta Morla\\Mapas\\Vetusta Morla - 12 - Track12.wav
+
+     Peak level 100.0 %
+     Extraction speed 5.4 X
+     Track quality 100.0 %
+     Test CRC 4F94B844
+     Copy CRC 4F94B844
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

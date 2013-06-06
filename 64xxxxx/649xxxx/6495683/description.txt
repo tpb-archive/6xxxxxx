@@ -1,0 +1,16 @@
+Mark J. van der Laan, "Targeted Learning: Causal Inference for Observational and Experimental Data (Springer Series in Statistics)"
+Publisher: S***ger | 2011 | ISBN: 1441997814 | PDF | 697 pages | 5.3 MB
+
+Establishes causal inference methodology that incorporates the benefits of machine learning with statistical inference
+Presentation combines accessibility with the method's rigorous grounding in statistical theory
+Demonstrates targeted learning in epidemiological, medical, and genomic experimental and observational studies that include informative dropout, missingness, time-dependent confounding, and case-control sampling
+
+The statistics profession is at a unique point in history. The need for valid statistical tools is greater than ever; data sets are massive, often measuring hundreds of thousands of measurements for a single subject. The field is ready to move towards clear objective benchmarks under which tools can be evaluated. Targeted learning allows (1) the full generalization and utilization of cross-validation as an estimator selection tool so that the subjective choices made by humans are now made by the machine, and (2) targeting the fitting of the probability distribution of the data toward the target parameter representing the scientific question of interest.
+
+This book is aimed at both statisticians and applied researchers interested in causal inference and general effect estimation for observational and experimental data. Part I is an accessible introduction to super learning and the targeted maximum likelihood estimator, including related concepts necessary to understand and apply these methods. Parts II-IX handle complex data structures and topics applied researchers will immediately recognize from their own research, including time-to-event outcomes, direct and indirect effects, positivity violations, case-control studies, censored data, longitudinal data, and genomic studies.
+
+"Targeted Learning, by Mark J. van der Laan and Sherri Rose, fills a much needed gap in statistical and causal inference. It protects us from wasting computational, analytical, and data resources on irrelevant aspects of a problem and teaches us how to focus on what is relevant - answering questions that researchers truly care about."
+-Judea Pearl, Computer Science Department, University of California, Los Angeles
+
+"In summary, this book should be on the shelf of every investigator who conducts observational research and randomized controlled trials. The concepts and methodology are foundational for causal inference and at the same time stay true to what the data at hand can say about the questions that motivate their collection."
+-Ira B. Tager, Division of Epidemiology, University of California, Berkeley

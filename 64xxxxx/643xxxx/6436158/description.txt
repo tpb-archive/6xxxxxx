@@ -1,0 +1,56 @@
+MBR Regenerator v3.9.1 - The Professional Activation Fix Tool
+
+MBR Regenerator is a tool to solve several problems with activation
+Multiple loaders, and patches on the system, prevent programs like loader work, leaving messages, not the original Windows constantly appearing
+And this program does not replace the function of a loader, or similar, it is not an activator, only clean the system for the installation of a new activation method ...
+
+- Key Features
+-> The Master Boot Record (MBR), is restored to its original state, preventing any loader inject slic and cause conflicts with other programs, preventing the proper activation
+-> The system is reset, a new trial key compatible is installed, then return untouched on the system32
+-> Loaders who inject SLIC will be permanently deleted, allowing a clean install of another loader (note with Slic Toolkit)
+-> Archives WAT/KB971033 essential activation files, are restored completely to the original state, if you can not uninstall other methods of activations already installed
+
+- Engineer Map
+Repairs and configures Windows activation services;
+Repairs .vbs file associations;
+Recovers and repairs main core windows files;
+Fully clean the hosts file, preserving entries already saved;
+Rebuild MBR Boot Sector;
+Rebuild system activation;
+Installation of a trial key;
+Activate's the trial key;
+The system is reseted to 30 days;
+Fixes the bcdedit black desktop;
+Fixes core permissions;
+Fixes KB971033 services before reboot, if installed;
+Runs the system file checker, it may take several minutes;
+The system is rebooted clean, untouched and trial.
+
+- Software Compatibility
+All Popular Win7 Loaders
+MBR Regenerator has been fixed the system
+MBR Boot code has been rebuilded, the injection is disabled
+Returned to trial
+Succeeded in validation
+HAL 7600 v1.2, RemoveWAT v2.2.6, DeathWAT v3.2.1 - Win7 SP1 x86 / x64
+MBR Regenerator has been fixed the system
+Returned to trial
+Succeeded in validation
+
+- Requirements
+-> Administrator account on windows
+-> Needed .NET Framework v3.5 installed
+-> Don't uninstall the programs that have impaired activation
+-> Compatible with any version of Windows 7
+
+*Note: For software based by driver injection, uninstall the application itself!
+
+- Release log version
+v3.9.1
+- Added Force detect module for Uninstall all Slic Driver Injection if installed
+- Added Tokens/Cert repair module, for fix activation errors
+- Added SFC Freeze module, If you lose power / reset, while sfc is running, no files are corrupted, and your system becomes partially regenerated, is recommended to run again on next boot
+- Added more bcdedit commands, Thanks for dre022392
+- Added auto-reset on next reboot, after regeneration, ingnore non genuine messages
+- Refined GUI, the Close button is hidden when the application is working
+

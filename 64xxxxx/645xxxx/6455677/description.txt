@@ -1,0 +1,16 @@
+FR ONLY
+0 est un systÃ¨me GNU/Linux francophone complet pour systÃ¨mes x86 64 bits uniquement, construit depuis rien et pleinement compatible 32 bits (ou Â« multilib Â»).
+0 tente d'Ãªtre un systÃ¨me francisÃ© autodidactique : de nombreux fichiers de configuration sont traduits en franÃ§ais et contiennent des commentaires sur leur utilisation ; l'installateur quant Ã  lui demande d'utiliser plusieurs consoles pour renseigner le systÃ¨me, le tout en ligne de commande uniquement, mais de faÃ§on assistÃ©e.
+Le systÃ¨me est pensÃ© d'abord pour un poste de travail et pour le multimÃ©dia : le noyau, par exemple, est Â« prÃ©emptif Â» et on trouve de nombreuses bibliothÃ¨ques et codecs pour l'audio et le multimÃ©dia.
+L'environnement graphique par dÃ©faut est XFCE.
+Le systÃ¨me se veut multilib : les architectures i686 et x86_64 cohabitent. On peut compiler et exÃ©cuter des logiciels 32 bits et 64 bits sur le mÃªme systÃ¨me. On trouve par exemple dans 0 deux environnements Java par exemple et toute bibliothÃ¨que 64 bits a son Ã©quivalent en 32 bits afin de pouvoir s'en servir pour compiler un logiciel compatible uniquement 32 bits.
+Les processus de compilation et d'installation sont dÃ©crits dans des Â« recettes Â» (de simples scripts en Bash) afin de pouvoir reconstruire chaque paquet facilement.
+Le systÃ¨me s'initialise Â« Ã  la BSD Â», comme Slackware entre autres, tout en restant compatible avec System V. Les fichiers service et les scripts d'initialisation se trouvent sous /etc/rc.d et des liens symboliques assurent la compatibilitÃ© entre les deux systÃ¨mes.
+Historiquement, ce projet n'Ã©tait Ã  la base qu'une traduction intÃ©grale en franÃ§ais de la distribution Slackware, qui s'est avÃ©rÃ©e dÃ©licate sans toucher profondÃ©ment Ã  l'intÃ©gritÃ© du systÃ¨me. J'ai alors crÃ©Ã© mon propre systÃ¨me puis, aprÃ¨s avoir touchÃ© Ã  la compilation croisÃ©e, mon systÃ¨me est passÃ© multilib. J'ai alors dÃ©cidÃ© que tout ce temps Ã  travailler seul devait Ãªtre dÃ©pensÃ© pour un projet qui soit public et libre. 
+ 
+http://0.tuxfamily.org/doku.php 
+http://distrowatch.com/table.php?distribution=0linux
+License : http://en.wikipedia.org/wiki/CeCILL
+
+md5sum : f40db6e2958a6a2c2d5a1da03b171f63  0linux-beta2-DVD.iso
+sha1sum : cab36d2450d639dc072c383591f662af64aca22d  0linux-beta2-DVD.iso

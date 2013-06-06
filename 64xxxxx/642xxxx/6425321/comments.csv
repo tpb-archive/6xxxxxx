@@ -1,0 +1,11 @@
+User Type,Username,Date,Text
+[T],chuckie6,2011-05-29T14:01Z,"Thanks for the upload.
+
+Works on a 10.4 PPC but update schedule seems to be set at every hour or so which is a nuisance as you cannot change it."
+[T],chuckie6,2011-05-30T18:01Z,"If anyone else has the update problem type the following in Terminal.
+
+sudo symsched -d all
+
+Followed by a reboot.
+
+This should disable updates but you will have to remember to run it manually."

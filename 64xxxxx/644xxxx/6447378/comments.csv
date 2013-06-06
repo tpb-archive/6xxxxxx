@@ -1,0 +1,77 @@
+User Type,Username,Date,Text
+[T],Tyr3ll,2011-06-06T18:09Z,"same version 8.86RC2 is avalaible also to Gigabyte website driver support for their respective products only as you can see below ;)
+however you can see that the list of supported products is seriously shorter.
+Forcibly ! of course !
+But that stay a good deal as well for Gigabyte models users...
+;-----------------------------------------------
+;----------1105250324-8.86-110512a-119746E-Gigabyte
+;-----------------------------------------------
+; ATI Display Information file : atiilhag.inf
+;
+; Installation INF for the ATI display driver.
+; Copyright(C) 1998-2006 ATI Technologies Inc.
+;-----------------------------------------------
+; PX - PX Proxy mode
+; PR - PX Proxy Ready
+
+[Version]
+Signature=""$Windows NT$""
+Provider=%ATI%
+ClassGUID={4D36E968-E325-11CE-BFC1-08002BE10318}
+Class=Display
+DriverVer=05/12/2011, 8.860.0.0000
+;;LayoutFile=layout.inf
+CatalogFile=CL119746.CAT
+
+[SignatureAttributes]
+atiumdva.dll=SignatureAttributes.PETrust
+atiumdag.dll=SignatureAttributes.PETrust
+
+[SignatureAttributes.PETrust]
+PETrust=true
+
+supported products :
+
+[Manufacturer]
+%ATI% = ATI.Mfg, NTx86.6.0
+
+[ATI.Mfg.NTx86.6.0]
+""AMD Radeon HD 6310 Graphics"" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9802&SUBSYS_D0001458
+""AMD Radeon HD 6320 series Graphics"" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9806&SUBSYS_D0001458
+""AMD Radeon HD 6370D"" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9642&SUBSYS_D0001458
+""AMD Radeon HD 6410D"" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9644&SUBSYS_D0001458
+""AMD Radeon HD 6530D"" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_964A&SUBSYS_D0001458
+""AMD Radeon HD 6550D"" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9640&SUBSYS_D0001458
+""AMD Radeon(TM) HD 6380G"" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9643&SUBSYS_D0001458
+""AMD Radeon(TM) HD 6480G"" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9648&SUBSYS_D0001458
+""AMD Radeon(TM) HD 6520G"" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9647&SUBSYS_D0001458
+""AMD Radeon(TM) HD 6620G"" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9641&SUBSYS_D0001458
+""SUMO 964E"" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_964E&SUBSYS_D0001458
+""SUMO 964F"" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_964F&SUBSYS_D0001458
+""AMD Radeon HD 6300 series Graphics"" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9802
+""AMD Radeon HD 6300 series Graphics "" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9806
+""AMD Radeon HD 6370D "" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9642
+""AMD Radeon HD 6400 Series"" = ati2mtag_NI, PCI\VEN_1002&DEV_6770
+""AMD Radeon HD 6410D  "" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9644
+""AMD Radeon HD 6450"" = ati2mtag_NI, PCI\VEN_1002&DEV_6779
+""AMD Radeon HD 6500 Series"" = ati2mtag_NI, PCI\VEN_1002&DEV_6759
+""AMD Radeon HD 6530D "" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_964A
+""AMD Radeon HD 6550D "" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9640
+""AMD Radeon HD 6600 Series"" = ati2mtag_NI, PCI\VEN_1002&DEV_6758
+""AMD Radeon HD 6600A Series"" = ati2mtag_NI, PCI\VEN_1002&DEV_6750
+""AMD Radeon(TM) HD 6380G "" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9643
+""AMD Radeon(TM) HD 6480G "" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9648
+""AMD Radeon(TM) HD 6520G "" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9647
+""AMD Radeon(TM) HD 6620G "" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9641
+""ATI Mobility Radeon HD 5570"" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68C7
+""ATI Radeon 3000 Graphics"" = ati2mtag_RS780, PCI\VEN_1002&DEV_9616
+""ATI Radeon 3100 Graphics"" = ati2mtag_RS780, PCI\VEN_1002&DEV_9611
+""ATI Radeon HD 3200 Graphics"" = ati2mtag_RS780, PCI\VEN_1002&DEV_9610
+""ATI Radeon HD 3200 Graphics "" = ati2mtag_RS780, PCI\VEN_1002&DEV_9615
+""ATI Radeon HD 3300 Graphics"" = ati2mtag_RS780D, PCI\VEN_1002&DEV_9614
+""ATI Radeon HD 4200"" = ati2mtag_RS880, PCI\VEN_1002&DEV_9710
+""ATI Radeon HD 4250"" = ati2mtag_RS880, PCI\VEN_1002&DEV_9715
+""ATI Radeon HD 4290"" = ati2mtag_RS880, PCI\VEN_1002&DEV_9714
+""ATI Radeon HD 5450"" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9
+""SUMO 964E "" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_964E
+""SUMO 964F "" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_96"

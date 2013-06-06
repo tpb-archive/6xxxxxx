@@ -1,0 +1,116 @@
+B L I Z Z A R D
+
+South River Titan FTP Server
+Enterprise Edition v8.40.1302 x64
+release date: 2011-06-06      supplier: TEAM BLZ
+disks: 12              cracker: TEAM BLZ
+protection: Lic/Online Auth      os: XP2k3Vista2k8Win7
+
+RELEASE INFO
+
+Titan FTP Server is an enterprise class server product with
+unparalleled performance and scalability. Titan FTP Server
+software provides an advanced feature set, giving you flexibility
+and control. An intuitive administrative interface makes Titan
+FTP Server easy to set up and maintain.
+
+Security and Access Control
+
+- Securing the important files on your FTP server is a key issue.
+Titan provides security and access control features such as:
+
+SFTP or FTP over SSL for secure file transfers
+S/Key MD4 and MD5 password encryption
+Enable or disable anonymous access
+Permit or deny access based on IP address
+Block FXP and PASV mode transfers.
+
+Full - Featured Events Handler
+
+- Trigger customized actions based on specific FTP Server events
+and conditions. Event Handlers allow the administrator to
+create rules that will respond dynamically to the current
+server state
+
+Send an e-mail every time the server is started
+Create a custom log file for each user account
+Offload a file from the server immediately after it has been
+uploaded
+Notify the administrator of suspicious server activity.
+
+For Large Enterprises
+
+- Titan FTP Server Enterprise offers unlimited user accounts and
+the controls to appropriately manage them
+
+Bandwidth throttling and maximum transfer speed to customize
+the bandwidth by user or server
+Regulate the number of connections from a given IP
+Block users and IPs after a configurable number of invalid
+commands.
+
+Changes in 8.40.1302..
+
+Added: The SMTP Email Tab now supports the ability to add a
+special custom port instead of the default SMTP Port.
+Added: Secure SSL based SMTP Email ability.
+Added: Ability to handle chained CA certificates, specifically
+when Entrust hands down a certificate signed by an
+intermediate CA.
+Fixed: Downloading .xlsx files resulted in the browser saving
+the file as a .zip file.
+Fixed: Database fixes for updating paths when migrating data
+between user directories.
+Fixed: Database problem which could fail to create the ODBC
+DSN Properly when using SQL Authentication.
+Fixed: Issue in the Admin application which could allow a
+server to be deleted while it was running.
+Fixed: Various issues in the Admin Application which could
+cause the user's parameters to be reloaded too
+frequently.
+Fixed: Issue with the Virtual Folder Wizard failing to
+properly enumerate the Network resources.
+Fixed: Added better support for renaming files over a
+UNC via SMB.
+Fixed: Problem with the Session Statistics not showing up
+properly in the Activity window in the Admin
+application.
+Fixed: Problem with the %VARIABLES% parsing in the Event
+Manager which would fail to parse the variable
+properly if it was in lower case or mixed case.
+
+INSTALL INFO
+
+Run TITANFTP648401302EN.EXE and follow instructions.
+
+Run B-TFTPSE8401302X64-PATCH.EXE to eliminate the online
+authorization check from the activation procedure.
+
+Product Registration Codes...
+
+Titan FTP Server    : 56-XXXXXX-XXXXXXXX-XXXXXX-XXXX
+Web Interface Module : 56-XXXXXX-XXXXXXXX-XXXXXX-XXXX
+
+GREETINGS
+
+greets fly out to all groups which actively and courageously
+work on building better release conditions and
+thus keep the scene up.
+
+special greets to our friends in:
+
+acme - air - digerati - eclipse - f4cg - orion
+paradox - rebels - shock - skidrow - ssg
+tbe - tft - tmg - unleashed - zwt
+
+CONTACT
+
+We are a closed group, if we need you then we will contact you
+
+Software worth using is worth buying.. keep this in mind
+
+nfo updated on
+2011.03.27
+
+INFOFILE DRAWN BY
+H7/ACCESSiON

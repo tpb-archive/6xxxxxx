@@ -1,0 +1,387 @@
+Filename,Size,Unit
+Dictionaries/PasswordsPro.dic,29.5,M
+Dictionaries/InsidePro (Mini).dic,1.14,M
+Modules/API/ReadMe.chm,18.07,K
+Modules/API/Modules.h,879,B
+Modules/Whirlpool(Double).dll,23,K
+Modules/Whirlpool(HMAC).dll,22,K
+Modules/Whirlpool.dll,21.5,K
+Modules/Snefru-128(HMAC).dll,20.5,K
+Modules/Snefru-256(HMAC).dll,20.5,K
+Modules/Snefru-128.dll,20,K
+Modules/Snefru-256.dll,20,K
+Modules/DES(Unix).dll,19.5,K
+Modules/SHA-512(Unix).dll,16.5,K
+Modules/SHA-512(Drupal).dll,15,K
+Modules/SHA-384(Django).dll,14.5,K
+Modules/Tiger-128(HMAC).dll,14,K
+Modules/Tiger-192(HMAC).dll,14,K
+Modules/Tiger-160(HMAC).dll,14,K
+Modules/SHA-384(HMAC).dll,14,K
+Modules/SHA-512(HMAC).dll,14,K
+Modules/Tiger-160.dll,13.5,K
+Modules/SHA-384.dll,13.5,K
+Modules/Tiger-128.dll,13.5,K
+Modules/SHA-512.dll,13.5,K
+Modules/Tiger-192.dll,13.5,K
+Modules/SHA-256(md5($pass)).dll,12,K
+Modules/SHA-256(sha1($pass)).dll,12,K
+Modules/SHA-256(Unix).dll,11.5,K
+Modules/Blowfish(OpenBSD).dll,11.5,K
+Modules/DES(Oracle).dll,11,K
+Modules/MD5(Unix).dll,10.5,K
+Modules/MD5(APR).dll,10.5,K
+Modules/RipeMD-320(HMAC).dll,10,K
+Modules/sha1(md5($pass).$salt).dll,9.5,K
+Modules/SHA-256(Django).dll,9.5,K
+Modules/sha1($salt.md5($pass).$salt).dll,9.5,K
+Modules/Skein-1024(512).dll,9.5,K
+Modules/Skein-1024.dll,9.5,K
+Modules/sha1($salt.md5($pass)).dll,9.5,K
+Modules/Skein-1024(384).dll,9.5,K
+Modules/sha1(md5($pass).$userdate.$salt).dll,9.5,K
+Modules/RipeMD-320.dll,9.5,K
+Modules/SHA-256(HMAC).dll,9,K
+Modules/SHA-224(HMAC).dll,9,K
+Modules/SHA-256(PasswordSafe).dll,8.5,K
+Modules/SHA-256.dll,8.5,K
+Modules/SHA-256($salt.$pass).dll,8.5,K
+Modules/SHA-256($pass.$salt).dll,8.5,K
+Modules/SHA-224.dll,8.5,K
+Modules/md5(md5($pass).md5($salt)).dll,8.5,K
+Modules/md5(md5($salt).md5($pass)).dll,8.5,K
+Modules/RipeMD-160(HMAC).dll,8.5,K
+Modules/RipeMD-160.dll,8,K
+Modules/md5(sha1(md5(sha1($pass)))).dll,8,K
+Modules/SSHA-1.dll,8,K
+Modules/md5(sha1($pass)).dll,7.5,K
+Modules/MSSQL(2000).dll,7.5,K
+Modules/RipeMD-256(HMAC).dll,7.5,K
+Modules/sha1(md5($pass)).dll,7.5,K
+Modules/Blowfish(Eggdrop).dll,7.5,K
+Modules/'=='.md5(md5(md5($pass).md5($pass).md5($pass).md5($pass))).dll,7,K
+Modules/MD5(phpBB3).dll,7,K
+Modules/RipeMD-256.dll,7,K
+Modules/MD5(Wordpress).dll,7,K
+Modules/MSSQL(2005).dll,7,K
+Modules/SHA-1(Django).dll,7,K
+Modules/RipeMD-128(HMAC).dll,6.5,K
+Modules/HAS-160.dll,6.5,K
+Modules/Haval-224(HMAC).dll,6,K
+Modules/Haval-192(HMAC).dll,6,K
+Modules/Haval-128(HMAC).dll,6,K
+Modules/Haval-160(HMAC).dll,6,K
+Modules/Haval-256(HMAC).dll,6,K
+Modules/RipeMD-128.dll,6,K
+Modules/sha1(sha1(sha1($pass))).dll,6,K
+Modules/md5($username.0.$pass).dll,6,K
+Modules/md5($pass.$salt).dll,6,K
+Modules/SHA-1(MaNGOS2).dll,6,K
+Modules/md5($salt.$pass).dll,6,K
+Modules/SHA-1(MaNGOS).dll,6,K
+Modules/md5($salt.$pass.$salt).dll,6,K
+Modules/sha1($pass.$salt).dll,6,K
+Modules/md5($salt.$pass.$username).dll,6,K
+Modules/sha1($salt.$pass).dll,6,K
+Modules/md5($salt.'-'.md5($pass)).dll,6,K
+Modules/sha1($salt.sha1($pass)).dll,6,K
+Modules/md5($salt.md5($pass)).dll,6,K
+Modules/sha1($salt.sha1($salt.sha1($pass))).dll,6,K
+Modules/md5($salt.md5($pass).$salt).dll,6,K
+Modules/sha1($username.$pass).dll,6,K
+Modules/md5($salt.md5($pass.$salt)).dll,6,K
+Modules/sha1($username.$pass.$salt).dll,6,K
+Modules/md5($salt.md5($salt.$pass)).dll,6,K
+Modules/md5(strtoupper(md5($pass))).dll,6,K
+Modules/md5($salt.md5(md5($pass).$salt)).dll,6,K
+Modules/sha1(sha1($pass)).dll,6,K
+Modules/md5(md5($username.$pass).$salt).dll,6,K
+Modules/sha1(sha1($pass).$salt).dll,6,K
+Modules/md5($username.LF.$pass).dll,6,K
+"Modules/sha1(sha1($pass).substr($pass,0,3)).dll",6,K
+Modules/md5($username.md5($pass).$salt).dll,6,K
+Modules/Skein-512.dll,6,K
+Modules/sha1(sha1($salt.$pass)).dll,6,K
+Modules/Skein-512(384).dll,6,K
+Modules/MD5(Middle).dll,6,K
+Modules/Skein-512(256).dll,6,K
+Modules/Skein-512(128).dll,6,K
+Modules/Skein-512(224).dll,6,K
+Modules/md5(md5(md5(md5(md5($pass))))).dll,6,K
+Modules/Skein-512(160).dll,6,K
+Modules/md5(md5($pass)).dll,6,K
+Modules/md5(md5($pass).$salt).dll,6,K
+Modules/sha1(strtolower($username).$pass).dll,6,K
+Modules/md5(md5(md5(md5($pass)))).dll,6,K
+Modules/md5(md5(md5($pass))).dll,6,K
+Modules/md5(md5($salt).$pass).dll,6,K
+Modules/MD5(HMAC(Wordpress)).dll,5.5,K
+Modules/SHA-1.dll,5.5,K
+Modules/Haval-128.dll,5.5,K
+Modules/Haval-256.dll,5.5,K
+Modules/MD5.dll,5.5,K
+Modules/Haval-160.dll,5.5,K
+Modules/Haval-224.dll,5.5,K
+Modules/Haval-192.dll,5.5,K
+Modules/MySQL5.dll,5.5,K
+Modules/MD2(HMAC).dll,5,K
+Modules/GOST R 34.11-94.dll,5,K
+Modules/NTLM.dll,5,K
+Modules/MD4.dll,5,K
+Modules/Domain Cached Credentials.dll,5,K
+Modules/Skein-1024.txt,4.68,K
+Modules/CRC-64.dll,4.5,K
+Modules/Skein-256.dll,4.5,K
+Modules/MD2.dll,4.5,K
+Modules/MD5(HMAC).dll,4.5,K
+Modules/Skein-256(160).dll,4.5,K
+Modules/Skein-256(128).dll,4.5,K
+Modules/RAdmin v2.x.dll,4.5,K
+Modules/SHA-1(HMAC).dll,4.5,K
+Modules/Skein-256(224).dll,4.5,K
+Modules/MD4(HMAC).dll,4,K
+Modules/MD5(Cisco PIX).dll,4,K
+Modules/CRC-32.dll,3.5,K
+Modules/FCS-32.dll,3.5,K
+Modules/Ventrilo.dll,3.5,K
+Modules/CRC-32B.dll,3.5,K
+Modules/xsha1(strtolower($pass)).dll,3.5,K
+Modules/Whirlpool(Double).txt,3.37,K
+Modules/FCS-16.dll,3,K
+Modules/CRC-16.dll,3,K
+Modules/Whirlpool(HMAC).txt,2.63,K
+Modules/SHA-512(HMAC).txt,2.63,K
+Modules/SHA-512.txt,2.56,K
+Modules/Skein-512.txt,2.56,K
+Modules/Whirlpool.txt,2.56,K
+Modules/Skein-1024(512).txt,2.56,K
+Modules/MySQL.dll,2.5,K
+Modules/Fletcher-32.dll,2.5,K
+Modules/Adler-32.dll,2.5,K
+Modules/CRC-16-CCITT.dll,2.5,K
+Modules/Lineage II C4.dll,2.5,K
+Modules/GHash-32-5.dll,2.5,K
+Modules/FNV-32.dll,2.5,K
+Modules/ELF-32.dll,2.5,K
+Modules/GHash-32-3.dll,2.5,K
+Modules/XOR-32.dll,2.5,K
+Modules/SHA-384(Django).txt,2.29,K
+Modules/SHA-384(HMAC).txt,2.09,K
+Modules/SHA-512(Unix).txt,2.06,K
+Modules/Skein-1024(384).txt,2.03,K
+Modules/SHA-384.txt,2.03,K
+Modules/Skein-512(384).txt,2.03,K
+Modules/MSSQL(2000).txt,1.99,K
+Modules/RipeMD-320(HMAC).txt,1.83,K
+Modules/RipeMD-320.txt,1.76,K
+Modules/SHA-256(Django).txt,1.76,K
+Modules/SHA-256($pass.$salt).txt,1.63,K
+Modules/SHA-256($salt.$pass).txt,1.63,K
+Modules/Haval-256(HMAC).txt,1.56,K
+Modules/RipeMD-256(HMAC).txt,1.56,K
+Modules/SHA-256(HMAC).txt,1.56,K
+Modules/Snefru-256(HMAC).txt,1.56,K
+Modules/SHA-256(PasswordSafe).txt,1.56,K
+Modules/Skein-512(256).txt,1.5,K
+Modules/GOST R 34.11-94.txt,1.5,K
+Modules/Ventrilo.txt,1.5,K
+Modules/SHA-256.txt,1.5,K
+Modules/Haval-256.txt,1.5,K
+Modules/Snefru-256.txt,1.5,K
+Modules/Skein-256.txt,1.5,K
+Modules/SHA-256(sha1($pass)).txt,1.5,K
+Modules/RipeMD-256.txt,1.5,K
+Modules/SHA-256(md5($pass)).txt,1.5,K
+Modules/Blowfish(OpenBSD).txt,1.43,K
+Modules/Haval-224(HMAC).txt,1.43,K
+Modules/SHA-224(HMAC).txt,1.43,K
+Modules/sha1(md5($pass).$userdate.$salt).txt,1.4,K
+Modules/SHA-224.txt,1.36,K
+Modules/Skein-512(224).txt,1.36,K
+Modules/Skein-256(224).txt,1.36,K
+Modules/Haval-224.txt,1.36,K
+Modules/SHA-256(Unix).txt,1.35,K
+Modules/SHA-512(Drupal).txt,1.35,K
+Modules/MSSQL(2005).txt,1.33,K
+Modules/SHA-1(Django).txt,1.33,K
+Modules/Tiger-192(HMAC).txt,1.3,K
+Modules/Haval-192(HMAC).txt,1.3,K
+Modules/sha1($username.$pass.$salt).txt,1.25,K
+Modules/Tiger-192.txt,1.23,K
+Modules/Haval-192.txt,1.23,K
+Modules/sha1(strtolower($username).$pass).txt,1.18,K
+Modules/SHA-1(MaNGOS2).txt,1.18,K
+Modules/sha1($username.$pass).txt,1.18,K
+Modules/SHA-1(MaNGOS).txt,1.18,K
+Modules/sha1($salt.sha1($pass)).txt,1.17,K
+Modules/Tiger-160(HMAC).txt,1.16,K
+Modules/SHA-1(HMAC).txt,1.16,K
+Modules/RipeMD-160(HMAC).txt,1.16,K
+Modules/sha1($salt.$pass).txt,1.16,K
+Modules/sha1($pass.$salt).txt,1.16,K
+Modules/sha1($salt.sha1($salt.sha1($pass))).txt,1.16,K
+Modules/Haval-160(HMAC).txt,1.16,K
+Modules/sha1($salt.md5($pass).$salt).txt,1.16,K
+Modules/sha1($salt.md5($pass)).txt,1.16,K
+Modules/sha1(sha1($salt.$pass)).txt,1.16,K
+Modules/sha1(md5($pass).$salt).txt,1.16,K
+Modules/sha1(sha1($pass).$salt).txt,1.16,K
+Modules/md5($username.md5($pass).$salt).txt,1.11,K
+Modules/md5($salt.$pass.$username).txt,1.11,K
+Modules/md5(md5($username.$pass).$salt).txt,1.11,K
+Modules/sha1(sha1(sha1($pass))).txt,1.1,K
+Modules/sha1(sha1($pass)).txt,1.1,K
+Modules/xsha1(strtolower($pass)).txt,1.1,K
+Modules/MySQL5.txt,1.1,K
+Modules/Tiger-160.txt,1.1,K
+Modules/Haval-160.txt,1.1,K
+Modules/RipeMD-160.txt,1.1,K
+Modules/HAS-160.txt,1.1,K
+Modules/sha1(md5($pass)).txt,1.1,K
+"Modules/sha1(sha1($pass).substr($pass,0,3)).txt",1.1,K
+Modules/Skein-256(160).txt,1.1,K
+Modules/Skein-512(160).txt,1.1,K
+Modules/SHA-1.txt,1.1,K
+Modules/SSHA-1.txt,1.06,K
+Modules/md5($username.0.$pass).txt,1.05,K
+Modules/Domain Cached Credentials.txt,1.05,K
+Modules/md5($username.LF.$pass).txt,1.05,K
+Modules/MD5(APR).txt,1.05,K
+Modules/md5($salt.$pass.$salt).txt,1.03,K
+Modules/md5($salt.md5($pass.$salt)).txt,1.03,K
+Modules/MD2(HMAC).txt,1.03,K
+Modules/md5(md5($pass).$salt).txt,1.03,K
+Modules/md5($salt.'-'.md5($pass)).txt,1.03,K
+Modules/RipeMD-128(HMAC).txt,1.03,K
+Modules/md5($salt.md5($pass).$salt).txt,1.03,K
+Modules/md5($salt.md5($pass)).txt,1.03,K
+Modules/MD4(HMAC).txt,1.03,K
+Modules/md5(md5($salt).md5($pass)).txt,1.03,K
+Modules/Tiger-128(HMAC).txt,1.03,K
+Modules/md5($salt.md5($salt.$pass)).txt,1.03,K
+Modules/md5(md5($salt).$pass).txt,1.03,K
+Modules/Haval-128(HMAC).txt,1.03,K
+Modules/md5(md5($pass).md5($salt)).txt,1.03,K
+Modules/Snefru-128(HMAC).txt,1.03,K
+Modules/md5($salt.md5(md5($pass).$salt)).txt,1.03,K
+Modules/md5($pass.$salt).txt,1.03,K
+Modules/md5($salt.$pass).txt,1.03,K
+Modules/MD5(HMAC).txt,1.03,K
+Modules/MD5(HMAC(Wordpress)).txt,1.03,K
+Modules/MD5(Unix).txt,1022,B
+Modules/MD5(Wordpress).txt,1022,B
+Modules/'=='.md5(md5(md5($pass).md5($pass).md5($pass).md5($pass))).txt,1022,B
+Modules/Lineage II C4.txt,1022,B
+Modules/MD5(phpBB3).txt,1022,B
+Modules/md5(md5(md5($pass))).txt,988,B
+Modules/md5(md5(md5(md5(md5($pass))))).txt,988,B
+Modules/RipeMD-128.txt,988,B
+Modules/Snefru-128.txt,988,B
+Modules/md5(strtoupper(md5($pass))).txt,988,B
+Modules/Skein-512(128).txt,988,B
+Modules/md5(md5($pass)).txt,988,B
+Modules/MD5.txt,988,B
+Modules/RAdmin v2.x.txt,988,B
+Modules/MD4.txt,988,B
+Modules/NTLM.txt,988,B
+Modules/md5(md5(md5(md5($pass)))).txt,988,B
+Modules/Skein-256(128).txt,988,B
+Modules/md5(sha1($pass)).txt,988,B
+Modules/Haval-128.txt,988,B
+Modules/MD2.txt,988,B
+Modules/md5(sha1(md5(sha1($pass)))).txt,988,B
+Modules/Tiger-128.txt,988,B
+Modules/DES(Oracle).txt,767,B
+Modules/CRC-64.txt,716,B
+Modules/MySQL.txt,716,B
+Modules/MD5(Cisco PIX).txt,716,B
+Modules/MD5(Middle).txt,716,B
+Modules/Blowfish(Eggdrop).txt,665,B
+Modules/DES(Unix).txt,665,B
+Modules/ELF-32.txt,580,B
+Modules/CRC-32.txt,580,B
+Modules/CRC-32B.txt,580,B
+Modules/Adler-32.txt,580,B
+Modules/Fletcher-32.txt,580,B
+Modules/FNV-32.txt,580,B
+Modules/FCS-32.txt,580,B
+Modules/GHash-32-3.txt,580,B
+Modules/XOR-32.txt,580,B
+Modules/GHash-32-5.txt,580,B
+Modules/FCS-16.txt,512,B
+Modules/CRC-16.txt,512,B
+Modules/CRC-16-CCITT.txt,512,B
+Plugins/API/ReadMe.chm,26.29,K
+Plugins/API/Plugins.h,1.34,K
+Plugins/Dictionary Generator/DGenerator.ppl,76,K
+Plugins/Dictionary Generator/Russian.lng,3.86,K
+Plugins/Dictionary Generator/English.lng,3.84,K
+Plugins/Dictionary Generator/ReadMe(English).txt,685,B
+Plugins/Dictionary Generator/ReadMe(Russian).txt,665,B
+Plugins/Dictionary Generator/InterfaceHistory.txt,527,B
+Plugins/Hash Bruteforcing History/HBHistory.ppl,36,K
+Plugins/Hash Bruteforcing History/Russian.lng,842,B
+Plugins/Hash Bruteforcing History/English.lng,797,B
+Plugins/Hash Bruteforcing History/ReadMe(Russian).txt,643,B
+Plugins/Hash Bruteforcing History/ReadMe(English).txt,636,B
+Plugins/Hash Generator/HGenerator.ppl,36,K
+Plugins/Hash Generator/Russian.lng,704,B
+Plugins/Hash Generator/English.lng,690,B
+Plugins/Hash Generator/InterfaceHistory.txt,330,B
+Plugins/Hash Generator/ReadMe(English).txt,319,B
+Plugins/Hash Generator/ReadMe(Russian).txt,314,B
+Plugins/Hash Queue/HQueue.ppl,19.5,K
+Plugins/Hash Queue/English.lng,612,B
+Plugins/Hash Queue/Russian.lng,597,B
+Plugins/Hash Queue/ReadMe(English).txt,420,B
+Plugins/Hash Queue/ReadMe(Russian).txt,399,B
+Plugins/Hash Queue/HQueue.ini,57,B
+Plugins/Hidden Password Recovery/HPRecovery.ppl,16,K
+Plugins/Hidden Password Recovery/ReadMe(English).txt,539,B
+Plugins/Hidden Password Recovery/ReadMe(Russian).txt,500,B
+Plugins/Hidden Password Recovery/Russian.lng,309,B
+Plugins/Hidden Password Recovery/English.lng,290,B
+Plugins/NTLM Password Finder/NTLMPFinder.ppl,40,K
+Plugins/NTLM Password Finder/NTLM.dll,5,K
+Plugins/NTLM Password Finder/Russian.lng,634,B
+Plugins/NTLM Password Finder/English.lng,608,B
+Plugins/NTLM Password Finder/InterfaceHistory.txt,495,B
+Plugins/NTLM Password Finder/ReadMe(English).txt,205,B
+Plugins/NTLM Password Finder/ReadMe(Russian).txt,201,B
+Plugins/Password Generator/PGenerator.ppl,30.5,K
+Plugins/Password Generator/Russian.lng,1.14,K
+Plugins/Password Generator/English.lng,1.12,K
+Plugins/Password Generator/ReadMe(Russian).txt,458,B
+Plugins/Password Generator/ReadMe(English).txt,457,B
+Plugins/Password Generator/InterfaceHistory.txt,164,B
+Plugins/Password Sender/PSender.ppl,40,K
+Plugins/Password Sender/Russian.lng,662,B
+Plugins/Password Sender/English.lng,630,B
+Plugins/Password Sender/ReadMe(English).txt,361,B
+Plugins/Password Sender/ReadMe(Russian).txt,360,B
+Plugins/SQL Dump Parser/SQLDParser.ppl,29,K
+Plugins/SQL Dump Parser/Russian.lng,1.28,K
+Plugins/SQL Dump Parser/English.lng,1.21,K
+Plugins/SQL Dump Parser/SQLDParser.ini,375,B
+Plugins/SQL Dump Parser/InterfaceHistory.txt,162,B
+Plugins/SQL Dump Parser/ReadMe(Russian).txt,124,B
+Plugins/SQL Dump Parser/ReadMe(English).txt,114,B
+Plugins/Text Converter/TConverter.ppl,22.5,K
+Plugins/Text Converter/Russian.lng,520,B
+Plugins/Text Converter/English.lng,479,B
+Plugins/Text Converter/ReadMe(English).txt,407,B
+Plugins/Text Converter/ReadMe(Russian).txt,389,B
+Plugins/Text Converter/InterfaceHistory.txt,328,B
+mfc71.dll,1.01,M
+msvcp71.dll,488,K
+PasswordsPro.exe,356.5,K
+msvcr71.dll,340,K
+PasswordsPro.chm,47.55,K
+Rules.txt,27.42,K
+PasswordsPro.ini,5.37,K
+Combinations.txt,3.33,K
+Russian.kbt,1.89,K
+Charset.txt,1.83,K
+InterfaceHistory.txt,1.1,K
+Descript.ion,380,B
+Torrent downloaded from AhaShare.com.txt,59,B

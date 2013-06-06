@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,pryingeyes,2011-06-24T10:12Z,"Your patcher doesn't run and there is no read.me file, so the entire download is worthless...but other than that, great job!"
+,DeeCeecook,2011-06-25T16:19Z,"No, If your right click on patcher, then click ""show contents of package, it will show the readme!"
+,pryingeyes,2011-06-26T01:05Z,"How utterly moronic. Burying a read-me file inside the hidden contents of an app is absurd. And regardless, and more importantly -- your patcher app does not run. Whatever silly thing you've constructed may work on your machine, but it doesn't run on the majority of intel Macs. So again: what a failed mess, now more than ever, given your dumb decision to hide the ""vital"" information (that actually isn't vital given that the patcher doesn't run.) You would really be wise to stop referring to users here as lazy and stupid (both of which are your words) when clearly, it's you who doesn't have a clue."
+,TGDr-aka-RG,2011-07-04T14:14Z,"Easy guys!
+@pryingeyes:  The patcher does run if you open it in AppleScript Editor - you may need to change the path data to suit where you've put the App...
+
+I personally feel there's far to much abuse and general ungratefulness on TPB - after all, everyone's only trying to help each other!"
+,Verssesli,2011-08-27T04:43Z,"I totally agree with TGDr-aka-RG!
+Copy this code and change ""You're username here"".
+START COPY:
+on folderexists(inputFolder)
+	try
+		do shell script ""test -d "" & quoted form of (POSIX path of inputFolder)
+		return true
+	end try
+
+	return false
+end folderexists
+
+set appPath to ""/Applications/Synthesia.app""
+set patchPath to ""/Users/You're_Username_Here/Desktop/synthesia.0.8.1.bspatch""
+set fileToPatch to appPath & ""/Contents/MacOS/Synthesia""
+
+if not folderexists(appPath) then
+	display dialog ""Cannot find Synthesia in the Applications folder.""
+	return 1
+end if
+
+do shell script ""bspatch "" & fileToPatch & "" "" & fileToPatch & "" "" & patchPath
+
+display dialog ""File cracked.""
+
+return 0
+END COPY
+Then go into the app (Right click, show package contents, Contents, MacOS) and copy synthesia.0.8.1.bspatch to you're desktop
+Hope it helps!"
+,Verssesli,2011-08-27T04:45Z,Copy the code into the script editor at Patcher.app's Contents/MacOS/Scripts/main.scpt
+,berniel1991,2011-10-11T01:44Z,You guys really wasted hours of my time. There's honestly no one who can explain this step by step?
+,Huppelepup,2012-01-28T15:19Z,"Can some1 help with a detailed help on running the patch.app? 
+I can't get it working on my own :("
+,mr.exodia,2012-03-11T01:16Z,Maybe try this download-crack-serial.com/software-crack.php?id=141700

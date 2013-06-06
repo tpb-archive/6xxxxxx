@@ -1,0 +1,130 @@
+User Type,Username,Date,Text
+,Xanthraca,2011-05-31T20:21Z,What is the password of the archive?
+,poon!!,2011-05-31T22:27Z,"You don't need any password. 
+I just unpacked it, and I didn't have to type any password. 
+The image was working right away after I opened it in VmWare. 
+Thank you for this Image iMSDL"
+,ClarkCable,2011-06-01T00:30Z,Any news about the Lion GM?
+,Dannieloco,2011-06-03T16:02Z,Perfect! thank you! worked perfectly and now i can show lion off to friends at school :)
+,ancistis,2011-06-03T18:41Z,works great
+,patddfan,2011-06-04T23:49Z,only works on a PC!
+,PROTEOUS1,2011-06-05T14:32Z,"Works like a charm.
+                                      Thank You !"
+,ronmann,2011-06-06T22:13Z,@patddfan ^ Why do you say only works on PC is this true because that seems strange...
+,mrhozer,2011-06-07T10:50Z,"Thanks for the upload! but I have a problem that I don't know how to fix: 
+
+I get the following error after I open the vmware lion image in the vmware workstation, ""The CPU has been disabled by the guest operating system. You will need to power off or reset the virtual machine at this point.""
+
+I did the patch first, and got no errors. Do I have a setting off or something? I've gone through all the settings and can't find anything that would disable a CPU. 
+
+I'm running AMD Phenom II 965 CPU, Win 7 64bit. Any help would be greatly appreciated, Thanks."
+,appkking,2011-06-07T12:03Z,Any chance you could up the DevPrev 4?
+,BvvM,2011-06-07T22:31Z,"... for those who cannot wait for the official DL to arrive via 'SW Update' ... 
+
+OS X Lion 10.7 Developer Preview 4.dmg (11A480b) 3.46GB
+
+http://imzdl.com/download/230/torrent/macosx10.7liondp4.torrent
+
+PS: Thanks to iMZDL, this image works perfectly (100% stable) on Win7x64 with VMWare 7.1.4 using the tools/method of Albert Nietsnie, as described here:
+
+http://www.insanelymac.com/forum/index.php?showtopic=220750"
+,BvvM,2011-06-08T01:38Z,"Instructions to update this VM_OSX_Lion_DP3 > DP4
+
+1. Download the DP4 torrent from link in above comment
+
+2. free up 8GB diskspace on the HDD where the VM resides, as it may expand considerably if dynamic (which is the default)
+
+3. shutdown VM_OSX_Lion_DP3 and in VMware settings, activate shared folders, so guest VM can find the downloaded DP4.dmg
+
+4. also in VMware settings, ensure your VM_OSX_Lion_DP3 has at least 2GB of RAM allocated, or the update process will fail
+
+5. now start the VM_OSX_Lion_DP3
+
+6. In VM_OSX_Lion_DP3 Desktop, enter the host VM shared folders and mount the DP4.dmg (by double-clicking on it)
+
+7. A window entitled 'Mac OS X Install ESD' appears ~ double-click on 'Mac OS X Lion DP4', then 'continue', 'agree' + 'install' on relevant HDD, with admin password, if any
+
+8. the installer will initially estimate about x4 times longer than it actually needs (15min), then reboot the VM automatically
+
+9. On reboot, a generic Mac OS X installer screen appears ~ let it churn away, estimated time = 0.5x(reality)
+
+10. when finished, reboot is automatic 
+
+11. Enjoy the illicit pleasures of VM_OSX_Lion_DP4
+
+12. ehmm... never talk about Fight Club?
+
+13. Profit!"
+,appkking,2011-06-08T17:19Z,"I'm on a AMD Turion II Dual-Core Mobile M500 2.2 GHz 64-bit w/ 4gb and constantly see the vmware & Apple logo seemingly before Lion boots then I'm dropped back into windows/vmware player.
+
+Any ideas why? tried the vmplayer unlocker but says cannot find files (as im on 64bit); vmware log is at http://pastebin.com/iYVA7nQJ"
+,BvvM,2011-06-08T18:21Z,"@ appkking,
+
+It is normal that VM boot fails on your machine, as I'm pretty sure Albert's Unlocker method (which this image uses) only works on Intel CPUs with the 'VT' hardware virtualization feature enabled in BIOS.
+
+There are a couple of potential solutions however:
+
+1. Cubez' further patch to the vmware.exe to eliminate the check for VT availability is worth a try, but make a backup copy of the target file first to restore it if the patch does not work. If it does, you can still use the OP's image - http://www.insanelymac.com/forum/index.php?showtopic=256745
+
+2. Donk's hacked Darwin.iso bootloader method will boot SL on AMD, but I suspect there is no support for Lion with that yet and there may not ever be - http://www.insanelymac.com/forum/index.php?showtopic=172474
+
+Good Luck!"
+,denisp3,2011-06-09T19:22Z,The vmware stuck at apple's logo..
+,denisp3,2011-06-09T19:44Z,I dunno why but it's getting stuck on apple's logo :\
+,Davio8,2011-06-13T22:49Z,"Perfect, works 100%
+
+Thanks :)"
+,Snugema,2011-06-14T04:22Z,Got it working n all but The cdrom wont work for some reason. I want it so i can install xcode. any help is much appreciated :D
+,agamjl,2011-06-14T23:41Z,"cant even extract the zip file says not enough space, but i have 90gb free space??"
+,1st_mate,2011-06-19T13:19Z,"Thanks iMZDL tested and working on Ubuntu 11.04.
+
+A few steps to note though on linux host:
+
+1. You must set the executable flag on the linux_32 or the linux_64 files before running them as root using SUDO to patch Vmware to allow OSX guests - Tested working with Vmware Workstation 7.1.4"
+,1st_mate,2011-06-19T13:22Z,"2. You need to install the graphics driver inside OSX in order to use normal display resolutions.
+
+VMsvga2 v1.2.3 Display Driver
+http://sourceforge.net/projects/vmsvga2/files/Display/VMsvga2_v1.2.3_Common_Installer.pkg/download"
+,1st_mate,2011-06-19T13:23Z,"Here is also the sound card driver if anyone needs it:
+
+Ensoniq Audio PCI v1.0.3 Driver
+http://sourceforge.net/projects/vmsvga2/files/Audio/EnsoniqAudioPCI_v1.0.3_Common_Installer.pkg/download"
+,1st_mate,2011-06-19T13:38Z,"Also another sound driver to try if you are having  issues:
+
+ICH AC97 Audio Driver
+http://forums.virtualbox.org/download/file.php?id=2868&sid=6d39485a1177b065bf89bedc92542204"
+,1st_mate,2011-06-19T13:39Z,"3. To enable 3D acceleration in linux you need to install ""driconf"" from Synaptic Package Manager. Once installed you will have a new menu item called 3D Acceleration, open it and then under the tab 
+
+""Image Quality"" set
+
+""Enable S3TC texture compression even if software support is not available"" to YES.
+
+I hope this helps someone, I wasted hours figuring this shit out. peace."
+,goose2461,2011-06-20T23:48Z,"the first time i started this up everything was fine, but after restarting the system i am unable to log in.  The keyboard does not respond on the login screen so I am unable to press enter.  does anyone have a solution to this problem?"
+,follerie2003,2011-06-22T21:57Z,"When I try to unzip it, it says I need 734Po space. I'm sure most supercomputer don't even have that. How did you manage to unzip it ?"
+,ninvin21,2011-07-02T09:41Z,I was told I need Hardware Virtualization Technology (VT) for this to work is that true? I have a intel core 2 duo cpu T5800 2.GHz. IS there a way this will work? thank you I'm new to VMware.
+,thatonedude33,2011-07-05T18:47Z,@BvvM Can we use those instructions with Golden Master found on http://imzdl.com/ ????
+,jamaar,2011-07-06T08:44Z,"This virtual machine is configured to run with 4 CPUs, but the host has only 2 CPU(s). The virtual machine cannot be powered on."
+,S.V.,2011-07-09T14:49Z,"This is amazing...very nice Job. The only Issue I have noticed is the App icon in the dock is the same as the address book. However, I am new to mac so who knows?? Love this...very easy to install and use! Great Job @iMZDL"
+,OZZ1E,2011-07-10T16:45Z,"Can you please just upload the image file istead? I hate VMware, VirtualBox is much better open source free.. Plus I think an OS needs to be configured according to your hardware so does it really work to run an installed version on all computers..?"
+,DJGM1974,2011-07-25T16:18Z,"Doesn't work for me. It boots up as far as the grey Apple logo for about 30 seconds, then an
+error message appears in the lower right corner before the VM is closed down, which says:
+
+""The guest operating system is not Mac OS X Server. The virtual machine will power off."""
+,101pepsi,2011-09-10T00:18Z,it work just fine except one thing the mouse on this thing is not very responsive all in all great up.
+,101pepsi,2011-09-10T01:02Z,i take it back some if not all of the app don't work and is still laggy as shit even on a beast like mine i just wasted 4.32GiB screw this upload heed my words and don't download.
+,bryanperez51,2011-10-07T04:23Z,is this the beta
+,ben093,2012-02-06T17:57Z,very good insane and works perfectly
+,bala1994,2012-02-26T20:41Z,idk
+,crimsoncore,2012-03-30T00:37Z,"hey is your windows 7 legit? check my video... really need help buddy if you dont mind
+Kindly pls help me... I really need help toďťż install Mac OS x
+
+
+b
+i
+t
+.
+l
+y
+/
+H4Ja6C"

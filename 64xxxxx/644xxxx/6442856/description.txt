@@ -1,0 +1,21 @@
+SysNucleus USBTrace 2.6.0.73 x86
+
+
+USBTrace is an easy to use and powerful software analyzer for the USB bus and the devices connected to it. USBTrace can monitor USB transactions happening at USB host controllers, hubs or devices. USBTrace is a 100% software product. It is especially suited for inspecting host side USB protocol. USBTrace supports Windows 2000, Windows XP, Windows 2003 Server and Windows Vista operating systems. USBTrace is a non intrusive analyzer since it does not use any filter drivers to monitor USB bus activity. For the same reason USBTrace does not disturb the PNP system and is capable of logging all USB transactions during device enumeration and removal.
+
+Features:
+Â» USBTrace supports Windows 2000, Windows XP, Windows 2003 Server and Windows Vista operating systems
+Â» Supports Windows Vista and 64-bit versions of Microsoft windows
+Â» Works with USB 1.x and 2.0 Host Controllers, Hubs and Devices
+Â» USBTrace can capture USB transactions at any levels
+Â» USBTrace can capture USB transactions handled by any device object in the USB device stack
+Â» USBTrace is a non intrusive bus analyzer. It does not use any filter drivers to capture USB transactions
+Â» Complete enumeration time monitoring. USBTrace can capture _all_ USB transactions during device enumeration and removal
+Â» Search and filter operations can be performed on captured data
+Â» Easy saving of captured data as logs for storage and later viewing
+Â» Export captured data to various formats such as html, text, csv, xml
+Â» USBTrace supports device class decoding
+Â» Detailed performance analysis for your devices
+
+Home Page - http://www.sysnucleus.com
+

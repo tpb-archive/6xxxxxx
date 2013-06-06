@@ -1,0 +1,265 @@
+User Type,Username,Date,Text
+,Netarangi,2011-05-31T09:45Z,What's the forum you mentioned?
+,godofwrath08,2011-05-31T09:58Z,omg plz tell me sum1 has tried this so i can lafff and say HA uve just been dun
+,darb82,2011-05-31T11:39Z,"I played through it and traitors keep didn't show up.So unless you just want these files to mess around with,this torrent is worthless
+
+But if you go by the description you CAN get the all the free dlc to work with the skidrow version.This is from a forum regarding dirt 3 dlc and how I got the idea
+
+""If you want DLC from Marketplace in cracked game, you'll need at least one legit Games for Windows game. 
+
+1. Open Games for Windows Marketplace
+2. Login
+3. On the left side select Full Games
+4. Find Tinker and download it (Free  )
+5. Run Tinker and log in to the Games for Windows. Live CD key is listed in your downloads 
+6. After successful login you can exit Tinker and start DiRT3
+7. In main menu select My DiRT - Extras - Add-ons. Check, if it says DLC Free car pack - Owned
+
+
+Unfortunately, you will NOT able to play with your old save because of your new profile. But now, you will be able to earn achievments  When you start DiRT3, just ignore Live CD key as always."""
+,DjDede,2011-05-31T16:13Z,this is about Fable 3 not Dirt3 :D
+,OmniNegro,2011-05-31T23:37Z,"Did you even read the comment? He says it is a method that worked for Dirt 3 and also works here.
+
+I think I will wait until someone makes a means to do this without GFWL or all the trouble. Patience."
+,XiONDiGiTaL,2011-06-01T12:20Z,"Works perfectly, thanks"
+,spearhead111,2011-06-01T15:07Z,"What about the other payed dlc? I've noticed that when I downloaded the free dlc the other payed dlc from the Day 1 DLC pack also downloaded, but weren't unlocked :?"
+,darb82,2011-06-02T04:11Z,"@xiondigital
+Traitors keep worked for you?The free dlc worked for me but this didn't.Anything special you did?
+
+@spearhead111
+I noticed the understone files in the free dlc folder too.I don't know how to get these to unlock for me.
+
+I doubt skidrow will release the dlc because they need a legit account to work and I don't have much faith they will be able to figure how to crack them.Its been 2weeks since they been out. and still nothing from them.I got these traitors keep files from another site and decided to upload them as a torrent for people to try and mod or crack themselves
+
+If you go by my instructions the free dlc WILL work on the skidrow version.If you can get these files to work  also please leave details on what you did."
+,ravenlingat,2011-06-02T10:37Z,XION DIGITAL how did you get this to work
+,darb82,2011-06-02T11:27Z,"I figured out how to get my game to recognize traitor's keep  but it says I need to purchase it.The only benefit is the free soldiers outfit is available as a gift.
+If you went by the instructions and got the free dlc to work using your gfwl account then this is What I did -
+-go to the folder with the free dlc and find a lic file with a long number and copy the name of that file
+-then go other folder with traitor's keep dlc in it and find that lic file and rename it to the one in the free dlc folder
+
+I think what we need is for someone who has bought the dlc to upload that file or open up their lic file and  copy the contents and paste it in the comments or somewhere so we can replace our own lic file contents with theirs.
+That is the trick to getting these files to work on our games from what I seen."
+,spearhead111,2011-06-02T17:52Z,Good to know you've figured this thing out. It gives me hope that we'll be able to play all the dlcs soon enough.
+,Banzay27,2011-06-03T20:13Z,"By the end of reading all this... I question myself if it's worth all the hassle. No doubt the same reason why release groups rarely bother with DLCs.
+You might see them release, for instance, Shadow Broker's Lair for Mass Effect 2 - a greatly featured DLC for a hit game.
+But a DLC that doesn't stand out such as this, for a year old game that was ported to PC? I'm already content they released the base game itself.
+Because really, going through all the bother of cracking through GFWL's internet check, they wouldn't do that for a DLC. Not for this DLC. They'll do it for an outstanding like they did for Assassin's Creed 2 and GTA 4, but not this.
+Then again, maybe they have a single guy working on it and soon enough we'll see a release. Can happen. Wouldn't hold my breath."
+,Banzay27,2011-06-03T23:37Z,"Well, it was worth half an hour around it while Fable III installed, I suppose.
+
+Yes, we really can make an account and ""purchase"" the free addons. You don't even have to download Tinker or anything else, it makes no difference.
+I've downloaded and installed all the free addons, but haven't gotten past the beginning of the game to confirm it recognizes them. 
+GFWL did prompt me to sign and the 2nd window wanted a key. I did simply hide the interface but the only reason I believe I stayed logged in is because I was able to save. I guess that's proof enough. No reason to believe the addons won't be recognized, the marketplace claims to have installed them successfully.
+
+This lot of frivolous goodies are worth the half hour. But I won't even bother trying Traitor's Keep DLC. Trailer of it didn't impress me anyway.
+Thanks for the tut, still, darb."
+,Banzay27,2011-06-04T00:40Z,"Woop. 3rd comment; excuse me. It would seem I spoke too soon.
+It really had logged me into GFWL, but not to my new account; instead, to one I've used to play Dawn of War II, Gears of War and a few others.
+I didn't realize it had automatically logged me in to that account before it even prompted me to login, which in itself is odd.
+
+So I stand corrected: we do need Tinker or any another game we can run and log into our account with the option to Login Automatically checked. Really just so it logs in before prompting us to enter the cd-key, just as it had logged my old account from the get-go. It's really dumb how we can work around it like this, but if it works, hey... okay."
+,darb82,2011-06-04T03:38Z,"If the free dlc is still not showing up try this-
+check and see if you have package_info.xml located here
+
+owner/appdata/local/virtualstore/programfiles/microsoftgames/Fable III/data/dlc/4d53090a/00000002/b7d5fe3d720f347ce446785c3f55488c8e7ff201/content
+
+All you have to do if you don't have the file is to open the dlc_redsetter.bnk.dat file in notepad and select all and paste into a new notepad file and save as package_info.xml
+then put that file in the location and the free dlc should work"
+,karkar99,2011-06-05T03:50Z,guys patient.. sooner or later sumone will solve our problem... with of course easy way not the hard way 
+,SweetDreamerTestbed,2011-06-07T12:56Z,I've heard that the add-on also contains a reference in the data files in the file startup.vfsconfig. I'm not sure if this is true since I don't have it but that could be another reason the DLC is not showing up if you don't have the .bnk file referenced for the DLC.
+,Gamer2210,2011-06-07T16:47Z,"crap, tried to buy this game today but not available in my country.
+that's really fucked up."
+,Ingfire,2011-06-09T22:48Z,"Okay so if I've already been playing through Fable III, with GFWL automatically logging me in, thus allowing me to save and all that good stuff, and I download the DLC, do I STILL have to start a new game for it to recognize and give me the DLC items? Even though I'm not starting a new GFWL profile or anything?"
+,Ingfire,2011-06-09T23:03Z,"Scratch that, got all the Free DLC to work =]"
+,Legend.Cyrus,2011-06-13T22:46Z,"@Ingfire
+
+Did ya? I only got the yule hat, 5*dog potion, Setter dog potion, women's Highlander suit, and the 2 legendary weapons to work.. What all did you get to work and how did you go about it?
+
+---
+This is the best I have been able to find or actually the only thing for the dlc and traitor's keep.. Thanks for the upload darb82 :)"
+,spearhead111,2011-06-15T17:45Z,Any resolution on how to get the paid dlcs working?
+,Gil029,2011-07-12T00:02Z,Hey when i look in appdata theres no local folder
+,Gil029,2011-07-12T00:36Z,"Im trying to update my Xbox live profile so i can sign in automatically to Fable 3 and i get this error ""Failed installing Title update. See log at C:\Users\(Username)\AppData\Local\Microsoft\GFWLive\Install\Logs\titleupdate.log for details"" So i look in Appdata and theres no Local folder or anything from the Path so any way to fix this?"
+,darb82,2011-07-15T05:19Z,"Anyone who wants to use the free dlc and not have to deal with gfwl download this
+http://timeslip.users.sourceforge.net/current/fable3-xlive.7z
+
+and put it in your fable 3 folder.it bypasses gfwl and lets you use the free dlc if you follow the readme
+
+still haven't got the paid dlc to work "
+,BASARAisAwesome,2011-07-19T16:53Z,What a waste of time downloading this if you can't use your existing GFWL account. 
+,Saiz,2011-08-09T01:18Z,where do i put the files? bcuz i definetly cannot find a folder named owner or appdata or anything thats listed
+,Saiz,2011-08-14T14:09Z,"i used GFWL marketplace to locate where to put the files, C:\Documents and Settings\(your computers name that u set)\Local Settings\Application Data\Microsoft\XLive\DLC"
+,Jamm611,2011-08-22T11:23Z,"ok, i did some more testing today, i got traitors keep to work with most of the free dlc, you must use the xlive.dll and the fakexlive.ini.
+
+when you copy the dlc to the game dir, only copy the contents folder, nothing else!!!
+
+also make sure all the packages are listed in the package_collection_info.xmb or they wont show up, open it with notepad to edit.
+
+the dlc is gifted during the story progression, you should get most of it by the time you leave the Dweller camp, the Traitors keep is tied to the butler Hobson in the Castle Treasury, and will not show up until after the main story is completed!!
+Start a new Game!!!
+hope this helps mates :)"
+,darb82,2011-08-28T07:15Z,"@Jamm611
+Thanks for taking time and effort to get this to work,I gave up on this and quite playing the game but i might try it again.
+
+cracking this dlc was beyond skidrows abilities otherwise he would have released it with a proper crack."
+,LaputanMachine,2011-08-28T10:08Z,"@Jamm611
+How exactly did you combine the two package_collection_info.xmb files from this torrent and the free DLC torrent? I tried just copying and pasting everything after  from one file at the bottom of the other but the DLC isn't working. It's a little confusing when I don't know what I'm looking at."
+,LaputanMachine,2011-08-28T10:10Z,"Sorry, apparently text in brackets doesn't show up here. I meant to say ""copying and pasting everything after < packageCollection >"""
+,LaputanMachine,2011-08-31T15:32Z,"Okay, after much trial and error I've got the package_collection_info.xmb right. However, traitor's keep is not working. In fact, none of the DLC except the two weapons and the soldier outfit works. 
+
+I followed the instructions to the letter so that's not the problem. The only difference I see between the DLC that's working and the DLC that's not is that the ones that are working have encrypted .dat files. The rest are readable in notepad, but don't work. 
+
+The files that I'm working with are both from torrents found here. This torrent and ""Fable 3 all the free DLC"". The two encrypted files are dlc2free.bnk.dat and dlcfreeforall.bnk.dat, which correspond to the two DLCs that are working. 
+
+Any ideas on how to get the others working?"
+,darb82,2011-09-07T08:41Z,"@LaputanMachine
+I've wasted too many hours trying to get these to be recognized but if you check out the fable3mod forum and look around there my be some tricks that could help. 
+They are anti-pirate over there but timeslip and keshire are smart enough modders that could probably get these to work but won't.
+I got all the free dlc to work using a tool I got from there that fixes corrupt saves.I had to convert my legit save to a no gfwl save but after the paid stuff still didn't work I gave up on it.
+sorry i can't be more help"
+,snakejk,2011-09-13T20:40Z,"I was messing about with this today and got Traitor's Keep quest to work together with the free DLCs. A bit of modding is required so you need to set xlive.dll's ini to UseDLC = 2. 
+
+I used Timeslip's BnkBrowser/Creator found on fable3mod.com to export the script from the downloaded dlc (instructions can be found on that site too) And changed the part that checks if you have a premium package, to instead check if you completed chicken chaser quest (the one with the chicken suit) So now the ""purchase"" message is gone and I just played through the DLC.
+
+The free DLC torrent also has Understone included and I got that to work as well with the same method.
+
+I can uploaded the modded files if anyone wants it."
+,snakejk,2011-09-14T08:11Z,"I have some time so I uploaded the mod.
+http://bayfiles.com/file/11Gv/vRprO1/f3unlockdlc.7z
+
+This will unlock both Traitor's keep and Understone if you have the free dlc pack. You need xlive.dll posted above, and follow its readme in creating fakexlive.ini, then set UseDLC option to 2.
+
+Make a new folder called ""mod0"" in ""fable III\data"" and put the Content folder from this torrent in there. 
+If you wanna use the free DLC together with this then put them in also the same folder, but you need to merge the two package_collection_info.xmb files so it contains packages from both. 
+Or simply use mine:
+http://bayfiles.com/file/11Gz/fhLw15/package_collection_info.xmb
+
+Then make another folder in fable 3 data folder, name it ""mod2"" and extract my mod in there. and you're done.
+
+Understone's quest, The Voice, should show up right after you met the rebels in bowerstone the first time. 
+Traitor's Keep quest will show up right after the main quest. I was able to load my old save and both dlc works."
+,LaputanMachine,2011-09-14T15:08Z,"@snakejk
+Way to save the day, man. I had just about given up on ever getting this stuff to work. Thanks mate."
+,surinen,2011-09-14T21:05Z,"@snake-not-so-liquid(jk)
+
+thank you very much for your work and I might be in possesion of suggestion ( probably unworthy your time ) in repack posted by tomek there is reaver amor in mods - is it possible to make it work, or maybe I will put it in simpler way: do you know where I can get reaver armor ?"
+,snakejk,2011-09-15T09:25Z,"@surinen
+
+Actually I made another mod prior to this one to give me dlc items on startup, since not all of them showed up.
+http://bayfiles.com/file/12id/yeUO5k/f3dlcitems.7z
+
+Just put this in mod2 folder, replacing my other mod, but make BACKUP of it first. Run the game to get the items, and save your game. Then delete the mod and put my original mod back in, so the game won't keep giving you the same items every time.
+
+This will give you:
+- DLC clothing items. (Strangely, outfits from traitors keep only show up when I  finished the main quest, while some other outfits ONLY show up if I have NOT finished it, including reaver armor. I guess the solution is to use this mod twice. 
+
+- All new dog breeds, 3 dlc hairstyles, and dye pack. Five star dog potion.
+
+-5 pre-order only weapons.
+
+Btw, reaver armor is called industrial knight in game."
+,surinen,2011-09-15T10:58Z,"thank you once again - there is one more thing I would love to ask: your mod - does it give all items like it would happen with original version of game ? for example - will I recieve tratior's keep outfits in the same time of game as in original or it will give me them before I complete mission ? because I would like to play game almost like a standard version. well I feel so limited by my language skills - ah and I know it's industrial-something-thing but I always forget about but yep, industrial knight sounds better than reaver armor."
+,surinen,2011-09-15T11:20Z,"I'm not good with mods and things so I will ask: you said that I need to replace files:
+- items
+- dlc underdome
+- items
+
+so if Iget my items and then change into main mod and then to items - will I lost my underdome progress ?"
+,copyright-police,2011-09-15T11:26Z,"@snakejk
+Thanks for making your mod/crack available and putting the time to figure this out.
+
+I will give this a try later this week."
+,snakejk,2011-09-15T11:44Z,"@surinen
+
+DLC items in un-modded game are given as gifts, so it's no different from my mod. EXCEPT traitor's keep's outfits which are found in chests, so if you don't want them to show up immediately then only use the mod once before finishing the main quest. Then find those outfits on your own.
+
+And to answer your second question: No, you wont lose your progress. The two mods are mostly the same, one of them just has additional codes to give you items. 
+
+But make sure to always has one of the mods in the folder else your save won't load because the game treats my mod as DLC."
+,surinen,2011-09-15T13:47Z,"@snakey
+
+hey snakey ! there's a problem. when I try to start a new game, in fact I just installed fable 3 and configured things theres a pop with a txt that I dont have required dlc, you know prolly what I mean - and why that happens ? is it because its a new game and I havent been to chicken mission ( as you set it as checker ) or something with my config turned wrong: I made folders like you said, downloaded xlive from timeslips page, made fakexlive and set it to 2. so I see two possibilities, something with folders went wrong or I need to do chicken mission before I can use your mod ?"
+,snakejk,2011-09-15T15:02Z,"@surinen
+
+No, chicken chaser quest is not the problem because the script that checks for its completion doesn't run until the dlc quests start. I just tried starting a new game and I don't have any problems. 
+
+If you follow xlive.dll's readme and my instruction on the folders closely then there shouldn't be any problem either.
+
+In your earlier post you mentioned ""Fable 3 DLC REPACK"" torrent, are you using that one? I'm not sure it has all the dlc that both of darb82's torrents have. So the problem might be that you don't actually have the dlc. 
+I'm using skidrow's release of fable 3 and dlc from darb82's releases and everything work perfectly."
+,surinen,2011-09-15T16:43Z,"@ssssssssnake
+
+well, problem was simple as it could be - I just accidentally wanted to load my old save without knowing it was old one - deleted - done - BUT then I created a new character, game started, I'm in dwellers camp, bought their outfit, I'm able to enter dressing room but there are no gifts for me, nothing popped out for me - I'm sure that followed your guide, well maybe hm, yes, firstly I used that dlc items on startup but nothings there for me - I tho that I would be able to switch into understone-traitor's keep one but it looks like I need to get my dlc first - will they appear after chicken mission ( yes you mentioned that you only used it for a check but I'm nod a mod spec ) or it should be already in my sanctuary waiting for me ? it's kinda annoying as I really wanted to try out those outfits and new missions - bad luck is stalking me"
+,surinen,2011-09-15T17:17Z,"@SnAkEEe
+
+hey there again, sorry that I'm using your time to that extent but it's horrible-horrirble for me to make it work so I've made screenshots of my folders and file to show you, so you can say if there is something wrong
+
+http://bayfiles.com/file/12oV/jkfDbo/screens.rar
+
+also in folder mod0 I've overwritten those files which are before ""content folder"" - I mean I overvwritten free dlc files with traitor's keep files, those are same I guess
+
+we have same versions, skidrow, and same dlcs - that repack I mentioned I only took it as example of dlcs but all dlcs needed are in fact in darb82 torrents so no need"
+,snakejk,2011-09-15T18:02Z,"@surinen
+
+The location of your fakexlive.ini is wrong. Look at the readme carefully. Mine look like this:
+http://bayimg.com/PAKHEAAdb
+
+The outfits my mod add won't be gifts, they will just appear in dressing room. When you change clothes for the first time in the game (dweller outfit) then leave, and get back there again they will appear."
+,surinen,2011-09-15T19:06Z,"uh, I tho that roaming thing is just a a chosen place - now I got it works - well not fully, I have dog costume, female highlander, dogs BUT there is no male highlander outfit and industrial knight - do you know what is wrong with industrial knight or male highlander - I'm sure that I should get that costume but there is nothing awaiting for me.
+
+and by the way, did you cheat so I got all outfit dyes or its original dlc ?"
+,surinen,2011-09-15T19:23Z,oh and I see that there are tatoos  and makeups - those are added by you or also dlc ? what else is there added ? I still havent been in library so asking before I go there - yup yup and whats more important whats with that industrial knight and highlander outfit?
+,snakejk,2011-09-16T15:21Z,"@surinen
+
+Oh, I guess I left the makeups and tattoos in there by accident, it was for me personally cause I'm too lazy to find them all. If you don't want all the makeups and tattoos at the beginning then just sell them at a pawnshop and find them yourself later on.
+
+I recently started a new game with the ""give dlc items"" mod right at the start, and to my surprise I have every dlc outfits, even the ones from traitor's keep. Maybe there are some specific things in each saves that make it work or not work, these are unpredictable. So the only way to make sure you have every dlc items is to start a new game with the mod. 
+
+But at least I got the dlc quests to work 100% and that's a lot better than no dlc at all, I'm sure. "
+,surinen,2011-09-16T16:36Z,"of course mate, it's great that you helped us play dlcs - i just would like to enjoy game fully. now I deleted my save files, created a new game with dlc mod and theres - yes, another problem - I start the game with sword, rifle and spell glove which makes game bugged when I enter path to/of rule for the first time, white screen shows, I hear music but nothing is going forward. I believe it is because I already got a magic gauntlets so cutscene wont trigger - when you start a new game, do you have three weapons ? like wearing pyjamas in starting zone with sword and rifle on your back ? weird things occur to me. dont know what to do to make it work. maybe I should use mod after I get to dwellers camp but before I enter dressing room. do you know any solution or something to help with this problem ?"
+,snakejk,2011-09-16T18:04Z,"Okay, I guess I should've explain it more clearly, never been good at explaining things.
+
+Yes, I started with rifle and sword in pajamas too, but here's what to do: 
+
+1. Use the items giving mod to start a new game, you'll see sword, rifle and all that while still in pajamas. While still in pajamas, pause the game and choose to exit to windows, the game will autosave on exit. This will save your inventory. 
+
+2. Now delete the mod and swap in my normal unlock mod and run the game again. After you press enter the intro will play again but don't worry about it, your save is loaded. You're back in pajamas but the equipments will be gone. They will show up again when you go into the dressing room the second time at dweller camp.
+
+I hope other people are reading this too, so they don't get bugged."
+,snakejk,2011-09-16T18:11Z,"Clarification, I said:
+
+""They will show up again when you go into the dressing room the second time at dweller camp.""
+
+I meant the dlc items will show up. You still have to get hero weapons and gloves through normal gameplay.
+"
+,snakejk,2011-09-16T18:21Z,"Another thing, before you can enter sanctuary at the beginning of the game you can check if the mod work and you have the dlc items by talking to your dog. 
+If there's an option to train him then that means you have the 5 star dog potion from one of the dlc. "
+,surinen,2011-09-16T20:54Z,"aye, old son, so far everything works fine - I'm totally thankful to you for your time that you spent here giving my advices how to go thro this modding proccess - now I hope that there won't be problems with dlc missions, understone and traitor's keep - gonna see !, your guide should be in dlc description"
+,darb82,2011-09-17T07:52Z,"@snakejk
+Thank you for being the person to get this figured out.I lost interest in the game and have uninstalled it but I might have to give it a go again.
+
+I knew if I put these up someone would eventually crack these dlcs.I tried for a long time,With the help of timeslip I was close put got to the point I just got sick of the game and moved on.
+
+@surinen
+I wish very much I could edit the description for the torrent but the site has that option disabled.
+
+I might make a new torrent next week with the combined dlc and mods with  proper instructions if I don't get too distracted by the new vegas dlc.
+
+but If people are too lazy to read the comments I doubt they will be able get these to work.
+
+
+Anyway thanks snakejk and I hope everyone can enjoy these files."
+,killa2krew,2011-09-25T09:04Z,"@snakejk
+I've read every comment you posted on how to use your mod ect. but it's not working for me. help?"
+,kill0me,2011-10-30T10:42Z,"hey i know it's a bit late ... and maybe nobody works on this torrent but i followed @snakejk istrutctions and the dlc are working but demon dors are not working any more and when i try to get married the game crashes ... i am really sad ... bcuz i saw that without ure mod things are ok ... but i want the dlc ... thnx for any help 
+hope to recive any advice and cya"
+,fredaunne,2011-11-26T01:31Z,"Slight problem: your mod appears to be corrupted or something. I downloaded it twice, and it says it's either empty or corrupt when I try to extract it. Help?"
+,DarkkZero69pr,2011-12-04T19:12Z,"this is for (snakejk) dude i know you are done a great job here for this dlc but afortuned for me dont work i dont know why but dont work i move everthing dlc from file to file first i put it in here 
+C:\Users\owner\AppData\Local\Microsoft\Xlive\DLC and i play i dont work second i move it to the game directory and no work too i tried this of xlive.dll and fakexlive.ini and the problem is i dont know how i made a fakexlive.ini and dude i try to figureout but i cant i dont understand if you very kind make a tutorial or a video i apretiating dude or send me any kind information to my email ok is darkkzero69pr@gmail.com ok im looking forward and sorry for my english jejeje im from puerto rico ok and i cant wait to play those DLC "
+,DarkkZero69pr,2011-12-11T17:38Z,@snakejk dude sorry for bothering to much but can you please tell me how or tell everybody how to create a fakexlive.ini file because i dont know how and i really like to play this DLC 
+,ubii,2012-04-11T23:23Z,Having a problem with bay files allowing me to download the files snakejk uploaded. Anyone able to help me out and upload them someplace else?
+,ubii,2012-04-12T03:58Z,"Nevermind about the downloading problem. I used Chrome and it worked fine. Damn Firefox. 
+
+However, this isn't working at all for me. In fact, the fakexlive mod actually removed all my free dlc from the game, which blows more."
+,t3kn0w,2012-04-15T22:56Z,Could anyone upload the files snakejk shared on a different upload site?

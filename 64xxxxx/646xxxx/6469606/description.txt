@@ -1,0 +1,50 @@
+ http://i324.photobucket.com/albums/k330/JIMMY7363/pz.jpg
+
+Instructions for install:
+- Extract rar file to anywhere
+- Either run the Log.bat file to create the lwjglcache folder in the temp dir or create a folder called lwjglcache in the following dir C:\Users\USERNAME\AppData\Local\Temp
+- Windows users run Project Zomboid.exe
+- Mac/Linux users run Project Zomboid.jar
+- Enjoy playing the game
+
+Info
+
+Survive
+Surviving isnt just about blowing zombies heads off. Depression, starvation, trust issues, loneliness, illness, insanity. These are just some of the things you have to deal with in Project Zomboid.
+
+Build
+Build and craft items to help you stay alive. From weapons, food or traps to a simple plank of wood nailed to a door. In Project Zomboid you will be able to craft hundreds of items. 
+http://i324.photobucket.com/albums/k330/JIMMY7363/pz.jpg
+
+Defend
+Protect yourself and your allies from the relentless horde with a range of weapons and defenses.
+
+More info at www.projectzomboid.com
+
+ 
+http://i324.photobucket.com/albums/k330/JIMMY7363/screen1.jpg
+ 
+http://i324.photobucket.com/albums/k330/JIMMY7363/screen2.jpg
+ 
+http://i324.photobucket.com/albums/k330/JIMMY7363/screen3.jpg
+
+
+Current Changelog 0.1.4b:
+
+Code:
+1) Fixed ATI crash bug. We're not sure but this may cause a slight slowdown as it was an optimization that we had to remove to fix it. We'd like to hear how this affects anyone? We'll work on pulling back performance to what it was, but non-ATI owners have to admit this needed resolving fast. We'll upload a performance fix asap.
+2) Fixed camera bug.
+3) Removed custom mouse pointers entirely, for now. Too many issues on macs and some PCs.
+4) Various zombie spotting chances changed. A player not moving inside a building will rarely be seen by a zombie from outside and higher floors the chances diminish too since zombies tend to look ahead.
+5) Sounds in buildings are muffled so don't travel as far outside.
+6) Some horde balancing / fixes.
+7) Some aiming tweaks.
+8) Reduced footstep range slightly.
+9) Zombie spotted music will not play if the zombies are miles away or many floors below you.
+10) Made the horde prefer outdoor locations and generally ignore doors without any stimulus from inside. They will on occasion disregard this inclination, to keep you on your toes. After all if a zombie starts thumping he'll attract attention from others. ** may need tweaks **
+11) Bug meaning scratches were 100% infection fixed.
+12) Removed accidentally left in 'debug shotgun shells'.
+13) Beta blockers, anti-depressants, sleeping tablets and extra effects for booze.
+14) Pills now work over time instead of immediately and can be stacked for faster / more powerful effect. No consequences... YET.
+15) M to toggle music on and off (in lieu of a real option screen)
+16) A secret thing.

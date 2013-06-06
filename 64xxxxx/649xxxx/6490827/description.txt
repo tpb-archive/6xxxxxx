@@ -1,0 +1,130 @@
+Windows 7 32 bit patch to support 4 GB or more! [Original]
+
+Windows 7 32-bit with full 4 GB or 8 GB RAM support
+Do not work - say many people. And it still goes.
+
+In the Internet often haunts the statement a 32-bit operating system can technically only managed a maximum of 4 GB of RAM. This is wrong and Microsoft is even evidence itself, that with the special version of "Windows Server 2003 Datacenter Edition" it worked:
+
+[code]http://technet.microsoft.com/en-us/library/cc758523(WS.10).aspx[/code]
+
+64-GB RAM Maximum
+... the 32-bit version of Windows Server 2003, Datacenter Edition supports up to 64 GB of RAM on x86-based computers. ... 
+
+The kernel of the 32-bit version of Windows 7 has only a lock, which prevents access to more memory. More dramatically is this lock in the 32-bit version of Windows 7 Starter Edition: There the prohibition is much more rigorous and it only allows access to 2 GB of RAM:
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/4GB-Computer-info-overwiev-Starter-unpatched.png[/img]
+
+
+In the 32-bit version of Windows 7 from 4 GB usually only 3.25 -3.5 GB of RAM are usable:
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/4GB-Computer-info-overwiev-unpatched.png[/img]
+
+
+In general many people believe this "not usable" RAM
+is occupied by the graphic card RAM:
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/4GB-Resource-Monitor-unpatched.png[/img]
+
+
+The German computer magazine c't has made a test
+with different graphic cards (c't 23/2009, page 165):
+
+Graphic card RAM Usable RAM from 4 GB 
+0 MB 3.5 GB 
+128 MB 3.5 GB 
+256 MB 3.25 GB 
+512 MB 3.25 GB 
+1024 MB 3.25 GB 
+
+These results are completely incomprehensible. Why is with no video card (0 MB, connection via Remote Desktop) 512 MB RAM blocked? Why blocked a graphic card with 128 MB also 512 MB RAM â€“ and not 128 MB? And why blocked a graphic card with 1024 MB "only" 750 MB?
+
+The Russian Programmers Group "staforce" has written a small program witch removes the lock in the kernel of the 32-bit version of Windows 7. "ICE Technologie" has translate this program into English. The program automatically makes a copy of the kernel file "ntkrnlpa.exe" and saves the copy as separate file "ntkrlICE.exe". Then the program removes the lock in the copied file "ntkrlICE.exe" and integrates the new kernel file as an extra boot menu entry in the Windows 7 boot menu. So then you have the option to start Windows 7 either as usual with the original kernel file "ntkrnlpa.exe" or with the modified kernel file "ntkrlICE.exe".
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/Info-to-4-GB-Kernel-Patch.png[/img]
+
+
+With such a patched (modified) kernel the 32 bit version of Windows 7
+suddenly can use almost the entire 4 GB of RAM:
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/4GB-Resource-Monitor-patched.png[/img]
+
+
+For these screen shots a 32 MB onboard graphic card is used. So 32 MB is really "hardware reserved". The rest of 2 MB is reserved for I/O ports (USB port, serial-, parallel port, etc.).
+
+And even 8 GB of RAM are now no longer a problem. 
+The original kernel still reports that 4898 MB are "Hardware Reserved" - what hardware?
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/8Gb-Resource-Monitor-unpatched.png[/img]
+
+
+The patched kernel then reports correct that only 34 MB is "Hardware Reserved":
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/8Gb-Resource-Monitor-patched.png[/img]
+
+
+
+The RAM limit of the 32-bit version of Windows 7 is therefore 64 GB - like Microsoft describes for the "Windows Server 2003 Datacenter Edition" (see above). More extensive details - still from Vista-times - see here by Geoff Chappell.
+
+[code]http://www.geoffchappell.com/viewer.htm?doc=notes/windows/license/memory.htm[/code]
+
+The patch
+
+The small program "4GB-RAMPatch.exe" patches the kernel and removes the kernel lock:
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/4-GB-Ram-Kernel-Patch-en.png[/img]
+
+
+
+The program makes automatically a copy of the kernel file, then removes the lock and integrates the new kernel file as an extra boot menu entry in the Windows 7 boot menu. So then you have the option to start Windows 7, either as usual with the original kernel file or with the modified kernel file.
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/bootmenu-en.png[/img]
+
+
+The patch program does not need to install - it runs as a "stand-alone" program; e.g. directly from a USB stick. And it installs no background program.
+
+
+
+The patch has two small but treatable side effects:
+
+â€¢Because Windows 7 observed the changes the kernel can not boot normally. For the Microsoft programmers who often times work with patched kernel Microsoft has built in a boot parameter - an additional switch: "testsigning = Yes"). So they can test their patched kernels. With this switch the patched kernel can start easily.
+â€¢But this switch leads to the fact that on the desktop background, lower right corner (above the clock) a hint ("Watermark") is displayed:
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/Watermark.png[/img]
+
+
+To remove this "watermark" you can use the button "Remove Watermark":
+
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/Remove-Watermark.png[/img]
+
+
+Then you should reboot.
+
+To change the boot menu you can start the Windows 7 program "msconfig":
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/start-msconfig.png[/img]
+
+[img]http://www.unawave.de/medien/Windows-7/Tipps/32-Bit-RAM-Sperre/msconfig-en.png[/img]
+
+
+On the tab "Boot" you can specify:
+
+â€¢Which boot menu entry to be booted by default (if the user does not interact).
+â€¢How long should the Start menu appear.
+â€¢And you can delete one or the other boot menu entry.
+However, you should not remove the boot menu entry for the original kernel. Because there are some very few programs that do not get along with as much RAM as the kernel patch makes available. Then you can always reboot the original kernel.
+
+To remove the patch you only need remove the start Menu entry with "msconfig" (you can start the program "msconfig" when you enter in the search box in the start menu "msconfig"). The boot menu then will no longer appear. Because as long as only one menu item is available, no boot menu appears. The copied, patched kernel file "ntkrlICE.exe" in the folder "C:\Windows\system32" can also be safely deleted.
+
+In a Command Prompt with admin rights you can see with the command
+"bcdedit" the new boot menu entry in detail:
+
+ 
+
+The text that appears in the boot menu can be found under "description". 
+"testsigning = Yes"  allows the patched kernel to start despite modification. 
+The copied and modified kernel is called "ntkrlICE.exe". 
+With "pae = ForceEnable" the address extension for the RAM is activated.
+
+Note: I have not tested it and it does NOT have any viruses but some antivirus apps may find it is infected.
+Use at your own risk! I suggest testing it in another computer in separate.

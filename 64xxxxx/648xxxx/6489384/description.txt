@@ -1,0 +1,83 @@
+Audio-player fooobar2000 v.1.7 (june 2011) compilation for project KyuAerostat
+It consist of
+1. Portable Foobar2000 installation with additional plugins:
+* * *
+Core (2011-06-05 09:16:20 UTC)     foobar2000 core 1.1.7
+foo_abx.dll (2011-04-06 20:50:39 UTC)     ABX Comparator 1.3.4
+foo_albumlist.dll (2011-06-05 09:14:24 UTC)     Album List 4.5
+foo_audioscrobbler.dll (2011-04-19 12:59:59 UTC)     Audioscrobbler 1.4.7
+foo_bitcompare.dll (2011-04-16 05:00:34 UTC)    Binary Comparator 1.2
+foo_burninate.dll (2011-04-06 20:50:39 UTC)    Audio CD Writer 3.0.3
+foo_cdda.dll (2011-06-05 09:14:20 UTC)    CD Audio Decoder 3.0
+foo_chacon.dll (2010-04-06 22:03:40 UTC)    Chacon 3
+foo_converter.dll (2011-06-05 09:13:50 UTC)    Converter 1.5
+foo_cuefilter.dll (2009-01-27 13:58:38 UTC)    CUE playlist filter 0.1.5
+foo_cuesheet_creator.dll (2010-09-11 12:55:28 UTC)    Cuesheet Creator 0.4.6
+foo_DeleteCurrent.dll (2011-04-15 04:25:40 UTC)    FooBar2000 Delete Current Track 1.0.0.0
+foo_discogs.dll (2011-06-21 04:58:10 UTC)    Discogs Tagger 1.29
+foo_dop.dll (2011-04-19 06:15:11 UTC)    iPod manager 0.6.8.9
+foo_dsp_hdcd.dll (2010-04-08 22:47:38 UTC)    HDCD decoder 1.3
+foo_dsp_neutralizer.dll (2010-06-23 10:45:34 UTC)    DVD-Audio Watermark Neutralizer 0.1.2
+foo_dsp_std.dll (2011-06-05 09:14:22 UTC)    Standard DSP Array 1.0
+foo_fileops.dll (2011-06-05 09:13:12 UTC)    File Operations 2.1.3
+foo_freedb2.dll (2011-06-05 09:13:14 UTC)    freedb Tagger 0.6.4
+foo_infospect.dll (2008-02-01 17:02:58 UTC)    Infospect 1.0.3
+foo_input_alac.dll (2011-04-19 13:01:00 UTC)    ALAC Decoder 1.0.7
+foo_input_dts.dll (2011-04-06 20:50:39 UTC)    DTS decoder 0.3.0
+foo_input_dvda.dll (2010-02-17 13:41:36 UTC)    DVD-Audio Decoder and Watermark Detector 0.3.5
+foo_input_monkey.dll (2011-04-06 20:50:39 UTC)    Monkey's Audio Decoder 2.1.5
+foo_input_std.dll (2011-06-05 09:13:58 UTC)    Standard Input Array 1.0
+foo_jesus.dll (2011-02-17 08:32:17 UTC)    Autosave & Autobackup 10
+foo_keep_queue.dll (2011-02-17 08:32:27 UTC)    Keep Queue 0.3.5
+foo_lyricsgrabber2.dll (2010-09-11 11:37:17 UTC)    Lyrics Grabber 2 0.5.5.2 beta
+foo_masstag.dll (2009-09-18 06:01:36 UTC)    Masstagger 1.8.4
+foo_osd.dll (2011-04-19 13:01:00 UTC)    On-Screen Display GDI+ 1.69
+foo_out_asio.dll (2009-03-22 12:15:46 UTC)     ASIO support 1.2.7
+foo_out_wasapi.dll (2009-05-19 18:45:18 UTC)     WASAPI output support 2.1
+foo_playcount.dll (2011-04-06 20:50:39 UTC)     Playback Statistics 3.0.1
+foo_playlist_bind.dll (2011-04-17 17:01:39 UTC)     Playlist Bind 3.2
+foo_playlist_revive.dll (2011-04-09 09:10:01 UTC)     Playlist Revive 0.2
+foo_playlisthistory.dll (2011-05-23 09:25:28 UTC)     Playlist History 0.1.6
+foo_podcatcher.dll (2010-04-24 04:44:10 UTC)    Podcatcher 0.1.7.4 (beta, Apr 24 2010)
+foo_queuecontents.dll (2011-06-21 04:58:10 UTC)    Queue Contents Editor 0.4.3
+foo_quicksearch.dll (2011-06-21 04:58:10 UTC)    Quick Search Toolbar 3.2
+foo_quicktag.dll (2011-04-06 20:50:40 UTC)    Quick Tagger 1.0.3
+foo_random.dll (2009-06-30 19:06:58 UTC)    Randomized Playlist Entry 1.3.0
+foo_rg_trn.dll (2010-01-13 21:01:00 UTC)    ReplayGain override 0.1.3
+foo_rgscan.dll (2011-06-05 09:13:54 UTC)    ReplayGain Scanner 2.1.2
+foo_scheduler.dll (2011-02-17 07:11:10 UTC)    Scheduler 4.06
+foo_texttools.dll (2011-04-06 20:50:40 UTC)    Text Tools 1.0.5
+foo_ui_columns.dll (2010-05-03 15:08:32 UTC)    Columns UI 0.3.8.6
+foo_ui_std.dll (2011-06-05 09:14:24 UTC)    Default User Interface 0.9.5
+foo_uie_albumlist.dll (2011-04-19 09:10:11 UTC)    Album list panel 0.3.5
+foo_uie_biography.dll (2011-04-19 10:01:14 UTC)    Biography View 0.4.2.4
+foo_uie_elplaylist.dll (2011-04-19 10:01:14 UTC)    ELPlaylist 0.6.9.1.2(beta)
+foo_uie_esplaylist.dll (2011-04-19 10:01:14 UTC)    EsPlaylist 0.1.3.7.1
+foo_uie_library_tree.dll (2011-04-19 10:01:15 UTC)    Library Tree 0.3.4.6
+foo_uie_lyrics2.dll (2010-09-11 18:12:46 UTC)    Lyric Show Panel 2 0.4.6.15
+foo_uie_lyrics_panel.dll (2011-04-19 10:01:15 UTC)    Lyrics panel 0.35
+foo_uie_playlists_dropdown.dll (2009-09-23 20:44:46 UTC)    Playlists Dropdown 0.7.6
+foo_unpack.dll (2011-06-05 09:13:24 UTC)    ZIP/GZIP/RAR Reader 1.6
+foo_unpack_7z.dll (2011-04-19 09:06:45 UTC)    7-Zip reader 1.5
+foo_upnp.dll (2011-05-23 09:25:28 UTC)    UPnP/DLNA Renderer, Server, Control Point 0.99.34
+foo_utils.dll (2008-02-08 19:26:58 UTC)    Playlist Tools 0.6.2 beta 6
+foo_verifier.dll (2009-10-05 07:39:20 UTC)    File Integrity Verifier 1.1
+* * *
+2. Additional Folders 
+2.1 - !CUE-Themes - 3 default project's interface themes. We use Default User Interface right now. Please, take our invitation to make project compilation together. Your own variant of foobar2000 compilation should be interesting for someone. 
+2.2 - !Docs - main project and cue-foobar2000 documents.
+2.3 - !Screenshots - some interface examples and project ideas tet-a-tet.
+2.4 - !Soft - additional software, useful in project.
+2.4.1 - AlbumArtDownloader 1.39
+2.4.2 - foo_comserver component foobar2000 (necessary in 2.4.1)
+2.4.3 - minilyrics 7.0.649 
+2.4.3.1 - magic cookie
+2.4.3.2 - plugin for online translation to russian
+2.5 Codecs - Lame x32/x64 3.98.4 (3.98r)
+All files was checked by Symantec Endpoint Protection 11.0.5 with AntiVirus Signatures 20 june 2011.
+
+Please, help us to bring more info to project and share it across Universe.
+This compilation was used to create Allen Carr's audiobooks. They are available at this site too.
+You are welcome.
+
+This compilation was used to convert in it's final form  http://thepiratebay.org/torrent/6489006

@@ -1,0 +1,228 @@
+asyBeast Install 
+EasyBeast is a DSDT-free solution for Core, Core 2 or Core i systems. It installs all of the 
+essentials to allow your system to boot from the hard drive. Does not include any Network or 
+Sound drivers or Graphics support besides GraphicsEnabler. 
+Includes the latest verison of Chimera, FakeSMC, EvOreboot, 
+JMicron36xATA, JMicron36xSATA, LegacyAppleRTC, 
+NullCPUPowerManagement, USB Rollback, tonymacx86 Remixed 
+theme. 32-Bit com.apple.boot.plist, and MacPro3,1 smbios.plist. 
+Install with System Utilities tasks. 
+UserDSDT Install 
+UserDSDT is a solution for those who have their own pre-edited DSDT.aml on the desktop. 
+Installs your DSDT.aml, the latest verison of Chimera, FakeSMC, 32-Bit com.apple.boot.plist 
+and MacPro3,1 smbios.plist. The system will be bootable from the hard drive and ready for 
+sleep with all hardware recognized in System Profiler. Does not include any Network or Sound 
+drivers or Graphics support besides GraphicsEnabler. Install with System Utilities tasks. 
+System Utilities 
+Repairs Disk Permissions and/or Rebuilds Kext Caches. Run after installing any choices above, 
+installing any kexts in Advanced Options or manually deleting kexts. 
+Rebuild Caches 
+Rebuild Caches on /Extra/Extensions & /System/Library/Extensions. 
+Use after installing or deleting kexts. 
+Repair Permissions 
+Repair Permissions on boot volume. Please be patient- this can take 
+a good 4 minutes or more. 
+Drivers & Bootloaders 
+Collection of drivers, bootloaders, patched kernels, boot time config files and handy software. 
+If you're unsure, don't install anything in here. Advanced users may skip EasyBeast and 
+UserDSDT to do an Ã  la carte install using this collection. 
+Kexts & Enablers 
+Kexts or kernel extensions provide additional functionality to the 
+operating system. The kexts contained here provide either enhanced 
+hardware support or are mandatory for non-DSDT based systems. Be 
+sure to read the descriptions carefully before installation.
+Audio 
+Collection of kexts to enable the on-board Audio on your system. Make sure to read the 
+descriptions carefully and only install the correct files for your audio codec. 
+Realtek ALC8xx 
+Enables audio for motherboards featuring the Realtek ALC888, ALC887/888b, ALC889, 
+ALC885/889a and ALC892 high-definition audio codecs. 
+ALC8xxHDA 
+MacMan's Unified Audio Injector for Realtek ALC888, ALC887/888b, ALC889, ALC885/889a 
+and ALC892 high-definition audio codecs. If you are not using a modified DSDT, you must 
+also use a HDAEnabler for your specific codec. Installed in /Extra/Extensions. Install with 
+System Utilities tasks. 
+AppleHDA Rollback 
+Replaces the current AppleHDA.kext  with an unmodified 10.6.2 AppleHDA.kext to restore 
+full functionality for Realtek ALC888, ALC887/888b, ALC889, and ALC892 high-definition 
+audio codecs. on systems running 10.6.3 or later. Installed in /System/Library/Extensions. 
+Install with System Utilities tasks. 
+Non-DSDT HDAEnabler 
+Required for ALC8xxHDA.kext to work WITHOUT a DSDT and enable audio on 
+motherboards featuring the Realtek ALC888, ALC887/888b, ALC889, ALC885/889a and 
+ALC892 high-definition audio codecs. Make sure you only choose ONE HDAEnabler option. 
+Installed in /System/Library/Extensions. Install with System Utilities tasks. 
+Universal 
+Enables audio for most codecs. Uses VoodooHDA which is an open source audio driver for 
+devices compliant with the Intel High Definition Audio (HDA) specification, based primarily on 
+code from the FreeBSD hdac driver. It is intended as an Intel-only replacement for AppleHDA. 
+Enables sound without DSDT patching on 32/64-bit systems. Installed in 
+/System/Library/Extensions. Install with System Utilities tasks. 
+VoodooHDA 0.2.1 / 0.2.2 
+Original VoodooLabs branch. 
+VoodooHDA 0.2.56 / 0.2.61 / 0.2.72 
+Project OS X branch version 0.2.61. 32/64bit. Installed in /System/Library/Extensions. 
+Includes VoodooHDA.prefPane installed in /System/Library/PreferencePanes. Install with 
+System Utilities tasks.
+Disk 
+Collection of kexts that provide enhanced hardware support for optical and disk drives. 
+IOAHCIBlockStorageInjector 
+Makes drives appear as internal. Installed in /Extra/Extensions. 
+Install with System Utilities tasks. 
+JMicron 36x (aka GSATA) 
+MacMan's JMicron 36x Suite of Kexts. Choose only the kexts you 
+need. 
+Jmicron36x ATA 
+Enables the IDE port on the JMicron 36x (aka GSATA) chips. 
+Supports optical and hard drives. Installed in /Extra/Extensions. 
+Install with System Utilities tasks. 
+Jmicron36x eSATA 
+Provides support for the SATA ports on JMicron 36x (aka GSATA) chips. Drives connected 
+to these ports show on the desktop as External and can be hot swapped. Installed in 
+/Extra/Extensions. Install with System Utilities tasks. 
+Jmicron36x SATA 
+Provides support for the SATA ports on JMicron 36x (aka GSATA) chips. Drives connected 
+to these ports show on the desktop as Internal and can NOT be hot swapped. Installed 
+in /Extra/Extensions. Install with System Utilities tasks. 
+Graphics 
+Install to enable QE/CI full Graphics acceleration. Only install if the default 
+GraphicsEnabler=Yes is not working correctly. Install with System Utilities tasks. 
+Enablers 
+Collection of kexts to enable Graphics Controllers on your system. Can be used instead of or 
+in addition to GraphicsEnabler. 
+NVEnabler 
+Injects NVIDIA Graphics card information to enable full acceleration. Also known to solve 
+TV-OUT and mirroring issues on NVIDIA cards. Installed in /Extra/Extensions. 
+ATI 1.6.34.13 Drivers 
+Updated ATI kexts from the Mac OS X 10.6.7 Update for iMac (early 2011). Backs up current 
+kexts to ~/Desktop/ATI-Backup before installing. Installs in /System/Library/Extensions. 
+. 
+NVIDIA 256.02.05f01 Drivers 
+Updated NVIDIA kexts from the Mac OS X 10.6.7 Update for iMac (early 2011). Backs up 
+current kexts to ~/Desktop/NVIDIA-Backup before installing. Equivalent to tonymacx86 
+NVIDIA Update 2.0. Installs in /System/Library/Extensions. 
+ATI 48xx Device Injector 
+Device ID injector that provides all device IDs for ATI 48xx cards. Installed in 
+/Extra/Extensions. 
+ATI 48xx Patch 
+Netkas.org packages to get QE/CI on Radeon HD 48xx cards for 10.6.3-10.6.7. Installs 
+patched ATI4800Controller and ATIRadeonX2000 to /System/Library/Extensions. 
+Miscellaneous 
+Collection of miscellaneous kexts that provide enhanced hardware support or mandatory for 
+systems not using a DSDT. Be sure to read the descriptions carefully before installation. 
+Install with System Utilities tasks. 
+ElliottForceLegacyRTC.kext 
+Prevents a CMOS reset on reboot without a DSDT. 
+EvOreboot 
+If you don't have a DSDT, shutdown and reboot do not work without this kext. Installed in 
+/Extra/Extensions. 
+FakeSMC 
+FakeSMC.kext is the only absolutely mandatory kext, and is required for booting the system. 
+Original by netkas, new branch by Project OS X. Installed in /Extra/Extensions. 
+FakeSMC Plugins 
+Installs the following FakeSMC plugins to allow software access to hardware monitors: 
+ACPIMonitor.kext, IntelThermal.kext and SuperIOFamily.kext. Credit to Project OS X. Installed 
+in /Extra/Extensions. 
+IOUSBFamily Rollback 
+Replaces the current IOUSBFamily.kext and IOUSBMassStorageClass.kext with the unmodified 
+10.6.2 and 10.6.4 versions to restore full functionality to non-DSDT systems running 10.6.3 
+or later. Installed in /System/Library/Extensions. 
+NullCPUPowerManagement 
+Disables AppleIntelCPUPowerManagement.kext to prevent kernel panic without proper HPET 
+DSDT edits. Installed in /Extra/Extensions. 
+USB 3.0 - NEC/Renesas 
+Enables USB 3.0 ports for systems using the NEC/Renesas D720200 controller. LaCie driver 
+patched by modbin. Installed in /System/Library/Extensions. 
+Voodoo PS/2 Controller 
+Enables non-USB keyboard/mouse. Installed in /Extra/Extensions. 
+Voodoo Trackpad 
+Enables PS/2 based touchpads. 32-bit only. Installs VoodooPS2Trackpad.kext in 
+/System/Library/Extensions/VoodooPS2Controller.kext/Contents/PlugIns/. 
+Network 
+Collection of kexts to to enable on-board Ethernet. Install only ONE. 
+Lnx2Mac's RealtekRTL81xx Ethernet 
+Enables Realtek 81xx Ethernet controllers by launching Lnx2Mac's 
+Installer. Installed in /System/Library/Extensions. 
+Hnak's AppleIntelE1000e Ethernet 
+Enables Intel 825xx ethernet controllers. hnak's port of the 
+e1000.sourceforge.net Intel Wired Ethernet for Linux driver. 32/64 
+bit. Installed in /System/Library/Extensions. 
+Realtek Gigabit Ethernet 2.0.6 
+Official Realtek 2.0.6 driver for 81xx Ethernet controllers. Installed 
+in /System/Library/Extensions/IONetworkingFamily.kext/Contents/PlugIns 
+ 
+Bootloaders 
+Install ONE of the following options to make your drive bootable. Not necessary for a 
+EasyBeast or UserDSDT install. 
+Chimera v1.3.0 r760 
+MacMan's branch of Chameleon 2.0 RC5. This version includes support for the latest CPUs 
+and updated GraphicsEnabler code for ATI and NVIDIA GPUs. Does not include any themes. 
+Chameleon 2.0 RC5 Prerelease 
+ 
+Chameleon 2.0 RC5 r699. The prerelease includes updated CPU detection code that includes 
+the i3, improved memory detection, and updated GraphicsEnabler code. Does not include any 
+themes. 
+Chameleon 2.0 RC5 - ATI Experimental 
+Chameleon 2.0 RC5 r744 by Kabyl with experimental ATI GraphicsEnabler support. Does not 
+include any themes.  
+Chameleon 2.0 RC5 â€“ Sandy Bridge 
+Chameleon 2.0 RC5 r709 by valv with experimental Sandy Bridge support. Does not include 
+any themes.
+Customization 
+Click the triangle to expand and view the collection of boot time config files and system 
+customization options. 
+Boot Options 
+Contains pre-edited or scripts to edit /Extra/com.apple.boot.plist files to enable/disable 
+special bootloader features at startup. 
+32-bit Apple Boot Screen 
+Pre-edited standard 32-bit com.apple.boot.plist. Contains GraphicsEnabler=Yes, enabling 
+most NVIDIA and ATI Graphics cards, standard Apple Boot Screen and enables 32-bit kernel. 
+32-bit GraphicsEnabler=No 
+Pre-edited standard 32-bit com.apple.boot.plist. Contains GraphicsEnabler=No, standard 
+Apple Boot Screen and enables 32-bit kernel. 
+64-bit Apple Boot Screen 
+Pre-edited standard 64-bit com.apple.boot.plist. Install ONLY if using a patched DSDT. 
+Contains GraphicsEnabler=Yes, enabling most NVIDIA and ATI Graphics cards, standard 
+Apple Boot Screen and enables 64-bit kernel. 
+64-bit GraphicsEnabler=No 
+Pre-edited standard 64-bit com.apple.boot.plist. Contains GraphicsEnabler=No, standard 
+Apple Boot Screen and enables 64-bit kernel. 
+PCI Root ID Fix 
+Adds PCIRootUID=1 to Kernel Flags in /Extra/com.apple.boot.plist 
+Instant Menu 
+Adds Instant Menu=Yes or replaces Timeout=n in /Extra/com.apple.boot.plist 
+System Definitions 
+Contains pre-edited smbios.plist files that will identify your system as a specific Mac model. 
+Installed by default by EasyBeast, and UserDSDT installations. 
+iMac 
+These pre-edited smbios.plist files will identify your system as an iMac.  
+Mac Pro 
+These pre-edited smbios.plist files will identify your system as a Mac Pro. 
+MacBook Pro 
+These pre-edited smbios.plist files will identify your system as a MacBook Pro. 
+Themes 
+Themes for bootloader GUI customization. 
+Chameleon RC5 Default 
+Default Chameleon RC5 theme. Optimized for standard screens. Installed in /Extra. 
+tonymacx86 Classic 
+tonymacx86 theme. Optimized for standard and/or widescreen displays. Installed in /Extra. 
+tonymacx86 Remixed 
+tonymacx86 theme remixed by complx. Optimized for standard and/or widescreen displays. 
+Installed in /Extra. 
+OSx86 Software
+Helpful OSx86 Utilities and Tools. Installed in Applications folder. 
+Kext Helper b7 
+The drag n' drop kext installer Kext Helper b7 lets you install multiple kexts at once, and also 
+repairs kext permissions and creates a script to tag cache rebuild. Installed in Applications 
+folder. 
+Kext Utility 
+Installs kexts one at a time, and does 'full service' Extensions.mkext creation. The best 
+feature of Kext Utility is its interface to create caches- you simply drag the Extensions folder 
+directly on top of the icon in Applications folder or Dock. Installed in Applications folder. 
+MSR Tools 
+MSR Tools is a thermal sensor program that shows CPU info. In addition to live stepping, it 
+also shows temperature readings, CPU MHZ values and mVolt values. NOTE: 32-bit only. 
+Installed in Applications folder. 
+ShowAllFiles 
+ShowAllFiles enables display of all hidden files in Finder. Very useful for locating hidden boot 
+files, mach_kernel, etc... Installed in Applications folder.

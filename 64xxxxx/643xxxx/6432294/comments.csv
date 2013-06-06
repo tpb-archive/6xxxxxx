@@ -1,0 +1,24 @@
+User Type,Username,Date,Text
+,The_Abee,2011-05-30T23:58Z,"Comments..????
+
+Hows' it...?"
+,aszimir,2011-06-01T14:34Z,3.2.1 firmware is for the ad-supported Kindles ONLY  and has not been jailbroken. I wouldn't advise installing this on your non-ad-supported Kindle. What we need is a dump of the 3.1 firmware from a regular Kindle 3.
+,yifanlu,2011-06-02T04:35Z,"Hi, I wrote the script that made this image and I took a look at it. 1) it's safe and it works, 2) 3.2.1 is not jailbroken but this one is. The jailbreak is installed on this image. 3) there are no ads and screensaver hack works. "
+,DamienFox,2011-06-02T20:56Z,"Does this work on a Kindle 2 International version? Is the 3.2.1 update included pre-generated, or is the generation still required? 
+
+The readme is kind of lacking. :/
+
+Seeding this."
+,flashwei,2011-06-16T20:09Z,It works perfectly on my kindle 2. But how can I tell if this image is jailbroken or not? Thanks
+,aszimir,2011-06-19T20:24Z,"Cheers, yifanlu. I confirm it's working on a Kindle DX Graphite."
+,mypbname,2011-06-23T14:24Z,"It works very well (except crackling noises on MP3's, and active content like Games you may have trouble with) on the k2i (serial b003xxxxxx).  The web browser is much better (Whispernet works).  It's a upgrade, all your books/music will remain after upgrade.
+
+Easier directions:
+You must be on version 2.5.8 right now, if not download it (search google for ""kindle firmware"").  Next, open up kindleupdater.zip, select your kindle version.  Put that file on the root of your kindle.  Unmount or remove USB cord, hit the home button, menu, settings, menu, update.  plug in and let it be for around an hour.  Connect the USB cord to computer when done. Copy to the Output folder somewhere on your computer for safe keeping, in case you need to downgrade.  Make sure the contents of the Output folder a deleted afterwards to safe space.  Next copy update_kindle_3.2.1.bin and follow the upgrade instructions above.  
+
+Boo to Amazon for not supporting the last gen, especially when I bought it new 1 month before k3 came out!"
+,aszimir,2011-06-27T00:07Z,"mypbname++
+
+That said, I've had it installed for a week now, and in that time I have noticed it being VERY slow to wake from fully asleep, and it has crashed and rebooted on me once while reading a PDF. I suppose we can't expect complete perfection from a backported, free hack :)"
+,watchguys,2011-12-07T05:46Z,Some one seeeed.... plz...
+,paper21,2012-06-16T14:29Z,Thank you so much. I've upgraded my kindle DXG from 2.5.8 to 3.2.1. everything works ok (execpt known bugs).I recommend this.

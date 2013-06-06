@@ -1,0 +1,51 @@
+WarLordConsole ALPHA Release 21/08/2006
+ by Labmaster
+ 
+This is a command line utility for dumping and inserting maps from 
+Nintendo/Intelligent System's Gameboy Advance game "Advance Wars 2:
+Black Hole Rising". 
+
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦
+
+This utility created by labmaster is very useful and is the required tool for 
+inserting compressed maps into Advance Wars 2.  However, using the utility 
+is hard and has taken me a week to figure out how to use it.  
+
+It turns out the reference.xml file needed updated to include all the list of 
+terrain and units.  So I have gone and sent this update to romhacking net to 
+include the latest files.  
+
+Many thanks to rpgfan for working out how the utility works.  If it werenâ€™t 
+for him, I would have never figured out how to use this.    
+
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦
+
+The utility that you have downloaded should include the following:
+
+- An updated reference.xml
+- Four .xml map examples 
+- An AW2 cleaner patch, apply this if the rom you are using has a hacked 
+  intro when you play the rom
+- An AW2 gba save file named â€˜aw2.savâ€™
+- List of AW2 Terrain (almost finshed)
+- Useful Hacking Notes
+- Labmaster's readme file
+- RadioShadowâ€™s readme file
+- Other stuff to make the utility work 
+
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦
+
+You should now have version 1.2 of this utility.  I have gone and done a 
+massive update to the reference file and added most of the AW2 terrain.  
+Also include some useful hacking notes and included a few more sample 
+maps.  
+
+I have started to create a guide on how to use it.  
+
+Adding W2 Maps â€“ Using â€˜WarLordConsoleâ€™  
+http://forums.warsworldnews.com/viewtopic.php?p=231103#231103
+
+Adding W2 Maps â€“ Basic â€“ Part 1  
+http://forums.warsworldnews.com/viewtopic.php?t=8097
+
+Check 'Labmaster's readme' file for more informtion on using this utility.

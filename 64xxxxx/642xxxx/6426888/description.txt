@@ -1,0 +1,30 @@
+Goal
+
+The Goal of TDMaker is to create a Description and a Torrent of a Media file.
+
+TDMaker is coded using C# and requires Microsoft .NET Framework 3.5 or above. TDMaker Windows Installer will auto-install Microsoft .NET Framework if the it is not present in the target system.
+Features
+
+Get Movie Info using MediaInfo
+Generate a screenshot using MTN
+Upload to ImageShack or TinyPic
+Copy Media Info and Screenshot using a Template to clipboard
+Create Torrent using MonoTorrent
+
+Tested in
+
+Windows XP 32-bit
+Windows Vista 32/64-bit
+Windwos 7 Build 7000 32-bit
+Ubuntu 8.10 32-bit
+
+Note
+
+I,ve added my template the one i use on my torrents at moment you can create/edit you,re own template or add things to existing templates
+
+ 
+http://www.shotpix.com/images/93930851755588233004.jpg
+ 
+http://www.shotpix.com/images/75304453971090985416.jpg
+ 
+http://www.shotpix.com/images/63820157333343695964.jpg

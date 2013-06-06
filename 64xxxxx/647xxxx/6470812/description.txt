@@ -1,0 +1,21 @@
+The Parted Magic OS employs core programs of GParted and Parted to handle partitioning tasks with ease, while featuring other useful software (e.g. Partimage, TestDisk, Truecrypt, Clonezilla, G4L, SuperGrubDisk, ddrescue, etcâ€¦) and an excellent set of info to benefit the user. An extensive collection of file system tools are also included, as Parted Magic supports the following: btrfs, ext2, ext3, ext4, fat16, fat32, hfs, hfs+, jfs, linux-swap, ntfs, reiserfs, reiser4, and xfs.
+Parted Magic requires at least a i586 processor and 312MB of RAM to operate or 175MB in â€œLiveâ€ mode.
+
+Features
+Format internal and external hard drives.
+Move, copy, create, delete, expand & shrink hard drive partitions.
+Clone your hard drive, to create a full backup.
+Test hard drives for impending failure.
+Test memory for bad sectors.
+Benchmark your computer for a performace rating.
+Securely erase your entire hard drive, wiping it clean from all data.
+Gives access to non-booting systems allowing you to rescue important data.
+Runs from the CD, no install required.
+
+6/14/2011: Parted Magic 6.2
+It's that time of the month again. The most noticeable change is Rox now handles the desktop icons and feh displays the desktop wallpaper. These seemed like the best light weight choices in preparation for the new PCManFM when it's released as stable. Parted was upgraded to 3.0, but GParted is still linked against LibParted 2.4 for now. All fonts should look good in Firefox if you use a language other than US English. A few other useful programs were added like ZFS Fuse, Lilo Setup, Rox Filer, and FixParts.
+Updated programs: testdisk-6.12, parted-3.0, linux-2.6.38.8, chntpw-110511, gparted-0.8.1, unetbootin-linux-549, module-init-tools-3.16, lilo-22.8, boot_info_script-0.60, file-5.07, flashrom_0.9.3+r1323, lsscsi-0.25, lzip-1.12, rsync-3.0.8, sdparm-1.06, xfsdump-3.0.5, xfsprogs-3.1.5, xz-5.0.2
+ 
+http://partedmagic.com/doku.php
+
+md5sum : 6d34df676ed75d566b20d5c4652d3229  pmagic-6.2.iso

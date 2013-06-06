@@ -1,0 +1,73 @@
+Chinatown (1974), directed by Roman Polanski and starring Jack Nicholson, Faye Dunaway, and John Huston.
+
+
+This encoding was ripped from the original DVD using Handbrake 0.9.5. English subtitles have been included within the file itself. Great video and audio quality in a small (2 GB) package.
+
+See the following screenshots for images of how settings were done in Handbrake for this rip, or take a look at the following technological jargon:
+
+
+Video settings: http://postimage.org/image/1o8jtyxac/
+
+Audio settings: http://postimage.org/image/1o8giw8as/
+
+Advanced settings: http://postimage.org/image/1o8n51m9w/
+
+
+General:
+
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 2.01 GiB
+Duration                         : 2h 10mn
+Overall bit rate                 : 2 201 Kbps
+
+Video:
+
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.0
+Format settings, CABAC           : Yes
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 2h 10mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 031 Kbps
+Width                            : 716 pixels
+Height                           : 364 pixels
+Display aspect ratio             : 2.35:1
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.325
+Stream size                      : 1.85 GiB (92%)
+Writing library                  : x264 core 112
+
+Audio:
+
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Duration                         : 2h 10mn
+Bit rate mode                    : Variable
+Bit rate                         : 161 Kbps
+Maximum bit rate                 : 255 Kbps
+Channel(s)                       : 2 channels (L R)
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 150 MiB (7%)
+Language                         : English
+
+Subtitles:
+
+ID                               : 3
+Format                           : mp4s
+Codec ID                         : E0
+Duration                         : 2h 8mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 623 bps
+Maximum bit rate                 : 4 290 Mbps
+Stream size                      : 2.42 MiB (0%)
+Language                         : English

@@ -1,0 +1,9 @@
+User Type,Username,Date,Text
+,kitspony,2011-05-30T17:51Z,"Converted Using...
+
+#!/bin/sh
+ffmpeg -threads 4 -i ""$1"" -r 29.97 -vcodec libx264 -s 480x320 -flags +loop -cmp +chroma -deblockalpha 0 -deblockbeta 0 -crf 24 -bt 256k -refs 1 -coder 0 -me_range 16 -subq 5 -partitions +parti4x4+parti8x8+partp8x8 -g 250 -keyint_min 25 -level 30 -qmin 10 -qmax 51 -trellis 2 -sc_threshold 40 -i_qfactor 0.71 -acodec libfaac -ab 128k -ar 48000 -ac 2 ""$1-iphone.mp4"""
+,kitspony,2011-05-30T18:59Z,Sorry about the craptastic upload speed. They only have 768kbps up available here =/ 
+,sheepdog7,2011-06-09T04:43Z,can you SEED this? i've been getting miserable speeds and i'm stuck ~45%. i'll seed when i'm finished but i'd like to have the whole thing.
+,mistypaw,2011-06-10T05:27Z,"Subtitles for all but ep 17 and 26. If anyone finds those two, lemme know?
+http://www.opensubtitles.org/en/subtitles/4172488/my-little-pony-friendship-is-magic-en"

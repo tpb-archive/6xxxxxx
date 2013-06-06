@@ -1,0 +1,170 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 6. June 2011, 11:21
+
+Kiss / Killers
+
+Used drive  : HL-DT-STBDDVDRW GBC-H20L   Adapter: 0  ID: 1
+
+Read mode : Burst
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : No
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 768 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE
+Additional command line options : -6 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s -o %d
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.33 |  3:55.00 |        33    |    17657   
+        2  |  3:55.33 |  3:27.00 |     17658    |    33182   
+        3  |  7:22.33 |  4:19.25 |     33183    |    52632   
+        4  | 11:41.58 |  3:17.25 |     52633    |    67432   
+        5  | 14:59.08 |  2:37.25 |     67433    |    79232   
+        6  | 17:36.33 |  3:59.00 |     79233    |    97157   
+        7  | 21:35.33 |  4:31.00 |     97158    |   117482   
+        8  | 26:06.33 |  3:45.00 |    117483    |   134357   
+        9  | 29:51.33 |  3:57.00 |    134358    |   152132   
+       10  | 33:48.33 |  4:12.00 |    152133    |   171032   
+       11  | 38:00.33 |  4:19.00 |    171033    |   190457   
+       12  | 42:19.33 |  3:58.00 |    190458    |   208307   
+
+
+Track  1
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\01 Kiss - I'm A Legend Tonight.wav
+
+     Peak level 86.4 %
+     Test CRC 828DE474
+     Copy CRC 828DE474
+     Accurately ripped (confidence 7)  [192C9EE6]
+     Copy OK
+
+Track  2
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\02 Kiss - Down On Your Knees.wav
+
+     Peak level 76.2 %
+     Test CRC 5E1DC91E
+     Copy CRC 5E1DC91E
+     Accurately ripped (confidence 8)  [E46C8393]
+     Copy OK
+
+Track  3
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\03 Kiss - Cold Gin.wav
+
+     Peak level 57.6 %
+     Test CRC D3F596CB
+     Copy CRC D3F596CB
+     Accurately ripped (confidence 7)  [7E9B932F]
+     Copy OK
+
+Track  4
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\04 Kiss - Love Gun.wav
+
+     Peak level 84.5 %
+     Test CRC A95E943B
+     Copy CRC A95E943B
+     Accurately ripped (confidence 7)  [7DCA0D83]
+     Copy OK
+
+Track  5
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\05 Kiss - Shout It Out Loud.wav
+
+     Peak level 74.8 %
+     Test CRC 44898520
+     Copy CRC 44898520
+     Accurately ripped (confidence 7)  [181B6C31]
+     Copy OK
+
+Track  6
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\06 Kiss - Sure Know Something.wav
+
+     Peak level 65.6 %
+     Test CRC DC5629D2
+     Copy CRC DC5629D2
+     Accurately ripped (confidence 7)  [ABAB3027]
+     Copy OK
+
+Track  7
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\07 Kiss - Nowhere To Run.wav
+
+     Peak level 83.7 %
+     Test CRC D83A7344
+     Copy CRC D83A7344
+     Accurately ripped (confidence 7)  [1BC178C9]
+     Copy OK
+
+Track  8
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\08 Kiss - Partners In Crime.wav
+
+     Peak level 92.0 %
+     Test CRC 022AAA9B
+     Copy CRC 022AAA9B
+     Accurately ripped (confidence 8)  [74248C13]
+     Copy OK
+
+Track  9
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\09 Kiss - Detroit Rock City.wav
+
+     Peak level 78.1 %
+     Test CRC 6FA530AA
+     Copy CRC 6FA530AA
+     Accurately ripped (confidence 7)  [6383CA85]
+     Copy OK
+
+Track 10
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\10 Kiss - God Of Thunder.wav
+
+     Peak level 81.1 %
+     Test CRC 254FD6DE
+     Copy CRC 254FD6DE
+     Accurately ripped (confidence 7)  [1082502E]
+     Copy OK
+
+Track 11
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\11 Kiss - I Was Made For Loving You.wav
+
+     Peak level 92.5 %
+     Test CRC 688B7A7E
+     Copy CRC 688B7A7E
+     Accurately ripped (confidence 7)  [48E33DE4]
+     Copy OK
+
+Track 12
+
+     Filename C:\Musikk\Torrents\Shared\Kiss - Killers (1982)\12 Kiss - Rock and Roll All Nite (live).wav
+
+     Peak level 66.5 %
+     Test CRC 0795AF7C
+     Copy CRC 0795AF7C
+     Accurately ripped (confidence 7)  [C59B23D7]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

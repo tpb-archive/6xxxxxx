@@ -1,0 +1,46 @@
+TeraCopy is a compact program designed to copy and move files at the maximum possible speed.
+
+Features: 
+
+- Copy files faster. TeraCopy uses dynamically adjusted buffers to reduce seek times. Asynchronous copy speeds up file transfer between two physical hard drives. 
+- Pause and resume file transfers. Pause copy process at any time to free up system resources and continue with a single click. 
+- Error recovery. In case of copy error, TeraCopy will try several times and in the worse case just skip the file, not terminating the entire transfer.
+- Interactive file list. TeraCopy shows failed file transfers and lets you fix the problem and recopy only problem files.
+- Shell integration. TeraCopy can completely replace Explorer copy and move functions, allowing you work with files as usual. 
+- Full Unicode support. 
+- Windows 7 x64 support. 
+
+Pro Features:
+
+- Copy/move to favorite folders.
+- Select files with the same extension/same folder.
+- Remove selected files from the copy queue.
+
+
+Languages:
+
+English, Arabic, Czech, Danish, German, Spanish, Spanish (Argentina), Persian (Iran), French, Israeli Hebrew, Italian, Japanese, Korean, Dutch, Polish, Brazilian Portuguese, Portugal Portuguese, Romanian, Russian, Slovak, Slovenian, Thai, Turkish, Vietnamese, Chinese (Simplified), Chinese (Traditional)
+
+
+Changelog (September 22nd, 2010):
+
+Added: Better USB devices ejection. 
+Added: Option CardReader to ini file. 
+Added: Option ForceSameDriveMode to ini file. 
+Added: New language strings. 
+Fixed: Crash when testing md5 files. 
+Fixed: Always test target folder and request admin privileges if needed. 
+Specify a device name (e.g. CardReader=Multi-Card reader) to unmount volumes instead of ejecting a card reader device.
+
+
+Install:
+
+Run the installer and then run CopyLicense.bat (Copies the license data to "C:\Program Files\TeraCopy")
+
+
+Portable version: http://thepiratebay.org/torrent/6452159
+
+
+Cheers,
+
+ADHDerby

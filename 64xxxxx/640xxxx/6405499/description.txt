@@ -1,0 +1,16 @@
+Open Worms.exe and extract to desired location.
+If you installed steam in a different location than C:\Program Files\Steam, edit the config.ini file to point to your correct steam app dir.
+
+Launch the game with Install & Play Worms.exe.
+
+
+Make sure you install Worms.exe to the same harddrive your steam.exe is on for instant gameplay.
+
+The loader will move worms game files to your steam dir, copy SmartSteam to your steam dir and open it,
+Then when you're done playing worms, it will automatically move all the files back to the temp installation dir.
+
+If it's installed to a different harddrive, it will have to "fake move" (copy and delete) all files each time,
+Which will mean a long time before you can play worms.
+
+
+Loader created by Tophness - chrismrulz@hotmail.com

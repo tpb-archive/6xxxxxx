@@ -1,0 +1,90 @@
+The No. 1 Media & Blu-ray Player
+
+
+The No.1 Blu-ray player just got better with NEW PowerDVD 11.
+Experience all your media in a whole new light whether they are on disc, your computer, mobile devices or cloud.
+ 
+Find out more about PowerDVD 11's amazing features:
+
+- Enjoy all your HD media - movies, music, and photos
+- Play media from anywhere - PCs, smart devices, and cloud
+- Enhance the quality of all your media - videos, photos & music
+- Watch videos & photos on YouTube, Facebook and Flickr
+- Control PowerDVD from your iPhone, iPad & Android device with PowerDVD Remote
+ 
+PowerDVD 11 is the undisputed choice for all your media needs. Experience this amazing universal media player today.
+ 
+
+Available Languages:
+
+English, Chinese (Traditional), Japanese, Spanish, Korean, Chinese (Simplified), German, French, Italian, Russian, Portuguese
+
+
+Preactivated Recompressed Setup:
+
+- Installs the Ultra Version, pre-activated and pre-registered
+- The MoovieLive and Movie Remix features are disabled by default
+- Sets the cursor hide time in Full Screen to 1 sec (default = 3)
+
+
+-----------------------------------------------------------------------------------
+
+Changelog build 1719 (2011-05-27):
+
+Updated:
+- Add YouTube search function
+- Improve 3D file, BD3D, side-by-side BDAV playback support
+- Improve DLNA playback support and DTCP-IP activation flow
+- Improve file playback support on IFO, M3U, PM4
+- Improve nVidia 3DVision support on 3D playback over HDMI 1.4 connection
+
+Resolved Issues:
+- Keyboard control could not work in CyberLink PowerDVD Cinema mode
+- MCE-remote control could not work correctly in CyberLink PowerDVD cinema mode
+- CyberLink PowerDVD could not launch on specific ATI platform
+- CyberLink PowerDVD could not close correctly when launched from Windows Media Center
+- CyberLink PowerDVD could not keep HD Audio or TT-Surround setting after stop playback
+- CyberLink PowerDVD did not have Dolby Headphone setting in advance menu
+- Fullscreen playback on secondary display has letterbox issue
+- File association does not work
+- Translation issues
+
+-----------------------------------------------------------------------------------
+
+
+Install: Just run Setup.exe and you are done, it's registered and activated.
+
+
+========================================
+:: 2 skins for PowerDVD 11 build 1719 ::
+========================================
+
+Changes between the default and the modified skins:
+
+* Replaced the backgrounds and removed the Feature Icons (logos)
+* Changed the autohide delay from the tabs to 1 sec (default = 3)
+* Removed the adds (New DVD Release section) from the resume page
+
+
+================================
+:: Tweak Pack for PowerDVD 11 ::
+================================
+
+Blu-Ray_Region_Reset.bat:         Resets the Blu-Ray region settings
+Disable_BD_Mouse_Pop-up.bat:      Disables the Blu-Ray disk Mouse support Pop-up
+Enable/Disable_MoovieLive.bat:    Enables/Disables MoovieLive, Remix & Comments
+MouseScroll_Setting.bat:          Change the Mouse scrolling value (Time, Step)
+Enable/Disable_CLFLVSplitter.bat: Enables/Disables the FLV Splitter *
+Remove/Restore_StartupApps.bat:   Removes/Restores the Startup Applications **
+
+*   CLFLVSplitter.ax can cause a crash when you play flv videos in Windows Media
+    Player. Disable_CLFLVSplitter.bat unregisters the FLV Splitter, which fixes
+    the problem
+
+**  Enables/Disables BDRegion and RemoteControl11 from running at startup.
+    Don't disable them if you're planning to use a remote to control PowerDVD!
+
+
+Cheers,
+
+ADHDerby

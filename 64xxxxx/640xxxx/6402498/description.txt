@@ -1,0 +1,83 @@
+As part of the NVIDIA Verde Notebook Driver Program, this is a reference driver that can be installed on supported NVIDIA notebook GPUs. However, please note that your notebook original equipment manufacturer (OEM) provides certified drivers for your specific notebook on their website. NVIDIA recommends that you check with your notebook OEM about recommended software updates for your notebook. OEMs may not provide technical support for issues that arise from the use of this driver.
+
+Before downloading this driver: 
+1.Please check to make sure that your notebook has a supported GPU (refer to the Products Supported tab below).
+2.It is recommended that you backup your current system configuration. Click here for instructions.
+3.If you own a Dell Inspiron 1420, Dell XPS M1330, Dell XPS M1530, or Dell Latitude D630/D630c it is highly recommended that you first install this Dell software update.
+RELEASE HIGHLIGHTS : 
+This is the first release from the Release 275 family of drivers (versions 275.xx to 279.xx). You can read more about this family of drivers on GeForce.com. 
+
+This driver supports the following NVIDIA notebook GPUs (please refer to the Products Supported tab for exceptions):
+
+Î“Î“Ã©Â¼Ã³ION notebook GPUs.
+Î“Î“Ã©Â¼Ã³GeForce 8M, 9M, 100M, 200M, 300M, 400M, and 500M-series notebook GPUs. 
+Î“Î“Ã©Â¼Ã³Quadro 5000M, 2000M and 1000M notebook GPUs. 
+Î“Î“Ã©Â¼Ã³Quadro NVS-series notebook GPUs (only those that support DirectX 10 or higher). 
+Î“Î“Ã©Â¼Ã³Quadro FX-series notebook GPUs (only those that support DirectX 10 or higher). 
+New in Release 275.27
+
+Performance
+
+Î“Î“Ã©Â¼Ã³Increases performance for GeForce 400 Series and 500 Series GPUs in several PC games vs. v270.61 WHQL drivers. The following are some examples of improvements measured on Windows 7. Results will vary depending on your GPU and system configuration:
+GeForce GTX 580: 
+Î“Î“Ã‡Ã¶ÂªUp to 4% in Crysis 2
+Î“Î“Ã‡Ã¶ÂªUp to 5% in Civilization V with SLI
+Î“Î“Ã‡Ã¶ÂªUp to 9% in Portal 2
+Î“Î“Ã‡Ã¶ÂªUp to 13% in Bulletstorm with Antialiasing enabled
+Î“Î“Ã‡Ã¶ÂªUp to 15% in Batman: Arkham Asylum with PhysX High
+GeForce GTX 560: 
+Î“Î“Ã‡Ã¶ÂªUp to 6% in Crysis 2
+Î“Î“Ã‡Ã¶ÂªUp to 8% in Portal 2
+Î“Î“Ã‡Ã¶ÂªUp to 14% in Batman: Arkham Asylum with PhysX High 
+Î“Î“Ã‡Ã¶ÂªUp to 15% in Bulletstorm with Antialiasing enabled
+Î“Î“Ã©Â¼Ã³Increases performance by up to 12% for dual-core CPUs in CPU-limited cases.
+NVIDIA Update
+
+Î“Î“Ã©Â¼Ã³In Release 275, NVIDIA Update adds automatic SLI, multi-GPU, and antialiasing (AA) profile updates. These profile updates are automatically downloaded from NVIDIA and silently installed on your PC, keeping it up-to-the-minute with the latest game profiles. When you install a Release 270 or later GeForce driver from www.nvidia.com, you will be presented with the option to install NVIDIA Update. Click here to learn more about NVIDIA Update.
+Desktop Scaling
+
+Î“Î“Ã©Â¼Ã³New NVIDIA Control Panel user interface for configuring desktop scaling, including new preview window.Î“Î“Ã©Â¼Ã³Now consistently available for all displays (including VGA and HDMI connections).
+Î“Î“Ã©Â¼Ã³New scaling override option for Windows 7 gaming.
+Î“Î“Ã©Â¼Ã³Improved desktop resizing user interface that guides the user to disable overscanning using their HDTV controls and also provides a fallback option to enable desktop resizing via the NVIDIA Control panel.
+Î“Î“Ã©Â¼Ã³NVIDIA desktop resizing now creates a custom, resized resolution with 1:1 pixel mapping and resizes standard resolutions for games that donÎ“Î“Ã©Â¼Î“Ã¤Ã³t support custom resolutions.
+NVIDIA 3D Vision 
+
+Î“Î“Ã©Â¼Ã³NVIDIA with Release 275 drivers, the 3D Vision Controller driver is now included with all GPU driver installations. This driver package includes v275.22 3D Vision Controller driver. Users are no longer required to install a separate 3D Vision Controller driver or CD driver. For more information, please view this knowledgebase article for more information. 
+Î“Î“Ã©Â¼Ã³3D Vision Window Mode support. Please view this knowledgebase article for more information.
+Î“Î“Ã©Â¼Ã³Added support for 3D Vision Photo viewer to now work in Window Mode. When you have opened a 3D picture file check the Î“Î“Ã©Â¼â”¼Ã´ViewÎ“Î“Ã©Â¼â”¬Â¥ section for this new option.
+Î“Î“Ã©Â¼Ã³Improved 3D Vision IR emitter and 3D Vision glasses synchronization
+Î“Î“Ã©Â¼Ã³Adds support for new 3D Vision projectors: NEC NP-V300X series
+Î“Î“Ã©Â¼Ã³Adds support for new 3D Vision notebooks: Alienware M17x R3, Dell XPS L702x, ASUS VX7-3DE, ASUS G53SW-3DE, ASUS G53SX-3DE, ASUS G74SX-3DE 
+Î“Î“Ã©Â¼Ã³Adds support for new 3DTV Play notebooks: ASUS VX7, ASUS G53SW, ASUS G53SX, ASUS N73SW, Dell XPS 15z 
+Î“Î“Ã©Â¼Ã³Added the following 3D Vision game profiles: 
+Î“Î“Ã‡Ã¶ÂªAge of Empires Online
+Î“Î“Ã‡Ã¶ÂªAssassin's Creed Brotherhood
+Î“Î“Ã‡Ã¶ÂªBattlefield Play4Free
+Î“Î“Ã‡Ã¶ÂªDuke Nukem Forever
+Î“Î“Ã‡Ã¶ÂªDungeon Siege III
+Î“Î“Ã‡Ã¶ÂªPortal 2
+Î“Î“Ã‡Ã¶ÂªSuper Street Fighter IV
+Î“Î“Ã‡Ã¶ÂªWorld of Tanks
+Î“Î“Ã©Â¼Ã³Update the following 3D Vision game profiles
+Î“Î“Ã‡Ã¶ÂªPortal 2 Î“Î“Ã©Â¼Î“Ã‡Â£ fixed water reflection problem and updated convergence setting to provide a better user experience
+Î“Î“Ã‡Ã¶ÂªThe Witcher 2 Î“Î“Ã©Â¼Î“Ã‡Â£ Improved 3D Vision compatibility for all in-game effects
+Other 
+
+Î“Î“Ã©Â¼Ã³Installs HD Audio driver version 1.2.23.3Î“Î“Ã©Â¼Ã³Installs PhysX System Software to version 9.10.0514
+Î“Î“Ã©Â¼Ã³Supports the new GPU-accelerated features in Adobe CS5. 
+Î“Î“Ã©Â¼Ã³Supports GPU-acceleration for smoother online HD videos with Adobe Flash 10.1. Learn more here. 
+Î“Î“Ã©Â¼Ã³Supports the new version of MotionDSP's video enhancement software, vReveal, which adds support for HD output. NVIDIA customers can download a free version of vReveal that supports up to SD output here.
+Î“Î“Ã©Â¼Ã³Supports DirectCompute with Windows 7 and GeForce 8-series and later GPUs.
+Î“Î“Ã©Â¼Ã³Supports OpenCL 1.0 (Open Computing Language) for all GeForce 8-series and later GPUs.
+Î“Î“Ã©Â¼Ã³Supports OpenGL 3.3 for GeForce 8-series and later GPUs.
+Î“Î“Ã©Â¼Ã³Supports OpenGL 4.1 on GeForce 400 series and later GPUs
+
+new beta driver but not fully Whql certified yet by MS lab.
+However this new driver seems better than 270.61 Whql
+use fast up speed,please !
+
+ty for understanding
+
+Enjoy
+a nice day to all
+best regards		

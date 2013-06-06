@@ -1,0 +1,56 @@
+User Type,Username,Date,Text
+,fromone,2011-05-19T07:10Z,great job!
+,contactorazi,2011-05-19T10:45Z,I hope this works. Waited for this game since Fable 1
+,jason_mendez,2011-05-22T09:45Z,speed is not going up than 2 kbps
+,supasurreal,2011-05-23T19:06Z,Virus with Skidrow map 
+,sarchand,2011-06-05T18:01Z,"You can solve the issues with xlive.dll by downloading the file ""xlive.dll-fix-quickinstall.rar"" and running the bat file in it. search for ""xlive.dll fix"". a missing xlive.dll file can be solved by downloading it from dll-files.com. I spend around two days to sort out this issue with xlive.dll after installing the game. "
+,nyteowlian7x,2011-07-04T19:29Z,"ok so i am a bit confused, i installed it but when i go to play it, it says i need some sort of unlock code and takes me to a website, am i doing something wrong with the instalation or what? need help asap im dying to play this game"
+,yourock112211,2011-07-08T21:39Z,"ok did everything in your directions ( with exception to the messages pertaining to this)   
+
+This software must be authenticated online prior to use. For activation a valid Activation Key and an active Internet connection is required. 
+
+Please visit our support homepage for additional information: http://go.microsoft.com/fwlink/?LinkID=166305
+
+
+Halp pl0x! "
+,sirus19,2011-10-20T22:18Z,"complete install walkthrough
+this should solve everyones problems :)
+
+This came frm @Douink and it worked for me.
+
+WORKING!! READ ME!!
+
+After downloading the game 2 times and many install. I got this working!
+
+You need to do this:
+
+1. Disconnect the Internet
+2. Mount or burn image
+3. Install using serial: 11111-11111-11111-11111-11111
+4. Run setup.exe from the UPDATE folder on the DVD to update game
+5. Copy the poul.dll files from the SKIDROW folder to the game installation.
+
+[ NOW WHAT I DIDEN KNOW]
+
+6. Install the gfwlivesetup.exe from the G4W folder on the DVD
+7. Now LIVE start up. Creat a new account.
+scroll down and klik the link ""create local profile"" (Create a offline account)
+8. If you installed. updadede and pastede the dll right. the game will now start.
+
+Pleas copy and past, if this works for you!!
+And yes! My antivirus also show poul.dll but I accepted it!
+
+-to people experiencing crash-
+â€œFable 3 / Fable III Main Executable Has Stopped Workingâ€ / Runtime Error / Crashes to Desktop (CTD / C2D) / Fail (Failure) to Launch / Black Screen
+When running the EXE, you may encounter this error message randomly in regards to Fable3.exe causing an APPCRASH. It may be related to XLIVE.DLL or your save files being in the wrong location. Of course, it could be related to the Windows Live ID Sign-in or some other problems. This also happens after obtaining the guild seal sometimes or even several other things. Try the following:
+
+â€“ Download and Install Windows Live ID Sign-in Assistant 6.5 choosing between the 64bit and 32bit versions depending on your Windows operating system
+â€“ Try to register your xlive.dll by going to Start -> Run â€” cmd â€” then type in REGSVR32 /u C:\path\to\the\xlive.dll
+â€“ Run the Fable 3 exe in Windows XP compatibility Service Pack 3 (SP3) mode, Launcher, as well as Steam and any other related file
+â€“ Close any program that could possibly interfere with the game or its components (i.e. a firewall)
+â€“ Go to the Control Panel and choose uninstall/reinstall and choose REPAIR
+â€“ Reinstall / Repair Games For Windows Live / GWL
+â€“ Reboot your computer
+â€“ Reinstall Microsoft Games for Windows and Windows Live Essentials (GFWL / GWL / WLE). You can repair Microsoft Life Essentials via the Control Panel instead, but try reinstalling completely if that does not work.
+â€“ Try logging into the Games for Windows Marketplace before launching / opening Fable 3
+â€“ After reinstalling GFWL, copy the xlive.dll from C:\Windows\System32 and paste it in \Steam\steamapps\common\fable 3\ to fix the xlive.dll error. Try registering it if necessary with the CMD from above."

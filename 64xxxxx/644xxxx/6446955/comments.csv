@@ -1,0 +1,111 @@
+User Type,Username,Date,Text
+,MrKingJames,2011-06-05T20:53Z,patch has an error for me
+,kessragnell,2011-06-05T21:11Z,"Try this,  go to your Apps folder,
+right click on Rinse, click Show Package Contents,
+Go to Contents/Resources/js
+Right click on the   app.min.js, click show info
+and under permissions next to EVERYONE, select Read and Write.  That worked for me, let me know if that helps."
+,GetTubed,2011-06-07T01:20Z,"Patch doesn't stop it from being "" trial version"" ..."
+,MrKingJames,2011-06-07T01:53Z,"works now, thx :D"
+,owls4ever,2011-06-08T23:48Z,"Sorry I'm fairly new to torrents. I have installed Rinse, I am having problems with the patch. I have drag&dropped the Rinse application into the patch and says carnt read??"
+,owls4ever,2011-06-09T10:18Z,"got it to work, although it appears to be fine, it only does 100 songs and then asks me to buy!!"
+,Takefive9,2011-06-10T20:19Z,"I'm also having trouble with the patch.  I get the errors:
+
+Examining File : /Contents/Resources/application.html  -> SHA1 Error
+Examining File : /Contents/Resources/js/app.min.js  -> SHA1 Error
+
+I've tried changing the permissions on these two files according to the previous posts.  Please help!"
+,Tres-Baked,2011-06-11T21:06Z,This is only the trial version? this doesn't actually allow you to execute without buying the program?
+,lukascanji,2011-06-16T02:07Z,"i need some help here. here is what i did...
+
+1) i downloaded the torrent, and followed the instruction.
+2) i installed rinse, then closed the program.
+3) then ran the patch and it said it was completed.
+4) so i ran the program to test it out, and it worked. i shut it down once i found it to work.
+5) the next day i wanted to put this program on automatic song fixing, but low and behold, after 100 songs it stated that i needed to buy the full version.
+
+now i beleive that the problem lies in how i opened the patch. if you can assist me or show me an alternate method to make this work it would be greatly appreciated."
+,Stearo,2011-07-02T06:15Z,Any chance you know where to get this for windows?
+,Bradyn12,2011-07-11T06:50Z,Totally works! Just do what kessragnell says to do but do it for all of the folders/files you get an error for. There were four for me. After I changed the 'read only' to 'read & write' for all the errored files it worked!
+,evillynn,2011-07-20T12:48Z,"Hi there I have tried to apply the patch to the program.  All I get is a message stating you cannot apply patch to this file.  No file list no further error messages  just that I cannot apply to file. Followed the instructions below and made app.mini.js read write, tried again and I get the same message. So I went back and made them all read write but still no luck.  Any suggestions/help.  Thanks in advance."
+,evillynn,2011-07-21T17:34Z,"Update it finally allowed me to run the patch but it comes up with this error.  Now I have changed the permissions on both the files listed but still no luck. 
+
+Examining File : /Contents/Resources/application.html  -> SHA1 Error
+Examining File : /Contents/Resources/js/app.min.js  -> SHA1 Error
+
+Any suggestions?"
+,japio280,2011-07-26T19:20Z,"Thanks dude. For the patch to work, you simply need to change the permissions for every file in the error list, as previously suggested. "
+,13LaZin1,2011-07-29T20:47Z,"Thanx kessragnell great torrent! Works flawlessly.  Seeded applications. Then right click & ""Show Package Contents"">Click the folder contents>right click folder name ""Resources"">Get info>change settings for folder named ""Resources"">re-run patch>Done! 
+
+Again, hope I helped. :] "
+,shimon,2011-07-31T16:14Z,i need help with this torrent please i dont know how to get the full version 
+,shimon,2011-07-31T16:28Z,i patched it it said succesfull then i put in on everyone read and write then i opened up the app and it said would u like to buy the full version
+,Monkaay,2011-08-17T14:10Z,"At first the patcher says patch success. But after 100 songs Rinse orders me to buy he program.
+I tried to patch it again, and I got the following error from the patcher:
+
+
+Examining File : /Contents/Resources/application.html  -> SHA1 Error
+Examining File : /Contents/Resources/js/app.min.js  -> SHA1 Error
+
+
+I tried changing the permission and I tried reinstalling everything, but nothing seems to help."
+,izygator,2011-09-04T01:12Z,"I changed the permission. 
+Ran the patch
+When it didn't work i checked back to the files i just changed the permission of and they went back to read only. 
+they do this every time.
+What is happening??"
+,bluedustinman,2011-09-16T03:18Z,Even after I fixed the permissions and it worked still stops at 100 songs. Patch DOES not work. Well it works but doesn't do anything.
+,pricecap,2011-09-16T20:35Z,"This worked for me.  I followed the excellent instructions and 6049 duplicates were removed.
+
+Cheers Guys."
+,mxyzptik,2011-09-17T17:31Z,"Don't know what pricecap is on. I followed the instructions to the letter. 
+
+As most users here have said, it DOESN'T WORK beyond the first 100 songs you get with the free trial anyway. It does nothing."
+,hoon0220,2011-10-19T10:16Z,"Got it to work.. 
+1. Go to the patch
+2. Right Click and show package contents
+3. Go to MacOS folder
+4. Open iPatcher
+5. Select Rinse Application with iPatcher and it will install the Patch on the application. 
+
+So far it's worked perfect "
+,man4unaz,2011-11-05T15:47Z,I have tried all of the suggestions and still it does not work past the first 100 songs. Worthless torrent.
+,tacoalpastor,2011-11-09T15:51Z,"For people having trouble patching.
+1.Install the package inside this torrent
+
+After that select rinse in applications
+2.Click Show Package Contents
+
+3.Go to each of these files:
+/Contents/Resources/application.html
+/Contents/Resources/js/app.min.js
+/Contents/Resources/js/airaliases.js
+/Contents/Resources/js/jquery-1.3.1.min.js
+
+4. For each filed mentioned above select 
+get info
+Change all permision (Staff, user, everyone) to
+Write and read
+
+5.Install patch (Rinse must be closed)
+
+6. Revert the permisions(if u like, safer)
+ after the patch runs
+
+7. Use Rinse!"
+,orangeslice,2011-11-11T12:24Z,Yea it does say only first 100 but if you click keep testing then click the button to fix it again it will do the next 100(As long as you haven't selected fix previously fixed) not the best but so far the only free way to fix my music thats not one by one. Make sure you follow everyones instructions on the patch 1st though.
+,octojofo,2011-12-02T20:15Z,"@orange slice
+That didn't work either. Patch says it worked, program still asks me to buy after 100. Tried everything. No good."
+,octojofo,2011-12-02T20:16Z,Running Snow Leopard 10.6.8 btw
+,Pherrents,2011-12-22T22:04Z,Definitely Does No Work!
+,Trulsdd,2011-12-29T19:20Z,"Does not work for me.  I managed to install the patch and everything, but the program says it can't find any duplicates.  I know there are allot of them... What am I doing wrong?"
+,uigeach,2012-04-24T16:06Z,"Works perfectly once you reset the permissions as described in the comments - probably easiest to Display Contents of the app and then change permissions on absolutely everything inside to Read & Write for all users i.e. your own ID, Staff and Everyone. 
+
+That's what I did and have just removed over 5000 duplicates.
+
+Thank you uploader! 
+
+incidentally I found this only because when I went to buy the App Real Networks don't sell it - they lease it to you for a max of 5 installs which in my eyes is ridiculous - would be OK if they charged $5 but not $39"
+,PSyKaD4,2012-05-13T19:58Z,"I would definitely have no problem paying for this if it were $5, not $39."
+,kttm,2012-05-22T08:05Z,"patch dont patch
+rinse says for everything its done...dont do anything...."

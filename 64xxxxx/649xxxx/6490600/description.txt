@@ -1,0 +1,106 @@
+S  K  I  D  R  O  W
+.the leading force.
+
+proudly presents
+Brink Update 7
+
+23-06-2011........Release Date <-> Protection...............Steam
+FPS..................Game Type <-> Disk(s)....................DOX
+
+RELEASE NOTES
+
+Read changelog.txt for information on updated content!
+
+INSTALL NOTES
+
+1. Unpack release
+2. Run Brink.Update.7.exe
+3. Install
+4. Copy the cracked content from the SKIDROW folder to the main install
+folder and overwrite
+5. Play the game
+6. Support the companies, which software you actually enjoy!
+
+ADDITIONAL NOTES
+
+Fully compatible with the POSTMORTEM version with all languages!
+
+You don't need to have any of the previous updates installed, as this
+update is featuring all previous updated content.
+
+GREETINGS
+
+Unleashed - TiNYiSO - MRN - RADIKAL - POSTMORTEM - GENESIS - SHOCK
+CRUDE - ReUnion - VACE - OUTLAWS - BACKLASH - Titan
+
+ascii art by the
+godlike & terrific duo
+malodix + irokos
+titan artdivision
+
+-----
+
+Brink Update 7 info:
+
+
+A brand-new update is now available for the PC version of Brink, containing a huge stack of improvements and fixes. End game chat, a new Stopwatch results screen, VoIP sliders, a fix for invisible players, networking optimizations, and a massive amount of weapon tweaks are all among the things you'll be getting in this one, and we've assembled the complete changelog for your perusal below. All you need to do to get the update is sign into Steam.
+
+For the dedicated server admins among you, there's a new server available, too, and it's freshly optimized to cut the filesize down to a third. If you haven't already, we recommend updating your server as soon as possible - as before, players with the new update will not be able to connect to servers running the old version of Brink.
+
+With all that out of the way, here's the full changelog for this update:
+
+General
+
+- Fixed invisible players sometimes (dis)appearing
+- Combat Intuition no longer gets triggered by disguised players
+- Flash Bangs no longer affect spectators
+- Fixed being able to collide with grenades as a spectator
+- Fixed drag-to still applying when enemies respawned
+- Enabling cheats now disables character saving and stats reporting for that session
+- Team switch delays now get reset on map restart
+- Vsync is now enabled by default
+- Fixed 3rd person animation when hacking as an Operative
+- Fixed server/client aim issues
+- Fixed dark shadow-band on narrow FOVs
+- Fixed potential crash during map load on client if heavily lagged right before a map change
+- Fixed potential crash if disguising on a dedicated server
+- Fixed odd line appearing during some cinematics 
+
+Levels
+
+- Fixed overtime when repairing the crane on Shipyard
+- Fixed overtime not ending when Hackbox is removed on Reactor
+- Fixed Container City lab door sometimes appearing closed for clients 
+
+User Interface
+
+- Added better chat support for match results and during midtro/outros
+- Added improved Stopwatch mode end-game review screen
+- Added options for VOIP volume in settings menu
+- Fixed navigation issues on menus with password fields
+- Disabled chatting when in solo mode
+- Added support for up to 4 deployable icons
+- Fixed being able to click invisible filter buttons when the filters panel is collapsed 
+
+Balance
+
+- Tweaked several weapons (full details here)
+- Added body type health to Netvars for future tweaking
+- Added map spawn timers to Netvars for future tweaking
+
+Optimizations
+
+- Optimized networking to reduce snapshot sizes
+- Optimised light-rendering
+- Minor performance improvement to static AO rendering
+- Added conditional to sun-rendering to speed it up slightly in case of all shadow
+- Fixed sunlight when indoors in Security Tower
+- Added support for dummy files to improve loading times
+
+Dedicated Servers
+
+- No longer disconnect server if Steam connection is lost and grace period ends
+- Added listClients server command
+- Disabled missing mesh/sound/image warnings on servers
+- Disabled character compositing on servers to reduce server size 
+

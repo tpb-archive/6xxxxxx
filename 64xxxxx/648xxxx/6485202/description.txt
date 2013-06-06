@@ -1,0 +1,16 @@
+Custom Red HatÂ® Distribution and Mirror. A project of members of the computing staff of  Princeton University and the  Institute for Advanced Study. 
+puias 6.1 
+This project was started long before  CentOS or other projects were available. Even if you do not install the core distribution, the Addons, Computational and Unsupported repositories may be of use to you. The Addons repository contains additional packages not included in a stock Red Hat distribution. The Computational repository also includes additional packages, however, these packages are specific to scientific computing. The Unsupported repository is a place where one time packages are put, they are unsupported and may change frequently.
+codename pisa. Based on RHEL 6.1. This product is in no way supported or endorsed by Red Hat. Initial release June 2011.
+ 
+http://puias.math.ias.edu/
+
+Installation
+
+boot.iso located at:
+i386   http://www.elders.princeton.edu/data/puias/6.1/i386/os/images/boot.iso
+x86_64   http://www.elders.princeton.edu/data/puias/6.1/x86_64/os/images/boot.iso
+
+Burn the boot.iso to a blank cd-rom. Select URL when prompted for installation media source. The url should be automatically filled in for the princeton server. If you wish to use the IAS server, change www.elders.princeton.edu to puias.math.ias.edu or one of the European mirrors.
+Issues intalling x86_64 for the desktop : http://puias.math.ias.edu/wiki/64BitIssues
+6.1 is now the default installation for the puias 6 series, the symlink '6' in /data/puias will now point to 6.1

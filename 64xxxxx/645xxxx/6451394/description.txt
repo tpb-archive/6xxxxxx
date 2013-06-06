@@ -1,0 +1,38 @@
+multiMAN 2.00.04 CHANGELOG
+
+Added: Threaded processing for various tasks (downloading covers, scanning, etc) (no more
+GUI interruptions)
+
+Added: XMMB mode will invoke download of missing covers, too
+Added: Support for Genesis+ GX retro emulator (port by squarepusher2)
+Added: Support for FCEUltra (NES/ULTRA) PS3 retro emulator (port by squarepusher2)
+Added: Support for VBA PS3 retro emulator (GameBoy/GameBoy Advanced)
+Added: Support for PNG covers for Retro column (408x408 max resolution) (408x180 for
+best results)
+
+Added: L2+R2 will turn on screensaver mode (or put the PAD on a table/coach/sofa and
+press it down gently)
+
+Added: Caching of the whole XMMB mode
+Improved: XMMB Photo column display and navigation (no more image buffers release
+when full - a lot seamless now)
+
+Improved: Navigation in XMMB is completely rewritten - now smooth and faster than
+original PS3 XMB
+
+Improved: Increased image buffers (50 icons/covers) in XMMB (30 in prev versions)
+Added: Unfolding effect up/down while loading XMMB columns
+Added: Indication in XMMB mode when FTP service is used or background download is
+active
+
+Added: Warning prompt when user leaves multiMAN with active FTP connections
+Added: Screensaver Timeout option in XMMB Settings column (1-10 mins)
+Added: Link to GBATemp website with Online User Manual by Cyan in XMMB WEB
+column
+
+Added: FF/REW for Picture Viewer in XMMB mode (holding left/right or L1/R1)
+Added: Support for 2048 entries per XMMB column
+Added: Virtual memory used for certain tasks (like mp3 playback) to save real memory
+Added: Asnynchroious loading of MP3 files for playback
+Added: A bit more memory allocated to webbrowser and put it in separate container
+Added: MP3 playlist support for 2048 entries (was 128)

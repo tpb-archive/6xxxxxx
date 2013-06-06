@@ -1,0 +1,41 @@
+User Type,Username,Date,Text
+,Zacno1,2011-06-18T15:05Z,"Theres something wrong with English audio, when i mux it on video i get an hish (constant noises), it starts at 10:43min and it lasts till 18:20...
+
+Muxed it 2x and got the same result...Could someone else confirm this or am i the only one :)"
+[T],FatFreddy69,2011-06-25T11:45Z,"@Zacno1
+Click on FILE/Options/Disable header removal compression...
+Nothing wrong with the audio. 
+The later versions of mkvmerge are the problem.
+Version 4.0.0 is way better, less problems, more compatible with xbox etc. "
+,Zacno1,2011-06-26T13:48Z,I'll try that and report back ;)
+,TheMadHat,2011-08-25T23:18Z,not worth 10 gigs
+[T],FatFreddy69,2011-08-26T22:28Z,"@TheMadHat
+
+Format                           : Matroska (without audio)
+File size                        : 4.49 GiB
+
+Separate Audio tracks:
+English       DTS 1500 KB/s, 1.2 GB
+Deutsch      DTS 1500 KB/s, 1.2 GB
+Francais     DTS 1500 KB/s, 1.2 GB
+Italiano       AC3 448 KB/s, 372 MB
+Magyar      AC3 640 KB/s, 532 MB
+Portugues    AAC 160 KB/s
+Russkyi     AC3 448 KB/s, 372 MB (proper dub)
+T端rkce     AC3 640 KB/s, 532 MB
+
+Nobody forces you to download all the files."
+,minjigga,2012-01-07T05:54Z,"Much appreciation Freddy!
+
+Question... Are all the mkvonly releases like this? I've started downloading them (because they're friggin sick), but I haven't gone through and reviewed them. Will I be able to run the .mkv file through mkvmerge again and apply the ""proper"" settings, or will I have to re-download and start again?
+
+To anyone who says the quality isn't worth it, you obviously don't ""get the picture"" ;P"
+,minjigga,2012-01-07T07:25Z,"Actually there is something wrong with the audio.
+
+If you listen to the track by itself, you still hear that messed up portion Zacno was talking about.
+
+Also, tried your fix, no happy happy joy joy.
+
+Its in the audio file itself, not mkvmerge :(
+
+I'm gonna try downloading a 720p copy with dts and extracting the audio from it.. don't know what else there is to do."

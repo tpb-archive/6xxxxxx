@@ -1,0 +1,140 @@
+S  K  I  D  R  O  W
+.the leading force.
+
+proudly presents
+Magicka Update 23
+
+23-06-2011........Release Date <-> Protection...............Steam
+RPG..................Game Type <-> Disk(s)....................DOX
+
+RELEASE NOTES
+
+Read changelog.txt for information on updated content!
+
+INSTALL NOTES
+
+1. Unpack release
+2. Run Magicka.Update.23.exe
+3. Install
+4. Copy the cracked content from the SKIDROW folder to the main install
+folder and overwrite
+5. Play the game
+6. Support the companies, which software you actually enjoy!
+
+ADDITIONAL NOTES
+
+You don't need to have any of the previous updates installed, as this
+update is featuring all previous updated content.
+
+This update has the following DLC included:
+
+Wizard's Survival Kit DLC
+Vietnam DLC
+Marshlands DLC
+Nippon DLC
+Final Frontier DLC
+The Watchtower DLC
+Frozen Lake DLC
+Party Robes DLC
+
+GREETINGS
+
+Unleashed - TiNYiSO - MRN - RADIKAL - POSTMORTEM - GENESIS - SHOCK
+CRUDE - ReUnion - VACE - OUTLAWS - BACKLASH - Titan
+
+ascii art by the
+godlike & terrific duo
+malodix + irokos
+titan artdivision
+
+------
+
+
+
+
+Magicka Update 23 info:
+
+
+Balancing:
+
+-	Characters are now able to teleport to water/ice areas.
+-	Players are now able to cast self while in a pushed state.
+-	Projectile charge time has been reduced from 3 sec to 2 sec.
+-	Adjusted the way push is calculated.
+-	Added damage immunity to characters who are being resurrected.
+-	Water spray no longer knockdowns
+-	Collision damage has been greatly increased.
+-	Collision damage has been adjusted, characters should be knocked down more rarely.
+-	The damage of lightning has been balanced and the origin and direction of lightning area cast has also been adjusted.
+-	Ice damage has received some adjustments and balancing.
+-	Beams now explode on the caster or merge point when reflected.
+-	Decreased beams time to live.
+-	Ice barrier-spawn damage has been balanced (lowered).
+-	Ice lightning barrier damage has been adjusted.
+-	Water barrier push has been adjusted.
+-	Only one type of self casted shield may be active at a time.
+-	Revamped self earth/ice shields.
+-	Increased pure self shield rate of decay.
+-	Pure self shields are now boostable.
+-	Pure self shields touching other pure shields will now cancel both.
+-	Increased elemental aura duration.
+-	Aura time-to-live is now dependant on the element with highest magnitude.
+-	Auras will now have its duration shown as a healthbar.
+
+Features:
+
+-	Added Player versus Player gameplay modes!
+-	Added graphical â€œhaloâ€ to characters with elemental aura buffs.
+-	Added game-pad targeting graphics.
+-	The game lobby has been heavily revamped to accommodate versus settings and pack selection.
+-	Item and magick packs have been added to customize versus gameplay.
+-	Added server browser tabs for simpler filtering.
+-	Added tool tips to lobby and server list.
+-	Added â€œNothing but a man, who can never failâ€ achievement.
+
+Fixes:
+
+-	Grease fields will now properly credit its owner as the attacker when doing damage.
+-	Damages with push properties will now push the target in the correct direction (relative to the blast point)
+-	Solved an issue with copied items having incorrect resistances (most notably Vladâ€™s gauntlet)
+-	Added a drown animation to Vlad.
+-	Losing control (pushed, killed etc) while charging a spell will now properly release the spell.
+-	Fixed a bug in revive which would under some circumstances cause the Magick to try resurrecting an already living player.
+-	Solved an issue where if an avatar spammed spells while trying to move he would in some situations get stuck in the cast animation.
+-	Barriers and shields can no longer be healed by negative damage (ie life).
+-	Napalm will now properly melt ice.
+-	Fixed a bug where shooting an already dead character would still reward scores for the Lead Farmer achievement.
+-	Fixed a bug where under certain circumstances a player wouldnâ€™t get the Good Company achievement.
+-	Fixed an AI-related issue where npcâ€™s would gain infinite avoidance.
+-	Improved path-finding stability significantly.
+-	Fixed CTD magick ID.
+-	Fixed a bug where a lobby game could sometimes crash if a player left.
+-	Improved start-up stability for users experiencing very long delays before the menu becomes available.
+-	Fixed issue with Rain magick for network clients.
+-	Fixed issue with Blizzard magick for network clients.
+-	Fixed an issue which allowed clients to join games in an adventure level-transition.
+-	Fixed an issue where clients would display double the actual damage from attacks.
+-	Fixed an issue where network clients would have problems picking up magick books from the ground.
+-	Fixed an issue where network clients would never reach the endgame of a challenges.
+-	Improved network damage communication.
+-	Projectiles are now more stable over network games and their damage events will always trigger on clients.
+-	The drown animation will no longer get stuck in network games.
+-	Solved several minor network sync issues.
+-	Nullify now properly removes elemental auras.
+-	Water ripple effects are now properly removed whenever a character is removed or killed.
+-	Fixed a bug where barriers would look wet, even though they are not.
+-	Fixed a bug where dynamic lights would remain in the scene when it was restarted.
+-	Fixed Imp specular texture, they will no longer appear white when wet.
+-	Fixed the cloud jittering.
+-	Improved bloom effects.
+
+Known Issues:
+
+-	Network uplink bandwidth, while improved, can be demanding.
+-	Steam attempts to install XNA framework every time game is launched or rare occasion.
+-	Characters and items can in rare cases fall through the level collision mesh, this is due to lag or poor framerate. Many general network improvements and general optimization will reduce this risk.
+-	The game may appear to be stuttering even though framerate is good.
+-	Krietor versus mode spawning is not completely synched over network and may result in colliding spawns.
+-	Camera does not follow or focus on other network gamers in versus mode.
+-	Avatars in charge state does not reset during Krietor mode.
+-	Brawl mode score is not completely synched over network.

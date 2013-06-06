@@ -1,0 +1,103 @@
+Super 8 2011 TS XViD v2 - IMAGiNE
+
+
+Ripper ...........: IMAGiNE 
+IMDB Rating.......: 8.1/10
+Video Codec.......: XVID 
+Release Date......: 20/06/11
+Audio Codec.......: MP3 
+Theatre Date......: 10/06/11
+Audio Bitrate.....: 128 
+Runtime.......: 1h 41mn
+Subtitles.........: NIL 
+Language..........: ENGLISH
+Resolution......: 720 x 304 
+IMDb URL..........: http://www.imdb.com/title/tt1650062/
+
+
+DETAILS:
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 2
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (MPEG)
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 41mn
+Bit rate : 1 805 Kbps
+Width : 720 pixels
+Height : 304 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 24.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.344
+Stream size : 1.28 GiB (93%)
+Writing library : XviD 61
+
+Audio
+ID : 1
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 41mn
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Stream size : 93.3 MiB (7%)
+Alignment : Split accross interleaves
+Interleave, duration : 42 ms (1.00 video frame)
+Interleave, preload duration : 500 ms
+Writing library : LAME3.98r
+Encoding settings : -m j -V 4 -q 2 -lowpass 17 -b 128
+
+
+SOURCES:
+
+VIDEO: .................. EP1C Thanx Mate
+AUDIO: .................. Thanx Mate
+
+
+NOTES:
+
+IMAGiNE bringing you another release.......... Super 8 2011
+
+Ok seems some had lag issues on our first release,so we've gone back and one it again
+Totally did it a different way and used megui to create the script,which gave us the correct framerate....however
+the issue seemed to be with the way it was cammed ,as in set to var fps.
+We opted this time to stick to 24 fps which is what the first part is and the other file we changed fps to match so
+we could append.
+Now onto the filtering side....firstly we used the perspective filter to pull it straight and level,then used the crop option
+and resized.
+Also the film is/was quiet dark so we made it brighter this time round and also we used a smoother to clean the noise and also
+managed to add some sharpness back into.
+Now there was also 4 parts the camera slightly dropped so we cut the files and changed the perspective and crop on each one of them
+so it flows pretty dam nice and hides that movement.
+Audio needed to be resynced due to fps being changed,but same source as before.
+
+
+Screens:
+
+ 
+http://leetleech.org/images/69011140028776637942.jpg
+ 
+http://leetleech.org/images/78336475175027652945.jpg
+ 
+http://leetleech.org/images/85720556525977922396.jpg
+
+
+ENJOY!

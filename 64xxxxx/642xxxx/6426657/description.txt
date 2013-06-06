@@ -1,0 +1,44 @@
+Episode 01 - Captured [3A5F4587].mkv
+Episode 02 - The Return of the Clogg [5CB9CD62].mkv
+Episode 03 - Escape from Marshank [1CB5B0E0].mkv
+Episode 04 - New Friends and Old Enemies [D96342E8].mkv
+Episode 05 - The Play's The Thing [05A8245F].mkv
+Episode 06 - Freedom and Monsters [1EDBE9B0].mkv
+Episode 07 - The Great Escapes [92D5C986].mkv
+Episode 08 - From Marsh To Moutain Heights [33B0A7CD].mkv
+Episode 09 - Heroes and Fools [DB9F3E34].mkv
+Episode 10 - Tunnel Vision [D898260D].mkv
+Episode 11 - Felldoh's Revenge [55D51E3F].mkv
+Episode 12 - Battlefield Marshank [567516DA].mkv
+Episode 13 - Rose of Noonvale [6EE09713].mkv
+
++-----------------------++â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”++-----------------------+
+Â¦                       Â¦| General Information |Â¦                       Â¦
++-----------------------++â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”++-----------------------+
+
+Type.................: Series
+Genre................: Mice
+Platform.............: (m)Any (well, it's MKV, but it should be possible to remux it in MP4)
+Burn Tested..........: No (should work anyway if you can manage it)
+
+Video Format.........: H.264
+Video Container......: MKV
+Source...............: DVD
+Original Format......: NTSC
+Deinterlaced.........: Yes, through DGIndex and AviSynth
+Video Encoder........: x264
+Command Line.........: x264 --qp 19 -o <episode.mkv> <script.avs>
+Resolution...........: 640 x 480
+FPS..................: 23.976 fps
+
+Audio Format.........: AC3
+Source...............: DVD
+Transcoded...........: No
+Bitrate..............: 256.0 kbit (ratio: 32000 â†’ 192000)
+Hz...................: 48,000
+Channels.............: Stereo
+Language.............: English
+
+Subtitles............: None (there are none, asking for them is pointless)
+
+Don't forget to seed!

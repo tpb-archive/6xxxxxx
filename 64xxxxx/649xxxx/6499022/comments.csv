@@ -1,0 +1,47 @@
+User Type,Username,Date,Text
+,lukesaber,2011-06-30T12:45Z,"thanks for helping me seed this!
+my upload speed is terrible. I hope it works for everyone!"
+,thefloorjacker,2011-07-15T21:59Z,"Hi lukesaber, I am having a bit of trouble with installing this, can you help me mate?"
+,disa89,2011-07-24T21:18Z,hi lukesaber i installed the rslogix on my computer and it works perfectly its just saying that its gonna expire in 7 days how can i install it permanently? thanks
+,thefloorjacker,2011-07-31T03:09Z,"Yea man, this is bullshit, ive done everything on these instructions and it just comes up when I want to launch the program "" FTAP does not match, use version 2:10 or 2:20. short tis out dude, i need this shit real bad, ya gotta help, I need this for my project....... cheers mate"
+,lukesaber,2011-10-18T06:03Z,"I apologize for the delay!
+The way it works, is you need to have imdisk load the rslogix.vfd as your a: floppy drive.
+
+Originally this program had a floppy disk you needed to keep inserted to authorize the program.
+
+Once you do this, your 7 day period will disappear and will run as normal.
+
+To communicate with a plc, you must have rslinx installed. There are youtube instruction videos on how to make cables and configure communication drivers.
+
+As for version mismatch, please provide more information and i'll help."
+,silveroblado,2011-11-10T07:01Z,How to run this program on laptop!!dont have floppy drive!!plus cant even find floppy nw!
+,Winex21,2011-11-15T23:11Z,If you are running windows 7 pro and up you can install rslogix in the XP mode and in XP mode you can mount rslogix.vfd as floppy drive in your virtual machine ;-)
+,silveroblado,2011-11-17T19:22Z,thanks bt how to get xp mode in windows 7 ultimate!!and how to mount as floppy drive!!can i use iso mount fr it???
+,disa89,2011-11-23T01:04Z,"there is a way to make it permanent so you dont have to be mounting the imdisk each time you turn your computer on. 1st u mount the imdisk as you would create a drive letter A. then go to start menu and look for ROCKWELL SOFTWARE in programs. then go to a folder that says UTILITIES. open it and it will have MOVE ACTIVATION. right click it and run it as administrator. now simply put move from drive A to drive C or whatever letter your hard drive is. thats it now you wont have to mount the imdisk and each time you boot your computer and open rslogix, it will open without any 7 day trials and it wont expire. hope this helps!!"
+,sap404,2012-01-01T03:58Z,"Hi, firstly many thanks for your angelic upload :)
+
+I am having trouble configuring the communication drive.. can you link the you tube video that you have talked about
+yes.. yes.. am  a lazy bum....
+btw. . i always used slc500 (DH485) emulator along with RSlinx. I am being asked to configure drivers but this doesnt't get accepted . Can you help me out 
+
+
+
+
+
+"
+,sap404,2012-01-02T18:11Z,"whining again . just cant seem to get the application to run programs. everything else works fine .. 
+
+I have tried various drivers and realised that AB_KT_1 is compatible with rslinx classic
+
+but wen i try running the program the error that pops up is :
+No Response from Processor at Selected Path/Node
+DiagnosticStatus Failed 0*FFFFFFFE
+
+Help me out here  "
+,stapesjr,2012-01-27T01:34Z,"Hi lukesaber,
+
+Im relatively new to torrents but I keep getting an error saying 1311.source not found. what is this? and also i noticed someone said they read the instructions and they had problems. what instructions?
+
+Thanks"
+,controld3,2012-03-06T05:18Z,"can you please upload rslogix5000
+thanks"

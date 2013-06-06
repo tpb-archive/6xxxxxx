@@ -1,0 +1,76 @@
+cFosSpeed 6.50 Build 1810 Final - Boost your internet speed
+
+cFosSpeed is a high-performance network driver for DSL modems and routers. Highlights of this program include Traffic Shaping, For DSL modems and routers, Fully compatible with conventional PPPoE drivers, Automatic router detection, Self-calibrating, Highly responsive when used with online games and Peer-to-Peer networks like eMule or Kazaa, and Freely configurable priority classes.
+
+cFos Traffic Shaping reduces delays during data transfer and allows you to surf the Internet up to three times faster. Finally, you can use the full bandwidth of your DSL connection!
+
+During TCP/IP transfer, a certain amount of data needs to be confirmed upon reception before more can be sent. Stalling data confirmation results in delays and transfer-rate slowdowns, thus forcing the sender to wait. Especially for ADSL, it is possible to slow a download to a crawl by choking the upstream channel (which has the smaller bandwidth anyway) with an upload. This is because in such a scenario there is not enough upstream bandwidth left for data confirmation. The standard solution so far has been to try and compensate for this by increasing TCP window size, thereby allowing more data to be sent without immediate confirmation. The main problem here is that this also leads to high ping times (latency) and significant delays during Webpage rendering. Latency of up to 2 seconds is not uncommon for TCP windows with a size of 64k. In short, huge window sizes just won?t let you achieve full download speed. By contrast, cFos Traffic Shaping prioritizes data traffic in such a fashion that important packets zip past regular packets. This way, receipts always arrive in time, and uploads wont ever choke your broadband connection again! cFos Traffic-Shaping technology recognizes a number of important packet types and prioritizes them not only to keep Internet traffic running smoothly but also to ensure particularly low ping times. This not only accelerates surfing and download speeds significantly, but it is also a decisive advantage for online gaming. With cFos Traffic Shaping, you will notice measurable improvements and benefits like:
+
+* Full download rate during upload
+* Consistently quick response time while surfing the Web or running other applications
+* Improved VoIP speech quality
+* Perfect for online gamers!
+* Extended Traffic Shaping for DSL modems, cable modems & routers
+* Highly responsive when used with online games and filesharing (P2P) like eMule, Kazaa or Bittorrent
+* Minimal ping times for streaming audio & video, Voice over IP (VoIP), Internet Radio, etc.
+* Individual program prioritization
+
+Traffic Shaping best for
+* Broadband: DSL, Cable
+* Narrow band: modem, ISDN
+* Mobile
+* Filesharing (P2P)
+* Games
+* Streaming Media, VoIP
+
+Features
+* Low Ping
+* Prioritising programs
+* Prioritising protocols
+* Online Budgets
+* Firewall
+
+Connections:
+* Broadband: Cabel and DSL
+* Narrow band: Modem and ISDN
+* Mobile
+* Media:
+DSL, PPPoE
+DSL, PPPoA (VCmux and LLC)
+DSL, PPTP
+Cable
+ISDN
+IP over AAL
+RFC1483/2684 bridged
+
+Routing:
+* Router and dial-up connections
+* LAN and WLAN
+* Router and Bridge-Mode
+* VPN
+* Multiple connections simultaneously
+* Adjustable routes
+* Several IP adresses per adapter
+
+Traffic Shaping:
+* Multi-User version
+* TX and RX-Shaping
+* L7 Protocol Analysis
+* Prioritization of Programs
+* RTP/VoIP Detection
+* 5 priority queues
+* Individual rules with filter language
+
+Options:
+* Low-Latency Mode
+* Auto-MTU optimization
+
+Extras:
+* Time and volumen budgets
+* Usage Graph
+* Overview of connections
+* Skin-Windows
+* Firewall
+* Data and packet logging
+* 32-Bit and 64-Bit version
+* 12+ languages

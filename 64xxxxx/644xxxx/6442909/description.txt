@@ -1,0 +1,39 @@
+Delete Duplicate Files 4.6.0.1 Final (x86/x64)
+
+Delete Duplicate Files is a tool for deleting duplicated files from the hard drives. Comparing large number of files by content is the kind of operation that may require considerable amount of system resources. Use Resources Consumption settings to tweak that usage so it can blend nicely into your current system environment.
+
+Process Priority:
+To increase the amount of CPU time dedicated to Delete Duplicate Files increase the Process Priority Class to High or Real-time.
+
+Threads Priority:
+To increase the amount of CPU time dedicated to individual threads increase the Process Priority Class to High or Real-time.
+
+Scanning Speed:
+Set scanning speed to Slow if you want Delete Duplicate Files to give more of it's (system assigned) CPU time to other applications (and run slower scans), or to Fast to have it consume 90% (and more) of available system CPU time (and run faster scans). If you plan to extensively use other applications while the scan is in progress, set scanning speed to Slow or Moderate.
+
+Maximum Number of Concurrent Threads:
+Large number of concurrent threads speeds up the operations but increases the memory consumption. If current operations consume too much or your available working memory lower down this number. If you have plenty of working memory set it to the max.
+
+Commit Memory Regions Dynamically:
+Adjust how much the swap file should be expanded during the scanning operations. If the swap file size is an issue set to Off.
+
+Here are some key features of "Delete Duplicate Files":
+Two major scanning methods:
+Â· Standard & Light.
+Â· Standard Method: Compare files by content (byte-for-byte or CRC32 matches).
+Â· Light Method: Compare files by name and size.
+Â· Variety of additional comparison criteria.
+Â· Variety of additional actions.
+Â· Scan sub-folders option.
+Â· Cross-folders scan option.
+Â· Lock-folders option.
+Â· Filters.
+Â· Originals-Detection Rules.
+Â· ctions to perform on duplicates: Delete, Wipe & Move.
+Â· Comprehensive results overview.
+Â· User friendly and intuitive graphical interface.
+Â· Powerful performances.
+Â· Logging.
+
+Homepage - http://www.drivehq.com/
+

@@ -1,0 +1,27 @@
+multiMAN packs many facets: It's a full-fledged Backup Manager, a File Manager, an FTP server,
+and an AVCHD and BDMV (Blu-ray) video player ... plus it does a lot more. It's highly configurable
+with many different display modes. multiMAN is open source
+
+multiMAN 2.00.05 CHANGELOG
+
+Changed: Coverflow mode completely rewritten to use XMMB engine
+Changed: Coverflow shows covers in perspective
+Changed: Better memory management
+Changed: XMMB display mode visualization
+Changed: Caching only of Photo, Music and Retro XMMB columns with their actual size
+(faster boot and exit/restart) (16MB HDD space freed)
+
+Added: Option in XMMB Settings column "XMMB Game Icon Swap" to select mode for
+covers/icons for Game column
+
+Added: Options in XMMB Settings column "Key Repeat Delay" and "Key Repeat Speed"
+Added: Launch .zip ROMs from File Manager (from emulator folders or dev_hdd0 or
+dev_usb00* ./ROMS/[emulator])
+
+Added: Support for FBA Next emulator (port mods by squarepusher2)
+Fixed: PPU crashreport about MultiStream on exit (thanks to an0nymous for the backtrace
+log
+
+Fixed: Minor issues when applying themes
+Fixed: Minor issues/garbage with boot screen on rare occasions
+Removed: Use of virtual memory

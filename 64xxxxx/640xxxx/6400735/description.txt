@@ -1,0 +1,22 @@
+What is this?
+	Simple! It is a utility that sorts your MP3's. This program scans the filename and ID tag of the MP3 to detect the Artist. 
+It then creates folders for each artist and moves the MP3 into that directory.
+
+How do I use it?
+	Select the directory containing the MP3's by pressing the "Select Dir" button.
+	Now press the "Process MP3's" button.
+	The files to be processed are listed in the "Files to Process" window.
+	Folders being created will list in the "Processed Directories" window.
+	Once completed a dialog box will appear advertising the completion.
+	The "Files to Process" window will only contain the MP3's that the application was not able to process.
+
+Why were some of my MP3's not processed?
+	Some MP3's do not contain the artist within the ID tag or filename. Simply rename your MP3 with "Arist - Song 
+Title.mp3" or edit the ID tag using your favourite MP3 player. Winamp is my choice. (www.winamp.com)
+
+Will this program damange my MP3's?
+	Thats silly. Of course not! It scans only the filename and ID tag in Read Only. Does not write to the MP3 file.
+
+What is an ID tag?
+	An ID Tag is a 128 byte structure at the end of an MP3 file. It contains artist and track information so your filenames 
+don't need to be as long or complicated.

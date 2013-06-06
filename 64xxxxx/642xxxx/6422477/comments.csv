@@ -1,0 +1,18 @@
+User Type,Username,Date,Text
+,Triecho,2011-05-28T05:54Z,Can you use the auto update feature with this version after? In version 4.0.3094 after using the keygen the auto updater no longer worked.
+,Kamidora,2011-06-15T23:49Z,"This is great. I just learnt this is replacing our much loved Sunbelt Kerio..
+
+Did you answer the question fromTriecho.
+
+Thanks again and I hope this is as great as kerio"
+,Kamidora,2011-06-16T00:04Z,"Oh' I've just read comments on the other version.
+
+Did you read same comment or at least the notepad ...Triecho??"
+,tsihtyma,2011-09-07T08:56Z,"The multiple 0000's as an activation key did not work.  However, it seems that the program is running but with the annoying ""Your License Has Expired"" notification.  I go to http://www.vipreantivirus.com/Software/VIPRE-Antivirus/Definitions/ to download the updates for the definitions.  That is better for me bc the auto-updates seem to take over CPU usage and slow everything else.  I can dl the updates and manually apply them by opening VIPRE and selecting edit settings....etc.  "
+,usavageiv,2011-09-11T02:49Z,"Triecho's question still doesn't seem to have been answered. IS there a way to activate the automatic update option with this version? 
+It was a real pain to have to do it manually every 3 days with the 4.0.3 version."
+,onyxguapo,2011-10-02T04:30Z,"First of all, thank you for this wonderful piece of software.
+
+Second, to enable automatic daily definitions update, please try using Windows Task Scheduler and create a daily task to run the progam ""SBAMCommandLineScanner.exe"" from your VIPRE installation folder with the argument ""/updatedefs"".
+
+Hope it works for y'all."

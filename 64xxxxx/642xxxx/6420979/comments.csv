@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+,redabaris,2011-06-10T08:11Z,"Verified with Avast Professional, so the game doesn't have a virus, this is for sure. "
+,WampaStomp,2011-06-28T18:34Z,"I tried to use BGMain  as math suggested but I get a Message saying, ""An Assertion failed in ChDimm.cpp at line number 628. Programmer says: Unable to Open BIF:data/Hd0GMosc.bif"". When I try to start the game in the EASY file, nothing happens. What could I do to fix this?"
+,redabaris,2011-07-05T16:45Z,"1. Search in REGISTRY folder and insert (double click..and select yes). 
+2. Extract the archive directly into your drive...don't create another folder before extraction.
+  If doesn't work, even now, leave a message."
+,redabaris,2011-07-05T17:37Z,My mistake.. there is no REGISTRY folder. 
+,GenEmperor,2011-07-11T10:44Z,"Since this was an .exe file I tried to run it but nothing happened so I then started winzip and extracted the file with it. After trying to Start the baldur application I got the ""An Assertion failed in ChDimm.cpp at line number 628. Programmer says: Unable to Open BIF:data/Hd0GMosc.bif.
+
+ I looked this up and fixed it by making a new file called Baldur's Gate then placing both folders that are extracted in it and changing the baldur.ini file (use search to find it faster) in the baldurs gate tutu file. Just type in the drive letter where you installed it after the HD0  and the CD1 through CD6 lines. If the folder was placed in the E drive you would type:
+HD0:=E:\Baldurs Gate II 
+CD1:=E:\Baldurs Gate II\data\ 
+CD2:=E:\Baldurs Gate II\data\ 
+CD3:=E:\Baldurs Gate II\data\ 
+CD4:=E:\Baldurs Gate II\data\ 
+CD5:=E:\Baldurs Gate II\data\ 
+CD6:=E:\Baldurs Gate II\data\
+Don't forget to click file and save to keep these settings after you opened it with notepad.
+"
+,GenEmperor,2011-07-11T10:47Z,I meant to say to type in the drive letter where you have the folders in. This got me to where I can start the game but I haven't played it through yet. This is running on windows vista home premium 32 bit. 

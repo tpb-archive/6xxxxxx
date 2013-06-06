@@ -1,0 +1,63 @@
+[B]Micro XP Pro 0.92 New Edition[/B]
+By DarkReverser
+
+Installation time: ........11min
+Speed:.......................Insane 
+Functionality:..............No errors, Fully functional
+Iso Size:.....................216 MB
+HD Space: ................ 474 MB (after swap deletion)
+Ram Usage: .......... ....49.6MB 
+Security: ...................Improved (Tweaks + Updates)
+Automatic: ................Setup & speed enhancements
+Purpose.....................To minimize iso size while keeping most features and increasing security and speed.
+
+
+[B]New in 0.92 release:[/B]
+  -Complete reanalysis in design decisions lead to scripts being rebuilt; they are now flawless.  
+  -Basically some features weren't working because of certain snipets of the script; completely fixed.
+  -One example is (dial-up, vpn and broadban/DSL) login either wasn't working properly or at all; fixed. 
+  -I researched all removed Components/Services, and maticulously examined the effects of their removal
+  -Added instructions for VmWare; people didn't know how to properly install it on VmWare Player.
+  -Changed Service Descriptions to be more helpful.
+  -Added features folder on Desktop to re-enable underutilized features in XP  
+   Of course, there is also add/remove windows components that can disable or unlock certain XP features
+  -Added "OptimizeXP.bat" to Desktop to maximize speed and reduce memory footprint; 7 questions away. 
+  -Removed Unused Services with Nlite, setuperr.log remains 0 KB :) 
+   Other services are removed via startup.bat (automatic) and finally the rest are removed with OptimizeXP.bat (must run script).
+  -Added another AIO installer, but for Apps suggested by a user
+  -For Windows Updates, it will work if you install KB905474.  But since that is also a backdoor, you might opt for Microsoft Baseline Security Analyser 2.2 
+   which DOES NOT require KB905474.
+
+[B]Summary:[/B]
+
+There are a lot of crap MicroXP out there, and this isn't one of them.
+No need to activate. (VMware has special install instructions)
+Most significant speed enhancement are built-in, except OptimizeXP.bat   
+Feature-wise, this copy has almost all the features of original XP Pro.
+Automatic Windows Update works as explained. 
+App Compatibility now exceeds retail copy.
+Why install this copy instead of retail? No need to activate, malware-free, much faster, more secure and requires less ram than retail copy.  
+Can I use this copy to fix my friend's computer?  Yes, this is a high quality release.
+
+[B]Instructions:[/B]
+
+Make sure you "Force Recheck" the torrent once it is stopped.
+Burn on any media with imgburn WITH the verify option checked. 
+Install is automatic, just configure your bios, choose where to install and everything else will be done for you.
+
+[B]VMware Instructions:[/B]
+
+Micro XP Pro 0.92 is incompatible with "easy install" from Vmware.
+When creating, a new virtual machine YOU MUST SELECT "I will install the operating system later".
+Then start the virtual machine, click on "Virtual Machine", "Removable Device", "CD/DVD, "settings". 
+Select use iso.  Browse to image file, press ok, and restart the virtual machine.
+This time, you will avoid having to put in a serial number, and you will also avoid Error Code: 0x80070002 upon first XP startup.
+You see - easy install bypasses one of my important manual install procedures, that's why you get that error.
+
+[B]Supported Languages:[/B]
+
+Arabic, Armenian, Chinese (Simplified only), Czech, Dutch, English, French, German, Hebrew, Hindi,
+Hungarian, Italian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish, Vietnamese
+
+Only the main regions for the languages are supported.  
+All options in "regional and language options" work, and in accordance to the included languages above.

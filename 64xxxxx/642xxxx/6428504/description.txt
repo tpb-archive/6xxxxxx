@@ -1,0 +1,24 @@
+WAT Fix - Fix your activation problems
+
+If you've used other applications to try and bypass the Windows 7 activation system and/or you've not uninstalled them before trying to use Windows Loader then 9 times out of 10 that's why you're not passing as genuine.
+
+WAT Fix will:
+Uninstall RemoveWAT
+Uninstall HAL7600
+Correct file permissions
+Correct important system files
+Correct services required for activation
+Correct VBS file associations
+Remove Microsoft entries from the HOSTS file
+
+Usage
+Run WAT Fix
+Install Windows Loader
+If required visit the following website to revalidate Windows: www.microsoft.com/genuine/validate/ (Use Internet Explorer)
+Warning: Do not close WAT Fix while it's running.
+
+If after running WAT Fix you're unable to boot then insert your Windows 7 DVD and restore your system by using a System Restore point. The bad news is you'll probably need to format to cure your activation problem if this happens.
+
+Virus scanner results
+All virus scanner detection's are a false-positive. Simply turn off your anti-virus while running the program.
+

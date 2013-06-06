@@ -1,0 +1,49 @@
+This is FL Studio 10.0.2 Assign Final Edition
+
+New In This Version:
+ZGameEditor Visualizer - now allows custom entry of text, bitmaps, 3D Studio meshes, and trigger video by cue-points
+
+Wrapper - New 'Ensure processor state in plugin callback' option for Nexus and related plugins & bugfixes
+
+FL Studio - Bugfixes
+ 
+Newtone - Bugfixes
+ 
+Patcher - Bugfixes
+
+
+More Information:
+Bugfixes:
+	Fixed minor bug in playlist clip preview.
+	Fixed note properties not always selected when clicking on notes.
+	Fixed filenames in DW presets in Patches\Packs
+	DirectWave: fixed freeze when sliding notes for "bounce" looped layers
+	Downloader: fixed bug finding installed path
+	Downloader: use correct user folder for refreshed lists
+	FPC: fixed unmuting pads in some cases
+	Newtone: fixed undo crash
+	Patcher: fixed Y knob automation for XY controller
+	Patcher: fixed crash when pasting control/param values
+	Patcher: fixed update problem when pasting value for activated param
+	Patcher: fixed crash when clearing
+	Patcher: removed Granulizer from plugin list
+	Patcher: read thumbnails from plugin database in addition to plugin thumbnail list
+	Patcher: fixed unlink velocity behaviour
+	Patcher: fixed sending midi pitch to VST plugins
+	Patcher: fixed midi out from some plugins
+	Patcher: fixed freeze using Absynth 5 x64
+	Patcher: fixed SF Player freeze
+	Patcher: fixed lock request from plugin
+	Patcher: fixed transpose implementation
+	Patcher: fixed crash in effect version when not enough audio outputs are available
+	Fixed possible hang in undo when using interfaceless VST1 plugins
+	Fixed wrong tempo exported in rendered projects after messing with steps per beat setting.
+	FL VSTi: fixed freeze on export in Cubase
+
+	Additions:
+	Wrapper: added IAudioPresentationLatency support for VST 3 plugins
+	Reversed behavior when left/right clicking on mixer arming button.
+
+
+And finally...
+All props go to ASSIGN Team!

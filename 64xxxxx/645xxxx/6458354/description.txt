@@ -1,0 +1,70 @@
+Scaling CouchDB
+
+
+Author: Bradley Holt
+
+ISBN: 978-1-449-30343-3
+
+Format: PDF
+Page: 72
+Publisher: O'Reilly Media,Inc.
+Pub. Date: April, 2011
+
+
+
+::Description::
+
+This practical guide offers a short course on scaling CouchDB to meet the capacity needs of your distributed application. Through a series of scenario-based examples, this book lets you explore several methods for creating a system that can accommodate growth and meet expected demand. In the process, you learn about several tools that can help you with replication, load balancing, clustering, and load testing and monitoring.
+
+- Apply performance tips for tuning your database 
+- Replicate data, using Futon and CouchDBâ€™s RESTful interface 
+- Distribute CouchDBâ€™s workload through load balancing 
+- Learn options for creating a cluster of CouchDB nodes, including BigCouch, Lounge and Pillow 
+- Conduct distributed load testing with Tsung 
+
+
+:: Contents::
+
+Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+
+1. Defining Scaling Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+What is Scalability? 1
+Capacity Planning 2
+The CAP Theorem 2
+Consistency 2
+Availability 2
+Partition Tolerance 3
+
+2. Tuning and Designing for Scale . . . . . . . . . . . . . . . . . 5
+Performance Tips 5
+Document Design 8
+
+3. Replication . . . . . . . .. . . . . . . . . . . . . . . . . . . 11
+Filters and Specifying Documents 14
+Conflict Resolution 17
+Picking the Same Revision as CouchDB 20
+Picking a Conflicted Revision 22
+Merging Revisions 23
+
+4. Load Balancing . . . . . . . . . . . . . . . . . . . . . . . . . 25
+CouchDB Nodes 26
+Replication Setup 28
+Proxy Server Configuration 29
+Testing 32
+
+5. Clustering . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+BigCouch 35
+Lounge 36
+Pillow 37
+
+
+##################################################################################
+
+My other torrents can be found here -                    
+http://thepiratebay.org/user/amitverma
+
+Please help keeping the torrent alive. Thank you.
+
+Happy Reading
+Amit Verma
+##################################################################################

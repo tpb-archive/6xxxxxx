@@ -1,0 +1,42 @@
+    Volledige ondersteuning van RAR- en ZIP archieven
+    Hoogtechnologisch, uniek compressiealgoritme, geoptimaliseerd voor multimediagegevens
+    Archiefgrootte tot 8 589 934 591 GB!
+    Ondersteuning van NTFS-beveiliging en datastreams
+    Sterke versleuteling, voor het afschermen van (zeer) gevoelige gegevens (AES 128-bits encryptie)
+    Omgevingsinterface met "Drag en drop"
+    Absolute verzegeling d.m.v. "digitale handtekening" (waarmerkcontrole)
+    Ondersteuning van niet-RAR archieven: 7Z, ACE, ARJ, BZ2, CAB, GZ, ISO, JAR, LZH, TAR, UUE, Z
+    Compact inpakken waardoor de compressie met 5 tot 50% kan verhogen
+    Multivolume archieven volgens instelbare grootte, met CRC-controle
+    WinRAR biedt een klassieke interactieve Windows-interface, maar kent daarnaast ook een opdrachtregel-interface
+    Maken van zelfuitpakkende archieven (ook multivolumes) m.b.v. standaard of optionele SFX-module
+    Ondersteuning van Unicode in bestandsnamen
+    Mogelijkheid tot bijvoegen van een herstelbestand
+
+Nieuw in Versie 4.01
+
+1. Ondersteuning toegevoegd aan binair opgeslagen bestandsgroottes in TAR-archieven. 
+Enkele TAR-archieven gebruiken de binaire grootte-indeling in plaats van de octale vorm voor bestanden groter dan 8 GB.
+
+2. Fouten verbeterd:
+
+a) opdracht "Herstellen" mislukte bij het reconstrueren van de structuur van RAR-archieven die minimaal Ã©Ã©n bestand bevatten met een ingepakte grootte groter dan 4 GB.
+Deze fout had geen invloed op herstel gebaseerd op herstelvolumes. Het deed zich enkel voor indien geen herstelvolume was gevonden en WinRAR reconstructie uitvoerde van de archiefstructuur;
+
+b) zelfs als de optie "Paden niet uitpakken" in het tabblad "Uitgebreid" van het uitpakdialoogvenster was ingesteld als standaardwaarde, dan nog pakte WinRAR bestandspaden uit op het moment dat deze werd opgestart vanuit het rechtermuisknopmenu van Windows Verkenner.
+
+c) na het invoeren van een verkeerd wachtwoord voor een versleuteld ZIP-archieven, negeerde WinRAR in enkele gevallen volgende pogingen om een geldig wachtwoord in te voeren;
+
+d) de opdracht "Wizard" maakte het niet mogelijk om zelf-uitpakkende en multivolume-archieven te maken bij het inpakken van een enkele map of een bestand zonder extensie.
+
+e) de opdracht "Instellingen importeren vanuit bestand" herstelde niet meerregelig commentaar in WinRAR-compressieprofielen;
+
+f) bij het omzetten van RAR-archieven met naamgeving in de indeling 'naam1.naam2.part#.rar' haalde de opdracht "Archieven omzetten" foutief het deel ".name2" weg. Hierdoor had de uiteindelijke archiefnaam de vorm 'naam1.rar' in plaats van 'naam1.naam2.rar'.
+
+g) RAR kon mogelijk vastlopen bij het maken van een nieuw archief met de schakeloptie '-agNNN' indien het archiefnummer in de gegenereerde naam 110 of groter zou zijn.
+
+h) WinRAR gaf niet-Engelstalige bestandsnamen juist weer in 7-Zip-archieven wanneer deze een niet-standaard codepagina in gebruik hadden. Het probleem deed zich enkel voor bij het weergeven, de namen werden wel goed verwerkt bij het uitpakken.
+
+
+
+Lees de leesmij.txt en veel plezier!! En wel blijven delen, niet afhaken als die binnen is!!

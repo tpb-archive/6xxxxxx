@@ -1,0 +1,86 @@
+VideoCharge Studio 2.9.12.656
+
+Videocharge Studio is a video editing software which is intended for those users who regularly work with video, create Internet video galleries, convert video files. Videocharge Studio includes all features for video editing: video converting, splitting video into parts, joining several video files into a single one, adding watermark on video or image (add logo to video or photo), embedding image into video file, creating video from several images, editing audio. Videocharge Studio can edit video without reencoding as well. Videocharge Studio supports all existing video formats and can edit DVD or VOB files. It allows you to work via command line interpreter, extracts frames from video, creates thumbnail for video (for torrent video as well), sets metadata. The application supports a batch processing for editing a lot of files, can process all files in a folder, blur some area on the frame of video and remove watermarks from video.
+
+With the help of VideoCharge Studio you can do the following:
+
+Main
+â€¢ Convert a video, change video or audio stream parameters.
+â€¢ Convert an image, change image file format, parameters.
+â€¢ Convert a video avoiding changing file format. Using it, file of the same format will be created keeping video and audio settings.
+â€¢ Edit video without reencoding. This allows you to save 100% of video quality and edit video file very quickly.
+â€¢ Changing of file format without reencoding. For example, a quickly way to create FLV video from MKV video file.
+â€¢ Edit video files of all main formats, including work with DVD and VOB files.
+â€¢ Work with directory of files. Batch processing.
+â€¢ Create several video files of different formats or with different parameters on the base of one original file for one generation.
+â€¢ Extract frames from the video files and save them as image. You can create several images of different formats on the base of one frame.
+â€¢ Convert a video file and create thumbnail for it all at once.
+â€¢ Create thumbnail for a torrent video file: a image which contains several frames from the video file organized as a table with added file's metadata: its size, duration, name, etc.
+â€¢ Set filename and directory for created files using templates. It allows user to use formatting while creating file names.
+â€¢ Create video of high quality using double pass coding.
+â€¢ Create one video clip and several thumbnails for it from well distributed frames. For example, you can create a video clip of 1 minute duration and six thumbnails from the following frames: 1, 10s,â€¦, 60s.
+â€¢ Set metadata for video files. You can set metadata without reencoding too.
+
+Watermarking
+â€¢ Add watermarks on a frame of the video file or in the graphic file.
+â€¢ Set the period of time when a watermark will be show in the video. Watermark can be showed one time at a specified place in the video file, several times with specified display time and delay between displays, randomly or using SRT file: this is a file which contains information about display time, text, and the end time of watermark show.
+â€¢ Set smooth watermark appearance/disappearance (Fade In/Fade Out).
+â€¢ Add subtitles from SRT file directly to the video file.
+â€¢ Draw DVD subtitles directly to the video file.
+â€¢ Move a watermark throughout the frame while video playing.
+â€¢ Manually record watermark moving throughout the frame: you can preliminary review video file and save watermark motion path.
+â€¢ Apply effects to the watermarks: shadow effect, embossment, skew, scale and so on.
+â€¢ Set color of a text watermark.
+â€¢ Add several watermarks all at once.
+â€¢ Text for the text watermark can be taken out from a text file. If the text file has several lines, they can be displayed gradually with a specified delay or each line will be displayed in a new created file.
+â€¢ Set watermark background.
+â€¢ Add watermark on the base of Animations of GIF images.
+â€¢ Create watermarks instantly. If watermark shouldn't appear while playing the whole file, you can use "Without reencoding" mode. In this case, only those frames which should have drawn watermarks will be decoded/coded. This will increase speed of video file processing.
+â€¢ Draw files metadata (name, resolution, date of creation), time, etc. in the video frame.
+â€¢ Draw rectangles or ellipses.
+â€¢ Duplicate watermarks throughout the whole frame (tile effect).
+
+Image editing:
+â€¢ Resize video or image using different algorithm: Bilinear, Bicubic, Lanczos3, Lanczos8.
+â€¢ Set aspect ratio for video files.
+â€¢ CROP.
+â€¢ Apply filters to make better the image, including auto-contrast, auto-level, sharpness, blur video and so on.
+â€¢ Solve interlace DVD problem with the help of de-Interlace filter.
+â€¢ Blur some part of the image or video. You can blur any moved element in the video too.
+â€¢ Remove watermark from the video.
+
+Video editing:
+â€¢ Extract scene out of the video.
+â€¢ Split video into several parts by time or according to specified number of parts.
+â€¢ Join several video files into a single one.
+â€¢ Join several graphic files into a single video file.
+â€¢ Audio editing.
+â€¢ Apply switches between scenes upon joining video files.
+â€¢ Embed video titles or a simple image to the video file.
+â€¢ Cut scenes out of the video file.
+
+Extra features for creation of files for WEB:
+â€¢ Create WEB sites on the base of your HTML Template and graphic/video files.
+â€¢ Create index pages for video galleries.
+â€¢ Preliminary view video files and distribute them and their Thumbnails among groups.
+â€¢ Upload created files on your FTP server using provided FTP Client.
+
+Preliminary work with files which will be created:
+â€¢ Sort created video files by the name, date, randomly or evenly (if created files are grouped by ten elements, they will be sorted as the following: first group will have the first and the last elements, second group - the second and the second to the last elements and so on).
+â€¢ Preview files which will be created, delete unnecessary or add additional files: for example, if it is necessary to cut several scenes out of the video file.
+â€¢ Distribute created files before generation. Using along with WEB galleries, it is possible to preliminary distribute files among groups as you need.
+â€¢ Preview and select the most successful Thumbnails for the video file.
+â€¢ Set file coding parameters both for each file separately and for group of files.
+
+Interaction with the software:
+â€¢ Solve professional tasks of video edition applying the user interface.
+â€¢ Work with the application via the command line.
+â€¢ Use Wizard for more convenient work with the application.
+â€¢ Protect from unexpected completion of the files processing: it is possible to continue your work from the point of termination.
+
+ÐžS: Windows ME, Windows NT 4.0, Windows 2000, Windows XP, Windows Vista, Windows 7
+
+
+Home Page - www.videocharge.com/
+
+

@@ -1,0 +1,142 @@
+User Type,Username,Date,Text
+[V],Anacondaz,2011-05-28T05:39Z,"nice upoad mate
++1 rep"
+,dianalov3,2011-05-28T18:41Z,Works great. Thank you!
+,rayquest9,2011-05-28T23:13Z,"
+Power DVD 10 Ultra 3D v10.0.1705.51 Preactivated ADH
+Derby
+
+i using this one now should i uninstall ur older version and then install or just run the new setup"
+[T],ADHDerby,2011-05-29T00:33Z,"You're welcome! :)
+
+@ rayquest9: You can have both PowerDVD 10 and 11 installed on one system. If you're satisfied with PowerDVD 11 you can always uninstall PowerDVD 10."
+,brianxxx,2011-05-29T03:04Z,"Aww yes! PRE activated and MoovieLive and Movie Remix features are disabled by default?!!!!!
+
+I am in HEAVEN!!!!!!!!!! Thanks!"
+,Night_89,2011-05-29T03:28Z,"thanks
+works great.
+please upload skinpacks for it"
+,LittleCowGD,2011-05-29T13:16Z,"ADHDerby, thank you for you hard work but still do not work. I still have this gray shit ant can't use app."
+,BadGamer007,2011-05-29T14:30Z,"Realy Thanx man 
+Realy best upload
+Works great"
+,BadGamer007,2011-05-29T14:33Z,Hey man can you tell me how u hav created those TPB.dll or StreamofLight.dll if its complicated thn its OK
+,rayquest9,2011-05-29T20:41Z,"which one is better this one or the previous one 
+powerdvd10 3d ultra"
+[T],ADHDerby,2011-05-30T12:59Z,"You're welcome! :)
+
+@ Night_89: Skin Pack for PowerDVD 11 build 1719 - http://thepiratebay.org/torrent/6434000
+
+@ LittleCowGD: The only things I know that could fix it are updating your video and audio card drivers :S
+
+@ BadGamer007: You can edit the dll's with a resource hacker (I'm using Restorator 2007)
+I've removed the Feature Icons and the New DVD Release section from the resume page by editing XML\PRELOADSKIN.XML
+You can change the backgrounds by replacing IMAGE\INITIAL\PDVD_1280X1024.PNG, PDVD_1280X800.PNG and INITIALPDVD_1280X720.PNG
+
+@ rayquest9: I personally prefer PowerDVD 11, but it has some nasty bugs on some systems.
+Just try if it works correctly and if you like it, you can always uninstall PowerDVD 10 later."
+,rayquest9,2011-05-30T23:04Z,"resource hacker (I'm using Restorator 2007)
+from where i download this software 
+pls tell me"
+[T],ADHDerby,2011-05-31T09:01Z,Restorator 2007 v3.70.1747 Portable: http://www.megaXXload.com/?d=WX96NAB4 (replace XX with up)
+,krazan,2011-05-31T14:09Z,is it legal to download this
+[T],ADHDerby,2011-06-01T09:56Z,http://thepiratebay.org/legal O.o
+,Moamma,2011-06-05T16:01Z,"Hey ADHDerby	
+
+Thank you for ur great work with PowerDVD ... I'm using yours for quiet sometime now ...
+
+I have a problem with v11 ... MoovieLive is not disable for me ... I even tried to enable and disabale again with provided patchs but no luck .
+
+I'm using x64 win7 ... i wish u could help me out with this ."
+,chop007,2011-06-05T20:01Z,"Hey thanks a million this is awesome, beyond comparison and working smoothly. Thank you."
+,mtn1996,2011-06-06T12:15Z,great torrent works great 10/10
+[T],ADHDerby,2011-06-06T14:30Z,"You're welcome! :)
+
+@ Moamma: Try re-installing PowerDVD with admin rights, the same applies for the batch files (right click and select ""Run as Administrator"")"
+,Dixon_Butz,2011-06-11T13:32Z,Audio settings still don't stick. Back to 10.
+,alejandro70,2011-06-12T22:52Z,GRACIAS  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+,WiR3D-kNiGhT,2011-06-14T16:34Z,"Brilliant thanks,
+Any ideas how to access the codecs for use in KMPlayer or MPC-HC ?"
+,WiR3D-kNiGhT,2011-06-14T17:04Z,"EDIT: 
+C:\Program Files (x86)\CyberLink\PowerDVD11\Common
+
+Thats where all the codecs are, and if you manually search you can add and use the video codec without any problems. hoever the audio codec seems to have significantly reduced functionality.
+
+Just note i added(Video):
+ * - CLCvd.ax
+ * - CLLine21.ax
+ * - CLTzan.ax
+
+and tried Claud.ax for audio"
+,1TWISTED,2011-06-16T21:05Z,"thanks,.. nice upload,... well done,.. ; )"
+,mirzasghar,2011-06-18T17:45Z,"Creative 7.1 is not working on this version :( 
+Sound only from front 3 speakers :/
+Same settings no change in driver settings.
+while i was using 7.1 feature on v10 mark ultraII "
+,handelaar,2011-06-19T16:47Z,"ADHDerby,
+Works great but only when I close the programm Kaspersky reports me every time: 
+
+riskware: Invader started proces (PID: 1196): C:\WINDOWS\System32\svchost.exe 
+do you know why I get this message everytime?"
+,s.lanso,2011-06-26T06:18Z,Thanks needed one to play Blue-rays. And this was the recommended.
+,snoopy9,2011-07-04T16:09Z,"Beautiful, thank you.   I just watched a 3d bluray disc with this, using my nvidia 3d vision kit. Worked like a charm."
+,jaiskorpio,2011-07-10T21:42Z,"When I install it, it has 0 region changes left. I'm Region B and need to change it. The tweak for resetting doesn't work, even when I install and run PDVD11 as Admin and the tweat as Admin. What am I doing wrong? I'm in UK and need Region B please!"
+,jaiskorpio,2011-07-13T21:46Z,Still unable to change BD region code. I've tried running as admin and the tweak will not work. PreActivated for Yanks only! Tried disabling startup apps and every combination with the reset BD region code tweak. At my wits end with this one.
+[T],ADHDerby,2011-07-17T16:34Z,"Sorry for the late reply,.. I was on vacation in Switzerland. :)
+
+@ handelaar: It's a false positive, add PowerDVD to the Exception List and the message should be gone.  
+
+@ jaiskorpio: They changed the BD region storage location (registry and data files)
+I've updated the Blu-Ray Region Reset batch file: http://www.XXXload.com/file/59572983/Blu-Ray_Region_Reset.bat (replace XXX with wup)
+Run the batch file and then reinstall PowerDVD"
+,n1rvanaa,2011-07-20T20:11Z,"Kudos, ADHDerby. Great torrent.
+Nice to see an update with fixes.
+Thanks a lot. Keep going man."
+,thegr8luiz,2011-07-22T02:34Z,Thank you very much for your time and effort to share this with us.
+,VistaHell,2011-07-24T10:58Z,"thanks for torrent, but the program keeps exiting randomly and i have to restart....
+
+any idea why?"
+,magic_dude,2011-08-09T16:29Z,Awesome!! I could change the region! 5 tries ;)
+,DontPissMeOff,2011-08-12T16:24Z,"Changing region doesn't work for me - however, it plays 3D movies just fine."
+,b10lee,2011-08-13T10:13Z,"superb stuff sir ADHDerby
+
+plz upload
+
+*YouCam 5 Deluxe*
+
+no one has in thepiratebay"
+,foxelein,2011-08-14T11:32Z,many thanks.. :)
+,huggeyface,2011-08-19T09:16Z,Thanks! works perfectly :)
+,ObserverJLin,2011-08-20T13:27Z,Hello ADHDerby. You have two versions of PowerDVD 11. One is larger one is Smaller in size. Which one is better?
+,ObserverJLin,2011-08-20T13:28Z,Hello ADHDerby. You have two versions of PowerDVD 11. One is larger one is Smaller in size. Which one is the better version?
+,Pillmonster,2011-08-24T00:04Z,Thx great upload :)
+,SoWErA,2011-08-25T21:17Z,"I just ran the Blu-Ray_Region_Reset.bat that you uploaded on http://www.xxxload.com/file/59572983/Blu-Ray_Region_Reset.bat replacing xxx with wup
+
+and then uninstalled and installed this version and I had 5 resets however after choosing A and then closing and starting up I had 4 and then I wanted to try if reset worked so I ran the reset bat and now I have 0 resets???"
+[T],ADHDerby,2011-08-27T10:55Z,"You're welcome! :)
+
+@ VistaHell: Make sure that you installed the latest video and audio card drivers
+
+@ b10lee: I'll look into it
+
+@ ObserverJLin: This release (= newer version)
+
+@ SoWErA: First run the region reset batch file and then reinstall PowerDVD, you'll need to repeat this to get 5 resets"
+,WoWx3,2011-08-29T20:10Z,"To: ADHDerby
+
+You seem like a nice chap. I'm looking for new friends that got ADHD. Hopefully your Swedish too :)
+
+Just don't know how to come in contact with you, because there's no PM on PB. Maybe you have a profile on another site which you can point me to so i can send you my MSN?"
+,magsood,2011-09-02T03:17Z,"Hi ADHDerby
+Thanks for PreActivated this program.
+Emerged CyberLink PowerDVD Ultra 11.0.2024.53 Multilanguage"
+[T],ADHDerby,2011-09-04T16:35Z,"@ WoWx3: I'm made in Holland ;)
+I don't do MSN,.. my life is busy enough as it is. :/
+I have a wife, kids and a very busy head. :S
+
+@ magsood: http://thepiratebay.org/torrent/6650972 :)"
+,WoWx3,2011-09-05T02:25Z,"Say hello to the Strainhunters if you know em. I was part of all that a while. But got older and well, got two kids and wifey too now :)
+
+Life is to short to waste. Take care, bye!"
+,nazim12,2011-10-17T22:46Z,"@ADHDerby : Its work fantastic , i have compared it with KMP the only difference is KMP is very fast and its has a wide variety of settings but PD is  very simple , just only one or two clicks thats it, but believe me i have searched PD for 100 times but unable to find this thing which you have said in Read Me ..Sets the cursor hide time in Full Screen to 1 sec (default = 3)...but HOW??? and one more thing which bother me when we click on full screen but the BORDERS of PD took long time to HIDE about 4 to 5 sec and how can we set it to half sec i want whenever i hit the full screen it should open without PD Menu Bars ."
+,SoccerIgbo,2011-11-04T01:00Z,Works as advertised. however it makes my DVD look very grainy and a bit worse than playing them on vlc or mpc

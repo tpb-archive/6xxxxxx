@@ -1,0 +1,36 @@
+Mac OS ROM 2.5.1
+
+This Rom allows you to run Mac OS 8.6 (The Earliest OS you can run on this model without the need for emulators)
+BUT it is specific to only a G4 400Mhz PPC AGP Graphics "Sawtooth" (The Graphite Tower)
+ 
+http://www.everymac.com/systems/apple/powermac_g4/stats/powermac_g4_400_agp.html
+
+Having said that, it may work on the 450mhz AGP too.
+WHY 8.6, you may well ask, the answer is I have some games that only run OS 8.6
+You have NO idea, the depths and dark corners of the net I trawled to find this ROM.
+
+To Run 8.6 you need:
+
+OS 9.x
+OS 8.6 retail OR Mac OS 8.5.1 AND Mac OS 8.6 Update (Free From Apple.com)
+Wish I Were... (A Mac Control Panel to change the Gestalt ID of the machine)
+(http://reviews.cnet.com/8301-13727_7-10341098-263.html)
+
+Partition a space on your hard disk or external hard disk for Mac OS 8.6
+
+i)    Install a copy of OS 9.04, or 9.2 or 9.2.1 or 9.2.2
+ii)   Intall Wish I Were... On the Mac OS 9 Side.
+iii)  On the OS9 side Run Wish I Were...
+iv)   Set wish I were to PPC 54xx 64xx
+v)    Restart.
+vi)   Instal Mac OS 8.6 OR 8.5.1 AND Mac OS 8.6 Update After.
+
+*Note take care when installing System 8 NOT to update Hard Disk drivers.
+as it will cause an error.
+
+vii)  Replace MAC OS ROM from The Mac OS 8.6 Folder with Mac OS ROM 2.5.1.
+viii) Go to Control Panel System Startup And Select Mac OS 8.6, Restart
+
+
+Voila !
+

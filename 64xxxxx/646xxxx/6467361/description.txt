@@ -1,0 +1,165 @@
+Esta es una distribuciÃ³n live-cd para PS3 que incluye los mÃ³dulos de graf_chokolo para poder instalar la distribuciÃ³n directamente en el disco duro de la PS3.
+Usa los parches de graf_chokolo para detectar la region 7 como instalable.
+
+Esta distribuciÃ³n ha sido creada por el usuario R04drunner en los foros de ElOtroLado:
+ 
+http://www.elotrolado.net/hilo_red-ribbon-gnu-linux-para-ps3-13-06-2011_1631472
+
+
+----------------------------------------
+
+
+Red Ribbon GNU/Linux Release Candidate 1
+
+
+Esta es una versiÃ³n candidata, es decir una versiÃ³n funcional pero no definitiva, ya que seguramente habrÃ¡ funcionalidades no incluidas actualmente y que sÃ­ lo estarÃ¡n en la versiÃ³n final.
+
+AdemÃ¡s, aunque la he testado y verificado repetidas veces, puede que algunas de las utilidades no funcionen correctamente y deban ser corregidas.
+
+Cualquier problema que encontrÃ©is serÃ¡ aÃ±adido en una lista al final del post e irÃ© marcando las que vaya solucionando.
+
+Esta nueva distribuciÃ³n estÃ¡ basada en la archiconocida Debian y tiene las siguientes caracterÃ­sticas:
+
+    NÃºcleo del sistema (Kernel) 2.6.38 con las modificaciones de Graf_chokolo. TambiÃ©n incluye una modificaciÃ³n especÃ­fica para Asbestos y derivados con los parches de Marcan.
+    Memoria de intercambio (swap) principal utilizando la memoria del RSX.
+    Memoria de intercambio (swap) secundaria utilizando una particiÃ³n en el soporte de almacenamiento.
+    LXDE como escritorio.
+    Blueman como gestor de Bluetooth. Una vez iniciado, permite utilizar los dispositivos despuÃ©s de sincronizarlos, como por ejemplo un teclado bluetooth.
+    WiCD como gestor de conexiÃ³n de red.
+    PcManFM como administrador de archivos.
+    LxTerminal como interfaz de consola.
+    LxMusic como reproductor de archivos de audio.
+    Leafpad como editor de texto simple.
+    XArchiver como gestor de archivos comprimidos.
+    GPicView como visor de imÃ¡genes.
+    MtPaint como herramienta de dibujo.
+    ePDFViewer como visor de archivos PDF.
+    MPlayer como reproductor multimedia.
+    Samba como servicio de comparticiÃ³n de archivos por red. Permite transferir archivos entre el pc y la PS3 por red local utilizando carpetas compartidas.
+    XRDP como servidor de acceso remoto por RDP y VNC. Permite conectarse al escritorio de la PS3 desde el pc utilizando \"ConexiÃ³n a Escritorio remoto\" de Windows o un cliente VNC, como por ejemplo \"UltraVNC\".
+    Remmina como cliente de acceso remoto por RDP y VNC. Permite conectarse desde la PS3 al PC si tiene habilitado el \"Escritorio remoto\" de Windows o tiene un servidor RDP.
+    SSH como servidor de acceso remoto por consola.
+    Iceweasel (fork de Firefox) como navegador de internet.
+    Synaptic como gestor de paquetes de instalaciÃ³n en modo grÃ¡fico.
+    Apt y Aptitude como gestores de paquetes de instalaciÃ³n en modo consola.
+
+
+A dÃ­a de hoy, no es posible disponer de algunas de las funcionalidades de la consola, bien porque el loader todavÃ­a no proporciona acceso a algunos dispositivos de la PS3, bien porque no aÃºn no existen drivers que permitan utilizarlos:
+
+    ConexiÃ³n de red Wireless para los modelos Slim. En los modelos Fat, dependerÃ¡ si se ha habilitado utilizando las utilidades de OtherOS.
+    AceleraciÃ³n grÃ¡fica. A dÃ­a de hoy no tengo conocimiento de que existan drivers para el RSX.
+
+
+El CD dispone de dos modos de funcionamiento: Directo mediante LiveCD e instalaciÃ³n en soporte de almacenamiento interno o externo.
+
+LiveCD
+
+Permite la ejecuciÃ³n directa desde CD disponiendo de un escritorio totalmente funcional sin necesidad de haber realizado una instalaciÃ³n.
+
+Sin embargo, esto tiene un inconveniente ya que implica estar accediendo continuamente al CD lo que repercute en el rendimiento, la velocidad y por supuesto, en el desgaste de la lente.
+
+Desaconsejo totalmente este modo si se va a realizar un uso continuado o si es necesario instalar programas a mayores. En su lugar es mejor realizar una instalaciÃ³n en un soporte de almacenamiento.
+
+InstalaciÃ³n en soporte de almacenamiento
+
+Con este procedimiento instalaremos una copia del sistema en el soporte de almacenamiento que le indiquemos, que puede ser:
+
+    Espacio reservado en el disco duro interno por OtherOS original de Sony.
+    Espacio reservado en el disco duro interno por OtherOS++ de Graf_chokolo o derivados.
+    HDD externo por USB.
+    Pen USB.
+
+
+Es preferible utilizar cualquiera de los tres primeros y no un pen USB, ya que el rendimiento del sistema disminuye si se utiliza Ã©ste Ãºltimo.
+
+Descarga y grabaciÃ³n en CD
+
+Primero descargaremos el archivo comprimido en rar que continene la imagen ISO desde la siguiente direcciÃ³n:
+
+
+Una vez descargado, lo descomprimimos y obtendremos la imagen ISO del CD.
+
+El MD5 de la imagen ISO es be3d969ddfe48588e0257067d688a81d.
+
+Ahora podemos proceder a grabar la imagen ISO en CD utilizando el mÃ©todo de \"Grabar imagen de CD\" de tu programa de grabaciÃ³n. Este mÃ©todo graba el contenido del archivo ISO dentro del CD, no sirve grabar el archivo tal cual dentro del CD.
+
+Al terminar la grabaciÃ³n, dentro del CD deben aparecer varias carpetas y archivos. Si sÃ³lo aparece un archivo con el nombre del archivo que has descargado, es que no ha sido grabado con el mÃ©todo de \"Grabar imagen de CD\".
+
+InstalaciÃ³n en disco duro interno o soporte de almacenamiento USB
+
+Para poder utilizar esta distribuciÃ³n es necesario disponer de uno de los siguientes loaders:
+
+    OtherOs de Sony.
+    OtherOS++ de Graf_chokolo o derivados.
+    BootOS-Petitboot, que es un derivado de Asbestos con PetitBoot integrado.
+
+
+Una vez hayamos iniciado el loader, el menÃº nos mostrarÃ¡ las opciones disponibles:
+
+    Live: Modo de arranque normal. Es el que se utilizarÃ¡ con OtherOS y OtherOS++.
+    Live-Asbestos: Modo de arranque especÃ­fico para AsbestOS y derivados, ya que incluye los parches de Marcan.
+
+
+Si usamos OtherOS u OtherOS++, seleccionamos el primero y si usamos BootOS-PetitBoot, usamos el segundo.
+
+Una vez hayamos seleccionado una opciÃ³n y hayamos presionado la tecla Enter, se iniciarÃ¡ el sistema en modo Live.
+
+Antes de entrar en el escritorio, aparecerÃ¡ la ventana de acceso por usuario y clave, lo dejamos unos segundos y accederÃ¡ automÃ¡ticamente.
+
+Cuando haya cargado el escritorio, veremos que disponemos de dos paneles:
+
+    Panel superior: Donde estÃ¡ el \"MenÃº principal\" a la izquierda y el reloj a la derecha.
+    Panel inferior: Donde estÃ¡ el icono de \"Mostrar Escritorio\" a la izquierda y el icono de la \"Papelera\" a la derecha.
+
+
+Si por algÃºn motivo no disponemos de ratÃ³n, podemos movernos por el menÃº accediendo a Ã©l presionando las teclas Control+Esc y navegando a travÃ©s de Ã©l con las teclas de cursor.
+
+Si vamos a realizar la instalaciÃ³n en un soporte USB, es probable que se monte automÃ¡ticamente al iniciar la Live, por lo que serÃ¡ necesario desmontarlo antes de empezar la instalaciÃ³n. Lo mÃ¡s fÃ¡cil es no conectarlo hasta que vayamos a instalar, momento en el que pedirÃ¡ abrirlo con una aplicaciÃ³n a lo que respondemos que no. Este problema lo solucionarÃ© para la siguiente versiÃ³n.
+
+En el escritorio disponemos de un icono \"Instalar Red Ribbon\" para poder iniciar la instalaciÃ³n. TambiÃ©n hay una opciÃ³n en MenÃº Principal -> Preferencias -> Instalar Red Ribbon.
+
+Se abrirÃ¡ una ventana que nos mostrarÃ¡ un mensaje informando que vamos a proceder a la instalaciÃ³n del sistema, le respondemos que si.
+
+Ahora vamos a indicarle donde se va a realizar la instalaciÃ³n.
+
+En el caso de que dispongamos de un espacio reservado por OtherOS u OtherOS++ en el disco duro interno de la PS3, nos preguntarÃ¡ si deseamos utilizarlo para la instalaciÃ³n. Si no disponemos de ese espacio, este mensaje no saldrÃ¡.
+
+Si no nos ha salido el mensaje o le hemos respondido que no, nos pedirÃ¡ seleccionar el dispositivo de almacenamiento que queremos utilizar.
+
+Si no disponemos de espacio reservado y no hemos conectado un HDD externo o un pen USB, nos indicarÃ¡ que no podemos realizar la instalaciÃ³n.
+
+Si se ha seleccionado el dispositivo de almacenamiento manualmente o automÃ¡ticamente, procederemos a crear las particiones:
+
+    AutomÃ¡ticamente: Esto eliminarÃ¡ las particiones existentes y crearÃ¡ las particiones por defecto. Ã‰sta es la opciÃ³n aconsejada.
+    Manualmente: CargarÃ¡ cfdisk, un programa para crearla manualmente las particiones. Esta opciÃ³n es sÃ³lo para usuarios avanzados.
+
+
+La creaciÃ³n, modificaciÃ³n o eliminaciÃ³n de las particiones nunca afectan al espacio de GameOS, es decir no se borrarÃ¡n los programas y backups que puedas tener en el disco duro interno.
+
+Si vais a utilizar un HDD externo o un pen USB, si que se borrarÃ¡n los datos de ese HDD externo o pen USB, por lo que aconsejo que utilicÃ©is uno que estÃ© vacÃ­o.
+
+Escogeremos la primera opciÃ³n, es decir crearemos las particiones automÃ¡ticamente.
+Si todo ha ido bien, aparecerÃ¡ una tercera opciÃ³n llamada \"Continuar\". La seleccionamos y aceptamos.
+
+Ahora nos preguntarÃ¡ por los puntos de montaje. DeberÃ¡n aparecer dos \"/\" que es el principal y \"swap\" que es el Ã¡rea de intercambio. Seleccionamos \"Continuar\" y aceptamos.
+
+Ahora procederÃ¡ a formatear las particiones y cuando haya acabado, comenzarÃ¡ con la instalaciÃ³n.
+Cuando haya terminado, pedirÃ¡ el nombre y la contraseÃ±a del usuario. Podemos indicar los que queramos o dejar el que viene por defecto.
+
+Ahora terminarÃ¡ la configuraciÃ³n, nos mostrarÃ¡ un mensaje indicando que todo ha ido correctamente y que podemos reiniciar el sistema.
+
+Cuando volvamos a lanzar el loader, nos aparecerÃ¡n dos nuevas opciones \"Red Ribbon\" y \"Red Ribbon - Asbestos\". Al igual que con la live, utilizaremos la que mejor nos convenga.
+
+Problemas detectados
+
+    Si vamos a realizar la instalaciÃ³n en un soporte USB, es probable que se monte automÃ¡ticamente al iniciar la Live, por lo que serÃ¡ necesario desmontarlo antes de empezar la instalaciÃ³n. Lo mÃ¡s fÃ¡cil es no conectarlo hasta que vayamos a instalar, momento en el que pedirÃ¡ abrirlo con una aplicaciÃ³n a lo que respondemos que no.
+
+
+Referencias
+
+Todo el material contenido en el CD es de libre distribuciÃ³n, bien con licencia GPL o bien con Creative Commons:
+
+    El sistema operativo estÃ¡ basado en la distribuciÃ³n de GNU/Linux Debian.
+    El nÃºcleo del sistema (kernel) incluye los mÃ³dulos y utilidades de Graf_chokolo y de Marcan, con licencia GPL.
+    La imagen de fondo en la ventana de entrada y en el escritorio ha sido diseÃ±ado por Sascha Wenninger y tiene licencia Creative Commons.
+    El proceso de instalaciÃ³n ha sido desarrollado por R04drunner y tiene licencia GPL.

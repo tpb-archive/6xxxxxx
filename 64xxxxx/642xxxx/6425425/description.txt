@@ -1,0 +1,205 @@
+
+[ Info sul file ]
+
+Nome: Marrakech Express (1989) [BDRip720p.Italiano.Dts.5.1].mkv
+Data: 25/05/2011 16:46:14
+Dimensione: 4,691,185,663 bytes (4473.863 MB)
+
+[ Info generiche ]
+
+Durata: 01:49:05 (6544.566 s)
+Tipo di contenitore: matroska
+Data creazione: 21/05/2011 21:36:57 UTC
+Streams totali: 3
+Tipo stream n. 1: video (V_MPEG4/ISO/AVC)
+Tipo stream n. 2: audio (A_DTS) {DTS 5.1}
+Tipo stream n. 3: subtitle (S_VOBSUB) {Italiano}
+Audio streams: 1
+Muxing Application: libebml v1.2.0 + libmatroska v1.1.0
+Writing Application: mkvmerge v4.7.0 ('Just Like You Imagined') built on Apr 21 2011 01:13:14
+
+[ Dati rilevanti ]
+
+Risoluzione: MOLTO ALTA (1280 x 770)
+Larghezza: multipla di 32 (BENE)
+Altezza: multipla di 2 (sarebbe stato meglio 16)
+QualitÃ  DRF medio: ALTA (21.964878)
+QualitÃ  deviazione standard: ALTA (0.564670)
+Media pesata dev. std.: ALTA (0.527005)
+
+[ Traccia video ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Risoluzione: 1280 x 770
+Frame aspect ratio: 128:77 = 1.662337
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 128:77 = 1.662337
+Framerate: 23.976043 fps
+Stream size: 3,452,665,370 bytes
+Durata: 01:49:04 (6544.490904 s)
+Bitrate: 4220.545702 kbps
+Qf: 0.178603
+
+[ Traccia audio ]
+
+Codec ID: A_DTS
+Canali (contenitore): 6
+Frequenza: 48000 Hz
+Stream size: 1,234,468,704 bytes
+Bitrate (contenitore): 1508.999929 kbps
+
+[ Info sulla codifica H.264 ]
+
+User data: x264
+User data: core 115 r1995 c1e60b9
+User data: H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011
+User data: http://www.videolan.org/x264.html
+User data: cabac=1
+User data: ref=4
+User data: deblock=1:-2:-1
+User data: analyse=0x3:0x133
+User data: me=umh
+User data: subme=9
+User data: psy=1
+User data: psy_rd=1.00:0.00
+User data: mixed_ref=1
+User data: me_range=24
+User data: chroma_me=1
+User data: trellis=2
+User data: 8x8dct=1
+User data: cqm=0
+User data: deadzone=21,11
+User data: fast_pskip=0
+User data: chroma_qp_offset=-2
+User data: threads=6
+User data: sliced_threads=0
+User data: nr=0
+User data: decimate=1
+User data: interlaced=0
+User data: bluray_compat=0
+User data: constrained_intra=0
+User data: bframes=6
+User data: b_pyramid=2
+User data: b_adapt=2
+User data: b_bias=0
+User data: direct=3
+User data: weightb=1
+User data: open_gop=0
+User data: weightp=2
+User data: keyint=240
+User data: keyint_min=23
+User data: scenecut=40
+User data: intra_refresh=0
+User data: rc_lookahead=60
+User data: rc=2pass
+User data: mbtree=1
+User data: bitrate=4220
+User data: ratetol=1.0
+User data: qcomp=0.60
+User data: qpmin=0
+User data: qpmax=69
+User data: qpstep=4
+User data: cplxblur=20.0
+User data: qblur=0.5
+User data: vbv_maxrate=40000
+User data: vbv_bufsize=40000
+User data: nal_hrd=none
+User data: ip_ratio=1.40
+User data: aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 4
+  Aspect ratio: Square pixels
+  Chroma format idc: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Codifica entropica: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: SÃ¬
+Frames totali: 156911
+Drop/delay frames: 0
+Frames corrotti: 0
+
+P-slices:  37421 ( 23.849 %) ########                 
+B-slices: 118510 ( 75.527 %) #########################
+I-slices:    980 (  0.625 %)                          
+SP-slices:      0 (  0.000 %)                          
+SI-slices:      0 (  0.000 %)                          
+
+[ Analisi DRF ]
+
+DRF medio: 21.964878
+Deviazione standard: 0.564670
+DRF max: 28
+
+DRF<17:      0 (  0.000 %)                          
+DRF=17:      3 (  0.002 %)                          
+DRF=18:     10 (  0.006 %)                          
+DRF=19:    579 (  0.369 %)                          
+DRF=20:   1526 (  0.973 %)                          
+DRF=21:  19278 ( 12.286 %) ####                     
+DRF=22: 117080 ( 74.616 %) #########################
+DRF=23:  18362 ( 11.702 %) ####                     
+DRF=24:     31 (  0.020 %)                          
+DRF=25:     17 (  0.011 %)                          
+DRF=26:      6 (  0.004 %)                          
+DRF=27:      2 (  0.001 %)                          
+DRF=28:     17 (  0.011 %)                          
+DRF>28:      0 (  0.000 %)                          
+
+P-slices DRF medio: 21.979049
+P-slices deviazione std.: 0.528738
+P-slices DRF max: 28
+
+B-slices DRF medio: 21.981537
+B-slices deviazione std.: 0.525620
+B-slices DRF max: 28
+
+I-slices DRF medio: 19.409183
+I-slices deviazione std.: 0.628341
+I-slices DRF max: 27
+
+[ Profile compliancy ]
+
+Profilo da testare: BDRip 720p
+Risoluzione: 1280 x 770 > 1280 x 720
+Framerate: Ok
+Buffer underflow: 00:02:11 (frame 3142)
+Buffer underflow: 00:07:59 (frame 11486)
+Buffer underflow: 00:40:56 (frame 58894)
+Buffer underflow: 00:42:20 (frame 60896)
+Buffer underflow: 01:14:30 (frame 107180)
+Buffer underflow: 01:14:31 (frame 107207)
+Buffer underflow: 01:14:36 (frame 107322)
+Buffer underflow: 01:26:08 (frame 123899)
+Buffer underflow: 01:26:09 (frame 123943)
+
+[ Capitoli ]
+
+Chapter 01: 00:00:00,000 - 00:05:23,740
+Chapter 02: 00:05:23,740 - 00:07:03,214
+Chapter 03: 00:07:03,214 - 00:08:42,522
+Chapter 04: 00:08:42,522 - 00:10:18,618
+Chapter 05: 00:10:18,618 - 00:12:20,740
+Chapter 06: 00:12:20,740 - 00:23:14,393
+Chapter 07: 00:23:14,393 - 00:26:09,568
+Chapter 08: 00:26:09,568 - 00:33:55,033
+Chapter 09: 00:33:55,033 - 00:36:14,005
+Chapter 10: 00:36:14,005 - 00:39:28,199
+Chapter 11: 00:39:28,199 - 00:49:25,379
+Chapter 12: 00:49:25,379 - 00:52:36,987
+Chapter 13: 00:52:36,987 - 00:53:25,202
+Chapter 14: 00:53:25,202 - 00:58:34,720
+Chapter 15: 00:58:34,720 - 01:00:40,637
+Chapter 16: 01:00:40,637 - 01:06:09,966
+Chapter 17: 01:06:09,966 - 01:08:47,123
+Chapter 18: 01:08:47,123 - 01:12:36,352
+Chapter 19: 01:12:36,352 - 01:20:16,812
+Chapter 20: 01:20:16,812 - 01:25:58,153
+Chapter 21: 01:25:58,153 - 01:32:22,537
+Chapter 22: 01:32:22,537 - 01:35:14,709
+Chapter 23: 01:35:14,709 - 01:42:08,122
+Chapter 24: 01:42:08,122 - [non specificato]
+
+Rapporto generato da AVInaptic (18-11-2007) in data 26 mag 2011, h 21:40:57

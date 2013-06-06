@@ -1,0 +1,109 @@
+Official Web Site:  http://www.stclairsoft.com/DefaultFolderX/
+
+Description
+
+Save your files effortlessly and open your folders instantly. Default Folder X makes Mac OS X's Open and Save dialogs work as quickly as you do.
+
+Custom keyboard shortcuts put your favorite and recent folders at your fingertips. Pop-up menus let you navigate your folders and open Finder windows.
+
+Additional Relevant Information:
+
+You can access the contents of your recent, favorite, and open folders right from Default Folder X's toolbar. Its hierarchical pop-up menus expand as you mouse over them, letting you navigate your folders to get to your files. To work faster, you can assign a keyboard shortcut for all of your favorite folders. If an Open and Save dialog isn't open, then you can use Default Folder X's menu bar, Dock icon, or keyboard shortcuts.
+
+If you're constantly saving things inside the same folder, Default Folder X can remember that folder for you. You can even set a different default folder for each application you use. That way, you'll already be in the right folder when you're working.
+
+Have you ever wanted to save a file to an open Finder window? Default Folder X lets you open up or save to any Finder window with a single click. It also lets you get info on, rename, and delete existing files, putting the Finder's power in every Open and Save dialog.
+
+To help you quickly return to folders you've recently used, Default Folder X remembers them for you. It can even rebound to the last file you used in all your recent folders. With Default Folder X, you'll never forget where you put something.
+
+Mac OS X delivers amazing search capabilities with Spotlight, but adding your own search keywords requires a trip to the Finder's Get Info window or to an application like Tags, Fresh, or Tag Folders. No more! Default Folder X lets you add Spotlight keywords, OpenMeta tags, and Finder labels on the spot, while you're still in the Save dialog. It even remembers keywords you've used before and automatically completes them as you type.
+
+Leopard delivers amazing previews with QuickLook, but in Open dialogs they're small and you can only see them in column view. With Default Folder X you get previews below every Open dialog, expanded to fill the available space. Need to see more detail? Click on the image and it zooms up to full size.
+
+And if you'd rather have words instead of pictures, Default Folder X delivers those details too. The file's size, the date you created and modified it, the Finder label, Spotlight comments, OpenMeta tags, access permissions - they're all there too.
+
+Rather than make you learn and set up a new application, Default Folder X blends into Mac OS X. Its pop-up menus and Finder integration will start saving you time immediately, and it will put your pre-existing Favorite folders in its toolbar right away. When you do decide to start customizing it, Default Folder X lets you set default folders and assign shortcuts right from its toolbar. Finally, effortless workflow.
+
+
+What's New In This Version:
+
+Enhancements:
+
+* Favorites are now displayed in Default Folder X's menus even if
+   they're on unmounted drives. Default Folder X will attempt to mount
+   the drive if you select one of those Favorites.
+
+* Default Folder X will now preload recent and favorite folder data in the
+   background to minimize delays when you click on a Default Folder X  
+  menu or bring up a file dialog.
+
+* 3 finger swipe gesture added: Swipe left or up to go up a folder level in
+   the hierarchy (the same as typing command-up-arrow).
+
+* Cmd-F now moves the keyboard focus to the spotlight search field.
+
+* Added support for file dialogs used by Flash, JavaScript or plugins in
+   Firefox 4.
+
+* Added support for Chromium, Brother ControlCenter, Shimo and
+   Neu.
+
+* Added a new AppleScript command "SetSaveName" to Default Folder
+    X's scripting dictionary. A file dialog must be active and _frontmost_
+    for this command to work.
+
+* Default Folder X no longer responds to hot-keys in applications that are
+   listed in the exclusion list in your DFX preferences.
+
+* The option to "Choose the Desktop for all other clicks outside a file
+   dialog" is no longer turned on by default.
+
+* This release is compatible with the latest developer preview of Mac OS
+   10.7 Lion. Note that to accomplish this, Default Folder X now needs to
+   ask you for your administrator password the first time it runs. Please
+   see the notes below for known issues with Lion.
+
+Fixes:
+
+* Corrected a compatibility problem with Quark XPress.
+
+* Fixed a bug that could cause a file dialog's height to be set to zero.
+
+* Corrected a bug that could cause the Default Folder X bezel to come up
+   on top of dialogs that are put up by Save As dialogs.
+
+* Fixed the positioning of the toolbar when it falls offscreen.
+
+* Fixed a bug which would cause RealBasic to display incorrect colors
+   in some of its windows.
+
+* Corrected a bug that caused Default Folder X to mis-identify some
+   applications, including the scanner application Doxie.
+
+* Fixed a bug in menu previews that could cause the large preview size  
+   to be smaller than it should be.
+
+* Eliminated many Console messages about dropped DO connections.
+
+Known issues with Lion:
+
+* You will be asked for your admin password the first time you turn on 
+   Default Folder X after installing this version.
+
+* Currently, Lion's window handling does not seem to work correctly, 
+  so Default Folder X cannot be run with its icon in the Dock. The "Put 
+  Default Folder X's icon and menus in the Dock" option will be ' 
+  automatically turned off in your preferences when you run this build 
+  under Lion.
+
+* Default Folder X doesn't currently work in Preview, TextEdit, or in 
+  Safari when uploading files or attaching files to email messages.
+
+* Contextual menus do not yet work in some file dialogs when running 
+  Lion.
+
+System Requirements:
+
+OS version: 10.5 and above Lion ready!
+
+--- PLEASE SEED ---

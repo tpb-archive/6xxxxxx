@@ -1,0 +1,26 @@
+INSTALL NOTES:
+
+1. Go to Start > Run
+2. Type in %appdata%
+3. Extract \\\"Minecraft.Alpha.1.1.2.&.SMP.LAN.SERVER.&.NAME.SPOOFER\\\" to \\\"appdata\\\\roaming\\\" 
+(You already should be there when running %appdata%, if not verify location.)
+
+Example:
+Win7/Vista
+\\\"C:\\\\Users\\\\%username%\\\\AppData\\\\Roaming\\\\\\\"
+.minecraft
+.minecraft server
+
+XP
+\\\"C:\\\\Documents and Settings\\\\%username%\\\\Application Data\\\\\\\"
+.minecraft
+.minecraft server
+
+4. Go to \\\".minecraft\\\" folder and run \\\"minecraftsl.jar\\\"
+(When you open the game, just press login, it will fail, but prompt you with
+an offline option. Click on that and play the game!)
+
+Credit:
+LocalFX
+Localhost
+Vizion996 (Steam name, add me if you have any trouble)

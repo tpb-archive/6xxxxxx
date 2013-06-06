@@ -1,0 +1,52 @@
+UNOFFICIAL Windows98 Second Edition Service Pack 2.1a
+------------------------------------------------------
+
+Microsoft has never released a service pack for Windows98 SE. But I made a Service Pack for Windows98 SE users. It contains all Windows98 SE updates from Windows Update site and more.
+
+It is a self-extracting and self-installing pack like Microsoft's update files. Thus, you cannot choice individual files. However, the pack installs only required fixes for your system. Uninstallation is possible from Add-Remove Programs. However, I don't recommend uninstallation of the pack, if you don't face any problem.
+
+This is *only* for WINDOWS 98 SECOND EDITION ENGLISH. I highly recommend that you should backup your system before installing the pack. You must have at least 32 MB of RAM.
+
+It contains only operating system updates. It does NOT contain Internet Explorer 6, DirectX 9, Media Player 9 and their updates.
+
+What's New in 2.1a?
+
+* Corrected timestamps of some files (2.1a).
+* Corrected SCR56.INF version information (2.1a).
+* Added COMPOBJ.DLL from DCOM98 (2.1a).
+* Added COMCAT.DLL from DCOM98.
+* Added Q212265 (JPEGIM32.FLT).
+* Added Q240896 (OPENGL32.DLL).
+* Added Q258765 (REG).
+* Added Q269604 (DSOUND.DLL).
+* Added Q285895 (CIMWIN32.DLL) and Q282949 (WBEMPROX.DLL).
+* Added Q314941 (SSDPAPI.DLL, SSDPSVR.EXE, UPNP.DLL).
+* Added Q323708 (NSCIRDA.SYS).
+* Added Q327517 (REG).
+* Added Q885836 (MSWRD632.WPC).
+* Added Q887617 (HTML32.CNV, MSCONV97.DLL, MSWRD832.CNV).
+* Added Q903235 (REG).
+* Added a fix for VS2005 issue (REG).
+* Added "No Channel Logging" registry tweak.
+* Updated Q891711 (to U891711).
+* Updated NWPP32.DLL (to Q250876-v2).
+* Updated HTML Help (to Q896358).
+* Removed DELINFS.INF.
+* Corrected MOUHID.VXD and DISPEX.DLL files.
+* Cleaned up some code.
+
+Updates:
+Microsoft Data Access Components 2.8 SP1
+Q168115 Legacy Credential Caching
+Q245729 File Access URL Patch
+Q256015 DOS Device in Path Name Patch
+Q259728 IP Fragment Reassembly Update
+Q273991 Share Level Password Update
+Q323255 Unchecked Buffer in Windows Help Facility Code Execution
+Q216641 49.7 Days System Stall Update
+Jet 4.0 SP8
+Windows Installer 2.0 Redistributable for Windows 95, 98, and Me
+MSXML 2.6 SP3
+Windows Media Player 9
+DirectX 9.0c
+WinZip 8.0 rc1

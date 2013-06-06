@@ -1,0 +1,36 @@
+Torrent contains:
+1. Diablo 2 with expansion set (Lord of Destruction) and 1.13 patch.
+   All movies was cut because most of us saw this cinematics many times.
+2. Patch for repair to original 1.07 version of game.
+2. Loaders for 1.13, 1.12 and 1.11 version.
+3. Very tiny, near undetectable maphacks for 1.12 and 1.13.
+4. Registry keys for gateways to non-official battle.net servers (playground.ru, alkar.net, corbina.ru).
+5. Utility for change CD-key of your game.
+
+How to use:
+1) Unpack to "C:\Games\Diablo 2\" (or wherever you want).
+2) Run d2gateways-nonoriginal.reg for adding gateways to unofficial servers (playground.ru, alkar.net and corbina.ru) - not necessary.
+3) Read cdkey.txt if you need to add/refill your cdkey - not necessary.
+3) Copy "Diablo 2.lnk" from folder to your desktop and run it.
+   If you unpacked archive to another folder, change path to file "d2m.exe" in shortcut properties.
+   "d2m.exe" is a multiloader for version 1.13 and allows to run many copies of D2 at the same time.
+4) Also you can change desired flags in shortcut properties
+   (mine is "-w -ns -skiptobnet -direct -npl -noplugins -noscript", for example "-ns" means "no sound").
+5) If you need version different from 1.13c, you can use LodRepair.exe - it reset your game to LoD v. 1.07.
+   LODPatch_111b.exe, LODPatch_112a.exe, LODPatch_113c.exe - patches up to 1.11b, 1.12a and 1.13c respectively.
+   Downloaded from http://ftp.blizzard.com/pub/diablo2exp/patches/PC/
+6) If you need maphack - unzip archive "d2hackmap 1.12.zip" or "d2mr-1.13c.zip" in any folder and run .exe file
+   (in Vista and Windows 7 you must select "Run as administrator").
+   Beware because it is forbidden on most servers and may lead you to ban of all your accounts.
+
+Notes:
+1. If you use Windows 7 on high-end PC's you may see graphical problems just after loading the game.
+   It's ONLY happens to full-screen mode and visible only on the first screen. After logging into your account all problems disappear.
+   If not, you probably need to mark compatibility options on "Compatibility" tab of d2m.exe or diablo II.exe.
+   Or you can use window-mode like many pro-gamers.
+2. In this configuration I swapped actions for "Alt" and "Space" buttons. It was made because it is more convenient to highlight dropped items. You can change this in "Configure controls".
+
+
+
+Good luck and have fun on the long way to the 99 level.
+Viva la Somalia!

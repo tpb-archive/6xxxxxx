@@ -1,0 +1,17 @@
+multiMAN packs many facets: It's a full-fledged Backup Manager, a File Manager, an FTP server,
+and an AVCHD and BDMV (Blu-ray) video player ... plus it does a lot more. It's highly
+configurable with many different display modes. multiMAN is open source
+
+multiMAN 02.01.00 CHANGELOG
+
+Grouping by Genre for Game/Favorite Columns (SQUARE)
+Grouping by Emulator Type for Retro column (SQUARE)
+Grouping by title name (alphabetically) for Music (SQUARE), Game, Favorites, Retro
+columns (SELECT+SQUARE)
+
+Info pop-up during music playback
+Removed duplicate entries (by name) in Photo and Music XMMB columns
+BD Remote: [SLOW<<]/[SLOW>>] will change playback volume
+BD Remote: [BLUE] will switch to File Manager and back
+BD Remote: [GREEN] will turn on the Screensaver
+SELECT+START will switch to File Manager and back

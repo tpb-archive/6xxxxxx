@@ -1,0 +1,76 @@
+User Type,Username,Date,Text
+,RUKAVAC,2011-05-22T23:03Z,only singleplayer or we can play online?
+,ursak,2011-05-23T04:15Z,Ur asking if a multiplayer-only game is playable as multi or only singleplayer? lol
+,opiatius,2011-05-23T10:03Z,"ruku: i like to think if you made it to this site you're smart enough to know wtf is going on, but apparently not. the amount of fucking idiots amazes me"
+,sudhir58,2011-05-28T19:12Z,guys..we can play it online and we can play single player game also...download and enjoy..:P
+,Colke,2011-06-13T16:52Z,"It's start downloading instalation again,any solution? Help please :("
+,kingofmyzilf,2011-06-14T21:05Z,"is this battlefield play4free or battlefielheroes???!!!
+
+i got only things in the maps for battlefieldheroes... and nothing for battlfield play4free!!!"
+,r3mind,2011-07-30T00:56Z,"doesn't work with the update, cause of the maplist.con file.
+
+Any ideas how to fix it?"
+,SouthiceRespawn,2011-08-06T15:57Z,don't work
+,SpoOkkkkk,2011-08-14T12:12Z,WORKS 100% U FAILUREZ...!!!
+,SpoOkkkkk,2011-08-14T13:19Z,"doesnt work for me neither...
+
+->DO   NOT"
+,sagarzz,2011-08-18T13:12Z,add registry entries manually to be able to launch the game from the official site.
+,sagarzz,2011-08-18T13:13Z,"32 Bit:
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield Play4Free]
+""Installation Dir""=""C:\\Program Files\\EA Games\\Battlefield Play4Free""
+""Language""=""EN"""
+,sagarzz,2011-08-18T13:13Z,"64 Bit:
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Electronic Arts\EA Games\Battlefield Play4Free]
+""Installation Dir""=C:\\Program Files\\EA Games\\Battlefield Play4Free""
+""Language""=""EN"""
+,Jevin,2011-11-29T19:03Z,"Well after some time I figured what Sagarzz meant to say;
+
+Here is a more detailed description of what you actually have to do with registry editor.
+
+Go to registry editor; (Windows key on keyboard + R) and type: 'regedit' without the '' and press Enter.
+
+Go to:
+32-bit: [HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield Play4Free]
+
+64-bit:
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield Play4Free]
+
+They may not be there;
+if they're not there: Create them.
+
+Then create in the 'folder' Battlefield Play4Free a new String Value;
+
+1st one:
+Name: ""Installation Dir"" (Note: without the quotation!)
+After that double click; and put in the following information:
+""C:\Program Files (x86)\EA Games\Battlefield Play4Free""  (Note: without the quotation!)
+
+For 32-bit: ""C:\Program Files\EA Games\Battlefield Play4Free""  (Note: without the quotation!)
+
+2nd one:
+Name: ""Language"" (Note: without the quotation!)
+After that double click; and put in the following information: ""EN"" (Note: without the quotation!)
+
+NOW it should work;)
+I mean, it worked for me:P"
+,Jevin,2011-11-29T19:09Z,"whoops;
+EDIT:
+64-bit:
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Electronic Arts\EA Games\Battlefield Play4Free]
+
+of course;)"
+,ykumar00,2012-02-08T17:59Z,PLEASE PLEASE Upload The newest version!! The official site does not seem to be wokring for me. The download does not start at all. PLEASE !!
+,serdude1,2012-03-22T18:34Z,"it is 22 of march 2012 18:32 hours [6:32 pm]
+and this still works I am downloading the upgrades after I made the changes in my registry [32 bit]
+[HKEY_LOCAL_MACHINESOFTWAREElectronic ArtsEA GamesBattlefield Play4Free]
+""Installation Dir""=""C:Program FilesEA GamesBattlefield Play4Free""
+""Language""=""EN""
+
+Cheers"
+,ehab7bob,2012-04-01T18:47Z,i tried the steps you guys said but when ever i start the game it starts downloading from the beginning 
+,mohamedxlachtar,2012-05-29T14:03Z,please reapload updated 1.40

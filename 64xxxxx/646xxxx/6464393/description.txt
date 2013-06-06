@@ -1,0 +1,262 @@
+This is the most complete release which includes all available versions of Windows 7 (except "N" and "E" editions) :
+
+
+
+
+
+**********************************
+
+* Windows 7 Starter 32-bit
+
+* Windows 7 Home Basic 32/64-bit
+
+* Windows 7 Home Premium 32/64-bit
+
+* Windows 7 Professional 32/64-bit
+
+* Windows 7 Enterprise 32/64-bit
+
+* Windows 7 Ultimate 32/64-bit
+
+**********************************
+
+
+
+- Bootable ISO which perfectly fits on classic DVD5 disc.
+
+- Activated (no serial needed).
+
+- Genuine version (Windows Update is available).
+
+
+
+Windows 7 Starter
+
+*********************
+
+Windows 7 Starter is the edition of Windows 7 that contains the fewest
+
+features. Windows 7 Starter is only available in a 32-bit version. The Windows Aero theme is not included in this version. The desktop wallpaper and Visual Styles (Windows 7 Basic) are not user-changeable. Its functions are very limited. Microsoft originally intended to restrict the edition to running 3 simultaneous applications, but this limitation was dropped. This edition is available pre-installed on computers, especially netbooks, through system integrators or computer manufacturers using OEM licences.
+
+
+
+
+
+Windows 7 Home Basic
+
+**********************
+
+Windows 7 Home Basic is available in emerging markets such as Argentina, Brazil, Chile, the People's Republic of China, Colombia, India, Pakistan, Panama, Philippines, Mexico, Russia, Thailand, and Turkey. It is not available in developed technology markets countries including in Western and Central Europe, North America, Hong Kong, Australia and Saudi Arabia. Some Aero options are excluded along with several new features. Home Basic, along with other editions sold in emerging markets, include geographical activation restriction, which requires users to activate Windows within a certain region
+
+or country.
+
+
+
+
+
+Windows 7 Home Premium
+
+**********************
+
+This edition contains features aimed at the home market segment, such as Windows Media Center, Windows Aero and multi-touch support.
+
+
+
+
+
+Windows 7 Professional
+
+**********************
+
+This edition is targeted towards enthusiasts and small-business users. It includes all the features of Windows 7 Home Premium, and adds the ability to participate in a Windows Server domain. Additional features include operating as a Remote Desktop server, location aware printing, Encrypting File System, Presentation Mode, Software Restriction Policies (but not the extra management features of AppLocker) and Windows XP Mode. Like Enterprise, Microsoft will support this edition until 2020.
+
+
+
+
+
+Windows 7 Enterprise
+
+**********************
+
+This edition targets the enterprise segment of the market and is sold through volume licensing to companies which have a Software Assurance contract with Microsoft. Additional features include support for Multilingual User Interface (MUI) packages, BitLocker Drive Encryption, and UNIX application support. Not available through retail or OEM channels, this edition is distributed through Microsoft Software Assurance (SA). As a result it includes several SA-only benefits, including a license allowing the operating of diskless nodes (diskless PCs), the running of multiple virtual machines, and activation via VLK. Like Professional, Microsoft will support this edition until 2020.
+
+
+
+
+
+Windows 7 Ultimate
+
+**********************
+
+Windows 7 Ultimate contains all of the same features as Windows 7 Enterprise, but unlike the Enterprise edition, it is available to home users on an individual license basis. Windows 7 Home Premium and Windows 7 Professional users are able to upgrade to Windows 7 Ultimate for a fee using Windows Anytime Upgrade if they wish to do so. Unlike Windows Vista Ultimate, the Windows 7 Ultimate edition does not include the Windows Ultimate Extras feature or any exclusive features as Microsoft had stated. However, even though it is the consumer equivalent to Enterprise, Microsoft will only support Ultimate until 2015, as per Home Premium.
+
+
+
+
+
+
+
+"N" and "E" editions
+
+E editions
+
+The features in the E Editions are the same as their equivalent full versions, but do not include Internet Explorer. The cost of the E Editions are the same as the full versions, as Internet Explorer can be downloaded without charge from Microsoft for the E Editions.
+
+N editions
+
+The features in the N Editions are the same as their equivalent full versions, but do not include Windows Media Player. The cost of the N Editions are the same as the full versions, as Windows Media Player can be downloaded without charge from Microsoft for the N Editions.
+
+
+
+Service Pack 1
+
+Microsoft released the first official service pack for Windows 7 on February 22, 2011. This is an important update that includes previously released security, performance, and stability updates for Windows 7. SP1 also includes new improvements to features and services in Windows 7, such as improved reliability when connecting to HDMI audio devices, printing using the XPS Viewer, and restoring previous folders in Windows Explorer after restarting.
+
+Windows 7 Service Pack 1 is an update that does the following :
+
+
+
+- Helps keep PCs supported.
+
+- Provides ongoing improvement to the operating system, by including previous updates delivered over Windows Update as well as continuing incremental updates to the Windows 7 platform based on customer and partner feedback.
+
+- Makes it easy for organizations to deploy a single set of updates.
+
+
+
+Changes specific to Windows 7
+
+
+
+Additional support for communication with third-party federation services
+
+Additional support has been added to allow Windows 7 clients to effectively communicate with third-party identity federation services (those supporting the WS-Federation passive profile protocol). This change enhances platform interoperability, and improves the ability to communicate identity and authentication information between organizations.
+
+
+
+Improved HDMI audio device performance
+
+A small percentage of users have reported issues in which the connection between computers running Windows 7 and HDMI audio devices can be lost after system reboots. Updates have been incorporated into SP1 to ensure that connections between Windows 7 computers and HDMI audio devices are consistently maintained.
+
+
+
+Corrected behavior when printing mixed-orientation XPS documents
+
+Prior to the release of SP1, some customers have reported difficulty when printing mixed-orientation XPS documents (documents containing pages in both portrait and landscape orientation) using the XPS Viewer, resulting in all pages being printed entirely in either portrait or landscape mode. This issue has been addressed in SP1, allowing users to correctly print mixed-orientation documents using the XPS Viewer.
+
+
+
+
+
+
+
+How to install :
+
+**************
+
+
+
+- Extract using WinRAR.
+
+- Use ImgBurn** to burn the extracted ISO file called "Windows.7.SP1.ENG.x86-x64.MAFIAA"
+
+* You can use any other software for this operation (Nero, Alcohol, CloneCD...)
+
+* Burning speed should not be faster than 4x.
+
+- Restart your computer*.
+
+* You can install it from existing OS, but I'll recommend the clean installation.
+
+- Make sure you've selected your DVD-ROM/RW drive as a first boot device (BIOS setup)*
+
+* If you don't know how to do that, check this link http://www.hiren.info/pages/bios-boot-cdrom
+
+- The text message will appear "Press any key to boot from CD or DVD...."
+
+* By pressing the key you're entering the setup.
+
+- Select your language, time and currency and keyboard input (optionaly)
+
+- Click "Install now".
+
+- Choose your edition* (x86 is 32-bit, x64 is 64-bit) depending of CPU type you have.
+
+* Note that if you have less than 4GB of RAM, x64 will be useless.
+
+- Click "I accept".
+
+- Click "Custom (advanced).
+
+- Choose your partition/hdd drive where Win7 should be installed and click format.
+
+* Setup will continue automatic and it will finish after 15-30 min.
+
+- Next step will be username (Image 17).
+
+- Type your password (if you want).
+
+- Choose the third option for next step.
+
+- Select your time zone.
+
+- Select your current location.
+
+- And the last step will be silent auto-activation*
+
+* Your PC will restart for the last time.
+
+
+
+And that would be all about installation. You're in Windows now.
+
+
+
+- Activation -
+
+***************
+
+
+
+This release has integrated RemoveWAT 2.2.6.0.
+
+This tool completely removes Windows Activation Technologies from your sytem and your Windows will be fully activated and fully updateable, plus, you won't have to worry about malicious updates (i.e. KB971033) which can deactivate your copy of Windows.
+
+It runs automatically and silently after the setup.
+
+
+
+- x64 Recovery -
+
+****************
+
+
+
+This release has integrated Windows 7 Recovery Disc which can be used to access a system recovery menu, giving you options of using System Restore, Complete PC Backup, automated system repair and a command-line prompt for manual advanced recovery. Note that you cannot use the Windows 7 Recovery Disc to re-install Windows. It only fixes Windows.
+
+
+
+
+
+If you have problems with Microsoft Security Essentials :
+
+
+
+1. Restore WAT and reboot.
+
+2. Download MSE :  http://www.microsoft.com/security_essentials/default.aspx
+
+3. Install
+
+4. Remove WAT.
+
+
+
+RemoveWAT is located in :
+
+\\sources\$oem$\$$\Setup\scripts\faXcooL.exe
+
+
+Enjoy this "lame" release from MAFIAA, and as always if you don\'t like it install TUX!
+
+Salut to all p2p up-loaders at TPB!

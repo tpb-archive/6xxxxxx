@@ -1,0 +1,135 @@
+Terraria - Mac - V1.04
+=======INFO=======
+This is a port.
+Website: http://www.terraria.org/
+IGN Review (given 9/10): http://pc.ign.com/objects/106/106846.html
+TO PLAY:
+Drag Terraria.app to applications folder, click to open + play.
+
+=======KNOWN ISSUES======
+This mac port is no better than the pc game! So, if someone on the PC experiences a crash, so will you on a mac! This is the SAME GAME, just for mac! With that said:
+The game will crash every 5 minutes.
+In order to prevent crashes, set skip frame rate to OFF in OPTIONS under the MAIN MENU.
+
+Haven't tested multiplayer yet, but single player is awesome!
+
+
+========CHANGELOG SINCE PREVIOUS VERSION (1.0.3)=======
+"Items
+
+    * Added Feature! - Social Slots. All normal armor and vanity items can be placed here to use their graphical appearance in place of equipped gear without overriding their stat gains.
+
+    * New Vanity Items - Tuxedo Shirt and Pants
+    * New Vanity Items - Plumber Outfit and Hat
+    * New Vanity Items - Hero Outfit and Hat
+    * New Vanity Item - Bunny Hood
+    * New Vanity Item - Fish Bowl
+    * New Vanity Item - Top Hat
+    * New Vanity Items - Archaeologist's Outfit and Hat
+    * New Vanity Item - Ninja Outfit.
+    * New Vanity Item - Red Hat.
+    * New Vanity Item - Summer Hat
+    * New Vanity Item - Robe
+    * New Vanity Item - Robot Hat
+    * New Vanity Item - Gold Crown
+    * New Item - Leather
+    * New Item - Green Dye
+    * New Item - Black Dye
+    * You can now wear the Jungle Rose in your hair
+    * The Water CandleÎ“Î“Ã©Â¼Î“Ã¤Ã³s enemy spawn rate increase effect now works correctly when held
+    * Some items that were missing Î“Î“Ã©Â¼â•¦Â£lore textÎ“Î“Ã©Â¼Î“Ã¤Ã³ in their tool-tips now have them.(Breathing Reed,Grappling Hook Jungle Rose.)
+    * Ammo items are now listed as Ammo in their tool-tip and Equipable Items that offer no stat bonus list as Vanity Items in their tool-tip. Items used in any recipe now list as Materials, in their tool-tip.
+    * The Magic Hat now offers 2 Defense to its wearer and the Empty Bucket now offers 1 Defense to its wearer.
+    * Dungeon Blocks now require at least a Nightmare Pick to mine, unless they are near the spawn location, where they can be mined by any pick.
+    * Phoenix Blaster has had a reduction of stats to balance better with other items of its tier.
+    * Gem, Mushroom and Bottle sell values have been reduced.
+    * Hell Forges above the rock layer can be moved with any hammer, but below require a 60% power hammer or stronger.
+    * Angel Statues are now more rare of a find.
+
+
+NPCs
+
+    * New NPC - Bunny
+    * New NPC - Goldfish (Is also an Item)
+    * New Enemy - Corrupt Bunny
+    * New Enemy - Corrupt Goldfish
+    * New Enemy - Piranha
+    * New Enemy - Harpy
+    * New Random Mini- Boss - King Slime
+    * New Enemy - Bat
+    * New Enemy - Jungle Bat
+    * New Enemy - Jungle Slime
+    * New Enemy - Snatcher
+    * New Rare Enemy - Dr. Bones
+    * New Rare Enemy - The Groom
+    * New NPC - A Clothier will now move into your town when the conditions are met.
+    * Enemy spawn distance has been pushed back to the maximum resolution to ensure that they will never spawn on the screen.
+    * Enemy spawn rates have been adjusted to account for the increased spawn distance.
+    * Enemy projectiles no longer drop hearts or stars when killed by the player.
+    * The Eater of Worlds now has Higher HP, Def and Dmg, making battling him more difficult.
+    * Hornets no longer appear as if they are about to flip over while flying.
+    * The Dead Miner is now a bit stronger.
+    * TimÎ“Î“Ã©Â¼Î“Ã¤Ã³s spawn chance has been reduced.
+
+
+Player
+
+    * Players now have 1 second of invulnerability after they spawn.
+    * The eat/drink animation now plays correctly.
+
+
+World-Gen
+
+    * Surface JungleÎ“Î“Ã©Â¼Î“Ã¤Ã³s are now possible on mud that is on the surface. Jungle trees will auto-grow on their own, as acorns are not usable on the jungle grass.
+    * Chasms are now less frequent to appear, but always have an orb.
+    * Mud now Î“Î“Ã©Â¼â•¦Â£blendsÎ“Î“Ã©Â¼Î“Ã¤Ã³ graphically with dirt, rather than stone to add for a more crisp look in Jungles.
+    * Jungle plants now grow underwater.
+
+
+Multiplayer
+
+    * Increased client side security.
+    * Selecting summon items will no longer cause monsters to summon.
+    * Players with a name over 20 characters will now get booted from the server.
+    * Added some minor anti-grief protection.
+    * Fixed a bug that would cause the client to attempt to summon an NPC during a multiplayer game and crash.
+    * Added the -host command line parameter to the client.
+
+
+Server
+
+    * Improved server timing, which should help reduce lag.
+    * Added several new command line and config options. These are listed in serverconfig.txt
+    * Servers will now output to crashlog.txt before crashing, allowing for more specific bug reporting.
+    * Clients will now output to client-crashlog.txt before crashing, allowing for more specific bug reporting.
+
+
+Misc.
+
+    * Screen resolutions now have limits of 800x600 minimum and 1920x1200 maximum.
+    * Added an option that will pause the game while talking to an NPC or opening your inventory in single player.  It defaults to off.
+    * Added an option to automatically save the world every 10 minutes.  Defaults to on.
+    * Added a prompt to load a world backup if the current world is corrupt.
+    * Added a check to determine if a world file was loaded successfully.
+    * Attempting to Launch the game from the Terraria.exe, will now inform you to launch via Steam rather then doing nothing at all with no indication of why.
+    * Backing out of the port selection screen now plays the correct sound.
+    * Setting options now correctly align with the center of the screen in all resolutions.
+    * The settings menu has been reorganized.  All video related options have their own menu
+    * The Î“Î“Ã©Â¼â”¼Ã´TinkÎ“Î“Ã©Â¼â”¬Â¥ sound now has a more dull sound.
+    * The Re-Logic splash screen, now scales correctly in other resolutions"
+
+
+
+====PREVIOUS VERSIONS====
+1.0.3 http://thepiratebay.org/torrent/6457962/Terraria_-_Mac_v1.03_
+
+
+====SEED IT OR LOSE IT====
+
+Thanks!
+Aypolo
+
+PS: I'll try to update the torrent when the next big update comes out. It will be in a separate torrent.
+
+
+

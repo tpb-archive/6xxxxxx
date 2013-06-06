@@ -1,0 +1,119 @@
+Dust that junker off in the closet, i got a project for ya to do lol, a fully tweaked out Windows 95 system. Went digging thru my CD's earlier and just happened to find 3 Windows 95 Disks all going to a set. So I threw in some boot disk makers, updates, software, tweaks and more. Let's give EVERY computer a home this year and produce a little bit less waste shall we. There ya go, pirating green!
+
+Contains:
+---------
+Windows 95A/B Boot Disk Creators( 3 1/4 Floppy required)
+Windows 95 ISO Installer Disc ISO
+Windows 95 serials
+Windows 95 Companion CD ISO
+Windows 95 Plus CD ISO
+Unofficial Windows 95 OSR2 Service Pack 1.05
+Windows 95 Drivers Extra Discs
+Windows 95 Updates
+
+Unofficial Windows 95 OSR2 Service Pack 1.05
+--------------------------------------------
+Changes for v1.05-
+-modified MSINFO95.INF file to fix installation problem of the ms system info 
+
+& tools files when Win95 is not installed on primary hard drive (such as D: 
+
+or E: drives)
+-updated ATL71.DLL & MFC71.DLL files to the latest versions from KB971089
+-replaced ASYCFILT.DLL, OLEPRO32.DLL & STDOLE2.TLB files with build 4520 from 
+
+Q327177
+-included newest DSTUPD95 package containing Feb. 2010 time zone / daylight 
+saving time registry info [KB979306]
+-updated GRPFLT95 package containing newest graphic filter files that fix 
+recent security problems
+-updated WMP 6.4 package for the full osr2 service pack containing latest 
+strmdll.dll security fix
+
+changes for v1.04-
+-modified machine.inf and mshdc.inf files to support certain IBM Thinkpad 
+laptops with pre-installed W95b or W95c
+-added ANSI editions of the ATL71.DLL, MFC71.DLL, MSVCP71.DLL & MSVCR71.DLL 
+
+files
+
+changes for v1.03-
+-updated GDI32.DLL file to version 4.00.955 (Q247578)
+-fixed minor install problems with the RUNPOST.BAT file which should now 
+execute installing registry entries from the PRESERVE.INF file; also 
+corrected some registry entries in the PRESERVE.INF file
+-updated WMP 6.4 and WMP 5.2 packages to include the URLMON.DLL & WININET.DLL 
+files from DXMedia; some WMP codecs will not register correctly without those 
+two files
+-updated QFECheck reg info on the latest versions of GDI.EXE and GDI32.DLL 
+files installed by the SP
+-updated GRPFLT95.EXE package (unofficial graphics filters pack for Win95) 
+that includes newer WPGIMP32.FLT file
+
+changes for v1.02-
+-fixed version number on the opening dialog box prompt; it should now mention 
+the correct version of the SP
+-added ANSI editions of the ATL70.DLL, MFC70.DLL, MSVCP70.DLL & MSVCR70.DLL 
+files
+
+changes for v1.01-
+-updated CIMWIN32.DLL to version 1.50.1085.0059 from Q289514
+-fixed some minor install problems with the SP
+Starting with version 1.01 of the SP, the OSR2 SP deletes older OSR2 SP 
+QFECheck registry entries from previous versions of the OSR2 SP when 
+installing over a previous version.
+
+Version 1.04 is probably the last release of the 1.0x series of the SP
+
+
+Windows 95 Extra Drivers Discs:
+-------------------------------
+Microsoft has made the Windows 95 Driver Library (W95DL) available. The W95DL 
+contains drivers for many printers, display adapters, sound cards, and 
+network adapters not provided with Windows 95. If you have a modem, the 
+drivers are available for free on the Microsoft Download Center. Please note 
+that standard connect-time fees and long-distance telephone charges, if any, 
+apply during downloading.
+NOTE: The drivers included in this library are intended for use with Windows 
+95. These drivers are not recommended for use with earlier versions of 
+Windows. 
+
+Utils hand picked for this pack:
+--------------------------------
+Cute Mouse Driver - v2.1 beta 4 Mouse driver with wheel support for both AT and 
+PS/2 mice; uses only 3K (!) of memory
+Partition Resizer v1.34 - Resize your FAT16/FAT32 partitions safely. Freeware
+TheDraw - Ansi drawing program, does several other formats as well
+GWBASIC- Old School Coding Language
+WinZip 8.1 SR 1 - Picked it cuz it seemed to work the best in Windows 95
+MPXPlay 1.58 Final - Picked it cuz it plays all music formats and memory needed was like 16 megs on my old 486 75mhz comp
+
+Updates:
+--------
+Windows 95 Msnp32.dll Security Update, November 29, 1999
+Windows 95 SNMP Security Update, February 12, 2002 [unofficial]
+Internet Explorer 5.5 SP 2
+Windows Media Player 9
+Windows 95 Dial-Up Networking 1.3 Update
+Windows Socket 2
+Windows 95 Service Pack 1 Update
+Direct X8.0 Installer
+
+Patches:
+--------
+Windows 95 Security Patch: Clear-Text Password Vulnerability
+Alternative Mouse Pointers for Windows 95[for users with vision problems] 
+DCOM Configuration Utility (version 5.00.1603.1)
+Microsoft Active Acessibility 1.3 SDK & RDK for Windows 95
+Microsoft Internet Print Services addon
+Microsoft Management Console 
+Windows 95 Plus! Desktop Themes Update [need Plus! 95 installed first]
+Microsoft System Configuration Utility (msconfig.exe) version 4.10.2223 for Windows 95
+Microsoft 9x Paint Program (mspaint.exe) for Windows 9x & ME [ver. 5.0.1523.1]
+MS Paint Graphics Filters Pack from Axcel216 [needed after updating MS Paint program]
+MS Registry Editor tool [modified Regedit] v4.90.3000  (modified to work only under Win95/98; not for WinME)
+TAPI (Telephony Application Program Interface) Version 2.1 for Windows 95
+TweakUI version 1.33 for Windows 95
+Windows 9x & ME Update Information Tool
+Windows 95 Winsock 2.2 [WS 2] Addon [need the TCP/IP protocol installed first]
+

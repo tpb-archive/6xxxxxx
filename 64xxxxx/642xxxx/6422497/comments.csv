@@ -1,0 +1,133 @@
+User Type,Username,Date,Text
+,ThatTallGuy,2011-05-27T17:57Z,"Wow! Only two days and I have over 30 Seeds. That's fucking awesome guys, thanks! Just comment what you guys want next and I'll try to get it."
+,gunfactory,2011-06-07T20:14Z,do you need the homebrew channel for this???
+,ThatTallGuy,2011-06-09T08:23Z,"@gunfactory
+Yes you do need the Homebrew Channel. If you need a tutorial on how to softmod your Wii, you can find the one I used here:
+http://www.wiihacks.com/recommended-faqs-guides-tutorials-only/60921-guide-softmod-any-wii.html"
+,TBagX,2011-06-10T13:22Z,sweet no lag on dolphin emu
+,19BOB75,2011-06-19T08:26Z,I have softmod wii. Downloaded fine. Followed your instructions for extraction and burn. All i get is a black screen.
+,ThatTallGuy,2011-06-19T22:24Z,"@19BOB75
+Did you just try to load up the game, because that wouldn't work without a certain mod I don't use atm, but if you burned it (and correctly) than it should start up fine. I'll comment asap with help for you in a sec."
+,ThatTallGuy,2011-06-19T22:42Z,"@19BOB75
+Okay, so I've found a few things that could be the problem. (I don't burn games to play, I USB Load, so haven't had this problem, but searched for it.):
+1. Your Wii console's laser needs to be cleaned.
+2. You burned the game onto the disc incorrectly or had an error whilst doing so.
+3. The disc you used to burn the game onto is not right type.
+4. You need to update/install correct cIOSs and WADs.
+5. You loaded the game with wrong Channel/Loader/etc.
+
+Sorry that it had to be a list, I know people hate them, but it is something nonetheless. I suggest making sure your Wii is fully up to date and then check what type of disc is best/needed for Black Ops."
+,aamirtariq,2011-06-28T08:23Z,"I would recommend that dont downgrade or run WADs or cIOSs.
+
+If you have softmodded your wii, then just download USB Loader GX and run it using an SD Card, Homebrew. Use a USB drive to run games. I use it and successfuly running a lot of games.
+
+Downloads WBFS Manager and use it transfer games to your USB. Tutorials are available on various video portals and it is very simple to use. 
+
+Enjoy"
+,ThatTallGuy,2011-06-28T21:17Z,"@aamirtariq
+Thank man, excellent comment!"
+,ThatTallGuy,2011-07-01T20:26Z,"@Mafahs
+I E-mailed you with a probable solution to your problem to your Yahoo e-mail. Hope it helps."
+,JOZMANZOL,2011-07-03T15:35Z,"@mafasmunaseer...I had the same problem with my downloads, download the WBFS Manager...and you should be able to add it to your flash drive or external drive to play the game with the USB LOADER GX..."
+,JOZMANZOL,2011-07-03T15:37Z,Thanks dude...this one downloads and less than an hour for me...Seed Seed Seed guys and girls..
+,JOZMANZOL,2011-07-03T17:37Z,"It doesnt load in the usb loader, anybody has any ideas why?"
+,ThatTallGuy,2011-07-05T02:19Z,"@JOZMANZOL
+It should load in the USB Loader! I play with this ISO! Could be that your Loader isn't using correct setting or you're trying to use codes, which unless you use Neogamma, won't work. lol"
+,sikemike,2011-07-11T22:42Z,"I'm having a problem with this iso. It gets to the loading screen and freezes while the loading logo is on. I'm doing trying to play this with a usb hdd.
+
+I have tried these and have had the same results.
+-Usb loader Gx 2.2
+-Wii Flow 2.1
+-NeoGamma R8, IOS 249 (rev 17)
+
+I've probably missed something, let me know if anymore information is need. 
+- Thanks, Mike"
+,ThatTallGuy,2011-07-13T23:32Z,"@sikemike
+-NeoGamma R8, IOS 249 (rev 17)
+
+That's your problem. You have to have cIOS 249 rev21 for black ops to work. And once you put rev21 on your Wii, you will probably have to update your NeoGamma to R9. Both are free and easy to get and load, so just Google or Search Youtube.
+
+Search: ""NeoGamma r9 beta"" and ""Wananinko's rev21 cIOSx installer""
+
+You might also need Hermes 5.1 cIOS installer. So just in case, search that up afterward."
+,sikemike,2011-07-21T21:49Z,"It works, thank you so much! I kinda had a feeling I needed to update some things."
+,ThatTallGuy,2011-07-22T23:12Z,"@sikemike
+You're welcome! All I ask is that you seed so others can play this as well."
+,Mistry1,2011-07-29T03:05Z,"Thanks for the upload, but I am wondering as to why there are 3 zip files? The files in the 3 folders are all the same. I am using WBFS Manager to copy them to the USB. What should I do? Do I need to extract all 3 folders to the USB drive?"
+,ThatTallGuy,2011-07-29T23:41Z,"@Mistry1
+You're welcome. The zip files is the iso split into 3 parts. They are split to make downloading them easier. The file is put into a zip file so that when downloading the file, it cannot become corrupted from or while downloading the file(s).
+
+What you need to do is have winrar, 7zip, or another program that does the same thing and extract the iso from the files and place it on your computer. 
+Once you have extracted it, than you use WBFS Manager to load it onto your USB Device and load it with your Homebrew application of choice. then play it. 
+Since CoD: Black Ops is a little different from other Wii games, you might have a problem or two when trying to load it. If you do, just comment back with your problem and I'll find you a solution. 
+
+Thank you for downloading my torrent and please Seed so others can enjoy it as well!"
+,com519,2011-08-05T15:51Z,"i have homebrew ,soft moded,but have CFG usb loader have downloaded several games now but this one just says loading all the time please help.thx in advance
+"
+,ThatTallGuy,2011-08-06T01:52Z,"@com519
+In CFG usb Loader, set the IOS to 224. If that IOS does not work then also try 249 and 222.
+
+If you don't have a US Wii, than that might also cause it to mess up. Just patch the country strings and vidpatch and set it to play NTSC, otherwise just do the IOS. 
+
+IF none of that works, than you might need to update your cIOS and stuff, look up above in the description for the programs.
+
+The ones you probably need if you don't have them already are:
+-Wananinko's Rev21 cIOSx installer
+-Hermes 5.1 cIOS installer
+(Go to youtube if you cannot find them by Google search)"
+,alzh,2011-08-09T20:47Z,"How do you play this? I have Homebrew Channel, should I use Neogamma R9 Beta 50 with this burned on dvd or what?"
+,ThatTallGuy,2011-08-09T21:33Z,"@alzh
+You play it like any other Wii game, but if you haven't updated your stuff to that of what I've put in the description than it won't work.
+
+You can burn it or play it through USB, it doesn't matter. If you know how to burn games than, there ya go and if you know how to play through USB than that's even better! lol.
+
+Please read some other comments before yours, they may help your problem. If you need to know the whole process than I'll tell you of course. Just ask."
+,alzh,2011-08-09T23:57Z,"@ThatTallGuy
+Thanks, but one more thing: What's the difference between rev20 and rev21? My cIOS has been updated to IOS249, and using rev20, updated to IOS250. I don't want to risk bricking my wii by downgrading, so will this work on my version of the IOS?"
+,ThatTallGuy,2011-08-10T03:46Z,"@alzh
+There's not much difference. I think it was just some debug errors fixed in r21 and you can use NewGamma r9 Beta50, I just had Beta47 at the time.
+
+Try it out and if it works, than there ya go!
+You're welcome, Help Seed!"
+,alzho,2011-08-10T18:37Z,"@ThatTallGuy So I decided to use a USB because the DVDs weren't cooperating, and Black Ops is stuck at the loading screen. I've tried:
+Neogamma r9 beta 47
+Neogamma r9 beta 50
+WiiFlow 1.1
+and none of them worked. I used WBFS Manager to mount the ISO onto my USB, any help?"
+,ThatTallGuy,2011-08-11T00:18Z,"@alzh
+The only problem I see now is that maybe you have not installed Hermes 5.1 cIOS, or that Rev21 is needed. I always update all of my apps on my console, so maybe having older applications might be hindering you. My set-up for Black Ops is as follows exactly:
+
+Wii 4.3U downgraded to 4.1U after Smash Stack Hack
+I installed Wananinko's rev21 cIOSx for IOS 249 base 57 and Hermes 5.1 cIOS for IOS 224 base 57.
+I use WBFS Manager 3.0 to put the game on my USB.
+I load the ISO on NeoGamma r9 Beta 47. (Doesn't matter if you use Beta 47, 48, 50, etc.)
+NeoGamma Settings:
+
+Wii Options-
+Boot Lang: Console Default
+Force Video: Disc
+
+Rebooter Options-
+Force cIOS: Yes
+Preloader Support: Yes
+
+(If you try to use cheat codes with Black Ops, it will give you the loading error or just not work unless you change the Hook Type to OSSleepThread)
+
+*I take no responsibility for cheating in Black Ops, any info said above is just information to help with loading the game* "
+,alzho,2011-08-11T22:28Z,"@ThatTallGuy Yep, it was the cIOS, didn't have 5.1. Tried it, it works now, thanks for the UL!"
+,Mr_PaRaDoX,2011-09-21T20:41Z,"Hey, I have downloaded the files and extracted all 3 of the files at the same time. Now I get one file but it isn't in .iso form. It's still listed as winrar . When I try to extract it it says that there is an error. What could be the problem?"
+,ThatTallGuy,2011-09-22T09:13Z,"@Mr_PaRaDoX:
+I don't exactly know. I've downloaded this on my friend's computer because she has a Wii and when it is downloaded, they're should be 5 files. The 3 .rar files are the game ISO and should be just the Black Ops game .iso file. 
+
+The only way it could not be the ISO file is that it had not downloaded 100% and the File was corrupted or that there was an error after downloading. When you extract the file from the 3 .rar files, open them in the Winrar browser window thingy and extract it that way, preferably to your desktop. If you are just Right-Clicking one of the files and pressing ""Extract Here"" it may be messing for some reason.
+
+There are no problems with the actual files as I use this ISO to play and I have downloaded this exact torrent and extracted the containing .rar file before on a different computer, so there are no changes in what is contained in the Torrent. 
+
+On a last thought type of thing, I have a Windows OS. And my friend's computer is a Windows, so if you are using a Mac OS than that might have something to do with it. I don't quite know if it would mess anything up, but it is worth noting if you don't have Windows OS."
+,Mr_PaRaDoX,2011-09-22T19:05Z,"@ThatTallGuy: I have gotten all the files and extracted the 3 files(bo part 1,2,3) together. I selected all 3 and clicked Extract here. once it extracts  it comes up as Black Ops, with the same saize as any wii game but it says it's a winrar file instead of an .iso. I am running Windows btw"
+,ThatTallGuy,2011-09-24T01:25Z,"@Mr_PaRaDoX:
+It extracts to be a .rar instead of a .iso? That's weird and is not supposed to happen. Fiddle with your winrar a little to see if that is what is the cause. If it is coming up as a .iso but looks like a winrar file it may be because winrar can be set to open iso files. "
+,drv96,2012-02-21T15:08Z,"which file to extract. because whenever i extract any of the compressed files. another compressed file approx 4.37 gb appears instead of the image file     when i try to extract it it says no archives found.
+need help"
+,ThatTallGuy,2012-06-17T15:56Z,"@drv96
+It shouldn't matter which file you extract. (I just do the first one) When you extract it, a new file will be there that is about 4.37GB or so. ""That"" is the ISO file of Black Ops Wii extracted from all the file parts. Just let it extract it all the way until its finished, then use WiiManager 3.0 or a similar Program to place it onto a USB Harddrive and then play on a soft-modded or hard-modded Wii through an ISO loader such as NeoGamma."

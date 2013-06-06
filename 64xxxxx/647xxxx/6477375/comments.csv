@@ -1,0 +1,17 @@
+User Type,Username,Date,Text
+,aerozg,2011-06-27T13:17Z,"Thanks for sharing, it works! I just want to try it out and see what's all the buzz about. 
+
+NOTE to first time users (like myself):
+(I'm running Windows XP Pro SP3 and using WAMP Server installer with PHP v5.3.5 / MySQL v5.5.8 and Apache 2.2.1.7)
+
+To install, point your browser to the 'system' folder on your server (e.g. http://localhost/ExpressionEngine2.1.3/system/) to start the installer.
+
+If you get an Error Number 1064 during installation you need to do two small changes:
+
+you need to replace TYPE=MyISAM with ENGINE=MyISAM  here:
+1. â€œsystem/installer/updates/ud_200.phpâ€
+2. â€œsystem/installer/schema/mysql_schema.phpâ€
+
+And that's it, you have ExpressionEngine v2.1.3. installed!
+
+"

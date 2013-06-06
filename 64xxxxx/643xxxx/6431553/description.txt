@@ -1,0 +1,12 @@
+jjolano's open source FTP server for the PS3.
+See the README for the default user/pass and other info.
+
+v2.3 CHANGELOG
+
+Fixed some minor issues in the client code
+Socket handling improvements
+Fixed an epic fail in the client code
+Perfected the UNIX-style LIST output
+Improved passive mode function
+Added an experimental queue system to prevent some io crashes
+Stability improvements

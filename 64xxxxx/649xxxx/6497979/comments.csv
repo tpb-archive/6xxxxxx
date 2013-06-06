@@ -1,0 +1,45 @@
+User Type,Username,Date,Text
+,drkwolf895,2011-06-28T22:42Z,"The patch should fix exactly what I'm trying to get fixed, but when I run the patch it says that it cannot install files. Error Code: -11.
+
+Any ideas?"
+,Jerto_xD,2011-06-30T01:56Z,"I'm sorry, I have no clue...
+All I had to do is double click and let it do its thing...
+Hmmm. But i think i know what you did wrong.
+The torrent of CC3 on piratebay requires you to do these steps.
+Unpack to C:\Program Files\ProFantasy\
+Program folder should point C:\Program Files\ProFantasy\CC3
+Read Read-me.txt
+Apply cc3 reg.reg patch
+run program C:\Program Files\ProFantasy\CC3\fcw32.exe
+
+I think you didn't do them correctly you have to do them exactly so that cause you apply cc3 reg.reg patch you registrer the progam on your computer and only than the patch 7 from this torrent can find where the app/game is installed."
+,iplay360,2011-07-08T02:23Z,"Awesome. My CC3 was bugged as well. Drkwolf895, make sure there are no spaces in your ProFantasy folder."
+,bondrjr,2011-07-11T12:55Z,"I have the same problem as Dkwolf895 and there are no spaces in my directory name (other than Program Files) and I have run the reg file correctly.  I am running on Windows 7 though and not sure if that makes a difference.  Any help would be appreciated.  I have the issues described, but the patch install will not run to completion I keep getting unable to install - error -11."
+,Jerto_xD,2011-07-14T16:27Z,"Can't be windows 7, I have windows 7 and had no problems... Altho however I have disabled the UAC and ran the patch with administrator rights. Maybe a small detail that made it work for me.
+Good luck tho.
+
+Google UAC to find out how to disable it."
+,emz20,2011-07-14T17:31Z,"****VERY IMPORTANT FOR WIN 7 USERS****
+If you are having difficulties installing this patch it is because of how Win 7 (and maybe Vista) operates!
+Windows 7 has TWO Program Files folders
+Program Files AND
+Program Files (x86) "
+,Jared87,2011-08-02T19:26Z,"This worked like a charm. Thanks Jethro. I'm on Vista, had CC3 installed in a custom folder (not Program Files). Downloaded and ran this patch, zero hitches. Fixed all my problems too."
+,IndigoAK,2011-09-12T12:43Z,"For those of you not able to install this patch.  Make sure you go into the registry file for the original download (or edit your registry before you try to install this patch) to match the folder where you copied the original download's files.
+
+Pretty important step."
+,heffroncm,2011-09-17T17:40Z,"I'm having no luck with this patch. I've double- and treble- checked the registry to be sure the AppPath is properly set, but I still get error code -11."
+,ZatriX_ZA,2011-10-18T23:01Z,"Well, here's how I got it to work (was also getting the -11 error):
+
+1. Install CC3 to Program Files (x86)!
+2. Edit the registry file and change all instances of ""Program Files"" to ""Program Files (x86)""
+3. Run reg. patch
+4. Install the update
+
+Worked on Win 7 x64. Far as I could tell, the patch is hardcoded to put some files in x86 dir, which is pretty stupid, if you ask me.
+
+Thanks for the UL, btw!"
+,outlawspirit,2012-03-21T01:13Z,"I did everything that was asked to install this to windows 7 and halfway threw the patch cc3 i get error -9    , what is this anyone know?"
+,Jazmyn820,2012-03-24T04:48Z,"Worked perfectly with my Windows 7 Starter. 
+
+PS. THANKYOUTHANKYOUTHANKYOU!"

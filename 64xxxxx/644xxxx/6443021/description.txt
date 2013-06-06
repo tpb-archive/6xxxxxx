@@ -1,0 +1,36 @@
+FUBAR WinFuck 2011
+------------------
+
+New application in the FUBAR-series!
+
+This one will fill up your monitor, memory and Windows-kernel with useless windows!
+Lots of them, as many as your computer can handle. And a few more... :)
+
+Whenever any of these windows are being closed, Windows will log off immediately!
+
+
+
+Here is how you remove it:
+
+Boot up in safe-mode.
+
+Open the Registry Editor (regedit.exe), and browse to this key:
+
+HKEY_LOCAL_MACHINE/Software/Microsoft/Windows/CurrentVersion/Run
+(on Windows XP, the last key will be "RunOnce")
+
+Delete the value named FUBAR WinFuck 2011.
+
+
+
+Tested on these systems:
+Windows XP 32bit: OK
+Windows XP 64bit: OK
+Windows Vista 32bit: OK
+Windows Vista 64bit: OK
+Windows 7 32bit: OK
+Windows 7 64bit: OK
+
+
+
+/Ubehage

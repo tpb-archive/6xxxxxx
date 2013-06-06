@@ -1,0 +1,70 @@
+. /$$                 /$$            /$$$$$$                     
+.| $$                | $$           /$$__  $$                    
+.| $$       /$$   /$$| $$ /$$$$$$$$| $$  \__/  /$$$$$$   /$$$$$$$
+.| $$      | $$  | $$| $$|____ /$$/|  $$$$$$  /$$__  $$ /$$_____/
+.| $$      | $$  | $$| $$   /$$$$/  \____  $$| $$$$$$$$| $$      
+.| $$      | $$  | $$| $$  /$$__/   /$$  \ $$| $$_____/| $$      
+.| $$$$$$$$|  $$$$$$/| $$ /$$$$$$$$|  $$$$$$/|  $$$$$$$|  $$$$$$.$
+.|________/ \______/ |__/|________/ \______/  \_______/ \_______/ 
+                          //Laughing at your security since 2011!
+
+.--    .-""-.
+.   ) (     )
+.  (   )   (
+.     /     )
+.    (_    _)                     0_,-.__
+.      (_  )_                     |_.-._/
+.       (    )                    |lulz..\    
+.        (__)                     |__--_/           
+.     |''   ``\                   |
+.     | [Lulz] \                  |      /b/
+.     |         \  ,,,---===?A`\  |  ,==y'
+.   ___,,,,,---==""\        |M] \ | ;|\ |>
+.           _   _   \   ___,|H,,---==""""bno,
+.    o  O  (_) (_)   \ /          _     AWAW/
+.                     /         _(+)_  dMM/
+.      \@_,,,,,,---=="   \      \\|//  MW/
+.--''''"                         ===  d/
+.                                    //   SET SAIL FOR FAIL!
+.                                    ,'_________________________
+.   \    \    \     \               ,/~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.                         _____    ,'  ~~~   .-""-.~~~~~~  .-""-.
+.      .-""-.           ///==---   /`-._ ..-'      -.__..-'
+.            `-.__..-' =====\\\\\\ V/  .---\.
+.                     ~~~~~~~~~~~~, _',--/_.\  .-""-.
+.                            .-""-.___` --  \|         -.__..-
+        
+
+Greetings folks. We're LulzSec, and welcome to Sownage. Enclosed you will
+find various collections of data stolen from internal Sony networks and websites,
+all of which we accessed easily and without the need for outside support or money.
+
+We recently broke into SonyPictures.com and compromised over 1,000,000 users' 
+personal information, including passwords, email addresses, home addresses, 
+dates of birth, and all Sony opt-in data associated with their accounts. 
+Among other things, we also compromised all admin details of Sony Pictures 
+(including passwords) along with 75,000 "music codes" and 3.5 million "music coupons".
+
+Due to a lack of resource on our part (The Lulz Boat needs additional funding!) 
+we were unable to fully copy all of this information, however we have samples 
+for you in our files to prove its authenticity. In theory we could have taken
+every last bit of information, but it would have taken several more weeks.
+
+Our goal here is not to come across as master hackers, hence what we're about 
+to reveal: SonyPictures.com was owned by a very simple SQL injection, one of 
+the most primitive and common vulnerabilities, as we should all know by now. 
+From a single injection, we accessed EVERYTHING. Why do you put such faith in 
+a company that allows itself to become open to these simple attacks?
+
+What's worse is that every bit of data we took wasn't encrypted. Sony stored
+over 1,000,000 passwords of its customers in plaintext, which means it's just
+a matter of taking it. This is disgraceful and insecure: they were asking for it.
+
+This is an embarrassment to Sony; the SQLi link is provided in our file contents, 
+and we invite anyone with the balls to check for themselves that what we say
+is true. You may even want to plunder those 3.5 million coupons while you can.
+
+Included in our collection are databases from Sony BMG Belgium & Netherlands.
+These also contain varied assortments of Sony user and staffer information.
+
+Follow our sexy asses on twitter to hear about our upcoming website. Ciao! ^_^

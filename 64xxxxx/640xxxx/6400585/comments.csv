@@ -1,0 +1,78 @@
+User Type,Username,Date,Text
+,basha04,2011-06-15T15:00Z,thanks much ct! works great! followed the instruction.
+,The OutLaw Torn,2011-06-24T06:38Z,"To trin02, thanks for making that clarification. I speak english, not spanish."
+,chrisvan,2011-06-29T22:01Z,"Mine is in japanese. No funny, what Â´ll I do ?"
+,gotin,2011-06-29T23:46Z,"Go to instalation folder and rename
+ from _ _ _ _ _.RU to 
+
+TMPGEncVMW5Batch.EN
+TMPGEncVMW5Encoder.EN
+TMPGEncVMW5.EN"
+,ovialex23,2011-07-15T21:31Z,"It's the same problems as previous version (5.0.5.32). You need internet connection to create and activate the license, otherwise is not working.
+Shit !"
+,akhnaten,2011-07-29T21:41Z,"Did everything but it says that the ""launch failed"".  Windows 7 Ultimate: 64 bit"
+,iridis_alpha,2011-08-09T12:32Z,"this works perfectly, here's the stepe I did to get it to work >
+
+click ""TMPGEnc Video Mastering Works-5.0.6.38.exe"" to install
+
+after installation go to the tmpgenc folder and rename these files below to make it english -
+
+TMPGEncVMW5.RU > TMPGEncVMW5.EN
+
+TMPGEncVMW5Batch.RU > TMPGEncVMW5Batch.EN
+
+TMPGEncVMW5Encoder.RU > TMPGEncVMW5Encoder.EN
+
+Information\pegasysinfo_tvmw5.RU > Information\pegasysinfo_tvmw5.EN
+
+then start the keygen, click generate then click save.
+
+now start the program from within the tmpgenc folder."
+,nozgi,2011-08-09T20:41Z,I am happy to report that this works just fine on Windows 7 64 bits. Followed the instructions on the text file. 
+,Buck_Plankchest,2011-08-19T20:21Z,"Thanks for the up - installed easily and program works fine in Win7/32.  
+
+I had to right-click on the patch at some point (I forget exactly which) to get it to produce license (""generate"") - got error otherwise.  So you might have to play around with the patch in this fashion to get it work for you.
+
+As another guy stated, you'll have to be online when you fire up the program to use it in order to verify license - each time program is used. 
+
+I know of no other crack for this program where that isn't the case.  But a minor quibble - because this program is so good.
+
+I don't know what the deal is with these installers showing earlier versions of this, and the final cracked installs showing the latest build (5.0.6.38 as of this writing), but check at the tmpgenc site for the many enhancements/bugfixes of this build over the previous one.  You always want to stay up-to-date with the latest build of this."
+,bizzybody,2011-08-31T11:59Z,"1. Run TMPGEnc Video Mastering Works-5.0.6.38.exe to install.
+2. Run the keygen.exe (Virustotal.com scanned it a 0/44. NOT a virus or malware in spite of Spybot Search & Destroy tagging it as Virtumonde.)
+3. Click the ... button and go to C:\Program Files\Pegasys Inc\TMPGEnc Video Mastering Works 5\
+(Note that on 64 bit versions of Windows the program will be in the X86 path for 32bit apps.)
+Click the Patch button.
+4. Select the User you want to license it for
+5. Enter whatever you want for Name and Email
+6. Click the generate button. It creates a license file for the Japanese version. Dunno why but it works!
+7. Finally, to change the language from Russian to English you need to change the file extension from RU to EN on these files;
+
+TMPGEncVMW5.RU
+TMPGEncVMW5Batch.RU
+TMPGEncVMW5Encoder.RU
+pegasysinfo_tvmw5.RU (Found in the Information folder under the main program folder.)
+
+8. Or just run the English.bat file. A Russian.bat is also provided to switch back.
+9. For 64bit Windows, use the English64.bat or Russian.64.bat
+
+(contents of English.bat copy and paste. Change %ProgramFiles% to %ProgramFiles(x86)% for 64bit Windows.)
+
+@ECHO This batch file changes the language to English.
+PAUSE
+rename ""%ProgramFiles%\Pegasys Inc\TMPGEnc Video Mastering Works 5\TMPGEncVMW5.RU"" TMPGEncVMW5.EN
+rename ""%ProgramFiles%\Pegasys Inc\TMPGEnc Video Mastering Works 5\TMPGEncVMW5Batch.RU"" TMPGEncVMW5Batch.EN
+rename ""%ProgramFiles%\Pegasys Inc\TMPGEnc Video Mastering Works 5\TMPGEncVMW5Encoder.RU"" TMPGEncVMW5Encoder.EN
+rename ""%ProgramFiles%\Pegasys Inc\TMPGEnc Video Mastering Works 5\Information\pegasysinfo_tvmw5.RU"" pegasysinfo_tvmw5.EN
+@ECHO The program is now set to English. Enjoy!
+PAUSE"
+,Al Capwn,2011-09-02T00:52Z,"Hmm, this one actually worked without an issue on Win7x64 following bizzybody's instructions.  Props!"
+,captainquick,2011-09-08T08:35Z,"Thank You CT. Works great on Win7 Ultimate x86.
+Tip: If you never had any version of this on your machine before, Install, run once
+ (do nothing when prog is open), close, then carry on from #2 of Buzzbody
+instruction. "
+,akhnaten,2011-09-18T21:23Z,tHANKS IridisAlpha....it finally works for Win 7:Ultimate ED x64.  Thank you all for your help and suggestions..this is what makes torrents stay alive!
+,r-cubed,2011-10-25T12:11Z,"the program install and open up fine. but when I transcode any video I see the Yen (ÂĽ) symbol instead of backslash (\) in windows path. 
+One more problem after the encoding process is completed, when I open the output folder it shows nothing. I doesn't output any file. 
+Please someone help me out."
+,registrado2,2011-11-27T14:30Z,Tnks for lot

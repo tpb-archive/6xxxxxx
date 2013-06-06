@@ -1,0 +1,17 @@
+PS3 Media Server v1.24.0 CHANGELOG
+
+New icon on OS X
+Added Bulgarian and Brazilian Portuguese translation (thanks to jordito and gelo)
+Updated Polish, French, German and Portuguese translation
+tsMuxeR handles mov files
+Updated FFmpeg to r30172 from r28671
+Updated JRE auto-dl
+Forcing MEncoder via the TRANSCODE folder ignores tsMuxeR
+Fixed support for renderers including Panasonic TVs
+Improved RAR support
+Updated libraries for OS X build
+Lots of fixes to the OS X build process so now it works
+Support for multi-language VOBsub subtitles
+It's possible to remove hard drives from list if they are no longer connected (thanks, spots)
+
+Appz for Linux and MacOsX are included

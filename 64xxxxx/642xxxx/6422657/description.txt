@@ -1,0 +1,201 @@
+
+[ Info sul file ]
+
+Nome: The Green Hornet (2011) [BDRip720p Ita-Eng] by Pitt@Sk8.mkv
+Data: 17/05/2011 17:59:18
+Dimensione: 4,703,117,753 bytes (4485.243 MB)
+
+[ Info generiche ]
+
+Durata: 01:58:53 (7133.152 s)
+Tipo di contenitore: matroska
+Data creazione: 17/05/2011 15:56:45 UTC
+Streams totali: 7
+Tipo stream n. 1: video (V_MPEG4/ISO/AVC) {BDRip720p by Pitt@Sk8}
+Tipo stream n. 2: audio (A_AC3) {Italiano AC3 5.1 640 kbps - Pitt@Sk8}
+Tipo stream n. 3: audio (A_AC3) {English AC3 5.1 448 kbps - Pitt@Sk8}
+Tipo stream n. 4: subtitle (S_VOBSUB) {Cartelli - Italiano}
+Tipo stream n. 5: subtitle (S_VOBSUB) {Sottotitoli - Italiano}
+Tipo stream n. 6: subtitle (S_VOBSUB) {Subtitle - English}
+Tipo stream n. 7: subtitle (S_VOBSUB) {Subtitle - English [deaf]}
+Audio streams: 2
+Muxing Application: libebml v1.2.0 + libmatroska v1.1.0
+Writing Application: mkvmerge v4.6.0 ('Still Crazy After All These Years') built on Mar 10 2011 02:50:32
+
+[ Dati rilevanti ]
+
+Risoluzione: 1280 x 534
+Larghezza: multipla di 32
+Altezza: multipla di 2
+QualitÃ  DRF medio: 22.493740
+QualitÃ  deviazione standard: 0.759608
+Media pesata dev. std.: 0.719613
+
+[ Traccia video ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Risoluzione: 1280 x 534
+Frame aspect ratio: 640:267 = 2.397003
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 640:267 = 2.397003
+Framerate: 23.976024 fps
+Stream size: 3,721,635,476 bytes
+Durata: 01:58:53 (7133.084234 s)
+Bitrate: 4173.942551 kbps
+Qf: 0.254693
+
+[ Traccia audio n. 1 ]
+
+Codec ID: A_AC3
+Canali (contenitore): 6
+Frequenza: 48000 Hz
+Stream size: 570,652,160 bytes
+Bitrate (contenitore): 640 kbps
+AC-3 frames: 222911
+Durata: 01:58:53 (7133.152 s)
+Bitrate (bitstream): 640 kbps CBR
+Mode: 3 front, 2 rear, 1 LFE
+
+[ Traccia audio n. 2 ]
+
+Codec ID: A_AC3
+Canali (contenitore): 6
+Frequenza: 48000 Hz
+Stream size: 399,456,512 bytes
+Bitrate (contenitore): 448 kbps
+AC-3 frames: 222911
+Durata: 01:58:53 (7133.152 s)
+Bitrate (bitstream): 448 kbps CBR
+Mode: 3 front, 2 rear, 1 LFE
+
+[ Info sulla codifica H.264 ]
+
+User data: x264
+User data: core 114 r1924 08d04a4
+User data: H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011
+User data: http://www.videolan.org/x264.html
+User data: cabac=1
+User data: ref=5
+User data: deblock=1:0:0
+User data: analyse=0x3:0x133
+User data: me=umh
+User data: subme=7
+User data: psy=1
+User data: psy_rd=1.00:0.00
+User data: mixed_ref=1
+User data: me_range=32
+User data: chroma_me=1
+User data: trellis=2
+User data: 8x8dct=1
+User data: cqm=0
+User data: deadzone=21,11
+User data: fast_pskip=1
+User data: chroma_qp_offset=-2
+User data: threads=6
+User data: sliced_threads=0
+User data: slices=4
+User data: nr=0
+User data: decimate=1
+User data: interlaced=0
+User data: constrained_intra=0
+User data: bframes=3
+User data: b_pyramid=1
+User data: b_adapt=2
+User data: b_bias=0
+User data: direct=1
+User data: weightb=1
+User data: open_gop=2
+User data: weightp=2
+User data: keyint=240
+User data: keyint_min=23
+User data: scenecut=40
+User data: intra_refresh=0
+User data: rc_lookahead=40
+User data: rc=2pass
+User data: mbtree=1
+User data: bitrate=4176
+User data: ratetol=1.0
+User data: qcomp=0.60
+User data: qpmin=10
+User data: qpmax=51
+User data: qpstep=4
+User data: cplxblur=20.0
+User data: qblur=0.5
+User data: vbv_maxrate=40000
+User data: vbv_bufsize=40000
+User data: nal_hrd=vbr
+User data: ip_ratio=1.40
+User data: aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 4
+  Aspect ratio: Square pixels
+  Chroma format idc: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Codifica entropica: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: SÃ¬
+Frames totali: 171023
+Drop/delay frames: 0
+Frames corrotti: 0
+
+P-slices:  49868 ( 29.159 %) ##########               
+B-slices: 119165 ( 69.678 %) #########################
+I-slices:   1990 (  1.164 %)                          
+SP-slices:      0 (  0.000 %)                          
+SI-slices:      0 (  0.000 %)                          
+
+[ Analisi DRF ]
+
+DRF medio: 22.493740
+Deviazione standard: 0.759608
+DRF max: 24
+
+DRF<14:     0 (  0.000 %)                          
+DRF=14:     2 (  0.001 %)                          
+DRF=15:     0 (  0.000 %)                          
+DRF=16:     1 (  0.001 %)                          
+DRF=17:   448 (  0.262 %)                          
+DRF=18:   127 (  0.074 %)                          
+DRF=19:   305 (  0.178 %)                          
+DRF=20:  1672 (  0.978 %)                          
+DRF=21: 10706 (  6.260 %) ###                      
+DRF=22: 57917 ( 33.865 %) ###############          
+DRF=23: 97514 ( 57.018 %) #########################
+DRF=24:  2331 (  1.363 %) #                        
+DRF>24:     0 (  0.000 %)                          
+
+P-slices DRF medio: 22.522118
+P-slices deviazione std.: 0.712539
+P-slices DRF max: 24
+
+B-slices DRF medio: 22.519246
+B-slices deviazione std.: 0.724392
+B-slices DRF max: 24
+
+I-slices DRF medio: 20.255276
+I-slices deviazione std.: 0.610757
+I-slices DRF max: 23
+
+[ Capitoli ]
+
+01: 00:00:00,000 - 00:07:41,461
+02: 00:07:41,461 - 00:14:11,267
+03: 00:14:11,267 - 00:21:12,396
+04: 00:21:12,396 - 00:27:48,750
+05: 00:27:48,750 - 00:34:51,298
+06: 00:34:51,298 - 00:40:23,880
+07: 00:40:23,880 - 00:48:33,494
+08: 00:48:33,494 - 00:56:27,467
+09: 00:56:27,467 - 01:01:00,156
+10: 01:01:00,156 - 01:13:51,719
+11: 01:13:51,719 - 01:20:58,896
+12: 01:20:58,896 - 01:25:55,192
+13: 01:25:55,192 - 01:31:35,949
+14: 01:31:35,949 - 01:40:03,623
+15: 01:40:03,623 - 01:46:21,000
+16: 01:46:21,000 - [non specificato]
+
+Rapporto generato da AVInaptic (18-11-2007) in data 17 mag 2011, h 18:08:28

@@ -1,0 +1,30 @@
+FR ONLY
+0 est un systÃ¨me GNU/Linux francophone complet pour systÃ¨mes x86 64 bits uniquement, construit depuis rien et pleinement compatible 32 bits (ou Â« multilib Â»).
+0 tente d'Ãªtre un systÃ¨me francisÃ© autodidactique : de nombreux fichiers de configuration sont traduits en franÃ§ais et contiennent des commentaires sur leur utilisation ; l'installateur quant Ã  lui demande d'utiliser plusieurs consoles pour renseigner le systÃ¨me, le tout en ligne de commande uniquement, mais de faÃ§on assistÃ©e.
+Le systÃ¨me est pensÃ© d'abord pour un poste de travail et pour le multimÃ©dia : le noyau, par exemple, est Â« prÃ©emptif Â» et on trouve de nombreuses bibliothÃ¨ques et codecs pour l'audio et le multimÃ©dia.
+L'environnement graphique par dÃ©faut est XFCE.
+Le systÃ¨me se veut multilib : les architectures i686 et x86_64 cohabitent. On peut compiler et exÃ©cuter des logiciels 32 bits et 64 bits sur le mÃªme systÃ¨me. On trouve par exemple dans 0 deux environnements Java par exemple et toute bibliothÃ¨que 64 bits a son Ã©quivalent en 32 bits afin de pouvoir s'en servir pour compiler un logiciel compatible uniquement 32 bits.
+Les processus de compilation et d'installation sont dÃ©crits dans des Â« recettes Â» (de simples scripts en Bash) afin de pouvoir reconstruire chaque paquet facilement.
+Le systÃ¨me s'initialise Â« Ã  la BSD Â», comme Slackware entre autres, tout en restant compatible avec System V. Les fichiers service et les scripts d'initialisation se trouvent sous /etc/rc.d et des liens symboliques assurent la compatibilitÃ© entre les deux systÃ¨mes.
+Historiquement, ce projet n'Ã©tait Ã  la base qu'une traduction intÃ©grale en franÃ§ais de la distribution Slackware, qui s'est avÃ©rÃ©e dÃ©licate sans toucher profondÃ©ment Ã  l'intÃ©gritÃ© du systÃ¨me. J'ai alors crÃ©Ã© mon propre systÃ¨me puis, aprÃ¨s avoir touchÃ© Ã  la compilation croisÃ©e, mon systÃ¨me est passÃ© multilib. J'ai alors dÃ©cidÃ© que tout ce temps Ã  travailler seul devait Ãªtre dÃ©pensÃ© pour un projet qui soit public et libre. 
+
+
+C'est l'Ã©tÃ© et la FÃªte de la Musique en France, 0 sort donc en beta3.
+De nouveaux venus : Apache, PHP, MySQL, Samba et le centre multimÃ©dia XBMC se sont installÃ©s dans extra/. Quelques greffons en plus pour Xfce et des crÃ©ations graphiques originales pour habiller le bureau, grÃ¢ce aux gÃ©nÃ©reuses contributions de blacksad et tyrry.
+Le comportement de udisks a notamment Ã©tÃ© corrigÃ© pour laisser un maximum de libertÃ© Ã  l'utilisateur.
+Cette version voit son noyau passer Ã  linux 2.6.39. On y trouve quelques mises Ã  niveau des paquets, firefox 5.0, vlc 1.1.10, nvidia 275.09.07, opera 11.11 en tÃªte, ainsi que le gestionnaire de paquets Spack ; un grand merci Ã  Seb pour sa constance.
+Des corrections de bogues, l'Ã©diteur texte leafpad remplace mousepad, le support de systÃ¨mes de fichiers supplÃ©mentaires a Ã©tÃ© ajoutÃ© aux scripts 0outils.
+Concernant les pilotes, les Â« microcodes Â» iwlwifi pour cartes sans fil Intel et les pilotes hplip pour pÃ©riphÃ©riques HP (imprimantes, multifonctions, scanners, etc.) ont Ã©tÃ© intÃ©grÃ©s. Le noyau contient comme Ã  l'accoutumÃ©e un maximum de modules et les pilotes critiques (contrÃ´leurs disques durs, systÃ¨mes de fichiers, bus USB) sont tous compilÃ©s en dur. Le noyau dÃ©marre donc seul sans avoir Ã  crÃ©er d'Â« initrd Â».
+Merci encore Ã  fanch pour ses nombreux tests et son enthousiasme ainsi qu'aux quelques curieux. 0 a plus que jamais besoin d'Ãªtre testÃ©e Ã  l'installation comme Ã  l'utilisation, tout retour est bienvenu.
+0 fait Ã©galement partie de l'Open Invention Network depuis peu, merci de leur sollicitude.
+Une image ISO pour DVD est disponible sur les serveurs ; voir la page des tÃ©lÃ©chargements.
+Le systÃ¨me contient entre autres :
+      eglibc multilib du 20 octobre 2010
+      gcc 4.5.1
+      linux 2.6.39
+      X.org 7.6
+      Xfce 4.8
+Ã€ ce jour, environ 500 paquets sont disponibles. Le systÃ¨me comprend le nÃ©cessaire pour compiler et exÃ©cuter des programmes en 64 bits (x86_64) et en 32 bits (i686). 
+ 
+http://0.tuxfamily.org/doku.php 
+http://en.wikipedia.org/wiki/CeCILL

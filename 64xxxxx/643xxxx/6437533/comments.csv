@@ -1,0 +1,21 @@
+User Type,Username,Date,Text
+,seenoevil47,2011-06-02T10:58Z,Finalllyy the wait is over!! Hope this works :) 
+,seenoevil47,2011-06-02T11:09Z,This Doesnt work either!! The crack doesnt. Cant register!!!
+,jbob75,2011-06-20T05:00Z,"if the patch wouldn't work, try creating and merging a .REG file containing the following:
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\ImTOO\Video Converter Ultimate 6\RegInfo]
+""Name""=""@ByteArray(4261686D616E)""
+""Serial""=""""
+""Code""=""@ByteArray(D0DF2028720264E2B66D856819CC2706CDBFDA942F484BC9FFD5C11C52A2DE4DCEFDD6CF52771C)""
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}]
+""5918569797E09F35""=""1A""
+
+[HKEY_CURRENT_USER\Software\ImTOO\Video Converter Ultimate 6\Settings]
+""regstatus""=""1""
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}\CIA_INFO]
+""before_reg_openItem""=""2""
+""before_reg_dayCounter""=""0"""

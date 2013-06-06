@@ -1,0 +1,24 @@
+USB Safely Remove 4.6.2.1140 Final Multilingual Portable
+
+USB Safely Remove is a utility for effortless and speedy disconnection of any removable devices. Not only does it save time, but it ensures that all data remains on a device when it is unplugged. Safely Remove is a system utility designed for quick and safely stopping USB Flash Drives connected to your computer. With this utility you can safely stop and remove USB Flash Drives much faster then using "Safely remove hardware"" icon in the system tray.
+
+FEATURES:
+*Unlimited number of processes to launch
+You may specify to launch any number of processes for specified event. For example you may setup launching a backup of the drive before stopping and following disomounting of a TrueCrypt volume
+*Optional command line parameters
+You may pass such device parameters as drive letter, drive label, device PNP name into the process command line via parameter templates (e.g. this command line will browse a drive in Explorer on device connection: explorer.exe %DriveLetter%)
+*New events to launch programs
+Now programs can be launched after device plugging, before device stopping, after device stopping and after device removing
+*Global autorun
+You can setup a program to be launched not only for certain device, but for all hotplug devices in the system
+
+One click templates!
+Dislike reading boring documentation, but interested in one of the following things?
+* Browsing a drive with Explorer or Total Commander on device connection
+* Scanning a device for viruses on its connection
+* Making automatic backup of a flash-drive folder
+* Automatic mounting and dismounting a TrueCrypt volume stored on a device
+
+Home page - http://safelyremove.com/
+
+

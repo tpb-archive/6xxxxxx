@@ -1,0 +1,371 @@
+(c) Copyright 1994-1995.  ObJIX Multimedia Corporation, All Rights Reserved.
+
+
+
+ObJIX Media Manager tm
+Version 1.12 Pre-production A
+Beta Release Notes
+Introduction
+
+
+Congratulations on choosing ObJIX Multimedia Corporationâ€™s Media Manager information management product.  When you install the Media Manager,  your Microsoft Windows 3.1, 3.11, or Windows for Workgroups 3.11 computer system becomes a total office management system supporting:
+
+n	an electronic voice messaging system with customized greetings, message management, and remote access,
+n	an electronic telephone with features such as automated dialing, integrated speakerphone, and automatic speakerphone/telephone switching,
+n	a powerful fax machine which can fax from any Microsoft Windows application that can print, automatically scan-to-fax from any TWAIN compatible scanner, and receive faxes at speeds upto 14.4Kbits/second,
+n	a voice/fax switch that automatically detects incoming voice and fax calls and routes them to the correct voice or fax desktop software,
+n	a 14.4Kbits/sec or 28.8 Kbits/sec data modem which can be used to connect to on-line services, remote computers, and to transfer files,
+n	an MPC-2 compliant multimedia system with 16-bit stereo sound, microphone input, CD-input, electronic mixer, MIDI synthesis, and double-speed CD-ROM controller, and
+n	a SoundBlaster compatible sound controller with dual Joystick support that letâ€™s your computer run sound-enabled MS-DOS based applications and games run from within the Windows 3.1 DOS shell.
+System Requirements
+
+Your Media Manager requires the following minimum system to operate:
+
+n	A 386SX, 386, 486SX, 486, or Pentium processor,
+n	A minimum of 4Mbytes Random Access Memory (RAM), 8Mbytes  recommended,
+n	A minimum of 6Mbytes free disk space,
+n	A 3 1/2 inch high density floppy drive,
+n	A single 16-bit ISA printed circuit card slot,
+n	MSDOS revision 5.0 or greater, and
+n	Microsoft Windows 3.1 running in 386 enhanced mode.
+This Document
+
+This document provides late breaking information on the installation and operation of the ObJIX Media Manager information management product.  
+
+Use the enclosed ObJIX Media Manager System userâ€™s manual as your primary reference.  This document provides supplemental information and information not contained in that document.
+
+
+Changes
+
+Login Optional
+
+Logging into the ObJIX Media Manager Desktop is now optional.  If you supply a blank password, and check the preferences setting for "Login Automatically if No Password" (from the Preferences menu on the Desktop) the ObJIX desktop will bypass login the next time you run the software.
+
+Password Change
+
+You may now change your password (including setting it to blank), from within the ObJIX Desktop.  This choice is available from the Desktop's main window in a pull-down menu item.
+
+Fax Pause During Startup
+
+If you have faxes in your Out-Box during startup of the ObJIX Desktop, the fax machine will ask you if it should pause or send the faxes immediately.  Pausing the fax machine gives you an opportunity to review the items in the Out-Box before they are sent.  If you do choose to pause the fax, it will remain paused until you have had the opportunity to review your Out-Box.  Then, you can un-pause it by pressing the "pause" toggle button on the Fax Machine window.
+
+Note that while the fax machine is paused, it will neither send nor receive faxes although new outgoing faxes may be created and placed in the Out-Box.
+
+Add Person Button on Address Book
+
+The Address Book now has an Add Person button so that new entries may be added directly, in addition to adding them from the Telephone and Fax Envelope windows.  Entries may be removed with the "Remove" button, and they may be edited by double-clicking on them to open an edit window.
+
+Word 6 Background Printing
+
+Background printing to the Print-to-Fax device in Microsoft Word 6 is now supported.
+
+Image Import to Fax
+
+A wide variety of image types may be added as attachments to a fax during Print-To-Fax and Quick Fax.  This is supported by pressing the paper-clip icon in the Fax Envelope window.  After pressing the paper-clip, a dialog will appear which asks you to select the image to be added as an attachment.
+
+Fax Image Export
+
+Faxes may now be exported for use by other applications.  A large number of output image formats are supported.  This feature is available from the fax viewer (which is displayed by double-clicking on a fax image in your In-Box) by pressing the save-to-disk icon.  A dialog will appear which asks you to select the file name and image type for export of the image.
+ 
+Background Folder Updates
+
+Lists of items (such as folders on the ObJIX Desktop) will now update themselves "in the background" which means that you can be doing other things while they are updating.  This improves the responsiveness of the Desktop by letting you continue working while item lists are being updated.
+
+Background Folder Saves
+
+Folders on the ObJIX Desktop will periodically save themselves while the software is running.  You may change the frequency of these saves using the Preferences menu on the Desktop.
+
+Desktop Data Recovery
+
+A new icon in the ObJIX program group allows you to "roll back" to a previous version of the Desktop data files if the original data files get damaged.
+
+Modem Startup Options (Media Manager I Only)
+
+A Modem Autostart Utility (Media Manager I Only) allows you to decide when the modem should be active.  During Windows startup it will ask you if the modem should be loaded for the entire Windows session, or if you prefer to start and stop it manually.
+
+You can also set your preference for future Windows sessions, so that the Autostart Utility application does not ask for input each time Windows is started.
+
+Most users will enjoy the convenience of having the modem automatically active during the entire Windows session.  For optimum Midi synthesis and other special applications, some users may choose to start and stop the modem manually.
+
+Any time after you have configured the utility, you may change its settings by clicking on the "Modem Autostart Configuration" icon in the ObJIX Media Manager program group.  To actually manually start and stop the modem, use the "Mwave Modem" icon.
+
+Note:
+The modem has an option of being started "hidden," so that it's status panel is not displayed while it is running.  In this state, clicking on the "Mwave Modem" icon will display the status panel.
+
+Initially, if you configure the Autostart Utility to automatically load the modem, the modem will start "hidden."  If you choose to stop and start the modem manually, the modem will start with it's status panel visible.  After you have configured the Autostart Utility, you may change whether or not the modem loads "hidden" by using the Options.../Settings... dialog on the modem status panel.
+
+
+Outgoing Fax Document Being Prepared Closed During Pause
+
+When you "pause" the fax machine for any reason, the document which is being prepared  for sending is closed, as well as any document which was in the process of being sent.  This allows you to open, view, and potentially modify the document which was at that moment being prepared for transmission.
+
+Voice Message Playback Controls
+
+The Desktop now has voice playback controls on its toolbar.  When you review a voice message the "step back", "step forward", and "stop" buttons are enabled.  "Step back" will rewind just a few seconds so that you may review part of the message such as a phone number; "step forward" will allow you to skip ahead a few seconds over part of the message.  "Stop" will allow you to stop playback of the message.
+
+Unified In-Box and Single Out-Box
+
+Several previosly separate folders have been consolidated into the Out-Box, and buttons on the Out-Box have been provided to allow you to view pending, delivered, or undeliverable messages.  The "Unified In-Box" allows you to receive faxes and voice messages in the same In-Box.  Titles of faxes begin with "Fax received ..." while voice message titles begin "Voice message received..."  Double-clicking on a voice message will play it back for your review.
+
+Startup Status Window
+
+As the Desktop is being loaded, a new status window tells you what features are being loaded and prepared for use.  During this time, the Media Manager card's DSP (digital signal processor) is being loaded with features, the Desktop application code is being loaded, and the lists of items on your Desktop are being accessed.  The Desktop appears when startup is complete.
+
+Speakerphone Volume Slider
+
+The speakerphone has been equipped with an easy-to-use volume control which allows you to select the best levels for optimum listening.
+
+Speakerphone Gain Control
+
+Microphone sensitivity has been adjusted for improved performance with tested microphones. 
+
+Telephone Pulse/Tone Setting
+
+The speakerphone now supports pulse and tone dialing, and your selection is maintained between sessions with the ObJIX Desktop.
+
+Incoming Message Break-In
+
+The Media Manager will now attempt to break into (and stop) an incoming message being recorded by the answering machine, if the call is answered by using the handset or speakerphone.
+
+Automatic Loading Of Telephone Call-Type Discriminator
+
+With this release of software it is no longer necessary to run the Telephone Call-Type Discriminator before running the Desktop application.   The software is loaded automatically when needed.
+
+
+Limitations
+
+
+
+
+Technical Notes
+
+
+This document includes several technical notes providing information on situations that may arise during installation or use.  The following technical notes are included below.
+
+1.   Installing CDROMs with Networks
+2.   Installing ObJIX CDROM in a system with an existing CDROM drive
+3.   Installing the Windows Multimedia CD-Audio Driver
+4.   CD-Audio sometimes dissappears, even when the driver is installed.
+5.   Running DOS Games in a Windows Box
+6.   Installing the ObJIX Desktop outside the installation program
+7.   Removing an old ObJIX Desktop database
+8.   If you forget your ObJIX Desktop Password
+9.   If the ObJIX Desktop doesn't even bring up a login screen.
+10. If the Data Modem doesn't appear to work (shared interrupt conflicts).
+11. If the Data Modem doesn't appear to work (windows port remaps).
+12. If your system hangs while exiting Windows (potential IRQ conflicts).
+13. Using the Scanfx with ObJIX Media Manager.
+14. Configuring with a Serial Mouse on Com2.
+15. Waits while formatting.
+
+Reporting Problems
+
+When you detect a defect in the Media Manager software, write down all information regarding the defect (particularly information in a dialog box that may say error detected, or extended error information).  Call ObJIX at (617)466-8720, or fax us at (617)466-8722.  You can reach ObJIX on Compuserve at 76020,2453.
+
+1.   Installing CDROMs with Networks
+
+If the installer reports:
+
+"The installer has detected that installing a CDROM file system will change your network drive mappings.  You'll need to add the CDROM file system manually.  Review the Media Manager Notes for instructions after this installation is complete."
+
+you will need to manually move your network drive mappings in order to correctly install the cdrom file system MSCDEX.
+  
+On Novell networks (and most others as well), the network will add its network drive letter mappings starting directly after the LASTDRIVE setting in config.sys.  If all the drives upto and including the drive specified in LASTDRIVE are already in use, then you must set the LASTDRIVE setting up by one and move the drive mapping for at least the login drive out to the next drive.
+
+For example,  if you have a Novell network, with a floppy drives A and B, and hard drives on C and D,  and LASTDRIVE = D, then your Novell network login directory would automatically be set to drive E when you started the network shell.
+
+To Install a CDROM drive (at drive E), you'll need to set LASTDRIVE=E in config.sys, and then adjust your autoexec.bat file and network login script to accomodate this change.  Most batch files would contain the following lines if it expect the network login directory to be mapped to E:
+
+E:
+login
+C:
+
+This would need to be changed to F:.  Depending upon how your login script is set up, you may also need to modify your login script to prevent conflicts with the new login drive.  If you don't know how to do this or do not have privledges, then speak to your network adminstrator.
+
+Once you've made these network changes, you can add the following line to your autoexec.bat file (usually near the beginning).  
+
+C:\DOS\MSCDEX.EXE /D:ObJIXD00 /E /L:E /M:10
+
+where c:\dos is your dos directory.  In this command line /L:E specifies that the CDROM drive should be mapped to drive E.
+
+If you are running DOS 5.0, then you should use the copy of MSCDEX stored in the ObJIX directory.   The line would look like this:
+
+C:\OJX\CDROM\MSCDEX.EXE /D:ObJIXD00 /E /L:E /M:10
+
+where c:\ojx is the directory you chose to intall the objix software.  In this command line /L:E specifies that the CDROM drive should be mapped to drive E.
+2.   Installing ObJIX CDROM in a system with an existing CDROM drive
+
+If the installer reports:
+
+"The installer has detected an existing CDROM.  You'll need to add the second CDROM drive file system manually.  Review the Media Manager Notes for instructions after this installation is complete."
+
+you'll need to follow these directions for installing a second CDROM drive.
+
+The MSCDEX program is capable of supporting more than one CDROM drive in a system, as long as the CDROM drives are on sequential drive letters.  To do this, you must be certain that: 
+
+n	the drive letter following your current CDROM drive is not being used,
+n	the Lastdrive parameter is correctly set at least one past the current CDROM drive, and
+n	there will be no network conflicts (see above).
+
+Once you've made the appropriate changes to LastDrive etc, you can add the ObJIX CDROM drive to your existing installation by editing your current MSCDEX command in autoexec.bat.  Your existing MSCDEX command will look something like this:
+
+C:\DOS\MSCDEX.EXE /D:MSCD001 /E /L:E /M:10
+
+Note the /L:E switch which would make the first cdrom drive drive E.  Add an additional /D: switch to enable the file system on the ObJIX CDROM drive (in this case it makes it drive F).  The line would then look like this:
+
+C:\DOS\MSCDEX.EXE /D:MSCD001 /D:ObJIXD00 /E /L:E /M:10
+
+If you need more information on command parameters or wish more detail on setting up multiple CDROM drives, refer to the DOS help facility help mscdex, or  your DOS manuals.
+3.   Installing the Windows Multimedia CD-Audio Driver
+
+After installing the ObJIX Media Manager, you will need to install the Windows Multimedia CD-Audio driver before you can play audio CDs in your CDROM drive.  This driver is on your original Windows Disks.  It is not automatically loaded when Windows is installed.
+
+To install this driver, Insert an audio CD in the CDROM player.
+
+Bring up the Windows Control Panel (in Program Manager Group- Main) and Select Drivers. A dialog box appears containing a list of drivers.  Choose Add and then select  [MCI] CD Audio from the listbox that appears.
+
+If a CD Audio driver is loaded on the disk, a dialog box will appear that lets you choose a new driver, or the current driver.  Choose the current driver.
+
+If a CD Audio driver is not loaded on the disk, you will be prompted to insert either disk 4 or disk 5 of you original Windows disks.  Insert the appropriate disk and choose OK.  If it prompts you again for the same disk, insert the alternate disk (disk 5 if disk 4 was the prompt, disk 4 if disk 5 was the prompt).  Some versions of Windows apparently prompt for the wrong disk.
+
+After the selection, a dialog box will appear saying One CDROM drive was detected, Installation Complete.  Choose OK, close the drivers dialog, and close the control panel.  Your CD audio driver is now installed.
+4.   CD-Audio sometimes dissappears, even when the driver is installed.
+
+Under Windows 3.10, Windows 3.11 and Windows For Workgroups 3.11, the CD Audio entry in the Media Player Device menu and the Mixer's audio selection menu will disappear or occasionally be greyed out. 
+
+When Media Player starts, it checks the file creation dates of its own MPLAYER.INI and Windows' SYSTEM.INI.  If SYSTEM.INI has a more recent date that MPLAYER.INI, it then checks the status of devices shown to be installed in SYSTEM.INI. If the status of any of these installed devices is questionable, Media Player removes the questionable device from its list of available devices. Media Player will not check this list again until it finds its own .INI file to be older than the SYSTEM.INI file.
+
+The sequence that causes the CD Audio entry to disappear is:
+     
+1) Cause the file creation date of SYSTEM.INI to be more recent that the file creation date of MPLAYER.INI. (Using Windows Control Panel to install a device driver or editing and then saving SYSTEM.INI will cause this to happen.)
+
+2) Ensure there is no CD-ROM platter in the CD-ROM drive.
+
+3) Start Media Player.
+
+4) Select the Device menu of Media Player. The CD Audio entry is not there.  Checking the audio section of the mixer will show that the CD/Line button is greyed out.
+
+The following sequence will cause the CD Audio entry to reappear:
+
+1) Cause the file creation date of SYSTEM.INI to be more recent than the file creation date of MPLAYER.INI. (Using Windows Control Panel to install a device driver or editing and then saving SYSTEM.INI will cause this to happen.)
+
+2) Ensure that an audio CD-ROM platter is in the CD-ROM drive and the CD-ROM drawer is closed.
+
+3) Start Media Player.
+
+4) Select the Device menu of Media Player. The CD Audio entry will now be present. 
+
+NOTE: Keeping a CD-ROM platter in the drive at all times should prevent this problem from occurring.
+5.   Running DOS Games in a Windows Box
+
+The ObJIX Media Manager will let you run most DOS games in a DOS shell under Windows.  It uses a Windows Virtual Device Driver (VxD) to emulate the Sound Blaster and AdLib hardware register set, and loads the Mwave DSP with Sound Blaster emulation software the first time those virtual registers are accessed.  This section describes some preparations you may need to make in order to operate the ObJIX Media Manager with DOS games.
+
+1) Make certain that your DOS box has enough memory to run the game.  You should run your memory manager's optimizer to create as much low-DOS memory  as possible before proceeding.  Consult your memory manager documentation on this.
+
+We have found that the DOSMAX feature of Qualitas 386Max version 7.0 provides extra low-dos memory in a Windows DOS box and allows us to run games that game vendors claim require a separate BOOT disk.  Quarterdeck QEMM provides a similiar feature.
+
+If your game requires expanded memory (EMS), then make certain that you configure EMS memory in your memory manager, and that you allocate enough EMS memory (usually 2 MBytes) in your DOS box under Windows (the PIF editor will help you do this... review your Windows documentation).
+
+2) Make certain that you've configured your game for the correct Sound Blaster port.  The ObJIX Configuration Review program will list the address, irq number, and dma channel selected for Sound Blaster emulation.  It will say something like 220H base, IRQ5, DMA1.  If your game asks for this information when you choose Sound Blaster audio, select the values specified in the ObJIX Configuration Review program.  Some games will ask you to include a SET Blaster= line in your autoexec.bat file.  The ObJIX Installer has done that already, using the correct values from the ObJIX Configuration Review program.
+
+If the sound doesn't work in your game after these settings are made, you should try choosing AdLib emulation if that is available.  Most games that do not work with the ObJIX Media Manager Sound Blaster emulation WILL work with the AdLib emulation.
+
+Doomers!!!!  Doom II requires 2Mbytes of EMS memory, and works when you choose AdLib emulation for music, and PC speaker for Sound Effects.  You may need to disable hidden refresh in your BIOS settings if DOOM II hangs your machine (see the DOOM II documentation).
+  
+6.   Installing the ObJIX Desktop outside the installation program
+
+If the ObJIX Desktop doesn't install correctly as part of the installation program, or you need to reinstall to create a clean, empty database, then follow this procedure.
+
+From the Program Manager menu, choose File/Run.  In the dialog box type the following command in the Command Line edit field:
+
+c:\ojx\desktop\dinstall.exe
+
+where c:\ojx is the name of the directory in which you installed the ObJIX Media Manager.  Choose OK. 
+
+Follow the directions for installing the desktop in your ObJIX Media Manager manual.  Remember to use a non-existent directory name for the desktop directory entry.
+7.   Removing an old ObJIX Desktop Database
+
+When you uninstall the ObJIX Media Manager software, it does not remove the ObJIX desktop database.  This allows you to reinstall or install a new release and use your existing database without losing any data.  If you need to remove an old database, follow this procedure.
+
+The ObJIX desktop database is stored in a directory hierarchy.  The default directory heirarchy is c:\ojxfax.  You can find an ObJIX desktop database directory heirarchy from within the program manager by looking through directories for a directory that contains the file objix.ini .  Underneath this directory are several additional directories all with 7 digit alphanumeric directory names.
+
+You can locate the current and active ObJIX desktop database by looking in your win.ini file.   Bring up sysedit (from file manager File/Run type sysedit and choose OK) or notepad and view win.ini.  In a section titled [OBJIX Multimedia Corporation], you'll see an entry that looks like:
+
+IniPath=C:\OJFX3
+
+where c:\ojxfx3 would be the current and active ObJIX desktop database.  DO NOT DELETE THIS DIRECTORY HEIRARCHY!!!!!! or you will lose all your current desktop database information.
+
+You can delete any other old ObJIX desktop database by selecting the directory in File Manager and choosing File/Delete.  Don't do this unless you are confident you want to delete that directory and are confident in your ability to delete files from file manager.
+8.   If you forget your ObJIX Desktop Password
+
+You have two choices; call ObJIX Multimedia for information on how to locate a forgotten password, or create a new desktop database (see 6 above).
+9.   If the ObJIX Desktop doesn't even bring up a login screen.
+
+The system date on your machine is probably set to sometime before January 1, 1990.  The ObJIX Desktop database uses the current date and time as part of its search and versioning algorithm.  This algorithm works on dates after January 1, 1990.
+
+To set the date on your machine, exit windows, and from the DOS prompt type:
+
+> DATE <enter>
+
+Enter the correct date.  Restart Windows and run the Desktop.
+10. If the Data Modem doesn't appear to work (shared interrupt conflicts).
+
+The ObJIX Media Manager Installer will allow you to share IRQ3 or IRQ4 with an existing communications port if you have nothing connected to that port, or you will not be using that port at the same time as the ObJIX Media Manager modem.  In some systems, the ObJIX Media Manager modem will not work correctly if you choose this option.
+
+The characteristics of the failure are usually that with DOS communications applications (and occasionally with Windows communications applications), the modem does not respond to the AT command, ATD command, or the application will report that the modem is not responding.
+
+The ObJIX Media Manager modem follows a PC convention that allows communications devices to share an interrupt.  This convention is called a pulse mode interrupt.  Another interrupt convention called level mode interrupt does not allow you to share interrupts between devices.  Some multifunction I/O cards and internal modem cards use a level mode interrupt instead of a pulse mode interrupt.  The convention for communications devices is to use a pulse mode interrupt, although we've discovered that some do not.
+
+When you configure the ObJIX Media Manager modem to share an interrupt with a level mode interrupt device, the ObJIX Media Manager modem will not work.
+
+If you plan on using the Media Manager modem exclusively from Windows applications, and one of the alternate comm port/IRQ values are available, then place your ObJIX Media Manager installation disk in your diskette drive, run setup, choose Update Hardware Configuration and select one of the free non-shared interrupt selections.  Remember to reconfigure your communications applications to the new selection.
+
+If you need to use your Media Manager modem from non-Windows applications, or have no alternate (unshared) interrupts, then you'll need to disable or remove one of your existing communications devices, or choose not to use the ObJIX Media Manager modem.  Refer to the hardware manual that came with your PC or the device you want to remove for more information.
+
+11. If the Data Modem doesn't appear to work (windows port remaps).
+
+If you install your Media Manager Modem at a lower COM Port number than an existing COM device, its possible that Windows will logically remap the existing COM device on top of the Media Manager Modem when Windows starts.  This can cause some software (such as Prodigy for Windows) to get confused and attempt to use the wrong COM port.
+
+Prodigy includes a diagnostic program that will fix this problem so you can run Prodigy.  
+
+A future release of the Media Manager software will stop this problem from occuring. 
+
+12. If your system hangs while exiting Windows (potential IRQ conflicts).
+
+If you've just installed the ObJIX Media Manager and your system appears to hang when exiting Windows, the problem is almost certainly that the Mwave DSP IRQ is not getting correctly processed on Windows exit.  Although the installer is very careful in looking for an open IRQ  value, we have discovered two cases where the installer can mistakenly determine that an IRQ is open, and this problem can occur.
+
+Note that the ObJIX Media Manager DSP IRQ is one of IRQ10, IRQ11, IRQ12, or IRQ15.
+
+Device Driver Not Loaded During Configuration
+
+If a device is on an interrupt, but the device driver is NOT loaded when running the ObJIX Media Manager installer, then the ObJIX Media Manager installer will believe that the interrupt is available for use.  Install the device driver for the conflicting device, and rerun the ObJIX Media Manager installer choosing Update Hardware Configuration.  This should solve the problem.
+
+Power Management Interrrupt Conflict
+
+Some machines with power management use IRQ15 as an internal signal.  On these machines, the ObJIX Media Manager will not operate on IRQ15.  Since IRQ15 is an internal signal, the ObJIX Media Manager cannot automatically detect that it is available.
+
+The configuration software uses IRQ15 as a last resort for configuring the system.  If IRQ15 is used, and it is not available (because of this conflict), the system will install correctly, start correctly, and sound will be available under Windows.  Windows will hang on exit.
+
+You will need to remove or reconfigure another device on IRQ 10, 11, or 12 for the ObJIX Media Manager to install correctly.  The Microsoft Diagnostic Program (MSD) that comes with DOS should help you locate which devices are configured on these interrupts.  
+ 
+13. Using the Scanfx with ObJIX Media Manager.
+
+When scanning from the Plustek ScanFX scanner, you must select the Sheet Feed Scanner Twain driver that came with the ScanFX scanner.  If you select the Plustek or ObJIX scanner driver, the scanner will scan one FAX, and then will not scan again until you exit Windows.
+
+The ScanFX scanner driver does not support IRQ15.  If the ObJIX Media Manager DSP interrupt is set to 15, ScanFX will not work.  This is usually not a problem since the ObJIX Media Manager chooses IRQ15 as a last resort.
+
+If you need to use ScanFX with the ObJIX Media Manager and the board is configured to IRQ15, you will need to remove or reconfigure another device on IRQ 10, 11, or 12.  The Microsoft Diagnostic Program (MSD) that comes with DOS should help you locate which devices are configured on these interrupts.  Once you've moved a conflicting device, rerun the ObJIX Media Manager installer choosing Update Hardware Configuration.
+ 
+14. Configuring with a Serial Mouse on Com2.
+
+On some machines, the ObJIX Media Manager installer will cause a mouse on Com2 to become disabled for the remainder of the installation while testing communications ports.  The installation will continue correctly although the Mouse will be disabled.  
+
+This defect will be repaired in a future version of the ObJIX Media Manager installer.
+
+15.  Waits While Formatting
+
+A wait icon will appear periodically when formatting a fax for transmission.  This is normal behavior.  On some smaller machines (386SX and slower 386 systems) this wait can be noticeable.
+
+ 	
+
+**** end of Release Notice ****

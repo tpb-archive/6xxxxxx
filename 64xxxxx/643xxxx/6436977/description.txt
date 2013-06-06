@@ -1,0 +1,71 @@
+Techsoft MirrorFolder 5.0.276
+
+MirrorFolder is a real-time mirroring and synchronization software to backup files on local/network/removable drive/disk from local hard disk. You can mirror your important folders, or even an entire drive, on another local/network/removable drive/disk either in real-time or in auto-synchronization mode. It works on Windows 95/98/Me/NT/2000/XP.
+
+Some common uses of MirrorFolder are:
+Mirroring on local hard disk - MirrorFolder is ideal for real-time mirroring on a separate local hard disk. In this mode, files in the mirror folder will remain identical with their source at any point of time. In case the source disk fails, you will have all of your files on the mirror folder/disk for immediate use. You may also use auto-synchronization mode of mirroring on local hard disk and choose to move older versions of files in the mirror folder to recycle bin duringsynchronization.
+
+Backup on removable drive - MirrorFolder can be used for automatic backup of your important working folders on removable drive like USB flash drive, removable hard disk, etc., preferably in automatic synchronization mode. You may also enable archive option to store older versions of files in a series of ZIP files into a third location.
+
+Mirroring entire system drive - MirrorFolder can be used to mirror entire Windows drive on another internal hard disk drive in real-time mirroring (RAID-1 type) mode. In case the source drive fails, you can use mirror drive to boot Windows without any lose of data/files. Note that MirrorFolder does not support mirroring entire system drive on external removable and network drives at present.
+
+Synchronization between laptop and desktop computers - You can use MirrorFolder to synchronize files between your laptop and desktop computers using bi-directional automatic synchronization mode.
+
+Synchronization between home and office computers through a USB flash drive - You can use MirrorFolder to synchronize important folders between your home and office computers using bi-directional automatic synchronization mode through a USB flash drive.
+
+Workstations to server mirroring - In a networked environment, MirrorFolder can be installed on each workstation computer to mirror important folders on them to one or more servers on the network. Once mirrors are created, MirrorFolder will keep mirrors on the server synchronized with the source folders on each computer on the network without requiring any further effort from individual users. That means, the server(s) will always contain an up-to-date copy of all relevant files of each workstation computer and individual users will no longer have to spend any time backing up his/her computer periodically.
+
+Server to server mirroring - MirrorFolder can be used for mirroring of files/folders from server to server on local network. Since this software runs under system account for both real-time and auto-synchronization mode of mirroring, it can mirror any files irrespective of its access right and who is currently interactively logged on the system. However, you must provide a user name and password to access the the remote server and mirror on it.
+
+Major Features:
+Works on â€œSetup and Forgetâ€ principle, i.e., once you setup mirror(s) for a folder/drive, synchronization/mirroring will be done automatically in the background saving your valuable time.
+
+Runs as a service in the background using very little system resources, e.g., CPU time, memory, etc., for mirroring and synchronization.
+
+Simple, intuitive and easy user interface program to setup and manage mirror folders. Optionally integrates with Windows Explorer for setting up of mirror through property page of a folder.
+
+Supports mirroring/synchronization of a folder/drive to multiple destinations each with different options.
+
+Supports mirroring entire system drive to another internal hard disk in RAID-1 mode so that you may boot from the mirror drive without any lose of data in case the source drive fails.
+
+Supports mirroring/synchronization on all kinds of drives, e.g., fixed local drive, network drive on LAN/VPN, removable drive/disk, etc., from your local computer.
+
+Supports mirroring exclusively opened file in real-time mirroring (RAID-1 type) mode.
+
+Built-in scheduler for automatic synchronization and archiving of mirror folders at specified time interval, or at specified times.
+
+Supports automatic synchronization of mirror folders at system startup, shutdown, logon, logoff, or when a removable/network drive is connected.
+
+Supports bi-directional synchronization option (except in RAID-1 mirroring mode).
+
+Supports use of NTFS Change Journals data for fast synchronization of folders containing very large number of files.
+
+Supports copying of NTFS alternate named streams, file permissions, extended attributes, sparse files, encrypted files, reparse point, symbolic link, etc.
+
+Mirrors files at byte level in real-time mirroring (RAID-1 type) mode by default. Optionally copies files differentially at block level in other synchronization modes.
+
+Supports extensive filtering options for both source and destination folders to include/exclude certain sub-folders and file types respectively.
+
+Supports archiving of older and deleted versions of files from the mirror folder in a series of standard ZIP files to a third location, i.e., outside source and mirror folders.
+
+Supports limiting disk/network bandwidth and CPU time priority used during background synchronization.
+
+Optionally supports replication of file delete operation in all synchronization and mirroring modes.
+
+Easy user interface to find and restore files from multiple destination folders and ZIP files to a target folder at the chosen point of time.
+
+Easy user interface to compare contents two folders.
+
+Extensive logging of automatic/real-time synchronization, RAID-1 mirroring, archiving of mirror folders, and warning and errors. You can also see name of all currently opened files for mirroring in RAID-1 mode.
+
+Supports importing and exporting of settings and logs in standard XML file.
+
+Supports command line options to install the software, and setup mirrors on large number of destination computers automatically.
+
+Uses Unicode internally so that it can handle file/folder name in any languages supported by Windows.
+
+Multi-language user interface. Currently available languages are English, German, French, Danish, Spanish and Portuguese.
+
+Home page - http://www.techsoftpl.com/
+
+

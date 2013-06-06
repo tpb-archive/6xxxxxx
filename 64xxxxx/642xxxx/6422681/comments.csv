@@ -1,0 +1,17 @@
+User Type,Username,Date,Text
+,ANZ85,2011-05-25T20:08Z,My first torrent.I will add tags but it says they are temporary disabled...
+,EHPIKE,2011-06-05T19:31Z,"Very good! Thanks ANZ85. 
+Work fine:)"
+,ANZ85,2011-06-18T23:24Z,Update 1.01 for LEBL:http://thepiratebay.org/torrent/6479355/Fs9_Aerosoft_Mega_Airport_Barcelona_El_Prat_Update_1.01_only
+,UAA,2011-06-25T18:12Z,"I downloaded it and then installed ,and everything seems ok,But when i load the airport,My FS stops and i have to close it.Please help.I love EI PRAT airport"
+,ANZ85,2011-06-26T05:24Z,You need to go to EventViewer to see what's causing this.After that I can help you.
+,UAA,2011-06-26T16:05Z,i don't have update 9.1 installed...is that causing it??
+,ANZ85,2011-06-26T16:44Z,"Install first the update 9.1 and if does not work after that disable traffic or scan for double afcads(if you installed my other torrent,update 1.01 for LEBL,you must rename the file AF2_LEBL_12.bgl or delete it)."
+,fs9fsx,2011-07-05T15:25Z,"Hey, i runned the installer part1 and the update.. but it doenst work? i dont got barcelona, but you said activate it in your scenery folder.. where do i need to put it? It's now in aerosoft folder.. Please help me!"
+,ANZ85,2011-07-06T12:00Z,"I don't really remember if the installer adds automatically the scenery to the scenery cfg but you can add it manually,mine looks like this(only change xxx and yyy with what you have last +1)
+[Area.xxx]
+Local=aerosoft\Mega Airport Barcelona
+Title=LEBL-Aerosoft Mega Airport-BCN
+Required=FALSE
+Active=TRUE
+Layer=yyy"

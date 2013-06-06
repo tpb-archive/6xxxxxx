@@ -1,0 +1,218 @@
+Based on RUU Ace Gingerbread S 2.36.405.8 (Apr 23) HTC Desire HD (Ace)
+Android 2.3.3 GRI40 (Gingerbread)
+Kernel:
+MDJ V17 OC Kernel (1516MHz with SetCPU)
+Kernel thread: http://forum.xda-developers.com/show....php?t=1050106
+
+FEAUTURES:
+- Multilanguage
+- Themed by me
+- Ultra Fast
+- EXT4 system/data/cache
+- Deodexed
+- Busybox / Superuser
+- Zipaligned
+- 2-way call records
+- Sesne 3.0 Live wallpapers (Streak & Weather)
+- Sense 3.0 Wallpapers
+- Sesne 3.0 Kingdom LockScreen
+- 7 Idlescreens (Shortcuts, FriendStream, Clock, Photo, Photo Sensation, Stock, Weather)
+- Sense 3.0 Weather
+- Sense 3.0 USB Dialog
+- Sense 3.0 Task Manager
+- Sense 3.0 SMS/MMS
+- New EReader
+- New HTC Footprints
+- New HTC Car Panel
+- CRT Animation
+- Maps 5.4 with global navigation
+- Newest GTalk2
+- Glowing (Overscroll)
+- WP7 fonts
+- etc
+
+
+REMOVED:
+- Teeter
+- Facebook (you can download it from Market)
+- Twitter (you can download it from Market)
+- Adobe Reader (you can download it from Market)
+- SoundHound (you can download it from Market)
+- AmazonMP3 (you can download it from Market)
+
+Install:
+- Flash via ClockworkMod 3.0.26 - 3.0.28
+
+CHANGELOG:
+
+v.3.0.4:
+- Weather app UI improvements (Krzysiec)
+- Fixed \"select city\" in weather lwp settings
+- Re-encoded all weather videos
+- Optimized weather lwp images (thanks robocik)
+- Added screen on/off animation settings
+- Removed Adobe Flash Player (you can download it from Addons section or from Market)
+v.3.0.3:
+- Added back Weather Live Wallpapers (with fixed sound on/off)
+- Added new EReader from Lead leak
+- Added new HTC Car Panel from Lead leak
+- Added new Footprints from Lead leak
+- Removed Locations
+- Added Rosie with my magic ( http://forum.xda-developers.com/showpost.php?p=13844193&postcount=957 )
+- Added sms backup/restore feature
+- Included HtcWeatherWallpaper (effect on unlock) from sense 3.0
+v.3.0.2:
+- New kernel with 2 way call records & some additional SetCPU steps
+- Fixed MMS issues (Thanks to seo)
+- Rearranged QuickSettings menu (Thanks to Krzysiec for hint)
+- Improved Russian in QuickSettings
+- Updated Adobe Flash Player to 10.3
+- Added CallRecorder 1.0.21 (English + Russian) (with permission from skvalex)
+- Removed Weather Live Wallpapers
+Fixes from seo:
+- Contact pictures in SMS 3.0 should be fine now
+- Fixed delay when switching mobile data after sending MMS
+- Fixed clock widget properties not showing
+- Rearranged \"Add Widget\" screen to fit better
+v.3.0.1:
+- Added Sense 3.0 weather sound (Thanks to capy for help)
+- Updated Market
+- Added Weather wallpaper effect from sense 3.0
+- Task Manager with green dot (Thanks to Krzysiec)
+- USB connection screen with green backlight (Thanks to Krzysiec)
+Fixes from seo:
+- Fixed incall screen phone layout
+- Fixed callerid not shown in notifications & missed call count
+- Fixed SMS delivery notifications
+v.3.0:
+- lockscreen: Fixed incoming call / pattern / sim / password unlock
+- Tweaked media_profiles
+v.2.9:
+- Added Clock Idlescreen
+- Added second Photo Idlescreen from Sensation RUU
+- Updated Adobe FlashPlayer to 10.3 (in Full ROM only)
+- Other minor fixes
+v.2.8:
+- SMS notifications fix (Thanks to seo)
+- Added Russian to Photo lockscreen
+- Added Russian to Customization menu
+- Other minor fixes & tweaks
+v.2.7:
+- Added photo lockscreen
+- Fixed lockscreen not syncing weather
+v.2.6: FULL WIPE AUTO
+- Newest kernel V16 based on official GB source code
+- Removed percentage battery
+- Added Weather 3.0
+- Added Kingdom LockScreen with apps, etc
+- Removed 2-way call recorder (very high battery drain)
+- Other minor fixes & tweaks
+v.2.5:
+- Newest kernel V15 (see kernel thread or GIT for changelog)
+- Removed Flying animation
+- Removed glowing popups
+- Changed overscroll color
+- Crazy speed!
+- Updated Lockscreen (Thanks seo & Ko)
+- Updated Flash Player
+v.2.4:
+- Newest kernel V14 (new acpu & tweaked smartass for better performance)
+- Fixed SQL issue (Weather, Search)
+- Some tweaks in media_profiles.xml
+- Updated AdobeFlashPlayer
+- Added Sense 3.0 MMS/SMS app (Thanks to RCTeam)
+- Other minor fixes & tweaks
+v.2.3:
+- Newest kernel V12 with new ACPU table
+- New battery % icons
+- Updated GTalk
+- Patched libsql.so
+- Improved LockScreen
+- Other minor fixes & tweaks
+- Glowing popup windows
+v. 2.2:
+- Newest kernel -=MDJ\'s V11=-
+- 2-Way call records support (CallRecorder app modded by me included)(Thanks to avs333)
+- Transparent app drawer
+- Improved LockScreen (Thanks to seo)
+- Improved Russian in TaskManager & LockScreen (Thanks to 933)
+- Updated Maps to 5.4 with Global Navigation support
+- \"Better camera mod\" included (Thanks to vegetaleb)
+- Other minor fixes & tweaks
+v. 2.1
+- Newest kernel V10 - Super fast!
+- Improved EXT4 I/O preformance
+- Custom battery with %
+- Flying windows animation
+- Overglow effect 
+- and more
+v. 2.0B: Update Only
+- Added multilanguages TaskManager (thanks to orkorolev & sk0t)
+- Added multilanguages HTCLockScreen (thanks to orkorolev & sk0t)
+v. 2.0A: FULL WIPE needed
+- EXT4 (/system, /data, /cache partitions)
+- Kernel MDJ\'s V9 Second Rev. (2.6.35.13)
+- Removed FlexT9 keyboard (warez)
+v. 2.0: FULL WIPE needed
+- Smoothness fix from gtg465x
+- FlexT9 keyboard
+- New icons in navibar
+- More transparent clock background
+- [kernel] Added UTF8 for CIFS
+- [kernel] Added 1996MHz support
+v.1.9:
+- Improved widgets graphics
+- New kernel V8 with some tweaks governors
+- Added TaskManager from Doubleshot RUU
+- Added HTC Press Reader from Flyer RUU
+- Included WiFi fix from gtg465x
+- Other minor fixes & tweaks
+v.1.8: WIPE dalvik & cache Recommended
+- Full Themed
+- New kernel V7 with tweaked interactive governor & 10% audio boost
+v.1.7: WIPE dalvik & cache Recommended
+- Added CRT animation (thanks to capychimp)
+- Added Adv Pow. menu (thanks to capychimp)
+- Sense 3.0 live wallpapers
+- Sense 3.0 USB dialog
+- Added Google Maps 5.3.1 ownhere - NAVIGATION all roads (thanks to stian230)
+- Fixed mltilanguage support
+v. 1.6.1:
+- Some interfase fixes
+- New lockscreen (thanks to sk0t)
+- New kernel revision (V6 final)
+v. 1.6: Full wipe recommended!
+- New base 2.36.405.8
+- Kernel MDJ\'s V6 [OC/UV] - 2.6.35.10
+- Removed Teeter, SoundHound, Adobe Reader, AmazonMP3
+- Fixed app drawer header issue
+- Other minor fixes & tweaks
+v. 1.5: Dalvik wipe needed!!!
+- Themed some widgets & apps
+- Doubleshot lockscreen
+- Sense 3.0 wallpapers
+- Fixed root
+- Removed EReader app
+- Removed Stock app
+- Removed Twitter & Facebook apps
+- Added Estrong File Manager
+- Others minor fixes & tweaks
+v. 1.4: FULL WIPE NEEDED!!!
+- New base 2.36.405.5
+- MDJ V5 OC kernel
+- Other minor fixes
+v.1.3: DALVIK & CACHE WIPE recommended
+- Fixed HTCClockWidget
+v.1.2: DALVIK & CACHE WIPE recommended
+- Added Dolby Mobile (Music App)
+- Other minor fixes
+v.1.1 Update Only:
+- Fixed Audio (SRS)
+- Removed Mirror app
+- Added host file
+- Added advanced power menu
+- Added apn\'s list
+v.1.0:
+- Initial release
+
+(c) http://forum.xda-developers.com/showthread.php?t=1042986

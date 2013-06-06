@@ -1,0 +1,87 @@
+User Type,Username,Date,Text
+[V],DownTYU,2011-05-30T12:30Z,"Awesome!!! Surely will get the Red Riding Trilogy.
+
+BTW What happened to Barry Lyndon torrent?"
+[V],twentyforty,2011-05-30T12:40Z,"I always delete attacked torrents, more than hundredth already. I said all, you too, but torrent got -265 in last few minutes. It was 4770+/5035- and -  loonies won, again. At least some of the good guys fight good battle - and lost. Oh, did they?"
+,sadhu19,2011-05-30T13:12Z,"this battle was not lost.
+oh they make me so angry right now.
+and this upload shows your generosity after uploading movie multiple times and refusing to do it again. you still upload it for the guy who requested and that to amidst all what was happening with previous upload . . .. .
+respect is the adjective that comes to my mind.
++1 mate . will download. will seed."
+,abhikrit,2011-05-30T14:11Z,very sad for Barry Lyndon.. thanks for this one...
+,cindal,2011-05-30T15:19Z,thank you for all that you do
+[V],DownTYU,2011-05-30T15:42Z,"@twentyforty
+
+I need a help...
+Do you know how can I mux a h264 file and aac file into a MP4 container.
+
+Basically I need something like mkvmerge..."
+[T],houruoha,2011-05-30T16:25Z,"Quality:    +1045 / -0 (+1045) 
+
+Am I ?
+
+Whats Happening.."
+[T],houruoha,2011-05-30T16:33Z,"@DownTYU
+Simple....
+Download Yamb [yet another mp4 box]. Its straight forward. click create option .. and select the first option .. click to an MP4 file create Import h264 and aac into yamb.. change output directory.. click next.. thats it"
+,Night_89,2011-05-30T16:40Z,"thanks for this as well as Red Riding trilogy
+awesome"
+[V],twentyforty,2011-05-30T16:50Z,"@DownTYU:
+
+Simple.  One line ( all my encodes are muxed that way):
+
+nicMP4box -add audio.m4a -add video.264 -fps 23.976 muxed.mp4
+
+FPS number is essential and could be 23.976, 25, 29.97 or 30 or any mp4box defaults to 25 fps."
+[V],DownTYU,2011-05-30T17:00Z,"@houruoha & @puplone
+
+Thanks. Tried YAMB, mp4box, mp4muxer
+
+All of them doesn't detect RAWAVC frame rate, they are muxing it at 25 fps where it should be 23.976"
+[V],DownTYU,2011-05-30T17:01Z,"@twentyforty
+
+Thanks...typical TPB comment delay.
+
+Anyways thanks I'll try ur method."
+,spiritualiste,2011-05-30T17:11Z,"@Twentyforty
+i think i remember reading that you uploaded Game of Thrones Making of and pre-air (or sneak peak or else).
+If so, could you please re-up them in the TV pack tomorrow...Thanks...kindly..."
+[V],twentyforty,2011-05-30T17:19Z,"@DownTYU: Muxer mux - you must say what and enter one or two numbers. No muxer, including mkvmerge shouldn't make decision what OUTPUT fps should be. Haven't you heard off Variable Frame Rate?"
+[V],twentyforty,2011-05-30T17:24Z,"@spiritualiste:  ...and week later had hard disk crash and lost 1 TB of encodes.
+Sorry, maybe someone has it, but it was just ad, sneak-peek and maybe someone would make a torrent and inform you here."
+[V],twentyforty,2011-05-30T17:41Z,"@DownTYU: 
+off = of
+Sorry."
+,atak_sanjpera,2011-05-30T17:59Z,"Learning session!!!!!!!!!!!!
+Well I don't know much but I can remember once I've faced this with YAMB. YAMB prompted me to enter fps or I've selected the track and pressed properties - defined fps. Something happened; but it worked.
+
+Sir, I also have a question. As I told you earlier that I remux all the supporting files into a single; I also add cover poster using itag of mp4box. It looks good as Windows shows the poster in thumbnail. That thing I've learned from 'puplone' (thanx to him) but he don't know much (nevermind: he is my friend) as he couldn't answer this:
+How can the poster be extracted from the mp4 tag on later stage?"
+,atak_sanjpera,2011-05-30T18:03Z,"The commandline I use is:
+""\mp4box.exe"" -tmp """"  -add ""\old.mp4"" -itags cover=""poster.jpg""  -new ""\new.mp4""
+You mist be knowing but just for reference ..."
+,spiritualiste,2011-05-30T18:08Z,"@Twentyforty
+OK then...thanks."
+,atak_sanjpera,2011-05-30T18:14Z,Something gone wrong as all the 'path' I mentioned in the line is vanished. & mist = must (thats the mistake of my finger).
+[V],DownTYU,2011-05-30T18:53Z,"Okies prob solved...
+
+Using MeGui's mp4 muxer...
+
+Automatically detected the framerate and it works perfectly.
+The more I try to avoid that messy software the more I need it.
+
+Thanks guys."
+,spiritualiste,2011-05-30T19:17Z,"@Doyll
+Thank you!"
+,formerly_azrielle,2011-05-30T21:34Z,"This movie grows on you--couldn't stand it the first time I saw it with my 14 year old son.  Now...its not that bad.  Must admit, though, that Miranda Cosgrove's more recent roles (particularly in Drake & Josh) add something to my mental perception of her bit part in this movie!"
+,atak_sanjpera,2011-05-31T12:54Z,"@tintinintibet:
+Yeah!!! It worked. I don't know why 'twentyforty' didn't answer me. Thank you so much mate ....."
+[V],twentyforty,2011-05-31T13:41Z,"@atak_sanjpera: Don't get me wrong - but it's not in my job description. If I find appropriate I  might answer to questions but avoid topics not related to something I don't care about. 
+
+Your question was ""How do I can extract cover art from MP4?"" - how about ""I don't know, I never needed to know.""
+
+But - you are helped, right? That's is upside of posting questions publicly."
+,atak_sanjpera,2011-05-31T14:16Z,"""void topics not related to something I don't care about"" - that was I was worried about, Sir. I was afraid as I didn't want to make you annoyed."
+,formerly_azrielle,2011-06-01T08:06Z,"@puplone
+It always has, at least in Opera."
+,amit_8629,2011-08-08T15:42Z,Thank U

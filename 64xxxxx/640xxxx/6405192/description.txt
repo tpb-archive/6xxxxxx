@@ -1,0 +1,775 @@
+So you wanna be a programmer ? Want to understand the inner working of a computer ... Learn how the little box does all those wonders that it does ... How a small chip does magic ... How a simple logic with 0's and 1's runs the whole world now ... Do you've the guts to sweat yourself out ... This collection is for you ...
+
+Choose a programming language ... preferably C, then learn a OO language ... C++ ... learn a managed languge ... C# ... learn functional programming ... F#, Lisp, Scheme ... Don't forget to learn assembly language ... Then thoroughly go through data structures and algorithms ... Get good acquitance with discrete mathematics and graphs theory ... You'll be unbeatable with the basics ... everything else will flow into your path ...
+
+Give your valuable feedback ...
+
+The list is of the books is given below ...
+
+PART I:
+
+
++---1_Programming Languages
+| | Become An Xcoder.pdf
+| | Beginning Xcode.chm
+| | Debugging by Thinking - A Multidisciplinary Approach (Digital, 2004).chm
+| | GCC - The Complete Reference (McGraw Hill-2002).pdf
+| | GCC Manual.pdf
+| | GDB Quick Reference for version 4 (199.pdf
+| | GNU Autoconf, Automake, and Libtool (New Riders-2000).chm
+| | GNU Press - Debugging with GDB.pdf
+| | Hacking Vim.pdf
+| | Introduction to FP.pdf
+| | Professional WCF Programming - Wrox.pdf
+| | Sed & Awk.pdf
+| | The Developer's Guide to Debugging (Springer, 200.pdf
+| | Visual Studio Hacks - Tips & Tools For Turbocharging The IDE.chm
+| | VS-KB-Brochure-CPP-A4-HiRez.pdf
+| | VS-KB-Brochure-CPP-Letter-HiRez.pdf
+| | VS-KB-Brochure-CSharp-A4-HiRez.pdf
+| | VS-KB-Brochure-CSharp-Letter-HiRez.pdf
+| | VS-KB-Brochure-FSharp-A4-HiRez.pdf
+| | VS-KB-Brochure-FSharp-Letter-HiRez.pdf
+| | Why Programs Fail - A Guide to Systematic Debugging.pdf
+| | Xcode 3 Unleashed.pdf
+| |
+| +---C
+| | Expert C Programming.pdf
+| | Illustrating C.pdf
+| | Learn C on the Mac.pdf
+| | Let Us C - Yashwant Kanetkar.pdf
+| | The C Programming Language.pdf
+| |
+| +---C Sharp and .NET
+| | | .NET Performance Testing and Optimization - The Complete Guide.pdf
+| | | Accelerated C# 2010.pdf
+| | | Applied Microsoft .NET Framework Programming.pdf
+| | | C# Bible.pdf
+| | | C# Primer, A Practical Approach.pdf
+| | | C# Your Visual Blueprint for Building .NET Applications.pdf
+| | | CSharp Language Specification.doc
+| | | CSharp Language Specification.htm
+| | | CSharp Yellow Book.pdf
+| | | Customizing Microsoft .NET Framework CLR.chm
+| | | Debugging Applications for Microsoft .NET and Microsoft Windows.chm
+| | | ecma-335.pdf
+| | | Effective C# - 50 Specific Ways to Improve your C#.pdf
+| | | Essential C# 4.0.pdf
+| | | Essential LINQ.pdf
+| | | Essential Windows Communication Foundation.pdf
+| | | Framework Design Guidelines.pdf
+| | | Introducing .NET 4.0 with Visual Studio 2010.pdf
+| | | Pro .NET 4 Parallel Programming in C#.pdf
+| | | Pro LINQ.pdf
+| | | Professional.LINQ.pdf
+| | | Programming C# 4.0.pdf
+| | | Programming WCF Services.pdf
+| | | WCF 4.0 Multi tier Services Development with LINQ to Entities.pdf
+| | |
+| | +---CLR via C#
+| | | CLR via CSharp 3rd Edition - Jeffrey Richter.pdf
+| | | Sample Codes.7z
+| | |
+| | +---Head First C#
+| | | Head First C#.pdf
+| | | HeadFirstCSharp_All_Code.zip
+| | | HFCsharp_graphics_ch01.zip
+| | | HFCsharp_graphics_ch13.zip
+| | |
+| | +---Pro C# 2010 and .NET 4 Platform
+| | | Code.zip
+| | | Pro C# 2010 and the .NET 4 Platform.pdf
+| | |
+| | \---Professional C# 4 and .NET 4
+| | c48_online only.pdf
+| | c49_online only.pdf
+| | c50_online only.pdf
+| | c51_online only.pdf
+| | c52_online only.pdf
+| | c53_online only.pdf
+| | c54_online only.pdf
+| | c55_online only.pdf
+| | c56_online only.pdf
+| | c57_online only.pdf
+| | Code.7z
+| | Professional C# 4 and .NET 4.pdf
+| |
+| +---C++
+| | | Accelerated C++ 2000.pdf
+| | | ANSI-ISO C++ Professional Programmer's Handbook.pdf
+| | | Beyond the C Standard library - An Introduction to Boost.chm
+| | | Bjarne Stroustrup - The C++ Programming Language Special Edition.pdf
+| | | Blunden - Virtual Machine Design and Implementation in C++.chm
+| | | C++ Coding Standards; 101 Rules, Guidelines and Best Practices 2005.chm
+| | | C++ Primer.chm
+| | | C++ Template Metaprogramming - Concepts, Tools, and Techniques from Boost and Beyond.chm
+| | | C++ Templates - The Complete Guide.chm
+| | | Conger - Creating Games in C++.chm
+| | | Core C++ - A Software Engineering Approach.pdf
+| | | Data Abstraction and Problem Solving with C++ 3 Ed.pdf
+| | | Effective C++ - 55 Specific Ways to Improve Your Programs and Designs.chm
+| | | Exceptional C++ 47 Engineering Puzzles, Programming Problems, and Solutions 2000.chm
+| | | How Not to Program in C++ 2003.chm
+| | | Inside the C++ Object Model.chm
+| | | Modern C++ Design - Generic Programming and Design Patterns Applied.chm
+| | | More Effective C++ - 35 Specific Ways to Improve Your Programs and Designs.chm
+| | | Pratical C++ Programming.pdf
+| | | The Art of C++ 2004.chm
+| | | The C++ Standard Library Extensions - A Tutorial and Reference.chm
+| | | The Design and Evolution of C++.pdf
+| | | Vandevoorde,Stroustrup - C++ Solutions - Companion to C++ Programming Language 3e (AW, 199.djvu
+| | |
+| | +---STL
+| | | | Designing Components with the C++ STL.pdf
+| | | | O'Reilly Network_ What Is an Iterator in C++, Part 1.pdf
+| | | | O'Reilly Network_ What Is an Iterator in C++, Part 2.pdf
+| | | | STL Manual.pdf
+| | | | The C++ Standard Library - A Tutorial and Reference.pdf
+| | | |
+| | | +---STL Documentation
+| | | | STL Documentation.7z
+| | | |
+| | | \---STL Source
+| | | STL Source.7z
+| | |
+| | \---Thinking in C++
+| | +---Thinking in C++ Vol 1
+| | | Thinking in C++ Vol 1.7z
+| | |
+| | \---Thinking in C++ Vol 2
+| | Thinking in C++ Vol 2.7z
+| |
+| +---Erlang
+| | Pragmatic Programming Erlang.pdf
+| |
+| +---F Sharp
+| | | Expert FSharp 2.0.pdf
+| | |
+| | \---Beginning F Sharp
+| | Beginning F Sharp.pdf
+| | build.fsx
+| | src.7z
+| |
+| +---Haskell
+| | Haskell - The Craft of Functional Programming, 2ed (Addison-Wesley, 1999) by Tantanoid.pdf
+| | Haskell - The Craft of Functional Programming, 2ed (Addison-Wesley, 1999) by Tantanoid.ZIP
+| | Learn You a Haskell for Great Good.pdf
+| | The Haskell Road to Logic, Maths and Programming.pdf
+| | Why Functional Programming matters.pdf
+| | YAHT - Yet Another Haskell Tutorial.pdf
+| |
+| +---Java
+| | Core Java - Vol 1 - Fundamentals.pdf
+| |
+| +---Lisp
+| | | A Practical Theory of Programming - Eric C.R. Hehner.pdf
+| | | An Introduction To Programming In Emacs Lisp, 2Nd Ed - Robert J. Chassell.pdf
+| | | ANSI Common Lisp - Paul Graham.pdf
+| | | Basic Lisp Techniques - David J. Cooper.pdf
+| | | Common Lisp - An Interactive Approach - Stuart C. Shapiro.pdf
+| | | Common Lisp the Language, 2nd Edition - Guy L. Steele.pdf
+| | | Lisp book - Gary D. Knott.pdf
+| | | LISP in small pieces - Queinnec C.djvu
+| | | On LISP Advanced Techniques for Common LISP - Paul Graham.pdf
+| | | Practical Common Lisp - Peter Siebel.chm
+| | | Successful Lisp How to Understand and Use Common Lisp - David B. Lamkins.pdf
+| | |
+| | +---Common Lisp - A Gentle Introduction
+| | | Common Lisp - A Gentle Introduction.pdf
+| | | sourcecode.7z
+| | |
+| | \---Scheme
+| | An Introduction to Scheme and its Implementation.pdf
+| | Concrete Abstractions An Introduction to Computer Science Using Scheme - Max Hailperin, Barbara K.pdf
+| | Programming In Scheme - Eisenberg , Abelson.djvu
+| | Simply Scheme Introducing Computer Science 2d ed - Brian Harvey , Matthew Wright.pdf
+| | Teach Yourself Scheme in Fixnum Days - Dorai Sitaram.pdf
+| | The Little Schemer - Daniel P. Friedman - 4th Ed.pdf
+| | The Scheme Programming Language 3rd ed - Kent Dybvig.chm
+| | The Seasoned Schemer - Daniel P. Friedman - 4th Ed.pdf
+| |
+| +---Objective-C
+| | Learn Objective-C on the Mac.pdf
+| | Object-Oriented Programming with Objective-C.pdf
+| | Objective C - 2.0 Programming language.pdf
+| | Objective C-2.0 Runtime Reference.pdf
+| | Objective-C Pocket Reference (2002).chm
+| | Programming in Objective-C 2.0.pdf
+| |
+| +---scripting
+| | +---Perl
+| | | Advanced Perl Programming, 2nd Edition.chm
+| | | Flynt - Perl Power - The Comprehensive Guide (Thomson, 2006).pdf
+| | | Graphics Programming With Perl 2002.pdf
+| | | Learning Perl Objects, References, & Modules.chm
+| | | Learning Perl, 4th Edition.chm
+| | | Learning Perl, 4th Edition.zi
+| | | Mastering Algorithms With Perl 1999.pdf
+| | | McGraw-Hill - Perl. The Complete Reference. Second Edition.pdf
+| | | Object Oriented Perl 2000.pdf
+| | | OReilly Mastering Perl.pdf
+| | | Perl & XML 2002.pdf
+| | | Perl Hacks.chm
+| | | Professional Perl Programming 2001.pdf
+| | |
+| | +---Python
+| | | Beazley - Python Essential Reference 3e (Sams, 2006).pdf
+| | | Downey - Think Python - How to Think Like a Computer Scientist (Grean Tea, 200.pdf
+| | | OReilly Learning Python 4th Ed.pdf
+| | | Python Cheat Sheet.pdf
+| | | Wrox Beginning Python.pdf
+| | |
+| | +---Shell
+| | | Essential PowerShell.pdf
+| | | Mastering PowerShell.pdf
+| | | Microsoft PowerShell VBscript and Jscript Bible.pdf
+| | | Microsoft Press Microsoft Windows PowerShell Step By Step.chm
+| | | Microsoft Windows PowerShell Programming For Absolute Beginner.pdf
+| | | Sams Teach Yourself UNIX Shell Programming in 24 Hours.PDF
+| | |
+| | \---XML
+| | Professional XML (Wrox, 2007).chm
+| | XML - Problem-Design-Solution.pdf
+| | XML 1.1 Bible.pdf
+| | XML Programming Bible.pdf
+| |
+| \---Windows Programming
+| | Beginning Visual C++ 2010.pdf
+| | COM+ Programming - A Practical Guide Using Visual C++ and ATL.chm
+| | OReilly Programming WPF 2nd.Edition.pdf
+| | Pro WPF in C# 2010.pdf
+| | Programming Applications for Windows 4ed.chm
+| | Programming Windows with MFC by Jeff Prosise 2nd Edition.chm
+| | Visual C++ Optimization With Assembly Code.chm
+| | WPF Unleashed.pdf
+| |
+| +---Introducing Windows 7 for Developers
+| | Introducing Windows 7 for Developers.pdf
+| |
+| +---Programming Windows - Charles Petzold
+| | code.7z
+| | Programming Windows - Charles Petzold 5th ed.chm
+| |
+| +---theForgers Win32 Tutorial
+| | source.7z
+| | theForgers Win32 Tutorial.pdf
+| |
+| \---Total Training - Microsoft WPF
+| TWPFES_P01_C01_L00.mov
+| TWPFES_P01_C01_L01.mov
+| TWPFES_P01_C01_L02.mov
+| TWPFES_P01_C01_L03.mov
+| TWPFES_P01_C01_L04.mov
+| TWPFES_P01_C01_L05.mov
+| TWPFES_P01_C01_L06.mov
+| TWPFES_P01_C02_L00.mov
+| TWPFES_P01_C02_L01.mov
+| TWPFES_P01_C02_L02.mov
+| TWPFES_P01_C02_L03.mov
+| TWPFES_P01_C02_L04.mov
+| TWPFES_P01_C02_L05.mov
+| TWPFES_P01_C02_L06.mov
+| TWPFES_P01_C02_L07.mov
+| TWPFES_P01_C02_L08.mov
+| TWPFES_P01_C02_L09.mov
+| TWPFES_P01_C02_L10.mov
+| TWPFES_P01_C02_L11.mov
+| TWPFES_P01_C02_L12.mov
+| TWPFES_P01_C03_L00.mov
+| TWPFES_P01_C03_L01.mov
+| TWPFES_P01_C03_L02.mov
+| TWPFES_P01_C03_L03.mov
+| TWPFES_P01_C03_L04.mov
+| TWPFES_P01_C03_L05.mov
+| TWPFES_P01_C03_L06.mov
+| TWPFES_P01_C03_L07.mov
+| TWPFES_P01_C03_L08.mov
+| TWPFES_P01_C03_L09.mov
+| TWPFES_P01_C03_L10.mov
+| TWPFES_P01_C03_L11.mov
+| TWPFES_P01_C03_L12.mov
+| TWPFES_P01_C03_L13.mov
+| TWPFES_P01_C04_L00.mov
+| TWPFES_P01_C04_L01.mov
+| TWPFES_P01_C04_L02.mov
+| TWPFES_P01_C04_L03.mov
+| TWPFES_P01_C04_L04.mov
+| TWPFES_P01_C04_L05.mov
+| TWPFES_P01_C04_L06.mov
+| TWPFES_P01_C04_L07.mov
+| TWPFES_P01_C04_L08.mov
+| TWPFES_P01_C04_L09.mov
+| TWPFES_P01_C05_L00.mov
+| TWPFES_P01_C05_L01.mov
+| TWPFES_P01_C05_L02.mov
+| TWPFES_P01_C05_L03.mov
+| TWPFES_P01_C05_L04.mov
+| TWPFES_P01_C05_L05.mov
+| TWPFES_P01_C05_L06.mov
+| TWPFES_P01_C05_L07.mov
+| TWPFES_P01_C05_L08.mov
+| TWPFES_P01_C06_L00.mov
+| TWPFES_P01_C06_L01.mov
+| TWPFES_P01_C06_L02.mov
+| TWPFES_P01_C06_L03.mov
+| TWPFES_P01_C06_L04.mov
+| TWPFES_P01_C06_L05.mov
+| TWPFES_P01_C06_L06.mov
+| TWPFES_P01_C06_L07.mov
+| TWPFES_P01_C06_L08.mov
+| TWPFES_P01_C07_L00.mov
+| TWPFES_P01_C07_L01.mov
+| TWPFES_P01_C07_L02.mov
+| TWPFES_P01_C07_L03.mov
+| TWPFES_P01_C07_L04.mov
+| TWPFES_P01_C07_L05.mov
+| TWPFES_P01_C07_L06.mov
+|
++---2_Basics
+| | Beautiful Code.chm
+| | Code Craft - The Practice of Writing Excellent Code.pdf
+| | Hackers Delight.chm
+| | Handbook of Floating Point Arithmetic.pdf
+| | How to be a Programmer.pdf
+| | Puzzles for Programmers and Pros.chm
+| | Secure Programming Cookbook For C and C++.chm
+| | Secure Programming with Static Analysis.pdf
+| | Unicode Demystified - Addison Wesley.chm
+| | What Every Computer Scientist Should Know About Floating Point Arithmetic.pdf
+| | What Every Programmer Should Know About Memory.pdf
+| | Writing Secure Code for Windows Vista.chm
+| | Writing Secure Code.chm
+| | Writing Solid Code.pdf
+| |
+| +---1_Assembly Language
+| | | Compiling Binary Files Using A C Compiler.pdf
+| | | Intel Code Table.pdf
+| | | MIPS Assembly Language Programming 2003.pdf
+| | | PC Assembly Language.pdf
+| | | The 80x86 IBM PC and Compatible Computers.pdf
+| | | The Art of Assembly Language.pdf
+| | | The Assembly Programming Master Book.chm
+| | | The Zen Of Assembly Language 1990 - Michael Abrash.pdf
+| | | Write Great Code - Volume I - Understanding the Machine.chm
+| | | Write Great Code - Volume II - Thinking Low-Level, Writing High-Level.pdf
+| | |
+| | +---Intel Manuals
+| | | Intel 64 Architecture x2APIC Specification.pdf
+| | | Intel SSE4 Programming Reference.pdf
+| | | Intelr 64 and IA-32 Architectures Application Note TLBs, Paging structure Caches and their Invalidation.pdf
+| | | Intelr 64 and IA-32 Architectures Optimization Reference Manual.pdf
+| | | Intelr 64 and IA-32 Architectures Software Developer's Manual Volume 1 - Basic Architecture.pdf
+| | | Intelr 64 and IA-32 Architectures Software Developer's Manual Volume 2A - Instruction Set Reference, A-M.pdf
+| | | Intelr 64 and IA-32 Architectures Software Developer's Manual Volume 2B - Instruction Set Reference, N-Z.pdf
+| | | Intelr 64 and IA-32 Architectures Software Developer's Manual Volume 3A - System Programming Guide.pdf
+| | | Intelr 64 and IA-32 Architectures Software Developer's Manual Volume 3B - System Programming Guide.pdf
+| | |
+| | +---Irvine - Assembly Language for Intel-based Computers
+| | | asmWorkbook.pdf
+| | | Irvine - Assembly Language for Intel-based Computers 4e.iso
+| | | Irvine - Assembly Language for Intel-based Computers 4e.pdf
+| | | IrvineExamplesVS2008.exe
+| | | IrvineLibHelp.chm
+| | |
+| | +---Optimization Manual
+| | | | asmexamples.zip
+| | | | calling_conventions.pdf
+| | | | cppexamples.zip
+| | | | instruction_tables.pdf
+| | | | microarchitecture.pdf
+| | | | optimizing_assembly.pdf
+| | | | optimizing_cpp.pdf
+| | | |
+| | | +---asmlib
+| | | | alibcof32.lib
+| | | | alibcof32o.lib
+| | | | alibcof64.lib
+| | | | alibcof64o.lib
+| | | | alibd32.dll
+| | | | alibd32.lib
+| | | | alibd64.dll
+| | | | alibd64.lib
+| | | | alibelf32.a
+| | | | alibelf32o.a
+| | | | alibelf32op.a
+| | | | alibelf32p.a
+| | | | alibelf64.a
+| | | | alibelf64o.a
+| | | | alibmac32.a
+| | | | alibmac32o.a
+| | | | alibmac32op.a
+| | | | alibmac32p.a
+| | | | alibmac64.a
+| | | | alibmac64o.a
+| | | | alibomf32.lib
+| | | | alibomf32o.lib
+| | | | asmlib-instructions.pdf
+| | | | asmlib.h
+| | | | asmlibSrc.zip
+| | | | license.txt
+| | | |
+| | | +---measure
+| | | | DriverSource.zip
+| | | | MTMon.zip
+| | | | PMCDOS.zip
+| | | | sse3b.asi
+| | | | testp.txt
+| | | | TSCUni.zip
+| | | | TSCWin.zip
+| | | |
+| | | \---objconv
+| | | extras.zip
+| | | objconv-instructions.pdf
+| | | objconv.exe
+| | | source.zip
+| | |
+| | \---Wrox - Professional Assembly Language
+| | code.tgz
+| | Professional-Assembly-Language.productCd-0764579010,descCd-ERRATA.html
+| | Wrox Press - Professional Assembly Language.pdf
+| |
+| +---2_Data Structure and Algorithms
+| | | A History of Algorithms - From the Pebble to the Microchip.djvu
+| | | Advanced Data Structures - Peter Brass.pdf
+| | | Algorithm Design - John Kleinberg - ï¿½va Tardos.pdf
+| | | Algorithms - A Functional Programming Approach.djvu
+| | | Algorithms - Robert Sedgewick.pdf
+| | | Algorithms for Visual Design.pdf
+| | | Algorithms in C - Robert Sedgewick.pdf
+| | | Algorithms in C++ - Parts 1-4 - Fundamentals,Data Structure,Sorting,Searching.chm
+| | | Analysis of Algorithms - An Active Learning Approach.pdf
+| | | Building your own Memory Manager for C-C++ Projects.pdf
+| | | Combinatory Logic in Programming.pdf
+| | | Comprehensive Mathematics for Computer Scientist 2.pdf
+| | | Data Structures and Algorithms - Alfred V. Aho.pdf
+| | | Data Structures and Algorithms for Game Developers.pdf
+| | | Data Structures and Program Design in C++.pdf
+| | | Div and Mod Functions.pdf
+| | | Encyclopedia of Algorithms (Springer, 200.pdf
+| | | How to Think about Algorithms (Cambridge, 200.pdf
+| | | Introductin to Analysis of Algorithms - Sedgewick.djvu
+| | | Introduction to Algorithms - CLR Solutions.pdf
+| | | Introduction to Algorithms - CLR.chm
+| | | InvSqrt.pdf
+| | | Mathematics for Algorithm Analysis.pdf
+| | | Mathematics for Computer Scientists (Ventus, 200.pdf
+| | | Memory as a Programming Concept in C and C++.chm
+| | | Memory Management Workshop.pdf
+| | | More Programming Pearls - Confession of a Coder.djvu
+| | | Numerical Methods, 3rd Ed. (Faires & Burden, 2002).pdf
+| | | Numerical Methods.pdf
+| | | Numerical Recipes, 3rd Ed.pdf
+| | | Permutations.pdf
+| | | Problems on Algorithms.pdf
+| | | Programming Pearls.djvu
+| | | The Algorithm Design Manual - Steven S Skiena.pdf
+| | | Thinking Recursively - Eric S Roberts.djvu
+| | |
+| | +---Memory Management Algorithms and Implementation in C and C++
+| | | Memory Management Algorithms and Implementation in C C++.pdf
+| | | memory.zip
+| | |
+| | \---The Art of Computer Programming
+| | The Art of Computer Programming - Volume 1 - Fascicle 1 - MMIX.ps
+| | The Art of Computer Programming - Volume 1 - Fundamental Algorithms.djvu
+| | The Art of Computer Programming - Volume 2 - Seminumerical Algorithms.djvu
+| | The Art of Computer Programming - Volume 3 - Sorting and Searching.djvu
+| |
+| +---3_Computer Architecture
+| | | A Practical Introduction to Computer Architecture (Springer, 2009).pdf
+| | | Memory Systems - Cache, DRAM, Disk.pdf
+| | | MIPS Architecture.pdf
+| | | Morgan Kaufmann - See MIPS Run, 2nd Edition.pdf
+| | | Programming Embedded Systems - With C And GNU Development Tools, 2nd Edition.chm
+| | | Programming the Cell Processor.chm
+| | | The Computer Engineering Handbook - Vojin Oklobdzija.pdf
+| | |
+| | +---Computer Architecture - A Quantitative Approach
+| | | Appendix D - Embedded Systems.pdf
+| | | Appendix E - Interconnection Networks.pdf
+| | | Appendix F - Vector Processors.pdf
+| | | Appendix G - Hardware and Software for VLIW and EPIC.pdf
+| | | Appendix H - Large-Scale Multiprocessors and Scientific Applications.pdf
+| | | Appendix I - Computer Arithmetic.pdf
+| | | Appendix J - Survey of Instruction Set Architectures.pdf
+| | | Appendix K - Historical Perspectives and References.pdf
+| | | Computer Architecture - A Quantitative Approach 3rd Ed.pdf
+| | | Computer Architecture - A Quantitative Approach 4th Ed.pdf
+| | |
+| | +---Computer Organization and Design The Hardware Software Interface
+| | | | Computer Organization and Design The Hardware Software Interface 3rd Ed Solutions.pdf
+| | | | Computer Organization and Design The Hardware Software Interface 3rd Ed.pdf
+| | | | Computer Organization and Design The Hardware Software Interface 4th Ed.pdf
+| | | | MIPS Reference.pdf
+| | | |
+| | | +---Computer Organization and Design The Hardware Software Interface 3rd Ed - CD
+| | | \---Computer Organization and Design The Hardware Software Interface 4th Ed - CD
+| | +---Learn Hardware, Firmware and Software Design (2005)
+| | | Popa - Learn Hardware, Firmware and Software Design (2005).pdf
+| | | Popa - Learn Hardware, Firmware and Software Design - SOURCE CODE.rar
+| | |
+| | \---Stack Computers - The New Wave
+| | Stack Computers - The New Wave.7z
+| |
+| +---4_Software Engineering
+| | Code Complete, 2nd Edition.chm
+| | Design Pattern card.pdf
+| | Fast Track UML 2.0.chm
+| | High Integrity C++ Coding Standard Manual.pdf
+| | Learning UML 2.0 (2006).chm
+| | The Art of Agile Development.pdf
+| | The Mythical Man Month.pdf
+| | The Object-Oriented Thought Process 3e (AW, 200.pdf
+| | Thinking Forth.pdf
+| |
+| +---5_Operating Systems
+| | | Distributed Operating Systems - Tanenbaum.pdf
+| | | Modern Operating Systems Second Edition - Andrew Tanenbaum.pdf
+| | | Operating System Concepts - Silberschatz, Galvin, Gagne 7th Ed.pdf
+| | | Operating Systems - Design and Implementation.chm
+| | | practical-file-system-design.pdf
+| | | The Little Book of Semaphores.pdf
+| | |
+| | +---Linux
+| | | | elf format.pdf
+| | | | gcc inline asm.pdf
+| | | | Linux - The Complete Reference.pdf
+| | | | Linux Bible 2009 Edition~tqw~_darksiderg.pdf
+| | | | Linux Kernel Development, 2nd Edition.chm
+| | | | Linux Kernel Development.chm
+| | | | Linux System Programming - Talking directly to the Kernel and C library.pdf
+| | | | OReilly Linux in a Nutshell 6th Ed.pdf
+| | | | Slackbook 2.0.pdf
+| | | | Stallman - Debugging with GDB - The GNU Source-Level Debugger 9e (FSF, 2002).pdf
+| | | | The Design Of the Unix Operating System by Maurice J Bach.pdf
+| | | | The Linux Kernel Module Programming Guide.pdf
+| | | | Understanding Linux Network Internals.chm
+| | | | Unix Filesystems - Evolution Design And Implementation.pdf
+| | | | UNIX Filesystems - Evolution, Design and Implementation.pdf
+| | | | Unix Network Programming Volume 1 - The Sockets Networking API.chm
+| | | | Unix Network Programming Volume 2 - Interprocess Communications.pdf
+| | | | Wiley Ubuntu Linux Secrets.pdf
+| | | | Wrox Press - Beginning Linux Programming.pdf
+| | | | Wrox Press - Professional Linux Programming.pdf
+| | | |
+| | | +---Linux Device Drivers
+| | | | Linux Device Drivers 2nd Edition.pdf
+| | | | Linux Device Drivers 3rd Edition.pdf
+| | | |
+| | | +---Lion's Commentary on Unix
+| | | | A Commentary on the Sixth Edition Unix Operating System.pdf
+| | | | Unix Operating System Source Code Level 6.pdf
+| | | |
+| | | +---Understanding the Linux Kernel
+| | | | Understanding The Linux Kernel, 1st Edition.pdf
+| | | | Understanding The Linux Kernel, 2nd Edition.chm
+| | | | Understanding The Linux Kernel, 3rd Edition.chm
+| | | |
+| | | \---Vim Editor
+| | | au-speakingunix_vim-pdf.pdf
+| | | Robbins - Learning the Vi and Vim Editors 7e (O'Reilly, 200.pdf
+| | | VIM Book.pdf
+| | | Vim Cheat Sheet.gif
+| | | Vim Reference Manual.pdf
+| | | VIM Synopsis.txt
+| | | VIM User Manual.pdf
+| | |
+| | +---Mac
+| | | Designer's Guide To Mac OS X Tiger.chm
+| | | Mac OS X Internals - A Systems Approach.chm
+| | | Step Into Xcode - Mac OS X Development.chm
+| | |
+| | \---Windows
+| | | Developing Drivers with the Microsoft Windows Driver Foundation.chm
+| | | Network Programming For Microsoft Windows.chm
+| | | Programming The Windows Driver Model, 2nd Edition (2003) [SAMPLE FILES].zip
+| | | Programming The Windows Driver Model, 2nd Edition (2003).chm
+| | | The Case of the Unexplained 2010.wmv
+| | | Windows 7 and Windows Server 2008 R2 Kernel Changes - Part 1.wmv
+| | | Windows 7 and Windows Server 2008 R2 Kernel Changes - Part 2.wmv
+| | | Windows 7 Developer Guide.pdf
+| | | Windows Graphics Programming - Win32 GDI and DirectDraw.chm
+| | | Windows Internals 5th Edition.pdf
+| | | Windows NT File System Internals - A Developer's Guide (1997).pdf
+| | | Windows System Programming.pdf
+| | |
+| | +---CRK (Curriculum Resource Kit) - Windows Internals
+| | | | README.TXT
+| | | | WOSI-CRK-Description.doc
+| | | | WOSI-Glossary.pdf
+| | | | WOSI-Grad-Syllabus.doc
+| | | | WOSI-Lab-Setup.doc
+| | | | WOSI-Syllabus.doc
+| | | |
+| | | +---Tools
+| | | | CRK-Tools.zip
+| | | |
+| | | +---UnitOS-A
+| | | | A.1_Win-Networking.ppt
+| | | | A.2_Win-SocketsProg.ppt
+| | | | A.3_Win-NetwExt.ppt
+| | | | A.4_Assignment_1.doc
+| | | | A.4_Assignment_2.doc
+| | | | A.4_Labs.pdf
+| | | | A.4_Labs.ppt
+| | | | A.4_Quiz.pdf
+| | | |
+| | | +---UnitOS-B
+| | | | B.1_WindowsLinuxComp.ppt
+| | | | B.2_Quiz.pdf
+| | | |
+| | | +---UnitOS-C
+| | | | C.1_FileCommandInterop.ppt
+| | | | C.2_Programming.ppt
+| | | | C.3_Assignment.doc
+| | | | C.3_FileCommandInterop-Quiz.pdf
+| | | | C.3_Programming-Quiz.pdf
+| | | |
+| | | +---UnitOS1
+| | | | 1.1_WOSI-overview.ppt
+| | | | 1.2_OS-evolution.ppt
+| | | | 1.3_Win-concepts-tools.ppt
+| | | |
+| | | +---UnitOS10
+| | | | 10.1_FaultTolerance.ppt
+| | | | 10.2_Assignment.doc
+| | | | 10.2_Quiz.pdf
+| | | |
+| | | +---UnitOS11
+| | | | 11.1_PerformanceEval.ppt
+| | | | 11.2_Troubleshooting.ppt
+| | | | 11.3_Assignment.doc
+| | | | 11.3_Labs.ppt
+| | | | 11.3_Quiz.pdf
+| | | |
+| | | +---UnitOS12
+| | | | 12.1_WMI-scripting.ppt
+| | | | 12.2_Registry.ppt
+| | | | 12.3_Assignment.doc
+| | | | 12.3_Labs.pdf
+| | | | 12.3_Labs.ppt
+| | | | 12.3_Registry-Quiz.pdf
+| | | | 12.3_WMI-Quiz.pdf
+| | | |
+| | | +---UnitOS2
+| | | | 2.1_Win-Structuring.ppt
+| | | | 2.2_Win-CoreSysMechanisms.ppt
+| | | | 2.3_Win-Personalities.ppt
+| | | | 2.4_Win-API.ppt
+| | | | 2.5_Assignment.doc
+| | | | 2.5_Demos.ppt
+| | | | 2.5_labs.pdf
+| | | | 2.5_Labs.ppt
+| | | | 2.5_Quiz.pdf
+| | | |
+| | | +---UnitOS3
+| | | | 3.1_ConcCritSectSema.ppt
+| | | | 3.2_Win-TrapSynch.ppt
+| | | | 3.3_Win-AdvancedSynch.ppt
+| | | | 3.4_Win-SynchIPC.ppt
+| | | | 3.5_Assignment.doc
+| | | | 3.5_Labs.pdf
+| | | | 3.5_Labs.ppt
+| | | | 3.5_Quiz.pdf
+| | | |
+| | | +---UnitOS4
+| | | | 4.1_ConceptProcThread.ppt
+| | | | 4.2_ProcThreads.ppt
+| | | | 4.3_ProcThreadInternals.ppt
+| | | | 4.4_ThreadScheduling.ppt
+| | | | 4.5_AdvancedScheduling.ppt
+| | | | 4.6_Assignment_1.doc
+| | | | 4.6_Assignment_2.doc
+| | | | 4.6_Demos.ppt
+| | | | 4.6_Labs.pdf
+| | | | 4.6_Labs.ppt
+| | | | 4.6_Quiz.pdf
+| | | |
+| | | +---UnitOS5
+| | | | 5.1_MemManagMultiprog.ppt
+| | | | 5.2_WinMemManagFundamentals.ppt
+| | | | 5.3_WinAddrTranslation.ppt
+| | | | 5.4_WinPhysMemManagement.ppt
+| | | | 5.5_Assignment_1.doc
+| | | | 5.5_Assignment_2.doc
+| | | | 5.5_Demos.ppt
+| | | | 5.5_Labs.ppt
+| | | | 5.5_Quiz.pdf
+| | | |
+| | | +---UnitOS6
+| | | | 6.1_IO-Principles.ppt
+| | | | 6.2_Win-IOComp.ppt
+| | | | 6.3_Win-IOProc.ppt
+| | | | 6.4_Assignment.doc
+| | | | 6.4_Labs.pdf
+| | | | 6.4_Labs.ppt
+| | | | 6.4_Quiz.pdf
+| | | |
+| | | +---UnitOS7
+| | | | 7.1_SecProblem.ppt
+| | | | 7.2_Win-SecComp.ppt
+| | | | 7.3_Win-SecDesc.ppt
+| | | | 7.4_Assignment.doc
+| | | | 7.4_Labs.pdf
+| | | | 7.4_Labs.ppt
+| | | | 7.4_Quiz.pdf
+| | | |
+| | | +---UnitOS8
+| | | | 8.1_Filesyst-Conc.ppt
+| | | | 8.2_NTFS.ppt
+| | | | 8.3_NTFS-Encryption.ppt
+| | | | 8.4_NTFS-Recovery.ppt
+| | | | 8.5_Win-FileDir.ppt
+| | | | 8.6_Assignment_1.doc
+| | | | 8.6_Assignment_2.doc
+| | | | 8.6_Labs.pdf
+| | | | 8.6_Labs.ppt
+| | | | 8.6_Quiz.pdf
+| | | |
+| | | \---UnitOS9
+| | | 9.1_RT-Vocabulary.ppt
+| | | 9.2_RT-Windows.ppt
+| | | 9.3_WinXP-Embedded.ppt
+| | | 9.4_Quiz.pdf
+| | |
+| | +---Sysinternals Old Site - With Some Source Code
+| | | Sysinternals Old Site - With Some Source Code.7z
+| | |
+| | +---Sysinternals Video Library
+| | | Sysint_1.avi
+| | | Sysint_2.avi
+| | | Sysint_3.avi
+| | | Sysint_4.avi
+| | | Sysint_5.avi
+| | | Sysint_6.avi
+| | |
+| | +---Windows Server 2008 Inside Out
+| | | Windows Server 2008 Inside Out.7z
+| | |
+| | \---Windows via CC++
+| | Sample Codes.7z
+| | Windows via CC++.chm
+| |
+| \---Video Lectures
+| \---Structure and Interpretation of Computer Programs
+| Lecture-10a - Compilation.avi
+| Lecture-10b - Storage Allocation and Garbage Collection.avi
+| Lecture-1a - Overview and Introduction to Lisp.avi
+| Lecture-1b - Procedures and Processes; Substitution Model.avi
+| Lecture-2a - Higher-order Procedures.avi
+| Lecture-2b - Compound Data.avi
+| Lecture-3a - Henderson Escher Example.avi
+| Lecture-3b - Symbolic Differentiation; Quotation.avi
+| Lecture-4a - Pattern Matching and Rule-based Substitution.avi
+| Lecture-4b - Generic Operators.avi
+| Lecture-5a - Assignment, State, and Side-effects.avi
+| Lecture-5b - Computational Objects.avi
+| Lecture-6a - Streams, Part 1.avi
+| Lecture-6b - Streams, Part 2.avi
+| Lecture-7a - Metacircular Evaluator, Part 1.avi
+| Lecture-7b - Metacircular Evaluator, Part 2.avi
+| Lecture-8a - Logic Programming, Part 1.avi
+| Lecture-8b - Logic Programming, Part 2.avi
+| Lecture-9a - Register Machines.avi
+| Lecture-9b - Explicit-control Evaluator.avi
+

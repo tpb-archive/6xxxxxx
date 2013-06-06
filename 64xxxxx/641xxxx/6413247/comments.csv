@@ -1,0 +1,48 @@
+User Type,Username,Date,Text
+,yuip,2011-05-22T13:38Z,"Everything works perfectly. I tested myself with a couple of projects and another created from scratch, and it went smoothly."
+,sujnar,2011-05-24T04:54Z,give some description
+,yuip,2011-05-24T14:29Z,"This is a very specific software, so the people who might use it don't need a description, but here it is anyway.
+
+HFSS is the industry-standard simulation tool for 3D full-wave electromagnetic field simulation and is essential for the design of high-frequency and high-speed component design. HFSS offers multiple state-of the-art solver technologies each based on the proven finite element method. Users select the appropriate solver for the type of simulation they are performing.
+
+    Frequency Domain
+    Transient
+    Integral Equation
+    Hybrid Finite Element - Integral Equation
+    HFSS Solver on Demand
+
+Each HFSS solver is based on a powerful, automated solution process where users are only required to specify geometry, material properties and the desired output. From here HFSS will automatically generate an appropriate, efficient and accurate mesh for solving the problem using the proven finite element method. With HFSS the physics defines the mesh; the mesh does not define the physics.
+
+New in HFSS 13.0
+
+    HFSS Transient
+    Hybrid Finite Element - Integral Equation Method
+    Data Integration with ANSYS Workbench
+    Mesh multiprocessing
+    Simulation data post-processing improvements
+    Broadband Device Characterization "
+,BitsByte,2011-05-25T09:40Z,Anybody got this working on windows7?
+,yuip,2011-05-25T12:23Z,I certainly know it works under WinXP.
+,otoyoM,2011-06-24T20:29Z,"I have windows 7 and did everything as stated in the readme txt. However I get the following error when I try to open the HFSS
+
+ ""Failed to check out license 'hfss_desktop'.
+Invalid (inconsistent) license key (FLEXlm Error -8)""
+Can someone help pls....I have windows 7 professional, 64-bit operating system"
+,usman710,2011-08-08T20:07Z,"@yuip
+Thanks alot for the antenna design kit :)"
+,Franklin82,2011-08-30T07:13Z,"I found Trojan horse Agent2.CJSN, what'ts up?"
+,peropata,2011-10-10T09:50Z,"Could not get it work on windows 7 64 bit: 
+""Failed to check out license 'hfss_desktop'.
+Invalid (inconsistent) license key (FLEXlm Error -8)""
+
+Also Bitdefender reports: Trojan horse "
+,rapidup,2011-11-16T08:04Z,"i am also facing thee same problem, i have windows 32 bit home premium and the error is coming every time i open it after installing 
+Failed to check out license 'hfss_desktop'.
+Invalid (inconsistent) license key (FLEXlm Error -8)""
+please help "
+,somethingsmart6,2011-11-22T13:31Z,"The crack doesn't seem to work with vista or windows 7. To work around the FLEXlm Error -8 error install it in windows xp and run the patch.exe. Install it in windows 7 and run the patch. Then copy the admin and hfss file from windows xp to windows 7 and it should work. You may have to specify the temporary folder so just override the default location as ""Doucments and settings"" isnt a folder in windows 7"
+,Awais2016,2012-03-15T18:06Z,It works perfectly on Windows 7 32Bit Ultimate... Thanks a Lot Dude for Uploading that things..
+,Sanjay2_22,2012-05-14T20:24Z,"I'm also facing the same problem, i have Win 7 ultimate 32 bits OS and I'm getting the following error messages - 
+Failed to check out license 'hfss_desktop'.
+ Invalid (inconsistent) license key (FLEXlm Error -8)""
+ please help ...."

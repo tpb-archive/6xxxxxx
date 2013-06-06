@@ -1,0 +1,13 @@
+multiMAN 2.00.02 (PS3 Backup Manager)
+
+multiMAN packs many facets: It's a full-fledged Backup Manager,
+a File Manager, an FTP server,
+and an AVCHD and BDMV (Blu-ray) video player.
+It's highly configurable with many different
+display modes.
+
+multiMAN 2.00.02 CHANGELOG
+
+Fixed: handling of themes_dir and covers_dir options in options.ini (broken in .01)
+Fixed: handling of NETHOST definitions in options.ini (broken in .01)
+Changed: Remember

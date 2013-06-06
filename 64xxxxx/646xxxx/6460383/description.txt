@@ -1,0 +1,19 @@
+Inno Setup Unpacker v0.36
+Including: Inno Setup Unpacker + 2 GUI's - ISUnpacker v1.6.9 (Inno Setup Unpacker Explorer) - InnounpW Rebirth
+
+innounp, the Inno Setup Unpacker Version 0.36
+Supports Inno Setup versions 2.0.8 through 5.4.2
+
+Inno Setup is a popular program for making software installations. Unfortunately,
+there is no official unpacker - the only method of getting the files out of the self-extracting executable is to run it.
+One piece of software that addresses this issue is Sergei Wanin's InstallExplorer,
+a plug-in for the FAR Manager that unpacks several types of installations, including Inno Setup (IS).
+But since it is not updated in a timely fashion, and so does not support the latest IS most of the time,
+this program was born.
+
+The advantages over InstallExplorer are:
+Innounp is open source and based on IS source.
+Therefore, it is more likely to support future IS versions.
+It recovers portions of the installation script (.iss file), including the registry changes and the compiled Innerfuse/RemObjects Pascal Script, if available.
+ 
+http://innounp.sourceforge.net/

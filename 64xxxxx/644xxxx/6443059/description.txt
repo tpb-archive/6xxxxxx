@@ -1,0 +1,20 @@
+CopyWiz 3.1
+
+CopyWiz is a developer utility which automates copying and renaming of Microsoft Visual Studio, VSTO, SQL Server Management Studio, Intel C++ and Visual Fortran, and Embacardero Delphi, C++Builder, and RAD Studio projects and solutions.
+
+â€¢ Copy Microsoft Visual Studio, Embarcadero Delphi, C++Builder, RAD Studio, Prism, SQL Server Management Studio, Visual Studio Tools for Office, Intel C++ and Visual Fortran, and other Visual Studio Shell projects and solutions
+â€¢ Rename an existing project
+â€¢ Fix up directories and filenames in your projects
+â€¢ Replace GUIDs in projects
+
+Version 3.1
+â€¢ Support for Delphi XE, C++Builder XE, RAD Studio XE, and Delphi Prism XE.
+â€¢ Include .filters file when copying .vcxproj files in VS 2010.
+â€¢ Don't change GUIDs for references to projects that aren't copied.
+â€¢ Match on ProjNameConnectionString when renaming.
+â€¢ Match on >ProjName* in project files when renaming.
+â€¢ Fix for renaming with suffix (i.e., MyProj to MyProj2).
+â€¢ Binary files larger than 1MB may not get copied correcty.
+
+Home Page - http://www.kinook.com/
+

@@ -1,0 +1,97 @@
+FFCoder 1.1.0.5 Portable
+
+
+FFCoder is a .NET based audio/video converter, which is capable of transcoding audio and video files to various formats. It is a unified frontend for many freeware utilities such as FFmpeg, MPlayer and MEncoder.
+
+Features:
+Supports 16 encoders - ffmpeg, mencoder, ffmpeg2theora, x264, xvid_encraw, avs2avi, lame, faac, NeroAAC, OggEnc, FLAC, OptimFROG, Speex, MusePack and WavPack.
+Batch processing.
+Parallel processing (multiple files can be transcoded at same time).
+Advanced configuration options for all codecs.
+Supports 2-pass encoding with automated first pass.
+Encode video using vfw codecs such as VP6, VP7 and FFDShow (by using avs2avi).
+MeGUI presets can be imported for x264 and xvid encoding.
+Support for video filters provided by the encoder (such as mencoder's filters)
+Input files can be avisynth scripts or any format supported by ffmpeg.
+For encoders such as x264_cli which support very few input formats, the video is decoded with ffmpeg and then piped to the encoder.
+Tools: Dump audio/video stream to file, create images in JPEG/BMP/PNG/TIFF format, rebuild/cut/join video files, quant matrix editor, etc.
+
+Changes since v0.99
+WebM encoding via FFmpeg
+Target size encoding mode. It is available for all video codecs that supports 2pass encoding.
+Directory watch for fully automated encoding. In this mode the program will monitor a set of pre-defined folders for files matching a filename pattern. Files will be automatically picked-up and encoded with pre-defined settings. The encoding will be done in the background with low-priority so that the user can continue with other tasks.
+x264: Options updated, Fixed issues with 2pass encoding, Menu for x264's in-built presets
+Avisynth: New and improved avisynth options
+Avisynth: New editor with syntax highlighting, code folding, GScript support
+Avisynth: Options for testing and comparing avisynth scripts
+Better support for subtitles, SRT files can be embedded into MKV files using MKVMerge
+Progress window: Improved layout
+Progress window: New option for minimizing FFCoder to the system tray. FFCoder will run in a low-priority mode so that the user can continue doing other tasks while the files are being converted. User will be notified when the jobs are complete.
+Progress window: Progress % will be displayed while encoding audio from AVS input files (it was not displayed in previous version)
+Progress window: More info will be displayed while encoding
+Audio/Video filters: Presets, options for no-upscaling and fit-to-box
+Audio/Video filters: Warnings will be displayed if the codec supports limited frame sizes or frame rates
+Turn off visual styles for the FFCoder gui
+Tested on 32-bit versions of XP, Vista and Win7
+
+Changes since v 1.1.0.3
+[New]
+Jobs can be added while the encoding is going on, by dragging and dropping files on the progress window
+New option for reporting errors. Right-click on the failed file and select 'Create Error Report'
+DVD VOBs can be encoded using the "Add DVD" option in the 'File' menu. This option requires avisynth.
+Added options to the tools menu for configuring FFDShow
+
+[Changes]
+Added H261, H263, H263p codecs to 3GP and 3G2 file formats
+Added MJPEG codec to MOV file format
+Added AMR codec to 3GP and 3G2 file formats
+
+[Fixes]
+FFmpeg: Encoding fails if the Aspect option is set in the video filters window
+Mencoder: If input file has fractional fps then output fps must be explicitly set, otherwise the encoding will fail. The output fps will be set automatically in order to avoid this issue.
+Track order was incorrectly detected in some VOB files causing the encoding to fail.
+The temp folder was always deleted on application exit irrespective of whether the 'DeleteFiles' option was checked on the options window.
+The NoUpscaling checkbox on the video filters windows was disabled for some presets, and displayed incorrect tooltip messages in some cases
+The following presets were selecting the wrong audio/video codecs
+Creative_Zen_2_16GB_avi
+Creative_Zen_Vision_W_avi
+Humax_Icord_hd+
+Hyundai_M121_3gp
+Motorola_Moto_Q_9h_3gp
+Motorola_Moto_Q_gsm_3gp
+Nintendo_Wii_avi
+Nintendo_Wii_mov
+Nokia_3230_3gp
+Samsung_Mobil_S3550_3gp
+Samsung_Mobil_S5350_3gp
+Samsung_Mobil_S5550_3gp
+Samsung_TV_Series_6_ts
+Samsung_TV_Series_7_ts
+Sony_TV_Bravia_H264
+Sony_TV_Bravia_mpeg2
+Sony_Ericsson_W910i_3gp
+Hyundai_M121_3gp
+Motorola_V547
+Motorola_V635
+Motorola_V710
+Nokia_6230_3gp
+Nokia_6620_3gp
+Nokia_6630_3gp
+Nokia_E70_3gp
+Nokia_N70_3gp
+Nokia_N71_3gp
+Nokia_N72_3gp
+Nokia_N80_3gp
+Samsung_Mobil_D500_3gp
+Samsung_Mobil_SGH_D500_3gp
+Sony_Ericsson_F305_3gp
+Sony_Ericsson_K700i_3gp
+Sony_Ericsson_V630i_3gp
+Sony_Ericsson_W20i_3gp
+Sony_Ericsson_W580i_3gp
+
+Note: Latest XviD, x264, Nero AAC Encoder and AviSynth are embedded in this portable.
+
+Home Page - http://www.videohelp.com/tools/FFCoder
+
+

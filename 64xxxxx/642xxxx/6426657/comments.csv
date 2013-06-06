@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,Laterose_of_Noonvale,2011-05-27T12:10Z,"Wow, this is what I call a nice character encoding fail. Well, whatever.
+
+Guys, I'm seeding this with my home connection, you definitely will have to be patient. I enabled initial seeding with rtorrent so that it will be as fast as possible."
+,PurityDeath,2011-05-27T12:17Z,Thanks. ;D
+,Gazooo,2011-05-31T10:59Z,"You are a Lifesaver, you know that, don't you!!!...After Peppy finaly letting us down, I almost gave up hope DLing the last season.....
+Video and Audio are in good quality!!.
+You made me very happy!!!!.
+THANK YOU, THANK YOU VERY MUCH!!!....
+I will seed. 
+Greetings from Gazooo."
+,Laterose_of_Noonvale,2011-05-31T11:36Z,"Well, I didn't give up: as Peppy didn't seem to be able to upload the third season, I found the ISO somewhere ont teh internets (it took me more than a month to download, duh, 11 Go at 10 ko/s, most epic download ever). I ripped it and watched it.
+
+Glad the rip suits you, guys, although it's a basic x264 encoding, really (the only tricky part was the deinterlacing). It wasn't intended to be uploaded anywhere at first, so I didn't tweak x264 at all.
+
+There's one downside : I cut the ending a bit too soon. But I noticed recently, and it's a bit too late, now. Well, whatever.
+
+Thanks for seeding, btw. I definitely have a crappy connection, so that helps for sure."
+,Daniccus,2011-06-04T03:28Z,"YOU ARE THE PEOPLES CHAMP, YOU ROCK SO HARD RIGHT NOW"
+,Daniccus,2011-06-04T03:31Z,"although mkv and x264 is a little annoying because of having to covert and crap, but cant complain because you finally did it so ignore what i said, although i wonder what you mean by cutting the ending, do you just mean at the end of eps you cut the credits or something or is it an error with the last episode"
+,Laterose_of_Noonvale,2011-06-04T10:58Z,"What I mean by cutting the credits is that the credits are cut before the Nelvana and Funimation logos are shown, which cuts the ending song before it actually ends.
+
+Now, why MKV? That's quite simple. H.264 definitely is the best standard available (and x264 rocks at encoding H.264, btw). Well, with H.264 you've got two container options: MP4 and MKV. I won't explain why MKV is better (it is, but this isn't my point), but since I'm running Linux, MKV was the easiest way to go.
+
+Now if you want to get MP4s, you really don't need to waste your time reencoding this. It would be a waste of time and of quality. As the NFO file specifies it, this is H.264 and AC3. These two standards are fine in MP4, so you just have to change the container. So, how would you do this? Get mkvtoolnix and mkvextractGUI. Demux the MKVs (the video as .264 and the audio as .aac). Get MP4Box, and mux everything in a MP4.
+
+If you want AVIs, you won't have a choice, you'll have to reencode all the episodes. You'll always lose quality, and that's sad. Don't do that. This will kill a kitten."
+,Gazooo,2011-06-05T01:29Z,"I didn't have to convert anything??...
+I just DL it from here and I could see and hear it straight away, no problems at all.
+I use two programms : Media Player Classic and
+K-Lite Codec Pack.
+Even when I hook my Laptop on to my Big Screen TV, the quality is good!!...
+I am seeding and will do so for a while, please people : ""seed"" and give back a little of what you take!!....
+Thank you again Laterose_of_Noonvale for this super UL.
+Greetings to you all from Gazooo. "
+,Laterose_of_Noonvale,2011-06-11T12:32Z,"The downside of a MKV is that it can't be read on many plateforms. Computers are fine since, like you said, MPC & CCCP (or KLite, or Satsuki, but I definitely recommend CCCP) read this perfectly (well, with Linux, mplayer does the trick, and so does it under MacOS). VLC should be fine, although I really don't like the way it decodes H.264 (macroblocs appear from nowhere and you might think I failed at encoding when actually you failed at decoding).
+
+But many people have weird DivX/Xvid players, or ever MP4 players (i.e. Playsation 3 and some mobile phones (dunno about the Apple stuff and srsly, I don't care)) that can't read MKV. So these people will want to mess with the container or with the encoding. Good for them. I chose what suited me best, what gave me the best quality. I will never force people to keep the best quality if they're satisfied with crappy quality. If they want to get eyecancer by watchin' transcoded Xvid on a FullHD screen, that is their problem, not mine. :-)
+
+By the way, if someone lays hands on the DVD ISO and want to do a better rip, I can give some advice if he wants. The IVTC has been well done here, but the telecine wasn't perfect and I didn't fix it. Didn't use NNEDI3 (for instance), which can provide excellent results. You can see the problems when arrows are shot or when swords are drawn (actually every time you see a straight diagonal black line), there is some aliasing. And the compression could be better without sacrifying quality (I mean, the lagarith was compressed reaaaaaally fast, about 20 min per episode). Too late, now, since transcoding a transcode kills kittens, but if someone goes back to the ISO, it can be done. But I don't wanna do it, I'm already happy with this."
+,peppy6582,2011-07-09T22:14Z,"Sorry to have failed you guys, just been really busy.  Thank you Laterose!  You are the new god among men!"
+,chipmunk1995,2012-01-11T05:54Z,HOW DO YOU SWITCH IT TO AVI!! PLEASE SOMEONE....HELP! 

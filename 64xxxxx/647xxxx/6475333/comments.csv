@@ -1,0 +1,92 @@
+User Type,Username,Date,Text
+[T],thetorrentlord,2011-06-18T18:50Z,This movie was released with French audio. How did you get an English audio track?
+[T],thetorrentlord,2011-06-23T17:51Z,"You picked a poor choice for the sample, as it has absolutely no spoken words in the whole sample. My sample was also full of dropouts. Anyone else have the same problems with this file??"
+[T],thetorrentlord,2011-08-06T07:54Z,"Just finished the D/L and the audio is not in English. There is only one audio track and it is not English. MKV info does not identify the language. ((MKVInfo) + EBML head at 0
+(MKVInfo) |+ EBML version: 1 at 5
+(MKVInfo) |+ EBML read version: 1 at 9
+(MKVInfo) |+ EBML maximum ID length: 4 at 13
+(MKVInfo) |+ (Unknown element: EBMLMaxSizeLength; ID: 0x42f3 size: 4) at 17
+(MKVInfo) |+ Doc type: matroska at 21
+(MKVInfo) |+ Doc type version: 2 at 32
+(MKVInfo) |+ Doc type read version: 2 at 36
+(MKVInfo) + Segment, size 10101065456 at 40
+(MKVInfo) |+ Seek head at 52
+(MKVInfo) | + Seek entry at 57
+(MKVInfo) |  + Seek ID: 0x15 0x49 0xa9 0x66 (KaxInfo) at 60
+(MKVInfo) |  + Seek position: 4099 at 67
+(MKVInfo) | + Seek entry at 72
+(MKVInfo) |  + Seek ID: 0x16 0x54 0xae 0x6b (KaxTracks) at 75
+(MKVInfo) |  + Seek position: 4254 at 82
+(MKVInfo) | + Seek entry at 87
+(MKVInfo) |  + Seek ID: 0x1c 0x53 0xbb 0x6b (KaxCues) at 90
+(MKVInfo) |  + Seek position: 10101053369 at 97
+(MKVInfo) | + Seek entry at 105
+(MKVInfo) |  + Seek ID: 0x10 0x43 0xa7 0x70 (KaxChapters) at 108
+(MKVInfo) |  + Seek position: 5832 at 115
+(MKVInfo) |+ EbmlVoid (size: 4028) at 120
+(MKVInfo) |+ Segment information at 4151
+(MKVInfo) | + Timecode scale: 1000000 at 4157
+(MKVInfo) | + Muxing application: libebml v1.2.0 + libmatroska v1.1.0 at 4164
+(MKVInfo) | + Writing application: mkvmerge v4.5.0 ('Speed of Light') built on Feb  1 2011 02:10:32 at 4202
+(MKVInfo) | + Duration: 5041.024s (01:24:01.024) at 4269
+(MKVInfo) | + Date: Tue Jun 14 13:12:39 2011 UTC at 4276
+(MKVInfo) | + Segment UID: 0x86 0xba 0xe4 0x0c 0xff 0x78 0xb9 0xa9 0xb6 0xf0 0xfc 0x4d 0x4b 0x9a 0x36 0x08 at 4287
+(MKVInfo) |+ Segment tracks at 4306
+(MKVInfo) | + A track at 4312
+(MKVInfo) |  + Track number: 1 at 4315
+(MKVInfo) |  + Track UID: 1 at 4318
+(MKVInfo) |  + Track type: video at 4322
+(MKVInfo) |  + Lacing flag: 0 at 4325
+(MKVInfo) |  + MinCache: 1 at 4328
+(MKVInfo) |  + Codec ID: V_MPEG4/ISO/AVC at 4332
+(MKVInfo) |  + CodecPrivate, length 42 at 4349
+(MKVInfo) |  + Default duration: 41.667ms (24.000 fps for a video track) at 4394
+(MKVInfo) |  + Name: Point.Blank.2010.1080p.BluRay.DTS.x264-HDMaNiAcS at 4402
+(MKVInfo) |  + Video track at 4453
+(MKVInfo) |   + Pixel width: 1920 at 4455
+(MKVInfo) |   + Pixel height: 816 at 4459
+(MKVInfo) |   + Display width: 1920 at 4463
+(MKVInfo) |   + Display height: 816 at 4470
+(MKVInfo) | + A track at 4477
+(MKVInfo) |  + Track number: 2 at 4479
+(MKVInfo) |  + Track UID: 655692718 at 4482
+(MKVInfo) |  + Track type: audio at 4489
+(MKVInfo) |  + Codec ID: A_DTS at 4492
+(MKVInfo) |  + Default duration: 10.667ms (93.750 fps for a video track) at 4499
+(MKVInfo) |  + Audio track at 4506
+(MKVInfo) |   + Sampling frequency: 48000 at 4508
+(MKVInfo) |   + Channels: 6 at 4514
+(MKVInfo) | + A track at 4517
+(MKVInfo) |  + Track number: 3 at 4519
+(MKVInfo) |  + Track UID: 2599321231 at 4522
+(MKVInfo) |  + Track type: subtitles at 4529
+(MKVInfo) |  + Lacing flag: 0 at 4532
+(MKVInfo) |  + Codec ID: S_TEXT/UTF8 at 4535
+(MKVInfo) |  + Language: gre at 4548
+(MKVInfo) | + A track at 4555
+(MKVInfo) |  + Track number: 4 at 4557
+(MKVInfo) |  + Track UID: 1171090061 at 4560
+(MKVInfo) |  + Track type: subtitles at 4567
+(MKVInfo) |  + Default flag: 0 at 4570
+(MKVInfo) |  + Lacing flag: 0 at 4573
+(MKVInfo) |  + Codec ID: S_TEXT/UTF8 at 4576
+(MKVInfo) | + A track at 4589
+(MKVInfo) |  + Track number: 5 at 4591
+(MKVInfo) |  + Track UID: 1426495660 at 4594
+(MKVInfo) |  + Track type: subtitles at 4601
+(MKVInfo) |  + Default flag: 0 at 4604
+(MKVInfo) |  + Lacing flag: 0 at 4607
+(MKVInfo) |  + Codec ID: S_HDMV/PGS at 4610
+(MKVInfo) |  + Language: fre at 4622
+(MKVInfo) | + A track at 4629
+(MKVInfo) |  + Track number: 6 at 4631
+(MKVInfo) |  + Track UID: 1800611979 at 4634
+(MKVInfo) |  + Track type: subtitles at 4641
+(MKVInfo) |  + Default flag: 0 at 4644
+(MKVInfo) |  + Lacing flag: 0 at 4647
+(MKVInfo) |  + Codec ID: S_HDMV/PGS at 4650
+(MKVInfo) |  + Language: rus at 4662
+(MKVInfo) |+ EbmlVoid (size: 1212) at 4669
+(MKVInfo) |+ Chapters at 5884
+(MKVInfo) | + EditionEntry at 5890
+(MKVInfo) |  + EditionFlag"

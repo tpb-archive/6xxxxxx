@@ -1,0 +1,101 @@
+This is the first release from the Release 275 family of drivers (versions 275.xx to 279.xx). You can read more about this family of drivers on GeForce.com. 
+
+This driver package supports GeForce 6, 7, 8, 9, 100, 200, 300, 400, and 500-series desktop GPUs as well as ION desktop GPUs. This driver package also includes the 3D Vision Controller driver. 
+
+New in Release 275.27
+
+GPU Support
+
+â€¢Adds support for the newly released GeForce GTX 560 GPU.Performance
+
+â€¢Increases performance for GeForce 400 Series and 500 Series GPUs in several PC games vs. v270.61 WHQL drivers. The following are some examples of improvements measured on Windows 7. Results will vary depending on your GPU and system configuration:
+GeForce GTX 580: 
+â—¦Up to 4% in Crysis 2
+â—¦Up to 5% in Civilization V with SLI
+â—¦Up to 9% in Portal 2
+â—¦Up to 13% in Bulletstorm with Antialiasing enabled
+â—¦Up to 15% in Batman: Arkham Asylum with PhysX High
+GeForce GTX 560: 
+â—¦Up to 6% in Crysis 2
+â—¦Up to 8% in Portal 2
+â—¦Up to 14% in Batman: Arkham Asylum with PhysX High 
+â—¦Up to 15% in Bulletstorm with Antialiasing enabled
+â€¢Increases gaming performance by up to 12% for dual-core CPUs in CPU-limited cases.
+NVIDIA Update
+
+â€¢In Release 275, NVIDIA Update adds automatic SLI, multi-GPU, and antialiasing (AA) profile updates. These profile updates are automatically downloaded from NVIDIA and silently installed on your PC, keeping it up-to-the-minute with the latest game profiles. When you install a Release 270 or later GeForce driver from http://www.nvidia.com, you will be presented with the option to install NVIDIA Update. Click here to learn more about NVIDIA Update.
+Desktop Scaling
+
+â€¢New NVIDIA Control Panel user interface for configuring desktop scaling, including new preview window.â€¢Now consistently available for all displays (including VGA and HDMI connections).
+â€¢New scaling override option for Windows 7 gaming.
+â€¢Improved desktop resizing user interface that guides the user to disable overscanning using their HDTV controls and also provides a fallback option to enable desktop resizing via the NVIDIA Control panel.
+â€¢NVIDIA desktop resizing now creates a custom, resized resolution with 1:1 pixel mapping and resizes standard resolutions for games that donâ€™t support custom resolutions.
+NVIDIA 3D Vision 
+
+â€¢With Release 275 drivers, the 3D Vision Controller driver is now included with all GPU driver installations. This driver package includes v275.22 3D Vision Controller driver. Users are no longer required to install a separate 3D Vision Controller driver or CD driver. For more information, please view this knowledgebase article for more information. 
+â€¢3D Vision Window Mode support. Please view this knowledgebase article for more information.
+â€¢Added support for 3D Vision Photo viewer to now work in Window Mode. When you have opened a 3D picture file check the â€œViewâ€ section for this new option.
+â€¢Improved 3D Vision IR emitter and 3D Vision glasses synchronization
+â€¢Adds support for new 3D Vision projectors: NEC NP-V300X series
+â€¢Added the following 3D Vision game profiles: 
+â—¦Age of Empires Online
+â—¦Assassin's Creed Brotherhood
+â—¦Battlefield Play4Free
+â—¦Duke Nukem Forever
+â—¦Dungeon Siege III
+â—¦Super Street Fighter IV
+â—¦World of Tanks
+â€¢Update the following 3D Vision game profiles 
+â—¦Portal 2 â€“ fixed water reflection problem and updated convergence setting to provide a better user experience
+â—¦The Witcher 2 â€“ Improved 3D Vision compatibility for all in-game effects
+Other 
+
+â€¢Installs HD Audio driver version 1.2.23.3â€¢Installs PhysX System Software to version 9.10.0514
+â€¢Supports playing back Blu-ray 3D discs when connecting your GPU to an HDMI 1.4 3D TV. Playback requires compatible software application from CyberLink, ArcSoft, Roxio, or Corel. For GPU and system requirements, visit the NVIDIA Blu-ray 3D website.
+â€¢Supports the new GPU-accelerated features in Adobe CS5. 
+â€¢Supports GPU-acceleration for smoother online HD videos with Adobe Flash 10.1. Learn more here. 
+â€¢Supports the new version of MotionDSP's video enhancement software, vReveal, which adds support for HD output. NVIDIA customers can download a free version of vReveal that supports up to SD output here.
+â€¢Supports DirectCompute with Windows 7 and GeForce 8-series and later GPUs.
+â€¢Supports OpenCL 1.0 (Open Computing Language) for all GeForce 8-series and later GPUs.
+â€¢Supports OpenGL 3.3 for GeForce 8-series and later GPUs.
+â€¢Supports OpenGL 4.1 on GeForce 400 series and later GPUs.
+â€¢Supports single GPU and NVIDIA SLI technology on DirectX 9, DirectX 10, DirectX 11, and OpenGL, including 3-way SLI, Quad SLI, and SLI support on SLI-certified Intel X58-based motherboards.
+â€¢Supports GPU overclocking and temperature monitoring by installing NVIDIA System Tools software
+
+Supported products :
+
+GeForce 500 series:
+GTX 590, GTX 580, GTX 570, GTX 560 Ti, GTX 560, GTX 550 Ti, GT 545, GT 530, GT 520
+
+GeForce 400 series:
+GTX 480, GTX 470, GTX 465, GTX 460 SE, GTX 460, GTS 450, GT 440, GT 430, GT 420
+
+GeForce 300 series:
+GT 340, GT 330, GT 320, 315, 310
+
+GeForce 200 series:
+GTX 295, GTX 285, GTX 280, GTX 275, GTX 260, GTS 250, GTS 240, GT 240, GT 230, GT 220, G210, 210, 205
+
+GeForce 100 series:
+GT 140, GT 130, GT 120, G 100
+
+GeForce 9 series:
+9800 GX2, 9800 GTX/GTX+, 9800 GT, 9600 GT, 9600 GSO, 9600 GS, 9500 GT, 9500 GS, 9400 GT, 9400, 9300 GS, 9300 GE, 9300, 9200, 9100
+
+GeForce 8 series:
+8800 Ultra, 8800 GTX, 8800 GTS 512, 8800 GTS, 8800 GT, 8800 GS, 8600 GTS, 8600 GT, 8600 GS, 8500 GT, 8400 SE, 8400 GS, 8400, 8300 GS, 8300, 8200 / nForce 730a, 8200, 8100 / nForce 720a
+
+GeForce 7 series:
+7950 GX2, 7950 GT, 7900 GTX, 7900 GT/GTO, 7900 GS, 7800 SLI, 7800 GTX, 7800 GS, 7650 GS, 7600 LE, 7600 GT, 7600 GS, 7550 LE, 7500 LE, 7350 LE, 7300 SE / 7200 GS, 7300 LE, 7300 GT, 7300 GS, 7150 / NVIDIA nForce 630i, 7100 GS, 7100 / NVIDIA nForce 630i, 7100 / NVIDIA nForce 620i, 7050 PV / NVIDIA nForce 630a, 7050 / NVIDIA nForce 630i, 7050 / NVIDIA nForce 610i, 7025 / NVIDIA nForce 630a
+
+GeForce 6 series:
+6800 XT, 6800 XE, 6800 Ultra, 6800 LE, 6800 GT, 6800 GS/XT, 6800 GS, 6800, 6700 XL, 6610 XL, 6600 VE, 6600 LE, 6600 GT, 6600, 6500, 6250, 6200 TurboCache, 6200SE TurboCache, 6200 LE, 6200 A-LE, 6200, 6150SE nForce 430, 6150LE / Quadro NVS 210S, 6150 LE, 6150, 6100 nForce 420, 6100 nForce 405, 6100 nForce 400, 6100
+
+ION series:
+ION LE, ION
+
+New beta driver...
+
+Enjoy
+
+regards

@@ -1,0 +1,31 @@
+User Type,Username,Date,Text
+,youwei3,2011-06-14T05:39Z,how do i install on after effects cs5.5
+,youwei3,2011-06-14T06:13Z,If you wish to install other Red Giant's products for Adobe CS5.5 before updated installers are available then you must select to install for Adobe CS5 (even if you do not have CS5 installed) and then move the plug-in files from the Adobe CS5 folder to the Adobe CS5.5 folder.
+,yomammaisdebiso,2011-06-17T03:31Z,"I get - Installation not completed successfulluy when I install Looks.
+It seems to work in Premiere but when I quit and re-open a project and try to edit the look it says ""cannot generate image"".
+Also the uninstaller doesnt work.
+Thanks for this I've wanted looks for ages but please advise on these problems."
+,lbonbi2,2011-06-24T08:44Z,Hey every time i try to install one of the plugins for FCP I get this install failed. it says the following step failed: run postflight script for Instant HD FCPResizer. any ideas?
+,nofil,2011-07-03T18:56Z,same problem here... waiting for a correction!
+,123veezy,2011-08-01T23:20Z,is it possible if you could crack magic bullet suite 11 for windows???
+,FFota,2011-11-12T02:33Z,"Tried installing both Colorista II and Mojo for different combinations of Premiere Pro CS5, After Effects CS5 and FCP (because I thought FCP might be the issue from reading comments here).
+
+Every time I get the error message: ""The installation failed. The Installer encountered an error that caused the installation to fail. Contact the software manufacturer for assistance.""
+
+Anyone know what I could do?!"
+,SWeasel76,2012-01-23T12:43Z,"I get the same error as FFota - ""The Installation Failed. The installer encountered an error that caused the installation to fail. Contact the software manufacturer for assistance.""
+
+Any advice BozzaBow?"
+,espinra,2012-04-22T16:39Z,"Ok I've gotten this to work for Premiere and After Effects CS5.5
+
+It will say ""Installation Failed"" but all you have to do is move the plugin folders from:
+
+ /Library/Application Support/Adobe/Common/Plug-ins/CS5/MediaCore
+
+to the CS5.5 folder which is:
+
+/Library/Application Support/Adobe/Common/Plug-ins/CS5.5/MediaCore
+
+Or you can change the installation destiniation while in the install app from the start to the correct cs5.5/mediacore folder
+
+Hope that makes sense...it worked for me"

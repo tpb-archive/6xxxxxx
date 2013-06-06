@@ -1,0 +1,14 @@
+This customized slax includes:
+
+Slax Core 6.1.2: Slax core is a set of hardware drivers, programs and system libraries, which are needed by almost every other module. It is the most important part of Slax, which takes care about the system startup and shutdown. Furthermore, it provides a simple shell prompt to execute commands and start software.
+
+Slax Xorg 6.1.2: Slax Xorg implements the X display protocol and provides windowing on the display. It contains variety of drivers for graphics cards and input devices like keyboards, touchpads and mice. It also adds support for many image formats like JPEG, PNG and GIF. Furthermore, it includes libraries like SDL or GTK to run most of the graphical applications.
+
+Slax KDE 6.1.2: KDE is a powerful Free Software graphical desktop environment for Linux and Unix workstations. It combines ease of use, contemporary functionality, and outstanding graphical design with the technological superiority of the Unix operating system.
+
+Slax Apps 6.1.2: Various applications for KDE, such as few simple games, graphics applications to view and edit images, PDF viewer, multimedia tools for playing and encoding music and video, and also network utilities to browse the web and chat with your friends.
+
+Slax FireFox 6.1.2: A web browser descended from the Mozilla Application Suite, the second-most popular browser in current use worldwide after Internet Explorer. Firefox includes tabbed browsing, a spell checker, incremental find, live bookmarking, a download manager, and an integrated search system that uses the user's desired search engine.
+
+
+Thanks to: Slax builder

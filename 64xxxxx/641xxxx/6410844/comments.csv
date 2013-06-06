@@ -1,0 +1,90 @@
+User Type,Username,Date,Text
+,TheAeroHacker,2011-05-21T23:30Z,"Here are the activation keys:
+
+6JKV2-QPB8H-RQ893-FW7TM-PBJ73
+
+TQ32R-WFBDM-GFHD2-QGVMH-3P9GC
+
+GG4MQ-MGK72-HVXFW-KHCRF-KW6KY
+
+4HJRK-X6Q28-HWRFY-WDYHJ-K8HDH
+
+QXV7B-K78W2-QGPR6-9FWH9-KGMM"
+,thelegr,2011-05-23T12:43Z,"Hello guys....
+
+I'm downloading this image right now and i want to know if this is real or fake.....
+
+
+i have already win7 ultimate and ubuntu 11.04 (win vs linux test :P )  
+
+So is this  real win8?
+
+In addition how can they lock with ""Serial No"" without an official image or even an official plan of win8?"
+,Feanor_,2011-05-26T13:39Z,"When I clicked on setup.exe installation screen poops out - torrent seems OK, but I didn't install windows yet - I need to make backup first... ;)"
+,sere02,2011-05-27T18:13Z,Is there anyone tested this??
+,TheAeroHacker,2011-05-28T19:44Z,"It does work, I am dual-booting Windows 7 with this Windows 8, the only problem is that some programs require Microsoft .NET frameworks 3.5 or later, which is disabled by default on Windows 8. you need to manually enable the newest .NET frameworks, here's how do do this:
+
+1. Click on the start menu
+2. Type in ""Turn Windows features on or off"" and open it
+3. Search for "".NET framework"" and put a check on the latest version
+4. Click on ""OK"" and finish."
+,milfont,2011-05-30T22:56Z,"4HJRK-X6Q28-HWRFY-WDYHJ-K8HDH
+Esse deu OK aqui."
+,undermaker,2011-06-12T17:37Z,this is not windows 8...it's server 2008 R2... 
+,frogcrush,2011-06-17T22:40Z,"@undermaker:
+THats impossible. Everyone knows Windows Server 2008 R2 is ONLY 64-bit; this is 32-bit."
+,TheAeroHacker,2011-06-27T00:14Z,"Undermaker, thank you for being my hater :)
+
+
+
+I have this installed on my laptop, it's not Windows Server, and if you don't believe me, click on the start menu and run ""Winver"" , it will tell you that it really is Windows Build 7955"
+,TheAeroHacker,2011-07-07T01:39Z,"In case you are having trouble activating, try this:
+
+►Close all Windows
+►Press CTRL+SHIFT+F9
+►Run Command Prompt as administrator
+►Type slmgr.vbs -ipk 6JKV2-QPB8H-RQ893-FW7TM-PBJ73
+►Press Enter and wait
+►Type slmgr.vbs -ato
+►Press Enter and wait
+►Press CTRL+SHIFT+F9
+►Close all windows and restart"
+,yorici,2011-08-07T02:54Z,"I installed it. Don't expect a completely new interface! I think it looks like a modded version. 
+Thx TheAeroHacker for sharing anyway."
+,magik1995,2011-08-16T08:13Z,"this is fucking windows 7, dont download it.."
+,magik1995,2011-08-16T08:14Z,ive downloaded and its windows 7..
+,magik1995,2011-08-16T08:15Z,can someone tell me why the fck it is windows 7? -.-
+,TheAeroHacker,2011-09-04T17:58Z,"Okay, this is not Windows 7, but it is not Windows 8 either, this is barely a milestone of Windows 8 (basically Windows 7 and a half), Microsoft still has many things to build on to this, so this is basically just to keep people entertained for now. the final Windows 8 should end up being released around summer 2012 and it is estimated that it will be Build 8900...
+
+If you are on a 64-Bit processor, download my 'Build 7989 torrrent. it is newer and has a few more features."
+,sHaDoWeXiLe187,2011-09-08T09:19Z,"ok so i installed this using 6JKV2-QPB8H-RQ893-FW7TM-PBJ73,
+product key was accepted & successfully installed completely..
+
+then i tried to activate via your command prompt instructions ""slmgr.vbs -ipk"" 
+
+& i got this error msg
+""activating windows ultimate edition
+(bfb30674 blah blah blah)
+Error: 0x80072EE7 on a computer running ms windows non-core edition,
+run 'slui.exe 0x2a 0x80072EE7' to display the error text.""
+
+i followed the command line method you suggested to the letter & got that error..
+
+any ideas on how i should proceed to get it activated?
+
+thanks"
+,sHaDoWeXiLe187,2011-09-08T09:21Z,"i guess i should also mention that the first step of command prompt activation worked, accepted the key, it was the second part ""slmgr.vbs -ato"" that gave me the error msg.."
+,sHaDoWeXiLe187,2011-09-08T09:26Z,"also, after rebooting, it tells me the activation period has expired, & must be activated before continued use.. "
+,_Karan_,2011-10-10T11:38Z,32 bit !!!! Can you tell the minimun requirements of this window  ????or do you have 32 bit of  the new build 8102 ???
+,onanetvoya,2012-01-12T22:40Z,"Well, I'm PRETTY sure that 7955 is Milestone 2 and *not* 3!"
+,onanetvoya,2012-01-12T22:46Z,"@shadowexile
+
+OK got some info about the ""non core edition"" error problem. They say that it might be due to your (external??) firewall blocking the activation routine.
+So make sure you have ALL firewalls off when doing activation. (Hopefully - dunno that - you can switch it back on afterwards)"
+,denverkevin,2012-03-20T12:37Z,"LOL!!  ohmygosh, am I glad I switched back to Macs 5 yrs ago after 18 yrs shanghaied into The Dark Side. LOL  I've got VMWare 4 on my Macbook running Win7 & XP Pro & I thought I'd try out Win8 just for that halibut but man, reading all these comments, I see that some things just DO NOT change with products from Microsoft - PROBLEMS, problems, MORE problems and popup error messages saying things to their mostly ""ordinary folk"" customers that have been written in a Redmond cubicle & understandable by only what appear to be social-integration-challenged, self-isolating, cubicle-haunting utterly un-empathetic without-a-clue MS software engineers.
+Macs are SUCH a breath of very, very fresh air compared to WinDUHs, man.
+Yaknow, I think I'll pass on Win8.
+(And I KNOW I'm going to get slammed for this post... But I also know that that reaction is basically just a passing-along of the inherent frustration WinDUHs causes in people.  LOL!)
+Hey, have fun tearing out yer hairs, y'all......
+I'll stick with my Mac, and my VMWare Win's now & then just for fun & entertainment & unnecessary mental exercise, like the old days, except I was a fixit addict back then. lol And there was plenty to fix then, always. Still is, looks like.  Hasta......."
+,SilentxxBlade,2012-03-29T17:30Z,Please Seed So we can all Get this done faster Sharing is Caring Yo :)

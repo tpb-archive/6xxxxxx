@@ -1,0 +1,235 @@
+        Kaspersky Key Loader
+
+
+Kaspersky Key Loader is only for Kaspersky Lab developers and testers! Features : -Program is portable;
+ - Changed update function; -Included integrity checker; - Added hotkeys; -Added "open keys folder" button;
+ -Added "select keys folder" button.
+
+Internet Client Application
+
+Warning! Program detected by antivirus as "HackTool.Win32.Kiser.agl" 
+Main version: 1.1.7.30. Version of launcher: 1.3.1.15.
+
+.kkll
+
+Release date: 30.03.2011
+
+Kaspersky Key Loader
+
+Kaspersky Key Loader - software for Kaspersky developers.
+
+System requirements
+
+Operating system: Windows 2000, Windows ME, Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008;
+Internet connection.
+
+How to use?
+
+ Press "Get new .kkll" to download fresh .kkll-file;
+ Press "File"->"Open list".
+Select .kkll file and wait few seconds while list loading (Ctrl+O); 
+ You can also open list-file by pushing "Open list" button;
+ You can find you key using "Filter by..." function;
+Select a key you need and press double click or select several keys with check boxes and press "File"->"Download marked" (Ctrl+A - select all, Ctrl+I - select all similar, Alt+Mouse1 on key type that you need, Ctrl+Z - to deselect all);
+ Ctrl+M - mark selected;
+ Press "Download marked" (Ctrl+D);
+ You can also download marked keys by press "Download marked" button;
+ That's all. Find your keys by press "Open keys folder" button.
+Other features:
+
+ You can change keys location folder.
+ Here you can change program settings. For example change language, create\delete association for .kkll extention, disable\enable downloading bonus-list.
+ See Kaspersky status and KKL status to understand what do you need to apply functions that you need.
+ "Trial Life" - function that allow using unlimited trial licence. Read more in program.
+ Advanced function provide you to edit Kaspersky registry settings manually.
+FAQ
+
+Q: Where I can find keys for Kaspersky Pure (Kaspersky Crystal)?
+A: Find "Kaspersky Total Security" keys in full .kkll-file.
+Q: Where are key's from? Maybe from a China sites?
+A: No way.
+Q: I want translate program to my language. What can I do?
+A: Read "For developers and translators:"
+Q: The Program told me that version is too old and can not update. Why? What is it mean?
+A: It's mean you should download new version because old version is incompatible.
+Q: Can you include in program my name/surname/picture of my girlfriend/boyfriend etc.?
+A: Sure, but you have to pay me. Payment depend of order.
+For developers and translators
+
+To translate program:
+Download English.lng (Updated 24.12.2010)
+Open file in text-editor and translate all words after symbol "=".
+Save file as Your_language.lng and send it to developers' team.
+Wait for answer (1-2 days).
+For sale: (10$) KKL-source code v 1.1.0.116.
+
+Feedback:
+
+Questions and propositions: AlexSlipknot@europe.com
+
+
+Version history
+
+[+] Show
+
+From 1.0.0.98 to 1.1.2.19:
+Program is portable;
+Changed update function;
+Included integrity checker;
+Added hotkeys;
+Added "open keys folder" button;
+Added "select keys folder" button.
+1.1.2.21:
+Changed about-window.
+1.1.2.23:
+Changed statusbar;
+1.1.3.61:
+Changed statusbar;
+Changed about-window;
+Changed Listview;
+Excluded dependence of key storage on "storage"-server;
+Included decompress library;
+Included unrar library.
+1.1.3.62:
+Included Kaspersky registry data reader;
+Added tabs.
+1.1.3.63:
+Excluded decompress library;
+Changed tabs.
+1.1.3.68:
+Excluded dependence of .lst file. (Deleted .lst file on server);
+Changed design of main window;
+Included feedback module.
+1.1.3.71:
+Changed feedback module.
+1.1.3.73:
+Included symbol correction checker.
+1.1.3.74:
+Excluded dependence of "storage"-server;
+Supported Kaspersky Pure and Kaspersky 2011 beta keys;
+Changed update module.
+1.1.3.80:
+Included .kkll dependence;
+Added internet-client application;
+Supported Kaspersky Pure and Kaspersky 2011 trial keys;
+Excluded update dependence.
+1.1.3.84:
+Changed internet-client application;
+Supported Kaspersky Pure and Kaspersky 2011 commercial keys.
+1.1.4.40:
+Changed list-window;
+Added quick sort function;
+Modified list-window;
+Added "get latest .kkll" button;
+Enhanced program design;
+Added quick sort startup function;
+Returned "Check all" item;
+1.1.4.41:
+Fixed hint show on "KKLL" button.
+1.1.4.44:
+Added item "Mark all similar";
+Added key property "Expiration date";
+Added "Mark by type" function. Press Alt+Mouse1 on key type that you need to mark keys.
+1.1.4.47:
+Modified "quick sort" function;
+Fixed "quick sort" error while search field is empty.
+1.1.4.49:
+Fixed error when user pressed "select all similar" when list don't loaded;
+Modified language switcher;
+Modified program design;
+Modified feedback module.
+1.1.4.50:
+Fixed standart sort error;
+Supported keys for Anti-Spam for Linux, for Gateway, for Mail Server.
+1.1.4.65:
+Changed settings loader function;
+Modified feedback function;
+Added "Trial life!" module;
+Fixed labels of Kaspersky Data when Kaspersky is not installed.
+1.1.4.68:
+Added offline mode;
+Changed launch parameters;
+Modified kkll.exe (smallest size, faster start).
+1.1.4.69:
+Fixed error while loading .kkll when keys folder does not exists.
+1.1.4.70:
+Fixed "columns width" error.
+1.1.4.75:
+Returned "standart sort" function;
+Fixed "sort error";
+Added "sort by download satus".
+Fixed "start error" in launcher.
+1.1.4.78:
+Keys folder now can contain other symbols. For example russian chars.
+Supported Kaspersky Antivirus 2011 international keys.
+1.1.4.79:
+Modified "get new .kkll" - added alt. link;
+Supported 11.0.1.400 in "Trial life!"
+1.1.4.80:
+Supported keys for Alt-N.
+1.1.4.82:
+Fixed group downloading;
+Fixed internal errors (access violation...).
+1.1.5.38:
+Modified "Trial life" module;
+Fixed error on open list file;
+Modified processing list function;
+Added bonus.kkll.
+1.1.5.39:
+Fixed error "old bonus.kkll".
+1.1.5.40:
+Supported serbian language.
+1.1.5.43:
+Modified standart sort function;
+Fixed trial reset error.
+1.1.6.53:
+Supported keys for "Stalker", "Trial TotalSpace Security";
+Supported Italian, Bulgarian, Turkish;
+Supported drag&drop kkll-opening;
+Modified feedback module;
+Modified splash-form;
+Added launcher-updater function (will work with launcher 1.3 or later);
+Added advanced functions module.
+1.1.6.54:
+Fixed error when keys in list more than 1000;
+Modified external functions for decrementing memory usage.
+1.1.6.55:
+Optimized standart sort function;
+Fixed "without one key" error.
+1.1.6.64:
+Included integrity checking;
+Included rollback-function (save current registry settings to file);
+Added extended status bar for main function;
+Fixed main functions key list column resizing error;
+Supported extention-association for .kkll-files;
+Changed about-window;
+Removed creeping line;
+Settings module moved to main menu.
+1.1.6.65:
+Fixed error while launching from .kkll-file on WinXP;
+Fixed "Trial reset" hint label resizing error;
+Changed about-window.
+1.1.6.66:
+Added unassosiate function (by unmark "associate with .kkll" in main menu);
+Added "downloaded keys" in statusbar;
+Changed selecting\marking keys (keys multiselect, custom keys selecting);
+Changed shortcuts("Select all", "Select all similar", "Deselect all", "Mark selected", "Unmark selected");
+Changed scrolling list;
+Fixed incorrect displaying font color in advanced options.
+1.1.6.67:
+Modified Quick sort function (by type / by name).
+1.1.7.28:
+Added Kaspersky status module;
+Added more images (user-friendly interface);
+Changed program's design;
+Changed saving\loading settings function;
+Changed "quick sort" function, renamed ("Filter by...");
+Modified "Trial module" (added KC-method).
+1.1.7.29:
+Supported keys for "Antivirus for SambaServer", "Antivirus 2010 Vietnam";
+Renamed "Kaspersky Total Security" keys to "Kaspersky Pure".
+1.1.7.30:
+Fixed messages in statusbar when language changed;
+Fixed sort-highlighter (lost simbol).
+
+Enjoy & Seed!

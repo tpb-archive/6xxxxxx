@@ -1,0 +1,183 @@
+NightOS (ReturnOfNights Windows 7 SP1) by nightwolf81 [Original]
+  
+This is based on a LastOS 7 Preset with the latest Versions as of the 22 May 2011.
+
+It's a DVD9 size OS with a script you can use to copy it to a bootable USB (8GB+), Just mount it in a Virtual drive to save burning a DVD9.
+
+Contents are a surprise, Graphics are too They are suitable, not extensive. I've reduced the included themes to one and wallpapers to one, so the Size comes from the inclusion of the latest driverpacks and Post SP1 updates. 
+
+HOW TO INSTALL â€“ LastOS7 
+
+[code]http://www.lastos.org/index.php?attachments/lastos7_install_v2-zip.159/[/code]
+
+LastOS7 takes advantage of LastOS tools developed by a small team of people who wanted and use the very 
+tools they are creating, they are developed open sourced and publicly to Improve the speed and choices you 
+have while installing your Windows 7 OS to your computer. 
+
+We use any and all tools available to us, regardless of copyright as a concept OS for us to learn from and 
+share with the world, everyone is free to share any tools we have made for any use, but we only provide 
+copyrighted works as examples, they are not to be used for profit or production unless you already own a 
+license for each of them. You can choose not to install any copyrighted material and just use the free and open 
+sourced alternatives we have provided. 
+
+Some of the Tools and Features available are: 
+
+â— Install by booting from DVD5 (x86 only). 
+â— Install by booting from CD/DVD With a USB installer inserted (remove the disk once the Starting Windows 
+ screen is visible). 
+â— Install by booting from DVD9 (x86, x64 on 1 DVD9). 
+â— Install by booting from USB 8GB+ (x86, x64). 
+
+â— Boot into a LivePE to preform Pre install backups, recovery, Reset OS passwords, Clone, Partition, System 
+ Restore, Startup Repair and Start the Windows 7 Installation. 
+
+â— Pre select the applications/options you wish to install Post OS installation before you begin the Windows 7 
+ Installation. 
+
+* Note * 
+
+To boot from USB use your BIOS Boot menu (usually F8 or F9 on Desktop PC's, F11 or F12 on most Laptops), 
+pick the correct USB Drive to boot. If you set the BIOS Boot Order to boot from USB First it may write the boot 
+files for the actual OS to the External USB drive, making the System un-bootable after you remove the USB 
+drive. 
+
+ This Guide is to show the usual Settings for the most basic steps involved in doing a fully featured LastOS7 installation. 
+
+ 
+
+
+
+ Step 1 â€“ Boot to the LivePE 
+
+Screen shown when booting from Optical media, you only press a key to start the LivePE the once, then you 
+just let it count down and continue to boot from the HDD to allow setup to continue. 
+
+The first screen you're presented with is the LivePE with the option to use the applications from the Live apps 
+folder, and/or use the portable permanent applications that are available from your Previous OS installation, 
+the default options are the common use â€“ let it count down or press apply, this will create all the registry, file 
+associations, start menu and desktop links required to make the most of the LivePE. 
+
+ 
+
+
+
+ Step 2 â€“ Pre Configure your LastOS7 Installation 
+
+Most people will need to preform 3 basic steps to start the Unattended Installation: 
+
+ 1. Partition and/or Format the OS drive you will be installing to, for this I provide Partition Wizard, this has 
+ proven to be a reliable tool for managing you HDD space. (Not always required) 
+
+ 2. Pre Select applications, menu sorting and the HDD letter the ppApps will get installed to, this is done 
+ via the ssWPI, there is a ssWPI (x86) for if your installing a x86 OS, or a ssWPI (x64) if your intending 
+ to install a x64 OS (these will get hidden if they are unavailable). 
+
+ 3. Install LastOS 7 (x86 or x64), this is the last step required to install LastOS7, once you click the link to 
+ the architecture (x86/x64) you only have to pick which partition you wish to install the OS to and the 
+ rest will happen without user interaction. 
+
+ 
+
+
+ Partitioning your HDD for LastOS7 for the best benefits 
+
+ (You may not need to repartition your HDD's so you can skip this step) 
+
+Partition Wizard is safe to use, so long as you know the Label of your internal HDD's and/or check them in the 
+LivePE's Computer icon to make sure you are formatting the correct drive. 
+Generally a PC will only contain 1 HDD that you can break up in to 2 or 3 Drive letters that windows can use. If 
+you have more than one HDD then you may not need to partition your drives into sections, if so then skip this 
+step. Most PC users will install a heap of applications to C:\Program Files, this means you need to provide 
+enough space for a novice user to do this, my Suggestion is: 
+
+ â— x86 â€“ C:\ Should be no less than 20GB and no more than 50GB 
+ â— x64 â€“ C:\ Should be no less then 30GB and no more than 60GB 
+
+Create extra partitions as required to use the remaining space available to you, I consider drive C: to be for the 
+Operating system and a few applications only, Where D: (the leftover space) is your Data drive, where you 
+keep documents, movies, music, photos, ISO images and temp work space. LastOS7 caters for this layout by 
+offering to move the documents from their usual C:\Users\ location to any Hard Disk Drive letter available in 
+your computer, this allows you to re install (format) C:\ without having to back up your data, and it also means 
+you will not have to restore it again once you are done, just pick the same drive letter you had the documents 
+on the last LastOS7 you had installed (you can also restore a C: drive HDD image without losing essential 
+Data, also speeding up restore speeds). 
+LastOS7 also takes advantage of the multi partitioning or HDD's by allowing you to install ppApps and 
+ppGames to a non C: (OS) Drive. 
+
+ 
+
+
+
+ Pre/Post Selecting Applications 
+
+Running the ssWPI that you need will hide the applications that can not be installed for that OS (hides all x64 
+apps if only installing x86). The goal of ssWPI is to allow the user as much time as they need to select each 
+title, see a screenshot and read about each applications purpose without having to install it first. It allows you 
+to hide the ones you have already installed (if using it Post OS Install), once you master what your after you 
+are also able to save a preset selection that it will default to or you can choose from. 
+
+ 
+
+
+
+ SSWPI LastOS Setup/Options 
+
+The main 3 options that you should set (only once) is the drive you wish ppApps and ppGames to get installed 
+to, and finally the Start Menu sorting method you wish to use, the best is LastOS, some may prefer Default (no 
+sorting) Start Menu's tho. You are able to use SetupS Control Panel to un sort or re sort the menu post install. 
+
+All the other options can be played with, but none are required to install successfully. You are able to change 
+the Theme at runtime (will only stick if installing from a USB). Make sure to press Done once you complete 
+these options or they will get ignored. 
+
+Once you have selected the applications you wish to install, press start. If you are Pre selecting (before OS is 
+installed) it will just save your selection and exit, then will install the applications after the OS install has 
+completed. If it's a post install then it will show the mini installer, then will install and sort each application you 
+pick. You can abort ssWPI if a problem occurs. 
+
+ 
+
+
+
+ Now Start the Installation 
+
+By picking the 'Install LastOS 7 x86' or x64 depending on the one your after, you will be presented with these 
+customised installer screens. The Windows setup has also been patched to not create a 100MB boot partition 
+if you select 'Drive Options (advanced)' before you press Next. 
+
+Install of the OS will take a little longer than a standard Windows 7 install, due to it having the updates and 
+driverpacks integrated, but the time saved hunting drivers and updating the system is more than the extra time 
+lost during install. 
+
+The installation will now be automated until it gets to a spot the user can enter their personal settings and 
+tweaks they prefer. 
+
+ 
+
+
+
+ Post OS Install Events 
+
+At the end of the installation it will bring up 3 windows, Network Location selection, Settings and the Mini 
+ssWPI installer. Do NOT do anything until ssWPI completes, if you are installing applications you cannot 
+change the computer name, Documents locations etc. so simply wait longer (make coffee) or chase the Fader 
+icon (shown above the mini installer) to fill in time. 
+
+Once the applications complete the Start Menu will get sorted but you are able to fill in the Settings screen 
+while this is happening. The Settings are self explanatory (common knowledge), except the Set Docs to drive... 
+This is how you move the Documents from â€œC:\Users\Administrator\Documentsâ€ in to â€œX:\Documents\My 
+Documents\â€, make sure to tick the box if you want this to happen, else it gets ignored. Settings can be ran 
+from the AutoRun menu at any time (even on non LastOS7, but Windows 7 machines). 
+
+ 
+
+
+ Settings Tabs 
+
+The applications will continue one after the other until the selection you made earlier is complete. The 2nd tab 
+
+of settings can be seen above, it has some common tweaks people like to have changed to suit them. 
+
+ rd th 
+The 3 tab allows you to select Services, depending on what the PC will be used for. 4 tab contains some 
+tools and links to common end of install places you as the installer may need to access. 

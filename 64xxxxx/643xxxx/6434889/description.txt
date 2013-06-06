@@ -1,0 +1,36 @@
+multiMAN 2.00.03 CHANGELOG
+
+Fixed: Launching games with cached files right after they're cached
+Fixed: GAMEI folder won't appear on USB unless "Ext Game Data" option is used
+Fixed: Double entries in VIDEO column when thumbnail is named for example
+video.avi.jpg and not video.jpg
+
+Improved: Scrolling left/right in XMMB mode (faster and won't load columns)
+Improved: Scrolling up/down. Scroll will pause for ~1 second before looping.
+Added: Option "Hide BD-ROM disc from game list" in XMMB Settings
+Added: L2/R2 switch pages in 4x2 and 8x4 game list modes
+Added: "Save Screenshot" option in PS3 XMB Photo column to capture multiMAN screens
+in PNG (multiMAN Screenshots album) (10x to
+squarepusher2 for the hint)
+
+Improved: multiMAN will return from emulators and showtime much faster (~1-2 seconds
+boot screen)
+
+Improved: Last XMMB column and selection/entry restored upon restart/respawn
+Improved: JPG and PNG loading and decoding is performed faster (via SPU with fallback to
+PPU when header-decoding fails)
+
+Added: "Retro" column for emulators (WIP)
+Added: "Genre" option in "Game Settings" submenu to select categories for
+albums/grouping
+
+(WIP) Added: Support for latest SNES9x port for PS3
+(WIP) Added: Support for SNES9x ROMS: SMC/smc, FIG/fig, SFC/sfc, GD3/gd3,
+GD7/gd7, DX2/dx2, BSX/bsx, SWC/swc, JMA/jma
+
+(WIP) Added: New options in options.ini:
+Added: Support for playing music/playlists from PS3 XMB Music column (thanks to
+squarepusher2)
+
+Improved: TVs with 480p/576p resolution will show XMMB and slide-coverflow modes a
+bit better

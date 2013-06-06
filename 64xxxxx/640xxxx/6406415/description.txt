@@ -1,0 +1,47 @@
+Garmin - City Navigator North America 2012.10
+
+Version Type: Map Source
+MapID:        2425
+
+
+Read Me File...
+
+
+Garmin - City Navigator North America 2012.10
+
+
+Option 1 (unlock maps)
+
+
+1. run \"\\2012.10 Source\\install.exe\" to install & unlock maps + install map source
+
+maps are installed to...
+
+C:\\Documents and Settings\\(USER)\\Application Data\\Garmin\\Maps
+
+2. when mapsource opens, transfer you selected maps to your unit...
+
+
+
+
+Optiion 2 (keep maps locked, unlock using *.UNL file)
+
+
+1. copy the folder \"\\2012.10 Source\\City Navigator North America NT 2012.10.gmap\" to...
+
+C:\\Documents and Settings\\(USER)\\Application Data\\Garmin\\Maps
+
+2. run \"\\map source 6.15.6.0\\install.exe\"
+
+3. open mapsource and transfer you selected maps to your unit...
+
+4. then use \"\\garmin map unlocker\\unlocker.exe\" to generate your maps unlock code
+
+
+
+
+to remove from your system...
+
+delete ~ C:\\Documents and Settings\\(USER)\\My Documents\\My Garmin
+
+delete ~ C:\\Documents and Settings\\(USER)\\Application Data\\Garmin\\Maps

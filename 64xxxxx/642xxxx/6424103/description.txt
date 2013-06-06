@@ -1,0 +1,32 @@
+Zenwalk Gnome 7.0 is out!
+
+We are proud to provide Zenwalk gnome 7.0 based on gnome 2.32.1.
+It is the last step before going to gnome 3.0.
+
+Zenwalk gnome keeps the same way like standard Zenwalk edition, a clean and clear desktop.
+Hal support is removed. Networkmanager was prefered instead of wicd.
+Rhythmbox has been also introtuced as default music player and cd grabber.
+Viewnior is used like fast and quick viewer pictures and Simple-scan replaces xsane to scan documents.
+
+As usual most packages have been updated to the latest stable version :
+Networkmanager-0.8.4
+gedit-2.30.4
+nautilus-2.32.2.1
+rhythmbox-0.13.3
+viewnior-1.1
+simple-scan-2.32.0.2
+gthumb-2.12.3
+libreoffice-3.3.1
+Kernel 2.6.37.4 with BFS scheduler and performance tweaks
+...
+
+Others gnome applications are available in the extra repo :
+eog-2.32.1
+sound-juicer-2.32.0
+vino-2.32.2
+epiphany-2.30.6
+...
+ 
+http://www.zenwalk.org/
+
+md5sum : bbbd8263bfe2d6afa0926c05bdd4d71b  zenwalk-gnome-7.0.iso

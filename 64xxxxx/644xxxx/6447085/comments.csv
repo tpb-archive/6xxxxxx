@@ -1,0 +1,52 @@
+User Type,Username,Date,Text
+,DM(DK),2011-06-06T00:04Z,"thx m8, will report back if anything dosent work properly :)"
+,WhatAboutPhilly,2011-06-08T12:38Z,"Thanks so much! I've been waiting for this.
+
+However, when I try to update the program (after trying three times) I get the following error message: 
+
+The file stating the date (update level) of the base Stata ado-files is issing or could not be pened or contains junk.  This is cause for concern ecause there is no way that should happen; the ile was copied when Stata was installed should never be changed after that.  Either:
+
+1) you have used -sysdir- during this session to change the directories here Stata thinks it is installed and have changed them incorrectly; exit Stata and try again.
+
+2) Stata is not installed correctly; fix or reinstall.
+
+3) Stata has become corrupted; find out why before reinstalling.
+
+file not found
+r(601);
+
+Then a popup mentions some problem locating ""StataAdministrativeTools.exe"" even though it's in the installation folder (and I tried running as an adminstrator)."
+,WhatAboutPhilly,2011-06-08T12:40Z,"Thanks so much! I've been waiting for this.
+
+However, when I try to update the program (after trying three times) I get the following error message: 
+
+The file stating the date (update level) of the base Stata ado-files is issing or could not be pened or contains junk.  This is cause for concern ecause there is no way that should happen; the ile was copied when Stata was installed should never be changed after that.  
+
+Then a popup mentions some problem locating ""StataAdministrativeTools.exe"" even though it's in the installation folder (and I tried running as an adminstrator)."
+,SloveniaX,2011-06-08T21:01Z,"works fine for me on my Win7 Pro x64 (and also on a clean install of Win7 HP x64 with no previous Stata installation) - and that's no matter where I put the folder. updates fine as well.
+
+you'll have to tell us a bit more abou the version of win u are using, whether you have admin privileges, where u put the folder and if u were able to extract all files successfully? have u tried running Stata as admin?
+
+u should(!) see that popup about stataadministrativetools - however, you should not(!) be running that executable yourself
+
+I am willing to bet the problem lies on your side, sorry"
+,WhatAboutPhilly,2011-06-10T02:07Z,"Thanks for your help. The problem is no doubt on my side but I was hoping you might be familiar enough to help me out. 
+
+I'm using Windows 7- 64bit. 
+I tried downloading twice and running as administrator.  I'm not sure what I did wrong."
+,SloveniaX,2011-06-10T04:00Z,google is your friend: http://www.stata.com/support/faqs/web/errors.html
+,boppingbop,2011-07-21T16:39Z,"For the licence file valid for
+
+Stata MP 64bit (4-core)
+
+Navigate to:
+
+h t t p colon slash slash adf period ly slash 29NnX 
+
+colon :
+slash /
+period ."
+,SloveniaX,2011-08-07T19:40Z,"my guess is that the license supplied with this torrent should work with MP version too. it's the application itself (i.e. MP binary executable) that we need... but thanks anyway, I'm sure it'll help someone out there! "
+,SloveniaX,2011-09-22T23:24Z,"64-bit SE/MP version: http://www.stata.com/support/updates/stata11/win64x8664/ (follow the instructions in this torrent, then just do what the website tells you to, i.e. replace the executable (dont touch anything else). works great!"
+,SloveniaX,2011-09-23T00:28Z,http://thepiratebay.org/torrent/6694811/Stata_32-64_SE-MP_executables_only
+,SloveniaX,2011-10-20T10:41Z,http://thepiratebay.org/torrent/6757811/Stata_12_%28all_flavours__32_and_64_bit%29

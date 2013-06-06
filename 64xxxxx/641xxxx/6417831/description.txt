@@ -1,0 +1,71 @@
+Features of LAME MP3 Encoder :
+
+- Many improvements in quality in speed over ISO reference software.
+- MPEG1,2 and 2.5 layer III encoding.
+- CBR (constant bitrate) and two types of variable bitrate, VBR and ABR.
+- Encoding engine can be compiled as a shared library (Linux/UNIX), DLL or ACM codec (Windows).
+- Free format encoding and decoding
+- GPSYCHO: a GPL'd psycho acoustic and noise shaping model.
+- Powerfull and easy to use presets.
+- Quality is comparable to FhG encoding engines and substantially better than most other encoders.
+- Fast! Encodes faster than real time on a PII 266 at highest quality mode.
+- MP3x: a GTK/X-Window MP3 frame analyzer for both .mp3 and unencoded audio files.
+
+LAME MP3 Encoder 3.99 includes :
+
+- lame.exe - LAME encoding library, generally used with CD rippers, etc.
+- lame_enc.dll (ICL 11.1) - the command line encoder, used from the Windows command shell.
+
+Changes in LAME MP3 Encoder 3.99 beta:
+
+â€¢ Josep Maria AntolÃ­n Segura:
+- Documentation work
+â€¢ RogÃ©rio Brito:
+- Improve Debian packaging.
+* Include suggestions made by Fabian Greffrat
+* Update version of the Debian package to reflect that it is taken from CVS.
+* Get rid of a transitional package
+* Much more to come...
+- Minor fix to validate the history file correctly
+â€¢ Robert Hegemann:
+- Porting of LAME mp3rtp program to Windows platform
+- Fix: for free format mp3 above 320 kbps, the maximum allowed bits was limited too far.
+- Changed behaviour: LAME replaces common suffixes by MP3/WAV when no output filename was given. For example, a simple lame x.wav will create output file x.mp3
+- UNICODE support on Windows OS, file names and ID3v2 tags; related: Bugtracker item [ 3052230 ] Lame.exe can't find files with non-ASCII names
+- Added support for WAVE FORMAT IEEE FLOAT input files
+- New switch --swap-channel added, see tracker item [ 1118412 ] RFE: option to swap L and R channels
+- New switches -m l and -m r to select either left or right channel for mono encoding.
+- Feature request item [ 3134258 ] Allow larger images with LAME (>128KB)
+- Fix for Bugtracker item [ 2962223 ] Encoder delay and padding values ignored when re-encoding
+- Fix for Bugtracker item [ 2986823 ] Error when building Lame with NASM support -still exists
+- Fix for Bugtracker item [ 3125235 ] make -f Makefile.mingw32 fails
+- Fix for Bugtracker item [ 3021935 ] ID3 tag TXXX cannot be used more than once
+- Fix for Bugtracker item [ 3025801 ] gain_analysis.h needs int constants
+- Fix for Bugtracker item [ 3277412 ] Segmentation fault at layer2.c:105 with --decode
+- Changes in new VBR code:
+* tuning on PSY model
+* tuning on VBR scale and resulting bitrates
+* Minor bug fix for sfb21 encoding
+- All encoding modes use the PSY model from new VBR code, addresses Bugtracker item [ 3187397 ] Strange compression behavior
+- Fix for a possible out of bounds array access in HIP decoder, addresses Bugtracker item [ 3091776 ] crash at III_dequantize_sample
+
+Changes in LAME MP3 Encoder 3.98.4:
+
+â€¢ Joseph Flynn
+o Improvements for LAME DirectShow Filter:
++ Added support for the DirectShow IAMStreamConfig Interface to the LAME encoder filter output pin.
++ Modified the DirectShow filter registration section so that the LAME Encoder filter is correctly registered in the Audio Compressors filter category. This will allow third-party encoding applications using the DirectShow System Device Enumerator Interface to correctly detect the LAME encoder when querying the Audio Compressors filter group.
++ Modified the filter registration information so that the MP3 audio subtype is correctly reported as being supported on the encoder output pin. This will allow third-party encoding applications using the DirectShow IFilterMapper2 Interface to recognize that the LAME encoder supports MP3 output.
++ Altered the Filter Merit Value that was being used when the filter was registered so that it is now using the standard DirectShow compressor filter merit value of MERIT_DO_NOT_USE (0x200000). Previously, the filter was being registered using a value of MERIT_SW_COMPRESSOR (0x100000), which was at a lower priority (i.e. worse priority) than MERIT_DO_NOT_USE. This prevented the LAME Encoder filter from being selected for use by some third-party encoding applications.
++ Added code to calculate the frame length of the audio frames used for the nBlockSize element of the WAVEFORMATEX output structure. Previously this value was simply hard-coded to 1.
+â€¢ Robert Hegemann
+o Fix for Bugtracker item [ 2973877 ] A problem regarding the new drain code
+
+Important Note :
+
+- LAME MP3 Encoder 3.90.3 is gone forever! It's no longer being recommended as preferred version - LAME MP3 Encoder 3.98 took its place.
+
+Virus report for an archived version of this torrent: 
+http://www.virustotal.com/file-scan/report.html?id=433b2526eee35691086b933a5b8fbf00a66e8a35de01e3058dcc0c3e8a9c9b49-1306214294
+
+@vAin4us

@@ -1,0 +1,41 @@
+User Type,Username,Date,Text
+,Sheboink,2011-05-27T17:17Z,"Further information & video preview available at;
+http://www.spb.com/android-software/shell/"
+,Esti666,2011-06-02T15:14Z,"Doesn't work for me. Dot-so copied with 1000:1015 ownership doesn't work. Dot-so copied with 1000:1000 ownership works as long you're in flight mode, otherwise, it caught you and asks for purchase or exit. Both cases permission have been set to 0755. SGS Gingerbread 2.3.3"
+,Sheboink,2011-06-04T10:22Z,"@Esti666:
+
+Unfortunately, it looks like you're right - I've just tried setting it up on CM7 (Android 2.3.3) and it fails to launch, irrespective of data connectivity (I use DroidWall).
+
+Looks like it's only suitable for FroYo :-/... Damned shame, as I really like the shell but don't want to move back from GingerBread just to be able to use this shell :-("
+,Esti666,2011-06-04T12:43Z,I'm using DroidWall as well but SPB registers itself as uid:gid=1000:1000 which half of very importent services registerd on that very same uid:gid which you don't want to block. Didn't looked to check if there is alternative FW which can filter/block application/service/ipaddr/protocol/port.
+,Esti666,2011-06-04T12:55Z,"Sheboink - Another quesion, what did you patched in the dot-so? I'm not familiar with the SPB authentication mechanism. Does it bound to market or its home by name or by address? If it's checks its home by name it's easy via hosts, othewise, iptable should be altered."
+,theodoros105,2011-06-05T22:05Z,Thanks ...it works!!!
+,p_gerbil,2011-09-24T11:06Z,"hi. im new android user, and i really want this app.
+ive downloaded this torrent and ""terminal emulator"" from the market, but i dont know how to continue from here. 
+i dont understand what is ""#cp"" and ""#chmod"". do i need to write it somewhere?
+plz help me."
+,_-D-O-W-_,2011-10-10T00:02Z,"@p_gerbil
+
+Look here: http://www.londatiga.net/it/how-to-use-android-adb-command-line-tool/"
+,Toshoman,2011-10-12T12:01Z,"Here is another solution...
+
+1) Install apk, but don't run it yet. (Uninstall first and delete the old file if you have.) 
+2) Open terminal (get from market if you don't have it, you may use Terminal Emulator) 
+3) Type the following replacing [enter] with the enter key: 
+su[enter] 
+pm disable com.spb.shell3d/com.softspb.shell.service.LicenseService (then just hit enter)
+4) If it asks for license later on you can reenable the shell by opening terminal and typing: 
+su[enter] 
+pm enable com.spb.shell3d/com.softspb.shell.Home 
+
+It works for me for now..."
+,srinumad,2011-12-18T14:14Z,"After installing it and then i connected to mobile network, after sometime it says
+"" UNFORTUNATELY, WE COULD NOT LOCATE YOUR PURCHASE IN ANDROID MARKET. PLEASE UNINSTALL THIS COPY BEFORE INSTALLING A NEW ONE. ""
+HELP THIS ONE PLZZ......"
+,srinumad,2011-12-18T14:16Z,using default skin.
+,Sheboink,2012-01-04T08:48Z,"Feel free to ignore ""sendv90"" - he's just had his account terminated by TPB for uploading virus-laden torrents, so it's only natural that he try to exact some revenge."
+,Sheboink,2012-01-04T08:51Z,"Back to the Android shell subject... Despite SPB Shell 3D's price, I don't think there'd be too many people using it after the ""wow factor"" wears off, usually within a couple of days. Despite its looks, it isn't anywhere near as versatile as an Android launcher should be.
+
+I've personally been continuing to use LauncherPro, though I'll likely switch over to Nova Launcher once CM9 reaches the release/stable phase (tried an Alpha and it's direly lacking at the moment).
+
+The next big step for ""wow factor"" launchers appears to be TSFUI. I don't read nor understand Chinese, so can't really make much of their web site - but the YouTube demo really does make one drool (enter ""tsf shell"" into YouTube's search box and click the first video - just over 8.5 minutes)."

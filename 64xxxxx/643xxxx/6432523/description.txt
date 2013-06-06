@@ -1,0 +1,63 @@
+
+VMWare workstation 7.1.4 build 385536
+
+
+.: Descrizione del Software:.
+VMware Workstation Ã¨ una serie di software sviluppati dalla VMware Inc. che consentono di eseguire piÀ sistemi operativi in un ambiente virtuale. Il primo vantaggio che si puÃ² vedere e capire logicamente Ã¨ la possibilitÃ  di poter implementare su una piattaforma con sistema operativo Windows o Linux e con relativo hardware, un numero n di altre macchine virtuali con sistema operativo diverso.
+I software di questo genere vengono definiti virtual machine, macchine virtuali, termine che sta ad indicare la creazione di uno o piÀ ambienti virtuali in un unico computer, fornisce una completa emulazione dell'hardware senza intaccare le risorse della macchina nativa ed emulando sistemi operativi tra loro differenti. Si puÃ² pensare che le prestazioni del sistema operativo emulato possano esser minori rispetto a quelle che ha il sistema operativo se fosse eseguito "realmente" ma in realtÃ  le prestazioni sono comparabili perchÃ© il sistema Ã¨ pensato per essere eseguito su macchine multiprocessore: ogni virtual machine lavora con un core, o lo gestisce in real-time in base a criteri di condivisione e si possono quindi ottenere prestazioni elevate (da sistema nativo).
+VMware riesce ad emulare architetture x86 (con processore Intel Pentium1-4 oppure AMD Athlon) e x86-64 (AMD Athlon 64/ Intel Xeon) ed emula anche processori dual-core.
+VMware Ã¨ disponibile per Microsoft Windows, GNU/Linux e Mac OS X. Fornisce la possibilitÃ , durante la configurazione, di scegliere se creare una sottorete Host-only e una sottorete NAT.
+
+
+.: Scheda del Software:.
+Nome:  VMWare Workstation
+Os:  WindowsXP o superiore (32 o 64-bit)
+Lingua: Inglese
+Anno: 2011                                    
+Versione: 7.1.4 build 385536
+Genere:  Virtualizzazione
+Produzione:  VMware Inc.
+Data di uscita versione base:  29 Gennaio 2010[/SIZE]
+
+.: Requisiti del Software:.
+->Processore Da 1.3 GHz o superiore (x32 o x64). Supportati sistemi a multiprocessore
+->Ram 1 GB di RAM
+->Spazio libero 1 GB
+
+.: Istruzioni per l'uso:.
+->Estrarre il file
+->Eseguire il setup del programma
+->Inserire il seriale quando richiesto
+->Enjoy
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+VMWare workstation 7.1.4 build 385536
+
+.:Software Description:.
+VMware Workstation is a virtual machine software suite for x86 and x86-64 computers from VMware, a division of EMC Corporation which allows users to set up multiple x86 and x86-64 virtual computers and to use one or more of these virtual machines simultaneously with the hosting operating system. Each virtual machine instance can execute its own guest operating system, including Windows, Linux, BSD variants, and others. In simple terms, VMware Workstation allows one physical machine to run multiple operating systems simultaneously. Other VMware products help manage or migrate VMware virtual machines across multiple host machines. Workstation is sold by VMware; VMware Player is a similar program with fewer features supplied free of charge.
+VMware Workstation supports bridging to existing host network adapters, CD-ROM devices, hard disk drives, and USB devices (including USB Isochronous devices such as webcams, microphones etc), and provides the ability to simulate some hardware. For example, it can mount an ISO file as a CD-ROM, and .vmdk files as hard disks, and can configure its network adapter driver to use network address translation (NAT) through the host machine rather than bridging through it (which would require an IP address for each guest machine on the host network).
+VMware Workstation allows the testing of live CDs without first recording them onto physical discs or rebooting the computer. Multiple successive snapshots of an operating system running under VMware Workstation can be taken, and the virtual machine can be restarted in the state it was in when any snapshot was saved. This is useful for software developers and testers, for environments at risk from virus infection, and for demonstrating software.
+VMware Workstation includes the ability to designate multiple virtual machines as a team which administrators can then power on and off, suspend, and resume as a single object, making it particularly useful for testing client-server environments.
+
+.: Software Sheet:.
+Name:  VMWare Workstation
+Os:  WindowsXP o superiore (32 o 64-bit)
+Language: Inglese
+YEar: 2011                                    
+Version: 7.1.4 build 385536
+Kind:  Virtulizazion
+Productor:  VMware Inc.
+Base Version Release Date: January, 29th 2010[/SIZE]
+
+.: Software Requirements:.
+->Processor Da 1.3 GHz or greater (x32 o x64). Multiprocessor system are supported
+->Ram 1 GB or RAM
+->Hard Drive 1 GB
+
+.: Instructions:.
+->Extract the archive
+->Run program Setup
+->Insert serial when asked for
+->Enjoy

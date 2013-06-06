@@ -1,0 +1,47 @@
+This is the standalone launcher for Mincraft Beta
+
+This torrent works with:
+Windows
+Mac
+Linux (not tested yet)
+
+In addition while logging in, you can press "force update"
+
+This forces Minecraft to update to the latest version.
+WARNING: When updating, the updater overwrites any mods 
+you have installed on Minecraft. 
+
+This version also allows you to run Minecraft from any directory
+It automatically creates necessary files in the 
+appropriate folder.
+
+ALL CREDIT GOES TO ANJO CAIDO
+
+I JUST MOVED IT HERE SO PEOPLE WOULDN'T HAVE TO GO 
+DIGGING FOR IT LIKE I DID.
+
+This launcher DOES NOT work with servers that have the "online-mode"
+set to true.
+
+If you want to host a LAN game, download the server starting software here,
+ 
+http://www.minecraft.net/download.jsp
+
+open server.properties and make sure it looks like this:
+
+#Minecraft server properties
+#Sun May 08 16:23:50 PDT 2011
+level-name=world
+hellworld=false
+spawn-monsters=true
+online-mode=false
+spawn-animals=true
+max-players=20
+server-ip=
+pvp=true
+level-seed=
+server-port=80
+allow-flight=false
+white-list=false
+
+Then click the .exe and you should be rolling!

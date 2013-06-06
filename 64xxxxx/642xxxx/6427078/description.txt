@@ -1,0 +1,67 @@
+
+SPB Shell 3D introduces the next generation user interface for
+Android. Enjoy your phone!
+
+
+Intuitive 3D model of your Home screen:
+ - Activation of any panel in a single gesture
+ - Enhanced program list
+ - Easy app uninstall
+ - Easy management of your panels
+
+Innovative way to manage your programs
+ - Directly access selected programs even in folder
+ - 3 different views
+ - 3D animation in carousel
+
+Cool widgets to customize your Home screen
+ - 3D World Time
+ - 3D Picture Viewer
+ - 3D SMS Viewer
+ - 3D Weather Graph
+ - Calendar
+ - Weather
+ - Wireless switchers
+ - 3D Birthdays
+ - ... and many more
+
+Rich functionality directly at your Home screen
+ - Animated Weather
+ - Picture of the Day based on Flickr
+ - Time with 60+ skins
+ - Calendar
+
+Discover features in a fun way
+ - Idle animation for widgets and panels
+ - Show all features to your friend without touching a screen
+
+----------------------------------------------------------------
+
+Installation instructions;
+
+1. Your 'phone MUST be rooted. There is no other option.
+
+2. Install the APK as you would any other application, but do
+   NOT press the HOME key. If you accidentally pressed the HOME
+   key or need to press it to get to other sections of your
+   'phone, respond to the "use which launcher" prompt by
+   clicking your original launcher - not SPB3D.
+
+3. Use a terminal emulator or Root Explorer to...
+   a. copy the included LIBMOBILESHELL.SO file
+      to the directory /data/data/com.spb.shell3d/lib
+      #cp libmobileshell.so /data/data/com.spb.shell3d/lib
+   b. change the permissions on the file to 755
+      #chmod 755 /data/data/com.spb.shell3d/lib/libmobileshell.so
+
+   If you're using Root Explorer, permissions need to be set to;
+     Owner:  Read/Write/Execute
+     Group:  Read/Execute
+     Others: Read/Execute
+
+4. Press the HOME key. When prompted, select SPB Shell 3D.
+
+5. Once you're happy with wanting to keep SPB Shell 3D as your
+   launcher, tick the "set as default" the next time you press
+   the HOME key, then select SPB Shell 3D.
+

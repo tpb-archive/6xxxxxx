@@ -1,0 +1,92 @@
+TurboFTP 6.30 Build 870
+
+TurboFTP is a secure FTP client program (supports FTP over SSL/TLS and SFTP over SSH2) for Windows 9x/ME/NT4/2000/XP/2003. It allows you to transfer files (upload or download) at turbo speed between your computer and virtually any FTP server with exceptional ease and when necessary, with strong encryption of industrial strength. The built-in Folder Synchronizer provides straightforward, visual and recursive comparison result and helps you synchronize files and directories between local and remote folders with minimum effort. Scheduled file transfer and automated folder synchronization can be easily achieved with the built-in Task Scheduler. You can have an notification e-mail sent to you upon completion of each schedule task or by error. It automatically attempts to resume broken transfer, redial and reconnect after detected lost of connection.
+
+Connection Capability
+â€¢ Firewall support, including HTTP proxy, SOCKS 4, SOCKS 4a
+â€¢ and SOCKS 5.
+â€¢ Support secure FTP connection and file transfer with SSL/TLS,
+â€¢ including implicit and explicit SSL. Support client certificate.
+â€¢ Support SFTP (Secure File Transfer Protocol) over SSH2.
+â€¢ OTP S/Key (MD4, MD5) password encryption.
+â€¢ Strong interruption and stall protection and Auto Dial.
+â€¢ Auto reconnect and broken transfer resume.
+â€¢ Passive mode support, configurable for individual site.
+â€¢ Anti-idle mechanism prevents connection time-out.
+â€¢ Clipboard monitoring for FTP URLs
+â€¢ ( ftp://user:password@ftphost.com:port/path).
+â€¢ Support redirected URLs.
+â€¢ Remember recently connected sites for quick access.
+
+Built-in Sync Service Module for Scheduled FTP and SFTP File Replication and Synchronization
+â€¢ Run FTP and SFTP schedule task as a NT service.*
+â€¢ Run programs before and after a schedule task.
+â€¢ Support dependency of tasks.
+â€¢ Multiple simultaneous schedule tasks.*
+â€¢ Use different dialup connection for individual site.
+â€¢ Comes with a log file viewing tool - TurboLogViewer which offers many handy features like collapsing/expanding log â€¢ sessions, syntax highlighting, bookmarking etc, all making viewing and analysing log file much easier.
+
+Intuitive and Flexible Client Interface
+â€¢ A powerful Upload Wizard allows you to upload files right from Windows Shell using Shell context menu.
+â€¢ Context sensitive help.
+â€¢ Quick connect bar.
+â€¢ Windows XP compatible and XP theming.
+â€¢ FTP Connection Wizard.
+â€¢ Drag and drop to download/upload files; drop to sub-folders.
+â€¢ Drag and drop from Windows Explorer.
+â€¢ File info tooltip (useful for long filenames, and file size).
+â€¢ Show directory information (number of selected files and all files, total size and free space) in real time.
+â€¢ Minimize to system tray.
+
+Management of Site Profiles
+â€¢ Site Address Book - sites organized in a tree structure. Easily organized with drag and drop, copy and paste.
+â€¢ Can import site information from CuteFTP, WS_FTP, Bulletproof FTP, LeapFTP and FTP Explorer. Support all formats of â€¢ â€¢ â€¢ CuteFTP site information data file and can import passwords - tree.dat, smdata.dat, SM.dat.
+â€¢ Stored login passwords are encrypt.
+
+Mastering Your Web / FTP Site
+â€¢ Folder Synchronizer provides visual comparison of local and remote directory structures, where files to be transferred, â€¢ â€¢ â€¢ â€¢ updated or removed are clearly marked with action icons based on the selected Synchronization Scheme. After review and necessary modifications you can then update destination directory, including any subdirectories with one click.
+â€¢ Advanced Auto Upload (AAU). Monitors a local folder and upload new files, updated files or both. Supports sub folders, filters and can run as NT service.*
+â€¢ Basic Auto Upload. Monitors a local folder and upload any new files that arrive in it.
+â€¢ Support on-the-fly data compression using MODE Z.
+â€¢ Simple local and remote directories compare.
+â€¢ Bookmarks - one-click access to any local/remote folder.
+â€¢ Automatic upload/download filename case conversion and Auto Rename.
+â€¢ Only download/upload newer files.
+â€¢ Recursive delete of remote directory.
+â€¢ Automatically and correctly resolve unix links.
+â€¢ Support UNIX, UNIX-compatible, DOS-style, VMS, VAX, OS/2, AS-400, Novell Netware (v4 and onwards), VxWorks and Apple OS FTP directory listing.
+â€¢ Manually execute your own commands on remote server.
+â€¢ Automatically send user-defined FTP commands after logon.
+â€¢ Directory listing filtering that allows you to ignore files by directory or wildcards.
+â€¢ Show Owner and Group information of remote listing.
+â€¢ Report total size and number of files in a directory and all its subdirectories.
+â€¢ Show server file time in local time zone according to specified time offset.
+â€¢ Group select of files using wildcard.
+â€¢ Remote file attribute modification (CHMOD).
+â€¢ Change server login password.
+â€¢ Remote editing - edit and update web page online.
+â€¢ Remote directory caching.
+
+Upload / Download
+â€¢ Recursive directory upload or download.
+â€¢ Scheduled transfer support, featuring comprehensive scheduling options and scheduled automated File Synchronization. Only download/upload files that are new or updated, delete downloaded files from remote server, etc. Ideal for automated file backup and mirroring. Built-in Schedule Sync Task Wizard makes creating a complex sync task a bleeze.
+â€¢ Send E-mail report upon schedule task complete (support multiple recipients).
+â€¢ Command line support.
+â€¢ A transfer queue that can handle files to/from any site and any directory.
+â€¢ Ability to preserve server file time on downloaded files.
+â€¢ Ability to transfer files larger than 4Gb (available on NTFS file system).
+â€¢ Resume download/upload. Option to use APPE to resume uploads.
+â€¢ Download/upload speed limits - reserve bandwidth (for e.g. web browsing) while transferring files.
+â€¢ Upon transfer complete automatically hang up modem or shut down/ log off computer.
+â€¢ Select servers in Address Book to expand queued upload list to multiple servers.
+
+Local File Management
+â€¢ Compress and decompress files and folders right within the program.
+â€¢ Direct access to virtual folders (e.g. Desktop, My Documents) and network folders.
+â€¢ Integrated Windows Explorer context menu.
+â€¢ Store individual user data separately.
+â€¢ Option to delete to the Recycle Bin.
+â€¢ File/folder properties.
+
+Home Page - http://www.turboftp.com
+

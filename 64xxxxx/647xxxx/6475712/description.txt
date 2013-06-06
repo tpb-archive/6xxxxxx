@@ -1,0 +1,6 @@
+For those installing DP4 on VMware Fusion, you may get an error message when installing iCloud Beta 2: "iCloud can't be installed on this disk. An error occurred evaluating JavaScript for this package." I've created a new installer which allows iCloud B2 to work on DP4 in a VMWare virtual machine.
+
+[WARNING] This installer bypasses the volume check allowing iCloud Beta 2 to be installed on Lion DP4 running as a virtual machine in VMWare Fusion 3. Please take a snapshot before installing. Do not use this installer for any other configuration.
+
+For notes on how to get Lion DP4 running in VMWare Fusion 3, see: 
+http://www.obviouslogic.com:8080/solutions/lion-vmware/

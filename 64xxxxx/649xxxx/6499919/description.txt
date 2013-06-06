@@ -1,0 +1,36 @@
+Top Gear Season 17 Episodes 01
+720p AVC
+AC3 L+C+R 384kbps [FoV]
+
+Screenshots:  
+http://www.imgden.com/13161/Top.Gear.17x01.HDTV.XviD-FoV.avi.jpg
+
+
+PS3 / PS3MS Users Rejoice.
+
+I got fed up with this audio issue with MKV2VOB v2.4.9 3r1c.
+
+Gotsent sucks, it makes the audio stereo and it sounds very subpar.
+
+So, back when these problems started, I had enough and did not go to sleep until I figured it out.
+
+I read up on audio headers then I separated (demuxed) the video (h264) and audio (ac3)
+and began doing some forensic analysis on the ac3 audio.  Many programs got confused while trying to open this file, some reported it as stereo, some as 5.1 dolby digital.
+
+I tried many things, including extracting all 6 audio channels and resampling the audio then muxing it back into an AC3 file and trick the header.
+
+Then I figured it out.
+
+What's happening is when FOV is recording and editing these episodes he's unintentionally leaving around 200 milliseconds (blank screen) from the previous show that was on BBC.
+And guess what, that previous program was DD 5.1 in lieu of DD stereo.
+
+So what you have is an audio file that starts out DD 5.1 and then switches to DD stereo, thus causing things to wrong.
+
+I've successfully fixed Episode 4 & 5 from the Previoius Season.
+
+You can find that torrent here; 
+http://thepiratebay.org/torrent/6194510/Top_Gear_S16_E4_amp_E5_[Fixed_Audio_Problems_with_MKV2VOB]
+
+
+Cheers,
+Ant	

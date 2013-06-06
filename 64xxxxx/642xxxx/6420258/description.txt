@@ -1,0 +1,36 @@
+CALIBRE E BOOK MANAGEMENT (FOR WINDOWS)
+Version : 0.8.2
+
+Also available for Mac & Linux OS
+
+Manage, Convert Format, View E Books, Transfer to Reader & Obtain News from Web and read in E Book formats
+
+Calibre is a free and open source e-book library management application developed by users of e-books for users of e-books. 
+
+Library Management 
+Calibre manages your e-book collection for you. It is designed around the concept of the logical book, i.e., a single entry in your library that may correspond to actual e-book files in several formats.
+Calibre can sort the books in your library by: Title, Author, Date added, Date published, Size, Rating, Series, etc. 
+In addition, it supports extra searchable metadata: 
+Tags: A flexible system for categorizing your collection however you like
+Comments: A long form entry that you can use for book description, notes, reviews, etc.
+
+E-book conversion 
+Calibre supports all the major e-book formats. 
+Input Formats: CBZ, CBR, CBC, CHM, EPUB, FB2, HTML, LIT, LRF, MOBI, ODT, PDF, PRC**, PDB, PML, RB, RTF, SNB, TCR, TXT
+Output Formats: EPUB, FB2, OEB, LIT, LRF, MOBI, PDB, PML, RB, PDF, SNB, TCR, TXT
+** PRC is a generic format, calibre supports PRC files with TextRead and MOBIBook headers
+The conversion engine has lots of powerful features. It can rescale all font sizes, ensuring the output e-book is readable no matter what font sizes the input document uses. It can automatically detect/create book structure, like chapters and Table of Contents. It can insert the book metadata into a "Book Jacket" at the start of the book. 
+
+Syncing to e-book reader devices 
+Calibre has a modular device driver design that makes adding support for different e-reader devices easy. At the moment, it has support for a large number of devices, the complete list of which is here. Syncing supports updating metadata on the device from metadata in the library and creation of collections on the device based on the tags defined in the library. If a book has more than one format available, calibre automatically chooses the best format when uploading to the device. If none of the formats is suitable, calibre will automatically convert the e-book to a format suitable for the device before sending it. 
+Downloading news from the web and converting it into e-book form 
+Calibre can automatically fetch news from websites or RSS feeds, format the news into a ebook and upload to a connected device. The ebooks include the full versions of the articles, not just the summaries. Examples of supported news sites include: 
+The New York Times ,The Wall Street Journal
+The Economist ,Time, Newsweek, The Guardian
+ESPN and many, many moreÎ“Î“Ã©Â¼Âª
+
+Comprehensive e-book viewer 
+Calibre has a built-in ebook viewer that can display all the major ebook formats. It has full support for Table of Contents, bookmarks, CSS, a reference mode, printing, searching, copying, customizing the rendering via a user style sheet, embedded fonts, etc. 
+
+Content server for online access to your book collection 
+Calibre has a built-in web server that allows you to access your ebook collection using a simple browser from any computer anywhere in the world. It can also email your books and downloaded news to you automatically. It has support for mobile devices, so you can browse your collection and download books from your smartphone, Kindle, etc.

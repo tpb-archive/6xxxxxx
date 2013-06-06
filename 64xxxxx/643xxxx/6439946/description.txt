@@ -1,0 +1,54 @@
+8.3 CHANGELOG
+
+Added Support for 2 connected USB drives with the Games List Filtering [L2+R2+L1].
+Games List Filtering Last State is now saved & restored on Startup (showing HDD, USB or
+ALL Games).
+
+Added proper spoof detection for any CFW version, both original & spoofed versions are
+shown.
+
+Added [USB Mount] support for FW 3.15,now works on OFW/CFW ver 3.15, 3.41 and 3.55.
+Added a Smart-Scan function that provides fast Startup/Games Listing if no devices change
+occurred.
+
+Added the Option to Enable/Disable "Notification Dialogs" from Settings Menu [Select].
+Added the Option to Enable/Disable "Background Music" from Settings Menu [Select].
+Added more Optimization to the Game Copy function/Showing the Progress-Bar for all
+Games copied.
+
+Added a new 3D like Display Mode, the "Home Theatre". Credits to "CondorStrike" the
+great artist behind it.
+
+Added the Option to Show/Hide Games List with [L3] for the new "Home Theatre" Display
+Mode.
+
+Added Support for "Hermes v4/Syscall8" payload to version 3.41/3.55. Credits/Respect to
+"Hermes".
+
+Added Support for "PL3" payload to version 3.15/3.41. Credits to Anonymous for his great
+"Payloader3".
+
+Added Support to multiMAN's [XMB Last Game Played] shortcut, Last played Game can
+be mounted from XMB.
+
+Added Support for Loading USB Games with Big/Split-files by caching the Split-Files to
+internal HDD.
+
+Added Support for [Ext/USB Game Data Install] it can be Enabled/Disabled for a Game
+using [L1+R3].
+
+[Split-Files caching] & [Ext/USB Game Data Install] implementation is 100% compatible
+with multiMAN: - both managers will share the same folders to preserve HDD space.
+Credits/Respect to Dean/multiMAN's Author.
+
+Added the Option to Delete specific Game's cached files (Split-Files & USB Data Install)
+with [Start].
+
+Added Support for the Left Analog Stick (Up/Down same as L2/R2 = Fast Scroll, Left/Right
+= Page up/down).
+
+Added the option to Restart the Manager with [Start+Select] to refresh the Games
+List/Settings if needed.
+
+Fixed a bug in the FTP Server which prevented some FTP clients from connecting, thanks to
+Plastrd.

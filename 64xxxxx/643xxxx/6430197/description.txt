@@ -1,0 +1,45 @@
+Official Web Site:  http://www.tumultco.com/
+
+Create beautiful animated and interactive web content with Hype! 
+
+Hype's HTML5 output works on all modern browsers and mobile devices like iPhones and iPads. No coding required. 
+
+â€¢ Interactivity & Animations 
+Hype's keyframe-based animation system brings your content to life. Click Record and Hype watches your every move, automatically creating keyframes as needed. Or, if you'd prefer to be more hands-on, manually add, remove and re-arrange keyframes to fine-tune your content. Hype lets you make as many scenes as needed, and a variety of actions can switch between scenes using smooth transitions. Use the power of multiple timelines to run animations based on mouse/keyboard events. 
+
+â€¢ HTML5 
+Hype outputs state of the art HTML5, CSS3 styles, and Javascript. It supports cutting edge features like box shadows, reflection, and 3D transformations. Hype tries hard to deliver 100% fidelity across all browsers. For example, if the high-performance CSS3 transitions aren't supported, Hype will fall back to Javascript-based heartbeat animations. When there are no good fallbacks, Hype warns about browser incompatibilities, so you're never caught by surprise. 
+
+â€¢ WYSIWYG 
+Hype's scene editor is powered by WebKit, the same modern rendering engine that powers Safari. What you create in Hype is what your viewers will see in the browser. Hype's rich inspector lets you dive in and easily tweak every aspect of your content. Intelligent guidelines, arrangement, and sizing tools give fine control over element placement. 
+
+â€¢ Exporting 
+Hype creates an entirely self-contained directory that holds all the resources and Javascript for your content. Upload that directory to your web server, copy and paste three lines of HTML into your exiting web page, and you're good to go. If you have a Dropbox account, Hype can publish to your Dropbox public folder for easy sharing.
+
+â€¢ Flexibility 
+Hype provides a rich set of tools for styling, but sometimes you need to get hands-on. Every element's inner HTML is only a couple clicks away and all of your changes are rendered on the fly, giving a live preview as you edit. The integrated Javascript editor lets you write custom functions triggered by user actions. The Hype Javascript API can manipulate the scenes from inside or outside of the embedded Hype content. 
+
+â€¢ Native Mac Experience 
+Hype was written in Cocoa exclusively for Mac OS X. It is intuitive and easy to use, letting you focus on creating great content. Hype launches in a second.
+
+
+
+What's New in Version 1.0.1
+
+- Fixed issue where the preview/export could be blank
+
+- Fixed issue with deleting duplicated scenes using buttons
+
+- Easier separation between HTML and Resources (you only need to 
+   edit the script tag's src in the HTML)
+
+- Fixed issue preventing Hype documents from being embedded in 
+  iframes
+
+- Fixed text shadows not always showing up for buttons
+
+System Requirements:
+
+Mac OS X.6.6 and above
+
+--- PLEASE SEED ---

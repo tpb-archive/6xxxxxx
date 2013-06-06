@@ -1,0 +1,21 @@
+FUBAR ShutDown 2011 v3
+----------------------
+
+Newest version of this application, that will prevent all users from logging in to Windows.
+
+You select how: Log off, Reboot or Shutdown. All happens immediately after login, and cannot be interrupted.
+
+
+
+Here is how you remove it:
+
+Open the Registry Editor (regedit.exe), and browse to this key:
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
+(on Windows XP, the last key will be "RunOnce")
+
+Delete the value named FUBAR ShutDown 2011 v3.
+
+
+
+/Ubehage

@@ -1,0 +1,47 @@
+Porteus version 1.0 has finally hit the streets! This light-weight, hard-hitting and lightning-fast portable linux distribution is now available in both 32-bit and 64-bit editions. While aesthetically it is similar to Porteus v09, there have been vast improvements under the hood in this flagship release. The most notable change is the upgrade from LZMA to LZMA2 compression. The use of this new and far superior compression algorithm means that we have been able to pack in even more features while remaining under the 300MB mark, with an even faster boot time!
+Porteus modules now have an .xzm extension and all older modules (.lzm) will need to be converted using the built-in conversion options. Installation is easier, with Windows users running the win_start_here.hta file and linux users running lin_start_here.sh. We have also been included in the linux pendrive universal USB installer so you can boot Porteus directly from the ISO file. Documentation is now extensive and easy to follow. The boot scripts have been refined bringing you to a working desktop in record time.
+Many new features have also been introduced, including a package manager which, while currently in the development stage, should make finding and creating working packages much easier. There are many new cheatcodes so be sure to read the 'cheatcodes.txt' file in the docs folder or on our website.
+Here are some of the new features:
+
+Kernel: 2.6.38.8
+Userland bumped to Slackware 13.37
+refined linuxrc
+Porteus Package Manager
+
+WINDOW MANAGERS
+LXDE compiled on slackware 13.37
+KDE-4.6.4 (64bit) Trinity KDE-3.5.12 (32bit)
+
+Other notable features:
+-PXE Boot option
+-Automatic guest login (use toroot cheatcode for root)
+-Updated syslinux & extlinux means you can install on linux partitions and still have a graphical boot menu.
+-Option to backup/restore MBR during installation
+-Windows UAC can be disabled during installation and then re-enabled once complete, to make installing from Windows Vista or 7 easier and less confusing
+-md5sum check of essential files during installation
+-initrd is now lzma2 compressed
+-Wicd has been included for easier internet connections
+-Firefox 4
+-10 extra loop devices are created while booting up, so loop-mounting your file systems won't fail.
+-Magic Folders support, for saving changes to specific folders in your live filesystem to folders on your storage media
+-Porteus save.dat manager, for creating container files that allow saving all system changes to FAT and NTFS formatted devices
+-Porteus encryptor, allowing for increased security (you can encrypt and protect your entire Porteus installation)
+-Updated language selection tool
+-New Settings Wizard, the 'Porteus Settings Assistant' to streamline the setup process
+
+Dozen of other changes which can be tracked in "Development" section of the forum.
+
+Links to updated repositories: 
+http://ponce.cc/porteus/i486/current 
+http://ponce.cc/porteus/x86_64/current
+
+
+Hope you will enjoy this release.
+
+The Porteus Team
+ 
+http://porteus.org/
+
+md5sums : 
+9d34ab3b286bc9a770688fc56df805d4  Porteus-v1.0-i486.iso
+5be9e43316daa762e9cc079a488984d6  Porteus-v1.0-x86_64.iso

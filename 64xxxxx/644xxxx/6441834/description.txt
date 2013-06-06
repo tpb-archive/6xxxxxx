@@ -1,0 +1,192 @@
+AI Roboform is a push-button web form filler with some serious Artificial Intelligence (AI) inside. AI Roboform allows you to define your personal profile or "usual" responses to a web form.
+
+This information is then saved within AI Roboform, and when you need to fill a form, just click "Fill Forms" button, and form is filled out. Being fully client-based AI Roboform can be very fast, it never disables web sites functions and AI Roboform can also work in pop-up HTML windows. The most accuracy - it fills 95% of all fields correctly.
+
+* All your logins in one place
+Keep all your logins completely in sync. No more worries about remembering your passwords. Access your favourite site quickly and securely.
+
+* Fill forms with a Single Click
+Save time with easy one-click form filling. Let Roboform Password Manager fill your data on almost any web form. No more needless typing!
+
+* Access from anywhere
+Whether you are on your desktop, laptop, net-book, or mobile device, you can always securely access Roboform password manager from anywhere.
+
+* What's New in Roboform 7?
+Roboform 7 has a completely updated look and many new features designed to make your online life easier and more secure.
+
+Here are some key features of "AI Roboform":
+
+* Autosave passwords in browser
+* Autofill passwords to login form
+* Click login button for you
+* Save offlive passwords & notes
+* Generate Sercure random passwords
+* Encrypt passwords and personal info using 3-DES
+* Put passwords on USB keychain for extra security
+* Backup & restore, Print your passwords
+
+--------------------------------------------------------------------------------
+
+[INSTALLATION NOTES]
+
+1. Before installing you will need to use WinRar or a similar program to extract the files.
+
+2. Install the Trial Version, it does not matter if this is a new installation or you have an existing 7.x.x version
+
+3. During the install ROBOFORM should have closed all browser(s) and windows explorer(s) (or will ask you to do so if it fails to, please do this step if needed), once the install is complete it will force open your default browser!! Close it!! And you should note that a "TaskBar Icon" from Roboform is still open at the bottom right corner of your screen (use the show hidden option if not seen (Green monitor with 2 robot green eyes)), !! Right click and chose exit!!
+
+4. Go to C:\Program Files\Siber Systems\AI Roboform\ (or if you are using a 64 bit windows C:\Program Files (x86)\Siber Systems\AI Roboform\) copy the "Patch-RuBoard.exe" file to the folder
+
+5. If your using a 32bit windows, then just double click the "Patch-RuBoard.exe" file, if youâ€™re on a 64 bit then it is suggested you right click on the "Patch-RuBoard.exe" file and select "Run as an Administrator"... the black screen will tell you successful or not.( note: on every upgrade the patch must be re-used)
+
+6. To verify 1st go to your Start menu, then programs (or All Programs) and select the Roboform menu and choose "TaskBar Icon" then go to bottom right corner of your screen and right click the "TaskBar Icon"(use the show hidden option if not seen (Green monitor with 2 robot green eyes)), go to help (near the top with the blue ?) and from the drop down options choose "About...) and it should not say free trial any longer but on the right near the big picture it should say License: Roboform Desktop Enterprise right under the version #.
+
+7. That is it  
+
+**This has been tested successfully from version 7.1.0 through 7.3.1's Desktop versions,
+Scanned clean with Norton, NOD32 & Kaspersky 2011**
+
+**If you get a pop-up asking you to download GoodSync disable "Automatically Sync With Roboform Online Server" under the Sync icon within your browser.**
+
+--------------------------------------------------------------------------------
+
+News and details from current and past versions of RoboForm.
+
+Version 7.3.1 
+* Opera: new RoboForm Adapter works better, faster and does not crash. 
+* Opera/Chrome: RF toolbar visibility is now remembered between browser runs. 
+* Opera/Chrome: Remove console output from release build. 
+* Update Master Password: misc fixes. 
+* Background Sync: fix background sync does not report sync errors. 
+* RoboForm Everywhere Setup: misc fixes. 
+* Rework URL open functions, Login options should work better now.
+
+Version 7.3.0 
+* Chrome: new RoboForm Adapter works faster and does not crash. 
+* Master Password Change dialog: new implementation, works much better. 
+* Master Password: allow Digital Persona to fill our Master Password. 
+* IE 7: fix hiding of lower toolbar is not memorized and it appears on restart. 
+* Sync: show errors in Sync in balloon. 
+* Sync: remove extra sync after activation. 
+* Firefox: Fix SaveForms/FillForms commands are directed to wrong tab. 
+* Win32: fix filling password in WindowsForms-based applications. 
+* Always start RF taskbar icon with standard integrity level. 
+* Fix import from Outlook notes. 
+
+Version 7.2.9 
+* GUI: improve Master Password request dialog. 
+* GUI: redesign Send by Email dialog. 
+* GUI: Fix minidialog does not disappear immediately when called by keyboard shortcut. 
+* Fix export to IE favorites. 
+* Sync: make WinInet option really work, fix proxy issues. 
+* Fix Thunderbird does not open .RFP files attached to email in RF. 
+* Editor: fix Copy Text from Safenote does not add it to MRU List. 
+* Editor: preserve 'Always on top' flag between RF Editor runs. 
+* Editor: fix protect/unprotect menu items. 
+* Win32: fix incorrect save/fill of edit controls in VB6-based applications. 
+* Win32: fix attaching to SAP when MSHTML is present in it. 
+* Fix form filling on certain forms. 
+* Fix crashes. 
+
+Version 7.2.8
+* Rf2Go: fix infinite run of PortableRoboForm.exe closer.
+* Rf2Go: new icons.
+* Firefox: draw default RF Toolbar background if background drawn by Firefox is dark.
+* Sync: improve proxy authentication and server authorization.
+* Sync: Fix recovery from bad RF Everywhere license files.
+* Basic Auth AutoSave: show previous AutoSave dialog when new one comes up.
+* Fix crashes.
+
+Version 7.2.7
+* Chrome: fix runtime error R6034, cause by lack of manifest.
+* Chrome/Opera: fix missing NSPR4.DLL error.
+* Opera: fix detection when Opera is installed for a single user.
+* Sync: implement transactional Analyze + Sync.
+* Sync: come forward when conflicts or errors are detected.
+* Sync: add WinInet option for Sync settings, for complex proxies.
+* Sync: add to Sync menu: Delete Recycle Bin, Remove Locks, Delete State.
+* Sync: add turning Sync On/Off from Sync menu. Changes Desktop/Everywhere license too.
+* Win32: fix crashes related to looking into windows via Accessibility API.
+* RoboForm2Go: new splash window, new icons.
+* New Master Password request dialog.
+* Fingerprints: detect UPEK device from IE in Protected mode.
+* Fingerprints: fix device detection.
+* AutoFill: fix passcards order in AutoFill window depends on field values.
+* Form filling: increased phones length for Haiti and Morocco. 
+
+Version 7.2.6
+* Chrome: fix more crashes caused by re-enterability.
+* Firefox: let browser catch crashes when RoboForm is not on the stack.
+* Opera: add native RoboForm extension for Opera, installed by RF installer.
+* Opera: fix RoboForm extension was not installed properly into paths with non-latin chars.
+* Win32: fix freeze in iTunes when Basic Auth window comes up.
+* Win32: add Windows Applications tab to options, used to exclude apps from RF integration.
+* Win32: add flag to installer that allows to turn off RF in Windows applications.
+* Win32: fix Outlook integration.
+* Win32: fix selecting second passcard cannot be done when in Skype.
+* Fix bugs when passcard is saved over existing bookmark and vice versa.
+* Save Forms: test new file name correctness.
+* Save Forms: Fix forced save does not work web page without password fields.
+* Save Forms: show Save Forms dialog on Alt+Click, not AutoSave toolbar.
+* Identity Editor: add vertical scroll bar and world wrap for multiline fields.
+* SafeNote Editor: fix when safenote is more then 64K then it is trimmed.
+* Sync Setup: fix sometime request of Master Password appears without edit box.
+* Watcher: fix crashes and asserts.
+* Fix Tools->Search Files->Clear History does not work.
+* 2Go: fix Everywhere + 2Go not properly indicated in Help -> About.
+* Add welcome popup for new users, as in ver 6.
+* Add import from 1Password.
+* UI: improve Chinese translation.
+* Identity form fill: add Jamaica country.
+
+Version 7.2.5
+* Chrome: Finally fix Pure Virtual Function Call bug and crashes.
+* Chrome: make main RoboForm button switch RF toolbar on and off.
+* Firefox: fix showing all RF context menu items, show only selected items.
+* Firefox: fix XUL initialization when other addons are present.
+* Internet Explorer: do not show Floating toolbar if RF toolbar is disabled.
+* Speed up reading of user data files by RoboForm, noticeable on non-local drives.
+* Win32: fix crashes when attaching to VB6 applications.
+* Fix cycling in crash catcher.
+* Identities: add formats for Afghanistan, Iran, Iraq, Paraguay, Jamaica.
+* Improve Chinese and Russian translations of UI.
+
+Version 7.2.3
+* Chrome: Fix RoboForm missing Submit buttons.
+* Added Adapter for SeaMonkey 2.0.
+
+Version 7.2.2
+* Chrome: speed up on pages with huge forms such as usairways.com.
+* Chrome: fix Auto-Submit on pages such as jetblue.com.
+* Firefox: if JS toolbar is shown, always show full toolbar on top of it.
+* Firefox: remove obsolete icons from browser context menu.
+* Fix integrity check of RoboForm, so that corrupted RoboForm DLL is detected.
+* RF Everywhere: increase max allowed interval between syncs from 7 days to 30 days.
+* IE: show lower toolbar on popup windows, such as login at anz.com.
+* ALT+click now forces non-modal AutoSave toolbar, not modal Auto-Save dialog.
+* Win32: fix crashes when integrating with SAP application.
+* Installer: fix does not automatically close processes when doing silent install.
+* Enterprise: make EXE and MSI installers more silent.
+* Enterprise: fix bugs in MSI installer, when installed from group policy.
+* Import: add import of passcards from Norton Identity Safe CSV file.
+* Editor: allow pulling selection onto Identity summary fields.
+* Editor: fix squares at the end of the lines.
+* Editor: fix clicking fingerprint icon shown Cannot load DLL message.
+
+Version 7.2.0
+* Firefox 3: fix Cannot Initialize RoboForm bug.
+* Firefox 3: fix app version comparison in chrome.
+
+Version 7.1.9
+* Firefox 3 and 4: fix RoboForm Adapter installer.
+* Firefox: fix toolbar visibility issues.
+* Firefox: fix detection of context menu items for non-English languages.
+* Chrome: fix errors in GMail and other AJAX sites.
+* Chrome: add support for Chrome ver 10 DEV.
+* Win32: fix crashes on pages that are writing in VB 6.
+* Fix crash in Slim Browser.
+* Editor: add RoboForm -> View -> Status bar that shows modification time, encryption type.
+* Editor: add RoboForm -> View -> Always On Top flag.
+* Editor: disable drag-and-drop operation if the source is the same control.
+* Editor: fix Undo after drag-and-drop.
+* Editor: make Copy Home and Jump Home commands more prominent when in non-RF folders.
