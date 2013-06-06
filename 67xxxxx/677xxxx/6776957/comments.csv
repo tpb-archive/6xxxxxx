@@ -1,0 +1,107 @@
+User Type,Username,Date,Text
+,TomSleeUK,2011-10-29T22:56Z,"Is it update-able? If not, what do you guys usually do, uninstal and intall a new version whenever it comes out?"
+[V],Anacondaz,2011-10-30T07:53Z,+1 rep for another great upload
+,OGJohny5,2011-11-22T15:02Z,Thanks for the Up
+,ultrapulse,2011-12-02T02:53Z,"M3WMTE-495HVH-6M0MR9-CMK6D0-T5WJEX-WBFYY7
+Y354YC-9YBMVD-BJC9V0-J2J0HA-FW8VD1-8163A3
+KFW89H-2A9BE6-AEJ3DJ-0D5Y2P-9BK09J-HWXHBP
+B4Y1B7-YMCHA9-QQBXFT-MNTW1W-617KVX-7FF06H
+48WF3V-TM6551-MP37BR-P7P3NY-BRDX1X-PPQWH7
+EC3HCT-0MR9J3-TJC73W-EW0C9F-VE2TPK-7A253C
+6EA7F4-18BVJ6-YTAXH6-74W350-55HM45-Q9MP8M
+7Q7B33-PANMP2-A39A2D-KXHTFC-QYXQ1J-0KXJTC
+CFJBNW-A7KJ48-N9K9XA-Y7NV98-AH25NK-HE2KJ3
+8RJ339-MYT6PP-68K23C-V39NY9-DQ8AK0-5AB05V
+89NJTY-9A70KA-2PAV9V-0W31C8-HBYVXN-PECFRA
+0EVXNX-WKJV4T-TYKK0Y-PQD6BP-RVE65X-D93P05
+R21E4K-KB4T0J-PBWNWK-MY967J-1XRTDR-5J353H
+1X0NDR-EAT6BH-WB1WA7-ERHMJ0-K037H4-B7CMPB
+N7AH30-62JPHW-9Y2NE2-7NHD1C-HJ96FD-P58P7K
+V4PX1K-TJNMX0-AMRHJR-5255WR-4D23CQ-NY20Y9
+DH256Y-CEK6MX-M8M062-7EHV6D-YMVDA1-7NCDBN
+1MJCRA-D7FMEB-734QDJ-6FH3K3-AAXNRV-3V5ARB
+RNB7XT-82MTAP-R53K1P-Q8BVC2-B5R1P0-FT46EJ
+KERF49-JF2TRT-T12AQJ-0WR43Y-3H99PR-31NJJ1
+WCPMK6-74TQQR-W5DYQ0-D3KX7H-X804F4-N5N66X
+7N1QQ0-RWE5DT-792MHM-97QKKQ-1Q7AT1-EW8VHN
+WEJK50-D41EBQ-11WVNP-C3VEF7-E2QY8A-N50HAD
+C17R04-8HTDY9-K8JQ2T-2RQC0K-W126MN-FBJ78E
+04T4C7-23M12A-KKVT82-X1XJC7-C56PP1-FHC6TK
+BM14DT-4456P0-C3MFV6-5108D3-4RC8RV-43X4AQ
+YB9TAH-WKRAV7-AC109M-YW35CE-E9WRM6-B8FPJC
+W7NT20-F2P9NE-DBTKNQ-E5NQAF-62D3VT-BR1BHA
+VHN13P-PRB1NR-F4PQPP-BJ3QMH-KPH0M9-5T2F2M
+PNAKF4-4VY6N6-HNNARD-A7R73P-4T3EDC-HRKJVH
+WTXFKT-8E6RDR-0NKNMM-89H4XT-C07QRH-JVMBJ5
+TVEJXF-YM18F9-AP61E1-4XCQ2N-JMJC4R-8T81VM
+65YJF1-MCW7HY-K4A4PM-W2CDC1-KV80T5-EC0KTP
+DXNJH6-BMJF00-8RC867-PF5M5H-M2MT39-WDHW9F
+F42MYM-7N45R8-FY915E-H9QHP9-YFWWM2-8HA3VA
+K6CPBH-VTHNP4-XX9WKF-5HHTNK-02V60W-5E9513
+HNCA32-WRN42H-RMYFNR-RAFCV9-J2BD3D-PYMBAM
+KPTXJD-CYW93R-XDCMKX-ND75AM-06RTCV-YDMV7A
+D2JA5P-FVF9C7-EVKAC4-WD0RVJ-QVM0FN-5FP9HE
+VQWD8B-2JE6BX-VXHEYJ-KJN1HJ-DM76CP-HEWMM5
+KWBT21-KV67C7-1FDBAW-NA8C19-HTFXDX-Y7NAJ2
+MKDH4H-DCDDEA-QK92NA-XFX1Y7-N33T17-156XFT
+D4Q040-H79X4B-TBHP7X-8R78AP-3RPATH-5DC0M1
+MTXBDR-N8TJNR-89BTBV-YWRKYN-A8XNAW-B9X4D6
+R4E5F0-Q9VRWC-JVHDJ0-DXE77E-9DAYXN-5MRTVH"
+,ultrapulse,2011-12-02T02:55Z,type this line into your hosts file to block the online serial check: 127.0.0.1 secure.tune-up.com
+,V8E5JI,2011-12-03T17:19Z,"@ultrapulse
+
+whats a hosts file? I don't get it . ."
+,Enepsis,2011-12-17T10:31Z,"@V8E5JI
+
+Seeing as how no one will ever want to answer this for you, I'll help you out. 
+
+In System 32/drivers/etc/ contains a file called ""hosts"". It does not have a file extension, but you can open it in Notepad. 
+
+Copy that line, and paste it at the bottom of your hosts file. Save, and you're done. So easy it's scary."
+,watersx5,2012-01-03T01:44Z,"Awesome, worked great, thanks!!
+
+Note about host file, 'run as administrator' first to edit the file!!! :-)"
+,memon,2012-01-03T12:21Z,"@watersx5 @Enepsis
+some help please. i opened the hosts file in notepad and typed and did everything Enepsis told to do. Yet it won't save the file although i am the administrator. says cannot save in this destination and need to take permission from administrator although i am the only administrator. the os is windows 7. the help would be much appreciated."
+,watersx5,2012-01-04T00:54Z,"@saadganatra - honestly, you are not in the administrator mode.  You have to right click on notepad and click on run as administrator even if you are the only or 'admin' on the computer, it will work that way...if that doesn't work, I do not know how to help you.  Youtube it also and it will walk you through the steps. GL"
+,amaleena,2012-01-04T03:41Z,ULTRAPULSE.............YOU ARE FUCKEN' AWESOME.  THANKS FOR POSTING KEYS!
+,Juggalo4Lyf3,2012-01-04T05:59Z,"saadganatra- You open the host file in notepad, then save it to your desktop. Then you copy it to the path  System 32/drivers/etc/. It will ask if you want to replace, hit yes. "
+,memon,2012-01-04T14:01Z,"@watersx5 & Juggalo4Lyf3
+thanks a lot people. figured it out."
+,halcyonhiatus,2012-01-15T03:18Z,Works great. Thanks!
+,OverlordAlexndr,2012-01-18T22:32Z,"Yep, it works.
+
+By the way, it does NOT have a keygen Included. Though you dont need one to install it anyway :]"
+,th3.Le0,2012-01-20T23:45Z,"If you have tried opening the host file (C:\Windows\System32\drivers\etc\) as an administrator with notepad, and failed to save the file then turn your antivirus off temporarily and try again. Few Antiviruses block host file modification while their protection is on (Avira for example) GoodLuck :-)"
+,Wi-Foo-er,2012-01-27T16:59Z,"click custom install then un-select the update option(s)  
+
+It dont need any updates, thats just to check product key"
+,MuffinManxD,2012-03-19T11:56Z,"For people who don't want to open keygen.
+
+PKR7TC-M5NAP8-RA231T-XB5TKT-HWF5TT-779KHD
+
+ K4JAPK-X62T1B-EPKDVE-Q9A679-VDNPPB-8TKH39
+
+ HTHW97-R4EFRJ-E447Q3-FMJFD1-R8PNX1-B4193H
+
+ CD4P61-TDPMWV-KEB82J-J8WNHT-H0R45D-W2HR3F
+
+ BFRR9D-V80RR4-AD17MQ-6K9R11-C69E7Q-RK81T5
+
+ 4ECX4M-VWDPDW-EJ3YFF-1F8E2N-N0XH47-VH2WCV
+
+
+These keys work 100% even if you DL it from the homepage Thanks!"
+,Esrin69,2012-03-23T06:37Z,Amazing thanks for upload xD
+,kupus99,2012-03-25T10:23Z,@MuffinManXD Thanx for uploading this keys... :D
+,alexbnc,2012-03-29T22:09Z,Is this supposed to help your computer run faster? What a joke. I have been waiting for 6 hours for a 200 Gb hard disk to be checked by TuneUp Disk Doctor (what a name!). Aren't computer supposed to save your time? At least I didn't pay for it.
+,prateekactive,2012-05-08T12:56Z,Working fine .... thanks
+,Johnny_Bravo123,2012-05-12T13:39Z,Hi scene4all. Thanks man good job.
+,definitelyNotspongebob,2012-05-17T18:26Z,"im about to run the program I would like to thank *scene4all* and the people who are helping out with problems with the program
+
+ thanks dudes"
+,conny_the_server,2012-05-29T19:40Z,"Almost all applications like this are utter bullshit.
+What you can use, is CCleaner, to detect and remove temp. files, which can eat some hdd.
+
+I think this is a waste of time. Great with uploads thou. Always great with uploads."
+,sky7biroe,2012-05-31T11:37Z,@ultrapulse....thx buddy..awesome job!

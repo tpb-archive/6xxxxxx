@@ -1,0 +1,107 @@
+User Type,Username,Date,Text
+,scrdppy,2011-10-25T21:02Z,"steam_api.dll  you included is 16kb which means it will work only in singleplayer - no networking and no steam required (also savegames are in ""out\save"" folder in gamefolder not in steam folder (since steam isn't required)
+
+To make it work in coop which requires steam you use the steam_api.dll which you included in Bin_Backup folder, 121Kb
+
+This also misses the right language file for Russian (if you want that then get it from the demonoid torrent for update 5 patch -search there- which also has the crash-on-startup fix in game.ini - which is the ""En"" must be ""en"" instead for Locale(""en"") )
+"
+,scrdppy,2011-10-25T21:09Z,"Also, in your instructions ""To Play Co-op:"" step 2:
+the exe in Bin_Backup is the original one (uncracked) so it won't work, you need to use the same exe you provided when playing coop (386,560 bytes - it's actually the .exe from reloaded iso in Crack folder, though someone modified it and removed the Reloaded text inside it... some Raven group I believe) ,
+for coop just need to add that 121Kb steam_api.dll rather than use the 16kb one, that's all ; the exe in Bin_Backup is for informational purposes only - so to speak :)  ie. never run that one"
+,padrill88,2011-10-25T22:47Z,i have a question and this was probably was solved in old updates but i never updated the game till now cause i heard about the save game issue so   how do i manage to keep the old save games (singleplayer) after i install the latest update 
+,happyelf,2011-10-26T00:44Z,"i tried this but get an application load error 5:0000065434. had game working fine in co-op until about a week ago when i got a steam error but can't get it to work at all now. I've copied all files from both folders into game directory as instructed, i'm trying to run as admin but getting nowhere. Any help would be much appreciated"
+,amancebado,2011-10-26T05:24Z,Thank you. For me works fine.
+,amancebado,2011-10-26T05:25Z,Re-playing singleplayer campaing.
+,Insomneac,2011-10-26T23:12Z,"Although this update works, it has a serious flaw that the retail version doesn't.
+
+The level cap is now 60, however you're supposed to get higher quest XP.
+
+With this patch, you only get the same exact quest XP as before.
+
+So getting to level 60 takes forever, and on top of that, if you have decent weapons their stats will halve.
+
+With the retail version, it still reduces your weapon stats (if they're high) to balance the game, but it gives you heaps more quest XP so you can easily reach 60.
+
+EG: First few quests at the start of the game that Sinamoi gives you;
+
+Retail: 18,000 XP
+This version: 800 XP
+"
+,CuttURface,2011-10-27T17:28Z,"Did not work for me 
+I followed the instructions. I also installed green luma w/o any issues. 
+
+Started up dead island and got a steam error message.. Can't play game now..
+
+
+Can someone please provide some details on how to install update 5 and play online.
+"
+,scrdppy,2011-10-28T09:10Z,"@Insomneac you get 18k xp when you're like close to level 60, if you were level 1 and you'd get 18k xp from the first main Sinamoi quest, you'd be up several levels just from it, since level 2 requires 2000 xp.
+They did increase xp for quests, you will find yourself doing the continous quests lots because they give some serious 3-5k xp, depending on your current level."
+,scrdppy,2011-10-28T09:11Z,@CuttURface you can read the first 2 comments for that
+,xxela,2011-10-28T14:40Z,"@scrdppy
+I did what you said but after loading screen it crash saying ""Dead Island stop working""
+with this error detail:
+
+Problem signature:
+  Problem Event Name:	APPCRASH
+  Application Name:	deadislandgame.exe
+  Application Version:	1.0.0.0
+  Application Timestamp:	4e64e946
+  Fault Module Name:	game_x86_rwdi.dll
+  Fault Module Version:	0.0.0.0
+  Fault Module Timestamp:	4e9d86ac
+  Exception Code:	c0000005
+  Exception Offset:	00370e9d
+  OS Version:	6.1.7601.2.1.0.256.1
+  Locale ID:	1033
+  Additional Information 1:	0a9e
+  Additional Information 2:	0a9e372d3b4ad19135b953a78882e789
+  Additional Information 3:	0a9e
+  Additional Information 4:	0a9e372d3b4ad19135b953a78882e789
+
+Any idea ?
+Thanks"
+,xxela,2011-10-28T15:25Z,"I figure out eventually
+It seems to work with with the exe from Dead Island folder and with dll from Bin_Backup folder
+I used with Steam / Tunngle 
+
+Thanks for upload  Sunblock !"
+,helliformer,2011-10-30T12:09Z,"I'm getting a ""steam error"" titled error message saying: ""application load error 5:0000065434"". I copied and replaced the files as instructed and singleplayer/steamless worked fine. Now I am using the newest greenluma and the bin-backup files. Anyone figured out the problem yet?"
+,ninotores,2011-10-30T20:05Z,"For people getting the start up error 5:0000065434...
+
+The problem is that whoever made this release didn't actually crack the .exe in the Bin_Backup folder.  If you use the .exe in the other folder, the game will load.
+
+I don't know yet if this has some sort of drawback.  I do know that I started a new character, and although the Game Lobby menu IS selectable, I don't seem to be finding any other servers to join.  This may be because I simply need to get a bit farther into the game first, or it may be because of the .exe work-around.  I don't know."
+,Lucky13s,2011-10-30T20:51Z,"See, I like this update 100x better than update 3. Update 3 makes no fucking sense, has no instructions, and makes you go googling for extra shit that wasnt included in the torrent and makes you figure all that bullshit out in order to work it.
+
+THIS torrent is just.. Heres what it is, heres how to run it, you dont need extra crap to play offline.
+
+Thank you Sunblock."
+,Biopass,2011-10-31T21:03Z,how can i use my saved games from the steam folder with this... since you dont use steam with this it makes my saved games not work :(
+,Furious1964,2011-11-01T16:58Z,Can anyone upload the hotfix?
+,Biopass,2011-11-01T23:10Z,so nobody knows how to keep their save..? 
+,scrdppy,2011-11-02T14:21Z,"maybe see here:
+tunngle net/community/topic/57131-dead-island-master-update-130-v2/
+
+place the dot where it should be"
+,xxela,2011-11-02T15:33Z,"@Biopass
+When you instal this update the steam_appid.txt  file locate in Dead Island folder has a different number than the old one.
+To restore your old saves you have to go to C:\Program Files (x86)\Steam\userdata\88268762 and copy the contents of the folder with the old steam_appid.txt number (Ex 42500) to the new one (61720)"
+,stratax,2011-11-06T04:57Z,@xxela thanks i replaced the save file i backed up from steam and put it into the dead island save folder. (this is biopass).
+,zbfdkjgw,2011-11-22T14:53Z,"u know this update 5 came out on like 20-oct-2011, but they released a hotfix on 27th which changed the name of some mods like Wolverine
+anyway, that is update 6 :P"
+,zbfdkjgw,2011-11-24T04:56Z,"hey men, who has the bloodbath arena DLC yet? it's out and people on you-tube have videos ...
+i only need the dll files , could someone up them somewhere ?"
+,zbfdkjgw,2011-11-24T22:59Z,"if u're like me and u can't wait, u can get update 6 and some hack of bloodbath arena from the last post of the thread called ""Dead Island Master Update 1.3.0 v2!!!"" on tunngle , google that"
+,xxela,2011-11-25T14:22Z,"@zbfdkjgw Thanks for info but  the link for part 6 don`t work. 
+Have you know another link for part 6 ?"
+,antac55,2011-12-04T06:58Z,"@zbfdkjgw also, thanks for the tip. Hope someone's able to update this page if they find anything more recent with more bug fixes. Thanks!"
+,Elskeleto,2011-12-18T21:27Z,I still cant play online   its still grayed out   i changed the steam_api.dll and i lost my game save
+,mjyumping2,2012-02-06T13:38Z,Working! The game is much better now. Faster FPS too.
+,SilveradoNL,2012-03-03T06:09Z,"FINALLY a version of this game without CTD or blue screens.
+All other update's caused random crashes every 10-20 minutes, and even more often when I was @ the lighthouse.  I Tried disabling SLI, reinstalling OS, using old drivers, nothing helped.
+This week i tried again, because of this new update. 
+And in 3 days i have had NO CRASHES AT ALL! YAY!"
+,daaabou,2012-04-16T17:52Z,Works great with reloaded release. Thanks!
+,HTID12,2012-04-18T22:15Z,"Hi guys I copied this into my game directory and I have the reloaded version by the way. Anyway I am up to 92% game progress, at the prison atm. When the game launches, loads then shows a screen saying something about the game maybe corrupted the save that is and that I might be missing some game progress or items. Items are all there but the quest is now stuck/bugged. I forgot to copy everything before overwriting so now Im screwed, stuck at the prison bit and the quest wont work and cant talk to anyone to continue. If I start a new game then everything is fine. What to do, so close to finishing. Please help"
+,Adamix147,2012-05-13T21:27Z,"Everythings fine but dont work for offline coop... Anybody know how to play it without tungle/smartsteam? The problem is grayed game lobby when trying to play without tungle/smartsteam... I think ""-No Steam required to play offline"" that shouldn't be here."

@@ -1,0 +1,29 @@
+FOR TESTING
+
+About 4MLinux.
+
+4MLinux is a mini Linux distro focusing on the following "4M":
+ - Maintenance (system rescue Live CD),
+ - Multimedia (e.g., playing video DVDs),
+ - Miniserver (using the inetd daemon),
+ - Mystery (console games). 
+http://4mlinux.com/about.html
+
+2011-10-21
+
+4MLinux-3.0-allinone-edition RC3 released.
+
+All 4MLinux applications have been compiled under Slackware 13.37 (x86/32-bit/SMP):
+ - kernel 2.6.39.2,
+ - glibc 2.13,
+ - gcc 4.5.2.
+
+Have a nice Linux !
+Zbigniew Konojacki 
+http://4mlinux.com/news.html
+ 
+http://4mlinux.com/donate.html 
+http://freshmeat.net/projects/4mlinux/releases
+
+sha1sum : 16ea4e6b8c4811acf889a95eac1ced917cb870d9  4MLinux-3.0-allinone-edition.iso
+md5sum : 7c5f74ab84eade55613818d44a661909  4MLinux-3.0-allinone-edition.iso

@@ -1,0 +1,160 @@
+User Type,Username,Date,Text
+,0xalis,2011-10-26T02:21Z,"Got a disc error after picking main game... what cIOS works for this? 
+I am using config usb loader and d2x. Pretty sure I was using 248 for ios."
+,sjdiekf,2011-10-26T05:07Z,"same as the other user, I got in and when i click ""main mode"" the game freezes.. no good don't download"
+[V],HobbitGamez,2011-10-26T05:53Z,"@0xalis & sjdiekf
+
+Your incompetence in getting the game to run correctly does not make it a bad file, believe it or not you will have the EXACT same problem with any other NTSC-U version of the game, it is not a bad dump. You will only have different results if you download PAL, which I doubt you will get to work at all on an NTSC-U Wii.
+
+There are several individuals who have gotten this to work flawlessly (including me). I was able to play this on USB Loader GX without any problems, didn't have to change a thing or use any special settings.
+
+If you read this entire thread you will find a solution that works for you, if you happen to not be so lucky:
+
+http://gbatemp.net/topic/312032-wii-2712-kirbys-return-to-dreamland-usa/"
+,sjdiekf,2011-10-26T06:11Z,"i did not mean to offend your file or yourself in anyway so take a chill pill... first off I am a programmer and am not stupid when it comes to file conversions/transfers/usage. I have over 100 games for my wii which i have had chipped first, and eventually softmodded in order to play games from my HDD, tried various settings so you may be right maybe I am unlucky but until now nothing I have tried I have been successful with. "
+[V],HobbitGamez,2011-10-26T07:03Z,"@sjdiekf
+
+In that case, use this guide to install the cIOS d2x v6 base 56 in slot 249. It will most likely work for you if you try different loaders afterward.
+
+http://www.wiihacks.com/other-faq-guides-tutorials/88654-d2x-cios-installation-guide.html
+
+You were not offensive, I like to hear feedback and perhaps I was a little hasty. My goal is to help others get any Wii game working properly (NTSC-U), and all torrents labeled ""wiiGM"" work flawlessly unless limitations are otherwise noted."
+,xlos_crudos4x,2011-10-26T08:27Z,IDK what these people are talking about. Works perfectly
+,0xalis,2011-10-26T15:53Z,"Wtf... I never said it was a bad dump, I was just asking what ios you used because I couldn't get it to work on my 
+D2x 249... but now that you said that's what you use, I  guess I have some work to do when I go home."
+,jkyriac,2011-10-26T18:02Z,"i must admit, i was reaaaally disappointed, when i got that freeze problem. Ultimately i got it to work with configurable usb loader. Thank you for this awesome upload, and wbfs is great. Faster to download and just as great."
+,sjdiekf,2011-10-26T21:32Z,"so I fixed it. I tried the D2x but I couldnt get it to work. Every time I tried the install, it just kept corrupting my usb loader... so i installed my original CIOS that i had, and deleted my usb loader completely, and reinstalled it with the usb loader GX from the website, and it worked. I am assuming that it is due to an out of date usb loader.  hopefully this helps other. I take back the ""it doesn't work"" comment. it works flawlessly once the usb loader was updated"
+,0xalis,2011-10-27T01:35Z,"Ok SO, I finally got it to work. I'm still using d2x 249 on config usb loader, but the problem was I was playing from SD card. For some reason, this game would not work playing from SD card. What I had to do was put my sd card in a USB reader, and use a second SD card to run the loader and then load this as a USB drive.
+So, if you plan on using an SD card... don't keep your hopes up.
+Thanks for awesome upload Hobbit"
+,Robstar360,2011-10-27T02:29Z,"Here is a surefire way to get it to work, very simple. Simply download and install as a WAD the latest Neogamma Channel (Release 9 Beta 47), then use the Wii Download Manager to convert the WBFS file to an ISO and burn to a blank DVD-R. Works great no freezes. Enjoy the game everybody =)"
+,nuttybuddy,2011-10-27T07:13Z,I have read all of the comments and loaded the ios wad pack. I have followed the d2x instructions and i still get a black screen when I use ios 249 or 250 and it freezes after the title screen when I use ios 222 or 223. What else can I do? All of my other usb games work fine.
+,nuttybuddy,2011-10-27T07:42Z,Just needed the newest version of USB Loader GX. Thanks for the great game upload HobbitGamez.
+,rehevkor,2011-10-27T17:04Z,Froze at the main menu. Updated USB Loader GX and it worked. Cheers.
+,Feefsbaked,2011-10-27T19:10Z,"Well. This is in WBFS file format you say? I do not understand why, but my Wii backup fusion will not even recognize this file, so i can add it to my HDD (which is formatted in WBFS format) WBFS manager wont even recognize it. OP should have just uploaded it as an ISO and saved everbody alot of grief.."
+,Lapisex,2011-10-28T18:23Z,"Please help, i don't know what to do. I'm using Neogamma r9 b50 with d2x 56 on my 4.2u wii and i still got an error right after the game starts"
+,Lapisex,2011-10-28T18:24Z,"plus, i sucessfully converted the game to ISO format and perfectly burned it on my DVD-R"
+,ramuths,2011-10-29T03:39Z,I had to download the latest USB Loader GX and updated all recommended IOS using 'Pimp My Wii 2.27' in order to avoid freezing after the title screen.
+,Sing4me,2011-10-29T22:32Z,"Thanks so much! :)
+You are FAST!"
+,zomgbilly,2011-10-30T15:42Z,"AWSOME TORRENT! worked fine for me! cfg usb loader GX 4.1e , ios 248 , the game was installed in 38 seconds!, took me 11 min to download, awsome job! keep seeding!"
+,zomgbilly,2011-10-30T22:23Z,"i want to apologise about my comment above, 
+the game works fine untill you reach the second world. it freezes after a short movie...
+
+tried ios 248/249 i have d2x and using cfg usb loader GX 4.1u wii.
+
+DOESNT WORK"
+,cblind,2011-10-30T23:26Z,"Works for me on the newest wiiflow and IOS249. I am on level 4-2 and still doesn't freeze. On USB Loader GX froze after intro movie though. People, don't report bad torrent just because it freezes for you, that version is real!"
+,tanattanatanize,2011-10-31T08:01Z,"I tried using this on an emulator, but I can't get it to work..."
+,zomgbilly,2011-10-31T17:27Z,"also tried with wiiflow newest version d2x ectect , and still freezes after first boss.
+
+it just doesnt work, its a crap torrent."
+[V],HobbitGamez,2011-10-31T19:16Z,"@zomgbilly
+
+First of all, there is no such loader as ""cfg usb loader gx."" There is configurable usb loader, and there is usb loader gx.
+
+Second of all, update your system menu to 4.3 like a smart person before 4.4 comes out this December and you lose the chance.
+
+Third of all, update USB loader GX and install the cIOS d2x v6 base 56 in slot 249. If you can manage to do this (which I sincerely doubt) you might be able to get past the first boss stage.
+
+It is important to note that your inability to get past the first boss stage without it freezing does not preponderate the fact that everyone else eventually got it working with a little effort. What I'm ultimately saying is, it's your fault, not mine, and you won't find success with another north american version downloaded elsewhere. So suck it up and get it working for yourself, and for everyone's sake stop complaining about your own ineptitude."
+[V],HobbitGamez,2011-10-31T19:24Z,"@zomgbilly
+
+I also forgot to add that because your Wii is PAL (European), I can't claim that this game will work with it anyway. There is only a chance that it will work, but if it doesn't in the end you are out of luck.
+
+The PAL version is set to be released November 25th, so I guess you'll have to wait until then."
+,zomgbilly,2011-10-31T20:48Z,"@ hobbitgamez
+
+everything is installed correctly, i only have problems with this game and driver SF.
+
+and dont correct on mistakes...
+and btw, it would have helped if anyone sayd FORCE NTSC!!! , good hint m8 . i wish more people talk to me like that. ty anyways :) . ill keep checking for freezes."
+,JoKez411,2011-11-02T20:17Z,"hey thanks i could not wait for this game!It plays well also, I got a question when mw3 comes out for wii can you upload it i'll greatly appreciate it"
+,vinnylima,2011-11-03T01:47Z,Works perfectly with USB Loader GX. Great game too. Thanks a lot!
+,knightmare420,2011-11-04T18:09Z,Works fine once you get it going the first time
+,piratetorrentsz,2011-11-08T02:07Z,"@HobbitGamez
+
+Sorry but how do i get it into my hard drive i have just being using the WBFS manager to convert iso's and i tried to convert it back to iso but then it didn't transfer onto the hard drive i cant open my hard drive manually any more says i need to format but i can still use it for WBFS can you help me on how i can get wbfs file onto the hard drive? thanks :)"
+,piratetorrentsz,2011-11-08T16:54Z,k i figured out how to get it onto my hard drive with wii manager but it freezes at menu tried transferring it to drive as is and converting it into an ISO and putting into WBFS manager ether way same thing unless someone has a fix iam just out of luck never had a problem with any other game
+,jabwoy,2011-11-09T15:38Z,@ HobbitGamez I download games from you all the time.. I actually believe you are the best person to download  games from however this game is the first game that I download from you that freeze up.. I'm not sure why its freezing up however this game does freeze up.. It's not a big deal that's it freezing up but if you no why please help.. Thanks
+,Sing4me,2011-11-10T18:55Z,"Just wanted to say ""thanks"",
+ again! The game works perfectly. "
+,piratetorrentsz,2011-11-10T23:27Z,yea game works fine for all those having trouble that use 4.3 just go into your usb loader settings and update all and your good to go
+,kongbook1,2011-11-13T18:09Z,played the first level works perfectly !
+,klecha50,2011-11-14T03:37Z,"Hey guys, I am having some trouble loading the game and I've read over most of the comments and they haven't solved my problems. 
+
+First of all I have the newest version of USBloader 2.3 using CIOS 222
+I have 4.3 for Wii menu.
+I have applied the error 002 fix for the load.
+
+Basically I load the game just fine. When I get to the menu and hit 2 to continue. I hear a tone and about 3 seconds of music loops continuously. This is where it freezes.
+
+If anyone else has had this error and fixed it please let me know how. Thanks."
+,TheDarknessReunion,2011-11-15T07:34Z,Thanks dude I love these 1 Gig Wii downloads
+,Toryin,2011-11-17T18:35Z,"I had issues at first ,where the start screen was japanese and then after press 2 display it would freeze on white screen.
+I tried everything ,untill i stumpled on this easy fix""
+If you have this issue , just go in your wii menue(not usb softloader menue) and change console language to english"".
+Have fun"
+,Toryin,2011-11-17T18:40Z,"Btw. This fix above is for european (pal) wii consoles ,which would freeze after start menue was in japanese letters xD"
+,Toryin,2011-11-17T18:45Z,"For all pal wii owners who get the freeze after the press 2 startmenue (japanese)
+Just go in your wii system settings and change lanuage to english ,then it should work perfect."
+,gusi78a,2011-11-23T04:11Z,I thought it was fake or didnt work because it was less than 4.00 gb and it wasnt tranfering the first time on wii backup manager. If it doesnt work the first time close wii backup manager then open it up again. Then it should tranfer :D im going to see if it works now
+,SuperGerm,2011-11-30T05:19Z,"Game works perfectly :D the only problem i had was when i tried dojo and arena modes i would freeze, but i installed a few more things on my wii and new usb loader, so i will try to see what was wrong"
+,SpartanG1,2011-12-03T16:26Z,"Ok I'm havin a serious issue getting this to work. It shows the ""Wrist Strap Warning"" screen then the ""Hold Wii Remote Sideways"" screen and then turns white and freezes and anytime I press a button on my Wii remote the LED's just blink to display remaining battery life.
+
+I'm using a 4.3u Wii and CFG Usb Loader
+I have the newest cIOS d2x v7 base 56 in slot 249
+
+I've tried loading with Force NTSC on and off, Video Patch on and off, combinations of the two. IOS 248, 249, 250 none of them work. The same exact thing happens."
+,knightmare420,2011-12-06T09:30Z,"@ HobbitGames 
+what are the chances of you putting sonic unleashed on i know there are a few copies here but none of them have any kinda seeding what so ever"
+,Milkdrops,2011-12-08T22:32Z,"I am having the same problem that SpartanG1 is having (Freezing after the title screen where you press 2 to continue)
+
+Is there a fix for that? I have an ntsc wii and all ios updated with dop-mii"
+,Milkdrops,2011-12-08T23:48Z,"Lol I am dumb
+
+All I had to do was install d2x cIOS v7 wad pack."
+,Sgend84,2011-12-17T08:13Z,"You need to have updated your USB loader GX to 2.3 and have installed d2x cIOS 2100X (installer 2.2 or higher, I believe 3.1 is the most recent).
+
+Change this games settings to reflect the following:
+
+Hook-OFF/NO
+Ocarina-OFF/NO
+VIDTV-OFF/NO
+Country Patch Strings-OFF/NO
+DOL Offset-Not Used
+Alt. DOL-OFF/NO
+Video-Disc Default
+Language-Console Default
+IOS-249
+Debugging-OFF/NO
+Block IOS reload-Auto
+Error 002-Use Global
+NAND EMU-OFF/no
+
+The verbiage may vary but anyone with half a brain and some patience should be able to get it running with little effort if you plug these figures in. Took several frustrating hours to figure it out but the game is totally worth the trouble! Good luck and God speed
+"
+,tapptastic,2011-12-24T16:01Z,I get this pink strip on the bottom of my screen anyone else had this or know how to deal with this?
+,tapptastic,2011-12-24T16:25Z,Has anyone had the problem where kirby floats above the set stage and there is a pink line at the bottom of the screen?
+[V],HobbitGamez,2012-01-02T22:56Z,"@tapptastic
+
+pix or gtfo :P"
+,bhutan_6,2012-01-25T12:54Z,"Hello, I have a 3.2j wii. I have tried everything, updated USB loader GX and installed the cIOS d2x v6 base 56 in slot 249, also tried cfg loader v70 and different combination of ios. No good, it freezes in white screen right after opening. I burned on a dvd and tried, but no luck. However the burned copy worked flawlessly in a friend's 4.3U wii (Hobbit's always a great uploader and my favorite). Later did some research and found that, I need to uncheck force English language setting in usb loader gx and set English language in wii setting. Unfortunately mine is a Japanese import wii, and don't have English language change option menu. Is there any other way to play this game? I would really appreciate any help. Thx."
+,cybertunz,2012-03-13T07:03Z,"lotsa folks complaining about white screen freeze after intro, and I had that problem too until stumbling across this simple fix for WiiFlow v 2.2 r355 (ios249) on 4.1U softmod --
+make sure Wii main settings show English as default language, then in WiiFlow settings set language as >default< and video default as >NTSCdefault<
+
+BINGO!  Now game gets past intro and plays perfectly without any freeze-ups or other problems   "
+,cybertunz,2012-03-13T07:10Z,"Last and most important part of my comment above (RE: game settings) didn't post for some reason, so here's a repeat... 
+
+lotsa folks complaining about white screen freeze after intro, and I had that problem too until stumbling across this simple fix for WiiFlow v 2.2 r355 (ios249) on 4.1U softmod --
+make sure Wii main settings show English as default language, then in WiiFlow settings set language as >default< and video default as >NTSCdefault<
+
+BINGO!  Now game gets past intro and plays perfectly without any freeze-ups or other problems   "
+,cybertunz,2012-03-13T07:15Z,"damn... what's the problem...
+full comment STILL didn't post correctly.
+don't need full repeat, just add that after WiiFlow settings are made (language=default and video mode=NTSC), go to game settings and set language, IOS, and video mode (all three) as DEFAULT.
+
+No more white screen freeze-up after intro, and game plays perfectly! "
+,kibub,2012-04-30T17:16Z,"I love you.
+Thanks"
+,isodaemon,2012-05-26T04:20Z,Those of you on japanese consoles that want to play ntsc games need to get regionfrii

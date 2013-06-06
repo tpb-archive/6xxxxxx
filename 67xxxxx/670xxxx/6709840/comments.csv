@@ -1,0 +1,79 @@
+User Type,Username,Date,Text
+,kaise123,2011-09-29T16:17Z,"I feel so sorry for the first person downloading this... Sorry, but i have dial-up internet so it will be a slow download so hopefully people will seed it.."
+,SRRLSY,2011-09-29T20:03Z,i shall seed
+,hhd77,2011-09-30T01:14Z,Wow. It got to the 70.0's and slowed down to 0.1 kB/s. Hope it will be done in the morning
+,kaise123,2011-09-30T04:21Z,"Thanks to you seeders, and that 0.1 kb/s is like my average upload speed :O"
+,Darkinferno3,2011-09-30T05:26Z,"Ok, I put mods in it myself and it works... only because I put in the ModLoader again."
+,Darkinferno3,2011-09-30T05:27Z,"I'm seeding this right now, but no connects to me.. I guess I'll wait."
+,kaise123,2011-09-30T05:41Z,The un-modded one does not include modloader. Putting modloader back on on top of the modded one /may/ break some mods as some mods use modloader classes.
+,RolandRedJack,2011-10-02T16:39Z,"Your doing this via dialip... Props man, props. I'll seed it once i get it."
+,RolandRedJack,2011-10-02T16:45Z,"And I've got two questions, possibly stupid, lol.
+
+1. Optifine is included with the other mods or is ther a vanilla install with optifine (still dling so I can't look at it yet.)
+
+2. Do you know which, (If any) Other mods are compatible with this? Seeing your reply about the millinare bit vs npcs means I might try to install millinare into this one but I don't want to unstabalize anything further, or if not that one at least a creeps or monster augmentating mod?
+
+3. Also holy $hit doing this over dialup. Hardcore. "
+,FireflyZeroOne,2011-10-02T18:09Z,"Is this the paid version or is this just a free version? I ask because at this time I can't afford to buy it, but I love this game.."
+,Darkinferno3,2011-10-02T19:59Z,"I want to use LB RPG realism, but I run out of memory. How much memory did you allocate, and how do you change it? Also, I have 4GB or RAM."
+,kaise123,2011-10-03T12:51Z,"@RolandRedJack; OptiFine is included with the other mods, but if you want i can Up a version with it on vanilla than i can :)
+
+Most ModLoader mods should work, as long as you install them correctly and they do not conflict on any other classes. otherwise, backup your minecraft.jar and do it trial and error- if it crashes it probably isn't going to work :P
+
+Thanks :P
+
+
+"
+,kaise123,2011-10-03T13:07Z,"@FireflyZeroOne; it is the same as the paid version but you cannot play on legit online servers. You can still play on 'cracked' servers
+
+@Darkinferno3; You can try assigning more memory, but it must be a pretty serious mod if it is using all 1GB of the allocated RAM (Default minecraft only really needs 256-512MB) (what graphics card have you got as memory is not necessarily RAM).
+Run it with this from the run dialogue (Windows Key and R) java -Xmx1536m -Xms1536m -jar %APPDATA%\.minecraft\minecraftSL.jar If that does not work change the -Xmx1536m and the -Xms1536m to something larger.
+It may fix the problem, but maybe you should try turning the render distance down?"
+,flareman61,2011-10-14T01:14Z,"I keep getting this when I load minecraft... 
+
+      Minecraft has crashed!      
+      ----------------------      
+
+Minecraft has stopped running because it encountered a problem.
+
+If you wish to report this, please copy this entire text and email it to support@mojang.com.
+Please include a description of what you did when the error occured.
+
+
+
+--- BEGIN ERROR REPORT a1dce528 --------
+Generated 10/13/11 6:27 PM
+
+Minecraft: Minecraft Beta 1.8.1
+OS: Windows XP (x86) version 5.1
+Java: 1.6.0_27, Sun Microsystems Inc.
+VM: Java HotSpot(TM) Client VM (mixed mode), Sun Microsystems Inc.
+LWJGL: 2.4.2
+[failed to get system properties (java.lang.NullPointerException)]
+
+org.lwjgl.LWJGLException: Could not create context
+	at org.lwjgl.opengl.WindowsContextImplementation.nCreate(Native Method)
+	at org.lwjgl.opengl.WindowsContextImplementation.create(WindowsContextImplementation.java:50)
+	at org.lwjgl.opengl.Context.(Context.java:120)
+	at org.lwjgl.opengl.Display.create(Display.java:858)
+	at org.lwjgl.opengl.Display.create(Display.java:784)
+	at org.lwjgl.opengl.Display.create(Display.java:765)
+	at net.minecraft.client.Minecraft.a(SourceFile:233)
+	at net.minecraft.client.Minecraft.run(SourceFile:629)
+	at java.lang.Thread.run(Unknown Source)
+--- END ERROR REPORT 2557d2b5 ----------
+
+help?"
+,IplayMC,2011-10-15T21:06Z,"umm, why cant i load this completely? it stops loading at 99.9%, so u have any tips???"
+,flareman61,2011-10-15T21:15Z,"Ok.. So I got past the last problem. But now, when it loads cmd the first time it says ""taskkill"" is not a valid command, and it just stops."
+,kaise123,2011-10-23T08:47Z,@flareman61; What version of windows are you using? I used taskkill on another CMD to make it so the CMD windows do not stay open... You should still be able to play the game though?
+,avpmario64,2011-10-25T05:36Z,can you do mo creatures mod
+,laughing_man24,2011-10-27T11:25Z,Great torrent! works perfectly
+,LestatDeLioncourt93,2011-10-28T17:41Z,can i remove the minimap mod somehow?
+,LestatDeLioncourt93,2011-10-28T18:34Z,also are there dungeons and villages at the single player?
+,avpmario64,2011-10-29T03:07Z,could you do minecraft pre relese 1.9 with these mods
+,Mingfang47,2011-10-29T04:02Z,I can't find the executable of the mod loader. I want to add some mod...
+,MeanHuggin,2011-11-04T01:16Z,dude all i get is system32 cmd.exe screen thing nd closes....
+,Edenx3,2011-11-24T20:57Z,"NEW SERVER
+Hey I just set up a 1.8 server and already got like 6 people playing. Feel free to check it out. 69.121.14.33"
+,FrizzK,2012-01-01T13:56Z,I install the modded version and still I can't see the minimap. I've tried installing all of them and it still doesn't work.

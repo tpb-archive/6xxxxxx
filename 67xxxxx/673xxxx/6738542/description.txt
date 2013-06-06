@@ -1,0 +1,33 @@
+The Dragon Age 2 DLC from Bioware
+
+Mark of The Assassin
+
+
+English
+Original untouch
+
+File:
+DA2_MarkOfTheAssassin.exe
+
+
+
+Step:
+1. keep the old cracked v1.03 DragonAge2.exe in program directory
+2. install
+3. Decrypt
+4. modify the manifest.xml
+5. roll back the old cracked v1.03 DragonAge2.exe in program directory 
+
+Remark:
+
+Decrypt code
+deda2drm.exe DA2_PRC_EYE F707-9F2A-F74F-F5DF-70AE-EA87-F4AB-A314
+
+Modify RequiresAuthorization to 0 in following file manually
+C:\Program Files\Dragon Age 2\addins\da2_prc_eye\manifest.xml
+
+
+That's all!
+Enjoy!
+
+Where to find the deda2drm.exe?  try searching please.

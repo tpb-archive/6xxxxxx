@@ -1,0 +1,19 @@
+Tools to update your Samsung Galaxy S 4G to GB 2.3.5 and root it.
+
+1) Install phone drivers on your 64-bit Windows machine
+2) Install Odin
+3) Restart phone in Upload Mode and connect to USB 
+4) Load GB Rom in Odin and press start
+5) Restart phone in Upload Mode and connect to USB 
+6) Load 1st Root Rom in Odin and press start (phone will be in boot loop after this step. Do a battery pull and)
+7) Restart phone in Upload Mode and connect to USB 
+8) Load 2nd Root Rom in Odin and press start
+
+This will update your Samsung Galaxy S 4G to GB 2.3.5 and root it.
+
+References:
+
+Updating to Gingerbread:
+
+Rooting: 
+http://www.androidtotal.com/root-samsung-galaxy-s-4g-gingerbread-2.3.3-kf1-firmware/

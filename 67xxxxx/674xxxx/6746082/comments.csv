@@ -1,0 +1,70 @@
+User Type,Username,Date,Text
+,mickyfinny,2011-10-15T20:19Z,I suspect you may have to use your pmdg config manager with this expansion pack.Select the LCF.
+,Johnnie_Walker,2011-10-15T20:25Z,"THX! I'll try it tomorrow!
+REQ: EagleSoft Cessna Citation X v1.00 for FSX"
+,steven88,2011-10-16T01:19Z,"Thanks for the Upload! Didn't work for me!
+
+Install localization failuure. Please contact PMDG Support with code 0089C65 
+
+Anyone with any clue what that is? Thanks"
+,PMDGRULZ,2011-10-16T20:23Z,"Guys simply use the 1.6 extractor... create 2 folders.. 1 for LCF and another for the 747..
+
+
+Then switch out some files...from LCF and the 747,,,
+
+It'll than run perfectly for you... You will have too manually add the LCF to your air.cfg file though...."
+,PMDGRULZ,2011-10-16T20:27Z,"If any one has the CS37-300.... I would greatly be apprecitive....
+
+
+Possible gift for the one who shares it..
+"
+,steven88,2011-10-17T01:24Z,"@PMDGRULZ Downloaded the 1.6 extractor, couldnt extract both exe and cab file, is there a rip file out there? Thanks "
+,PMDGRULZ,2011-10-17T02:23Z,"@ Steven88,, I can't help you with this....I'll get banned...Don't even bother asking why...
+
+
+Extr4act both you must find the right combination of files... It works... Than you'll have the LCF..."
+,aarque,2011-10-18T03:14Z,No workie for me. Upload the rip?
+,PMDGRULZ,2011-10-18T05:33Z,"would love to help you kids out.... But if I go down this road I'll will have to leave my Board.
+
+
+their are other sites that have better quality/utilities for you to use...
+
+as it stands for now simply swap some files and it'll work for you, yes it's a pain but the easiest way for me to explain to you...
+
+By the way Thanks do you have the 737 installers.."
+,aarque,2011-10-18T11:25Z,"What is this lame ass warez site that is so secretive? First off, they are only secret, can we establish that? They don't have Matthias Kochs supplying them with private Aerosoft titles, they don't have an inside line at ORBX, they are ONLY secret. Otherwise they are just like any other wares-BB, or blog, or TPB. Why are they secret? Mostly because they are addicted to intrigue and subterfuge, but superficially, it is to ""protect"" the site, since so much revenue is lost from the sites activities, all the self proclaimed authorities want it shut down. Just like they have done with the entirely un-secret Pirate Bay. Do they stay secret because they want to ""open source"" the software? Not likely, with pplz getting in trouble just for leaking stuff at TPB. Perhaps they are an exclusive software club. Like, ""Heya, we know you can't afford to join the club of legitimate software owners, er, purchasers, but come on over here and pony into our club. We got exclusives, playa.""
+
+Maybe they are trying to keep the troll out but news flash: he's gone again..."
+,klyd971,2012-02-07T12:06Z,"NO WORK..ERRORS POP
+
+JUST GET US THE RIP---MODEL&TEXTURE FILES
+thks"
+,flightsimmer99,2012-02-12T17:21Z,"Hey guys, i installed this before updating the 747-400x to 2.10 and it worked. I got a error that says i need to update but i just ignored that and continued with enablebutton. Everything worked out for me. :+"
+,klyd971,2012-02-26T09:32Z,"@ flightsimmer99 or else
+Hi, 
+as you made it well, get us the rip files.
+Errors'r still popping for me 
+Thanks"
+,Fsx1001,2012-04-08T09:10Z,"Found a Fix:
+(1): Go into the registry key ""HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionUninstall"" or ""HKEY_LOCAL_MACHINESOFTWAREWow6432NodeMicrosoftWindowsCurrentVersionUninstall"" on 64 bit
+(2): Click on edit then search and type ""PMDG 747-400/400F""
+(3): You hopefully will get a result of a key with some UUID(mine was ""{EC986FBE-0EB0-3347-9A7D-F0F54424B29B}"") 
+(4): Right click on the key and ""export"" it to a file
+(5): Delete the key you exported(only in the registry and don't lose the file)
+(6): Install the 747-LCF expansion pack(You will get a warning, so ignore it and hit ok)
+(7): After the 747-LCF expansion pack has installed click on the registry file you created in step 4 and open it(click yes at the message)
+(8): Have fun :)"
+,Fsx1001,2012-04-08T09:13Z,"Let me try that again(replace "" [slash] "" with a slash)
+Found a Fix:
+(1): Go into the registry key ""HKEY_LOCAL_MACHINE [slash] SOFTWARE [slash] Microsoft [slash] Windows [slash] CurrentVersion [slash] Uninstall"" or ""HKEY_LOCAL_MACHINE [slash] SOFTWARE [slash] Wow6432Node [slash] Microsoft [slash] Windows [slash] CurrentVersion [slash] Uninstall"" on 64 bit
+(2): Click on edit then search and type ""PMDG 747-400 [slash] 400F""
+(3): You hopefully will get a result of a key with some UUID(mine was ""{EC986FBE-0EB0-3347-9A7D-F0F54424B29B}"") 
+(4): Right click on the key and ""export"" it to a file
+(5): Delete the key you exported(only in the registry and don't lose the file)
+(6): Install the 747-LCF expansion pack(You will get a warning, so ignore it and hit ok)
+(7): After the 747-LCF expansion pack has installed click on the registry file you created in step 4 and open it(click yes at the message)
+(8): Have fun :)"
+,klyd971,2012-04-19T10:43Z,"@fsx1001
+Thanks, works perfect now.
+
+If you could do the same for the LVD 763, licence file fails."

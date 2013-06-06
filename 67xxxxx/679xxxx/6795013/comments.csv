@@ -1,0 +1,61 @@
+User Type,Username,Date,Text
+,Ciahast,2011-11-04T13:53Z,"Thanks, hopefully this works."
+,marco699,2011-11-04T13:58Z,"Shame you sill cant change the resolution anyhow, but at least it dont look like a PS2 game anymore :) "
+,marco699,2011-11-04T16:21Z,"@ wulfgarbane
+no idea why it dont work mate, I have been trying to find out. Will get back to you if I figure how to get it working with virtual computer.
+
+Maybe try running it under xp sp3 ??"
+,Chit91,2011-11-04T23:32Z,The game is really choppy... anyway to fix that? Got a i7 etc.. high end comp... dunno why its doing this. I also have the graphics patch fix. 
+,Ciahast,2011-11-05T14:55Z,"@Chit91 Yeah I noticed this too, but it only seems to happen in some areas of the game, most of the time it runs rather smooth. Like the first level is rather choppy for me but then places like Gundabad aren't.
+
+Oh, and yeah thanks marco, it does work."
+,Ciahast,2011-11-05T15:20Z,"Or not... It WAS working. Now the .exe keeps deleting itself.
+
+Went to play it, the .exe is gone. So I reextract it but it still doesn't show. All the other files extract except the .exe
+
+So I drag the .exe out instead of extracting and it still doesn't show up.. Why's this happening? I was playing it for hours yesterday and now the exe just disappeared and won't let me add it back lol..."
+,Agreiwan,2011-11-05T16:03Z,@Ciahast damn it I have the same problem... I played like hours yesterday with no issues and fine graphics.... Today when I opened the game witn.exe was missing... I tried to extract it again it extract all files except witn.exe .... Game still works with the old patch but with silly graphics.... What causes this issue? How can it be fixed.... Damn I hope I didn't waste my time for nothing yesterday ... Did I become lvl 16 for nothing ????
+,Agreiwan,2011-11-05T16:06Z,How can we contact marco699... He is the one who published the fix... So he should have a solution
+,T-MAC61,2011-11-05T18:53Z,"Yeah , not working"
+,kashd,2011-11-05T19:17Z,"@Ciahast
+It's your antivirus removing the exe file.  Chances are you're using Avast? I had exactly the same issue, you just need to add the file into exceptions/exclusions.
+
+It was pretty strange that yesterday there were no issues, then today it decides to recognise the exe as a virus.  But easily worked around."
+,Agreiwan,2011-11-05T21:07Z,"@kashd Yeah it is due to antivirus program when you add exception its ok... or just unist avast till you finish the game and don't go online :) But this fix is not full.... Today I discovered that shadow graphics are at low or medium setting, because when you change minimum or maximum shadow graphics there is no change... And there are shadowes but they are pixeled so probably it is stucked at low or medium setting."
+,kashd,2011-11-05T21:34Z,"@Agreiwan
+I've noticed this too.  But the game still looks nice and is playable.  Though I'm experiencing some lag/choppy graphics whenever I use weapon skills against foes.  I activate the skill, it pauses for 1-2 seconds then you see the aftermath.  With no foes around, it's fluid though."
+,Agreiwan,2011-11-05T22:46Z,"@kashd Yes, it is playable, graphics don't leap to the eye but they are not perfect either. Hope they will release a new fix soon. But I guess I'll finish the game till they release a new fix :)"
+,aerosouls,2011-11-06T02:39Z,"@kashd
+I can run it yesterday, but after the virus definitions updated, witn.exe is now flagged as a highly dangerous virus, I found it generates a file within hidden system folder everytime I run the game.
+And the generated .exe file has identical size of witn.exe.
+Now I am worried."
+,marco699,2011-11-06T14:28Z,"Sorry guys been so busy with having kids at weekend,  the .exe gets removed if your anti virus does a scan, its a false postive, just exclued it in your anti virus, this has been tested as a false postive, once the main .exe is exclued useing your anti virus it should never get deleted.
+Its 100 % safe
+
+@  aerosouls   ""it generates a file within hidden system folder everytime I run the game"" where does it generate a hidden file, I cant see any.
+
+I am out for next few hours will take a look once back, I hope useing the below advice has sorted your problem if not I try and take a look once back.
+"
+,Ciahast,2011-11-06T14:29Z,"@kashd Yep, you're right. Thanks for the help."
+,aerosouls,2011-11-07T12:41Z,"@marco699
+The generated .exe file is in a hidden system folder which I cannot access. Avast detected and deleted it after a full scan. Otherwise i won't even know it.
+However I don't remember which folder it is. Guess I will trace the log and post again soon."
+,aerosouls,2011-11-07T18:45Z,"ok, the suspicious generated file is like this:
+C:\System Volume Information\_restore{....some ...codes....}\RP928\random_name.exe
+
+It generates when I access witn.exe."
+,Agreiwan,2011-11-07T21:43Z,"@marco699
+I've noticed and sure that shadow option is not at maximum settings... and you can neither change it. When you choose low or maximum shadow settings, it is at the same quality... Any new patch going to be released soon ? This one is not still fully functioning."
+,marco699,2011-11-07T23:36Z,"@ Agreiwan 
+
+Best there is right now, I am sure we will see skidrow version very soon. Once a better crack comes out I will upload."
+,marco699,2011-11-08T00:37Z,"@ aerosouls 
+ I dont have win xp, but I have taken a look around the net to try and find a answer.
+I think u should run a virus programe and delete that .exe, also try msconfig and see if its running on start up, if so stop it. sorry I cant be anymore help m8 :("
+,tomcitizen,2011-11-15T06:41Z,my antivirus programe is detecting a Trojan.Gen.2 in the crack. What should i do??
+,Furious1964,2011-11-18T08:36Z,Can anyone confirm this is not a virus? 10 out of 20 A/V's from Jotti scanned it as a virus.
+,Furious1964,2011-11-18T18:32Z,"Crack refuses to start in a Sand-boxed Virtual Machine, shows a very strange text window with weird characters and an OK Button and therefore IS a virus unless confirmed otherwise by multiple VIP's. DON'T DOWNLOAD!
+
+Admins, please verify and remove if necessary."
+,EaZyK1LL,2011-12-16T05:31Z,def a virus
+,CkKarlsson,2012-03-05T14:55Z,Trojan!!!!!!!!

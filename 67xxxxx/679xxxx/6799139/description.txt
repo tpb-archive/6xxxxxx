@@ -1,0 +1,303 @@
+ ________________________________________________________________________
+
+ eXPerience Presents... 
+
+ Windows XP 2003 eXPerience Edition (October 2011)
+ ________________________________________________________________________
+
+ This DVD includes 6 Windows installations and 2 extra boot options...
+
+ 1) INSTALL: Windows XP Professional SP3 (October 2011)
+ 2) INSTALL: TinyXP Rev12 (October 2011)
+ 3) INSTALL: MicroXP v0.87 (October 2011)
+
+ 4) INSTALL: Windows Server 2003 Enterprise SP2 (October 2011)
+ 5) INSTALL: Tiny2003 Rev03 (October 2011)
+ 6) INSTALL: Micro2003 v0.83 (October 2011)
+
+ 7) BOOT: Acronis True Image v9.7.8398 (Backup/Restore)
+ 8) BOOT: Hiren's BootCD v10.0 (+ Live Mini XP Environment)
+
+ ________________________________________________________________________
+
+ CHOOSING DRIVERPACKS...
+
+ On all installations of Windows - when the PC reboots for the first
+ time during installation (just after Windows files have copied) then
+ you will see a driver selector pop up. You have one minute to choose
+ which drivers you want to include, if you let the timer count down,
+ then the default drivers will be included which are: Chipset, CPU,
+ Lan Ethernet, Sound and Wireless LAN. If you want to include the 
+ graphics drivers then you will need to be there to tick the three
+ boxes on the driver selector.
+
+
+ UNATTENDED INSTALLATIONS...
+
+ All six Windows installations are fully unattended. After installation,
+ you should open the eXPerience desktop folder and then open the "Keyboard
+ Settings" folder. With these unattended installations, all keyboards are
+ set to "US English".
+
+
+ WINDOWS UPDATES...
+
+ All of these installations include all of the required "security only"
+ hotfixes, updating the OS to October 2011. Later versions of Internet
+ Explorer and Windows Media Player are not added. This includes the
+ original IE6 and original WMP9/10 but they are also securely patched
+ with their respective updates, to October 2011.
+
+ ________________________________________________________________________
+
+ - Windows XP Professional SP3
+
+ This is the complete Windows XP Professional SP3 x86 updated to October
+ 2011 with security hotfixes. This edition has the original IE6 and WMP9.
+ Everything is updated. Nothing at all is removed.
+
+
+ - TinyXP Rev12
+
+ This is a cut down version of Windows XP Professional SP3 x86 updated
+ to October 2011 with security hotfixes. This edition has the original
+ IE6 and WMP9. Everything is updated. Many items are removed in this
+ version, which is approximately half the size of full Windows XP.
+ This version removes Chinese, Japanese and Korean languages, Movie
+ Maker, Internet Information Services (IIS) and various other items.
+ To check exactly what is removed, open the "Last Session.ini" file
+ here on the DVD: "XP02\$OEM$\Last Session.ini" and look under the
+ section "[Components]" to see what is removed.
+
+
+ - MicroXP v0.87
+
+ This is a very small version of Windows XP Professional SP3 x86
+ updated to October 2011 with security hotfixes. This edition does
+ not include Internet Explorer or Windows Media Player at all.
+ Everything is updated. This edition is about as cut down as it can
+ be and is only intended for gaming and squeezing life out of the oldest
+ computers, however, many people use this version full time and use all
+ the same programs and play all the same games as on full XP. Programs
+ most likely not to work with this edition are gigantic Microsoft apps
+ like Microsoft Office. Other software that relies on MDAC or the Jet
+ Database will not work, because  those items are removed. This version
+ of Windows is less than a quarter of the size of full Windows. An extreme
+ amount of components are removed, to check exactly what is removed, open
+ the "Last Session.ini" file here on the DVD: "XP03\$OEM$\Last Session.ini"
+ and look under the section "[Components]" to see what is removed. Then
+ also look under the section "[RemoveFiles]" to see individual files also
+ removed.
+
+ ________________________________________________________________________
+
+ - Windows Server 2003 SP2
+
+ The three versions of Windows Server 2003 are roughly the same as the
+ above XP versions in terms of what is removed. So the full Server 2003
+ has nothing at all removed, Tiny2003 has the same items taken out as
+ TinyXP has (but UDDI and Windows Media Services are removed in 2003)
+ and the same goes for Micro2003, it has pretty much the same files
+ removed as MicroXP does. 
+
+ ________________________________________________________________________
+
+ WHY IS SERVER 2003 INCLUDED ANYWAY?
+
+ I found all the way back in 2003 when Windows Server 2003 was released
+ that it runs faster and better than XP. This is something home users
+ simply do not know anything about, but once you try Server 2003 you
+ will realize Explorer is faster, copying files is faster, loading and
+ using programs and games is faster... but the catch is a few programs
+ will not install on a Server (or as they sometimes call it a ".NET
+ Server" operating system). Luckily these are mostly blocks on .MSI
+ files and there are included fixes in the desktop eXPerience folder
+ to get around this blocking of installation. Once installed, the apps
+ work just as they do on XP and it is often the case that the only
+ reason you couldn't use the program on Server 2003 was the MSI file
+ that installs the program was coded to deliberately refuse to install
+ on a Server operating system. For EXE files there is also a fix,
+ using "Application Verifier" to fool whatever you're installing
+ into thinking the OS is XP SP3.
+
+ Server 2003 on this DVD is intended to be used as a workstation OS
+ and all three installations of Server 2003 are tweaked that way.
+
+ ________________________________________________________________________
+
+ To install Windows from this DVD, set your PC up so it will boot from
+ the CD/DVD-ROM in the PC's BIOS.
+
+ You do not need any product key for any of the installations.
+
+ ________________________________________________________________________
+
+ DRIVERS
+
+ You have the following drivers included:
+
+ - Chipset --------&gt; (included by default)
+ - CPU ------------&gt; (included by default)
+ - Graphics -------&gt; (NOT included by default!)
+ - LAN Ethernet ---&gt; (included by default)
+ - SATA -----------&gt; (included by default)
+ - Sound ----------&gt; (included by default)
+ - Wireless LAN ---&gt; (included by default)
+
+ When the PC reboots for the first time during installation (just after
+ Windows files have copied) then you will see a driver selector pop up.
+
+ If you do not catch this in time, or are not sat at the PC when this
+ driver selector has timed out (after one minute) then all the drivers
+ will extract - bear in mind, this will take a few gigabytes of disk
+ space. If you do not want to extract the driverpacks, make sure you
+ are sat at the PC after the files have copied and it reboots.
+
+ The alternative to that is to make your own standalone ISO from the
+ ISO folder on the DVD. This way there is no timer, or driverpacks.
+
+ ________________________________________________________________________
+
+ eXPerience folder (Desktop) 
+
+ Most of these folders contain quick solutions to things that otherwise
+ would be buried away in the Windows GUI, or require DOS style commands.
+
+ The folder differs from XP to Server 2003.
+
+ INCLUDED WITH XP ONLY:
+
+ Check WGA Status - (see if Windows is still "genuine")
+ System Restore - (turn on or off)
+
+
+ INCLUDED WITH SERVER 2003 ONLY:
+
+ Data Execution Prevention - (turn on or off here)
+ Hard Drive Not Showing - (link to Disk Management)
+ Program Compatibility Fixer - (force certain programs to install)
+
+
+ INCLUDED WITH BOTH XP AND SERVER 2003:
+
+ DeskSave - (save desktop icon layout, in case icons are rearranged)
+ Hibernation - (turn on or off)
+ Keyboard Settings - (quick access to Regional and Language options)
+ Registry Backup - (backup the entire registry in one click)
+ Services Configuration Files - (save RAM by disabling useless services)
+ ShrinkXP Scripts - (safely remove files from the installation)
+ System Volume Information - (lock/unlock)
+ User Password - (quick access to "Userpasswords2" command)
+
+ ________________________________________________________________________
+
+ Included programs...
+
+ APPS Folder (on DVD)
+
+ APPS\PORTABLE contains many portable programs. To use these programs,
+ you need to extract the included archive to your hard disk drive.
+ Open the archive with WinRAR or 7-Zip. Some of these programs might
+ not be the latest version...
+
+ Agent Ransack v1.7.3.332
+ Boilsoft Video Joiner v5.32
+ Boilsoft Video Splitter v5.16
+ CCleaner v3.12.1572
+ Comodo System Cleaner v2.1.114194.1
+ CueClub
+ Dead Pixel Buddy
+ DeVeDe v3.12.2
+ Dir2Txt
+ Duplicate File Finder v3.5
+ ExamDiff Pro v3.1.4.8
+ Firefox v7.0.1
+ Foobar2000 v1.0
+ FRD v 0.85 u1 b566
+ GIF Movie Gear v4.2
+ Google Earth v6.0.2.2074
+ HandBrake v0.9.4
+ Hex Workshop v6.0.1.4603
+ Internet Explorer 8
+ ImageShack Uploader v2.2
+ Img Burn v2.5.5.0
+ InstallRite v2.5
+ JDownloader v0.9.581
+ Levelator v2.1.1
+ MP3 Splitter & Joiner v3.03.1
+ Nero v10.2.11000.12.100
+ Nicotine+ v1.2.10 With GTK+ v2.16.0
+ Office Excel Powerpoint Word 2003
+ Opera v11.10
+ Photoshop v10 CS3 Lite
+ PowerArchiver 2010 v11.50.41
+ PowerDVD v10.0.0.2113 Ultra
+ Process Explorer v11.33
+ Registry Mechanic v8.0.0.900
+ Resource Hacker v3.4.0.79
+ Resource Tuner v1.9.9.R3
+ Shutdown Timer v1.0.3
+ SMplayer v0.6.9.3607
+ SoftMaker Office 2010 Rev 570
+ Sound Forge 9.0a Build 297 LITE
+ SpaceMonger v2.1.1550
+ Spoon Studio 2011 v9.5.2025
+ Startup Control Panel v2.8
+ TCP View v3.03
+ TextAloud v2.285 With Paul
+ ThinApp v4.6.1.361923 (No Splash)
+ TuneUp Utilities 1 Click 2010 v9.0.3000.136
+ UltimateDefrag v3.0.100.39
+ UltraISO v9.3.6.2750
+ Unstoppable Copier v2.28
+ uTorrent v3.0.0.25824
+ Video MP3 Extractor v1.6.0.35
+ VirtualDJ v5.2.1
+
+ ________________________________________________________________________
+
+ Silent Installers
+
+ APPS\SILENT contains a small collection of silent and automatic
+ installations of programs not suitable to be made portable. To
+ install any of these programs simply double click the file, all
+ of these files can be installed from the DVD directly. Internet
+ Explorer 8 is included here for Windows XP and Server 2003.
+
+ 7-Zip v9.20
+ ATITool v0.26
+ AutoIt v2.64
+ Comodo Internet Security v5.8.213334.2131
+ DAEMON Tools Lite v4.40.2 With SPTD v1.77
+ DirectX 9c June 2010
+ Everything v1.2.1.371
+ Flash Player v11.0.1.152 (IE)
+ FolderSizes v4.5.1.1
+ Foxit PDF Reader Pro v3.0.1301
+ GetDiz v4.4.0.2
+ HashCheck v2.1.11
+ Internet Explorer 8 (updated to October 2011)
+ Java Runtime Environment v7 Update 1
+ K Lite Mega Codec Pack v7.9.0
+ NET Framework v2.0
+ nLite v1.4.9.1
+ Prio v1.9.9.2091
+ Quick Batch File Compiler v2.1.5.0
+ QuickTime Alternative v3.2.2
+ Unlocker v1.8.8
+ Visual C++ Runtimes 2005 and 2008
+ VMware Workstation Lite v5.5.4 (Build 44386)
+ WinRAR v4.01
+ WinUHA v2.0 RC1
+
+ ________________________________________________________________________
+
+ Don't forget To Join The Forum @ SnipeR's Redemption Network:
+  http://retestrak.nl/board/
+
+ Enjoy this fine release from eXPerience 
+
+ Release Date : October 2011
+
+ ________________________________________________________________________
+

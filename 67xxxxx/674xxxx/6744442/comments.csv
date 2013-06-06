@@ -1,0 +1,78 @@
+User Type,Username,Date,Text
+,suitretas,2011-10-14T23:16Z,"@mickyfinny
+alright mickyfinny
+almost done, just need your help with one thing
+
+i read the instructions, and copied the ""AirbusNewHUD.dll"" to my ""Addon Modules"" folder,located in my main FSX folder.
+
+however, the other part i'm too dumb to understand it. 
+
+I made a backup of ""A330NightPanel_feelThere.dll"", BUT, the other part was unclear. There's a bunch of stuff to write, could you please enlighten me how to do it?
+Please?"
+,mickyfinny,2011-10-15T00:24Z,"@suitretas Important Make a backup of your dll.xml !!(in case you make a mistake)Mine is located at C:\Users\mickyfinny\AppData\Roaming\Microsoft\FSX (Win7)or do a search if your o/s is different.Open the dll.xml with notepad,copy and paste the lines ive upped into it near the end inbetween  and 
+Now that you have done that you need to edit one line : D:\FSX\Gauges\A330NightPanel_feelThere.dll
+And change it to whatever path your FSX/GAUGES folder is.As you can see mine is at 
+D:\FSX\Gauges\A330NightPanel_feelThere.dll
+I hope this helps,if not write back cos i know you have been waiting for this one"
+,mickyfinny,2011-10-15T00:27Z,try again-near the end inbetween:Launch.Addon and SimBase.Document
+,suitretas,2011-10-15T01:14Z,"@mickyfinny
+
+ALRIGHTTTTTTTTTT mate
+wilco just got screwed... hahahaha
+
+i've been waiting for this one
+Thanks A LOT to you and to grandfred29
+
+everything works perfectly.
+
+now, you'll excuse me, but i've got some time to kill, enjoying these babies
+
+:D"
+,ravnen01,2011-10-15T01:38Z,mickyfinny Do you have VTSM scenery.. the most beautifull scenery of the tropic island in thailand.
+,mickyfinny,2011-10-15T02:09Z,"@ravnen01 sorry i have not acquired VTSM scenery,yet."
+,ravnen01,2011-10-15T04:42Z,"It is me olausen01, i just shanged mail and formated computer. so i los my password. i til but it after this week, and if you like to crack it my mail is svaksynt@live.com i remember you helped me on VTBS scenery."
+,taocat72,2011-10-15T05:49Z,Thanks Micky....have you seen this yet?  http://www.codelegend.com/idealflight?
+,ravnen01,2011-10-15T06:44Z,taocat on defult planes?... crap
+,PMDGRULZ,2011-10-15T12:23Z,"Does anyone have the 737-300 installer...
+
+been looking for original Captain Sim installeres.
+"
+,SHRAPS,2011-10-15T14:19Z,mickyfinny Help please do i use the installer or the rip i am struggeling with this one thanks
+,SHRAPS,2011-10-15T14:22Z,i meant rar soz
+,mickyfinny,2011-10-15T15:06Z,"@SHRAPS use the link at top of page or this:
+http://thepiratebay.org/torrent/6743066/wilco_evolution_vol2_RIP.rar
+Then follow instructions for this fix"
+,SHRAPS,2011-10-15T15:40Z,Cheers mickyfinny
+,krw86,2011-10-15T22:34Z,PLEASE AIR SHOW PILOT !!!! from Just Flight !! please...please.... 
+,pumpernickel,2011-10-16T11:05Z,"I installed it using the RIP-version instead using the installer. It works fine - thank you.
+
+However, I now need the Lufthansa livery for the A330 (for A340 it is available at Wilco). Could not find it anywhere. Any hints?"
+,NvidiaPhysX,2011-10-18T18:47Z,"Hello everyone,
+
+An easy way to get everything working:
+
+1) Download this torrent:
+http://thepiratebay.org/torrent/4320606/FSX_Wilco_Airbus_Series_V._2_-_1g_Installer_(B-H)
+
+2) Then download this torrent:
+http://thepiratebay.org/torrent/6743066/wilco_evolution_vol2_RIP.rar
+
+3) Install the Airbus vol 2 with the installer [first torrent] and then replace all the equivalent files from the second torrent.
+
+4) After that download this fix:
+http://thepiratebay.org/torrent/6743066/wilco_evolution_vol2_RIP.rar
+
+5) And implement the fix by reading the instructions carefully. NOTE: If you don't have the 'Addons Modules' folder in FSX, then create it.
+
+6) Download and install the latest airac cycle [select only which you want to download]:
+https://thepiratebay.org/torrent/6693463/
+
+7) Enjoy!!!
+
+Great job mickyfinny, grandfred20, imr147 and bonehunter!"
+,lokdoi17,2011-10-24T11:32Z,"@mickyfinny
+
+got a problem with wilco airbus vol.2 on VC mode. can't do anything in overhead panel not unless i switch to 2d. will this fix it? thanks"
+,cacar0023,2011-11-23T19:50Z,"please somebody help me, i tried downloading the evo2 installer but didnt workd. 
+then i did all those steps, downloaded 1g then merged with the rip then installed the fix and the last airac(1112). ok
+i load the aircraft it asks if i want to run the dlls and theres just the pilot sitting in his seat but nothing else. the aircraft sistems are working, efis mcs fms and such but no texture at all, exterior nor vc. just the black squares with info some analog gauges but thats it. what i do?"

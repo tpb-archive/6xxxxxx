@@ -1,0 +1,43 @@
+Full Changelog
+â— Added grid view and pre-playback view options
+â— Added bulk metadata fetching with growl-like status
+â— Added fetched names in list view
+â— Added hardware decoding for .m2ts files
+â— Added support for embedded subtitles (MKV, M4V, etc...)
+â— Added support for ISO (DVD) files
+â— Added TV Show metadata fetching
+â— Added metadata correction for Movies and TV Shows
+â— Added movie title in Top Shelf (instead of filename)
+â— Added DSI ping for better operation with AFP shares
+â— Added folder tagging
+â— Added metadata view indicator
+â— Added support for metadata overriding using xml files
+â— Added DVD menu buffering
+â— Added support for subtitles with invalid timestamps
+â— Added support for AppleTV 4.4 (iOS 5)
+â— Added subtitle 'Weight' setting
+â— Added option to show/hide local files
+â— Improved data buffering and playback performance
+â— Improved XSUB subtitle support
+â— Improved network error handling
+â— Improved filename parsing for metadata fetching
+â— Improved NAS drives support and increased connection timeout
+â— Improved video loading process
+â— Improved DVD menu handling
+â— Improved playback position detection
+â— Improved memory footprint
+â— Improved SMB share handling
+â— Resolved DVD subtitle issues
+â— Resolved Voiceover related issues
+â— Resolved audio synchronization issues
+â— Resolved problems when streaming from an AirPort Extreme
+â— Resolved AFP related issue when resuming after a long pause
+â— Resolved issues that caused the first subtitle section to be skipped
+â— Resolved performance and crash related issues for certain DVD files
+â— Resolved audio playback issues when the connection to Last.fm fails
+â— Resolved potential issues in shares handling and filename processing
+â— Resolved AFP related crashes
+â— Resolved .dvdmedia extensions and folder images not hiding
+â— Resolved floating crash during metadata fetching
+â— Resolved various cloud backup issues
+â— Many other miscellaneous fixes

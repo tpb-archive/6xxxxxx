@@ -1,0 +1,150 @@
+This is the latest version of The Klub 17, a cracked version of 3D SexVilla 2
+
+Its a standalone installation, so it doesnt require any of the previous versions.
+
+Just run the setup, choose your settings, install and play!
+
+
+In The Klub 17 version 6.3.0
+----------------------------
+
+CUSTOMIZER DRESS:
+- Separated Kill Bill suit from catsuit (Catsuit/Kill Bill was renamed Catsuit).
+- Clothes don\\\'t auto-remove (hide instead).
+- Added no dildo strapon.
+- Strapon acts like any regular clothes (see note).
+- \\\"Fetish Panty\\\" can worn with all strapons and change color independently from
+  Strapon2.
+- Male foot wear can be used by all genders.
+- Horns, bunny ears, headphone/headset are now separated from the hats.
+- Moved Skeleton, bunny and fox masks to eye wear.
+- Renamed \\\"Back\\\" to \\\"Wings\\\".
+- New Guns item based on VC \\\"Leather Gunslut\\\" texture
+- Guns can change color independently from \\\"ActionGirl Hotpants\\\"
+- Added no small leg option for shorts.
+- Men socks and stocking/pantyhose/body stocking can be used by all genders.
+- Change order of stocking/pantyhose/body stocking and garter.
+
+CUSTOMIZER ACCESSORIES:
+- Added color options for all.
+
+CUSTOMIZER BODY:
+- Added invisible model option.
+- The 2 last hairstyles are available to Men.
+- Added more ears positions and ears size options.
+- Added breasts shape options.
+- Added more hair position options.
+- Added wings size/position options (moved wings from the Dress cat. plus new
+  icon).
+- Added neck x and y size.
+- Beards option available to all genders.
+- Scrotum slider use same range for penis/strapon and scrotum inertia for
+  strapon.
+
+CUSTOMIZER TATTOO:
+- Added arms/legs/hands spandex #3.
+- Fixed auto-camera for spandex.
+- Arms spandex #3 don\\\'t remove shoulder tattoo.
+- Added a new body spandex.
+- Added lower body spandex option.
+
+MODELS:
+- Removed Invisible Man and Woman.
+- Added Anna Seminovish, Lanny Barbie, Rihanna, Scarlett Johansson, Wendy Fiore,
+  Veronica Zemanova.
+
+MISC:
+- New title screen and background.
+- In Freemode orgasm is reached at 50% (jump to 100%).
+- In Freemode during cool down dropped down to 40% (instead of 20%).
+- Added leather neckband, hair #34/35, gun belt, headset and earring to Mod.bs.
+- More outside links.
+- Strapon doesn\\\'t auto-remove with standard poses.
+- Updated banner pic and icons on Windows menu.
+- Added /clearlog option for the launcher executable (will clear game log before
+  game startup).
+- Installer and updater now proposes \\\"Custom Update\\\" mode, where optional
+  packages may be installed and managed.
+- New standalone \\\'Options Manager\\\' tool.
+
+FIXED BUGS:
+- Feet mod with shoes (ie platform).
+- Spandex color bug.
+- New nipples, piercings with spandex.
+- With preset color for beards.
+- With Men headset.
+- Leather Neckband coloring bug.
+- Several bug in Mod file (ie modded ball gag textures not visible for men).
+- Script for body customizer file.
+- Syntax errors (missing commas) in mod file.
+
+Content Importer GUI v.1.2.5
+- Implemented /X and /D= command-line options to allow execution in
+  \\\"Express Mode\\\".
+- Fixed a bug with incorrectly encoded error messages from external applications
+  being dumped to UTF16LE pipes (aka \\\"Chinese text\\\" bug).
+  
+FaceGen Importer GUI v.1.0.3
+- Fixed model folder name bug (untested).
+- Forced application window to be brought to foreground on GUI initialization.
+
+PesEd GUI v1.0.0:
+- The application will now restart itself after completing an edit operation.
+- Forced application window to be brought to foreground on GUI initialization.
+
+GameSet Manager v.1.0.0:
+- Changed application name from \\\"BackupSet Manager\\\" to \\\"GameSet Manager\\\".
+- Completely rewritten all internal procedures.
+- New GameSet format (see notes).
+- Added \\\'Include related textures\\\' option (will back-up textures defined for
+  outfits, models and community sequences).
+- Added support for Shemale Outfits (didn\\\'t realize before there was a separate
+  category for those).
+- On options page, grouped all Outfit categories into an expandable subgroup.
+- Forced application window to be brought to foreground on GUI initialization.
+
+TK17 Command Shell v.2.1.1:
+- New \\\'texexport\\\' tool (exports or lists textures defined for outfits,
+  customizations, models and community sequences).
+- New \\\'pack-tgc\\\' tool (packs TGC files exported by the game with associated
+  textures into an archive for distribution).
+- New \\\'ExBsData\\\' tool using modular plugin architecture.
+- Replaced \\\'build-mod-db\\\' and \\\'build-models-db\\\' tools by batch scripts calling
+  ExBsData.
+- New ModGen framework for mod developers.
+- New \\\'dirmerge\\\', \\\'bsdecode\\\', \\\'bsencode\\\', \\\'jcopy\\\', \\\'hcopy\\\' and \\\'hdcopy\\\'
+  utilities (see respective man pages for details).
+- PesDir: improved default sorting order for /s switch.
+- PesDir: fixed a couple of errors in filter template definitions.
+- PesDir: added more filter templates.
+- PesEd: fixed a bug with tags not being updated when saving a file under new
+  name.
+- import-content: fixed a couple of minor bugs.
+- build-txx/extract-txx: improved exception handling.
+- texcount\\\': improved accuracy (no longer counts room textures by default as
+  those do not seem to affect the engine limit).
+- ge-extract: fixed some bugs.
+- Updated some man pages.
+
+* * *
+
+RELEASE NOTES
+-------------
+
+- Strapon will not auto appear in custom poses (will have to be activated
+  manually).
+
+- For compatibility reasons, small batch files were created in place of
+  \\\'build-mod-db\\\' and \\\'build-models-db\\\' tools that will execute ExBsData with
+  appropriate parameters to emulate the obsolete tools\\\' behavior. These commands
+  can still be used to easily rebuild modfile.db and models.db required by other
+  tools.
+
+- As ModGen framework is intended for mod developers only, plugins will be
+  provided separately.
+
+- Note, that the new GameSet format is *incompatible* with the format previously
+  used by the BackupSet Manager tool.
+
+
+Credits go to Team K17 and WhiteRabbit.

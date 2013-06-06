@@ -1,0 +1,15 @@
+YS Origin on English. 
+
+Please follow this instructions in exact order.
+
+1. For Vista/7 users. We need to set language for non-Unicode programs. To do so, type Region in search bar (at start menu) and click on Region and Language. Or you can find it in control panel, Clock, Language, and Region, and then Region and Language. In Administrative tab, click on Change system locale... and chose Japanese (Japan). System needs to be restarted after that.
+
+2. Mount "YSO.iso" using daemon tools lite. Start file "fsetup2.exe". Fancy that, we can see normal Japanese installation and not some crap. Follow installation procedure, always clicking on left most button for yes. You should use default folder installation.
+
+3. After installation, go to folder Ys Origin Extra Disk and start file "fsetup2_yso.exe". Click update, and follow instalation procedure. It should be quick. This way we have pushed YSO version to 1.1.0.0 with all extra content. 
+
+4. Now, enter folder YSO ENG Patch and start file "YsO_ENG_v1.0.exe". Follow instalation until it shows instlataion folder. REALY IMPORTANT!!! Automatic folder checker in installer is not working properly so you need to manualy chose instalation folder. Its "C:/FALCOM/YSO_WIN". You should now have some command prompt windows poping in and out suggesting its doing patch properly. 
+
+NOTE: in future visit http://www.figlidigaucci.eu/ for update on translation patch if needed.
+
+5. And finaly the crack. The only one i found and its virus free is "YSO_Mini_Image.iso". How does it work? Just mount it with daemon tools lite when ever you want to play YS Origin. Have fun!!!

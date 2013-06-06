@@ -1,0 +1,28 @@
+User Type,Username,Date,Text
+,citizendonny,2011-10-22T02:32Z,Anyone know how to get this to work? daemon tools does not recognize it and neither does nero. thank you
+,citizendonny,2011-10-22T02:33Z,I am running windows 7.
+,macomaniac,2011-10-22T05:45Z,"ppc app. Unsupported by Lion. Demands Mac OS running Classic (Tiger 10.4) or supporting Rosetta (Leopard 10.5 or Snow Leopard 10.6). Under Lion, needs a virtual machine emulating Snow Leopard Server (created by VMWare Fusion or Parallels Desktop), into which, once installed, the software runs fine."
+,1404,2011-10-23T16:07Z,"does anybody knows how to install mac snow leopard on mac os lion with VM ware???
+please help me.
+thanks brothers"
+,macomaniac,2011-10-24T06:40Z,"Hi 1404!
+
+Both Parallels Desktop and VMWare Fusion can run Snow Leopard under Lion as a virtual machine, either in 'window' mode or in 'full screen' mode. To manage that, you need to have Snow Leopard SERVER (and not 'client') as a .dmg file on your hard drive. Just download that file at ThePirateBay, this one for example : http://thepiratebay.org/torrent/5100546/Mac_OS_X_Server_10.6_-_Snow_Leopard_-_RETAIL_(real). Once the downloading achieved, start VMWare Fusion (or Parallels Desktop), ask for the creation of a new virtual machine, and indicate the path of your 'Snow Leopard Server .dmg file' as the system to be installed. Once the installation completed, needing you write down the Serial given with the .dmg file when asked,you are able to run Snow Leopard under Lion as a virtual machine. From my experience (I prefer actually to use Parallels Desktop, but both softwares work fine), you are able to update the Snow Leopard Server version given in the .dmg file (something like 10.6.2) to 10.6.8, and perform all the functionalities of a true OS. The system is connected to internet through the host, you have a share folder to exchange files between the two OS (Lion and SL), you can mount on the virtual desktop any external drive or CD, DVD etc. The main advantage (for me) of running Snow Leopard under Lion being you can use back ppc only apps needing Rosetta , like 'Real Anatomy' here, which are not susceptible to be updated to 'intel only' apps."
+,macomaniac,2011-10-24T07:23Z,"[Add.] Don't forget, when installing Snow Leopard Server on the virtual machine, to ask for the installation of ROSETTA (which is contained into the pack as an OPTIONAL software, and not a default one, from my memory). Asking for that through the 'personalized installation' option, which allows 'installation of Rosetta' to be checked. [Rosetta is an invisible software emulating automatically ppc apps under Intel in Leopard and Snow Leopard. Emulation layer dropped by Lion, which ends with ppc apps being no longer supported in Mac OS 10.7] "
+,1404,2011-10-25T04:56Z,"Macomaniac  thanks a lot !! Still I am downloading the snow L. but I am sure that all the tips that you give me gonna be working.  I appreciate your time because I am so interested with this software.  ""buena vibra para tĂ­"".  "
+,Nantha,2011-10-25T11:23Z,"Hi..Am running Windows7 x64.I installed it.It shows ""C:\PROGRA~2\REALAN~1\xtras\win32\Arca.x32 is either not designed to run on windows or it contains an error.Try installing the program again using the original installation media or contact your system administrator or the software vendor for support."" And the error dialogue comes continuously and the program quits..PLS HELP ME..PLS"
+,Nantha,2011-10-25T11:27Z,This is really a great software..can i run on windows?if it can run in windows please say the steps to install it..Thanks alot webchella..Really a great upload..Pls any one help me to run it on windows..
+,1404,2011-10-25T13:43Z,"Hi Nantha, the software works great on windows 7. I   use mac osx but I tried with windows and works. I guess that your problem is that you need one software that can open an ISO extension. There is one software: POWER ISO that you can download for free by internet. After that the most important think is one time that you start to open the software with POWER ISO or another that open the iso extension is when the software ask you if you one open it and stock it before really open it. you must say yes. this action gonna take you several minutes but after that the software gonna start the installation correctly. good luck."
+,ruby4545,2011-12-30T16:05Z,"HEY FRIENDS VISIT
+book4usmle,bl0gsp0t,c0m
+THERE YOU WILL FIND ALL STUFF NEEDED FOR USMLE STEP 1 , 2 & 3 WITH LOTS OF OTHER BOOKS....
+First Aid For The USMLE Step 1 , 2 & 3
+Kaplan Lecture Notes USMLE Step 1 , 2 & 3
+Lange Case Files
+Lange Q&A
+Pretest Series
+ABC Series
+USMLE Road Map
+Crush The Boards
+High Yield Serie
+Lots of Other Usefull Books "

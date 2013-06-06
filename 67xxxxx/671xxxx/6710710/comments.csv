@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,martinz32,2011-09-30T01:00Z,thanks for the upload! seed please!
+,emiliouser,2011-09-30T04:22Z,works like a charm. ty
+,zmogusnr1,2011-10-01T10:34Z,"Hmmm... I get a Connection Error, any ideas?"
+,zmogusnr1,2011-10-01T10:35Z,"Sorry for double posting, the error is like : Can't Reach Server."
+,ava556,2011-10-01T15:29Z,"same problem with me. 
+
+also, what does it mean whe the game says im not whitelisted when i try to login to an online server even if I made it?"
+,AzDeRi,2011-10-01T16:13Z,Built-in servers are not meant public. Thats why you get connection error.
+,AzDeRi,2011-10-01T16:14Z,"@ava556
+
+That means, only whitelisted ppl can join the server. To whitelist someone, type in server console the following:
+
+whitelist add nickname
+
+To let anyone join, just change the line in server.properties"
+,zmogusnr1,2011-10-01T16:40Z,Hey Azderi can you white list me i solved the connection porblem whit tunngle but now i would like to get into white list please.
+,AzDeRi,2011-10-01T20:11Z,"@zmogusnr1 (and everyone else)
+
+As i commented in fromer torrent (prerelease 1) i cannot whitelist anymore people, because server is already overloaded."
+,1PirateDude,2011-10-02T06:35Z,Please tell me this isnt a fuckin virus.
+,1PirateDude,2011-10-02T07:11Z,man when i connect to a cracked server it says cannot connect not premium
+,AzDeRi,2011-10-02T15:19Z,"@1PirateDude
+
+If it says ""user not premium"" it means that server is NOT cracked. You can only connect to servers with online-mode set to ""false""."
+,zabuza1109,2011-10-02T22:13Z,Is it possible to make yourself an op on your own cracked server? btw great job on all of this it works great!
+,AzDeRi,2011-10-03T00:45Z,"@zabuza1109
+
+Just start server normally. Make sure you have ports open (or use tunneling program) and tell your friends your ip. Direct ip can be found from www.whatismyip.com, tunneling program's ip is found from the program. For further assistance, contact me by email: AzDeR@wippies.com"
+,simongale43,2011-10-05T00:06Z,"@zabuza1109 when you run minecraft server,
+at the bottme where it allows you to type things in type OP followed by your in game nickname, if this works in your miecraft window it will tell you you are an op! there ya go!"
+,simongale43,2011-10-05T00:07Z,"this is a great torrent, had a bit of trouble with the dos based installer and my many diffrent versions of windows, but have been running a server for 3 days fine with the same game from the torrent. The only thing I cant work out is the mods, do none of the 1.8.1 mods work with 1.9.2? or is it because its a cracked version?"
+,AzDeRi,2011-10-05T20:35Z,"@simongale43
+
+Mods will be supported when author updates the version. So, can't unfortunately use 1.8 mods on this :/"
+,medude9438,2011-10-07T07:09Z,i tried to install it like he said in the instructions file. i clicked the .bat and it opened cmd and deleted all of the files in the folder. i think you are missing a file in your upload
+,AzDeRi,2011-10-08T02:14Z,"@medude9438
+
+Nope, it did as it should. You should be having a minecraft icon on your desktop now."
+,TehBlueberry,2011-12-05T16:54Z,"Thanks for the Upload! It works perfect. Well... not like it should. When i try to start the server with the -Xmx2048M.bat or the -Xmx1024M.bat it says : ""java"" has not been found. Please make sure you typed the name right.
+please help me :D"
+,SilentxDuck,2012-03-26T13:09Z,"I'm running Minecraft off Windows 7 I've followed all the instructions, I just want to play on my own and after I create a new world it says ""building terrain"" then it closes? Any advice on the matter?"

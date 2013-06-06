@@ -1,0 +1,17 @@
+what you need:
+1.jailbroken iPhone, iPod touch 
+2.iphone explorer or any software like this
+3.iphone 4 or ipod rouch
+4.ifile
+6.download  this files   link2    (fixed)
+               
+and now...
+1. download the files, extract them to ur desktop
+2. copy the folder of AssistantServices.framework to /System/Library/PrivateFrameworks/
+3. copy all of the files inside SpringBoard folder to the /system/library/coreservice/springboard.app
+4. in the springboard.app find N90AP.plist(for iphone) , N81AP.plist(for ipod touch)
+open it with ifile as a text file and add this â€˜â€™assistantâ€™â€™ after â€˜â€™720pâ€™â€™
+i will tell u how u can use the other files soon plz do not ask about files inside folder
+and respring your device hold the home button and see the siri UI ;)
+
+f u have any problem use the second .rar  AssistantServices.framework

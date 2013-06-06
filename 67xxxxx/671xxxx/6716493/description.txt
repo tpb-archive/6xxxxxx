@@ -1,0 +1,27 @@
+ArchBang is a simple GNU/Linux distribution which provides you with a lightweight Arch Linux system combined with the Openbox Window Manager.
+Suitable for both desktop and portable systems â€“ It is fast, stable, and always up to date.
+
+You can customise your install to suit your needs, and draw on the vast resources and knowledge of the Arch Linux community.
+The download page has links to both 32 and 64 bit versions, bootable as a live CD / USB â€“ allowing you to easily test it out before doing a full install.
+
+Try it out now, weâ€™re sure youâ€™ll be amazed by what ArchBang Linux has to offer! 
+http://archbang.org/
+
+    * You donâ€™t need it if you already have AB running smoothly on your system
+    * It is basically 2011.10-RC2 w/ the following following changes:
+      -Updated DOC
+      -urxvt scrollbar color adjusted
+      -Jumanji replaced by Firefox Nightly
+      -icons in the applications menu
+      -clarity icon theme instead of gnome
+      -2 px top desktop margin so you can right-click on the desktop even when a window is maximized
+      -You can edit /etc/X11/xorg.conf.d/01-keyboard-layout.conf while installing AB
+
+    * Report bugs in the official bug thread
+    * Leave feedback in the official feedback thread
+    * You can see the list of packages here
+    * Have fun
+    * You can always build Arch from scratch by following my guide to help you. 
+http://archbang.org/news/archbang-2011-10-is-out-in-the-wild
+
+md5sum: 182833247b86bdd8e192764cac1a238a  archbang-2011.10-i686.iso

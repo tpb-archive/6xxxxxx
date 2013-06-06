@@ -1,0 +1,98 @@
+Acronis True Image Home 2012 v15.0.5545 Final + Bootable + Plus Pack, Cree Copias de Seguridad Fiables
+
+Acronis True Image Home 2012 v15.0.5545 Final
+English | Medicina Incl. | 235 MB | Setup + Bootable Disc + Plus Pack | Win XP/Vista/7
+DescripciÃ³n
+Copia de seguridad y recuperaciÃ³n fiable y rÃ¡pido y compatibilidad con Microsoft Windows 7
+
+Con Acronis True Image Home, puede estar seguro de que todos los datos importantes, incluidas las imÃ¡genes, mÃºsica, documentos y aplicaciones, estÃ¡n protegidos y pueden recuperarse fÃ¡cilmente en caso de catÃ¡strofe.
+
+Copia de seguridad y recuperaciÃ³n fÃ¡cil y rÃ¡pida
+Acronis True Image Home ofrece a los usuarios domÃ©sticos un sistema de copia de seguridad y recuperaciÃ³n de su sistema operativo, aplicaciones, configuraciones y archivos personales que es fiable e fiable y rÃ¡pido.
+
+Interfaz de usuario de estilo WindowsÂ® fÃ¡cil de utilizar
+Con una interfaz grÃ¡fica intuitiva, puede definir fÃ¡cilmente dÃ³nde (localmente o en lÃ­nea) y con quÃ© frecuencia se realizarÃ¡ una copia de seguridad de un PC de acuerdo a sus necesidades.
+
+ProtecciÃ³n continua de datos
+AdemÃ¡s, Acronis Nonstop Backupâ„¢ ofrece protecciÃ³n continua de sistemas y datos, que impide la pÃ©rdida de Ã©stos.
+
+Requerimientos del Sistema
+Sistemas operativos compatibles
+
+    * Windows 7 (todas las ediciones)
+    * Windows Vista (todas las ediciones) SP2
+    * Windows XP Home Edition (X32, SP3)
+    * Windows XP Professional (X32/X64, SP2)
+
+Requisitos mÃ­nimos del sistema
+
+    * Procesador Pentium 1 GHz o mÃ¡s rÃ¡pido
+    * 512 MB de RAM
+    * Unidad CD-RW/DVD-RW para la creaciÃ³n de medios de inicio
+    * Utilizar Acronis Nonstop Backup requiere como mÃ­nimo 1 GB de RAM.
+    * RatÃ³n u otro dispositivo de puntero (recomendado).
+    * ConexiÃ³n a Internet de alta velocidad (para su uso con Acronis Online Backupâ„¢)
+
+Sistemas de archivos compatibles
+
+    * FAT16/32
+    * NTFS
+    * exFAT
+    * Ext2/Ext3/Ext4
+    * ReiserFS
+    * Linux SWAP
+
+Dispositivos de almacenamiento compatibles
+
+    * Unidades de disco duro
+    * Dispositivos de almacenamiento en red
+    * Servidores FTP
+    * CD-R/RW, DVD-R/RW, DVD+R/RW, BD-R
+    * ZIPÂ®, JazÂ® y otros dispositivos extraÃ­bles
+    * Unidades PATA (IDE), SATA, SCSI, SAS, IEEE1394 (Firewire), USB1/2.0/3.0
+    * La compatibilidad con discos dinÃ¡micos de Windows y volÃºmenes GPT estÃ¡ disponible con el mÃ³dulo complementario Plus Pack. Consulte este artÃ­culo de la Base de conocimientos para ver mÃ¡s detalles
+
+Cambios Recientes
+Changes and New in the product
+
+    * File synchronization â€” you can synchronize files between different computers and local folders (e.g. a USB device) through a local network or over the Internet;
+    * NAS support â€” Acronis True Image Home 2012 now distinguishes NASs as separate devices and suggests them as a location in all browsing operations;
+    * Nonstop Backup over network â€” Acronis Nonstop Backup now can be run to network shares, especially to NAS devices;GPT and UEFI support â€” starting with this release we, support UEFI-based computers. Please note, this doesnâ€™t include Apple hardware support. In addition, you do not need to install Plus Pack to work with GPT disks.
+    * Extended Capacity Disk support â€” support of large drives (2TB+) on MBR computers.
+    * Changes in scheduler â€” added two options:
+    * 1. â€œstartup delayâ€, which allows for the running of tasks on a computer start with delay.
+    * 2. â€œretry on failureâ€, which performs several retries to complete a task before it is declared failed;
+    * Integrated Online Backup â€” now online backup is integrated into Acronis True Image Home 2012 and such backups are shown among other Acronis backups;
+    * Improved logs â€” we added a calendar view and made some improvements to make logs more complete and user-friendly;
+    * Improved UI â€” we took into account many customersâ€™ complaints.
+
+Fixed issues
+
+    * A user without Administrator privileges cannot back up his or her e-mail account (ATIHIIOXII-2760).
+    * Sometimes True Image service hangs on computer shut-down (ATIHIIOXII-2749).
+    * Thereâ€™s an unnecessary message â€œBackup validation Task execution failedâ€ on every Windows start (ATIHIIOXII-3566).
+    * Automatic clean-up based on a backup size doesnâ€™t work (ATIHIIOXII-2218).
+    * â€œNetwork connection speedâ€ limit doesnâ€™t work (ATIHIIOXII-1021).
+    * An error message â€œThe specified file doesnâ€™t existâ€ appears when editing a task if the corresponding backup has been deleted (ATIHIIOXII-2889).
+
+Known Issues
+
+    * It is impossible to delete versions of a file in online backups (ATIHIIOXII-2112).
+    * The version history for a file is absent after deleting this file from the sync folder (ATIHIIOXII-4346).
+    * Part of e-mail messages is duplicated after the recovery of Outlook from an e-mail backup (ATIHIIOXII-3106).
+    * The warning â€œLink target was not backed upâ€ appears in the logs of a backup (ATIHIIOXII-3231). This happens when Acronis True Image Home 2012 tries to back up symlinks. In this case, the files and folders to which these links lead are not backed up.
+    * The drive letter D:\ is assigned to the System Reserved partition, if you view a backup of the whole system disk in Backup Explorer (ATIHIIOXII-991). The system Reserved Partition is shown incorrectly only in Backup Explorer. Nevertheless, recovery is performed correctly.
+    * It is impossible to validate a backup if its differential version was deleted (ATIHIIOXII-2485).
+    * Backup progress is not shown if â€˜Run this program in compatibility mode for: Windows XP SP3' is enabled for TrueImage.exe (ATIHIIOXII-1916).
+    * Itâ€™s impossible to browse Acronis Online Storage while Try&Decide; is running (ATIHIIOXII-5661).
+    * The Extended Capacity Manager functionality is absent on a rescue media (ATIHIIOXII-5530). Please, use this functionality in the Windows version of Acronis True Image Home 2012.
+    * Itâ€™s impossible to delete a version of a .zip file backup from within Backup Explorer, if the backup is located on a network share (ATIHIIOXII-5698).
+    * Acronis Online Storage clean up doesnâ€™t work (ATIHIIOXII-5684).
+    * Acronis True Image 2012 Home UI may hang for a minute during start up, if a mapped network share is unavailable (ATIHIIOXII-2014).
+    * Recovery of any custom folder in Microsoft Exchange Account fails in MS Office 2010 (ATIHIIOXII-5422).
+    * The â€œShutdown after the backup creationâ€ option does not work if the user has logged off from Windows (ATIHIIOXII-2190).
+    * If a NAS works via the Bonjour protocol, itâ€™s not detected under rescue media (ATIHIIOXII-4272).
+    * The â€œExplore and downloadâ€ item in the Backup Explorer context menu for Syncs doesnâ€™t work (ATIHIIOXII-5682).
+    * Itâ€™s impossible to explore an encrypted online backup if it was created from another PC. Trying to explore the backup results in the error â€œThe remote server is unavailableâ€ (ATIHIIOXII-5737).
+
+Acronis.True.Image.Home.2012.build.5545.Final.Incl.Key

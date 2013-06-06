@@ -1,0 +1,43 @@
+New in Stata 12
+
+Structural equation modeling (SEM)
+Contrasts
+Pairwise comparisons
+Margins plots
+Multiple imputation
+ROC analysis
+Multilevel mixed-effects models
+ExcelÂ® import/export
+Unobserved components model (UCM)
+Automatic memory management
+ARFIMA
+Interface
+Multivariate GARCH
+Spectral density
+Installation Qualification
+Time-series filters
+Business calendars
+
+Found most of this stuff on some Chinese forum (bbs.pinggu.org), so respect to all the guys there (plus to Google Translate). I've added all 4 executables (small, IC, SE, MP) found on Stata's official site, plus pregenerated the license files. Not sure if serials & codes can be blocked by Stata Corp., all I can say is that they work so far. You can also find them below. All you need to do is to extract the main archive, and then just choose the flavor of Stata you want (=extract its executable and license). No installation necessary, just run the main program.
+
+Everything is up-to-date as of today (Oct 20), and I've encountered no problems when updating. In case you want to recreate the STATA.LIC file using your own information, delete it and use the following:
+
+Small STATA
+Serial Number: 30224547779
+Code: mbwc mpl8 xk5r dyew cubt ar8d jvj
+Authorization: 30yt
+
+STATA IC
+Serial Number: 08762859510
+Code: 5jpq i5se 1o8t eydu 8o3j zdtx 1bm
+Authorization: cc4q
+
+STATA SE
+Serial Number: 93611859953
+Code: m2bf axet 8n $ c q19i mrw0 59e7 1qi
+Authorization: 6ym4
+
+STATA MP (expires 2011-12-31!)
+Serial Number: 80895883416
+Code: 9gf6 vfzc r4gs 4fmu x048 cfjc 6 $ rf 2o9u dyiz gfk
+Authorization: tldy 

@@ -1,0 +1,101 @@
+[This version is the updated version from March 2011. If you installed Apartheid then and have kept your installation up to date, you are already running this version, so there is no need to reinstall.] 
+
+
+Built on PCLinuxOS LXDE edition, Apartheid comes with Tor enabled and working out of the box, allowing you to surf the web anonymously and much safer than using a regular proxy. In addition to full multimedia support and custom artwork, it uses the lightweight LXDE desktop environment. This makes it fast and well suited as a livecd OS for those who want to get speed out of their computers while preserving ease of use and keeping oppressive governments at bay.
+
+
+Being based on PCLinuxOS, Apartheid is a rolling release. This means the OS is always changing and you will always get the latest applications without having to reinstall.
+
+
+Md5sum: a062fd21ff2b2207fbfee219e1105897  apartheid.lxde.01.10.11.gobineau.iso
+
+Login: guest
+Password: guest
+Rootpassword: root
+
+
+Why use it?
+-Tor works out of the box!
+-Rolling release (like Arch or Debian testing/sid) but still very easy to use
+-A GUI for almost anything in the Control Center
+-Multimedia preinstalled. No extra codecs needed to play mp3s or play movies.
+-Light on resources. Makes it well suited for use as a livecd or on computers with low specs.
+-Can be run from the cdrom or installed to the hard drive.
+-Easy to back up your own system with mylivecd script or installing the OS to a memory stick.
+
+
+
+
+Apartheid comes with just a few basic applications:
+
+
+
+
+Software installed:
+
+Bleachbit â€“ System Cleaning Program
+DeaDBeeF - Music Player
+Evince â€“ PDF viewing Client
+File-Roller â€“ Archiving Client
+Firefox 4 - New generation of this Web Browser (Chromium and Opera available from software center)
+flash-player-plugin â€“ Flash Support
+GIMP â€“ Graphic Drawing Program
+Gpicview â€“ Graphic Viewing Program
+Gnome Baker â€“ CD/DVD Burning Program
+kernel-2.6.33.7-pclos6.bfs-1 â€“ BFS kernel for maximum desktop performance
+leafpad â€“ Text Editor
+Lxdecc â€“ LXDE Control Center
+Liveusb â€“ Put PCLinuxOS on USB key disk (New on LiveCD)
+VLC- Video Player
+Nano â€“ Console Text Editor
+PCmanFM- File Manager
+Pidgin - Instant Messenger
+Screenie â€“ Screenshot Program
+Searchmonkey - Desktop Search
+
+12,000 additional programs available from Synaptic Software Manager after installation to your computer.
+
+
+Hardware requirements
+
+Processor:
+
+Modern Intel or AMD processor.
+
+
+Memory & storage:
+
+RAM : 384 MB minimum, 1 GB recommended.
+Hard disk : 3 GB minimum, 10 GB or more recommended if you plan to install additional software from our repository.
+
+
+
+
+This only applies if you install Apartheid to your hard drive:
+
+Apartheid uses the PCLinuxOS repositories, so whatever applies to PCLinuxOS, applies to Apartheid. The following is very important
+
+If you get a question like this, "Some packages could not be retrieved" - "Continue ignoring these programs ?", NEVER EVER answer Yes! If you get this message answer NO and then click APPLY again to restart the download.
+
+You've downloaded the Apartheid Livecd, controlled the MD5sum, burned the image slowly and verified it with your burner
+
+All your hardware works, and you install.
+
+Everything works sweetly and you want to keep it that way.
+
+First, do a full update of the system. Open Synaptic, click Reload, Mark All Updates, Apply, Apply.
+
+Wait for it to completely finish.
+
+Now you can go to synaptic and install any applications that take your fancy.
+
+Every few days open Synaptic, click Reload, Mark All Updates to see if there are any. If the Apply Tick remains inactive, there is none.
+
+Only ever have ONE repository enabled. If the current repo is sluggish, uncheck that and choose another. Click Reload afterwards to get the correct package lists from that mirror.
+
+Apartheid/PCLinuxOS is a 'meta' distro, or 'rolling release', that is, it is built in such a way that the user installs and then fully updates periodically over an indefinite period. (The last six years, users would have to reinstall only once.)
+
+This means that a certain discipline is required of the user. It must adhere to program of fully updating from time to time and never installing outside packages in order to preserve the stability, thus reliability, of the system.
+
+ 
+http://en.wikipedia.org/wiki/Arthur_de_gobineau

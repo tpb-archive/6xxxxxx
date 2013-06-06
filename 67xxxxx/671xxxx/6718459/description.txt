@@ -1,0 +1,69 @@
+This is OpenBSD 5.0/i386
+
+Built from CVS release sources. Official release date is 2011-11-01.
+
+ISO File size: 544890880 bytes
+MD5 (openbsd-5.0-i386.iso) = f0ddb716fd17826541ea96f69f942ca4
+
+CD is bootable and contains the entire x86 distribution + complete sources.
+
+New features in OpenBSD 5.0: see
+
+CD contents (or see ls-alR in CD root directory):
+---
+00_OpenBSD-5.0
+INSTALL.i386
+INSTALL.linux
+ls-alR
+root.mail
+5.0/i386/INSTALL.i386
+5.0/i386/INSTALL.linux
+5.0/i386/SHA256
+5.0/i386/base50.tgz
+5.0/i386/bsd
+5.0/i386/bsd.mp
+5.0/i386/bsd.rd
+5.0/i386/cd50.iso
+5.0/i386/cdboot
+5.0/i386/cdbr
+5.0/i386/cdemu50.iso
+5.0/i386/cdrom50.fs
+5.0/i386/comp50.tgz
+5.0/i386/etc50.tgz
+5.0/i386/floppy50.fs
+5.0/i386/floppyB50.fs
+5.0/i386/floppyC50.fs
+5.0/i386/game50.tgz
+5.0/i386/man50.tgz
+5.0/i386/pxeboot
+5.0/i386/xbase50.tgz
+5.0/i386/xetc50.tgz
+5.0/i386/xfont50.tgz
+5.0/i386/xserv50.tgz
+5.0/i386/xshare50.tgz
+source/ports.tar.gz
+source/src.tar.gz
+source/xenocara.tar.gz
+source/sys.tar.gz
+tools/fdimage.exe
+tools/fips/MD5
+tools/fips/copying
+tools/fips/errors.txt
+tools/fips/fips.doc
+tools/fips/fips.exe
+tools/fips/fips.faq
+tools/fips/history.txt
+tools/fips/readme.1st
+tools/fips/restorrb.exe
+tools/fips/special.doc
+tools/fips/techinfo.txt
+tools/gzip.exe
+tools/index.txt
+tools/ntrw.exe
+tools/os-bs.doc
+tools/os-bs135.exe
+tools/pfdisk.doc
+tools/pfdisk.exe
+tools/rawrite.doc
+tools/rawrite.exe
+---

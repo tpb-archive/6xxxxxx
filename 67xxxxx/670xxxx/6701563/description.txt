@@ -1,0 +1,26 @@
+FlightGear is an open-source project. This means as long as you abide by the terms of the GPL license you may freely download and copy FlightGear. Anyway can have easy and open access to the latest development source code. Being an open-source project, we have made our file formats open and easily accessible. We support standard 3d model formats and much of the simulator configuration is controlled through xml based ascii files. Writing 3rd party extensions for FlightGear (or even directly modifying the FlightGear source code) is straightforward and doesn't require a large amount of reverse engineering. This makes FlightGear an attractive option for use in private, commercial, research, or hobby projects.
+
+FlightGear is known to run on Windows, Linux, Mac OS-X, FreeBSD, Solaris, and IRIX platforms allowing the user run on their platform of preference. 
+
+With FlightGear it is possible to choose between three primary Flight Dynamics Models. It is possible to add new dynamics models or even interface to external "proprietary" flight dynamics models:
+
+1. JSBSim: JSBSim is a generic, 6DoF flight dynamics model for simulating the motion of flight vehicles. It is written in C++. JSBSim can be run in a standalone mode for batch runs, or it can be the driver for a larger simulation program that includes a visuals subsystem (such as FlightGear.) In both cases, aircraft are modeled in an XML configuration file, where the mass properties, aerodynamic and flight control properties are all defined.
+
+2. YASim: This FDM is an integrated part of FlightGear and uses a different approach than JSBSim by simulating the effect of the airflow on the different parts of an aircraft. The advantage of this approach is that it is possible to perform the simulation based on geometry and mass information combined with more commonly available performance numbers for an aircraft. This allows for quickly constructing a plausibly behaving aircraft that matches published performance numbers without requiring all the traditional aerodynamic test data.
+
+3. UIUC: This FDM is based on LaRCsim originally written by the NASA. UIUC extends the code by allowing aircraft configuration files instead and by adding code for simulation of aircraft under icing conditions.
+
+UIUC (like JSBSim) uses lookup tables to retrieve the component aerodynamic force and moment coefficients for an aircraft... and then uses these coefficients to calculate the sum of the forces and moments acting on the aircraft.
+
+* Over 20,000 real world airports included in the full scenery set.
+* Correct runway markings and placement, correct runway and approach lighting.
+* Taxiways available for many larger airports (even including the green center line lights when appropriate.)
+* Sloping runways (runways change elevation like they usually do in real life.)
+* Directional airport lighting that smoothly changes intensity as your relative view direction changes.
+* World scenery fits on 3 DVD's. (I'm not sure that's a feature or a problem!) But it means we have pretty detailed coverage of the entire world.
+* Accurate terrain worldwide, based on the most recently released SRTM terrain data.) 3 arc second resolution (about 90m post spacing) for North and South America, Europe, Asia, Africa, and Australia.
+* Scenery includes all vmap0 lakes, rivers, roads, railroads, cities, towns, land cover, etc.
+* Nice scenery night lighting with ground lighting concentrated in urban areas (based on real maps) and headlights visible on major highways. This allows for realistic night VFR flying with the ability to spot towns and cities and follow roads.
+* Scenery tiles are paged (loaded/unloaded) in a separate thread to minimize the frame rate hit when you need to load new areas. 
+  
+http://www.flightgear.org/

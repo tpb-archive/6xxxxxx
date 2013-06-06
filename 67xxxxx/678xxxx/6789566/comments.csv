@@ -1,0 +1,33 @@
+User Type,Username,Date,Text
+,compccs,2011-11-02T07:59Z,thank you :):):)
+,Charlie117,2011-11-02T08:01Z,Thanks a lot! :D
+[T],trialNerror,2011-11-02T08:11Z,"Screenshots available here:
+http://i.imgur.com/BMHdD.jpg"
+[T],trialNerror,2011-11-02T08:34Z,Those screenshots don't do it any justice compared to how it's looking on my HDTV via PS3.
+,Hagenvon,2011-11-02T15:47Z,Seed Pls
+,Charlie117,2011-11-02T19:32Z,"The quality is amazing! Thanks a lot TNE, seeding like a mofo."
+,korygoblue,2011-11-03T12:17Z,awesome thanks trialnerror i tried to watch this on halloween but there were way to many commercials.
+[T],trialNerror,2011-11-03T14:54Z,"You're quite welcome.
+
+Know what's funny, tho? 
+
+People on SyFy's site, facebook, twitter, blogs, wherever, all complained about too many commercials.  Yet there were the same amount of commercials packed in there as if it were 6 different 1 hour long episodes being watched.
+
+On average a show cuts to commercial every 6 to 10 minutes and lasts about 3.5 minutes; that's how it was for the Live event.  It only seemed like there were more cuz it's not often we sit our asses down to watch a 6 hour long episode.
+
+But yes, it is a bit nicer not having any Dodge, Syfy, toilet paper, and those ""help I've fallen and can't get up"" emergency necklace ads over and over.  "
+,Zomniac,2011-11-06T07:58Z,"I've tried everything to get the audio to work.  Ran it through GSpot to find out what type, if any, the audio was and it gave me a best guess of AC3, though it was returning an invalid header error.
+Tried viewing in DivX player and VLC... no go.  Refreshed my AC3 installation to the latest version, still nothing.
+The video quality on this is FREAKING amazing.  My problem is with the audio.  Any suggestions?"
+[T],trialNerror,2011-11-06T08:26Z,"Check for VLC updates.
+
+Play it on a PS3 or X360.
+
+If you have the K-Lite codec bundle with Media Player Classic go to Start Menu > All Programs > K-Lite > Codec Tweak Tool > Manage preferred DirectShow source filters.  In the configuration window that opens set the .MP4 to use the LAV splitter.
+
+Plays perfectly fine with audio in Media Player Classic, VLC, Windows Media Player and on the PS3 for me!
+
+I wouldn't have released it if there were no audio.
+
+Last resort would be to try and mux it together with MKVmerge.  That shouldn't be required, tho, cuz like I said - plays perfectly in every player I have on the computer and on the PS3."
+,Zomniac,2011-11-06T09:24Z,Thank you so much.  I had forgotten about that codec pack.  Installing it did the trick!

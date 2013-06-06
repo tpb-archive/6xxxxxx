@@ -1,0 +1,131 @@
+                                                              
+  /###           /              /                   /        
+ /  ############/             #/                  #/         
+/     ##########              ##                  ##         
+#             /               ##                  ##         
+ ##          /                ##                  ##         
+            /         /###    ##  /##      /##    ## /###    
+           /         / ###  / ## / ###    / ###   ##/ ###  / 
+          /         /   ###/  ##/   ###  /   ###  ##   ###/  
+         /         ##    ##   ##     ## ##    ### ##    ##   
+        /          ##    ##   ##     ## ########  ##    ##   
+       /           ##    ##   ##     ## #######   ##    ##   
+      /            ##    ##   ##     ## ##        ##    ##   
+  /##/           / ##    ##   ##     ## ####    / ##    /#   
+ /  ############/   ######    ##     ##  ######/   ####/     
+/     ##########     ####      ##    ##   #####     ###      
+                                     /                       
+                                    /                        
+                                   /                         
+                                  / 
+
+ 
+
+
+
+Name: Launcher 7 - Donate .apk
+Developer : Timo Kujala
+Version : 1.0.1.18
+Requires ANDROID: 2.1 and up
+Category: Tools
+
+
+Ad-free version of Launcher 7.
+If you want to try, go download the free version first and see how it fares. If you can't stand the ads, this version is for you :)
+Same warnings apply here. It may crash, it may surprise you pleasantly. You have been warned.
+Features
+---------
+- 1x1, 2x1 and 1x2 tiles. 
+- tile bitmaps can cover the whole tile
+- widgets on tiles
+- tile reordering
+- live contacts tile
+
+TODO-list:
+- configurable animation parameters (soon)
+- clock tile of sorts
+- more animated tiles
+- facebook integration
+Changelog
+Version 1.0.1.17
+- if launcher crashes it will now attempt to resign from being default launcher (just to make sure you won't end up with unbootable phone)
+- out of memory errors now attempt to show message on screen before crashing. If that happens you must start reducing memory usage (use smaller bitmaps, less tiles etc.)
+Version 1.0.1.16
+- crash reporting improved
+- two popular out of memory spots isolated from crashing
+- 16.1: more crash fixes thanks to new crash reporting system
+- 16.3: 27 potential OutOfMemoryErrors fixed (=probably moved error somewhere further in call stack), 4 crashes fixed, new crash reporting system is awesome
+- 16.5: more fixes (including mail tile settings crash)
+Version 1.0.1.15
+- folder management button added to folder tile settings
+- no more crashing when creating folder tile and no folders are available
+Version 1.0.1.14
+- folder editor allows you to add (and remove) multiple applications to folder at once
+- multiple apps can be filtered from application drawer at once (only in wp7 mode though)
+- multiple apps can be restored from filtered apps list at once
+- new application picker implemented in folder editor and tile editors 
+- icons can be disabled from wp7 style application drawer
+- folder tile visuals can be modified
+- tiles should no longer stuck in drag mode after exiting modify tile screen
+Version 1.0.1.12
+- attempting to speed up launcher startup
+- tile loading adjusted (reimplemented, then reverted back to original and tweaked it further)
+- reminder: please drop the GMail tile from your homescreens and replace it with mail tile.
+Version 1.0.1.11
+- several bugfixes to statusbar
+- it is now possible to switch back to full screen folder view from settings
+Version 1.0.1.10
+- hopefully resolved the market bug (screen portrait-setting in manifest) preventing the download
+- folder content is now displayed in a nice popup instead of separate activity
+Version 1.0.1.9
+- index letters are once again either white or black
+- new font removed from settings page
+- increased font size in index view 
+- couple of crash fixes
+Version 1.0.1.8
+- Adjusted readability with white background
+- If system background is used, the settings page colors should now be always black&white
+- Webtile settings page integrated into new theme
+Version 1.0.1.7
+- Option to change the time statusbar icons are visible is now in statusbar settings
+- Statusbar clock should not stop updating anymore
+- Battery percentage is once again visible on statusbar
+Version 1.0.1.6
+- Statusbar is now from Seven+ project
+- Pivot in settings view is now from Seven+ project
+- Checkboxes and buttons in settings view are from Seven+ project
+- WP7 style status bar is now available in settings view
+- Settings view is now white if background is set to white 
+- Settings view now allows you to pick tile color from stock accents (custom color is still available too)
+- Index letters in application list are now painted with selected theme color
+- Animation changed in index page
+
+Permissions:
+android.permission.READ_SMS - SMS tile
+READ_CONTACTS - contacts tile
+INTERNET - ads &lt;3
+GET_ACCOUNTS - calendar tile
+READ_GMAIL - gmail tile (2.2+2.1)
+READ_CALENDAR - calendar tile
+WRITE_EXTERNAL_STORAGE - backup/restore
+CHANGE_NETWORK_STATE - statusbar
+READ_PHONE_STATE - statusbar
+ACCESS_NETWORK_STATE - statusbar
+ACCESS_WIFI_STATE - statusbar
+EXPAND_STATUS_BAR -statusbar
+Installation Notes:
+
+1) Go to settings - applications - enable the 'unknown sources' option.          
+2) Put the .apk files somewhere on your SD card.                                 
+3) Open your file manager on the device (like Astro Manager from market). 
+ 
+http://thepiratebay.org/torrent/6739487/ASTRO_File_Manager_pro_v3.0_apk_android_[szoheb]
+                    
+4) Select a .apk file.                                                           
+5) If you get the 'complete action using' pop-up, choose 'package installer'.
+
+Screens :
+ 
+http://bayimg.com/pakjbaadL
+
+Please SEED..!! =)

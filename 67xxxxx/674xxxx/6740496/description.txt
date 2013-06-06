@@ -1,0 +1,16 @@
+The Free and Open Source Software for Disk Imaging and Cloning
+
+Alternative Testing
+Clonezilla live 20111013-oneiric
+	* The underlying GNU/Linux operating system was upgraded. This release is based on the Ubuntu Oneiric repository (as of 2011/Oct/13).
+	* Partclone was updated to 0.2.31. This release supports VMFS5 imaging and cloning.
+	* Gdisk was updated to 0.8.1.
+	* Bug fixed: A bug with assigning NFS version 2 / 3 protocol to mount NFS image repository, NFS4 might be automatically used was fixed. Thanks to darstra for this bug report.
+	
+	-- Steven Shiau steven _at_ nchc org tw  Thu, 13 Oct 2011 11:30:00 +0800 
+http://www.clonezilla.org/downloads/alternative-testing/changelog.php (others versions available)
+ 
+http://www.clonezilla.org/
+
+sha1sum : 09b073937fd006c8aee5487d1bb69df7c4b9f037  clonezilla-live-20111013-oneiric.iso
+md5sum : 8a81bc7b75fc5f140a0d95ff6e9657eb  clonezilla-live-20111013-oneiric.iso

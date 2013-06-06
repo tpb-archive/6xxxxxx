@@ -1,0 +1,40 @@
+Expert Oracle and Java Security: Programming Secure Oracle Database Applications with Java provides resources that every Java and Oracle database application programmer needs to ensure that they have guarded the security of the data and identities entrusted to them. You'll learn to consider potential vulnerabilities, and to apply best practices in secure Java and PL/SQL coding. Author David Coffin shows how to develop code to encrypt data in transit and at rest, to accomplish single sign-on with Oracle proxy connections, to generate and distribute two-factor authentication tokens from the Oracle server using pagers, cell phones (SMS), and e-mail, and to securely store and distribute Oracle application passwords.
+
+Early chapters lay the foundation for effective security in an Oracle/Java environment. Each of the later chapters brings example code to a point where it may be applied as-is to address application security issues. Templates for applications are also provided to help you bring colleagues up to the same secure application standards. If you are less familiar with either Java or Oracle PL/SQL, you will not be left behind; all the concepts in this book are introduced as to a novice and addressed as to an expert.
+
+    * Helps you protect against data loss, identity theft, SQL injection, and address spoofing
+    * Provides techniques for encryption on network and disk, code obfuscation and wrap, database hardening, single sign-on and two-factor
+    * Provides what database administrators need to know about secure password distribution, Java secure programming, Java stored procedures, secure application roles in Oracle, logon triggers, database design, various connection pooling schemes, and much more
+
+What youâ€™ll learn
+
+    * Guard against data loss, identity theft, SQL Injection, and to address spoofing
+    * Protect sensitive data through encryption, both on disk and on the wire
+    * Control access to data using secure roles, single sign-on, proxy connections, and two-factor authentication
+    * Protect sensitive source ode through randomization, obfuscation, and wrapping
+    * Thwart attempts at SQL injection and other common attacks
+    * Manage constraints on the visibility of data and the scope of access
+
+Who this book is for
+
+Expert Oracle and Java Security: Programming Secure Oracle Database Applications with Java is for every Java developer who uses an Oracle database. It is also for every Oracle database administrator or PL/SQL programmer who supports Java client and web applications. Whatever role you play in developing and supporting Java and Oracle applications, you need to address computer, application, data, and identity security. This book offers the tools you'll need to effectively manage security across all aspects of the applications you support.
+Table of Contents
+
+   1. Introduction
+   2. Oracle Security
+   3. Secure Java Development Concepts
+   4. Java Stored Procedures  
+   5. Adding Public Key Encryption
+   6. Adding Secret Password Encryption
+   7. A Working Model for Data Encryption in Transit  
+   8. Implementing Single Sign On
+   9. Implementing Two-Factor Authentication
+  10. Application Identification and Authorization  
+  11. Enhancing Our Security 
+
+
+# Paperback: 472 pages
+# Publisher: Apress; 1 edition (September 14, 2011)
+# Language: English
+# ISBN-10: 1430238313
+# ISBN-13: 978-1430238317

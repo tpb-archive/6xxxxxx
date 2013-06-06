@@ -1,0 +1,23 @@
+Xbox Backup Creator v2.9 Build:0345 by Redline99
+
+*** NOTE ***
+	This build of XBC does not support older Xtreme ripping firmwares
+	(Kreon drives are still supported though).
+	Use abgx360 atfor more thorough Stealth Checking
+
+Changed - Auto spindle speeds when error occur
+
+Added - XGD3 and AP25 Support
+Added - Title Assets Check when ripping or burning xgd3
+Added - DAE.bin file reading in association of AP25 disc
+Added - Ability to rescan drives (ctrl-s)
+Added - Support for iXtreme v3 BenQ
+Added - Support for iXtreme v3 Liteon
+
+It is advised that you start XBC without a DVD in the drive.
+DAE.bin file selection is up to the user to maintain.
+XBC will use whatever DAE.bin file is in the same directory as the exe.
+
+NOTE:   Burning xgd3 is not supported yet in XBC, this release is for ripping only.
+        Use ImgBurn manually following tutorials from outside of XBC.
+        XGD3 stealth checks not supported either, use abgx360 when available.

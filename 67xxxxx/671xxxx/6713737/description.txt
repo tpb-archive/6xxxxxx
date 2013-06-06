@@ -1,0 +1,53 @@
+JonDo's features
+
+The proxy program JonDo is an ip changer. It hides your IP address and encrypt your data traffic. This means that neither the contacted server, nor any eavesdropper on your connections, nor the operators of the JonDonym service themselves can realize which webservice you use.
+
+Basically all programs for which you can configure a HTTP proxy can used together with JonDo.
+
+Please note: free services can only contact destination ports 80 and 443, which are used for the HTTP and HTTPS protocol. You can use these services only for web browsing and ftp downloads. All other web services you can use only with premium services.
+
+* For web browsing we recommend JonDoFox.
+
+The usage of premium services with SOCKS proxies moreover allows for an additional anonymization of the following applications:
+
+* Messengers, like Pidgin, with the Jabber protocol and the OTR plugin.
+* IRC Chat Clients (e.g. Chatzilla).
+* Privacy friendly email clients like Mozilla Thunderbird.
+* WinSCP is a Windows program for the secure data transfer from and to a server.
+* Other programs for which you can configure a SOCKS proxy.
+
+It is possible, with the help of "proxifier" tools (e.g. proxychains for Linux, ProxyCap for Windows and MacOS or Widecap for Windows), to use applications via JonDonym which are not capable of proxy support by themselves. E.g:
+
+* Unobserved administration of servers via SSH
+* Messenger application Kopete (KDE)
+
+What is JonDo?
+
+* JonDo is an application that spoofs your own IP address for Internet access using certain applications (e.g. by the web browser).
+* JonDo multiply encrypts the data sent over JonDonym. Neither your access provider nor JonDonym operators (except for the last mix one in each cascade) can see your plaintext data.
+* JonDo is an Anti-Censorship-Application that allows access to otherwise blocked Internet sites. Users may configure their JonDo as aforwarding server in order to allow others access to the JonDonym service.
+* JonDo is open source and free. The program offers access to both free and paid (premium) services.
+* JonDo filters and anonymizes HTTP headers - but only for unencrypted connections (not HTTPS). You should additionally use JonDoFox in order to also filter encrypted connections.
+* JonDo is available on all major systems (Windows, Mac OS X, Linux).
+* JonDo was and is developed by the JonDos GmbH in cooperation with German universities (TU Dresden, UniversitÃ¤t Regensburg) and privacy organizations (UnabhÃ¤ngiges Landeszentrum fÃ¼r Datenschutz Schleswig-Holstein).
+
+What is JonDo not?
+
+* JonDo does NOT make your PC's or router's IP address invisible. Your IP address is assigned to you by your ISP, and it is inalterable by third parties. You need the IP so that the JonDo client may successfully connect to JonDonym services on the Internet. When using JonDo, you are surfing with servers (mixes) on the Internet that all have their own separate IP address. The websites accessed by you will only see this respective outgoing address and not yours.
+* JonDo does NOT regularly change the outgoing IP address, but retains the same outgoing IP as long as it stays connected to the same mix cascade. This could be minutes, hours or even days. The IPs of JonDonym mixes are public anyways. Changing the outgoing IP would therefore not achieve additional security.
+* JonDo does NOT hide the MAC address of your PC or router. The MAC address is used by your ISP to assign you your IP address in the first place, and it is not visible on the Internet besides that anyhow.
+* JonDo is NOT a filesharing anonymization tool. You may run certain P2P applications with JonDo, but you will not be able to upload data yourself.
+* JonDo can NOT anonymize emails. This would require special, additional data filtering in the email client itself.
+* JonDo does NOT integrate with your operating system, i.e. every application has to be configured separately for it.
+* JonDo does NOT accelerate Internet access. When surfing with premium services you probably won't notice any big loss in speed though.
+* JonDo is NOT JonDonym. JonDonym summarizes all the accessible services in JonDo in one term and describes the technology itself.
+* JonDo is NOT JonDos. JonDos is the company that develops most of JonDo.
+* JonDo can NOT use random "anonymous" proxies (e.g. those on lists of open proxies) to create an anonymous connection. This would be a totally unsafe method that does not lead to anonymization.
+* JonDo does NOT filter plugins, scripts or HTTPS websites. To secure your browser as a whole you best use JonDoFox.
+* JonDo is NO One-Click-Anonymization-Tool - something like that can and will not really ever exist! Prudence is and remains maxim for Internet security.
+
+
+JonDo 00.16.001
+JonDoFox 2.5.4
+  
+https://anonymous-proxy-servers.net/

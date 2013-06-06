@@ -1,0 +1,31 @@
+SIR2 is an easy to use native audio-plugin to use for high quality reverberation. It's available for the plugin formats VST and AudioUnit. It offers zero-latency processing with low CPU-consumption and non-destructive audio processing of impulse responses. SIR2 includes high definition impulse responses (HDIR) of *real* places produced by Pinguin, Hamburg. You can also use various impulse responses from free or commercial sources.
+
+
+
+Features:
+
+Zero latency processing.
+Low CPU-spiking even with small sound-device buffers.
+Includes Pinguin's High Definition Impulse Responses.
+"True Stereo" processing (a stereo convolution takes place for every source channel (left + right)).
+Routing capabilities ( mono-&gt;mono, mono-&gt;stereo, stereo-&gt;stereo...).
+High-quality internal sample rate converting.
+Imports WAV, AIF, FLAC, BWS, OGG file formats.
+Linear phase FFT-EQ.
+Fair Copy-Protection - NO challenge/response NO Dongle required - license key based.
+Free non-destructive amplitude envelope.
+Free non-destructive filter envelope.
+Pre-delay (0ms - 2000ms).
+Stretch control (high quality re-sampling).
+Forward / reverse switch.
+Stereo In / Stereo IR Control.
+Preset-managing.
+Separate dry/wet control (-60db .. +20dB).
+Auto-gain (automatic volume compensation).
+Signal routing options.
+HDIR-Direct On/Off switch.
+"Beat-Scale"-mode.
+If you have two stereo files, one with "L" and one with "R" at the end of the file name, you can click with right mouse button on one of the files to create a true stereo file. This is useful for third-party impulse response libraries.
+Built in impulse-file browser (with folders).
+Picture association.
+Waveform Zoom.

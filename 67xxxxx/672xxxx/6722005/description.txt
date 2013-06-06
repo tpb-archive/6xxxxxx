@@ -1,0 +1,35 @@
+BSD Router Project (BSDRP) is a open source router distribution based on FreeBSD, supporting all majors routing protocols (RIP, OSPF, BGP, PIM, etc..) that fit on a 256Mb Compact Flash/USB.
+
+ 2011-10-05: BSDRP 1.0 released
+
+This releases brings theses changes:
+      Update to FreeBSD 8.2-RELEASE-p4
+      kernel patched for bird and FIB usage
+
+Bug fixes:
+      fix 'config save', that save unmodified files and did not delete old files
+      fix 'show' that did not support more than 1 option
+      Fix ndp tools installation
+      Fix default bird startup scripts that used bad folder for control socket
+      Fix Ethernet interfaces names in bird
+      Fix the upgrade script (merge changes in /boot/loader.conf)
+      Fix a carp bug when preemption is enabled (kern/161123)
+      Forgot to add the dummynet kernel module
+      Build tool: Add a check to the FreeBSD source code branch used
+
+Updated packages:
+      Quagga to 0.99.20
+      Bird to 1.3.3 (support FIB and include config file)
+      mrouted to 3.9.5
+      net-snmp to 5.7
+      isc-dhcp server/relay to 4.2.2
+
+Read the full Release notes for more details. 
+https://sourceforge.net/projects/bsdrp/files/BSD_Router_Project/1.0/relnotes.txt/view 
+http://bsdrp.net/
+ 
+http://bsdrp.net/documentation/end-users_docs?DokuWiki=4c35caf7772e57a5bf368ed108f5551d#installation 
+http://bsdrp.net/downloads (upgrade,...) 
+http://bsdrp.net/license?DokuWiki=b112fc19bc277721bc87260b36b4c0ab (license)
+
+sha1sum : bf242accaa8d09a51b23edaf668434b32a855e07  BSDRP_1.0_full_i386_vga.img.xz

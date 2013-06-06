@@ -1,0 +1,6 @@
+User Type,Username,Date,Text
+,Pharos01,2011-10-08T14:09Z,-80ms
+,DeltaPan,2011-10-08T14:40Z,"Is that a reference to audio synchronisation?
+
+As in VLC player, tools menu -> Track synchronisation, adjust -80Ms?"
+,Pharos01,2011-10-17T20:35Z,Negative delay as far as FFDShow goes is NOT possible so open it in VirtualDub & adjust audio stream to -80 then re-save. You'll notice the A/V then being spot-on.

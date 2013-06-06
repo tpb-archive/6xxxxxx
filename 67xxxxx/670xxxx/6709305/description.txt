@@ -1,0 +1,42 @@
+ChangeLog;
+
+App Project64.exe
+
+
+
+1.7.0.50 - ver 23
+
+
+â– Redesigned settings dialog to use more modern vertical pages instead of tabs
+
+â– Plugins can now be set per rom
+
+â– Added Soft Reset function (resets only game, like pushing reset button on console, default shortcut F1, old Hard Reset now defaults SHIFT+F1).
+
+â– When app loses focus in fullscreen make sure it is in window mode, should improve stability on fullscreen error messages.
+
+â– Max cheats per game raised to 50,000
+
+â– changed how settings is used globally
+
+â– new setting: allow user to edit VI Refresh rate (see http://forum.pj64-emu.com/showpost.php?p=4457&postcount;=18)
+
+â– changed internal of how settings work
+
+â– Cleaned up rom browser refresh to remove more unneeded refreshes (Windows returning files in different orders)
+
+â– re-arranged project source files (please report new errors!)
+
+â– changed how languages is used globally
+
+â– optimized writing to ini file
+
+â– added RDB editor mode and indicator (see hidden settings info)
+
+â– updated Help menu
+
+â– updates to video plugin interface for ROM settings
+ 
+These changes are cumulative since b49 (include all the alpha builds). Does not include minor fixes and regressions between alpha builds. 
+
+Note: this build requires updated plugins for the per-rom settings and some other things to work properly, please use all our latest plugins! 

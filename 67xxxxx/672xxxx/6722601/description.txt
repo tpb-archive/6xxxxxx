@@ -1,0 +1,31 @@
+Nepheton is an emulation of the classic Roland TR-808 drum machine taking its sound a step further with all the original functions and many additional features.
+
+Full features:
+* 17 fully synthesized instruments.
+* Perfectly scaled knob ranges.
+* Enhanced control of instruments' sounds.
+* Dynamic signal routing from instruments to outputs.
+* User defined output configuration.
+* Mute/solo for each instrument (affect triggering not just the signal).
+* Fully controllable via MIDI CC.
+* Quick MIDI CC assignation with MIDI Learn function.
+* Many ways of controlling the device:
+o External mode (note mode):
++ User defined MIDI map (default set equal to General MIDI).
++ MIDI tune and velocity controls instruments' levels and tunes.
+o Internal sequencer (pattern mode) with 3 sub modes:
++ 16 patterns (12 basic rhythms and 4 intros/fill ins.
++ Pattern contains up to 4 segments (up to 16 steps per segment).
++ Each segment can be defined with one of four available measures.
++ Each step can be defined normal or accented.
++ Shuffle mode.
++ Tap mode.
++ Chain mode.
++ Shuffle defined per pattern part.
++ Scale function and intelligent Rescale (automatically stretches pattern to the chosen measure).
++ Built in Randomizer (selection of instruments to random, steps to be affected, frequency of the randomized notes and more).
++ Patterns import/export via human readable xml files.
+* Two modes of synchronization:
+o Precise synchronization to the host tempo.
+o Synchronization to internal clock - tempo controlled in the range 30-303 BPM (+-0.1).
+* Built-in preset manager.

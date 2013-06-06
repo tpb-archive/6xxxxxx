@@ -1,0 +1,26 @@
+User Type,Username,Date,Text
+,gramranger,2011-10-04T02:11Z,Woot! Thank you for the posting. These are sooooooooooooo much better then that .ASAP crap.
+,fillinthisspace,2011-10-04T07:05Z,"gramranger,
+Thanks for the thanks.
+I'll confess I actually downloaded the ASAP encode myself this week. I thought I'd better check I wasn't still claiming my encodes were better for no good reason.
+All I can say is I'm using a higher quality source, although even so, this weeks ASAP encode was pretty ordinary."
+,amirafik,2011-10-04T16:08Z,"great endod man, believe me your encodes are much better. thank's a lot."
+,amirafik,2011-10-04T16:14Z,"please can you give a tuto of your encode, i try to do it but i don't have a result as good as yours, i want do the same for sons of anarchy. thank's a lot."
+,fillinthisspace,2011-10-04T23:53Z,"I really don't do anything that special. I still use an old program called AutoGK for Xvid because it reports the expected quality of an encode so I always aim for around 75% (optimum file size v quality ratio).
+AutoGK also configures Xvid a little differently from the default values to reduce the blockiness in fast motion scenes. It was only ever designed to encode mpeg video (DVDs etc), so there's a bit of a process setting it up to encode other file types such as MP4 or MKV. I actually wrote a guide for doing so which you can find here:
+http://doom10.org/index.php?topic=325.0
+
+If you want to give AutoGK a try and have any questions regarding using it, maybe post them in the thread I linked to and I'll look out for your post.
+For these AVIs I just added some minor sharpening on the way through but no other filtering."
+,fillinthisspace,2011-10-05T00:03Z,"I should add, the encode quality is still pretty much determined by the source quality, i.e a standard definition encode taken from a quality high definition source is always going to look better than the same encode taken from a DVD (all else being equal).
+I know the 720p web-dl source I use is of a higher quality than the 720p HDTV version, so that helps. Although even the web-dl sources have some weird color banding issues in places. Not much I can do about that though.
+
+One day I might start again and re-encode the whole series from Bluray."
+,amirafik,2011-10-05T22:17Z,"thanks a lot man, i followed your link, it's great man, can u just tell me bout those sharpening, can u give the settings please. thanks a lot."
+,fillinthisspace,2011-10-06T01:07Z,"Because I encoded these via DirectShow, I just used ffdshow's sharpening filter.
+Unsharp Mask, Strength = 15."
+,amirafik,2011-10-06T11:17Z,"please can u show me the steps, i try to do it several times but no way, sorry again."
+,fillinthisspace,2011-10-07T07:42Z,If you make a post in the forum I linked to and explain exactly what you're having problems with and what sort of files you're trying to encode etc. I should be able to help.
+,pofp,2011-10-10T00:15Z,"Fantastic quality, but doesn't contain ""previously on"" part."
+,fillinthisspace,2011-10-10T21:30Z,"Season 4, Episode 13:
+http://thepiratebay.org/torrent/6734636/Breaking_Bad__s04e13__480p_WEB-DL_Encode_%28AVI%29"

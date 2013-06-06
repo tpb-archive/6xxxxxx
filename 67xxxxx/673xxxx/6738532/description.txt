@@ -1,0 +1,113 @@
+RealStrat virtual instrument
+version 1.1.1
+
+
+1. About the program
+2. System requirements
+3. Installation
+4. Launching RealStrat
+5. What's new
+6. Contact info
+
+
+	1. About the program
+
+
+RealStrat is a sample-based virtual instrument with an innovative approach to guitar sound modeling and guitar part performing on keyboard. It can be used as VSTi plug-in with any host application supporting VST 2.0, as well as a standalone version.
+
+The true power of RealStrat lies in 3 brand new technologies incorporated in this innovative guitar performance tool:
+
+1. New multi-channel layering technology, incorporating a custom library of specially recorded samples taken from every fret of all 6 strings of a real guitar.
+
+2. The unique Floating Fret Position technology, which imitates change of fret position of a guitarist's hand on the neck. This gives you the possibility of playing on up to 104 guitar frets using just 43 keys of a standard keyboard!
+
+3. Our original Guitar Touch technology letting you easily imitate basic guitar techniques (strumming, plucking, sliding, bending, muting, etc..), using standard MIDI keyboard and MIDI controllers, such as Pitch Bender, Modulation Wheel, Sustain Pedal, Aftertouch.
+
+These technologies allow to closely emulate live guitar sound and techniques, letting you perform guitar parts with a whole new level of realistic expression.
+
+
+	2. System requirements
+
+
+1GB RAM (2GB+ recommended), 2GB+ free hard drive space
+PC: Windows XP SP2/Vista, Pentium 4 2GHz+ (Intel Core 2 Duo recommended), VST 2/DXi host
+Mac: Mac OSX 10.4/10.5, G4/G5 1GHz+ (Intel Core 2 Duo recommended), VST 2/AU host
+RTAS support is available in ProTools 6/7 via FXpansion's VST to RTAS adapter 1/2.
+
+
+	3. Installation
+
+
+Installing RealStrat PC version
+
+Double-click RealStrat installer and follow the on-screen instructions.
+
+At the end of installation process RealStrat Bank Manager will open and extract sound bank optimized for particular sample rate which allows using Quick Load technology.
+
+In RealStrat Bank Manager dialog check the appropriate sample rate box you normally use in your audio work, and click "Select" to select the destination directory for bank installation. Click Apply button to start sound bank extracting. Close Bank Manager when sound bank installation is completed. Note, that higher sample rate value will install larger target sound bank.
+
+Important! If Bank Manager window doesn't open automatically during installation process you have to run it manually from Start menu->Program Files->MusicLab->RealStrat, or alternatively go to RealStrat installation folder (by default: C:\Program Files\MusicLab\RealStrat) and double click StgMan.exe file.
+
+Note, that if you want to change sample rate for your audio work you have to run RealStrat Bank Manager and create sound bank optimized for the new sample rate value.
+
+In case your VSTplugins folder is not registered correctly RealStrat installer will not automatically install RealStrat.dll there. So to let your VST host "find" RealStrat you have to manually copy RealStrat.dll from RealStrat installation folder to your VSTplugins directory.
+
+
+Installing RealStrat Mac version
+
+Double-click RealStrat installer icon and follow the on-screen instructions.
+
+At the end of installation process RealStrat Bank Manager will open and extract sound bank optimized for particular sample rate which allows using Quick Load technology.
+
+In RealStrat Bank Manager dialog check the appropriate sample rate box you normally use in your audio work, and click "Select" to select the destination folder for bank installation. Click Apply button to start sound bank extracting. Close Bank Manager when sound bank installation is completed. Note, that higher sample rate value will install larger target sound bank.
+
+Important! If Bank Manager window doesn't open automatically during installation process you have to run it manually - open RealStrat installation folder (by default: Startup HD->Applications->RealStrat) and double click "StgMan" icon.
+
+Note, that if you want to change sample rate for your audio work you have to run RealStrat Bank Manager and create sound bank optimized for the new sample rate value.
+
+
+	4. Launching RealStrat
+
+
+RealStrat can be used as:
+- VST/AU/DXi instrument together with a host application, a sequencer program supporting VST/AU/DXi instruments, 
+- standalone version.
+ 
+Launching RealStrat as a VST instrument:
+
+Make sure the host program has been correctly installed and set up to work with your MIDI and audio hardware (e.g. MIDI keyboard and a sound card).
+
+- Open the VST Instruments window.
+- Click the â€œNo Instrumentsâ€ label and select RealStrat on the pop-up menu.
+- Open the RealStrat window by clicking the Edit button in the slot for RealStrat.
+- In the VST host application, select RealStrat as the output for a MIDI track.
+
+Launching RealStrat as standalone version:
+
+PC: In Start menu go to Programs/MusicLab/RealStrat folder and click RealStrat icon
+Mac: Open Startup HD/Applications/RealStrat folder and double-click RealStrat icon
+
+
+	5. What's new
+
+Version 1.1.1
+
+- MIDI output to VST host feature
+- Several bug fixes
+
+Version 1.1
+
+- Wah-Wah erroneous behavior fixed
+- Improved DXi and MIDI automation
+- Improved OS compatibility
+- Several minor bug fixes
+- Files Presets.kgp and current.rgs now located in the folder:
+
+  Windows version
+    %userprofile%\Application Data\MusicLab\RealStrat\1
+
+  Mac version
+    ~/Library/Application Support/MusicLab/RealStrat/1
+
+Version 1.0
+- Initial release

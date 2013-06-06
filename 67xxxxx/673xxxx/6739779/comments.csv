@@ -1,0 +1,54 @@
+User Type,Username,Date,Text
+,petchart,2011-10-13T00:03Z,Very Thank!!!!
+,Deadgit,2011-10-13T02:14Z,"Doesn't work, just loads of rar files which tell me to find the next volume? what the hell. "
+,zzw1983,2011-10-13T02:43Z,Okay I am only going to say this once. Just because you can't get something to work doesn't mean it doesn't work. Stop putting out disinfo because you don't know how to use spanned .rar files. Extract the whole package to one folder. Click on any file or the first one (the one with no number) and it will extract from all the files. If it doesn't work than one of the files must be corrupt. 
+,zzw1983,2011-10-13T02:45Z,YOU CANNOT EXTRACT FROM SPANNED FILES FROM WITHIN A RAR. YOU HAVE TO EXTRACT THE FILES THEMSELVES TO A FOLDER.
+,pop72,2011-10-13T06:36Z,thanks mate.
+,Laranth,2011-10-13T14:46Z,"To anyone who doesn't understand .rar files and are too embarrassed to ask for help.
+
+If you download multiple .rar files and they are named the same but numbered i.e. blahblah001 and upwards just extract the first and each of the rest will follow suit..... 
+
+Please note this comment is NOT directed at deadgit in no way manner or form. "
+,petchart,2011-10-13T19:11Z,"VERY THANK..
+IT's work for me..."
+,gol48,2011-10-13T20:34Z,"as always, many thanks !"
+,zzw1983,2011-10-13T23:26Z,you're welcome guys
+,hmhs,2011-10-15T19:34Z,works great! Thank you! :)
+,ogge84,2011-10-15T21:00Z,Thx man you save my day :D
+,heli3,2011-10-17T14:56Z,Thanks! Does I need to have installed previous upadtes for this one?
+,zzw1983,2011-10-19T08:18Z,heli: I'm not sure. I would install the previous ones just to be safe.
+,sunckc,2011-10-22T19:00Z,"after downloading the rar files. during extraction, i encountered an error...file is corrupted. anyone having the same problem?"
+,jan4624,2011-10-23T08:16Z,"If you have de soundcart asus xonar, or use creative alchemy, take them off, there are many problems with both."
+,Mikejwz,2011-11-14T16:06Z,"I have downloaded
+
+I think everything is good!
+I click play on Steam.
+and then I get it. log in to Steam
+what should I do?"
+,billymos,2011-11-25T19:06Z,"mikejwz, 
+here is the solution, i had the same problem but now everything is ok..
+
+By spfunc
+
+** Fix **
+
+I was having an issue with the game crashing upon running it from the launcher. Tried changing all the possible settings options on the off chance it was configured improperly - didn't help.
+
+What fixed it was:
+
+Uninstalling - and deleting the original install directory file.
+
+Reinstalling - At the end of the install check all of the additional game component options for installation. [directx, physx, ect]
+
+Copying ONLY the following files to the game directory: LocalisedStrings.dll, RailWorks.exe, Skidrow.ini, **AND** Steamclient.dll
+
+Don't copy steam_api.dll
+
+Didn't need the update files to get it working. Thanks whoever the OP of that fix was."
+,MyFootHurts,2011-12-11T23:04Z,"The setup says:
+[x] This update don't require previous updates installed to function properly"
+,MyFootHurts,2011-12-11T23:09Z,"@ billymos:
+there was no steam_api.dll in my SKIDROW folder"
+,Dimseit,2011-12-12T09:17Z,There is no railworks.exe in the .rar
+,Zmiki,2012-01-20T15:45Z,"nice work! as always, keep up the good work! ;)"
+,The_Loko,2012-05-13T00:12Z,How can I change FPS from command line? Thx

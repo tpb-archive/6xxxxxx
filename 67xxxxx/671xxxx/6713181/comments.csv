@@ -1,0 +1,51 @@
+User Type,Username,Date,Text
+,wtxx,2011-10-02T20:12Z,Where is serial number?
+,Cachorro,2011-10-02T22:58Z,"Use these:
+SK220334
+
+SK427164"
+,Cachorro,2011-10-02T23:03Z,"I have tried everything to start up from this Boot DVD.
+I burned to a disk and all that....It will not start up. It does not even appear as a startup disk when I start my computer while holding ""D"".
+Any tips??
+I am missing something or is your Boot DVD altered or missing something Mr webchella?"
+,virus.app,2011-10-03T16:44Z,i think u should press c and not d while booting it up also try 'option' or 'alt' key. d is for hardware test. i downloaded dw 4.3 with sn. the uploader clearly mentioned it wont work on a sl mac and yet i downloaded it (thinking it will work on mine.. hehe). i ve seen a lotta ppl asking if it works on sl bt they get vague answers.. if anyone has been successful in making a bootable dvd which works on sl do let us know how you did it.
+,Mel39,2011-10-04T00:29Z,"Thanks 'chella.
+Works fine on Lion.
+Used one of the SK numbers as SN"
+,Cachorro,2011-10-04T17:10Z,"Thank you ""virus app"" but I know all the key combinations on Mac. I wrote before ""I tried everything"" and it did not work as bootable.
+Please explain what you mean with ""sl"" ? I have a Mac pro intel 2 years old with 10.6.8 system. I installed it in other HD and it works alright, only I can not make it to boot my computer after I burn it to a DVD."
+,illegalmexcn87,2011-10-05T18:59Z,"By ""sl"" he is referring to Snow Leopard   (10.6-10.6.8)"
+,subnet_mask,2011-10-07T01:18Z,"@Cachorro
+I haven't tested this file here, but the same release from another source boots well on both PPC and Intel Macs. But I noticed it now has hidden partitions for booting. So I only can guess that maybe you burned it with Toast which doesn't handle hidden partitions since few versions back. Burn it with Disk Utility. Drag the image on it and press Burn. 
+
+I hope the volume partitions isn't damaged on this image file. It's recommended to not mount this kind of disk images. If you want to you make a copy of it and lock the image file from Finder's Get Info window before mounting. "
+,subnet_mask,2011-10-07T01:38Z,"@virus.app
+If you boot from the DVD then it doesn't matter which version of Mac OS is installed on the hard drive that you are going to repair. 
+
+Standalone DiskWarrior app running from the hard drive is very compatible with Snow Leopard. Just tested."
+,Cachorro,2011-10-08T01:40Z,"@subnet_mask
+Thank you for writing the right advice. I burned it with Disk Utility this time instead Toast as before and now it is bootable. It takes about 3-4 minutes to startup the computer but start up it does.
+It did not work with key C or D it works only with Opcion key and the reason maybe that I have installed MacOS 10.6.8 and in this Warrior is System 10.6.7. 
+Total the disk has 3 partitions so it have to work in many old systems as well.
+Thanks again @subnet_mask, you was really helpful."
+,subnet_mask,2011-10-09T11:00Z,"@Cachorro
+Good it was sorted out. It may take even longer to start up from external media, because especially CD/DVD is much slower than internal hard drive. 
+
+Again I can only guess that you have wireless keyboard and that's why the C key doesn't work. It's normal and you should always use Option key. Use D key only for Apple Hardware Test. It resides on the Mac OS X Install Disk 1 which came with your Mac if it's from past few years. Don't use install disks for other Mac models. Good luck!
+
+@virus.app
+Perhaps you read somewhere that DiskWarrior 4.3 doesn't boot in Snow Leopard. It means that it uses some other OS for booting from DVD. The previous revision of DiskWarrior 4.3 DVD have 10.5.8 on it, but as I mentioned there is no difference which Mac OS is installed on the target hard drive. If the DVD doesn't work even if burned with Disk Utility it is possible that you have so new Mac. I don't know if it boots the latest Mac models, however, I expect it should be. But note that the previous revision 1001 does not."
+,Cachorro,2011-10-09T21:15Z,"@subnet_mask
+Thanks again for your help.
+And I can confirm that it works in Snow Leopard, it starts with the partition that has 10.6.7 as in my case.
+Yes, I have wireless keyboard that is why I use Option key.
+Have a nice winter (coming here soon, snow today)."
+,subnet_mask,2011-10-13T00:29Z,"@Cachorro
+Yes this revision 1107 boots in 10.6.7, the previous one 1001 boots in 10.5.8
+Thanks and have a nice winter you too! They promise snow soon here as well. "
+,virus.app,2011-10-13T06:13Z,"this torrent is too big for me so didnt try this.. if it works then.. well and good. i burned dw 4.3 on a dvd with disk utility. the uploader (polisdavid) had mentioned it didnt boot in sl. i used drive genius instead.. backd up, erased my internal hdd, partitioned it, loaded sl and lion, defragged the disk. it still has got some problems that causes my apr 2010 to get stuck every now and then.. bad sectors in the hdd.. dg cannot fix that. i am glad this torrent fixed your problem cochorro"
+,virus.app,2011-10-13T06:15Z,apr 2010 mbp 2.26ghz*
+,virus.app,2011-10-13T06:37Z,guys help me with this.. i have an external hdd. i want to boot sl off it. how do i go about doing it. whats a guid partiton. i patitioned the drive into two. 1)a time machine partition and the second an ordinary mac os extended(journaled) partition... when i try to load a bootable file using the restore tab in disk utility. i get an error saying mine is not a guid partition.. is there a way to further divide one of the above mentioned partitions and make it boot friendly? i tried this with an 8 gb micro sd card too but failed. 
+,virus.app,2011-10-15T06:42Z,ok i got it. it was very easy. open disk utility.. select the disk you want to partition.. click the partitions tab.. select the no of partitions you want to make.. click options.. choose guid partition.. the resultant disk will be bootable.. use the restore tab to copy any bootable dmg file to the disk you just made. tried doing this with diskwarrior 4.3 (not this one) onto an 8 gb memory card and it worked. 
+,subnet_mask,2011-10-18T15:02Z,"@virus.app
+You may also need to check if your HDD is working properly. It's possible it has electrical or mechanical problems, so replacing the drive may be the only solution. Insert the Mac OS install DVD and check your drive with Apple Hardware Test (hold down the D key while staring up). Use the extended option for test. "

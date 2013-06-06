@@ -1,0 +1,194 @@
+User Type,Username,Date,Text
+,Aizu_san,2011-10-12T04:10Z,Hope you'll like it! Give me your appreciation if possible ^^
+,icecoffemix,2011-10-12T09:28Z,"Hey thanks you for this, I really appreciate it. :)
+
+But if I may ask, could you make an xdelta of v1 and v1.03 ? since I already downloaded v1 and almost used up all my bandwidth quota, having an xdelta will tremendously help.
+
+Thanks again :)"
+,Aizu_san,2011-10-12T10:37Z,"Thanks icecoffemix ^^ Okay i'm going to make one (don't know why I didn't though of it before) !
+
+At least, is the V1 working correctly ? (not talking about the bugs i fixed on V1.03 ^^"")"
+,icecoffemix,2011-10-12T11:59Z,"Wow, thank you very much.
+
+Yeah, I haven't tried it that long (onlyl as far as the 1st island, pretty early on game) but so far there's no problem beside occasional english voices. ^^"
+,Aizu_san,2011-10-12T12:05Z,"English voices? Do you mean Sonia and Azer?  I'm currently trying to undub the in-game voices (when you move and attack etc...) cause it's still in english.
+
+Also, Bismarc can occasionally says ""Welcome"" to you in english.
+
+Just tell me if you find something else ^^ (and what the chara is saying so that I can find it)."
+,icecoffemix,2011-10-12T12:41Z,"Yeah, I've only found bismarc, azel and sonia voices in english so far. Haven't got time to extensively played the game yet.
+
+But it seems to have been fixed on later version already :)
+
+I'll report back if anything came up :)"
+,Aizu_san,2011-10-12T12:55Z,"Yup! Thanks for your help!
+
+I think that it's okay for Bismarc in V1.03 but Azer and Sonia are still in english when you move, attack, sleep etc..(saying ""good night, good morning, ""name of attacks"", GET THEM!, All right!!, etc""....
+
+Well I think it's not very bothering cause main dialogues are in japanese now and listenning to ""Hya! Hey! Oh! (jumping, attacking) in english doesn't make much difference in english or Japanese ^^"" . But i'm trying to fix it when I got free time (I almost eat up my 3 days-off ^^"")
+
+It's quite difficult and will take a while for V2 but if I can fix Azer and Sonia, the entire game will be undub ^^ Yay!"
+,Aizu_san,2011-10-12T17:37Z,Xdelta patch V1 to V1.03 is ready! Check my torrents list!  :)
+,Majin_Vegeta,2011-10-12T20:52Z,"Thanks for the undub! *seeding*
+I'm trying to undub it as well (just for fun) and I'm wondering about the bugs as I couldn't get to play it yet.
+So far I've replaced the sound files and adjusted their paths (as well as editing some names back to the original ones~). I guess that's the same you did on V1?
+Are there any missing/added ""sub-files"" in the English sound files?"
+,Aizu_san,2011-10-12T22:04Z,"About bugs, some are caused by the US version. It doesn't use the same system path. Sometimes, voices are not existing Oo (WTF did they do?).
+
+I'm currently searching on how to get back japaneses voices in-game for Azer and Sonia.
+
+Also, how did you manage to modify name?
+
+Glad that someone else is working on undub this game too ^"
+,Majin_Vegeta,2011-10-12T23:17Z,"Can you give me an example of when the voices are missing? The game has so extremely random voice acting (random unvoiced lines even if there is no changeable name said) that I don't know what to look out for lol
+
+But why are you missing voices for Azel/Sonja? They are the same as the others as in: path adjustment needed. Or am I missing something?
+
+As for the names, I just edited RFF2.dat. There's plain text in there and some changes like Aden -> Azel are really easy.
+I'd love to change the game name back as well but I there's no way I can find the images in there..."
+,Majin_Vegeta,2011-10-12T23:23Z,"Ah, I guess you meant the voices when you attack and so on. They should be in the RFF2.dat as well but I have no clue where >."
+,PedoTed,2011-10-13T01:05Z,"Thank you. Love you, though its slow to download. :P"
+,Aizu_san,2011-10-13T03:36Z,"To Majin_Vegeta :
+
+Hehe! I knew that your name was ringing my on my ears! You're the one who undub Tales of Symphonia Wii! I'm very grateful to you since I downloaded your version 1-2 years ago, it was great! ^^
+
+About missing voices (and bugs), I compared US files with japaneses. I found out that many of them were not dubbed into english, so it caused a bug when i tried to replace files.
+
+For example, as far as I can remember, there is the sound files 198 for Iris/Violet (I think she says ""Wakarimashita""). This file is just a dummy in US version and doesn't play (I know cause I tried to play in US).
+
+I wonder if I can edit the system files so that it can be played. For now, I'll try to find a way to change names to originales and fix Sonia and Azer but I don't know if I can do it since it's the first time I'm doing this (just a beginner^^).
+
+To PedoTed :
+
+Hey ^^ No problem! Hope you will like it !"
+,PedoTed,2011-10-13T04:51Z,I dont like it..I love it! BTW theres a bug  that somehow in the beginning when Odette goes near the chest she just stands there and thats all.
+,PedoTed,2011-10-13T05:12Z,I got a problem. T_T
+,PedoTed,2011-10-13T05:59Z,"Nvm, got it to work. It was the emulator problem, thanks for undub again, I LOVE THIS GAME AND YOU, please undub more. ^^"
+,Majin_Vegeta,2011-10-13T19:12Z,"Thanks, heh. Too bad I never got time to fix the skits, though.
+
+Oh, that's annoying... Maybe replacing the sound pointer files in RFF2.dat will do something, maybe not (I'm a beginner as well :P)
+You may also want to search for ""ADPCM"" in that file. My guess is that those are the SFX + in-game voices but I don't really know how to replace them properly..."
+,Aizu_san,2011-10-13T20:27Z,I'll check those files when i get free time! Perhaps it could help to undub this game completely!
+,acid101,2011-10-13T22:37Z,"Thanks for this Aizu-san! I have a question though, I would rather wait for the final version to play it, if it will be perfect(hopefully). I don't mean to bug or rush you cause I will wait, but I was wondering if you had any rough idea when you could be putting out another another version?
+
+Also I had another noob question: If I download this version and play 1/4 of the game, can I still patch the next version and keep my save game? I don't wanna start over the whole game.
+
+Anyways THANKS SO MUCH! I started play the JAP version of the game but there was too much I couldn't understand so I had to stop. I love the seiyuu cast of this game so I couldn't bear playing it in English!"
+,Aizu_san,2011-10-13T23:05Z,"Hi acid101! Thanks for downloading my undub ^^ Is it working well for you?
+
+As for the next version, i have no ideas about when I'll be able to release it cause it's very difficult to modify system files and i'm missing times cause of works (It' take a lot of time and I'm a total beginner!). 
+
+Well, in V1.03 only Sonia and Azer have english voices when you move, eat, sleep ...so i think it's not as bothering than having the whole game in english or have some part of important dialogues in english then japanses etc...
+
+But i'll try to completed it!
+
+As for the save files, you can use the same save cause my undub still use NTSC US version, only the voices are changed. So don't worry about it ^^
+
+PS: Yeah, Japaneses Seiyuu are the best! And the cast in this game is awesome!! ^^"
+,Majin_Vegeta,2011-10-14T01:45Z,"OK, I looked it a bit up myself as I got a bit free time.
+Find Azel's sound pointer file in RFF2.dat and replace it and everything after it with the content from the japanese file. Modify the pointers in RFF2.bin and use the japanese stream folder except BGM.
+Voila, you have his in-game voice in japanese and have also fixed some bugs (I noticed some of Sonja's SFX being a random grunt in my version lol)
+Well, I didn't test a lot so there might be issues because the stuff at the end of the file might not only be related to audio but at least the game loads, heh.
+(Just reporting~)"
+,Aizu_san,2011-10-14T04:12Z,How can I modify RFF2.dat and .bin please? ;)
+,Aizu_san,2011-10-14T04:22Z,*I mean open them ! Perhaps I could finish the undub with that!
+,8bPa,2011-10-14T09:41Z,"Just got to the end of the Earth Spirit Shrine and noticed a couple of issues: Moleman's voice is in English, and the Goblin Captain appears to have lost his voice altogether. I haven't gone back to check whether the Goblin Captain has his voice when you first meet him.
+
+Thanks very much for taking up this project. Excellent work so far, I can't wait for V2."
+,Majin_Vegeta,2011-10-14T11:27Z,"With a hex editor. But oh, if you don't know how to use one it will be a bit difficult. I though you did and hex edited the stream folder in the same way I did.
+
+But never mind anyway. It seems like the way I described it, you lose Azel's voice in every event in return... I can get his voice back, but then in return lose BGM. How annoying lol. There's still something missing..."
+,Aizu_san,2011-10-14T14:13Z,"Hello 8bPa! Thanks for downloading!
+
+As for the goblin captain, he did not have a voice when you first met him, i checked it. As for moleman, i'll check when i could! Thanks for reporting issues!"
+,Aizu_san,2011-10-14T14:30Z,"to Majin_Vegeta :
+
+Did you tried to replaced your modified .bin and .dat with my undub or with yours?
+
+"
+,Aizu_san,2011-10-14T14:33Z,"To 8bPa and others peoples :
+
+I just checked for Moleman's issues and it seems that it's the same bug as Azel's and Sonia's in-game.
+
+I suspected that all ""in-game characters's"" voices are going to be in english (same as Azel when you jump attack or sleep). i'm taking note and will try to fix it in V2 !"
+,Majin_Vegeta,2011-10-14T15:09Z,"At Aizu_san: Everything I report is from my version. Who knows what might get messed up if I mix mine with yours, heh.
+And I finally fixed the issue I mentioned above (YouTube ID 7OZC3OV1Aj8)
+But as I'm just at the beginning of the game I don't know if everything works."
+,Aizu_san,2011-10-14T16:23Z,"To Majin_Vegeta:
+
+If you can, try to modify my undub with your method but i don't know if it will work since I have modified the sound system.
+
+If it works then it's all done! If not, just share your version (since it seems to be better than mine ^^)
+"
+,Aizu_san,2011-10-14T16:25Z,"To Majin_Vegeta :
+
+Make a Xdelta patch (it's pretty easy !)and upload it to me so I can check with some savegames I have."
+,sheikhylian,2011-10-14T17:13Z,"Thank you Aizu. Bugs aren't annoying that much for me yet, I mean, other than Bismarc saying ""Welcome!"" when you pass near the General Store or Azel English voice, nothing bothers me really. Can't wait for V2. Thanks!"
+,8bPa,2011-10-15T01:31Z,"Pandora seems to be buggy as well. She's missing her morning greeting when you talk to her, and all her greetings when you walk near her."
+,Aizu_san,2011-10-15T15:03Z,"Hello 8bPa,
+
+I found out the bug with Pandora and know how to fix it. But besides her greetings, is everythings ok with her?"
+,Majin_Vegeta,2011-10-15T17:07Z,"To Aizu_san: Well, my method is to completely replace everything related to the sound file loading with the japanese counterpart. If I apply that to your version, everything you made will be gone :P
+A xdelta patch with highest compression is 2,81 GB, while the compressed game is 2,19 GB, so I guess I'll just upload my version for you to test with your savegames.
+But I need to know some things before I can do that... Would be great if you could help me.
+1. Can you watch the company logos (when you start the game) in the title screen movie player? If not, I'll remove them.
+2. Could you list me any name changes you know of? So far I've changed Aden to Azel,
+De Sainte-Coquille to Hattain Viviaju and
+Maerwen to Melprin. (mind that Sonia/Sonja, Lily/Lilly and so an are the same in Japanese, so unless there is some art work with their official romanized names, they're all correct)
+Maybe Beatrix to Bonaparte?
+Thanks."
+,Aizu_san,2011-10-15T18:32Z,"To Majin_Vegeta :
+
+1. Yes, I see all company logos when I start the game.
+
+2. As for names changes, did you changed Violet? Her original name is Iris. I think that Joe is in fact ""Joel"". Other than all charas you told me, I think all are correct. 
+
+Ok! I'll wait for your version. Once I get it, I'll check all bugs I know of and fix them if they still occur and it will be a complete undub (I hope so) ! ^^"
+,Majin_Vegeta,2011-10-15T18:50Z,"Thanks again~
+But at 1. I wanted to know if the logos appear in the ""Memories"" selection in the title screen at some time (because they have names assigned to them and I don't know why they would else be named)"
+,Aizu_san,2011-10-15T18:58Z,"Oh ^^"" sorry I misread! No they doesn't appear. When you start an opening in the movie player, it's directly the video."
+,Majin_Vegeta,2011-10-15T19:26Z,"OK, there you go (Torrent ID 6746374).
+Hopefully it's not just the beginning that works lol"
+,8bPa,2011-10-15T19:46Z,"I haven't noticed any issues with Pandora other than her greetings thus far.
+
+As for names, the only ones that I've met that changed significantly are:
+Iris -> Violet
+Melprin -> Maerwen
+Sarah -> Sierra
+Bonaparte -> Beatrix
+Kiruto (Kilt?) -> Quinn
+Niito (Knit?) -> Kelsey
+Gray -> Gerard
+
+Joe is Joe in both versions."
+,Aizu_san,2011-10-15T20:14Z,Yup! Thanks for your help 8bPa! We're near to the complete work ^^
+,Majin_Vegeta,2011-10-15T20:36Z,"Ah, thx from me as well, 8bPa.
+
+I just found out the game doesn't mind invalid letters, so names which are longer in the English version will be quite easy to replace. This leaves just Bonaparte which I can't change at all (would you guys prefer Bonap. or Bonapar? ...)"
+,8bPa,2011-10-15T21:27Z,"""Niito"" was a typo. Should've been ""Nitto"" (ニット). No idea how to correctly romanize that one, but it's spelled the same as ""knit"".　Kiruto is probably either ""kilt"" or ""quilt"" (both are spelled the same in katakana)."
+,Majin_Vegeta,2011-10-15T22:54Z,"Well, NEET would've been a nice name as well :P
+They're most likely Knit & Quilt.
+
+Hmm, but I was wrong about the name changes. I can't rename them that easily after all... And I don't feel like renaming every name manually 100+ times..."
+,8bPa,2011-10-16T01:09Z,"That's too bad. Maybe you could do one that keeps all the English names, then, for consistency? I noticed, for example, that the map still says ""De Sainte-Coquile"" in your version. :)"
+,Aizu_san,2011-10-16T01:13Z,"Perhaps it's part of artworks which are unchangeable.
+
+Oh, and to all People, you can stop seeding my undub and take Majin_Vegeta's instead.  I tested it and it's great, i'm going to work on it now and report futures(?) bugs! Thanks for your support ;)
+
+Aizu_san"
+,Majin_Vegeta,2011-10-16T02:03Z,"To 8bPa: If there are images with the names, I can't change them... Hmm, I guess you're right. I'll wait for bug reports and eventually release a v2 with all names changed back to the English ones again.
+Random fact: Sainte-Coquile was once misspelled Saint-Coquile.
+
+It's really annoying that that's as far as I can go in game hacking...
+
+To Aizu_san: Oh, sounds nice so far, heh."
+,PedoTed,2011-10-16T06:39Z,"Please start on v1.04! Im anxiously waiting for the voice fixes and static in the background. Hope you release it soon, I love your undubs. :)"
+,8bPa,2011-10-16T08:47Z,PedoTed: I assume you're running it in Dolphin? The stuttering/crackling audio has nothing to do with the undub. You have to use DSP LLE to get rid of the noise.
+,PedoTed,2011-10-16T23:46Z,"Oh, I didn't know that. Thanks for the help!"
+,Crosmando,2011-12-31T10:49Z,"So what is the latest and best undub version of Tides, this torrent or this one:
+http://thepiratebay.org/torrent/6746374/Rune.Factory.Tides.of.Destiny.USA.UNDUBv1.WII-Majin3
+
+???"
+,Aizu_san,2012-01-09T22:55Z,"Dear Crosmando :
+
+The version Majin3 uploaded can be considered as the my latest version since he managed to fix bugs from my version. I'll delete this torrent as soon as I got some time (cause work is killing >_"

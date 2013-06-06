@@ -1,0 +1,62 @@
+              RELEASE INFO
+
+
+         - Orcs Must Die! v1.0r7 *Update* *Fixed*
+
+           (c) by Robot Entertainment
+
+         - Date: 12-10-2011           - Protection: Steam
+
+         - Release: Cracked             by Ignite
+
+         - This update includes:
+           * 'Knight of the Order' costume DLC
+           * 'Orc Slayer' costume DLC
+
+
+              NOTES
+
+
+         - Our releases are always virus-free. If you think you found
+           something  suspicious, it's  a  problem  of  your security
+           software. All those  antivirus systems  will  never be too
+           smart, so don't complain.  And always remember that we are
+           not responsible for modified releases.
+
+         - We aren't stealing releases. We respect hard work of other
+           people and always  indicate  original authors of releases.
+           We have permissions to use their files.
+
+         - We are doing all this for fun  and  knowledge only. Always
+           remember to support the developers if you like the product
+           and its quality.
+
+
+Changes:
+- Added minimum processor check warning dialog on startup. The game will still run, but we'll let you know on install if you might be encountering problems because of your machine being below spec.
+- Added keyboard locale override from user.cfg - read below for user.cfg details
+- Added full-screen window mode support in user.cfg - read below for user.cfg details
+- Fixed a bug for posting to leaderboards
+- Fixed a bug for posting to total orc count
+- Fixed a bug on the button not going to the nightmare leaderboards
+- Fixed a startup issue on machines with multiple video cards. This should help many people with the "Failed to Initialize" issues.
+
+Notes:
+
+To unlock the "Orc Slayer" costume, you must kill at least 1 orc and restart the game.
+
+
+Instructions for using "user.cfg" to customize Orcs Must Die!
+
+Navigate to D:\Games\Steam\steamapps\common\orcs must die!\data\startup\ and create a text file called user.cfg
+Edit user.cfg and add options from the list below to change your settings:
+window
+This will force the game to run in Windowed Mode. Currently we don't have a way to move the window around/reposition it. We did this mainly as an option for people that want to run windowed mode but full screen.
+KeyboardLayout="AZERTY"
+KeyboardLayout="QWERTY"
+KeyboardLayout="QWERTZ"
+Use one of these to override the locale selection that the game is using to pick your keyboard layout. Setting this will force the game to use the layout that you specify in user.cfg 
+
+
+
+Sorry for those who downloaded the first patch. It was a script error. You can just re apply using this patch and your game should be working again. No need to re-install everything.

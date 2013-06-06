@@ -1,0 +1,9 @@
+Tor-ramdisk is a uClibc-based micro Linux distribution whose only purpose is to host a Tor server in an environment that maximizes security and privacy. Tor is a network of virtual tunnels that allows people and groups to improve their privacy and security on the Internet. Security is enhanced in tor-ramdisk by employing a monolithically compiled GRSEC/PAX patched kernel and hardened system tools. Privacy is enhanced by turning off logging at all levels so that even the Tor operator only has access to minimal information. Finally, since everything runs in ephemeral memory, no information survives a reboot, except for the Tor configuration file and the private RSA key, which may be exported and imported by FTP or SSH.
+Release Notes: This release incorporates a critical fix from upstream. It is recommended that users upgrade as soon as possible. Tor was bumped to version 0.2.2.34, libevent to 2.0.15,... and the kernel to 2.6.32.46 plus Gentoo's hardened-patches 2.6.32-74.extras 
+http://freecode.com/projects/tor-ramdisk
+ 
+http://opensource.dyc.edu/tor-ramdisk 
+http://opensource.dyc.edu/tor-ramdisk-documentation 
+http://opensource.dyc.edu/tor-ramdisk-changelog
+
+md5sum : 4d1417ae3a39e38ef9dcbdece3152eeb  tor.uclibc.x86_64.iso

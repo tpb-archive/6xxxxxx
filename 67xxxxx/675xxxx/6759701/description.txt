@@ -1,0 +1,36 @@
+Changes in DVDFab 8.1.2.9 Qt Beta (October 20, 2011):
+
+- New: Updated language files.
+- New: Some minor changes and improvements.
+- Fix: "Play selected source automatically" doesn't work for new internal preview.
+- Fix: Seek doesn't work for new internal preview.
+- Fix: Audio volume cannot be changed for new internal preview.
+
+DVD Copy:
+- Fix: Preview is still playing when copying.
+
+DVD Ripper:
+- Fix: A freeze problem when converting for certain discs.
+- Fix: A freeze problem at 100% when converting to iPod/iPad in certain cases.
+
+Blu-ray Copy:
+- Fix: A 401 error when copying "Full Disc" to BD25 for certain discs.
+
+Blu-ray Ripper:
+- Fix: A profile name problem when using "Set as default" in certain cases.
+- Fix: Framerate is always 23.976 for PS3 output.
+
+Video Converter:
+- Fix: A "Error=504.00 1 2" problem when converting MP4 to iPod in certain cases.
+- Fix: A crash problem when converting WMV file to MP4/iPad in certain cases.
+
+2D to 3D Converter:
+- Fix: A FabCore.exe crash problem when converting DVD/Blu-ray to XVID/DIVX file in certain cases.
+- Fix: A Bitrate=1 problem when converting DVD to 3D device in certain cases.
+
+preactivated version in all simplicity.
+Special thanks again to Dimitry for his repack made by latest BBB Team patch v 0.9
+
+enjoy and have fun
+
+cheers 

@@ -1,0 +1,33 @@
+The purpose of FAN is to supply an installation CD which includes the most-used tools in the Nagios community. The FAN CD-ROM is ISO-certified. It is thus very easy to install. A large number of tools are also being distributed, which makes the implementation of an efficient monitoring platform much easier.
+Linux-based operating system
+FAN is based on CentOS. All CentOS packages remain available, so that you can keep all the advantages of CentOS while having the Nagios tools already installed and configured for you.
+
+Integrated tools :
+    * Nagios : core monitoring application;
+    * Nagios plug-ins : plug-ins to monitor different equipments;
+    * Centreon : Web interface for Nagios (Centreon is one of the best for this purpose!);
+    * NagVis : advanced mapping (geographical, functional, by servicesâ€¦);
+    * NDOUtils : stores the Nagios data into a MySQL database;
+    * NRPE : makes it possible to monitor the Windows servers (the NRPE daemon is not provided);
+    * NaReTo (Nagios Reporting Tools): reporting tool (availability report). 
+http://fannagioscd.sourceforge.net/wordpress/
+
+Changelog FAN 2.2
+
+The changelog :
+    * Update Nagios 3.3.1
+    * Centreon 2.2.2
+    * NagVis 1.5.10
+    * MKLivestatus broker (this page to configure a second broker)
+    * FAN on x86_64 architecture
+    * Fix #3424410 : Error adding poller with centreon 2.3
+    * Fix #3415945 : SNMP Community hardcoded in Centreon
+    * Fix #3415929 : Fix centreon command check_san consistency
+    * Fix #3415889 : Fix centreon command check_centreon_nb_connections misconfiguration
+    * Fix #3415883 : Installation misspell and contistency
+    * Fix #3415877 : Fix centreon command check_manubulon_snmp_mem misconfiguration
+    * Fix #3386657 : No .bashrc for root in FAN 2.2 RC1
+    * Fix #3367029 : Fix centreon command check_snmp definition wrong 
+http://fannagioscd.sourceforge.net/wordpress/changelog-fan-2-2/
+
+md5sum : d9d4eab52fd17c9e2dc3caabe3b3855d  FAN-2.2-i386.iso

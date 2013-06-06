@@ -1,0 +1,32 @@
+Video #1
+      Format : AVC
+      Format/Info : Advanced Video Codec
+      Format profile : High@L4.2
+      Format settings, CABAC : Yes
+      Format settings, ReFrames : 5 frames
+      Muxing mode : Header stripping
+      Codec ID : V_MPEG4/ISO/AVC
+      Duration : 6mn 21s
+      Bit rate : 4 422 Kbps
+      Width : 1 920 pixels
+      Height : 816 pixels
+      Display aspect ratio : 2.35:1
+      Frame rate : 24.000 fps
+      Color space : YUV
+      Chroma subsampling : 4:2:0
+      Bit depth : 8 bits
+      Scan type : Progressive
+      Bits/(Pixel*Frame) : 0.118
+Audio #2
+      Format : DTS
+      Format/Info : Digital Theater Systems
+      Muxing mode : Header stripping
+      Codec ID : A_DTS
+      Duration : 6mn 21s
+      Bit rate mode : Constant
+      Bit rate : 1 510 Kbps
+      Channel(s) : 6 channels
+      Channel positions : Front: L C R, Side: L R, LFE
+      Sampling rate : 48.0 KHz
+      Bit depth : 24 bits
+      Compression mode : Lossy

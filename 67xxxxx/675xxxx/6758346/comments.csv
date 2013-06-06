@@ -1,0 +1,40 @@
+User Type,Username,Date,Text
+,pryingeyes,2011-10-21T02:25Z,"2.4.4 has been posted a couple times previously with a failed password. Has anybody confirmed that the attached password is working beyond the three-hour window? Tired of installing, uninstalling and re-installing back down to 2.4.2."
+,tuvokk,2011-10-21T05:11Z,"The problem is not that the password fails, they all fail eventually, if you let LS phone home. 
+
+The solution is that you have to deconnect from internet while installing and then start Little Snitch while still NOT being connected to the internet, and then create 3 rules in LS to not let it phone home. Only after having done that reconnect to the internet.
+
+This was explained in an earlier LS 2.4.3 or 2.4.4 torrent."
+,goodwood,2011-10-21T13:03Z,"Could you tell us again what the 3 rules are?
+
+I understand the rest of the concept.
+
+Thanks"
+[T],NoggintheNomad,2011-10-21T17:23Z,"Disconnect from the internet before installing, and before you reconnect, create rules to block the following applications:
+
+Applications/Little Snitch Configuration
+Library/Little Snitch/Little Snitch Network Monitor
+Library/Little Snitch/Little Snitch UI Agent"
+,pryingeyes,2011-10-22T02:14Z,"No, there's more to it than those three rules. I've had those in place for years. 2.3.2 and then 2.4.2 both failed after three hours. It's not a phone-home thing, but rather that the software is aware of older, pirated serials. Thus my question about the serial provided in this remains: Are you having success with it beyond the three-consecutive-hour window?"
+[T],joskewarez,2011-10-22T11:20Z,"Yes, it's a valid serial"
+,pryingeyes,2011-10-22T23:10Z,"Failed for me after three hours, just as I feared. And yes, I know what I'm doing, have been running LS for years and years, have those rules in place. Now I'll uninstall, reinstall 2.4.2 and go from there."
+[T],NoggintheNomad,2011-10-24T20:00Z,"Methinks probably the best thing to do is just buy the thing. After all, it's very cheap, and it does protect us all. I'm going to pay for it now."
+,FrankWh1te,2011-10-26T07:42Z,"Pryingeyes I have been using this program for a while as well and never had to follow the step so closely before, but this actually works. Completely uninstall LS, double check because I ran the uninstaller and still found random logs and such. Once COMPLETELY deleted, TURN OFF AIRPORT.(I edited my hosts file as well and flushed my DNS cache) Reinstall, set your 3 rules, enter serial. No issues yet, ran for almost 10 hours straight first day. That was several days ago and I have had plenty of sessions online lasting longer than 3 hours with no invalid license message. 
+
+Also I noticed every once in a while when watching online videos ""PluginProcess"" tried to connect to Obdev's servers so be careful what you approve. "
+,alkwef,2011-12-01T06:09Z,"Software used mostly for pirating programs was pirated.
+Irony at its best."
+,trywait4,2012-01-03T07:18Z,"@pryeyes  maybe you don't know what you are doing then,think?  Use the SN to register the product, else in demo mode only go for 3 hours. As for myself, I use LS 2.3.3. I like it a lot, not sure if to upgrade. Gotta have a Little Sniffer or any sort when doing torrents. Indeed. thanks!"
+,alkwef,2012-01-09T05:54Z,"it hasn't been three hours but it looks good because it says 
+""Multi License (5X)
+Registered to: 
+Serial Number:"" and then it gives the SN"
+,antonavy,2012-03-03T12:22Z,"If 40 euros is cheap for little app, then I don't know..."
+,Killeh,2012-03-12T03:41Z,"Great Torrent. I followed the Three rules and it still works perfect after 3 hours. 
+I used the Serial included. Thanks!"
+,arthurtwosheds,2012-03-15T23:52Z,Follow Noggin's instructions and it will work. Did for me anyway. Thanks uploader and seeders.
+,dinodig,2012-03-28T16:17Z,Thanks a lot.
+,WhyPaywhenUcanPirateBay,2012-04-03T01:48Z,:)
+,Luc1dity,2012-05-06T08:33Z,"I would really recommend a thing called Radio Silence. My harddrive crashed a few weeks ago, so now I'm getting all my old apps back, but I remember Googling around and finding that thing before when I was having trouble finding a good LS torrent. You don't have to worry about it phoning home."
+,Luc1dity,2012-05-06T08:36Z,I stand corrected. It's $9.
+,binyo66,2012-05-07T06:28Z,thx

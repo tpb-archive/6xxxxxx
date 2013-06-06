@@ -1,0 +1,62 @@
+User Type,Username,Date,Text
+,torrentking64,2011-10-03T19:17Z,"A-10
+V-10
+M-7
+FANTASTIC QUALITY AS ALWAYS.
+will THOR and PIRATES 4 be proper screen ratio if you decide to upload them later mate?"
+,TronDroid,2011-10-04T01:41Z,"sorry man im not gonna upload thor and pirates 4 at correct ratio. i dont wana overwork my laptop :( ..btw i use avidemux, tsmuxer, and imgburn xD"
+,torrentking64,2011-10-04T19:15Z,"no problem mate. but i would love a tutorial of software use to shrink the movie onto a dvd5 without losing quality. i know you were desperate to learn HD-R-US methods but you,ve cracked that and now i would like to follow in your footsteps."
+,TronDroid,2011-10-04T22:06Z,"*---Avidemux 2.5---*
+1.) Open or drag the file to avidemux
+2.) Avidemux will prompt you about ""H.264 detected"" click NO, and ""index is not up to date"" click NO 
+3.) This is what I do on the settings on the left
+
+----Video: MPEG-4 AVC
+-Configure: At General tab, change Encoding Mode to ""Video Size (Two Pass)"" and for the Target Video Size make it 3700mb
+-Filters: Transorm -> Add Black borders. If the video is 1280x544, do the math to make it 1280x720. [example 720-544=176. 176/2=88..top border=88. buttom border= 88]
+
+----Audio: AC3(Aften)
+-Configure: Bitrate 384
+-Filters: no change 
+
+----Format: MKV
+
+4.) Save Video..Make sure you put .mkv at the end..example ""Green Lantern.mkv""
+5.) Put the priority to high...the encoding takes usually 12hrs on my laptop :("
+,TronDroid,2011-10-04T22:09Z,"*---tsMuxer---*
+1.) Drag the new video
+2.) On the video settings, ""Change level"" to 4.1 ...if not changed to 4.1, it wont play on PS3 :(
+3.) On Audio Settings, change the language to the language spoken in the movie
+4.) (Optional) Drag subtitles (.srt)..make sure the subs is sync to the video..
+5.) Set the ""Output"" to AVCHD disk 
+6.) At the ""Blu-ray"" tab, insert a chapter every 5mins
+7.) At the ""Subtitles Tab"" change the font to 50 if it the video is 720...65 if 1080...
+8.) Click ""Start muxing"" at the buttom
+9.) The final product should have a folder named ""BDMV"" and ""CERTIFICATE"""
+,TronDroid,2011-10-04T22:11Z,"*--ImgBurn--*
+making an .ISO
+1.) Open ImgBurn and select ""Create image file from files/folders""
+2.) Drag the 2 folders.. BDMV and CERTIFICATE
+3.) Then build. Then click ""yes"" or ""ok"" on the pop-ups (beacuse ImgBurn will automatically recognize the bluray settings UDF 2.50) 
+4.) Then you have the final iso ready to share and/or burn :)"
+,torrentking64,2011-10-04T22:18Z,"thanx mate keep up the good work dude. if it was up to me you,d have a skull.
+P.S. don,t waste yer time on ZOOKEEPER it,s shite."
+,TronDroid,2011-10-04T22:23Z,"how the hell did you reply that fast? hahahhaha
+can you try Horrible Bosses? xD"
+,Ecclesiast,2011-10-04T22:38Z,Thanks!
+,torrentking64,2011-10-04T23:20Z,"1 last question. i guess you can tell i,m a novice. whose movie files do you download and what size GB do you go up to keep the quality you achieve. sorry if the questions are a bit dumb."
+,TronDroid,2011-10-04T23:41Z,i usually download from BOZX torrents. 4gb-6.5gb for 720...
+,torrentking64,2011-10-05T00:02Z,cheers buddy gonna try THOR will get back to you when done. may take a couple of days with work n all. nite pal.
+,hd-movies,2011-10-05T18:25Z,"sorry trondroid, i used  hd-r-us movies before and had no problem. when i use your movies it plays for about 5 seconds and then starts over. the movie seems to be there but goes back to the first no matter how far i skip them. i am trying to play in my panasonic avchd /blu-ray player.all i see is an iso file and i write to disk using imgburn. can you help"
+,TronDroid,2011-10-05T19:50Z,"@hd-movies
+Try burning at lower speed...if it still doesnt work, its probably my movies are not supported :( ... "
+,torrentking64,2011-10-12T23:28Z,"trondroid u r tutorial works a treat cheers mate. just one thing. adjusting the black bars in avidemux. what if the size say 1920x800 what would you adjust it to then to get your 720 screen ratio. understand what i,m saying?"
+,TronDroid,2011-10-13T08:21Z,"in that case, make it 1080...so just add 500 top border and 500 bottom border to make it 1920x1080 xD"
+,TronDroid,2011-10-13T08:22Z,oops wrong math...as long as it is 1920x1080
+,torrentking64,2011-10-13T14:31Z,nice one cheers pal
+,torrentking64,2011-10-14T00:28Z,"fuck these black bars on avidemux are doing my head in. trondroid. be patient with me. please work out exactly as an example 4 me what 1920x816 would be in the add borders section. i,m fuckin stuck getting op and bottom borders right."
+,TronDroid,2011-10-14T00:50Z,1080-816=264....264/2=132.....top border = 132...bottom border=132
+,torrentking64,2011-10-14T14:18Z,cheers mate... i really am a fuckin numpty. lol.
+,torrentking64,2011-10-26T14:47Z,are you doing deathly hallows 2 trondroid?
+,TronDroid,2011-11-01T03:12Z,looks like this is the last upload :)
+,torrentking64,2011-11-01T06:44Z,why?

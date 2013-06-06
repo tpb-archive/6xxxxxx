@@ -1,0 +1,91 @@
+User Type,Username,Date,Text
+,Leo67,2011-10-26T18:34Z,Thanks!
+[T],nobody2007,2011-10-26T19:54Z,"Defragmentation and disk optimization in Mac OS X collectively represent an issue nearly as contentious as the debate over repairing disk permissions -- one camp argues that utilties purportedly performing these functions amount to little more than nostrums, while others claim real-world performance gains as a result of the tools' usage.
+
+Apple's input on the subject is, as usual, less than definite. The company states explicitly in Knowledge Base article #25668 (published in 2003) that that ""you probably won't need to optimize at all if you use Mac OS X,"" then provides instructions for what you should do ""if you think you might need to defragment.""
+
+According Apple's advice, there are two scenarios under which you might need to defragment your drive:
+
+    You have many large files (such as digital videos)
+    Your disk is low on space (i.e. more than 90% full)
+
+If these are in fact your only concerns, there are some basic remedies.
+
+In the case of myriad large files, you can easily (as described by Apple) create a backup of all your important data -- essentially everything but operating system files -- then re-install Mac OS X and restore the files from backup. It's somewhat tedious, but should result in faster access to said large files. Or, you can use a utility like SuperDuper! to make a clone (or near-clone) of your startup drive, then simply format your drive using Apple's Disk Utility (located in Applications/Utilities) and copy the files back.
+
+The reason the aforementioned methods work requires a quick explanation of what fragmentation is, and the difference between disk defragmentation and disk optimization:
+
+Fragmentation, to put it simply, occurs when files are split up into multiple parts and stored in different locations on the hard drive. Hard drives need time to seek (move their point of access to a different location) and begin culling data. As such, a file in one contiguous lump will be accessed more quickly than a file in two segments, three segments, etc. Think of it like this: if your disk can transfer data at 20 MB per second, a 200 MB file will theoretically take 10 seconds to access/transfer if it is stored in one chunk. If it is split into 10 chunks, and your drive has a seek time of 8 ms, you will need to add 8 ms per chunk, plus 8 ms for the initial seek -- or 90 ms -- to the access time. That doesn't seem significant for a simple transfer or one-off access, but the fragmentation can cause noticeable slowdown when you are repeatedly manipulating a file not stored in RAM, or working with a collection of smaller, fragmented files.
+
+The filesystem consists of various, differently-sized portions of free space, separate from one another. When hard drives become full, the filesystem needs to begin using smaller, and smaller portions of free space to store data. As such, it will start to split files into smaller chunks and spread them to free portions at different locations on the disk -- i.e. fragment them.
+
+Fortunately, Mac OS X's HFS+ filesystem has some safeguards against avoidable fragmentation. First, the filesystem avoids using space recently freed by recently deleted files whenever possible, looking instead to potentially larger, already free portions of the disk first. Second, Mac OS X 10.2 has a routine that clumps smaller portions of disk space into larger portions on the fly. Finally, Mac OS X 10.3.x can automatically defragment some files through a process called ""Hot-File-Adaptive-Clustering."" Though these routines have undoubtedly have made consequential fragmentation a less common occurence, their efficacy is not beyond question. First of all, though they can reduce fragmentation of extant files, they can also cause remaining free portions on the disk to become smaller in size, potentially leading to more fragmentation down the road as new files are written. Second, the automatic defragmentation routines will not work on certain files -- specifically those above 20 MB nor those fragmented into 8 or fewer segments.
+
+Back to the effectiveness of disk cloning and susceptibi"
+[T],nobody2007,2011-10-26T19:56Z,"Back to the effectiveness of disk cloning and susceptibility of large files to fragmentation: obviously larger files are more likely to be fragmented because they require more disk space, and as such may occupy many separate portions of the filesystem. Generally, cloning a disk with tool like SuperDuper! will eliminate most fragmentation because data is being written freshly to a new, blank filesystem, and can occupy appropriately sized portions of space. No data is being added to any particular file, meaning said file will not spill into other unused portions. As such, the disk clone will have files that are stored in more contiguous segments than the original. When you copy the entire filesystem back to the formatted original drive, the same structure will remain intact.
+
+Disk optimization is a different process from defragmentation, with a different end. Rather than concerning single files split into multiple chunks and strewn across the disk (as with fragmentation), optimization deals with the organization of related files -- or those commonly accessed together -- into logical groups for enhanced performance (quicker access). Some of the most crucial files in this regard are those depended upon to launch applications. Literally dozens of frameworks are accessed each time a Cocoa application is launched, and if they are spread out in far-reaching locations on the disk, launch time can slow significantly.
+
+How can these files become disorganized, as it were? One of the major culprits lies in system updates. When Mac OS X is first installed, it logically groups files close together on the disk to enhance performance. When a major system update -- such as an incremental Mac OS X release -- is applied, however, the old frameworks need to be deleted, and new frameworks need to be written. Unfortunately, the new framework version usually is not (and cannot) be written to the same portion of disk space occupied by the old framework version. Instead, it may be written at a location far away from the original group of critical, application-launch related frameworks. This where disk optimization utilities like iDefrag come into play. 
+source _ http://docs.info.apple.com/article.html?artnum=25668"
+,okiwan,2011-10-27T09:38Z,"Maybe it's me, but the application requires a valid license file thus, so far, it seems not to be working..."
+,okiwan,2011-10-27T09:39Z,"Oh, and by the way: ""nobody2007""...THANKS for this quick tech note ;)"
+[T],User_01,2011-10-27T11:21Z,"@okiwan
+
+No, i think it's you and your genius. 
+
+Now, here's an additional tip for you and your genius, ignore this torrent (since it's clearly not for you) and go here http://www.coriolis-systems.com/shopping-cart.php
+
+Oh, and by the way: ""okiwan"" ... if you enjoy reading stuff, a second tip for you, information nowadays is free and easy to find. Here, more for you and your genius http://en.wikipedia.org/wiki/Defragmentation"
+,1TWISTED,2011-10-27T14:51Z,"thanks,.. nice upload,... well done,.. ; )
+
+for what it is worth, i have been using this program for a year on 6 different PPC MACs and it has helped me/them.
+
+again,.. THANKs... "
+,MrPeanut7,2011-10-27T21:34Z,"Uh, I agree with Okiwan.  This doesn't work, at least if you follow the obvious steps.  User_01, if you know of some way to make it work, please share it with the rest of us."
+,findermix,2011-10-28T14:17Z,"No serial, serial does not work without key!"
+[T],User_01,2011-10-28T21:46Z,"Uh, ... 
+
+It's clearly that you don't understand how this works  ... I can not give you any key (but i will) since it won't work. The key file should be generated by the server specifically for your own machine (when ""installing"" the software). If it doesn't, then your machine it is ""blacklisted"" (ip, s/n, MAC etc) by the server. This happens when you've tried to install this software (other versions perhaps) and it had connected to the server before.
+
+So, the only way to get it work is if you manage to run it on a ""clean"" machine (first time etc) and you got lucky and it generated a key. (which reminds me, for other f@@kers out there, SAVE the key for darker times) (user/Library/Application Support/iDefrag) (user/Library is a hidden folder in Lion)
+
+More proof, go to the software contents and delete the file License.plist and see what happens when you relaunch the app ...
+
+Even if you try to remove the software with AppZapper (or similar) and reinstall will not work ... Maybe you can get lucky if you make a ""safety"" OS X installation with the OS on it, boot from that one and install, save key etc ...
+
+Example of a GOOD key BUT WILL NOT WORK ...
+because of the reasons explained above ... http://dl*dropbox*com/u/46944049/iDefrag2*licenseKey*zip (*=.)"
+,nofil,2011-10-30T00:07Z,i have a 'clean' computer with little snitch on it. never communicated with their server. i went to the link and obviously they didn't generate a key for me. the previous version i have comes with a key file. can't someone upload this version with a key file or a generator?
+[T],User_01,2011-10-30T02:49Z,"For those who are willing to do a little work to make it work. Check ""additional files"" first. Method tested.
+
+So, i will not wish you luck, since it's not needed.
+
+http://thepiratebay.org/torrent/6782136/Snow_Leo_911_Pro_v1.5"
+,EngAhmedFoaud,2011-10-30T21:08Z,where is the keyfile ?!!
+[T],User_01,2011-10-30T21:39Z,"At the Temple. Is meditating, trying to achieve Nirvana. 
+
+But, if you wait and be patient, it will eventually come to you!"
+,EngAhmedFoaud,2011-10-31T16:30Z,"Thank you ,,, i'm waiting :))"
+,EngAhmedFoaud,2011-11-14T22:20Z,I think that you are too late !!!!!
+[T],User_01,2011-11-15T13:02Z,lol
+,pirukire,2011-11-29T18:30Z,Does not work. Don't bother to download it as it does not include any patch or key.
+[T],User_01,2011-11-29T22:56Z,"I bet on your Mac or Hac that i can make it work for you! But, then your Mac or Hac will be mine, so ... I would suggest to carefully read the comments above your stupid one and be more patient when trying to make something work, or if you're that stupid go and buy the software. Don't be so ""cheap"" by clicking the ""-1"" button!"
+,q00u,2011-12-22T20:55Z,"You'd need to download User_01's other torrent, have a fresh install of OSX (won't work with your current one), run the cleanup tool, restart, build key, copy key to your real system.
+
+Shouldn't take more than a couple of days.
+
+Essentially, this is uncracked. User_01, don't whine when people -1 you for uploading a noncracked app, and don't call people stupid. Some of us know exactly what to do, we're not stupid. We're *lazy*. :-P"
+[T],User_01,2011-12-23T23:47Z,"Glad that at least ""1"" person understood or already knew what to do with the file from this torrent.
+
+For that -1 one part, is not  really for me, is more for other people (it discourage them to download a perfectly working app (with the right approach to it).
+
+(Form my part could be just 0 (one of the two numbers that i really like).)
+
+If you know other way to crack it, be my guest and post a torrent. The app worked ""out of the box"", at the beginning, just with the license file that it contains, but then, like expected, where there's more then one on the same slice ... "
+,useryuhu,2012-06-01T09:39Z,"There are no ""additional files"", not on my zip at least. So if anyone has managed to make this work, we'd appreciate the instructions."
+,useryuhu,2012-06-01T09:50Z,"dl dropbox com u 42309276 ss png
+
+You are a smart person figure out how to turn it into a link, TPB wont let me post it with slashes and dots"
+,yermyboyblue,2012-06-02T20:20Z,"Thanks useryuhu,
+I guess I'm smart enough to make a link?"

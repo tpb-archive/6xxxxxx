@@ -1,0 +1,26 @@
+Open Embedded Linux Entertainment Center, or OpenELEC for short, is a small Linux distribution built from scratch as a platform to turn your computer into a complete XBMC media center. OpenELEC is designed to make your system boot as fast as possible and the install is so easy that anyone can turn a blank PC into a media machine in less than 15 minutes.  
+http://openelec.tv/
+
+Bugfix release: 1.0.2
+We are happy to release our next bugfix release:
+OpenELEC 1.0.2 is released! Many thanks to all users for testing and contributing.
+Fixes:
+    * samba: change default server string and set netbios name according the hostname configured in OpenELEC OS settings addon. 
+      Note: this changes the default system smb.conf. If you use a own samba.conf in /storage/.config (Configfiles share) you must manually remove samba.conf.sample, reboot and rewrite samba.conf with your changes based on the new samba.conf.sample file.
+    * PyBluez: dont build and install bytecode
+Updates:
+    * update to linux-3.1 (final)
+      this updates the Kernel to the final release and fixes some WOL (Wake on LAN) issues with prereleases of Kernel 3.1
+    * update to xf86-video-nvidia-290.03
+      this updates the nvidia graphic driver and *should* fix a crashing video driver on various systems like the Zotac GeForce 9300
+Known issues and limitations
+    * GPU Temperature is not shown in XBMC on some nvidia GPU hardware (bug in driver)
+    * Component Video does not work in the Apple TV image
+    * If you use the installer to install on a new drive, be sure there is at least one partition, otherwise the drive will be not detected 
+http://www.openelec.tv/news/item/212-bugfix-release-102
+ 
+http://openelec.tv/donate 
+http://www.openelec.tv/get-openelec (others builds)
+
+md6sum : 7a93e0c772dc04fa75a9cb7256100404  OpenELEC-Generic.i386-1.0.2.tar.bz2
+

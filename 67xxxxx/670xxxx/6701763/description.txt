@@ -1,0 +1,30 @@
+FOR TESTING
+Illume OS is based on Debian GNU/Linux 6.0 'Squeeze'. It features the IceWM window manager. Applications included are â€“ the Midori web browser, AbiWord word processor, Gnumeric spreadsheet program, Exaile audio player, MPlayer media player, Xzgv image viewer, Leafpad text editor, Evince PDF Reader, Thunar file manager, GIMP Image Editor, and so on... Thanks to Wine, you could run your Windows programs on Illume OS, plus, with the Windows Wireless Drivers manager, you could install Windows wireless drivers at anytime. It's fantastic to run on old machines which you plan to throw out (save the environment, stop flinging your computers out of the window). The name 'Illume' means light up.
+
+Preview 4 now available!
+Preview 4 is now available! Due to a massive list of problems, it is finally available! At the last moment, after discovering some problems with the first version of the compiled ISO, I decided to scrap that and go and work on somethings again. Iâ€™ve used the opportunity to add a few more features:
+ An Installer (not joking)
+ Auto-login
+ New and refined IceWM theme
+ Gadmin Server tools
+ Pinta Image Editor replaces GIMP
+ Exaile replaces Audacious audio player
+ GNOME MPlayer replaces Gxine
+ Link to Google Docs replaces AbiWord and Gnumeric
+ Link to Google Calendar replaces Iceowl
+ Google Gadgets
+ Simplified Reboot and Power Off menu (old IceWM logout menu can be re-enabled manually by modifying a configuration file)
+ Removal of the 'Filer' icon, as the 'Home' icon does the same thing
+
+And hereâ€™s the system requirements:
+ 1 gigahertz (GHz) or faster 32-bit processor
+ 2 gigabyte (GB) of RAM
+ DVD drive
+ 20 GB available hard disk space
+
+This is a major step in making Illume OS a mature Linux distribution. Thereâ€™s more to come, please stay tuned. It is been requested for me to do a demonstration of Illume OS on a local machine, not on a virtual machine, so Iâ€™ll be demonstrating Illume OS on a Pentium 4 machine off a DVD. Please make sure to watch for updates on that!
+Just click here to get to the Labs page to download the new release! 
+http://illumenews.tumblr.com/post/10643206994
+
+
+md5sum : 87a7e83c75c51dea5843d00abda879e9  illume-testing-010.iso

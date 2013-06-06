@@ -1,0 +1,72 @@
+General
+UniqueID/String                  : 228425587746242844920484307211637937873 (0xABD92AFECD628761B0BCD8EC58B6D6D1)
+Formato                          : Matroska
+Formato de la versiÃ³n            : Version 2
+TamaÃ±o del archivo               : 5,88GIB
+DuraciÃ³n                         : 43min.
+Tasa de bits total               : 19,5Mbps
+Fecha de codificaciÃ³n            : UTC 2011-09-12 04:15:20
+AplicaciÃ³n de codificiÃ³n         : mkvmerge v4.4.0 ('Die Wiederkehr') realizado en Oct 31 2010 21:52:48
+LibrerÃ­a de codificaciÃ³n         : libebml v1.0.0 + libmatroska v1.0.0
+
+Video
+ID                               : 1
+Formato                          : VC-1
+Formato del perfil               : AP@L3
+ID CÃ³dec                         : WVC1
+ID CÃ³dec/Pista                   : Microsoft
+DuraciÃ³n                         : 43min.
+Tasa de bits                     : 18,3Mbps
+Ancho                            : 1 920pixeles
+Alto                             : 1 080pixeles
+RelaciÃ³n de aspecto              : 16:9
+Velocidad de cuadro              : 23,976fps
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8bits
+Tipo de exploraciÃ³n              : Progresivo
+Bits/(Pixel*cuadro)              : 0.368
+TamaÃ±o de pista                  : 5,51GIB (94%)
+
+Audio #1
+ID                               : 2
+Formato                          : AC-3
+Formato/Info                     : Audio Coding 3
+Formato del perfil               : Dolby Digital
+Format_Settings_ModeExtension    : CM (complete main)
+Modo Muxing                      : Header stripping
+ID CÃ³dec                         : A_AC3
+DuraciÃ³n                         : 43min.
+Tipo de tasa de bits             : Constante
+Tasa de bits                     : 192Kbps
+Canal(es)                        : 2canales
+Posiciones del canal             : Front: L R
+Velocidad de muestreo            : 48,0KHz
+BitDepth/String                  : 16bits
+TamaÃ±o de pista                  : 59,3MB (1%)
+Idioma                           : EspaÃ±ol
+
+Audio #2
+ID                               : 3
+Formato                          : AC-3
+Formato/Info                     : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Modo Muxing                      : Header stripping
+ID CÃ³dec                         : A_AC3
+DuraciÃ³n                         : 43min.
+Tipo de tasa de bits             : Constante
+Tasa de bits                     : 640Kbps
+Canal(es)                        : 6canales
+Posiciones del canal             : Front: L C R, Side: L R, LFE
+Velocidad de muestreo            : 48,0KHz
+BitDepth/String                  : 16bits
+TamaÃ±o de pista                  : 198MB (3%)
+Idioma                           : InglÃ©s
+
+Texto
+ID                               : 4
+Formato                          : PGS
+Modo Muxing                      : zlib
+ID CÃ³dec                         : S_HDMV/PGS
+ID CÃ³dec/Info                    : The same subtitle format used on BDs/HD-DVDs
+Idioma                           : EspaÃ±ol
+

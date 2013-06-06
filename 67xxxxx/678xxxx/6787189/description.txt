@@ -1,0 +1,30 @@
+1. Introduction
+======================
+Voyage Linux is Debian derived distribution that is best run on a x86 embedded 
+platforms such as PC Engines ALIX/WRAP, Soekris 45xx/48xx and Atom-based boards.
+
+It can also run on low-end x86 PC platforms. Typical installation requires 
+128MB disk space, although larger storage allows more packages to be installed.
+Voyage Linux is so small that it is best suitable for running a full-feature 
+firewall, wireless access point, Asterisk/VoIP gateway, music player or network 
+storage device. 
+
+Currently, Voyage Linux has the following editions:
+
+    * Voyage Linux - the basic version
+    * Voyage MPD - Music Player Daemon
+    * Voyage ONE - VoIP software - Asterisk, dahdi etc
+
+All editions are delivered as distribution tarball and Live CD in i386 
+architecture. AMD64 architecture is available for Voyage Linux only. We also 
+offer SDK to ease customizing Voyage Linux. 
+
+For more information about Voyage Linux, please visit: 
+http://linux.voyage.hk 
+http://svn.voyage.hk/repos/voyage/branches/voyage-live/0.8.0/config/chroot_local-includes/README
+ 
+http://svn.voyage.hk/repos/voyage/branches/voyage-live/0.8.0/config/chroot_local-includes/CHANGELOG 
+http://linux.voyage.hk/donation 
+http://linux.voyage.hk/download (others versions) 
+http://linux.voyage.hk/voyage-mpd 
+http://linux.voyage.hk/voyage-one

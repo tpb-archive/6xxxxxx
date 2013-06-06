@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+,rummyrumm,2011-09-28T05:43Z,1.67GB?  something doesn't seem right here...
+,luli2506,2011-09-28T17:19Z,"rummyrumm, when the video is in hd, is much heavier.. great quality btw! thanks"
+,ColdyBT,2011-09-28T18:17Z,"Yeah man I know, the last one was 2.14 gb
+What happened to the 1.09 gb per episode.
+Hard drives noooooo."
+,timotay89,2011-09-28T21:09Z,And this is the reason my 3TB drive will be arriving in the mail shortly...
+,jamecam,2011-09-28T21:37Z,What are the file size conventions this year for dimension releases?
+,thegr8luiz,2011-09-29T13:35Z,Thank you very much for your time and effort to share this with us.
+[V],meech,2011-09-30T02:06Z,"Hopefully there isn't any size convention.  If one uses the x264 encoder's crf feature, you don't specify a file size when encoding.  You instead specify the quality you want it to be (a rate factor).  Different shows demand different bitrates.  Even different episodes within the same show...some need more bitrate (i.e. size) than others to produce the same quality.  For instance, say we choose a crf of 19.  We tell the encoder to choose whatever bitrate (size) is required to give me that quality.  That way, the video quality is standard from rip to rip even though you get different sizes.  Most of the bluray rips that you find here were encoded using crf (notice that they're all different sizes).  Although I've used target filesize myself to encode, crf is a much better way to encode.  It's not only quicker, but it always maintains the same quality (that you choose) across encodes.  That way you don't waste bits if an episode needs a low bitrate and you don't skimp on eps that might need a higher bitrate."
+,jamecam,2011-10-01T06:46Z,"@ meech
+
+Thank you for the informative reply.  After examining the encoder settings on this week's episode, I see that a CRF of 18 was used.  Last week's episode was encoded using identical settings, but required a higher overall bitrate due (as you aptly described) to more complex data.
+
+Each week I record Community, Parks and Rec, and Glee via firewire from my cable box and see how my episodes compare to the dimension releases.  Switching from constant file size to a CRF standard is a welcome change for all, except maybe those who burn each episode to a DVD for archive.  
+
+Here are the DIMENSION x264 encoder settings in case anyone is curious.  
+
+cabac=1 / ref=8 / deblock=1:-2:-2 / analyse=0x3:0x113 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=5 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.0"
+,hutchjaa,2011-12-07T09:47Z,THX

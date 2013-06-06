@@ -1,0 +1,111 @@
+I got this a while ago when it first came out and i've added updates to v5.1.2 (Included) . I've been using it since then and it's always done the job. I currently use this software every Friday to multitrack my bands Jamming seesions and it's always delivered. I've also included every Steinberg legacy VST released up to v5.1.2 (Install Instructions Included)
+
+There's also some popular drum synth plugins maps for Addictive Drums,Toontracks EZDrummer,And DFH kit's.
+
+-*Also Included*-
+
+ASIO4All 2.1.0 x86 x64 Driver
+All Steinberg legacy VST Plug-Ins to Cubase v5.1.2
+Full .PDF Documentation Included
+100 Quantize Grooves
+Complete Covers
+HALionOne & VST Sound Collection
+Expression Set
+GM Drum Set
+GM Set
+Groove Agent ONE & Content
+HALionOne
+LoopMash Content
+Pro Set
+REVerence Content 01
+Steinberg Drum Loop Expansion 01
+Steinberg HALionOne Additional Content Set 01
+Studio Drum Set
+Studio Set
+HALionOne Update v1.1.0.2
+Quicktime 7 Pro
+Steinberg Rebeat
+Steinberg Virtual Guitarist FX VST
+VST Expression Set
+Complete VST Presets
+Steinberg Cubase v5.1.2 UPDATE & Activate Working Dongle EMU
+Steinberg Cubase 5 Quick Reference Card
+
+
+Basically everything you need to get Cubase 5 installed and running All in one .iso image that you can mount using a virtual drive or burn onto a 4.7gb DVD and install.
+
+For anyone still unfamiliar with Cubase, its modern incarnation is as a one-stop, 'do it all' DAW, featuring audio and MIDI sequencing, virtual instruments, loads of effects, a virtual mixer, automation system, and so on.
+
+Technically, this is the second time Cubase has reached version 5, as following 2000's release of Cubase VST 5, Steinberg ditched the digit and launched the vastly overhauled Cubase SX in 2002.
+
+Eventually, the SX tag was dropped and we find ourselves once again at v5.
+
+Pitch adjustment
+Before looking at the more subtle improvements, let's tackle some of the big ones, the most impressive of which is the spruced up Sample Editor with its VariAudio pitch editing.
+
+This is similar to Celemony's Melodyne but tightly integrated into the app. While it's not the first DAW to get this (Samplitude and Sonar have similar systems), it is probably the slickest.
+
+VariAudio operates on monophonic audio â€“ typically vocals, but other instruments can work too. Large coloured 'segments' that look like notes on a piano roll identify each note, and a fine continuous line called the micro-pitch curve shows the actual pitch. Clicking a segment plays it back immediately.
+
+Typical uses of VariAudio include editing the pitch of individual notes by dragging them; applying pitch quantising so that notes are more in tune; and 'straightening' notes to remove wavering pitch or suppress vibrato. You can shift the timing of notes, too.
+
+Get under the hood of VariAudio and there are more subtle adjustments to be made, such as altering the start or end pitch of a segment, or 'tilting' its pitch curve; exporting the notes as MIDI data; and setting the notes via MIDI. With the latter, you step through segments with each key press.
+
+There's also a real-time pitch correction effect called â€“ wait for it â€“ PitchCorrect. You can quantise to a chromatic, minor or major scale, or a custom one defined by clicking notes on the on-screen keyboard.
+
+It offers the expected features such as speed of retuning, tolerance, transposition and formant-shifting. It's only a shame that it doesn't offer diatonic (ie, in key) pitchshifting too. Quality-wise, both VariAudio and PitchCorrect sound the business
+
+Convolution reverb
+The other new audio effect for Cubase 5 is a convolution reverb named Reverence. It comes with a library of impulse responses, some with surround versions too, and you can import your own.
+Once loaded, you can view a waveform or spectrogram (frequency response over time). You can set the pre-delay; scale the IR to set the decay length; set the size of the room (this seems to work by 'skewing' the frequency response); set the mix between early and late parts of the signal and where they're divided; apply EQ; and engage auto-gain and reverse.
+
+A matrix at the top of the GUI lets you recall up to 36 reverb setups â€“ very handy! Sonically, it's much like any other quality convolution reverb; that is to say, excellent. Downsides are that it introduces a small amount of latency, which can make it unsuitable for live tracking/monitoring, and that the smooth parameter changing sometimes means a delay before you hear the results of your tweaking.
+
+Instruments and plug-ins
+There are two new instruments in Cubase 5, both of a rhythmic bent. The most unusual is LoopMash. The idea is that you throw in rhythmic loops and they're chopped up, with the slices analysed for similarities.
+
+Select a master loop, hit play, and slices are pulled from all the loops to 'recreate' the master loop using different sounds. Sliders determine how likely it is that a given loop's slices are selected. There are further options, but that's the crux of it.
+
+If your loops aren't already tagged with their BPM in MediaBay, LoopMash doesn't always get the slicing right, so odd-length loops or beats running at double-speed can occur. We often experienced a confusing error complaining about the region being outside the file, too.
+
+LoopMash is a groovy concept, but the bottom line is that getting good results out of it is generally more hassle than it's worth.
+
+The new Groove Agent One is a simple MPC-esque drum sampler. Sounds are added to the 16 pads by dragging, and you can velocity-layer up to eight on each (but you can't stack them to play back together). On a per-pad basis, you can set levels, panning, looping, tuning, assignment to the 16 stereo outs, filtering, amp envelope and more.
+
+There are 43 good-quality kits supplied, and you can also import Akai MPC files in .pgm format. One great trick is that you can slice a loop in the Sample Editor, drop the resulting clips onto Groove Agent One, and drag a MIDI clip that triggers the loop back onto the Project Window, a la ReCycle.
+
+Beat Designer is GA One's step sequencing counterpart (but it can drive any other instrument, of course). It's a MIDI effect plug-in with a resizable GUI (some of the other plug-ins could do with this!) whereby you click to toggle cells on and off, and drag to change velocity, shown by colour.
+
+Each drum can use one of two swing settings, and there's an offset lane for moving sounds ahead of or behind the beat. You can apply two, three, or four-stroke 'flams' to each individual hit, with the timing and velocity of them definable by the user. There are numerous options for editing beats and transferring them to MIDI clips too.
+
+The other new plug-ins is MIDI Monitor which, thanks to its List Editor-style display, is handy for investigating MIDI issues.
+
+Automation
+Automation has received a kick in the pants for v5, with an Automation Panel giving quick access to relevant functions, some of which were previously only in Steinberg's high-end Nuendo DAW.
+
+You can easily hide and show various types of automation, and suspend (suppress) reading and writing of certain things; for example, you could record automation of volume changes but not EQ tweaks.
+
+The Trim mode is supposed to enable you to manipulate volume or aux send automation, for situations where you want to apply a further volume fade or similar. Unfortunately, it results in a curve with unwanted spikes â€“ Steinberg is aware of the issue and will fix it in an update.
+
+In previous versions, using the controller lane in a MIDI part and track automation to control the same parameters could be problematic, but a new rule-based system means you can specify what happens if there's a conflict.
+
+Another previous bugbear of ours was that the tempo curve and time signature were defined in a separate window, but this has been solved too, with dedicated Tempo and Signature tracks.
+
+VST Expression
+If you've ever used an orchestral library â€“ or any instrument with multiple articulations â€“ you'll be familiar with drawing in keyswitching notes or using CCs to flip between playing techniques.
+
+While this seems sophisticated enough, Steinberg is taking it to the next level with VST Expression. This gives an Articulation lane in the Key Editor with named rows for each technique, and you paint in the ones you want to use â€“ the correct symbols appear in the Score Editor, too.
+
+This new system uses Expression Maps to tell Cubase how to access specific articulations of an instrument, and third-party vendors such as Garritan say they'll be supporting VST Expression in future. In any case, it's pretty easy to make your own maps.
+
+One neat new bonus comes in the form of 14 real instrument patches for the included HalionOne ROMpler, all of which sound great and come with Expression Maps.
+
+Other very welcome improvements include Channel Batch Export for exporting multiple channels (perfect for creating stems); sorting of VSTs by vendor/category for easier plug-in browsing; overhauled GUIs for the MIDI plug-ins, Logical Editor and Input Transformer; and a Remaining Record Time floating window.
+
+Laptop users will appreciate the new Virtual Keyboard, which has a two-octave mode, like a tracker. On the subject of small-scale setups, we should mention that while a minimum display resolution of 1024x768 is recommended, the multi-windowed approach of Cubase really benefits from a larger screen or, indeed, screens.
+
+
+Please Don't Forget To Seed.
+
+
+Enjoy!!

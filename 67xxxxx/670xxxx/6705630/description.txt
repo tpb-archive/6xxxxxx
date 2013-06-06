@@ -1,0 +1,7 @@
+uperCache breaks the disk I/O bottleneck by using the computerâ€™s RAM to hold or contain the most frequently used disk data. This â€˜containerâ€™ is referred to as a cache. With SuperCache, as a program sends and receives disk data, the most frequently used data is read from and written to RAM â€“ not the hard drive â€“ thus accelerating the programâ€™s performance. SuperCache implements our patented block-level cache technology to increase performance above that of the operating systemâ€™s file-level cache.
+
+Features:
+Overview of available storage drives in system
+Caching graph showing 4 performance items
+Configure SuperCache by right clicking a volume
+Automatic configuration of boot drive (usually C:) during installation.

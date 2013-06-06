@@ -1,0 +1,147 @@
+Snow Leopard 911 Pro v1.5 (April 20 2010)
+
+
+What is it?
+
+- An OSX 10.6.7 Intel bootable disk image that can be copied to a 4 GB hard disk or Flash Drive. This is basically a lean and mean Snow Leopard OS X boot volume with all non-essential fluff deleted but the items deleted should NOT affect the performance or compatibility of the tools included. And I also basically turned off virtual memory swap files.
+
+- Special features of Snow Leo Pro include the flexibility of building up the stripped down OS X or customizing it to your heart's content, provided you have enough free space on the volume.
+
+- The ability to install future 10.6.x updates, install additional 10.6 add-ons like fonts, languages, printers , developer tools, etc. and add your own tools or update the existing ones easily!
+
+- Snow Leo Pro has also gone above and beyond what Apple did to make the OS X pure Intel only. I manually removed the PPC coding from dozens of 10.6 OS X components and from all the applications as well both Apple's along with the 3rd party ones.
+
+- Snow Leo Pro is also taking advantage of 10.6's "HFS+ Compression" feature by using this on-the-fly compression on any and all allowable files and folders on Snow Leo Pro.
+
+- Snow Leo 911 Pro is under 3 gigabytes (viewed on 10.6.x) to help try and squeeze it onto most 4GB Flash Drives. Which should still leave plenty of room for cache files !
+
+- Snow Leo Pro has the latest Apple OS X components and critical OS related updates.
+
+- All of the software should be fully working and registered. With the exceptions iDefrag and iPartition.
+
+- To license iPartition you will find a file called iPartition3.licenseKey on the root directory of Snow Leo 911 Pro
+
+To license iDefrag you will use a special application which is basically a stand-alone Applescript applet I provided in the root directory. Run the iDefrag Residual File Cleaner v1.0.app then reboot back to Snow Leo Pro and launch iDefrag to create a fresh license file automatically. The special cleaning app will change the date to July 1 2010, remove a bunch of temp and cache files that iDefrag uses to monitor the date with to allow it to be licensed again. Make sure to set your date back to normal once you have created a licence file. â€¢â€¢â€¢ Please note that I have forcefully changed every single file on SLP to match July 1 2010 because this application will check many files and folders for this date stamp and it will not license itself without it â€¢â€¢â€¢
+
+- The very first time you boot from Snow Leo Pro it will be a little slower than normal because it has to create all new caches and temp files. The next time you boot after that it , it should be much faster starting up.
+
+- This only comes in ENGLISH but if you copied this disk image to a large enough drive you can use the newest 10.6.x combo updater or 10.6 installer DVD to add additional languages and pick your own.
+
+- Little Snitch version 2.2.5 was installed and it may ask you to revert to default rules as a security warning the first time you start up after Snow Leo Pro was restored to a volume. Just ignore the warning and use it with the rules I pre-made.
+
+- Safari has a special bookmarks menu called Mac Help with links to many helpful sites. Bookmarks and idea courtesy of Lurker @ MSJ.
+
+Limitations And Known Bugs:
+
+
+â€¢ A feature was added for Mac users without plenty of physical memory installed in their machines. You can activate virtual memory by copying Snow Leo 911 Pro to the drive you want it on, then run the installer called Turn Virtual Memory ON.pkg to install a file onto the drive you copied the Snow Leo 911 Pro disk image onto. Virtual memory essentially wastes disk space using VM swap files when you launch multiple programs, but if you have 1 Gb or more ram, why waste the disk space unless you really need to launch more than 5-6 tools at one time.
+
+â€¢ For all wireless keyboard and mouse users like me, make sure to keep a USB mouse nearby in case the OS X didn't pair with your wireless keyboard or mouse. Once you use the Bluetooth preferences to pair them any restarts will be fine after that.
+
+â€¢ The user account Snow Leo 911 Pro will be using is the System Administrator (aka the "root") and uses no password. So if you're asked for an admin password , just leave it blank since none was used!
+
+â€¢ Diskwarrior v4.3 has a serious bug. It will not run while you are logged in as the System Administrator (aka the "root") user. You must log out and log back in using the admin account called slp911 or make your own own. And only then will Diskwarrior v4.3 launch without complaining about the preference file being corrupted. This is a wide spread issue and is not isolated to Snow Leo 911 alone. Diskwarrior v4.3 will fail to launch on any HD booted from 10.6.x while logged into the root account.
+
+
+
+â€¢ WARNING â€¢
+
+Snow Leo 911 Pro and its contents are meant as an advanced diagnostic tool , please do some research on the included tools you want to use because you can destroy your data or drive.
+
+Snow Leo 911 Pro is using 10.6's "HFS+ Compression" feature. Which means you must be booted into 10.6.x to copy or modify files or folders , otherwise you will lose the compression and the file(s) will revert back to their original sizes.
+
+As with all diagnostic tools, it is always recommended that you backup your important data before using them.
+
+
+
+OSX 10.6.7 - Apple Tools & Programs
+
+
+Activity Monitor AirPort Utility Applescript Editor Audio MIDI Setup Automator Bluetooth File Exchange Console Disk Utility Firmware Password Utility Java Preferences Keychain Access Network Utility Preview QuickTime Player 7 Pro RAID Utility Reset Password Safari System Preferences System Profiler Terminal TextEdit VoiceOver Utility Plus many more OSX components
+
+Check the Applications folder for additional programs not listed
+
+
+
+3rd Party Tools & Programs
+
+
+A Better Finder Rename 8.80 â€¢ AirRadar 2.1.4 â€¢ AppleXsoft File Recovery 2.0.0.35 â€¢ BatChmod 1.6.3 â€¢ Carbon Copy Cloner 3.3.7 â€¢ CleanMyMac 1.9.5 â€¢ Cocktail 4.9.1 â€¢ CopyCatX 5.0 â€¢ DaisyDisk 2.0.6 â€¢ Data Rescue 3.1 â€¢ diglloydTools â€¢ DiskTools Pro 3.6 â€¢ DiskWarrior 4.3 â€¢ Drive Genius 3.1 â€¢ DropDMG 3.0.6 â€¢ EasyFind 4.7.1 â€¢ File Buddy 9.01 â€¢ File Juicer 4.27 â€¢ FileSalvage 7.0.1 â€¢ HDCleanUp 1.8.5 â€¢ Hide and Seek â€¢ iDefrag 2.0.5 â€¢ iPartition 3.3.1 â€¢ Little Snitch 2.3.5 â€¢ MacPilot 4.2.2 â€¢ memtest 4.2.2 â€¢ OfficeSalvage 7.0.1 â€¢ Pacifist 2.6.4 â€¢ Path Finder 5.7.3 â€¢ PCalc 3.6.1 â€¢ PiXel Check 1.2 â€¢ PopChar 5.2 â€¢ Rember 0.3.6b (GUI memtest 4.2.2) â€¢ SMART Utility 3.0 â€¢ SpeedTools Utilities Pro 3.6 â€¢ Stellar Phoenix Data Recovery 4.1 â€¢ Stellar Phoenix Photo Recovery 3.5 â€¢ SuperDuper! 2.6.2 â€¢ TechTool Pro 6.0.1 â€¢ Temperature Monitor 4.94 â€¢ Touvaly 1.2.7 â€¢ Xslimmer 1.7.8
+
+KCNcrew 04-15-2011 and Serial Seeker with Serial Box 04-2011
+
+
+
+Instructions
+
+
+Use Apple's Disk Utility to restore the Snow Leo 911 Pro disk image to the volume you wish to copy it to. I would suggest allowing Disk Utility to erase the destination partition to avoid problems (provided you have no data on he destination volume). And make 100% sure your destination volume is the right drive or partition to avoid losing the wrong drive! The Snow Leo 911 Pro disk image has been configured as pre-scanned so you can restore it without being forced to scan it first with Apple's Disk Utility to save you time.
+
+Or you can use
+
+Carbon Copy Cloner or SuperDuper! to copy the contents of the Snow Leo 911 Pro disk image to your HD partition or Flash Drive . The volume (partition - HFS+ Extended non-journaled) should either be formatted as GUID for Intel only or an Apple Mac Partition to make it Universal for both PowerPC and Intel Mac's. Make sure when you finished copying everything to run Diskwarrior from a 10.6.x booted drive on the newly created Snow Leo Pro volume as a pre-caution that is OK.
+
+Please note that although Carbon Copy Cloner is known to be very good at cloning and restoring data/drives, you may need to use Diskwarrior to verify if the restore went smoothly or use Apple's Disk Utility if Carbon Copy Cloner gives you any errors during the restore!
+
+
+
+Revision History
+
+
+Version 1.5
+
+Updated OS X to 10.6.7 Build 10J869
+
+Updated lot's of tools. Check the 3rd part list for them.
+
+Added 2 new tools upon request. DaisyDisk and AirRadar.
+
+Removed TinkerTool System because there are enough other tools with similar functions and 300+ edits to crack it every update is just too much of a pain in the ass.
+
+
+
+Version 1.4
+
+Updated OS X to 10.6.5 Build 10H574
+
+Updated tons of tools and a few new ones. Check the 3rd part list for them.
+
+New Disk image icon courtesy of Hoplite @ MSJ
+
+A special invisible file called .metadata_never_index has been added to the root directory of Snow Leo Pro to stop SpotLight from indexing the volume. SpotLight by default is turned off to avoid slowdowns and background tasks which may interfere with diagnostics and repairs.
+
+Version 1.3
+
+Updated OS X to 10.6.4 Build 10F569
+
+Updated tons of tools and updated the Little Snitch rules too
+
+Version 1.2.1
+
+Fixed permissions along with the errors below.
+
+Fixed; -22 errors on FileSalvage and OfficeSalvage images, a couple of images from each were producing this error.
+
+Fixed; ACL permissions errors with the root account and it's contents.
+
+And some system tweaking, turned off the option to create a sleep VM image file when portable Mac's go into hibernation mode and rebuilt root accounts contents.
+
+Version 1.2
+
+10.6.3 combo applied bringing the OS to up to 10.6.3 build 10D573
+
+Quite a few of the tools were updated
+
+License files added for iDefrag and iPartition
+
+Mac Help bookmark bar added courtesy of Lurker, it is a very extensive collection of bookmarks for everything related to Mac Help including links to the software contained on Snow Leo Pro.
+
+And a tool was added; TinkerTool System 2.2
+
+
+
+Version 1.0.1
+
+First release was a flop since my first download of the 10.6.2 combo updater was corrupted and created a serious start up problem for many people where it would hang at a blue screen. Re-downloading the combo update and re-installing it fixed the issue for me and for those that tried it as well.
+
+And Serial Box 01-2010 was added

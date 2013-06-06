@@ -1,0 +1,55 @@
+User Type,Username,Date,Text
+,t220,2011-11-05T15:25Z,mickyfinnny plz Wilga X
+,mickyfinnny,2011-11-05T16:15Z,"If i come across Wilga X i will up it,cos i noted P_C_C will have a go at cracking it"
+,P_C_C,2011-11-05T19:31Z,"Twister can be found here...... it's under multi for those who know how to fetch links..
+
+/FW4907TKFD
+
+Some one can up here for me."
+,osdmis,2011-11-05T21:29Z,"Mr.mickyfinny,
+                  Thank you,but does not work in my FSX+win 7 64-bit.The installer says"" it cannot connect to the internet but try later"".PLEASE HELP."
+,mickyfinnny,2011-11-05T23:56Z,"@osdmis,you need an internet connection for this to work and i assume you are running each file as admin .You have the same win 7 64-bit as i have,and you have followed the instructions i hope.One thing you could try is make a backup of the hosts file,then open the one in Drivers,etc with notepad and clear all entries except the ....wilcopub.com.Now try again,if sucessfull just restore your backed up Hosts file.Hope this helps."
+,P_C_C,2011-11-06T00:32Z,use a existing multi(upload take the back part off and add mine and you'll have your Twister.
+,P_C_C,2011-11-06T00:36Z,I'd write the link in here for you but the bay does not allow it.But it's prety simple to figure out. find a old link.If you don't know it of by heart.
+,zakkaa,2011-11-06T06:49Z,The off.exe doesn't work for me
+,zakkaa,2011-11-06T06:52Z,"The off.exe doesn't work for me it says 
+
+"" Awaiting inbound connecting: 0.0.0.0:80 """
+,osdmis,2011-11-06T07:05Z,"Mr.mickyfinnny,
+                         Thanks for the prompt assistance.Still this would not work in win 7 64-bit.some other change or installation is required. The program""off.exe"" appeares momentarily and then disappears. i have also attemped  this in win xp,and it seeme to work there. KINDLY HELP. "
+,mickyfinnny,2011-11-06T10:06Z,"@osdmis,off.exe is the problem-this should remain open during installation.Turn off UAC,right click off.exe-properties-Compatability-Run as Admin-Security-Select Administrators(your name)-Edit-Full Control(do this for the rest).Hope this helps."
+,scorpium2,2011-11-06T10:14Z,"I have Win7 64bit and it worked.
+Tx."
+,scorpium2,2011-11-06T10:17Z,"I have Win7 64bit and it worked.
+Tx"
+,scorpium2,2011-11-06T10:23Z,I have Win7 64bit and it worked for me.
+,osdmis,2011-11-06T14:50Z,"Mr.Mickyfinnny,
+                          I am very sorry to keep on bothering you. It is totally confusing to me as to why I am alone getting this error/problem with ""off.exe"" when many others' are happy with the reults in win 7-64 bit. I have fully followed your instructions.When I try to run ""off.exe"" with CMD I am getting the error ""Bind error: 10013"". my problem is only with ""off.exe"". Pl.see if you can help."
+,mickyfinnny,2011-11-06T17:03Z,"@osdims,the script writer of""off.exe""has kindly sent me an e-mail posing possible solutions to this problem.Quote:I wrote ""off.exe"" and compiled it on prehistorical win xp 32-bit system. Probably this is a generic ""offline server"" works with most of the wilco's stuff, but it was not tested on vista/win7.10013 means: Permission denied.
+
+Off.exe require admin rights to bind on 80 port (tcp). So... the guy should:
+1. Kill all others apps working on 80 tcp port
+2. Turn off antivirus/firewall/UAC (as you descibed in your post)
+3. Run CMD as admin, cd to path_where_is_off.exe, then type ""off.exe""
+
+Btw. HOSTS file doesn't work if you use proxy server for your connections.Hope this helps"
+,osdmis,2011-11-07T06:52Z,"Mr.Mickyfinnny,
+                          I thank you 100 times.I have been able to install, duly following your instructions(3 or more times),by stopping/killing the proceeses in port 80.This would be simply impossible, but for your guidelines as a very good teacher/tutor.
+                           May request your assistance/help in another matter,i.e regarding connecting FSX with jeppesen's Flitedeck? I could do it  in win xp earlier with the help from another good samaritan like you.I Want it to do it now in win 7 64-bit.Expecting your help."
+,eratelle21,2011-11-10T12:13Z,"Thanks,
+
+REQ: FSX ORBX FTX AU Aeropelican YPEC"
+,jefsilva_js,2011-11-12T10:34Z,Req: Feelthere Phenom 100 by Embraer for FSX plys
+,crank,2011-11-25T18:13Z,"The installer worked perfectly, but i got one problem : the a/c does not show up on the menu screen. I have the Vol1 and that works fine until i switch on the panel lights. When i select the A33X, all i can see is the windshield. Looks like a graphic error. Anyone else with same prob?"
+,crank,2011-11-25T18:15Z,"same happens to A34X. In both A/C's, the plane works like a charm except for the outer visual model.
+"
+,AAL521,2011-12-13T18:49Z,"thanks micky.
+
+req: the new Wilco 737 Pilot in Command Evolution Deluxe thanks!"
+,woody1954,2012-02-16T13:42Z,"Hi!
+
+To use the ""medicine""                        download  CurrPorts
+it`s a freeware program, run it and close any port that says 80...now you can use off.exe and install the plane
+God Luck
+Christer"
+,WildX0203,2012-03-13T11:20Z,"Heyy @mickyfinnny do you have another serials key to activate it, that's only my problem ?"

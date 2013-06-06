@@ -1,0 +1,59 @@
+User Type,Username,Date,Text
+,krrazyps,2011-10-01T11:47Z,quite an informative video on the dark matter research!
+,krrazyps,2011-10-01T17:02Z,"To download video from Learner.org
+
+1) USE rtmpdump command line tool
+2) rtmpdump -r rtmp://fms.scctv.net/annenberg//vod/physics_for_the_21st_century_01 -s http://www.learner.org/vod/swfs/player-licensed.swf -p ""http://www.learner.org/vod/vod_window.html?pid=793"" -o phy01.flv
+3) replace 01 in rtmp://fms.scctv.net/annenberg//vod/physics_for_the_21st_century_01 with 02, 03 so on till 11... change output file name every time too-
+4) create torrent and seed!
+
+for more info on rtmpdump, see http://stream-recorder.com/forum/use-rtmpdump-rtmp-dump-tutorials-t8911.html"
+,krrazyps,2011-10-01T17:04Z,"You can download other course videos from learner.org similarly and create torrents for the same... please help in creation and seeding :D
+
+Here are some courses listed with the working rtmpdump commands for downloading :)
+
+_______________________________________________
+
+MECHANICAL UNIVERSE AND BEYOND- (52 LECS 01-52)
+site:http://www.learner.org/resources/series42.html
+
+command:
+rtmpdump -r rtmp://fms.scctv.net/annenberg//vod/mechanical_universe_and_beyond_02 -s http://www.learner.org/vod/swfs/player-licensed.swf -p ""http://www.learner.org/vod/vod_window.html"" -o mech02.flv
+____________
+
+MUSIC (vids 01- 12) http://www.learner.org/resources/series105.html
+
+rtmpdump -r rtmp://fms.scctv.net/annenberg//vod/exploring_the_world_of_music_01 -s http://www.learner.org/vod/swfs/player-licensed.swf -p ""http://www.learner.org/vod/vod_window.html"" -o music01.flv
+___________________________________
+
+PLANET EARTH (1 hour vids) 01-07videos
+site: http://www.learner.org/resources/series49.html
+
+command:
+rtmpdump -r rtmp://fms.scctv.net/annenberg//vod/planet_earth_01 -s http://www.learner.org/vod/swfs/player-licensed.swf -p ""http://www.learner.org/vod/vod_window.html"" -o earth01.flv
+________________________________________
+
+BIO (01 - 13 videos)
+site: http://www.learner.org/resources/series187.html
+
+command:
+rtmpdump -r rtmp://fms.scctv.net/annenberg//vod/rediscovering_biology_01 -s http://www.learner.org/vod/swfs/player-licensed.swf -p ""http://www.learner.org/vod/vod_window.html"" -o bio01.flv
+_________________________
+
+CHEM 26videos
+http://www.learner.org/resources/series61.html
+
+rtmpdump -r rtmp://fms.scctv.net/annenberg//vod/world_of_chemistry_01 -s http://www.learner.org/vod/swfs/player-licensed.swf -p ""http://www.learner.org/vod/vod_window.html"" -o chem01.flv
+____________________
+
+EARTH REVEALED 26vids http://www.learner.org/resources/series78.html
+
+rtmpdump -r rtmp://fms.scctv.net/annenberg//vod/planet_earth_01 -s http://www.learner.org/vod/swfs/player-licensed.swf -p ""http://www.learner.org/vod/vod_window.html"" -o earth01.flv
+___________________________
+
+DOWNLOAD, ENJOY, CREATE TORRENTS and SEED "
+,krrazyps,2011-10-01T19:24Z,"more on HOW TO DOWNLOAD LEARNER.ORG VIDEO WITH RTMPDUMP-
+http://stream-recorder.com/forum/www-learner-org-need-help-rtmp-t6121.html
+
+DOWNLOAD RTMPDUMP command line tool-
+http://rtmpdump.mplayerhq.hu/"

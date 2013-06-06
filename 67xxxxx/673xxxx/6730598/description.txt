@@ -1,0 +1,19 @@
+JungleFlasher 0.1.89(284)
+
+========================================
+Support for LT Plus 2.0
+-Lite-on Slim 0272, 0225, 0401, 1071
+
+Dummy from KeyDB
+----------------------------------------
+Extra step, for Phat Lite-ons if common post 13146 barcode
+is detected, user has option to type in case barcode and
+index key based on a pre update entry created with f/w that
+contained the old barcode.
+
+Benq and Sammy bad flash support
+---------------------------------------
+Added a work around to auto-intro. SlimIntro was putting
+Benq and Sammy in a bad state, where as phat intro has no
+effect on Slim. If bad state is detected, usually by status
+0xD1, slimIntro is no longer sent.

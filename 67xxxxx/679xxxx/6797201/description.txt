@@ -1,0 +1,38 @@
+What is Porteus?
+Porteus is a portable linux operating system which can be installed on a portable USB device, CDROM, SD card or Hard Drive. Porteus is based on the Linux Live Scripts which have been heavily modified by Fanthom, our chief maintainer, for a much faster booting and shutdown time. In essence, Porteus is a portable Slackware OS which started out as Fanthom keeping the Slax OS up to date as a community remix project. Unlike a standard linux install, Porteus exists in a compressed state on a postable drive. It has no /root /bin /etc file structure on the portable device itself.  The directory structure is created on the fly during the boot process, which only takes around 20-30 seconds on a relatively new computer. It is modular in design which means extra software comes in the form of  'modules' which can be activated and injected into the live file system. Software does not need to be installed and uninstalled as you may expect with other operating systems which take numerous amounts of clicks and agreements. You simply double click on a module and it is activated in a second or two and ready for use. To remove it just double click again and the module is deactivated. It's that simple! 
+http://porteus.org/faq.html#1
+
+Porteus-v1.1rc1-i486 ready for testing
+
+Postby brokenman Â» 03 Nov 2011, 02:24
+Latest Porteus v1.1rc1 can be found in the testing folder:
+Files are here 
+http://ponce.cc/porteus/i486/testing/Porteus-v1.1-rc1/
+The ATI driver will be uploaded sometime tomorrow. If someone could generate an Nvidia driver for me that would be great. As usual please test thoroughly and report any bugs (other than known ones) back here.
+There may have been a problem when generating md5sums for the packages inside the ISO, so you may get a warning during installation. I would fix it and upload anew but unfortunately it took all day to upload and i am unable to patch this on the server.
+ISO contains linux kernel 3.1, updated graphic stack and various package updates.
+Many other improvements are mentioned in detailed changelog: 
+http://forum.porteus.org/viewtopic.php?f=44&t;=747&sid;=bbc39bfadf128a8fc3a1b7c33dc210ae
+
+Last minute addition is a brand new 'vga-detect' cheatcode which tells linuxrc to discover GPU and load appropriate nVidia/AMD properitary driver from /porteus/optional folder. More can be found in this thread: 
+http://porteus.org/forum/viewtopic.php?f=53&t;=837
+please test it and report success/fail.
+(Ahau - please update /boot/cheatcodes.txt doc with short description what this cheat does)
+Notes: disabled stub for polsbou and enabled STA driver (GMA500)
+support for dual graphics cards
+moved Consolekit to 002 (wread)
+crystal theme - Blaze
+
+KNOWN BUGS
+Random .ICEAuthority errors when using root console from guest account. This is bugging the hell out of me so any suggestions are welcome. I've tried permission variations ... you can try chmod -R 4777 /tmp/.ICE* and see how that works for you although it is not the ideal fix.
+Booting into text mode and then running startx fails.
+THANKS Fanthom for looking after 32bit while i was away. Also big thanks for fixing some bugs that were outside my area of knowledge.
+
+EDIT:
+added some additional info - fanthom 
+http://porteus.org/forum/viewtopic.php?f=53&t;=846&sid;=06501113689601a58ab5047992e75326
+ 
+http://ponce.cc/porteus/i486/testing/Porteus-v1.1-rc1/ (others files available) 
+http://porteus.org/
+
+md5sum : 427d399878afb3e92b63248697b23a81  Porteus-v1.1rc1-i486.iso

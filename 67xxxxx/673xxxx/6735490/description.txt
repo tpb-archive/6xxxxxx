@@ -1,0 +1,80 @@
+Ekarth's Timesaver Bulk Macros: Thumbnail generator,Bulk Auto-Renamer, Bulk Auto-File-Movers & MORE
+
+Hi Friends, 
+Using my limited knowledge of autohotkey scripting, I've created some tools which you might find handy
+
+Bulk Movie screenshot makers (Must have for movie-uploders: Based on MTN technology)
+Bulk File Mover crap Remover ( for download addicts to sort out finished downloads according to extentions)
+Bulk File Renamer
+Bulk Torrent Maker (GUI for on mktorrent commandline)
+
+You'll need to download Autohotkey software to use these scripts. 
+http://www.softpedia.com/get/System/OS-Enhancements/AutoHotkey.shtml
+Everything is tested on XP SP3.
+
+Here is the brief introduction of every Macro-script
+
+Bulk movie screenshot maker
+Drag-n-drop main folder and it'll create screenshots for all clips inside that folder 
+http://www.imagebam.com/image/20c4ad153450445 
+http://www.imagebam.com/image/661877153450446
+
+
+---------
+Bulk Torrent Maker
+Again just drag and drop files or folders in bulk and it'll create torrent files for each of them.
+Based on mktorrent program, Sometimes gives glitch though. But some of you good in coding please tweak it. 
+http://www.imagebam.com/image/be7e63153448107 
+http://www.imagebam.com/image/5afdc2153448108
+
+---------
+Bulk Sub-folder maker by names or numbers
+you wanna create 10 -20-1000 subfolders inside a folder? then this is the tool you're looking for.
+see the screenshot, and you'll understand its operation! 
+http://www.imagebam.com/image/7b44b9153448103 
+http://www.imagebam.com/image/e3262b153448104 
+http://www.imagebam.com/image/ffe227153448105
+
+---------
+Bulk File Mover and Crap Remover (based on Teracopy)
+
+You've 50 different folders, some have movies,some ebooks,some game-ISOs. Now manually sorting them out = WASTE of time 
+You've 50 finished torrents, in 50 different folders, each has only one file that you want like a movie / pdf / rar / exe and 4 crappy .nfo,damenoid.txt,ahashare.txt,.url and crap like that. And You didnot have the time to 'deselect' each and every crappy nfo txt file before adding the .torrents.
+How do you sort this out? Manually cut / copy-pasting every useful file in a different folder? that is WASTE OF TIME AND ENERGY.
+
+So I've came up with a easy solution. Just drag and drop your main folder/directory, and give it parameters, it'll search all its sub-directories and copy/cut/delete the files according to the extentions. 
+http://www.imagebam.com/image/2b886f153448481
+
+--------
+Bulk Photofile renamer (for those ATK, Met-ART sets)
+Suppose there is a folder.
+C:\My pictures\
+It contains tons of subdirectories and each subdirectory contains 10-15 photos. Now you want to move these photos to one big folder for ease in browsing (or uploading). But then how to know which photo came from which subfolder? (in case u wanna identify the models later on!)
+So You want those photos to be renamed as %name of the subdirectory%[0,1,2,3,4,5].
+I've created an automated script so you can quickly do it.
+
+--------
+Multi Rename script 1.5c unicode
+This one is created by a guy named Majkinetor. There two very time saving feature it has.
+Please take the pain to read following information and you see.
+
+1- Extracting file names for posting in nfo or Torrent description.
+ 
+http://www.imagebam.com/image/7b92c1153448109
+
+Suppose you've movie files like Hellboy.avi, Spiderman.avi, Harry Potter.avi
+now when you upload them, you want to write the list in the torrent or warez post.
+This software can just extract all the filenames from the folder and give you the text list so you don't have to type anything just copy paste.
+Please see photo to understand what I'm saying
+
+2. Bulk Autorename according to list
+
+Suppose you've file with names 1,2,3,4 and so on.
+You want the file1 to be renamed as spiderman,
+file 2 as superman and 
+file3 as spiderman. 
+If you do this manually one by one, it'll take lot of time. Instead just type the list in a notepad, and drag and drop files in this program and it'll rename them accordingly. See photos to understand 
+http://www.imagebam.com/image/491d3a153448110
+ 
+http://www.imagebam.com/image/92f7d4153448112
+

@@ -1,0 +1,20 @@
+The new update is ready and waiting for you.
+CUMULATIVE
+
+This is the new update from 17.10.2011
+
+Protocol version 18
+Exe version 1.0.0.67 (cstrike)
+Exe build: 13:37:41 Oct 14 2011 (4724) (240)
+
+
+Counter-Strike: Source
+
+Prevent AWP cycle time exploit using quick switch
+Fixed bug causing HUD History to display item pickups from nearby players
+Increased sized of HUD History resource to prevent clipping
+Changed grenade damage so that it always hits HITGROUP_GENERIC and takes into account armor for damage calculations
+Reduced standing and moving accuracy for pistols
+Decreased accuracy while moving with sniper rifles
+Added additional legacy mode (3) to cl_dynamiccrosshair
+Updated the localization files

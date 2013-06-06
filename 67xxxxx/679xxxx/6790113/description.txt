@@ -1,0 +1,15 @@
+The jggimi OpenBSD-based LiveCD/LiveDVD
+...
+The Basic LiveCD has no 3rd party applications at all. X is available, with the included fvwm(1) and cwm(1) window managers, and the lynx(1) text browser.
+The Firefox LiveCD adds the Firefox browser to the Basic image.
+The Fluxbox LiveCD includes both the Fluxbox window manager and the Firefox browser.
+The XFCE LiveDVD has the complete XFCE environment and the Firefox browser.
+The KDE LiveDVD has the complete KDE environment, including Koffice and the Konqueror browser, but the i18n internationalizations are not included.
+The Gnome LiveDVD has the complete Gnome environment, and the Firefox browser.
+... 
+http://jggimi.homeip.net/livecd/faq.html
+ 
+http://jggimi.homeip.net/livecd/downloads.html (others editions)
+
+md5sum : a5104aba69092c06b00c792f2f785288  basic.i386.5.0.0.iso.7z
+sha1sum : a92932dfed056bb5708f66a581640d9f151eefd9  basic.i386.5.0.0.iso.7z

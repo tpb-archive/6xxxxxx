@@ -1,0 +1,47 @@
+User Type,Username,Date,Text
+[T],ADHDerby,2011-10-14T10:18Z,Issues fixed: This release doesn't display the YouCam text in the webcam video area
+,keywest33,2011-10-14T14:37Z,Thanx
+,BigVoiceMixer,2011-10-15T21:36Z,thks derby i love you ur such amazing person can you possibley get wave pad 5.p2 and put it on here please
+,Gosh20,2011-10-17T05:28Z,Thanks ADH Rulez :)
+,Gosh20,2011-10-17T05:29Z,Thaanks ADH Rulez :)
+,msmmpts,2011-10-31T14:55Z,Thanks ADHDerby..Can u upload power dvd 11 with the latest patch..Power dvd 11 has been updated quite recently.
+,vickedv,2011-11-05T08:52Z,"Thanks A lot :) 
+"
+,quible,2011-11-24T18:34Z,"hi, can you upload power director please? I don't trust other people. and when you upload them, they're actually done properly"
+[T],ADHDerby,2011-11-25T11:35Z,"You're welcome! :)
+
+@ BigVoiceMixer: I'll look into it
+
+@ msmmpts: You can safely update my latest release, the patches are mainly BD compatibility updates
+
+@ quible: That's because I create them :)
+I'll look into it as soon as I find some free time"
+,quible,2011-12-17T12:41Z,"Hi, I've been having some problems on playing back a .avi video. It won't playback in anything. It's from a CCTV camera, and is in the format IMM5. I've had a look round, but I can't seem to find the required player for it. Do you have any Ideas on how to play it? I'd go to the IT manager but he's off ill at the moment. Any help would be apreciated."
+[T],ADHDerby,2011-12-18T17:39Z,Have you tried to play it with VLC media player?
+,quible,2011-12-22T15:59Z,"Yes I've tried vlc. I've even tried the K-lite codec pack, and I still can't get anything out of it. "
+[T],ADHDerby,2011-12-23T20:41Z,"@ quible: http://www.megaXload.com/?d=WHEV9ARU (replace X with up)
+You can play it with the included BackupPlayer or you can install the codec and play it with WMP, Media Player Classic classic or any other Media Player that doesn't use its own codecs."
+,quible,2011-12-25T08:00Z,"oh my god, yet again you impress me. You are a genuine life saver. It even works through powerdvd now. Thanx, you are the greatest"
+,quible,2011-12-25T08:04Z,"oh and, Merry Xmas"
+[T],ADHDerby,2011-12-25T11:10Z,You're welcome! Merry Christmas!
+,nq209,2012-01-15T20:16Z,Is there a way to make it not show up in the system tray on start up because even when I unchecked the box it still showed up
+,gawowo,2012-01-16T11:45Z,"Hi, ADHDerby could u help?
+After installing, the software I missed the connection to my built-in webcam. A message says"" can't connect to HP 101 webcam"" . When I verify the driver through Device Manager, it says"" This driver works perfectly"" When I update the driver it says"" you have the latest update"". The problem is that the webcam doesn't ignite (doesn't work for short). Have u an idea?"
+[T],ADHDerby,2012-01-17T12:17Z,"@ nq209: Create a new text document, open it and copy and paste the lines below:
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\CyberLink\YouCam\5.0]
+""LaunchYouCamAtStartup""=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run]
+""YouCam Service""=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+""YouCam Service""=-
+
+Save it as ""Disable YouCam Service.reg"" and merge it (double click and click Yes)
+
+@ gawowo: You can try this: http://forum.notebookreview.com/hp-compaq/149463-webcam-problem-solved-fingers-crossed-heres-hoping.html"
+[T],ADHDerby,2012-01-17T18:44Z,@ gawowo: Does the webcam work if you install the trial version? 
+,theundeadonez,2012-02-22T14:11Z,Wow it shot up to 3mb/s! Thank derby man!

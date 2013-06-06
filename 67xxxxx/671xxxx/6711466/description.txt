@@ -1,0 +1,9 @@
+This is a massive collection of the top 500 or so maps (**583** to be exact) for **Team Fortress 2.** Each and every map has been:
+
+* standardized. No more random folder structures; the maps have been packed with the assumption you'll extract them within the team fortress 2\tf\ directory
+* recompressed. Original maps were compressed with zip or rar. All maps are now compressed with 7zip, using "maximum compression" settings (to minimize download time)
+* seeded from a dedicated, fast seed box. (2-3Mb/s).
+
+The torrent has roughly 10 trackers listed, so there should be plenty of peers as time goes by (and it shouldn'[t go dead). In fact, I took the time to add a "Web Seed" to the torrent as well, so even if you can't find any peers, your client will try to download the maps from the web (at least uTorrent supports this).
+
+I created a simple installer for Windows as well.  The goal here is to provide a decent map pack that people can pre-install so they don't have to sync maps from game servers. Having a map pack also makes it easy to take these maps to a LAN party. If it becomes popular, hopefully we'll see more custom maps in rotation! :)

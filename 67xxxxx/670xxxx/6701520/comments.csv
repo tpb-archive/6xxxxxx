@@ -1,0 +1,125 @@
+User Type,Username,Date,Text
+,tigos2,2011-09-26T06:35Z,AMD processor support?
+,iasi_me,2011-09-26T08:06Z,"Best, good work Jim !   I want to answer it have dualcore support ?  thanks "
+,jm1994,2011-09-26T08:13Z,"Here is the Official support page for iATKOS L 
+http://uphuck.ggrn.de/forum/viewtopic.php?f=73&t=18382
+
+I do believe it supports dualcore and AMD processors dough."
+,sneno,2011-09-27T19:19Z,"Excellent job! I managed to install it in other times:)
+
+I have a Gigabyte P43-ES3G motherboard with an Intel Core 2 Duo E6500 2.93 GHz. Use a graphics card Sapphire Toxic HD 6850th
+Everything works great, except that we do not show ATA HDD.
+
+postavio sam u biosu:
+1. CPU HOST CLOCK CONTROL (disabled)
+2. SATA AHCI MODE (ACHI)
+
+Za instalaciju sam uzeo opcije:
+CHIMERA v 1.5.4
+Graphics neabler (yes)
+32-bit
+/extra/extensions
+Fake SMC
+Disabler
+RTC 32-bit
+11.1.0 atom kernel
+ACH SATA intel
+HDA Enabler
+ALC 8xx
+Realtek RTL81xx (ali on ne radi)
+Naknadno sam skinuo s kexts.com nivi RTL 81xx kext.
+Sa multibestm sam instalirao kext untility"
+,sneno,2011-09-27T19:26Z,"Sorry, wrong language:)
+To install I took the option:
+Chimera v 1.5.4
+Graphics neabler (yes)
+32-bit
+/ extra / extensions
+Fake SMC
+Disabler
+RTC 32-bit
+11.1.0 kernel atom
+ACH SATA Intel
+HDA Enabler
+ALC 8xx
+Realtek RTL81xx (but it does not work)
+Later I removed the kexts.com Nivi RTL 81xx kext.
+With multibestm I installed the kext untility"
+,jm1994,2011-09-27T21:46Z,"Thats Good Work Sneno , i installed with a simple install the only thing i changed was the Bootloader to Chimera, disabled Graphics Enabler, and check ATI_ayi which works perfectly for my Radeon HD 6450 Graphics card !"
+,olofl,2011-09-27T23:54Z,how to burn on a dvd ? from windows 7 :s
+,nirmal_niks7,2011-09-28T00:31Z,"@olofl
+use transmac."
+,jm1994,2011-09-28T04:29Z,@Sneno I meant ATI_init 
+,dionnode,2011-09-28T08:17Z,"It doesn't work for me. I would like to say; when I burn it on Snow Leopard, I have a message that  verify is failed. I've tried the same file on iAtkos's site to download, I have the same trouble that it failed on burn verify. "
+,G-skill,2011-09-28T15:58Z,dun try with AMD i try with my crosshair IV formula  x6 1100t booting after it reboot 
+,jm1994,2011-09-28T21:35Z,"@dionnode If you have access to Windows , Download and use a program called Transmac and burn it using that program, its what i used and it burned to my dvd perfectly within minutes !"
+,Jack0ff,2011-09-29T09:26Z,amd users (like me) would be wasting time trying to install this. amd users NEED a legacy kernel for lion and as of now one does not exist. this distro just took nawcoms kernel and packaged it...hopefully he can make an amd kernel too :) blog.nawcom.com
+,dionnode,2011-09-29T21:48Z,"@jm1994; 
+I give up this iAtkos. Much trouble and as a newbie, I need something easier than this. Thank you for your contribution."
+,Phuque2,2011-09-30T22:43Z,shite. doesn't work!
+,poon!!,2011-10-02T22:47Z,"It worked very well for me to install. 
+The Hardware are the following, 
+Motherboard: Gigabyte EP-45DS4, BIOS F10b
+CPU: Intel Core 2 Quad Q9450 
+Memory: 4 x 2048 Corsair CM2X2048-6400C5DHX 
+Graphic: XFX Nvidia Geforce GTX 285 
+Network: Realtek RTL8111C 
+Audio: Realtek ALC889A 
+Harddiska and DVD all SATA. 
+Only problem I still have is with the sleep function, it's not working to put to sleep with the ACPI S3 function. 
+Otherwise this was the easiest installation so far. "
+,hacker808,2011-10-04T21:10Z,i downloaded it booted but but my mouse does not work so i can not select any options like disk utilities what do you think i should do pleze reply
+,jm1994,2011-10-05T00:08Z,@hacker808 you should be using a USB mouse to work with Mac. Normal Green Port mouses don't work you need a USB mouse . 
+,hacker808,2011-10-05T19:25Z,thanx jm1994 will get one ASAP will it work if i get a wireless one
+,jm1994,2011-10-06T07:33Z,yes hacker808 a wireless mouse worked for my other desktop perfectly !
+,manojkrazad,2011-10-19T23:22Z,can anyone please elaborate how can i use this .dmg file to install over my intel based comp... i am having windows 7 right now...
+,DeepKisser,2011-10-20T07:20Z,"Thanks +1 @jm1994
+i used ultra ISO to convert  it to ISO
+and installed it on my pc but when i boot it hangs 
+at boot0: done. plz help !"
+,OmgItsSmart,2011-10-20T08:23Z,"No, this doesn't support AMD. And besides, if you have an AMD processor, you shouldn't be trying to set up a Hackintosh anyways. Getting full hardware compatibility with an AMD processor is almost impossible."
+,DeepKisser,2011-10-20T10:39Z,@manojkrazad use ultra ISO > Tools > convert > select Downloaded dmg file and select output format to Standard ISO click convert Burn it using IMGburn ( http://thepiratebay.org/torrent/6738302/EZB.Systems.UltraISO.Premium.Edition.v9.5.0.2800.Multilingual.Re && http://www.imgburn.com/index.php?act=download ) hope this will help !
+,qvejt,2011-10-20T15:30Z,"1) You need a computer with MacOS or MacOS zinatalowanym In the VIRTUAL MACHINE
+ 2) The disk format tools minimun 8Gb USB stick on a GPT table.
+ 3) Then Play Itakos L1.dmg image on a USB pendrive.
+ 4) Run Chameleon and install on a USB stick with the first option from the top - start of the Boot.
+ 5) Set your Pc in the BIOS to boot from USB - NEW SYSTEM installation takes 10 minutes - a real pleasure."
+,qvejt,2011-10-20T15:42Z,"
+1) You need a computer with MacOS or MacOS zinatalowanym In the VIRTUAL MACHINE
+ 2) The disk format tools minimun 8Gb USB stick on a GPT table.
+ 3) Then Play Itakos L1.dmg image on a USB pendrive.
+ 4) Run Chameleon and install on a USB stick with the first option from the top - start of the Boot.
+ 5) Set your Pc in the BIOS to boot from USB - NEW SYSTEM installation takes 10 minutes - a real pleasure."
+,Kaqanikudc,2011-10-22T22:22Z,for me is working 100% good job man...!
+,Kaqanikudc,2011-10-23T05:13Z,Can I install directly from DVD 
+,lovemate,2011-10-23T05:18Z,ISO or what is this please coment me...
+,jm1994,2011-10-25T01:06Z,"This is a DMG File, which CAN BE BURNED ON WINDOWS !
+
+IMPORTANT : In order to burn a DMG on windows without the hassle of converting it to an iso, download a tool called ""Transmac"". GOOGLE IT.
+You can use that tool to burn DMG files to a DVD. 
+iATKOS Doesnt support AMD Processors for NOW, in the near future there will be hackintosh for AMD Processors, Project Voltr0n."
+,Kaqanikudc,2011-10-25T23:33Z,"yes it work directly from DVD, thank very useful man...!"
+,Avalier,2011-10-29T12:26Z,"@jm1994 Is there any other news of the development of Project Voltron, except that one blog post on Prasys' blog?"
+,fabian2011,2011-11-07T13:43Z,"i download this now!! hope it works..
+
+Asus X53SV-SX452V
+Intel Core i5 2410M 2,3GHz
+8GB RAM
+750GB HDD
+NVIDIA GT 540M (2GB)
+Blue-Ray"
+,gem196,2011-11-10T14:03Z,Yes. Is true and works!!! But I have a veeeerry big problem. Finder crashes all the time. Without stopping. I cannot even open a folder!!!! Any fix on that?
+,jm1994,2011-11-11T00:03Z,"@gem196 thats strange, i never heard of such a problem??? hmm i dont know what to tell you man, try a reinstall or maybe add some patches from the installation distro."
+,gem196,2011-11-11T16:22Z,What kind of patches? I tried reinstall it but same problem!!! Please!!! I need help!!! I have ASUS P5K3 Deluxe mobo.
+,PrincePwn,2011-11-14T17:02Z,make sure to download the latest Multibeast! :D
+,jm1994,2011-11-16T22:15Z,"IMPORTANT UPDATE: NEW iATKOS L2 WILL BE UP SOON, ONLY FOR THE INTELLIGENT (; 
+
+STAY TUNED."
+,taaran26,2011-11-21T16:40Z,Does it work?
+,naveen056,2011-12-07T06:41Z,which file system support to instal in a PC please explain?
+,jksbks22,2012-01-26T23:18Z,"i have iatkos installed, can i run the dmg from my pc without a disk"
+,metalco,2012-04-05T12:56Z,"Is this working on a mac mini after a kernel panic? BTW i can open it because always appears ""you need to restart your mac"" same again and again anyone for help..thanks"
+,Samirifai,2012-06-01T09:19Z,"Hey man, can i put it directly on virtual box?
+The dmg file, or i need to convert it to iso?"
+,Samirifai,2012-06-01T09:21Z,"i need this file for virtual box, can i directly put it or i must convert it to iso/
+please help"

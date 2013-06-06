@@ -1,0 +1,141 @@
+QAInfo  Help
+
+
+Overview:
+
+QAInfo is a utility program which does a snapshot of your hardware and
+software.  The following tests are available:
+
+       *  Hardware Configuration
+       *  Device Drivers
+       *  Environment
+       *  Memory Map
+       *  IRQ/DMA
+       *  BIOS Configuration
+       *  Disk Configuration
+       *  PCI Configuration
+
+
+Usage:
+
+QAInfo can be used in three ways:
+
+       *  Interactively
+       *  Command-line options
+       *  Redirecting output
+
+
+Interactive:
+
+To use QAInfo Interactively, type:  QAINFO.   This runs QAINFO in a menu
+driven environment.
+
+
+Comand-line Options:
+
+There are two command line options available:
+
+       *  -f
+       *  -t
+
+The -f option sends the data produced by QAINFO to a selected data file.
+The -t option selects a test number.  The valid test numbers are:
+
+       *  201  Memory Map
+       *  202  Environment
+       *  203  Device Drivers
+       *  204  IRQ/DMA
+       *  205  Hardware Configuration
+       *  206  BIOS Configuration
+       *  207  DISK Configuration
+       *  209  PCI Configuration
+
+You may use the command-line options as the following line illustrates:
+
+       QAINFO -t205 -fhardware.dat
+
+This example selects test number 205, and the data is sent to a data
+file by the name of hardware.dat.
+
+
+Redirecting Output:
+
+Running QAINFO as follows sends the output data to standard out:
+
+       QAINFO -t205
+
+
+QAINFO.INI:
+
+The first time QAINFO is run, it generates a QAINFO.INI file.  This
+configuration file allows you to select/deselect a test within the 204
+and 205 test suites.  The tests listed in this file are defaulted to
+'Y'es, however these tests can be turned off by setting the test to
+'N'o.
+
+Special note on hard and floppy disk checking:  to check the hard and
+floppy disks, the Logical Drives switch must be set to =y.  The settings
+for BIOS HDDs and BIOS FDDs key off of the Logical Drives setting.  For
+example the following settings display both floppy and hard disk
+configurations even though both FDD and HDD are set to =n:
+
+       Logical Drives=y
+       BIOS HDDs=n
+       BIOS FDDs=n
+
+
+Error Codes:
+
+QAINFO produces the following error numbers:
+
+*  0 = success
+*  -1 = invalid option(s)
+*  -2 = invalid file name selected
+*  -3 = invalid test number
+
+
+Data File Options:
+
+QAINFO generates a data file for each test it runs.  This data file is
+deleted by default in the interactive mode.  To over-ride this default
+action, you may select saving the data file option.  The files are saved
+with the following file names:
+
+       test 205 - hardware.dat
+       test 202 - devdvr.dat
+       test 203 - environ.dat
+       test 201 - memmap.dat
+       test 204 - irqdma.dat
+       test 206 - bios.dat
+       test 207 - disk.dat
+       test 209 - pcicfg.dat
+
+
+Runtime Problems:
+
+QAINFO takes control of your computer's hardware to do it's testing.
+Some memory resident programs (TSR), device drivers, or newer
+hardware, may interfere with QAINFO's operation causing the system
+to lockup during program initialization or execution.
+
+If you are experiencing problems, reboot your computer with no
+CONFIG.SYS or AUTOEXEC.BAT file.  With DOS version 6.0 and higher,
+pressing the F5 key during boot-up will bypass the processing of the
+CONFIG.SYS and AUTOEXEC.BAT files.  Re-run QAINFO in this mode to
+check your system again.
+
+If the lockup problem still persists, you may edit the QAINFO.INI
+file and turn off various tests until a suspect test can be isolated.
+Each Hardware, IRQ and DMA item that can be identified and tested is
+listed in respective sections of the QAINFO.INI file. By default, each
+of these options is enabled, by the 'y' appearing after the specific
+item.
+
+To disable testing of one or more items, change the 'y' to 'n', save
+the QAINFO.INI file and rerun QAINFO.EXE.  This process may take
+several iterations and some intuition before isolating the item of
+concern.
+
+*** End of QAINFO.HLP ***
+
+→

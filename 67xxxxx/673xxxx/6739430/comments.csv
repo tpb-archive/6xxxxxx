@@ -1,0 +1,97 @@
+User Type,Username,Date,Text
+,zikfreed,2011-10-14T13:05Z,is co-op's working on this version?????? 
+,NiGHt-LEshiY,2011-10-15T17:06Z,"@zikfreed,
+Yes, co-op is working. Here's the how-to: forum[.]csmania[.]ru/ viewtopic.php?p=578673#p578673"
+,Wurzelpeter,2011-10-18T16:48Z,"How can i change the language to english? I neither understand russian, nor can i read the writing."
+,Wurzelpeter,2011-10-18T16:55Z,"Got it ;)
+Go to the portal 2 folder and open the file called rev. Change the language part like this:
+Language = English
+#Language = Russian
+
+Thx for the awesome Game. Very easy to download and install."
+,Gamesystem,2011-10-19T06:02Z,"i got a problem
+my avg always makes it crash is there anything i can do?"
+,Gamesystem,2011-10-19T06:07Z,it says a threat was blocked from the site www. nyeventsmadeeasy.com and then crashes portal
+,NiGHt-LEshiY,2011-10-19T15:19Z,"@Gamesystem,
+Take a look at virustotal's report:
+
+virustotal.com/ file-scan/ report.html?id=302a251b4803f403a622e51733b954a3fa30a7aeb54a53a710785868bedc3ac7-1318626998
+
+and this one:
+
+virustotal.com/ file-scan/ report.html?id=855502752830122bd4c4967c98a012fb0599738da3045fb2ff9900f98a35bac6-1318626515
+
+and this:
+virustotal.com/ file-scan/ report.html?id=e084af1c86211738dd9b43e12711e1d0e21dc124592fb595b67b03f775633088-1318626495"
+,Gamesystem,2011-10-20T11:30Z,Thanks got it working now but i cant save even when im not on develepor commentary
+,jamesensor,2011-10-26T00:06Z,"Hi, I tried to load a map for coop and it comes out with a message:
+
+Portal 2 Coop
+Map: mp_coop_start
+Players: 1 (0 bots) / 2 humans
+Build: 4710
+Server Number: 1
+
+No pure server whitelist. sv_pure = 0
+Can't find factory for entity: wearable_item
+NULL Ent in UTIL_PrecacheOther
+==== calling mapspawn.nut
+(0):Added listener class CPortalPlayerInventory
+(0):Added listener class CPortal_Player
+Cannot verify load for invalid steam ID [i:1:0]
+
+and goes to a screens saying ""your partner has disconnected""
+
+I tried both with map mp_coop_start and with zhenya93's launcher. Can someone help?"
+,Bozza13,2011-10-28T14:18Z,when i go onto the game in the menue it says no steam and exit when what do i do
+,michdruch,2011-10-30T20:12Z,"I cant get it working. I just started to download things with torrents and i still hawe problems. I got portal 1 from pirate bay and i loved it, but it was quite easier than this. I just had to unpack and download, but here i don't know what to do. Ya maybe i'm dumb but everyone had his first time. The problem is that the folder contains stuff that i cant run. It's obviously normal but i cant find anything but this! There should be at least one thing than i can open, or do anything, i have searched everywhere. It would mean much to me if someone could spare a moment for me, a guide for dummies would be nice :)"
+,NiGHt-LEshiY,2011-11-01T08:36Z,"@michdruch,
+oh.. there's the ONLY .exe file, which can be launched. The smallest of all. After launching just follow simple instructions."
+,Karnadas,2011-11-04T01:48Z,"Downloaded this game last night, installed it today and beat it just a few minutes ago. Single player campaign ran beautifully. Not a single problem that I could detect."
+,theterrible1,2011-11-10T20:49Z,"@Wurzelpeter
+I did just as you said but when I try to save it just says: acces denied.
+I tried to save it both as a .ini and .txt
+:l what now... this took me 3h to download :("
+,Anthrax44,2011-12-01T00:32Z,"@Gamesystem I too am having antivirus issues, can you tell me how you get yours to work?"
+,Sampaq,2011-12-16T07:53Z,"So i ran the launcher, and when i try to run the game it tells me the application configuration is incorrect and reinstalling might fix the problem. 
+
+Also, what am i supposed to do with the .bin files? could that be my problem?"
+,nacho6620,2011-12-19T18:37Z,"@Wurzelpeter
+I tried that, but can't seem to be able to save the changes on the document. It says ""access denied"" every time I try to save the changes."
+,raleighsmith,2011-12-28T06:27Z,"@nacho6620
+you have to go into properties on the file and the the subtab security and give all users permission"
+,MCBARLES,2011-12-28T15:53Z,"Okay, so i downloaded the torrent and installed portal 2 and it all went perfectly. How ever i cannot read the language it is in and i have been trying to change it to english, i tried what wurzelpeter said, and i found no rev file, idk some one plese help"
+,Murderous3mpire,2012-01-01T19:47Z,"@MCBARLES
+
+Just go to control panel, then to program files.  Look for the portal 2 folder in program files, then select the rev file.  Although after i did find the rev file i tried to change it but it didnt let me because im not admin.  how do you edit those files?"
+,oliam,2012-01-03T17:26Z,"I had the same problem about the language.
+You have to right click on the rev file(It is in the installed folder and not in the dowloaded folder), go to properties, go to security, click advance, then change permission, select the on without full control press edit and finaly check the box for allowing full control.
+
+once you go back to the rev file change the # from english to russian than save and it should work. it did for me."
+,oliam,2012-01-03T17:30Z,"I had the same problem about the language.
+You have to right click on the rev file(It is in the installed folder and not in the dowloaded folder), go to properties, go to security, click advance, then change permission, select the on without full control press edit and finaly check the box for allowing full control.
+
+once you go back to the rev file change the # from english to russian than save and it should work. it did for me."
+,Kyone,2012-01-28T19:16Z,"@Bozza13
+
+I have the same problem as him! Everything works fine, the installation was smooth and everything, but when I run the game I get two options on the main screen
+No Steam
+and Quit
+Nothing happens when i select No Steam so i'm basically stuck at that screen, please help."
+,Lolzfactor,2012-02-08T18:54Z,"For all who have AV issues
+
+>Disable AV
+>If asked to do sandbox mode, click no.
+>Uninstall AV,  but keep installation.
+
+All I can really think or, considering I've never had this issue."
+,tissemat15,2012-03-27T10:32Z,"portal2 2 i crashing every time i go in to ""Standard Co-op"" Portal is simpely shutting down :O plez help :D Tanks"
+,tylerawesome,2012-03-29T16:19Z,whenever i try to start standard coop it just exits the game. pls help
+,tylerawesome,2012-03-29T16:26Z,"@NiGHt-LEshiy
+when i start standard coop the game just exits..what do i do?"
+,David132,2012-04-06T04:01Z,"Ive been seeding this since december.Awesome game, EASY install. But I havent seen many people uploading this verson. Im running Win 7 on a craptop and had no major problems. To change the file to english, drag and drop it into anotehr folder, i.e. mydocuments. Change it and drag it back. I couldnt change it in its original location either. The only other issue I had was grafix. It ran in full screen and I couldnt see the cursor because of a crappy video card. I could only see the item change when over it. Took some doing to get into properties, but I set it for windowed and widescreen format. Plays great.
+  This is a GREAT downlaod. Dont be put off by others problems. Not everyone will have them."
+,zackass,2012-04-22T02:56Z,did anybody else get the swastika and the creepy song??
+,xslouis,2012-04-27T00:08Z,"@NiGHt-LEshiY Thanks, but I don't understand Russian"
+,sapier22,2012-04-28T01:50Z,"Great Torrent, Thanks man, but is there an english guide to get co-op working? That'd be greatly appreciated."
+,tissemat15,2012-04-29T21:49Z,look at side 1 :)

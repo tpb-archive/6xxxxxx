@@ -1,0 +1,35 @@
+User Type,Username,Date,Text
+,Nanijirobi,2011-10-30T03:50Z,Thanks
+,HerrBlimp,2011-10-30T14:45Z,"So. It crashes every time I try to build a science station (and I imagine it will on other occasions as well) on account of not being able to get a related Steam achievement...
+
+SW 10/30/2011 14:11:49 [] Kerberos.Sots.Steam.SteamAPIException: GetAchievement failed.
+   at Kerberos.Sots.Steam.SteamAPI.GetAchievement(String name)
+   at Kerberos.Sots.Steam.AchievementHelper.DoAchievement(AchievementType cheevo)
+   at Kerberos.Sots.Strategy.GameSession.ConstructStation(DesignInfo designInfo, Int32 parentOrbitalId)
+   at Kerberos.Sots.GameStates.ConstructionMissionState.OnConstructionPlaced(GameSession sim, Int32 selectedFleet, Int32 targetSystem, Int32 selectedPlanet, IList`1 designsToBuild, StationType stationType)
+   at Kerberos.Sots.GameStates.StationPlacementState.OnPanelMessage(String panelName, String msgType, "
+,sbseed,2011-10-30T16:14Z,after the two updates hopefully it wont suck quite so much lol
+,amatsu226,2011-10-30T16:20Z,"^ I was just going to ask actually. There are 262 seeders. Anyone having GOOD results from these two updates? 
+
+Just trying to see if its going to be worth waiting to download for the next major release or something"
+,vredik,2011-10-30T17:32Z,"i crashed by saving ship design, cant start in fullscreen...but the game looks good, will wait few months, until i can play this:)"
+,Sardaukar1,2011-10-30T17:58Z,"I didn't try the game without both updates, but it feels like there is some content missing. There are no scenarios and you can't generate your own universe. You have to choose from severeal standard maps. Many buttons don't have tooltips and the galaxy overview is a organisatorial mess. Download the manual here for better oversight: http://forum.paradoxplaza.com/forum/attachment.php?s=6204ef0248c7cd365681b1132e2c362c&attachmentid=41626&d=1319827131"
+,mang87,2011-10-30T18:44Z,"The game is an absolute mess at the moment. Paradox have given their word they are going to have it fixed, but these two updates don't fix anything. There is so much content missing."
+,FalconGrey,2011-10-31T22:49Z,"A third update is out as of 3:30EST. It fixes more of the addressed issues and crashes and adds more content and tool tips.
+
+http://forum.paradoxplaza.com/forum/showthread.php?567753-Official-info-IV-%28Monday-Oct-31%29&s=653e505ba09da6c247a37a6341ff851e
+
+Plays better with it and Paradox/Kerberos will always work hard to make things right.
+
+Remember, if you like this game to buy it. The Kerberos team (Roughly 5 people with the vacancies) is well worth it and will add more things (many free) and support the game for years to come."
+,Necroclysm,2011-11-01T05:19Z,"You must completely close Steam while playing in order to avoid the Achievement error.
+
+That being said, you will still get random crashes that are likely to make the game mostly unplayable(like a particularly nasty one involving AI versus AI combat, so if you still want to try, set random encounters to 0 to avoid that)."
+[T],alexisthebest,2011-11-01T16:17Z,"@BienM
+SKIDROW hasnt even released update 3, so there's nothing to upload. Just be patient..."
+[T],alexisthebest,2011-11-01T22:33Z,"update 3
+
+https://thepiratebay.org/torrent/6788528/Sword.of.the.Stars.II.Lords.of.Winter.Update.3-SKIDROW_%5BALEX%5D"
+[T],alexisthebest,2011-11-02T05:51Z,"@BienM
+
+probably, just not for a while since i'll be busy for a week or even more."

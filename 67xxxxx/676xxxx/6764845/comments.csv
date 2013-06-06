@@ -1,0 +1,13 @@
+User Type,Username,Date,Text
+,07paul,2011-10-23T01:47Z,"Thanks for this upload but I seem to have a problem playing these on my Media player (not the program, an actual box), I can never get a picture, only audio, which is a shame :("
+,Pharos01,2011-10-23T01:57Z,Install a x264 encoder/decoder. K-Lite/CCCP packs etc. After this all video programs will be able to play these HD files.
+,07paul,2011-10-23T02:44Z,"I'm not playing it on my computer though, it's on an actual Media Player plugged into my TV, so i cant update codecs as far as i know..."
+,TheMegaMoog,2011-10-23T03:42Z,"You could try updating the firmware, if it recognises and opens .mkv files it should be able to play this.
+
+Also, Pharos01, you're a total legend, thanks!!"
+,07paul,2011-10-23T18:37Z,"It plays most video types, including MKV (it's the main reason I have it) but it seems to have a problem with x264 AC3 files. They are the only ones I have this problem with..."
+,Kufat,2011-10-23T23:19Z,"Pharos01, thanks for the upload. I wanted to let you know that you might need to check your encode settings. Go to the credits at the end and freeze-frame; do you see two different frames blurred together?  I do, on both WMP and VLC, on your last 3 or so episodes but not other QI XL HD episodes before that.  It looks like you might be running a deinterlace filter even though the video is progressive?  Just something to check out.  Thanks again!"
+,Tari1977,2011-10-27T07:31Z,"Pharos01, thank you *so* much for these marvellous 720p XL uploads. The quality is superb, and they are greatly appreciated.
+
+Some Blu-Ray and Media Players will not play these 720p QI-XL mkv files. In my case, this was fixed by removing header compression. Download MKVtoolnix 5.0.1 from http://www.videohelp.com/tools/MKVtoolnix, install, then run the GUI (mmg.exe). In File/Options/mmg, tick the box for ""Disable header removal compression"", then OK. Drag the QI mkv file into the top window, set the output file name, then click ""Start muxing"". The process takes only 20-60 seconds on my computer.
+"

@@ -1,0 +1,38 @@
+Change Log:
+
+Football Manager 2012 v12.0.4 Update info:
+
+Competitions
+============
+Australia
+---------
+- Fixed a bug where the game gets stuck when the user is forced to register a youth player who turned into a pro in the Australian A-League.
+
+Finland
+-------
+- Fixed issue with player bans not working correctly in the First Division.
+
+General
+=======
+- Fixed crash when using the \"Pick Team For Me\" button when all manageable clubs have been taken over by human managers.
+- Fixed crash when activating a new division level which has promotion/relegation playoffs with the division above and is made up of regional divisions. (e.g. Third level in Sweden)
+- Fixed crash on game startup if a club\'s loyalty and passion supporter profiles are set to 0 using the editor.
+- Game now doesn\'t allow nations to be deactivated in 2011 before its competitions have finished. This was causing a few problems later in the game.
+- Fixed bug where Spanish outfield player could not be given a valid squad number before match if a goalkeeper already had number 25 and number 13 was the only number free.
+- Fixed an issue which was affecting AMD/ATI Radeon Cards causing intermittent crashes
+
+Match
+=====
+- Some colour clash fixes.
+
+International
+=============
+- Fixed bug where players currently selected in an U19 team are then deemed to old when the U19 European Championship qualifiers are scheduled.
+- Fixed bug where a replacement player could not be called up to a national team that doesn\'t have a full squad selected.
+- The overage players in the squad can now play for U23 team friendlies before the Olympic Games.
+
+UI
+==
+- Twitter and Youtube login now works on Mac OS X 10.5 Leopard.
+
+Seed and enjoy.

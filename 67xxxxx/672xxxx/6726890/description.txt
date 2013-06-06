@@ -1,0 +1,63 @@
+RELEASE CANDIDATE-FOR TESTING
+What is OpenELEC?
+
+Open Embedded Linux Entertainment Center, or OpenELEC for short, is a small Linux distribution built from scratch as a platform to turn your computer into a complete XBMC media center. OpenELEC is designed to make your system boot as fast as possible and the install is so easy that anyone can turn a blank PC into a media machine in less than 15 minutes. 
+http://openelec.tv/
+
+RC 7 Released
+We are happy to release our next release candidate
+RC 7 is released! Many thanks to all users for testing and contributing.
+
+Where is RC6?
+RC6 was not released officially. It was released for our new Partner Xtreamer to produce the SSD's with preinstalled OpenELEC.
+
+Highlights:
+    * Added support for many new remotes like:
+            Zydracon
+            Fintek
+            Cypress
+            Topseed
+            Ati X10 and compatible
+            ITE
+            more Nuvoton based remote receivers
+            DELL mceusb receivers
+            XBOX 360 Remote via mceusb receivers
+    * Added support for MDM166A and IMONLCD lcd devices
+    * Added support for many new DVB devices.
+    * Added support for reiserfs, xfs and jfs filesystems.
+    * Added support for XVBA via VAAPI
+    * Added fglrx graphic driver
+    * Added SFTP Server support
+    * Added AFP mount support via netmount.conf
+    * Added support for 'autostart.sh' script
+      Developers can create a (shell) script in '/storage/.config' called 'autostart.sh'. The script is run on boot and allows for testing of OpenELEC commands.
+      This is not a supported user feature and is intended for developers only to test boot commands. This feature may/will be deprecated as the project moves on in favour of custom Addons to cover any required autostart features.
+    * Added Service Addon support, backported from XBMC-Eden
+      Service addons are a special form of XBMC program addon which will be started on boot automatically (when XBMC starts). This makes it possible to run services like SABnzbd and        Co.,Transmission and TVheadend in background.
+    * Moved some tools and programs like nano, evtest, Transmission, TVHeadend to Addons
+    * Added support for binary Addons
+      When XBMC Addons are not coded in Python they are called Binary Addons. A limitation of Binary Addons is that they are OpenELEC architecture specific and cannot be easily moved around like normal Addons.
+      The implication of this is that if you change OpenELEC architectures i.e. from ION 32 to ION 64 you MUST follow a strict procedure to remove/reinstall Addons completely via SSH.
+
+New Projects:
+    * Fusion
+      thats a own image for systems based on AMD's Fusion (Bobcat and Llano) platform. This image works for most Users, but its still not stable enough like our other builds. XVBA support is work in process and will be improved over the timewithin our releases.
+    * Ultra
+      thats a own image presetup for Xtreamer Ultra.
+
+Known issues and limitations
+    * GPU Temperature is not shown in XBMC on some nvidia GPU hardware (bug in driver)
+    * Component Video does not work in the Apple TV image
+    * If you use the installer to install on a new drive, be sure there is at least one partition, otherwise the drive will be not detected
+
+If you find more issues let us know in the forum (Bug Reports)
+
+Adding additional drivers
+    * If you need an additional driver (esp. WLAN/DVB/Remote) let us know this in our forum (Feature request) 
+http://www.openelec.tv/component/k2/item/204-rc-7-released
+ 
+http://openelec.tv/donate 
+http://www.openelec.tv/get-openelec (other builds and source code) 
+http://www.openelec.tv/find-help/documentation/installation
+
+md5sum : 36b754b005e724d78ea28720f3f8b055  OpenELEC-Generic.i386-0.99.7.tar.bz2

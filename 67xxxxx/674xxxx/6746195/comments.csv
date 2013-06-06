@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,frozenkex,2011-10-15T18:05Z,Is this real?
+,Windwood,2011-10-15T18:17Z,"well i am using it and its work for me so i upload it 
+try and see"
+,SR666,2011-10-15T18:29Z,It does indeed appear to work.
+,MiniZaggy,2011-10-15T21:35Z,"It works. I had this start up problem, theres was a black screen and got back to windows everytime i tried to lauch ithe game. This resolved to problem. Don't forget to add /offline to the shortcut. Tested on Windows 7 64 bits, nvidia video card."
+,MiniZaggy,2011-10-15T21:43Z,I forgot to mention that I use Prophet patch (and never used the skidrow crack)
+,seososeleos,2011-10-16T01:57Z,thx works good
+,daveron,2011-10-16T14:08Z,Doesn't solve my problem - game still crashes after few turns in-game.
+,d0000h,2011-10-16T19:11Z,"Works for me (Win7-64, nvidia). All I did was install the skidrow version, copied over this crack and then created and modified shortcut as mentioned. I did not install any other skidrow or profit patches.
+
+Game crashed once while I was trying to save a game. Otherwise finished first tutorial map (1h?) with no other problems.
+
+(I tried with and without vsync and they both worked fine)"
+,d0000h,2011-10-17T08:06Z,"Hmm well FYI. I started with clean install and this fix. Things seemed to work OK as I finished first map. Then I updated with prophet 1.1 and no matter which .exe I used it would not let me continue to second map.
+Perhaps it was because of the upgrade, anyway I:
+
+- disconnected internet
+- reinstalled
+- blocked all 5 .exe with firewall
+- updated with prophet v1.1 
+- created shortcut with /offline
+- added [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+""tdrLevel""=dword:00000000 
+to registry (some kind of nvidia fix for some problems. I don't know details)
+- and now have played through to second map
+- NO CRACK was needed"

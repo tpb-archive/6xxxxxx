@@ -1,0 +1,105 @@
+House M.D. - The complete 7th season
+
+Video codec: x.264
+Audio codec: AC3 5.1 (Engish and Brazilian Portuguese)
+Subtitles: English and Brazilian Portuguese
+
+To switch audio language, press B in VLC Player or A in Media Player Classic
+To switch subtitles, press V in VLC Player or S in Media Player Classic
+
+Example of codification:
+
+General
+Unique ID                        : 66270355848962059631978804374906525461 (0x31DB34CE78238E8E534C9C0AC742D715)
+Complete name                    : F:\CONVERSOES\HOUSE 7\House 7x02 Selfish.mkv
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 543 MiB
+Duration                         : 43mn 59s
+Overall bit rate                 : 1 725 Kbps
+Writing application              : HandBrake 0.9.5
+Writing library                  : libmkv 0.6.4.1
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=1, N=31
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 43mn 59s
+Bit rate                         : 795 Kbps
+Width                            : 720 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 16:9
+Original display aspect ratio    : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 29.970 fps
+Standard                         : NTSC
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.077
+Stream size                      : 250 MiB (46%)
+Writing library                  : x264 core 112
+Encoding settings                : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=29 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                         : English
+Color primaries                  : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio #1
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 43mn 59s
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 141 MiB (26%)
+Language                         : English
+
+Audio #2
+ID                               : 3
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 43mn 59s
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 141 MiB (26%)
+Language                         : Portuguese
+
+Text #1
+ID                               : 4
+Format                           : VobSub
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Language                         : English
+
+Text #2
+ID                               : 5
+Format                           : VobSub
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Language                         : Portuguese
+
+Menu
+00:00:00.000                     : Chapter 1
+00:16:16.976                     : Chapter 2
+

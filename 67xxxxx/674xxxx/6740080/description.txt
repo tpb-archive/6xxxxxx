@@ -1,0 +1,5 @@
+After upgrading from XP to Windows 7 I was surprised that there was no \\\"move to folder\\\" or \\\"copy to folder\\\" shell command under the right click context.
+
+These registry enteries will enable you to right click on a folder or file and either copy or move the file/folder to a location of your choice under Vista or Windows 7 right click context menu.
+
+To install just double click on the registry enteries and merge. You can inspect the registry shell commands before merging by right clicking the registry enteries and click on edit so you know it\\\'s nothing dodgy.

@@ -1,0 +1,23 @@
+AUSTRUMI (Austrum Latvijas Linukss) is a bootable live CD Linux distribution. It is based on Slackware Linux. It was created and is currently being maintained by a group of programmers from Latgale region of Latvia. It requires limited system resources and can run on any Intel-compatible system with a CD-ROM installed. The entire operating system and all the applications run from RAM, making Austrumi a fast system, and allowing the boot medium to be removed after the operating system starts. 
+http://cyti.latgola.lv/ruuni/
+
+New Release: Austrumi 2.4.5
+
+Postno inni96  30 09 2011, 19:23
+* made 1 new theme for FVWM
+* added GParted - a partition editor for graphically managing your disk partitions
+* added strogSwan - an Open Source IPsec-based VPN solution implementing both the IKEv1 and IKEv2 key
+* removed PCManFM added PCManFM-Mod
+* removed LXTerminal added rxvt-unicode
+* removed Mozilla-Firefox added SeaMonkey
+* removed XChat added ChatZilla
+* updated: acpid, bash, bind, cabextract, cairo-dock, cdrtools, dhcpcd, dialog, diffutils, file, hiawatha, libreoffice, marisdb, mc, php, postgresql, rdesktop, simpleburn, stalonetray, syslinux, transmission, udev, unrar, whois, xorg-server, yad
+* updated libs: babl, fglrx, flash-player, freetype, gdk-pixbuf, glib2, gnutls, gtk+2, imlib2, libcdio, libdrm, libevent, libpng, librsvg, libsndfile, libtiff, libXfont, mesa, ncurses, nvidia-glx, readline, xf86-video-ati, xf86-video-intel
+* removed autofs, freerdp, remmina
+* updated kernel 3.0.4 
+http://forums.slackers.lv/viewtopic.php?f=12&t=381&sid=299abb7aba86d04bdec7f6a2de718537
+ 
+http://forums.slackers.lv/viewforum.php?f=12  
+http://www.punbb-hosting.com/forums/austrumi/ (unofficial)
+
+md5sum : fb32c2e3245759266a3274efe1ec5a30  austrumi-2.4.5.iso

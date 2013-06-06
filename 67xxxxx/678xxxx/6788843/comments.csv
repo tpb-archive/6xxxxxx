@@ -1,0 +1,10 @@
+User Type,Username,Date,Text
+,hahahafr,2011-11-03T01:17Z,DOESN'T WORK SHIT
+,hahahafr,2011-11-03T01:20Z,"ERROR CAN'T FIND PATH OF EXPANDRIVE NGEN MY ASS ""UNABLE TO GET EXPANDRIVE PATH"" FUCK OFF"
+,tveltvel,2011-12-08T14:48Z,"Works fine, just copy the crack to the install folder"
+,nate4096,2012-02-24T20:17Z,"This does *NOT* work, at least not on Win 7. No matter where ExpanDrive2.exe is installed to [ C:\Program Files (x86)\ExpanDrive, C:\Program Files\ExpanDrive, C:\ExpanDrive ], trying to use the Keygen.and.Patch (from anywhere, including copying it to ex: C:\Program Files\ExpanDrive) results in the error ""Unable to get ExpanDrive path. Do you want to manually select file?"" when clicking the ""PATCH"" button. Clicking Yes or No in that dialog does nothing.
+
+I even tried adding expandrive install directory to the path, no luck. Doesn't work."
+,nate4096,2012-03-09T08:00Z,"Ok, I got it to work! I *think* what did it was clearing out old registry entries from a previous install. Uninstall ExpanDrive, open regedit, find and delete parent ""ExpanDrive"" keys which contain an ""ExpanDrive_Home"" key/value - I think these old entries are what confuse the patch file.
+
+Then install ExpanDrive2.exe, run the patch, then run expandrive itself, go File - Preferences - Registration and choose the license file which is located in the install directory. Done!"

@@ -1,0 +1,73 @@
+latest imageburn massively updated
+
+
+
+    Added: Option to truncate image (not physically!) when burning to a smaller disc rather than always attempting to overburn.
+    Added: New \'Create BDMV Folders\' option to the Blu-ray Video options in Build mode. This ensures the BDMV folder contains all the basic folders required for successful playback in PowerDVD.
+    Added: New \'Clear Bin Status\' button to the Auto Loader Control window. This only applies to Generic auto loaders and tells them to revert to using the first lot of input/output bins.
+    Added: Workaround for autoloaders that don\'t report an error when the input bin is empty and cause the program to keep loading and unloading non-existent media as part of a batch mode read/queued write operation.
+    Added: Option to log skipped \'non archive\' files/folders in Build mode - files without their \'archive\' attribute set (this is nothing to do with zip, rar files etc. !).
+    Added: Workaround for Wine bug #22079 - http://bugs.winehq.org/show_bug.cgi?id=22079
+    Added: Workaround for Wine bug #27559 - http://bugs.winehq.org/show_bug.cgi?id=27559
+    Added: \'Show Interleaved Cells\' option that makes the program include interleaved cells in the \'create/select layer break position\' dialog.
+    Added: Filtering of \'.miniso\', \'desktop.ini\' and a few \'thumbnail cache\' type files when building DVD Audio or DVD/HD DVD/BD Video discs.
+    Added: The \'Device Capabilities\' window now also shows if \'Binding Nonce Generation\' and \'Bus Encryption Capable\' features are supported.
+    Added: Detection of Wine version being used - now displayed next to the normal OS info in the log window.
+    Added: Workaround for Wine bug #27470 - http://bugs.winehq.org/show_bug.cgi?id=27470
+    Added: Support for building \'.miniso\' image files ( http://www.dvdfab.com/miniso.htm ) - used by DVDFab Virtual Drive.
+    Added: Option to not show the \'Test mode not/might not be support\' warning message.
+    Added: Remember and restore the MRU source path (when adding/browsing for files) in the \'Create CUE/DVD/MDS File\' windows.
+    Added: Prompt when the user may have made an error by enabling the \'Patch Boot Information Table\' option when using a boot image that\'s over 1MB in size.
+    Added: Option to control the \'retry for remaining copies\' / \'try burning image again before trying next image\' prompts.
+    Added: Pressing the \'Enter\' key in the Disc/Files box the Disc Layout Editor window will now navigate to the first selected child folder.
+    Added: Basic detection of an attempt to build an MP3 Audio disc (along the same lines as the existing DivX detection but with *.mp3 files rather than *.avi).
+    Added: An extra \'underburning\' prompt when burning a BD-R sized image to a BD-R DL/TL/QL disc (and a BD-R DL sized image to a BD-R TL disc etc.).
+    Added: Support for detecting BDXL capabilities in a drive.
+    Added: Support for some \'Generic\' auto loaders that use a COM port for robot communications.
+    Added: Prompt for the user to select an Auto Loader\'s \'Associated Drives\' if none could be detected automatically.
+    Added: Prompt when the user may have made an error by enabling the \'Patch Boot Information Table\' option when building a Vista/Windows 7/Windows 2008 bootable installation disc (i.e. using an \'ETFSBOOT.COM\' boot image).
+    Added: An extra \'underburning\' prompt when burning a DVD sized image (non BD Video) to a BD-R disc.
+    Added: You can now double click a \'Destination File:\' or \'Source File:\' log entry (whilst holding down the CTRL key) to open up its containing folder in Explorer.
+    Added: Prompt when the user may have made an error in the \'Sectors To Load\' field when building a Vista/Windows 7/Windows 2008 bootable installation disc. (Should be 4 for a 2KB ETFSBOOT.COM file and 8 for a 4KB one)
+    Added: Option to log skipped \'filtered\' files/folders in Build mode - i.e. from within folders like the VIDEO_TS one where only IFO/BUP/VOB files are allowed.
+    Added: Feature to display the \'Family Tree\' of a device - i.e. which controller it\'s connected to.
+    Added: Support for detecting the Cyberlink UDF 2.50+ filter driver on Windows XP systems - and thus not displaying the warning about a UDF 2.50+ formatted disc potentially being unreadable.
+    Added: Workaround for (proper) Pioneer burners not reporting the % complete of a background DVD+RW format.
+    Added: Option to make the program wait longer for the drive (in an auto/embedded/medium changer) to become ready when doing a \'Batch Mode\' Read. Option is enabled by default and makes the program wait 5 minutes rather than 5 seconds.
+    Added: Support for reading metadata (tags) from M4A music files - which can then be used by CUE sheets to create CD-TEXT info.
+    Added: When suggesting a volume label for a BD Video image/disc, the program will now read the disc name specified in the \'BDMV\\META\\DL\\bdmt_eng.xml\' file.
+    Added: When extracting a boot image, ensure the source and destination aren\'t the same.
+    Added: When extracting a boot image, check for sufficient disk space before starting.
+    Added: The ability to format BD-R and enable spare areas (defect management). When using BD-R with spare area, you should disable the \'BD-R Verify Not Required\' option otherwise the whole thing is a bit pointless!
+    Added/Changed: Prevent Read mode from being used to create (useless) image files of multi-session/track DVD/HD DVD/Blu-ray discs and suggest using Build mode to create a new image based on the contents of the disc instead.
+    Added/Changed: Tooltip for the \'Free Space\' label (Build mode, Information tab) now displays the free space info for previous, current and next \'min required media\' formats.
+    Added/Changed: Log entry related to supported write speeds.
+    Added/Changed: The initial drive scan results in the Log window now show the full firmware version for LG (HL-DT-ST) drives. (e.g. \'1.00-A9\' rather than just \'1.00\')
+    Changed: Updated bundled Ask toolbar to latest version (1.13.1.0).
+    Changed: Made a few tweaks to the \'VirtualTreeView\' component code when painting with (Vista+) themes enabled.
+    Changed: The \'Reset Copy Permission Indicator Flag\' feature now automatically disables itself if the compilation includes an \'AACS_bd\' or \'AACS_mv\' folder in the root. Previously it only did so if an \'AACS\' folder was present.
+    Changed: When using the \'/FILESYSTEMONLY\' switch, the program now also includes anything that would normally come after the file data (i.e. mirror metadata partition or UDF anchors) in the output file.
+    Changed: Tweak for detecting conflicting \'preserve full pathnames\' setting when attempting to build certain types of images/discs.
+    Changed: Renamed \'Test Mode\' warning option to \'Test Mode Enabled\'.
+    Changed: Workaround for the TDateTimePicker control (used in Build mode for custom volume/file/folder dates) not displaying the current value properly under Wine (tested in Ubuntu 11.04 with Wine 1.3.20).
+    Changed: Tweak for detecting BD Video builds (where it may previously have treated it as a standard \'data\' build or prompted the user)
+    Changed: Tweak for detecting DVD Video builds (where it may previously have treated it as a standard \'data\' build).
+    Changed: The red \'Cancel\' button (image) shown on the progress screens now has a \'hot\' image so it\'s more obvious it does something.
+    Changed/Fixed: Build mode\'s \'Advanced\' output mode will now check for and remove the destination image file from the list of source files. This was already being done in \'Standard\' output mode.
+    Changed/Fixed: The DLE window wouldn\'t restore the Explorer pane\'s previous selection if it wasn\'t a file system object - i.e. so it wouldn\'t restore the selection to \'(My) Computer\' having closed and reopened the window, but it would restore it to something like \'C:\\\'.
+    Changed/Fixed: Made the \'Patch Boot Information Table\' option only available when \'Emulation Type\' is set to \'None (Custom)\'.
+    Fixed: Potential crash when attempting to parse a certain UDF descriptor.
+    Fixed: When reading a multi-session/track DVD/HD DVD/ Blu-ray disc to an image file, the program would re-read from the start of the disc for each track (leading to an inflated image).
+    Fixed: Added a short pause after setting the read/verify speed so drives can respond to the request. (Workaround for bug in LG BD BH10/BH12 writer firmware that makes them read at 2x)
+    Fixed: Unable to save an *Ansi* format \'text\' file (CUE, MD5, LOG etc.) when the file name contained Unicode characters.
+    Fixed: The \'Sort Files By Source List Order\' option of Build mode wasn\'t working when using Advanced input mode.
+    Fixed: The \'Retry\' option when attempting to Unload/Reject a disc from a Vinpower/Generic autoloader didn\'t work.
+    Fixed: Synchronisation of options between modes during program initialisation could cause some incorrect values to be restored.
+    Fixed: Potential access violation when accessing a certain storage descriptor as the program starts up.
+    Fixed: Problem that could cause the \'there are still some queued up images\' box to pop up twice when the program has been told to close itself.
+    Fixed: Problem that could cause an error box (\'Reached End Of File\') to pop up just before the burn starts when checking to see if an image file contained BD Video data.
+    Fixed: The log window would jump to the wrong location when restoring the application (having previously minimised it) if the Taskbar was located at the side of the screen (rather than top / bottom).
+    Fixed: Clicking the red \'Cancel button (image) shown on the progress screens didn\'t provide any sort of feedback if the program was already cancelling due to an error.
+    Fixed: Error attempting to close the track when burning a multi track image (i.e. Audio CD) using the TAO write type.
+    Fixed: Couldn\'t perform Redo (via CTRL+Y) or Undo (via CTRL+Z) in the ISO9660 volume label boxes, they just caused the \'Unacceptable Character\' balloon to pop up.
+    Fixed: Attempt at a workaround for an issue someone was having where the main window ended up being smaller than the components it contained (so some controls got cut off).

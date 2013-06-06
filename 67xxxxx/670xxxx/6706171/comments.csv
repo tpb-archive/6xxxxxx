@@ -1,0 +1,56 @@
+User Type,Username,Date,Text
+,MeRLiN4U,2011-09-28T12:05Z,"Do you maybe have the same drivers but for XP & I need this for the Radeon 6470M 1gb because I have a HP Pavilion G7.
+Thanks"
+[T],Tyr3ll,2011-09-28T16:56Z,"Bro ! i'm really sorry but AMD have made this specific driver for Vista/Win7 only.
+Why ? that's the question....
+So i cannot help you anymore 
+sorry again :/
+friendly"
+[T],Tyr3ll,2011-09-28T16:58Z,"please,as i have alo an HP,let me know your curent version driver,i will try to give you a better driver if i can,right ?
+cheers ;)"
+,MeRLiN4U,2011-09-28T19:48Z,"Well here is my device instance id for the graphic HD radeon 6470M 1gb PCI\VEN_1002&DEV_6760&SUBSYS_1672103C&REV_00\4&8F789FD&0&0008
+
+PCI\VEN_1002&DEV_6760&SUBSYS_1672103C&REV_00
+
+I have had some help from Drivers Solution but they could not help me, but you can diconnect the graphic from the bios if you got it in the bios...I dont have it."
+[T],Tyr3ll,2011-09-29T02:22Z,"right ! but you don't tell me what catalyst do you use in fact,dude.
+Well,could you please let me know the model of you HP laptop ?
+Give me a link to HP,please,to learn more about your model.
+I may act to distance directly on your laptop
+by TeamViewer also,if necessary and if you could
+trust me,indeed !
+Are you on ICore 3 ?
+ty and regards"
+,MeRLiN4U,2011-09-29T09:30Z,"Well I dont think you will make it work but you can try, I have HP Pavilion G7-1160em. /M"
+,MeRLiN4U,2011-09-29T09:33Z,http://www.google.se/url?url=http://h20195.www2.hp.com/v2/GetPDF.aspx/c02875378.pdf&rct=j&sa=U&ei=_R6ETsCFIcKG4gSzkYjODw&ved=0CBQQFjAC&q=hp+pavilion+g7-1160em&usg=AFQjCNEaAH5xr0z1uFiFkmbr55ANrXPswg
+,MeRLiN4U,2011-09-29T09:38Z,"Yes I have the i3 cpu-2310M, 2.10Ghz 796MHz, 4Gb Ram, the issue is that there is a graphic in the motherboard & the graphic outside the HD radeon 6470M 1gb.
+I have made it work from help from Drivers Solution but not 100% & I have disabled the other driver graphic in system because the bios does not show any graphic at all."
+[T],Tyr3ll,2011-09-29T12:56Z,"Found your product right now.Well it appears this one is sold on freedos bsd...
+thereby i guess you decided to switch to xp and anyway without complete xp driver support,true ?
+your model is approximally near of mine.
+In fact you have two gpu !
+first one is directly implemented in the heart of your cpu icore3.(Intel HD graphic gpu)Your second cpu is the HD6470M,and like mine,you cannot disable one of them by the bios directly.It is only possible directly by the ATI ccc setting option,where effectively you can chose to switch to the first or second one.There is no support for XP driver like mine for your model but i know how too proceed anyway.The problem is to find a near model with approximally same devices with xp driver support.
+That's the same job i have to do for my HP model if i want to install an XP partition,and this is the case.
+Bro,you may try to regulary coming to here :
+tyrell.tpb@gmail.com
+Here,we could chat a bit about and you might send to me more messages to this topic.
+Not ideal place for talking about that,here,anyway...
+you understand and follow me so ?
+regards"
+[T],Tyr3ll,2011-09-29T19:14Z,"latest Intel HD graphique for XPx32
+including Icore3,5,7 mobile family
+dated from today : september 29
+
+(http://downloadmirror.intel.com/20455/a08/winxp_14467.exe)
+
+For your HD 6470M,try latest catalyst OGL 4.2 preview from one of my previous torrent,as it gets mobility support also.
+see below :
+
+(http://thepiratebay.org/torrent/6651904/AMD_Catalyst_Preview_driver_OpenGL_4.2_beta_support_(8.880.8.0)_)
+
+Let me know the result dude(you might need to proceed my manual method directly from or by device manager,perhaps.)
+GL"
+,MeRLiN4U,2011-09-30T21:51Z,"Tried it but with no succes, thanks."
+[T],Tyr3ll,2011-10-01T09:40Z,"k will go back to gmail to try to help you more so.
+sorry for yesterday,had health concerns  :(
+cu around"

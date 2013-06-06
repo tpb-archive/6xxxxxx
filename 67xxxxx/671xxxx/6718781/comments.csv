@@ -1,0 +1,47 @@
+User Type,Username,Date,Text
+,mehnosh,2011-10-04T23:19Z,Please seed...I look forward to listening to this after a month or so
+,leahcim3360,2011-10-07T02:42Z,"gratitude, friend...."
+,jarlevif,2011-10-07T21:06Z,I have extracted this whit powerISO. In wich media player can I play it ?
+,pewpew,2011-10-09T03:13Z,"Anyone been successful in getting this to play on a PS3?  I've tried burning it to a Panasonic BD-RE DL several times, with ImgBurn and Nero 11. The burn seems to complete w/o error.  The PS3 recognizes it as a BD and shows the thumbnail image.  But shortly after playing I get a ""bad disc"" error. Anyone know what I am doing wrong?"
+[T],oddeven,2011-10-09T08:21Z,"Burned disc failed, play on Dune failed, trying to play a simple m2ts file failed, and there are a bunch of strange looking files in the iso, in folders called 0012FA and AACS, that I am not familiar with.  Sticking with just the BDMV and the Certificate folders also got me nowhere."
+,pewpew,2011-10-09T18:37Z,"The problem is that this ISO image is still encrypted/protected.  I was successful in playing this on a PS3 from a BD-RE DL media using DVDFab Blu Ray Copy 8.1.2.5 trial version to decrypt it before burning.  AnyDVD HD would probably also do it.  
+
+To get it to work I mounted the downloaded ISO with VirtualDrive, and then used DVDFab to rip a new image from it. It ripped the folder structure (BMDV and CERTIFICATE folders) plus a ""miniso"" file.  I then burned that new image to my Panasonic BD-RE DL media using DVDFab and it played fine on the PS3."
+[V],oneanight,2011-10-10T19:37Z,"Quote:
+
+All I did was mount it with VirtualCloneDrive5.4.5.0 and the right click on AnyDVD6.8.7.0 and chose ""rip to image"". Now it plays and copies perfect."
+[T],oddeven,2011-10-11T05:06Z,"an odd quote. a quote from what?
+
+however, strange to have to take an image file, mount it, then rip another image file from it, just to get it to work. and work how? by mounting it again?
+
+ I mounted it (the original downloaded iso) with Nero ImageDrive and AnyDVD failed to read it. If it was ripped first with AnyDVD, as files, it shouldn't have any encryption, and ImgBurn should have no problem writing it, nor most other programs in playing it. AND, no need to mount it..."
+[V],oneanight,2011-10-11T15:48Z,"@ oddeven 
+
+It was a Quote from demonoid so I posted it here to help it seemed to work for him.. but if it works thats good isn't it?
+
+It was ripped and but was still copying protected so it was just a workaround..
+
+Any ideas feel free to post. As I said this wasn't my Rip and I haven't downloaded it yet.. because I'm posting myself"
+,willow25,2011-10-17T12:02Z,"I Mounted the file with PowerISO, then Used dvd Shrink to put it onto disk and it plays perfectly even on my PS3 hope this helps"
+,zomvid,2011-10-24T07:23Z,hey thanks for this! is this the one uploaded by Wheels35?
+,pacocrowley,2011-11-11T02:43Z,http://thepiratebay.org/torrent/6808483/Pink_Floyd_-_Dark_Side_of_the_Moon_Immersion
+,somms,2011-11-28T01:32Z,"I got tired of waiting for someone else to get around to throwing this Immersion Edition (96kHz/24bit) audio behind Oz for the Dark Side of the Rainbow:  http://thepiratebay.org/torrent/6848777/Dark_Side_of_the_Rainbow_(Immersion_Edition)
+
+The 5.1 audio really shines w/expensive earphones on!"
+,rjhome11,2011-12-05T12:03Z,Hi there - I'm trying to play disc no. 5 (the actual blu-ray disc rather than the iso) from this box set on my pc (equpped with a blu-ray player & Cyber Link Software) but it is not working - may I ask what you would recommend I use? - Would be grateful for any help as it's driving me mad!
+,FLAK,2012-01-09T00:14Z,Anyone know how to play this on the PIVOS AIOS? 
+,S.C.I.,2012-01-31T16:43Z,"me too,i appreciate the effort to upload this,but is getting really hard to find a way to play it."
+,shoganai,2012-02-26T13:37Z,"I think it does work. It's just not as simple as most .iso files you'll find on this site.
+
+I'm not interested in burning these back to a disk only in mounting virtually. I haven't had any success with MagicDVD but Virtual Clone Drive mounts it successfully. From there simply reading the .m2ts or .mpls files, which will often work, or accessing them directly with tsmuxer didn't work...maybe the point made above about encryption is correct...but if you use AnyDVD HD to rip the blu-ray structure to your hard drive you can then load the files into tsmuxer and demux them into their constituent parts....music, video whatever as there are both on this disc. Of course, you are still faced with the fact that tsmuxer doesn't provide you with a nice guide through the various titles... which of the many .m2ts and .mpls fles contain what...I usually find find blurays a pain with tsmuxer for this reason...makeMKV full version will be cleaner for the video parts but isn't to my lknowledge much use for the audio...but with trial and error you should be able to get everything that's on the disc.
+
+But in answer to the people who ask 'is there any simple way I can just play this thing'...no, I don't think there is. If you're perpared to take the trouble to painstakingly strip out the files there's a guide on how to do it using anydvd hd and tsmuxer on the Computer Audiophile website."
+,shoganai,2012-02-26T15:46Z,"Having played with the files a bit more I can confirm what I said before. This .iso is fine and all the content that the uploader claimed to be on it is indeed there...in fact he forgot one, the 4.0 Alan Parsons Quadrophonic mix is also ther at 34/96.
+
+Just to reiterate, VirtualCloneDrive + AnyDVD HD + tsMuxer + foobar (to make .flac files of the audio) and mkvMerge (to make .mkv files out of the video) and it's all there."
+,irmazzeu,2012-03-06T18:01Z,"Congratz, this is great! IÂ´ve been seeding for a month and I intend to keep it up. But IÂ´ve been wondering... has anyone got the The Wall Immersion Blu Ray? It would be amazing! Tks!"
+,jklequal,2012-04-15T21:42Z,"This contains the uncompressed 24/96 version of Alan Parson's Quad Mix as well! The description on all the websites is incomplete.
+
+I was first disappointed that there was only a crappy 640kbps version of the original quad mix on the DVD, but it's there on the Blu-Ray too!"
+,nuda,2012-04-20T15:16Z,"ok, how does this play? i have tried everything that has been posted here with no luck, please help an old man out getting his floyd fix LOL"
+,nuda,2012-04-20T15:17Z,can't get it to play with all the suggestions posted here. please help an old man get his floyd fix !!

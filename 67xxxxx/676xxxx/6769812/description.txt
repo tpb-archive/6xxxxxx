@@ -1,0 +1,25 @@
+Slacko Puppy 5.3
+Slacko Puppy Linux 5.3 is a child, or better a pup, of Barry Kauler's Woof build system. It has binary compatibility with Slackware-13.37, which simply means that it is a Puppy built with packages from the Slackware, Salix and Slacky repositories.
+The main version has kernel 2.6.37.6 compiled with Aufs, layered file system support, in the typical Puppy manner.
+Some new features of Slacko are a rebuilt gtkdialog, a program which allows bash scripts to run in GUI. A showcase of this is Pmusic and Pequalizer, tiny apps to organise and play your music collection and more.
+Slacko Puppy introduces Frisbee Network Manager to connect wirelessly, familiar to Puppeee users. It utilises the WPA_supplicant daemon and is great for laptops and people on the move.
+There is also Simple Network Setup and Network Wizard to offer choice.
+The Seamonkey suite is the default browser and email suite but Firefox Aurora, Chromium, Opera, Netsurf, Dillo and Links are only a few clicks away.
+Slickpet is a cut down version of Quickpet to get a few handy apps without diving into the well stocked Puppy Package manager. While on the Puppy Package Manager, apart from Puppy's native PET package format it can also fetch Slackware, Salix and Slacky packages in tgz or txz format.
+Puppy's sfs format is supported by a program called sfs_load. Sfs are a way to load layered filesystems so that the filesystems can be unioned and act as one. Read more.
+Slacko has Abiword and Gnumeric, latest versions to open those documents and spreadsheets to keep you working.
+Lots of  types of multimedia are supported so you can play hard.
+Slacko is aimed at reasonably modern machines up to six or seven years old. It may run on even older hardware.
+There is also a later kernel compiled with PAE HighMem support, for machines with up to 64G RAM. This is recommended for the latest machines, less than a year or two old.
+Slacko Puppy 5.3 offers something for everyone, whether for work or play, all in under 125 megabytes!
+Time to get Slacko! 
+http://distro.ibiblio.org/pub/linux/distributions/puppylinux/puppy-5.3/release-Slacko-5.3.htm
+
+Coordinator - Mick Amadio (01micko)
+
+Developers, contributors and testers
+MinHundHettePerro, zigbert, James C, Daves, Stripe, playdayz, Lobster, Jim1911, rodin.s, pemasu, Iguleder, Billtoo, BarryK, mavrothal, gcmartin, rcrsn51, shinobar, Tasgarth, mave, jim3630, 666philb, emil, 8-bit, Tman, tempestuous, tasmod, charlie6, sszindian, cowboy, Jades, sc0ttman, Stu90, ttuuxxx, futwerk, pacer106, Brown Mouse, aarf, peebee, wuwei, mikeslr, JonT, Sage, Jasper, majorfoo, eternal-sunshine, bigpup, tubeguy, chrismt, Ray MK, grump, john3voltas, Roy, jpeps, Volhout, Puppeteer, Icyos, nooby, Sylvander, JackWagon,2ManyDogs, otropogo, soundNICK, MoebusNet, tater, L18L and many others.
+ 
+http://bkhome.org/blog/ (blog announcement)
+
+md5sum : a39b906f042c1db852b97b94cf3b49f5  slacko-5.3-MAIN.iso

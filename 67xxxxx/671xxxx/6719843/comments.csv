@@ -1,0 +1,19 @@
+User Type,Username,Date,Text
+,wickedwes1,2011-10-04T20:41Z,its the dvd file for the iso its ligit 
+,theclarkster,2011-10-05T16:40Z,"it keeps sayin that the file is not reconised when i try an open it in imgburn,i have downloaded the game driver but it has no only got a iso file but no dvd file,so i downloaded this an thats what msg i get.both the files are in the same folder on my pc........please help!"
+,BACKUPMAN360,2011-10-05T23:48Z,"i thought that you can just write your own dvd file like this
+
+LayerBreak 2133520
+whatever.iso
+
+in notepad then save it as whatever the iso is called
+for example if your iso is called backup360.iso then you would write this in notepad
+
+LayerBreak 2133520
+backup360.iso
+
+then simply save it as backup360.dvd    this will then show as a dvd file, although i should point out that ABGX is not currently updated to recognise the new XGD3 format but it will be soon just keep your eyes peeled, and this layerbreak is from gears 3 so i am assuming as driver sf is xgd3 then that will be the correct layerbreak for it also hope this helped"
+,BACKUPMAN360,2011-10-05T23:49Z,"Sorry missed out a symbol here is a correct example 
+
+LayerBreak=2133520
+backup360.iso"

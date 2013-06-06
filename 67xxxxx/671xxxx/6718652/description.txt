@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+                                                                                
+           SSSSSSSSSSSSSSS       444444444                 AAA                  
+         SS:::::::::::::::S     4::::::::4                A:::A                 
+        S:::::SSSSSS::::::S    4:::::::::4               A:::::A                
+        S:::::S     SSSSSSS   4::::44::::4              A:::::::A               
+        S:::::S              4::::4 4::::4             A:::::::::A              
+        S:::::S             4::::4  4::::4            A:::::A:::::A             
+         S::::SSSS         4::::4   4::::4           A:::::A A:::::A            
+          SS::::::SSSSS   4::::444444::::444        A:::::A   A:::::A           
+            SSS::::::::SS 4::::::::::::::::4       A:::::A     A:::::A          
+               SSSSSS::::S4444444444:::::444      A:::::AAAAAAAAA:::::A         
+                    S:::::S         4::::4       A:::::::::::::::::::::A        
+                    S:::::S         4::::4      A:::::AAAAAAAAAAAAA:::::A       
+        SSSSSSS     S:::::S         4::::4     A:::::A             A:::::A      
+        S::::::SSSSSS:::::S       44::::::44  A:::::A               A:::::A     
+        S:::::::::::::::SS        4::::::::4 A:::::A                 A:::::A    
+         SSSSSSSSSSSSSSS          4444444444AAAAAAA                   AAAAAAA   
+                                                                                
+                                                                                
+---------------------------------------------------------------------------------
+
+                        Windows.RTM.ISO.Verifier.v2.0.2.0                        
+
+---------------------------------------------------------------------------------
+
+This program allows you to retrieve the SHA1 hash for the chosen ISO and compares
+the SHA1 hash to the Microsoft official hashes. It also tells you the OS, 
+Version, Processor Type (x86 or x64) and displays the SHA1 hash of the file. It 
+is coded in Visual C# using Visual Studio 2010.
+
+First you need to select an ISO. You can click the browse button next to the text 
+box or select File - Open ISO. You can also just type the name of the .iso in 
+the text box if it is in the same directory as the .exe file.
+
+Then press Verify ISO or select File - Verify ISO. In just under 2 minutes the 
+program will tell you if the ISO is genuine. If the file matches a SHA1 value in 
+any of the loaded language files then it will display GENUINE otherwise it will 
+display NOT GENUINE.
+
+LanguageList.xml
+LanguageList.xml is very important without it the program cannot verify ISO. It 
+needs to be located in the same folder as the main .exe file. This file lists what 
+languages you want the program to check for. To add a new language add an entry 
+to this file then download that language file. If you do not have the 
+LanguageList.xml you will get the EC or error code EC 101 which means The file 
+LanguageList.xml was not found.
+
+Supported OS's - Includes x32, x64 and Itanium x64
+Windows 7 (Including SP1)
+Windows Vista (Including up to SP2)
+Windows XP (Including up to SP3)
+Server 2008 R2 (Including SP1)
+Server 2008 (Including SP2)
+SBS 2011
+SBS 2008 (Including SP2)
+Home Server
+Home Server 2011
+
+Version 2.0.2 changes (7/18/2011):
+* Redesigned UI.
+* Bug Fixes.
+* Created All In One File.
+
+---------------------------------------------------------------------------------

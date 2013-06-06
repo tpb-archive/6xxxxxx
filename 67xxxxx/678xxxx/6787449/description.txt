@@ -1,0 +1,35 @@
+FOR TESTING
+
+
+Synergy Linux
+
+Packaging and Build News for Synergy Linux
+About Synergy Linux:
+Synergy Linux is a KDE 4 /Qt 4 Based Linux Live Distribution based on current Fedora releases. The Point of Synergy Linux is three fold:
+1. Offer a more classic KDE Desktop experience in look and feel, yet still with the updated functionality of KDE 4. This is mainly expressed through the default plasma configuration using folder view by default (icons directly on the desktop not as widgets/plasmoids). Also it should be noted that nepomuk is disabled by default, primarily to save memory while running in a live environment.
+2. Offer cutting edge KDE 4 releases that may not be offered yet for Fedora proper or other distributions. Thanks to Rex Dieter at Fedora we can pull in these packages.
+3. To run on my NetBooks allowing them to be 'real' computers. I have a EeePC 701 that I run Synergy on for which I am always keeping the little guy in mind. This has lead to some patches to the current Fedora LiveUSB installer. We offer our own version properly named  Synergy LiveUSB that no has an option (still in alpha) to install the current live system files onto the SSD of the EeePC, allowing a compressed system that is much more efficient on the EeePCâ€™s 2-4GB SSD. Also with the older smaller netbooks in mind applications in the future may be chosen to enhance their functionality as well.
+Development on Synergy Linux can be fast paced at times and other times quite slow. The pace depends on a three factors (in order):
+
+1. Time
+2. Testing
+3. Feeddback
+You can contact us on the Forums to give feedback.
+
+A little more current information..
+So far it has a few things that are kinda different about it with the current releases.
+
+1. It has the Ability to install 'Live' like a Live USB Key or LiveCD but it can do this on the first device /dev/sda1 no matter what media it is. I use this to save space on my EeePC, 3G of Programs compressed to 580M helps a lot.
+2. Also I am using Fedoraâ€™s KDE testing repository which I have found for the most part to be pretty stable. So thereâ€™s always the latest version of KDE on the builds
+3. In themeing I lean towards Green and not Blue..
+4. Even though it is KDE I use Gtk Based Claws-Mail as a client because I am disabling Akonadi and Nepomuk (and Mysql) in the Live environment. Though thereâ€™s some visual issues with this it is smoothed over pretty well using Oxygen-GTK as the default theme.
+5. Unlike Fedora 15 and in the future 16 I did not raise my memory requirements to 640M (768M for Fedora 16), it is still 512M and runs fairly decent at 512M. 
+http://synergy-linux.com/about/
+
+I just finished packaging a majority of the 'core' packages needed to build a CLI based ISO. I have also weeded out the SELinux (Build)Requires in all the 'core' packages and rebuilt the kernel (3.1.0) adding  various drivers and turning off SELinux. Although it is not really useful at this point the ISO can be used. You can actually get online if you manually set up your connection. Thereâ€™s still alot of work to do, but weâ€™re getting there. 
+http://synergy-linux.com/
+ 
+http://synergy-linux.com/forum/ 
+http://synergy-linux.com/screenshots/
+
+md5sum : f266a728957ed52454612c64030ef2a9  Synergy-LiveCD-3-core-i586.iso

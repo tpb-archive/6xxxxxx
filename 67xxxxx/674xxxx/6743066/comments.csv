@@ -1,0 +1,75 @@
+User Type,Username,Date,Text
+,mickyfinny,2011-10-14T14:41Z,"Well done grandfred29,ive just had a quick look at this and ive added these lines to the dll.xml:
+
+
+    A330NightPanel_feelThere
+    False
+    False
+     D:\FSX\Gauges\A330NightPanel_feelThere.dll
+  module_init
+   module_deinit
+
+
+
+Could you tell me if there are more entries in the dll.xml that ive missed cos some switches dont respond.We are nearly there with this one guys.Thanx again"
+,mickyfinny,2011-10-14T14:44Z,Stupid comments has screwed what i put but you should get the idea.
+,grandfred29,2011-10-14T16:49Z,"@ Mickyfinny:
+
+well in dll.xml entrie :
+
+Launch.Addon> AirbusNewHUD False False Addon Modules\AirbusNewHUD.dll module_init module_deinit
+
+a330 night panel feelthere is adked when you load the first time the plane to fsx, as hud module and weather radar.
+Problem is had got 5 new credit to install my product with wilco, with same key, and five pesonns installed this , can't reinstall it  now. So i can try help you to install it.
+
+In fsx.cfg:
+
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\feelThere PIC A346RR\panel\A346RR_feelThere.DLL.ewctctihwiqnobonokknucqzqbieuulweruoczkl=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\feelThere PIC A346RR\panel\ISIS.DLL.kooebabrboqkkbnatokkhebibtaqiwwlcnkozene=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\feelThere PIC A346RR\panel\A346NightPanel_feelThere.DLL.zozzkakqoqlhoowlbcklaqcuccuohaelahzilcon=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\feelThere PIC A332GE\panel\A332GE_feelThere.DLL.ociolabnwntibniezblqakckbolkhiztbrwcwiwl=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\GAUGES\A330NightPanel_feelThere.DLL.itltnblcurouzoztaibbrtikzktaeirbbnwhciuz=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\feelThere PIC A343CFM\panel\A343CFM_feelThere.DLL.qkburtcuoinkruznzqckquqwwctrneeurtlzhwta=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\feelThere PIC A343CFM\panel\ISIS.DLL.kooebabrboqkkbnatokkhebibtaqiwwlcnkozene=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\feelThere PIC A343CFM\panel\A343NightPanel_feelThere.DLL.zeiwhaiibbaiwbnhaohzoeuikccztnebiwceuurq=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\GAUGES\HUDControl.DLL.olcbazqukaalzkhqbookkroaloaawliozaooktnu=2
+G:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\Addon Modules\AirbusNewHUD.dll.tctooatitcrqiauaalczaincqbiqnnrbzwnzcckw=1
+
+i found the ""airbusnewhud.dll"" in add on module folder, i forgot this folder in my upload maybe this is the problem.
+Can send by email i you want and if it's ok you could re-upload all the folders on TBP, if you want."
+,suitretas,2011-10-14T19:17Z,"aaaaaaaaaaa almost there mates
+thank you two guys, for the effort.
+i just can't wait to fly this one"
+,pauldconnell,2011-10-14T19:18Z,"Anybody got
+Flight1 Instant Mission Maker for FSX please "
+,suitretas,2011-10-14T19:35Z,"hey... shushhh you...
+these guys are focused on other, more pressing, matters...
+like, getting wilco evo2 for fsx workinnnnnng
+:D"
+,saintamadas,2011-10-14T20:04Z,Thanks in advance Grandfred29 and Micky for your effort... Soon its the manufacturer who will be f**ked eventually. 
+,mickyfinny,2011-10-14T21:56Z,"Many,Many Thanx grandfred29,it would appear all is working now.Ive uploaded the fix.Well done sir."
+,suitretas,2011-10-14T22:32Z,"ohhh boy, if this works, i'll cry tears of JOYYYYY
+unto copy paste now :D"
+,suitretas,2011-10-15T01:31Z,"@grandfred29
+wow...
+thanks to you and mickyfinny, it works great.
+:D"
+,osdmis,2011-10-15T10:59Z,Many thanks to Mr.grandfred29 and Mr.mickyfinny!!
+,saintamadas,2011-10-15T12:34Z,"The zeal to succeed by the duo of Micky the generous and grandfred29 is summed up in the words of Graham Bell,"" what this power is i cannot say. All i know is that it exist..."". Thank brethren! You are indeed highly blessed and favored."
+,Romes121,2011-10-15T21:42Z,"Sorry fellas, but I really am a complete noob (amongst other things!) at this! Where to all the files/folders go before I edit them.....at least, it looks like I need to edit them! Thanks in advance guys for your help and patience!"
+,grandfred29,2011-10-16T11:55Z,"@Romes121: 
+
+
+You should download that:
+
+http://thepiratebay.org/torrent/6744442/FSX_Wilco_Evolution_vol_2_fix
+
+I think Mickyfinny explained how to install these folders."
+,Romes121,2011-10-16T23:08Z,"Yeah I did that grandfred28....ant the RIP...and your original upload.....no readme's in any of them! And I can't see for the life of me, any mention of where the files/folders go within any of the posts! If anyone can help then I thank you in advance!"
+,grandfred29,2011-10-17T06:28Z,"@Romes121:
+
+feelthere and uninstall.exe in fsx root, all include in gauge folder in gauge fsx folder, all feelthere pic in fsx simobject... airplane  and the fix upload by Mickyfinny in add on modules, create this folder if it doesn't exit in fsx. That's all"
+,Romes121,2011-10-17T11:10Z,Fantastic! Thank you so much grandfred! All sorted now!
+,cacar0023,2011-11-23T18:58Z,"please somebody help me, i tried downloading the evo2 installer but didnt workd. 
+then i did all those steps, downloaded 1g then merged with the rip then installed the fix and the last airac(1112). ok
+i load the aircraft it asks if i want to run the dlls and theres just the pilot sitting in his seat but nothing else. the aircraft sistems are working, efis mcs fms and such but no texture at all, exterior nor vc. just the black squares with info some analog gauges but thats it. what i do?"

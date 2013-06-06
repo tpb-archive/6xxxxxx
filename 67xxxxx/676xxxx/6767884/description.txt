@@ -1,0 +1,79 @@
+[b]
+ 
+ 
+ 
+ [img]http://cache.filehippo.com/img/ex/717__google_earth.png[/img]
+ 
+ 
+ Âº General. Âº
+Title:	 Google Earth 6.1 
+File size:	16.31 MB
+Gene: Application
+Platform: Windows
+ Windows XP / 2003 / Vista / Windows7 / XP64 / Vista [32&64] / 
+ Windows7 [64&32]
+Format: .exe
+Uploader: RedDragon
+Released Date: October 22, 2011
+Languages: 25+ Multi Languages. 
+
+ Âº Description Âº
+ 
+Google Earth lets you fly anywhere on Earth to view satellite imagery, maps, terrain, 
+3D buildings, from galaxies in outer space to the canyons of the ocean. You can explore 
+rich geographical content, save your toured places, and share with others.
+Google Earth's features include:
+See global changes with decades of historic imagery
+If you've ever wondered how your neighborhood has changed throughout time, Google Earth 
+now gives you access to the past. With a simple click, check out suburban sprawl, 
+melting ice caps, coastal erosion, and more.
+Dive beneath the surface of the ocean
+In the new ocean layer, you can plunge all the way to the floor of the sea, view 
+exclusive content from partners like BBC and National Geographic, and explore 3D 
+shipwrecks like the Titanic.
+Track and share your paths with others
+Take placemarks a step further and record a free-form tour in Google Earth. Simply 
+turn on the touring feature, press record, and see the world. You can even add a 
+soundtrack or narration to personalize the journey..
+
+ Âº Technical Âº
+ 
+Title:	 Google Earth 6.1.0.5001
+Filename:	GoogleEarthWin.exe
+File size:	16.31MB (17,104,112 bytes)
+Requirements:	Windows 2000 / XP / 2003 / Vista / Windows7 / XP64 / Vista64 / 
+ Windows7 64
+Languages:	Multiple languages
+License:	Freeware
+Date added:	October 22, 2011
+ Âº Log Fixtures Âº
+# Fixed bugs and product changes:
+* To conform more closely with the OGC KML 2.2 standard, we've made the parsing of the 
+ tag more strict in version 6.1. Spaces must only be used to separate the 
+(longitude,latitude,altitude) triplets which specify the coordinates of a single point.
+ It is invalid to add spaces between individual coordinates. We understand that previous
+ versions of the client were more lenient, so if your KML files contain spaces beween 
+coordinates in coordinate triplets, an easy workaround is to remove all whitespace 
+located immediately before or after commas inside a  tag.
+* Several performance improvements that would allow smoother experience in specific 
+computer configurations.
+* Fixed 'Restrict to View' functionality during a shapefile import in Google Earth Pro.
+* Fixed an issue where Google Earth would sometimes save incorrect ordering of 
+elements in KML.
+* Added field of view recording to tours and ability to play back those changes.
+* Fixed an issue where the icon heading did not work in Google Earth API.
+* Changes to reduce occurrences of missing desktop icon and shortcut menu items on 
+an update.
+* Sped up overlay polygon rendering in OpenGL mode.
+* Fixed loading of kmz files when the first file at the root level was image file.
+* Upgraded GDAL support to 1.7.0 and fixed issues with importing .tab files in Google 
+Earth Pro.
+* Fixed the discrepancy caused in measurements due to multiple radii of Earth used 
+inside Google Earth.
+* Fixed an issue where placemarks created with UTM coordinates did not move when 
+edited.
+* Fixed an issue when screen overlays disappeared in a print-out
+====================================================================================
+SEED AFTER DOWNLOAD.
+
+[/B]

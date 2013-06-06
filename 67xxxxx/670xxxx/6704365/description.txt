@@ -1,0 +1,16 @@
+The new Iron 14 contains all features and updates known from Chromim 14. The current version is 14.0.850.0.
+
+Main improvements:
+- many security fixes
+- improved Performance
+- Web Audio API
+- Native Client (see bewlow)
+
+Theoretically "Native Client" (the ability to run compiled code in the browser) is integrated in the Chromium 14 package. Even if you get asked if you want to run code and the queries are running in a sandbox, there are still serious concerns (http://en.wikipedia.org/wiki/Google_Native_Client#Controversies) in terms of security and privacy. Therefore we want to integrate this technology not yet firmly in Iron, pending the first practice reports. Anyone who wants to test it anyway can download the needed files (http://srware.net/downloads/nacl.zip) and unzip them to the Iron folder.
+
+
+Download Installer: 
+http://www.srware.net/downloads/srware_iron.exe
+
+Download Portable: 
+http://www.srware.net/downloads/IronPortable.zip

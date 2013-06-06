@@ -1,0 +1,16 @@
+Features
+
+ Maintenance (system rescue Live CD)
+ Multimedia (e.g., playing video DVDs)
+ Miniserver (using the inetd daemon)
+ Mystery (console games)
+
+15 Oct 2011 01:48
+Changes: This is an updated version of 4MLinux-2.3-server-edition, using 4MLinux-3.0 as a core system. The servers controlled by the inetd daemon are: FTP, HTTP, SFTP, SSH, and telnet.... A proxy server (Polipo 1.0.4.1) and JAP (Java Anon Proxy 00.16.001) are also available. The programming environment includes the CGI version of PHP 5.3.8, the minimal version of Perl 5.14.1, and SQLite 3.7.8. The main security components are 4MLinux Firewall (based on iptables 1.4.12.1) and F-Prot Antivirus 
+http://freshmeat.net/projects/4mlinux/releases
+ 
+http://4mlinux.com/news.html 
+http://4mlinux.com/donate.html
+
+sha1sum : 9fcfc956ebe9176d19bffb50721f6396549c8ace  4MLinux-3.0-server-edition.iso
+md5sum : dca08f36b0461a86a12f7b7641bbfeb4  4MLinux-3.0-server-edition.iso

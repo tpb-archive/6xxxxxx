@@ -1,0 +1,20 @@
+This is the Froyo.zip file used in the process to flash an LG Ally to Velocity 1.1.  It downloaded super slow for me from the only working link, so I thought I'd share it here. 
+
+Instructions here: 
+http://androidforums.com/ally-all-things-root/263285-guide-froyo-2-2-1-root-users-updated-3-3-2011-3-40-pm-est-now-easier-than-ever.html
+
+If you don't know what this is, you probably don't need it.  Another fairly large download of the actual velocity 1.1 rom is needed, but it downloaded faster for me, and is linked to here: 
+http://androidforums.com/ally-all-things-root/327926-velocity-1-1-upgrade-procedure.html
+
+***Notice***
+For the record, I followed the instruction at the velocity 1.1 upgrade procedure twice.  Once, I followed all instructions...the second time, I did the following:
+
+-rooted with super-one-click
+-installed clockwork rom manager
+-flashed recovery
+-downloaded velocity 1.1 rom and copied to SD card (may need instruction at top link or LG drivers to access phone?)
+-restarted in recovery
+-cleared all user data (dalvik cache, user cache, full factory restore)
+-flash velocity 1.1
+-booted phone
+-updated scripts: Open the Velocity Toolkit, and choose Terminal Emulator. Type in "velocity" and hit enter.  Repeat 5 or so times.

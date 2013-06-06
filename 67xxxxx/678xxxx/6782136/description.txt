@@ -1,0 +1,29 @@
+What is it?
+
+- An OSX 10.6.7 Intel bootable disk image that can be copied to a 4 GB hard disk or Flash Drive. This is basically a lean and mean Snow Leopard OS X boot volume with all non-essential fluff deleted but the items deleted should NOT affect the performance or compatibility of the tools included. And I also basically turned off virtual memory swap files.
+
+- Special features of Snow Leo Pro include the flexibility of building up the stripped down OS X or customizing it to your heart's content, provided you have enough free space on the volume. 
+
+- The ability to install future 10.6.x updates, install additional 10.6 add-ons like fonts, languages, printers , developer tools, etc. and add your own tools or update the existing ones easily!
+
+- Snow Leo Pro has also gone above and beyond what Apple did to make the OS X pure Intel only. I manually removed the PPC coding from dozens of 10.6 OS X components and from all the applications as well both Apple's along with the 3rd party ones.
+
+- Snow Leo Pro is also taking advantage of 10.6's "HFS+ Compression" feature by using this on-the-fly compression on any and all allowable files and folders on Snow Leo Pro.
+
+- Snow Leo 911 Pro is under 3 gigabytes (viewed on 10.6.x) to help try and squeeze it onto most 4GB Flash Drives. Which should still leave plenty of room for cache files !
+
+- Snow Leo Pro has the latest Apple OS X components and critical OS related updates.
+
+- All of the software should be fully working and registered. With the exceptions iDefrag and iPartition.
+
+- To license iPartition you will find a file called iPartition3.licenseKey on the root directory of Snow Leo 911 Pro
+
+To license iDefrag you will use a special application which is basically a stand-alone Applescript applet I provided in the root directory. Run the iDefrag Residual File Cleaner v1.0.app then reboot back to Snow Leo Pro and launch iDefrag to create a fresh license file automatically. The special cleaning app will change the date to July 1 2010, remove a bunch of temp and cache files that iDefrag uses to monitor the date with to allow it to be licensed again. Make sure to set your date back to normal once you have created a licence file. â€¢â€¢â€¢ Please note that I have forcefully changed every single file on SLP to match July 1 2010 because this application will check many files and folders for this date stamp and it will not license itself without it â€¢â€¢â€¢
+
+- The very first time you boot from Snow Leo Pro it will be a little slower than normal because it has to create all new caches and temp files. The next time you boot after that it , it should be much faster starting up.
+
+- This only comes in ENGLISH but if you copied this disk image to a large enough drive you can use the newest 10.6.x combo updater or 10.6 installer DVD to add additional languages and pick your own.
+
+- Little Snitch version 2.2.5 was installed and it may ask you to revert to default rules as a security warning the first time you start up after Snow Leo Pro was restored to a volume. Just ignore the warning and use it with the rules I pre-made.
+
+- Safari has a special bookmarks menu called Mac Help with links to many helpful sites. Bookmarks and idea courtesy of Lurker @ MSJ.

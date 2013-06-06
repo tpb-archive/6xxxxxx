@@ -1,0 +1,50 @@
+FOR TESTING
+Illume OS is a full-featured operating system designed for everyone. You could use it on desktops, notebooks, netbooks, servers, you name it. It can be used in homes, schools, offices, etc. Thanks to the rock-solid and flexible Linux kernel, illume OS won't skip a heartbeat when running it on old hardware or even low-powered computers. It's completely virus-free and crashing would be a thing of the past. illume OS's desktop was designed to be easy enough for even a 5 year old to use.
+For such an amazing operating system, you won't have to pay a single cent. It's 100% free. You won't have to worry about buying licenses for all your machines. All you have to do is come to this website and download a copy of illume OS. It's that simple.
+
+illume OS 1.0 preview 5
+
+After weeks and weeks of hard workâ€¦ Iâ€™m proud to announce that illume OS 1.0 preview 5 has been completedâ€¦ along with the new website! This release has the largest amount of changesâ€¦ ever. Hereâ€™s all the changes:
+
+    * Linux kernel 2.6.32-38
+    * Debian base 6.0.3
+    * NVidia graphics drivers
+    * Display drivers
+    * Network drivers
+    * Wireless drivers
+    * Printer drivers
+    * Touch screen drivers
+    * Firmware drivers
+    * Firmware loaders
+    * Better SAMBA support
+    * Better file system mounting over networks
+    * Printer auto-detection
+    * Mouse/pointing device configuration
+    * Plymouth start splash to hide ugly text stuff
+    * XDM Display Manager (login interface)
+    * Iceweasel replaces Iceape
+    * LXMusic replaces Exaile
+    * PCManFM replaces Thunar
+    * GIMP replaces Pinta
+    * GPicViewer replaces Xzgv
+    * Sakura replaces LXTerminal
+    * GNOME Network Manager
+    * Blueman Bluetooth Manager
+    * Better Adobe Flash support
+    * GTK Record My Desktop
+    * On-Screen keyboard
+    * New default IceWM theme
+    * Useless stuff removed
+
+Believe it or not, even with hundreds of new features or replaced features, the ISO image of Preview 5 is in fact lighter than the ISO image of Preview 4!
+This is the second last preview leading up to illume OS 1.0! Youâ€™re welcome to send some feedback to my email address specially made for this project - csiew.illume@gmail.com. Iâ€™ve already set to work on the next preview release, and itâ€™s pretty stunningâ€¦
+You can download the ISO image from here.
+
+P.S. - When booting up, youâ€™ll see a few things thatâ€™ll look like errors, but theyâ€™re really just showing up because some of the drivers bundled with the ISO are not for your hardware, so you wonâ€™t have to worry about it.
+About
+illume OS is an easy to use Linux-based operating system. Perfect for home and educational use.  
+http://illumenews.tumblr.com/post/12073364346
+
+So, you must be pretty adventurous to come over to this page, eh? Well this is like a Chemistry lab, where the wrong mixtures could result to an undesired reaction. I do have to warn you, these ISO images are not for the faint-of-heart. If you screw your hard disk up... well that's 'death' by misadventure.
+To login to illume OS, the user account name is 'root' while the password is 'pineapple'. If you've installed illume OS to a hard disk, you have the choice of making your own user account under your name and your own password via the Terminal using the command 'adduser'... or to go to the Package Manager and remove a package called 'xdm'.
+

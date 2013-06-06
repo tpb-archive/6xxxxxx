@@ -1,0 +1,28 @@
+CAMBIOS.txt
+
+11.10.20 "15-O indignados globales"
+=============================
+- Reparados bugs Exaile que no reproducia mp3, sonidos de Pidgin, y xconfigure que no encontraba kdm.
+- Agregados nuevos fondos de pantalla.
+- Cambiado estilo GTK a uno mÃ¡s convencional para mejorar colores en Firefox/Pidgin.
+11.10.19 "15O Indignados global"
+
+11.10.19 "15O Indignados global"
+=============================
+18 de Octubre de 2011
+
+- Linux Kernel 3.0.4 (con Multimedia, V4L, WiFi's full, reparado y optimizado)
+- Firefox 7.0.1
+- Removido completamente KDE, KDM, K3b, y demÃ¡s KDE*
+- Reemplazado por LXDE, SLIM, etc.
+- Agregado Wbar (barra estilo Mac).
+- Acomodado el menÃº de LXDE.
+- Se agrego estilo oscuro a GTK.
+- Adaptado script "master" posibilitando un calzador automatico con bootsplash para el nuevo Kernel 3.0.4.
+- Incluyendo generador initrd live y initrd para instalaciÃ³n.
+- Programado cron, limpia diariamente y kactualizar mensualmente . 
+http://www.albasol.info/index.php/foros/index.php?topic=117.0
+ 
+http://www.estrellaroja.info/
+
+md5: 994165262eadc7951ca3bd02b373aa4e  er11.10.20.iso

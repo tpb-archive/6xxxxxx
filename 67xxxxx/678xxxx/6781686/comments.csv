@@ -1,0 +1,82 @@
+User Type,Username,Date,Text
+,lolm8lolm8,2011-10-29T22:09Z,"Been waiting for this, thanks alot! :)"
+,RevelentDark,2011-10-30T01:28Z,Can anyone get the DLC to work?
+,klord2010,2011-10-30T02:52Z,game is unfinished massive let down so either give it a few weeks or forget it.
+,elturbo9077,2011-10-30T02:56Z,why the fuck is the update bigger than the game it self 
+,NanoEntity,2011-10-30T03:15Z,"so many bugs, and im confused in the game, so many damn menus I don't know how to play this.
+
+They made this game too complicated, i expected homeworld or sins of solar empire style game, but no its turn based, and I just dont know wtf am i doing."
+,elturbo9077,2011-10-30T03:23Z,nevermind 
+[T],alexisthebest,2011-10-30T03:33Z,"Yea, i've been hearing alot that the game is...bad lol
+
+@elturbo9077
+
+it's an update + a DLC
+but yea, the file size is huge"
+,Necroclysm,2011-10-30T04:23Z,"It is bigger than ""the original game"" because it really is not an update.
+They released an incorrect version to Steam for distribution and when they fixed it, it basically patched instead of forcing people to redownload assets.
+
+Thus they made this release the same way instead of repackaging everything(which may not even work correctly).
+
+Just download the original(get the one by Murlok on TPB) and then both of the uploads Alex put up(which are linked in the comments on Murlok's upload)."
+,Culnarion,2011-10-30T10:53Z,"It wasn't released in beta mode, thats just a rumor. The devs, Kerebos Studious, have been in financial difficulty. They've been releasing staff all year. Now its down to a bunch of people with no life slaving in the office while they try to keep the company afloat. Please try the game, then buy it!"
+,klord2010,2011-10-30T12:07Z,"it WAS beta. while you are busy spreading false info, dev and publisher already admitted it and apologized it.
+
+i heard being ignorant and retard is good for your own health. keep it up."
+,saginatio,2011-10-30T13:31Z,"@alex, @murloc: Thanks for uploading!
+
+Still I have serious problem with this release:( Game crashes at the end of first turn, at saving a ship design and couple of more crucial points. Here is the crash log:
+
+SW 10/30/2011 13:21:52 [] Kerberos.Sots.Steam.SteamAPIException: GetAchievement failed.
+   at Kerberos.Sots.Steam.SteamAPI.GetAchievement(String name)
+   at Kerberos.Sots.Steam.AchievementHelper.DoAchievement(AchievementType cheevo)
+   at Kerberos.Sots.Strategy.GameSession.BuildAtSystem(Int32 SystemId, Int32 playerId)
+   at Kerberos.Sots.Strategy.GameSession.Phase6_EndOfTurnBookKeeping()
+   at Kerberos.Sots.Strategy.GameSession.NextTurn()
+   at Kerberos.Sots.Strategy.GameSession.Phase4_Combat()
+   at Kerberos.Sots.Strategy.GameSession.Phase3_ReactionMovement()
+   at Kerberos.Sots.GameStates.StarMapState.EndTurn()
+   at Kerberos.Sots.GameStates.StarMapState.UIHandleCoreBehaviour(String panelName, String msgType, String[] msgParams)
+   at Kerberos.Sots.GameStates.StarMapState.UICommChannel_OnPanelMessage(String panelName, String msgType, String[] msgParams)
+   at Kerberos.Sots.Engine.UIEventPanelMessage.Invoke(String panelName, String msgType, String[] msgParams)
+   at Kerberos.Sots.Engine.UICommChannel.ProcessEngineMessage(String engMsg)
+   at Kerberos.Sots.Engine.UICommChannel.Update()
+   at Kerberos.Sots.App.Update()"
+,tantraic,2011-10-30T21:46Z,Hi Alex and thanks for the upload.  I get an error whenever I try to build modules on my civilian trade hub.  It says that the script contains no matching element or something to that effect and then crashes.  I also have the no options problem and the audio cuts out.  If anyone figures out these problems please post solutions here.
+,sbseed,2011-10-31T16:16Z,"errors every time i try to update the game... anyone else running into the replacement errors?
+
+i would suggest making a repack of the entire game including all the updates etc. to hopefully avoid these kinds of issues."
+,FalconGrey,2011-10-31T22:50Z,"A third update is out as of 3:30EST. It fixes more of the addressed issues and crashes and adds more content and tool tips.
+
+http://forum.paradoxplaza.com/forum/showthread.php?567753-Official-info-IV-%28Monday-Oct-31%29&s=653e505ba09da6c247a37a6341ff851e
+
+Plays better with it and Paradox/Kerberos will always work hard to make things right.
+
+Remember, if you like this game to buy it. The Kerberos team (Roughly 5 people with the vacancies) is well worth it and will add more things (many free) and support the game for years to come."
+,bigmega1uk,2011-11-02T18:18Z,"work around for unpack errors that worked for me
+
+use winrar/7zip 
+create folder for unpack (mine was s.o.t.s.2 unpack update 1)
+unpack file 1-40 only into created folder
+then unpack sotsu1 into same folder
+install file
+
+hope this helps"
+,Wislas69,2011-12-11T22:46Z,"i installed the game on windows 7 x64 and i am getting this error at the log file...i am thinking its got to do something with the steam update...anyway i can fix this?
+
+ST 12/11/2011 17:44:26 [] Preparing game state Kerberos.Sots.GameStates.SplashState for transition from nothing.
+ST 12/11/2011 17:44:27 [] Entering game state Kerberos.Sots.GameStates.SplashState.
+SW 12/11/2011 17:44:35 [] Steam not available.
+ST 12/11/2011 17:44:35 [steam] DLC content available:
+ST 12/11/2011 17:44:35 [steam] End.
+ST 12/11/2011 17:44:36 [] Preparing game state Kerberos.Sots.GameStates.MainMenuState for transition from Kerberos.Sots.GameStates.SplashState.
+ST 12/11/2011 17:44:37 [] Exiting game state Kerberos.Sots.GameStates.MainMenuState.
+SW 12/11/2011 17:44:37 [] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kerberos.Sots.GameStates.MainMenuScene.Exit()
+   at Kerberos.Sots.GameStates.MainMenuState.OnExit(GameState prev, ExitReason reason)
+   at Kerberos.Sots.GameState.Exit(GameState next, ExitReason reason)
+   at Kerberos.Sots.GameStateMachine.PrepareGameStateCore(GameState value, Object[] parms)
+   at Kerberos.Sots.GameStateMachine.SwitchGameState(GameState value, Object[] parms)
+   at Kerberos.Sots.GameStateMachine.Update()
+   at Kerberos.Sots.App.Update()"
+,delvorice,2012-05-20T23:39Z,do you have the new release? r21284b

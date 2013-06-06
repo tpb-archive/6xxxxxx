@@ -1,0 +1,23 @@
+User Type,Username,Date,Text
+,michigan.metal,2011-11-13T05:30Z,"If you have problems with applying the patch, it just requires a little quickness. 
+
+End Running Daemon Tools Processes: 
+
+1. The easy part is ending the Daemon Tools Agent Process (DTAgent.exe).
+
+Also: You may find that your system has a hold on the DT Gadget and : To fix this, you should download the program called ""Unlocker"" and right click that to ""unlock"" the process associated with the gadget (which is the thing on your sidebar that has all your virtual drives displayed
+
+2. But then, what is tricky is ending the process that is running the daemon tools shell extension (DTShellHlp.exe), which should be the only process running when daemon tools is closed. The reason you cannot apply the patch is due to the fact that this process is automatically restarted (probably due to that fact that it is part of the shell menu). To get around this, you need to follow all the instructions, but when you get to actually applying the crack, you need to do this in order for it to work:
+
+
+Open task manager, find DTShellHlp.exe and press END PROCESS but do NOT CONFIRM ending the process.
+
+Then, open up the crack, and drag the confirmation box from task manager so where the confirmation button to end the process (end process"") is right over there the patch button for the crack is. You only have fractions of a second to hit the patch button after hitting the end process confirmation before the DTShellHlp.exe restarts. Failure to do so will result in a failure for the patch to be applied.
+
+Done!
+
+Also, after doing this, if you find that your Daemon tools Gadget (the sidebar thing with the virtual tools) will not start, just go to your install folder and double click on DT.gadget and okay the confirmation messages.
+
+Of course, you could always just find a program that will temporarily disable the shell extension ;) lol. I'm betting that would solve the problem easier. But I have not tried that, so I do not know for a fact if that works, though in theory it should stop the shell extension process from restarting.
+
+I admit was a little stubborn in just going ahead and doing it the cheaters way, but it ended up working! If you encounter continued problems, I suggest doing a clean install after each failure; Uninstalling DT Pro and deleting all the files inside the program files folders (and if you have other Daemon Tools folders, you might as well do that too provided you've uninstalled them too."

@@ -1,0 +1,22 @@
+**This is the patched 1442 Version**
+
+Uploading a patched version due to a bug that was ending the playback in an abnormal way.
+Please download and install again.
+
+[build 1442]
+Updated items:
+
+Ver 1442 Update List
+- Add RTMP Source Filter.
+- Add RTSP Source Filter.
+- Add internal video codec(Intel's GPU)
+- RealMedia File Parser improvement and video sync error modification
+- File playback lagging bug modification
+- Fixed M2TS Source Filter error.
+- Fixed multi-channel audio noise bug error.
+- Changed Internal Video Decoder for GUI Preference setting
+
+Homepage: http://www.kmplayer.com/forums/showthread.php?t=20794
+
+
+NOTE: Be careful and DECLINE the installation of the AskToolbar at the end of the player's setup - if you don't want toolbars, that is.

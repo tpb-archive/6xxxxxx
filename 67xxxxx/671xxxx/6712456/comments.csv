@@ -1,0 +1,69 @@
+User Type,Username,Date,Text
+,press2010,2011-09-30T22:35Z,If my notebook does not support hardware virtualization can I still run this in VMware? TIA.
+,SoulUploader,2011-10-01T09:27Z,"@press2010 Yes, there's a way around that included in the tutorial video, but you'd need v7.1.3 or 7.1.4 of VMware, and not the newest one (yet)"
+,press2010,2011-10-01T16:09Z,">@press2010 Yes, there's a way around that included in the tutorial video, but you'd need v7.1.3 or 7.1.4 of VMware, and not the newest one (yet) <
+
+Thanks for the info. I have VMWare Workstation 7.1.3 so I will give it a go."
+,per95,2011-10-03T16:21Z,"I have trouble starting it, when I try to be a box up that says ""Mac OS X is not supported with software virtualization. To Run Mac OS X, you need a host on Which VMware Workstation Supports hardware virtualization."" Does anyone know what the problem is? excuse my bad english!"
+,charlene17,2011-10-04T01:52Z,"@per95
+That means that you need a better cpu, one  that handle hardware virtualization. You can check yours with this software from GRC:
+http://www.grc.com/securable.htm"
+,per95,2011-10-04T15:34Z,"okay, do you know what I need for hardware to run it?"
+,JJReed2,2011-10-05T01:22Z,"Two questions:
+
+1. Does this work with WinXP as the host?  I have XP Pro running on a dual-core AMD processor that says it does hardware virtualization according to grc.com.  I run tons of VirtualBox VMs on it.  I followed your video instructions to the ""T"" for VMWare Workstation 8, but I get the error that says my hardware won't work when the VM is started.  BTW, there is no ""disable UAC"" for XP, only Vista & Win7.
+
+2. Will this run in VirtualBox?"
+,johnhatten,2011-10-05T21:25Z,This downloaded as an executable that was checked and showed a password stealer trojan Win32/Prast!rts as being included.  I'll try another version.
+,WotWorx,2011-10-06T06:13Z,"For those running AMD, you won't have much success, I have tried it on a number of machines and it looks like Lion (and other OS versions) can only be installed on an Intel based machine, unless someone has a solution that does work."
+,kristopher_1,2011-10-06T16:23Z,I need some help I am a pc user and I was just given a Mac Book a1181 laptop but someone has erased hard drive and installed Win 7 on this machine I would like to put OS X back on this computer. Is it possible to download OS X on a windows machine and do full install on this laptop? Someone please help....Kristopher_1@live.com
+,SoulUploader,2011-10-06T19:45Z,"@John Yeah, one of the hardware patches is detected as a virus, but it's just because of the way it's constructed and what it was built with, it's a false report"
+,kristopher_1,2011-10-07T05:56Z,Hey Soul how about helping me out  can you tell me if there is a way from a windows 7 computer I can burn a OS X disc for full install on a mac book. I will check back here or email me if you will at Kristopher_1@live.com 
+,yashaka71107,2011-10-07T10:05Z,"why you people tryin so hard to run Mac OS X on ur pc, lol, u really need that bad go buy a real 1 not this fake 1 :)"
+,kristopher_1,2011-10-07T16:42Z,I'm not tring to run OS X on a pc I'm trying to reload on a Mac Book a1181 and the only computers I have available are Windows 7 systems
+,rtudd87,2011-10-10T19:49Z,This release did not work for me on VirtualBox/AMD64. The previous release of Snow Leopard ( http://thepiratebay.org/torrent/6589590/Mac_OS_X_Snow_Leopard_10.6.8_VMware_Image_%5BUltimate_Final_Build%5D ) did boot using the included EmpireEFI4AMD.iso. But Lion does not. Maybe it needs an updated boot loader.
+,nigh7ang3l,2011-10-14T13:36Z,"Why the right click disables after a certain running time ? First time i thought it was because of updating the iTunes at the latest version, second time i used the original mac os lion vmx image and after i installed the yahoo messenger, the right click button disabled. Is there a bug, a fix or i'm doing something wrong? In the ""install after boot"" folder i found a vmmouse package, there were 2 ""drivers"", but none of them could be selected (grey selection box).  "
+,SuXuS,2011-10-14T15:27Z,"@press2010 Actually, if your computer doesn't support hardware virtualization, you can't run any OS on a VM."
+,supanut2000,2011-10-17T14:04Z,"SEEED SEEDSEEDSEED SEEED SEEDSEEDSEED...SEEDSEEDSEED...SEEDSEEDSEED...ONLY 2KB/S...HOLY CRAP...COME-ON GUYS, SEED!"
+,jack_mustang,2011-10-19T19:18Z,"I've updated to 1.7.2 and now it's not working anymore, anyone else have this problem?"
+,Boss1996,2011-10-20T19:43Z,Lots of seeders but only seems to be good up to 50% as my speed before was 350 to 400 Kb/s which is the fastest my internet can go really but just after 50% my speed drops to 15 to 25 Kb/s so I need people to seed please. Thanks
+,detoor,2011-10-22T12:09Z,"Why this stuff does not load on windows 7? anybody? I see apple boot screen, but that's it. nothing more...
+I have virtualization enabled, using vmware workstation 8."
+,YONITED,2011-10-22T19:26Z,@detoor +2 same problem any help ?!
+,tonio09,2011-10-23T12:23Z,Does this image have INTERNET CONNECTION?
+,surigashi,2011-10-23T18:03Z,"Thanks Souluploader for the 10.7.1,is there any chance of uploading 10.7.2 so I can use iCloud.I tried to upgrade from 10.7.1 to 10.7.2 but i cannot update through.........Please Please Please"
+,tonio09,2011-10-24T07:21Z,@detoor +3 same problem any help ?!
+,tonio09,2011-10-24T09:35Z,"@detoor solved it. Need to install workstation 7.1.4 from torrent, then run Unlocker for Windows before running the vm."
+,sakkraya,2011-10-25T03:50Z,"jack, i've also upgraded to 1.7.2 and it's no longer working.
+Any help is greatly appreciated!
+
+"
+,xdfsx,2011-10-25T23:18Z,"If you guys get an Error or it will only halt at the Apple logo, on the VMware options click edit Machine and then click the CPU tab. Then look underneath the numbers of CPU and click the box that says ""Disable Acceleration for binary Translation"" Hope that helps."
+,moosy2,2011-10-26T04:38Z,@ kristopher_1 try to burn using TRANSMAC software  and the link is http://thepiratebay.org/search/transmac/0/2/0
+,moosy2,2011-10-26T04:39Z,will i be able to use mac os on my pc..?? pls any one help me ... thnks in advance..!!!
+,MunkieMan,2011-11-07T17:56Z,Is there anyway to get more graphics capabilities to the VM? Moving windows is quite slow.
+,bstraat,2011-11-17T23:29Z,"I have installed vmware workstation 8 and followed the instruction but i only get a gray image with a apple and nothing happens. 
+when i had 10.6.8 installed in vmware i get the same image but after a while it opened.
+
+what did i do wrong??
+
+Please help I need 10.7 "
+,bstraat,2011-11-17T23:29Z,by the way thanks for the torrent great speed 
+,riahc3,2011-12-05T00:26Z,Both this torrent and the 10.7.2 ones get stuck at 99.9% percent. Damn leechers.
+,riahc3,2011-12-05T00:27Z,And speed is horrible. Dont know what you are talking about....
+,hihahu1,2012-02-26T08:04Z,"pls help ...
+ i didnât touch the setting but this poped up.
+
+You have configured this virtual machine to use a 64-bit guest operating system. However, 64-bit operation is not possible. This host does not support longmode.
+For more detailed information, see xxxxxxxxxxxxxxxxxxxx
+
+Continue without 64-bit support?
+
+i click yes and it shows black.
+click no and it shutoff.
+and when iclick yes 
+black screen appears 
+thanx in advance
+"
+,hihahu1,2012-02-26T15:28Z,please specify how to use your x86 support
+,Bubo-Kurse,2012-05-06T13:33Z,"The tutorial video is private, how can i watch it?"

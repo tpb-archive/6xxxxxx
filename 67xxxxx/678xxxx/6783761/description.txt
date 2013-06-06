@@ -1,0 +1,16 @@
+Modified inf file if you are having problems installing your F710 in XInput Mode.
+
+ONLY TESTED ON WINDOWS XP 32-BIT.  SHOULD WORK ON ALL 32-BIT VERSIONS AS THE XBOX CONTROLLER SOFTWARE IS FOR ALL 32-BIT VERSIONS
+
+
+Install Xox360_32Eng.exe
+
+In installation directory of the above, swap the inf file (Xusb21.inf) with the one in the archive
+
+Update driver of device (when set to XInput mode) from device manager, point to the new inf.
+
+Select the right controller.
+
+Done.
+
+The problems seemed to be caused by the controller having a different Hardware ID than a real xbox controller, and hence not being recognised.

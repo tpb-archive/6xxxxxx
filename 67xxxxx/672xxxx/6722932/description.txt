@@ -1,0 +1,90 @@
+Official Web Site:  http://macitbetter.com/
+
+BetterZip lets you quickly inspect archives without first extracting their contents.
+
+* Extract Only Files You Really Need: If you only need a few files or
+  folders from a larger archive, you don't have to extract the whole thing.
+  Simply drag the files you need from the BetterZip window to any Finder
+  window or the desktop.
+
+* Open Archives Without Extracting: Not only can BetterZip open
+  archives without first extracting them but you can also search for a file
+  using the iTunes-like interface. BetterZip can open and extract archives 
+  with the most common formats: ZIP, SIT, TAR, XAR, GZip, BZip2,
+  RAR, 7-Zip, CPIO, ARJ, LZH/LHA, JAR, WAR, CAB, ISO, CHM,
+  RPM, DEB, NSIS, BIN, HQX.
+
+* Create Archives: Simply drag files and folders from your hard drives, 
+  disks, or network places into your new zip file. You no longer have to
+  copy all the files into a temporary folder first. The supported formats are
+  ZIP, TAR, GZip and BZip2 compressed TAR, XAR, 7-ZIP, and RAR
+  (using the external RAR commandline tool). Large archives can also be
+  split.
+
+* Protect Your Data: BetterZip can protect your data with a password and
+  create WinZip compatible AES-256 encrypted archives. 7-zip and rar
+  archives can also be protected.
+
+* Update Archives: Add new or updated files to existing archives.
+  Remove any file or folder from an archive, or even move files around
+  inside the archive as if it were a normal folder.
+
+* Make Archives Compatible: Strip Mac specific files and resource forks
+  from archives for best compatibility with systems like Windows or
+  Linux.
+
+What's New
+
+New Features
+
+* Using the service 'Extract with BetterZip' you can now extract all
+  archives in a folder hierarchy.
+
+* If files are selected in the archive window, presets now only extract 
+  those instead of all files. Hold down Shift to extract all anyway.
+
+* Enhanced 'replace existing files' dialog: it now allows to merge extracted
+  items into existing folders, keep both versions or replace the existing
+  version with the one from the archive.
+
+Enhancements
+
+* Enhanced accessibility.
+
+* Improved SIT file handling.
+
+* The favorites sidebar is now populated in the background and there is
+  no longer a delay when starting BetterZip.
+
+* Re-added 'Terminate after last window closed' option.
+
+* Enabled the additional parameters field for tar archives.
+
+* Holding down the option key now shows a save panel even for services
+  or direct extraction.
+
+* The location preset in the save panel is now by default next to original
+ /archive.
+
+Bug Fixes
+
+* Split size is now base 10 (1MB = 1,000,000 Bytes) like the rest of the
+  application.
+
+* Search field was invisible on Mac OS X 10.6 under certain conditions.
+
+* The English help was replaced by the French help.
+
+* Fixed the update mechanism. It will work again from now on.
+
+* Fixed a possible crash when creating previews.
+
+* Extracting all archives in a folder didn't work under certain conditions.
+
+* Some strings were not correctly translated in the French localization.
+
+System Requirements:
+
+Intel Mac OS version: Mac OS X 10.6 or later
+
+--- PLEASE SEED ---

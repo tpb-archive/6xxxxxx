@@ -1,0 +1,41 @@
+Kaspersky Trial Reset (KTR2012_v1.1) Supported Versions
+
+	-Kaspersky AV/IS 2012 v12.0.0.374 
+	-Kaspersky PURE v9.1.0.124
+
+
+
+  How To Install....
+
+1. Install Kaspersky Internet Security 2012. If Kaspersky is installed
+   and expired/not expired, Go to step 2. 
+
+2. Disable Kaspersky Self-Defense from options (Use Snap shoot if you unable do it) and exit Kaspersky from
+   the Kaspersky system tray icon at the bottom of the right corner.
+
+3. Run "KTR2012_v1.1.exe" as an adminstrator and click on 
+   the "Reset" button.
+
+4. Wait for Kaspersky to launch and activate your trial period.
+   Your computer will have to reboot when you reset Kaspersky IS 2012.
+
+5. After the installation, make sure that you enable Kaspersky
+   Self-Defense if it's not automatically enabled again.
+
+6. OPTIONAL: Configurate your KIS 2012 settings and do a 
+   full system scan.
+
+
+
+ Should be Noted....
+
+1. If the trial reset is detected by Kaspersky and removed, add it to 
+   the excclusions list of real time protection and auto scan.
+
+   You might have to temporarily disable real-time protection and auto scan
+   while doing so. The removed trial reset can be restored from Quarantine 
+   or History.
+
+2. This trial reset may/may not work with further updates.
+		
+3. No need to uninstall the trial reset as there is nothing installed.

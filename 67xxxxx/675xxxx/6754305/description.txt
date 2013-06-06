@@ -1,0 +1,79 @@
+very very newest catalyst 11.10 preview 3 in complete driver package
+for XP both version only !!!
+
+This a revised-updated version of preview 2 for Rage,again and again...
+
+Drivers are dated from : october 16
+OGL version has been updated all especially for Rage game.
+The rest seems exactly untouched since preview 2 release.
+
+No official page yet for this very newest driver as well as release note or changelog but we just know they have been updated again for Rage only anyway.
+May be few other small bugs also...
+
+CCC interface is the same like preview 2 version anyway.
+
+learn more below :
+
+Advanced Micro Devices already released a couple of previews of its upcoming driver, but this didn't stop it from launching a third one, the Catalyst Display Driver 11.10 Preview 3 as it were. 
+
+The new driver package from the Sunnyvale, California-based company probably enables some performance upgrades and visual fixes and refinements in several games. 
+
+Unfortunately, beyond minor speculation, as well as a reasonable likelihood of Battlefield 3 benefiting in terms of frame rates, no one can tell for sure what the driver is supposed to do. 
+
+The reason for this is how AMD did not actually provide the release notes, so everything is speculation at this point. 
+
+As the name of the package suggests, this is the third 11.10 preview driver that Advanced Micro Devices brought forward. 
+
+The first one was delivered about a couple of weeks ago and represented AMD's attempts to hastily give a fix for the problems in id Software's Rage shooter. 
+
+Then came the AMD Catalyst 11.10 Preview Driver Beta 2, which enabled some further fixes and enhancements. 
+
+Intermittent crashing during Rage level load was addressed, NPC flickering at range was supposedly resolved and automatic Vsync was enabled as well. 
+
+Nevertheless, not all graphics glitches were repaired, which means that the Sunnyvale, California-based corporation has some work to do still. 
+
+Of course, there is the possibility that this latest preview will finally make all problems go away, but the bigger possibility is that this dream will be fulfilled only when the complete Catalyst Display Driver 11.10 is released. 
+
+Two versions of the Preview 3 exist, for Windows XP and Windows Vista / 7, respectively.
+
+(Will up XP driver as well as another new leaked driver in few minuts...)
+
+Be patient,all will be available soon now ;)
+
+____________
+
+
+Now let's see few details from the inf :
+
+;-----------------------------------------------
+;----------1110171516-8.901.2-111016a-126967E-ATI.2
+;-----------------------------------------------
+; ATI Display Information file : ATIIXPAG.INF
+; Installation INF for the ATI display driver.
+; Copyright(C) 1998-2004 ATI Technologies Inc.
+; Windows XP
+; Base INF Last Updated 2005/11/01
+
+[Version]
+Signature="$Windows NT$"
+Provider=%ATI%
+ClassGUID={4D36E968-E325-11CE-BFC1-08002BE10318}
+Class=Display
+DriverVer=10/16/2011, 8.901.2.0000
+CatalogFile=CX126967.CAT
+
+
+same list of supported products like preview 2 release,indeed !
+See previous torrent for preview 2 release if you want to be sure.
+Few Mobility products are supported but not all !!!
+I will up a modded inf also for more Mobility products soon now.
+
+this driver is all especially recommended for HD 4000/5000/6000/7000 series
+but of course will work also for HD 2000/3000 series aswell.
+
+Please,Feel free to post your own feedbacks to let us know your personal thoughts
+and opinions about aswell,indeed.
+
+Enjoy and have fun
+
+regards		

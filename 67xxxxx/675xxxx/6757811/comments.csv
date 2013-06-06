@@ -1,0 +1,76 @@
+User Type,Username,Date,Text
+,jb0909,2011-10-22T07:30Z,"Thx 4 the upload mate. I have been on that Chinese site myself a month ago, but could not get files from there...But now I have been seeding this with you for 2 days.
+Is there a chance for a perpetual MP licence, lets say for the 4 core?
+I suggest you remove the licence info from the description coz it is easily google-able and Stata will block these licence soon, no doubt :)"
+,SloveniaX,2011-10-22T20:40Z,"ha, you'll have to ask the Chinese for that MP serial :) seriously, i'm sure someone's gonna post a perpetual MP license in the next two months, so I wouldn't worry about it - you should be fine till then. as for these codes, you can easily google them no matter whether they're here on TPB or on those chinese forums, so it would be rather pointless to remove them... plus you can always update your Stata offline. thanks for seeding, btw, much appreciated"
+,Digosar,2011-10-24T09:50Z,I appreciate for this splendid upload. Thank you very much. Everything works perfectly.
+,pg382,2011-10-26T20:21Z,many thanks! any chance of getting a stat transfer which would work on 64 bit Win 7 ?
+,SloveniaX,2011-10-26T22:47Z,32-bit StatTransfer 9 (found here: torrentz dot eu slash c1cf8057bcde87551cba4d3c386df2071bcd8a2e) works just fine on 64-bit Win7 Pro... seems there are no v10 or v11 floating around
+,pg382,2011-10-30T23:04Z,"Thanks, SloveniaX. But, I tried to install it a couple of times but got an installation failure notice from Windows after running the crack and also, the the software continued to be in the trial mode - it didn't convert a sample data file completely. There's no instruction available for using the crack. Would you know how to do it properly? Many thanks again!"
+,mandy5670,2011-11-09T08:14Z,"Even me too, appreciate for splendid upload. Thank you so much. Everything works perfectly. "
+,trabak,2011-11-24T10:28Z,"Thanks for this,
+
+any possibility to upload the oxmetrics 6.20 that exist on bbs.pinggu.org?"
+,SloveniaX,2011-12-08T03:22Z,"@pg382 Sorry mate, you must be doing something wrong, I just uninstalled and reinstalled my StatTransfer and it works just fine on Win64 Pro. Once you install the stdemo.exe file, run the license.exe file in the Crack folder and then choose THE BASE/ROOT(!!!) STATTRANSFER FOLDER (for me it was C:\Program Files (x86)\StatTransfer9). You want your LICENSE.DAT file to reside in it. If you're gonna go deeper in the folder structure (I had a folder Stat in the base folder and yet another folder Transfer 9.0 in the former), the license file will end up in the wrong location and the application will remain in trial mode. In the worst case, look for the LICENSE.DAT file and manually put it in the base folder, ok? Let us know if it works for you!
+
+@trabak Sorry, my suggestion is google translate + a lot of patience + some pinggu coins :) (I ran out of the latter)"
+,makani17,2011-12-11T12:47Z,"I think i found a perpetual license link: google, StataMP12C4.0901.rar, 2nd link. But i don't have 490 pingu coins (lol). Anybody have the license for the mp? I'm still seeding and many thanks to google translator. ;)"
+,jb0909,2011-12-13T09:29Z,aaa
+,jb0909,2011-12-14T10:53Z,"new cool links: 
+m-e-d-i-a-f-i-r-e
+/?f858lmiog24ife4"
+,jb0909,2011-12-17T19:46Z,"above link has the retail Win and Linux install (without new license though), Oxmetrics 6.20 and a surprise... :)
+feel free to make torrents out of them as I cant, sorry..."
+,s1r,2012-01-11T07:30Z,"jb0909 what chinese site would that be ? I've seen that reference a lot when I was looking for SAS and JMP before, can't find which one though."
+,SloveniaX,2012-01-20T10:40Z,"@makani17 sorry, I don't... :/
+
+@s1r it's bbs.pinggu.org, good luck navigating it if you don't understand Chinese :)
+
+and now most importanly, @jb0909 - man, that's fucking fantastic, I'll make torrents out of the stuff you uploaded and make sure you get the credit you deserve. that was a really fine job you did, thanks!!!!!! (and thanks for helping others out while I was hibernating, too)"
+,joltmajor,2012-01-21T21:52Z,http://dl.dbank.com/c0np3xxe5g does this work? (MPC4)
+,glacierpeak,2012-01-23T09:11Z,"MPC4 works for windows, no info for mac."
+,s1r,2012-01-23T21:28Z,"@SloveniaX: Thanks a lot !! I was hoping to get some of the Chinese colleagues i work with to help me with that. :)
+
+Any one have the license information for 2012 ? "
+,SloveniaX,2012-01-24T10:14Z,"@joltmajor and @glacierpeak - I've seen this before, but unfortunately this works only partially, i.e. it cannot be updated plus the license file seems to be missing a lot of crucial info, so it's not transferable to osx or linux platform... (actually, it's a miracle it even works in windows)
+
+@s1r all licenses except the MP still work..."
+,SloveniaX,2012-01-24T22:58Z,http://thepiratebay.org/torrent/6982310/Stata_12_(Windows__all_versions)_-_FULL_INSTALL
+,jb0909,2012-01-25T13:03Z,"hi guys, I think that MP is a hacked version. The codes seem incomplete/dodgy and a genuine exe would be over 30MB, not just 7. I think it's the best to stay away from it.
+2 Slovenia, thanks for the new uploads :)"
+,jb0909,2012-01-28T19:08Z,"guys, full OSX install (but without license) is here: 
+
+d*e*p*o*s*i*t*f*i*l*e*s*c*o*m/files/eo6h4jnen
+
+feel free make a new torrent again :)"
+,woooosa1,2012-01-29T01:51Z,"When I try to update the IC version, it says ""bad serial number."" Why is that?"
+,SloveniaX,2012-01-29T10:01Z,"@jb0909 hahaha dude, you're unbelievable!!!! :) (will do)
+
+@all some of you already correctly pointed out that automatic updates stopped working using the serial codes provided. you can STILL use these codes to initialize (start using) Stata, but it looks like automatic updating doesn't work anymore. Hey, it was good while it lasted - now we have to find a way around! To do so, just follow these steps:
+
+1. download appropriate updates from here: http://www.stata.com/support/updates/
+2. extract the zip archive
+3. type ""db update"" in Stata (once you've installed and initialized it) and then locate the extracted folder with updates
+4. presto, your stata is now (manually) updated
+
+although this will take you 2 minutes more than automatic updating I guess that's still better than nothing LOL"
+,s1r,2012-02-01T01:21Z,"@SloveniaX and jb0909
+
+Any chance of getting the unlimited license for STATA MP
+
+I figured for a multi core machine MP is optimized right, or do I have that all wrong ?"
+,SloveniaX,2012-02-09T03:04Z,"@s1r sorry, but if you look at other Stata12 torrents you'll see we still haven't managed to get our hands on it... (you can try getting one yourself from pinggu, btw)"
+,woooosa1,2012-02-09T06:41Z,"@SloveniaX Thanks so much for the help, but I ran into another problem. When I type in db update and select the extracted folder, it seems to work and I am able to click on ""Install available updates."" However, after I click on it, the following error message shows up, ""C:\Users\Name\Desktop\stata12update_win64\stata12update_win64\.\win\Stata.bin not found"" 
+
+Any ideas? Thanks so much in advance."
+,woooosa1,2012-02-09T06:47Z,"Actually I got it to work..
+I just used the 32 bit version instead of the 64. Thanks again!"
+,SloveniaX,2012-02-10T05:59Z,"@woooosa1 for some reason you need to have BOTH 32-bit AND(!) 64-bit update files on your computer if you wish to update EITHER the 32-bit or the 64-bit version. yeah, I know, that's strange... :) (but it works just fine - tested it 5min ago with both versions and I can confirm it works the way it always did)
+
+to be more specific - you need to extract both update archives, then move the contents of one inside the other folder (i.e. inside the folder where you extracted the other archive). don't worry about ado and docs folders being overwritten, they're 100% identical (verified with Beyond Compare!). then point stata to this common folder with the db update command"
+,cccp777,2012-04-08T04:06Z,"How do I update stata 12? The license SE is not accepted for update. When will issue a new license MP?
+Thank you!"
+,cccp777,2012-04-08T04:14Z,No gives more to manually update the Stata. It checks the license before opening the files. Do you know if there is another way to upgrade?
+,SloveniaX,2012-04-15T06:33Z,"I don't think so, I just downloaded this very torrent and both update files (32,64-bit) from Stata website and was able to update Stata12 SE just fine... You're doing something wrong, sorry...
+
+(and seriously, unless you're doing something incredibly fancy, these updates won't change a single thing for you, especially if you're an undergrad running OLS regressions)"

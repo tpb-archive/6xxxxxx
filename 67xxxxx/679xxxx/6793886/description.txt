@@ -1,0 +1,18 @@
+The Neo Geo is a cartridge-based arcade and home video game system released on July 1, 1991 by Japanese game company SNK. Being in the Fourth generation of Gaming, it was the first console in the former Neo Geo family, which only lived through the 1990s. The hardware featured comparatively colourful 2D graphics.
+
+The MVS (Multi Video System), as the Neo Geo was known to the coin-op industry, offered arcade operators the ability to put up to 6 different arcade titles into a single cabinet, a key economic consideration for operators with limited floorspace. With its games stored on self-contained cartridges, a game-cabinet could be exchanged for a different game-title by swapping the game\'s ROM-cartridge and cabinet artwork. Several popular franchise-series, including Fatal Fury, The King of Fighters, Metal Slug and Samurai Shodown, were released for the platform.
+
+The Neo Geo system was also marketed as a very costly home console, commonly referred to today as the AES (Advanced Entertainment System). The Neo Geo was marketed as 24-bit, though it was technically a parallel processing 16-bit system with an 8-bit Zilog Z80 as coprocessor. The coprocessor was used as a CPU, and for sound processing. The Super Nintendo and Sega Genesis also had similar co-processors, with neither Sega nor Nintendo claiming they were 24-bit.
+
+The Neo Geo was ranked 19th out of the 25 best video game consoles of all time by the video game website IGN in 2009.
+
+
+ NeoRAGEx is the Windows port of NeoRAGE, a DOS command-line based Neo-Geo system emulator (AES and MVS). The original NeoRAGE was the first Neo-Geo emulator available and was capable of running most of the games (except King of Fighters \'99 and later) at 60fps on a Pentium 200 MMX with 32 MB of RAM system. NeoRAGEx used the Starscream 680x0 emulation library as its CPU core.
+
+NeoRAGEx was a fully 32-bit Windows based application which added an attractive GUI, sound support for games and many more features such as a screen dump tool. Within just a few releases the developers had created an excellent Neo-Geo emulator which would serve as the foundation upon which many other Neo-Geo emulators would be based and inspired (such as Nebula and Kawaks). A feature unique to NeoRAGEx was that it was able to run most dumps without having the specific support or \'driver\' added to do this, as other emulators such as MAME, Nebula and Kawaks require.
+
+As development on NeoRAGEx slowed, eventually to the point where the emulator would not run under Windows XP, members of the emulation community started work on hacked versions, firstly adding support for running under Windows XP and then adding more recently released games to the game list.
+
+Without any updates or the original source code being released the emulator was eventually superseded by newer Neo-Geo emulators. The most prolific site hosting fan versions and hacks was neoragex.com, created by Ryan Younger (\'wizardchicken\') and running from August 2000 to February 2008, tallying up several million visitors each month, this site maintained an archive of hacked versions for some years after work on the official releases halted.
+
+Simply run the NeoRAGE app. and thats it(press import if roms dont automatically appear in the list)

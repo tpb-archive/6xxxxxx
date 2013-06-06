@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,jersson,2011-11-01T14:07Z,"Thank you, the best man"
+,jersson,2011-11-02T14:27Z,Oops ? this one do not install on W/7 64 B. All of your other DVDFabs has installed very smooth but this one doesn't. Nothing happens ? Did you make this one different ? I've gone back to your vers 8.1.2.6 and it work's
+[T],Tyr3ll,2011-11-03T08:16Z,"@jerson :
+Well hell no dude !
+it should work very fine on x64 as it does on my computers on x64 :)
+listen to me :
+at first,don't update from any previous version seeded by me as this one is somewhat a bit different.And anyway it's better to uninstall any previous version before installing a new one !
+as this new version is not from Dimitry for this time then.
+Uninstall all,go and run : regedit.exe
+delete all registry keys and reboot afterwards anyway.
+Reinstall this new one and all should work fine;
+if you still encounter same problem then please,let me know here and i will try to help you more.
+best regards"
+,dlxmax,2011-11-04T20:08Z,"I've been having issues with all the latest versions of DVDFab. Tried to Chatchitto, the BBB, and this.... and they all have issues. 
+
+For this one, I uninstalled DVDFab, deleted all registry keys that came up under a search for ""dvdfab"". I rebooted and installed it. It looked like it was going to work. DVD Copy said ""Yes"" to enabled and ""Never Been Used"" under ""Update Expire Time"".
+
+So, I began a DVD copy, and this error pops up, ""The 'DVD Copy' option is expired. You are going to used 'HD Decrypter'."" Which of course means it's not going to work. I went back and looked at the settings and saw that DVD Copy was now set to ""no"" under ""Engable"" and ""Expired"" under ""Update Expire Time"".
+
+I assume there's a file somewhere on my computer or a registry entry that is causing this? Where is it?"
+,jersson,2011-11-15T23:17Z,"I cannot get this vers to work so I installed a prev vers from tyr3ll, 8.1.2.6 and no problem. This one rebooted my computer but earlier ver works so I will keep it"
+[T],Tyr3ll,2011-11-17T17:37Z,"Strange,no problem for me so far.
+So yeah,otherwise,use previous version i upped
+in this case then.
+Sorry again for your problem so.
+regards"

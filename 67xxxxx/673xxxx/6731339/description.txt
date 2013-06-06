@@ -1,0 +1,201 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 8. October 2011, 12:54
+
+Evanescence / Evanescence
+
+Used drive  : TSSTcorpDVDWBD SH-B123L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 896 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "ALBUM ARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=EAC V1.0 beta 2, Secure Mode, Test & Copy, AccurateRip, FLAC -8" %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:41.27 |         0    |    16601   
+        2  |  3:41.27 |  3:33.45 |     16602    |    32621   
+        3  |  7:14.72 |  3:42.24 |     32622    |    49295   
+        4  | 10:57.21 |  4:29.12 |     49296    |    69482   
+        5  | 15:26.33 |  4:05.00 |     69483    |    87857   
+        6  | 19:31.33 |  3:55.18 |     87858    |   105500   
+        7  | 23:26.51 |  4:42.63 |    105501    |   126713   
+        8  | 28:09.39 |  3:30.03 |    126714    |   142466   
+        9  | 31:39.42 |  3:49.11 |    142467    |   159652   
+       10  | 35:28.53 |  3:38.17 |    159653    |   176019   
+       11  | 39:06.70 |  4:27.23 |    176020    |   196067   
+       12  | 43:34.18 |  3:44.01 |    196068    |   212868   
+
+
+Track  1
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\01 What You Want.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.8 %
+     Extraction speed 4.6 X
+     Track quality 100.0 %
+     Test CRC 349F57B0
+     Copy CRC 349F57B0
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\02 Made Of Stone.wav
+
+     Peak level 99.8 %
+     Extraction speed 5.0 X
+     Track quality 100.0 %
+     Test CRC DA37CBC1
+     Copy CRC DA37CBC1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\03 The Change.wav
+
+     Peak level 99.8 %
+     Extraction speed 5.5 X
+     Track quality 100.0 %
+     Test CRC BDE94EB0
+     Copy CRC BDE94EB0
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\04 My Heart Is Broken.wav
+
+     Peak level 99.8 %
+     Extraction speed 3.3 X
+     Track quality 100.0 %
+     Test CRC 032373E3
+     Copy CRC 032373E3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\05 The Other Side.wav
+
+     Peak level 99.8 %
+     Extraction speed 3.7 X
+     Track quality 99.9 %
+     Test CRC 305FE006
+     Copy CRC 305FE006
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\06 Erase This.wav
+
+     Peak level 99.8 %
+     Extraction speed 6.3 X
+     Track quality 100.0 %
+     Test CRC 9F429461
+     Copy CRC 9F429461
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\07 Lost In Paradise.wav
+
+     Peak level 99.8 %
+     Extraction speed 6.6 X
+     Track quality 99.9 %
+     Test CRC 6C3B0C5A
+     Copy CRC 6C3B0C5A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\08 Sick.wav
+
+     Peak level 99.8 %
+     Extraction speed 7.4 X
+     Track quality 100.0 %
+     Test CRC B2D1F3BC
+     Copy CRC B2D1F3BC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\09 End Of The Dream.wav
+
+     Peak level 99.8 %
+     Extraction speed 7.7 X
+     Track quality 100.0 %
+     Test CRC 043C8EE6
+     Copy CRC 043C8EE6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\10 Oceans.wav
+
+     Peak level 99.8 %
+     Extraction speed 8.0 X
+     Track quality 100.0 %
+     Test CRC 345F9EB6
+     Copy CRC 345F9EB6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\11 Never Go Back.wav
+
+     Peak level 99.8 %
+     Extraction speed 8.4 X
+     Track quality 100.0 %
+     Test CRC 468AB46C
+     Copy CRC 468AB46C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename D:\Rips\Music\Evanescence Evanescence [2011] [FLAC]\12 Swimming Home.wav
+
+     Peak level 98.3 %
+     Extraction speed 6.7 X
+     Track quality 99.9 %
+     Test CRC 6829588E
+     Copy CRC 6829588E
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
+
+==== Log checksum C673D30D6031437F34106CCD49E154E496426A7C76A1A33E8E985F925BF45962 ====

@@ -1,0 +1,29 @@
+TotalFinder adds tabs, hotkeys, and other tweaks to the Mac OS X Finder. 
+
+Implemented features: 
+
+- TABS like in Google Chrome! 
+-Add a dual-panel mode (like in good old Norton Commander) 
+-Make Finder available system-wide on a hot-key (like Visor) 
+-Stop creating .DS_Store litter Show the folders always on top
+
+
+Future goals: 
+
+Add a better keyboard shortcuts (for keyboard-oriented freaks like me) 
+Enable a cooperation mode with Terminal.app (for command-line lovers) 
+Add user friendly MacFUSE support 
+And what about better git/svn/hg integration
+And more satisfaction! 
+
+
+Requirements: 
+Mac OS X 10.6 or later. 
+
+
+Whatâ€™s New: 
+
+-NEW Compatibility with Finder 10.7.1 (which is included in OSX update 10.7.2). 
+-FIXED Symbolic links to folders sort as expected when â€œFolders on Topâ€ is enabled. 
+-REMOVED Removed Asepsis feature and the kernel extension. Asepsis is now freely available as a standalone software.
+

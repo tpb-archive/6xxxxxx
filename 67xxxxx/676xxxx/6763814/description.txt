@@ -1,0 +1,60 @@
+                Zynamics BinNavi v4.0.4.19.14393              
+                          (c) Zynamics                        
+ date       : 22 Oct, 2o11        size     : 11 disks/5.00 MB 
+ os         : WinAll x86/x64      language : English          
+ type       : Debugging                                       
+ protection : Keyfile                                         
+
+
+
+                                                           
+            [  r  e  l  e  a  s  e  .  i  n  f  o  ]       
+                                                           
+  BinNavi is a binary code reverse engineering tool that wa
+  built to assist vulnerability researchers who look for   
+  vulnerabilities in disassembled code.                    
+                                                           
+  With BinNavi you can analyze disassembled x86, ARM,      
+  PowerPC, and MIPS code using the powerful built-in static
+  code analysis techniques. In cases where static code     
+  analysis is not enough, you can use the built-in debugger
+  to get a live view on the program you are analyzing.     
+                                                           
+  Use Cases:                                               
+                                                           
+  * Do control flow based code analysis of disassembled x86
+  ARM, MIPS, and PowerPC code                              
+  * Cut down on complexity by removing unimportant code fro
+  functions                                                
+  * Use powerful remote debuggers to debug programs on     
+  different operating systems                              
+  * Use Differential Debugging to quickly locate relevant  
+  code                                                     
+  * Create and assign user-defined tags to mark important  
+  functions and basic blocks                               
+  * Use advanced code analysis algorithms to keep track of 
+  data and code                                            
+  * Manage all your reverse engineering projects in one    
+  central database                                         
+  * Write scripts and plugins to extend BinNavi to meet you
+  specific goals                                           
+  * Rename and annotate variables and functions to make the
+  self-explanatory                                         
+  * Use the REIL meta-language to write platform-independen
+  program analysis code                                    
+                                                           
+  URL: http://www.zynamics.com/binnavi.html                
+                                                           
+  INSTALL NOTES:                                           
+                                                           
+  1) Setup Java (and you will need an SQL server)          
+  2) Extract the application                               
+  3) Run our keyfilemaker                                  
+  4) Generate a keyfile and save it in the same folder you 
+  extracted the application                                
+  5) Start the application                                 
+                                                           
+  NOTE: follow the tutorials to setup a database.xml and   
+  configure the application to start using it              
+                                                           
+                      E n j o y . . .                     

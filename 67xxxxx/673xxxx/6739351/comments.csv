@@ -1,0 +1,15 @@
+User Type,Username,Date,Text
+,milan118,2011-10-13T15:10Z,"great great quality
+V : 10
+A : 10
+just great!"
+,sketos,2011-10-13T18:15Z,"great video, but very low audio volume.
+is there any chance that it is my computers problem?
+anyone else experiencing the same problem?"
+[T],Ferrelas,2011-10-15T09:49Z,"Recently read about people having this problem with DVD:s and someone said that it has to do with the wide dynamic range of the AC3-codec, and that this can be mitigated using volume normalization. This is AC3 (at least according to mplayer), and I had the same problem with it. I have since stared using volnorm and checked this file now and it sounded much better, so this should solve it.
+
+- af volnorm=1:0.2 (cli)
+
+af = volnorm=1:0.2 (config file)
+
+This is for mplayer, users of other players may help themselves."

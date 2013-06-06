@@ -1,0 +1,46 @@
+When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world and into ours -- in fact, smack dab in the middle of Central Park. Just three apples high and stuck in the Big Apple, the Smurfs must find a way to get back to their village before Gargamel tracks them down.
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Muxing mode                      : Container profile=Unknown@3.0
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 38mn
+Bit rate                         : 1 173 Kbps
+Nominal bit rate                 : 1 200 Kbps
+Width                            : 624 pixels
+Height                           : 352 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 25.000 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.214
+Stream size                      : 828 MiB (77%)
+Writing library                  : x264 core 112
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Codec ID                         : A_AC3
+Duration                         : 1h 38mn
+Bit rate mode                    : Constant
+Bit rate                         : 320 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Stream size                      : 226 MiB (21%)
+
+Text
+ID                               : 3
+Format                           : VobSub
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Language                         : Romanian
+

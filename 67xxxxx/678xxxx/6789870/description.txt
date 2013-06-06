@@ -1,0 +1,16 @@
+SystemRescueCd is an improvement of the gentoo live cd. It aims to provide an high quality bootable CD-Rom, with all system utilities that can be required to repair your system.  
+http://sourceforge.net/projects/systemrescuecd/
+
+2.4.0) 2011-11-01:
+ Updated standard kernels to linux-3.0.8 (rescuecd + rescue64)
+ Updated alternative kernels to linux-3.1.0 (altker32 + altker64)
+ Dropped Reiser4 patch from all kernels (no patch for linux-3.x)
+ Updated xorg-server to 1.10.4 (graphical server and drivers)
+ Updated mozilla-firefox to 7.0.1
+ Updated GParted to 0.10.0  
+http://www.sysresccd.org/Changes-x86
+ 
+http://www.sysresccd.org/Main_Page
+
+sha1sum : c4b316cb3bb536e3b0d13c063867bc2a160537c1  systemrescuecd-x86-2.4.0.iso
+md5sum : 633950fc46beeb3f7b8c56c5f67afd18  systemrescuecd-x86-2.4.0.iso

@@ -1,0 +1,9 @@
+User Type,Username,Date,Text
+,AntheK,2011-10-31T10:58Z,"Link to Absynth 5 for Mac OS X, StandAlone/VSTi/AU/RTAS
+
+http://thepiratebay.org/torrent/6783309/Absynth_5_-_Mac_OS_X_-_VSTi_AU_RTAS"
+,enzeth,2011-11-01T02:59Z,"The patch isn't working... It writes some files and then goes:
+
+""The Installer encountered an error that caused the installation to fail. Contact the software manufacturer for assistance."""
+,gogostephen,2012-01-12T06:20Z,Patching not working.
+,zordis,2012-02-06T01:41Z,"@enzeth, gogostephen: get unpkg to extract the patch and manually copy the application and the AU component over. works for me with garritan and ew stormdrum, haven't tried any other lib."

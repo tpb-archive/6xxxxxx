@@ -1,0 +1,73 @@
+pppppppppppppppp       TTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+pppppppp       pp      TTTTTTTTTTTTTTTTTTTTTTTTTTTTT    
+pppppppp        pp     TT        TTTTTT           TT     
+pppppppp         pp    TT        TTTTTT           TT 
+pppppppp         pp    T         TTTTTT            T
+pppppppp         pp              TTTTTT
+pppppppp         pp              TTTTTT
+pppppppp        pp               TTTTTT
+pppppppp       pp                TTTTTT
+pppppppppppppppp                 TTTTTT
+pppppppp                         TTTTTT
+pppppppp                         TTTTTT
+pppppppp                         TTTTTT
+pppppppp                         TTTTTT 
+pppppppp        p     k   k      TTTTTT   EEEEEE     AA     M       M
+pppppppp       p p    k  k       TTTTTT   E          AA     MM     MM
+pppppppp       p p    k k        TTTTTT   E         AAAA    M M   M M
+pppppppp       p p    kk         TTTTTT   EEEEEE   A   A    M  M M  M
+pppppppp      p   p   k k        TTTTTT   E       AA   AA   M   M   M
+pppppppp     pppppp   k  k       TTTTTT   E       AAAAAAA   M       M 
+pppppppp     p     p  k   k      TTTTTT   EEEEEE A      AA  M       M
+..............................................................................
+                       DrSeeder zahid657@gmail.com
+..............................................................................
+General
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 549 MiB
+Duration                         : 1h 38mn
+Overall bit rate                 : 783 Kbps
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 8 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 1h 38mn
+Bit rate mode                    : Variable
+Bit rate                         : 745 Kbps
+Maximum bit rate                 : 7 835 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.034
+
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : Yes
+Format settings, PS              : No
+Codec ID                         : 40
+Duration                         : 1h 38mn
+Bit rate mode                    : Variable
+Bit rate                         : 36.7 Kbps
+Maximum bit rate                 : 57.5 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz

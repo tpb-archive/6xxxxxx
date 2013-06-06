@@ -1,0 +1,12 @@
+The Joy of Clojure
+MICHAEL FOGUS, CHRIS HOUSER
+MANNING (2011)
+
+It's PDF file (epub, maybe later)
+
+Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs. (http://clojure.org/)
+
+The authors believe to have written THE book on clojure, I dunno: 
+order of used features in examples is educationally a bit messy,
+too many forward peeks (or knowledge from other books)
+are required, nevertheless: enjoy!

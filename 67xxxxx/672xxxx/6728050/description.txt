@@ -1,0 +1,53 @@
+Lotus Symphony 3.0.1 64bit .debs
+================================
+
+Information
+===========
+Lotus Symphony Overview:
+------------------------
+IBMÂ® LotusÂ® Symphonyâ„¢ is a richly-featured set of productivity tools that are intuitive and easy to use and provided at no charge. There are three applications that make up Lotus Symphony: Lotus Symphony Documents, Lotus Symphony Spreadsheets, Lotus Symphony Presentations.
+Lotus Symphony puts you in charge â€“ take control over spiralling upgrade costs, ensure access to documents well into the future with new standard file formats (ODF), get more from your current investments with support for Microsoft Windows and Office file types.
+
+Lotus Symphony on Debian based GNU/Linux:
+-----------------------------------------
+Lotus Symphony will install on both i386 (32-bit) and amd64 (64-bit). Although IBM officially only released .deb files for i386. An Ubuntu user and OMG! Ubuntu reader, Dylan Coakley, has repackaged these i386 .deb files to be compatible with amd64 and thus they can be installed on amd64 Debian based GNU/Linux. These packages were announced on OMG! Ubuntu and are hosted on the project page for PhotoFiltre LX. The .deb files can be downloaded directly from the PhotoFiltre LX page, or preferably to save the PhotoFiltre LX project some bandwidth costs, they can be downloaded and redistributed with this BitTorrent release.
+
+These packages have been tested as working on Ubuntu Maverick Meerkat 10.10 amd64 and above. Although the original packages released by IBM were built for Ubuntu Hardy Heron 8.04 i386.
+
+Future Lotus Symphony amd64 .deb Releases:
+------------------------------------------
+Whilst Dylan may commit to repackaging amd64 .deb packages for future releases of Lotus Symphony, this may not be necessary as IBM committed to releasing amd64 .deb packages for future releases of Lotus Symphony, as stated in an email to Dylan[1]
+
+IBM have also committed to handing over stewardship of Lotus Symphony to the Apache Foundation[2] as have Oracle in regard to OpenOffice.org[3]
+
+Installation
+============
+1. Install Lotus Symphony 3.0  - symphony_3.0-1_maverick_amd64.deb
+2. Install Lotus Symphony 3, Fix Pack 3 - lotus_symphony3_fp3.amd64.deb
+   *Note whilst there is also Fix Pack 1 and 2 available, these do not need to be installed as long as Fix Pack 3 or greater is installed as each Fix Pack includes the preceding one.
+3. Install your optional desired language pack.
+   (a) Language Pack 1 - symphony-nl1_3.0-1maverick_amd64.deb : Catalan, Chinese (Simplified), Chinese (Traditional), French, German, Italian, Japanese, Korean, Portuguese(Brazilian), Spanish
+   (b) Language Pack 2 - symphony-nl2_3.0-1maverick_amd64.deb : Arabic, Czech, Danish, Dutch, Finnish, Greek, Hebrew, Hungarian, Norwegian-Bokmal, Polish, Portuguese, Russian, Swedish, Turkish
+   (c) Language Pack 3 - symphony-nl3_3.0-1maverick_amd64.deb : Thai, Slovakian, Slovenian
+
+Uninstallation
+--------------
+Use your desired package manager such as the Ubuntu Software Center or Synaptic to remove individual packages or Lotus Symphony entirely
+
+Further Information
+===================
+Please see enclosed files:
+IBM Lotus Symphony 3 Fix Pack 3 release notes.html
+IBM Lotus Symphony - Installation Guide.html
+
+Web links: 
+IBM Lotus Symphony - http://symphony.lotus.com
+Link to IBM office suite Lotus Symphony 3 released (updated with .64bit .deb) | OMG! Ubuntu! - http://www.omgubuntu.co.uk/2010/10/ibm-office-suite-lotus-symphony-3-released/
+Link to 64bit language pack .deb for Lotus Symphony | OMG! Ubuntu! - http://www.omgubuntu.co.uk/2010/11/64bit-language-pack-for-ibm-lotus-symphony/
+Link to PhotoFiltre LX :: Downloads - http://www.photofiltre-lx.org/downloads.html
+Link to Dylan Coakley in Launchpad - https://launchpad.net/~dylan-coakley
+_____________________________________________________________________________
+
+[1] Sneddon, Joey (2010-10-26) 64bit language pack .deb for Lotus Symphony, OMG!Ubuntu http://www.omgubuntu.co.uk/2010/11/64bit-language-pack-for-ibm-lotus-symphony/
+[2] Weir, Rob (2011-07-13), Incubator OO.o development mailing list, Apache http://article.gmane.org/gmane.comp.apache.incubator.ooo.devel/1600
+[3] jake (2011-07-01), Oracle proposes donating OpenOffice.org to Apache Software Foundation, The LWN http://lwn.net/Articles/445620/

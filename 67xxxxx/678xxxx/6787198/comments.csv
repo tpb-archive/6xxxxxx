@@ -1,0 +1,66 @@
+User Type,Username,Date,Text
+,jonah_the_bear,2011-11-01T14:45Z,will check it out.
+,jonah_the_bear,2011-11-01T23:46Z,i am seeding but the download is going to take another 9-14 hours
+,jonah_the_bear,2011-11-02T00:29Z,the only seeder disappeared :(
+,Fullsail88,2011-11-03T02:07Z,does this work? ?
+,jonah_the_bear,2011-11-03T03:32Z,"i will post if it works 
+i waited all day and i went up by 1%"
+,jonah_the_bear,2011-11-03T03:37Z,i've uploaded 28.5gbs
+,jonah_the_bear,2011-11-03T04:25Z, one seeder and 106 leeches XD
+,jonah_the_bear,2011-11-03T08:02Z,"alright it!
+it works as far as i can tell!
+some textures disappear  but that might be the game. 
+dont turn the shadows to ultra it ruins the cloud layer effect."
+,hitmanrocks,2011-11-03T13:45Z,@GMAE12345 PLEAZ share batman arkham city or battlefield 3
+,Demiminigod,2011-11-03T17:15Z,"So far it works great.
+
+My macbook pro only got 256mb of VRAM, so I play it on high res, but with everything else on low or off, and it still seems to stagger a bit."
+,Nffc2011,2011-11-07T15:49Z,"I have a Mac OS X 10.6.8, fully updated, spanking new. After mounting, then dragging the folder to applications, and then double clicking the app to play, it 'unexpectedly quits'. 
+
+Its seems as If I dont have enough VRAM? Surely that would just slow the game down, rather than just shut itself down all the time?
+
+Any help would be appreciated. "
+,maid32,2011-11-13T11:33Z,"hey, I just downloaded the game, what do I have to do to get i to work i just downloaded it and nothing else, any can help? I havenÂ´t downloaded any games befor"
+,maid32,2011-11-13T11:50Z,what programs do i need to get to get the game working
+,tinderboxes,2011-11-13T22:45Z,"I second Deminigod : even with everything on low, the performances are not good and can even get randomly horrible."
+,kkdtan,2011-11-17T07:32Z,Cant save! My saved games disappeared and cannot load them again. Any fix on this?
+,Fallstaff,2011-11-18T03:34Z,"They've updated this, but so far as I can tell, only available through Steam. Anyone have any idea how to update without it?
+Could be a good game, but wow it's crashy."
+,GamingFTW,2011-12-31T23:33Z,It Works. Graphics are very good. But is there are solution to saving???
+,badfishlord,2012-01-07T19:59Z,"Game worked for me, BUT unable to load save files. 
+
+Root of the issue is related to the path names coded into the game. If you dig into the package contents you can find that it is in fact saving your game.. but the directory it uses to try and load the games doesn't exist (bad programming). I've seen it discussed on steam forums but I can't figure out away of changing it. In theory what you need to do is create the folder structure it is looking for and then after saving move your file to the directory it expects to find them in. I've tried various things and lots of google-foo but thus far no luck. If anyone can figure out what windows profile the wrapper app is using (wine or whatever) then that would help me..."
+,etiology,2012-01-13T02:24Z,"Can the uploader PLEASE release a later version. The game works for me on my iMac. however, as you have probably read this version of the game is FULL of bugs and is basically unplayable.  Firefly studios are releasing patches to fix the bugs so the game play, stability and performance should really be a lot better in the later versions.  Pretty please Game12345! Ill be your friend forever.
+:)"
+,jmaslion,2012-01-13T16:42Z,"NEED some guidance!  I downloaded the torrent through Utorrent. Tried opening it and it says ""the following disk images could not be opened because it says its not recognizable. What do i do?:) help!"
+,thefro420,2012-01-23T00:18Z,could someone please upload stronghold crusader 1 and 2 for mac?
+,SethAbel,2012-01-25T12:36Z,"So let me get this right if you do not have 4 gigs of ram or a 9800 you cant play this?
+
+Surely there is a work around"
+,cbfl,2012-04-03T17:21Z,"Saved Games SOLUTION!
+
+Locate 
+
+/Users/{YOUR-USER}/Library/Application Support/Stronghold 3/system.reg
+/Users/{YOUR-USER}/Library/Application Support/Stronghold 3/user.reg
+/Users/{YOUR-USER}/Library/Application Support/Stronghold 3/userdef.reg
+
+and replace
+
+%USERPROFILE%  with C:\Documents and Settings\{YOUR-USER}
+
+thats all :)"
+,Arieemsee,2012-04-17T07:39Z,Any Serials ?
+,DaGuBear,2012-05-27T17:39Z,cbfl- the files are .reg files and mac doesnt have anything i can open it with. 
+,Set400,2012-05-28T02:28Z,"DaGuBear, it's a plain text file, use any text editorâŚ"
+,ondrashek,2012-06-02T20:13Z,"@cbfl
+
+I found %USERPROFILE% and replaced it as you advise in user.reg and userdef.reg
+
+but I didn`t find in system.reg
+and I still can`t load games
+
+could anybody help please?"
+,ondrashek,2012-06-02T20:24Z,"another thing I just noticed is that if I replace %USERPROFILE% with C:Documents and SettingsONDRASHEK and then I launch the game and quit it replace itself with C:Documents and SettingsONDRASHEK - so it has these ""/"" missing so the whole line looks like this:
+""My Music""=str(2):""C:Documents and SettingsONDRASHEK\My Music"""
+,brambilla,2012-06-03T23:31Z,@ondrashek you have to save as for it to stay. I have done all that stuff though and still no luck with the saving..

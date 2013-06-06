@@ -1,0 +1,95 @@
+
+
+[IMG]http://img856.imageshack.us/img856/7453/infohr.png[/IMG]
+
+[CODE]+ EBML head
+|+ EBML version: 1
+|+ EBML read version: 1
+|+ EBML maximum ID length: 4
+|+ EBML maximum size length: 8
+|+ Doc type: matroska
+|+ Doc type version: 2
+|+ Doc type read version: 2
++ Segment, size 1557705252
+|+ Seek head
+| + Seek entry
+| + Seek ID: 0x15 0x49 0xa9 0x66 (KaxInfo)
+| + Seek position: 4099
+| + Seek entry
+| + Seek ID: 0x16 0x54 0xae 0x6b (KaxTracks)
+| + Seek position: 4248
+| + Seek entry
+| + Seek ID: 0x1c 0x53 0xbb 0x6b (KaxCues)
+| + Seek position: 1557670823
+|+ EbmlVoid (size: 4044)
+|+ Segment information
+| + Timecode scale: 1000000
+| + Muxing application: libebml v1.2.1 + libmatroska v1.1.1
+| + Writing application: mkvmerge v4.9.1 ('Ich will') built on Jul 11 2011 23:53:15
+| + Duration: 5532.216s (01:32:12.216)
+| + Date: Sat Oct 09 05:35:57 2010 UTC
+| + Segment UID: 0x94 0xb1 0x34 0x6d 0xb8 0x86 0xa3 0x22 0x84 0x83 0x16 0x42 0x9a 0x0f 0xac 0xdf
+|+ Segment tracks
+| + A track
+| + Track number: 1
+| + Track UID: 1197674678
+| + Track type: video
+| + Lacing flag: 0
+| + MinCache: 1
+| + Codec ID: V_MPEG4/ISO/AVC
+| + CodecPrivate, length 41 (h.264 profile: High @L4.1)
+| + Default duration: 41.708ms (23.976 fps for a video track)
+| + Video track
+| + Pixel width: 1024
+| + Pixel height: 434
+| + Display width: 1024
+| + Display height: 434
+| + Content encodings
+| + Content encoding
+| + Content compression
+| + Algorithm: 3 (header removal)
+| + Settings: length 1, data: 0x00
+| + A track
+| + Track number: 2
+| + Track UID: 823536820
+| + Track type: audio
+| + Codec ID: A_MPEG/L2
+| + Default duration: 24.000ms (41.667 fps for a video track)
+| + Language: hin
+| + Audio track
+| + Sampling frequency: 48000
+| + Channels: 2
+| + Content encodings
+| + Content encoding
+| + Content compression
+| + Algorithm: 3 (header removal)
+| + Settings: length 1, data: 0xff
+| + A track
+| + Track number: 3
+| + Track UID: 3037808531
+| + Track type: audio
+| + Default flag: 0
+| + Codec ID: A_DTS
+| + Default duration: 10.667ms (93.750 fps for a video track)
+| + Audio track
+| + Sampling frequency: 48000
+| + Channels: 6
+| + Content encodings
+| + Content encoding
+| + Content compression
+| + Algorithm: 3 (header removal)
+| + Settings: length 4, data: 0x7f 0xfe 0x80 0x01
+|+ EbmlVoid (size: 1165)
+|+ Cluster
+[/CODE]
+
+[IMG]http://img267.imageshack.us/img267/640/screendta.png[/IMG]
+
+[IMG]http://i.imgur.com/vklGx.png[/IMG]
+[IMG]http://i.imgur.com/HoUo9.png[/IMG]
+[IMG]http://i.imgur.com/329zV.png[/IMG]
+[IMG]http://i.imgur.com/OsZee.png[/IMG]
+[IMG]http://i.imgur.com/ieTgT.png[/IMG]
+[IMG]http://i.imgur.com/AQIFE.png[/IMG]
+
+[/CENTER]

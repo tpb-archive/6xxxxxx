@@ -1,0 +1,10 @@
+Changelog:
+- Enemies walk to investigate sounds
+- Sounds are dampened by obstacles
+- Fixed occasional "movement object not found" bug when saving
+- Fixed occasional crash on switching from levels that have hotspots
+- Fixed main menu showing both system and game cursors
+- Fixed crash when shader uniform ids are too large
+- Fixed red flash when loading levels from main menu
+- Fixed problem with false positive visiblity checks
+- Fixed decals on detail-mapped objects

@@ -1,0 +1,86 @@
+About:
+
+This is the loader application that's used by millions of people worldwide, well known for passing Microsoft's WAT (Windows Activation Technologies) and is arguably the safest Windows activation exploit ever created. The application itself injects a SLIC (System Licensed Internal Code) into your system before Windows boots; this is what fools Windows into thinking it's genuine.
+
+
+Features:
+
+* Can be run as a standalone application
+* Works well with all system languages
+* Argument support for silent installs
+* Can be used for pre-activation
+* Application integrity checking
+* Custom error handling
+* Support for hidden partitions and complex setups
+* Can work alongside Linux's GRUB or any other boot manager
+* Works with TrueCrypt and many other types of hard drive encryption applications
+* Add your own certificates and serials externally
+* Offers certificate and serial installation only for users with an existing SLIC 2.1
+* Automated system profiling (The application matches everything up for you)
+
+
+The rundown:
+
+* Compatible with Windows 7 SP1 and all system updates âœ” check
+* Will run on x86 and x64 systems âœ” check
+* No core system files get modified âœ” check
+* No extra processes are run so you have nothing eating at your RAM âœ” check
+* All key parts of the exploit are encrypted with a custom encryption âœ” check
+* The exploit runs before Windows so it's harder for Microsoft to prevent âœ” check
+* The exploit patches all necessary tables making activation look authentic âœ” check
+* The application will select the best profile for your system during installation âœ” check
+* Each and every user has a unique version of the exploit installed on his/her system âœ” check
+
+
+Supported operating systems:
+
+* Windows 7 Ultimate
+* Windows 7 Ultimate E
+* Windows 7 Professional
+* Windows 7 Professional E
+* Windows 7 Home Premium
+* Windows 7 Home Premium E
+* Windows 7 Home Basic
+* Windows 7 Starter
+* Windows 7 Starter E
+* Windows Vista Ultimate
+* Windows Vista Business
+* Windows Vista Business N
+* Windows Vista Home Premium
+* Windows Vista Home Basic
+* Windows Vista Home Basic N
+* Windows Vista Starter
+* Windows Server 2008 R2: Enterprise
+* Windows Server 2008 R2: Standard
+* Windows Server 2008 R2: Foundation
+* Windows Server 2008: Enterprise
+* Windows Server 2008: Standard
+* Windows Server 2008: Foundation
+* Windows Small Business Server 2008
+
+Changelog:
+
+Version 2.0.8 (10/07/2011)
+* Fixed a bug that prevented external SLIC's and certificates from loading
+* Fixed a bug that prevented the AT Computers profile from working
+* Added BGH e-Nova SLIC and certificate
+* Added BGH e-Nova Professional serial
+
+Version 2.0.7 (10/06/2011)
+* Added a new GRLDR version
+* Added Hyper-V support
+* Added Quanmax Professional serial
+* Added Stone Ultimate, Professional, Home Basic and Starter serials
+* Further enhanced partition identification
+* Fixed a bug in the uninstall function
+* Fixed access to the recovery menu (Hold 'R' during boot)
+* Other minor tweaks and fixes
+
+Version 2.0.6 (08/21/2011)
+* Added a new GRLDR version
+* Fixed the ignore existing SLIC option
+* Added Stone Home Premium serial
+* Added Itautec Home Basic serial
+* Added Stone and Itautec SLIC's and certificates
+* Cleaned up serials for all Windows Server editions
+* Other minor tweaks and fixes

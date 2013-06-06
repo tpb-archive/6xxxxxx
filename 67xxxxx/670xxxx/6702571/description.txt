@@ -1,0 +1,76 @@
+General
+Complete name                    : M:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Suncher Punch 1072p Dual Bluray TR-EN.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+Format profile                   : OpenDML
+File size                        : 2.00 GiB
+Duration                         : 1h 45mn
+Overall bit rate                 : 2 713 Kbps
+Writing application              : VirtualDubMod 1.5.4.1 (build 2178/release)
+Writing library                  : VirtualDubMod build 2178/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : 1
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Custom
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 1h 45mn
+Bit rate                         : 2 125 Kbps
+Width                            : 1 072 pixels
+Height                           : 448 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.177
+Stream size                      : 1.56 GiB (78%)
+Writing library                  : XviD 58
+
+Audio #1
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format profile                   : Dolby Digital
+Mode extension                   : CM (complete main)
+Codec ID                         : 2000
+Duration                         : 1h 45mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 145 MiB (7%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 96 ms (2.40 video frames)
+Interleave, preload duration     : 96 ms
+Language                         : Turkish
+
+Audio #2
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 2000
+Duration                         : 1h 45mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 289 MiB (14%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 96 ms (2.40 video frames)
+Interleave, preload duration     : 96 ms
+Language                         : English

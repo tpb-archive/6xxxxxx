@@ -1,0 +1,104 @@
+Complete version including including all the features from 
+Airbus Series Vol.2 + Evolution.
+Aircraft included : Airbus A330-200, A330-300, A340-300, A340-600, A330-300 MRTT 
+and the latest Evolution technological improvements.
+
+The best just got better !
+
+Wilco Publishing is extremely pleased to announce the long-awaited upgrade for their Airbus collection : Airbus Series Evolution.
+Developed by highly qualified programmers, with the help of active professional pilots, this addon is a major technological break-thru of the famous Airbus suite.
+Airbus Series Evolution is today's most advanced, most realistic, most complete Airbus simulation for Microsoft Flight Simulator (X/2004).
+The name says it all : Airbus Series Evolution is Airbus Series Volume 2 logical evolution. Lots of new functionalities have been implemented.
+They unveil the modern technology and embarked systems typical to the Airbus philosophy.
+Airbus Series Evolution is delivered as an Airbus Series Vol.2 upgrade, or as a full version allowing you to discover the Wilco Publishing Airbus range.
+Airbus Series Evolution is for anyone eager to discover the fascinating world of Fly-By-Wire technology as well as Airbus high-end systems.
+Whatever your knowledge level is - beginner or expert - the user's manual will teach you step by step all systems and procedures. The three operating modes - beginner - intermediate - expert - allow you to take control of your aircraft in three different ways : engines running, ready for take-off, or cold and dark on the apron.
+
+On top of Airbus Series Vol.2 features, Airbus Series Evolution implements the following systems :
+
+WEATHER RADAR :
+Airbus Series Evolution features a highly advanced Weather Radar developed by RealityXP. It is fully integrated into the Navigation Display (ND) and follows the ND range/mode and brightness settings. The route and the moving map are still visible as they are displayed on top of the weather radar display. The Weather Radar can be activated from the 2D cockpit only.
+
+HEAD-UP DISPLAY (HUD) :
+Based on specifications from the real manufacturer, a Head-Up Display has been integrated into the Airbus Series Vol.1 and Vol.2. Your aircraft can land in any visibility conditions, whatever the weather.
+All the necessary flight informations are displayed on the HUD so that no other instrument is needed. You can look through the window while flying the aircraft on the right trajectory. The HUD is useful to manually fly low-visibility approaches. It even allows the lower the minimal visibility distance.
+The HUD is designed to be used in full-screen mode and can be displayed in the 2D cockpit too.
+
+NAVIGATION :
+    * SID/STAR Management
+      One of the most important improvement of Airbus Series Evolution is in the management of the SID/STAR procedures. The information management contained in the database has been improved so that all the waypoints that describe a SID or STAR procedure are no taken into account, whatever their type. This is especially visible for waypoints that describe a turn to a waypoint or a radial interception because a nice curved route is then drawn on the navigation display (ND).In order to take advantage of these improvements, getting a recent version (AIRAC) of the navigation database is strongly recommended. You can get a more recent database at Navigraph.
+    * DIR Operation
+      The DIR operation used to proceed direct to a route waypoint is improved. A temporary flight plan is created (like for any flight plan modification) and requires a validation. In addition, the trajectory is drawn as the aircraft flies, with a curved route when appropriate.
+    * Holding Patterns
+      The aircraft flies the holding pattern trajectory almost perfectly. Flight tests have also been conducted with crosswind.
+    * Target Altitude
+      The target climb or descent altitude is shown on the route with a blue arrow and its position is updated in real time. These arrows are sometimes called â€œhockey sticksâ€.
+    * TOC Real-Time Update
+      The position of the top-of-climb (TOC) point is computed in real time. It is very important if the ATC asks for a level during the climb. If it happens, the TOC point is moved accordingly instead of being wrongly positioned.
+    * Second ADF
+      A second fully functional ADF receiver has been added. On the navigation display, 2 different green needles can show the 2 ADF signals.
+    * SID/STAR filtering
+      When a departure or arrival runway is selected, only the SID/STAR procedures that apply for the selected runway are displayed. Hiding the useless procedures reduces the list of the displayed SID/STAR, making the selection easier.
+    * Flight Plan Edition
+      When a new waypoint is inserted on the F-PLN page (immediate waypoint insertion) at the place of a discontinuity, the discontinuity is shifted down and no discontinuity is added.
+    * Flight Plan Display
+      As the aircraft flies toward the next waypoint, the displayed distance to the next waypoint is updated in real time.
+    * Approach Speed
+      The managed speed on approach depends on the flap handle position instead of depending on the flaps position, like in the real aircraft. This makes the approach the approach smoother with less variation of engine power.
+    * Updated Flight Management System Database
+      Thanks to a partnership with Navigraph, the latest navigation database (December 2010) is provided with Airbus Series Evolution. This database is up-to-date and contains much more information than the database originally provided with the Airbus Series. This is especially true for Europe, most airports have all the SID/STAR procedures available.
+
+      The navigation database is updated every month, you can keep updating it by visiting Navigraph here: http://www.navigraph.com.
+
+SYSTEMS :
+    * Electricity
+      All the electric devices, such as lights (landing, taxi, beacon, strobes) and the 6 EFIS screens (PFD, ND, E/WD and SD) are properly managed and can be switched ON only if the appropriate electric source is available, APU, GPU or engine generator.
+    * Alert Clear and Recall
+      The alerts displayed on the E/WD can be cleared and recalled if necessary. This is important when a master caution alert is shown because it blocks the display of the take off/landing memo.
+    * Fly-by-Wire (auto-coordination)
+      The fly-by-wire system provides auto-coordination. The rudder pedals are active even if auto-coordination is active. This allows you to "kick" the aircraft, very important with crosswind, like in the real aircraft.
+    * Computed Speeds
+      The FACs (Flight Augmentation Computers) are in charge of computing the Green Dot, F and S speeds. Consequently, these speeds are not displayed on the PFD speed tape if both FACs are off.
+    * Fuel Tank Management
+      The center tank fuel feeding is active only when the slats/flaps are not extended. During take off and landing, each engine must be fed by its own tank. In case of a fuel problem, both engines would not stop at the same time.
+    * Metric Altitude
+      The metric altitude is implemented: the FCU selected altitude is displayed on the bottom part of the SD.
+    * Spped Brake Alert
+      A new alert has been implemented to display a warning if the speed brakes are deployed while the engines are providing thrust.
+    * FADEC
+      Improved multi-throttle devices to control each thrust lever independently.
+    * Engine and Door Selection
+      Improved engine selection from FS standard keys E-1, 2, 3, 4. This allows separate engine control with a single throttle lever.
+      Also valid for doors selection: Shift-E-1 and 2 open/close the aircraft doors.
+    * Radio
+      The radio master switch located on the Radio Management Panel is efficient and the radio stops when the switch is off. In addition, this switch is turned off when cold & dark option is selected.
+    * Hydraulics - Yellow Electric Pump
+      The yellow electric pump has its own sound, familiar to all the A320 passengers.
+    * Landing Lights
+      On the A320 (Airbus Series Vol. 1), a specific sound is heard when the landing lights are deployed. This is because the landing lights on these aircrafts are deployed below the wings when they are turned on.
+    * MCDU AIRAC Cycle and Version
+      The AIRAC cycle is displayed on the MCDU A/C STATUS Page.
+      In addition, the current version of the Wilco Airbus systems has been added on this same page, at the VERSION line.
+    * SD DOOR Page
+      The door status page shows the right door selections.
+    * Network Flying
+      The TCAS mode is fully compliant with the IVAO/SquawkBox TCAS specifications, very useful for network flights. The AUTO mode is implemented so that the TCAS is automatically set to C-mode when the aircraft leaves the ground, and set back to standby mode when the wheels touch the ground upon landing.
+    * 32-bits rendering
+      The EFIS screens (PFD, ND, E/WD and SD) are now rendered in 32-bits mode. Rendering is improved without any impact on the refresh rate.
+
+MISCELLANEOUS :
+    * Push-back steering (FSX)
+      FSX users will be happy to see the aircraft can be steered during pushback with PPU in FSX. This feature used to work in FS2004 only.
+    * Cold & Dark (FSX)
+      The Cold & Dark feature can be activated through a key press. The key can be defined in the key configurator.
+    * Multiple Monitor Display
+      Improved multi-monitors management for pedestal and overhead consoles.
+    * Expert Mode
+      Improved Expert mode with no more MCDU assistance.
+
+The CALL! series from feelthere may not be compatible with the new Airbus Series Evolution.
+
+
+My first upload, have fun :)
+
+Request update FSC9.1

@@ -1,0 +1,85 @@
+User Type,Username,Date,Text
+,ncaffrey,2011-10-27T20:58Z,"Hey, thanks for this upload, but I'm having a problem getting it to work, when i unzip stataIC and try to install it i get the following error: ""cannot find Stata directory isstata.120 is missing""
+
+Any ideas?"
+,SloveniaX,2011-10-27T22:26Z,"unzip the main archive, then unzip the IC executable (+license) and make sure to put these 2 files in the SAME folder where your other Stata files are (i.e. ones extracted from the main archive)"
+,tb_roxy,2011-11-13T18:48Z,Can any one help me with getting Stata 12 64 bit for Linux.
+,svntn,2011-11-14T21:13Z,"works like a charm, and they finally managed to have a one window interface on OS X too ;) 
+
+Thanks!"
+,SloveniaX,2011-12-08T02:52Z,"@tb_roxy Sorry, haven't seen the linux version of 12 yet. try with that chinese forum + google translate, you might get lucky..."
+,jb0909,2011-12-17T19:40Z,"Win and Linux install are here:
+~~~mxexdxixaxfxixrxe~~~
+/?f858lmiog24ife4"
+,jb0909,2011-12-17T19:42Z,"as you guessed, my link just above meant to read ""m_e_d_i_a_f_i_r_e"""
+,pzxtrpcav,2011-12-18T03:30Z,"Hi SloveniaX, 
+
+Are the files still working? Can't seem to find the Stata IC executable file for windows 32-bit. Any advise how to make Stata IC work? Thanks"
+,jb0909,2011-12-19T10:22Z,"@pzxtrpcav
+
+this is for Mac. For the Win version check the other Stata12 thread on PB, or get the m_e_d_i_a_f_i_r_e link I posted in both threads. I suggest you use the perpetual SE license not the IC."
+,lordryu,2012-01-11T20:29Z,"Does anyone know of a license for STATA MP that is still valid? The one in this torrent expired 12-31-2012.
+
+Thanks!"
+,ism7991,2012-01-12T04:47Z,"I unziped the main archive, then unziped the IC executable (+license). But, I still get ""cannot find Stata directory isstata.120 is missing"". 
+Where should I put these 2 files unziped the IC executable (+license) i.e. what do you mean by the SAME folder where  other Stata files are. Because I have many sub-folders within ""ado"" folder. 
+"
+,tony2302,2012-01-13T02:41Z,"Hello, my state doesn't work. I run it and it just stares jumping in my dock and if if click it it despairs without showing nothing."
+,tony2302,2012-01-13T02:42Z,*My state doesn't work
+,willisnz,2012-01-19T09:38Z,you can copy the isstata.120 file into the IC subfolder and then double click the IC state file and it should come up.
+,willisnz,2012-01-19T09:43Z,"@SloveniaX
+Should we be concerned about 1. the stata ic not being able to update? and 2. the missing mnu file?"
+,SloveniaX,2012-01-20T10:34Z,"@pzxtrpcav just do what jb0909 told you to do. this is not the version for windows, use this instead: http://thepiratebay.org/torrent/6757811/Stata_12_(all_flavours__32_and_64_bit)
+
+@lordryu see makani17's comment here: http://thepiratebay.org/torrent/6757811/Stata_12_(all_flavours__32_and_64_bit) ... maybe you have these pingu coins and can upload the MP license to bayfiles and post the link here?
+
+@ism7991 don't listen to willisnz. instead, copy the IC executable (why don't you just use the SE version?) and the license -both found in the IC archive- to Stata's root folder, i.e. the one where auto.dta, isstata.120, serials.txt and stata.html reside. you should be fine then...
+
+@tony2302 no clue what you're doing wrong, just read the description and comments and you'll figure it out... if not, go buy the original
+
+@willisnz yeah, you should be :) i tested all three versions (except the MP one, which doesn't work due to an expired license) 5min ago and Stata works perfectly plus updates without any problems, so you must be doing something wrong. if you did what you suggested to ism7991, then see what i told him to do
+
+@jb0909 KUDOS TO YOU, MAN!!!"
+,kalkito9,2012-01-21T00:12Z,"Hi!
+
+This is a wonderful work guys.
+Are you really positive that stata continues to work after automatic update (dated nov 2011)?"
+,SloveniaX,2012-01-24T06:52Z,"well, do you have a reason to believe otherwise?"
+,ricochet22,2012-01-24T20:35Z,"yeah, I'm confused, I believe it is working alright other than it says  missing mnu file everytime it opens? what's wrong? how can I fix it?"
+,SloveniaX,2012-01-24T21:02Z,"have you copied the executable and the license (after extracting both) to Stata's root folder, i.e. the one where auto.dta, isstata.120, serials.txt and stata.html reside? I tried it again on a clean OSX install and it works perfectly fine..."
+,SloveniaX,2012-01-24T22:59Z,in case anyone needs the Linux version: http://thepiratebay.org/torrent/6982330/Stata_12_(Linux__all_versions)_-_FULL_INSTALL
+,ricochet22,2012-01-25T02:29Z,"okay, I may sound like a noob, but what's the executable? sorry."
+,ricochet22,2012-01-25T02:33Z,oh I got it thanks SloveniaX!!!!
+,motlesneh,2012-01-28T14:05Z,"Using STATA SE: I got ""bad serial number (r197)"" when I type in 'update query' OR 'update all'"
+,jb0909,2012-01-28T19:08Z,"guys, full OSX install (but without license) is here: 
+
+d*e*p*o*s*i*t*f*i*l*e*s*c*o*m/files/eo6h4jnen
+
+feel free make a new torrent again :)"
+,kalkito9,2012-01-28T20:17Z,"Checked the PC version after update (about 12 routines) and it's working, so for now update is safe to update. Will check osx version later. Thanks again guys!"
+,SloveniaX,2012-01-29T10:20Z,"@all some of you already correctly pointed out that automatic updates recently stopped working using the serial codes provided. you can STILL use these codes to initialize (start using) Stata, but it looks like automatic updating doesn't work anymore. Hey, it was good while it lasted - now we have to find a way around! To do so, just follow these steps (i just verified it works on osx too):
+
+1. download appropriate updates from here: http://www.stata.com/support/updates/
+2. extract the zip archive
+3. type ""db update"" in Stata (once you've installed and initialized it) and then locate the extracted folder with updates on your hard disk
+4. presto, your stata is now (manually) updated
+
+although this will take you 2 minutes more than automatic updating I guess that's still better than nothing LOL"
+,SloveniaX,2012-01-29T10:33Z,http://thepiratebay.org/torrent/6994694/Stata_12_(OSX__all_versions)_-_FULL_INSTALL (thanks to jb0909 - again!)
+,shubhswain,2012-02-05T06:44Z,"Hey Slovenia, I may sound a novice.. I am sorry, but the truth is I am. New to MAc Air, New to Pirate bay and new to install files.  Please help me out. 
+I have downloaded the l link. 
+I have copied the file with stata 12 icon and lic to root folder ( the folder where where ado , serials etc lying)
+I can see the stata 12 icon on my dock after clicking on the stata icon in the folder. ( I did not see any installation process !!) 
+what steps I missed?
+
+Thank you so much"
+,shubhswain,2012-02-05T20:35Z,"I downloaded the torrent. then I extracted Stat SE  zip folder .. then I copied LIC and the file with stats Icon ( is this the executable file?)   to the root folder.. the folder which  i have got from torrent.  when I click on the executable file then i can see stata getting initialized and i can the icon on my doc. BUT The graph, more and break icons are inactive in the stata window. I also cant open other stat files copied from my window version PCs ( is there any issue of compatibility of stata  file worked on window based PCs and stata on OSX?)
+
+I also down loaded uploaded zip and followed the advised procedure , now I can see the window says, stata is successfully updated . but still the problem  ( which I mentioned earlier) persists.
+
+Please HELP"
+,SloveniaX,2012-02-05T21:59Z,"@shubhswain hey man, before we start troubleshooting what might have gone wrong with your installation, I suggest you first try properly installing the version I uploaded just recently (mentioned two posts above). if that one installs and runs OK, it means there was something wrong with the way you installed this one. If that one fails too, then you've got a bigger problem... let us know if it worked for you (this way you will also help others that might have the same problem). thanks"
+,a_sigma,2012-03-23T01:02Z,"hi..firstly i'm new to mac so forgive me my ignorance:P..i just installed this on my new mac but whenever i try to initialize the program by filling in the serial number, code and key...it doesn't allow me to press 'ok'...so i guess it's not working..and when i hit cancel the following msg pops up 'cannot find license file stata.lic..
+i tried reading the comments on this ...but i can't find the executable file or license file...?
+
+please help, i've got to finish an important project and my pc is broken:("

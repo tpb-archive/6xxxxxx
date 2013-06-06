@@ -1,0 +1,62 @@
+Altium Designer 10.700.22943 (2011)
+
+Altium Designer - Complex system of designing high-speed electronic devices based on printed circuit boards, which 
+
+allows developers to create projects, from concept and VHDL-description of the FPGA, to carry out simulation derived 
+
+schemes and VHDL-code, prepare files for production, and the concept of Live Design, the so-called living design, 
+
+allows it to complete the project on-board debugging NanoBoard.
+
+
+System requirements:
+* Windows XP SP2 Professional or later
+* Intel Pentium IV (4) 1,8 GHz or higher
+* 1 GB of RAM
+* 3,5 GB hard disk space (Installation + User Files)
+* Monitor resolution of 1280x1024 is highly recommended:
+- The SECOND monitor with minimum screen resolution of 1024x768
+- (YES it is software made for two monitors!)
+* NVIDIA GeForce 6000/7000 series, 128 MB or above
+* Parallel port (for connecting to the NanoBoard-NB1)
+* USB2.0 port (for connecting to the NanoBoard-NB2)
+* Adobe Reader 8 or higher
+* DVD-drive
+
+Installation:
+
+This is a russian release (the software is ENGLISH), so the /Patch... directory software is in russian language.
+I've dissected that piece of software and found nothing peculiar in the code.... (and no, I haven't had the time to 
+
+translate the russian strings to english strings... get PE explorer and do it yourself).
+
+## This release contains NO vendor directories. This is a standalone clean install.
+## At least have 10.589.22577 installed.
+
+Mount image in UltraIso or DaemonTools, installed via AltiumInstaller.exe, replace dxp.exe, edit AD10.700.ini
+to the instructions in russian (or see previous release CRACK_EN.txt, run the (russian software) from left to rigt. 
+
+The three buttons is "Read AD10.INI", "Create ALF license file" and "Exit"...
+
+Whereas previously there were previous versions use AltiumUninstaller.exe, just might have to hand delete the file 
+
+C:\Users\User_Name\AppData\Local\Altium\AltiumInstaller.ini - in Win7.
+
+In WinXP you must remove the same file AltiumInstaller.ini, location of a similar, but for XP - a descent can not 
+
+remember, use the search file. If AltiumInstaller.ini can't be found or removed, then reinstall to begin with the 
+
+former place.
+
+Year: 2011
+Version: 10.700.22943
+Developer: Altium
+Resolution: 32bit
+Compatibility with Vista: complete
+Compatible with Windows 7: complete
+
+And a extra thanks to mandresc for figuring out the C to hardware (CHC) and Unified Compiler. His help is fantastic. 
+
+Why don't you help out more? Ask yourself!
+
+//Longword

@@ -1,0 +1,44 @@
+User Type,Username,Date,Text
+,hafina,2011-10-26T17:48Z,Serial invalid
+,bialystok,2011-10-27T19:23Z,"Serial is not working, by the way thanks for sharing"
+,samopalXP,2011-10-28T11:55Z,"The Worker key, please."
+,sam12771,2012-01-07T12:00Z,"the code works wonderful.
+but follow what king7777 has commented on seen4all's upload
+use the codes given by Win4Max
+
+""""k1ng7777 at 2011-10-19 19:20 CET:
+These are THE BEST instructions to make this work.
+
+- Double click ""powersuite.exe"" to start installation
+- Follow on screen instructions and complete the installation
+- Exit Power Suite from the system tray
+- Go to Start Menu & Click on Computer
+- Go to C Drive --> Program Files --> Uniblue --> RegistryBooster
+- Find ""registrybooster.exe"" and double right click it with your mouse
+- Make sure that ""registrybooster.exe"" is loaded and running in System Tray.
+- Go to Start Menu, Click on Run... and type in the box : regedit
+- Press OK it will then open the Registry Editor
+- In the drop down menu list, Double Click on
+HKEY_CLASSES_ROOT, Scroll down and find CLSID
+- Right Click on CLSID and select Find... this will open a search window.
+- Uncheck ""Keys"" & ""Data""
+- Checked mark the ""Values"" & ""Match whole string only""
+- Type these two letters: FC in the search box and Click on ""Find Next""
+- When the search stopped, it will show two key strings on the right panel named : (Default) and FC
+- Double Click on FC
+- Change the Value Data to this numbers: 85 and then Press OK
+- Still on the Right Panel, Right Click mouse on the empty space
+- Click New --> String --> type in the word: License, this will create a new string named ""License"" under the ""FC"" string
+- Double Left Click mouse on the ""License"" string
+- Enter data value as: PS-ZMYAQ-N6SNK-J9BD6-53HZF-LV833-UW27K and Click OK
+- Closed the Registry Editor windows
+- Shutdown and Exit RegistryBooster in the system tray
+- Now Click on the Power Suite icon on the desktop to start Power Suite
+- Make sure to have your Internet Connection on.
+- Now you're good to go
+
+Important note****
+Make sure that after each try, you close the powersuite icon in your system tray after you hit quit in license window. otherwise it will not apply the new registry values.
+
+Another important note***
+After you have followed all the steps and you open Powersuite, you will probably get the pop up window to input the serial... just put in the serial that is in the above instructions... you should be good to go.."""""

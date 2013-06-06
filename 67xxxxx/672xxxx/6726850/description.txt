@@ -1,0 +1,23 @@
+Welcome to Tiny Core Linux
+
+Tiny Core Linux is a very small (&lt;12 MB) minimal Linux GUI Desktop. It is based on Linux 3.0 kernel, Busybox, Tiny X, and Fltk. The core runs entirely in ram and boots very quickly. Also offered are Micro Core, a 8 MB image that is the console based engine of Tiny Core, and Multi Core, which includes Tiny Core, Micro Core, networking tools and an installer. Micro Core contains CLI versions of Tiny Core's programs allowing the same functionality of Tiny Core's extensions, only starting with a console based system.
+
+It is not a complete desktop nor is all hardware completely supported. It represents only the core needed to boot into a very minimal X desktop typically with wired internet access.
+
+The user has complete control over which applications and/or additional hardware to have supported, be it for a desktop, a netbook, an appliance, or server, selectable by the user by installing additional applications from online repositories, or easily compiling most anything you desire using tools provided.
+
+The latest version: 4.0.1 
+http://distro.ibiblio.org/tinycorelinux/welcome.html
+
+A bug fix and adjustments release.
+
+Change log:
+* Updated tc-config for better detection of /dev/rtc
+* Updated rebuildfstab for better cdrom scanning and to eliminate boot errors.
+* Updated filetool.sh for initial use of SAFE backup option.
+* Updated tce-setup for processing extensions on cd - new boot code 'cde' which results in scanning cd for additional extensions to load. This should eliminate the cd boot errors and is used in new multicore.
+
+* Updated multicore with new wl.tcz and updated tc-install, tc-grub4dos, and ezremaster. Multicore can now be used as an addon to existing 4.x installations for rarely used extensions.
+
+
+md5sum : 5b00be5de199e40db4b9b0adaec14864  multicore_4.0.1.iso

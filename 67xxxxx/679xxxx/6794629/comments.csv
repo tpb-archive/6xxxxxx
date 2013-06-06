@@ -1,0 +1,76 @@
+User Type,Username,Date,Text
+,420hookah,2011-11-04T15:41Z,Serial Key does not work.
+,toshmo284,2011-11-04T21:42Z,"Because you missed the first step:
+
+""1. DISABLE your Internet Connection"""
+,jersson,2011-11-05T18:46Z,"Yepp, toshmo 284 is right. If you do not disconnect your internet connection your key will be blacklisted and then noone can use it"
+,Hector25,2011-11-14T02:45Z,"I followed all instructions but when I entered a serial key...it said ""invalid"""
+,jjdoe43,2011-11-19T12:59Z,serial really doesnt work
+,ZeroSeekerJR,2011-11-20T04:38Z,the key works everythign works great thanks
+,megedo,2011-12-05T13:50Z,"it works fine , but could i after blocking updates to connect to internet to check spyware,malware, and check outdated and nissing files?"
+,trueprime,2012-01-15T04:07Z,"It installed as said but when i clicked on one of the scans it went online and blocked me.  I tried to uninstall then re-install with internet off, but it knows about my previous attempt.  Is there a file that i need to delete outside of the uninstall so I can do a fresh install?  Thanks."
+,btapsho,2012-01-23T17:19Z,"Went to firewall settings and didnt see ""systweak"", figured I didnt have to disable anything, and then once I turn internet back on, I got the piracy warning."
+,btapsho,2012-01-23T17:20Z,the serial worked tho
+,coldsteel2008,2012-01-27T00:16Z,"Ok. everything worked fine. just didnt get the whole systwek thing. It sent me to the website and gave me the whole ""pirated version"" bs. Now my reg expired. Can this b fixed?
+Maybe unistall and reinstall? PleaSE explain the systweak...."
+,Straydog1st,2012-02-05T02:53Z,"HOW  TO  FIX  TRIAL  PERIOD  ENDED
+
+http://www.addictivetips.com/windows-tips/how-to-reinstall-trial-software-after-trial-period-has-expired/"
+,crimsoncore,2012-02-13T04:26Z,"somehow they manage to detect that its pirated!! they even collected my IP address and location damn it!!! Is there any otherway?
+
+even turning off the inernet and running the first time... but if you turn on your internet they'll detect it! theres no way!!! damn it!!!"
+,Kartos,2012-03-11T23:22Z,i need new serial...!
+,AppGenius,2012-03-21T22:00Z,"Try these:
+029F0F-5JQ67T-K9ZQVX-MCW6V3-5X足RPKK
+02FB1W-WHGM9F-RZQ足67K-QQPBAV-EY2WY3
+Words of advice:
+(To block the program from accessing the internet, you need to use Windows Firewall. Just go to firewall, then outbound rules and then create a rule for Advanced System Optimizer.
+You need to block ALL individual files in advanced system optimizer folder in c/program files. Remember to DISCONNECT THE INTERNET WHEN REGISTERING. It will take quite long to crack this program with firewall but not too long so do this and you should be registered! And please make sure you disconnect your internet when installing, registering and until the program is blocked with Windows Firewall, if you don't know how to block programs with Windows Firewall, than just navigate to the link provided in this comment and watch that video to learn how. And also, some of you guys may say that you have been sent to the pirated version webpage, the page where they say that they have collected your IP address and location, I wouldn't worry too much about that because I think that is just to scare you into buying a genuine version of the product, I've been there too but I don't think it matters."
+,ARxft,2012-03-25T15:42Z,appgenius ...ur r8..
+,nrkadil,2012-04-14T23:46Z,"Thnx AppGenius !
+it really worked... you just need to block all .exe files in the installation folder.... via firewall..after that it will work fine...
+these are almost 42 or 43 files...
+here are the links to screenshots of blocked .exe file...( which i hv done using Avast pro 7...)
+after blocking all .exe files via firewall..just register again...(note that internet connection should be off while registering)
+thnx to uploader......
+
+http://s1165.photobucket.com/albums/q591/nrkadil/?action=view&current=Capture3.jpg
+
+
+http://s1165.photobucket.com/albums/q591/nrkadil/?action=view&current=Capture3.jpg#!oZZ2QQcurrentZZhttp%3A%2F%2Fs1165.photobucket.com%2Falbums%2Fq591%2Fnrkadil%2F%3Faction%3Dview%26current%3DCapture2.jpg
+
+http://s1165.photobucket.com/albums/q591/nrkadil/?action=view&current=Capture3.jpg#!oZZ3QQcurrentZZhttp%3A%2F%2Fs1165.photobucket.com%2Falbums%2Fq591%2Fnrkadil%2F%3Faction%3Dview%26current%3Dsniff1.jpg
+"
+,blindbat8282,2012-04-22T10:06Z,Thanks AppGenius. Did all the steps mentioned but the the Driver Updater wont update as it says it needs access to the server and my firewall is blocking it. Do you have any idea what I can do. Also now my copy says registered but when I used Memory optimizer for instance it says my subscription has ended. Any ideas what I can do. 
+,01WelshMe01,2012-04-26T20:29Z,"go to C:WindowsSystem32driversetc
+
+edit host file and put this in it
+
+
+127.0.0.1  systweak.com
+127.0.0.1  www.systweak.com
+127.0.0.1  www.systweak.com/asov2
+127.0.0.1  http://www.systweak.com
+127.0.0.1  http://www.systweak.com/asov2"
+,sg_vibhu,2012-04-29T14:07Z,how does editing host files help?
+,01WelshMe01,2012-04-29T19:47Z,"Editing the host file will tell your system 127.0.0.1, which is an IP address that always points back to your own machine, you will block these sites from being able to be reached for updates and block keys."
+,sg_vibhu,2012-04-29T20:24Z,"I edited the host files. Blocked the app with firewall. But programs like driver updater are still not working properly.
+I created an inbound rule for it. Clicked on update drivers after performing  a scan. But it did not downloaded the drivers saying I didnt had a geniune copy of program, but there was no warning and my program was registered because I created the inbound blocking rule.
+so now whats the use of blocking and keeping your program registered if you are not able to use the program completely.
+OR just say that we cannot use any program related to this software that requires internet access or downloading like driver updater or systemprotector, etc."
+,01WelshMe01,2012-04-30T00:21Z,"drivers will not update as they will detect it as a illegal copy. I just use this clean up system and use
+
+http://thepiratebay.se/torrent/6950482/DriverPack_Solution_v12_Multi-Rev237-Fixed_English_Menu_bar"
+,CodeRed24,2012-05-15T15:04Z,"courtesy : 01WelshMe01 
+go to C:WindowsSystem32driversetc
+
+edit host file and put this in it
+
+
+127.0.0.1 systweak.com
+127.0.0.1 www.systweak.com
+127.0.0.1 www.systweak.com/asov2
+127.0.0.1 http://www.systweak.com
+127.0.0.1 http://www.systweak.com/asov2"
+,ironymon,2012-05-26T13:07Z,"Either this, or a patch that not only blocks key but also allows you to update the software... outdated  software is even more dangerous than the virus spyware malware."
+,NowImBig,2012-06-01T23:46Z,This no longer works

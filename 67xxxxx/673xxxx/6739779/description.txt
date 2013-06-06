@@ -1,0 +1,12 @@
+- Fixes 'PhysX Failed To Initialise' when SSE not present (AthlonXP CPU)
+- Legacy screenshots are no longer whispy
+- AI, player, particles and camera updates are synchronised
+- FPS Limit at 30 and 60 offered as command line options
+- Punch-through on HSC gantries fixed on Legacy
+- Crawling AI from scenario editor problems resolved
+- Added OnCameraEnter and OnCameraLeave for engine/wagon scripts
+- Depth of Field not turned on after losing full screen
+- SD40-2 sits on rails
+- Class 55 cab gaps fixed
+
+thanks to mimi and SKIDROW as always!

@@ -1,0 +1,61 @@
+Chakra - 2011-11-05 - Edn
+The Chakra Development Team is proud to announce the second release of Edn, Chakra GNU/Linux featuring Linux 3.0 and KDE 4.7.
+As announced after the last team meeting, this is a regular scheduled release, approximately 7-10 days after a new version of KDE is announced. Besides the latest KDE version, this release features an updated toolchain and a split of Qt and QtWebkit, thus enabling html5 and WebGL support for Qt/KDE web-browsers.
+Chakra is now offering a DVD and CD version. The CD version is to get to a minimal working KDE desktop, with only a text-editor, file-manager, web-browser and a simple media player installed, no further apps, no language packs.
+The DVD version includes all the language packs, most of standard KDE apps, libre-office 3.4.4, clementine, xbmc, calibre, printer support, minitube, k3b to name a few.
+With this release we offer:
+    * KDE 4.7.3
+    * Linux 3.0.8
+    * gcc updated to 4.6.1, glibc to 2.14.1
+    * DVD image, including all locales and a nice selections of apps
+    * minimal CD image you can build your desktop on
+    * ported tribe for KDE 4.7 series
+    * updated dbus
+    * QtWebkit 2.2
+    * updated initscripts with the option to test systemd
+    * updated mesa-stack
+You can install additional packages from our repositories.
+For all our GTK fans we added some more popular GTK-apps as bundles. You can download them from our bundle page and run them with a simple double-click right away. More about it you can read here.
+If you miss one package you need you can take a look at the Chakra Community Repo where our users add additonal PKGBUILDs you can simply compile from source tarballs or install with AppSet. Read the CCR User Guidelines to get started.
+A good start is to read our Wiki or visit our Forums. If you are from Italy or speak Italian, we recommend our partner page chakra-project.it.
+To create reliable installation media, please follow the instructions in the wiki. Chakra's ISO's do not support unetbootin, and for CD/DVD need a burn speed no higher then 4x.
+
+Other features to mention:
+    * Xorg 7.6 Stack with Mesa 7.11 and Xorg-Server 1.10.4
+    * Updated Xorg Drivers
+    * switch from heimdal to krb5 (including rebuilds of depending pkgs)
+    * fixed burg theme
+    * burg saves last boot-state
+    * fixes for kvm and virtualbox
+    * updated networkmanagement
+Read the "Build Notes" for further information.
+All the best
+The Chakra GNU/Linux Developers Team
+
+Build-Notes
+Changes in core:
+    * total rebuild against new toolchain
+    * Kernel updates for 3.0 series
+    * Initscripts updates
+    * burg updates
+    * krb5 replaces heimdal
+Changes in platform:
+    * Hardware detection updated
+    * Driver updates
+    * Xorg-Server fixes
+    * Mesa-Stack updated
+Changes in desktop:
+    * KDE SC updated to 4.7.3
+    * Networkmanagement updated
+Changes in Apps:
+    * Addition of the new telepathy-kde packages
+    * A gtk2 free libreoffice is available 
+http://chakra.sourceforge.net/get/release_notes.php?release=20111105
+ 
+http://chakra.sourceforge.net/donate.html 
+http://chakra.sourceforge.net/index.html 
+http://chakra.sourceforge.net/news/ 
+http://chakra.sourceforge.net/get/ (DVD versions, ...)
+
+sha1sum : 46a6368e6e3f532d1f5edb57691abed49b02df67  Chakra-2011.11-Edn-CD-x86_64.iso
+md5sum : d744c3b52abf4a97580f0abc04b0fd1f  Chakra-2011.11-Edn-CD-x86_64.iso

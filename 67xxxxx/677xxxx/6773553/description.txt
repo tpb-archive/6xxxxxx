@@ -1,0 +1,15 @@
+This is an ISO image of a CD to repair Windows 2000 registry damage. It is made from stuff that's widely available, but it took me a few tries to get it right. I hope that this will be useful to someone. It MAY also work on Windows XP or 2003. Vista/"7" are not likely to be helped with this.
+
+Procedure to use:
+
+1. Download ISO image with your favorite BitTorrent client.
+2. Burn as an IMAGE (not a file!) with a CD burning program. CDRTFE is a great free one.
+3. Boot from CD (you may have to press a key at startup or change the BIOS to allow this)
+4. Press "R" to repair, then select the Windows installation to repair. You MUST enter a number; simply pressing "Enter" will reboot.
+5. Comment on whether or not this worked for you.
+
+I am a technician, and I was hoping to find a pre-built copy of this somewhere, but I couldn't. I hope that I can save someone else the trouble I had to go to.
+
+Here's how I made this, for those who care:
+ 
+http://forums.pcper.com/showthread.php?t=384102

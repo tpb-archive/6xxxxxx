@@ -1,0 +1,48 @@
+Tiny Core Linux is a very small (10 MB) minimal Linux GUI Desktop. It is based on Linux 2.6 kernel, Busybox, Tiny X, and Fltk. The core runs entirely in ram and boots very quickly. Also offered are Micro Core, a 6 MB image that is the console based engine of Tiny Core, and Multi Core, which includes Tiny Core, Micro Core, networking tools and an installer. Micro Core contains CLI versions of Tiny Core's programs allowing the same functionality of Tiny Core's extensions, only starting with a console based system.
+It is not a complete desktop nor is all hardware completely supported. It represents only the core needed to boot into a very minimal X desktop typically with wired internet access.
+The user has complete control over which applications and/or additional hardware to have supported, be it for a desktop, a netbook, an appliance, or server, selectable by the user by installing additional applications from online repositories, or easily compiling most anything you desire using tools provided.
+The latest version: 4.0 
+http://distro.ibiblio.org/tinycorelinux/welcome.html
+
+Change log:
+* Updated kernel to 3.0.3
+* Updated udev to 173
+* Updated glibc to eglibc-2.13
+* Updated e2fsprogs base libs to 1.41.14
+* Updated gcc base libs to 4.6.1
+* Updated util-linux base libs to 2.19.1
+* Updated eglibc for 486/586 support.
+* Updated base Xlibs (microcore users need to get new Xlibs.tcz)
+* Updated all the custom core utilities to use the new repository area.
+* New loadcpufreq to handle module loading.
+* Updated ondemand for console based extensions via Freedesktop Exec=cliorx prgname
+* Updated tce-load and tce-audit for dynamic KERNEL dependency processing.
+* Adjusted .xsession to handle X startup failure.
+* Adjusted .setbackground colors for wallpaper handling.
+* Updated AppBrowser Search and Keyword as described below.
+* Updated ab Search and Keyword.
+* Updated search.sh internal script support for new search method shared by AppBrowser and ab
+* New keyword.sh internal script support for new keyword method shared by AppBrowser and ab
+* Updated loadcpufreq ( C rewrite for speed)
+* Updated busybox 1.19.2 with latest patches and nbd-client
+* Updated rebuildfstab, tc-config, and rc.shutdown for nbd-client support.
+* Updated getTime.sh for random selection of time servers (atl chi sj).
+* Updated Luxi fonts to disable hinting.
+
+Notes:
+The Search method for both AppBrowser and ab is now a local info.lst search.
+To use enter the starting few characters of the desired extension, e.g., abi for abiword, or ope for opera
+
+Both AppBrowser and ab now offer Keyword searching.
+Examples: enter browser to display browsers, enter game to list games.
+
+The following has been deprecated in the 4.x series:
+* Floppy Tool (floppytool.sh and fdtool)
+* Starter Packs (loadpack and loadpack.sh)
+* Hybrid Mode (boot local and mktclocal)
+
+The new repository areas:  http://distro.ibiblio.org/tinycorelinux/4.x/x86/tcz/
+
+Attn: Micro Core users will need new wbar.tcz, Xlibs.tcz, and Xprogs.tcz from 4.x repository.
+
+md5sum : 7ab1b3b333444f72a7785c33a0fadd32  microcore_4.0.iso

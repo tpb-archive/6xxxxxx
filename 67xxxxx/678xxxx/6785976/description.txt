@@ -1,0 +1,351 @@
+Well here it is another new AMD leaked driver dated from October 25 as
+another newer catalyst 11.10 beta as it does not get full WHQL MSL Lab certification anyway.However AMD sign ;)
+Btw,
+new official catalyst 11.10 WHQL Final from today get their respective new driver dated from october 12 :
+
+Build info:
+8.902-111012a-127455C-ATI
+DriverVer=10/12/2011, 8.902.0.0000
+Sign date: October 27 (Microsoft WHQL)
+
+...
+
+Let's see more details about this new driver right now :
+
+;-----------------------------------------------
+;----------1110260227-8.911-111025a-127481E-ATI
+;-----------------------------------------------
+; ATI Display Information file : atiilhag.inf
+;
+; Installation INF for the ATI display driver.
+; Copyright(C) 1998-2006 ATI Technologies Inc.
+;-----------------------------------------------
+; PX - PX Proxy mode
+; PR - PX Proxy Ready
+
+[Version]
+Signature="$Windows NT$"
+Provider=%ATI%
+ClassGUID={4D36E968-E325-11CE-BFC1-08002BE10318}
+Class=Display
+DriverVer=10/25/2011, 8.911.0.0000
+;;LayoutFile=layout.inf
+CatalogFile=CL127481.CAT
+
+
+Supported products :
+
+[Manufacturer]
+%ATI% = ATI.Mfg, NTx86.6.0
+
+[ATI.Mfg.NTx86.6.0]
+"%AMD9612.1%" = ati2mtag_RS780MX9, PCI\VEN_1002&DEV_9612&SUBSYS_843A1043
+"%AMD9519.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9519
+"%AMD9452.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9452
+"%AMD9450.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9450
+"%AMD688D.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_688D
+"%AMD688C.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_688C
+"%AMD6741.1%" = ati2mtag_VancouverA, PCI\VEN_1002&DEV_6741
+"%AMD6743.1%" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6743
+"%AMD675F.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_675F
+"%AMD9804.1%" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9804
+"%AMD9807.1%" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9807
+"%AMD9805.1%" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9805
+"%AMD9802.1%" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9802
+"%AMD9803.1%" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9803
+"%AMD9806.1%" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9806
+"%AMD68E4.1%" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E4
+"%AMD68E5.1%" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E5
+"%AMD9642.1%" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9642
+"%AMD6770.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6770
+"%AMD6760.1%" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6760
+"%AMD9644.1%" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9644
+"%AMD9645.1%" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9645
+"%AMD6761.1%" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6761
+"%AMD6779.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6779
+"%AMD6759.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6759
+"%AMD6750.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6750
+"%AMD964A.1%" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_964A
+"%AMD9640.1%" = ati2mtag_Sumo_Desktop, PCI\VEN_1002&DEV_9640
+"%AMD6758.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6758
+"%AMD68BA.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BA
+"%AMD68BF.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BF
+"%AMD673E.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_673E
+"%AMD6740.1%" = ati2mtag_VancouverA, PCI\VEN_1002&DEV_6740
+"%AMD6738.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6738
+"%AMD6739.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6739
+"%AMD689B.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_689B
+"%AMD671C.1%" = ati2mtag_NICayman, PCI\VEN_1002&DEV_671C
+"%AMD671D.1%" = ati2mtag_NICayman, PCI\VEN_1002&DEV_671D
+"%AMD6718.1%" = ati2mtag_NICayman, PCI\VEN_1002&DEV_6718
+"%AMD6719.1%" = ati2mtag_NICayman, PCI\VEN_1002&DEV_6719
+"%AMD671F.1%" = ati2mtag_NICayman, PCI\VEN_1002&DEV_671F
+"%AMD6720.1%" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6720
+"%AMD6778.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6778
+"%AMD68FA.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68FA
+"%AMD6850.1%" = ati2mtag_R475, PCI\VEN_1002&DEV_6850
+"%AMD6858.1%" = ati2mtag_R475, PCI\VEN_1002&DEV_6858
+"%AMD6859.1%" = ati2mtag_R475, PCI\VEN_1002&DEV_6859
+"%AMD677B.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_677B
+"%AMD6772.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6772
+"%AMD675D.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_675D
+"%AMD6742.1%" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6742
+"%AMD6841.1%" = ati2mtag_R476, PCI\VEN_1002&DEV_6841
+"%AMD675B.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_675B
+"%AMD6751.1%" = ati2mtag_NI, PCI\VEN_1002&DEV_6751
+"%AMD6840.1%" = ati2mtag_R476, PCI\VEN_1002&DEV_6840
+"%AMD6763.1%" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6763
+"%AMD9643.1%" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9643
+"%AMD9648.1%" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9648
+"%AMD9649.1%" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9649
+"%AMD9647.1%" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9647
+"%AMD9641.1%" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_9641
+"%AMD958D.1%" = ati2mtag_RV630GL, PCI\VEN_1002&DEV_958D
+"%AMD958C.1%" = ati2mtag_RV630GL, PCI\VEN_1002&DEV_958C
+"%AMD940F.1%" = ati2mtag_R600GL, PCI\VEN_1002&DEV_940F
+"%AMD9511.1%" = ati2mtag_RV630GL, PCI\VEN_1002&DEV_9511
+"%AMD940B.1%" = ati2mtag_R600GL, PCI\VEN_1002&DEV_940B
+"%AMD940A.1%" = ati2mtag_R600GL, PCI\VEN_1002&DEV_940A
+"%AMD68E9.1%" = ati2mtag_EvergreenC_GL, PCI\VEN_1002&DEV_68E9
+"%AMD688A.1%" = ati2mtag_EvergreenGL, PCI\VEN_1002&DEV_688A
+"%AMD68F1.1%" = ati2mtag_EvergreenGL, PCI\VEN_1002&DEV_68F1
+"%AMD95CE.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_95CE
+"%AMD95CF.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_95CF
+"%AMD68F2.1%" = ati2mtag_EvergreenC_GL, PCI\VEN_1002&DEV_68F2
+"%AMD95CD.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_95CD
+"%AMD94A3.1%" = ati2mtag_M9x7, PCI\VEN_1002&DEV_94A3
+"%AMD946A.1%" = ati2mtag_M9x8, PCI\VEN_1002&DEV_946A
+"%AMD9557.1%" = ati2mtag_R7XGL, PCI\VEN_1002&DEV_9557
+"%AMD6728.1%" = ati2mtag_NIGL, PCI\VEN_1002&DEV_6728
+"%AMD6729.1%" = ati2mtag_NIGL, PCI\VEN_1002&DEV_6729
+"%AMD6700.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6700
+"%AMD6701.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6701
+"%AMD6702.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6702
+"%AMD6703.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6703
+"%AMD6704.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6704
+"%AMD6705.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6705
+"%AMD6706.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6706
+"%AMD6707.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6707
+"%AMD6708.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6708
+"%AMD6709.1%" = ati2mtag_NICaymanGL, PCI\VEN_1002&DEV_6709
+"%AMD6749.1%" = ati2mtag_NIGL, PCI\VEN_1002&DEV_6749
+"%AMD6780.1%" = ati2mtag_R575GL, PCI\VEN_1002&DEV_6780
+"%AMD6784.1%" = ati2mtag_R575GL, PCI\VEN_1002&DEV_6784
+"%AMD674A.1%" = ati2mtag_NIGL, PCI\VEN_1002&DEV_674A
+"%AMD95CC.1%" = ati2mtag_RV620GL, PCI\VEN_1002&DEV_95CC
+"%AMD949F.1%" = ati2mtag_R7XGL, PCI\VEN_1002&DEV_949F
+"%AMD68C9.1%" = ati2mtag_EvergreenGL, PCI\VEN_1002&DEV_68C9
+"%AMD68C8.1%" = ati2mtag_EvergreenGL, PCI\VEN_1002&DEV_68C8
+"%AMD949E.1%" = ati2mtag_R7XGL, PCI\VEN_1002&DEV_949E
+"%AMD68A9.1%" = ati2mtag_EvergreenGL, PCI\VEN_1002&DEV_68A9
+"%AMD949C.1%" = ati2mtag_R7XGL, PCI\VEN_1002&DEV_949C
+"%AMD9446.1%" = ati2mtag_RV7XGL, PCI\VEN_1002&DEV_9446
+"%AMD6889.1%" = ati2mtag_EvergreenGL, PCI\VEN_1002&DEV_6889
+"%AMD9456.1%" = ati2mtag_RV7XGL, PCI\VEN_1002&DEV_9456
+"%AMD9447.1%" = ati2mtag_RV7XGL, PCI\VEN_1002&DEV_9447
+"%AMD9444.1%" = ati2mtag_RV7XGL, PCI\VEN_1002&DEV_9444
+"%AMD6888.1%" = ati2mtag_EvergreenGL, PCI\VEN_1002&DEV_6888
+"%AMD958F.1%" = ati2mtag_M76GL, PCI\VEN_1002&DEV_958F
+"%AMD9595.1%" = ati2mtag_M76GL, PCI\VEN_1002&DEV_9595
+"%AMD959B.1%" = ati2mtag_M76GL, PCI\VEN_1002&DEV_959B
+"%AMD9713.1%" = ati2mtag_RS880M, PCI\VEN_1002&DEV_9713
+"%AMD94C9.1%" = ati2mtag_M72, PCI\VEN_1002&DEV_94C9
+"%AMD94C8.1%" = ati2mtag_M72, PCI\VEN_1002&DEV_94C8
+"%AMD9581.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_9581
+"%AMD9583.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_9583
+"%AMD95C4.1%" = ati2mtag_M72, PCI\VEN_1002&DEV_95C4
+"%AMD95C2.1%" = ati2mtag_M72, PCI\VEN_1002&DEV_95C2
+"%AMD9591.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_9591
+"%AMD9593.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_9593
+"%AMD9504.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_9504
+"%AMD9506.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_9506
+"%AMD9508.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_9508
+"%AMD9509.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_9509
+"%AMD9712.1%" = ati2mtag_RS880M, PCI\VEN_1002&DEV_9712
+"%AMD9552.1%" = ati2mtag_M9x, PCI\VEN_1002&DEV_9552
+"%AMD955F.1%" = ati2mtag_M9x, PCI\VEN_1002&DEV_955F
+"%AMD9553.1%" = ati2mtag_M9x, PCI\VEN_1002&DEV_9553
+"%AMD9555.1%" = ati2mtag_M9x, PCI\VEN_1002&DEV_9555
+"%AMD9480.1%" = ati2mtag_M9x, PCI\VEN_1002&DEV_9480
+"%AMD9488.1%" = ati2mtag_M9x, PCI\VEN_1002&DEV_9488
+"%AMD94A0.1%" = ati2mtag_M9x7, PCI\VEN_1002&DEV_94A0
+"%AMD944A.1%" = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A
+"%AMD944B.1%" = ati2mtag_M9x8, PCI\VEN_1002&DEV_944B
+"%AMD94A1.1%" = ati2mtag_M9x7, PCI\VEN_1002&DEV_94A1
+"%AMD945A.1%" = ati2mtag_M9x8, PCI\VEN_1002&DEV_945A
+"%AMD68C0.1%" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68C0
+"%AMD68C1.1%" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68C1
+"%AMD68E0.1%" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E0
+"%AMD68E1.1%" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1
+"%AMD68C7.1%" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68C7
+"%AMD68B0.1%" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68B0
+"%AMD68A0.1%" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68A0
+"%AMD68A1.1%" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68A1
+"%AMD6842.1%" = ati2mtag_R476, PCI\VEN_1002&DEV_6842
+"%AMD6849.1%" = ati2mtag_R475, PCI\VEN_1002&DEV_6849
+"%AMD68A8.1%" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68A8
+"%AMD9616.1%" = ati2mtag_RS780, PCI\VEN_1002&DEV_9616
+"%AMD9611.1%" = ati2mtag_RS780, PCI\VEN_1002&DEV_9611
+"%AMD9613.1%" = ati2mtag_RS780M, PCI\VEN_1002&DEV_9613
+"%AMD9711.1%" = ati2mtag_RS880, PCI\VEN_1002&DEV_9711
+"%AMD94CB.1%" = ati2mtag_M72, PCI\VEN_1002&DEV_94CB
+"%AMD9491.1%" = ati2mtag_M9x, PCI\VEN_1002&DEV_9491
+"%AMD948F.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_948F
+"%AMD9541.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_9541
+"%AMD954E.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_954E
+"%AMD94B1.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_94B1
+"%AMD94C7.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C7
+"%AMD94CC.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_94CC
+"%AMD94C5.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C5
+"%AMD94C3.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3
+"%AMD94C4.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C4
+"%AMD94C1.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1
+"%AMD958E.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_958E
+"%AMD9589.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9589
+"%AMD9587.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9587
+"%AMD9588.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9588
+"%AMD9586.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9586
+"%AMD9405.1%" = ati2mtag_R600, PCI\VEN_1002&DEV_9405
+"%AMD9403.1%" = ati2mtag_R600, PCI\VEN_1002&DEV_9403
+"%AMD9400.1%" = ati2mtag_R600, PCI\VEN_1002&DEV_9400
+"%AMD9401.1%" = ati2mtag_R600, PCI\VEN_1002&DEV_9401
+"%AMD9402.1%" = ati2mtag_R600, PCI\VEN_1002&DEV_9402
+"%AMD9610.1%" = ati2mtag_RS780, PCI\VEN_1002&DEV_9610
+"%AMD9612.2%" = ati2mtag_RS780M, PCI\VEN_1002&DEV_9612
+"%AMD9615.1%" = ati2mtag_RS780, PCI\VEN_1002&DEV_9615
+"%AMD9614.1%" = ati2mtag_RS780D, PCI\VEN_1002&DEV_9614
+"%AMD95C7.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C7
+"%AMD95C5.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C5
+"%AMD95C6.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C6
+"%AMD95C9.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C9
+"%AMD95C0.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C0
+"%AMD9590.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9590
+"%AMD9597.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9597
+"%AMD9598.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9598
+"%AMD9599.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9599
+"%AMD9596.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9596
+"%AMD9507.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9507
+"%AMD9505.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9505
+"%AMD9515.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9515
+"%AMD9513.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9513
+"%AMD9501.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9501
+"%AMD950F.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_950F
+"%AMD9710.1%" = ati2mtag_RS880, PCI\VEN_1002&DEV_9710
+"%AMD9715.1%" = ati2mtag_RS880, PCI\VEN_1002&DEV_9715
+"%AMD9714.1%" = ati2mtag_RS880, PCI\VEN_1002&DEV_9714
+"%AMD954F.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_954F
+"%AMD9540.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_9540
+"%AMD9487.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_9487
+"%AMD9490.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_9490
+"%AMD9498.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_9498
+"%AMD9495.1%" = ati2mtag_R7X, PCI\VEN_1002&DEV_9495
+"%AMD944E.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_944E
+"%AMD94B4.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_94B4
+"%AMD94B3.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_94B3
+"%AMD94B5.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_94B5
+"%AMD9440.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9440
+"%AMD9442.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9442
+"%AMD944C.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_944C
+"%AMD9460.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9460
+"%AMD9462.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9462
+"%AMD9443.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9443
+"%AMD9441.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9441
+"%AMD68F9.1%" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9
+"%AMD68DA.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DA
+"%AMD68D9.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D9
+"%AMD68B9.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68B9
+"%AMD68D8.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D8
+"%AMD68B8.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68B8
+"%AMD68BE.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BE
+"%AMD6898.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_6898
+"%AMD6899.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_6899
+"%AMD689E.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_689E
+"%AMD689C.1%" = ati2mtag_EvergreenH, PCI\VEN_1002&DEV_689C
+"%AMD689D.1%" = ati2mtag_EvergreenH, PCI\VEN_1002&DEV_689D
+"%AMD683B.1%" = ati2mtag_R575A, PCI\VEN_1002&DEV_683B
+"%AMD683F.1%" = ati2mtag_R575A, PCI\VEN_1002&DEV_683F
+"%AMD6839.1%" = ati2mtag_R575A, PCI\VEN_1002&DEV_6839
+"%AMD683D.1%" = ati2mtag_R575A, PCI\VEN_1002&DEV_683D
+"%AMD6838.1%" = ati2mtag_R575A, PCI\VEN_1002&DEV_6838
+"%AMD682F.1%" = ati2mtag_R576, PCI\VEN_1002&DEV_682F
+"%AMD6824.1%" = ati2mtag_R576A, PCI\VEN_1002&DEV_6824
+"%AMD682D.1%" = ati2mtag_R576, PCI\VEN_1002&DEV_682D
+"%AMD68F8.1%" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F8
+"%AMD68FE.1%" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68FE
+"%AMD68E8.1%" = ati2mtag_EvergreenC_GL, PCI\VEN_1002&DEV_68E8
+"%AMD6880.1%" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_6880
+"%AMD68DE.1%" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DE
+"%AMD958B.1%" = ati2mtag_M76, PCI\VEN_1002&DEV_958B
+"%AMD958A.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_958A
+"%AMD6831.1%" = ati2mtag_R576, PCI\VEN_1002&DEV_6831
+"%AMD6821.1%" = ati2mtag_R576A, PCI\VEN_1002&DEV_6821
+"%AMD6827.1%" = ati2mtag_R576, PCI\VEN_1002&DEV_6827
+"%AMD6820.1%" = ati2mtag_R576A, PCI\VEN_1002&DEV_6820
+"%AMD6825.1%" = ati2mtag_R576A, PCI\VEN_1002&DEV_6825
+"%AMD6819.1%" = ati2mtag_R575, PCI\VEN_1002&DEV_6819
+"%AMD6818.1%" = ati2mtag_R575, PCI\VEN_1002&DEV_6818
+"%AMD9470.1%" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9470
+"%AMD94C0.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C0
+"%AMD94C6.1%" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C6
+"%AMD9580.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9580
+"%AMD9500.1%" = ati2mtag_RV630, PCI\VEN_1002&DEV_9500
+"%AMD6799.1%" = ati2mtag_R575, PCI\VEN_1002&DEV_6799
+"%AMD679A.1%" = ati2mtag_R575, PCI\VEN_1002&DEV_679A
+"%AMD6798.1%" = ati2mtag_R575, PCI\VEN_1002&DEV_6798
+"%AMD6830.1%" = ati2mtag_R576A, PCI\VEN_1002&DEV_6830
+"%AMD964E.1%" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_964E
+"%AMD964F.1%" = ati2mtag_Sumo_Mobile, PCI\VEN_1002&DEV_964F
+"%AMD9901.1%" = ati2mtag_RS711_Desktop, PCI\VEN_1002&DEV_9901
+"%AMD9904.1%" = ati2mtag_RS711_Desktop, PCI\VEN_1002&DEV_9904
+"%AMD9903.1%" = ati2mtag_RS711_Mobile, PCI\VEN_1002&DEV_9903
+"%AMD9900.1%" = ati2mtag_RS711_Mobile, PCI\VEN_1002&DEV_9900
+"%AMD9991.1%" = ati2mtag_RS711_Desktop, PCI\VEN_1002&DEV_9991
+"%AMD9990.1%" = ati2mtag_RS711_Mobile, PCI\VEN_1002&DEV_9990
+"%AMD6843.1%" = ati2mtag_VancouverA, PCI\VEN_1002&DEV_6843
+"%AMD6800.1%" = ati2mtag_R576, PCI\VEN_1002&DEV_6800
+"%AMD9808.1%" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9808
+"%AMD9809.1%" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9809
+
+This new leaked driver supports most of desktop models as well as few Mobility 
+models anyway.
+However originaly it is not a complete driver package :
+AVIVO,AMD Media component,Hydravision and few other stuff are missing in this original file,yeah !
+However you will find also a CFX application which is a little bit older than the latest catalyst 11.9 CAP4.
+So i decided to make a special repacked complete driver package for get all such better.
+I added all missing additional complementary packages and apps from my previous torrent from  here : 
+http://thepiratebay.org/torrent/6763762/8.92-111018a-127049E-ATI-october_18(New).7z
+...
+That was not so complicated to made it anyway.
+Beware this new repacked complete driver package does not contain any Intel switchable video driver,mobility media codec component and mobility hydravision package !!!
+Just for desktop models,no more !
+As i made myself this new one it was important to test it with few friends as well before saying it could be valid and before deciding to seed this last one anyway so.
+---&gt;
+tested on :
+
+HD 2900XT
+HD 3850/3870/3870X2
+HD 4850/4850X2/4870 XT/4870X2/4890 XT
+HD 5850/5870/5970
+HD 6850/6870/6950/6970/6990
+In every case all has been sucessfully installed .
+Therefore i really hope it will work for you also anyway.
+
+Note :
+not tested on any Laptop yet and anyway,in this specific case you will need to download latest additional complementary package and apps from the very newest official catalyst 11.10 for mobility models,see below :
+
+Mobility 11.10 Full hydravision : 
+http://www2.ati.com/DriVeRs/mobile/11-10_mobility_vista_win7_32-64_hydravision.exe
+
+Mobility 11.10 Full AMD Media codec component : 
+http://www2.ati.com/DriVeRs/11-10_mobility_vista_win7_32-64_xcode.exe
+
+Please,feel free to post your personal feedbacks for letting me know your final results so.
+Delivered such "as is" for personal-internal testing purpose only !!!
+i actualy run with this new one on two computers and all works very smoothly and very fine so.
+For the end as usual available for Vista/Win7 both version only so !!!
+
+Enjoy and have fun
+regards
+
+
+

@@ -1,0 +1,21 @@
+User Type,Username,Date,Text
+,tom_appleford,2011-10-09T19:46Z,Thanks for this - I tried to get this off the bluray with no success
+,tedsam,2011-10-10T14:56Z,"Thanks for this. But, as far as I can tell, this is not a surround mix and it plays fine on a regular stereo. Am I doing something wrong?"
+,_bucaneer,2011-10-10T17:34Z,"It definitely is a surround mix, and any properly configured system should play it as such. However, it is pretty front-heavy, so it may not sound obviously ""wrong"" when playing it in stereo."
+,tedsam,2011-10-10T19:35Z,"Thanks for the reply - I'll give it another go. In my experience, DTS tracks normally play as white noise on a regular stereo, but this sounds acceptable to say the least, hence my confusion. I have not yet compared my discs of this with the regular CDs."
+,tedsam,2011-10-11T13:16Z,"OK - now I know it's me.
+
+I have confirmed that these a six-channel tracks and can convert them to six-channel PCM using Foobar. However, I've only found one program that can burn the files to disc (CD or DVD) - Toast on a Mac PowerPC - and that (for some reason) creates a stereo version.
+
+Any suggestions how I can get this onto disc so it will play on my home cinema system?
+
+Cheers"
+,tom_appleford,2011-10-11T13:43Z,Definately an exact copy of the 5:1 surround as on the bluray and I have used nero to encode to wav 6 chanel 24 bit and discwelder chrome to copy to dvd (2 Discs)
+,tedsam,2011-10-12T09:18Z,"Hooo boy. This is doin' me crust in!
+I have 'sourced' discWelder Chrome, which seems to work fine when creating a disc, but the result is always a disc error on any player or computer. Any other ideas?"
+,_bucaneer,2011-10-12T20:41Z,"Try this: http://dvd-audio.sourceforge.net/
+
+To be fair, I used FLAC in the first place because it is easily playable on a PC. I don't really know what goes into getting this to play on a home cinema or some other external system."
+,tom_appleford,2011-10-13T16:58Z,"There is no real reason to convert this excellent upload to a DVD-A disc because the flac files play from a computer with HDMI in 5.1 easily as _bucaneer says, so I only did it for the challenge. I find that DVD-A made on discwelder will only play proper 24/96 surround on a DVD-Audio player."
+,HikaruGunner,2011-10-13T17:07Z,"This files sound all distorted on my pc, I tried foobar and VLC player. Am I doing something wrong? Do i need any special kind of software? My sound card is an old Creative Soundblaster live! 5.1 card, maybe it's because of that?!"
+,_bucaneer,2011-10-13T18:57Z,"@HikaruGunner: if by ""distorted"" you mean ""slowed down"" (rather than, say, ""white noise""), it could be that the 96kHz signal is interpreted as a lower frequency - Wikipedia says that Live! works at 48kHz. If so, you could use the resampler DSP in foobar to downsample it to 48kHz. It would reduce the sound quality somewhat (imperceptably, I imagine) but you'd still get proper surround."

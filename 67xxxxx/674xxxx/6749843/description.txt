@@ -1,0 +1,577 @@
+BricsCad Platinium v12 1 0 32484 [MULTi]
+ 
+http://www.bricsys.com/common/news.jsp?item=347
+
+English:
+--------
+Technical Data:
+----------------------
+Category: Programs
+Language: English, Spanish
+
+Description
+----------------
+Bricscad - based on IntelliCAD - is the 2D and 3D CAD platform of choice for users who want to extend your number of posts DeSean Simply replace CAD or CAD Other Positions precio.Bricscad higher V9 reads and writes DWG format and offers compatibility with AutoCAD Â®.
+HAVE A Bricscad user interface intuitive and recognizable and does not need extra training.
+Bricscad is a new version. Probably the Best Alternative CAD and offering a complete and recognizable feature set para professional users. A multiline editor, Reference Edit, Associative dimensioning, wipeouts or Transparencies son some of the functionality of the big list of new features and functionality mejoras.El set is comparable to any other application. Also Bricscad UN's landmark and is the first time That You Can support all DWG applications, including applications developed with ARX.
+
+System Requirements
+
+Microsoft Windows 7 (32/64 bit) / Vista / XP / 2000.
+Intel Â® Pentium Â® III processor at 1 GHz or faster, or compatible processor.
+Minimum RAM - Besides the memory used by the operating system at least 256 MB of RAM should be available.
+Recommended RAM - We recommend 1 GB of RAM or more.
+Hard disk: 200 MB, 100 MB for program files, 100 MB of free space
+The requirements of the screen: 1024 Ã— 768 XGA with true color (minimum)
+
+Release Notes
+Version 12.1.0 (12/10/2011)
+New
+
+LIMITATIONS 2D
+Geometric constraints: Coincidentally, collinear, concentric, parallel, perpendicular, tangent, Horizontal, Vertical, smooth, symmetrical, Equality, Fix.
+Dimensional constraints: Aligned, Horizontal, Vertical, angle, radius, diameter
+CONSTRAINTBAR command controls the display of 2D glyphs restriction.
+Direct Modeling:
+The new engine looks Bricsys limitation built 3D models and capture your design intent. This allows powerful 3D editing without the need for modeling history available.
+Modeling Direct commands:
+DMPUSHPULL: push / pull a face of a solid along its normal direction. When applied to a 2D closed entity that is coplanar with the face of a solid, feature or hole in establishing solid.
+DMMOVE: move a solid face, or on the edge in either direction along the UCS XY plane.
+DMROTATE: turn a face or a full 3D solid around an axis.
+DMEXTRUDE: extruding a flat 2D closed entity to create a 3D solid.
+DMREVOLVE: a 2D plane revolve around a closed entity axis to create a 3D solid.
+DMFILLET: create a thread in a solid lead.
+DMCHAMFER: create a chamfer on a solid advantage.
+DMDELETE: Delete an entity or sub-entity.
+DMCONSTRAINT3D: placing a restriction in 3D.
+DMUPDATE: updating the 3D model according to the limitations specified in 3D.
+DMCONSTRAINTSBAR: show / hide the 3D constraints.
+Configuring Direct Modeling:
+DMRECOGNIZE: This option consists of a series of indicators that determine the characteristics that the design intent (the geometric relationships between the surfaces) must be recognized and held in the direct editing operations and calculation of 3D constraints.
+Flags:
+Surfaces tangent
+Matching planes
+Parallel planes
+Perpendicular planes
+Perpendicular cylinders
+Coaxial surfaces
+Like Radio
+DMAUTOUPDATE: Determines whether to update the 3D model to satisfy the constraints automatically to the limitations of the amendments or the creation of the model. If this option is disabled, the command must be called DMUPDATE to update the model.
+Notes:
+All commands direct modeling can be applied to selection sets. Down the Control key to select multiple items.
+X-based solid modeling in history. By applying directly to the solid modeling with X-solids created, they will lose their history, and therefore no longer be recognized by X-solid command.
+QUAD cursor menu
+The four cursor menu is an alternative to control editing entities, offering a whole (much) richer editing operations, while requiring fewer clicks without moving the screen with plenty of grip glyphs.
+With the Quad-enabled, the selection of an entity and start a command takes a single click. More detailed instructions can be found in the help documentation.
+QUADDISPLAY system variables: Determines if the cursor Quad menu is activated.
+QuadShowDelay Preference: Specifies how many milliseconds to wait before the quad is displayed when an entity (sub) is highlighted.
+QuadHideDelay Preference: Specifies how many milliseconds to wait before the quad is hidden after moving the cursor.
+PREVIEWSUBENTS system variables: solid subentities defines what stood out during the preview screening: faces, edges.
+Ctrl + LeftMouseButton no longer active real-time orbit, but is used for selection / deselection of entities. This was done to improve the selection of sub-entities (for example, the edges of the solids). Please, use Shift + MiddleMouseButton of the orbit in real time.
+Visual Styles:
+Display settings in a style called.
+Provided however now have a more prominent faces and edges, grips, dynamic.
+NEWWIZ Command: 3D option creates a new visual style house model and a view that uses this visual style.
+SHADEMODE Command has been adapted to use visual styles, and has been extended to modeling visual style is recommended for 3D modeling, high quality, for representation.
+Note: Some settings are not consistent visual style and it shows in the way disabled. Are maintained for compatibility reasons.
+Configuring 3D modeling. Enhanced 3D modeling in Bricscad V12, are activated or deactivated by a set of preferences and system variables, both existing and new. All these settings can be edited in the configuration dialog or browse them, or writing a part of its name in the search field at the top of the dialog box. Below are the recommended values ??for these settings. These are the default values, but if you have problems when working in 3D, you might want to check its value:
+PREVIEWSUBENTS: set to 3 (see faces and edges) have faces and edges highlighted when the mouse passes over the solids. You can switch between edges and faces out, or completely solid, clicking on the "sub" button in the status bar or by pressing CTRL + F12.
+QUADDISPLAY: when you hover the mouse on a flat 2D closed entity or a solid, four cursor menu displayed (see below for more information on the cursor menu of four). You can toggle the display of the quadruple (and use) and off by clicking the 'Quad' in the status bar or by pressing F12.
+Commands 2DCONTEXT 3DCONTEXT and change the modeling environment of On and Off.
+HATCH: added support for custom models, separate files with the name of the pattern file name patterns.
+TRIM: hatch entities can be trimmed. The associativity is maintained whenever possible.
+HATCHTOBACK: Sets the drawing order of all entities are incubated in the drawing to show behind all other entities.
+TEXTTOFRONT: Sets the drawing order of all text and dimensions in the drawing to show in front of the other entities.
+Configuration Page:
+create, edit and manage objects page setup.
+Page settings can be applied to designs.
+Explorer configuration page allows you to copy the settings page of a drawing.
+PSETUPIN PSETUPIN and commands offer additional ways to import page setups from other drawings.
+SECTIONS:
+SECTIONPLANE: create persistent definitions section. Trot (multi-segment) Section planes are not supported yet, but will be added soon.
+SECTIONPLANESETTINGS: objects have a configuration section 2D, 3D and live configuration settings section, which are managed in the Drawing Explorer.
+SECTIONPLANETOBLOCK: it generates the geometry of 2D or 3D section cut, according to the configuration SECTIONPLANE. The result can be stored in a block or a new drawing.
+LIVESECTION: when a section object is "live" intersection objects, fill the intersection and cutting geometry shown in the picture settings according to the Live section. When the section object is moved or modified, the results of the section is updated in real time.
+Underlying PDF:
+Adobe PDF Replaced lib with lib FLYSDK visual integrity.
+They have improved the performance easy.
+Improved redraw speed.
+MOTOR FRAME: Imagine a new multi-resolution raster engine, designed to handle large images quickly.
+(Much) better redraw speed images that do not use the default settings for contrast, brightness or fading.
+Viewing the image are softened now.
+Improve the quality bitonal image display.
+Caching and compression will be added in the coming months to further improve the user experience.
+ADT (Architectural Desktop) facilitator
+And MODELERPROPERTIES MODELERPROPERTIES: 'commands to control various settings of the modeler Acis. FACETRES now used to display by default.
+QTEXT: toggles the display between normal text and simplified text display (like rectangles).
+All preferences can now be changed from the command line
+Teigh 3.5 UPDATE: invisible on the surface, important changes took place code: updated base DwgDirect ODA ODA libraries v2.06 v3.05 Teigh, bringing along hundreds of arrangements.
+Menus and toolbars have been expanded and reorganized.
+SCALELISTEDIT command lets you scale up lists used in the print dialog and Viewport properties.
+System Variables:
+Specific ODA: AcisSaveAsMode, DxfTextAdjustAlignment, PLINECACHE, R12SaveAccuracy, R12SaveDeviation, SAVEROUNDTRIP.
+Acad supported: CAMERADISPLAY, CAMERAHEIGHT, CMATERIAL, DGNFRAME, DGNOSNAP, DIMTXTDIRECTION, DWFFRAME, DWFOSNAP, DXEVAL, EXPORTMODELSPACE, EXPORTPAPERSPACE, EXPORTPAGESETUP, FIELDDISPLAY, MARCO, GEOLATLONGFORMAT, GEOMARKERVISIBILITY, GRIPDYNCOLOR, GRIPTIPS, IMAGEFRAME, INTERFERECOLOR, INTERFEREOBJVS, INTERFEREVPVS, LIGHTGLYPHDISPLAY, MESHTYPE , PREVIEWTYPE, PSOLHEIGHT, PSOLWIDTH, REALWORLDSCALE, SAVEFIDELITY, SKYSTATUS, stepSize STEPSPERSEC, TILEMODELIGHTSYNCH, UCSVIEW.
+Updated: DIMTER (range 0-4 instead of 0-3).
+SR23408, SR25625, SR26370 - Command line options: added support for the / T to start a new drawing Bricscad based on a specific template.
+HELPSEARCH SETTINGSSEARCH and commands have been added for applications for browsing and configuration support.
+SR19285 - OSNAPZ: introduced support OSNAPZ system variable. If OSNAPZ is enabled, object snap markers are transformed accordingly elevation value, except for the polar extension and adjustment.
+Windows: Ctrl + R keyboard shortcut allows you to iterate through windows.
+
+Improved
+
+Properties panel: collapsed state, including the nested nodes, is now remembered for each type of entity.
+Properties Panel now supports 3D solid area.
+AREA command now accepts hatch entities
+PlotOutputPath: new behavior - by default, the variable is empty. If the variable is set on a path that will be used instead of the current working directory. UseOutputFolder variable is no longer used.
+Design point of view: Modelspace background color is now used also rendered view.
+By sight: improved check if your graphics card is compatible with the processor. The program switches to software only when necessary.
+Drawing Explorer - Layers:
+Added "Merge ..." Layer menu.
+keeps the design configuration of the layer visible (avoid the need for scrolling).
+SR30699: 'Show Xref Layers is selected by default
+PURGE: anonymous blocks now are automatically purged when loading a drawing.
+SOLIDEDIT: support for better performance of the command.
+PSLTSCALE: now applied in several windows at the same time instead of the current viewport.
+SYNOPSIS: not detailed variant PLOT command now accepts all strings that appear in the format field page Print dialog box, for example, design names asterisks (also English "_previous plot"). "" It is not accepted.
+PEDIT now multiple choice.
+DIALOG BLOCK: block names are sorted alphabetically now.
+Double-click the Windows Explorer behavior. The drawings that you double-click Windows Explorer will open in a new session if Bricscad SDI = ON, or an existing session if SDI = OFF Bricscad. Bricscad SDI in (the application of a drawing that can only be opened) has not been implemented
+SR26444 - region: supporting the creation of regions from 2D solid.
+SR26559 - AREA: Support for creating regions from closed curves
+SR26689, SR28978, SR29113 - SNAP PERFORMANCE: markers of pressure in the complex 3D solids are now displayed without delay, allowing the cursor to move quickly.
+SR29674 - INSUNITS: value is taken into account during DIVIDE and MEASURE commands.
+SR29906 - GRID: Added support for "the network of points on the sheet / layout 'option GRIDSTYLE.
+SR30472 - COMMAND OPTIONS: Option more keywords that were completely in capital letters were changed to begin with a capital and the rest of the keyword in lowercase. This was done to prevent the user has to type the keyword in all the command line, instead of just the first letter (s)
+
+Fixed
+
+Realistic representation modelspace multiple windows: time graphs were visible in one window.
+When in orthomode, ignoring little POLARMODE 2 (polar tracking to draw lines).
+Switching function keys sysvars not immediately update the status.
+Activation Bricscad wrong automation mode (when a dwg is embedded in a document in another application) when running external modules Bricscad start their own toolbars.
+File dialog: On some operating systems in the left pane of the dialog box shows different file (first four) folders based on UseStandardFileDialog be enabled or disabled.
+Several small fixes have been applied to entities TABLE.
+Field dialog:
+initialization of the label of 'precision' combobox was corrected.
+more formatting options' variable Lisp "and the categories of 'variable of the system'
+OUTLOOK: dynamic graphics (rubber bands) could get clipped when working in perspective views.
+OSNAPCOORD: if pressure controlled entity to coordinate input from the keyboard.
+SR13319, SR18643, SR19147, SR21147, SR25574, SR25605, SR29019, SR29535, SR29929 - OLE objects: activation problems Bricscad Bricscad to embed data in other applications.
+SR16397, SR27024, SR29390 - IMAGES: image resolution and INSUNITS variables were not taken into account when inserting images.
+SR17818 - UNION: the colors were lost after applying the command UNION.
+SR17936, SR25582, SR27793, SR27079, SR29561: GRIP_STRETCH operations and extend the data was not updated DXF 1011, 1013, 1041, 1042 (xdata benchmarks).
+SR20056, SR26325, SR29879: points OSNAP must be designed for 2D curves (arc, circle and polyline pl). Also added reference markers objects projected points
+SR21309 - Preview: Changing from slow to preview the file open dialog, the threads to create the previous previews were not always canceled.
+SR22282 - F3: after pressing, current description and reference marker were unused objects.
+SR22328 - TABLET: Fixed a problem with some pills, which stop responding in their area of ??the configuration menu, after a dialogue was initiated by a tablet menu command.
+SR22607 - OLE objects have not been updated in the dialog loading and OLELINKS.
+SR23174 - SNAP: CENTER correct adjustment to closed polylines. Breaking point now stands in the center of gravity of the polygon.
+SR23446 - SECTION: regions created not get the current entity properties (layer, color, etc)
+SR23595 - SCREEN: the generation of contours of toroidal solid landline.
+SR23615, SR26165, SR26508 - PRINT: the program loses focus after printing.
+SR24016 - PRINT: More detailed information for the user when it is not possible to use a printer driver installed on your system.
+SR24446 - GUI: When a dockable control bar (Properties bar or command bar) was floating and hidden, its size is not spelled correctly in the registry.
+SR24974 - PRINT: compatibility problem: A window within plot area points in WCS were kept in the design of models instead of DCS.
+SR25314 - solid screen created from spline tour could not be loaded and displayed in realistic rendering mode.
+SR25890, SR30104 - DISPLAY: PLAN command VPOINT, ZOOM, VISTA, DVIEW not update entities that depend on the change of properties.
+SR26673 - LINE: Deferred Perpendicular snap implemented in the LINE command.
+SR26924 - Display: Error placing insert sub-entities are using models transformations. This can happen with custom entities.
+SR26961 - Wipeout frames display lineweight not obey.
+SR27532 - HIDE: the type of entities are shown as dashed lines in the hidden mode.
+SR27724 - chamfer: regression to establish distances.
+SR27859, SR29315 - DISPSILH: wrong display of 3D solids in hidden line mode when DISPSILH was underway.
+SR27988 - Menus: the creation of emerging fixed menuprompt command line.
+SR28073 - OLE: lack of saving OLE object changes after the editing session.
+SR28484, SR29293, SR30324 - GRIP EDIT: solutions used for editing arc segments of polylines, spline polylines fitted and 3D solids.
+SR28622 - SNAP EXTENSION: The direct entry remote not working by activating the setting of active extension DYNMODE = 0. Extension also fixed adjustment for straight polyline segments, when UCS! = WCS.
+SR29128 - STRETCH: Both short-changed command options a layer of solids resulting from the layer 0, instead of the original solid layer.
+SR29412 - POL: create multiple polylines old style rather than a single LWPOLYLINE, when asked arc segments.
+SR29516, SR30131, SR30180, SR30568, SR30728: EXTRUDE no extrusion along the route or deviated from the path of extrusion.
+SR29546 - Wipeout: When CACHELAYOUT ON, wipeouts shows the use of model space background color after switching to paper space.
+SR29850 - PRINT: Design in the drawing is moved relatively to the image of paper if using inches and the area of ??design or plot extensions.
+SR30027 - GRID command: fixed inconsistent indications and options.
+SR30080 - tables: Overrides compensation not resize rows and columns to their minimum size.
+SR30191 - REFEDIT: You must lock the file being edited, and will open an external reference to read when the external reference is already opened by another application. REFEDIT also should check whether an external reference has been changed by another application and reload if necessary.
+SR30262 - FIT: set points of a spline is lost after changing the location of control points.
+SR30391 - HATCH: fixed a hatch evaluation of an arc with a radius of zero.
+SR30454 - AUDIT: Error 1005 when he reported refers to the object handle xdata deleted.
+SR30462 - HATCH: mtext nominal height (dxf 40) rather than the actual height in the calculation of the distance limit around the hatch.
+SR30503 - INSERT: When using the "~" INSERT command option, and the selection of a block that already existed in the drawing, the '? Redefine 'message is not displayed. By contrast, the current block is inserted regardless of the external file.
+SR30506 - MASSPROP: Properties of the Region have been corrected:
+Moments of inertia multiplied by 10 ^ 6
+Product of inertia multiplied by 10 ^ 6
+Turning radius, multiplied by 10 ^ 3
+Moments: multiplied by 10 ^ 6
+SR30507: High m2p bar icon 'Snap entity.
+SR30532 - updateField: reported to have found / updated fields was incorrect.
+SR30549 - File Preview: Preview the drawing in the OpenFile dialog box was not painted when you move the dialog off the screen and back.
+SR30557: Pressing CTRL + ENTER when editing a table commits text editing and output of the table.
+SR30577: print close the preview window (with the Close button or the Esc key) does not return to the Print window, when the preview was called from the dialog box.
+SR30578: The layer combo jammed and caused instability in the program, when some layer property has changed from popup combo, while a property in the property bar is selected. This has been fixed.
+SR30607 - PEDIT: Do not join the ranks of filleting.
+SR30640: LEADER command option: mtext width to be established with the mtext editor is set to 0 after leading command over.
+SR30688 - STRETCH: returns the wrong part of the division.
+SR30757 - HATCH: Select the hatch command is not supported using the "previous" selection.
+SR30758 - DVIEW / DISTANCE: for perspective mode, VIEWSIZE not adjusted to the distance between the camera and point of destination. For example If this distance is smaller VIEWSIZE should also be reduced.
+SR30856 - TABLES: newly inserted rows now take the correct cell style.
+SR30865 - Display: wipeout frame external references must be controlled by the value of the main drawing WIPEOUTVARIABLES.
+SR30872, SR30957 - TABLES: now can be exploited by the command explode.
+SR30928, SR31182 - DISPLAY: in some cases, the layers were not displayed in windows PS if these layers were frozen in other windows PS.
+SR30972 - PRINT: failed to print a model that contains several windows, in shaded mode.
+SR30979 - MTEXT EDITOR: when the entire text has been selected (or the editor was empty) and the height of the text was changed, the ownership of the height of the text was modified mtext object instead of adding the code string format mtext.
+SR31011 - edge of the screen image is drawn with lines on the border of the image when the image was not framed.
+SR31044: It was not possible to read the data with custom string entities ACIS files Sat
+SR31088 - PROPERTY PANEL: Do not display custom objects displayName.
+SR31121 - region: regions created from a closed spline caused problems for the HATCH command and for Boolean operations.
+SR31135 - The Block Definition dialog: If the "Specify on-screen" The check, XYZ fields were not gray.
+SR31145 - Compatibility: Bricscad allows MLINE style long names (DXF2). These are now truncated during the file upload. DXF and time to create / modify a style through MLINE (entmake) / (entmod), thus preventing other editors dwg to crash on the plans.
+SR31210 - xclip: one external references associated with a user has always drawing could not be trimmed.
+SR31217 - INSUNITS: INSUNITS becoming respected only if the image has no geoinfo.
+SR31254 - DXF: loading old files in DXF (up to ac1012) windows doubled.
+SR31257 - COMBOBOX LAYER: Layer ComboBox properties not show the correct height for the drop-down list box items.
+SR31262 - AUTOLOAD: When the login dialog is used, the automatic loading of menus and their associated files mnl not working properly.
+SR31268 - COPYCLIP: error message "Active Transactions" is displayed when performed in COPYCLIP mtext in the design of PS.
+SR31269 - Drawing Explorer: after freezing a layer in current viewport explicit regeneration was necessary.
+SR31449 - INSUNITS: when the value of the scale of block changed using the Properties panel, INSUNITS not taken into account.
+
+Application Development
+
+The name changed from DwgDirect lib ODA for DWG to Teigh therefore, the suffix. Tx is now used instead of the obsolete. Drx Suffix.
+Update templates improved by dynamic input
+LIST command now supports custom entities.
+LISP: the role of VLA-getalignement fixed
+(Vla-put-ActiveDocument ... docx) (vlax-put-property ... "ActiveDocument docx) (vla-activate docx) made the Lisp engine to break.
+BRX Lisp COM: approved document "documentActivated" reactors could go wrong (and active) of the document.
+SR15234, SR16878, SR25294 - SDS / LISP: implemented "setfunhelp" function.
+SR17936, SR25582, SR29561 - Section: dxf1011 extended data was not transformed correctly during the STRETCH command
+SR21528 Lisp / SDS / BRX: Fixed a problem with ssget (), using the "single point" selection combined with "one step" (: S) selection, which always returns RTERROR
+SR22008 - ANGTOF / DISTOF: conversion issues were set for the following expressions:
+(Angtof "3.5E-2"), (angtof "30d1'2 0.5 e2" ") (angtof" 30d2.5e-2 "), (angtof" 30.5d "), (angtof" 1E5 ") (angtof "1E5" "), (angtof" N 60d0'2 0.2 e2 "E), (angtof" N30.5E "), (angtof" N30.5 "E"), (angtof "N30. 5 "E")
+(Distof "1'-2 0.4" ") (distof" 1'-2 0.4 E-2 "") (distof "1" 0.4 e-2 ""), (distof "1'4e-2 "")
+SR22011: sample return value to overwrite () now respected OdEdJigImpl return value:: drag ().
+SR23165: added support for filter mode selection ssget keywords. For more details and specific Bricscad options, refer to documents BRX.
+AcDbDblClickEdit SR23260 did not work for child custom entities, when only the father had registered double-click action.
+SR23453: (setvar "Clay" ...) and the layer of _make ... should not allow to establish a frozen layer or external reference current-dependent.
+SR24539 - Menu: Exit the index range to add menu menucmd eg (menucmd "P99 = + BCAD.TOOLS")
+SR25805 - Menu: (menucmd "Ggroup.id = ~") does not work for submenus.
+SR26126 - BRX: implemented OdDbSolid: intersectWith ().
+SR26415 SR26208 SR27730 - LISP / SDS:
+problem with numerical precision (ssget "W") and (ssget "C"), when the points of the window that exactly match the coordinates of objects
+(Ssget "W") and (ssget "C"): selection of objects should be restricted to the area of ??the screen (not the selection of objects in a display area outside the selection window given)
+SR28637 Lisp / SDS / BRX: DXF Code 38 (height) was ignored with (entmake) / acedEntMake) for ARC and Circle entities.
+SR28691 Lisp: added support for "ObjectDbx.AxDbDocument" interface.
+SR28732 BRX: Fixed a problem related to the anonymous groups - the group's name might accidentally change a name that already apply to a different anonymous
+SR28891 - CRASH: OdEdInputContextReactor calling:: endNentsel () if no entity was elected caused an accident.
+SR29931: fixed field code kAddMarkers recovered when the indicator is used.
+SR30033 - GRIP: LASTPOINT system configuration variables before executing commands GRIP.
+SR30052 - HLR: fixed polyface mesh processing
+SR30262: fixed access through COM to a strip that has no set points.
+SR30313 - DIASTAT: not indicated that talks with the button closed - OK or Cancel.
+SR30334 - BRX: when a module is loaded with BRX path name too long to fit into an environment variable for internal use, an error message is displayed giving the misleading impression that the charging process will not, when in fact did.
+SR30425: OdDbTextStyleTableRecord:: setFont () xdata not create for the launch of TTF and family, character, italic and bold banners
+SR30486 - LISP / DCL: If there is an order Lisp was started, and a modal dialog box was open OpenDCL the event for the "default control" dialog was provoked.
+SR30494: (ssget "_C" pt pt) does not work for large coordinates.
+SR30539: added a callback system to destruction OdDbHyperlink case tracking;
+SR30620: added support for SymbolUtilityServices: ValidateSymbolName
+SR30744: Added export as binary COM DWF DWF6.0.
+SR30953 SR30952 Lisp: implemented (vl-propagate) and fixed issues with time (vl-load-file).
+SR31070 Lisp: Lisp COM objects (VLA-object)-CAD-System objects are not automatically released when the drawing and / or closed Bricscad -> could result in "pure virtual function call" errors.
+SR31088: properties panel was not presented the DisplayName of custom objects.
+Lisp SR31091: when a Lisp C: command is entered during the race other transparent (native) command, the result of Lisp (princ) was rejected by the native command, issuing an error message.
+SR31126 Lisp / SDS: problems with (entsel), (nentsel), (nentselp) in relation to the entity groups:
+during selection, the entity only needs to be highlighted cursor (not group members)
+PICKSTYLE ignore selection, another entity that can be returned incorrectly (group)
+SR31148 Lisp / SDS / BRX: entity selection - Added support for DXF filter 380 groupcode
+SR31177: Lisp commands defined by (vlax-add-cmd) failed to start transparently
+SR31189 Lisp: Lisp upload files containing specific Mac end of line characters (0xD) may fail.
+SR31261 - LISP: improved security by creating a file PRV.
+SR31311: added support for: U 'and': V 'to allow ssget modes / power sub-entity solid selection.
+SR31419: IAcadDatabase COM interface function "CopyObjects () failed to copy the objects, entities are only accepted
+
+
+
+EspaÃ±ol:
+--------
+Datos TÃ©cnicos:
+----------------------
+Categoria: Programas
+Idioma: Ingles, EspaÃ±ol
+
+DescripciÃ³n
+----------------
+Bricscad - basado en IntelliCAD - es la Plataforma CAD 2D y 3D Preferida Por Los Usuarios Que DeSean extender Su NÃºmero de Puestos CAD o Simplemente DeSean reemplazar Otros Puestos CAD MÃ¡s Altos de precio.Bricscad V9 lee y escribe en Formato DWG y OFRECE compatibilidad Con AutoCAD Â®.
+Bricscad TIENE Una Interfaz de Usuario Muy intuitiva y reconocible y no NECESITA FormaciÃ³n extra.
+Bricscad es Una nueva versiÃ³n. Es probablemente la Mejor Alternativa CAD ya Que OFRECE Una Completo y reconocible de conjunto funcionalidades pÃ¡rr El usuario profesional. Un editor multilÃ­nea, EdiciÃ³n de referencias, acotaciones asociativas, wipeouts o Transparencias hijo ALGUNAS de las funcionalidades de la gran Lista de Nuevas CaracterÃ­sticas y funcionalidades mejoras.El de conjunto es comparable al de cualquier Otra AplicaciÃ³n. Bricscad es also de la ONU ya hito QuÃ© es La Primera Vez Que You can soportar TODAS las Aplicaciones DWG, incluyendo Aplicaciones desarrolladas Con ARX.
+
+Requisitos del sistema
+
+Microsoft Windows 7 (32/64 bits) / Vista / XP / 2000.
+Intel Â® Pentium Â® III procesador a 1 GHz o mÃ¡s rÃ¡pido, o un procesador compatible.
+MÃ­nimo de memoria RAM - AdemÃ¡s de la memoria utilizada por el sistema operativo un mÃ­nimo de 256 MB de RAM deberÃ­a estar disponible.
+Recomendado RAM - Se recomienda 1 GB de RAM o mÃ¡s.
+Disco duro: 200 MB, 100 MB para archivos de programa, 100 MB de espacio libre
+Los requisitos de la pantalla: 1024 Ã— 768 XGA con color verdadero (mÃ­nimo)
+
+Notas de la versiÃ³n
+Version 12.1.0 (12/10/2011)
+Nuevo
+
+LIMITACIONES 2D
+Las restricciones geomÃ©tricas: Coincidente, Colineal, ConcÃ©ntrico, paralelas, perpendiculares, tangentes, Horizontal, Vertical, suave, simÃ©trico, Igualdad, Fix.
+Restricciones dimensionales: Alineados, Horizontal, Vertical, angular, radio, diÃ¡metro
+CONSTRAINTBAR comando controla la visualizaciÃ³n de los glifos restricciÃ³n 2D.
+Modelado directo:
+El nuevo motor incorporado de limitaciÃ³n Bricsys analiza los modelos 3D y captura de su intenciÃ³n de diseÃ±o. Esto permite la ediciÃ³n 3D de gran alcance sin la necesidad de contar la historia de modelado disponibles.
+Comandos Direct Modeling:
+DMPUSHPULL: push / pull una cara de un sÃ³lido a lo largo de su direcciÃ³n normal. Cuando se aplica a una entidad cerrada en 2D que es coplanar con la cara de un sÃ³lido, una caracterÃ­stica o un agujero en el que se crea sÃ³lidos.
+DMMOVE: mover una cara sÃ³lida, o en el borde en cualquier direcciÃ³n a lo largo del plano XY UCS.
+DMROTATE: girar una cara o un sÃ³lido 3D completa alrededor de un eje.
+DMEXTRUDE: extruir una entidad cerrada plana en 2D para crear un sÃ³lido 3D.
+DMREVOLVE: giran en un plano 2D entidad cerrada alrededor de un eje para crear un sÃ³lido 3D.
+DMFILLET: crear un filete en una sÃ³lida ventaja.
+DMCHAMFER: crear un chaflÃ¡n en una sÃ³lida ventaja.
+DMDELETE: eliminar una entidad o subentidad.
+DMCONSTRAINT3D: colocar una restricciÃ³n en 3D.
+DMUPDATE: actualizar el modelo 3D de acuerdo con las limitaciones especificadas en 3D.
+DMCONSTRAINTSBAR: mostrar / ocultar la barra de restricciones en 3D.
+ConfiguraciÃ³n de Direct Modeling:
+DMRECOGNIZE: esta opciÃ³n consiste en una serie de indicadores que determinan las caracterÃ­sticas que la intenciÃ³n del diseÃ±o (las relaciones geomÃ©tricas entre las superficies) deben ser reconocidos y mantenidos en las operaciones de ediciÃ³n directa y el cÃ¡lculo de las limitaciones de 3D.
+Banderas:
+Superficies tangentes
+Planos coincidentes
+Planos paralelos
+Planos perpendiculares
+Perpendicular cilindros
+Superficies coaxiales
+Radio igual
+DMAUTOUPDATE: determina si se debe actualizar el modelo 3D para satisfacer las limitaciones de forma automÃ¡tica a las limitaciones de las modificaciones o la creaciÃ³n del modelo. Si esta opciÃ³n estÃ¡ desactivada, el comando DMUPDATE debe ser llamado para actualizar el modelo.
+Notas:
+Todos los comandos de modelado directo se puede aplicar a conjuntos de selecciÃ³n. Pulsada la tecla Control para seleccionar varios elementos.
+X-sÃ³lidos se de modelado basado en la historia. Mediante la aplicaciÃ³n de modelado directo a los sÃ³lidos creados con X-sÃ³lidos, van a perder su historia, y por lo tanto ya no ser reconocido por los comandos X-sÃ³lidos.
+QUAD menÃº del cursor
+El menÃº de cursor de cuatro es una alternativa al control de ediciÃ³n de entidades, ofreciendo un conjunto (mucho) mÃ¡s rico de la ediciÃ³n de las operaciones, mientras que requieren menos clics, sin mover la pantalla con un montÃ³n de agarre glifos.
+Con el cuÃ¡druple activado, la selecciÃ³n de una entidad e iniciar un comando tiene un solo clic. Las instrucciones mÃ¡s detalladas se pueden encontrar en la documentaciÃ³n de ayuda.
+QUADDISPLAY variables del sistema: determina si el menÃº del cursor Quad estÃ¡ activado.
+Preferencia QuadShowDelay: especifica cuÃ¡ntos milisegundos a esperar antes de que el quad se muestra cuando una entidad (sub) estÃ¡ resaltado.
+Preferencia QuadHideDelay: especifica cuÃ¡ntos milisegundos a esperar antes de que el quad se oculta despuÃ©s de mover el cursor.
+PREVIEWSUBENTS variables del sistema: define quÃ© subentidades sÃ³lidos, se destacÃ³ durante la vista previa de selecciÃ³n: caras, aristas.
+Ctrl + LeftMouseButton ya no activa la Ã³rbita en tiempo real, sino que se utiliza para la selecciÃ³n / deselecciÃ³n de las entidades. Esto se hizo para mejorar la selecciÃ³n de sub-entidades (por ejemplo, los bordes de los sÃ³lidos). Por favor, use MayÃºs + MiddleMouseButton de la Ã³rbita en tiempo real.
+Estilos Visuales:
+Configuraciones de presentaciÃ³n en un estilo llamado.
+Prestados modos ahora tienen una mayor relieve de caras y aristas, mordazas, dinÃ¡mica.
+Comando NEWWIZ: opciÃ³n 3D crea un nuevo estilo visual MODELADO y una casa de vista que utiliza este estilo visual.
+Comando MODOSOMBRA ha sido adaptado para usar estilos visuales, y se ha ampliado con el modelado de estilo visual, se recomienda para el modelado 3D y de alta calidad, para la representaciÃ³n.
+Nota: algunos ajustes de estilo visual no son compatibles y para ello se muestra en el modo de movilidad reducida. Se mantienen por razones de compatibilidad.
+ConfiguraciÃ³n de modelado 3D. Funciones mejoradas de modelado en 3D en Bricscad V12, se activan o desactivan mediante un conjunto de preferencias y las variables del sistema, tanto existentes como nuevas. Todos estos ajustes se pueden editar en el diÃ¡logo de configuraciÃ³n, o bien navegar por ellos, o escribiendo una parte de su nombre en el campo de bÃºsqueda en la parte superior del cuadro de diÃ¡logo. A continuaciÃ³n se muestran los valores recomendados para estos ajustes. Estos son los valores por defecto, pero si tiene problemas cuando se trabaja en 3D, es posible que desee comprobar su valor:
+PREVIEWSUBENTS: ajustado a 3 (ver caras y aristas de) tener resaltado de caras y aristas cuando el ratÃ³n pasa sobre los sÃ³lidos. Puede alternar entre los bordes de destacar y caras, o los sÃ³lidos completo, haciendo clic en el "sub" botÃ³n en la barra de estado o pulsando CTRL + F12.
+QUADDISPLAY: cuando se pasa el ratÃ³n sobre una entidad cerrada en 2D plana o un sÃ³lido, el menÃº de cursor de cuatro mostrarÃ¡ (ver mÃ¡s abajo para obtener mÃ¡s informaciÃ³n sobre el menÃº de cursor de cuatro). Puede alternar la visualizaciÃ³n de la cuÃ¡druple (y su uso) y desactivar haciendo clic en el 'Quad' en la barra de estado o pulsando F12.
+Comandos 3DCONTEXT y 2DCONTEXT cambiar el entorno de modelado de On y Off.
+HATCH: aÃ±adido soporte para los modelos personalizados, archivos separados con el nombre del patrÃ³n de patrones el nombre del archivo.
+TRIM: entidades escotilla se puede recortar. La asociatividad se mantiene siempre que sea posible.
+HATCHTOBACK: Establece el orden de dibujo de todas las entidades se incuban en el dibujo para mostrar detrÃ¡s de todas las demÃ¡s entidades.
+TEXTTOFRONT: Establece el orden de dibujo de todos los textos y las dimensiones en el dibujo para mostrar delante de las demÃ¡s entidades.
+PÃ¡gina de configuraciÃ³n:
+crear, editar y administrar los objetos de configuraciÃ³n de pÃ¡gina.
+Configuraciones de pÃ¡gina se pueden aplicar a los diseÃ±os.
+PÃ¡gina de configuraciÃ³n de Explorer permite copiar las configuraciones de pÃ¡gina de un dibujo.
+PSETUPIN y PSETUPIN comandos ofrecen formas adicionales de importaciÃ³n de configuraciones de pÃ¡gina de otros dibujos.
+SECCIONES:
+PLANOSECCION: crea definiciones persistente secciÃ³n. Trotaba (multi-segmento) Los planos de secciÃ³n no son compatibles todavÃ­a, pero se aÃ±adirÃ¡n en breve.
+SECTIONPLANESETTINGS: objetos de secciÃ³n tienen una configuraciÃ³n 2D, 3D y ajustes de configuraciÃ³n en vivo secciÃ³n, que se gestionan en el Explorador de dibujos.
+PLANOSECCIONABLOQUE: permite generar la geometrÃ­a de corte secciÃ³n 2D o 3D, de acuerdo con la configuraciÃ³n PLANOSECCION. El resultado puede ser almacenada en un bloque o en un nuevo dibujo.
+LIVESECTION: cuando un objeto de secciÃ³n se encuentra "en vivo", los objetos de intersecciÃ³n, llenar la intersecciÃ³n y la geometrÃ­a de corte se muestran en el dibujo de acuerdo con la configuraciÃ³n de la secciÃ³n en vivo. Cuando el objeto de secciÃ³n que se mueve o modificado, los resultados de la secciÃ³n se actualizan en tiempo real.
+PDF subyacente:
+Sustituido Adobe PDF lib con FLYSDK lib de integridad visual.
+Que han mejorado el rendimiento fÃ¡cil.
+Mejora la velocidad de redibujado.
+TRAMA DEL MOTOR: ImagÃ­nese nueva multi-resoluciÃ³n de la trama del motor, diseÃ±ado para manejar con rapidez imÃ¡genes de gran tamaÃ±o.
+(Mucho) mejor velocidad de redibujado de imÃ¡genes que no utilizan la configuraciÃ³n predeterminada para el contraste, brillo o decoloraciÃ³n.
+VisualizaciÃ³n de la imagen se suavizan ahora.
+Mejorar la calidad de visualizaciÃ³n de la imagen bitonal.
+El almacenamiento en cachÃ© y la compresiÃ³n se aÃ±adirÃ¡n en los prÃ³ximos meses para mejorar aÃºn mÃ¡s la experiencia del usuario.
+ADT (Architectural Desktop) facilitador
+MODELERPROPERTIES y MODELERPROPERTIES-: comandos para controlar diversos ajustes del modelador de Acis. FACETRES ahora se utiliza para mostrar por defecto.
+QTEXT: alterna entre la visualizaciÃ³n de texto normal y pantalla de texto simplificado (como rectÃ¡ngulos).
+Todas las preferencias ahora se puede modificar desde la lÃ­nea de comandos
+TEIGHA 3.5 ACTUALIZACIÃ“N: invisible en la superficie, importantes modificaciones de cÃ³digo se llevÃ³ a cabo: se actualizÃ³ la base de AOD DwgDirect v2.06 bibliotecas a la AOD Teigha v3.05, con lo que a lo largo de cientos de arreglos.
+MenÃºs y las barras se han ampliado y reorganizado.
+EDITARLISTAESCALAS comando permite ampliar la escala de listas que se usan en el diÃ¡logo de impresiÃ³n y las propiedades Viewport.
+Variables del sistema:
+AOD especÃ­ficos: AcisSaveAsMode, DxfTextAdjustAlignment, PLINECACHE, R12SaveAccuracy, R12SaveDeviation, SAVEROUNDTRIP.
+Acad compatibles: CAMERADISPLAY, CAMERAHEIGHT, CMATERIAL, DGNFRAME, DGNOSNAP, DIMTXTDIRECTION, DWFFRAME, DWFOSNAP, DXEVAL, EXPORTMODELSPACE, EXPORTPAPERSPACE, EXPORTPAGESETUP, FIELDDISPLAY, MARCO, GEOLATLONGFORMAT, GEOMARKERVISIBILITY, GRIPDYNCOLOR, GRIPTIPS, IMAGEFRAME, INTERFERECOLOR, INTERFEREOBJVS, INTERFEREVPVS, LIGHTGLYPHDISPLAY, MESHTYPE, PREVIEWTYPE, PSOLHEIGHT, PSOLWIDTH, REALWORLDSCALE, SAVEFIDELITY, SKYSTATUS, stepSize STEPSPERSEC, TILEMODELIGHTSYNCH, UCSVIEW.
+Actualizado: DIMTAD (rango 0-4 en lugar de 0-3).
+SR23408, SR25625, SR26370 - OPCIONES lÃ­nea de comandos: aÃ±adido soporte para la opciÃ³n / T para iniciar Bricscad con un nuevo dibujo basado en una plantilla determinada.
+SETTINGSSEARCH y comandos HELPSEARCH se han aÃ±adido para que las aplicaciones para navegar por la ayuda y la configuraciÃ³n.
+SR19285 - OSNAPZ: introdujo la compatibilidad con variable de sistema OSNAPZ. Si OSNAPZ estÃ¡ activada, los marcadores de referencia a objetos se transforman en consecuencia valor de elevaciÃ³n, a excepciÃ³n de la extensiÃ³n y ajuste polar.
+Ventanas: Ctrl + atajo de teclado R permite iterar a travÃ©s de ventanas.
+
+Mejorado
+
+Propiedades del panel: Estado colapsado, incluido el de nodos anidados, es ahora recordado por cada tipo de entidad.
+Panel de propiedades ahora es compatible con Ãrea de sÃ³lidos 3D.
+El comando AREA ahora acepta entidades escotilla
+PlotOutputPath: nueva conducta - por defecto, la variable estÃ¡ vacÃ­a. Si la variable se establece en un camino que serÃ¡ utilizado en lugar de utilizar el directorio de trabajo actual. UseOutputFolder variable ya no se utiliza.
+Punto de vista de diseÃ±o: color de fondo Modelspace se utiliza ahora en vista representada tambiÃ©n.
+Por la vista: la mejora comprobar si la tarjeta grÃ¡fica es compatible con el procesador. El programa cambia a modo de software sÃ³lo cuando sea necesario.
+Explorador de dibujos - Capas:
+aÃ±adido "Combinar ..." opciÃ³n de menÃº Capa.
+mantiene la configuraciÃ³n de diseÃ±o de la capa visible (evitar la necesidad de desplazamiento).
+SR30699: "Mostrar capas refX es activada de manera predeterminada
+PURGA: bloques anÃ³nimos ahora se purgan automÃ¡ticamente durante la carga de un dibujo.
+SOLIDEDIT: compatibilidad con mejor comportamiento del comando.
+PSLTSCALE: ahora se aplica en varias ventanas al mismo tiempo en vez de la ventana grÃ¡fica actual.
+SINOPSIS: la variante no detallada del comando PARCELA ahora acepta todas las cadenas que figuran en el campo Formato de pÃ¡gina del cuadro de diÃ¡logo Imprimir, por ejemplo, nombres de diseÃ±o en asteriscos, (tambiÃ©n InglÃ©s "complot _previous"). "" No es aceptada.
+Comando EDITPOL ahora tiene opciÃ³n mÃºltiple.
+BLOQUE DE DIÃLOGO: nombres de los bloques se ordenan alfabÃ©ticamente ahora.
+Haga doble clic en el comportamiento del Explorador de Windows. Los dibujos que se hace doble clic en el Explorador de Windows se abrirÃ¡ en una nueva sesiÃ³n si Bricscad SDI = ON, o en una sesiÃ³n existente si Bricscad SDI = OFF. SDI dentro de Bricscad (la aplicaciÃ³n de un dibujo que sÃ³lo se puede abrir) no se ha implementado
+SR26444 - regiÃ³n: apoyo a la creaciÃ³n de regiones a partir de sÃ³lidos 2D.
+SR26559 - REGIÃ“N: Apoyo a la creaciÃ³n de regiones a partir de curvas cerradas
+SR26689, SR28978, SR29113 - RENDIMIENTO SNAP: marcadores de presiÃ³n en el complejo de sÃ³lidos 3D se muestran ahora sin demora, permitiendo que el cursor se mueva con rapidez.
+SR29674 - INSUNITS: el valor es tenido en cuenta durante DIVIDE y comandos MEDIDA.
+SR29906 - GRID: AÃ±adido soporte para "la red de puntos en la hoja / layout 'opciÃ³n GRIDSTYLE.
+SR30472 - OPCIONES DE COMANDO: varias palabras clave opciÃ³n que estaban completamente en mayÃºsculas se han cambiado para comenzar con mayÃºscula y el resto de la palabra clave en minÃºscula. Esto se hizo para evitar que el usuario tiene que escribir la palabra clave en toda la lÃ­nea de comandos, en lugar de sÃ³lo la primera letra (s)
+
+Fijo
+
+RepresentaciÃ³n realista en las ventanas modelspace mÃºltiples: grÃ¡ficos temporales eran visibles en una sola ventana.
+Cuando estÃ¡ en ortomodal, ignorar poco POLARMODE 2 (dibujar lÃ­neas polares de seguimiento).
+ConmutaciÃ³n sysvars con teclas de funciÃ³n no inmediatamente actualizar el estado.
+ActivaciÃ³n incorrecta de Bricscad en el modo de automatizaciÃ³n (cuando un dwg se ha incrustado en un documento en otra aplicaciÃ³n) cuando se ejecuta Bricscad mÃ³dulos externos que iniciar sus propias barras de herramientas.
+De diÃ¡logo de archivos: en algunos sistemas operativos en el panel izquierdo del cuadro de diÃ¡logo de archivo muestra diferentes (cuatro primeros) carpetas en funciÃ³n de UseStandardFileDialog ser activado o desactivado.
+Varios pequeÃ±os arreglos se han aplicado a las entidades TABLE.
+Campo de diÃ¡logo:
+inicializaciÃ³n de la etiqueta de 'precisiÃ³n' combobox se corrigiÃ³.
+mÃ¡s opciones de formato de 'variable Lisp "y las categorÃ­as de' variable del sistema '
+PERSPECTIVA: grÃ¡ficos dinÃ¡micos (de goma bandas) podrÃ­a conseguir recortadas cuando se trabaja en vistas en perspectiva.
+OSNAPCOORD: controla si se aplica presiÃ³n entidad a la entrada de coordenadas mediante el teclado.
+SR13319, SR18643, SR19147, SR21147, SR25574, SR25605, SR29019, SR29535, SR29929 - objetos OLE: los problemas de activaciÃ³n de Bricscad al incrustar datos Bricscad en otras aplicaciones.
+SR16397, SR27024, SR29390 - IMÃGENES: resoluciÃ³n de imagen y variables INSUNITS no se tuvieron en cuenta a la hora de insertar imÃ¡genes.
+SR17818 - UNION: los colores se perdieron despuÃ©s de aplicar el comando UNION.
+SR17936, SR25582, SR27793, SR27079, SR29561: GRIP_STRETCH operaciones y se extienden no actualizÃ³ los datos DXF 1011, 1013, 1041, 1042 (xdata puntos de referencia).
+SR20056, SR26325, SR29879: puntos OSNAP debe ser proyectada para las curvas 2D (arco, cÃ­rculo y polilÃ­nea pl). TambiÃ©n se ha aÃ±adido marcadores de referencia a objetos de puntos proyectados
+SR21309 - Vista previa: al cambiar entre vistas previas lento en el archivo de diÃ¡logo abierto, los hilos para crear las vistas previas anteriores no siempre fueron cancelados.
+SR22282 - F3: despuÃ©s de pulsar, descripciÃ³n actual y el marcador de referencia a objetos no utilizados fueron.
+SR22328 - COMPRIMIDO: Se ha corregido un problema con algunas pastillas, lo que deja de responder en su Ã¡rea de menÃº de configuraciÃ³n, despuÃ©s de un diÃ¡logo fue iniciado por un comando de menÃº tableta.
+SR22607 - OLE: los objetos no se han actualizado en la carga y despuÃ©s de diÃ¡logo OLELINKS.
+SR23174 - SNAP: CENTRO corregir el ajuste a polilÃ­neas cerradas. Punto de romperse ahora se coloca en el centro de gravedad del polÃ­gono.
+SR23446 - SECCIÃ“N: regiones creadas no obtener las propiedades actuales entidad (capa, color, etc)
+SR23595 - PANTALLA: la generaciÃ³n de curvas de nivel de lÃ­nea fija de sÃ³lidos toroidal.
+SR23615, SR26165, SR26508 - IMPRESIÃ“N: el programa pierde el foco despuÃ©s de la impresiÃ³n.
+SR24016 - IMPRESIÃ“N: informaciÃ³n mÃ¡s detallada para el usuario cuando no es posible utilizar uno de los controladores de impresora instalados en el sistema.
+SR24446 - GUI: Cuando una barra de control acoplable (Propiedades de bar o barra de comandos) estaba flotando y oculto, su tamaÃ±o no se han escrito correctamente en el registro.
+SR24974 - IMPRESIÃ“N: problema de compatibilidad: ventana de puntos de Ã¡rea de trazado se guardaban en WCS en el diseÃ±o de modelos en lugar de DCS.
+SR25314 - pantalla sÃ³lidos creados a partir de spline gira no se pudo cargar y se muestra en el modo de renderizado realista.
+SR25890, SR30104 - DISPLAY: PLAN comandos, PTOVISTA, ZOOM, VISTA, VISTADIN no actualizar las entidades que dependen de las propiedades de cambio de opiniÃ³n.
+SR26673 - LINE: perpendicular implementado diferidos chasquido en el comando LINE.
+SR26924 - Pantalla: Pantalla de error cuando se inserta subentidades insertar estÃ¡n utilizando modelos transformaciones. Esto puede suceder con las entidades personalizadas.
+SR26961 - pantalla marcos Wipeout no obedeciÃ³ grosor de lÃ­nea.
+SR27532 - HIDE: entidades con el tipo de lÃ­nea discontinua se aparecen como lÃ­neas continuas en el modo de ocultar.
+SR27724 - chaflÃ¡n: regresiÃ³n al establecer distancias.
+SR27859, SR29315 - DISPSILH: visualizaciÃ³n incorrecto de sÃ³lidos 3D en modo de lÃ­neas ocultas cuando DISPSILH estaba en marcha.
+SR27988 - MenÃºs: la creaciÃ³n de fijo emergente de lÃ­nea de comandos menuprompt.
+SR28073 - OLE: la falta de guardar los cambios en el objeto OLE despuÃ©s de la sesiÃ³n de ediciÃ³n.
+SR28484, SR29293, SR30324 - EDIT GRIP: soluciones aplicadas para la ediciÃ³n de segmentos de arco de polilÃ­neas, polilÃ­neas de spline ajustado y de sÃ³lidos en 3D.
+SR28622 - SNAP EXTENSIÃ“N: La distancia entrada directa no funciona al activar el ajuste de extensiÃ³n se activa y DYNMODE = 0. ExtensiÃ³n tambiÃ©n fija ajuste para los segmentos de polilÃ­nea recto, cuando UCS! = WCS.
+SR29128 - TRAMO: Ambas opciones del comando CORTAR cambiado la capa de uno de los sÃ³lidos resultantes de la capa 0, en lugar de la capa del sÃ³lido original.
+SR29412 - POL: crear mÃºltiples polilÃ­neas de estilo antiguo en lugar de una sola LWPOLYLINE, cuando se pidiÃ³ segmentos de arco.
+SR29516, SR30131, SR30180, SR30568, SR30728: EXTRUDE no extrusiÃ³n a lo largo de la ruta o se desviÃ³ de la trayectoria de extrusiÃ³n.
+SR29546 - Wipeout: cuando se CACHELAYOUT ON, wipeouts se muestra el uso del espacio modelo de color de fondo despuÃ©s de cambiar a espacio papel.
+SR29850 - IMPRESIÃ“N: DiseÃ±o en el dibujo se desplaza relativamente a la imagen de papel si utiliza pulgadas y el Ã¡rea de diseÃ±o o extensiones trama.
+SR30027 - comando GRID: fija indicaciones inconsistentes y opciones.
+SR30080 - TABLAS: Tabla de compensaciÃ³n Invalida no cambiar el tamaÃ±o de filas y columnas a su tamaÃ±o mÃ­nimo.
+SR30191 - EDITREF: debe bloquear el fichero que se estÃ¡ editando, y se abrirÃ¡ una referencia externa para leer cuando la referencia externa ya estÃ¡ abierto por otra aplicaciÃ³n. TambiÃ©n EDITREF debe verificar si una referencia externa ha sido modificado por otra aplicaciÃ³n y volver a cargar si es necesario.
+SR30262 - FIT: los puntos de ajuste de una spline se perdieron despuÃ©s de modificar la ubicaciÃ³n de los puntos de control.
+SR30391 - HATCH: evaluaciÃ³n fija de una escotilla de un arco con un radio de cero.
+SR30454 - AUDITORIA: Error 1005 cuando informÃ³ xdata manejar refiere al objeto borrado.
+SR30462 - HATCH: altura nominal TextoM (dxf 40) en lugar de la altura real en el cÃ¡lculo de la distancia lÃ­mite alrededor de la escotilla.
+SR30503 - INSERT: cuando se utiliza el "~" opciÃ³n del comando INSERT-y la selecciÃ³n de un bloque que ya existÃ­a en el dibujo, el '? Redefine' mensaje no se muestra. Por el contrario, el bloque actual se inserta sin tener en cuenta el archivo externo.
+SR30506 - PROPFIS: Propiedades de la RegiÃ³n se han corregido:
+Momentos de inercia: multiplica por 10 ^ 6
+Producto de la inercia: multiplica por 10 ^ 6
+Los radios de giro: multiplica por 10 ^ 3
+Momentos principales: multiplica por 10 ^ 6
+SR30507: Alta m2p icono a la barra de 'Snap Entidad.
+SR30532 - updateField: contar informÃ³ de encontrar / campos actualizados era incorrecta.
+SR30549 - vista previa de archivos: la vista previa del dibujo en el cuadro de diÃ¡logo OpenFile no fue pintado cuando se mueve el cuadro de diÃ¡logo fuera de la pantalla y la espalda.
+SR30557: Al pulsar CTRL + ENTER durante la ediciÃ³n de una mesa compromete ediciÃ³n de texto y las salidas de la tabla.
+SR30577: imprimir cerrar la ventana de vista previa (con el botÃ³n Cerrar o la tecla Esc) no vuelve a la ventana de impresiÃ³n, cuando la vista preliminar fue llamada desde el cuadro de diÃ¡logo.
+SR30578: El combo capa se atascÃ³ y causÃ³ inestabilidad en el programa, cuando algunos de propiedades de capa se ha cambiado de popup del combo, mientras que una propiedad en la barra de propiedades se ha seleccionado. Esto se ha arreglado.
+SR30607 - EDITPOL: no unirse a las lÃ­neas de fileteado.
+SR30640: LEADER opciÃ³n de comando: ancho de textoM que se estableciÃ³ con el editor de textoM se pone a 0 despuÃ©s de comando lÃ­der terminado.
+SR30688 - TRAMO: devuelve la parte equivocada de la divisiÃ³n.
+SR30757 - HATCH: Seleccione la opciÃ³n de la escotilla de mando no se admite el uso de la "anterior" de la selecciÃ³n.
+SR30758 - VISTADIN / DISTANCIA: para el modo de perspectiva, VIEWSIZE no se ajustÃ³ a la distancia entre la cÃ¡mara y punto de destino. Por ejemplo Si esta distancia se hace mÃ¡s pequeÃ±o, VIEWSIZE Asimismo, deben reducirse.
+SR30856 - TABLAS: las filas reciÃ©n insertadas ahora asumir el estilo de celda correcta.
+SR30865 - Pantalla: Pantalla wipeout marco de referencias externas deben ser controlados por el valor del objeto WIPEOUTVARIABLES del dibujo principal.
+SR30872, SR30957 - TABLAS: ahora puede ser explotado mediante el comando explotar.
+SR30928, SR31182 - DISPLAY: en algunos casos, las capas no se mostraban en ventanas PS si estas capas fueron congelados en otras ventanas PS.
+SR30972 - IMPRESIÃ“N: fallo al imprimir un modelo, que contiene varias ventanas, en modo sombreado.
+SR30979 - TEXTOM EDITOR: cuando todo el texto ha sido seleccionada (o el editor estaba vacÃ­o) y la altura del texto fue modificado, la propiedad de la altura del texto del objeto textoM fue modificada en lugar de aÃ±adir los cÃ³digos de formato de cadena de textoM.
+SR31011 - pantalla borde de la imagen se dibuja con trazos en la frontera de la imagen cuando la imagen quedÃ³ sin marco.
+SR31044: No fue posible leer los datos con las entidades SIAC cadena personalizada de los archivos de sÃ¡b.
+SR31088 - PANEL DE PROPIEDADES: no mostrar el displayName de objetos personalizados.
+SR31121 - regiÃ³n: las regiones creadas a partir de una spline cerrada provocado problemas para el comando HATCH y durante las operaciones booleanas.
+SR31135 - El diÃ¡logo de definiciÃ³n de bloque: si el "Especificar en la pantalla de" El cheque, los campos de XYZ no eran de color gris.
+SR31145 - Compatibilidad: Bricscad permite hacer largos nombres de estilo MLINE (DXF2). Estos son ahora truncado durante la carga de archivos. DXF y la hora de crear / modificar un estilo a travÃ©s de MLINE (entmake) / (entmod), evitando asÃ­ otros editores dwg a estrellarse en los planos.
+SR31210 - xclip: una de las referencias externas ha asociado a un usuario siempre dibujo no puede ser recortado.
+SR31217 - INSUNITS: INSUNITS llegando a ser respetados sÃ³lo si la imagen no tiene geoinfo.
+SR31254 - DXF: al cargar los archivos antiguos de DXF (hasta ac1012) ventanas se duplicaron.
+SR31257 - COMBOBOX CAPA: Capa de propiedades ComboBox no mostrar una altura correcta para su cuadro de lista desplegable de elementos.
+SR31262 - AUTOLOAD: cuando el diÃ¡logo de inicio se utiliza, la carga automÃ¡tica de menÃºs y sus archivos asociados mnl no funcionaba correctamente.
+SR31268 - COPIAPP: mensaje de error "Transacciones activas" se muestra cuando se realiza en COPIAPP textoM en el diseÃ±o de PS.
+SR31269 - Explorador de Dibujos: despuÃ©s de la congelaciÃ³n de la capa en una ventana grÃ¡fica actual una regeneraciÃ³n explÃ­cito era necesario.
+SR31449 - INSUNITS: cuando el valor de la escala de bloque se modificÃ³ mediante el panel Propiedades, INSUNITS no se tuvo en cuenta.
+
+Desarrollo de aplicaciones
+
+El nombre lib AOD pasÃ³ de DwgDirect a Teigha para DWG, por lo tanto, el sufijo. Tx ahora se utiliza en lugar del obsoleto. Sufijo drx.
+ActualizaciÃ³n de la mejora de plantillas personalizadas mediante la entrada dinÃ¡mica
+LISTA comando ahora es compatible con entidades personalizadas.
+LISP: la funciÃ³n fija de VLA-getalignement
+(Vla-put-ActiveDocument ... docx) (vlax-poner-la propiedad ... "ActiveDocument docx) (vla-activar docx) hizo que el motor de Lisp de romper.
+Lisp BRX COM: el documento aprobado a "documentActivated" reactores podrÃ­an pasar el mal (ya activo) del documento.
+SR15234, SR16878, SR25294 - SDS / LISP: implementado "setfunhelp" funciÃ³n.
+SR17936, SR25582, SR29561 - Tramo: dxf1011 datos extendidos no se transformÃ³ correctamente durante el comando STRETCH
+SR21528 Lisp / SDS / BRX: Se ha corregido un problema con ssget (), utilizando el "Ãºnico punto" selecciÃ³n combinada con "un solo paso" (: S) de selecciÃ³n, que siempre se devuelve RTERROR
+SR22008 - ANGTOF / DISTOF: problemas de conversiÃ³n se fijaron para las siguientes expresiones:
+(Angtof "3.5E-2"), (angtof "30d1'2 0,5 e2" "), (angtof" 30d2.5e-2 "), (angtof" 30.5d "), (angtof" 1E5 "), ( angtof "1E5" "), (angtof" N 60d0'2 0,2 ??e2 "E), (angtof" N30.5E "), (angtof" N30.5 "E"), (angtof "N30.5" E ")
+(Distof "1'-2 0.4" "), (distof" 1'-2 0.4 E-2 ""), (distof "1" 0,4 e-2 ""), (distof "1'4e-2" ")
+SR22011: valor de retorno de muestras de sobrescribir () de ahora respetados en valor de retorno de OdEdJigImpl:: arrastrar ().
+SR23165: aÃ±adido soporte para el modo de filtro para la selecciÃ³n de palabras clave ssget. Para mÃ¡s detalles y opciones de Bricscad especÃ­ficas, se refieren a documentos BRX.
+SR23260 AcDbDblClickEdit no funcionÃ³ para entidades personalizadas niÃ±o, cuando sÃ³lo el padre tenÃ­a registrados acciÃ³n de doble clic.
+SR23453: (setvar "clayer" ...) y la capa de _make ... no deben permitir establecer una capa congelada o referencia externa dependiente de la corriente.
+SR24539 - MenÃºs: permite salir del rango de Ã­ndices para agregar menÃº con menucmd por ejemplo, (Menucmd "P99 = + BCAD.TOOLS")
+SR25805 - MenÃºs: (menucmd "Ggroup.id = ~") no funciona para los submenÃºs.
+SR26126 - BRX: implementado OdDbSolid:: intersectWith ().
+SR26208 SR26415 SR27730 - LISP / SDS:
+problema con la precisiÃ³n numÃ©rica de (ssget "W") y (ssget "C"), cuando los puntos de la ventana se que coincidan exactamente con las coordenadas de objetos
+(Ssget "W") y (ssget "C"): selecciÃ³n de objetos debe ser restringido a la zona de la pantalla (no la selecciÃ³n de objetos de un Ã¡rea fuera de la pantalla de la ventana de selecciÃ³n dado)
+SR28637 Lisp / SDS / BRX: DXF cÃ³digo 38 (altura) fue ignorada con (entmake) / acedEntMake) para la ARC y entidades de cÃ­rculo.
+Lisp SR28691: aÃ±adido soporte para "ObjectDbx.AxDbDocument" de la interfaz.
+SR28732 BRX: corrige un problema relacionado a los grupos anÃ³nimos - el nombre del grupo accidentalmente podrÃ­a cambiar de un nombre que ya se aplican anÃ³nima a una diferente
+SR28891 - CRASH: OdEdInputContextReactor llamando al:: endNentsel () si ninguna entidad fue elegida provocÃ³ un accidente.
+SR29931: corregido el cÃ³digo de campo recuperada cuando el indicador kAddMarkers se utiliza.
+SR30033 - GRIP: la configuraciÃ³n del sistema LASTPOINT variables antes de la ejecuciÃ³n de comandos AGARRE.
+SR30052 - HLR: corregido el procesamiento de mallas policara
+SR30262: acceso fijo a travÃ©s de COM a una tira que no tiene puntos de ajuste.
+SR30313 - DIASTAT: no se indicaba con la que los diÃ¡logos se cerraron botÃ³n - Aceptar o Cancelar.
+SR30334 - BRX: cuando se carga un mÃ³dulo BRX con el nombre de ruta demasiado largo para caber en una variable de entorno de uso interno, un mensaje de error engaÃ±osa se muestra dando la impresiÃ³n de que el proceso de carga no, cuando en realidad no fue asÃ­.
+SR30425: OdDbTextStyleTableRecord:: setFont () aÃºn no ha creado xdata para el lanzamiento de TTF y la familia, juego de caracteres, cursiva y negrita banderas
+SR30486 - LISP / DCL: si hay una orden Lisp se iniciÃ³, y un cuadro de diÃ¡logo modal OpenDCL estaba abierta, el evento para el "control por defecto de diÃ¡logo" fue provocado.
+SR30494: (ssget "_C" pt pt) no funciona para las coordenadas de gran tamaÃ±o.
+SR30539: aÃ±adido un sistema de devoluciÃ³n de llamada a la destrucciÃ³n de seguimiento de casos OdDbHyperlink;
+SR30620: aÃ±adido soporte para SymbolUtilityServices:: ValidateSymbolName
+SR30744: Se ha aÃ±adido la exportaciÃ³n DWF de COM como binario DWF6.0.
+SR30952 SR30953 Lisp: implementado (vl-se propagan) y problemas corregidos con el tiempo (vl-load-file).
+SR31070 Lisp: Lisp objetos COM (VLA-objeto) de CAD-System-Los objetos que no se libera automÃ¡ticamente cuando el dibujo y / o Bricscad se cerrÃ³ -> podrÃ­a resultar en "virtual pura funciÃ³n de llamada de los" errores.
+SR31088: panel de propiedades no se presentÃ³ el DisplayName de objetos personalizados.
+SR31091 Lisp: cuando un Lisp C: comando se introduce de forma transparente durante la carrera otros (nativo) de comandos, el resultado de Lisp (princ) fue rechazada por ese comando nativo, la emisiÃ³n de un mensaje de error.
+SR31126 Lisp / SDS: problemas con (entsel), (nentsel), (nentselp) en relaciÃ³n con los grupos de la entidad:
+durante la selecciÃ³n, la entidad sÃ³lo en las necesidades de cursor a destacar (no miembros del grupo)
+selecciÃ³n debe ignorar PICKSTYLE, entidad que de otro modo incorrecto puede ser devuelto (de grupo)
+SR31148 Lisp / SDS / BRX: selecciÃ³n de entidad - AÃ±adido soporte para DXF filtro de 380 groupcode
+SR31177: comandos de Lisp definido por (vlax-add-cmd) no se pudo iniciar de forma transparente
+SR31189 Lisp: cargar archivos Lisp que contiene Mac especÃ­ficos de final de la lÃ­nea de caracteres (0xD) puede fallar.
+SR31261 - LISP: mejora de la seguridad al crear un archivo PRV.
+SR31311: aÃ±adido soporte para: U 'y': V 'para permitir que los modos de ssget / fuerza sÃ³lida selecciÃ³n sub-entidad.
+SR31419: IAcadDatabase COM interfaz de la funciÃ³n "CopyObjects () no pudo copiar los objetos, que sÃ³lo se aceptan las entidades

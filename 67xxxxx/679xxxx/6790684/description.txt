@@ -1,0 +1,35 @@
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+Format profile                           : OpenDML
+File size                                : 1.68 GiB
+Duration                                 : 2h 26mn
+Overall bit rate                         : 1 642 Kbps
+Writing application                      : Lavf51.12.1
+
+Video
+ID                                       : 0
+Format                                   : xvid
+Codec ID                                 : xvid
+Duration                                 : 2h 26mn
+Bit rate                                 : 648 Kbps
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 3:2
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Bits/(Pixel*Frame)                       : 0.063
+Stream size                              : 679 MiB (39%)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 2h 26mn
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 335 KiB (0%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 4627 ms (138.68 video frames)

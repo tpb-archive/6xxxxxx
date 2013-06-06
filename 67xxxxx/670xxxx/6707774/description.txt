@@ -1,0 +1,10 @@
+multiMAN packs many facets: It's a full-fledged Backup Manager, a File Manager, an FTP server,
+and an AVCHD and BDMV (Blu-ray) video player ... plus it does a lot more. It's highly
+configurable with many different display modes. multiMAN is open source.
+
+multiMAN 02.07.06 CHANGELOG
+
+PSX and PS2 discs are properly detected.
+PSX discs will show in XMMB Game Column and you can launch the PS1 game from
+there. It uses ps1_emu.self. If you press [TRIANGLE] over a PSX game icon you can pick
+to load the disc using ps1_netemu.self (Net).

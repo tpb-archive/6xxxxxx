@@ -1,0 +1,73 @@
+User Type,Username,Date,Text
+,Rea1Dea1Stee1,2011-10-11T02:23Z,can anyone help i flashed my box to stock updated then flashed to new firm... but all i'm gettin is play dvd when i put a game in :Z cheers!  
+,chronic2011,2011-10-11T03:03Z,did u spoof key to target? that could be a reason
+,fakebest,2011-10-11T08:25Z,"@Rea1Dea1Stee1 since there is so many critical steps involved there is so much that could have gone wrong.  You have to have the full original dummy.bin from the dvd drive before you ever modded it and then combine with your specific drives stock firmware to ""un-mod"" the drive (update won't work if it is modded) then update through a usb flash drive (xbox live is always dangerous to a modded and previously modded console) to dash 13599 the latest dash.  Combine your original dummy.bin with your drive's Ixtreme lite 2.0 to make a CFW ( custom firmware) then flash it to the drive.  of coarse there are many steps involved in doing those three things but you should know how to do them if you are going to flash your 360.
+
+Re-read this until it is thoroughly in your mind I have given full and correct info for a person who has modded a 360 before."
+,Rea1Dea1Stee1,2011-10-11T13:33Z,it's ok guy's i've sorted it all now thanks!
+,Kirtaner,2011-10-11T18:26Z,"Re: (update won't work if it is modded) 
+
+This is incorrect. I safely updated my dashboard with iXtreme installed, and it updated the firmware on my drive without issue. I then re-flashed it."
+,Bastiabo,2011-10-11T18:35Z,"So i'm noticing these new 360 games are slightly larger files and an error message comes up in ImgBurn when I try to write them to disc. I was given the following process to follow but it sounds like there could be a better method to this. Can I get someone to confirm this?
+
+
+1. Choose ""Write image file to disc"", and after loading the .dvd file, click ""Write"".
+2. ImgBurn will pop up a notice saying that there is not enough space on the disc to burn the image, and asks if you would like to continue anyway. Click ""Yes"".
+3. Another message might pop up saying that optimal layerbreak position exceeds L0 capacity. Click ""Yes"".
+4. An error will then pop up noting that ""Set L0 Data Zone Capacity Failed"". Click ""Continue"".
+5. The image will begin writing to the disc.
+6. Nearing the end of the write process, ImgBurn will pop up an error at around 97% or 98% (this is what we want -- it's intentional!). Click ""Cancel"".
+7. A notice will then pop up asking if you would like ImgBurn to try and perform the ""'Close Track/Session/Disc' functions"". Click ""Yes"".
+8. Let the disc finalize, and you're done!
+
+
+Thanks guys"
+,Amuraa,2011-10-12T03:23Z,Is this just NTSC/U? I want NTSC/J ohhh....
+,z5000man,2011-10-12T03:51Z,"@Kirtaner - Not all drives will ""make it through with no problems"" as the newer lite-on drives (9504, 0272, etc...) get their SPI locked when you update. So someone who read that and updated is probably pretty pissed at you... just sayin'."
+,vizell,2011-10-12T13:59Z,@Amuraa should be fine with NTSC-J according to the compatibility chart here at Play Asia.
+,primo205,2011-10-12T14:46Z,"@Bastiabo, I'm using more simple and official one :-) Burn with ImgBurn 2.5.6.0 or above if there is. 
+In toolbar, select [Tools] --> [Settings] --> [Write] --> Check in ""Calculate Optimal"". Once it's done, only needs to click ""Write Image File to Disc"" and select  "".dvd""file, and select "" Write until end of disc (Truncate)"". No error message or click during the recording."
+,primo205,2011-10-12T14:47Z,"@vizell, Thanks a lot for the information!"
+,AnubisBizz,2011-10-12T21:19Z,NEED SEEDERS!!! I am only getting 10 Kb/s????? I hve also been downloading for 3 days!!! come on people
+,R-Phaze,2011-10-13T04:26Z,"I get an ""update not found"" error. Tried clearing my cache but didn't help.. Any suggestions?"
+,THEVIVINATOR,2011-10-13T18:02Z,ANYONE NO IF NEW SYSTEM UPDATE ON THE 9TH OCT IS SAFE TO TAKE IM RUNNING DASH 13599 AND 1.9 PLSE HELP WILL REP ++
+,Kirtaner,2011-10-15T04:10Z,"@z5000man
+
+C4E has confirmed you do not need to flash to stock for any drive. It is safe."
+,ran1upurass,2011-10-16T19:07Z,boobsman how the hell did u get the dvd file for the games if abgx360 isnt even updated to procure the dvd. file to burn the game with the right image
+,Copnm,2011-10-17T02:49Z,"A quick tip for everyone who wants to download and for those who've already downloaded: I'd advise you NOT to burn or play this rip yet, wait for the release of C4e's PC DVD CFW to fully burn XGD3 games. If you do not, you have a probability of being flagged and banned from XBL.
+
+C4e's site: http://c4evaspeaks.com/"
+,jpro90009,2011-10-21T18:58Z,@boobsman evrytime i try to burn it keeps saying error at 46% what should i do?
+,jpro90009,2011-10-21T22:41Z,@bastiabo hey its still going good for me is there any way you could help me cause it keeps stopping at 46%
+,pirategamerxbox,2011-10-23T07:49Z,"this file is either corrupted or bad ripped.
+my benq was lattest LT+ 2.0 and my new liteon ihas124b flashed with the burner max 8.7gb fw just released today xbins.org. i burned with imgburn without any errors. Finally 2 trial blank discs gone the game frozen at start with only trademark "" dark souls"" "
+,pirategamerxbox,2011-10-23T07:50Z,"this file is either corrupted or bad ripped.
+my benq was lattest LT+ 2.0 and my new liteon ihas124b flashed with the burner max 8.7gb fw just released today xbins.org. i burned with imgburn without any errors. Finally 2 trial blank discs gone the game frozen at start with only trademark "" dark souls"""
+,pirategamerxbox,2011-10-25T17:41Z,"Its working now. I burned with clonecd instead of imgburn. Clonecd gave me failed message at 98% in overburn option, but I've been playing without errors"
+,soulblazer91,2011-10-25T22:15Z,"Boobsman,
+
+is this 0800 ripped and safe to play on xbl? I ask only because abgx not being able to check xgd3's yet. As I understand it, you're only safe to play if this is 0800 ripped as it's a 1:1 copy correct?"
+,pirategamerxbox,2011-10-26T21:46Z,"Again this torrent file is working and i believe this is ripped using 0800 fw.
+Now i burned with imgburn to get 100% fully burned from original without errors after verified in imgburn, all i need is to modify the burner max fw thru the MCSE tool program setting my memorex disc to 2.4x. FYI, the regular burners wont get 100% fully burned and ask u to truncate or overburn that missing security data lead MS ban u. u should get liteon (x)24b burner"
+,1981heaven,2011-10-30T19:22Z,"burnt with imgburn with instructions given
+
+works fine
+
+thanks a lot"
+,Pavlelink,2011-11-11T23:22Z,"Hi, are all your torrents safe to play online?"
+,1chillfire,2011-11-28T19:39Z,"Can anyone tell me why when I burn the game onto a disc, why it says needs and update on my xbox and doesnt play?"
+,Torrettooo,2011-12-16T23:09Z,so i burnt this image with latest version of imgburn into a memorex dvd with 2.4 speed with optimal layerbreak choosing truncate option. when i insert the disc into my xbox the screen goes dark and stays that way until i restart the console. any ideas?
+,letristan,2012-01-14T17:28Z,SEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEED
+,ncbastard,2012-01-19T05:01Z,I just get disk not supported  I have lt3.0 and live in america Can figure out whats wrong
+,ncbastard,2012-01-19T08:01Z,"OK got i, had to get the new abgx360. Oh yeah, anyone having a problem with the failed to authorize error just delete it off your hdd Mine actually runs quiter not installed"
+,cham1289,2012-03-23T13:44Z,thank you ncbastard i couldnt figure out what i was doing wrong had to restore my computer and turns out the the version i downloaded of abgx360 was wrong
+,cham1289,2012-03-23T13:51Z,ok new problem now my xbox recognizes the disk but it wont load all i get is a screen that is all black with a fire of some sort in the corner that says dark souls wont load past that point. Is this game ONLY playable with lt 2.0 because i have lt 3.0 and i didnt think that would be a problem boobsman i am a faithful downloader of yours but two wasted verbatims later i am truely disapointed
+,snowyomen,2012-03-25T06:46Z,"Burned. No go. Decided to check with ABGX360, found a bunch of problems!
+
+Run ABGX360 and fix before attempting to burn! I'll be back to post if this alone made the game work."
+,3obadon,2012-04-06T18:19Z,"Hey guys I downloaded the NTSC version but it gave the unsupported region error ......will the PAL version work??????
+
+What should I do?????
+
+Also do I need topology patch for this torrent ??because I have the Lt+2.0 but I didn't patch it."

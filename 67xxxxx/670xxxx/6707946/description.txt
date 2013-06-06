@@ -1,0 +1,8 @@
+-    Controller input using SDL_Joystick
+-    XInput path for Windows 360 controller input
+-    Changed config key binding system to be more flexible
+-    Improved procedural stance animation
+-    Improved AI patrol pathfinding
+-    Bullet uses single-sided collision again (fixes objects getting stuck in the ground)
+-    Added initial auto-camera option (in config.txt)
+-    Joystick can control second playable character if there is one

@@ -1,0 +1,26 @@
+Kwort is a modern and fast Linux distribution that combines powerful and useful applications in order to create a simple system for advanced users who finds a strong and effective desktop. Kwort is based on CRUX, so it's robust, clean and easy to extend. 
+Kwort 3.2 is finally here
+
+Almost a year passed since Kwort's last stable release, and today I'm rolling out a new release of our system. There's nothing new that you should be aware of if you already know the system. This is a major upgrade of almost every software included in Kwort 3.14 except the toolchain.
+Perhaps the most noticeable changes might be the move from OpenOffice to LibreOffice, a new shiny 3 kernel series, Firefox 7.0.1 (not installed by default but you can install it from the iso image) and the latest version of Chromium.
+Other than what's noticeable, there are tons of improvements under the hood, like the inclusion of lvm2 and mdadm for logical volume management and raid support, the ext4 filesystem supported in the installation and some nice improvements in kpkg. Also the installation system was improved allowing you to install from usb devices and some bugs from our previous release were fixed.
+More features had been added, and as always, the system remains light and clean as Kwort users like it.
+
+As always, I would like to thank the people who helped making Kwort as good as it is, some in more ways than others:
+
+    * Andreas Schipplock as always for maintaining the website, building packages and testing beta releases.
+    * Our infrastructure providers, the people from PGHosting and Ricardo Brisighelli for the package mirror in the UNR.
+    * As usual, a big thanks to the CRUX people for developing it, as it is the system Kwort is based on.
+    * Testers: FrÃ©dÃ©ric Bassaler, Emiliano Dalla Verde Marcozzi. They did an amazing job in this release so you all can have a pleasant experience.
+    * All the people in the mailing list who reported bugs and also to those who requested more features (without you, Kwort would have never improved).
+    * And of course, the people who develop every project Kwort makes use of. THANK YOU. 
+
+
+I really encourage you all to join Kwort's mailing list to ask questions, request features, make suggestions or help other users:  
+http://groups.google.com/group/kwort-linux
+You can also jump in our IRC channel to talk about anything you want and stay in touch with the people behind Kwort: irc://irc.oftc.net/Kwort 
+ 
+http://kwort.org/
+
+sha1sum : ee818bbbf4c50ba8ae7876d7ec5752ffb2f0c70d  kwort-3.2.iso
+md5sum : 94a3cfd873754ce91de07bbbb90db953  kwort-3.2.iso

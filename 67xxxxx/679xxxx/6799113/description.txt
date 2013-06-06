@@ -1,0 +1,54 @@
+Throughout history, advances in technology have come in spurts. A single great idea can often spur rapid change as the idea takes hold and is propagated, often in totally unexpected directions. Exadata embodies such a change in how we think about and manage relational databases. The key change lies in the concept of offloading SQL processing to the storage layer. That concept is a huge win, and its implementation in the form of Exadata is truly a game changer. 
+
+Expert Oracle Exadata will give you a look under the covers at how the combination of hardware and software that comprise Exadata actually work. Authors Kerry Osborne, Randy Johnson, and Tanel PÃµder share their real-world experience, gained through multiple Exadata implementations with the goal of opening up the internals of the Exadata platform. This book is intended for readers who want to understand what makes the platform tick and for whomâ€”"how" it does what it is does is as important as what it does. By being exposed to the features that are unique to Exadata, you will gain an understanding of the mechanics that will allow you to fully benefit from the advantages that the platform provides.
+
+    * Will changes the way you think about managing SQL performance and processing
+    * Provides a roadmap to laying out the Exadata platform to best support your existing systems
+    * Dives deeply into the internals, removing the â€œblack boxâ€ mystique and showing how Exadata actually works
+
+What youâ€™ll learn
+
+    * Configure Exadata from the ground up
+    * Optimize for mixed OLTP/DW workloads
+    * Migrate large data sets from existing systems
+    * Connect Exadata to external systems
+    * Support consolidation strategies using the Resource Manager
+    * Configure high-availability features of Exadata, including real application clusters (RAC) and automatic storage management (ASM)
+    * Apply tuning strategies utilizing the unique features of Exadata
+
+Who this book is for
+
+Expert Oracle Exadata is for database administrators and developers who want to understand what makes Exadata unique so that they can take advantage of all the platform has to offer. It is also for anyone who needs to plan and execute migrations of systems to the Exadata platform. Finally, the book will be invaluable to those who support and maintain such systems.
+Table of Contents
+
+   1. What Is Exadata?
+   2. Offloading / Smart Scan
+   3. Hybrid Columnar Compression
+   4. Storage Indexes
+   5. Exadata Smart Flash Cache
+   6. Exadata Parallel Operations
+   7. Resource Management
+   8. Configuring Exadata
+   9. Recovering Exadata
+  10. Exadata Wait Events
+  11. Understanding Exadata Performance Metrics
+  12. Monitoring Exadata Performance
+  13. Migrating to Exadata
+  14. Storage Layout
+  15. Compute Node Layout 
+
+
+
+About the Author
+Kerry Osborne began working with Oracle (version 2) in 1982. He has worked as both a developer and a DBA. For the past several years he has been focused on understanding Oracle internals and solving performance problems. He is an OakTable member and an Oracle Ace Director.. Kerry is a frequent speaker at Oracle conferences. He is also a co-founder of Enkitec, an Oracle-focused consulting company headquartered in Dallas, Texas. He blogs at kerryosborne.oracle-guy.com. 
+
+Randy Johnson is a principal consultant at Enkitec, a consulting firm specializing in Oracle. Randy has more than 18 years of experience with Oracle, beginning with Oracle 7 during the early 1990s. Much of his career has combined Oracle database administration with Unix administration duties. Over the last five years, Randy focused almost exclusively on real application clusters and automatic storage management. He is also an authority on Oracle backup and recovery via RMAN, having written a popular utility for automating RMAN scripts called Dixie. Randy occasionally blogs at http://blog.enkitec.com.
+
+Tanel PÃµder is one of the leading Oracle performance specialists in the world, having helped solve complex problems for customers in more than 20 countries on five continents. He specializes in advanced performance tuning, end-to-end troubleshooting, and other complex (and therefore interesting) tasks, such as migrating very large databases with minimal downtime. Tanel has optimized the performance of Exadata installations, starting from Exadata version 1, and he plans to go even deeper with his current Exadata performance and troubleshooting research. He is one of the first Oracle Certified Masters in the world, an Oracle ACE Director, and a proud member of the OakTable Network. Tanel regularly speaks at conferences worldwide and publishes his articles, scripts, and tools in his blog at http://blog.tanelpoder.com.
+Product Details
+
+    * Paperback: 588 pages
+    * Publisher: Apress; 1 edition (August 9, 2011)
+    * Language: English
+    * ISBN-10: 1430233923
+    * ISBN-13: 978-1430233923

@@ -1,0 +1,128 @@
+Advanced Tokens Manager v3.3 | Backup & Restore Windows &office activation!
+
+
+"The Activation Backup for Windows and Office has never been easier"
+
+Advanced Tokens Manager, will help to make a complete and trusted backup of your activation data
+
+Microsoft imposes a limit of activations for each license online, using the program, you can activate offline number of times you want, and enjoy your Genuine Software
+
+
+*Number of times you want on the same machine [ limited legally by Microsoft Hardware ID ]
+
+
+The Backup Compatibility is:
+
+Office 2010 
+Windows 7 
+Windows Vista 
+Windows Server 2008 / 2011 Family 
+     * All editions, versions and Service Packs of supported softwares
+
+
+About:
+
+The Advanced Tokens Manager is total-developed by Josh Cell as principal program engineer and Graphical Elements ; 
+Alphawaves will be helped with developement, sharing the principal Office 2010 DigitalProductID Decoder and Registry search features, new ideas and other helps ; 
+CODYQX4 and user_hidden for sharing DigitalProductID decoder methods ; 
+Advanced Tokens Manager name decompilation: Advanced modules for Windows and Office 2010 Tokens Backup / Restore methods and management . 
+What is Tokens.dat?
+
+Tokens.dat is a digitally signed file, which stores most of the windows activation files; 
+All files together have a digital signature that prevents tokens.dat be replaced on other machines, in this case, if used on different machines, will ask for online activation; 
+I advise making a new backup every change in hardware. 
+Features:
+
+Virus FREE, no external programs required [ .NET Framework v3.5 only ] 
+Auto-log for Restore functions 
+Coded with security features 
+Very lightweight and fast 
+Dynamic interface 
+~5 minutes is estimated time for restore your activation 
+How important is I have the phone activation?
+
+You do not need to call for Microsoft, entering 25 numbers, and imput 25 characters on the microsoft activation utility ; 
+You restore the activation in one click ; 
+You can make changes in hardware, without losing your license [ of non-retail licenses without M$ support ] ; 
+Engine 100% safe from errors and brick with activation 
+Using the program:
+
+
+Advanced Tokens Manager, is very simple to use, you simply have a folder with the program, run it, press Backup button, wait for the return of success
+
+
+After the procedure, save the folder, and make sure that the following files
+
+Executable 
+Backup Folder 
+
+It's necessary to restore activation at a future installation
+
+
+* For silent restore, put /S argument and check the following files are saved in the Backup folder, the silent backup is working only with windows activation
+
+config.ini 
+tokens.dat 
+
+
+
+"BBBBB" Product Key is shown, What ?
+
+This is return, is an MAK Key, or other key hidden in the Registry, and not has been decoded by application 
+No problems, the application will shown an window for you enter the correct product key for an trusted backup 
+Please have sure of input product key 
+If received key is wrong, the restore can't work 
+Is shown the last 5 characters of real product key for you input 
+
+
+Error extracting product key at the kernel ?
+
+- You can receive this return when backup any activation, probably 2 problems:
+
+
+You not have any product key installed on the product 
+Your install is corrupted and impossible to extract the product key 
+- How can I solve ?
+Try restart the system 
+Repair your installs 
+
+
+Compatibility:
+
+Compatible only with all versions of Windows Vista / 7, Server 2008 / 2011 Versions, 6.0 and 6.1 Kernel , Office 2010 - All Service Packs 
+The Office 2010 will be repaired automatically next start, it's normal 
+If the license is restored on another machine to different hardware ID, both office and windows will ask for online activation 
+
+
+Latest Release History:
+
+
+
+v3.3 [2011/10/29]
+
+
+- Solid Hybrid Core Code, really, all is worked without any system file dependency [ Before, it needs of the Slmgr.vbs and Ospp.vbs, not needed more ]
+- Hard worked all application, Fixed all detected bugs, tested with many OS Versions and Licenses
+- By improvements, the estimated time for Windows Restore is ~ 5min and ~ 1min for Office
+- If detected key match with decoded found key, you not need to enter the real pkey
+- Using advanced Config.ini file detection, and return code for invalid file
+- Improved the compatibility with Office 2010 family [ Project / Visio ]
+- Full-Written based in WMI Console, not depends of any script
+- Added backup checks for the sure of the backed-up files
+- Added Pkey check after install, for better return code
+- Now refresh directly with kernel all activation system
+- Solved the problems with missing script file
+- Added return codes for Registry Restore
+- Improved GUI with 120 DPI Display mode
+- Reworked backup / restore modules
+- Optimized thread calls structure
+- Clean the memory after restore
+- Optimized new code-structure
+- Improved restore timeload
+- Improved Backup detection
+- Optimized backup time
+- Corrected UI Errors
+- Improved APP-Load
+- Fixed core code
+
+

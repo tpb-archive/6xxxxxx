@@ -1,0 +1,69 @@
+User Type,Username,Date,Text
+,cococolin,2011-10-03T13:52Z,"Thanks if this is the real deal , I like the new bits !
+
+Anyone D/L ""new folder"" posted mid september: contained Nokia manuals ? Torrent dying, would really like to get full copy or even more than 37.4 !"
+,wackypete,2011-10-04T02:25Z,Is this R2011b? The notes above say release R2011a.
+,zeally,2011-10-06T02:41Z,is this legit?
+,zeally,2011-10-06T05:29Z,R2011b confirmed. Working great ! Thanks + seeding!
+,ususu,2011-10-19T12:12Z,"Please, please post UNIX version!"
+,nirgoen,2011-10-21T14:30Z,"Many Thanks!!!
+It works fine on Win 7 Ultimate X86"
+,kalmande,2011-10-25T11:01Z,"Confirmed. This is R2011b.
+
+But it doesn't create any shortcuts and I have to manually create a shortcut to ""matlab.exe"".
+
+What is wrong with these releases?!"
+,archicorn27,2011-10-27T14:45Z,Thnx
+,nsp99,2011-10-31T01:44Z,the license file didn't work for standalone...help?
+,marawhy,2011-11-27T19:50Z,The install.txt seems corrupted/binary..could you advice on how to open/view it please?
+,nirgoen,2011-12-13T21:41Z,Many Thanks
+,MistrzFil,2011-12-31T15:34Z,"This is what I got just after completing of the installation: 
+1. The following products require a supported compiler:
+
+MATLAB Compiler 4.16
+MATLAB Builder NE 4.1
+MATLAB Builder JA 2.2.3
+MATLAB Builder EX 2.1
+Stateflow 7.8
+Simulink Coder 8.1
+xPC Target 5.1
+MATLAB Coder 2.1
+
+2. Simulink requires a C compiler for simulation acceleration, model reference, and MATLAB Function Block capabilities. It is recommended that you install a supported compiler on your machine.
+
+3. To accelerate computations with the following products, a supported compiler is required:
+
+SimBiology 4.0
+Fixed-Point Toolbox 3.4
+
+4. Run mbuild -setup from MATLAB before using MATLAB Compiler or builder products. 
+
+I've found this C compiler here: http://www.mathworks.com/support/compilers/R2011b/win64.html?s_cid=pi_scl_2_R2011b_win64
+but what with the rest? Are those things really needed? "
+,MistrzFil,2011-12-31T16:54Z,"I have no idea if it helps anyboody but I downloaded Microsoft Software Development Kit (SDK) 7.1 from the directory above and then I put the mbuild -setup command in matlab as it is written above. All in all, at last this version of matlab works properly because R2011a looked wrong on my machine"
+,Tshering,2012-01-02T09:12Z,"R2011 has highly sophisticated features & tool box like global optimization, image processing, and parallel computing. Most of the control design models were updated and simulink code inspector is a new feature. I would like to share a simple steps to download it successfully:
+1. Download this torrent in C:/ This will minimize errors like ""torrent file access denied"".
+2. Once download is complete, click on ""setup.exe"" file.
+3. Select install manually (NOT internet).
+4. Then enter the installation key: ""59327-00840-06743-08309-05690"".
+5. By default, it will install in ""C:/ Program Files"". Otherwise direct to it, or make sure you know where you are installing. 
+6. It will take several minutes to install. 
+7. If asked to launch manually or via internet, select MANUAL.
+8. Now you will be asked for license file. 
+Click browse->C:/->MatlabR2011b->Crack->lic_standalone.dat and select OK.
+9. You will see successful installation notification, but no MATLAB ICON. 
+10. Go to C:/ Program Files (or wherever you installed), ->MATLAB->R2011b->bin.
+11. You will see executable file named: ""matlab.exe"". Right click and create short cut to your desktop. 
+12. Go to your desktop and rename it as MATLAB R2011b or whatever you like and pin to start manu or taskbar. 
+13. Launch it and develop an unprecedented control system. Good Luck!"
+,ippos,2012-01-05T16:59Z,Hello! Does this version works on win-7 64bit? Thanks
+,ippos,2012-01-05T17:04Z,Hello! Does this version works in win-7 64bit? Thanks
+,devouringone3,2012-01-13T08:55Z,"Yeah baby, it's working on Windows 7 64 bit edition!"
+,majki_majkon,2012-01-15T00:11Z,"at Tschering:
+is it a problem for matlab if i coulntd fint the matlab.exe file in the bin folder, instead i wrote exactly and hit it, a command window came out,and started the process. Im wondering, some errors were writen in the matlab window, first time i opened it, now it says nothing, what must i do, if i have to, cuase i think it said some errors about installing some stuff, 4 rows, cant remmember what it said, anyone have an what what could ve been said? thanks "
+,teos9888,2012-01-23T03:34Z,"Works 110% (r2011b) even though Avira reported a (probably false positive)
+
+""DR/FakePic.Gen"" in
+
+Matlab R2011b\archives\win64\Vehicle_Network_Toolbox15_win64.zip"
+,hudsontek,2012-02-10T01:21Z,The Matlab splash screen comes up then just quits!!!! can anyone help me here??

@@ -1,0 +1,53 @@
+              RELEASE INFO
+
+
+         - Dungeon Defenders v7.04 *Update*
+
+           (c) by Trendy Entertainment
+
+         - Date: 24-10-2011           - Protection: Steam
+
+         - Release: Cracked             by Ignite
+
+         - The following DLC is included in this update:
+           * The Aperture Science Handheld Portal Device
+           * Four Team Fortress 2 Familiars
+           * Nagi Pet
+           * Archimedes Pet
+           * Argo Pet
+           * Mephisto Pet
+
+
+              NOTES
+
+
+         - Our releases are always virus-free. If you think you found
+           something  suspicious, it's  a  problem  of  your security
+           software. All those  antivirus systems  will  never be too
+           smart, so don't complain.  And always remember that we are
+           not responsible for modified releases.
+
+         - We aren't stealing releases. We respect hard work of other
+           people and always  indicate  original authors of releases.
+           We have permissions to use their files.
+
+         - We are doing all this for fun  and  knowledge only. Always
+           remember to support the developers if you like the product
+           and its quality.
+
+Changelog:
+
+* Steam persona names with non-ASCII characters can now connect to TrendyNet. (Korean names, etc)
+* Fixed special characters "\", "/", "&lt;" creating unjoinable online games
+* Fixed "Start Wave" not updating to display the current Wave number of the match
+* Fixed potential losing-mission-unlock issue
+* Added option to toggle chase camera offset between left, right, and centered
+* Added option to disable "automatic step towards melee target" behavior
+* Made UI Scale keep the edge-alignment of the UI elements, so they stay at their corner even as they get smaller
+* Console key now changed from Tilde to F1
+* Apprentice: increased Tower attack rate ramp
+* Squire: lowered Tower DPS ramp
+* Increased maximum number of dropped items on the ground in missions
+* Made "L" key quickly log/unlock the highlighted item in your Item Box
+* Added -dowritelog commandline option to output log data & better error reporting method
+* Reworked TrendyNet keep-alive logic to minimize disconnects and reduce load 

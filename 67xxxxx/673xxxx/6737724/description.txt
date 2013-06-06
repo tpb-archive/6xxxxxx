@@ -1,0 +1,16 @@
+Features:
+- multiple torrent downloading, queuing
+- search for torrents
+- file selection in torrent files
+- Wifi only mode(You can switch if off, if you like)
+- able to limit Upload/Download speed
+- web browser integration
+- trackerless torrent (DHT) support
+- RSS support(automatically download torrents published in feeds)
+
+Recent changes:
+When a torrent is added download path can be changed. Added folder selection dialog.
+Fixed not enough space error when adding an already allocated torrent.
+Added random port option to preferences.
+New sites as search option.
+Added "Mark as downloaded" option to the rss reader.

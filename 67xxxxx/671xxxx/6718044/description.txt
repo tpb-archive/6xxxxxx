@@ -1,0 +1,23 @@
+[Video]
+Codec: AVC (x264)
+Profile: High 10@L5.0
+Resolution: 1280x720
+Frame rate: 23.976
+
+[Audio]
+Codec: AAC (m4a)
+Channels: 2
+Bitrate: Variable
+Sampling Rate: 48kHz
+
+[Subtitles]
+Codec: Advanced Sub Station alpha
+
+then for 10-bit support (worth it) get the latest CoreAVC (v 3.0) or the latest CCCP
+
+Manual CoreACV3.0 instructions for Media Player CLassic
+once you install CoreAVC3 you will open media player classic then:
+1. right click &gt; options &gt; internal filters &gt; add filter (find CoreAVC video decoder and add it)
+2. internal filters &gt; source filters and make sure mp4/mov is checked (this is just a fix for issues with playback on mp4 videos)
+
+follow those instructions closely and everything should be fine

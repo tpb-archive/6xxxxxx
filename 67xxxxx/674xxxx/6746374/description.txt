@@ -1,0 +1,26 @@
+[Wii] Rune Factory: Tides of Destiny [USA] (Undub v1)
+
+Done:
+- replaced /Sound/stream/ (most of the japanese voices)
+- edited RFF2.dat (essential fÃ¼r /Sound/stream/ replacement + remaining part of the japanese voices + name editing)
+- adjusted /RFF2.bin (essential for RFF2.dat editing)
+- replaced /opening.bnr with a custom one ("Rune Factory: ToD" as game name for all countries + sound from the japanese file)
+- deleted /Movie/LOGO_MOVIE_0X.sfd (no company logos, only wrist strap screen before the opening)
+- deleted update partition
+- scrubbed
+
+Still to do:
+- change all names to the original ones (takes too long)
+- change the game name and all logos back to "Rune Factory Oceans" (too difficult)
+- properly edit RFF2.dat (don't feel like messing with pointers to save 15 MB)
+- delete wrist strap screen (too difficult)
+- search for bugs~
+
+Name changes back to the original ones (or at least some romanization close to that):
+Aden -> Azel
+De Sainte-Coquille -> Hattain Viviaju
+Maerwen -> Melprin
+
+Enjoy!
+Undub by Majin3
+Special thanks to Aizu

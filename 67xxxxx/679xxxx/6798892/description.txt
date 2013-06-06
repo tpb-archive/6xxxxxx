@@ -1,0 +1,84 @@
+Office 2010 Toolkit and EZ-Activator v2.2.3
+
+Office 2010 Toolkit Changelog: 
+
+2.2.3
+-Fixed Visio Key Selection
+
+2.2.2
+-Fixed AutoKMS and AutoRearm Settings version mismatch
+-Windows XP users can use the key checker if Office 2010 is installed, otherwise it is disabled.
+
+2.2.1
+-Added more KMS Keys and Checker support for more products.
+-Fixed file browsing when using Customize Setup functions.
+
+2.2
+-Added ability to choose KMS Port, separate KMS PIDs for Windows and Office. Settings have been changed alot.
+-Can check and install/uninstall Windows product keys. Can use different KeyList.ini files for each supported checkable product.
+-Confirmation ID and Backup Key Prompt boxes remain centered and in front after minimizing and then restoring toolkit.
+-Check if licensing is in a proper state before running certain functions.
+-Fixed loss of rearms during rearm check and improved Backup error detection accuracy.
+-KMSEmulator runs in RAM to reduce Anti-Virus problems.
+-Many UI Changes and internal changes/bugfixes.
+-Nuked/Discontinued support and install of AutoKMS Service, will uninstall if you uninstall AutoKMS.
+
+2.1.6
+-Added logging to AutoRearm.
+-EZ-Activator won't say no products detected after successful activation which caused AutoKMS to be skipped.
+-Fixed AutoKMS failure to run with tasks.
+
+2.1.5
+-Can install AutoKMS as a service and add a custom task.
+-EZ-Activator won't say it succeeded if it didn't attempt activation.
+-UI Changes.
+
+2.1.4
+-Enabled install and use of AutoKMS on Windows without Office 2010 and improved AutoKMS Windows support.
+-Some of the PIDs in the EZ-Activator fix mode were invalid. They have been replaced.
+
+2.1.3
+-Added Phone Activation support.
+-Added/Changed EZ-Activator KMS fixes and ability to specify KMS Extended PID used by KMSEmulator.
+-Slight Change UI of Customize Setup Tab.
+-Show Installation ID in Check Activation Status, and added an option to display Client Machine ID in Check Activation Status.
+
+2.1.2
+-Fixed ISO Extraction issue where some ISO's would lost the last 2 letters of all file names.
+
+2.1.1
+-Added new KMSEmulator that should fix persistent 8000700D errors.
+-Made some UI text elements read-only.
+
+2.1
+-Added Troubleshooting/Support request guidlines to readme.
+-Added Copy To Clipboard button in Readme
+-AutoKMS Uninstall now deletes the Keygen if it remains.
+-Added Silent Switches (Read further for more info).
+-Added Customize Setup Tab and all functions inside it.
+-Added New Backup Options/Features.
+-Attempt Activation gives error code such as 8007000D if activation fails.
+-Can customize where AutoKMS, AutoRearm, and KMSEmulator.exe are installed/created.
+-Check Activation can show License Error Code and all installed license types even if no key is installed. Must first enable in Settings.
+-EZ-Activator skips certain checks if you've disabled things that the checks were for.
+-Fixed Key Uninstall Bug where it would say successful if you tried removing a custom key that wasn't installed. Also changed error for Key Install Failure.
+-If you have a read only INI or are in a folder where you can't write an INI, this is now taken care of (Settings Button will be disabled and default settings will be loaded if no INI exists)
+-UI Changes and IORRT detection.
+
+2.0.1: 
+-Added ID to INI file. This is to prevent using an old INI with newer version that would result in a crash.
+-Added Daily Tasks for AutoKMS and AutoRearm
+-Added Keys.ini batch key checking.
+-AutoKMS can now KMS activate Windows
+-AutoRearm can now convert Retail to VL automatically to eliminate nags
+-Automatically Delete KMS Keygen and Hostname are now disabled by default.
+-Better error recovery and notification.
+-Fixed false success in EZ-Activator if KMS Keygen got deleted by AV.
+-Removed Tokens Only Restore - It just doesn't work and nobody uses it as the Full Restore is always needed.
+-Starting KMS Keygen is now the first thing done during activation so if AV causes failure we don't waste time.
+-Using Modded KMS Emulator (By Phazor) to lessen amount of AV false positives.
+
+1.4.0.5 to 2.0: Written in C#, changes are drastic and innumerable.
+
+1.0 To 1.4.0.5: Initially just a batch file. Changes over these versions undocumented and almost innumerable.
+

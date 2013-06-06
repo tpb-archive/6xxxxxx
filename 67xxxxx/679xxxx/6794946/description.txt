@@ -1,0 +1,26 @@
+Tools to update your Samsung Galaxy S 4G to GB 2.3.6 and root it.
+
+1) Install phone drivers on your 64-bit Windows machine
+2) Install Odin
+3) Restart phone in Upload Mode and connect to USB 
+4) Load GB Rom to 'PDA' in Odin and press start
+5) Restart phone in Upload Mode and connect to USB 
+6) Load 1st Root Rom to 'PDA' in Odin and press start (phone will be in boot loop after this step. Do a battery pull and)
+7) Restart phone in Upload Mode and connect to USB 
+8) Load 2nd Root Rom in Odin and press start
+
+This will update your Samsung Galaxy S 4G to GB 2.3.6 and root it.
+
+UPDATES:
+Added 2.6.2.rom from http://forum.xda-developers.com/showpost.php?p=18783959&postcount=1
+
+References:
+
+Updating to Gingerbread: 
+http://www.theandroidsoul.com/galaxy-s-4g-t959v-update-android-2-3-6-uvkj5/
+
+Rooting: 
+http://www.androidtotal.com/root-samsung-galaxy-s-4g-gingerbread-2.3.3-kf1-firmware/
+
+Or for using the "alt-root" directory: 
+http://forum.xda-developers.com/showthread.php?p=16160325

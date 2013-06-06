@@ -1,0 +1,32 @@
+ http://bayimg.com/GaKigAADk
+
+HostsManPortable: Portable and Stealth 
++ includes "HostsServer" & "HostsOptimizer".
+
+Website                  : http://www.abelhadigital.com/ 
+Category                 : Windows Utility, Security, Proxy 
+Size                     : 6.07 MB (6,372,198 bytes) 
+License                  : Free 
+Version                  : 3.2.73 
+Released                 : February 6, 2010 
+Writes Settings To       : Application Folder 
+Stealth               [?]: Yes (http://www.portablefreeware.com/faq.php#stealth)
+Format                   : NSIS (http://nsis.sourceforge.net/Main_Page) 
+Compatibility            : WinAll, 32/64 
+Dependency               : Administrative Rights for full functionality.
+Settings Saved        [?]: Yes 
+Synopsis                 : HostsMan is a freeware hosts file manager and editor.
+                           HostsMan can update, optimize, & remove duplicates.
+                           HostsMan also comes with an optional local server.
+How to Extract           : Extract "self-extracting" EXE to desired folder, 
+                           launch "HostsManPortable.exe".
+
+Review:
+I use this over other similar software because:
+- HostsMan can Optimize your "hosts" file for better, faster, consumption by your PC. It can find duplicates, edit, remove comments, swap localhost address, etc.
+- You can even add your own favorite update list and HostsMan will check, update, optimize, then merge into your "hosts" file. It has a few default list built in.
+- It comes with an optional "Server".
+- Anything related to the "hosts" file: HostsMan can handle... unlike other similar software that only edit.
+
+Not familiar with the benefits of using the "hosts" file? 
+http://pgl.yoyo.org/adservers/

@@ -1,0 +1,50 @@
+The Atari 2600 is a video game console released in October 1977 by Atari, Inc. 
+It is credited with popularizing the use of microprocessor-based hardware and 
+cartridges containing game code, instead of having non-microprocessor dedicated 
+hardware with all games built in. The first game console to use this format was 
+the Fairchild Channel F; however, the Atari 2600 receives credit for making the 
+plug-in concept popular among the game-playing public.
+
+The console was originally sold as the Atari VCS, for Video Computer System. 
+Following the release of the Atari 5200, in 1982, the VCS was renamed \\\"Atari 
+2600\\\", after the unit\\\'s Atari part number, CX2600. The 2600 was typically 
+bundled with two joystick controllers, a conjoined pair of paddle controllers, 
+and a cartridge gameâ€”initially Combat and later Pac-Man.
+
+The Atari 2600 was wildly successful, and during much of the 1980s, \\\"Atari\\\" was 
+a synonym for this model in mainstream media and, by extension, for video games 
+in general.
+
+The Atari 2600 was inducted into the National Toy Hall of Fame at The Strong in 
+Rochester, NY in 2007. In 2009, the Atari 2600 was named the second greatest 
+video game console of all time by IGN.
+ Stella is an emulator for the Atari 2600 game console, and takes its name from 
+the console\\\'s codename.[1] It is open source, and runs on most major modern 
+platforms including Windows, Mac OS X, Linux, Windows CE/Mobile, Dreamcast, 
+GP2X, Nintendo DS, and Wii. Stella was originally written in 1996 by Bradford W. 
+Mott (originally known as Stella ), and is now maintained by Stephen Anthony.
+
+Stella is written in the C++ programming language and thus is highly portable.
+[3] The emulator supports all Atari 2600 cartridge bank switching schemes and 
+has support for nearly all Atari 2600 titles. Support is included for NTSC, PAL 
+and SECAM in 60Hz/50Hz varieties, including autodetection of those formats 
+(based on the number of scanlines generated in each frame).
+
+Stella emulates most Atari 2600 peripheral devices, including standard 
+joysticks, paddle controllers, the Atari Video Touch Pad, the Atari Keyboard 
+Controller, Atari Indy 500 Driving Controllers, the CBS Booster-Grip controller, 
+the CX-22/CX-80/AmigaMouse trackball controllers, the Sega Genesis controller, 
+and the AtariVox and SaveKey controllers. Stelladaptor and 2600-daptor support 
+allows real joysticks, paddles, and driving controllers to be used, and support 
+is also included to access a real AtariVox device plugged into a serial port 
+(and actually generate sound from the AtariVox device). Stella does not yet 
+support the Spectravideo Compumate or cassette-based titles designed to work 
+with the Coleco KidVid cassette player but does have support for titles designed 
+to work with the Starpath Supercharger.
+
+Stella includes many facilities for homebrew developers, including an extensive 
+built-in interactive debugger and disassembler supporting breakpoints, 
+read/write traps, etc. Other major features include a cheatcode system, support 
+for user-defined palette files, state loading/saving, OpenGL rendering and 
+effects, event remapping, and an extensive built-in, cross-platform user 
+interface (including a ROM launcher frontend).

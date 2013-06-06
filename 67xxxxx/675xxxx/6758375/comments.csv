@@ -1,0 +1,81 @@
+User Type,Username,Date,Text
+,shiftyboi,2011-10-20T20:39Z,my drive is d/optiarc dvd rw ad 5240S is this conpatable ?
+,Tony28haha,2011-10-20T22:31Z,"My drive is lite on dvdrw shw-16355
+
+Am i good to go or no?"
+,Kazekage,2011-10-21T02:59Z,"What part of the nfo that specifically says:
+
+LiteOn iHas124-XX B
+LiteOn iHas224-XX B
+LiteOn iHas324-XX B
+LiteOn iHas424-XX B
+LiteOn iHas524-XX B
+LiteOn iHas624-XX B
+
+Can you not understand. You MUST have the ABOVE drives."
+,SimStim,2011-10-21T12:19Z,"It's only these 6 drive models and nothing else, and even with those you have to be careful to use the right firmware file, e.g. you cannot swap 324  624. If you're not sure, let someone do it for you who has flashed before and understands this tutorial."
+,uggenabben,2011-10-21T22:25Z,"quote name='Exobex' date='Oct 19 2011, 12:32 AM' post='4833697']
+
+Here are some other drives which should be compatible. Click them to find the page I got the info from and judge for yourselves. Many of these drives have LabelFlash/LightScribe technology so can be crossflashed all the way up to IHAS624. Those without can be crossflashed all the way up to IHAS524 (you can probably use IHAS624 but they still won't have LabelFlash/LightScribe as the hardware's missing).
+
+ASUS
+DRW-24B3LT
+DRW-24B3ST
+
+HEWLETT PACKARD (HP)
+DVD 1270i B
+
+PIONEER(a BK suffix I think indicates that it has a black bezel, so variations of these probably all work)
+DVR-219CHV
+DVR-219LBK
+DVR-219VXL
+DVR-S19FX
+DVR-S19L
+
+PLEXTOR
+PL-L890SA
+
+QSI
+DDW-242S
+
+See here for the crossflash software links. I did read on one of the links that your SATA controller needs to be in IDE mode to perform the flash, not AHCI, just to let you know!"
+,SimStim,2011-10-22T08:56Z,"@uggenabben
+
+The developer will only provide firmwares for LiteOns (cf. http://c4evaspeaks.com/). If you think you can crossflash various makes and models, just because they share black bezels, go ahead and brick them."
+,mrnexus,2011-10-22T10:17Z,"Is this iXtreme is rip your retail copies then burn them to dual-layer dvd+r,can someone let me know as theres alot of confusion around this issue,thks in advance."
+,mrnexus,2011-10-22T10:51Z,"@simstimplease can someone explain what this is for,people are saying that this burner is to ie the Ixtreme is to rip ur own retail copies etc to dual-layers for backups,iam confused,i come here like thousands of other people because i cant afford to pay m$ and greedy game retailers the extortionate prices that they charge etc,please can-someone explain this to me thank you in advance."
+,uggenabben,2011-10-22T11:08Z,"@SimStim 
+
+There is a difference... You think, I know!
+
+xxx.ixtreme.net/open-forum/16404-more-drives.html"
+,celticfcps,2011-10-22T14:06Z,Hey to any advanced users it would help a lot if you could post a link to an amazon seller of the/a correct dvd writer? just to make it simple. Thank you and no trolls please :D
+,celticfcps,2011-10-22T14:12Z,"Hi newb here, what dvd writer is required (link to buy would help)
+
+what software is required to configure the writer before attempting to burn any game?"
+,hyeguy123,2011-10-22T16:16Z,http://www.newegg.com/Product/Product.aspx?Item=N82E16827106289&Tpk=iHAS124-B
+,SimStim,2011-10-22T17:04Z,"@uggenabben
+
+Maybe you think you know :P or maybe you're just a bad guy. Because if you check the link you provided you will see comments like, ""Drive crash after start burn (test on DVD-R , CD),"" etc. If even regular burning causes problems, I wouldn't EVER consider crossflashed drives for XGD3.
+
+But like I said, you and everyone else, do as you wish."
+,steelllynx,2011-10-30T21:06Z,"http://www.newegg.com/Product/Product.aspx?Item=N82E16827106289
+
+How about that one?
+
+What's with the B after all the model names?  I couldn't find it anywhere.
+
+amazon.com sucks."
+,steelllynx,2011-10-30T21:16Z,"Nevermind, now I see this one:
+
+http://www.newegg.com/Product/Product.aspx?Item=N82E16827106334
+
+It is iHAS-324-98B.  It threw me off because there is no space before the B in the model!
+"
+,steelllynx,2011-10-30T21:29Z,Does this work with AL1B.exe?
+,steelllynx,2011-10-30T21:33Z,Why does it need to be flashed by the official upgrade if you are just going to flash over it with the LT-Max firmware?
+,steelllynx,2011-10-30T22:22Z,"I tried to make a torrent that included the iXtreme Burner Max.rar that has all the files you need in one, but TPB says the torrent already exists, no matter what I try to name it.  Is this why you didn't include this .rar in your torrent SimStim?"
+,timoney,2011-11-15T05:18Z,"@SimStim,
+
+Can you make it work for Apple's SuperDrives?
+Thank you!"
