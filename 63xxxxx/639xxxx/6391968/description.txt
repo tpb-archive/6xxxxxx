@@ -1,0 +1,50 @@
+New NodLogin 10.0.5
+
+All previous versions will stop working.
+
+The NodLogin is compatible with all products and all
+ESET versions (2.7, 3.0, 4.0, 4.2, 5.0 beta)
+
+As you know NodLogin not a crack, not a patch, not a fix.
+The NodLogin not modify any files or windows antivirus,
+does not change the antivirus logs and under windows, so
+All it does is put a valid license antivirus, take
+that profits are recognized as false positives, and
+ESET puts its virus signature database, so that the antivirus
+delete it from your PC.
+
+To remove the antivirus utility, you should exclude
+folder where you unzip the NodLogin while excluding
+also the folder where you installed the NodLogin.
+C: \ Program Files \ UlisesSoft \
+If you exclude the folder will not have problems with false positive
+and remove antivirus utility.
+
+Antivirus For versions 4.x and 5x
+-----------------------------------------
+ESET recently blocked nodlogin web server and running the
+nodlogin gives a message that I could not connect to database
+This is solved in this way:
+1. Login to antivirus
+2. Press F5
+3. Enter the menu:
+Antivirus and Antispyware>> Protection of Internet traffic>> Management
+Address
+In this window we select:
+List of excluded addresses filtering:
+Press the Add button and enter:
+* Ulisessoft * (astericoulisessoftasterisco)
+This will exclude the (ww.ulisessoft.info) List
+Antivirus filtering and thus will not block when connecting to NodLogin
+to the database (it sends an image of the configuration).
+
+Important:
+-----------------
+If running NodLogin gives the message "No match
+valid licenses now "is because the database
+NodLogin not have valid licenses, this happens generally for
+the products ESET Smart Security "and that the licenses for the
+product are low, just be patient until they update
+database.
+
+PS: Note that there are 2 files one for 32bit and one 64bit.

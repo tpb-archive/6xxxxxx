@@ -1,0 +1,86 @@
+The information in this post is supplied \\\"as is\\\". No warranty of any
+kind, either expressed or implied, is made in relation to the accuracy,
+reliability or content of this post. The Author shall not be liable for
+any direct, indirect, incidental or consequential damages arising out of the
+use of, or inability to use, information or opinions expressed in this
+post..This is only for testing purpose and all the following files should be deleted in 24 hours time.
+
+
+
+Author:_________Neuropass
+Code name:_____ROG
+Language:______English US
+Size:__________2.55 GB (2,743,691,264 bytes) ISO
+Architecture:___64-Bit
+Version _______7 Professional SP1 Ver: 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+License:_______30 days trial
+
+
+
+This release has been modded by keeping in mind a \\\"standard default configuration\\\". The goal was to obtain a fresh installed OS with all the settings in the right place by default, rather than going manually through all the adjustments one by one. When you format and install a new OS you waste a lot of time, (setting up windows, registry setting, icons etc...)
+
+
+I used Windows 7 Professional as a base version for this release, simply because 7 Professional comes without backup and bit locker features. Dism has been used to integrate updates and removing useless packages like \\\"The upgrading version option\\\" (the annoying entry in the control panel that bothers you to update to the ultimate version), Country packages and others...
+
+
+Visual Customization: (default)
+
+Special ROG theme
+System icons
+System sounds
+Wallpapers
+Media center full customization
+Media player (background changer)
+System Fonts (Only ROG THEME)
+
+
+
+Default setting and registry setting:
+
+Removed the imposed default 100 Mb Partition upon installation. (Now you can install windows with no hidded partition)
+Window panes optimized for 1920x1200 display
+new \\\"right click \\\" options on files and desktop (icons added)
+No IE9 on taskbar and startmenu
+Shell extension (Show hidden files, show files extension)
+Windows switcher
+DEP off
+UAC off
+Automatic system restore point (on every boot) off
+paging file 2048 Mb (you can even turn it off completely if you want to)
+Power plan, High performance
+Boot selector name Personalized (ROG 64 Bit)
+Save and Restore icons layout ( Holding \\\"Shift\\\" buttons plus right click.)
+Neuropass tweaks
+
+
+
+Windows Updates Integrated Until April 7th 2011:
+
+
+Programs Installed :
+
+
+7zip 9.20 (64Bit)
+Notepad 2 (Default Replaced)
+Silverlight
+Flash 10 (64 Bit) and active X plugin
+cpu-z157 ROG Edition
+Daemon tools lite 4.40.2.0131
+Microsoft games for windows live drivers
+Directx 10, 11 June 2010
+
+
+Drivers Installed :
+
+
+Nvidia 266.58 WHQL
+ATK0110
+JMicron 36X
+LogitechUSBInputDevice
+WesternDigitalHD
+Intel_Chipset_V9111023
+Marvell9123_Controller
+NEC_USB3_V10190
+
+
+www.newage-os.com

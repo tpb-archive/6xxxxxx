@@ -1,0 +1,70 @@
+User Type,Username,Date,Text
+,colongamer36,2011-04-20T22:40Z,"-Minimum Configuration:
+    Windows 2000/XP Only
+    DirectX 9.0c
+    1000 MHz Pentium III, AMD Athlon or equivalent
+    256 MB RAM
+    CD/DVD ROM 4x or greater
+    NVIDIA GeForce 3 or higher, ATI Radeon 7500 or higher
+    DirectX 8.0 compatible sound device
+    1.0 GB hard drive space for minimum installation
+    Windows-compatible mouse required
+
+-Recommended Configuration:
+    Windows 2000/XP Only
+    DirectX 9.0c
+    1.5 GHz Pentium 4, AMD Athlon or equivalent
+    256 MB RAM
+    CD/DVD ROM 32x or greater
+    NVIDIA GeForce 6800 or ATI Radeon 9800
+    DirectX 8.0 compatible sound device
+    1.6 GB hard drive space for full installation
+    Windows-compatible mouse required
+    Dual analog gamepad
+
+-Advanced Graphics Options:
+
+    Anti-aliasing can slow down performance.  If you have poor performance try
+    disabling the anti-aliasing by selecting NONE and see if the frame rate
+    increases.
+
+-Sound Options: 
+
+    Music Volume: Adjusts the volume of the music.
+    Voices Volume: Adjusts the volume of all the gameâ€™s voices.
+    Sound Effects Volume: Adjusts the volume of all Sound Effects.
+
+    Audio Virtualization: Selects the 3D audio emulation mode for a 2 
+                  channel monitoring configuration (2 speakers,
+                  Headphones). The HRTF emulation is done in 
+                  software thus, using CPU. It is recommended to
+                  select ""None"" for minimum 
+                  requirements computers.
+    None: Stereo output with no additionnal CPU usage.
+    Light: Light audio 3D emulation with minimum additionnal CPU usage.
+    Full: Full audio 3D emulation with more CPU usage.
+
+    3D Audio Hardware Acceleration: Enables sound cardâ€™s 3D audio hardware
+          support. Disabling 3D audio may improve game's performance. 
+          Must be enabled to activate EAXâ€™s support.
+
+    EAX: If your sound card is compatible with Creative Labs EAX Processing,
+         enabling this option will greatly improve your sound experience.
+
+    Recommended Sound Settings:
+
+    Minimum requirements:
+        Audio Virtualization: None
+        3D Audio Hardware Acceleration: Off (disabling 3D audio may 
+              improve game's performance)
+
+    Normal requirements:
+        Audio Virtualization: Light
+        3D Audio Hardware Acceleration: On (if available)
+        EAX: On (if available)
+
+    Recommended system:
+        Audio Virtualization: Full
+        3D Audio Hardware Acceleration: On (if available)
+        EAX: On (if available)"
+,colongamer36,2011-04-20T22:41Z,Runs On Windows 7 very fine

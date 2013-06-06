@@ -1,0 +1,47 @@
+    ______)          _____                        ______         
+   (, /  /)         (, /   ) ,                   (, /    )       
+     /  (/    _      _/__ /    __  _  _/_  _       /---(  _      
+  ) /   / )__(/_     /     _(_/ (_(_(_(___(/_   ) / ____)(_(_(_/_
+ (_/              ) /                          (_/ (        .-/  ( DeGun 2011
+                 (_/                                       (_/   		
+                      Http://ThePirateBay.org/user/DeGun
+
+
+FlashBoot v.2.1e Software
+
+FlashBoot is a tool to make USB disks bootable. Its primary focus is USB Flash disks, but other types of USB devices are supported as well. Making disk bootable involves formatting and copying operating system files to it. Different operating systems are supported: Windows 7/Vista, Windows XP, SysLinux-based disks, GRUB4DOS disks, Linux kernel etc. You may create blank bootable USB flash with minimal set of system files and then manually tune it for your needs, or convert a full-featured bootable CD-ROM or floppy disk to bootable USB Flash keeping all functionality. FlashBoot can either format physical disk or write an image file. So you may create customized USB disk manually or with another tool and use FlashBoot to create image out of it and redistribute it in local network or online.
+
+Why do you might want to use bootable USB flash disks?
+---------------------------------------------------------------------------
+Unlike the most bootable medias, bootable USB Flash keys are very handy: compared to floppies, they have much bigger size, speed and reliability, compared to CD/DVD discs, they are random write access devices, so you can backup your data to the same media where you booted from, without need to reformat (reburn) the entire media. Again, the cost per gigabyte for them continues to cut down, unlike CD/DVD discs.
+
+Bootable USB flash disks are especially useful with netbooks like ASUS Eee PC which does not have builtin CD/DVD drive or an opportunity to install one. On the other hand, buying external CD/DVD drive for netbook is not a truly wise choice because it will be shifted out of use just after Windows is installed, thanks to widespread use of DVD image files and modern hard disk capacities.
+
+Bootable USB flash disks are useful as boot devices on the "big" desktop PCs too, unlike CD/DVD discs they do not have sensible surface you could scratch, thus more reliable (especially when holding your backup data). If your sysadmin at work restricts PC to not to have CD/DVD drives, you still can boot from USB flash disk. Or if your home PC has CD/DVD drive failed, you can do it too.
+
+There are some mobility considerations as well. If your laptop has a bootable CD/DVD drive, you can't work with it for a long time: boot device is accessed quite often, and battery power is obviously not enough to supply laser for a long time.
+
+With bootable USB Flash disk, you don't have to obey a CD/DVD size limit of 700 or 4700 MB. You can buy a big or a small USB disk depending on your needs. Just after boot, on every PC, you may save your files to the same boot device, or restore them back. There's no need to reformat (reburn) the boot disk, you just copy files and folders, and there's no need for extra hardware for such operations. Of course you may do some things you can't do under your OS: copy/modify system files (they are busy when OS is running), reinstall OS, repartition your main hard disk etc.
+
+What's new in FlashBoot v 2.1e;-
+----------------------------------------
+- FlashBoot now can leave unallocated space at the end of formatted disk. You can create NTFS, EXT3 or any other partitions there if you have such requirements.
+- Windows 7 is now mentioned along with Windows Vista in all GUI elements and CLI texts, so new users won't be confused about supported systems and conversion options.
+- Builtins/FreeDOS scenario explicitly marked as tester to aid in product evaluation for new users.
+
+Install notes:-
+------------------
+1. Unpack
+2. Install the program - DO NOT start it
+3. file "license_key.xml" to copy the main program directory C: / Program Files / FlashBoot
+4. run the program (wait a few secs)
+5. Enjoy it
+
+
+    ______)          _____                        ______         
+   (, /  /)         (, /   ) ,                   (, /    )       
+     /  (/    _      _/__ /    __  _  _/_  _       /---(  _      
+  ) /   / )__(/_     /     _(_/ (_(_(_(___(/_   ) / ____)(_(_(_/_
+ (_/              ) /                          (_/ (        .-/  ( DeGun 2011
+                 (_/                                       (_/   		
+                      Http://ThePirateBay.org/user/DeGun

@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+,Gektei,2011-04-09T01:11Z,Can somebody verify the integrity of this?  The last torrent I downloaded with the same name attempted to install a rootkit through the setup.exe file.  I wouldn't recommend trusting this POSTMORTEM group at any point.  Be wary.
+,Vensdale,2011-04-21T09:49Z,Yes. Setup.exe is infected with troyan. To install the game start cab.exe - it's clean.
+,Vensdale,2011-04-21T09:54Z,And one more thing - POSTMORTEM's original release of this game is absolutely clean. That motherf@ker - suji123 has added troyan to thier release.
+,revan180,2011-04-21T12:12Z,how do you get rid of the trojan?
+,revan180,2011-04-21T12:16Z,"also, how do you get this to actually work?"
+,Vensdale,2011-04-23T08:40Z,"revan180,
+Just unpack, mount image with Daemon Tools or Alcohol 52% FE (WARNING! With autorun feature disabled!) and then ran cab.exe from mounted image. It will install the game without infecting your Windows. OR you can use UltraISO (or PowerISO) to open the image and delete infected setup.exe, then rename cab.exe to setup.exe, save it as .ISO file and mount with DT/A52 (autorun enabled). OR you can just extract that cab.exe to your HDD and start it from there - it will install the game. Don't forget to install xnafx31_redist.msi - it's needed by the game.
+
+And as for the game itself - I just can't to launch it cause it's want to be activated. Seems to be a bad crack. I read that some people got it working, some - not."
+,csenger41,2011-05-05T20:15Z,"Don't you think that the trojan in the setup.exe would be the crack? -_-
+You are true amateurs in warez games... LOL"
+,LordNitro2008,2011-05-18T20:44Z,"whats the activation code to put in? i got it installed and it asks for a activation code. It shows one under the input box and i copyed and pasted it in to the box (the one that they give you under the input box) and this is the message it gave me when i entered it.
+
+Activation process has been terminated. Please make sure the SERIAL has been entered correctly. 
+Press BACK to attempt another activation, click MANUAL ACTIVATION to activate manually or press CANCEL to abort. In case the problem still persists please contact mailto:support@securom.com.
+
+The SERIAL was not found in the database. Most likely the SERIAL has been entered incorrectly.
+
+So how do i fix this?"

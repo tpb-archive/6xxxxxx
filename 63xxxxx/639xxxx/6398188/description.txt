@@ -1,0 +1,36 @@
+Graphics Programming Black Book - Michael Abrash ( Coriolis 1997)
+
+English version with sourcecode & High Quality Jpeg files 300dpi.
+
+
+The previous uploaded version did not include cdrom sourcecode.
+
+This version is complete.
+
+
+
+Amazon Review :
+
+---------------------------------------------------
+12 of 12 people found the following review helpful:
+---------------------------------------------------
+5.0 out of 5 stars 
+---------------------------------------------------
+
+Hard-Core advice from the guy who optimized Quake!, April 9, 2000
+By 
+richard.turner@paradigm.uk.com (London, UK) - See all my reviews
+This review is from: Michael Abrash's Graphics Programming Black Book (Special Edition) (Paperback)
+A number of years ago, I was developing an object oriented Ray Tracer for my thesis. I read every book on the subject, but practically none gave any form of advice as to how to render the results of my tracings on an SVGA powered 386.
+
+If only I had this book at hand back then! While today's PCs have grown well beyond VGA, and are largely well catered for via the likes of DirectX etc., this book still presents the base set of knowledge (from 8086 -> Pentium, from VGA -> Acellerated cards) that any programmer involved in the development of graphics oriented software should have.
+
+Combined with Michael's treatment of fast 3d scenery management, texture mapping and lighting models, this book really does become a bible.
+
+But this is not all...
+
+It's not been all that many years since every time Borland released a new compiler that MS would follow (or vice-versa). Dr. Dobbs would then review the two packages and present accurate results as to which compiler generated the fastest or smallest code. How times change!
+
+The relevance to this book is that the first 20 chapters should be read by EVERY hard-core developer: Why are compilers never going to generate code as optimally as a good developer can write assembler? Want to know why your code is not executing at least one instruction every clock cycle? Ever wondered how to time your code effectively? So just how would you optimize a particularly efficient string searching algorithm into a neat 7 instruction operation?
+
+It's all here - one of the most readable exposes onto the nasty features of the 80x8x processor families (why oh why didn't IBM wait for the 680x0?) and how to overcome these problems. 

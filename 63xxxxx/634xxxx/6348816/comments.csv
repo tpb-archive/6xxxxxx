@@ -1,0 +1,72 @@
+User Type,Username,Date,Text
+,drdre2,2011-05-05T07:58Z,Do USB devices work with this version?
+,misomian,2011-05-08T16:45Z,"@drdre2: They work if you download and run MultiBeast. In the Multibeast installer, expand Drivers & Bootloaders > Kexts & Enablers > Miscellaneous, and put a check next to IOUSBFamily Rollback. Just that one thing, and click Continue. Reboot the virtual Mac and you're good to go."
+,jkotesh,2011-05-13T05:20Z,"windows.bat has an error saying that 
+
+unable to change the directory to 
+C:\program files\vmware\vmware extension"
+,sde223,2011-05-14T06:08Z,"I am getting following error.. 
+
+Error opening vmwarebase.dll 
+
+So when i try to use the image it says hardware virtulisations is required and it doesn't play. :(
+
+Looking for help.. !"
+,sde223,2011-05-14T06:15Z,"it gives ann error saying 
+
+error opening vmwarebase.dll
+
+help ..!"
+,sergiobe87,2011-05-15T01:08Z,"i'm trying to install a program but the password ""no"" is not working, are you sure that's the correct one?"
+,sergiobe87,2011-05-15T01:57Z,duh! i just realized that it doesn't have password LOL
+,sde223,2011-05-15T02:53Z,"@sergiobe87 : 
+Dint you get any error while running indows_32.exe ?
+I am getting as mentioned above.. 
+Am not albe to proceed...! help..."
+,5881,2011-05-17T17:22Z,"Works great under Fedora14/64 and VMWareWorkstation 7.1.4. Even the VMWareTools are working, Thank you very much!
+One small problem is left, what's the password for root please?"
+,vampire03,2011-05-18T20:29Z,Seed please. Seed
+,genio550,2011-05-19T14:56Z,"Thanks for the cm image!
+However, I got following error message during boot:
+
+The guest operating system is not MAC OS X Server.
+
+Does anyone know how to solve this problem?
+I tried  hanged the OS type to other, but it caused CPU panic error.
+
+Thanks a lot!"
+,donman92,2011-05-25T12:10Z,"It is saying that my CPU has been Disabled by the guest. I am using an AMD CPU and yes, I have tried settting paevm = ""TRUE""
+
+Please Help Me : O"
+,jacko9,2011-06-01T00:13Z,"Hey Guys,
+
+So this is how I got it working for me. Also note, I'm running Windows 7 x64 on AMD and VMWare 7.1.4.
+
+1 ) Download and unpack the archive to your location, add it to VMware
+2 ) Because I was unable to login with the given ISO, I downloaded ""EmpireEFI4AMD.iso"".
+3 ) Change the (IDE1) CD-ROM to boot with EmpireEFI4AMD.iso, not the EasyEFI v2.2 ver.3
+4 ) Boot, F5 and left key over to boot
+5 ) If you get to the pretty desktop, continue, otherwise this guide wont work for you
+6 ) Outside of your Virtual Machine (still running though) download ""darwin_snow.iso""
+7 ) Change IDE2 to darwin_snow.iso (eject if anything is there)
+8 ) VMware Tools should popup on the Mac desktop. Double click and install
+9 ) Continue with the forced reboot. Unmount darwin_snow.iso after reboot
+10) Done.
+
+Thanks guys for this, awesome work. Thanks to the other commenters who helped me figure this out. Hope this helps other people out there too."
+,corredorX,2011-08-10T04:17Z,"It works for me, the only problem I got I wanted to use more memory but even I choose use  2GB I read at ""About thi Mac"" i only have 1 GB!"
+,bestcalinou,2011-09-03T17:14Z,"Crack works very very fine on windows 7 when VMWARE is fully stopped (all services and programs in memory).
+There is no password at all on mac user !
+THANKS A LOT DENIS2011."
+,joeuser99,2011-12-01T13:49Z,"Seems to not work in Windows 7 64-bit, the batch files seem to not work. can this work on Windows 7 64-bit and VMware workstation 7?"
+,joeuser99,2011-12-01T13:51Z,Oh also its a IBM T410 Laptop  with the correct INTEL i5 and VT... running windows 7 64-bit
+,b52u571,2011-12-09T07:42Z,do i need vmware workstation or will vmware player suffice? please reply
+,psych88,2011-12-15T01:28Z,"I'm using a Windows 7 32--Bit OS on a AMD athlon II X4 Sytem.
+
+I mounted EmpireEFI4AMD.iso and darwin_snow.iso and of course the Vmware image, it just hangs ovre there, does nothing at all
+
+Can any1 help Please????, 
+Thanks in Advance"
+,GZ3r0,2012-02-11T21:59Z,"Download went quick, I'm happy for that. But when I'm starting the windows32.exe, I'm getting the following error:
+""File C:\Program Files (x86)\VMware\VMware Workstation\vmwarebase.dll:
+Error opening file."""

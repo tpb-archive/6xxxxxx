@@ -1,0 +1,191 @@
+User Type,Username,Date,Text
+,jpz714,2011-04-20T05:32Z,the serial has been disabled by the developer
+,Fabour,2011-04-20T15:59Z,Duh! thats why you are meant to run 'Activate.bat' before hand so they can't disable to software. If you had read the serial.txt file then you should not have had any problems. The serial is just to let you install and thats it. Yes it has been disabled at vendors end so any install using that serial will be deactivated upon restart. Running 'Activate.bat' blocks incomming connections from vendor to prevent disabling. Great upload. Works a treat. Topman Gecko!
+,trinishelly,2011-04-24T02:42Z,I followed the installation but it doesn't capture anything....what am I doing wrong
+,shawnrob,2011-04-24T16:51Z,"did not work!!!!! Ran both activate exe. then setup, after restart still disabled!!!!!!!!!!!!!!!!!!"
+,Bigamy,2011-04-26T00:04Z,"Right. Can confirm working on Windows 7. Ran Activate first. Then Installed using serial provided with a non-existent email. Have tested for a day now with countless restarts and software still running. I think the Key is to block connections in the host file as this is what the Activate file seems to be doing. For those who say that it is not working for them, you should try adding the following manually to the windows host file:
+
+127.0.0.1 www.eblaster.com 
+127.0.0.1 www.spectorsoft.com 
+127.0.0.1 eblaster.com 
+127.0.0.1 spectorsoft.com 
+127.0.0.1 www.u2a1376gf-43ty-245b.com 
+127.0.0.1 u2a1376gf-43ty-245b.com 
+127.0.0.1 www.v19170dc0-7597-11d.com 
+127.0.0.1 v19170dc0-7597-11d.com 
+127.0.0.1 www.d2a1376gf-43ty-245a.com 
+127.0.0.1 d2a1376gf-43ty-245a.com 
+127.0.0.1 www.eblaster.com 
+127.0.0.1 www.spectorsoft.com 
+127.0.0.1 eblaster.com 
+127.0.0.1 spectorsoft.com 
+127.0.0.1 www.u2a1376gf-43ty-245b.com 
+127.0.0.1 u2a1376gf-43ty-245b.com 
+127.0.0.1 www.v19170dc0-7597-11d.com 
+127.0.0.1 v19170dc0-7597-11d.com 
+127.0.0.1 www.d2a1376gf-43ty-245a.com 
+127.0.0.1 d2a1376gf-43ty-245a.com 
+
+Thank you for a great upload!"
+,Fabour,2011-04-26T00:55Z,"@trinishelly If you have installed it successfully, then it is more likely capturing but in stealth mode. You will need to press Shift-Ctrl-Alt-S simultaneously altogether to bring the software up. It is always running in the background. Have mine running for 5 days now. Still capturing. "
+,trinishelly,2011-04-27T16:41Z,I do run it in stealth mode but when I check it I just see it blank......does it always say disabled when u open it
+,trinishelly,2011-04-27T16:55Z,"I have followed all instructions and was told it was installed successfully but when I open it up it says that the serial # has been disabled .What I want to know is if this is normal and should it work inspite of being disabled.
+
+How do I go about manually adding those files to windows host"
+,Fabour,2011-04-28T15:49Z,"Well if it says it has been disabled then it is not working. This means the host file is not successfully blocking incoming connections from spector (who check for invalid serial and then disable it). You need to manually add the entries into your host file. The host file can be opened and edited with notepad. It is usually located in c:\windows\system32\drivers\etc (might be different for Windows NT). Once this has been added, the you should be able to uninstall it a reinstall it. To uninstall you will have to press Shift-CTRL-Alt-S Simultaneously to bring the program up and uninstall it from there. I think Gecko may have only tested this on Win7 thats why others are having problems. I am using Win7 and this is running fine."
+,GuliBill,2011-04-30T14:13Z,Followed instructions. Works like gold. I am using Windows 7 Ultimate Retail by the way if that helps.
+,rafladx,2011-05-02T22:57Z,excellent torrnt works great its never got my daughter in so much trouble
+,Ratabrats,2011-05-07T23:40Z,"I cannot get this to work.  Is there any place to get detailed instructions?
+
+I am running Windows 7 Home Premium.
+
+Thank You."
+,Bigamy,2011-05-08T16:01Z,"Check if the host file (c:\windows\system32\drivers\etc\host) contains the entry that I have listed above. You can open the host file in notepad by dragging to notepad. If not add it manually. Uninstall and reinstall. Make sure you are administrator. If those entries are not in there, then it won't work. The activator file should insert those entries automatically."
+,Ratabrats,2011-05-08T18:49Z,"Big Thanks!  Been out of the game awhile, i was not administrator.  After 6 years away from a computer I'm making noob mistakes."
+,DLmunky,2011-05-09T10:53Z,"Hello.
+Many thanks for the upload - everything works except.... Spector Pro is not logging any Chrome web activity!?  Internet Explorer is recorded perfectly...but not Chrome!  I tried a couple of other keyloggers...and the same thing happens!  Anyone any idea why?  Would be very grateful for any help on this.... :)"
+,venus32,2011-05-16T11:07Z,"Hi, I need some help:
+Why does Spector Pro keeps recording even in inactivity?
+
+It wasnâ€™t like this before, it just started recently. It suppose to stop recording when all activity has ceased. I have the ""Inactivity timeout"" marked and set to 3 minutes, but still it never stops recording, I wonder why. I remember having this problem in the past and it only got solved when I formatted my PC, but I don't want to do that.
+
+Tried unistalling, but didn't work.
+
+Any idea?
+
+Thanks in advance.
+Regards. "
+,nnk61209,2011-05-20T09:59Z,I installed but now I am getting aton of werfault.exe errors and when I try to open i get an error that internet explorer has stopped working and needs to close. How can I fix this? I am running windows 7 with avg
+,mrcalebw,2011-05-25T09:14Z,"I downloaded and installed this perfectly, and works fine, but i dont appear to be able to get onto the spectorsoft website anymore, and the program does not record sites in firefox 4.0.1
+
+Anyone know how to make it work with firefox?"
+,antman0711,2011-05-28T07:33Z,I am having the same problem of it popping up saying internet explorer has stopped working..so i click close program but it keeps popping back up right away so i can't do anything with spector pro. I either want to uninstall it (which I can't figure out how to do) or fix the problem so I can keep the program. I tried adding those things to the host file but it won't let me save it in the same location even though I am the administrator. What should I do???
+,Ratabrats,2011-06-19T18:51Z,"@ antman
+
+Use search to look up notepad. Instead of double clicking notepad, right click and choose ""Run as Administrator"".  Open host file in notepad, and now you'll be able to add the above info to the file.
+
+
+I am also not able to get Spector to record anything (key logs, websites, facebook, chats, etc) while using chrome, or firefox.  The only thing i get are snapshots.
+
+Excellent upload, Thank you GeckoGold."
+,Ratabrats,2011-06-19T18:57Z,"@nnk61209
+
+werfault is happening to a lot of ppl.  I dont believe it is related to spector pro.  i fixed it by going to an earlier restore point.  I reinstalled critical window updates and now werfault isnt an issue any more.
+
+Try windows restore, install windows updates and see if that helps."
+,Fabour,2011-07-10T16:06Z,"Nearly 3 months and still running. Honestly guys, you must be doing something wrong. Just the entries in the host file is enough. Bear in mind the entries need to be in the host file before you install spector pro, or you will get disconnected."
+,mtn1996,2011-07-16T21:15Z,"great torrent
+"
+,prghost,2011-07-23T03:04Z,Working Flawlessly on Windows 7!!!! THANKS!!!
+,prghost,2011-07-23T03:04Z,Working Flawlessly on Windows 7!!! Thanks!!!
+,Melbee,2011-08-23T03:51Z,"I have done everything, added the list manually to the host file.. It still ends up disabled... running on Windows 7"
+,Melbee,2011-08-23T03:52Z,"How do you get it to run flawlessly on windows 7? I have done everything, added the list manually to the host file.. It still ends up disabled... "
+,mollyer,2011-08-23T07:36Z,"hi.please help.downloaded it in stealth mode. have it restarted and i tried to press the shift-ctrl-alt-S but no response.it doesnt show up. what must be wrong with the prog? the last thing i saw before the restart is a message that it was successfully completed and that i have to restart the computer, which i did. but i dont know now where to see it."
+,mollyer,2011-08-23T07:58Z,by the way i using win 7 ultimate. any help?
+,mlone,2011-08-25T13:48Z,"SpectorSoft is getting information from its users using spector sw. This happens after serial number has been blocked.
+Anyone can confirm this?"
+,duc749,2011-08-26T21:36Z,"confirmed, software unusable with key/email specified.. bummer."
+,duc749,2011-08-26T21:37Z,"confirmed, same message for me when installed last night, was not able to use it properly."
+,Rayyyan,2011-08-28T15:34Z,hi thx for this torrent but any chance of updating this cuz this version has issue with WerFault.exe on windows 7 but there is an update that fix it and if i update this one it will get blocked i think 
+,Fabour,2011-10-01T03:00Z,"I think the werfault must be an AVG thing. I have had this running 5 months without any errors.
+
+@Melbee you most probably installed it once before editing the host file thats why each time you install it now they know it is a pirated version. Uninstall software. Use Ccleaner to clean residue from previous install and scan and fix registry. Make sure the entries are in the host file before you install again.
+
+@Mollyer When you installed it, you must have changed the keys to bring up from stealth mode. Reinstall paying attention to the keys to open from stealth. 
+
+If the host file is updated with the entries before install, then there should really be no problem. If you do have issues. "
+,jtg320,2011-10-15T19:32Z,"It works great! However, I have all recordings turned on but only the SCREEN SNAPSHOTS works. The others, such as WEBSITES VISITED and KEYSTROKES TYPED doesn't work... What settings do I need to change???"
+,Melbee,2011-10-16T03:30Z,I got it to work on finally now the problem I have is I went to install on my sisters computer for her (same OS (Windows 7)) and it says invalid key? Anyone have any ideas as to why?
+,Melbee,2011-10-16T05:09Z,I should add that it comes up with invalid serial key during the install on the enter serial key page
+,Melbee,2011-10-16T09:06Z,Ignore my last 2 comments... turns out my sis had tried to install herself earlier & is a complete noob so I had to do a clean up & add host list etc. Now works no problems at all
+,Melbee,2011-10-16T09:08Z,"Ignore my last 2 comments, turns out my sis had tried to install herself earlier so I did a clean up, added list to host file, created a new outbound rule & now it works no problems"
+,addittyaaa12,2011-11-09T12:42Z,"disconnect net [better modem off]
+
+TYPE ""firewall"" ON THE SEARCH BAR
+SELECT ""outbound rules""
+""new rules""
+""program""
+TYPE ""%SystemRoot%\explorer.exe""
+CLICK ""next""
+""neXt""
+""next""
+TYPE A NAME
+CLICK FINISH
+CLOSE FIREWALL
+
+open ""Activate.bat""
+
+Block with your firewall or hosts file.
+
+put these files as exclusion in a/v :
+C:\Windows\system32\rasipsnd32.dll
+C:\Windows\system32\zipirtab.exe
+C:\Windows\system32\avimumin.dll
+C:\Windows\system32\miniwcap.dll
+C:\Windows\system32\w32igsec.dll
+C:\Windows\system32\vipumcon\rtfirole\sysuwurl.dll
+C:\Windows\system32\drivers\calattbl.sys
+C:\Windows\system32\videkdat.exe
+C:\Windows\system32\pacarrip.dll
+C:\Windows\system32\sapupms.dll
+C:\Windows\system32\rasecw32.dll
+C:\Users\user\AppData\Local\Temp\Spector32.exe
+win32/spector
+
+
+
+
+
+
+
+serials: 
+4720X-J00787-25742   [worked]
+4720Q-R00626-22522
+4620K-S00438-71051
+4420V-V00127-25961
+4520E-S00276-89245
+
+Vista and Windows 7 users may need to:
+Run as Admin, or turn off User Account Control (UAC).
+
+email: any
+
+RESTART PC [modem remain off]
+
+
+
+DO NOT allow Spector to call home.
+DO NOT use any update features.
+DISABLE any auto-updating.
+Notes:
+If you use Firefox (or IE?) and you allow Spector to phone home...
+Spector will de-activate and Firefox won't start until you remove Spector.
+Nice trick eh? 
+
+
+can open internet now"
+,Yokohama50,2012-02-07T10:51Z,"1. Ignore instructions
+2.disconnect youre 56k modem from internet
+3.jerk off
+4.hack youre windows registry into peaces
+5.delete internet explorer and all youre personal files
+5.add lots of bullshit into firewall without any given reason
+6.restart youre pc and be happy :S
+
+Are you sure all that bullshit is necessary and why?
+I just installed as admin on win 7 while activate.bat running and entered serial and that was it :)
+"
+,Infinyte,2012-02-27T21:00Z,"Tested On WIN 7 ULTIMATE 64 - Works Perfectly.
+
+1. unplug your modem.
+2. Run the Activate Batch File (This sets all firewall settings for you, nice work whoever wrote it)
+3. Install it /w the serial and any BS email
+4. Re-start, open the program and deselect auto updating and save.
+
+Thats it, now you can plug modem back in and all the functions are good except the internet services (obviously, or i hope this is)"
+,Melbee,2012-03-24T14:57Z,All of a sudden it has stopped logging everything but snapshots? No keystrokes or websites visited. Uninstalled & tried a clean install. No help at all
+,trantuangtvt,2012-03-28T05:11Z,"Hi all,
+It runs smoothly on my PC (Win7). But we can only use capture screen function and other functions (Web visited..) are failed. How can I fixed?"
+,Melbee,2012-04-02T11:35Z,"@trantuangtvt
+I have had the same problem for a little while now. Was working fine for months till now :s"
+,cancan420,2012-06-01T16:00Z,"can you crack the 2012 version, this is heavily outdated and wont work, even when adding the host files"

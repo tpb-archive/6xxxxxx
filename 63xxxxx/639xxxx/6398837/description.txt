@@ -1,0 +1,64 @@
+J. River Media Center 16.0.81 FINAL-MPT
+
+J.River Media Center has a streamlined user interface designed to make it even easier to organize, find and play your digital files, and to connect to hardware devices. All-in-one media management app turns any Windows PC into an entertainment hub for complete control of your digital media. It connects PC to stereo, TV, remote control devices, digital cameras, scanners, and portable MP3 players. It plays all media, rips, burns, and organizes all your music, images, and video. MC encodes and plays all popular media formats. Powerful utilities include Media Server for streaming music and images to remote PCs.
+Music, photos and video - all with one program! Connect your PC to your home entertainment hardware and control it all with a remote! Load your music on your iPod while you watch TV! All easily done with Media Center! Copy music from MEDIA CENTER to a portable digital audio player or move digital camera photos into MC's powerful image library.
+Record your favorite shows and watch them on your TV. More than one soundcard? Play different music simultaneously in different rooms. MC's Media Server can even stream your music to your PC at work!
+J. River Media Center Features:
+Audio
+* Native support of DirectShow DSP filters
+* Audiophile -- WASAPI exclusive output using high-end USB DACs
+* Audiophile -- Added ability to play files from memory instead of disk
+* Audiophile -- Support for high end USB DAC's with WASAPI
+* Headphone DSP makes listening more natural and comfortable.
+* /SoundcardSwitch command for the launcher (MC14.exe), allows soundcard selection on Vista and W7
+* 3D album view adjusts text size to display more tracks when necessary
+* 3D album view allows playing, adding, shuffling, and adding as next to play
+* Improved tagging and tag compatibility
+Images
+* Image Preview allows zoom from a thumbnail to rotate, delete, compare, edit, and more
+* Image thumbnail frames (optional)
+* Photoshop PSD file support
+* Single command copy / send to an editor like Photoshop, and stack new image with original
+Video
+* Video tagging using sidecar files
+* Chapter Support for MKV and MP4
+* Chapters added to On Screen Display
+* Info Panel displays metadata
+Television
+* Added new "watched" column to metadata
+* EPG can automatically retrieve XMLTV data
+* Automatic correlation of XML channel names and MC channel names
+* Info Panel displays metadata, including TV program art
+* TV program art from YADB
+Theater View
+* Watch Hulu and YouTube from Theater View
+* Customizable nested views in Theater View
+* Customizable File Info panel to display metadata
+* Speed and quality enhancements
+* Custom backgrounds
+* Touch screen support
+* On screen clock
+Remotes and Servers
+* Wiki articles: Remotes and Servers
+* Remote Relay using IR transceivers for controlling a set top box or receiver
+* Remote Setup Wizard
+* Media Center Remote learning and blasting
+* Media Center can connect to another Media Center to act as a remote (TRemote)
+* New HID remote control plug-in -- supports shortcuts with keyboard, mouse, gamepad
+* Remote control with REST based Web Service Interface in Library Server
+* Library Server supports read and write to allow for shared, multi-user database access
+* DLNA added to the UPnP Server
+* Library Server clients can write changes back to server
+* Library Server connections allow playback on server as Playing Now zones
+Optimization
+* Faster file import on multi-core systems
+* Faster drawing on multi-core systems
+* Faster image rendering
+* Faster MP3 ID3v2 tag reading
+General
+* New import wizard finds and suggests folders to import
+* Animated scrolling in lists and trees
+* Improved search box suggestion
+* New Media Center 14 Service runs when the player is running to allow talking to hardware (for remotes, portable devices, etc.) when UAC is enabled.
+Homepage - http://www.jrmediacenter.com
+

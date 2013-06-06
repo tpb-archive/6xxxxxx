@@ -1,0 +1,30 @@
+E-Book :
+
+Computer Graphics Principles and Practice 2Ed in C (Addison Wesley 1995)
+
+English version with High Quality Jpeg files 300dpi.
+
+
+
+
+
+***************************************************
+27 of 27 people found the following review helpful:
+***************************************************
+
+***************************************************
+5.0 out of 5 stars Required Reading, August 8, 2000
+***************************************************
+
+By Michael Spertus.
+
+This review is from: Michael Abrash's Graphics Programming Black Book (Special Edition) (Paperback)
+I don't do any graphics programming and much of the advice in this book is obsolete. Still, writing high-performance assembler and C code is essential to my job, and I can't begin to imagine how to become an expert on performance programming without reading the first portion of this book.
+
+Abrash teaches you how to think like a performance programmer in a way that no one else does. Even the best (and much more current) books on performance programming like Rick Booth's excellent "Inner Loops" can't approach Abrash' skill at imparting the mindset of how one approaches code optimization. No wonder Abrash' earlier books (which are bundled into this one) have names beginning "The Zen of..." Michael Abrash preaches a discipline of constant awareness of the bus, the cache, and the pipeline in a clear and useful fashion. And of course, Test, test, test! Even if you are not a graphics programmer, you will have much to learn about writing tight code and good algorithms from the graphics examples.
+
+Even though the book contains over 1000 pages, the real jewel may be the CD-ROM, which contains the complete text of the long out-of-print classic "Zen of Assembler". It is hard to express how influential a book on 8088(!) programming can be. That book begins by deconstructing a published article on speeding up a program by repeatedly applying optimizations that reduce the cycle count, eventually the cycle count was halved. Despite this, the "optimized" program ran slower than the original, and Abrash clearly explains why.
+
+The chapter on Terje Matheson's wc program tought me more about assembler than any program I have ever looked at. (You can test your skill by rewriting wc to run well on the Pentium II and above. The Pentium code in the book runs into a devastating partial register stall on the newer processors. Then compare your solution to Matheson's latest, which can be found on the internet).
+
+The bottom line is that if you are looking for a cookbook, stay away from this. The shelf-life of performance code samples is too short. On the other hand, if you are interested in really becoming a master of performance programming and are willing to work hard, this book will improve your skills more than you believed possible. 

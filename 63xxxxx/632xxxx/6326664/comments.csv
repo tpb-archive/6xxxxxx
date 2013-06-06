@@ -1,0 +1,30 @@
+User Type,Username,Date,Text
+,SaturnGrl,2011-04-18T15:54Z,"This was uploaded to help with the Adobe MS Program ""License has Expired"" error.
+Before using this fix, I would recommend that you try the suggested Adobe troubleshooting:
+
+1. Set the computer clock back to January 1, 2006.
+2. Launch the affected application, or any application within the affected Creative Suite package.
+3. Go to Help > Deactivate, and check the option ERASE THIS SERIAL NUMBER (CS4) or DEACTIVATE PERMANENTLY (CS5).
+4. Quit the application.
+5. Set the computer clock back to the current date.
+6. Start the application.
+7. When prompted for the serial number, enter the number from your purchased product.
+
+For me, this still didn't work. When the clock was turned back, it worked fine, but once I updated back to the current date, the ""License has Expired"" error.
+So I searched and found the previously suggested fix file that was previously suggested on a different torrent's comments. The website and the mirrors did not work, but I did find the .rar on a different host. So, to help others, I uploaded it here.
+
+This is the last thing to try. Follow the Readme.txt in the RAR and you should be fine. All I did was the last step and copied the amtlib.dll to: C:\Program Files\Adobe\Adobe Illustrator CS4\Support Files\Contents\Windows 
+
+Program works without a hitch now. Give it a go and see how it works for you. Comment if it works or if you still need further help."
+,JustMe004,2011-05-18T20:35Z,"Thank you so much! I have to use Illustrator for school, so I'm glad it works now!"
+,madecepeda,2011-08-11T04:38Z,Just copying amtlib.dll to: C:\Program Files\Adobe\Adobe Illustrator CS4\Support Files\Contents\Windows worked for me. Thank you!
+,InFi[D]eL,2012-03-22T00:08Z,"the crack.bat file is a little temperamental if you install in any location other than the default.
+
+However the manual replacement of ""amtlib.dll"" to each individual CS4 program solved the issue immediately. 
+
+Thanks for the upload.
+
+FYI for those who need to do this for After Affects the file to replace is here:
+
+%%%Adobe After Effects CS4Support Files not the root directory."
+,NoiD2tK,2012-05-06T18:25Z,"had the ""license expired"" error as well. followed the instructions, problem solved. many thanks to the uploader! peace*"

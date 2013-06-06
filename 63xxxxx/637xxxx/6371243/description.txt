@@ -1,0 +1,38 @@
+This Custom Live cd/dvd includes:
+
+-Ubuntu 11.04 installation
+-Xampp server installation
+-Open ssh server
+-EyeOs web desktop environment installation
+-Web development tools: geany, gphpedit, bluefish
+-Macbuntu macosx theme for ubuntu and docky
+
+
+Start xampp server:
+
+sudo /opt/lampp/lampp start
+
+
+Login details:
+
+Go to: http://localhost/xampp
+username: lampp
+password: universal
+
+PhpMyadmin:
+username: root
+password: universal
+
+EyeOs Login:
+Go to: http://localhost/eyeos
+username: root
+password: universal
+
+
+Reset xampp-passwords:
+
+sudo /opt/lampp/lampp security
+
+
+Preview:
+Preview:

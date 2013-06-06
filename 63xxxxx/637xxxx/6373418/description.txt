@@ -1,0 +1,23 @@
+Update for Samsung:
+
+TRIDENT
+M628N added (DUNL,IM,FL)
+SWIFT
+A256,J218,S3600i,S3601C added (UNL,IM,FL)
+SWIFT-3G
+B2703 added (CUNL,FL,SECT,BT)
+QUALCOMM
+A747,C5510,C5510U,T929 UNLOCK and UNFREEZE added.
+Improved Decryption algo, more models UNLOCK and
+UNFREEZE supported by Default.
+BROADCOM
+S5230K,S5230R added (CUNL,FL,BRP)
+B5310,S5620,S5628,S7070C added (FL)
+Use Samsung Kies drivers for these models (B5310,S562x)
+Fixed 'Cannot Find NandInfo !' on some models.
+COMMON
+Log to file fixed for Trident models.
+Introduced New Extremely Fast Key Calculation Algorithm (DHLT)
+Need few hours for Tables generation at First Software startup.
+But after, Key calculation for Qualcomm, Broadcom and Trident
+platforms will take few seconds. DHLT (c)SarasSoft.

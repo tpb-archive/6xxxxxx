@@ -1,0 +1,183 @@
+PS2 - Emulator (PCSX2) without Bios - Check fabiodragon13 torrents to get the Bios [by fabiodragon13
+
+
+Whatâ€™s new in 0.9.7?
+ 
+â€¢
+ 
+New GUI based on wxWidgets working on a separate thread
+ 
+â€¢
+ 
+microVU, an all new VU0/VU1 recompiler 
+ 
+â€¢
+ 
+VIF rewritten
+ 
+â€¢
+ 
+IPU improvements, many more videos now play perfectly
+ 
+â€¢
+ 
+Stable full screen operation with GSdx
+ 
+â€¢
+ 
+Many new emulation options, complete with tooltips
+ 
+â€¢
+ 
+New MTGS, much more efficient and compatible
+ 
+â€¢
+ 
+New BIOS skipping method, more compatible and correct
+ 
+â€¢
+ 
+Turbo/Slow motion settings for the frame limiter 
+ 
+â€¢
+ 
+On the fly changing of settings and plugins
+ 
+â€¢
+ 
+Saving/Loading states does not pause gameplay
+ 
+â€¢
+ 
+Built in ISO reader with a recently used ISO list
+ 
+â€¢
+ 
+Suspend / Resume emulation safely and fast
+ 
+â€¢
+ 
+Simplified plugin configuration dialog, with more options
+ 
+â€¢
+ 
+Full DVD9  game support (for example God of War, Xenosaga, Gran Turismo4 etc)
+ 
+â€¢
+ 
+First time configuration wizard
+ 
+â€¢
+ 
+Settings stored in your User documents folder by default to prevent Vista /Windows 7 permission issues
+ 
+â€¢
+ 
+Game database detecting the game you run and auto applies special fixes if needed
+ 
+â€¢
+ 
+Many important plugin updates, GSdx has many bugs and memory leaksfixed, SPU2-X makes dozens of games boot which never did before
+ 
+â€¢
+ 
+And a huge amount of improvements and bug fixes which we donâ€™t remember anymore
+ 
+Known issues of beta release 0.9.7 
+ 
+â€¢
+ 
+Multitap not implemented yet
+ 
+â€¢
+ 
+Command line support not implemented yet
+ 
+â€¢
+ 
+GSdx DX9 Hardware mode lacks various features
+ 
+â€¢
+ 
+Translation system not implemented yet
+ 
+â€¢
+ 
+Game database not complete
+ 
+â€¢
+ 
+Patches browser not implemented yet
+ 
+Configuration
+ 
+A very detailed guide is available on the PCSX2 homepage which is alreadytranslated in several languages!You can consult ithere2
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Status
+ 
+PCSX2 has come a long way since itsâ€™ starting point back at 2002. Current featuresinclude:
+ 
+â€¢
+ 
+Separate recompilers for Emotion Engine (EE) , Vector Unit 0 (VU0) andVector Unit 1 (VU1).
+ 
+â€¢
+ 
+Dual core support, with the Graphics Synthesizer (GS) running on a secondthread.
+ 
+â€¢
+ 
+Usage of MMX,SSE1,SSE2,SSSE3 and SSE4 extensions
+ 
+â€¢
+ 
+Proper SPU2 emulation featuring Auto DMA and Time Scaling
+ 
+â€¢
+ 
+Full gamepad support featuring Dual Shock 2,analog controls and evensupporting analog movement over keyboard (using some external plugins)
+ 
+â€¢
+ 
+Patch system for creating cheats and for workarounds on gamesSections that still need work:
+ 
+â€¢
+ 
+Dev9 functions, such as HDD and Ethernet (partially implemented) support
+ 
+â€¢
+ 
+Firewire emulation (quite low on the list though)
+ 
+â€¢
+ 
+USB emulation (very partially implemented)
+ 
+â€¢
+ 
+Image Processing Unit (IPU) emulation which is responsible for the FMVplayback. It has been implemented but it is buggy and slow
+ 
+â€¢
+ 
+MIPS cache needs to be properly implemented (barely works at this time)
+
+
+Enjoy and Seed =D

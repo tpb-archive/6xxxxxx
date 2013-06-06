@@ -1,0 +1,16 @@
+About:
+WinArchiver is a powerful archive utility, which can open, create, and manage archive files. It supports almost all archive formats, including zip, rar, 7z, iso, and other popular formats. WinArchiver can also mount the archive to a virtual drive without extraction.
+
+WinArchiver supports the following file types: .zip (WinZip Files), .rar (WinRAR Files), .7z (7z Files), .mzp (Mountable Archive), .iso (CD/DVD Image File), .001 (7z Sub Volume), .arj, .bz2, .bzip2, .gz, .gzip, .tar, .taz, .tbz, .tbz2, .tgz, .tpz, .cab, .cpio, .deb, .lha, .lzh, .rpm, .split, .swm, .wim (Windows Imaging File), .z, .daa (PowerISO File), .bin, .cue, .mdf, .mds, .ashdisc, .bwi, .b5i, .lcd, .img, .cdi, .cif, .p01, .pdi, .nrg (Nero Disc Image), .ncd, .pxi, .gi, .fcd, .vcd, .c2d, .dmg (Apple Disc Image), .bif, .ima, .flp, .uif (MagicISO File)
+
+MZP is the new archive format supported by WinArchiver. It supports data compression, encryption, and file spanning. WinArchiver can be used to create and manipulate MZP archives. The MZP archive can also be mounted as virtual drive instantly with WinArchiver Virtual Drive, thus you can access files in the archive without extraction. Compared with other archive formats, MZP archives can be mounted more efficiently.
+
+Features:
+- Open and extract zip, rar, 7z, and other archive files. WinArchiver can unzip all popular archives.
+- Create zip, 7z, iso, and mzp files from hard disk files.
+- Edit existing archive files.
+- Mount zip, rar, and other files to virtual drives without extraction. You can use WinArchiver as a professional virtual drive software.
+- Support unicode file names.
+- Support multivolume, encryption, and archive comments.
+- Support Windows Explorer shell integration.
+- Support both 32-bit and 64-bit Windows.

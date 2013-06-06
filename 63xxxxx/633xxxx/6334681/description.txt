@@ -1,0 +1,45 @@
+OlÃ¡ amigos do Resulinux, como prometido, trago o Resulinux 3.0 Beta3 para download via Torrent!
+
+MD5SUM: 1767c302067127de4bb8658ffb42569a - Tamanho: 1,2GB. (CompatÃ­vel com Mini-DVD e DVD.)
+
+* Nota interessante: O Texas Flood agora Ã© compatÃ­vel com o RC-SYSVINIT, o que facilita a instalaÃ§Ã£o e configuraÃ§Ã£o do Resulinux em servidores (configuraÃ§Ã£o do sistema compatÃ­vel com o livro "Servidores Linux" do "Carlos E. Morimoto") - instale as atualizaÃ§Ãµes para que o novo recurso surta efeito.
+
+-> Bugs jÃ¡ descobertos na versÃ£o de testes beta3:
+
+~ O Grub nÃ£o instala outros sistemas (e fundo de tela).
+
+Para corrigir Ã© bem simples:
+
+1Âº) ApÃ³s instalar, pressione F12.
+2Âº) Digite os comandos:
+
+su (Pressione Enter e digite sua senha, Ã© normal nÃ£o aparecer os caracteres.)
+update-grub (Pressione Enter.)
+grub-install /dev/sda (Pressione Enter.)
+
+3Âº) Pronto agora o Grub fica perfeito.
+
+~ Imagem de fundo com corte ao executar no VirtualBox ou baixa resoluÃ§Ã£o.
+
+Para corrigir Ã© bem simples:
+
+1Âº) Instale o Resulinux no HD (ou use Monitor LCD caso persista).
+
+OU
+
+2Âº) Troque o fundo de tela (hÃ¡ vÃ¡rias opÃ§Ãµes disponÃ­veis).
+
+Changelog:
+
+=> Texas Flood agora tem compatibilidade com o RC-SYSVINIT, fÃ¡cil de configurar serviÃ§os;
+=> Melhorias de velocidade ao executar do DVD;
+=> Melhorias de velocidade executando do HD;
+=> Live DVD baseado no Knoppix;
+=> Feito em cima do Debian 6X;
+=> KDE 4.5.X;
+=> Firefox 4.0;
+=> Plugin do Flash prÃ©-instalado (comodidade);
+=> Instalador agora usa sistema de arquivos ext3 (serÃ¡ possÃ­vel escolher na versÃ£o final);
+=> Ainda nÃ£o usamos ext4 por motivos de compatibilidade;
+=> Maior velocidade de acesso a discos;
+=> Kernel mais estÃ¡vel.

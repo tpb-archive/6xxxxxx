@@ -1,0 +1,50 @@
+NOTE:: Im a nice guy and included the missing lua51.dll into the archive.
+
+Beta of 5.1 - 10th May 2011
+Only install if you know how to handle a .rar file. Please be aware that achievements will not work with this version.
+
+- Implemented a system for giving countries a yearly random event.
+- Rearranged alot of events internally for easier overview for developers.
+- Lots of events that had multiple versions depending on your size, now use one event and scale the actual effects on your income/tech etc.
+- Reworked the current random events to be used by the new system.
+- Event 9012 no longer changes your tech group to western.
+- Fixed a tech problem with naval_maintenance spiking a little bit early.
+- Fixed a few spelling errors.
+- Docks now are rather more useful.
+- Updated some tooltips to correct reference to buildings.
+- Reworked country adjectives to fit better.
+- Krakow given more realistic government types through history, instead of Constitutional Republic from game start.
+- Corrected capital of Byzantine Empire from Roma to Thrace in some parts of the history.
+- Heavy Frigate textures corrected.
+- Corrected Beijing province # to 1816 twice in ManuchuDecisions.txt
+- Changed La Mancha and Cadiz from castillian to andalucian culture
+- Added missing text size statements for many provinces to /map/positions.txt
+- /missions/american_missions.txt - added NOT = { war_with = FRA } to ALLOW condition of the_united_states_france_relations to stop infinite loop - did equivalent with the_united_states_rev_france_relations too.
+- added nomad = no to Allow condition of royal_marriage_mission in /missions/diplomatic.txt .
+- added government = monarchy to trigger conditions of event 754 in /events/MoreRandomEvents.txt
+- duplicated the DECLWAR_MAP line as DECLWAROTHER_MAP in /localisation/httt.csv
+- in /missions/Hansa_Missions.txt changed Allow and Abort conditions as per the bug reporter\\\\\\\'s suggestion
+- added Thematic army and fleet names to /common/countries/ByzantineEmpire.txt
+- corrected text for Master of Mint text in /localisation/in_nomine_text.csv
+- changed localised name of ali_bey_reformed_infantry from infantry to cavalry for all languages in text.csv (as it is actually cav by description)
+- fixed Prussian Nation decision so nations with Prussian culture can form Prussia
+- In /history/countries/sib - sibir.txt the Sibir are made into a steppe_horde and in the nomad tech group, like their neighbours
+- corrected tax amounts in tooltip for vote_on_gemeinerpfennig_desc in httt.csv
+- corrected factor=10000 to factor=1000 in Annex Egypt mission in Turkish_Missions.txt . Added any_neighbor_country = { tag = MAM } to Allow and Abort code, removed exists=MAM from both as redundant.
+- Added regency=no to triggers of event 9463 in dynastic.txt
+- in /history/provinces/863 - suma.txt corrected 1709 capital change to read Chihuahua, not Chicuahua
+- In /common/countries/Hindustan.txt changed graphical_culture = chinesegfx to graphical_culture = indiangfx
+- fixed spelling of guerrilla and ethiopian in several places in text.csv
+- corrected text of Rival Navy mission in /localisation/2nd_inn.csv from \\\\\\\"no more than\\\\\\\" to \\\\\\\"less than\\\\\\\" in English and German
+- removed duplicate entry for Afonso V as leader from /history/countries/por - portugal.txt
+- Charles Middleton removed as an admiral and added as an advisor
+- Moved war_college = yes from /common/technologies/government.txt to land.txt .
+- changed option A and B text in /localisation/rotw.csv to better reflect the effects of the choices: \\\\\\\'Grant autonomy\\\\\\\' and \\\\\\\'Slower Westernization\\\\\\\' respectively
+- Update burgundian_missions.txt for Liege and Brabant to grant cores to all of those nations, plus set new effects (the any_owned/previous_owner allows it to handle any provinces that they might have acquired instead of only their original ones) - which in turn required a new modifier to be defined in event_modifiers.txt .
+- Modified Braveheart event in /events/MoreRandomEvents.txt to have all forces always spawn in Province 252 Highlands, instead of anywhere in the Highlands region.
+- Modify Infamy parameters in The Hanami Festival - Sign from above (event 10009 /events/JapanEvents.txt ) to match the ones in event 10008 The Hanami Festival - Ill omen in the sense that they should grade from 0.1-0.5 instead of all being 0.1 , which makes little sense.
+
+
+This beta should be save-game compatible with DW 5.0 but there are no guarantees. All suspected problems should be duplicated in a new game started under this beta before being reported.
+
+Make a copy of your EU3 DW installation and install this beta over the copy only; that way if the beta install goes badly you will not have to reinstall the whole game.		

@@ -1,0 +1,29 @@
+Official Web Site:  http://www.goldbugsoft.com/GProducts/InkLevel.html
+
+What is InkLevel
+
+This software can show ink levels and printer status of Canon, EPSON, HP printers that are connected to your USB port, AirPort Extreme/Express base station or attached to your network. For Canon and Epson printers commands are used to get ink levels. For HP and other network printers SNMP/PrinterMIB is used to get ink levels. Also BJNP of Canonâ€™s network protocol is supported.
+
+InkLevel shows ink levels in the Dock icon. You can see ink levels by the icon even if it is hidden by other applications.
+
+And InkLevel records ink levels when those are checked. So you will see when a cartridge turns to empty through the Ink History window.
+
+The printers that work with InkLevel is listed in the page. You see them in the Supported Printers window when you open it through the Tools menu of InkLevel. Reported printers are marked as â€œConfirmedâ€, however InkLevel may work with other printers. Please test your printer through the Diagnose function. That is in the Tools menu.
+
+This software works in 10.4 Tiger, 10.5 Leopard and 10.6 Snow Leopard, and you can use InkLevel with free for one week after downloading.
+
+Version 1.35, 12/17/2010
+
+*  Fixed a bug of nozzle options at some printers
+
+*  Fixed a crash bug of riousbprint protocol at some printers.
+
+* Added a new function of showing model icon in dock.
+
+* Updated Supported Printers.
+
+System Requirements (for this version)
+
+Mac OS X.5 and above
+
+--- PLEASE SEED ---

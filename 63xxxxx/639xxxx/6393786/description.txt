@@ -1,0 +1,43 @@
+Red Giant Magic Bullet Grinder 1.5.0 Mac OSX
+
+Magic Bullet Grinder is the smartest way to transcode DSLR/HDSLR footage. Grinder converts Canon video to edit-friendly formats, burns in timecode and generates web-resolution proxies in a single time-saving pass. Version 1.5 adds new features directly from customer requests, which include important Apple ProRes codecs, timecode from camera EXIF data, new 25p conform frame rate, and render priority control. Take the tedium out of transcoding and get to the editing you love.
+
+Easy conversion for video
+Convert H264-encoded video to edit-friendly formats. Works with DSLR and HDSLR footage from all video-capable Canon DSLR cameras, including Rebel T2i, T3i, 60D, 7D, 5D Mk II, and 1D Mk IV.
+
+NEW! Powerful options to choose timecode
+Timecode metadata can be inserted for any .mov file created on your Canon DSLR. New options let you choose between continuous timecode, reset timecode, or using EXIF camera metadata for Time of Day timecode by reading .thm files
+
+NEW! Burn-In for timecode, frames & names
+Burn-In options make it easy to match specific frames from offline to online media. You can burn in timecode, frame numbers, both options, or choose not to burn in anything. Grinder automatically adds file name burn-in to proxies, making it easy to track offline files.
+
+NEW! More FCP-friendly output
+Now supports Apple ProRes HQ and ProRes LT along with ProRes 4444, ProRes Standard, ProRes LT and PhotoJPEG for high resolution output. Supports PhotoJPEG or ProRes Proxy for online media and proxy files. (Must have FCP 7 installed to get all codecs.)
+
+NEW! More choices for Proxy output
+Increased offline support includes Proxy Resolution options from 1080p to quarter res. Continues to support Proxy Format choices of ProRes LT and PhotoJPEG.
+
+Simple, powerful batch processing
+Grinder is multi-threaded for speed. Simultaneously transcode as many files as there are cores (8 cores = 8 simultaneous files, 4 cores = 4 files). NOTE: There is an 8 core cap so if you are on a 12 core machine, Grinder will only use 8 cores.
+
+NEW! Convert frame rate to 25p or 24p
+Grinder has always conformed files to one frame rate. Now you can choose 25p or 24p when converting 30p and 60p media for high quality slow motion use. No matter what the input frame rate is, the output frame rate will always be the same. (Speed conversion only: Does not alter optical flow.)
+
+NEW! Custom file naming
+Complete control over file names for clips, like appending a custom prefix, timecode stamp and sequential number. Choose different naming conventions for main and proxy files, if desired.
+
+NEW! Queue Control for main vs proxies
+Set the render priority for main vs proxy files. You can render all main files first if you need the high resolution immediately. Alternately, render all proxies first so you can edit while the full-resolution files are still rendering.
+
+NEW! Support for Growl notification
+Growl notifications can be turned on for the start of batch processing and upon completion of main and proxy batches. This helper app unintrusively lets you know what Grinder is doing. (Growl software must be installed.)
+
+Designed for real world production needs
+The idea for Grinder came â€˜straight from the moviesâ€™ when Stu Maschwitz, Creative Director for our Magic Bullet products, asked Red Giant to help him easily transcode files from his Canon 5D Mark II. Stu needed to be able to convert footage, add timecode and create proxies in a single pass development. Thus, Grinder was born.
+
+Requirements:
+
+Mac OS X 10.5.8 and later or 10.6.3 or later
+Mac Intel system
+Minimum of 1 GB of RAM
+45 MB of hard drive space

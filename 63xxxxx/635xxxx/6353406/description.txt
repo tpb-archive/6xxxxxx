@@ -1,0 +1,47 @@
+This is the first PC Patch for SHIFT 2 UNLEASHED. Here are the bug fixes:
+
+-Common - Online - Catch Up Events - All users are prompted with the same message at the start of a catchup pack/catchup duel event
+
+-Cars - Car wheels intersect or float in the air when the player uses wheels wirh a different diameter to the AI
+
+-Online â€“ Catch Up Modes â€“ Once in-game there is no onscreen objective based message for either the fast car or the slower car/pack.
+
+-VIP Rewards - SHIFT1 PC does not write the entitlement that SHIFT2 looks for correctly
+
+-Online Modes - The host's car is not visible to at least one of the clients in an online lobby
+
+-Online - Players cars are occasionally crashing during rolling starts before the player takes control
+
+-Screen Transistion - Autolog - Player can momentarily get stuck within autolog when launching an event via the speedwall
+
+-Front end - Loading screen - Speedwall - First lap of event sometimes not being recorded by total time resulting in unobtainable World and Regional times
+
+-Cars/tracks - Visually the steering wheel when racing in cockpit views appears overly sensitive at the beginning of the turning circle
+
+-Online - lobby timer - Lobby timer is not appearing to reset back to 1:45 for the client players after a host migration takes place. The new host does see the timer reset.
+
+-Autolog - Speedwall - Erroneous speedwall times - Times can be set within and event which are unrealistic and unfeasible to acquire.
+
+-Tracks - Drift - The last corner on Miami Park Drift track now gives more drift points
+
+-Career - Drift â€“ AI opponent scores are very hard to beat on Miami Park Drift in the last event in Drift Championship
+
+-Camera initialization bug - Certain player views do not initialize correctly at race start
+
+-Physics & Handling - Input lag/delay present on steering wheels
+
+-Cars - McLaren MP4-12C - The Modern A Invitational event cannot be completed with Full Damage settings due to engine blowout
+
+-Online - If a client joins a lobby at the 00:10 mark, he will be stuck in a technical hang in the lobby and the other players will be stuck in a loading screen technical hang
+
+-Cars - Team Need for Speed Mazda RX-8 - The game can remain in a tech hang in the loading screen of events\races when the Team NFS Mazda RX-8 car is used.
+
+-Common - Online â€“ Catch Up Modes â€“ Once in-game there is no onscreen objective based message for either the fast car or the slower car/pack.
+
+-VIP - NFS Undercover VIP not awarded when playing shift 2
+
+-Retail Only - Players stuck on a black screen at the start of offline events
+
+-Photo Mode - Tech hang seen when taking photos in certain resolutions
+
+-VIP - Hot Pursuit LE writes a different entitlement to SE, thus will not be picked up by Shift 2 VIP

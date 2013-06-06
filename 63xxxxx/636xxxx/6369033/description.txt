@@ -1,0 +1,9 @@
+Just over a year since the release of antiX-M8.5, the antiX-team are pleased to announce that antiX MEPIS 11 'Jayaben Desai' - a fast, light, very flexible and complete desktop and livecd based on Debian Testing and SimplyMEPIS - is now available in full, base and core versions (for 686 and 486 kernel all using hybridiso). This release defaults to a fully customised icewm-Rox desktop (fluxbox, wmii and dwm are also installed) using a SimplyMEPIS 2.6.36-4 kernel, our own assistants to help configuration, and the usual range of applications for desktop use. Latest Iceape (2.0.13-1) for internet needs, Abiword (2.8.6) and gnumeric (1.10.14) for office use, qmmp and goggles music manager (0.12.1) for audio, gxine, mplayer and gnome-mplayer for video, gppp (dial-up), wicd (1.7), umt-panel2 (from aptosid) for GPRS/UMTS/3G and ceni (2.21) for network connection, pidgin (2.7.11) for chat. Many cli apps are also included such as Alpine for email, moc for audio, elinks for browsing, abcde and ripit for cd ripping and much more. Features include a cli-installer script for fast and light install, live with persistence, 'remaster on the fly', new boot cheatcodes for setting dpi and desktop windows manager with or without icons, antix2usb to easily install to usb stick. Many languages are fully supported out of the box with the language chosen at live CD boot carrying over to install. Chinese, Japanese and Korean fonts are included as well as ibus in the full version.
+
+antiX works on computers with as little as 64 MB RAM, though 128MB RAM is the recommended minimum and the 486 kernel version should work on AMD K5/k6.
+antiX is fast and has low RAM usage running live or installed.
+
+
+File Info
+
+MD5:74f3d537464646536755f28cabcdbc49

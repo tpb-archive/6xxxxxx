@@ -1,0 +1,110 @@
+User Type,Username,Date,Text
+,Rando_q1,2011-05-14T20:09Z,same deal like update 2????? wtf?
+,arunrockz,2011-05-14T20:25Z,"********************
+FATAL ERROR: AllocRenderModel called from a different thread for 'particles/weapons/muzzle_flashes/arifle_heavy_3rdperson'
+********************
+mouse: Failed to remove raw input device
+...unloading Raw Input DLL
+
+------- Input Initialization -------
+Initializing DirectInput8...
+...calling LoadLibrary( 'user32.dll' ): succeeded
+...initializing Raw Input
+mouse: Raw Input initialized.
+...calling LoadLibrary( 'imm32.dll' ): succeeded
+...initializing Input Method Editor
+------------------------------------
+AllocRenderModel called from a different thread for 'particles/weapons/muzzle_flashes/arifle_heavy_3rdperson'
+mouse: Failed to remove raw input device
+...unloading Raw Input DLL
+Shutting down OpenGL subsystem
+...releasing DC
+...destroying window
+...shutting down QGL
+...unloading OpenGL DLL
+...unloading Windows Terminal Server API DLL
+
+I am getting this error ...Please can any one Help me...Thanks.... "
+,cadian117,2011-05-14T21:04Z,Same as before...
+,501.st,2011-05-14T22:18Z,"I got the same problem as arunrockz, do anyone know how to deal with that?"
+,fabriciorasta,2011-05-15T00:21Z,this game is trash for work on Ati...!! wtf...the game runs in low fps...trash trash !!!..
+,SMOKEdaBLUNT,2011-05-15T01:41Z,"update works great, no problems Thanks
+
+before this i used update 1 and 2
+
+Thanks again"
+,sage1210,2011-05-15T02:55Z,"after update 2 my ati 5850 work fine (before that, it suck).
+
+however you need to use diver 11.5a hotfix instead of regular 11.5 too. "
+,lazyhazy,2011-05-15T02:58Z,"Uhmm... update 1, 2...3....
+I wonder, shall I wait for update 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, aso........before I start playing?"
+,arunrockz,2011-05-15T12:36Z,"Friends I found the solution ....... :)
+Download this file 
+
+
+and past it in your installation folder and run the  ""revLoader.exe""...... It is working,checked by me..All the errors are fixed.."
+,xiIix,2011-05-16T02:23Z,I really wish they would just copy and paste the change log into the description so I can determine whether or not I need these fixes.
+,brutal_product,2011-05-16T11:34Z,"Brink Update 3 info:
+
+
+General:
+
+- Fixed issues with custom ui_fov settings when playing as a client
+- Added support for 2560x1440
+- Slightly improved start up times
+- Fixed crash when clicking in blank area on Training Videos menu
+- Fixed memory leaks on shutdown
+- Fixed Be More Objective leaderboards being incorrectly named
+
+Graphics:
+
+- Fixed ""texture gridding"" issues on certain graphics cards
+- Fixed settings being incorrectly applied on the advanced video options screen
+- Improved performance when using Ambient Occlusion
+- Fixed halos not rendering correctly
+
+AI Bots:
+
+- Removed bot intelligence inhibitors for Freeplay games
+- Adjusted bot behaviour in Campaign games to make teams more evenly matched
+- Changed bots objective priorities across all game modes
+- Fixed issue with bot difficulty continually dropping 
+
+User Interface:
+
+- Fixed poor server browser performance for users with a large number of items in their history
+- Made server browser refreshes much more responsive
+- Changed server browser to no longer group player counts by max players
+- Added new pop- up text for server browser filters
+- Fixed not being able to sort by favourites column
+- Server browser now retrieves favourites correctly from Steam 
+- Fixed arrow keys not working when exiting out of a chat submenu
+- Made it easier to select a default secondary weapon
+- Disabled chat options in solo mode
+
+Dedicated Servers:
+
+- Can now use net_ip command to assign IPs to server instances
+- Dedicated server binary can now be run as a service, which won't have a CSIDL_PERSONAL virtual folder 
+
+
+it pixelated some of my fonts on lvl up screens even after current video drivers. didn't notice any significant changes visually. 2.8x2ghz,  gts 250-sli. online still works tho"
+,ZaRiRTRO,2011-05-17T10:24Z,"Program Stopped working:
+
+
+Problemsignatur:
+Navn pĂĽ problemhĂŚndelse:	APPCRASH
+Programnavn:	 brink.exe
+Programversion:	 1.0.22745.47105
+Tidsstempel for program:	4dcbfe42
+Fejlmodulnavn:	 Secur32.dll
+
+I ran all updates and all shiet.. Still the same all the way.."
+,ZaRiRTRO,2011-05-17T10:25Z,I believe it won't even help to buy the original like this.
+,r2007uk,2011-05-17T17:38Z,Any comments on the LOSS of the pre order/dlc doom/fallout/psycho packs(guns etc) after updating?
+,brutal_product,2011-05-19T02:03Z,"for NVIDIA SLI users:
+http://www.evga.com/articles/00463/
+
+
+i went from 30-40 fps, to 140-160 on all high settings. amd 5400+(2.8ghz X 2), gts 250 in SLI. 590sli evga board. sys it works with latest nvidia drivers. worked like a charm for me."
+,Banzay27,2011-09-19T05:07Z,"Installed flawlessly, plays flawlessly. You get a proble, it's not the update, it's you, your rig or your game installation."

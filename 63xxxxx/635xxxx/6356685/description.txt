@@ -1,0 +1,776 @@
+==================================================================
+Battlefield 1942(tm) v1.6
+Read Me File
+December 17, 2003
+==================================================================
+
+==================================================================
+Patch 1.6
+==================================================================
+
+NEW CONTENT
+
+Liberation of Caen is a new map for BF1942 owners. It includes a whole new
+army, the Canadians. The army includes the Sexton SPA and the Lynx scout car,
+as well as new skins, flags, voice overs, and a new Assault rifle, the Johnson
+M1941 LMG. The Germans in this map are also equipped with a new scout vehicle,
+the Kettenkrad.
+
+Raid on Agheila is a new map playable only by owners of the Secret Weapons of
+WWII expansion pack. This exciting map adds a bevy of new vehicles, including
+mobile spawn points, stationary rocket launchers, a new tank, new
+self-propelled artillery, and the Flettner, an experimental helicopter.
+
+Battle of Britain can now be played using Objective Mode. Secret Weapons of
+WWII expansion pack is NOT required to play Battle of Britain in this mode.
+
+Invasion of the Philippines has been slightly revised. The Japanese Destroyer
+has been rotated to face North, giving the Japanese a better chance at the
+start. The out of bounds area has been pushed back, and ticket bleeds have been
+slightly reduced.
+
+The famous Russian dive bomber Ilyushin IL-2 has replaced one of the Yak 9
+fighters in Kursk and Kharkov.
+
+CLIENT SPECIFIC CHANGES / BUG FIXES
+
+Added support for Punkbuster anti-cheat software.
+  - Visit http://www.evenbalance.com for more information
+
+In-game HUD player and map voting interface via scoreboard:
+
+  - To access the new scoreboard features either enter the spawn interface and
+    click the Scoreboard button, or press TAB.  (NB- clicking the right mouse
+    button while holding down TAB will give you a cursor- clicking on the 'lock'
+    button will lock the scoreboard onscreen.)
+
+  Features of the new scoreboard:
+    - Add buddies.
+    - Vote to kick players.
+    - Vote to kick a player on your team (only your team can vote).
+    - Vote for maps.
+    - All players can be seen through scrolling the score list.
+    - Integrated vote dialog to respond to vote requests.
+
+  - Added two new key bindings map to Yes and No for the vote response
+    dialog (default: Yes: 7 and No: 8).
+  - Added a new key binding for quick access to the map vote dialog
+    (default: INSERT).
+  - Please note that if you already have these keys bound in your custom
+    profile you will need to assign these functions to other keys or use for
+    them to work.
+
+Improved server browser:
+
+  - Support for favorite servers as a separate list accessible from the
+    filters pane.
+    NOTE: The favorite servers list must be refreshed manually to reflect the
+    latest information from these servers.
+  - Added button to place server in favorites list.
+  - Much better filters and updated performance.
+  - Added new filter buttons:
+        - Populated only
+        - Favorites
+        - Pure Servers (Content Check)
+        - PunkBuster only
+  - Fixed the "Add server" button in the in-game server browser- now works for
+    servers that use the standard GameSpy BF1942 ports.
+  - Added button which takes you to the server rental service website.
+  - Added LEGEND button (looks like question mark).  This details what the
+    main icons represent in the Server Browser Interface.
+  - Server Information pane will now detail which mods are present in the server rotation
+
+Other Fixes / changes :
+
+ - The game.listPlayers command shows the cd key hash of the local player
+ - Slightly improved loading speed of maps
+ - Fixed sinking destroyer bug
+ - Changed APC exit point to minimize certain exploits 
+ - Fixed an exploit involving damage to Aircraft Carriers 
+ - Fixed crash bug when a dead bot was thrown through a window or door.
+
+DEDICATED SERVER SPECIFIC CHANGES / BUG FIXES
+
+Added support for Punkbuster anti-cheat software.
+  - Visit http://www.evenbalance.com for more information
+
+Win32 dedicated server implemented through back-port of the Linux dedicated
+server.
+
+  - Runs in console mode displaying a status monitor with an
+    interactive console.
+  - The server uses a different binary than the game (bf1942_w32ded.exe).
+  - Status monitor changes (compared to Linux server 1.5):
+    - Added chat feedback.
+    - Added number of tickets and current round number.
+    - Added game state (playing, paused, etc.).
+
+Added support for mixing mods, maps and game modes in the maplist.
+
+  - As a result of this the game.serverGamePlayMode command in the
+    ServerSettings.con file and the +game command line argument are now
+    obsolete for dedicated servers and should not be used.
+
+  - The Maplist.con was changed to allow three arguments:
+    game.addLevel <mapname> <game mode> <mod>, i.e.:
+    game.addLevel Gazala GPM_CQ bf1942
+    ** NOTE : the following commands now also use this functionality:
+            - admin.changeMap
+            - admin.setNextLevel
+
+  - Updated the DedicatedServer.exe launcher program to allow for
+    creation of maplists with the new functionality.
+
+  - Please note that all old maplists are incompatible with this new
+    feature and will have to be created again. Running the server with
+    an old map list will not work.
+
+Added installation sanity checking that will tell you about common installation
+errors such as missing files. The sanity checking is done automatically at
+startup.
+
+Added more readable error messages for common errors such as misspelled level
+names.
+
+Updated chat system:
+
+  - Fixed "chat lag" by streaming messages over a high-priority channel.
+  - Added basic flood protection which prevents players from taking to much
+    chat bandwidth by "spamming".
+  - Added chat text as messages to the status monitor console.
+
+GameSpy/ASE host reporting changes:
+
+  - Added (kills/deaths) to ASE score format.
+  - Added roundTimeLeft to GameSpy keys.
+  - Added reporting of cd key hashes to GameSpy keys.
+  - Added active_mods key showing all mods in map cycle.
+  - Added content_check key showing content checking mode.
+  - Converted GameSpy reporting keys to lowercase and replaced spaces with
+    underscores to facilitate filtering in external browsers.
+
+Upgraded XML logging format to 1.1:
+
+  - Added support for CD key hashes for players.
+  - Fixed a few spelling errors for keys.
+  - Fixed a bug where compressed XML logs where sometimes being corrupted.
+  - Escapes non-printable characters as bf:nonprint tags.
+  - Added chat text messages to the XML stream.
+
+Updated banning system:
+
+  - Bans can be set on CD key hashes as well as IP addresses.
+
+  - Timeouts can be specified in these ways:
+    admin.banPlayerKey <player_id> [timeout]
+
+    Where timeout can take one of these formats:
+        - Omitted or 'perm' meaning that the ban is permanent
+        - An integral number meaning the number of seconds the ban will be active
+          (i.e. 3600 means one hour)
+        - 'round', meaning the ban is active until the next map
+        - An integral number prepended by a colon (i.e. :1234567), meaning the
+          epoch exporation time of the ban (number of seconds since 1 Jan 1970).
+      This option is most usable by external tools.
+
+  - IP address bans continue to work as earlier but include
+    the new timeout options as well.
+
+  - Bans are stored as absolute times in banlist.con. Existing bans in
+    banlist.con will be interpreted as permanent bans.
+
+The game.listPlayers command lists cd key hashes of connected players when
+running in internet mode.
+
+The game.showPorts console command can be invoked to display the ports
+currently used by the server.
+
+Updated content crc generation:
+
+  - Generation bat files are now created only for the mods you select. The new
+    bat files are named getcrc-<modname>.bat.
+ 
+Updated remote console output:
+
+  - The remote console now mirrors text written to the main console by prepending
+    each mirrored line by a hash character (#). This is useful to capture chat
+    text from external tools that periodically send commands to the remote
+    console.
+  - Please note that if several remote connections are made, the state of the
+    mirroring is cleared so that mirrored console lines can easily be lost.
+    Thus if you plan to use this feature in a tool, please only connect with one
+    remote console connection at a time to ensure that you will get the correct
+    results.
+
+Added overlayPath feature to support running multiple server instances from the
+same installation directory. To set up an instance, please follow these steps:
+  - Create a new, empty directory to hold the instance, for instance C:\Server1
+  - Copy the mods\bf1942\Settings directory from the main installation to the
+    new directory
+  - Create a new, empty Logs directory in the instance directory
+  - Start the server with the overlayPath argument in a shortcut:
+    bf1942_w32ded.exe +overlayPath C:\Server1
+  - Please note that the working directory for the server must still be set to
+    the main installation directory.
+  - Also please note that if your overlayPath contains spaces you will need to
+    quote the path in the arguments in one of these ways:
+    - bf1942_w32ded.exe +overlayPath 'c:\path with spaces\server1'
+      (single quotes)
+    - bf1942_w32ded.exe +overlayPath """c:\path with spaces\server1"""
+      (note that these are three double quotes)
+
+
+
+==================================================================
+Patch 1.5
+==================================================================
+CLIENT FIXES
+-No more swapping CD's.  Any installed Battlefield 1942 expansion pack 
+ or community mod can be played using any Battlefield CD. 
+-Fixed an issue that would cause severe lag when going from a vehicle ladder 
+ directly into a vehicle position.  This was especially prevalent with the 
+ MG positions on Destroyers.
+-Fixed Omaha Beach ammobox-bunker exploit.
+
+NEW FEATURES
+-New map - Invasion of the Philippines, complete with all new Patrol Boats.
+-A new US Marines skin replaces the USA army skin in the Pacific theatre.
+-US Marines Engineer is equipped with the M1 Garand.
+-Japanese Engineer has been retrofitted with the Type 5 semi-automatic 
+ rifle.
+-Kubelwagen replaced with the Black Medal Scout Car for the Japanese forces.
+-Hanomag replaced with the Ho Ha APC for the Japanese forces.
+
+==================================================================
+Patch 1.45
+==================================================================
+
+** IMPORTANT INFO INVOLVING AIR CONTROLS IN PATCH 1.45 **
+
+Patch 1.45 has introduced 3 new AIR controls, located under CONTROLS in 
+the OPTIONS menu, on the 2nd page of the AIR tab.  If you have applied
+the 1.45 patch to an existing, previously played install of 
+Battlefield 1942, you will need to define keys for these controls
+in order for them to work while playing.
+
+For reference, if you apply the 1.45 patch to an installation of 
+Battlefield 1942 that has not been previously played, the keys are 
+setup by default as follows :
+
+AIR Control             Default Key
+-----------             -----------
+GO TO POSITION 4        Key 4
+GO TO POSITION 5        Key 5
+GO TO POSITION 6        Key 6
+
+
+
+NETWORK/SERVER FIXES
+
+-game.listPlayers will now display client IP addresses when run from
+ the server console
+
+CLIENT FIXES
+
+-Support for Battlefield 1942: Secret Weapons of WWII expansion pack
+-Land vehicles will not respawn if player is too close to spawnpoint.
+-Def Gun now has shell icon instead of rocket.
+-Fixed issue with using the mouse wheel as a control.
+-AI skill no longer resets to EASY when browsing menus.
+-Dropped kits stay on static objects such as bridges, houses, etc.
+-Fixed issue with disappearing buttons after activating a custom game.
+-Tooltips added for Def Gun, stationary MG42 and stationary Browning.
+-Kits can no longer be picked up from a distance.
+-Fixed force from explosions on vehicles which were sometimes wrong,
+ and caused vehicles to roll over.
+-AI players don't count when voting in COOP.
+-Possible to select position 4, 5 and 6 in aircrafts.
+-Console background does not disappear after switching to main
+ menu.
+-Changing camera view while shooting or leaving water works.
+-CO-OP briefing text now displays the specific conquest type for each 
+ map (Assault, Head-On or Hybrid)
+-Names with line-feeds are now valid.
+-Fixed floating exploit.
+-Fixed first person animations, which sometimes stopped prematurely.
+-Fixed crash when changing camera view under certain conditions.
+
+
+
+==================================================================
+Patch 1.4
+==================================================================
+
+NETWORK/SERVER
+
+New Features
+-Added ability to reserve slots with a password.
+-Added spawn points for some airfields.
+
+Bug Fixes
+-Support to use the same remote console port on two different BF1942 servers.
+-Remote console now works on Windows98/Me.
+-The free camera is now predicted on the client to give better control.
+-Underscores now work for remote commands executed from the in-game console.
+
+CLIENT FIXES
+
+New Features
+-The console command Soldier.CameraShakeFactor <value 0.0 -> 1.0> toggles the
+ camera shake in 1st person on/off.
+
+-Two new weapons replacing earlier weapons used in the game
+ -Type 99- Japanese Assault rifle
+ -DP 1928- Russian Assault rifle
+
+Improvement of game feeling
+-Slight delays when turning, jumping and pulling out new weapons for a smoother
+ and tighter experience.
+-Recoil animations changed.
+-Improved Death Cam: can now be configured to disable `Reveal Killer' mode.
+
+Gameplay Fixes
+-AA Guns do not cause splash damage when hitting sandbags.
+-Mines now detonate when vehicles go in reverse over them.
+-Infantry can now aim a full 180 degrees up and down in the 1st person view.
+-Camera shakes when firing weapons mounted on vehicles.
+-A pixel added to the center of the cross hair (server option).
+-Disabled ability to repair land-based vehicles in hangars.
+-Rear gunner for Stuka/SBD/Ai-chi-val now has cross hair.
+-Added friendly mine indicators to HUD.
+-Increased bayonette damage to cause instant kill.
+-Deviation time goes back to normal after running faster.
+-Less damage to planes from stationary machineguns.
+-Road to Rome bombers re-balanced.
+
+Physics improvements                                                             
+-The collision bug where you could push another player into an object or
+ building as been looked over and fixes have been added.
+
+Graphical Improvements
+-New and improved parachute landing animation in 1st person view.
+-Lightmaps on ships implemented. Radeon cards might not render these correctly.
+-Increased visual effect for AA-gun airplane hits.
+-Improved hit particle effect when shooting at infantry.
+-Road to Rome British soldiers get the Sten Gun.
+-Faulty Defgun death effect fixed.
+-Fixed a bug with B17 flaps that caused them not to appear on clients.
+-Bazooka/Panzerschrek smoke trails changed.
+
+Optimizations
+-Improved pre-caching when loading maps, reducing stalls when new objects are
+ loaded in during game.
+
+Sound improvements and optimizations
+-New and improved Sounds in 1st person view 
+ *Increased volume of impacts
+ *Louder explosions for grenades
+ *New Sound for the Axis Assualt rifle STG44
+
+Menu
+-Scoreboard now shows current server's name, IP address and Map name.
+-Scoreboard now lists player ID for all players.
+-Buddylist is now saved to profile and retained between maps.
+-Text messages and kill messages from buddies are color coded green.
+-Bug causing the display of text messages and playing of radio messages when
+ map start in a MP game fixed.
+-Screenshots can now also be taken of the score board.
+-Paste (Ctrl-V) in 'Add Server' box added.
+-Voting system feedback improvements
+ *You can see what vote is currently active (which map or 
+  player is being voted for).
+ *You can see how many votes that have been cast and how 
+  many that are necessary for the votes to be successful.
+ *When a vote has failed you get to know which one and why
+  (how many voted for it and how many were necessary).
+
+ 
+AI improvements
+-AI bots more responsive to radio commands.
+
+OTHER ISSUES
+
+-Content check currently only works with official Battlefield 1942 and RTR 
+ files/maps.  If you try to run a server with a user created map/mod installed
+ and turn content check on, clients might not be able to join.
+ 
+-If you try to connect to a Road to Rome server that is running a Road to Rome 
+ map and you donâ€™t have Road to Rome installed, you will see a "data differs from 
+ server" message.
+
+
+==================================================================
+Patch 1.31
+==================================================================
+
+*** IMPORTANT INFORMATION FOR SOUNDBLASTER AUDIGY OWNERS ***
+
+There are known issues with Audigy cards and this patch.  These
+problems can be avoided by enabling HARDWARE ACCELERATION in the
+sound options menu.
+
+
+NETWORK/SERVER FIXES
+-Fixed Co-op crash when restarting map 
+-Removed default Remote Admin Password for servers
+-Changed Object collision system To prevent Exploits involving players 
+ hiding inside of objects
+
+CLIENT FIXES
+-locked out console.showClientPredictionStatus console command
+ to prevent exploit
+
+==================================================================
+Patch 1.3
+==================================================================
+
+NETWORK/SERVER FIXES
+-Optimization of server priorities to improve Net Performance 
+-Smoother object movements
+-Remote Control Improvements
+ *Sending strings instead of ascii. If you start the remoteconsole
+  with -m it will not wait for the server to respond for every
+  keypress   
+-No Lag prediction if soldier is sitting in vehicle.  This fixes 
+ the problem of pilots getting shot out of the cockpit when in a
+ plane.
+
+CLIENT FIXES
+#Sound improvements and optimizations
+-New and improved Sounds in 1st person view
+ *Bar 1918
+ *Thompson
+ *MG42
+ *Browning
+-New streamed sound implementation increasing performance and
+ decreasing memory usage.
+-Problems with SoundBlaster Live on WinXP and Win2000 
+ systems are solved
+#Graphical Improvements
+-New and improved fire animations in 1st person view
+ *stg44
+ *bar1918
+ *mp18
+ *mp40
+-New and improved models in 1st person view
+ *stg44
+ *bar1918
+ *MG42
+ *Browning
+#Gameplay tweaks
+-damage to airplanes from the following has been decreased by 50%:
+ *BAR
+ *StG44
+ *Thompson
+ *MP40
+ *AA GUNS
+-Spreading when walking and shooting increased on 
+ *BAR
+ *StG 44
+-Reloading time on sniper and engineer rifles reduced by 33%.
+-Rate of ticket decay when a team holds more than half of the
+ command points has been increased on Head-on maps
+-Rate of ticket decay when Attacker holds all the control points
+ on Assault Maps has been reduced by 40%, leaving a better chance
+ for the defender to retake a CP.
+-Rate of ticket decay when the defender holds the map reduced by
+ 40% on assault maps.
+-Attacker / Defender ticket ratio changed slightly to defenders
+ favor on assault maps
+-When going outside of the map boundaries, soldiers will take 20%
+ of their full health of damage per second (after being warned) 
+#Optimizations.
+-Decreased Loading times for the game and map changes.
+-SafeDisk check only when starting game and not when changing maps
+#AI optimization
+-Bots are more concerned about close range enemies than long range 
+ ones, especially when their current weapon is not suited for
+ long-range
+-Radio and voice command display now has a 'greyed out' look for 
+ commands that the bots do not respond to.
+ 
+#Menu
+-Message window has been modified and is now separated into three
+ parts:
+ 1) User generated chat (radio and chat text) - 4 rows
+ 2) Game Info (capture control point etc.) - 2 rows
+ 3) Kills (x killed y) - 3 rows
+ The number of lines for each message window can be changed as
+ long as it is at least 1 line and the total amount of lines
+ for all message windows do not exceed 12.
+ These chat windows can be manipulated through new console
+ commands (where 'int' is any number between 1 and 12)
+ chat.setChatMessageSize <int>
+   No. of lines for chat messages display
+ chat.seGameInfoMessageSize <int>
+   No. of lines for game info display
+ chat.setKillMessageSize <int>
+   No. of lines for kills info display
+ chat.setChatHistory <int> <int> <int> 
+   Sets the no of lines for all 3 message displays at once
+ chat.chatInfo
+   Returns status on how many lines each message window in using.
+ chat.OldChatListStyle <0 or 1>
+   If set to 1, the the old (v1.2) message window model is used.
+ chat.OldChatListHistory <int> 
+   No. of rows used if the old message window model is used
+-New Ignore input Commands
+ You can ignore radio messages, radio sounds and also ignore
+ specific players using the following commands:
+  chat.ignoreRadioText <0 or 1>
+    If 1, No radio text is printed.
+  chat.ignoreRadioAudio <0 or 1>
+    If 1, No radio sounds are played.
+  chat.setIgnoreRadioAudioAndText <0 or 1>
+    If 1, both radio sounds and radio text is supressed
+  chat.getIgnoreRadioAudioAndText 
+    Prints status for these settings
+  chat.addToIgnoreList <user id>
+    Ignores a specific user's chatting.
+  chat.removeFromIgnoreList <user id>
+    Stop ignoring a specific user's chatting
+  chat.ignoreList
+    Returns the list of ignored players
+ NOTE: you can find a user's ID by using the 'game.listPlayers'
+ command in the console
+-Implemented TK Forgive and Punishment system.                                                  
+ By default, players have to wait 1 extra spawn wave for every TK 
+ they commit and when they have made 5 TK's that are not forgiven 
+ they will get kicked from the server. 
+ By default, the server is in punish mode.
+ There are 2 modes: 
+ 1) If you are killed by a teammate, you can forgive the killer. 
+ The forgive options expires when you die again (auto-punish) 
+ 2) If you are killed by a teammate, you can punish the killer. 
+ The punish options expires when you die again. (auto-forgive)
+ Admin Console Commands:
+  admin.spawnDelayPenaltyForTK <value>
+    The number of extra spawn waves applied
+    (1.0 = wait 1 spawn wave, 
+    1.5 = wait 1.5 spawn wave.. and so on)
+  admin.banPlayerOnTKKick <0 or 1>
+    When set to 1, players are also banned when kicked for TK
+  admin.nrOrTKToKick <value>
+    The number of punished TK's before being kicked
+  admin.tkPunishMode <0 or 1>
+    0 : Punish Mode - Players are punished by default, until the
+        victim forgives the TK
+    1 : Forgive Mode - Players are forgiven by default, until the
+        victim punishes the TK
+ Client Console Commands:
+  game.TKPunish
+    Punish a TK (works only in Forgive Mode).
+  game.TKForgive 
+    Forgive a TK (works only in Punish Mode).
+-Vote announcement has new text color and icon.
+-Possibility to tag specific players as a 'buddy' and make them more 
+ visible in the minimap
+ Client Console Commands:
+ game.addPlayerToBuddyList <playerId>
+   Add a user with to the buddy list
+ game.removePlayerFromBuddyList <playerId> 
+   Removes a user from the buddylist
+ game.buddyList
+   Prints a list of your current buddies.
+
+#Rendering optimization
+-You can disable tri-linear filtering by adding the line
+ "renderer.useTrilinearFiltering 0" to your
+ Settings/VideoDefault.con
+-Kyro Card Support
+-SiS Xabre support
+-Stripping and vertex-cache optimizing terrain patches.
+ Increases performance for vertex cache enabled T&L cards that are
+ vertex transform bound in BF. I.e. it reduces slowdown somewhat 
+ when lots of objects are displayed on screen.
+-Optimization of the font writer, decreasing memory usage.
+-Possibility to add lightmaps on ships and boats which can higly 
+ increase the visual effect.
+
+FREEBIE
+-New Map: Coral Sea
+ A cool Carrier war map on the sea and in the air.
+ 
+ 
+
+==================================================================
+Patch 1.2 
+==================================================================
+NETWORK/SERVER FIXES
+-Low close combat hit accuracy due to network lag is much improved.
+-Some Server CPU usage optimizations: Multiple server instances 
+ should perform better.
+-Fixed currently connected players being dropped at map switch in 
+ favor of new connections.
+-Remote Console application is now fixed.
+-Release of bound sockets works correctly.
+-Bug causing missing spawn points and Gray flags that do not 
+ change is fixed.
+-Bug causing soldier animation states to be dropped is fixed.
+-Reconnection problems fixed.
+-The ASEHost.dll "Failed to execute ASEQuery_init()" error 
+ is fixed.
+-No longer need to reissue the admin.enableRemoteConsole
+ and enableRemoteAdmin commands every time the server restarts.
+-Bug in Standalone Server causing "Corrupted Data" error when 
+ hosting CTF on Bocage is fixed.
+-Added hit detection feedback: Client crosshairs blink with a 
+ small dot in the crosshair and additional cross-lines when the
+ server registers a successful hit.
+-Dedicated server settings are saved properly. (Note: if Friendly 
+ Fire checkbox is turned off, the next time the dedicated server
+ is started the check box will be checked, but the percentages will
+ all be at 0%)
+-Remote Admin (admin connected to server as a player) does not
+ have to authorize every time a new map starts anymore.
+
+CLIENT FIXES
+#Totally new file structure
+-Ensures easy implementation of mods and expansion packs.
+-There is a bf1942.pid file that includes the process id for the 
+ battlefield game running.
+#Gameplay tweaks
+-Jeeps more sensitive to shells (one shot equals one kill).
+-Increased B17 rate of fire for better carpet bombing.
+-Grenade damage versus tanks is 40% less powerful.
+-AA Gun Damage vs Infantry is increased (1 shot equals 1 kill in 
+ torso/head). Also removed splash damage versus infantry.
+-Slightly increased knife damage distance.
+-Slightly decreased deviation when walking and shooting with 
+ side arms.
+-Increased damage for Machine Gun 42 and browning versus infantry.
+-Increased damage for Plane Machine Guns versus other planes.
+-Tiger tank health increased by 25%.
+-Fixed M10 being treated as a jeep for splash damage.
+-Slightly increased damage for MP40, MP18 and Thompson 
+ versus infantry.
+#Cheats removed
+-"Long View Distance" cheat fixed.
+-"Wireframe" cheat fixed.
+-"Turning Off Fog" cheat fixed.
+#Sound improvements and optimizations
+-Irregular looping sounds and/or loss of sounds bug has been 
+ fixed.
+-Redundant sound state changes removed.
+#Memory usage optimizations.
+#Physics engine improvements
+-Mine placed on jeep causing jeep to sink through ground no 
+ longer possible.
+#AI optimization
+-Bots do not jump in and out of vehicles anymore.
+-Bots have improved mobility and behavior while sitting in tanks: 
+ close range enemies now make the AI drive further away and fire
+ from distance instead of just hopelessly circling around the
+ enemy.
+-Several small tweaks and improvements for bot control
+ *Major improvements to artillery.
+ *Improved path selection (less prone to go on rough terrain).
+ *Major improvement of the fire behavior.
+ *Fixed bug in SAI's bot ordering update.
+ *Fixed AI handgun sound effect.
+ *AI will not favor planes on a runway which is blocked by other 
+  vehicles.
+ *Decreased AI view distance.
+ *Several tweaks of .con-files for more accurate description of 
+  the game elements.
+#Menu
+-New Button "Custom Game" lets the player play a custom made mod 
+ game or Expansion Pack games.
+-Server browser "Backfire" setting displays properly in server 
+ details window.
+-The in-game console stays in front of game text and is less
+ transparent for improved visibility.
+-Improved In-game server browser filters.
+-TAB button works so players can see their own score even if they 
+ didn't make the top-3.
+-The Minimap arrow yellow flash lasts longer when a teammate uses
+ a voice or radio command.
+-Dedicated Server menu has an added function called 
+ "Automatic Restart". When checked the server will automatically 
+ restart if it crashes or is turned off any other way than 
+ pressing the stop server button.
+#Rendering optimization
+-Billboard trees for GeForce 3-4.
+-Hardware shadows on all cards (GeForce 1-4).
+-Hardware skinning on animated meshes (wheels, flags, soldiers)
+(GeForce 3+ and hw vertexshaders cards).
+ *New option to put into videoDefault.con (if wanted)
+        renderer.forceSwSkinning 1 
+        (default is 0 = use hardware if available.)
+-Tri-stripping (optimizing meshes to improve FPS).
+-GeForce4 MX support fix that eliminates desktop crashes occurring 
+ on some computers.
+
+
+==================================================================
+Patch 1.1
+==================================================================
+SERVER FIXES
+-Improved server stability.
+-Fixed bug that caused server to say it was full when it wasn't.
+-Servers started from in-game now use settings from dedicated 
+ server tool if those settings are not in the in-game Create Game 
+ front-end.
+-LAN servers no longer report to Gamespy master server.
+-Limiting the bandwidth now works from the dedicated server
+
+CLIENT FIXES
+-All Seeing Eye server browser support added.
+-Fixed refresh rate locked to 60 hz in Win2k and XP machines.  
+ We're working on getting this fix for Win98 and ME machines. 
+ To enable this on Win2k and XP machines do the following:
+        -Open the videodefault.con file found in 
+         Settings\VideoDefault.con
+        -Edit the line: renderer.allowAllRefreshRates # 
+         (where # can be replaced by 0 or 1)
+        -Changing this value to one will allow you to select the 
+         refresh rates from the Options>Video section of the
+         in-game frontend. 
+         NOTE: the game will default to 640x480.
+-Fixed bug that caused ammo-boxes and health-cabinets to not work 
+ occasionally.
+-Considerably faster internet in-game browser.
+-Added icon in the in-game browser for dedicated servers.
+-Added icon in the in-game browser for password protected servers.
+-Added icon in the in-game browser showing server CPU status, if 
+ it's doing well or if it's bogged down by too many players for 
+ it's capacity (this is dependant upon the CPU not the bandwidth).
+-Added server CPU info in the in-game browser under the server 
+ info>rules tab.
+-Chat text in-game has it's own color so it's easier to see.
+-Server version number will show correctly in server info> rules 
+ tab
+-Fixed some instances of the internet browser crashing when 
+ pressing yes to update to newer version on a 98 machine.
+-Fixed player ability to sink Kubelwagens into the ground.
+-Fixed free spectator camera does not turn off, even when 
+ unchecked in the server.
+
+
+==================================================================
+Useful Web Sites
+==================================================================
+ 
+http://windowsupdate.microsoft.com
+Keep your Windows installation up to date.
+ 
+http://www.battlefield1942.com
+The official Battlefield 1942 website.
+ 
+http://www.dice.se
+Developer's homepage.
+
+==================================================================
+Third Party Legal Information
+==================================================================
+
+Battlefield 1942 uses Bink Video Technology. 
+Copyright Â© 1997-2000 by RAD Game Tools, Inc.
+
+==================================================================
+DICE Copyright
+==================================================================
+
+Copyright Â© 1999-2004 Digital Illusions CE AB. 
+
+ALL RIGHTS RESERVED.

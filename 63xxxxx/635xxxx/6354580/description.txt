@@ -1,0 +1,248 @@
+Batman: Arkham Asylum
+README file 11/08/2009 Version 1.0
+
+
+
+
+Table of contents:
+
+Part 1: Things You Should Know						
+1.1	DirectX	
+1.2	Memory and Performance
+1.3 	Known Issues
+
+Part 2: Technical Issues							
+2.1	Installation & Set-up
+2.2	DVD-ROM Problems
+2.3	Crashes and Lock-Ups
+2.4	Firewall and Required Ports
+2.5	Technical Support
+
+
+
+Part 1: Things You Should Know
+
+Please read through the DirectX section of this document. This section has information that is vital to successfully running Batman: Arkham Asylum on your system.
+
+
+1.1	DirectX
+
+This game is optimised for Microsoft's DirectX 9.0c.  In order for you to play the game, you must have DirectX 9.0c compliant drivers for your video card and sound card.  Please note that although DirectX 9.0c is installed with the game, your video and sound card drivers will not be upgraded to DirectX 9.0c drivers.
+
+You will need to obtain the latest DirectX 9.0c drivers from the manufacturer or PC supplier. These drivers cannot be supplied by Eidos.
+
+
+1.2	Memory and Performance
+
+While the game will run fine in 1GB of RAM (2GB on Windows Vista), your playing experience will be smoother if you have more memory.
+
+Regardless of how much memory you have, you can maximize your available memory and increase the overall performance of the game engine by doing the following:
+
+q	Closing any open windows
+q	Shutting down all other programs (including those that run in the menu-bar)
+q	Defragmenting your hard drive
+q	Shutting down the Windows Sidebar (Windows Vista)
+
+Eidos recommends that you have no other programs running at all while playing Batman: Arkham Asylum. Other programs, including system utilities and screen savers can cause system degradation when playing games and may conflict with the game for system resources, potentially resulting in instability and crashes.
+
+
+1.3 	Known Issues
+
+q	Ensure you are running latest drivers from nVidia and ATI/AMD. There are several known issues with earlier versions of their drivers that affect the performance and stability of Batman: Arkham Asylum.
+q	If you experience any issues in game this could be linked to your sound card, Microsoft XP users should try to fix the problem by reducing the hardware acceleration option within the DXDIAG tool â€“ To Run DXDIAG see the `Technical support section` below, once loaded select the SOUND tab and move the slider option (Hardware Sound Acceleration) to the left. Please note, this option is only available to Microsoft XP users.
+q	ATI Radeon X1000 series cards - (Radeon X1300, Radeon X1650, Radeon X1950 GT, etc.). Â 
+These graphics cards may experience motion blur issues when â€œDetective Modeâ€ is activated in game. Batman (TM) may appear blurry and have several outlines. This issue can be resolved by turning off the â€œMotion Blurâ€ option in the launcher / settings.Â 
+q	A small number of users may experience a crash on start-up when attempting to initialise the .NET framework for the Launcher application. The Launcher application is required to customise your settings and has to run before the game can be played. Please read the instructions to work around this issue in the â€œSupportâ€ folder on your Batman: Arkham Asylum DVD.
+
+
+
+
+Part 2: Technical Issues
+
+2.1	Installation & Set-up
+
+System Requirements
+
+The minimum system requirements are as follows:
+
+OPERATING SYSTEM:
+Microsoft Windows XP or Vista
+CPU:
+Intel Pentium 4 3GHz or AMD Athlon 64 3500+
+RAM:
+1GB for Windows XP
+2GB for Windows Vista
+GRAPHICS:
+nVidia 6600 or ATI 1300
+SOUND:
+Microsoft Windows XP/Vista compatible sound card (100% DirectX 9.0c -compatible)
+DVD-ROM:
+Quad-speed (4x) DVD-ROM drive
+HARD DRIVE:
+9GB free disk space
+INPUT DEVICES:
+100% Windows XP/Vista compatible mouse and keyboard
+
+The recommended system requirements are as follows:
+
+OPERATING SYSTEM:
+Microsoft Windows XP or Vista
+CPU:
+Core 2 Duo E6600 (2.4Ghz) or AthlonÂ 64 X2 4600+ 
+RAM:
+2GB for Windows XP
+3GB for Windows Vista
+GRAPHICS:
+nVidia 9800GTX or ATI 3870
+SOUND:
+Microsoft Windows XP/Vista compatible sound card (100% DirectX 9.0c -compatible)
+DVD-ROM:
+Quad-speed (4x) DVD-ROM drive
+HARD DRIVE:
+9GB free disk space
+INPUT DEVICES:
+100% Windows XP/Vista compatible mouse and keyboard / Xbox 360 Controller for Windows
+
+
+Preparing Your Hard Drive
+
+To ensure that your installation is trouble free, you should check to see that your hard drive and file system are both tuned for optimum performance. Windows comes with a utility programs that will help optimise your hard drive performance. 
+
+You can optimise your hard drive's performance by running a program called Disk Defragmenter. You can run Disk Defragmenter by clicking on the Start button from the Windows desktop, followed by Programs, then Accessories, then System Tools, and finally Disk Defragmenter.
+
+
+2.2	DVD-ROM Problems
+
+Batman: Arkham Asylum requires at least a Quad-Speed DVD-ROM drive with 32/64-bit Windows drivers.
+
+I receive a "xxxxxx.xxx not found" error message when installing or running Batman: Arkham Asylum.
+
+This error message is usually the result of your computer using MS-DOS (16 bit) drivers instead of Windows (32/64 bit) drivers for your DVD-ROM drive. You can easily check to see if this is causing problems by opening the Control Panel (either click on the My Computer icon or click on the Start button followed by Settings, then Control Panel). 
+
+In the Control Panel window, double-click on the System icon then click on the Performance tab. You should now see a summary of the performance status of your computer. One of the lines should say â€œFile System: 32/64-bitâ€ and the last line should say "Your system is configured for optimal performance." If you see a message saying "Drive X is using MS-DOS compatibility mode," then you will need to contact your system vendor to obtain and install 32/64-bit drivers for your DVD-ROM drive.
+
+
+2.3	Crashes and Lock-Ups
+
+When I start Batman: Arkham Asylum my mouse cursor disappears and my computer locks-up.
+
+Chances are your installed audio card drivers are not compatible with DirectX. The only solution is to get a DirectX 9.0c -compatible driver from your audio card manufacturer.
+
+
+When I start Batman: Arkham Asylum I receive the following error message:
+
+"The application ShippingPC-BmGame.exe referenced memory at address xxxx:xxxx that can't be read from."
+
+It's likely that your installed video card drivers are not compatible with DirectX 9.0c. The only solution is to get a DirectX 9.0c -compatible driver from your video card manufacturer.
+
+
+The Installer keeps stopping when a certain percentage is complete.
+
+There a few likely causes:
+
+q	You may have run out of free space on your hard drive. Please remove unwanted programs to free up additional space for the game, and then reinstall Batman: Arkham Asylum
+q	There may be dirt or fingerprints on the DVD-ROM disc itself. Examine the bottom of the disc; if you see any fingerprints or dirt, carefully clean the disc using a clean, soft, lint-free cloth by wiping from the centre of the disc (near the hole) towards the outer edge in a straight line.
+
+
+Batman: Arkham Asylum is crashing to the desktop with no error messages.
+
+This problem can be caused by several different things. Here's a list of the most common culprits associated with these crashes:
+
+q	Make sure the DVD-ROM is clean (check for both scratches and smudges on the reading surface of the DVD).
+
+q	Make sure the game has been installed properly. 
+
+q	Make sure DirectX 9.0c has been installed properly. 
+
+q	Make sure you have the latest drivers for your video card and that they are DirectX 9.0c -compatible. 
+
+q	Make sure you have the latest drivers for your sound card and that they are DirectX 9.0c -compatible. 
+
+q	Make sure Virtual Memory is enabled on your system. 
+
+q	Run Disk Defragmenter. 
+
+q	Try exiting the game, rebooting your machine, and re-entering the game.
+
+
+Note: 	If your system crashes to the desktop while playing Batman: Arkham Asylum you should probably reboot your computer before starting a new play session.  Otherwise, DirectX may be in a locked state, and the game will be unable to use your sound or video hardware.
+
+
+2.4	Firewall and Required Ports
+
+When you Install Batman: Arkham Asylum the installation process will automatically add the game to the list of exceptions for Windows Firewall. This is required to allow the user full access to Games For Windows - LIVE.
+The following ports are required to be opened to use Games For Windows â€“ LIVE.
+
+    * TCP port 80 (Internet)
+    * TCP port 443 (Sign In)
+    * TCP port 3074 (Content Download)
+
+To get the most up to date list of ports required for Games for Windows - LIVE go to
+
+
+2.5	Technical Support
+
+If you need further technical assistance after reading the Readme file please do not hesitate to contact us using any of the methods listed below.
+
+When contacting us, please be sure to provide us with as much information as possible. Make sure to note the exact type of hardware that you are using in your system, including: your graphics card, sound card, DVD-ROM drive, amount of RAM present, speed and manufacturer of your processor.  Also, make sure to include the version of the game and a detailed description of the problem.
+
+It will also help if you prepare by creating a â€œDXDIAGâ€ diagnostic file in Windows before you call us. Simply follow these instructions:
+
+q	Click on Start
+q	Click on Run
+q	Type dxdiag
+q	Click on OK 
+q	Click on the Save Information button and save the file to your computer.
+
+When you call our Technical Support line either have this file open or have a printed copy. If you send an e-mail query please attach the file to the e-mail.
+
+
+Technical Support Contact Details (United Kingdom)
+
+AddressÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  		Wimbledon Bridge House 
+1 Hartfield Road
+Wimbledon
+SW19 3RU
+
+E-MailÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 		customerservice@eidos.co.uk
+
+PhoneÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  		0870 9000-222
+
+WebÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  	http://www.eidos.co.uk/support/index.html
+
+
+Technical Support Contact Details (United States of America)
+
+AddressÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  		Eidos Customer Services
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 		1300 Seaport Blvd
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 		Redwood City
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 		CA 94063
+
+E-MailÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  		support@eidosinteractive.com
+
+PhoneÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  		650-421-7660
+
+WebÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  	http://www.eidos.com/support.html
+
+FAQs are available for known issues; if none exist select the "All Categories" link.
+If your issue is not on the list you must select an issue, then choose the show me "more" link to display a list of all known issues. If none of this helps, there will be a link here to enter a "Support Request"
+
+
+Note:  Hints and tips will not be given out over the Technical Support lines.
+
+
+Alternatively, you may find help with hardware problems on one of the websites maintained by the supplier, some of which are listed below:
+
+nVidia	http://www.nvidia.com/
+AMD/ATI Technologies	http://www.ati.amd.com/
+Creative Labs	http://www.creative.com/
+Intel	http://support.intel.com/
+
+Eidos maintains a web page with links to all major video and audio card manufacturers, which is a good first stop if you are looking to upgrade your drivers. You can reach this page at:
+
+UK:   		 	http://www.eidos.co.uk/support/index.html
+US:   		 	http://www.eidos.com/support.html
+
+Thank you and we hope you enjoy playing Batman: Arkham Asylum.
+
+Eidos 2009.

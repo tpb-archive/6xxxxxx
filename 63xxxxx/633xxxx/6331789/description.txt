@@ -1,0 +1,52 @@
+7-Zip is open source software. Most of the source code is under the GNU LGPL license. The unRAR code is under a mixed license: GNU LGPL + unRAR restrictions.
+
+The main features of 7-Zip
+
+    High compression ratio in 7z format with LZMA and LZMA2 compression
+    Supported formats:
+        Packing / unpacking: 7z, XZ, BZIP2, GZIP, TAR, ZIP and WIM
+        Unpacking only: ARJ, CAB, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, ISO, LZH, LZMA, MBR, 			MSI, NSIS, NTFS, RAR, RPM, SquashFS, UDF, VHD, WIM, XAR and Z.
+    For ZIP and GZIP formats, 7-Zip provides a compression ratio that is 2-10 % better than     the ratio provided by PKZip and WinZip
+    Strong AES-256 encryption in 7z and ZIP formats
+    Self-extracting capability for 7z format
+    Integration with Windows Shell
+    Powerful File Manager
+    Powerful command line version
+    Plugin for FAR Manager
+    Localizations for 79 languages
+
+7-Zip works in Windows 7 / Vista / XP / 2008 / 2003 / 2000 / NT / ME / 98. There is a port of the command line version to Linux/Unix.
+
+===================================================
+What's new: -[9.21 beta]
+7-Zip now can unpack UEFI BIOS files.
+- 64-bit version of 7-Zip now includes additional 32-bit shell extension DLL. So other 32-bit programs can call 64-bit 7-Zip via context menu. 
+- Now it's possible to associate 7-Zip with file types without Administrator rights. 
+- New -mf=FilterID switch to specify compression filter. 
+Examples: 
+7z a -mf=bcj2 a.7z a.tar 
+7z a -mf=delta:4 a.7z a.wav
+ 7z a -mf=bcj a.tar.xz a.tar
+- 32-bit 7-Zip running under 64-bit Windows x64 now can use up to 4 GB of RAM.
+- Some bugs were fixed. 
+- New localizations: Corsican, Kyrgyz, Ligurian.
+
+
+===================================================
+
+Run 7z921.exe for 32(x86) bit Os.
+Run 7z921-x64.msi for 64(x64) bit Os.
+
+===================================================
+
+Scanned by kaspersky internet security 2011, no threat detected.
+
+===================================================
+
+Please seed as much as you can, just leave the download of this torrent after completion with the status "seeding" for approx 1 hour or more.
+
+===================================================
+
+Please write comments...
+
+===================================================

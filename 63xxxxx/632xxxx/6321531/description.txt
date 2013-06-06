@@ -1,0 +1,30 @@
+Windows xp sp3 english 32 bits with all post sp3 updates till April 2011
+also contains updated:
+
+Ie8
+wmp11
+silverlight
+dx 9
+net framework 2.0 sp2
+Flash
+java
+winrar
+internet download manager (do not allow to update)
+capicom
+aspi
+sptd
+vcredist 2005, 2008, 2010
+microsoft old libraries (used by some old app and games)
+msxml
+
+sata drivers
+ATI drivers (finally ATI fixed previous BSOD with it's drivers )
+Creative audigy driver
+Nvidia Lan, SMU, SMBUS, Away
+amd processor driver
+
+Burn the iso to new CD blank , setting optical drive the first boot device from BIOS, boot from the CD to install. No serial needed
+
+Do not mount or start a fresh installation from any existing OS !
+
+You may use the attached tool to disable system restore to boost performance if you don't use system restore

@@ -1,0 +1,19 @@
+PS3 Game List change-log and features:
+
+v1.6
+
+Loads info from multiple game folders (configuration via settings dialog);
+FTP renaming (via FTP context menu);
+Additional option to rename game folders to a user defined format using the tags _TITLE_
+and _ID_ (e.g. â€œ_TITLE_ â€“ (_ID_)â€ => â€œGran Turismo 5 â€“ (BCUS98114)â€, â€œ[_ID_]
+[_TITLE_]â€ => â€œ[BCUS98114][Gran Turismo 5]â€, â€œXYZ â€” _TITLE_â€ => â€œXYZ â€” Gran
+Turismo 5?, â€œ[_[_ID_]_]â€ => â€œ[_[BCUS98114]_]â€, etc. ; notice that at least one of the tags
+must be present and the characters â€˜\â€™, â€˜/â€™, â€˜:â€™, â€˜*â€™, â€˜?â€™, â€˜â€â€˜, â€˜<â€™, â€˜>â€™ and â€˜|â€™ cannot be used);
+
+Exports game list to Excel file format (requires Microsoft Excel installed);
+Imports game list from a previously saved Excel file [requires Microsoft Excel installed;
+games can be manually added (a game title and a valid ID must be filled), and the worksheet
+layout must be followed, otherwise the rows will be skipped];
+
+Additional option to display disk status;
+Displays number of games and total size permanently at the status bar.

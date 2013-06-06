@@ -1,0 +1,121 @@
+Vanguard Princess v1.08 with LunaPort r49b. 
+
+******************************************
+
+How to run vanpri108: 
+1. Make sure your computer is set to Japanese Locale (Control Panel > Regional > System Locale) before attempting to run VP. If not, AppLocale and NTLEA will both work, provided you rename the game folder. 
+2. Follow instructions on the following page.
+ 
+http://poverty.mizuumi.net/wiki/VP_FAQ#Technical
+
+******************************************
+
+Netplay: 
+
+LunaPort instructions are in the Readme.txt in the game folder. Its contents are included below: 
+
+
+
+
+LunaPort r49 Readme
+
+
+LunaPort is an original netplay application for the free game Vanguard Princess,
+made by Suge9. The game can be downloaded via the author's blog at: 
+http://suge9.blog58.fc2.com/
+LunaPort might also work with other games, which use the same engine, as long as
+the game exe is exactly identical to the one used by Vanguard Princess.
+
+Please note that LunaPort is still in early developement, so some versions might
+not work at all. Only testing can tell.
+
+It is released under the GPLv3 or later. Feel free to tinker, improve, etc.
+Magic in the header file is "explained" in src/gore.txt
+
+The netcode seems to be reasonable these days.
+
+If you want to send me a bug report, patch or anything, just drop it into: 
+http://lunaport.pastebin.com/
+If you want to get older versions of LunaPort, you might find them at:
+
+IMPORTANT NOTES:
+0) Do not touch the Game menu. If you already touched it, get a pristine copy
+   of game.ini before even trying this. Set up your controls outside of
+   LunaPort, i.e. run the game normally and use the keyboard/joystick config.
+1) If you have customized P2 controls, make a backup of your game.ini, might
+   get overwritten with P1 controls, although that shouldn't happen.
+2) Also, don't try to change any controls in the menu while playing with
+   LunaPort. Bad things will happen and the changes won't be saved anyway.
+
+Less important notes:
+3) I only have a single PC this game runs on, so I couldn't really test
+   LunaPort. Please help me out here.
+4) As long as the game exe is the same, other games might work too, but you have
+   to adjust the Stages and Blacklist settings in lunaport.ini
+5) Delay is counted in input requests, not frames. There are 100 input requests
+   per sec, so 1 delay is 10ms.
+6) If the standard filename for the game exe is not found, game.exe is tried.
+   You can also specify the filename for the game exe in lunaport.ini
+
+Usage:
+Pretty much like caster, even though LunaPort is not based on it. By default,
+it uses port 7500 UDP. Use option one to host a game, option two to join a
+game, and option three to play a local VS games with random stage selection.
+Don't forget to put LunaPort.exe into the game folder.
+You can use the --local commandline switch to start local VS mode with random
+stages directly. You can give a .rpy file as a commandline argument to watch it
+directly.
+
+Replay playback controls:
+Q: Toggle pause
+W: Reset game speed to normal, unpause
+E: Slow down game speed
+R: Speed up game speed
+
+Known working: r11, r35-r36, r38-r43, r44-r48
+(These versions have been used successfully to play Vanguard Princess.)
+
+Please excuse the desync problems from before. Things should be better now.
+
+Some notes about differences from r38 to r40-r49:
+In r39 much of the netcode has been rewritten, to make transmission of data
+between peers much easier. In r40, this has been used to add lots of checks
+about game data to the handshake. These changes also made a protocol version
+bump necessary, meaning that r38 and newer versions cannot interoperate. The
+additional checks are for the main game KGT file and stage settings. These were
+the main two reasons for desynchronized gameplay. Playing with different stage
+settings (e.g. one player with Stages=5 vs another player with Stages=7) can
+work synchronized for a couple of round, if you are lucky, but will eventually
+desync the game. Using different versions of the game (e.g. v1.02 vs 1.03b) will
+be even worse. Both conditions are not checked for in r38, which can make it
+appear to work better (it connects), but will lead to eventual desync. Using the
+most recent versions should be much safer. Games that would otherwise desync
+will not be possible at all and result in an error message from the start.
+
+Now, let's hope this works. Once it does, I might even get around to cleaning
+up the code.
+
+A GUI version can be found at: 
+http://code.google.com/p/lunaportw/
+
+Links: 
+http://vp.mizuumi.net/index.php/Main_Page 
+http://vp.mizuumi.net/index.php/Lunaport 
+http://vanpri.wikiwiki.jp/ 
+http://vanpri.wikiwiki.jp/?%C4%CC%BF%AE%C2%D0%C0%EF 
+http://jbbs.livedoor.jp/otaku/12852/
+
+Acknowledgements:
+libcurl - Copyright (c) 1996 - 2009, Daniel Stenberg, <daniel@haxx.se>.
+libz - Copyright (C) 1995-2004 Jean-loup Gailly and Mark Adler
+CRC32 implementation - Copyright (C) 1986 Gary S. Brown.
+
+-- 37f3b1e05fb90ddbb7d834314d6e562f251b49f7
+   d61b6b204f454a9c52c23f766fe3df4c705bd5d6
+   377d97b2a687444bbf9c58c70f8214268a00a9b5
+   f5044b8ecb3632ef663a8749aa5be47dec9a488d
+   0eb701b3a21d7194188e5a8cde88e3c5e40b645a
+   481adab3e68722c73bf99cb49f7dc85d3203ccfa
+
+PS: About http://vanpri.wikiwiki.jp/?%C4%CC%BF%AE%C2%D0%C0%EF
+    I am very glad to see that LunaPort seems to work for you.

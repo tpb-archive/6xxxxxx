@@ -1,0 +1,75 @@
+Bolt (2008) BDRip 1080p (16 Audios, 32 subs) multisub [mkvonly]
+
+          Animation | Adventure | Comedy | Family  
+
+
+Bolt tells the story a dog who plays a heroic dog in a hit TV show and has some trouble recognizing that he doesn't even have superpowers.
+ This becomes something of a hindrance when he is accidentally shipped from Hollywood to New York City.
+ From there he has to make his way home with the help of a manky old cat and an overweight hamster in a plastic ball.
+
+Format                           : Matroska
+File size                        : 3.88 GiB
+Duration                         : 1h 36mn
+Overall bit rate                 : 5 760 Kbps
+
+Video
+Format                           : AVC
+Bit rate                         : 5 000 Kbps
+Display aspect ratio             : 1920  x 1080 (16:9)
+Frame rate                       : 23.976 fps
+Stream size                      : 3.29 GiB (85%)
+Writing library                  : x264 core 88
+Encoding settings                : cabac=1 / ref=5 / deblock=1:-1:1 / subme=9 / psy=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / bframes=6 / b_pyramid=2 / b_adapt=2/ rc=2pass /  bitrate=5000 /
+
+
+Audio #1 English(default, muxed in) : DTS, 755 KB/s, 6 ch, 24 bit, 520 MB (13%)
+
+(If DTS is not good for you convert to AC3 without extracting the Audio Track in a few minutes with PopCorn MKV AudioConverter:  http://www.videohelp.com/tools/PopCorn_MKV_AudioConverter
+Don't convert it to lower then 448 KB/s.)
+
+Separate Audio Tracks (skip from download the ones you don't want) :
+
+Audio #  2 Arabic:                 AC3, 192 KB/s, 2 ch, 132 MB
+Audio #  3 Danish:                AC3, 640 KB/s, 6 ch, 441 MB
+Audio #  4 Deutsch:              AC3, 640 KB/s, 6 ch, 441 MB
+Audio #  5 Dutch  :               AC3, 640 KB/s, 6 ch, 441 MB
+Audio #  6 Espanol:              AC3, 384 KB/s, 6 ch, 265 MB
+Audio #  7 Estonian              AC3, 384 KB/s, 6 ch, 265 MB
+Audio #  8 French                AC3, 192 KB/s, 2 ch, 135 MB
+Audio #  9 Greek                 AC3, 192 KB/s, 2 ch, 135 MB
+Audio # 10 Italian               AC3, 384 KB/s, 6 ch, 265 MB
+Audio # 11 Norwegian         AC3, 640 KB/s, 6 ch, 441 MB
+Audio # 12 Polish                AC3, 640 KB/s, 6 ch, 441 MB
+Audio # 13 Portuguese(BR)  AC3, 192 KB/s, 2 ch, 135 MB
+Audio # 14 Portuguese(PT)  AC3, 384 KB/s, 6 ch, 265 MB
+Audio # 15 Romanian         AC3, 384 KB/s, 6 ch, 265 MB
+Audio # 16 Russian            AC3, 384 KB/s, 6 ch, 265 MB
+
+Use MPC (  http://cccp-project.net/   to automatically recognize & play the external Audio tracks or mux the Audio in MKV with  mkvmerge
+(  http://www.videohelp.com/tools/MKVtoolnix   if you wish to use other player.
+
+Subtitles:
+English + SDH, Albanian, Arabic, Bulgarian, Chinese, Croatian, Czech, Danish + Forced, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian, Icelandic, Indonesian, Italian, Korean, Malayalam, Norwegian + Forced, Persian, Polish + Forced, Portuguese ( PT + BR), Romanian, Russian, Serbian, Spanish, Swedish, Turkish, Vietnamese
+
+Sample: 20.6 MB, multisub
+
+ 
+http://www.bilderkiste.org/show/original/0130477201174/1.jpg
+
+ 
+http://www.bilderkiste.org/show/original/4130477204443/2.jpg
+
+
+##############################################################################
+
+
+All subs show the right characters (saved under the right Unicode ISO).
+In the future if you find subs not showing the right characters do the following:
+If the subs are muxed in mkv download & use "MKVextractGUI" to extract(demux) the subtitles from mkv, and "mkvmerge GUI" to mux back the edited/repaired sub in the mkv.
+Download "Notepad++" (free):   http://sourceforge.net/projects/notepad-plus/
+The sub you demuxed from mkv: Open and save as...ANSI !(Important!)
+Right click on the sub/Open with nppIExplorerShell.exe (Notepad++ exe)/
+click Encoding(upper part menu)/Character sets and chose the language ISO.
+Click again on Encoding/then click on Convert to UTF-8/save as...srt. 
+You're done with the encoding, now you can mux it back in the mkv with mkvmergeGUI, select the language & mux.
+

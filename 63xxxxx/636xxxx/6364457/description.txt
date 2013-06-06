@@ -1,0 +1,64 @@
+
+-----> IF YOU EXPERIENCE LAG OR FPS DROPS THAN USE THIS PROGRAM TO TWEAK YOUR BLACK OPS TO RUN SMOOTHER <-----
+
+
+----------------------------------------------
+
+Anyway, some settings that may be of importance are:
+
+r_multiGpu
+
+This should only be enabled if you have multiple graphics cards or a graphics card with multiple GPUs. If you don't have multiple GPUs, don't know what this means, or are having issues with your MultiGPU solution, please set this to "0".
+
+r_multithreaded_device
+
+This setting should be enabled for EVERYBODY as the minimum requirements for Black Ops clearly states that you need a multithreaded (multicore) CPU to run the game. However, some people have noticed that by setting this to "0" some of the skipping lag is relieved. Test this out only as a last resort.
+
+r_vsync
+
+VSync prevents screen tearing. If you don't know what that is, just set it to "0" because you probably don't care anyway. Otherwise, VSync usually doesn't have any negative performance issues with today's graphics cards. However, there may be a few performance issues linked to VSync with the current release of Black Ops. Try setting this to "0" for compatibility.
+
+r_blur_allowed
+
+This setting enables Blur shader effects. If you have a strong shader card, this setting may be negligible. Otherwise, just go ahead and set this to "0".
+
+r_distortion
+
+This setting enables Distortion shader effects. If you have a strong shader card, this setting may be negligible. Otherwise, just go ahead and set this to "0".
+
+r_dof_enable
+
+This setting enables Depth of Field shader effects. If you have a strong shader card, this setting may be negligible. Otherwise, just go ahead and set this to "0".
+
+r_glow_allowed
+
+This setting enables Glow (HDR?) shader effects. Normally, this should have a negligible performance impact. HOWEVER, this setting seems to be buggy! Performance improved DRAMATICALLY when I set this option to "0".
+
+rate
+
+Rate is the rate at which the client sends packets to the server. If you set this too low, below 10000 or so, you run the risk of sending insufficient data to the server and lagging out. Set this too high, above 50000 or so, and you run the risk of flooding your connection to the server. This setting should be adjusted according to your connection speed and may take some fine tuning.
+
+cl_maxpackets
+
+This setting controls how many packets the client will hold to ensure packet transmission. If you set this setting to low, below 20 or so, then you run the risk of being disconnected prematurely. If you set this setting too high, above 150 or so, then you run the risk of continually resending redundant data and lowering your ping (or worse, getting choked). This setting is very hard to tune because it depends on so many factors beyond your own connection. Most people have found setting this to 100 is a good compromise for most servers.
+
+
+----------------------------------------------
+
+
+Some further technical notes:
+
+It seems that the issues plaguing PC Multiplayer are two fold.
+
+First of all, poor CPU management is causing bottlenecks, especially with what seems to be thread context switching. This causes the system to hang intermentently as data is switched between the cores of your CPU.
+
+Next is poor management of the netcode. The netcode must be shared with the game engine in such a way that when the CPU hangs, no data is being transmitted to or received from the server, causing packets to timeout in both directions and LOADS of redundant data being transferred between all players.
+
+So fixing the lag on your computer should help to alleviate the load for everybody else on the server and give all around better game play.
+
+Also note that the above is just observation and speculation from an experienced programmer. I have, obviously, not seen the source to Black Ops, but because of how the application behaves, these are my most educated guesses.
+
+Try what I mentioned above and let me know if you find anything else that is of importance to the current state of multiplayer performance.
+
+Good Luck and Good Fragging!
+

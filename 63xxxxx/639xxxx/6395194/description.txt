@@ -1,0 +1,80 @@
+Disk 2 
+
+-T1CK1NGT1M3BOMB TTG
+
+
+
+-------------------------------------------------------------------------------
+\\//\\//\\//\\//  _ |_  _ \ \/ /_  _  _  \\//\\//\\//\\//\\//\\//\\//\\//\\//\\
+//\\//\\//\\//\\ (_||_)(_|/ /\ \_||_ | | //\\//\\//\\//\\//\\//\\//\\//\\//\\//
+
+Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+G:\games\L.A Noire DVD2\L.A Noire DVD2.dvd needs to be created
+G:\games\L.A Noire DVD2\L.A Noire DVD2.dvd was created
+
+Checking Game
+     ISO: "G:\games\L.A Noire DVD2\L.A Noire DVD2.iso"
+     Size: 7838695424 bytes
+     Files in ISO: 23, Folders in ISO: 3
+     Total bytes used: 7030202357 (96.32%)
+Game appears to have random padding
+
+Checking default.xex
+     Disc Number:           2 of 3
+     Original PE Filename:  LANoire.exe
+     Original PE Timestamp: 2011/04/26 07:58:06
+     Game Name:             L.A. Noire
+     No Avatar Awards
+     Achievements:          40 Achievements totaling 1000 Gamerscore
+     XEX CRC = 1796CD7A
+     XEX Media ID: B78157772F078328F32EB266-0D7A8F9F
+
+Region Code: 0xFFFFFFFF
+     Region Free!
+
+Checking SS
+     Timestamp of Authoring: 2011/04/27 00:00:00
+     Timestamp of Mastering: 2011/04/29 23:34:35
+     SS Version: 1
+
+Caution: This SS contains a value (angle 359) that will cause older versions
+of iXtreme to return a detectable bad response! Make sure your drive is flashed
+with iXtreme version 1.4 or newer. Alternatively, you may enable the option to
+adjust angle 359 for compatibility with iXtreme < v1.4
+
+     SS CRC = 9CD54355 (RawSS = 618A38EE)
+     SS Media ID: B78157772F078328F32EB266-0D7A8F9F (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2011/04/27 00:00:00 (matches SS)
+     DMI CRC = CB7FFAF7
+     DMI Media ID: B78157772F078328F32EB266-0D7A8F9F (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = E18BC70B
+PFI matches known data (10th - 11th Wave)
+
+Video partition found
+     Video CRC = 7653FF84 (V0 = 2C7F4C77, V1 = DFEFC0BF)
+Video partition does not match known data (probably corrupt but might be a
+brand new wave if this is a new game and abgx360.dat hasn't been updated yet)
+
+Stealth status is uncertain
+
+Starting Verification
+     Looking for 9CD543551796CD7A.ini in the online verified database
+     There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Verification failed
+
+Starting AutoFix
+     Looking for Xex_1796CD7A.ini in the online verified database
+     There is no verified rip of Xex CRC 1796CD7A in the online database
+Failed to find a verified ini file for this Xex
+AutoFix Failed, Stealth is still uncertain
+
+Cannot check SplitVid due to invalid or uncertain PFI/Video

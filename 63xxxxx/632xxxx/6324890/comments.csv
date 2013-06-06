@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,Stormfront73,2011-04-18T12:35Z,program failed to start because its side by side config is incorrect WTF. helppp please.
+,BigD145,2011-04-18T18:05Z,"Testing this to see just how good it is. If good, then buy. Support the indies."
+,lostlegends,2011-04-19T03:27Z,"Won't load a save for me "" says its a pirated version"""
+,PatRicK_BeNetaR,2011-04-21T07:13Z,"The problem was apparently with the gratis release & I hear there is a fix for the ""pirated version"" error which involves replacing certain files in:
+
+game dir\scriptsAndAssets
+
+I do not have a link to a dL for the fixed files, but perhaps googling it will provide one, or maybe someone will up it on here.
+
+This is a fix for people with pixel shader issues:
+
+Find prefs.cs -file from /scriptsAndAssets/client
+
+From that file find line â€œ$pref::SilhouetteOn = 1;â€ 
+
+& set it to â€œ$pref::SilhouetteOn = 0;â€
+
+This should disable cartoonshader.
+
+I have heard the game is pretty bad, but I can't confirm it as I haven't played it yet."
+,lostlegends,2011-04-22T01:52Z,"Thanks Patrick, I shouldnt have been a lazy shit and looked it up myself. Anyway google 
+""Mark Leung gratis rlslog""
+and the link for the fix is in comment 28.
+and yes the graphics are bad but the game, at least the bit i have played is funny as hell."
+,wikifan,2011-08-04T12:27Z,"Wow, there's already a crack out for this? He should consider that a compliment."
+,Gnob77,2012-01-03T05:56Z,"Excellent, I really appreciate the upload. For anyone having the pirate issue, there's no need to go download or fix anything (trust me, I looked). Just start a new game, skip the movies, then load your previous save game from there, easy peasy. =)"

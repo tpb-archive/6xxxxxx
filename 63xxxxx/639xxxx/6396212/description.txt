@@ -1,0 +1,40 @@
+WinPatrol uses a heuristic approach to detecting attacks and violations of your computing environment. Traditional security programs scan your hard drive searching for previously identified threats. WinPatrol takes snapshot of your critical system resources and alerts you to any changes that may occur without your knowledge. You'll be removing dangerous new programs while others download new reference files.
+
+Here are some key features of "WinPatrol":
+Â· Increase Your Speed & System Performance
+Â· Detect & Neutralize Spyware. Detect & Neutralize ADware
+Â· Detect & Neutralize Viral infections. Detect & Neutralize Unwanted IE Add-Ons
+Â· Detect & Restore File Type Changes Automatically Filter Unwanted Cookies
+Â· Avoid Start Page Hijacking. Detect HOSTS file changes
+Â· Kill Multiple Tasks that replicate each other, in a single step
+Â· Stop programs that repeatedly add themselves to your Startup List
+Â· Delete and Remove the most Stubborn Infections
+
+NEW with WinPatrol 20.5
+
+Firefox Cookies
+Firefox 4.0 uses an updated version of the SQLite database library which included features not supported by WinPatrol. We've updated our SQLite code to support Firefox 4.0 users.
+
+Duplicate WinPatrols
+Some 64-bit users reported duplicate WinPatrol entries in the startup programs list. This has been fixed. I've also updated the check box on the Options tab so you can initialization how WinPatrol is set to start.
+
+Provided Cloud Privacy Option
+While I'm satisfied with our implemenation of data collected when you keep or remove a program many of your friends using WinPatrol are obviously concerned about privacy. You may uncheck the option to share decisions. This may also reduce complaints by Firewall programs. Most firewall programs are happy as long as you let them know that WinPatrol.exe and WinPatrolEx.exe are safe. Even if you don't participate in sharing your choices, PLUS members will still have useful Cloud data available when checking PLUS Info.
+
+X64 Run Duplicates
+Reduced confusion when applications included their RUN registry in both the WOW64 key and legacy RUN key. Both entries will be displayed when "Display Secret Startup locations" is checked.
+
+First Detected Sort
+I finally fixed a long time bug in how Startup Programs are sorted. I apoligize that more date for formats are not supported at this time. I know this is important to friends outside the U.S. but security features have taken priority.
+
+User Interface
+Some fonts have been tweaked to make sure all information is available.
+
+Digital Signiture
+Updated Code Signing Digitial Signiture v3 now valid until June 2012
+
+
+Tested And Working
+
+
+Enjoy

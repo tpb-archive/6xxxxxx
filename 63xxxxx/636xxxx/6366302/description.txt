@@ -1,0 +1,291 @@
+MySQL Enterprise Monitor
+----------------------------------------------------------------------
+Version 2.3.3                                               2011-02-28
+----------------------------------------------------------------------
+
+Welcome to the MySQL Enterprise Monitor.  This README file contains
+the following sections:
+
+    GETTING STARTED
+    CHANGES SINCE LAST RELEASE
+    UPGRADE NOTES
+    KNOWN ISSUES
+    REPORTING ISSUES & FEEDBACK
+
+IMPORTANT: For late-breaking news, check the README file on the MySQL
+Enterprise Monitor website download page.
+
+For more information about the MySQL Enterprise Monitor, refer to 
+http://www.mysql.com/products/enterprise/monitor.html.
+
+We really want to hear your feedback!  Please see the section at the
+end on how to report bugs and other feedback.
+---
+
+GETTING STARTED
+
+Please take special note of the following:
+
+1) For more information on installation and setup, see the online
+   help: http://dev.mysql.com/doc/mysql-monitor/2.3/en/index.html.
+   In a nutshell:
+
+   o Download and install a Service Manager
+   o Open the Enterprise Dashboard in your browser and go through the
+     first-time setup screen that appears
+   o Download and install an Agent on each machine to be monitored
+   o To use the new MySQL Query Analyzer:
+     - Download, install, and configure a Connector plugin; or
+     - Point your application at the Agent/Proxy (port 6446 by default
+       unless you change it in the Agent installer) instead of
+       directly at your MySQL server
+
+2) Our installers configure Tomcat and MySQL in a standard way across
+   all platforms.  Consult the various Configuration sections of the
+   online documentation for tips on how to configure these components
+   for optimal performance based on the specific attributes of your
+   system (CPU, RAM, disk, and operating system).  Customizing these
+   settings for your system and load can make a dramatic difference to
+   the Monitor's performance.
+
+3) Consult the Troubleshooting sections of the online documentation if
+   any of these occur:
+   
+   a) you have trouble starting your agent;
+   b) the agent starts but doesn't show up in the MySQL Enterprise
+      Dashboard;
+   c) you're using the Query Analyzer but no results are shown on the
+      Query Analyzer tab and you've already waited 5 minutes or more
+      for the query data to populate.
+
+Contact Support at https://support.oracle.com/ if you continue to have
+problems.
+
+If you are upgrading from a previous version, see the UPGRADE NOTES
+below.
+
+Note that the source code for the LGPL components used in the Service
+Manager can be found in the licenses/lpgl directory.
+---
+
+CHANGES SINCE LAST RELEASE
+
+New features in this release include:
+
+  o Oracle branding:
+    - Removed "time bomb" (no more license keys or subscription
+      expiration)
+    - Query Analyzer, Replication monitoring and all rules and graphs
+      now available to all users
+    - Integration with My Oracle Support (see your open Oracle Service
+      Requests for MySQL issues)
+  o New Advisors and Graphs:
+    - MySQL Cluster
+    - InnoDB Plugin
+    - Network and Disk IO, disk space
+  o New Aggregator accepts Query Analyzer data from any source
+  o A new option (forceRestart) has been added to the Service Manager
+    upgrade installer (unattended mode) so the user can force the
+	restart of the MySQL server even if changes are detected between
+	the old my.cnf/my.ini file (which will be used after upgrade
+	because it may contain customer-specific changes) and the newly
+	recommended default my.cnf/my.ini file.
+
+We hope you'll try it out and give us your feedback.  However, in
+order to take advantage of some of these features you must route your
+queries through the Agent's proxy port (6446 by default) instead of
+directly to your MySQL server, or use one of the new Connector
+Plugins.  See the "Query Analyzer" chapter in the documentation for
+more information.
+
+Please see the "MySQL Enterprise Monitor Change History" appendix
+in the documentation or online help for a complete list of changes,
+including functionality added or changed as well as bugs fixed.
+---
+
+UPGRADE NOTES
+
+If you have previously installed the MySQL Enterprise Monitor on your
+system, you may use one of our upgrade installers. Please note:
+
+o The MySQL Proxy, which enables the Query Analyzer, now has an
+  officially registered port number: 6446 (see
+  http://www.iana.org/assignments/port-numbers for details). The Agent
+  installers now default to Port 6446 instead of 4040.
+
+  If you are installing the Query Analyzer for the first time, this
+  port change is completely transparent and will have no impact on
+  you.
+
+  However, if you have previously deployed the Query Analyzer and use
+  our upgrade installer to upgrade your Agents, they will preserve the
+  old value (i.e. either the old default of 4040 or whatever you
+  specified during the original installation).  If you subsequently
+  install new agents, in addition to upgrading existing ones, you may
+  get in a situation where some agents use port 4040 for the Query
+  Analyzer (the upgraded ones) and some use port 6446 (the newly
+  installed ones, unless you change the default recommended during
+  installation).  You can easily correct the situation by editing the
+  proxy-address parameter in the agent configuration file: <install-
+  dir> /etc/mysql-monitor-agent.ini.  In this case, you must restart
+  the agent for the change to take effect.
+
+o If you are upgrading from our previous 1.3 release, the new 2.3
+  Service Manager requires the new Agent; make sure to upgrade all
+  your Agents as well (upgrade installers are provided).
+
+o If you are upgrading from our previous 1.3.x release, note that the
+  Agent upgrade installer will delete the old items-mysql-network.xml
+  file.  If you have manually edited this file to customize any of its
+  data collection definitions, you should backup the file before
+  running the Agent upgrade installer so you can restore those
+  customizations after the upgrade installation is done.
+
+o If you are upgrading from a previous 2.x release, the new 2.3
+  Service Manager does not require the new Agent.  However, we
+  strongly recommend that you upgrade all your Agents to the latest
+  version in order to get the most recent features, bug, and
+  performance fixes.
+
+o WARNING: Only use the upgrade installers to upgrade a previous
+  1.3.x or 2.x release.  Do NOT use the upgrade installers to upgrade
+  from any release before 1.3.  To upgrade from an earlier release,
+  you must first upgrade to release 1.3.
+
+o Please note the following with respect to migrating Monitor data
+  from our previous 1.3 releases (these notes do not apply to
+  upgrading from a 2.x release because 2.3 uses the same database
+  as those to store its data, so no migration is needed):
+
+  - After installation the Service Manager will migrate all your basic
+    administrative data (e.g. users, notification groups, etc).
+
+  - When an agent connects to the Service Manager to register the
+    MySQL server it's monitoring, the Service Manager will
+    automatically migrate existing schedules & events for that server.
+
+  - Migration of historic data (e.g. CPU usage data, MySQL status
+    counter data, and so forth) does not happen automatically for data
+    previously stored in a 1.3.x repository; it must be manually
+    enabled on the Manager Servers page.
+
+o The Service Manager upgrade installer optionally creates a backup of
+  your previous installation binaries and monitoring data.  WARNING:
+  the repository can be *very* large; if you have an efficient backup
+  tool, you may prefer to use it instead and then answer "no" when
+  the upgrade installer asks you whether to backup the data
+  repository.
+
+o Note that the format and location of the file used to define custom
+  data collection definitions has changed.  As of our 2.0, release see
+  the new version in <install-dir>/share/mysql-proxy/items/items-
+  mysql-monitor.xml for the new location and format.  As of our 2.1
+  release we have added an extra file, <install-dir>/share/mysql-
+  proxy/items/custom.xml, where you can put any custom definitions you
+  create in addition to the ones we deliver with the Agent.  This file
+  will be preserved as-is on upgrade, whereas items-mysql-monitor.xml
+  will be overwritten.  If you have any questions about how to
+  recreate your customized data collection definitions, contact MySQL
+  Support.
+---
+
+KNOWN ISSUES
+
+In order for replication topologies to be properly discovered, each
+agent must be running on the same machine as the MySQL server it is
+monitoring (i.e. it cannot be monitoring the server remotely).
+
+Several replication *groups* installed on the same physical machine
+that use "localhost" to identify the master host will confuse
+replication topology discovery and result in incorrect groupings.
+Question: Is this a common or uncommon setup?
+
+We are still working on the translation of various text into Japanese,
+so users selecting that as their language/locale may see some text in
+English, or with simple "TODO" reminders.
+
+NOTE: For Connector/NET Users:
+
+      In the "Using the MySQL Enterprise Plugin for Connector/NET"
+	  section of the documentation, and in the README that is included
+	  with Connector/NET, the following is included in the example for
+	  the System.Diagnostics section of your app.config file:
+
+        <system.data>
+          <DbProviderFactories>
+            <add name="MySQL Data Provider" invariant="MySql.Data.MySqlClient" description=".Net Framework Data Provider for MySQL" type="MySql.Data.MySqlClient.MySqlClientFactory, MySql.Data, Version=6.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+          </DbProviderFactories>
+        </system.data>
+
+     Please note that the system.data section is only needed if you
+	 have not installed Connector/NET itself.
+---
+
+REPORTING ISSUES & FEEDBACK
+
+To report a problem or get help with an issue, please login to 
+https://support.oracle.com/ and create an issue with a "Main problem
+area" set to "MySQL Enterprise Tools".  Generally, it's better to
+create a separate issue for each problem you're reporting.
+
+We are very interested in any comments or suggestions you can provide.
+We are especially interested in any suggestions for new Advisor Rules
+or Graphs (or proposed modifications for fine-tuning the ones we
+provide).  Feel free to combine a bulleted list or summary of your
+evaluation experience into a single issue (see above). We suggest 
+you make the Summary field "Feedback."
+---
+
+Thanks and Happy Monitoring!
+
+  - The MySQL Enterprise Tools Development Team
+
+Copyright Â© 2010, 2011, Oracle and/or its affiliates. All rights reserved.
+
+This software and related documentation are provided under a license
+agreement containing restrictions on use and disclosure and are
+protected by intellectual property laws. Except as expressly permitted
+in your license agreement or allowed by law, you may not use, copy,
+reproduce, translate, broadcast, modify, license, transmit,
+distribute, exhibit, perform, publish, or display any part, in any
+form, or by any means. Reverse engineering, disassembly, or
+decompilation of this software, unless required by law for
+interoperability, is prohibited.
+
+If this software or related documentation is delivered to the U.S.
+Government or anyone licensing it on behalf of the U.S. Government,
+the following notice is applicable:
+
+U.S. GOVERNMENT RIGHTS Programs, software, databases, and related
+documentation and technical data delivered to U.S. Government
+customers are "commercial computer software" or "commercial technical
+data" pursuant to the applicable Federal Acquisition Regulation and
+agency-specific supplemental regulations. As such, the use,
+duplication, disclosure, modification, and adaptation shall be subject
+to the restrictions and license terms set forth in the applicable
+Government contract, and, to the extent applicable by the terms of the
+Government contract, the additional rights set forth in FAR 52.227-19,
+Commercial Computer Software License (December 2007). Oracle USA,
+Inc., 500 Oracle Parkway, Redwood City, CA 94065.
+
+This software is developed for general use in a variety of information
+management applications. It is not developed or intended for use in
+any inherently dangerous applications, including applications which
+may create a risk of personal injury. If you use this software in
+dangerous applications, then you shall be responsible to take all
+appropriate fail-safe, backup, redundancy, and other measures to
+ensure the safe use of this software. Oracle Corporation and its
+affiliates disclaim any liability for any damages caused by use of
+this software in dangerous applications.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective owners.
+
+This software and documentation may provide access to or information
+on content, products, and services from third parties. Oracle
+Corporation and its affiliates are not responsible for and expressly
+disclaim all warranties of any kind with respect to third-party
+content, products, and services. Oracle Corporation and its affiliates
+will not be responsible for any loss, costs, or damages incurred due
+to your access to or use of third-party content, products, or
+services.

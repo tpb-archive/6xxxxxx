@@ -1,0 +1,26 @@
+Chapter 1 Computer System Overview
+An operating system mediates among application programs, utilities, and users, on
+the one hand, and the computer system hardware on the other. To appreciate the
+functionality of the operating system and the design issues involved, one must have
+some appreciation for computer organization and architecture. Chapter 1 provides
+a brief survey of the processor, memory, and Input/Output (I/O) elements of a com-
+puter system.
+
+Chapter 2 Operating System Overview
+The topic of operating system (OS) design covers a huge territory, and it is easy to
+get lost in the details and lose the context of a discussion of a particular issue.
+Chapter 2 provides an overview to which the reader can return at any point in the
+book for context. We begin with a statement of the objectives and functions of an
+operating system. Then some historically important systems and OS functions are
+described. This discussion allows us to present some fundamental OS design princi-
+ples in a simple environment so that the relationship among various OS functions is
+clear. The chapter next highlights important characteristics of modern operating sys-
+tems. Throughout the book, as various topics are discussed, it is necessary to talk
+about both fundamental, well-established principles as well as more recent innova-
+tions in OS design. The discussion in this chapter alerts the reader to this blend of
+established and recent design approaches that must be addressed. Finally, we pre-
+sent an overview of Windows, UNIX, and Linux; this discussion establishes the gen-
+eral architecture of these systems, providing context for the detailed discussions to
+follow.
+
+...

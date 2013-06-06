@@ -1,0 +1,16 @@
+About:
+If you got M1 leaked copy of Windows 8 posted the other day, then you should get this timebomb removal tool.
+
+Intstructions for those who know what you are doing:
+Edit your install.wim's spp folder (it is in System32).
+
+There are 3 folders inside the spp folder:
+1. plugins-signed-manifest (similar to that name) - DO NOT edit or delete this as SPP cannot function without the M1 versions.
+2. store - Delete this
+3. tokens - Delete this
+
+Now for the 2 folders you deleted, paste in the replacements in the zip file(from the torrent).
+
+Now, for good measures with permissions, make sure that the spp folder and all child permissions do not interfere/cause issues (I just set Everyone=Full).
+
+Rebuild your WIM and ISO, and you should start in grace with no watermark or timebomb (so no need to change date), and you will be KMS ready. Treat activation just like Win 7 SP1 Enterprise (AKA use your KMS activator/method of choice).

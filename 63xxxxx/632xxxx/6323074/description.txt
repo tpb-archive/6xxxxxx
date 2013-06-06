@@ -1,0 +1,5 @@
+Foi identificado que existe falta do pulso de FG entre o Motor
+do disco e a PCI da unidade Ã³ptica pelo mau contato do cabo fita de 11 vias .
+A falta deste pulso faz com que o disco dispare em alta velocidade na
+hora da leitura, nÃ£o conseguindo fazer a leitura do disco e liberando ainda
+em alta velocidade para troca de outro disco.

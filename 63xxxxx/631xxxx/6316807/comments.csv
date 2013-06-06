@@ -1,0 +1,44 @@
+User Type,Username,Date,Text
+,pytnox,2011-04-14T01:06Z,"Forgot to add:
+Live DVD mode is not supported guest OS. (VirtualBox)
+Use - a real DVD-RW."
+,pytnox,2011-06-18T17:42Z,"ï»¿Note:
+
+ Installation from LiveDVD on HDD:
+ # calculate -d /dev/sdXX
+Â  (Where XX - name and number of hard disk partition, sda2 - for example)
+Â 
+ Section number to indicate it is necessary!, If you specify the entire disk
+Â  sda - for example, the utility will calculate partition your hard disk in its discretion,
+Â  and erase data. (used for installation on a blank hard disk).
+Â 
+ A list of common installation options
+ - set-format=reiserfs (ext4, ext3, ext2, jfs, xfs) - file system format;
+ - set-video_resolution=1280x1024 (1024x768, 1152x864, 1280x800, etc.) - the screen resolution (actually, if the current screen resolution you are not satisfied);
+ - set-hostname=linux - computer's network name
+ - set-mbr=off - do not modify the MBR during the installation (set to 'off', if you want to use your loader);
+
+ more options
+ - set-erase=off - not to format the partition before the installation (use if unsure).
+
+ Installing a hard disk with LiveDVD, takes about 6-10 minutes, depending on your hardware.
+
+ If you use a separate partition boot, then you need to copy the
+ contents of the directory of the boot /
+ Then edit the grub.conf section under the boot, and add the mount point
+ in fstab
+
+After installation - recomended:
+
+ï»¿Make a few basic device nodes needed for booting 
+ï»¿# mknod -m 660 /mnt/gentoo/dev/console c 5 1 
+ï»¿# mknod -m 660 /mnt/gentoo/dev/null c 1 3 
+ï»¿# mknod -m 600 /mnt/gentoo/dev/initctl p 
+ï»¿(optional; needed for gensplash) # mknod -m 660 /mnt/gentoo/dev/tty1 c 4 1
+
+Reboot
+
+More information :
+http://en.gentoo-wiki.com/wiki/Custom_Stage4
+http://www.rutor.org/torrent/107246/gentoo-2011.01-fglrx-9.2-support-2011-pc
+http://forum.runtu.org/index.php/topic,860.msg6918.html#msg6918"

@@ -1,0 +1,41 @@
+User Type,Username,Date,Text
+,denis2011,2011-04-27T20:23Z,"Name:mac
+Password:macosx"
+,asd1asd2asd3,2011-04-28T20:57Z,"So any more specific instructions? Those in Readme ar not enough, i.e. it won't work. 
+
+Also where are the ""Frequently Asked Questions"" that I should be reading ""below"" ? "
+,skip741,2011-05-02T02:41Z,"denis2011, i couldnt get it to work either, looks like either somthing is corrupt or possibly missing. pls test ur own upload and respond to  the issue.. help is appreciated my friend"
+,skip741,2011-05-03T23:16Z,got it working. you need to run the 2 files in the macosx_guest_vmware-7 folder. this was mentioned in the instructions...my apologies for not seeing that..i was used to just clicking on virtual machine config and having workstation fire up and run the VM.. tahnks for the upload
+,zlatkozl,2011-05-06T02:39Z,Great job! May I only ask if the given password is correct because it wont accept 'macosx'.
+,vampire03,2011-05-18T23:03Z,"How different is this one from http://thepiratebay.org/torrent/6348816/Mac_OSX_Snow_Leopard_10.6.7_Intel_AMD_Vmware_Image ?
+
+thanks "
+,jacko9,2011-06-01T00:14Z,"Hey Guys,
+
+So this is how I got it working for me. Also note, I'm running Windows 7 x64 on AMD and VMWare 7.1.4.
+
+1 ) Download and unpack the archive to your location, add it to VMware
+2 ) Because I was unable to login with the given ISO, I downloaded ""EmpireEFI4AMD.iso"".
+3 ) Change the (IDE1) CD-ROM to boot with EmpireEFI4AMD.iso, not the EasyEFI v2.2 ver.3
+4 ) Boot, F5 and left key over to boot
+5 ) If you get to the pretty desktop, continue, otherwise this guide wont work for you
+6 ) Outside of your Virtual Machine (still running though) download ""darwin_snow.iso""
+7 ) Change IDE2 to darwin_snow.iso (eject if anything is there)
+8 ) VMware Tools should popup on the Mac desktop. Double click and install
+9 ) Continue with the forced reboot. Unmount darwin_snow.iso after reboot
+10) Done.
+
+Thanks guys for this, awesome work. Thanks to the other commenters who helped me figure this out. Hope this helps other people out there too."
+,mr.lyris,2011-07-12T16:56Z,"I keep getting ""Can't copy vmware files to C:\program Files\Vmwarexxx error message. Granted, VMWare is installed to drive D, not C. I can edit the bat file but how to I edit the .exe file to change the file path to D?"
+,gerrarditto,2011-09-19T21:06Z,"Hello and thx for the torrent.
+Now I tried to use the password provided, but is not working. I entered: macosx
+Waiting foword to your response."
+,psych88,2011-12-15T01:23Z,"Can Any1 Help???Please.......
+Opened the Vmware image file using version 7.
+
+Even mounted the EmpireEFI4AMD.iso and darwin_snow.iso, it just hangs over there, does nothing at all.
+
+I am using Win7 32-Bit on a AMD athlon II X4 Processor
+
+Thnks in Advance"
+,seVen-kun,2012-05-14T08:32Z,here here to asd1asd2asd3  uploader instal instruction is TOTAL SHIT. 

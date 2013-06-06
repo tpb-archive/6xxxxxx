@@ -1,0 +1,25 @@
+CUDA by Example: An Introduction to General-Purpose GPU Programming By Jason Sanders
+Publisher: Addison-Wesley 2010 | 312 Pages | ISBN: 0131387685 | PDF
+
+
+
+CUDA is a computing architecture designed to facilitate the development of parallel programs. In conjunction with a comprehensive software platform, the CUDA Architecture enables programmers to draw on the immense power of graphics processing units (GPUs) when building high-performance applications. GPUs, of course, have long been available for demanding graphics and game applications. CUDA now brings this valuable resource to programmers working on applications in other domains, including science, engineering, and finance. No knowledge of graphics programming is requiredâ€“just the ability to program in a modestly extended version of C.
+
+CUDA by Example, written by two senior members of the CUDA software platform team, shows programmers how to employ this new technology. The authors introduce each area of CUDA development through working examples. After a concise introduction to the CUDA platform and architecture, as well as a quick-start guide to CUDA C, the book details the techniques and trade-offs associated with each key CUDA feature. Youâ€™ll discover when to use each CUDA C extension and how to write CUDA software that delivers truly outstanding performance.
+
+Major topics covered include
+
+    Parallel programming
+    Thread cooperation
+    Constant memory and events
+    Texture memory
+    Graphics interoperability
+    Atomics
+    Streams
+    CUDA C on multiple GPUs
+    Advanced atomics
+    Additional CUDA resources
+
+
+All the CUDA software tools youâ€™ll need are freely available for download from NVIDIA. 
+http://developer.nvidia.com/object/cuda-by-example.html

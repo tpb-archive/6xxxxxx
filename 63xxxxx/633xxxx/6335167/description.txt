@@ -1,0 +1,92 @@
+Homefront Update 1 - SKiDROW
+
+21-04-2011........Release Date ... Protection.........Steam + CEG
+FPS..................Game Type ... Disk(s)....................DOX
+
+RELEASE NOTES
+
+Homefront Update 1 info:
+
+
+FEATURES:
+
+Ban list rework
+
+- We now store two separate ban lists on servers; a local ban list, 
+and a global ban list. The local ban list is for bans that originate 
+on the server (via kickbans, etc). The global ban list is for bans 
+that are initiated by a trusted ban list authority. The ban lists 
+store the date of ban, the name of the admin who initiated the ban, 
+the reason for the ban, and a URL field for any relevant ban evidence 
+(demos etc).
+ 
+New Feature â€“ DEMO URL
+
+- A DemoURL can now be specified in the server playlist, this is used 
+to indicate the location of stored demo files to userâ€™s in-game (see the     multiplayer options screen). A good practice for server admins would 
+be to share the demo folder via FTP, this would allow users to grab demos 
+of games they starred in, and also (very importantly!) allow users and 
+anti-cheat authorities to download evidence for cheat reporting. 
+Incidentally, it is now possible to dump all users unique steamID's from 
+both in-game, and in-demos to the console or text file (this will make 
+reporting abusive players and enforcing bans incredibly easy).
+ 
+GAME BALANCE
+
+- RPG's now deal additional damage to HMMWV's.
+- Lowered m200 and m110 sniper rifle damages. The only 1 shot possible 
+  is now  headshots.
+- Flak jacket now has a lower BP cost, and a slight effectiveness buff.
+- Diablo damage adjusted.
+- Weapon is taken out of ADS and accuracy decreases when jumping.
+ 
+OPTIMIZATIONS & FIXES
+
+- The Rhino drones weapon attachment was not being properly moved with 
+  the Rhino drone on dedicated servers, causing the rockets to fire 
+  incorrectly. This is now fixed.
+- We have added some animation optimizations for large player games.
+- Several UI related improvements were added for large player games.
+- Fixed scaling text zooming on Battle Commander when opening up the 
+  battle chat or squad UI.
+- Switched the buttons around on the load out rename confirmation dialog 
+  to better abide by conventions.
+- Improved SLI/CrossFireX support.
+- A few reported issues with WinXP 64 bit edition have been addressed.
+- Improved menu navigation with analogue controls.
+ 
+GENERAL IMPROVEMENTS
+
+- User feedback for kicks and bans has been improved.
+- The intermission lobby now displays clan tags.
+- Text chat is now possible in the kill cam, spawn selection, and 
+  intermission lobby screens.
+ 
+NEW SETTINGS & CONTROL OPTIONS
+
+- EnableD3D10/11 is now accessible via the system settings menu.
+- Mouse acceleration is now accessible via the controls menu.
+- Mouse smoothing is now accessible via the controls menu.
+
+
+INSTALL NOTES
+
+1. Unpack release
+2. Run Homefront.Update.1.exe
+3. Install
+4. Copy the cracked content from the SKIDROW folder to the main install
+   folder and overwrite
+5. Play the game
+6. Support the companies, which software you actually enjoy!
+
+ADDITIONAL NOTES
+
+This isn't actually update 1, as update one was already included with
+the iso release of ours
+
+We decided to label it Update 1, as Update 2 will just cause confusion
+
+GREETINGS
+
+Unleashed - TiNYiSO - MRN - RADIKAL - POSTMORTEM - GENESIS - SHOCK
+CRUDE - ReUnion - VACE - OUTLAWS - BACKLASH - Titan

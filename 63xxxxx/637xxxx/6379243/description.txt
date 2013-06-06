@@ -1,0 +1,4 @@
+This version of Parted Magic includes a new Xorg build and some bug fixes. The Nouveau Xorg driver for nvidia chips is used by default now. The black screen problem with the Intel Mobile 4 Series Integrated Graphics Controllers has been fixed. A mess of other minor issues were addressed.
+
+Updated Programs: alsa-lib-1.0.24.1, ddrescue-1.14, file-5.05, alsa-utils-1.0.24.2, dmidecode-2.11, fuse-2.8.5, mc-4.7.5.2, cpio-2.11, dosfstools-3.0.11, gdisk-0.6.14, mdadm-3.1.5, cryptsetup-1.2.0, dvd+rw-tools-7.1, lsscsi-0.24, tar-1.26, syslinux-4.04, xorg-server-1.9.5 (all compatible drivers and libraries too), ocz_sf_fw_set, linux-2.6.38.4, nwipe-0.05, firefox-4.0.1, hdt-0.5.0
+

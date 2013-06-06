@@ -1,0 +1,42 @@
+OSM Map of Western Europe for GARMIN devices with micro SD card limit 4GB, intended for outdoor use
+
+It\'s advantage is that it is rendered on the device\'s screen faster than commercial TOPO map
+
+Not intended for car navigation (although some routing functionalities implemeted)
+
+FULLY LEGAL / TESTED on GPSMAP 60CSx
+
+It is possible to download the map of the whole Europe or even the World from http://wiki.openstreetmap.org/wiki/User:Computerteddy#Standard_Kartens.C3.A4tze, however their size exceeds the maximum capacity of older Garmin GPS units such as GPSMAP 60, 76 series, some eTrex, etc.
+
+Map source: www.openstreetmaps.org compiled by GmapTool and cGPSmapper Free
+
+Coordinates of globe cut:
+N 72Â°
+S 34Â°
+E 24Â°
+W 25Â°
+
+746 segments
+
+
+System Requirements:
+--------------------
+MapSource
+GARMIN GPS device with 4 GB card (or more for newer devices)
+
+
+Installation
+------------
+Run install.bat which coppies the map to MapSource
+Connect GARMIN with the computer using the USB plug
+Open MapSource and zoom out to maximum extent so that you are able to see all map segment on the screen
+By pressing and holding left mouse button select all map pieces
+On the toolbar in the upper part of the screen press the icon \"Send to GPS\"
+Select MAPS and OK
+
+The process of generating a map from MapSource and consequent copping to the device takes around 4 hours. If it takes only few minutes you have send only few segments of the map to your device.
+
+Enjoy
+
+Marwaen
+

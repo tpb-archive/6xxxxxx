@@ -1,0 +1,190 @@
+
+[ Info sul file ]
+
+Nome: Taxi Driver (1976) [BDRip720p Ita-Eng] by Pitt@Sk8.mkv
+Data: 7/05/2011 12:54:09
+Dimensione: 4,702,892,287 bytes (4485.028 MB)
+
+[ Info generiche ]
+
+Durata: 01:53:49 (6828.864 s)
+Tipo di contenitore: matroska
+Data creazione: 7/05/2011 10:51:48 UTC
+Streams totali: 7
+Tipo stream n. 1: video (V_MPEG4/ISO/AVC) {BDRip720p by Pitt@Sk8}
+Tipo stream n. 2: audio (A_AC3) {Italiano AC3 5.1 640 kbps - Pitt@Sk8}
+Tipo stream n. 3: audio (A_AC3) {English AC3 5.1 448 kbps - Pitt@Sk8}
+Tipo stream n. 4: subtitle (S_TEXT/UTF8 ) {Cartelli SRT - Italiano}
+Tipo stream n. 5: subtitle (S_VOBSUB) {Cartelli - Italiano}
+Tipo stream n. 6: subtitle (S_VOBSUB) {Sottotitoli - Italiano}
+Tipo stream n. 7: subtitle (S_VOBSUB) {Subtitle - English}
+Audio streams: 2
+Muxing Application: libebml v1.2.0 + libmatroska v1.1.0
+Writing Application: mkvmerge v4.6.0 ('Still Crazy After All These Years') built on Mar 10 2011 02:50:32
+
+[ Dati rilevanti ]
+
+Risoluzione: 1280 x 694
+
+[ Traccia video ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Risoluzione: 1280 x 694
+Frame aspect ratio: 640:347 = 1.844380 (~1.85:1)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 640:347 = 1.844380 (~1.85:1)
+Framerate: 23.976024 fps
+Stream size: 3,767,058,273 bytes
+Durata: 01:53:49 (6828.780237 s)
+Bitrate: 4413.155078 kbps
+Qf: 0.207206
+
+[ Traccia audio n. 1 ]
+
+Codec ID: A_AC3
+Canali (contenitore): 6
+Frequenza: 48000 Hz
+Bitrate (contenitore): 640 kbps
+Bitrate (bitstream): 640 kbps CBR
+Mode: 3 front, 2 rear, 1 LFE
+
+[ Traccia audio n. 2 ]
+
+Codec ID: A_AC3
+Canali (contenitore): 6
+Frequenza: 48000 Hz
+Bitrate (contenitore): 448 kbps
+Bitrate (bitstream): 448 kbps CBR
+Mode: 3 front, 2 rear, 1 LFE
+
+[ Info sulla codifica H.264 ]
+
+User data: x264
+User data: core 114 r1924 08d04a4
+User data: H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011
+User data: http://www.videolan.org/x264.html
+User data: cabac=1
+User data: ref=5
+User data: deblock=1:0:0
+User data: analyse=0x3:0x133
+User data: me=umh
+User data: subme=7
+User data: psy=1
+User data: psy_rd=1.00:0.00
+User data: mixed_ref=1
+User data: me_range=32
+User data: chroma_me=1
+User data: trellis=2
+User data: 8x8dct=1
+User data: cqm=0
+User data: deadzone=21,11
+User data: fast_pskip=1
+User data: chroma_qp_offset=-2
+User data: threads=6
+User data: sliced_threads=0
+User data: slices=4
+User data: nr=0
+User data: decimate=1
+User data: interlaced=0
+User data: constrained_intra=0
+User data: bframes=3
+User data: b_pyramid=1
+User data: b_adapt=2
+User data: b_bias=0
+User data: direct=1
+User data: weightb=1
+User data: open_gop=2
+User data: weightp=2
+User data: keyint=240
+User data: keyint_min=23
+User data: scenecut=40
+User data: intra_refresh=0
+User data: rc_lookahead=40
+User data: rc=2pass
+User data: mbtree=1
+User data: bitrate=4414
+User data: ratetol=1.0
+User data: qcomp=0.60
+User data: qpmin=10
+User data: qpmax=51
+User data: qpstep=4
+User data: cplxblur=20.0
+User data: qblur=0.5
+User data: vbv_maxrate=40000
+User data: vbv_bufsize=40000
+User data: nal_hrd=vbr
+User data: ip_ratio=1.40
+User data: aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 4
+  Aspect ratio: Square pixels
+  Chroma format idc: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Codifica entropica: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: SÃ¬
+Frames totali: 163727
+Drop/delay frames: 0
+Frames corrotti: 0
+
+P-slices:  45266 ( 27.647 %) ##########               
+B-slices: 117396 ( 71.702 %) #########################
+I-slices:   1065 (  0.650 %)                          
+SP-slices:      0 (  0.000 %)                          
+SI-slices:      0 (  0.000 %)                          
+
+[ Analisi DRF ]
+
+DRF medio: 25.626579
+Deviazione standard: 0.681010
+DRF max: 27
+
+DRF<17:      0 (  0.000 %)                          
+DRF=17:      1 (  0.001 %)                          
+DRF=18:      0 (  0.000 %)                          
+DRF=19:      0 (  0.000 %)                          
+DRF=20:    107 (  0.065 %)                          
+DRF=21:     51 (  0.031 %)                          
+DRF=22:    210 (  0.128 %)                          
+DRF=23:    863 (  0.527 %)                          
+DRF=24:   7225 (  4.413 %) ##                       
+DRF=25:  47941 ( 29.281 %) ############             
+DRF=26: 101742 ( 62.141 %) #########################
+DRF=27:   5587 (  3.412 %) #                        
+DRF>27:      0 (  0.000 %)                          
+
+P-slices DRF medio: 25.632991
+P-slices deviazione std.: 0.651646
+P-slices DRF max: 27
+
+B-slices DRF medio: 25.647091
+B-slices deviazione std.: 0.647881
+B-slices DRF max: 27
+
+I-slices DRF medio: 23.092957
+I-slices deviazione std.: 0.715881
+I-slices DRF max: 26
+
+[ Capitoli ]
+
+Taxi Driver -01- Pitt@Sk8: 00:00:00,000 - 00:10:59,033
+Taxi Driver -02- Pitt@Sk8: 00:10:59,033 - 00:20:05,037
+Taxi Driver -03- Pitt@Sk8: 00:20:05,037 - 00:28:21,033
+Taxi Driver -04- Pitt@Sk8: 00:28:21,033 - 00:33:12,199
+Taxi Driver -05- Pitt@Sk8: 00:33:12,199 - 00:40:11,576
+Taxi Driver -06- Pitt@Sk8: 00:40:11,576 - 00:44:03,641
+Taxi Driver -07- Pitt@Sk8: 00:44:03,641 - 00:51:42,141
+Taxi Driver -08- Pitt@Sk8: 00:51:42,141 - 01:01:10,542
+Taxi Driver -09- Pitt@Sk8: 01:01:10,542 - 01:08:11,796
+Taxi Driver -10- Pitt@Sk8: 01:08:11,796 - 01:14:49,026
+Taxi Driver -11- Pitt@Sk8: 01:14:49,026 - 01:24:46,039
+Taxi Driver -12- Pitt@Sk8: 01:24:46,039 - 01:29:42,752
+Taxi Driver -13- Pitt@Sk8: 01:29:42,752 - 01:34:11,980
+Taxi Driver -14- Pitt@Sk8: 01:34:11,980 - 01:38:02,418
+Taxi Driver -15- Pitt@Sk8: 01:38:02,418 - 01:45:57,893
+Taxi Driver -16- Pitt@Sk8: 01:45:57,893 - [non specificato]
+
+Rapporto generato da AVInaptic (18-11-2007) in data  7 mag 2011, h 13:01:26

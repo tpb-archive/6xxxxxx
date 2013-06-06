@@ -1,0 +1,15 @@
+JungleFlasher v0.1.82 (234)
+
+Team Jungle released a new version of JungleFlasher.
+
+What's new/fixed:
+
+* Minor release to tighten up error handling..
+* An unforseen issue with slow drives ( seemly with Winbond Spi)
+* SlimKey support
+Added: Delay added following Drive authorisation, small % of drives seem slow and were failing on fwcrt cmd 21, others return empty data
+Added: Total abort for failed fwcrt cmd 21 error
+Added: Total abort on Key sector verification failure
+* Firmware File Parser
+Added: Parse abort on key sector verification failure for Slim dummy.bin
+Added: Serial area fixer support for Slim.. to repair data for "others" ;)

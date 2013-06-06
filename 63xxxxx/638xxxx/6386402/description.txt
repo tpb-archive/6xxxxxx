@@ -1,0 +1,5 @@
+GDI++ is font rendering substitute for Windows (2000, XP, Vista, W7) that basically replaces TrueType font rendering.
+If you don't like TrueType or you would like your windows machine to have fonts like Mac OSX or Linux, then this is a solution.
+Usage:
+Just unpack archive to folder of your choice. There is no installation. Start gditray.exe and select .ini file which sets configuration options. There are predefined ini files and this is your first choice, since configuring look of the fonts at your screen is really an effort! This piece of programming is a work of some japanese people and you can find some reference on the Web. However, there are more versions and it is hard to track them all. This one works perfectly for me for more than a 1.5 year. My contribution is configuration file 5.ini that is best suited for laptop screen and european fonts.
+If you want to start this application when windows start just create shortcut to gditray.exe and copy it to your start menu: Programs - Startup.

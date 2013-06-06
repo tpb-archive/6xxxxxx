@@ -1,0 +1,310 @@
+User Type,Username,Date,Text
+,vichetmeng,2011-04-19T10:53Z,This for sharing this ! (: I haven't finish downloading though.. 
+,Busoap,2011-04-19T13:40Z,"Does somebody know this is working O.o 
+
+i hope so ;D 
+Sims Medieval FTW BITCHEEES ;D 
+
+imma let u guys know if it works ^^"
+,sveinungms,2011-04-19T17:33Z,where is the keygen ???!
+,cooldude078,2011-04-19T17:37Z,"it needs the registation code, doesnt work"
+,cooldude078,2011-04-19T17:42Z,does anyone know how to install?
+,Busoap,2011-04-19T23:02Z,"Yeah For the those who needs a working keygen ;D 
+Be fast bitches ! 
+
+U87F-TRT5-APFV-6APL-ZRLD
+WH5M-UDBR-4RRF-S4RN-MRLD
+DGN6-LXYJ-SWM4-KSWJ-ARLD
+B23T-BXK8-P75Q-WP72-WRLD
+
+let me know if it works >"
+,Busoap,2011-04-19T23:03Z,"OW WHA  THA FUCK --' 
+
+it still asks for the disk >< "
+,Busoap,2011-04-19T23:07Z,DOESNT WORK !! IT ASKS FOR THE DISK 
+,woshburn,2011-04-19T23:43Z,"here is a cdkey that works 
+:K9QY-UAHG-JP9L-VJPU-SRLD"
+,Busoap,2011-04-20T01:23Z,"ok ;D i did it ><
+
+Instructions:
+
+Mount the image.
+Install Game
+Find and replace TSM.EXE with the one in the crack dir.
+
+the TSM.EXE is in the map resources -> transgaming -> C-drive -> program files -> Electronic art -> The sims medieval -> Game -> Bin -> Than just replace the things that are in the crack map 
+
+Then go to info.plist and search for 
+
+CedegaGameName
+C:\Program Files\Electronic Arts\The Sims Medieval\Game\Bin\S3LAUNCHER.EXE
+
+
+Change the last part to TSM.ex_ instead of S3Launcher.exe
+save it
+Launch Game
+
+Enjoy!"
+,beat22,2011-04-20T19:38Z,"Thanks Busoap
+
+but instead of:
+
+Change the last part to TSM.ex_ instead of S3Launcher.exe
+
+I changed the last part to TSM.exe and it worked
+
+Thanks for the help though"
+,Busoap,2011-04-20T22:58Z,"Yeah i did it my way 
+Cuz the TMS.exe didn't work for me so yeah 
+
+Have fun ^^"
+,superhelt22,2011-04-20T23:51Z,"Dear Beat22 and Busuap: I've done everything im suppose to, except the part when I should use TextEdit, and search for the folder. I dont know how to search, please help me! Looking afford to play! Thnx for your help so far! :D"
+,Poeticile,2011-04-21T01:32Z,"Sorry about that guys, I hadn't even finished torrenting it. Thanks Busoap for the tech. :]"
+,superhelt22,2011-04-21T14:30Z,"Is there any way you could crack it, and then reupload? This is the part I suck at :/
+
+If you could make it a DMG file, that didnt needed any cracking would be fine! :D
+
+But thnx for upload anyway! ;)"
+,beat22,2011-04-21T15:48Z,"To superhelt22 and others,
+
+I did not even download this torrent. I used:
+http://thepiratebay.org/torrent/6262574/The_Sims_Medieval-RELOADED
+
+sorry Poeticile, thanks for the upload but take one took half the time if not less.
+
+so if you use that torrent.
+
+Step 1:
+Mount (rld-tsmk.iso) than load (B23T-BXK8-P75Q-WP72-WRLD works)
+
+Step 2:
+open crack and rename file TSM.ex_ to TSM.exe
+
+Step 3:
+Copy crack TSM.exe and TSLHost.dll
+
+Step 4:
+Right click Sims Medieval icon and show package content
+
+Step 5: 
+Content -> resources -> transgaming -> C-drive -> program files -> Electronic art -> The sims medieval -> Game -> Bin ->paste both cracks and replace
+
+Step 6:
+Go all the way back to Content and open Info.plist
+
+Step 7:
+Find something that looks like this
+     CedegaGameName
+	C:\Program Files\Electronic Arts\The Sims Medieval\Game\Bin\S3LAUNCHER.EXE
+
+Rename S3LAUNCHER.EXE to either TSM.ex_ (as busoap said) or TSM.exe
+
+Step 8:
+Save Info.plist
+
+Step 9:
+Play game and enjoy The Sims Medieval
+
+Hope that clarifies and thanks again to busoap for figuring all this out!!"
+,superhelt22,2011-04-21T17:22Z,"Thanks alot, will inform if it works! ;)"
+,zogulusnig,2011-04-21T23:39Z,"What's with all the talk of ""C"" drives and ""EXE"" files?
+
+I assume this is a PC game in the MAC section?"
+,JimmyHat408,2011-04-22T14:50Z,"@zogulusnig when you have a ported game from PC to MAC when you right click on the game icon it shows a drop down selection called ""show contents"" within that section there are options such as c_drive,program files, exe, ect, with all the native PC file names. it is actually quite normal especially for EA games to be patched by overwriting an internal file to play without a CD or serial key. twas confusing to me at first as well but then i learned how to read.   "
+,JimmyHat408,2011-04-22T14:54Z,so basically all of the people asking for serials or cd cracks just have no idea what they are doing :)
+,superhelt22,2011-04-22T17:53Z,"Well, I probabably dont know what im doing.. I 
+
+CANT CHANGE THE NAME OF THE FILE! :L
+
+Thats my main problem so far :L"
+,superhelt22,2011-04-22T18:10Z,"No, im sorry, I found it :P
+
+Kinda new at this, as you may noticed :P
+
+But this step slowed me down:
+
+Step 7:
+Find something that looks like this
+CedegaGameName
+C:\Program Files\Electronic Arts\The Sims Medieval\Game\Bin\S3LAUNCHER.EXE
+
+Rename S3LAUNCHER.EXE to either TSM.ex_ (as busoap said) or TSM.exe
+
+I cant find S3LAUNCHER.EXE
+The only one that looks a bit like the same is:
+CedegaGameName
+	C:\Program Files\Electronic Arts\The Sims Medieval\Game\Bin\SMLauncher.exe
+
+But it is not S3LAUNCHER.EXE instead it is SMLauncher.exe
+
+Is it the same, and should I rename the SMLauncher.exe?? LAST STEP! HELP ME!
+Thnx so far dude ;)"
+,superhelt22,2011-04-22T18:16Z,"THANK YOU ALL, WHO HAVE HELPED ME!
+
+I finaly made it, changing the last part made it ;)
+
+Thanks alot, though Ive been a pain for you guys, it totaly works!"
+,sarishaa,2011-04-22T22:20Z,"superhelt22 how do u change the name of the file?
+I cant change the name of the file too :(
+HELP PLZ"
+,Karolinus,2011-04-23T02:57Z,@beat22 U R teh MAN! Worked for me!
+,Poeticile,2011-04-23T03:12Z,"@sarisha
+
+Have you opened the file with textedit? "
+,samlarz,2011-04-24T04:19Z,Does anyone wanna seed? It'd be super fantastic if you could be so kind. Much Love to the community.
+,jesusshockwave,2011-04-24T06:26Z,You Rock!! Thanks Man!
+,davick34,2011-04-24T10:04Z,thanks for putting this on. It is a PC game or Mac?
+,jesusshockwave,2011-04-24T14:40Z,"This is a PC turned Mac version right? A Cider? Works with Mac, trust me i've been playing and it is the BOMB!. Again, thank you Poeticile!"
+,cm0509,2011-04-24T19:35Z,@beat22 does the torrent you linked http://thepiratebay.org/torrent/6262574/The_Sims_Medieval-RELOADED work on mac?
+,thewalmz,2011-04-24T21:11Z,"same problem with me, although  am new to this.
+
+ I CANT REWRITE THE FILE! 
+
+permission says read-only, and i dont know how to change that. someone please heeellpp me!"
+,Poeticile,2011-04-24T21:16Z,"@cm0509 : As far as I can tell, that's a PC game. "
+,MudSwipe,2011-04-26T02:14Z,"Just sayin', great torrent, lightning fast and it works like a charm. :D"
+,InfiniteSpoils,2011-04-27T03:05Z,"For people who cannot change the file name, the solution is actually very easy. Just right click on the file, and you should be able to see ""Get Info"". At the very bottom of the info screen, there is a box that says permissions or something along those lines. change the account you are using to ""Read & Write"". That should solve the problem. Hope it Helps!! By the way, thanks Poeticile, cuz this game worked like a charm for me. I use a not-so-good MacBook 2008 with 1 Gig of RAM and it still worked, without lag!!"
+,Deb248,2011-04-28T02:31Z,"My apologies in advance, for I am VERY new to Mac (OS10.6)...  Before posting this, please keep in mind that I have tried all I could to get this working on my own with the instructions provided by all of you.  I feel like a complete idiot for not being able to figure this one out.  It has come to a time that I need to ask for help...  
+
+I have downloaded & installed game.  Here comes the trouble.  I am unable to change the name of the TSM.ex_ file to anything else.  I have tried, believe me.  Second of all, I went snooping (out of curiosity) on to the next steps ""Content -> resources -> transgaming -> C-drive -> program files -> Electronic art -> The sims medieval -> Game -> Bin ->paste both cracks and replace"" BUT, I don't even have a folder   called ""transgaming"" folder.  
+
+I would greatly appreciate any help.  Thank you again in advance.
+Deb"
+,booy88,2011-04-28T02:52Z,Yeah im a bit like deb. I followed the instructions of everyone and infinite spoils. When trying to change TSM.ex_ to TSM.exe. But when i open up the get info window and go down to permission i have no other options than something along the lines as “read only”. Just wondering if there is anything i can do? 
+,Poeticile,2011-04-28T07:59Z,"Wait, changing file name? Just click once, and then again after a second on the file name. Simply type in .exe and it should work...
+
+And Deb, if you don't have a transgamimng folder, your torrent file is probably corrupt or something. Transgaming is basically the game folder, if it's not there, obviously something was wrong with the installation. "
+,booy88,2011-04-28T11:36Z,Nup dosent work. It wont let me change it. 
+,Deb248,2011-04-28T13:53Z,"Looks like booy and I are having the same issue...  We are not able to rename the file because it is ""read only"" and slowly double clicking doesn't work.  I am able to rename other files not related to this game if I want...  Also, I re-downloaded/installed the file and still don't see that folder, Poeticile (could it be that it's because the folder is locked as read only?)."
+,Poeticile,2011-04-30T07:03Z,Hm...is admin permission on?
+,Deb248,2011-04-30T15:17Z,"Ok... I was able to find a ""for dummies,"" step-by-step instructions on how to do this and it worked really well.  I used the RELOADED version mentioned in this thread.  I don't think I can post the website address, though due to it being a different website all together.  =/"
+,booy88,2011-05-01T07:32Z,Where do i find out if i have admin permission on or off? and deb would you be able to link the stuff you got? if not send it to my email booy_814@hotmail.com thanks 
+,Deb248,2011-05-03T14:54Z,"It didn't let me post the link, so I sent you an email instead... :)"
+,Indirya,2011-05-03T15:54Z,"i figured it out, you can just download any crack off the site, doesnt neccesarily have to be a mac crack."
+,Sojio,2011-05-03T18:04Z,"If you're still unable to change the extension to .exe try moving the ""crack"" folder out of the iso onto your computer. Then try changing it."
+,dusislo9,2011-05-08T04:18Z,"This is a quote from Sims Medieval RELOADED CRACK ONLY ... And yes I know that the steps are essentially the same, except it's in more detail and the TSM.ex_ file is actually edit-able for those of you who are having trouble on that step. It worked for me, and I hope it works for you too... QUOTE:
+
+
+gerard1978 at 2011-04-03 01:06 CET:
+
+""For those with MACS
+
+Here is the solutions!
+
+when your done downloading this mount the disk in the The.Sims.Medieval-RELOADED folder 
+
+You will need to install the game first. (You won't be able to open the keygen since it can't open in Mac, so you will need to find a serial. I found mine on tpb comment section.) try one of these 
+YAF7-QJKH-MNEP-LMNY-SRLD
+BP2S-NQSX-8DBW-48DG-ZRLD
+JYDM-2WXX-V7E3-RV72-7RLD
+
+Then update your game. You can do that by opening the Sims Medieval (the actual app its in a folder in your applications!) and let it auto update. when it asks would you like to update click ok. let it do its thing.
+
+After that, download a 1.1 crack. this one (http://thepiratebay.org/torrent/6261577/The_Sims_Medieval-RELOADED_CRACK_ONLY_DiBYA)
+
+open up the crack folder and open up the .rar file (I use UnRarX its free also) take all the files that were un .rar-ed (except the Readme@DiBYA.txt) and Replace the content here: The Sims Medieval -> Show Package Contents -> Contents -> Resources -> transgaming -> c_drive -> Program Files -> Electronic Arts -> The Sims Medieval -> Game -> bin
+
+just drag those three files over and Finder will ask do you want to replace these files? and say ok.
+
+close all unnecessary windows and
+
+- Go to your sims medieval folder again (in your applications folder)
+- Right click on the The SimsÃ¢â€žÂ¢ Medieval.app en select ""show package contents""
+-open the contents folder
+- Double-click on Info.plist and open with TextEditor
+- Search for SMLauncher.exe and change it to TSM.ex_ (its in the middle of the length of text one of the longer sentences)
+- Save it and close.
+- now close everything that you have open and play the The SimsÃ¢â€žÂ¢ Medieval.app! 
+
+
+its should work!"""
+,dusislo9,2011-05-08T04:27Z,"Sorry, a correction in my last post: It did not work when I changed SMLauncher.exe to TSM.ex_, but changing it to TSM.exe instead worked. So try it out. Again, sorry for the correction post and sorry for the weird symbols that occur from TextEditor."
+,Required,2011-05-08T04:43Z,"Was Just about to what dusislo9 said.
+
+If you want to update to 1.1.13 just grab the PC cracked version of the patch, replace the TSM.EXE file and the TSLHost.dll file in the main APP. Don't forget to change the line in your ""info.plist"" file again to point it back to TSM.exe or it will say ""NO disc found"".
+
+Cheers."
+,NiobeHeidi,2011-05-09T12:32Z,"It worked fine but now...
+Look,I decided to save the game.Then,the program wouldnt close.I had to use the task manager.Then it closed,but now there is no saved game.And the same thing has happened three times.Wtf is going on? :("
+,naomi92,2011-05-09T16:01Z,"I'm having the same problem as NiobeHeidi. When I'm trying to save it gives the illusion that it does, then when I try to close the game it just won't close and when I try to open options in the game, it comes and goes very quick. When I close the game using the taskmanager ('cause other wise it just won't close), next time I want to play there's no saved game, I can just start over. And so will the problems start over too.
+
+Does anyone has a solution?"
+,katniss,2011-05-10T17:58Z,"I followed the crack instructions, and the game launches just fine, but when I get to the menu it tells me to insert the disk. >.< 
+
+Help please. "
+,naomi92,2011-05-11T19:30Z,"I had the same problem as you, but you just have to go to the Info.plist document in teksteditor and change SMLauncher.exe in to TSM.ex_ or TSM.exe (just try out which one works, for me TSM.ex_ did), just like dusislo9 said."
+,beat22,2011-05-16T09:53Z,"To all follow this step by step and you will be fine,
+
+I did not even download this torrent. I used:
+http://thepiratebay.org/torrent/6262574/The_Sims_Medieval-RELOADED
+
+sorry Poeticile, thanks for the upload but take one took half the time if not less.
+
+so if you use that torrent.
+
+Step 1:
+Mount (rld-tsmk.iso) than load (B23T-BXK8-P75Q-WP72-WRLD works)
+
+Step 2:
+open crack and rename file TSM.ex_ to TSM.exe
+
+Step 3:
+Copy crack TSM.exe and TSLHost.dll
+
+Step 4:
+Right click Sims Medieval icon and show package content
+
+Step 5:
+Content -> resources -> transgaming -> C-drive -> program files -> Electronic art -> The sims medieval -> Game -> Bin ->paste both cracks and replace
+
+Step 6:
+Go all the way back to Content and open Info.plist
+
+Step 7:
+Find something that looks like this
+CedegaGameName
+C:\Program Files\Electronic Arts\The Sims Medieval\Game\Bin\S3LAUNCHER.EXE
+
+Rename S3LAUNCHER.EXE to either TSM.ex_ (as busoap said) or TSM.exe
+
+Step 8:
+Save Info.plist
+
+Step 9:
+Play game and enjoy The Sims Medieval
+
+Hope that clarifies"
+,juanitopomes,2011-05-18T06:42Z,Does anyone know how to fix the problem to save the game?
+,APPELxTAART,2011-05-20T07:29Z,"Hey Guys, if you have problems with name chanceing, you have to download another crack, they will be not the same as the crack in this torrent :) My game doesn't work before, but someone says delete the .ini file, i don't know this was the problem but now my game works :) . After the first queation you can safe it. My game doesn't start in the game menu, it can be started at the program image or somthing like that. (in my finder or where you saved it)
+"
+,ClassZero,2011-05-22T03:49Z,This game sucks and so does the crack. Don't waste your time.
+,APPELxTAART,2011-05-25T22:42Z,If you have many consentration and you write my text it can :) 
+,echoing,2011-05-28T17:45Z,"When I right click the icon, I don't get the option to 'show package contents'..."
+,DreadPirateRoberts12,2011-05-30T22:34Z,Has anyone figured out how to fix the save/ save as capabilities for this?  Thanks ahead of time!  
+,Tomas1242,2011-06-01T08:05Z,"I did the directions of dusislo9, and the application opens and loads but after the loading screen(after the opening cinematic), it says it can't find a disk and asks to either retry or quit. What's going on!?"
+,joshwenke,2011-06-02T03:50Z,"To see package contents, you need to view the app in the applications folder, otherwise you won't see the option to show package contents."
+,DreadPirateRoberts12,2011-06-04T04:15Z,"So there's no point in downloading this game by the way.. There is no save function.  You can save created sims but can not save game data.  If anyone knows how to fix this, please post it.  Thank you."
+,bastarts,2011-06-05T19:49Z,"Right, I've tried all the ways suggested here - thanks guys for taking the time to help others! - but I still can't get the game to save. Also, I can't get the options tab to open, which means that even if the save issue is resolved, still I'm stack with the lowest resolution ever, which means I can't take advantage of my monster ATI gc. To be honest, this looks more like a viral demo release cause after spending hours trying to get it to work I'm now thinking of buying and original copy...unless some godlike genius finds a way around these problems... "
+,Pirat.ka,2011-06-08T09:23Z,"The problem is not in the game, but in the crack. 
+
+Just download this one a follow the instructions in the video. It worked perfectly for me ;)
+
+http://thepiratebay.org/torrent/6328557/Sims_-_Medieval___.__[MaC]__."
+,DreadPirateRoberts12,2011-06-08T21:48Z,"@Pirat.ka
+
+You linked the webpage that this torrent is on..You might have meant to link another webpage because there is not a video on this one...  Thank you for figuring the saving out, now just need to figure out how to fix the crack."
+,DreadPirateRoberts12,2011-06-08T21:54Z,"@Pirat.ka
+
+You linked the webpage that this torrent is on..You might have meant to link another webpage because there is not a video on this one... Thank you for figuring the saving out, now just need to figure out how to fix the crack."
+,Dalhedaren,2011-06-12T17:57Z,Just download the latest crack for The Sims Medieval on http://www.gamecopyworld.com/ and saving will work :)
+,Aethiva,2011-06-21T23:00Z,"Im having the same problem, cant save. Have tried to change between TSM.ex_ , or TSM.exe and even tried different cracks."
+,laned,2011-06-23T18:07Z,"I'm having the same problem as katniss and tomas 1242, when I try and play it tells me to insert disk... help!!!!"
+,wolfskull7,2011-07-13T17:47Z,is there any update for fixing the options menu problem and saving the game problem for mac? i know there's a crack out there for latest version 1.3.13 for PC from gamecopyworld.com but is there anything for mac users?????
+,dubedaare,2011-07-23T14:28Z,"I did what beat22 said, and it worked perfectly!"
+,GeorgieShax,2011-07-31T22:42Z,"I was thinking about upgrading to Lion but just wanted to check if this still worked perfectly fine with Lion, So if anyones on Lion then can they just post their opinions.
+
+Thanks Very Much "
+,jesusshockwave,2011-09-29T09:55Z,"Hey, can you or someone else also upload the add-on for this game - ""Sims Medieval - Pirates and Nobles"" for Mac? Thanks!"
+,ralucaopris,2011-11-03T13:01Z,"How does it work for MAC? How should I install it?
+Thank you"
+,awilson13,2012-05-19T06:07Z,"okay, so I'm having trouble renaming the file on my mac, can someone help?"

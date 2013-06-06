@@ -1,0 +1,15 @@
+User Type,Username,Date,Text
+,MultiJD1,2011-07-19T17:14Z,"Hopefully its what im expecting :) Will reply once installed :D Thanks, "
+,gateway2heaven,2011-10-28T18:32Z,"Okay, after a while, I started getting a dialog saying that Windows cannot be activated.  I checked my license saying that I had 1 to 3 days remaining until ""automatic activation"" and even that wouldn't go through.  Of course, even the ""rearm"" trick didn't actually help either.  So this is what I did (and read this carefully):
+
+[1] I opened CMD and typed ""slmgr.vbs -upk""
+
+[2] Reboot.
+
+[3] A dialog should appear asking me to enter a product key but there should be an option called ""Ask me later"".  I did click that!
+
+[4] Another dialog appeared about the importance of genuine software and yadda-yadda, so I clicked ""Continue.""
+
+[5] I was able to continue using Windows under non-genuine restrictions, just to re-run the tools under the BIE directory.
+
+It appeared that Windows was once again activated from there on and things seem to be working fine."

@@ -1,0 +1,45 @@
+2011 IndyCar Series - Round 04
+2011-05-01/02 - Sao Paulo Indy 300
+
+
+2011 IndyCar Series season 
+http://en.wikipedia.org/wiki/2011_IndyCar_Series_season
+
+
+This is a repost, thanks to the original uploader
+Original source: Canal+
+Tested in VLC and Patriot PBO Core Media Player
+
+
+Sao Paulo Indy 300, May 1/2 2011:
+---------------------------------
+The race was scheduled for Sunday May 1. After a rain delay the race was stopped and the remainder was postponed to Monday May 2. A total of 14 laps were completed on May 1. 
+Due to the delays and TV contracts, the race was not able to go the scheduled 75 laps, and turned into a timed race. A total of 55 laps were completed.
+This file contains:
+- Highlights from the Sunday laps including the start and some crashes. A good part of the 14 laps from Sunday were run under yellow.
+- All the racing from Monday.
+
+
+Technical issues regarding .mkv files and some Media Players:
+-------------------------------------------------------------
+I recently bought a Patriot PBO Core Media Player and noticed that some .mkv files would play sound, but not video. The player did not recognize the video codec. 
+
+After a bit of research I found that this happens with some Media Players. According to matroska.org the problem is "broken/incomplete players". They have released a command line tool, "mkclean tool" which according to them: "Also comes with mkWDclean to modify files in a way they can play in broken/incomplete players."
+
+The "mkclean tool" can be downloaded from matroska.org
+The steps to use the tool are very simple:
+- I did this in Windows XP
+- Extract the downloaded .zip file to a folder of your choice. I usually stick with short folder names when using command line tools to avoid problems. I suggest renaming the video file into something small and workable to avoid typos.
+- I will use "c:\mkclean" as the folder name and "movie.mkv" as the file name
+- Start a command prompt, then go to "c:\mkclean" and type:
+mkWDclean movie.mkv
+
+The process creates a new file with name "clean.movie.mkv"
+I was only getting sound and no video from this file in Patriot PBO Core Media Player, but after running it through "mkWDclean" the video works fine.
+
+
+Remember that this is free! If you have something positive to say great, if not, no one cares about your bitching!!
+
+
+Do your part, SHARE and SEED!!
+

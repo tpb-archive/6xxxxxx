@@ -1,0 +1,32 @@
+multiMAN 2.00.01 CHANGELOG
+
+XMMB mode:
+
+Game poster/background loads/shows 2x faster now
+Game poster is crisp and unaltered
+All texts in XMMB are smooth and easy to read with bright backgrounds
+All texts got small shadow to improve visibility
+Favorites column shows game icons
+Fave star applied to game icons in Favorites column
+Clock and column title more visible and better looking
+Cover overlay image (GLC.PNG) applied to cover in XMMB mode, too
+Added image background for theme selection (10x to condor) (pop up can be moved with
+analogue sticks)
+
+Fixed: time/date format changes immediately (not after 30 seconds)
+Fixed 'favorites' column (showing stuff when no faves selected)
+Added option in SETTINGS column to disable "Theme Audio"
+"Title Details" option in SETTINGS column to change 4x2, 8x4, cover flow and Box-art
+modes (title/+id/+title count/none)
+
+Fixed Mouse X/Y deadzone setting
+Fixed PHOTO column populates properly from USB storage (/PICTURE folder)
+Changed: "Verifying USB Games" option: [Always/Auto/Never]
+Added new function in SETTINGS column "Clean Game Cache"
+Added selection list menu to clear Game Data for specific Game
+Favorites selection remembered when going out of game-settings submenu
+Added support for SDHC/MemoryStick/CompactFlash storage for MUSIC/PHOTO/VIDEO
+columns in XMMB mode
+
+Added: SDHC, CF and MS icons in PHOTO/VIDEO/MUSIC XMMB mode
+Added: multiple strategies for mounting titles using all available methods

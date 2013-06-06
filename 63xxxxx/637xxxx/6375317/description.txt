@@ -1,0 +1,37 @@
+TrackStudio Enterprise 4.0.12 MultiLanguage
+
+TrackStudio - an integrated system management tasks, documents and files created for software developers and IT departments of companies. Unlike Atlassian JIRA, optimized to work with external customers, TrackStudio allows you to effectively organize the work within the company (such as handling customer complaints). Our clients are hundreds of organizations from 33 countries: the producers of software and electronic equipment, telecom, IT departments of banks and insurance companies, research institutions and government agencies.
+
+Key Benefits
+
+TrackStudio Enterprise - is a versatile task management system, optimized to manage projects that contain tens of thousands of different types of tasks. System-in many respects unique, are the key advantages:
+
+1 TrackStudio supports the hierarchical structure of work WBS (Work Breakdown Structure), allowing you to effectively manage large hierarchy of tasks.
+Complex problems easier to solve if separate them into smaller pieces, and they, in turn, into even smaller. To accomplish this, the control system must maintain a hierarchy of tasks. However, full support for a hierarchy of tasks - a great rarity, the vast majority of systems implement only a few fixed levels of nested tasks.
+
+2 TrackStudio maintains an organizational structure (OBS) Organizational Breakdown Structure, allowing you to manage a large number of different users: managers, developers, customers, etc.
+A lot of companies use a matrix organization structure, when the project manager shares with the functional managers responsible for specifying the priorities and management of people assigned to the project execution. But for the support matrix structure requires a hierarchical organization of users into divisions. Other systems do not allow you to manage hierarchies of users and administrators have to deal with the usual lists of hundreds of users.
+
+3 TrackStudio maintains uniform standards of project management, taking into account the individual characteristics of the configuration of specific projects.
+Your company may use one copy of TrackStudio to develop a completely different projects for different clients. We know of no other system that would support a complete system setup for each project or group of projects, in most cases you will need to configure multiple instances of the system.
+
+4 TrackStudio help simplify the administration of a large number of projects and increase the safety of their development.
+TrackStudio has a unique safety system that gives managers full control over all their projects and their subordinates, while providing the possibility of complete isolation of different development teams and customers.
+
+5 TrackStudio will conduct business around the world.
+Your customers and employees can use TrackStudio from any country where there is Internet access. TrackStudio supports setting the interface language of the system and the time zone for each user.
+
+Features
+
+* Management is not only challenges but also the documents and files.
+* Supported by a hierarchy of projects, tasks and bugs. It is possible to fully configure the system for each individual project or group projects. Supports inheritance of objects in the hierarchy: the process defined for the group projects will be automatically available for the sub and can be extended with regard to their specificity.
+* Support for a flat, hierarchical and matrix (when the employee reports to both the head of the department and several project managers) management organization.
+* The system allows you to control the visibility of objects for each task and the user. The system supports the concept of subordinates (managed) administrators and delegation. Chance of anonymous access to the system, without registration.
+* Supports user-defined fields, including calculated fields. To specify the formulas for calculating the user-defined fields using Java-like language. Possible to write scripts in Java and then compile.
+* Filters support search tasks on the parameters, content, and chronological information. There is a full-text search and similar tasks. The system includes a built-in report generator (including statistical and historical records), the Gantt chart.
+* There are data export to MS Project, CSV, XML. Supports data import from CSV. There is integration with Google Calendar.
+* The system supports alerting users to e-mail, as well as the creation of tasks and messages via e-mail.
+* Each user can select the language of the user interface presentation format of dates and your time zone. Fully support Unicode.
+* User authentication can be performed using a local database, LDAP, Atlassian Crowd, JOSSO, MS Active Directory, NTLM. Supports integration with source code control systems Subversion, CVS, Perforce, Bazaar.
+* SOAP API provides full access to the core of the system from external applications in Java,. NET, etc. There is also a REST API.
+

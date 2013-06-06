@@ -1,0 +1,102 @@
+Screenshots: 
+http://www.imagebam.com/image/6ad898130981911 
+http://www.imagebam.com/image/76e02e130981945 
+http://www.imagebam.com/image/086d74130981981 
+http://www.imagebam.com/image/dce067130982017 
+http://www.imagebam.com/image/ab9790130982062 
+http://www.imagebam.com/image/5b6c52130982102
+
+General
+Format                           : Matroska
+File size                        : 11.6 GiB
+Duration                         : 2h 41mn
+Overall bit rate                 : 10.3 Mbps
+Movie name                       : Avatar
+Writing application              : mkvmerge v4.4.0 ('Die Wiederkehr')
+Writing library                  : libebml v1.0.0 + libmatroska v1.0.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 10 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 41mn
+Nominal bit rate                 : 9 500 Kbps
+Width                            : 1 900 pixels
+Height                           : 1 072 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.195
+Title                            : Avatar
+Writing library                  : x264 core 114 r1924 08d04a4
+Language                         : English
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio #1
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : A_AAC
+Duration                         : 2h 41mn
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Language                         : English
+
+Audio #2
+ID                               : 3
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : A_AAC
+Duration                         : 2h 41mn
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Language                         : Russian
+
+Text #1
+ID                               : 4
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Language                         : English
+
+Text #2
+ID                               : 5
+Format                           : ASS
+Codec ID                         : S_TEXT/ASS
+Codec ID/Info                    : Advanced Sub Station Alpha
+Compression mode                 : Lossless
+Title                            : Forced
+Language                         : English
+
+Text #3
+ID                               : 6
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Language                         : Russian
+
+Text #4
+ID                               : 7
+Format                           : ASS
+Codec ID                         : S_TEXT/ASS
+Codec ID/Info                    : Advanced Sub Station Alpha
+Compression mode                 : Lossless
+Title                            : Forced
+Language                         : Russian
+

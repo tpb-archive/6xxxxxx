@@ -1,0 +1,23 @@
+I have had a lot of trouble obtaining a working OSX 10.6.7 Vmware image that would work with my triple core AMD Phenom II based laptop.
+
+I finally got this one that originally had 10.6.2. After getting it working with my laptop, I then came across the problem with the USB devices (including keyboard and mouse) not working after upgrading to 10.6.5 or above.
+
+After a couple of hours of research, I found that the problem is the Apple USB drivers dropped with the 10.6.5 upgrade, simply do not work with non Apple hardware. The solution is to do the upgrade and then, before rebooting, reinstall the drivers included with 10.6.4.
+
+Anyway, I was able to use Apple's software upgrade service to bring this up to 10.6.7, with the latest iTunes and Safari versions.
+
+This version is setup for US English, New York's time zone.
+
+User accounts setup are:
+
+Username: Administrator
+Password: 123456789
+
+Username: root
+Password: 123456789
+
+If you need to get this working with Intel processors, it could be as easy as replacing the boot ISO in the Virtual machine settings (DARWIN_SNOW_LEGACY.ISO) with the regular DARWIN.ISO found with the Intel based Vmware images. I have not tested that as I don't have an Intel machine, so you are on your own there.
+
+Cheers!!
+
+

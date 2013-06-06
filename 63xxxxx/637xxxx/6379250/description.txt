@@ -1,0 +1,53 @@
+Changes in DVDFab 8.0.9.0 Qt (May 9, 2011):
+    * New: Rewritten user interface with Qt.
+    * New: Updated Qt language files.
+    * New: Some minor changes and improvements.
+DVD Ripper:
+    * Fix: A/V sync problems in certain cases.
+Blu-ray Copy:
+    * New: AACS MKB v24 is out and already be supported.
+    * New: Added support for ATI Stream acceleration technology.
+      Note: Please update AMD Radeon video card drivers first.
+      1. Visit http://sites.amd.com/US/GAME/DOWNLOADS/Pages/downloads.aspx
+      2. Download both "Catalyst Software Suite" and "AMD Media Codec Package" (Optional Downloads).
+    * Currently the ATI Stream support is limited to video decoding only. It's the problem of AMD driver, and we need to wait for driver updates to support H.264 video encoding. Also the decoding speed of ATI Stream is not very faster than DXVA, but it should be more stable than DXVA. New: Added support for new Java-based protection.
+    * New: Added option "Enable Blu-ray 3D only disc to be played on 2D display" in "Settings -> Protection -> Blu-ray" for "Clone" mode.
+    * New: Added option "Hide PS3 update files" in "Settings -> Protection -> Blu-ray" for "Clone" mode.
+    * New: Added option "Always create miniso file" in "Settings -> Blu-ray Copy".
+    * Fix: A problem that output size is too small when compressing certain discs like "The Social Network" to BD25.
+    * Fix: A problem that 2D copy of Blu-ray 3D disc cannot be played on certain players like PS3.
+Blu-ray Ripper:
+    * New: Added support for ATI Stream acceleration technology.
+    * New: Improved default audio stream selection.
+    * Fix: A crash problem when converting certain discs like "Robin Hood".
+Blu-ray to DVD Converter:
+    * New: Added support for multiple audio stream selection.
+    * Fix: A video quality problem caused by the new VBR encoding.
+Video Converter:
+    * Fix: Several problems when rendering external subtitle.
+2D to 3D Converter:
+    * New: Added brand new option "2D to 3D Converter".
+    * New: "2D to 3D Converter" works with "DVD Ripper", "Blu-ray Ripper" and "Video Converter" to convert DVD/Blu-ray/video file into 3D video.
+    * New: Sophisticated algorithms are used to do the 2D to 3D conversion for very high quality.
+    * New: The 3D video output can be left/right (side-by-side) or top/bottom format, or two separate files, just like "Blu-ray 3D Ripper".
+ 
+Homepage - http://www.dvdfab.com
+ 
+Size: 17.4 MB
+
+
+Preactivated version by Dimitry like previous version i have already posted few days ago = retail
+therefore no need to patch or something else like that.
+Just install and all will be done.
+as usual after what,go and open dvdfab and go on general menu settings
+and uncheck or disable : check for new version automatically
+thereby you got full retail version in perfect safe condition
+as usual special thanks to Dimitry for his very nice work on it
+
+Enjoy and have fun
+
+Don't forget to seed if you like this torrent so.
+A nice day end to all
+cu around
+
+best regards

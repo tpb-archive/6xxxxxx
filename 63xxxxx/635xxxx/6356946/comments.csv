@@ -1,0 +1,28 @@
+User Type,Username,Date,Text
+,syko_dutch,2011-04-30T17:43Z,can anyone confirm it works ?  and which os you have thnx in advance
+,420_buddy,2011-05-17T12:21Z,works great!
+,luxdsg,2011-06-29T16:25Z,"I can't find the n00b instructions. :( (yes, I'm a n00b to portable apps...)"
+,redd79,2011-08-04T20:35Z,Download works great! But i need a password in order to view my files. Whats the password?
+,tberk,2011-10-13T06:42Z,"I keep getting errors when I try to upload the file. Then, the program will finish installing and work great but if I close it, everything disappears as if I never installed it. So, for me to use this I have to reinstall every time. Any ideas?"
+,riverdude,2011-12-05T17:13Z,"I can't get it to work, can anyone provide step by step instructions?"
+,gnewube,2012-01-17T10:05Z,"I'll take a stab at it... go to:
+
+Portable FileMaker Pro 11 Adv\Portable FileMaker Pro 11 Adv\Portable FileMaker Pro 11 Adv\start hier\Portable FileMaker Pro 11 Adv\
+
+and double-click the file: ""FileMaker Pro Advanced (1).exe""
+
+There's another exe ""FileMaker Pro Advanced.exe"" in: ""Portable FileMaker Pro 11 Adv\%ProgramFilesDir%\FileMaker\FileMaker Pro 11 Advanced"" - but that one gave an error when I tried to run it.
+
+I see the HKEY*.txt files - you might try adding them to your registry, but I didn't...
+
+As for passwords, I did make a very trivial DB, quit, restarted FM, and opened the DB with no query for password... if you're trying to open an old DB that already had a password, then.. well.. y'know.. you need the password.  ;)  (from whoever made the DB if that's not already obvious)
+
+Hope that helps. I didn't try anything but just running it and that simple test DB yet. YMMV. Cheers."
+,cyber_wizjas,2012-04-06T08:34Z,"Hi 
+
+Everything works fine but when i try to open a database that was created on filemaker 5.5 (no password) it converts it but when opening it prompts me for a user name (default user is syko_dutch) and password. 
+
+Please help with this 
+
+Thanks"
+,sskystorm,2012-04-08T17:14Z,"Hi, syko_dutch, Please, tell me where license information is saved in your solution? I need to create several instances of Portable Filemaker on one computer for every RDP user. I have several license keys. I'll make copies of Your great portable solution and substitute license information so it can run simultaneous."

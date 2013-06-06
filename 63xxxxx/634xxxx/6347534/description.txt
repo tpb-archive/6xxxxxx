@@ -1,0 +1,10 @@
+These are the official Motorola stock IMG files for the Xoom.  They can be useful if you want to return your Xoom to out-of-the-box factory stock.  First you must be set up to send ADB commands to your device.
+
+ADB Commands to return you WiFi Motorola Xoom to stock:
+
+fastboot flash boot boot.img
+fastboot flash system system.img
+fastboot flash recovery recovery.img
+fastboot flash userdata userdata.img
+fastboot erase cache
+fastboot oem lock

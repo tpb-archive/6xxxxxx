@@ -1,0 +1,161 @@
+User Type,Username,Date,Text
+,thevoid100,2011-04-17T12:47Z,Is this the v 106917 version ? 
+,thevoid100,2011-04-17T21:35Z,"coop doesnt work when in lan , help any1?"
+,Andvariedfire,2011-04-17T23:12Z,"Installed but get stream error. ""Application load error 5:0000065434""
+
+I got the other torrent but multiplayer is disabled in it, I wonder if this one's is too."
+,Krixus,2011-04-18T00:46Z,"Thank you for upload. Works perfectly on Win7 x64.
+Game is version 1.0.6917.
+Multiplayer is disabled via Steam ( for obvious reasons ) but it looks like TCP/IP multiplayer is functional although i haven't tested. Game uses unreal engine so many diffrent tweaks in the BaseEngine.ini inside the config folder. Very fun and challenging even on normal mode. Thanks again.
+*Scanned with many virus scanners/Virustotal, all is clean.*"
+,Andvariedfire,2011-04-18T03:48Z,Steam disabled yeah. Anyone have a positive answer on whether or not tcp/ip works or not?
+,DaemonFang,2011-04-18T06:11Z,"When I try to launch the game an error pops up saying, ""This application has failed to start because D3DCOMPILER_43.dll was not found. Re-installing the application may fix this problem."" I've re-installed and cracked it and that didnt help.. Please help"
+,Robertman20,2011-04-18T06:48Z,"@ Daemonfang
+
+Search for the DLL on internet an put it in the system 32 folder unless stated otherwise."
+,MalFusiOn,2011-04-18T07:18Z,i dont think tcp/ip works because would need a host to join.. and game crashes when you try to host.... unless its just me???
+,Rodrifg,2011-04-18T09:40Z,"How come my game seems to be stuck on goin right slightly diagonally...? and while in settings it sets everything to the right... and it's not a keyboard or mouse problem cuz they work fine on the rest of the computer and games.
+any help appreciated thx"
+,Krixus,2011-04-18T11:00Z,"@rodrifg
+Have you tried unplugging any controllers that are plugged into your PC?"
+,Rodrifg,2011-04-18T12:10Z,"wow thx a lot man! I've had this problem for quite some time now, and to think the solution was simply unplugging the gamepad. seriously thanks mate"
+,RasmuSHoW,2011-04-18T17:29Z,"A lot of dlls were missing, so i downloaded them, (google) and then the game worked. 
+
+I get no sound though. 
+( one of the dlls were named something with sound, so that is probably why, even though i've downloaded it ) 
+
+If anyone got a fic for the sound, i'd be grateful."
+,RasmuSHoW,2011-04-18T18:02Z,"You with dll / sound problems. 
+
+go update your direct X before downloading single dll's: 
+http://www.microsoft.com/downloads/en/details.aspx?displaylang=en&FamilyID=2da43d38-db71-4c1b-bc6a-9b6652cd92a3 
+
+My sound works now. "
+,Andvariedfire,2011-04-18T19:27Z,"If you have problems with .DLL's missing, go to the sanctum folder, in the install folder, and run the DIRECTX setup file.
+
+You may already have the updated version but this install fixes the missing ones for this game.
+
+Worked on two different computers for me.
+
+
+Any news on the tcp/ip yet? Anyone try it?"
+,DaemonFang,2011-04-19T01:47Z,"@Andvariedfire I updated directx and I dont think anything is missing, but it just stops working when I try to launch it. Thanks for the help anyway."
+,Krixus,2011-04-19T02:29Z,"@Daemonfang
+
+Go to your Sanctum install folder. Go to Sanctum/Install/Direct X folder
+
+Run the DirectX setup in there.
+
+If that doesnt work, then go back to the DirectX folder. Open with winrar or winzip the Jun2010_D3DCompiler_43_x86.cab or if your 64bit then open Jun2010_D3DCompiler_43_x64.cab
+
+Unzip the D3DCompiler_43.dll file to your C:windows/system32 folder and C:windows/sysWoW64 folder ( if you have one )
+
+See if either of those work."
+,Andvariedfire,2011-04-19T02:39Z,"@DaemonFang
+
+Seemed to work for me when i had that issue, but i guess every computer seems to be different.
+
+I've been playing this, its alot of fun, i hope you get it to work soon.
+But yeah, as he said, if running the install/update doesnt fix it, use the zipped file maybe. Hopefully it'll fix it"
+,wizard2121,2011-04-19T05:31Z,"so i copied crached content over into top directory,  not the one titled sanctum game. There were a few missing dlls that the directx update didnt grab so I got those, but after I added the last one I keep getting this error 
+
+ShippingPC-SanctumGame.Exe Entry Point Not Found
+
+The procedure entry point
+?c_str (a bunch more gibberish like that) could not be located in the dynamic link library stlport.5.1.dll.
+
+That dll file is the last one I downloaded and its in the game directory like all the others that were missing. Any idea wtf this means?"
+,Andvariedfire,2011-04-19T06:09Z,"It's not the .dll made for that game in particular, so its missing code in it Sanctum needs to run.
+
+Check the install directory and everything for some zip for that file in particular.
+
+Maybe do a general directx update to the newest THEN run that one with sanctum afterward?"
+,Krixus,2011-04-19T06:48Z,"These sound like problems not related to sanctum. These errors shouldn't occur if you have the latest direct x drivers, windows updates, and graphics drivers installed. If you want help your gonna need to post your system specs such as CPU / Video Card etc..."
+,nighthawk21,2011-04-19T16:01Z,"If you copy ONLY the cracked .exe file, you will be able to play Multiplayer through TCP/IP across LAN. 
+
+Your name will just be ""Player"" ."
+,chaosomg,2011-04-20T00:27Z,"Multiplayer doesn't work, i have the same problem as MalFusiOn. the game just crashes when you go to Host. anyone got a fix?"
+,chaosomg,2011-04-20T00:35Z,Okay i found a fix. If you just copy over the .exe from the crack folder you can host fine to play TCP/IP games.
+,Programko,2011-04-20T08:05Z,"TCP/IP works over Internet, tested with my friend, just do like ""nighthawk21"" said."
+,chaosomg,2011-04-20T09:53Z,wow thats awkward. didn't see nighthawk21's comment. sorry.
+,Andvariedfire,2011-04-20T15:04Z,"So after installing, if you copy over the cracked .exe it should work fine?"
+,Trunammer,2011-04-20T21:38Z,"HOST FIX
+
+Here's what I did. In the cracked folder there should be two files. One is the cracked exe and the other is the steam dll. All I did was copy the cracked exe and NOT the steam dll. The game and hosting a game works and everything's perfect.
+When I copied the steam dll over that's when hosting crashes. So just copy the exe and not the dll file from the crack folder and you should be good."
+,bopoink,2011-04-22T02:32Z,"I am new to torrenting to excuse me if this is a stupid question, but i am confused by the fact that there are about 18 files that contain isos, and they wont mount properly. I am not sure what to do, altho this is probably a simple thing that i have misunderstood. "
+,zuljin1990,2011-04-26T03:00Z,single player ?
+,ninjablade20,2011-04-26T03:14Z,"@bopoink
+
+unrar it first before mounting it
+
+"
+,Cattiv0,2011-04-27T09:42Z,"""The program can't start because wxmsw28u_core_vc_custom.dll is missing from your computer. Try reinstalling the program to fix the problem.""
+
+Reinstalling didn't help. Anyone know how to fix this?"
+,kidrox,2011-05-01T18:30Z,tnxx for the upload works great on my pc
+,tim1136,2011-05-09T18:06Z,"''4. Copy over the cracked content.''
+I can't find any cracked conent? Wich files are it?
+I keep getting ""Application load error 5:0000065434""."
+,SdwysWzrd,2011-05-12T23:46Z,"lol wtf i cant find the ""cracked content"" either. any help?"
+,SdwysWzrd,2011-05-12T23:48Z,nvm. i looked everywhere but i forgot to look in the iso itself.
+,TBagX,2011-05-25T14:02Z,"thanks man, i love this game :D its worth downloading"
+,gabouu,2011-05-28T17:53Z,"I downloaded the game and installed it using setup but when i click it to play it says "" Application load error 6:0000065432"" what do i do PLEASE HELP :'("
+,kamelot88,2011-06-22T20:51Z,"if i copy only the .exe the host works but just for me, nobody can connect, if i copy all the files in the crack folder the game crashes in multiplayer (single player works), no server is showing up and i cannot connect through tcp/ip, i tried everything (tunggle, hamachi...) any suggestions?"
+,saliko,2011-07-07T23:56Z,"this game is like 4 dollars on steam,, buy it instead xD"
+,Doompy,2011-07-12T17:06Z,"----------Cracked Content Location----------
+
+After mounting the image click
+
+Start>Computer 
+
+right click on sanctum>open and there's the cracked folder. Copy the content to the following directory
+
+Sanctum\Binaries\Win32"
+,Pondake,2011-07-21T12:19Z,"I am sorry, but am I the only one that can tell that this thing haz a virus?
+When installing the game I get a warning
+""Probably Unkwon crypt.win32 virus""
+"
+,AmeNoKarasu,2011-07-30T21:35Z,"You sir got a false positive.
+
+Many anti-virus programm flag keygen/cracks as virus. Most of them notice it's a keygen/crack and  give a false positive on purpose."
+,AmeNoKarasu,2011-07-30T21:40Z,"I forgot to mention....really good torrent....worked perfectly fine here......it's just that it's a quite short game.
+
+Many thanks to the uploader and seeders."
+,TF9,2011-08-05T19:11Z,"HELLO LAN/Tunggle working >>
+WITH  all current 5 ! levels !
+
+1. Install a non-steam version of the game.(reloaded is ok)
+2. Install the update+fix on: 
+(http://tunngrus.ru/forum/viewtopic.php?f=64&t=996 )
+3. Install and launch Steam (you don't need smart or greenluma).
+4. Launch the game via ""\Sanctum\Binaries\Win32\ShippingPC-SanctumGame.exe"".
+"
+,TF9,2011-08-05T19:13Z,"this really works just download the patch via:
+
+http://www.mirrorcreator.com/files/YWJEMALA/Sanctum_upd4_multifix.part1.rar_links
+http://www.mirrorcreator.com/files/1MQHPAYZ/Sanctum_upd4_multifix.part2.rar_links
+http://www.mirrorcreator.com/files/0PEHVGKC/Sanctum_upd4_multifix.part3.rar_links"
+,TF9,2011-08-05T19:27Z,"part 4
+http://www.mirrorcreator.com/files/07TCNDQN/Sanctum_upd4_multifix.part4.rar_links
+update 1.1.7730"
+,jordanske,2011-08-13T03:15Z,"Hey,
+
+i downloaded the update and copy it over the installation,
+but when i start the game with steam or without its says ""Sanctum has stopped working""
+without the update im able to launch the game
+
+hope someone can help me 
+thanks :D"
+,yugana,2011-10-01T22:43Z,when i download the torrent all i get is about 20 files that i cant use... am i missing a program or doing something wrong? help would be much appreciated...
+,Pionnenman,2011-10-11T13:45Z,"game works perfectly, no errors or whatsoever.
+but does anyone know how i can change my name? because now i'm called reloaded."
+,DenLame,2011-10-14T23:10Z,"Ah, finally I got multiplayer to work, by going to that russian site and download Sanctum_upd4_fix2_part1.rar. (Host has to start game, then wait for the others to join.)
+
+Re: changing your name, I think Sanctum uses your Steam ID, so go to Settings in Steam, you can change your name there."
+,Green.Lantern,2012-01-20T07:30Z,anyone gotten the DLC to work?
+,DasGaming,2012-04-23T11:36Z,"""The program can't start because wxmsw28u_core_vc_custom.dll is missing from your computer. Try reinstalling the program to fix the problem.""
+
+Does anyone know how to fix this? 
+Pissing me off."
+,piinchan,2012-06-16T10:57Z,DasGaming: you just google the .dll file thats missing and download it.

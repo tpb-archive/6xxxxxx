@@ -1,0 +1,51 @@
+Ceremony 2010 HDPPVRiP Xvid DAYN-DAYN DOT ORG
+
+Info:
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 614 MiB
+Duration                         : 1h 29mn
+Overall bit rate                 : 959 Kbps
+Writing application              : Lavf52.39.1
+
+Video
+ID                               : 0
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Baseline@L5.1
+Format settings, CABAC           : No
+Format settings, ReFrames        : 1 frame
+Format settings, GOP             : M=1, N=12
+Codec ID                         : H264
+Duration                         : 1h 29mn
+Bit rate                         : 850 Kbps
+Width                            : 640 pixels
+Height                           : 272 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.204
+Stream size                      : 565 MiB (92%)
+Writing library                  : x264 core 57
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 1h 29mn
+Bit rate mode                    : Constant
+Bit rate                         : 64.0 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 41.0 MiB (7%)
+Alignment                        : Aligned on interleaves
+Interleave, duration             : 24 ms (0.58 video frame)
+Interleave, preload duration     : 24 ms

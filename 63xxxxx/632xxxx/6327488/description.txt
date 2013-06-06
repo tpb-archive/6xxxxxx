@@ -1,0 +1,42 @@
+
+Minecraft Portable
+
+Welcome to my Portable Release of Minecraft
+I've tried to make it as simple as possible:
+
+File List:
+=======================================
+minecraft.exe       ---  The Regular Minecraft executable. If you launch this,
+                         It starts Minecraft in Local Version
+mineCraftNOPAY.exe  ---  Same as above, but if you do not want to pay for the
+                         Game. You can't join all Servers with this.
+launcher.exe        ---  launches Minecraft in a portable Version
+makePortable.exe    ---  Copies an existing Local Profile to the Portable Storage
+ToLocal.exe         ---  Copies a Portable profile back to the Lacal Storage
+CHOICE.COM          ---  Yes-no-Cancel Thing, DO NOT DELETE
+Readme.txt          ---  problem?
+.minecraft          ---  The Portable Storage
+=======================================
+
+launcher.exe asks you which minecraft Version you want to launch.
+
+the "makePortable" is not required to launch Minecraft portable, it just allows
+you to copy your local profile to the Portable one, allowing you to carry all
+your already built Worlds with you.
+
+the "ToLocal" it the opposite from the makePortable, it allows you to copy a
+portable Profile back to the local Storage.
+
+I've included a small world I have built, (and a Map)
+it's a small Train level that you can use if you do not want to start from
+scratch. There is also a "Nether Express" in the World with some awesome
+Railway Tracks! The automated operated Railway Lines (those with two paralel
+Tracks) sometimes can get stuck if you leave or enter the Nether Express at
+the wrong time but this can be fixed by manually move the Trains to the
+Stations.
+
+I've also included The folowing Mods:
+-> Single Player Command
+-> Pistons (Block ID for /give Command: 100)
+Please Note: The Mods are lost if an Update is automatically downloaded
+and you need to reintegrate the Mods, just read in the Minecraft Forums

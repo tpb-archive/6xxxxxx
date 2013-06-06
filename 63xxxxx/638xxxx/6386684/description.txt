@@ -1,0 +1,49 @@
+Format                           : Matroska
+File size                        : 5.22 GiB
+Duration                         : 2h 58mn
+
+Video
+Format profile                   : High@L5.0
+Format settings, ReFrames        : 6 frames
+Nominal bit rate                 : 4 000 Kbps
+Width                            : 1 920 pixels
+Height                           : 816 pixels
+Display aspect ratio             : 1920 x 816 (2.35:1)
+Frame rate                       : 23.976 fps
+Title                            : The Longest Day (1962) 1080p [mkvonly]
+Writing library                  : x264 core 88
+Encoding settings: cabac=1 / ref=6 / deblock=1:-1:-1 / subme=9 / psy=1 /  me_range=64 / chroma_me=1 / trellis=2 / 8x8dct=1 / bframes=8 / b_pyramid=2 / b_adapt=2 / rc=2pass / mbtree=1 / bitrate=4000
+
+
+Audio muxed in English AAC 224 KB/s
+ (Decoded/encoded with Sonic/Nero 2 pass, LFE mixed in)
+
+Separate Audio tracks:
+
+English          DTS 768 KB/s, 962 MB
+Commentary 1 ( Mary Corey ) AAC 128, 160 MB
+Commentary 2 ( Ken Annakin ) AAC 128, 160 MB
+Czech         AC3 224 KB/s  285 MB
+French       DTS 768 KB/s, 962 MB
+Hungarian   AC3 224 KB/s  285 MB
+Italian         DTS 768 KB/s, 962 MB
+Spanish      DTS 768 KB/s, 962 MB
+
+Use MPC (  http://cccp-project.net/  ) to automatically recognize & play
+the external Audio tracks or mux the Audio in MKV with  mkvmerge 
+(  http://www.videohelp.com/tools/MKVtoolnix  ) if you wish to use other player.
+
+Subtitles (*=have forced too):
+*English, Arabic, Bulgarian, Croatian, Czech, Danish, Dutch, Finnish, *French, German, Greek, Hebrew, *Hungarian, Icelandic, *Italian + Commentary, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovenian, *Spanish + Commentary, Swedish, Turkish, Vietnamese
+
+Arabic (VobSub), Hebrew (Vobsub), Italian & Spanish Commentaries are all in the rar file.
+(One shouldn't mux more then 30 subs in mkv!)
+ 
+http://www.bilderkiste.org/show/original/2130520866155/1.jpg
+
+ 
+http://www.bilderkiste.org/show/original/5130520868427/2.jpg
+
+ 
+http://www.bilderkiste.org/show/original/4130520870388/3.jpg
+

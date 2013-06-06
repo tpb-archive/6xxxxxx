@@ -1,0 +1,41 @@
+[CODE]Format                           : Matroska
+File size                        : 347 MiB
+Duration                         : 2h 36mn
+Overall bit rate                 : 310 Kbps
+Encoded date                     : UTC 2011-04-10 05:08:09
+Writing application              : mkvmerge v4.6.0 ('Still Crazy After All These Years') built on Mar 10 2011 02:50:32
+Writing library                  : libebml v1.2.0 + libmatroska v1.1.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L2.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 36mn
+Nominal bit rate                 : 276 Kbps
+Width                            : 608 pixels
+Height                           : 272 pixels
+Display aspect ratio             : 2.25:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.070
+Writing library                  : x264 core 114 r1913 5fd3dce
+Language                         : English
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : A_AAC
+Duration                         : 2h 36mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy[/CODE]

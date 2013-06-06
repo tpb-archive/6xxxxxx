@@ -1,0 +1,28 @@
+Description:
+
+D_Skywalk's IrisManager is another backup manager for PS3; IrisManager is based off Hermes
+Manager with added goodies.
+
+v1.2 CHANGELOG
+
+Game Opt - Support for external EBOOTS activated (dev_usb/ps3game/BLESxxxxx.BIN)
+Game Opt - Removed Perms option (We dont need this on 3.55)
+Game Opt - New option to mark BDVD required games.
+Interface - Support for left analog stick (thx Drizztz)
+Interface - Support for change page with L1/R1 (suggest by orma)
+Interface - Minor font and color changes.
+Cache Files - Added info of space saved before init the copy.
+Minor bugs fixed from last 1.1
+PKG - IrisManager PKG for Geohot/Wutangrza CFW (thx Drizztz)
+Drizztz joined as collaborator.
+
+v1.1 CHANGELOG
+
+Added Support for more Big Files (ported from hmanager 1.5)
+Added Support for game instalation (GAMEI) on USB (ported from hmanager 1.5) Not
+working with installation game up to 4gb (usb-fat32)
+
+Added a "no music" option
+New interface (thx deadroach for help and the mockup)
+New icons (thx Drizztz)
+New font: comfortaa

@@ -1,0 +1,42 @@
+User Type,Username,Date,Text
+,pourable,2011-04-18T06:05Z,Shows no seeders at all 0 (41) 36 (1199) don't get that. 
+,Fox__Trot,2011-04-18T06:25Z,"I'm not sure if you're being literal or not but...
+
+0 (41) 36 (1199) would mean you are connected to 0 seeds but there are 41 total in the swarm... 36 would be the number of peers you're connected to with a total of 1199 other peers in the swarm. "
+,pourable,2011-04-18T06:51Z,"That's what I mean, I'm connected to 0 seeds with 41 in the swarm. Usually I'm connected to at least some seeds."
+,honeybunny28,2011-04-18T08:15Z,subs on addic7ed
+,Akaforty163,2011-04-18T10:15Z,"File is corrupted, doesn't work."
+,phattsao,2011-04-18T14:36Z,"File works great.  Excellent quality.  Why idiots like ""akaforty163"" insist on blaming the file for their lack of computer knowledge is beyond me.  "
+,dazmoz66,2011-04-19T00:19Z,just watched it all way through and perfect all the way through.Looks like it is gonna be a really good interpretation of the books.Hope they eventually do all the books and the series doesnt fizzle out although at the rate the writer is releasing the books they will run out of books to adapt lol
+,liquorsik,2011-05-07T18:04Z,maybe im being a complete tard here but im not seeing the file type is it xvid .avi or what thanks for the help and appologize for the inconvenience
+,anonim1979,2011-09-26T20:59Z,"It is corrupted - only by blessing that most sofware players are bad-idiot-coding-proof helps to masks problems.
+.
+Bad Sound? Episode 1 and 5 not playing?
+That is because:
+!!!
+This FIRST and FIFTH episode from CTU have
+F@CKED SOUND.
+!!!
+They has stereo dolby digital with 5.1 dolby digital header. (check with MPC and media info and compare to other eps)
+Many problems with decoders in TVs players software that presume that coders aren't idiots and/or n00bs.
+Use ""Avidemux2"" and copy video, reencode audio to stereo 384kbit AC3(aften), and output set to MKV. Save as ""ep01firststep.mkv"". 3 minutes and done.
+Unfortunately avidemux generates unseekable .mkv's
+You need to demux it using ""MKVextractGUI-2""
+and then mux 2 generated files back using ""MKV Merge"".
+Have fun.
+
+---
+Someone do this and put FIXED/PROPER ep. "
+,anonim1979,2011-09-26T23:43Z,"Better and tested method, above can cut audio chanels:
+1.
+Demux using ""MKVextractGUI-2"".
+You will get .h264 and .ac3 file
+2.
+Using ""MeGui"" open .ac3 file
+Set AftenAC3 and click Config to set ""DirectShow"" as ""Preffered Decoder"".
+OK,Queue, and in queue tab Start.
+You will get  fixed ""...._new.ac3"" file
+3.
+Mux .h264 and new.ac3 using ""MKV Merge"".
+Set fps to 2400/1001 for 23.976fps framerate.
+Done."

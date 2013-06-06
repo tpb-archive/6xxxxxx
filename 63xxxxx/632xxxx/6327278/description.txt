@@ -1,0 +1,14 @@
+Though there is no sure way of protecting your video's online you can make it harder for the "Average Joe" to get your video.
+
+Vurl-e is a PHP script that helps protect your online video on your website by encoding the URL and not showing the true URL. The True URL is stored in a MySQL DB and translated by the script to display your video.
+
+Requirements:
+
+- PHP 5.x
+- MySQL
+
+The script is a rough copy and still needs work but works out of the box and be be added to any website with little effort..
+
+For more information visit:
+
+http;//www.myistermedia.com

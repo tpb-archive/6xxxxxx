@@ -1,0 +1,57 @@
+
+
+Download this
+
+Credits TO yuri.vargas24@yahoo.com FB and YM
+
+
+MS Windows 7 All-In-One OEM:SLP (32-bit & 64-bit) Activation for Non-SLIC 2.1 BIOS.
+1. Boot your PC from the DVD installation disc to start the installation.
+2. When asked to enter a product key, you have an option to either enter it (see Product Key list file) or to just leave it blank. It doesn't matter.
+3. After the installation copy the Crack folder on your Desktop then run the included "Windows 7 Loader.exe" as Administrator.  Please see the following illustration:
+     
+4. Select "Use the default loader" and press the "Install" button to start the activation process. Please note that during this process the activator will install the loader, certificate and product key for your installed edition of Windows (the loader detects which edition of Windows is installed).
+5. Wait for the activation process to finish. When it's done you should see the following message:
+     
+6. After restart, go to System properties window to confirm if your Windows is activated.
+7. Done! You can now delete the Crack folder on your Desktop.
+>:-) you know who!
+================================================================================
+MS Windows 7 All-In-One OEM:SLP (32-bit & 64-bit) Activation for Factory Installed SLIC 2.1 and SLIC 2.1 Flashed Modded BIOS.
+1. Boot your PC from the DVD installation disc to start the installation.
+2. When asked to enter a product key, you have an option to either enter it (see Product Key list file) or to just leave it blank. It doesn't matter.
+3. After the installation copy the Crack folder on your Desktop then run the included "Windows 7 Loader.exe" as Administrator and click the "Advanced options" check box. Please see the following illustration:
+     
+4. Under the 'SLIC" drop-down list, select which SLIC installed on your system BIOS. Also select the corresponding certificate from the "Cerficate" drop-down list. Finally, select your preferred product key from the "Serial" drop-down list. Press the "Install certificate and serial" button to start the activation process. Please note that only the certificate and product key will be installed in this process.
+    NOTE: This version of Windows 7 loader has the capability to automatically detect which SLIC is  installed on your system BIOS and will also automatically select the right certificate for you. You don't really have to manually select the SLIC and the corresponding certificate this time.
+5. Wait for the activation process to finish. When it's done you should see the following message:
+      
+6. Go to System properties window to confirm if your Windows is already activated.
+7. Done! You can now delete the Crack folder on your Desktop.
+>:-) you know who!
+================================================================================
+FAQs
+1. What if my PC is unable to boot back into Windows 7 after installing the loader?
+    a. Boot your PC from the Windows 7 DVD installation disc.
+    b. Select the "Repair your computer" option.
+    c.  Select to open a Command Prompt window and type the following command:
+          bootsect.exe /nt60 c:   <press Enter>
+    d. If the above doesn't work try the following command: 
+         bootsect.exe /nt60 all   <press Enter>
+2. How to uninstall the loader?
+-   Run the "Windows 7 Loader.exe"  file as Administrator then press the "Uninstall" button.
+3. How to change the installed product key?
+        a. Run the "Command Prompt" as Administrator and type the following:
+             slmgr -ipk <product key>                   (please see the Product key list file)
+             EXAMPLE:  slmgr -ipk 32KD2-K9CTF-M3DJT-4J3WC-733WD   <press Enter>
+      b. You should see the following message:
+            "Installed product key 32KD2-K9CTF-M3DJT-4J3WC-733WD successfully"
+4. Do I need to change the installed certificate after I changed the product key?
+-   No. You don't need to change the installed certificate. If you do, your Windows will be deactivated.
+     NOTE: The product keys are NOT brand specific but are Windows edition specific.
+5. What editions of Windows 7 included in this package that can be activated?
+-    All editions of Windows 7 included in this package can now be activated (both 32-bit and 64-bit) . Windows 7 Product key list has now been updated.
+    NOTE: This loader can also activate all editions of Windows Vista and Windows Server 2008 Standard and Enterprise editions including Small Business Server.
+================================================================================
+
+Credits TO yuri.vargas24@yahoo.com FB and YM

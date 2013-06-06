@@ -1,0 +1,53 @@
+General
+ID                               : 1 (0x1)
+Complete name                    : E:\Iron Maiden - The Reincarnation of Benjamin Breeg {1080i-HDTV-DD2.0}.ts
+Format                           : MPEG-TS
+File size                        : 430 MiB
+Duration                         : 5mn 25s
+Overall bit rate                 : 11.1 Mbps
+
+Video
+ID                               : 1170 (0x492)
+Menu ID                          : 1 (0x1)
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=1, N=40
+Codec ID                         : 27
+Duration                         : 5mn 25s
+Bit rate                         : 10.1 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Interlaced
+Scan order                       : Top Field First
+Bits/(Pixel*Frame)               : 0.196
+Stream size                      : 393 MiB (92%)
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 3162 (0xC5A)
+Menu ID                          : 1 (0x1)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 6
+Duration                         : 5mn 24s
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : -40ms
+Stream size                      : 14.9 MiB (3%)
+Language                         : English

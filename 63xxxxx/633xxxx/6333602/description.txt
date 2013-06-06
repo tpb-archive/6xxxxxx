@@ -1,0 +1,18 @@
+Description:
+jjolano's open source FTP server for the PS3. See the README for the default user/pass and other
+info.
+
+v2.1.1 CHANGELOG
+
+More optimizations (improved response times)
+Reverted LIST format to support old clients
+Squished some bugs
+
+v2.1 CHANGELOG
+
+Code optimizations
+Some caching improvements (better response time)
+File transfer code rewritten
+More RFC compliance
+Added more FTP commands
+Changed LIST output format to EPLF

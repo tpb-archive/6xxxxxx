@@ -1,0 +1,31 @@
+The AdobeÂ® AIRÂ® Extension for DreamweaverÂ® lets you transform a web-based application into a desktop application. Users can then run the application on their desktops and, in some cases, without an Internet connection.
+
+You can use the extension with Dreamweaver CS3 and later. It is not compatible with Dreamweaver 8. 
+Note:  Adobe AIR does not support Adobe InContext Editing. If you use the AIR Extension for Dreamweaver to export an application that contains InContext Editing regions, the InContext Editing functionality will not work.
+Installing the AIR Extension for Dreamweaver
+
+The AIR Extension for Dreamweaver helps you to create rich Internet applications for the desktop. For example, you might have a set of web pages that interact with each other to display XML data. You can use the Adobe AIR Extension for Dreamweaver to package this set of pages into a small application that can be installed on a userâ€™s computer. When the user runs the application from their desktop, the application loads and displays the website in its own application window, independent of a browser. The user can then browse the website locally on their computer without an Internet connection.
+
+Dynamic pages such as AdobeÂ® ColdFusionÂ® and PHP pages wonâ€™t run in Adobe AIR. The runtime only works with HTML and JavaScript. However, you can use JavaScript in your pages to call any web service exposed on the Internetâ€”including ColdFusion- or PHP-generated servicesâ€”with Ajax methods such as XMLHTTPRequest or Adobe AIR-specific APIs.
+System requirements
+
+To use the Adobe AIR Extension for Dreamweaver, the following software must be installed and properly configured:
+
+Dreamweaver CS3 or later
+
+AdobeÂ® Extension Manager CS3 or later
+
+Java JRE 1.4 or later (necessary for creating the Adobe AIR file). The Java JRE is available at http://java.sun.com/.
+
+The preceding requirements are only for creating and previewing Adobe AIR applications in Dreamweaver. To install and run an Adobe AIR application on the desktop, you must also install Adobe AIR on your computer. To download the runtime, see www.adobe.com/go/air.
+Install the Adobe AIR Extension for Dreamweaver
+
+Download the Adobe AIR Extension for Dreamweaver here: http://www.adobe.com/products/air/tools/ajax/.
+
+Double-click the .mxp extension file in Windows Explorer (Windows) or in the Finder (Macintosh).
+
+Follow the onscreen instructions to install the extension.
+
+After youâ€™re finished, restart Dreamweaver.
+
+For information about using the Adobe AIR Extension for Dreamweaver, see Using the AIR Extension for Dreamweaver.

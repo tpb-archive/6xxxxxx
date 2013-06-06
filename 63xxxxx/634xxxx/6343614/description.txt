@@ -1,0 +1,19 @@
+poclbm-mod/04.20.2011 rev3-
+
+    No longer crashes after 11000 submitted shares.
+    No longer crashes if server goes down for a short time (i.e. the endless string of long polls).
+    Invalid/Stale is now a counter, and not a percentage.
+    Reduced the rate at which invalid shares occur from overlapped work.
+    Windows binaries are packed to cut number of required files down to 4.
+    Fixed some long polling issues regarding Invalid/Stale submissions.
+    Other minor changes and code updates.
+    Miner maintained an average of 94% EFF, 3 I/S and 30 EMP after 100 submitted shares in 5/5 tests on both HD 6970 and HD 5770.
+    Revision 1: High CPU usage issue resolved.
+    Revision 2: Resolved issue with traceback error from float division after long disconnect.
+    Revision 3: Fixed issue with 'hardware verification failed!' causing miner to close when hash == target.
+
+
+As always, our development and testing environment is hardly a perfect reflection of what will occur in widespread use, so please report any and all bugs to us as soon as possible so we can get them resolved.
+
+Download here: http://www.bitcoinpool.com/file.php?id=9
+MD5: db8e38632e4b792faeb95d334ee283bb

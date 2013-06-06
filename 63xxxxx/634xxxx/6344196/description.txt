@@ -1,0 +1,659 @@
+This is 36 disks in 1. It will fit on a single DVD due to packing with a special app. Duplicate files are written only once so it will all fit easily. If you need a genuine key, you will need to buy it from Micro$oft.
+
+This is the work of many dedicated souls. The one who put their work all together in this form is called SATHANAS.  
+
+Changes since last release:
+1) Updated Windows Updates and program addons
+
+
+If you are installing Media Center or Tablet editions and plan to enter a key and activate later, you must enter a key for that version to get it to install at all. If not, you'll end up installing XP Pro. So these keys will work for you to get MCE and Tablet to install, but will not activate:
+MCE) DTQ4X-9BFVC-G3T32-TQFR3-MF6DB
+TAB) XT67V-GY7FW-GR6FR-WDK2C-8T97J
+
+If you try using the above keys for Pro or Home and then comment here about how they don't work like some of the other downloaders have already, I promise to ridicule you for being an idiot.
+
+IF ANY BUILD SEEMS TO FREEZE AT 23 MINUTES OR AT FIRST LOGON, PLEASE BE PATIENT AS THAT IS COMPLETELY NORMAL. AT 23 MINUTES, THE MS UPDATES ARE BEING INSTALLED. AT FIRST LOGON THE DRIVERS ARE INSTALLED.
+
+This disk contains the following menus:
+[img]http://img573.imageshack.us/img573/5205/s6303160.jpg[/img]
+[img]http://img201.imageshack.us/img201/1086/s6303161.jpg[/img]
+[img]http://img341.imageshack.us/img341/2659/s6303162.jpg[/img]
+[img]http://img831.imageshack.us/img831/8115/s6303163.jpg[/img]
+[img]http://img87.imageshack.us/img87/9800/s6303164.jpg[/img]
+Okay, here is the answer to the inevitable question, "What is the difference between these?"
+
+First of all, only use Home with the intent of remaining legally licensed in the event you have a Home COA. If you have no license or just don't care, Pro is always better.
+
+Use MCE if you have a PC with a TV tuner card and you want to record live TV, etc. Or again, if you have an MCE license.
+
+Use Tablet with tablets, duh.
+
+You must use the right channel build to ensure it will accept your license key. The 3 channel builds are OEM, retail and corporate.
+
+OEM means Original Equipment Manufacturer. If your PC is Dell, HP, IBM, Sony, eg. any brand name system, the license will be OEM. OEM licenses are often purchased by system builders for custom built systems also. If your license is OEM, it should say so on the certificate of authenticity sticker on your PC case. Any OEM key found on a COA sticker can be used to activate an OEM channel build unless that key has been used to activate Windows a maximum number of times. If an OEM key is active on multiple systems, Microsoft can see that and may blacklist the key causing WGA to go off and Windows Updates to be blocked.
+
+Retail is the channel build sold in retail stores. Only retail keys will activate retail builds.
+
+Corporate is a channel build that uses a volume license intended for use in large corporations that require hundreds of PCs to be licensed. They use a single key to activate them all, but the volume license has a maximum number of PCs it can be used on. Corporate channel builds are often used with leaked volume license keys found online to pirate Windows. Such keys are inevitably blacklisted, causing WGA to go off and Windows Updates to be blocked.
+
+Every single one of the 36 separate builds included on this disk contain Microsoft updates through April of 2011.
+
+OEM system locked preinstall activation is used on all the OEM Advanced builds here. The keys used for activation are SLP royalty keys. They will only work for the OEM brand they were intended for, and they will not ever work to activate any version of Windows after it is installed.
+A detailed list of supported OEM brands is listed at the bottom of this description.
+
+The Attended with updates builds are untouched with the exception of MS updates. They should be used for doing repair installs or accessing recovery console. They contain no driver packs, text mode driver support,OEM preactivation, added programs or tweaks of any kind. They are as pure as the driven snow.
+
+All Advanced builds contain the following automatically installed driver packs:
+
+Chipset 11.01
+CPU 10.05
+Graphics A 10.11
+Graphics B 10.11.1
+Graphics C 10.11
+LAN 11.01
+Mass Storage 11.01
+Sound A 10.09
+Sound B 10.09
+WLAN 11.01
+Graphics Languages 10.11.1
+PhysX 10.09
+Runtimes 10.08
+Modem 10.11
+TV 10.05
+Human Interface 10.08.1.2
+Misc. 10.11
+
+Drivers are installed only for the hardware on your system. Excess drivers are removed.
+
+All Advanced Standard and Ultra builds contain the following 3rd party applications preinstalled:
+
+Cabarc 1.00.0601 (03/20/1997)
+MakeCab (05/31/200
+Copy To/Move To Context Menu Shell Extension
+HashCheck Shell Extension 2.1.11.1 (Code65536)
+Microsoft Calculator Plus 1.0 (Replaces calc.exe)
+Microsoft HighMAT CD Writing Wizard (KB831240)
+Microsoft Makecab 6.0.6001.22192 (From Windows Installer 4.5 SDK, doesn't mess up file dates)
+Microsoft OpenType Font Properties Extension 2.30
+Microsoft Power Calculator PowerToy 1.0
+ModifyPE 0.81
+Microsoft TweakUI PowerToy 2.10
+Unlocker 1.9.0
+UPX 3.07w
+Sun Java Runtime 6.24
+CuteWriter 2.8.0.2
+Teracopy 2.12
+Adobe Reader 10.0.1
+DVDShrink 3.2.0.15
+IMGBurn 2.5.5
+K-Lite Mega Codec Pack 7.1.0
+7-zip 9.2
+Arcade Classics Pack 5.10
+BurnAware Free 3.2
+VLC 1.1.9
+XP Vista Pack
+Revo Uninstaller 1.91
+
+The following modifications are only found on Ultra builds:
+
+REMOVED COMPONENTS
+
+Accessibility Options
+Briefcase
+Wordpad
+Music samples
+Old CDPlayer and Sound Recorder
+MSN Explorer
+Windows Messenger
+Blaster/Nachi Removal Tool
+Search Assistant
+Tour
+Error Reporting
+Messenger
+
+UNATTENDED SETTINGS
+
+OEM preinstall enabled
+
+USERS
+Owner and Administrator active, Guest not active, no auto login
+
+OWNER AND NETWORK ID
+Computer Name set to OWNERPC
+
+Workgroup set to Workgroup
+
+REGIONAL
+Defaults set to English (US)
+
+Default screen resolution set to 1024x768
+IIS will not install
+Auto Updates disabled
+
+OPTIONS
+
+Windows File Protection disabled
+TCP/IP patched to 100 connections
+Enabled Unsigned Theme Support
+
+TWEAKS
+
+Autoexec.bat set to not parse
+Desktop icons, Show: My Computer, Recycle Bin, Internet Explorer, My Documents
+Set Windows Explorer to detail view
+Set Control Panel to Classic view
+Disabled Beep on Errors
+Disabled prefix â€œshortcut toâ€
+Disabled shortcut arrow
+Set to display contents of system folders
+Set to launch folder windows in a separate process
+Allowed to rename and delete Recycle Bin
+Set to restore previous folders at login
+Set to show drive letters in front of drive names
+Set to show file extensions
+Set to show hidden files and folders
+Set to show OS system files
+Set to show the full path in the address bar
+Added Command Prompt to folder context menu
+Disabled Outlook Express link creation
+Google URL search enabled
+Set to keep IE history for 0 days
+Homepage set to Google.com
+Set IE Cache limit to 20MB
+Set IE to accept 10 connections at a time
+Disabled auto search for network folders
+Disabled LM HOSTS lookup
+Disabled restoring mapped network drives on login
+Enabled remote desktop
+Disabled tracking of broken shortcut links
+Disabled WBEM logging
+Alexa removed
+Set to always show updates under software
+Screensaver disabled
+Screensaver password protection disabled
+Added Device Manager and Event Viewer to My Computer context menu
+Added My Network Places to My Computer
+Admin Tools added to Start Menu
+Recent Documents list set to clear at logoff
+Start Menu Documents List disabled and removed
+Disabled highlighting newly installed programs
+All Start Menu Folders set to display as menu
+Max number of Start Menu Programs set to 30
+Set start menu and submenu delay to 20ms
+Help and Support removed from Start Menu
+Disabled hiding of inactive taskbar icons
+Disabled Language Bar
+Taskbar locked
+Windows Media Player set to accept privacy statement
+Disabled auto add music to library
+Disabled starting with Media Guide
+Set to zoom video to window size
+
+SERVICES
+
+Fast User Switching set to auto
+Help and Support set to manual
+IMAPI set to auto
+Indexing disabled
+Logical Disk Manager set to manual
+Net Logon disabled
+NetMeeting Remote Desktop Sharing disabled
+Remote Registry disabled
+Smart Card disabled
+Terminal Services disabled
+
+Here are the MS updates included with all builds, except the MCE & Tablet updates listed last, which are only for MCE and Tablet.
+
+KB817688 - "Error on a Request to Write Data to Media" error message when you use Ntbackup.exe
+KB887606 - FIX: The Microsoft XML Parser (MSXML) uses cached credentials incorrectly
+KB889320 v2 - When you disable the Windows Firewall service on your Windows XP Service Pack 2-based computer, the Computer Browser service stops after five minutes and Event ID 7023 is logged in the Event Viewer
+KB897571 - FIX: A DCOM static TCP endpoint is ignored when you configure the endpoint for WMI on a Windows Server 2003-based computer
+KB898461 - Software update 898461 installs a permanent copy of the Package Installer for Windows version 6.1.22.4
+KB909520 v1 - Description of the software update for Base Smart Card Cryptographic Service Provider
+KB915800 v4 - A hotfix is available for Windows Desktop Search document IFilters in Windows XP and Windows Server 2003
+KB916157 v6 - When you receive a Stop error message or a fatal system error message, a user-mode process dump file is not created in Windows XP
+KB922120 v6 - Network Map in Windows Vista does not display computers that are running Windows XP
+KB932716 v2 - Description of the Image Mastering API v2.0 (IMAPIv2.0) update package that is dated June 26, 2007
+KB934401 - When you run the "Ipconfig /displaydns" command in Windows Server 2003, the results are incomplete
+KB940648 - Error message when you try to open the My Documents folder on a Windows XP-based computer after you resume the computer from hibernation: "You might not have permission to use this network resource"
+KB942288 v3 - Windows Installer 4.5 is available
+KB943232 v2 - An application that uses the Sxs.dll file crashes when you run the application on a Windows XP SP 2-based computer
+KB944043 v3 - Description of the Windows Server 2008 read-only domain controller compatibility pack for Windows Server 2003 clients and for Windows XP clients
+KB945060 v3 - There may be inconsistencies in the Extensible Metadata Platform (XMP) and Exchangeable Image File (EXIF) values for an image file in Windows Vista and in Windows XP
+KB945184 - The Rasdial API may free the same memory two times and the dial-up application stops responding on a multiprocessor computer that is running Windows Vista
+KB945436 - Error message when you try to uninstall or unload the driver for a multifunction USB device on a Windows XP-based computer: "STOP: 0x000000D1 DRIVER_IRQL_NOT_LESS_OR_EQUAL"
+KB946648 - MS08-050: Description of the update for Windows Messenger 4.7 for Windows XP: August 12, 2008
+KB947460 v3 - Error message when you try to open a mapped DFS folder after the computer comes out of standby in Windows XP Service Pack 2: ":\ is not accessible"
+KB948101 v3 - A USB keyboard does not work after you restart a Windows XP-based computer that has an NVIDIA 680i motherboard installed
+KB948277 - A blank desktop may appear when you log on to a Windows XP-based computer
+KB948720 - You cannot install device drivers in a Windows Server 2008 cluster environment if the drivers contain LZ-compressed files
+KB948877 v2 - After you copy multiple files from a computer that is running Windows XP to a PCMCIA SRAM card, one or more files on the card are corrupted
+KB949127 v2 - You cannot establish a wireless connection by using EAP authentication on a Windows XP-based client computer if the Service Set Identifier (SSID) includes a comma
+KB949900 - The RunOnce.exe process may stop responding during the driver installation process on a Windows XP-based computer
+KB950305 v2 - A Word document is not printed as expected after installing the Windows European Union Expansion Font pack
+KB950616 - An audio application that uses the Portcls.sys file may stop responding when you run the audio application on a computer that is running Windows XP
+KB950820 - The system stops responding during the logoff, shutdown, or restart process on a computer that is running Windows Server 2003 or Windows XP and that has the Japanese IME installed
+KB950974 - MS08-049: Vulnerability in Event System could allow remote code execution
+KB950982 - A list of ODBC system DSNs is truncated when the total number of characters that are used in all the DSN names is more than 7,500 on a Windows XP-based computer
+KB951159 - n/a
+KB951347 - A memory leak occurs when you use the IFaxIncomingMessageIterator interface to query incoming fax messages on a fax server that is running Windows Server 2003 or Windows XP
+KB951376 v2 - MS08-030: Vulnerability in Bluetooth stack could allow remote code execution
+KB951531 v2 - The W32Time service does not synchronize the CMOS clock time to the Internet time on a Windows XP or Windows Server 2003-based computer after the W32Time service stops
+KB951618 v2 - A black screen issue occurs on a Windows Vista-based computer or a Windows XP Service Pack 2-based computer that has Onekey Recovery 5.0 installed when you upgrade the operating system
+KB951624 - A 30-second delay occurs during the initialization of some network-based applications when Windows XP Service Pack 2 starts
+KB951709 - Event ID 26 when you attach two IDE ATA/ATAPI devices as master and subordinate IDE devices on a Windows XP-based computer
+KB951822 v2 - You receive an error message, the print operation fails, or partial pages are printed when you try to print to a Citizen printer or to an Alps printer in Windows XP Service Pack 3
+KB951978 - script output is not displayed as expected when you run VBscript or Jscript scripts in Windows Vista Service Pack 1, in Windows Server 2008, or in Windows XP Service Pack 3
+KB952004 - MS09-012: Description of the security update for MSDTC Transaction Facility: April 2009
+KB952117 v2 - When you try to put a Windows XP-based computer into hibernation or into standby, the computer stops responding
+KB952595 v3 - n/a
+KB952954 - MS08-046: Vulnerabilities in Microsoft Windows Image Color Management could allow remote code execution
+KB953028 - On a computer that is running Windows Server 2003 or Windows XP, an application experiences an access violation and then crashes if the computer has more than four cores or more than four logical processors
+KB953155 - MS08-062: Vulnerability in Windows Internet Printing service could allow remote code execution
+KB953761 - Some DHCP Options are not recognized on a Windows XP SP3-based client computer when the DHCP server offer includes option 43
+KB953930 - The Fc.exe command does not work correctly on a Windows XP-based computer when the two files that you are comparing have the TAB or SPACE character around the 128th byte in a string of characters
+KB954193 - Description of the Jet 4.0 Database Engine cumulative hotfix package for Windows XP SP2 and SP3, Windows Server 2003 SP1 and SP2, Windows Vista, Windows Vista SP1, and Windows Server 2008: July 2, 2008
+KB954232 - The On-Screen Keyboard behavior on a Windows XP-based computer does not mimic the physical keyboard behavior in certain scenarios
+KB954434 - A multiprocessor computer that is running a Windows XP, Windows Server 2003, or Windows Vista stops responding on a black screen after you resume the computer from hibernation
+KB954708 - An update to add support for the serialization of complex Extensible Metadata Platform (XMP) data types in the Windows Imaging Component
+KB954920 v2 - When an application requests a result set from new SQL Server 2008 collations, you may receive an "MSG 40242" or "MSG 40205" error when the ODBC driver for SQL Server is used or an "MSG 40234" error when the SQL OLE DB provider is used
+KB955109 - Error message when you run an application that uses the Application Desktop Toolbar (AppBar) component on a computer that is running Windows XP SP2 or Windows XP SP3: â€œ0xC0000005 (Access Violation)â€
+KB955356 - When you try to start a Windows XP SP3-based computer that is connected to an external IEEE 1394 hard disk, the system may stop responding before the logon screen appears
+KB955417 - Protected storage (PStore) uses a lower-quality cryptographic function when the system locale is set to French (France) on a Microsoft Windows-based computer
+KB955567 - Memory usage gradually increases in the AntigenInternet.exe process, and e-mail messages remain in the SMTP outgoing-mail queues in Antigen 9.0 for Exchange with Service Pack 1
+KB955576 - TAPI-based applications stop responding, and you cannot disconnect telephone calls on a Windows XP-based telephony server
+KB955704 - Description of the exFAT file system driver update package
+KB955759 - Microsoft Security Advisory: Description of the AppCompat update for Indeo codec: December 08, 2009
+KB955830 v2 - When you connect to a Windows XP-based computer by using a remote desktop connection, the computer may be not able to automatically enter the Sleep mode again after you log off the computer
+KB955988 - The Win32_Environment WMI class does not return the value of the PATH environment variable if the variable consists of more than 1,024 characters on a Windows XP-based computer
+KB956048 - An application that calls the Image Color Management (ICM) functions in the Icm32.dll module may crash on a Windows Server 2003-based computer
+KB956072 - Windows XP-based terminal server does not allow RDP connections whose encryption level is set to Low
+KB956572 - MS09-012: Description of the security update for Windows Service Isolation: April 2009
+KB956588 - The job-level PrintTicket is associated with the document-level PrintTicket and with the page-level PrintTicket when you print a document to an XPS driver on a Windows XP-based computer
+KB956625 - After you run Internet Explorer 7 for a long time on a computer that is running Windows XP or Windows Server 2003, Internet Explorer becomes unstable or crashes
+KB956844 - MS09-046: Vulnerability in the DHTML Editing Component ActiveX control could allow remote code execution
+KB957218 - A user name that contains Unicode characters is not handled correctly in Windows XP Service Pack 3 during the EAP authentication
+KB957495 - The action controls in Sound Recorder are missing or only partly visible if you set the font size to Large or to Extra Large in a non-English version of Windows XP
+KB957502 - Error message when you try to open some MMC 3.0 snap-ins in a localized version of Windows XP Service Pack 3: "MMC could not create the snap-in. The snap-in might not have been installed correctly."
+KB957931 - A Windows XP-based, Windows Vista-based, or Windows Server 2008-based computer does not respond to 802.1X authentication requests for 20 minutes after a failed authentication
+KB958071 - You receive error code 1206 when you run an application that uses the WLanSetProfile function on a Windows XP Service Pack 3-based compu
+KB958149 - Performance decreases when you stream isochronous data on a Windows-based computer that has a Texas Instruments (TI) IEEE 1394 host controller installed
+KB958244 - The system may stop responding when you restart a Windows XP-based multicore computer
+KB958910 - When you send a print job to an Internet Printer Protocol (IPP) print server from a Windows-based computer, the print job fails and never restarts
+KB959160 - When you run an application that uses the CryptEnumProviderTypes function application in Windows XP Service Pack 3, you receive the error message ERROR_MORE_DATA (0xea)
+KB959267 - After you repeatedly dock and undock a Windows XP-based portable computer that is connected to a docking station, you may be unable to change the state of an attached network device
+KB959334 - Text that has the font set to Arial Black and the font style set to bold may change so that the font is set to Arial Black and the font style is set to talic when you open the document on a computer that is running Windows XP
+KB959426 - MS09-015: Blended threat vulnerability in SearchPath could allow elevation of privilege
+KB959465 - Write protection does not always work on SD memory cards that are plugged into a computer that runs Windows XP, Windows Vista, or Windows Server 2008
+KB959554 - Only the header and footer information in an XPS document are printed when you print the document on a computer that is running Windows XP, Windows Vista SP1, or Windows Server 2008
+KB959682 - FIX: A Message Queuing 3.0 message is rejected on the receiver when you send the message by using an external certificate from a Windows XP Service Pack 3-based computer
+KB959765 - Remote NDIS (RNDIS) devices may not work correctly after you perform a surprise removal on a Windows XP-based computer and then attach the RNDIS device to the computer again
+KB959873 - You cannot send Start TLS requests from a computer that is running Windows Server 2003 or Windows XP Professional x64 Edition to a server that is running OpenLDAP Software
+KB960071 v2 - An access violation occurs when you use an application that calls the SQLExecDirect function of the SQL Server ODBC driver to run a long query in Windows Server 2003 or in Windows XP
+KB960519 - Windows Vista does not use all the bandwidth of a PPPoE connection when you download a file from an FTP server
+KB960655 - You encounter several problems on a Windows XP SP3-based computer when the EAP-TLS machine authentication fails during system startup
+KB960680 v2 - A hotfix is available to update the Slovak koruna currency symbol (Sk) to the Euro currency symbol (â‚¬) and to update the Turkish currency symbol from Yeni TÃ¼rk Lirasi (YTL) to TÃ¼rk Lirasi (TL)
+KB960859 - MS09-042: Vulnerability in Telnet could allow remote code execution
+KB960921 - If you start a Windows XP-based portable computer while it is running on battery power, the brightness of the LCD screen is not decreased as expected
+KB960970 - An IEEE 1394 network adapter that is installed on a Windows XP-based computer is not listed in Device Manager
+KB961067 - When you search some specific terms in the German version of Windows XP, the search results are incorrect
+KB961118 - Install this update to resolve an issue in which an Inbox Printer driver may be unsigned after you install the Microsoft .NET Framework 3.5 SP1
+KB961187 v2 - If you reconnect a removable storage device to a computer that is running Windows XP, the operating system cannot find the removable storage device
+KB961451 v2 - Internet Explorer may crash when you browse a Web page that constantly fetches a recordset asynchronously and filters the recordset
+KB961503 - You cannot input characters as expected by using a non-English Input Method Editor in Windows Live Messenger on a Windows XP-based computer
+KB961605 - FIX: Multicast messages larger than 64 kilobytes (KB) are not delivered as expected by using Message Queuing 3.0 after security update MS08-036 is installed
+KB961742 v3 - An update is available that adds support for RemoteApp to Windows XP SP3 virtual machines on a Windows 7-based computer
+KB961853 v2 - Error message when you try to access a network share in a private network: "There are currently no logon servers available to service the logon request"
+KB963038 - Error message when you establish a remote desktop connection to a remote computer that is running Windows XP: "STOP: 0x1000008E"
+KB963093 - MS09-023: Vulnerability in Windows Search could allow information disclosure
+KB965220 - A Windows XP-based client computer can establish a security association even to a peer computer without a System Health Authentication OID
+KB967048 v2 - Error message on a Windows XP-based computer that has a USB card reader: "Stop 0x000000D1"
+KB967705 v2 - When you try to print some data in the PDF format in Internet Explorer on a Windows XP-based computer, the main menu of Internet Explorer disappears.
+KB968389 - Extended Protection for Authentication
+KB968585 v2 - A handle leak occurs in the print spooler service after you resubmit a print job to a shared printer on which the "Keep printed documents" option is enabled
+KB968730 - Windows Server 2003 and Windows XP clients cannot obtain certificates from a Windows Server 2008-based certification authority (CA) if the CA is configured to use SHA2 256 or higher encryption
+KB968764 - Streaming USB 1.1 devices that are connected to an external USB 2.0 hub behave incorrectly on a Windows XP-based computer
+KB969059 - MS09-057: Vulnerability in Indexing Service could allow remote code execution
+KB969084 - Description of the Remote Desktop Connection 7.0 client update for Remote Desktop Services (RDS) for Windows XP SP3, Windows Vista SP1, and Windows Vista SP2
+KB969238 - A data transfer is corrupted when you transfer data from or to a USB device on a computer that is running Windows XP
+KB969262 - Windows XP stops responding when heavy I/O operations occur on an NTFS-formatted volume.
+KB969395 - FIX: Windows Movie Maker crashes when you install more than 100 video transitions or video effects on a computer that is running Windows XP
+KB969557 - When you use the Windows Key+L keyboard sequence to lock a Windows XP-based computer shortly after you log on to the system, the operating system may be automatically unlocked and the desktop can be accessed
+KB969632 - Background Intelligent Transfer Service (BITS) does not start in Windows XP, and you receive a message in the System log: "The Background Intelligent Transfer Service service terminated with service-specific error 2147500037 (0x80004005)"
+KB970048 - Slow printing performance when you print to an LPR printer from a Windows XP-based computer
+KB970063 - When you save a RTF document that contains nested tables in WordPad 5.1 in Windows XP, you may notice that the file is blank when you reopen the RTF document
+KB970254 - The modem does not work and you cannot open the "Network Connections" window after you unplug and plug in the modem several times when a PPP connection is established in Windows XP
+KB970326 - You cannot manage Windows Deployment Service (WDS) images from a Windows XP-based server that has a localized admin pack installed
+KB970413 - The Win32_Process class returns incorrect CreationDate property during the first week after daylight saving time begins or ends
+KB970430 - Description of the update that implements Extended Protection for Authentication in the HTTP Protocol Stack (http.sys
+KB970483 - MS09-020: Vulnerabilities in Internet Information Services (IIS) could allow elevation of privilege
+KB970553 - Error message when you query Win32_Product class after you install applications by using Microsoft Windows Installer (MSI) 4.5 with "Per-User" option in Windows XP: "0x80041001 - Generic failure"
+KB970685 - Error message when you try to access an SD card on a Windows XP-based computer that has a particular combination of SD host controller and SD card: "The disk in drive  is not formatted"
+KB971029 - Update to the AutoPlay functionality in Windows
+KB971165 - The CLIENTNAME environment variable returns the value "Console" instead of the actual client name when users first log on to a Windows XP SP3-based computer by using Remote Desktop Connection
+KB971234 v2 - The Defrag.exe tool crashes when you run the Dfrgntfs.exe tool to defragment a hard disk on a computer that is running Windows XP
+KB971276 v3 - You receive incorrect print output if the IPrintPipelineProgressReport interface is used in your printing application on a Windows XP SP3 or Windows Server 2003 SP2-based computer
+KB971314 - All PCL inbox printer drivers become unsigned after you install the Microsoft .NET Framework 3.5 SP1 or the XPS Essentials Pack in Windows XP or in Windows Server 2003
+KB971323 - When you use a webcam to capture video in Windows XP, the video capture freezes intermittently when the webcam streams the MPEG data
+KB971345 - The LimitProfileSize Group Policy setting does not take effect when the size of a user profile is larger than 4 GB on a Windows XP-based client computer
+KB971455 - A computer that is running Windows XP SP3 cannot authenticate a wireless router that uses the Wi-Fi Protected Setup (WPS) when the router is configured to use Wired Equivalent Privacy (WEP)
+KB971513 - Description of BitLocker To Go Reader
+KB971657 - MS09-041: Vulnerability in the Workstation Service could allow elevation of privilege
+KB971737 - Description of the update that implements Extended Protection for Authentication in Microsoft Windows HTTP Services (WinHTTP)
+KB972016 - n/a
+KB972270 - MS10-001: Vulnerability in the Embedded OpenType Font Engine could allow remote code execution
+KB972422 - A Windows XP-based computer stops responding at the "Windows is loading your profile" screen when you connect to the computer by using an RDP connection
+KB972435 - Slow performance when you try to open a redirected drive on a remote computer through a Terminal Services session
+KB972878 - The "Guaranteed service type" Group Policy setting returns to the default value after you restart a client computer that is running Windows XP or Windows Server 2003
+KB973502 - The size of the Ntds.dit file becomes larger on one or more domain controllers that are running Windows Server 2003 or Windows Server 2008 after you enable the credential roaming feature for the domain
+KB973624 - After you use a smart card to log on to a computer that is running Windows XP, Digest authentication fails
+KB973687 - When an application uses MSXML to process XHTML, redundant retrieval requests for well-known DTD files from the W3C Web server cause XHTML parsing to fail on a Windows-based computer
+KB973815 - MS09-037: Description of the security update for Microsoft MSWebDVD ActiveX Control in Windows XP and Windows Server 2003: August 11, 2009
+KB973869 - MS09-037: Description of the security update for the DHTML editing component ActiveX control: August 11, 2009
+KB973904 - MS09-073: Description of the security update for Windows XP, Windows 2000, and Windows Server 2003: December 8, 2009
+KB974112 - MS09-052: Vulnerability in Windows Media Player could allow remote code execution
+KB974266 - Group Policy Preferences Client-Side Extension Hotfix Rollup
+KB974318 - MS09-071: Vulnerabilities in the Internet Authentication service could allow remote code execution
+KB974392 - MS09-069: Vulnerability in the Local Security Authority Subsystem service could allow denial of service
+KB974571 - MS09-056: Vulnerabilities in CryptoAPI could allow spoofing
+KB975025 - MS09-051: Description of the security update for Audio Compression Manager: October 13, 2009
+KB975167 - FIX: Error message when you run a Windows Sockets application that opens many connections on a Windows XP Embedded-based device: "Stop 0x00000044"
+KB975467 - MS09-059: Vulnerability in the Local Security Authority Subsystem Service could allow denial of service
+KB975560 - MS10-013: Description of the security update for Quartz: February 9, 2010
+KB975713 - MS10-007: Vulnerability in Windows Shell Handler could allow remote code execution
+KB976002 v5 - A Browser Choice update is available in the European Economic Area
+KB976323 - MS10-024: Description of the security update for Windows SMTP Service: April 13, 2010
+KB977816 - MS10-026: Vulnerability in Microsoft MPEG Layer-3 codec could allow remote code execution
+KB977914 - MS10-013: Description of the security update for AVI filter: February 09, 2010
+KB978338 - MS10-029: Vulnerability in Windows ISATAP Component could allow spoofing
+KB978542 - MS10-030: Vulnerability in Outlook Express and Windows Mail could allow remote code execution
+KB978601 - MS10-019: Description of the security update for Windows Authenticode Signature Verification: April 13, 2010
+KB978706 - MS10-005: Vulnerability in Microsoft Paint could allow remote code execution
+KB978835 - Service cannot access the \?? namespace in Windows XP
+KB979309 - MS10-019: Description of the security update for Windows Cabinet File Viewer Shell Extension: April 13, 2010
+KB979482 - MS10-033: Description of the security update for Asycfilt.dll (COM component): June 8, 2010
+KB979687 - MS10-083: Description of the security update for WordPad: October 12, 2010
+KB980436 - MS10-049: Vulnerabilities in SChannel could allow remote code execution
+KB981073 v3 - FIX: FTP clients may not connect correctly to an FTP site that is hosted in IIS 5.0 or IIS 5.1 on a computer that has security update 975254 installed
+KB981322 - MS10-063: Description of the security update for Windows Unicode scripts Processor: September 14, 2010
+KB981669 - The installation process of a MSI package that contains multiple packages stops responding (hangs) in Windows XP, Windows Vista, or Windows Server 2008
+KB981997 - MS10-050: Vulnerability in Movie Maker could allow remote code execution
+KB982132 - MS10-076: Vulnerability in the Embedded OpenType Font Engine could allow remote code execution
+KB982316 - An update is available for the Windows Telephony Application Programming Interface (TAPI)
+KB982665 - MS10-055: Vulnerability in Cinepak codec could allow remote code execution
+KB983234 - FIX: A parent window is still disabled after you close a child dialog box that is hosted by a webpage in Internet Explorer 6
+KB2079403 - MS10-051: Vulnerability in Microsoft XML Core Services could allow remote code execution
+KB2115168 - MS10-052 Vulnerability in Microsoft MPEG Layer-3 codecs could allow remote code execution
+KB2121546 - MS10-069: Vulnerability in Windows client/server runtime subsystem could allow elevation of privilege
+KB2124261 - MS10-065: Description of the security update for Internet Information Services ASP: September 14, 2010
+KB2229593 - MS10-042: Vulnerability in Help and Support Center could allow remote code execution
+KB2264107 - A new CWDIllegalInDllSearch registry entry is available to control the DLL search path algorithm
+KB2270406 - "0x000000D1" Stop error message when you try to refresh a webpage in Internet Explorer on a computer that is running Windows XP SP3
+KB2282612 - You cannot play an AVI file in Windows XP after you install security update 975560
+KB2290570 - MS10-065: Description of the security update for Internet Information Services Infocomm in Windows XP SP3: September 14, 2010
+KB2296011 - MS10-081: Vulnerability in the Windows common control library could allow remote code execution
+KB2345886 - Description of the update that implements Extended Protection for Authentication in the Server service
+KB2347290 - MS10-061: Vulnerability in Print Spooler Service could allow remote code execution
+KB2360937 - MS10-084: Vulnerability in Windows Local Procedure Call could cause elevation of privilege
+KB2387149 - MS10-074: Vulnerability in Microsoft Foundation Classes could allow remote code execution
+KB2393802 - MS11-011: Vulnerabilities in Windows Kernel could allow elevation of privilege
+KB2412687 - MS11-029: Description of the security update for Windows GDI+: April 12, 2011
+KB2419632 - MS11-002: Description of the security update for Microsoft Data Access Components 2.8 Service Pack 1: January 11, 2011
+KB2423089 - MS10-096: Vulnerability in Windows Address Book could allow remote code execution
+KB2436673 - MS10-098: Vulnerabilities in Windows Kernel could allow elevation of privilege
+KB2440591 - MS10-099: Vulnerability in Routing and Remote Access could allow elevation of privilege
+KB2443105 - MS10-097: Insecure Library Loading in Internet Connection Signup Wizard could allow remote code execution
+KB2454533 v2 - Description of a shared folder that is mapped to a network drive is not displayed on a Windows XP SP3-based computer that has security update MS10-066 installed
+KB2476687 - MS11-010: Vulnerability in Windows Client/Server Run-time Subsystem could allow elevation of privilege
+KB2478960 - MS11-014: Vulnerability in Local Security Authority Subsystem Service could allow local elevation of privilege
+KB2478971 - MS11-013: Description of the security update for Kerberos in Windows XP and in Windows Server 2003: February 8, 2011
+KB2479943 - MS11-015: Description of the security update for Microsoft Windows: March 8, 2011
+KB2483185 - MS11-006: Vulnerability in Windows Shell Graphics Processing could allow remote code execution
+KB2483614 - MS11-017: Description of the security update for Remote Desktop client 7.0: March 8, 2011
+KB2485663 - MS11-033: Vulnerability in WordPad text converters could allow remote code execution: April 12, 2011
+KB2491683 - MS11-024: Description of the security update for Windows Fax Cover Page Editor: April 12, 2011
+KB2498072 - A SCSI device does not burn DVD discs when you use IMAPIv2.0 for Windows XP and for Windows Embedded Standard 2009
+KB2503658 - MS11-026: Vulnerability in MHTML could allow information disclosure: April 12, 2011
+KB2506212 - MS11-024: Description of the security update for Windows Fax Cover Page Editor MFC components: April 12, 2011
+KB2506223 - MS11-034: Vulnerabilities in Windows Kernel-Mode drivers could allow elevation of privilege: April 12, 2011
+KB2507618 - MS11-032: Vulnerability in the OpenType Compact Font Format (CFF) driver could allow remote code execution: April 12, 2011
+KB2508272 - MS11-027: Cumulative security update for ActiveX kill bits: April 12, 2011
+KB2508429 - MS11-020: Vulnerabilities in SMB Server could allow remote code execution: April 12, 2011
+KB2509553 - MS11-030: Vulnerability in DNS Resolution could allow remote code execution: April 12, 2011
+KB2511455 - MS11-019: Vulnerabilities in SMB Client could allow remote code execution: April 12, 2011
+KB2523087 - Hotfix available for Windows Daylight Saving Time support in Turkey
+KB2524375 - Microsoft Security Advisory: Fraudulent Digital Certificates could allow spoofing
+
+Internet Explorer 8, included:
+
+KB2447568 - A Compatibility View list update is available for Windows Internet Explorer 8: November 23, 2010
+KB2467659 - An update is available for Internet Explorer: December 14, 2010
+KB2497640 - MS11-018: Cumulative security update for Internet Explorer: April 12, 2011
+KB2510531 - MS11-031: Description of the security update for the Jscript and VBscript v5.8 scripting engines: April 12, 2011
+
+Windows Media Player 11.0.5721.5262, included:
+
+KB954155 - MS09-051: Description of the security update for Windows Media Audio Voice Decoder: October 13, 2009
+KB973442 - An application that uses the WMV codec cannot play back content that is encoded in the MBR format
+KB973540 - MS09-037: Description of the security update for Windows Media Player: August 11, 2009
+KB975558 - MS10-062: Vulnerability in MPEG-4 Codec could allow remote code execution
+KB974905 - Error code C00D11B1 when you play an MBR file or a live stream that contains more than 32 media streams in Windows Media Player on a computer that is running Windows XP or Windows Vista
+KB978695 - MS10-033: Description of the security update for Media Format Runtime 9, for Media Format Runtime 9.5, and for Media Format Runtime 11: June 8, 2010
+KB2378111 - MS10-082: Vulnerability in Windows Media Player could allow remote code execution
+
+Adobe Flash Player v10.2.159.1 ActiveX control
+MSXML 4.0 SP3 v4.30.2107.0 (including KB973685)
+Microsoft.NET Framework 1.1 SP1 (v1.1.4322.2470) - October 2010
+Microsoft.NET Framework 3.5 SP1 (v3.5.30729.3644.1) - April 2011
+Microsoft.NET Framework 4.0 (v4.0.30319.225) - April 2011
+DirectX for WinXP Post-SP3 June 2010 Update (including DirectX for Managed Code for .NET 1.x)
+Microsoft European Union Expansion Font Update 1.2
+Microsoft & Windows Update v7.4.7600.229
+Microsoft Update Catalog Web Control v7.4.7057.248
+(Q282784) QFEcheck v6.2.29.0
+(KB873374) GDI+ Detection Tool
+(KB890830) Malware Removal Tool v3.18
+(KB892130) Windows Genuine Advantage Validation v1.9.42.0/(KB905474) Windows Genuine Advantage Notifications v1.9.40.0
+(KB931125) Root Certificate Update - March 2011
+(KB940157 & KB961184) Windows Search 4.0
+(KB952011) Windows Feature Pack for Storage 1.0 - Image Mastering API v2.0 (IMAPIv2.0) Update for Blu-Ray Media
+(KB952013) Windows Feature Pack for Storage 1.0 - ICCD Smart Card Driver
+(KB955305) Microsoft Silverlight v4.0.60129.0
+(KB968930) Windows Management Framework Core - WinMFc (includes Powershell v2 and PowershellISE)
+(KB970401) BitLocker To Go Reader
+(KB979099) Windows Rights Management Client
+
+Windows Media Center updates:
+KB900325 Update Rollup 2
+KB911164 Needed to fix SP3 integration
+KB979904 .NET Framework 1.0 Service Pack 3 CLR Security Update
+KB953295 .NET Framework 1.0 Service Pack 3 CLR Security Update
+
+Windows XP Tablet updates:
+KB979904 .NET Framework 1.0 Service Pack 3 CLR Security Update
+KB953295 .NET Framework 1.0 Service Pack 3 CLR Security Update
+
+Here are the supported OEM brands for SLP preactivation in the OEM Advanced builds:
+
+XP Pro:
+
+Acer
+Alienware
+American Future
+AMOI Electronics
+Asus
+BenQ Hub
+Compaq
+Dell
+Dixons Xp
+Elite Group
+Emaxs
+Equus
+Founder PC
+Fujitsu
+Fujitsu Siemens
+Gateway
+HP
+Emachines
+Gigabyte
+Great Wall
+Haier Computer
+Hedy Computer
+Higraded
+Hitachi
+IBM Corporation
+Lan Plus
+LG Electronics
+Lenovo
+iQon
+Legend Dragon
+Maxdata
+Medion
+Mei CF
+MSI
+NEC
+Optima
+OQO Inc
+Powerspec
+Primergy
+Samsung PC
+Siemens
+Sony Corporation
+Sysfic
+Systemax
+TCL123
+Tektronics
+Toshiba
+Travelmate
+Trigem
+Tsinghua Tongfang Computer
+VPR Matrix
+Winbook
+Zepto
+
+XP Home:
+
+
+Acer
+Acer TravelMate
+Actebis
+Alienware
+Americanfuture
+AMOI Electronics
+Asus
+ATComputers
+BenQHub
+Compaq
+Dell
+Dixonsxp
+EliteGroup
+Emachines
+Founder PC
+Fujitsu
+Fujitsu Siemens
+Gateway
+HP
+HaierComputer
+HedyComputer
+Hitachi
+IBM Corporation
+iQon
+LG Electronics
+Lan Plus
+Lenovo
+Legend Dragon
+Maxdata
+Medion
+MSI
+NEC
+Optima
+OQO Inc
+Powerspec
+Primergy
+SamsungPC
+Siemens
+Sony Corporation
+Systemax
+TCL123
+Toshiba
+Trigem
+Tsinghua Tongfang Computer
+VPR Matrix
+
+XP MCE:
+
+Acer
+Alienware
+Asus
+Compaq
+Dell
+Dixonsxp
+Emachines
+Fujitsu Siemens
+Gateway
+HP
+Lenovo
+Medion
+NEC
+Packard
+Samsung
+Sony
+Toshiba
+Trigem
+
+XP Tablet:
+
+Actebis
+Acer
+Alienware
+American Future
+AMOI Electronics
+Asus
+BenQ Hub
+Compaq
+Dell
+Dixons Xp
+Elite Group
+Emaxs
+Equus
+Founder PC
+Fujitsu
+Fujitsu Siemens
+Gateway
+HP
+Emachines
+Gigabyte
+Great Wall
+Haier Computer
+Hedy Computer
+Higraded
+Hitachi
+IBM Corporation
+Lan Plus
+LG Electronics
+Lenovo
+iQon
+Legend Dragon
+Maxdata
+Medion
+Mei CF
+MSI
+NEC
+Optima
+OQO Inc
+Powerspec
+Primergy
+Samsung PC
+Siemens
+Sony Corporation
+Sysfic
+Systemax
+TCL123
+Tektronics
+Toshiba
+Travelmate
+Trigem
+Tsinghua Tongfang Computer
+VPR Matrix
+Winbook
+Zepto 

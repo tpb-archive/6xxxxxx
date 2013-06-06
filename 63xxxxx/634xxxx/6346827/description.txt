@@ -1,0 +1,26 @@
+SuperAntiSpyware Professional 4.51.1000 [mp3pro1986]
+
+SUPERAntiSpyware with its Multi-Dimensional Scanning and Process Interrogation Technology will detect spyware and remove over 1,000,000 pests such as Vundo, SmitFraud, WinFixer, VirusRay, and VirusHeat. Repair broken Internet connections, desktops, registry editing, and task manager. The program provides complete and custom scanning of hard drives, removable drives, memory, registry, individual folders include trusting items and excluding folders for complete customization of scanning. Detect and remove spyware, adware, malware, Trojans, dialers, worms, keyloggers, and hijackers. Prevent potentially harmful software from installing or re-installing. First Chance Prevention examines over 50 critical points of your system each time your system starts up and shuts down to eliminate threats before they have a chance to infect and infiltrate your system.
+
+1. Install SuperAntiSpywarePro, don`t update the program yet.
+2. Exit the program. (Right click on the "bug" icon found in the system tray --> Exit)
+3. Copy the keygen in the install-directory, by default:
+C:\Program Files\SUPERAntiSpyware
+4. Execute the keygen (Vista/7 users as adm) click on Patch.
+5. Copy "regnumber" and "Activate code" from keygen into notepad, close keygen.
+6. Start up SUPERAntispyware, navigate to system tray, right-click on the 'bug icon' and select Register/Activate SUPERAntiSpywarePro..."
+
+Click next and you will be asked to fill in the registration number, use the first code given by the keygen. Next, you must select to activate it with the "I want to enter the activation code manually" option and use the second code.
+
+7. Enjoy! ;)
+
+Note: if the keygen says the program was not installed in a 64-bit setup. Follow this procedure:
+1. Press Start-> Run -> write: regedit
+2. When in regedit, choose to export the [HKEY_LOCAL_MACHINE\SOFTWARE\SUPERAntiSpyware.com] key to a reg file.
+3. Edit that reg file to have (add \Wow6432Node)
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SUPERAntiSpyware.com]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SUPERAntiSpyware.com\SUPERAntiSpyware]
+
+Then run that reg file.

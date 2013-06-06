@@ -1,0 +1,115 @@
+User Type,Username,Date,Text
+,brutusbum,2011-05-09T23:33Z,"Couple of hundred downloads and no one is complaining. I guess no one has had any problems?
+
+No news is good news in this case."
+,HawkieMan,2011-05-11T12:33Z,"Good torrent. Worked out of the box on my AMD machine. Good VM setup worked speedy and well.
+No nonsense and well working."
+,madrip1,2011-05-16T00:46Z,says file corrupt wont unrar
+,madrip1,2011-05-16T00:56Z,sorry vmware workstation error wont work i guess i dont know how to do this.
+,brutusbum,2011-05-16T20:30Z,"@madrip1 
+
+There's nothing wrong with the file. I downloaded again to make sure it's not corrupted.
+
+You need to be more specific about the Vmware error. For crying out loud, put some effort into describing the problem.
+
+Crairvoyant, I am not.
+
+Assuming that you installed Vmware properly, start it up and then select ""Open""  from the file menu, and select the *.VMX file that's part of the torrent.
+
+At that point, the virtual machine will load. Then click on ""Power on this virtual machine""
+
+Seems to me that if you can't even get Vmware going, you should not be messing with OSX.
+
+B"
+,vampire03,2011-05-18T18:39Z,i hope this works fine.
+,iamgodlol,2011-06-22T23:07Z,"I have an AMD Athlon II X2 250 processor and 5GB RAM. I got the file but upon running it on VMWare I get the error ""Mac OS X is not supported with software virtualization. To run Mac OS X you need a host on which VMware Player supports hardware virtualization."" What now?"
+,brutusbum,2011-07-07T22:34Z,"***iamgodlol***
+
+It may be that your CPU does support hardware virtualization and it's turned off in the BIOS. I think every machine I have seen that supports it, is turned off in the BIOS by default.
+
+If your CPU is not capable of hardware virtualization, then you are out of luck.
+
+B"
+,brutusbum,2011-07-07T22:36Z,"***iamgodlol***
+
+It seems your CPU should have virtualization, at least according to AMD:
+
+http://products.amd.com/pages/DesktopCPUDetail.aspx?id=562
+
+Check your BIOS, it's probably turned off.
+
+B"
+,bkarankar,2011-08-05T19:34Z,"hi,
+
+i tried to add this with vmware workstatoin 5.0 but got a error as
+
+Unable to open configuration file ""C:\Mac OS Snow Leopard.vmx"":
+(null)
+
+my system config as
+AMD 1055T
+Asus mobo
+8 GB memory
+2 GB 6950 GPU
+120 GB SSD
+
+what will be the possible solution, please post..."
+,bkarankar,2011-08-06T11:28Z,"awesome bro, 
+
+i update my vmware workstation and its working fine.
+
+it was my dream to have mac on my system, but after too many research i found its only possible on Intel.
+now because of you, my dream came true.
+Thanks brother, thanks you very much for this share.
+
+one question, have you any idea how can we install lion on vmware on amd. if this too possible then will be great for us.
+
+Thanks again."
+,redsox360,2011-08-13T22:33Z,Thanks its working great but when I connect my usb device it doesn't show up. Is there anything special I should do or try?
+,rifts123,2011-08-31T15:16Z,"Hey man this is great, first one I have found that boots right up. 
+
+Weird problem though, my mouse movement works fine but I can not click on anything.
+
+Any ideas?"
+,misomian,2011-09-17T19:49Z,"Best OSX for AMD image I've ever tried. No boot difficulties, no sleep problems, no crashes on shutdown.
+
+Easy upgrade to 10.6.8:
+
+0. As a precaution, create a snapshot before you do anything else
+1. Copy IOUSBFamily.kext and  IOUSBMassStorageClass.kext from System/Library / Extensions to your desktop or somewhere easily you can find them easily
+2. Download and install the Mac OSX 10.6.8 Combo Update from Apple, but MAKE SURE you don't click Restart when it finishes
+3. Download and install the legacy kernel and sleep enabler package from Nawcom: http://blog.nawcom.com/?p=791
+4. Finally, using an app like Kext Helper ( http://cheetha.net/ ), install the two kexts you backed up in step 1
+5. Reboot and enjoy!"
+,misomian,2011-09-17T19:53Z,"Forgot to add: Xcode works great on this, no problem connecting to my iPad for development."
+,ionfist,2011-09-18T14:21Z,"@misomian or @all
+Can you please tell me how did you connect your iPad, because I am having trouble doing so.
+
+Thanks in advance!"
+,misomian,2011-09-18T20:12Z,"@ionfist:
+
+These AMD installations can be pretty finicky when it comes to USB working or not. This one worked fine for me, while most haven't. In case it helps you though, here are the IOUSB kexts from an earlier install I did on my own, where I got USB working but had other issues that prevented it from being a good vm.
+
+http://pastie.org/2553749
+
+As a precaution make a snapshot first, then open the included Kext Helper app from the zip, drag both kexts to its window, enter the vm's admin password, click Easy Install, and reboot when done.
+
+Let me know if it helps! If so I'll upload a companion torrent with these files and instructions."
+,BAKERSFIELDBOY211,2011-12-01T23:10Z,"My frist comment ! has any one tryed it on intel Prossor yet, if so how did you do it, was it time csuming..."
+,Razroid,2011-12-31T06:24Z,"hey, dude this torrent worked fine! thank you!
+I allocated 3 gbs of ram for this virtual machine, why does it only detect one gigabyte? help please :D"
+,tristant,2012-02-18T12:48Z,"""I allocated 3 gbs of ram for this virtual machine, why does it only detect one gigabyte? help please :D""
+In the Empire EFI booter type ""maxmem=2048"" (without quotes, for 2GB of RAM) before you start OSX
+
+
+
+""Weird problem though, my mouse movement works fine but I can not click on anything.""
+
+I've got the same problem, can anyone help?"
+,tristant,2012-02-18T14:44Z,"Also, for reference misomian instructions for upgrading to 10.6.8 do NOT work w/ the Russian 10.6.2 that also works for AMD (and the mouse and keyboard work in that version for me).
+
+I'd really love to have a working copy of 10.6.8, does anyone know how to fix mine (and rifts123) input (mouse clicks & keyboard don't work) problem?
+
+I'm using VMWare 8.0.1 build-528992, does that matter?"
+,tristant,2012-02-18T14:56Z,"Or better yet, someone with a working VM of 10.6.8 on AMD upload their machine folder! "
+,mb_72,2012-05-08T11:39Z,"Thanks from me also. Worked fine immediately 'out of the box' (Workstation v8.0, paid / licensed version), and I'd been trying to get OSX running for ages. "

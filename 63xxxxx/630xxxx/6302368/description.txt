@@ -1,0 +1,20 @@
+Today wborland0 has updated PS3 Game List, which allows you to manage your list of PlayStation
+3 games locally, to version 1.3.
+
+Download: PS3 Game List v1.3
+
+To quote: Those looking for an alternative that allows you to manage your list of PS3 games are
+welcome to try PS3 Game List.
+It started out as a demo to test the Qt Framework functionality, but it evolved into a full feature C++
+app.
+
+PS3 Game List change-log and features:
+
+v1.3
+Allows further PARAM.SFO editing (video resolution and audio format);
+Remembers game folder location and language settings;
+Fixed crash while loading malformed PARAM.SFO.
+
+v1.2
+Downloads all updates for a selected game instead of the latest one only;
+Fixed column order issue.

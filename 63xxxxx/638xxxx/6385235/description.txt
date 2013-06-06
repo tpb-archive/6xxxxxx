@@ -1,0 +1,53 @@
+ Stereoscopic Player description
+
+                     Allows you to play stereoÂ­scopic videos and DVDs
+
+The Stereoscopic Player application was designed to be a versatile 3D movie player. It allows you to play stereoÂ­scopic videos and DVDs (external decoder required) and also allows you to watch live video from a capture device.
+
+Since it is based on DirectÂ­Show, it can handle almost any media format, for example AVI, MPEG, WMV and ASF. Videos can be coded in several different stereoÂ­scopic formats.
+
+Why is it necessary to use a special software for 3D movie playback? The reason is that there are a lots of different ways to watch stereoscopic content as well as different ways to store the content.
+
+In the past, it was necessary to encode a stereoscopic movie for each viewing method, for example you had to create an anaglyph file, a interlaced file for use with shutter glasses and a side-by-side for for free-viewing without glasses.
+
+Quality was often very low, because most video codecs don't handle interlaced content well and subsample color information (reducing color resolution to quarter of original resolution), which reduces anaglyph quality dramatically.
+
+Here are some key features of "Stereoscopic Player":
+
+Â· Easy-to-use user interface
+Â· Supports Video for Windows (*.avi), MPEG-1 (*.mpg), MPEG-2 (*.mpg, *.m2ts, *.mts, *.ts), MP4 (*.mp4), 3D Blu-ray files (*.ssif), Windows Media (*.wmv, *.asf), QuickTime (*.mov), Material Exchange Format (*.mxf), Matroska (*.mkv) and Flash (*.flv)
+Â· Supports photos in mpo, jpg, jps, tif, gif, png and bmp format
+Â· Supports Windows Media Dual Stream files
+Â· Supports separate left/right files
+Â· Supports MXF files of Digital Cinema Packages (DCPs), including XYZ to RGB color space conversion
+Â· Digital Rights Management (for stereoscopic Windows Media files only)
+Â· Playback of any other format supported by third party DirectShow decoders
+Â· Windows Media 7.1 and 5.1 multichannel audio decoding
+Â· Windows Media streaming
+Â· 3D-DVD playback 1
+Â· Live playback from capture devices (TV card, DV camcorder, ...)
+Â· Built-in video library stores settings for each movie
+Â· Retrieves data from stereoscopic metadata servers
+Â· Import and export of stereoscopic metafiles
+Â· Command line control
+Â· OLE automation
+Â· Compatible with Windows Media Center IR remote control
+Â· Synchronized control of external effects via DMX512 (compatible with OpenDMX hardware), serial port and execution of programs and scripts.
+Â· DXVA2-based GPU-accelerated video decoding
+Â· Supported languages
+
+Requirements:
+
+Â· 1.5 GHz processor or better
+Â· DVD-ROM drive
+Â· DVD decoder
+Â· DirectX 9
+Â· Sound card
+Â· 3D hardware (3D glasses, 3D display, 3D projection system)
+Â· Dual core processor for 720p playback
+Â· Quad core processor for 1080p playback
+Â· Depending on the codec, a faster processor might be required
+
+
+NOTE::   Don't forget to seed!!!! 
+

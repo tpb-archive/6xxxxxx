@@ -1,0 +1,59 @@
+User Type,Username,Date,Text
+,Krisiun,2011-05-10T21:37Z,Tyvm!
+,Mudstomper,2011-05-10T22:27Z,No problem.
+,tony-rivers515,2011-05-15T14:40Z,"it all looks good right up until rendering, it tells me it cant obtain a license... :( any help?"
+,tony-rivers515,2011-05-15T14:48Z,"Everything seems to work fine, then just before renderding - cannot obtain license :( "
+,WillBingham,2011-05-16T19:47Z,How do I get it to work with 3dsMax 2012 x64
+,WillBingham,2011-05-16T19:48Z,How do I get it to work with 3dsMax 2012 x64?
+,Mudstomper,2011-05-19T11:14Z,"@ tony-rivers515 
+It sounds as though you may not have copied all the files across? 
+
+The first time I missed the chaos group folder and recieved the same message.                                                                                             
+Try these steps again and let me know how you get on:
+
+copy & paste vray2011.dlll & cgauth.dll into C:\Program Files\Autodesk\3ds Max 2011 
+(or where ever you have 3ds Max 2011 installed) 
+
+copy & paste vrender2011.dlr into C:\Program Files\Autodesk\3ds Max 2011\plugins
+
+copy & paste cgauth.dll into C:\Program Files\Chaos Group\V-Ray\RT\bin
+
+@WillBingham 
+I don't like your chances its aimed at 3ds Max 2011 64 bit.... although I'm no tech Guru.
+"
+,sobber11,2011-05-31T22:00Z,Thanks a lot Mudstomper!!  Your Vray is working fine for me.  (Windows 7 x64)
+,sobber11,2011-05-31T22:12Z,"@tony-river
+
+Follow Mudstompers installation guide but in between that, during installation, follow this:
+
+1. Installation Type : Workstation
+2. Make sure your 3D Max directories are correct as shown in the default installation.
+3. Select local V-ray license server on this machine & check Register V-ray menus
+4.  Uncheck Install WIBU key drivers, keep uncheck also Register the V-ray License Server (this works for me).  Check this in your next re-install if it doesn't work for you."
+,Mudstomper,2011-06-21T01:25Z,"@WillBingham 
+
+http://thepiratebay.org/torrent/6483503/Vray_2.0_SP1_2012.rar
+"
+,guywhite,2011-07-04T14:02Z,"The vray is fine, but I cannot get the render settings to be saved. Each time I re-open the file, it resets render settings, any ideas ????"
+,Mudstomper,2011-07-08T04:27Z,"@guywhite
+
+Going to state the obvious and risk sounding stupid here but you are saving your Vray settings by going to presets (next to the render button in render setup) and saving your preset right?
+
+Saving your project has nothing to do with saving your rendering settings.
+
+Otherwise works fine for me I have several presets ready to go and I cant help you?"
+,henry_2011,2011-11-04T12:15Z,"Hi guyz, I'm still new to V-Ray~
+I was wondering, is that 3ds Max and 3ds Max Design using the same vray or there is a different?"
+,sessprad,2011-11-14T20:09Z,the Light Cache menu isn't showing up for me.. can anyone please help?? or is there none in 2.0? i'm pretty new to VRay
+,rormc,2011-11-22T19:31Z,"The RT real-time active shade preview renderer needs a license. but this part is not realy necesary, furthermore it seems to works perfectly, thanks"
+,trialboj,2012-01-10T19:08Z,"For me works fin thx 64bit 3d 2011
+
+Follow this:
+
+Mudstomper:
+copy & paste vray2011.dlll & cgauth.dll into C:\Program Files\Autodesk\3ds Max 2011 
+(or where ever you have 3ds Max 2011 installed) 
+
+copy & paste vrender2011.dlr into C:\Program Files\Autodesk\3ds Max 2011\plugins
+
+copy & paste cgauth.dll into C:\Program Files\Chaos Group\V-Ray\RT\bin"

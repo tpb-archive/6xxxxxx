@@ -1,0 +1,19 @@
+OSDial (OpenSource Dialer) is a full featured dialer which does Manual, Power and Predictive dialing out of the box. It is easily installed through one of our .iso images which will make a complete install. All that is needed to start dialing is:
+
+1) download an InstallCD image (32 or 64 bit)
+2) burn a bootable CD from above image
+3) boot from the CD, type in 'osdial' to start and answer a couple of questions
+3a) optionally configure IP address of server
+
+Once installed, check for updates
+1) login as root on server (information on start up screen)
+2) run 'yum clear all;yum update'
+
+Configure OSDial,
+1) add a carrier for traditional, and/or voice over internet "lines" to dial out/receive calls on.
+2) use either one of the preconfigured phones, or configure your own
+3) configure softphones for agents (Xlite is a popular and free softphone)
+4) use either one of the preconfigured agent logins, or configure your own
+5) use either the included test campaign, or create you own.
+6) add leads.
+and you are ready to start! 

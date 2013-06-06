@@ -1,0 +1,12 @@
+User Type,Username,Date,Text
+,kaifi7,2011-04-14T06:10Z,"If u have problems, take it from her, just copy n paste:
+string $newSet1 = `sets`;
+circle -c 0 0 0 -nr 1 0 0 -sw 360 -r 1 -d 3 -ut 0 -tol 0.01 -s 8 -ch 1;
+group;
+string $newSet2 = `sets`;
+select -tgl $newSet1;
+ls -selection;
+parent;
+ResetTransformations;
+parent -w;
+"

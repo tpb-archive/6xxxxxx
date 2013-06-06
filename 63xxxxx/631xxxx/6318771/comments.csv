@@ -1,0 +1,143 @@
+User Type,Username,Date,Text
+,Casevil,2011-04-14T16:49Z,Thanks.
+,kennyyee,2011-04-16T03:45Z,it crashes for me. why?
+,sainray,2011-04-16T08:03Z,"How do i actually get in to the vietnam game?
+i've installed using the origional skidrow magicka iso and then applied this pack, but all i get is just the original Magicka part of the game but can change to vietnam skin.  How do i play the vietnam campaign?"
+,Karayan,2011-04-16T20:37Z,Thank you
+,d4rkwo1f,2011-04-16T23:21Z,It crashes for me too. I followed the steps exactly. Please help!
+,b00gieman,2011-04-21T01:27Z,not working for me :/
+,Impaque,2011-04-22T01:06Z,LAN or Hamachi co-op possible with this?
+,Bvx,2011-04-23T22:14Z,"i just finished the install, and after trying to run the Magicka app, a pop-up comes up saying:
+""magicka has stopped working"" when it hadn't even started, and wont, ever.
+i followed the instructions, and i am currently re-installing in an effort to get it to work.
+help?"
+,azisco,2011-04-24T22:17Z,"Works, thanks."
+,Jabba1210,2011-04-25T13:28Z,"@sainray
+
+Go to challenges"
+,shtool9,2011-04-26T04:27Z,Im a magic Cow muh muh magic cow
+,Snakester_345,2011-05-02T17:03Z,the reason it keeps crashing for me is because its missing all but 1 of the .lvl files 
+,gambitjam,2011-05-10T20:39Z,Snakester_345  which of the .lvl files missing?
+,mantas55,2011-05-17T00:07Z,"Help. When i try to launch the game nothing happens. I just get the error log in the game directory
+Version: 1.3.6.2
+Thread: RenderThread
+System.IO.FileNotFoundException: Could not find file 'D:\Program Files\Paradox Interactive\Magicka\content\Levels\Wizard_Castle.lvl'.
+File name: 'D:\Program Files\Paradox Interactive\Magicka\content\Levels\Wizard_Castle.lvl'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+...And there's more. But maybe i shouldn't paste it all into one comment. 
+So i guess what that means is Wizard_Castle.lvl is missing.
+Skidrow.update.22. doesn't work either, same problem."
+,mantas55,2011-05-17T13:51Z,"Never mind, i already figured it out."
+,junior.uy,2011-05-19T02:04Z,"it was crashing on my win7 x64 until i installed this: http://www.microsoft.com/downloads/en/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
+
+That fix the problem for me, hope it helps... btw thnx for the upload! "
+,b00gieman,2011-05-21T19:35Z,cant make it to work :/ gives me the same lvl issue
+,rblizz24,2011-05-30T00:29Z,"when i try to run the game i get this error.. 
+
+Version: 1.3.6.0
+Thread: RenderThread
+System.ArgumentException: Texture width or height is larger than the device supports.
+Parameter name: width
+   at Microsoft.Xna.Framework.Graphics.Texture3D.CreateTexture(GraphicsDevice graphicsDevice, Int32 width, Int32 height, Int32 depth, Int32 numberLevels, TextureUsage usage, SurfaceFormat format)
+   at Microsoft.Xna.Framework.Graphics.Texture3D..ctor(GraphicsDevice graphicsDevice, Int32 width, Int32 height, Int32 depth, Int32 numberLevels, TextureUsage usage, SurfaceFormat format)
+   at Microsoft.Xna.Framework.Content.Texture3DReader.Read(ContentReader input, Texture3D existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.InvokeReader[T](ContentTypeReader reader, Object existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadObjectInternal[T](Object existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadObject[T]()
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadAsset[T]()
+   at Microsoft.Xna.Framework.Content.ContentManager.ReadAsset[T](String assetName, Action`1 recordDisposableObject)
+   at Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   at Magicka.Game.LoadContent()
+   at Microsoft.Xna.Framework.Game.Initialize()
+   at Magicka.Game.Initialize()
+   at Microsoft.Xna.Framework.Game.Run()
+   at Magicka.Program.Main(String[] args)
+
+ive installed the update but it still did this before i installed it too..help? "
+,guideo,2011-05-30T06:05Z,"Here is how to fix the ""stopped working"" issue.
+
+First, turn off windows UAC (User account control).
+To make it, open your control panel, type in UAC on the search box and then open it.
+If you are using Vista, uncheck the box.
+If you are using Seven, drag the control all the way down.
+Click ok.
+Reboot the computer.
+
+Now, if you already install magicka, uninstall it, both the update and the game itself.
+
+Run the Game instalation.
+When finished, mark the two last boxes (Framework 3.5 and XNA).
+
+Crack it.
+
+Enjoy =D
+
+If you wanna play the update, install and crack it normaly."
+,Gennousuke,2011-05-30T13:35Z,or just right click and run as admin
+,kajikawa,2011-06-01T15:13Z,"@Snakester_345
+Just like sainray did
+Try copying these files over a fresh install of magicka from http://thepiratebay.org/torrent/6127579/Magicka-SKIDROW
+
+@rblizz24 
+I think your Graphics card can't handle Magicka."
+,Seven771Slev,2011-06-01T21:25Z,"Hosting a Hamachi Network (Latest Version 2.0.3.115)
+
+Network Name: MagickaLANCoop
+Network Password: 12345
+
+Magicka Version â 1.3.6.2 with update 19-20 and 22 installed also.
+
+Join if you want to play some Coop, thanks."
+,Infi2,2011-06-06T00:34Z,"Seven771Slev
+
+Multiplayer works for this update? What should i install to play multi on SKIDROW's version?"
+,ThanksForPlaying,2011-06-18T05:25Z,"After an entire morning of stuffing around with this I finally got it to run in Windows 7 64 bit
+
+
+Instructions:
+BEFORE INSTALLING 
+Press start and search UAC and click 'Change user account control settings"" 
+Slide the bar all the way to the bottom and press OK
+Restart your computer 
+
+INSTALLATION
+Download the following link and install the game using deamon tools (or your proffered software) to mount the image.
+http://torrents.thepiratebay.org/6127579/Magicka-SKIDROW.6127579.TPB.torrent
+Install the game and once at the finish screen of the install, click each tick box and install each of the components.
+Download the following link and install the exe file. 
+http://torrents.thepiratebay.org/6318771/Magicka.Update.19.and.20.incl.Vietnam.DLC-SKIDROW.6318771.TPB.torrent
+Open the install folder (%systemdrive%:\Program Files (x86)\Paradox Interactive\Magicka OR %systemdrive%:\Program Files\Paradox Interactive\Magicka)
+Open the Update 19 and 20 folder and copy the CONTENTS (not the folder) into the install folder previously mentioned
+Once complete, run steam and then double click the Magicka shortcut on your desktop
+
+IF IT STILL DOESN'T WORK 
+If it still doesn't run, right click the Magicka shortcut on the desktop and choose properties 
+Choose the compatibility tab and tick ""Run the program as an administrator"" AND ""Run this program in compatibility for:"" (select ""Windows XP Service pack 3"")
+
+
+Buy the game! "
+,tomsabin,2011-06-19T19:16Z,"@ThanksForPlaying, I've tried what you suggested by still get an error :/
+
+Version: 1.3.6.0
+Thread: RenderThread
+System.InvalidOperationException: An unexpected error has occurred.
+   at Microsoft.Xna.Framework.Graphics.RenderTarget.CreateRenderTarget(GraphicsDevice graphicsDevice, Int32 width, Int32 height, Int32 numberLevels, SurfaceFormat format, MultiSampleType multiSampleType, Int32 multiSampleQuality, RenderTargetUsage usage, Boolean isTexture2D, _D3DSURFACE_DESC* pDesc)
+   at Microsoft.Xna.Framework.Graphics.RenderTarget..ctor(GraphicsDevice graphicsDevice, Int32 width, Int32 height, Int32 numberLevels, SurfaceFormat format, MultiSampleType multiSampleType, Int32 multiSampleQuality, RenderTargetUsage usage, Boolean isTexture2D)
+   at Microsoft.Xna.Framework.Graphics.RenderTarget2D..ctor(GraphicsDevice graphicsDevice, Int32 width, Int32 height, Int32 numberLevels, SurfaceFormat format, MultiSampleType multiSampleType, Int32 multiSampleQuality, RenderTargetUsage usage)
+   at PolygonHead.RenderManager.CreateBackBuffers()
+   at PolygonHead.RenderManager.RenderScene(Scene currentScene, DataChannel iDataChannel, GameTime& iGameTime)
+   at Magicka.Game.Draw(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.Run()
+   at Magicka.Program.Main(String[] args)"

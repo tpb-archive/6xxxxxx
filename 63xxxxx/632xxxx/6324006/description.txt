@@ -1,0 +1,162 @@
+Acronis Backup & Recovery Workstation & Server v10.0.13544 with Universal Restore 
+
+
+
+Release notes for Acronis Backup & Recovery 10
+Release date: 13-April-2011
+Build: 13544 
+
+Overview
+This update introduces a new software-as-a-service solution â€“ Acronis Backup & Recovery Online, provides a number of new features to the Acronis Backup & Recovery 10 product line and addresses issues found in previous releases.
+
+To update Acronis Backup & Recovery 10 components while preserving all previous settings, tasks, policies and vaults, it is recommended to install the update build without uninstalling the previous build.
+
+Components can be updated in any order as the product provides version compatibility between components.
+
+Acronis Backup & Recovery 10 update is available for all editions. For a complete list of editions visit: http://www.acronis.com/enterprise/support/updates/. 
+
+New features
+Restore to a new RedHat KVM
+
+The option to recover to a new virtual machine of RedHat KVM type is now available. KVM is a virtual machine implementation that uses an operating system's kernel and allows for greater performance. Generally, KVM refers to a Linux kernel virtualization infrastructure.
+
+Fixed issues and enhancements
+This section lists the issues found in previous releases of Acronis Backup & Recovery 10 that were fixed in the current update.
+
+Installation
+
+Fixed the Agent installation on secondary read-only domain controller. 
+Fixed the issue which occurred when using an Online backup license after installing a trial version of the product on a remote machine. 
+Fixed the issue which occurred when installing the product on a machine with Acronis Disk Director Advanced installed. 
+Fixed the issue which occurred when restarting Acronis Disk Management Service after product installation. 
+Fixed the issue of multiple DCOM errors appearing after Agent installation, if a License manager (llsmgr.exe) is used. 
+Removed mentioning of License Server from Acronis Backup & Recovery 10 standalone editions. 
+Fixed the issue of DCOM local activation permission errors appearing in Event Logs when Fujitsu Agent is installed. 
+Update
+
+Fixed the issue of not preserving the default backup and recovery options when performing an Update installation. 
+Backup
+
+Fixed the issue of backing up only a hidden partition "System Reserved" (without Windows system files). This issue would occur when backing up a guest virtual machine W2K8 R2 on Hyper-V via Acronis Management Server with [System] rule. 
+Fixed the failure of the backup process which occurred when several machines back up to the same vault on a tape (with one drive). 
+Fixed the issue of typing in "@" and "\" symbols in various fields using a German keyboard. 
+Fixed the issue of locking a service account in Active Directory after three logon failures. 
+Fixed the problem with a backup option which allows skipping errors (except for handling bad sectors) in a silent mode. 
+Fixed the problem which occurred when selecting a network share as a storage for a virtual machine while converting to a Hyper-V machine. 
+Fixed the failure of a volume snapshot creation for a DRBD disk backup. 
+Fixed the issue of an incremental slice size occurring when using VSS. 
+Fixed the problem which occurred with the backup deletion process when retention rules are specified. 
+Fixed the problem which occurred when running a backup policy which has square brackets in the name (incorrectly specified URI). 
+Fixed the issue with an error appearing when using square brackets and percentage sign in an archive name. 
+Fixed the issue of incorrect warnings in the log when smtp.gmail.com is specified to send e-mail notifications. 
+Fixed the issue of selecting a dual destination for backing up volumes of a Hyper-V virtual machine. 
+Fixed the issue of a backup failure occurring when using VSS: it can be performed by local administrator only, a message has been added to an options page. 
+Fixed the issue of the ESX VE task hanging on interaction even when a silent mode is enabled. 
+Fixed the problem of Acronis Backup & Recovery Server for Windows recognizing hard drives if XenTools 5.6 is installed. 
+Fixed the issue of hanging at 100% completion when creating a task for a full backup of a partition on a network share if Kaspersky Internet Security 11.0.1.400 is installed. 
+Fixed the problem of validating an archive if a backup created to a network share using file naming such as in Acronis True Image Echo. 
+Fixed the failure of creating a backup of a network share to an online storage. 
+Fixed the issue of removing unfinished backups from Acronis Secure Zone when using command-line mode. 
+Fixed the correct execution of pre- and post-commands according to the backup task changes. 
+Fixed the failure of deploying a backup policy when "Online backup storage" is specified as an archive location. 
+Fixed the error message in the log for a file backup via Acronis Management Server when VSS is enabled. 
+Fixed the failure to create backup plan to an online storage which uses Czech Windows XP operating system. 
+Fixed the problem of the product crashing after the second attempt to enter credentials when editing a backup task. 
+Recovery
+
+Fixed the problem which occurred with One-Click Restore from external USB CD/DVD drives. 
+Fixed the issue of "Decompression error" appearing when restoring from an archive containing 9 millions files. 
+Fixed the disabling smbios service (Intel System Management BIOS Service) by Acronis Universal Restore. 
+Fixed the restore of ESXi4.1 disk backup to the original location from a bootable media. 
+Fixed the corruption of the user rights when restoring with a changed SID on Windows 2008 x32. 
+Validation
+
+Fixed various issues of validation task failures. 
+Fixed the failure of the validation after backup if Echo-style naming is used. 
+Centralized management
+
+Fixed the issue of an incorrect displaying of Active Directory organization units created in a root, during dynamic group creation using this criteria (Active Directory organization units). 
+Fixed the issue of the warning message "Failed to detect installed virtual servers" frequently appearing in the agent log if MCAffe EPO 4.5 is installed. 
+Fixed the storing of the credentials by Management Console in protected storage. Also, fixed the failure of connecting via shortcuts. 
+Fixed the failure of running the Acronis Recovery for Microsoft Exchange/Acronis Recovery for MS SQL Server console from the Management Console. 
+Fixed inheriting IP addresses from Windows by Acronis Startup Recovery Manager. 
+Fixed the collecting of system information on Windows 2003 x64. 
+The "Activate subscription..." link has been removed from tooltip. 
+License Server
+
+Fixed the failure of establishing a remote connection to a License Server if SSL encryption is enabled on both ends. 
+Management Server
+
+Fixed the turning on of Windows Event Logs for Acronis Management Server. 
+Fixed the synchronization with Agents after restoring Acronis Management Server. 
+Linux
+
+Fixed the request for unexpected credentials which occurred when attempting to access NFS drives without access permission. 
+Fixed the problem of media crashing when backing up a specific symbolic link. 
+Fixed the problem that occurred when trying to install Acronis Backup & Recovery 10 on a Linux machined which has weak-modules and Hyper-V Linux Integration Services. Kernel panic would occur on this type of Linux machine. 
+Fixed the problem of remote connections by non-root users, even if they are specified in Acronis_Trusted group. 
+Fixed the issue of restoring access rights to the files after restore. 
+Virtualization
+
+Virtual machine conversion to Citrix XenServer 5.6 is now supported. 
+Fixed the issue of saving the previously specified settings in "Convert to VM" section (conversion type, host, server) after changing the backup policy. 
+Fixed the problem of hanging ESX VA tasks on interaction when silent mode is enabled. 
+Fixed the failure of applying a backup policy via Acronis Management Server on a virtual machine with dynamic disks. 
+Fixed the problem of restoring enhanced VMXNET2 adapter to a new virtual machine. 
+Fixed the failure of access to VM's harddisk if vCenter uses "&" or "<" symbols in a password. 
+Fixed the issue of an unexpected number of VHD files in Hyper-V's HDD storage while converting. 
+Hyper-V: fixed the problem of backing up a guest virtual machine with dynamic disks. 
+Fixed the failure of starting Acronis PXE service. 
+Fixed the failure of the automatic conversion after backup of ESX VM to ESX. 
+Fixed the failure of backing up the second hard drive on ESX guest through a backup policy. 
+Fixed the problem of restoring the static IP address after VM recovery to an existing virtual machine via ESX VA. 
+Bootable media
+
+Fixed the issue of displaying Acronis Secure Zone in Personal vaults while selecting a path for a destination location. 
+Fixed the problem of bootable media hanging while loading on a virtual machine created on a Hyper-V SCSI disk. 
+Fixed the issue of displaying an incorrect disk size for Hyper-V Virtual IDE hard disks. 
+Fixed the failure of creating Acronis Secure Zone if an EISA partition is present on a disk. 
+Fixed the problem of adding drivers to WinPE by using Bootable Media Builder for WAIK in Windows 7. 
+Fixed the Bootable Environment: Active Restore now works correctly. 
+Fixed the failure of activating Acronis Startup Recovery Manager from a bootable media created on a flash drive. 
+Fixed the failure of creating a Linux-based bootable media after installing Acronis Universal Restore. 
+WinPE
+
+Fixed the Universal Restore failure which occurred several minutes after starting. 
+Acronis Loader
+
+Fixed the issue of Acronis Loader crashing in Acronis Startup Recovery Manager if F11 key is pressed multiple times. 
+Fixed the problem of Acronis Loader locking up when booting a VM on VMware vSphere Server 4.1.0. 
+Online Help
+
+The main text style has been changed in Web Help publication. 
+Documentation
+
+Fixed the functioning of a help button in Disk Management on import foreign disk window. 
+Fixed the description of the SSL certificate storage in the Help/User Guide. 
+Fixed the description of the licensing policy in the Help/User Guide. 
+ACEP
+
+No personal data is required for ACEP now. 
+Known issues
+This section describes issues that are currently known and provides workarounds or advice on how to avoid the issues.
+
+A size of incremental backups of ESX VM with LVMs are almost equal to a size of a full backup. 
+Booting from a media uploaded to WDS on Windows 2008 R2 fails. It is recommended to create a bootable media with WinPE in 'wim' mode and then upload it to WDS to boot correctly. 
+A validation task for an online backup takes too long to complete. 
+Updating Acronis Management Server from the previous build may fail, if a computer name contains more than 15 characters. As a workaround, make your computer name less than 15 characters.
+
+Supported operating systems (Workstation)
+Windows 2000 SP (Service Pack) 4+
+Windows XP SP2+ x32 and x64 Editions
+Windows Vista all SP x32 and x64 Editions
+Windows 7 x32 and x64 Editions* 
+
+Supported operating systems (Server)
+Windows 2000 Server SP 4+
+Windows 2003 Server SP 2+ x32 and x64 Editions
+Windows 2008 Server SP2 x32 and x64 Editions*
+Windows 2008 Server Foundation 
+Windows 2008 Server R2
+
+ 

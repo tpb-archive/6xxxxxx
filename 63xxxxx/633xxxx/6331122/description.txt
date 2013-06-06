@@ -1,0 +1,46 @@
+Format : Matroska
+File size : 597 MiB
+Duration : 1h 38mn
+Overall bit rate : 847 Kbps
+Encoded date : UTC 2011-04-14 10:08:38
+Writing application : mkvmerge v4.6.0 ('Still Crazy After All These Years') built on Mar 10 2011 02:50:32
+Writing library : libebml v1.2.0 + libmatroska v1.1.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Container profile=Unknown@3.1
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 38mn
+Nominal bit rate : 781 Kbps
+Width : 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.034
+Writing library : x264 core 114 r1913 5fd3dce
+Encoding settings : cabac=1 / ref=3 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=hex / subme=5 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=781 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format version : Version 4
+Format profile : LC
+Format settings, SBR : Yes
+Format settings, PS : No
+Codec ID : A_AAC
+Duration : 1h 38mn
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+
+no subs enjoy and SEED!

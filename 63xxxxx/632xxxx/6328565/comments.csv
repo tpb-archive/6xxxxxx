@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,romeo49000,2011-04-19T23:56Z,can u get us the incredibles in brrip please ?
+,12uel,2011-04-23T09:05Z,"is it just me? the dialogue on audio is mainly just on the right speaker. I even set the audio out to stereo or 5.1 setup on vlc media player, dialogue still just on the right speaker, anybody else have this problem?"
+,ro4eva,2011-04-30T00:19Z,"@ 12uel
+
+You are correct.  Whoever mixed the audio somehow managed to get the center and right channels (it's a 5.1 mix) swapped.
+
+It's an easy fix though if you have MKVExtract, Audacity (with FFMpeg for Audacity) and MKVMerge.
+
+Simply demux the video and audio tracks.
+
+Open the audio track in Audacity, select all and export selection as an AC3 file (640kbps recommended in settings).  Then when FFMpeg pops up, simply swap track 2 and 3 (track 2 -> Channel 3 / track 3 -> Channel 2) and click OK to start encoding.
+
+Once you've got your fixed AC3 file encoded, use MKVMerge to mux it with the video track you demuxed earlier and you're done."

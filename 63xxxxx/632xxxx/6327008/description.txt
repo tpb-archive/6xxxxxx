@@ -1,0 +1,45 @@
+18-04-2011
+
+how to create Hiren's Boot USB 10.0 on stick (flash)
+-----------------------------------------------------
+follow next steps:
+
+1-usb format
+in windows: 
+right-click on stick --> format --> file system: FAT32 --> Quick Format: on --> START
+it's easy and it's working 100%.
+
+or if you like, try using the program usb_format:
+usb_format <enter> 
+(in windows 7 - right click - run as administrator)
+
+
+
+2-grubinst
+grubinst_gui <enter>
+(in windows 7 - right click - run as administrator)
+
+
+3-copy hbcd, grldr, menu.lst
+
+copy to stick:
+
+-grldr
+-menu.lst
+-content of Hiren's.BootCD.10.0.iso
+	HBCD
+	autorun.inf
+	BootCD.txt
+
+
+
+
+4-set in BIOS
+-first boot: USB-HDD (or USB-flash)
+-HDD order: USB-flash, internal HDD
+
+boot on USB-HDD (or USB-flash)
+
+enjoy
+
+

@@ -1,0 +1,106 @@
+Directions
+
+Just unrar/extract the files to where you like, mount and enjoy!
+
+
+Before you start, you must understand that...
+
+1. You will not be able to install the game using these mini images. You need to download the game installer, install that and use these mini images to play.
+
+2. You can search the installer using Demonoid's search function. If I'm not mistaken, we're not allowed to post links of torrents available at other sites but just to be on the safe side, I would suggest checkingand ThePirateBay and use their fantastic search boxes *wink
+
+3. If you cannot mount the mini image using Daemon Tools it might be that you have an old version and just need to update Deamon Tools to the latest one that's readily available on their site.
+
+4. I strongly suggest reading this entire page for a few mins rather than spending countless hours of troubleshooting your issue that could've been avoided in the first place by understanding the instructions and points laid out.
+
+
+
+IMPORTANT: If you've used cracks on your installation, before using the mini image, please make sure that you've removed the cracks and have the original files restored to its original state. Otherwise, just uninstall everything and start from scratch. Don't forget to back up your game data before uninstalling any Sims game!
+
+
+Install Instructions
+
+This expansion only requires that you have The Sims 3 installed so other expansions are not required to be present before installing. Steps are appropriately marked optional for your convenience.
+
+Reminder: At no point in any of the installation procedure should you crack, replace, hack etc. any of the Sims 3 base game files or its expansions regardless of the installation instructions provided by the source of your installer images. 
+
+
+
+The Sims 3 Outdoor Living Stuff Quick Installation (If you already have The Sims 3 base game and/or expansions installed)
+
+1. Install the complete The Sims 3 Outdoor Living Stuff normally, including the EA Download Manager
+2. Launch The Sims 3 Outdoor Living Stuff using the default shortcut created by the game, usually on the desktop, go to Updates and let the game update everything (if updates are available).
+3. Mount The Sims 3 Outdoor Living Stuff Mini Image (It's the .mds file) using Daemon Tools or whatever disk mounting software you use.
+4. Play the game as normal using the default game launcher and enjoy!
+
+
+
+The Sims 3 Outdoor Living Stuff Installation (Full Install/Starting from scratch)
+
+1. (Required) Install the complete The Sims 3 normally, including the EA Download Manager
+2. (Optional) Install the complete The Sims 3 World Adventures normally, including the EA Download Manager
+3. (Optional) Install the complete The Sims 3 High-End Loft Stuff normally, including the EA Download Manager
+4. (Optional) Install the complete The Sims 3 Ambitions normally, including the EA Download Manager
+5. (Optional) Install the complete The Sims 3 Fast Lane Stuff normally, including the EA Download Manager
+6. (Optional) Install the complete The Sims 3 Late Night normally, including the EA Download Manager
+7. Install the complete The Sims 3 Outdoor Living Stuff normally, including the EA Download Manager.
+8. Launch The Sims 3 Outdoor Living Stuff using the default shortcut created by the game, usually on the desktop, go to Updates and let the game update everything (if available).
+9. Mount The Sims 3 Outdoor Living Stuff Mini Image (It's the .mds file) using Daemon Tools or whatever disk mounting software you use.
+10.Play the game as normal using the default game launcher and enjoy!
+
+
+Note: Using the mini image is similar to using the original installation disk(s) of the game. It makes the game think that the original disk is inserted in your CD/DVD drive and will let you use the game like the original. You can use the game in its entirety without ever needing to use cracks or No-DvD bypass files. You can update the game using EA Download Manager, Login the Sims community and use your custom contents as normal.
+
+
+
+FAQs
+
+1. Which mini image do I use if I have all or some of the expansions/Stuff packs for The Sims 3? Just use the latest released game's mini image, in this case The Sims 3 Outdoor Living Stuff mini image. The Sims 3 game will only check the CD/DVD of the latest expansion installed based on release, not based on installation order. Once you've installed any previous or older Sims 3 expansions/Stuff packs it will not require their corresponding CD/DVD for the actual game play.
+
+2. Will I be able to login to the Sims community using the launcher? Yes.
+
+3. Will I be able to use my custom contents? Yes.
+
+4. Will I be able to use all my saved game data without any problems? Yes.
+
+5. What do you mean by mounting? It means opening the file with a virtual CD/DVD disk using tools such as Daemon Tools, Alcohol 120%, Magic Disks, etc... (I personally use Daemon Tools for this purpose)
+
+6. Do I need to use game cracks in the future? No.
+
+7. I receive a region code error and wonâ€™t let me continue with the installation. What do I do? For people having this error or SKU version errors this is what you do;
+
+7.a. Open regedit by pressing Win+R or click on start then Run and typing regedit then press enter.
+7.b. Navigate to;
+For 32-Bit OS: HKEY_LOCAL_MACHINE\SOFTWARE\Sims\The Sims 3
+For 64-Bit OS: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Sims\The Sims 3
+7.c. Find the key on the right side of the windows that says SKU
+7.d. Double click it and change the value to 2, make sure it's in Decimal value. This will tell the installer that you're using the international version and let you install the games downloaded off the internet ;)
+7.e. Close regedit and proceed with the installation as normal.
+
+8. When I try to mount the image download, it won't let me use it. What do I do? Make sure that the download has completed 100% and you've extracted the image in a different location. You cannot mount it while it's still in its rar form or if the game is not completely downloaded.
+
+9. I've followed everything to the letter, but still I'm getting errors. What now? Please review my previous posts and the items in this guide as well as the other posts from other posters, they might provide you with the answers on issues you're currently encountering that you just might have overlooked.
+
+10. I've done that, reviewed everything and still I can't install and run the game. Now what? First, backup your game data to a separate location. Second, Uninstall everything and make sure that the Sims Directory in program files has been deleted completely, if not, delete it manually. Third, restart. Fourth, Install everything from scratch.
+
+11. Will I be able to use this or any mini image to install the complete game? No. Mini images only contain the physical disk markers/inventory that the game checks to see whether you have the actual CD/DVD or not. Mini images DOES NOT contain the actual files of the game. 
+
+12. Do I really need to install EA Download Manager? Yes. It will easily help you update any of your Sims 3 base game and expansion packs if there's any available. The only reason why hacked games advice against installing this is that updates will fail on hacked/cracked games and produces a bunch of errors during updates that makes some users go crazy why all these are happening. Also to avoid lengthy explanations ;)
+
+
+If you still have problems with your game or have encountered an unusual situation, you can send me a PM and I'll try help out as much as I can. If you just post, I might not be able to see it.
+
+
+The Sims 3 Fast Lane Stuff Mini Image can be downloaded from here:
+
+The Sims 3 Ambitions Mini Image can be downloaded from here:
+
+The Sims 3 World Adventures & The Sims 3 High-End Loft Stuff Mini Image can be downloaded from here:
+
+The Sims 3 Late Night can be downloaded from here:
+
+As always, if you like the game, please support the developer by buying the game.
+
+I hope this will help some of you. Enjoy!
+
+I take no credit for this, the original uploader was NosferatuxXx on Demonoid

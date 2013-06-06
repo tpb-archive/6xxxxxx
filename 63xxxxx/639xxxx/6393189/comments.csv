@@ -1,0 +1,87 @@
+User Type,Username,Date,Text
+,kieronhunt,2011-05-24T12:41Z,"works great, thanks"
+,geekyfun,2011-08-17T22:35Z,"please explain the whole installion oredr/process ! crashes on startup, 10.6.8"
+,evans1256,2011-10-14T00:55Z,It says that i have got a fatal error and then i have to download it again!!!!
+,evans1256,2011-10-14T00:56Z,I have the requirements it says of tntvillage
+,xoozn,2012-01-18T11:14Z," There is to files on folder, one of dmg and the other install one , I tried 2 of them. Installed one wants DVD and dmg one gave me this,
+Process:         Ford Racing 2 [1857]
+Path:            /Volumes/FR2.1.0.1.NoDVD.Cracked/Ford Racing 2
+Identifier:      com.Razorworks.FR2
+Version:         1.0.1 (1.0.1)
+Code Type:       PPC (Translated)
+Parent Process:  launchd [124]
+
+Date/Time:       2012-01-18 12:28:23.286 +0200
+OS Version:      Mac OS X 10.6.8 (10K549)
+Report Version:  6
+
+Interval Since Last Report:          114493 sec
+Crashes Since Last Report:           6
+Per-App Interval Since Last Report:  471 sec
+Per-App Crashes Since Last Report:   6
+Anonymous UUID:                      27BBAEFE-38E2-4175-B7F8-FE56E68FCF32
+
+Exception Type:  EXC_BAD_ACCESS (SIGBUS)
+Exception Codes: KERN_PROTECTION_FAILURE at 0x0000000000000014
+Crashed Thread:  5
+
+Thread 0:
+0   LaunchCFMApp                  	0xb815aa8b spin_lock_wrapper + 89587
+1   LaunchCFMApp                  	0xb818c3eb CallPPCFunctionAtAddressInt + 173427
+2   LaunchCFMApp                  	0xb818eeec CallPPCFunctionAtAddressInt + 184436
+3   LaunchCFMApp                  	0xb80c6b13 0xb8000000 + 813843
+4   LaunchCFMApp                  	0xb80c0037 0xb8000000 + 786487
+5   LaunchCFMApp                  	0xb80dd8e8 0xb8000000 + 907496
+6   LaunchCFMApp                  	0xb8145397 spin_lock_wrapper + 1791
+7   LaunchCFMApp                  	0xb801ceb7 0xb8000000 + 118455
+
+Thread 1:
+0   libSystem.B.dylib             	0x80142afa mach_msg_trap + 10
+1   libSystem.B.dylib             	0x80143267 mach_msg + 68
+2   LaunchCFMApp                  	0xb819440f CallPPCFunctionAtAddressInt + 206231
+3   libSystem.B.dylib             	0x80170259 _pthread_start + 345
+4   libSystem.B.dylib             	0x801700de thread_start + 34
+
+Thread 2:
+0   LaunchCFMApp                  	0xb815acc0 spin_lock_wrapper + 90152
+1   LaunchCFMApp                  	0xb8179c5b CallPPCFunctionAtAddressInt + 97763
+2   LaunchCFMApp                  	0xb80c6b13 0xb8000000 + 813843
+3   LaunchCFMApp                  	0xb80c0037 0xb8000000 + 786487
+4   LaunchCFMApp                  	0xb80dd8e8 0xb8000000 + 907496
+5   LaunchCFMApp                  	0xb8145397 spin_lock_wrapper + 1791
+6   LaunchCFMApp                  	0xb801ceb7 0xb8000000 + 118455
+
+Thread 3:
+0   LaunchCFMApp                  	0xb815a8ff spin_lock_wrapper + 89191
+1   LaunchCFMApp                  	0xb8176e5d CallPPCFunctionAtAddressInt + 85989
+2   LaunchCFMApp                  	0xb80c6b13 0xb8000000 + 813843
+3   LaunchCFMApp                  	0xb80c0037 0xb8000000 + 786487
+4   LaunchCFMApp                  	0xb80dd8e8 0xb8000000 + 907496
+5   LaunchCFMApp                  	0xb8145397 spin_lock_wrapper + 1791
+6   LaunchCFMApp                  	0xb801ceb7 0xb8000000 + 118455
+
+Thread 4:
+0   LaunchCFMApp                  	0xb815a8ff spin_lock_wrapper + 89191
+1   LaunchCFMApp                  	0xb8176e5d CallPPCFunctionAtAddressInt + 85989
+2   LaunchCFMApp                  	0xb80c6b13 0xb8000000 + 813843
+3   LaunchCFMApp                  	0xb80c0037 0xb8000000 + 786487
+4   LaunchCFMApp                  	0xb80dd8e8 0xb8000000 + 907496
+5   LaunchCFMApp                  	0xb8145397 spin_lock_wrapper + 1791
+6   LaunchCFMApp                  	0xb801ceb7 0xb8000000 + 118455
+
+Thread 5 Crashed:
+0   LaunchCFMApp                  	0xb80c5d10 0xb8000000 + 810256
+1   LaunchCFMApp                  	0xb80c0037 0xb8000000 + 786487
+2   LaunchCFMApp                  	0xb80dd8e8 0xb8000000 + 907496
+3   LaunchCFMApp                  	0xb8145397 spin_lock_wrapper + 1791
+4   LaunchCFMApp                  	0xb801ceb7 0xb8000000 + 118455
+
+Thread 6:
+0   libSystem.B.dylib             	0x80168412 __workq_kernreturn + 10
+1   libSystem.B.dylib             	0x801685c6 start_wqthread + 30
+
+Thread 5 crashed with X86 Thread State (32-bit):
+  eax: 0x00000014  ebx: 0xb80c5ce8  ecx: 0x00000000  edx: 0x00000016
+  edi: 0x00000014  esi: 0x80a058a0  ebp: 0xb0220e38  esp: 0xb0220e00
+   ss: 0x0000001f  efl: 0x00010202  eip: 0xb80c5d10   cs: 0x00000017
+   ds: 0x0000001f   es: 0x0000001f   fs: 0x0000001f "

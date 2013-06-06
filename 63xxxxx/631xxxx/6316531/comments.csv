@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+[V],polisdavid,2011-04-13T20:57Z,Thank You Seeders!!   * â)
+[V],polisdavid,2011-04-13T23:09Z,After 4 hours the license key wore out - so I used the one from serial box - will tell you if that one runs out too...   :-(
+,ninline,2011-04-14T05:17Z,this application guards your computer from the inside out.  I've been using it for years to keep my applications from talking to people behind my back.  I am amazed at how much communication goes on without the average user ever knowing about it.  I run plenty of cracked software but frankly I think it's unwise to use this without a legitimate license.  Don't try to cheat the people that have your back.  
+[V],polisdavid,2011-04-14T07:40Z,"The SerialBox sn does NOT time out!! 
+
+As for the last comment, I'll keep it in mind..."
+,mariuspmg,2011-04-14T11:19Z,"After unzip, error with message ""broken or incomplete"""
+,willtard,2011-04-22T11:34Z,"@mariuspmg : You need to right clic on the uncompressed package and select show content package.
+
+@polisdavid : Some parameter missing in the installation guide. You have to had the little snitch agent in the block list in little snitch rules : 
+/Library/Little Snitch/Little Snitch UIAgent.app -> Deny any Server, Any port, Any protocol, and enable it."
+[V],polisdavid,2011-04-22T18:45Z,Thanks for that info willtard! :-)
+,mnegao,2011-04-28T06:05Z,"I agree with ninline, so I bought a license. Before that, I made it working longer using cron schedule service to stop and restart the little snitch service before it expires (4 hours)."

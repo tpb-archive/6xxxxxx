@@ -1,0 +1,41 @@
+MoveCopyJpg V2.1
+Date: Maj 1, 2011
+Short Description: Copy/Move JPG/GIF/PNG images recursively within subfolders.
+
+
+Developers note:
+
+A small but very useful tool, especially after ripping/copying entire websites and you need to find the images inside all the chaos.
+
+Works with .JPG, .GIF and .PNG files.
+
+I desided to make this small application after using the HTTrack Website Copier that copied images in their respective folders. Which meant that I had to go through alot of folders and copy each one .... one folder at a time.
+
+Requirements: .NET 3.5 and additional V2.0 .NET framework
+
+
+
+Here\'s how to use the application:
+
+
+Run the application (dobbeltclick the MoveCopyJpg.exe icon :-)
+
+Choose what kind of images you want to copy/move using the radiobuttons - Jpg, Gif or Png
+
+Choose wether to move or copy files - leaving the checkbox unchecked will just copy the files.
+
+Input minimum width and minimum height of the images that you want to copy/move - Entering anything larger than 0 in either boxes will make the application check each image which of course will use a considerable amount of extra time.
+Leaving the boxes empty or entering 0 will jump across the imagesize checking and move/copy very fast.
+
+
+Click \"Go!\" and a folder dialog will open where you first choose the source folder.
+
+After clicking \"Ok\" in the first folder dialog, another folder dialog opens where you choose the destination folder (where you want to copy/move the files to\"
+
+Click \"Ok\" and everything is cool. After it finish a messagebox with some info appears.
+
+
+- (C) 2011 114 Dasma Software, Philippines
+Applications Games SEO  http://114-software.blogspot.com/
+
+

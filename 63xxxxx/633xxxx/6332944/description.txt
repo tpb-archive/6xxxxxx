@@ -1,0 +1,19 @@
+Merge of flt and ALI213 update+crack, and added smartsteam.
+
+Only English update files, skipped all other languages and the the Chinese things.
+
+This "fix" requires steam to be installed on the PC (not included), and makes use of smartsteam (included).
+It's recommended that you make a new steam account as not to risk your regular one.
+Smartsteam can be run parallel to regular steam, but only one at the time.
+
+Only tested this patch on v1.0.0 of the game, 
+build after applying the patch is 3272.0 
+
+HOWTO:
+Unzip and replace all files in the shogun 2 folder.
+1. Create a new steam account, you don't want to use your regular account with smartsteam.
+2. Exit Steam.
+3. Start smartsteam (either by using the x64/x86 in the smartsteam folder, or by copying smartsteam to your steam folder and starting it from there)
+4. Start Shogun2.exe and enjoy multiplayer LAN games.
+
+Notice: you might want to use "Tunngle" to connect with other players online to play "LAN" games over the Internet.

@@ -1,0 +1,97 @@
+-
+http:// www . Speed .Cd
+http:// www . Speed .Cd       the fast  and The Hottest Private Tracker on the net
+
+Please Seed back to make the speed Faster!!!
+
+and don't forget to visit .......www . Speed .Cd  ......
+
+
+ ............ NFO .............
+-
+
+
+                                                   
+                                                      
+                                                        
+                                                      
+                                                     
+                                                 
+                                    
+                         
+                  
+             
+           
+               
+                 
+          
+                   
+                              
+            . ..:: info ::.. .          
+                                             
+                Smallville                
+                                            
+          Episode.......: S10E17             
+          Release Date..: 2011-04-15         
+          Release Size..: 1065.13Mb       
+          Play Time.....: 41:47         
+          Resolution....: 1280x720              
+          Video bitrate.: 3157kbps        
+          Audio info....: 6ch, 384kbps        
+          Subtitles.....: N/A          
+        CRF value.....: 20.0        
+                  
+                                                
+                                 notes ::.. .      
+                                                   
+                                                          
+                                                         
+                                                        
+                                                         
+                                                           
+                                                           
+                                                       
+                    oPi
+                        '09                                
+                                                               
+                        
+CRF? What is it good for? Absolutely everything!
+
+Unlike  XviD  that  has  no real constant rate factor unless you are doing  full
+first  pass  only  the  x264 codec offers us a great option called CRF. What  it
+means  is  constant quality throughout an encode based on CRF value. You are  no
+longer  limited  by some vague bitrate restriction you let the codec decide  for
+you what bitrate is needed without size restrictions. If your source is full  on
+action,  grainy etc it will get a higher bitrate, if it's a dark action-free  it
+will get less. No more obscenely large files for sources that don't need it,  no
+more  shit  quality  cause  the  source  didn't  compress  but  did   meet   the
+bitrate/target  size. Does anyone really still archives on cdrs/dvdrs? not  many
+I would bet so who cares about DVDR/x sizes? If anything with CRF you'd be  able
+to  fit  even  more  eps into your DVD5 cause shows like Grey's Anatomy,  House,
+In Treatment etc DO NOT need 1120mb sizes but far less.
+
+Other  benefits?  sure, right now every live from air x264 group finds the  most
+cunning ways to pre faster, so the bare minimum within allowed settings is used,
+with CRF that can finally change. Settings can be upped, release sizes will  fit
+the show and not some random bitrate setting. win win.
+
+A bit about CRF: 
+https://trac.handbrake.fr/wiki/CRFGuide
+
+Constant  Rate  Factor  will compress different frames by different amounts.  It
+does this by taking motion into account. The eye perceives more detail in  still
+objects  than  when  they're in motion. Because of this, a video compressor  can
+apply more compression (drop more detail) when things are moving, and apply less
+compression (retain more detail) when things are still. Subjectively, the  video
+will  seem  to  have higher quality. If you were a computer, you would look at a
+CRF  encoding  and  say it was lower quality than the CQP copy. And it would be.
+But  if  you're  a  human being, subjectively, the CRF copy will look better. It
+least  compresses  the parts you see the most, and most compresses the parts you
+see  the  least. When you use a constant rate factor, it varies the QP slightly.
+When  a  scene has a lot of action and motion, it will raise the QP (compressing
+more).  This  is because your eye will be distracted by everything going on, and
+won't  have  the image on screen for enough time to see the heavier compression.
+When  a frame doesn't have a lot of motion, it will lower the QP, compressing it
+less.  This is because your eye will have more time to look at the image, so you
+want  it  to  be  as  much  like the source as possible. When you use CRF you're
+saying  "use  whatever  bitrate  is  necessary  to  preserve  this much detail."

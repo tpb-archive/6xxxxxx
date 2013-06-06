@@ -1,0 +1,25 @@
+User Type,Username,Date,Text
+,Dalareaux,2011-04-30T20:50Z,"This movie looks hilarious, can't wait to see it."
+,virgilonascent,2011-04-30T21:35Z,Hey great up but its going pretty slow pls seed this so we can all join in on the good times
+[V],hiest,2011-05-01T03:09Z,"@ people
+
+I have been telling people not to invest money in sh!tty video players.
+
+Why do people use other players when VLC is free!
+
+i understand that sh!t happens, but you can't say that when you had everything including toilet paper!!
+
+Sorry for overreacting, i just wanna recommend vlc player:)"
+,jeff.wright-,2011-05-01T03:34Z,"Just to be sure, this is not the WorkPrint version, right? I'm at 12.1% and kind of afraid of downloading a version I don't really want."
+,fillinthisspace,2011-05-01T17:50Z,"@ hiest,
+If yeti is using MPC he/she needs to upgrade to MPC-HC. Personally I find it a much better media player then VLC. It's also free.
+
+Unlike VLC however, MPC-HC will use external filters and system codecs (VLC has a setting for doing so which it seems to completely ignore) which can cause audio sync problems with some files. I've remuxed many MP4s to find the remuxed copy then plays perfectly using a combination of MPC-HC, Haali media splitter and ffdshow.
+
+Many people use MPC-HC as part of a Combined Community Codec Pack installation (or similar) which has it using system codecs, but if you install MPC-HC on it's own, out of the box it'll use it's internal filters and codecs just like VLC does. Or alternatively enabling MPC-HC's internal MP4 (MKV etc) source filters manually which will also fix most sync problems with problematic files (it'll play them just like VLC).
+
+Thanks for the upload.... I'm looking forward to watching the movie... with MPC-HC.  ;-)
+
+CCCP on VLC:
+http://www.cccp-project.net/wiki/index.php?title=Media_Players#VLC_media_player_.28Bad.2FEvil.29"
+,fillinthisspace,2011-05-01T18:22Z,Forgot to add.... MPC-HC supports DXVA (GPU decoding) on XP. VLC doesn't.

@@ -1,0 +1,24 @@
+MoveCopyImage V2.2
+Date: Maj 5, 2011
+Short Description: Copy/Move JPG/GIF/PNG images recursively within subfolders.
+
+Note: New name - from MoveCopyJpg to MoveCopyImage
+
+
+Developers note:
+
+A small but very useful tool, especially after ripping/copying entire websites and you need to find the images inside all the chaos.
+
+Works with .JPG, .GIF and .PNG files.
+
+I desided to make this small application after using the HTTrack Website Copier that copied images in their respective folders. Which meant that I had to go through alot of folders and copy each one .... one folder at a time.
+
+I found a small "feature' that I had to fix - that's why this V2.2 is already published.
+When copying or moving files, the application would just overwrite any existing file with the same name. Now all files will be renamed as either decimal or hexadecimal. Should you have files within the folder with the same renamed names, it will still overwrite them, so make sure to move those files.
+E.g. 00000010.jpg or 0000000A.jpg
+
+Requirements: .NET 3.5 and additional V2.0 .NET framework
+
+
+- (C) 2011 114 Dasma Software, Philippines
+Applications Games SEO  http://114-software.blogspot.com/

@@ -1,0 +1,28 @@
+User Type,Username,Date,Text
+[T],iqeiqe,2011-05-13T01:54Z,"Sh!t, wrong description.
+
+Should be:
+
+219 Grave Sights (720p)
+x264 Ac3
+1280x720"
+,Furly_,2011-05-13T04:31Z,Thx dude you never disappoint.
+,99jay88,2011-05-13T09:44Z,"Just out of curiosity (I'm honestly not bitching about this) but what is an .mkv file?  After I download these episodes I always have to run them through xmedia recode to get them to play on my xbox 360.  My computer is a measly dual core laptop so it takes about an hour to convert one 11 minute episode.  I'm happy to do it, since, thanks to you, I can at least download the show,  but I have noticed that other shows I download are already in an mp4 format that my xbox 360 can play.  Sorry for my noob question."
+[T],iqeiqe,2011-05-14T04:36Z,"Glad to help, Furly
+
+
+
+99jay88, .mkv is simply a container, just like .avi, and .mp4. All they (typically) do is hold both, a video and audio stream. Now that we know what a container is I can elaborate. 
+
+You never actually do anything to the container, you encode the streams inside the container. Since both, .mp4 and .mkv can hold H264 streams, you can demux the video stream from the .mkv file and mux it into a .mp4 container without a need to convert/transcode anything. However, Xbox360, PS3 and other ""standalone"" players place restrictions on the files and which settings can be used. Each system tends to place their own restrictions and is therefore, extremely difficult to create a file that plays well with most players, while keeping file size and quality at a decent ratio. In order to avoid releasing huge files or shit quality ones, I use the best possible settings that I can (without overdoing it so as to minimize encoding speed).
+
+Why don't I choose settings that are compatible with Xbox360? Well, because I personally don't have one. I don't have a PS3, or just about any other system. All I have is an iPod Touch but if I release files based on those specifications, I would have bad quality and a bunch of AT and RS fans pretty pissed off at me. Not to mention I don't watch videos on that device. Since I release these files based on my needs, I release them with the best possible settings, since I have no need for anything less. 
+
+Why do I use .mkv and not .mp4? Well honestly, I do it because .mkv has become a 'standard' and since its overhead is slightly smaller (not very noticeable), I just see it as the right choice. 
+
+I'm sorry, I can't please everyone while keeping myself satisfied. I could do what iTunes does and release bigger files that are more compatible, but you can only get so much from an HDTV feed and a limited internet connection. I think making filesizes huge would be a waste of space.
+
+Well, I believe I answered your question+, hope it was helpful."
+,JK47NT,2011-05-17T00:36Z,"Again, you are my favorite on here and on Demonoid. You are the only Regular Show person on the Internet I like because most other people are those yaoi weirdos. But yeah just keep being awesome. I don't mind waiting a day or two for an upload, because I know you are great and consistent and will get them uploaded. "
+,99jay88,2011-05-17T07:24Z,Thanks for the super informative response.  How would I go about demuxing the video from the mkv container and muxing it into an mp4 container?
+,dogmit,2011-05-20T20:05Z,Try mkvtoolnix for instance. It's an easy way to get it done without baffling settings.

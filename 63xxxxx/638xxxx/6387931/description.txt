@@ -1,0 +1,26 @@
+Unwrella 2.13 For Maya 2012 (x86/x64)
+
+Unwrella is now available in version 2.11 for Autodesk 3ds Max and Autodesk Maya. The Maya release adds features of the recent 3ds Max release to the Maya version and offers you optional automatic seam placements based on the meshâ€™s topology.
+
+Changes in Unwrella 2.11 for Maya:
+
+* Added support for Autodesk Maya 2011
+* Added the option to place automatic seams at grooves in the mesh where they are better hidden.
+* Added the option to place automatic seams at ridges in the mesh to provide clear cuts for hard surface models.
+* Simplified user interface to make using the plug-in even more intuitive.
+* Enhanced unwrap results for specific cases. This results in less fragmentation of coherent surfaces.
+
+At the same time Unwrella for 3ds Max has been updated to version 2.11 including some corrections for unwraps with non-square aspect ratio.
+
+Unwrella is compatible with:
+
+* Maya 2011 32 bit
+* Maya 2011 64 bit
+* Maya 2010 32 bit
+* Maya 2010 64 bit
+
+Requirements:
+
+* Microsoft .NET 2.0 installed
+* Microsoft DirectX 9.0c
+

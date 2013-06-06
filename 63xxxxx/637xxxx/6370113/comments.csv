@@ -1,0 +1,115 @@
+User Type,Username,Date,Text
+,deep92,2011-05-06T04:05Z,"Sorry about all the random backslashes, TPB screwed up after I failed at captcha D:
+
+Star Wars Knights of the Old Republic II: The Sith Lords is located here: http://thepiratebay.org/torrent/6370116
+
+Have fun!"
+,nymac11,2011-05-07T18:56Z,"someone needs to upload Star Wars The old Republic
+been looking for it a while now."
+,deep92,2011-05-08T17:38Z,"Star Wars The Old Republic is an MMORPG in the makes. It's not yet finshed and only a closed beta is available.
+http://www.swtor.com/ is the offical website for it.
+
+The only available parts of the series is this download (KotOR) and my other download (KotOR 2 - TSL)
+Don't think there's anything like a private server for The Old Republic either. But I didn't look for it either, so who knows."
+,Millor1,2011-05-29T12:56Z,"Alright so this version doesn't work either, I followed the steps exactly, but this game does not start up on my computer at all no matter what I do. Is there seriously anything else I can do if I still get start up errors? If not, does the steam version also have these problems or no?"
+,deep92,2011-05-29T15:50Z,"@Millor1: What issues do you get? Any errors? Try the LucasForums thread (in discription) and see if your problem is posted and answered somewhere in that thread.
+
+And I got told the steam version works without troubles. You could ask Valve that though, but I'm quite certain it works perfectly fine.
+
+PS: It's known that even if you follow all these steps, it just won't work on some PCs.
+I personally spent about a week to get this game to work, and finally came up with these steps and it always has worked with these steps ever since."
+,Millor1,2011-05-30T13:42Z,"I launch the game and it instantly gives me an error and doesn't start, and I get the thing that pops up saying it stopped the process to prevent damage or some shit like that."
+,deep92,2011-05-31T16:56Z,"Please copy the (or part of) the error. I may be able to help, who knows. But with just ""an error"" I can't help, need more specifics."
+,fuuzz,2011-06-01T20:26Z,"give me a seed pls pls pls
+
+
+thank u very much"
+,BokuWaKiraDesu,2011-06-09T03:13Z,"I am having issues with the game, I can load it up but all models, and i mean all, that are not CGI are completely messed up, like it looks like they were exploded and i just have weird very long triangles shooting out in each direction. Please help"
+,deep92,2011-06-09T10:12Z,"That sounds more like a Graphics Card issue then an issue with the actual game. I have never heard of it.
+I guess you should try to update all your drivers, Direct X and possibly reinstall the game."
+,BokuWaKiraDesu,2011-06-09T16:34Z,I just bought it through steam and it works perfectly so maybe something got messed up when I was installing it from here or something
+,deep92,2011-06-10T16:35Z,The version from Valve (Steam) has been modified for Windows Vista/7. This one is for Windows XP and has issues with the new OS's.
+,BokuWaKiraDesu,2011-06-11T00:55Z,I run XP with service pack 3
+,deep92,2011-06-11T13:25Z,"In that case, you should've just installed it and ran the updates without all the extra steps in here. This is a guide for Windows Vista/7. It's made for Windows XP, so it oughta work just fine on Windows XP."
+,preditor,2011-06-13T22:52Z,"I have windows xp, so this should work without problems, right? well.. I get to play for 5-10 minutes.. then the game stops responding and closes itself.. I have tryed sevreal times but it just wont work for any longer than 10 minutes : ("
+,deep92,2011-06-14T13:02Z,"I've read through the entire thing and looked some things up.
+For Windows XP you should do everything in this list, except for step 7 (Do *NOT* replace the Mss32.DLL!)
+That DLL file is the actual Win Vista/7 fix. The rest is just patching and cracking properly.
+Again, I did not test it myself. You may want to try out what happens in Service Pack 3, without Service Pack 2 comp. mode, but I don't think that should actually matter.
+
+Sorry for the inconvenience."
+,preditor,2011-06-14T17:24Z,"at step 3b I cant find XP at the ""Run this program in compatibility mode for:"" there is only :95, 98, NT and 2000.. I tryed with 2000 just to try.. but this appears to give me the same problems as before >< "
+,adridgetail,2011-06-14T21:11Z,"I found a solution for our little crash problem, thanks to member Brunotrvs, in the no crack folder in extras is a word pad file, open this and under graphics options type Disable Vertex Buffer Objects=1 then save in file, 
+
+finally copy this in to the lucasarts folder in programs along with the swkotor.exe file thats above the wordpad file you just opened and it will stop the game crashing even works on windows 7 and can ran like normal from the desktop, happy gaming"
+,deep92,2011-06-15T00:18Z,"@Preditor: Probably because you're on Windows XP already. Just don't bother with the comp. mode at all, and see what happens.
+You can also try what adridgetail suggested. I have no issues with the game at all, so I can't test any possible fixes.
+
+@adridgetail: Thanks for your help, if there just was a way to edit the torrent details, but it's all disabled so comments will have to do :("
+,adridgetail,2011-06-15T01:28Z,"happy to help, that trick also worked for sith lords but i had to do a bit of copy and paste as the wordpad file is found in the main game program folder, i copied it to an empty folder wrote in Disable Vertex Buffer Objects=1 then put it back into the main folder overwriting the old one and it worked like a charm"
+,deep92,2011-06-15T14:57Z,"Alright I've looked into what you meant and if people are confused or don't know what file he means:
+The file is located in your Knights of the Old Republic installation folder (so wherever you installed the game).
+It's called ""swkotor.ini"" and can be opened with any text editor.
+In the file, look for ""[Graphics Options]"", add ""Disable Vertex Buffer Objects=1"" to the bottom of that list of settings and save the file.
+
+This should/could fix some or a lot of crash issues.
+
+For questions and feedback you can always mail to Crowding@gmail.com"
+,Millor1,2011-06-16T11:45Z,"So anyways, I gave up on trying to install the game for a while, but anyways I don't remember the exact error but it was something to do with the DEP (data execution prevention) stopping the game from running due to harming my computer or something, pretty much the main problem people have when trying to start the game with vista. I can do every step except go into the ""swkotor.ini"" and disable the vertex buffer, I found the file, opened it with wordpad, I see the graphics set of options however, that particular one just isn't in the list, CTRL+F resulted in nothing. So I have no clue what the problem is there, I suppose I could also try disabling my DEP but I don't want to fuck over my computer by doing that = /"
+,deep92,2011-06-17T14:18Z,"You have to insert that line into the file, it's not there yet. So just add it to the list of graphics options"
+,deep92,2011-06-17T14:23Z,"I have no experience with that DEP error you're talking about. And no, I wouldn't go and shut things like that down without really looking into it first.
+You try to check out posts in the lucasforum link that's in the readme.
+http://www.lucasforums.com/showthread.php?t=194296
+Maybe there's an answer in there. Please do post back when you find a solution!"
+,45ga76,2011-06-18T22:31Z,So i was able to start the game without problems and proceeded to the character creation. After about 3 mins into the game it freezes and shows the win 7 blue loading circle icon and i cant to anything. i am forced to alt+f4 out of the game. Any ideas why? BTW i am running Win 7 home premium 64 bit
+,Z3us1213,2011-06-25T19:09Z,"Got a problem here. I've completely installed it, patched, replaced Mss32.dll (running window 7.) When I get to replacing swkotor.exe I can't replace the .exe in the Program Files, I can only create a link. Plz respond."
+,deep92,2011-06-27T13:05Z,"@45ga76: I don't know man, you can try some things that were posted above. Otherwise try the forum link in the readme. I never had any issues at all with the installation.
+
+@Z3us1213: Make sure the files are not read-only and try using ctrl+C and ctrl+V instead of just dragging the exe."
+,koutsnorris,2011-07-02T13:06Z,i got a prob...i followed all the steps u posted and im having errors after the lucasarts adv after clicking the crack shortcut...any solutions to this?
+,deep92,2011-07-03T15:37Z,"Please post the error message or e-mail me about it. 
+Crowding@gmail.com"
+,Deathsmind,2011-07-04T22:11Z,Hey just installed it and wanted to say thanks. I kind of have a problem it wont let me use my mouse when trying to do stuff and it turns the screen really small any way of fixing those? Thanks for the game though.
+,vader501,2011-07-04T22:45Z,"I can't run the game.  When I try, it says ""The program can't start because binkw32.dll is missing from your computer.  Try reinstalling the program to fix this problem."
+,deep92,2011-07-06T12:56Z,"That DLL is not from swtor, you should google about it. You can find DLLs on the internet, including that one, so you'll probably have to do that."
+,deep92,2011-07-07T10:47Z,"@Deathsmind: I don't exactly know what you mean. Could you make some screenshots?
+Never heard of an issue with the mouse at all.
+
+On a side note, guys. Someone told me about this website. It holds answers to a lot of issues, so give it a shot if you can't fix your game.
+http://www.tweakguides.com/KOTOR2_1.html"
+,nikosmr,2011-07-11T17:21Z,Can this work on windows 7 ultimate? Need fast answer!!!!!!!!!!!!
+,deep92,2011-07-12T00:38Z,"It says in the Readme.TXT, if you'd actually bother reading it.
+The answer is yes.
+And the Readme.TXT is also pasted in the text above. Please do read, instead of being lazy."
+,kylekatarn,2011-07-30T17:29Z,Hy guys. DOes anyone know if this will work on Windows XP?
+,mattmanrambo,2011-08-01T17:48Z,"Followed the instructions, got it installed, start game, see lucasarts logo, then crashes and sends me back to the desktop, any ideas?"
+,deep92,2011-08-08T18:10Z,"@kylekatarn: The game works perfectly fine on Win XP as is. The guide is written for Win Vista/7. Just install it, and it should work fine.
+
+@Anyone with strange issues: I've got a new PC with completely different hardware, and it works perfectly fine just again. So either you're doing something wrong or are plain unlucky.
+Try checking this out: http://www.tweakguides.com/KOTOR2_1.html - It seems to have helped quite some people."
+,Daww,2011-09-30T06:55Z,Thanks Deep92 i was having trouble getting it to work and the crack worked like magic for me. :)
+,RC_Ebooks,2011-10-14T16:15Z,"If you follow instructions, this is the one to get and he made it idiot proof install, BUT of course we know how clever idiots can be on the net... don't we? As for the game, the interface sent me right back to Kotor2! I found this to be a bitch to navigate with too many extraneous menu choices, getting in the way of any actual fun! So, have no guilt stealing it, kids! The 2nd one is worth buying though!"
+,RC_Ebooks,2011-10-14T16:18Z,"Deep92: Don't waste your energy on morons who can't read 5 paragraphs worth of instructions! These are the type who live with mommy and will wind up in a trailer park, not being able to follow directions. Most likely couldn't tell the difference between a vagina (infinitely more fun than this game!) and a joystick. Cheers and thanks for very good efforts to whomever or"
+,deep92,2011-10-17T18:52Z,"@RC_Ebooks: Thanks, I read comments every few days and don't bother responding anymore unless it's a good question. As you said, I made it moron-proof.
+Anyhow, I honestly prefer this one over kotor 2, the story is just far far better.
+Have fun though ;)"
+,LossTheEarthbreaker,2011-11-29T21:32Z,I need some kind of no-cd crack just to get it to complete installation on my Vista PC.
+,LossTheEarthbreaker,2011-11-29T21:33Z,"I get a prompt at the very end of installation to insert Disk 4 in the drive I had it mounted in, even. Thing doesn't go away no matter how many ways I try to get it to recognize that Disk 4, is, in fact, in the drive. 
+
+Oh, well. Trying to cancel out of it crashes setup, as well. Read-only was written in the .iso and I was unable to unselect that, though I don't think that had anything to do with it (for the setup.exe on disk 1).
+
+I'm gonna try some other versions."
+,LossTheEarthbreaker,2011-11-29T21:34Z,"Was using MagicDisk, by the way."
+,LossTheEarthbreaker,2011-11-29T21:35Z,Trying again with Daemon Tools.
+,LossTheEarthbreaker,2011-11-29T22:11Z,Found an alleged fix for Vista/7 install that I'm trying now.
+,xzandarin,2011-12-05T05:50Z,Does the update for the No-CD crack require an internet connection? The computer I'm installing this for doesn't have one
+,xzandarin,2011-12-05T06:02Z,Does the No Cd crack require an internet connection?
+,deep92,2011-12-05T22:53Z,"@xzandarin: No, it does not.
+
+@LossTheEarthbreaker: I have heard of that before, but I'm afraid I do not remember what fixes it. Please do respond with your results on DaemonTools."
+,Kylezo,2011-12-11T02:40Z,"Hate to report that I'm another one of the ones having massive problems with this. I'm in XP Pro, NOT Vista, and the game process closes out immediately after the splash screen with the ship comes up. I installed and ran with NO crack or updates, and got the FAAB error (an error message with lots of symbols and weird letters), installed cracked .exe for 1.00 and nothing happens at splash. Uninstalled, reinstalled, updated to 1.03, FAAB error with no crack installed. Installed 1.03 cracked .exe, no error, nothing happens after splash. What is causing the game process to shut itself down immediately? I'd love to report having problems with graphics or something, but the game itself doesn't even start up, only the launcher works."
+,deep92,2011-12-13T09:23Z,"Did you install the Mss32.DLL? You shouldn't need it, so if you did install it, try without it.
+
+For WinXP you should just install the game normally and run the patch, that's it. The guide itself is for Vista and 7."
+,Wait-What,2011-12-23T15:43Z,"It keeps saying ""binkw32.dll"" was not found whenever I try and install the game?"
+,raiden311,2012-06-21T12:43Z,please seed

@@ -1,0 +1,30 @@
+Saw that this wasn't up here
+Text from Readme:
+
+Name game: Crysis 2
+Year: 2011
+Author / Developer: Crytek
+Type of distribution: Pack
+Software version: 1.01
+The required version of the game: any
+Language: not available / not required
+Required language game: no matter
+Description: Pack, replaces some textures Srysis 2 on high-resolution textures (textures for replacement are taken from Crysis 1 - only identical).
+
+Method:
+The first way.
+1. Downloading the software.
+2. Run.
+3. Points the way to the game folder (eg, C: \ Games \ Crysis 2, no subdirectories you do not need)
+4. Click remove.
+5. After installation run the batch file ReplaceTextures.bat, it renames the file Testures.pak (as it creates a backup) and creates a folder Textures, from which will be taken higher-resolution textures. If the batch file does not start, it can always be run manually from a folder of Crysis 2 \ gamecrysis2. There is also a batch file RestoreTextures.bat, which restores the old texture if that ...
+
+The second method.
+1. Downloading a file.
+2. Unpack using any archiver, for example, WinRar (Extract to-> choose the folder containing the Crysis 2, for example C: \ Games \ Crysis 2, and any subdirectories you do not need).
+3. Go to the folder of Crysis 2 \ gamecrysis2
+4. Rename Textures.pak, specifying any other name.
+5. Rename the folder TexturesRes in Textures.
+6. Playing ..
+
+And YES it makes a difference :)

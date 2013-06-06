@@ -1,0 +1,12 @@
+About:
+
+WhatSize helps find out what files are taking up all of that space. Then it makes it really easy to remove or move those files. Youâ€™d be surprised how many useless files are lying around on your Macâ€™s hard disk. While the app is measuring a folder the user can browse the files within that folder and immediately see the size in bytes. Hidden files, cache files, directories will all show up with their corresponding size. This application is similar to the ancient NeXTSTEP, DarkForest. Once the measuring of a folder has ended the user can also view the information by filtering for particular file sizes or types. The user can also move unwanted files and folder in the corresponding Trash bin similar to the Finderâ€™s Delete button.
+
+Changelog:
+* Do not update if you are using MAC OS X 10.3
+* Addressed performance issue when moving to Trash a lot of duplicate files.
+* Added Duplicates Column to improve the handling and the display of duplicate files and folders.
+* Duplicate blocks are now sorted by path name.
+* Addressed the issue of duplicate symlink files, the symlink files are now properly moved to trash and the UI is properly updated.
+* Addressed CSV export where the file name was not being included into the file path.
+* Addressed right click context menu bug, we were not selecting the proper item before the context action.

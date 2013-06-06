@@ -1,0 +1,48 @@
+One stop solution for Disk Cloning and Partitioning
+======================================================
+
+clonezilla-live-1.2.5.6-amd64.iso
+======================================
+Ment for x64 machine to clone:
+	a) Entire Hard disk
+	b) Selected partitions
+	c) Restore entire Hard disk
+	d) Restore seleceted patitions
+
+Usage:
+======================================
+1. Burn in normal CD disk
+2. Restart machine
+3. Select boot from CD rom
+
+
+clonezilla-live-1.2.5.6-i686.iso
+======================================
+Use this with x32 machine to clone:
+	a) Entire Hard disk
+	b) Selected partitions
+	c) Restore entire Hard disk
+	d) Restore seleceted patitions
+
+Usage:
+======================================
+1. Burn in normal CD disk
+2. Restart machine
+3. Select boot from CD rom
+
+
+a) gparted-live-0.5.2.1.iso
+b) pmagic-4.9.iso
+======================================
+Use it to partition your new machine.
+
+Usage:
+======================================
+1. Burn in normal CD disk
+2. Restart machine
+3. Select boot from CD rom
+4. Selected desired partitions
+
+
+Happy Partitoning and Cloning.............
+

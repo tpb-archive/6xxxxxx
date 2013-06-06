@@ -1,0 +1,66 @@
+This E-book will show you how to set up an elite proxy server. Elite proxy servers are better and more private than regular proxy servers. By following this ebook, you will learn how to own your own proxy. Owning your won proxy is better than fooling around with public proxies.
+
+You will learn how to set up the Elite Proxy to generate multiple craigslist accounts or PVA's. Read below for more info.
+----------------------------------------------------------------------------------
+
+
+If You Need to Hide Your IP Address
+
+, change your ip address, mask your ip address, get a new ip address, switch between multiple new ip addresses, unblock any website, download torrent files anonymously, bypass your isp, bypass firewalls, bypass school, work, and government filters, set up multiple user accounts, search anonymously, surf anonymously, etc, etc, etc, ... and do it all without being detected (ie, without anyone knowing that you're using a proxy server and hiding your real ip address); you can easily accomplish all that by setting up your own private proxy server. But not just any private proxy server; an undetectable, high anonymous, elite proxy server. 
+Set Up a High Anonymous Elite Proxy
+server for yourself, in about 10 minutes. I've already taken care of all the technical stuff, so all you have to do is load the script (ie, if you can copy & paste, you can easily set up a private proxy server in about 10 minutes). 
+
+This high anonymous, and undetectable proxy configuration is built on the open-source squid3 file caching framework; the fastest, most reliable, most used, proxy server framework on the planet. 
+
+Squid already has a reputation for reliability & speed; combine that with the fact that you're setting this up on a totally private dedicated server partition, and it's not hard to figure out why this particular proxy configuration has been so popular for so long (ie, if you're NOT sharing bandwidth with anyone else, then you're NOT sharing speed & availability either). 
+
+* â€” Advanced Users: The configuration script is pre-set to squid's default "paranoia mode" (ie, undetectable mode) parameters, but once installed, you can edit my squid.conf file to your heart's content. 
+
+
+What is an Elite Proxy Server?
+
+An elite proxy server is the only type of proxy server that can hide your ip address without being detected. Instead of using your real ip address, you just plug your elite proxy server's ip address into your web browser instead. Because then the only ip address that can possibly be transmitted is the ip address of the proxy server. So now, to anyone trying to track, log, or block you or your connection, etc, you appear to be a totally different person, in a totally different city, state, country. 
+The unique characteristic of an elite proxy
+(over a normal anonymous proxy for example) is the fact that it's THE only type of proxy that cannot be detected. Instead of using the identification headers of a remote server; an elite proxy uses the identification headers of a residential computer connection. Result? Users of elite proxies appear to be connecting from an actual residential connection (ie, not from a server connection). It's not exactly brain surgery, but it sure is awesome just the same.
+
+
+How Does a Proxy Server Work?
+
+A "website" is nothing more than a collection of files sitting on a remote web server that someone else owns. The owner of that website/webserver is kind enough to make his files available for public viewing/interacting. And as such, it's not outrageous for that website owner to keep track of who's viewing/using his files/website, and or even block certain people from doing it. He does all this by tracking, recording, logging, etc, the activities of every ip address that connects to his web server (and the specific files & scripts they access). 
+Every internet connected machine must identify itself:
+Imagine your cell phone as a comparison; if your cell phone didn't have its own unique number, the cell phone network wouldn't know how to find your specific phone. Every machine connected to the internet must identify itself to all the other machines on that same network (in this case, the internet "network"). It does this by broadcasting its own unique ip address (internet protocol address). 
+
+Every machine connected to the internet has its own unique ip address (think of it like your cell phone's phone number, the vin number on your car, the street number of your house, or the social security number branded across your backside). 
+
+Each ip address on the network represents a different machine on that same network. The word "machine" can represent a number of different things obviously; a personal computer, a gaming console, a smart phone, a web server, a remote storage server, or in our case, a remote proxy server. EVERY machine MUST have its own ip address; if it doesn't, then the other machines in the network will NOT allow it to connect. Just like if your cell phone didn't have a phone number, you couldn't call anyone, and no one could call you. 
+Direct Connection:
+The way you use the internet now (without a proxy server) is called a direct connection. Your web browser makes a direct electronic connection to the remote web server of the website you're visiting. If your web browser identifies itself properly (ie, by broadcasting its ip address) then the web server will let you connect to it, view, and interact with its files. 
+Proxy Connection:
+Okay, so now we're getting to the good stuff, and you can probably see where all this is leading, and how simple this whole thing really is. If you want to be anonymous online, then you obviously don't want to broadcast your own machine's ip address. But you do have to broadcast something, or else (as just discussed) you won't be allowed to connect. The answer becomes quite obvious, right? You need to use some other machine's ip address instead of your own real one. Just for fun, lets call that other machine a proxy server. The word "proxy" just means "stand-in" or "substitute", and a "server" is just a computer. So a "proxy" "server" is just a "stand-in" "computer".
+
+
+Need to Hide Where You Live?
+
+So in that example (just above) imagine that you live in Boston, but the remote vps you rented (and turned into a proxy server) is sitting in a data center somewhere in Chicago. Now when I go looking through my visitor ip logs (or if I have a filter setup to block ip addresses from Boston, or something like that) all I see is that some machine from Chicago connected to my site (because in reality, that IS exactly what happened). 
+
+Are you starting to see how absolutely gorgeous this thing is? When you set your web browser to connect through your proxy server instead of connecting directly like all the other saps are, YOUR MACHINE never actually connects to ANYTHING directly (except to your private proxy obviously). Now if you can't see the endless possibilities of appearing to be multiple different people, from multiple different locations (cities, states, countries) then I have absolutely no idea how the hell you found your way here to my specific site. 
+
+
+Is Using an Elite Proxy Legal?
+
+That pretty much depends on what country you're living in. If you're in the USA, Canada, UK, Japan, and other such semi-non-censoring countries, then yes, an elite proxy is completely legal to use. Check the laws in your particular country to be certain though. I'm pretty sure they're illegal (or at the very least, highly frowned upon) in most of the highly restrictive big government type countries ... China, Venezuela, NY, San Francisco 
+
+
+Is this a Private Proxy Server?
+
+Yes, of course it is, anything else would be practically useless; slow as hell & choppy. You're setting up the proxy server yourself, so as long as you don't tell anyone else about your proxy server (or more specifically; as long as you don't give anyone your proxy server's ip address, username, and password) no one else can use it, no one else even knows it exists; you're not sharing bandwidth, you're not getting the proxy's ips burned and blacklisted, and you're not worrying about whether the proxy server will still be in existence when you need to use it. Each ip address you set up is password protected by you by default as part of the process. And if you've set up multiple ip's on the same proxy server, you can either use the same password for all of them, or give each one its own unique password. Either way, this is your own personal, private proxy server; so no one else even knows it exists, let alone what its ip addresses, usernames, and passwords are. 
+
+
+Need Your Own Torrent Proxy?
+
+uTorrent Proxy, bitTorrent Proxy? For all you torrent proxy users; How much is bypassing your ISP worth? How much is preventing ISP throttling worth? How much is avoiding that letter from your ISP worth? ... Torrent proxy users set up proxy server exactly the same way everyone else does, but instead of changing your ip address in your web browser, you change your ip address in your torrent client instead (ie, in the torrent client's connection settings). 
+
+
+Need Mutiple IP Addresses?
+
+You can set up as many different proxy servers as you want, and you can even set them up in a bunch of different cities, and a bunch of different countries if you want. In fact, you can even add multiple ip addresses onto the same proxy server. I recommend mutiple servers (over multiple ips on the same server) but that's mostly just a personal preference because I like to have my ips spread around over a bunch of different places (because I just think it looks a lot more "natural" that way; plus if you ever get one of your ips tagged or something, you can just drop that particular ip, cancel that server account, get a new server account with a new ip, and then just start fresh all over again) but you can experiment to your hearts content and set up as many as you want, and as often as you want. With remote vps hosting under about $10 bucks a month, the only real limitation is ROI...

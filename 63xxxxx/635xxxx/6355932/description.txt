@@ -1,0 +1,334 @@
+Hi there
+
+release note :
+
+AMD Catalystâ„¢ Driver 11.4a Hotfix Feature:
+Resolves intermittent flickering issues seen in the following applications in a system using an AMD Radeonâ„¢ HD 6600 series graphics card with DDR3 memory and running in DirectXÂ® 9 mode:
+
+Civilization 5 
+Dead Rising 2 
+Fallout 3 
+Mafia 2 
+NBA 2010 
+ShenGuiChuanQi 
+Starcraft 2 
+Warcraft III 
+World of Warcraft 
+
+Build Info:
+DriverVer=04/27/2011, 8.840.9.0000
+8.84.9-110427a-118103E 
+
+However these drivers should become the possible next catalyst 11.4c hotfix final as they are not fully finished yet (RC2...)
+They are probably not fully Whql yet certified from MS lab.
+Many thanks again to our friend asder00 from guru3d for this very interesting revelation.
+See for yourself so.
+
+Details and Supported products :
+
+
+;-----------------------------------------------
+;----------1104271519-8.84.9-110427a-118103E-ATI.2
+;-----------------------------------------------
+; ATI Display Information file : atiilhag.inf
+;
+; Installation INF for the ATI display driver.
+; Copyright(C) 1998-2006 ATI Technologies Inc.
+;-----------------------------------------------
+; PX - PX Proxy mode
+; PR - PX Proxy Ready
+
+[Version]
+Signature="$Windows NT$"
+Provider=%ATI%
+ClassGUID={4D36E968-E325-11CE-BFC1-08002BE10318}
+Class=Display
+DriverVer=04/27/2011, 8.840.9.0000
+;;LayoutFile=layout.inf
+CatalogFile=CL118103.CAT
+
+[SignatureAttributes]
+atiumdva.dll=SignatureAttributes.PETrust
+atiumdag.dll=SignatureAttributes.PETrust
+
+[SignatureAttributes.PETrust]
+PETrust=true
+
+[DestinationDirs]
+DefaultDestDir = 11
+R300.OGL = 10 ; Windows
+R300.Miniport = 12 ; drivers
+R300.Display = 11 ; system32
+R300.DXX = 11 ; system32
+R300.OD = 11 ; system32
+R300.Mppxy = 12 ; drivers
+Coinstaller_CopyFiles = 11
+R300.ProxyM = 12 ; drivers
+R300.ProxyU = 11 ; system32
+r300.CFNext = 11
+
+[ControlFlags]
+ExcludeFromSelect=*
+;
+; Driver information
+;
+
+[Manufacturer]
+%ATI% = ATI.Mfg, NTx86.6.0
+
+[ATI.Mfg.NTx86.6.0]
+"AMD Radeon HD 6700 Series" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68B8&SUBSYS_30001002
+"ATI Radeon HD 2400 Pro" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_10021002
+"ATI Radeon HD 2400 XT" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_0D021002
+"ATI Radeon HD 2900 PRO" = ati2mtag_R600, PCI\VEN_1002&DEV_9400&SUBSYS_30001002
+"ATI Radeon HD 2900 XT" = ati2mtag_R600, PCI\VEN_1002&DEV_9400&SUBSYS_25521002
+"ATI Radeon HD 3600 Series" = ati2mtag_M76, PCI\VEN_1002&DEV_9581&SUBSYS_95811002
+"ATI Radeon HD 3870" = ati2mtag_RV630, PCI\VEN_1002&DEV_9501&SUBSYS_25421002
+"ATI Radeon HD 2350 Series" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_30001025
+"ATI Radeon HD 2400" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_04021028
+"ATI Radeon HD 2400 Pro " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_0D021028
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_03021028
+"ATI Radeon HD 2400 XT " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_0D021028
+"AMD Radeon HD 6350" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_2126103C
+"ASUS ARES" = ati2mtag_EvergreenH, PCI\VEN_1002&DEV_689C&SUBSYS_03521043
+"ASUS EAH5450 Series" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_30001043
+"ASUS EAH5870 Series" = ati2mtag_EvergreenH, PCI\VEN_1002&DEV_689C&SUBSYS_039E1043
+"ATI Radeon HD 4800 Series" = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A&SUBSYS_30001043
+"ATI Radeon HD 5400 Series" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_60001092
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_216A1458
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_21721458
+"ATI Radeon HD 2400 XT " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_21741458
+"ATI Radeon HD 4300/4500 Series" = ati2mtag_M9x, PCI\VEN_1002&DEV_9552&SUBSYS_21AC1458
+"ATI Radeon HD 4300/4500 Series " = ati2mtag_M9x, PCI\VEN_1002&DEV_9552&SUBSYS_21ED1458
+"ATI Radeon HD 4800 Series " = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A&SUBSYS_30001458
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_21F11458
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_22021458
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_21E21458
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_21D81458
+"ATI Radeon HDG 4670" = ati2mtag_R7X, PCI\VEN_1002&DEV_9498&SUBSYS_21CF1458
+"ATI Radeon HD 2400 " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_11041462
+"ATI Radeon HD 2400 " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_10411462
+"ATI Radeon HD 2400 " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_11051462
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_10321462
+"ATI Radeon HD 2400 XT " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_10401462
+"ATI Radeon HD 2400 XT " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_10331462
+"ATI Radeon HD 2400 XT " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_10331462
+"ATI Radeon HD 2400 XT " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1&SUBSYS_11101462
+"ATI Radeon HD 4800 Series " = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A&SUBSYS_30001462
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_23421462
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_23431462
+"ATI Radeon HD 2350 Series " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_3000148C
+"ATI Radeon HD 2400 LE" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_2247148C
+"ATI Radeon HD 3600 Series " = ati2mtag_M76, PCI\VEN_1002&DEV_9591&SUBSYS_2303148C
+"ATI Radeon HD 3600 Series " = ati2mtag_M76, PCI\VEN_1002&DEV_9581&SUBSYS_3000148C
+"ATI Radeon HD 3600 Series " = ati2mtag_M76, PCI\VEN_1002&DEV_9583&SUBSYS_3000148C
+"ATI Radeon HD 4300/4500 Series " = ati2mtag_M9x, PCI\VEN_1002&DEV_9552&SUBSYS_3000148C
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_3000148C
+"ATI Radeon HD 6230" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_3003148C
+"ATI Radeon HD 6230 " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_3001148C
+"ATI Radeon HD 6250" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_3001148C
+"ATI Radeon HD 6250 " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_3002148C
+"ATI Radeon HD 6290" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_3002148C
+"ATI Radeon HD 6390" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DA&SUBSYS_3000148C
+"ATI Radeon HD 6510" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D9&SUBSYS_3000148C
+"ATI Radeon HD 6750" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BE&SUBSYS_3000148C
+"VisionTek Radeon 4350" = ati2mtag_M9x, PCI\VEN_1002&DEV_9552&SUBSYS_3000148C
+"ATI Radeon HD 4800 Series " = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A&SUBSYS_30001545
+"VisionTek Radeon 4350 " = ati2mtag_M9x, PCI\VEN_1002&DEV_9552&SUBSYS_44721545
+"VisionTek Radeon HD 2600 Pro" = ati2mtag_RV630, PCI\VEN_1002&DEV_9598&SUBSYS_30011545
+"VisionTek Radeon HD 2600 XT" = ati2mtag_RV630, PCI\VEN_1002&DEV_9598&SUBSYS_30001545
+"VisionTek Radeon HD 5450" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_54501545
+"AMD Radeon HD 6750" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BE&SUBSYS_39821642
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_37161642
+"ATI Radeon HD 4550" = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_29201682
+"ATI Radeon HD 4550 " = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_29211682
+"ATI Radeon HD 4550 " = ati2mtag_M9x, PCI\VEN_1002&DEV_9555&SUBSYS_29241682
+"ATI Radeon HD 4650" = ati2mtag_R7X, PCI\VEN_1002&DEV_9498&SUBSYS_24511682
+"ATI Radeon HD 4650 " = ati2mtag_R7X, PCI\VEN_1002&DEV_9498&SUBSYS_24521682
+"ATI Radeon HD 4650 " = ati2mtag_R7X, PCI\VEN_1002&DEV_9498&SUBSYS_24541682
+"ATI Radeon HD 4670" = ati2mtag_R7X, PCI\VEN_1002&DEV_9498&SUBSYS_29331682
+"ATI Radeon HD 4670 " = ati2mtag_R7X, PCI\VEN_1002&DEV_9498&SUBSYS_29341682
+"ATI Radeon HD 4770" = ati2mtag_RV7X, PCI\VEN_1002&DEV_94B3&SUBSYS_29001682
+"ATI Radeon HD 4800 Series " = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A&SUBSYS_30001682
+"ATI Radeon HD 4830" = ati2mtag_RV7X, PCI\VEN_1002&DEV_944C&SUBSYS_24801682
+"ATI Radeon HD 4830 " = ati2mtag_RV7X, PCI\VEN_1002&DEV_944C&SUBSYS_24811682
+"ATI Radeon HD 4850" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9442&SUBSYS_24701682
+"ATI Radeon HD 4850 " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9442&SUBSYS_24711682
+"ATI Radeon HD 4870" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9440&SUBSYS_24401682
+"ATI Radeon HD 4870 " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9440&SUBSYS_24411682
+"ATI Radeon HD 4870 " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9440&SUBSYS_24441682
+"ATI Radeon HD 4870 " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9440&SUBSYS_24451682
+"ATI Radeon HD 4870 X2" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9441&SUBSYS_24401682
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_30001682
+"ATI Radeon HD4300/HD4500 series" = ati2mtag_M9x, PCI\VEN_1002&DEV_9555&SUBSYS_24651682
+"XFX Radeon HD 4570" = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_30901682
+"AMD Radeon HD 6750 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BE&SUBSYS_3000174B
+"ATI Radeon HD 2350 Series " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_3000174B
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_E400174B
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_E370174B
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_E400174B
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_E370174B
+"ATI Radeon HD 2400 PRO " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_E400174B
+"ATI Radeon HD 3570" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C0&SUBSYS_3002174B
+"ATI Radeon HD 3600 Series " = ati2mtag_RV630, PCI\VEN_1002&DEV_9589&SUBSYS_0E41174B
+"ATI Radeon HD 4250" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C5&SUBSYS_4250174B
+"ATI Radeon HD 4300/4500 Series " = ati2mtag_M9x, PCI\VEN_1002&DEV_9552&SUBSYS_3000174B
+"ATI Radeon HD 4300/4500 Series " = ati2mtag_M9x, PCI\VEN_1002&DEV_9553&SUBSYS_3092174B
+"ATI Radeon HD 4450" = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_4450174B
+"ATI Radeon HD 4520" = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_3000174B
+"ATI Radeon HD 4590" = ati2mtag_R7X, PCI\VEN_1002&DEV_9540&SUBSYS_4590174B
+"ATI Radeon HD 4610" = ati2mtag_RV630, PCI\VEN_1002&DEV_9598&SUBSYS_4610174B
+"ATI Radeon HD 4710" = ati2mtag_R7X, PCI\VEN_1002&DEV_9490&SUBSYS_4710174B
+"ATI Radeon HD 4800 Series " = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A&SUBSYS_3000174B
+"ATI Radeon HD 4810 Series" = ati2mtag_RV7X, PCI\VEN_1002&DEV_944E&SUBSYS_3260174B
+"ATI Radeon HD 4810 series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_944E&SUBSYS_3261174B
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_6000174B
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_3000174B
+"ATI Radeon HD 5470" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_5470174B
+"ATI Radeon HD 5470 " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_5470174B
+"ATI Radeon HD 5490" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_5490174B
+"ATI Radeon HD 5530" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_5530174B
+"ATI Radeon HD 5630" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DA&SUBSYS_5630174B
+"ATI Radeon HD 5690" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D8&SUBSYS_5690174B
+"ATI Radeon HD 5730" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D8&SUBSYS_5730174B
+"ATI Radeon HD 6390 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DA&SUBSYS_3000174B
+"ATI Radeon HD 6510 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D9&SUBSYS_3000174B
+"ATI Radeon HD 6750 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BE&SUBSYS_3000174B
+"ATI Radeon HD4300/HD4500 series " = ati2mtag_M9x, PCI\VEN_1002&DEV_9555&SUBSYS_3711174B
+"Sapphire Radeon HD4570" = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_4570174B
+"ATI Radeon HD 2350 Series " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_30001787
+"ATI Radeon HD 2400 LE " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_22471787
+"ATI Radeon HD 3600 Series " = ati2mtag_RV630, PCI\VEN_1002&DEV_9589&SUBSYS_30001787
+"ATI Radeon HD 4250 " = ati2mtag_RV610, PCI\VEN_1002&DEV_95C5&SUBSYS_30501787
+"ATI Radeon HD 4300/4500 Series " = ati2mtag_M9x, PCI\VEN_1002&DEV_9552&SUBSYS_30001787
+"ATI Radeon HD 4450 " = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_30501787
+"ATI Radeon HD 4520 " = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_31001787
+"ATI Radeon HD 4590 " = ati2mtag_R7X, PCI\VEN_1002&DEV_9540&SUBSYS_30501787
+"ATI Radeon HD 4610 " = ati2mtag_RV630, PCI\VEN_1002&DEV_9598&SUBSYS_30501787
+"ATI Radeon HD 4700" = ati2mtag_R7X, PCI\VEN_1002&DEV_9498&SUBSYS_30501787
+"ATI Radeon HD 4710 " = ati2mtag_R7X, PCI\VEN_1002&DEV_9490&SUBSYS_30501787
+"ATI Radeon HD 4720" = ati2mtag_R7X, PCI\VEN_1002&DEV_9498&SUBSYS_31001787
+"ATI Radeon HD 4730 Series" = ati2mtag_RV7X, PCI\VEN_1002&DEV_944E&SUBSYS_30001787
+"ATI Radeon HD 4800 Series " = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A&SUBSYS_30001787
+"ATI Radeon HD 4810 Series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_944E&SUBSYS_30101787
+"ATI Radeon HD 4820" = ati2mtag_RV7X, PCI\VEN_1002&DEV_944E&SUBSYS_31001787
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_30001787
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_30001787
+"ATI Radeon HD 5470 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_30001787
+"ATI Radeon HD 5490 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_30021787
+"ATI Radeon HD 5530 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_30011787
+"ATI Radeon HD 5630 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DA&SUBSYS_30001787
+"ATI Radeon HD 5730 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D8&SUBSYS_30001787
+"VisionTek Radeon HD 2600 XT AGP" = ati2mtag_RV630, PCI\VEN_1002&DEV_9596&SUBSYS_00281787
+"ATI Radeon HD 2400 " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3&SUBSYS_203817AF
+"ATI Radeon HD 4300/4500 Series " = ati2mtag_M9x, PCI\VEN_1002&DEV_9552&SUBSYS_300017AF
+"ATI Radeon HD 4450 " = ati2mtag_R7X, PCI\VEN_1002&DEV_954F&SUBSYS_301017AF
+"ATI Radeon HD 4710 " = ati2mtag_R7X, PCI\VEN_1002&DEV_9490&SUBSYS_300017AF
+"ATI Radeon HD 4800 Series " = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A&SUBSYS_300017AF
+"ATI Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1&SUBSYS_300017AF
+"ATI Radeon HD 5470 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_301317AF
+"ATI Radeon HD 5470 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_301117AF
+"ATI Radeon HD 5490 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_301217AF
+"ATI Radeon HD 5630 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DA&SUBSYS_301017AF
+"ATI Radeon HD 5630 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D9&SUBSYS_301017AF
+"ATI Radeon HD 5690 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D8&SUBSYS_301117AF
+"ATI Radeon HD 5730 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D8&SUBSYS_301017AF
+"ATI Radeon HD 6230 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_300117AF
+"ATI Radeon HD 6250 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_300017AF
+"ATI Radeon HD 6290 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_300217AF
+"ATI Radeon HD 6390 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DA&SUBSYS_300017AF
+"ATI Radeon HD 6510 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D9&SUBSYS_300017AF
+"ATI Radeon HD 6750 " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BE&SUBSYS_300017AF
+"ATI Radeon HD 6230 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_174B3000
+"VisionTek Radeon HD 2600/3600 Series" = ati2mtag_M76, PCI\VEN_1002&DEV_9591&SUBSYS_15453992
+"ATI Radeon HD 6250 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_174B6250
+"ATI Radeon HD 6290 " = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9&SUBSYS_174B6290
+"AMD FireStream 9170" = ati2mtag_RV630, PCI\VEN_1002&DEV_9519
+"AMD FireStream 9250" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9452
+"AMD FireStream 9270" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9450
+"AMD FireStream 9350" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_688D
+"AMD FireStream 9370" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_688C
+"AMD Radeon HD 6200 series Graphics" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9804
+"AMD Radeon HD 6200 series Graphics " = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9805
+"AMD Radeon HD 6300 series Graphics" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9802
+"AMD Radeon HD 6300 series Graphics " = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9803
+"AMD Radeon HD 6400 Series" = ati2mtag_NI, PCI\VEN_1002&DEV_6770
+"AMD Radeon HD 6450" = ati2mtag_NI, PCI\VEN_1002&DEV_6779
+"AMD Radeon HD 6500 Series" = ati2mtag_NI, PCI\VEN_1002&DEV_6759
+"AMD Radeon HD 6600 Series" = ati2mtag_NI, PCI\VEN_1002&DEV_6758
+"AMD Radeon HD 6700 Series " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BA
+"AMD Radeon HD 6700 Series " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BF
+"AMD Radeon HD 6700 Series " = ati2mtag_NI, PCI\VEN_1002&DEV_673E
+"AMD Radeon HD 6800 Series" = ati2mtag_NI, PCI\VEN_1002&DEV_6738
+"AMD Radeon HD 6800 Series " = ati2mtag_NI, PCI\VEN_1002&DEV_6739
+"AMD Radeon HD 6900 Series" = ati2mtag_NICayman, PCI\VEN_1002&DEV_6718
+"AMD Radeon HD 6900 Series " = ati2mtag_NICayman, PCI\VEN_1002&DEV_6719
+"AMD Radeon HD 6990" = ati2mtag_NICayman, PCI\VEN_1002&DEV_671D
+"ATI Radeon 3000 Graphics" = ati2mtag_RS780, PCI\VEN_1002&DEV_9616
+"ATI Radeon 3100 Graphics" = ati2mtag_RS780, PCI\VEN_1002&DEV_9611
+"ATI Radeon HD 2350" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C7
+"ATI Radeon HD 2400 Series" = ati2mtag_RV610, PCI\VEN_1002&DEV_94C3
+"ATI Radeon HD 2400 Series " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C1
+"ATI Radeon HD 2400 Series " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C4
+"ATI Radeon HD 2400 Series " = ati2mtag_RV610, PCI\VEN_1002&DEV_94C6
+"ATI Radeon HD 2400 Series " = ati2mtag_RV610, PCI\VEN_1002&DEV_94CC
+"ATI Radeon HD 2600 PRO" = ati2mtag_RV630, PCI\VEN_1002&DEV_9589
+"ATI Radeon HD 2600 X2 Series" = ati2mtag_RV630, PCI\VEN_1002&DEV_958A
+"ATI Radeon HD 2600 XT" = ati2mtag_RV630, PCI\VEN_1002&DEV_9588
+"ATI Radeon HD 2600/3600 Series" = ati2mtag_RV630, PCI\VEN_1002&DEV_9586
+"ATI Radeon HD 2600/3600 Series " = ati2mtag_RV630, PCI\VEN_1002&DEV_9587
+"ATI Radeon HD 2900 GT" = ati2mtag_R600, PCI\VEN_1002&DEV_9405
+"ATI Radeon HD 2900 XT " = ati2mtag_R600, PCI\VEN_1002&DEV_9400
+"ATI Radeon HD 3200 Graphics" = ati2mtag_RS780, PCI\VEN_1002&DEV_9610
+"ATI Radeon HD 3300 Graphics" = ati2mtag_RS780D, PCI\VEN_1002&DEV_9614
+"ATI Radeon HD 3400 Series" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C0
+"ATI Radeon HD 3400 Series " = ati2mtag_RV610, PCI\VEN_1002&DEV_95C5
+"ATI Radeon HD 3450" = ati2mtag_RV610, PCI\VEN_1002&DEV_95C6
+"ATI Radeon HD 3450 " = ati2mtag_RV610, PCI\VEN_1002&DEV_95C9
+"ATI Radeon HD 3600 Series " = ati2mtag_RV630, PCI\VEN_1002&DEV_9598
+"ATI Radeon HD 3600 Series " = ati2mtag_RV630, PCI\VEN_1002&DEV_9596
+"ATI Radeon HD 3600 Series " = ati2mtag_RV630, PCI\VEN_1002&DEV_9597
+"ATI Radeon HD 3800 Series" = ati2mtag_RV630, PCI\VEN_1002&DEV_9501
+"ATI Radeon HD 3800 Series " = ati2mtag_RV630, PCI\VEN_1002&DEV_9505
+"ATI Radeon HD 3830" = ati2mtag_RV630, PCI\VEN_1002&DEV_9507
+"ATI Radeon HD 3850 AGP" = ati2mtag_RV630, PCI\VEN_1002&DEV_9515
+"ATI Radeon HD 3850 X2" = ati2mtag_RV630, PCI\VEN_1002&DEV_9513
+"ATI Radeon HD 3870 X2" = ati2mtag_RV630, PCI\VEN_1002&DEV_950F
+"ATI Radeon HD 4200" = ati2mtag_RS880, PCI\VEN_1002&DEV_9710
+"ATI Radeon HD 4250 " = ati2mtag_RS880, PCI\VEN_1002&DEV_9715
+"ATI Radeon HD 4290" = ati2mtag_RS880, PCI\VEN_1002&DEV_9714
+"ATI Radeon HD 4300/4500 Series " = ati2mtag_R7X, PCI\VEN_1002&DEV_954F
+"ATI Radeon HD 4550 " = ati2mtag_R7X, PCI\VEN_1002&DEV_9540
+"ATI Radeon HD 4600 Series" = ati2mtag_R7X, PCI\VEN_1002&DEV_9490
+"ATI Radeon HD 4600 Series " = ati2mtag_R7X, PCI\VEN_1002&DEV_9498
+"ATI Radeon HD 4600 Series " = ati2mtag_R7X, PCI\VEN_1002&DEV_9495
+"ATI Radeon HD 4600 Series " = ati2mtag_R7X, PCI\VEN_1002&DEV_9487
+"ATI Radeon HD 4700 Series" = ati2mtag_RV7X, PCI\VEN_1002&DEV_944E
+"ATI Radeon HD 4700 Series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_944E
+"ATI Radeon HD 4700 Series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_94B4
+"ATI Radeon HD 4770 " = ati2mtag_RV7X, PCI\VEN_1002&DEV_94B3
+"ATI Radeon HD 4770 " = ati2mtag_RV7X, PCI\VEN_1002&DEV_94B5
+"ATI Radeon HD 4800 Series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9440
+"ATI Radeon HD 4800 Series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9442
+"ATI Radeon HD 4800 Series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_944C
+"ATI Radeon HD 4800 Series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9460
+"ATI Radeon HD 4800 Series " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9462
+"ATI Radeon HD 4850 X2" = ati2mtag_RV7X, PCI\VEN_1002&DEV_9443
+"ATI Radeon HD 4870 X2 " = ati2mtag_RV7X, PCI\VEN_1002&DEV_9441
+"ATI Radeon HD 5450" = ati2mtag_EvergreenC, PCI\VEN_1002&DEV_68F9
+"ATI Radeon HD 5500 Series" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68DA
+"ATI Radeon HD 5570" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D9
+"ATI Radeon HD 5600/5700" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68B9
+"ATI Radeon HD 5670" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68D8
+"ATI Radeon HD 5700 Series" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68B8
+"ATI Radeon HD 5700 Series " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_68BE
+"ATI Radeon HD 5800 Series" = ati2mtag_Evergreen, PCI\VEN_1002&DEV_6898
+"ATI Radeon HD 5800 Series " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_6899
+"ATI Radeon HD 5800 Series " = ati2mtag_Evergreen, PCI\VEN_1002&DEV_689E
+"ATI Radeon HD 5900 Series" = ati2mtag_EvergreenH, PCI\VEN_1002&DEV_689C
+
+Full package for XP both version
+
+Enjoy
+
+regards

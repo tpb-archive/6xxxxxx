@@ -1,0 +1,43 @@
+What's new?
+
+    A completely new text rendering system that does not only make text much more readable, but also supports any font in any language
+    Better collision detection, fixing previous problems with objects sliding along curved polygons
+    Better looking lasers
+    Added derivate information in plots
+    Improved sliders:
+        Enter equations as values, e.g. "10^3" or "15*3"
+        Use x to refer to current value(s), e.g. enter "x*2" to double every value the slider controls
+        Enter a range by separating with " - ", e.g. "10 - 20" specifies a range but "10-20" a value (=-10) 
+    Mirror and rotate now also rotates/mirrors velocities
+    Scale tool now scales attributes such as spring strength and geometry attraction, making it easier to scale things with maintained behavoir
+    New behavior: Objects drawn or erased with brush tool will not move until the user is done
+    Added a checkbox in Options->Simulation for toggling the existence of killer planes on/off
+    Improved input handling. Dragging something should now provide instant response
+    Changed select-behavior: CTRL toggles selection, CTRL+SHIFT adds to selection and SHIFT deselects (as before). The old behavior is available via "App.GUI.ctrlSelection = false")
+    Better sketch recognitioning
+    Erase selected water by drawing a line over it
+    New icons for a few things
+    Clicking a selected object now does nothing. This means you can double-click one of several selected objects to get the context menu, improving usability on touch screens
+    Nicer tool-bar flip
+    Added ability to unlock Algodoo for one user only when not logged in as admin
+    Rescaling a box now leaves the text scale be unless the scale is axis-uniform (Scale-tool + SHIFT)
+    Added console search via / (example: type in "/gravity" and press enter)
+    Language support for Chinese, English, German, Japanese, Slovak, Spanish and Swedish
+    Hundreds of fixes and tweaks! 
+
+--------------------------------------------------------------------------------
+
+Algodoo a barrier-breaker, creating a new synergy between science and art.
+
+ALGODOO is a unique 2D-simulation software from Algoryx Simulation AB. Algodoo is designed in a playful, cartoony manner, making it a perfect tool for creating interactive scenes and physical experiments. Algodoo encourages students and childrenâ€™s own creativity, ability and motivation to construct knowledge. Making it as entertaining as it is educational. Algodoo is also a perfect aid for children to learn and practice physics at home.
+
+    FUNCTIONALITY - Create and edit using simple drawing tools. Interact by click and drag, tilt and shake. Use color traces, graphs, forces, etc. for enhanced visualization. 
+
+    PHYSICAL ELEMENTS - Build and explore with rigid bodies, fluids, chains, gears, gravity, friction, restitution, springs, hinges, motors, light rays, optics, lenses. 
+
+    USER COMMUNITY - Algodoo has a large and active community, engaging educators, parents and kids. This website enables collaborative authoring of lessons and lecture material. Algodoo also comes with lesson plans for different key stages in education. 
+
+    METHODS - Algodoo is based on the latest technologies, from Algoryx Simultion AB, for interactive multiphysics simulation, including variational mechanical integrators and high performance numerical methods. 
+
+
+Algodoo runs on Windows, Mac OS and Linux. Algodoo is optimized for the IntelÂ® powered convertible Classmate PC and interactive whiteboard systems. 

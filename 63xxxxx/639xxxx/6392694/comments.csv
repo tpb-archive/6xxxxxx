@@ -1,0 +1,89 @@
+User Type,Username,Date,Text
+[T],thetorrentlord,2011-05-14T20:32Z,"												*******************Here is the info for burning from an old HD-R-US post.*****************************																														I M P O R T A N T   I N F O R M A T I O N
+
+By using ImgBurn and selecting ""Write image file to disc"", this iso can be burnt straight to a DVD5 disc to be played back on any stand-alone, AVCHD compatible, Blu-ray or DVD-HD player, including PS3. Please note that regular DVD players are incapable of rendering Hi-Definition video, so they will NOT play this movie without re-encoding it.
+
+Alternatively, if you want to stream the movie or watch it on your computer, Daemon Tools virtual drive can be used to mount the image file, or PowerISO v4.5 or any later version can be used to extract the files and folders from the iso. This is a blu-ray/AVCHD iso, not a DVD iso, so applications like WinRAR or MagicISO will NOT recognise it. The movie file itself will be located in the BDMV/STREAM folder, and will be named ""00000.m2ts"". Once extracted, if you decide to save the movie by burning it onto a DVD5 disc, your ImgBurn settings need to be as follows:-
+
+Click ""Write files/folders to disc""
+Add both the BDMV and CERTIFICATE folders
+Select the Options Tab-
+Data Type = MODE1/2048
+File System = UDF
+UDF Revision = 2.50
+Make sure that the ""Recurse Subdirectories"" field IS checked, and all other fields are NOT checked.
+Insert your DVD5 disc and click Burn.
+
+The relevant codecs need to be installed to watch any HD movie on your computer. K-Lite's codec pack is free to download, but there are numerous others																																											 																																	"
+[T],thetorrentlord,2011-05-14T20:37Z,"************************************************************************************************************************************************************************************************************																																							HEREAFTER 2010 DTS
+Format                           : Blu-ray movie
+Duration                         : 2h 9mn
+Overall bit rate                 : 0
+
+Video
+ID                               : 4113 (0x1011)
+Menu ID                          : 1 (0x1)
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Format settings, GOP             : M=4, N=29
+Duration                         : 2h 9mn
+Bit rate mode                    : Variable
+Bit rate                         : 3 877 Kbps
+Maximum bit rate                 : 24.0 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Stream size                      : 3.61 GiB (83%)
+Writing library                  : x264 core 115 r1936+503 e048045"
+[T],thetorrentlord,2011-05-14T20:38Z,"Encoding settings                : cabac=1 / ref=2 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=hex / subme=4 / psy=1 / fade_compensate=0.00 / psy_rd=0.00:0.15 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-1 / threads=6 / sliced_threads=0 / slices=4 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=1 / constrained_intra=0 / fgo=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=1 / weightp=1 / keyint=24 / keyint_min=2 / scenecut=40 / intra_refresh=0 / rc_lookahead=20 / rc=2pass / mbtree=1 / bitrate=3877 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=24000 / vbv_bufsize=24000 / nal_hrd=vbr / ip_ratio=1.40 / aq=1:1.00
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 4352 (0x1100)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Duration                         : 2h 9mn
+Sampling rate                    : 48.0 KHz
+
+Text
+ID                               : 4608 (0x1200)
+Format                           : PGS
+
+
+"
+[T],thetorrentlord,2011-05-14T21:45Z,"Menu
+00:00:00.000                     : Chapter 1
+00:05:00.000                     : Chapter 2
+00:10:00.000                     : Chapter 3
+00:15:00.000                     : Chapter 4
+00:20:00.000                     : Chapter 5
+00:25:00.000                     : Chapter 6
+00:30:00.000                     : Chapter 7
+00:35:00.000                     : Chapter 8
+00:40:00.000                     : Chapter 9
+00:45:00.000                     : Chapter 10
+00:50:00.000                     : Chapter 11
+00:55:00.000                     : Chapter 12
+01:00:00.000                     : Chapter 13
+01:05:00.000                     : Chapter 14
+01:10:00.000                     : Chapter 15
+01:15:00.000                     : Chapter 16
+01:20:00.000                     : Chapter 17
+01:25:00.000                     : Chapter 18
+01:30:00.000                     : Chapter 19
+01:35:00.000                     : Chapter 20
+01:40:00.000                     : Chapter 21
+01:45:00.000                     : Chapter 22
+01:50:00.000                     : Chapter 23
+01:55:00.000                     : Chapter 24
+02:00:00.000                     : Chapter 25
+02:05:00.000                     : Chapter 26"

@@ -1,0 +1,373 @@
+I also included the New Nations Mod for added gameplay. Anyway, this is the Full, Final version of 1.3, as well as the last patch they shall make for the game. This is not the Beta patch, so if you have that from the other torrent, install this one over it. 
+
+
+Changes for 1.3 (included .nfo file shows all of them, won't all fit here, there's hundreds):
+
+
+-----------------------------------------------------------------------
+- AI Improvements
+-----------------------------------------------------------------------
+- Tweaked the AI logic for techs and Gas.
+- AI will now recruit as many generals as possible.
+- AI is now better at assigning leaders.
+- AI should now research naval techs correctly.
+- National focus AI will now remove focus from colonization attempts that are far behind an opponents colonization attempt of the same region.
+- All AI countries will no longer pick the same option on events that all countries get simultaneously.
+- Added more AI chance factors to techs, mainly to encourage late game factory unlockers.
+- Further fixes to capitalist AI
+- AI will now turn off subsidies more intelligently
+- AI chance added to lots of Army/Navy techs.
+- Upped AI chance on researching new ship types some more.
+- AI is more likely to increase military spending if low amount of soldiers.
+- AI will no longer attempt to colonize regions where someone else s colonization is way ahead.
+- AI can now delete factories.
+- Fixed some Naval AI issues
+- Improved Naval AI strait blocking and guarding
+- Optimized an AI path-finding check (ShouldGoByLand)
+- fixed: Does the AI know how to remove factories?
+- fixed problem with the ai trying to upgrade buildings that aren't there
+- fixed Capitalist AI build logic: Single Closed Factory in State under L-F Government
+- Fixed a bug which caused the AI to always disband at least one regiment at each reload.
+- The AI learned to not build engineers instead of infantry.
+- Army AI: Fixed an odds bug where the AI would grossly underestimate enemy strength
+- Army AI: Improved odds calculation to look at more factors
+
+-----------------------------------------------------------------------
+- Gamebalance Changes
+-----------------------------------------------------------------------
+* Pops
+- Clergy promotion now check clergy levels, not officer levels.
+- A few immigration-attracting effects now also increase assimilation rate.
+- Reduced default assimilation rate by 25%.
+- Citizenship policies now increase assimilation rates.
+- Continents can now affect provinces, which currently just sets assimilation rate depending on continent.
+- Having political and social reforms enacted increase the angriness of political party being appointed.
+- Low literacy POPs are now far less likely to promote
+- Soldiers are now less likely to become craftsmen if you spend money on them.
+- Farmers and Laborers at <20% literacy is now less likely to become craftsmen.
+- Increased Mil reduction after rising to 3 (from 1).
+- Mil from reform desire doubled
+- Literacy is now capped to 100%
+- Fixed a bug in promotion factors that nerfed promotion to bureaucrats when admin spending was above 0.
+- Literate pops are more likely to promote to bureaucrats in states with under 1% bureaucrats.
+- Removed lux goods modifier for generic promotion chance as lux needs are higher now.
+- Fixed clerk to bureaucrat promotion.
+- Soldiers may now also promote to craftsmen.
+- Craftsmen now want the wage reforms more.
+- Told soldiers not to promote to craftsmen in colonies.
+- Clergy less likely to promote to officers when education spending is 100% and Military is under 80
+- Pop's desire for voting rights to their strata doubled.
+- less bureaucrat promotions when spending = 0
+- pops thinking of becoming aristocrats check state scope to see if there's too many rather than the nation
+- Pops will not assimilate in overseas colonies.
+- Lowly populated areas will not completely depopulate from migration.
+- Pops should no longer emigrate to occupied provinces
+- Pops in occupied provinces should not promote or demote.
+- Hit healthcare with the nerfbat.
+- Made craftsmen a little more likely to promote to clerks.
+- Pops learned to move around more.
+
+* Military
+- Arty brigades have defense now, techs increasing their attack will also raise def.
+- Mobilization calculation is now using merged smaller pops to not punish smaller countries so much. i.e., Prussia vs. France.
+- Supply costs now affect military score.
+- Upkeep cost for brigades increased
+- Army techs increase upkeep cost more.
+- Troops no longer affect colonial progress.
+- Tweaked colonial progress to not go backwards.
+- MoW arty need upped to be in line with others
+- Units will no longer leave combat if they cancel movement.
+
+* Diplomacy
+- Same continent-cores and the capitals are now weighed more in war score calculations.
+- Peace costs for taking province will not grow because of enemy is losing territory to rebels at the same time.
+- A country being forced to be released will get a truce with the country releasing it.
+- Rewrote mechanics so that bankruptcies, 'gunboating' and defaults are 'on the same page':
+* A country that canâ€™t pay their interest goes bankrupt, this will put them in default to all creditors for two years
+* All creditors gets a cb/wargoal to force them to repay their debts, if they win the country will no longer be in default to them
+* After two years, all loans held by the bankrupt country, that it still is defaulting on, will be cleared
+- Good peace offers that are declined now incur a penalty to the decliner, also added text to the peace offer message that reflects this.
+- Admit Hegemony now gets all relevant countries into your sphere!.
+- You can now properly influence countries added to your sphere even if you have a truce.
+- No longer possible to humiliate a country which has recently lost a war (within last 5 years.)
+- Being forced to disarm now reduces your badboy quicker.
+- You can always influence someone in your sphere, even if at truce with them.
+- Countries should now always get a cb on debt default
+- Only the selected war goals are now executed
+- Only countries that exists will be added to spheres when a hegemony war is won.
+
+* Economy
+- Increased output of under produced RGO goods
+- RGO workers will now be fired if they are oversupplying.
+- Prices can now rise if there is a demand for them, but nothing actually produced yet.
+- Rebalanced factory outputs to make late game factories actually profitable.
+- Complete revision of Pop needs.
+- Reduced POP demand for certain manufactured goods
+- Lowered electric gear factory's cement cost to be in line with others
+- National focus for factory production will now be much strongly considered by capitalists and they may ignore non-profitability.
+- Interest is now paid before anything else
+- If you have no money and get no loans, expenses no longer gets paid
+- Loans are now paid of in fleet orders (the private investors have a really big one )
+- Reduced demand of certain goods to bring supply and demand into better balance.
+- Fabric, the manufactured good that powered the Industrial revolution, is now more economical to make.
+- Prices can now fluctuate between 20% and 500% of base price.
+- Cement factories no longer need cement to work properly
+- Tweaked supply and demand for certain goods
+- Further tweaked luxury demands
+
+* Rebels
+- Middle-class pops now provide some infantry when they rise.
+- Rebels are now a bit more dangerous, as they have leaders, and will reinforce and are resilient.
+- Socialists now back political reforms at half the want of liberals.
+- Liberals now back social reforms at half the want of socialists.
+- Military issues are no longer so extremely important for people.
+- Chanced Anarcho Liberal trigger to be political reform want rather than social. No social reform want before Socialists are active.
+- Anarcho liberal rebels will no longer form in bourgeois dictatorships.
+- Reduced chance for primary culture pops to join nationalist rebels.
+- Expanded trigger to activate commies to make it more likely.
+- Farmers and laborers are a bit more likely to go socialist in equality nations with socialist ruling parties.
+- Farmers and laborers are keener on pensions when not getting their lux needs filled.
+- Small increase of probability of national rebels rising compared to others in the later game.
+- Pops less likely to join Anarcho-liberal rebels if not of culture group or accepted
+- More modifiers to make Pops go Socialist when they desire social reform
+- Rebel rising popups now has a max size
+- Terrorist cells are now only activated when the terrorism tech is discovered.
+- Spoil system is now properly active from the start.
+
+* Technology
+- Advantgarde Intelligentsia were found to be actually quite useful, we have returned the Intelligentsia back to it is more traditional role of being seen to be a burden to honest hard working people.
+- Increased research points from plurality and literacy.
+- Newly created countries will now have their technologies properly initialized.
+- Released countries no longer go immediately bankrupt.
+
+
+
+
+-----------------------------------------------------------------------
+- Interface Improvements
+-----------------------------------------------------------------------
+- Newly created leaders are now added to the top of the list.
+- Supply consumption on unit view now takes current level from country into account.
+- Map will no longer scroll if you are moving cursor while editing the name of a unit. (Or any other editbox)
+- Fixed needs disappearing from the pop details screen for very small pops.
+- Political screen will now show the same reform allow percent in all tools tips regarding the same thing.
+- Bank loans tabs no longer toggle, but rather switch to the tab that was clicked.
+- Fixed bug where poptype tooltips would show the wrong luxury fulfillment.
+- Fixed a technology tooltip.
+- Declare war tooltips will now state that you are in the same SoI as your target rather than that they are in your SoI if this is in fact the case.
+- fixed Stockpile slider: percentage tooltip should be visible over buttons
+- added shortcut tooltips
+- National focus sprites will now always be placed in a province owned by the focus owner. ( Unless colonization focus )
+- Chance of allies joining in a war when call allies checkbox is ticked added.
+- War effects can now be setup to call in allies or not.
+- Unit view will now color the pop icon red if the pop is unable to reinforce or yellow if it can reinforce only at a slower rate.
+- Pop icons on subunits being reorganized will now be colored the same way as the pop icons in the unit view.
+- Units that are under construction will no longer flicker in the military screen
+- Build screens will now remember what tab it was on.
+- Military screen is now less laggy with large armies.
+- New political parties and removal of old parties will now trigger messages.
+- War intervene screen now shows the correct reason.
+- Days of insolvency for factories is now visible on the production screen.
+- Unitflags will now change when government is changed.
+- Parties now have a more informative tool tip.
+- Fixed Message log incorrectly reports province defection
+- Auto-create/assign leaders creates admirals for 1-ship fleet
+- You can now disable auto assign for leaders you don't like
+- Now Better scrolling in pop view
+
+-----------------------------------------------------------------------
+- User Modding
+-----------------------------------------------------------------------
+- Terrain trigger now works properly in migration checks.
+- Civilized trigger now works for pop & province scope.
+- The 'corruption' trigger now works properly and is a range from 0-1 telling how large percentage of your country that is covered by crime buildings.
+- Fixed the "is_secondary_power" trigger.
+- Added a new modifier called 'global_assimilation_rate' which is for an entire country.
+- Added a trigger for 'has_recently_lost_war = yes/no'.
+- Infrastructure command now changes railroad level, not sets it.
+- Added a trigger called 'strata = poor/middle/rich' for pop scope.
+- The 'money = x' trigger now works.
+
+-----------------------------------------------------------------------
+- Database Changes
+-----------------------------------------------------------------------
+- Added a decision where secondary powers with poor relations with their master can leave a SoI.
+- Leave SoI decision now uses secondary power trigger. Also moved it to Allow section so it is visible to any nation in a SoI.
+- Lowered MTTH on socialist and communist enabling events and made triggers a bit easier
+- Tweaked a few triggers for events to not happen when they shouldn't.
+- von molke's reforms also availible to NGF/GER
+- fixed ORs in Jacobin rebels
+- fixed tech check in expressionism inventions
+- DAN/HAB changed to DEN/AUS in country colors
+- name changes in cultures file from community fixpack
+- prussian_constitutionalism uses monarch flag
+- Israel can no longer form Germany
+- The Peking Convention can no longer be enacted while Russia is at war with China
+- Gifted Administrator trait now improves ORG rather than reducing it
+- corrected flag name in ACW events
+- corrected relation effects to use WHO rather than WITH in some ACW events/decisions
+- fixed abolish_prohibition trigger
+- fixed event 31507 trigger, should be for AUS rather than LOM + flag check
+- event 31508 polish Committee of Independence also fires for GER/RUS
+- Ship Explodes event adds correct CB
+- fixed WITH/WHO in civ and gunboats too
+- Disloyal Regiment event checks correct pop type
+- removed needless owner scope in the Bitter rain event
+- added civ check to Heia Safari! event/effect and changed WITH to WHO
+- Colony Improves event only happens in colonies now
+- correct poptype checked in event 36202
+- correct poptype checked in event 36203
+- removed check for global flag GermanizeSchlewsigDENes in event 36206 as it is not set by anything
+- correct poptype checked in event 36923
+- events 36940 and 36941 check correct tag (NZL)
+- event 33003 checks BAV, not BAY
+- event 33004 affects relations with DEN, not DAN
+- Abu Dhabi checked only once in oil event
+- IdeologyEnabling events now only have one picture defined.
+- The Great Escape event only checks civ status once
+- Friend's Almshouse event checks pop, not state
+- Signing the Geneva convention requires under 25 BB, not 250.
+- Dental Care Bill event modifier corrected
+- The Familiar Institution and Withdrawing Privileges of the Unemployed events empty modifiers removed
+- Unraveling Reform event changes correct reform
+- Union Busting event only checks civ status once
+- $COUNTRY$ Has Abolished Slavery event only checks civ status once
+- An Age of Liberalism event flag corrected
+- Springtime of Nations modifier corrected
+- End of The Liberal Revolution Part 2, trigger needed an OR and now it has one.
+- Potato Famine Debated, needless owner scope removed
+- Insurrection event, OR added
+- Revolt event checks correct flag
+- Cholera Epedemic event, needless owners checks removed.
+- Local Poet event modifier fixed
+- Local Clergy preaches disobedience event modifier fixed
+- National Martyr event, extra AND removed
+- Pan-Nationalist event, empty modifier removed
+- Onaction events, unneeded country and owner scopes removed
+- Red John event makes pops 30% more in favour, not 300%
+- Workhouse Strike events makes pops more 15% demanding rather than 150%
+- fixed Upper House Dissatisfaction event effect
+- fixed Free Trade & Repeal Society, Free Trade & Morals, Freemarketeering Criticized, and Newspaper Publishes Blasphemy events effects
+- The Alaska Purchase now sells ALL Russian land in NA to USA and removes Russian cores there
+- The Alaska Purchase event1 now has text on option B
+- The Alaska Purchase decision now requires you have enough money
+- Blackshirts event fixed scaled mil effect
+- Suffragette Movements event, fixed UH effect
+- Added owner scope to gov type check on event 36603
+- Temperance League, Beer hall, Religious Temperance, Licensing Act, Temperance & Labour events check for muslim religions
+- unneeded owner scope removed form beer hall opens event
+- Viticultural Association event checks for country flag now, not province
+- many unneeded owner scopes in workplaceevents.txt removed
+- Blood & Iron Mine event won't fires for same place ehile modifier is active
+- Fashion Fails event - removed empty modifiers
+- anti_egalitarianism invention now correctly enables citizen guard crime
+- changed ENG_2014 to 2016
+- removed 3 factories from the UK and turned the craftsmen back to farmers.
+- Added a revised alot of parties.
+- USA proletarian_dictatorship called American People's Republic again
+- Upped money from first choice in the First farmer's bank event to make it slightly tempting.
+- Added starting USA colonize NFs in Washington and Oregon.
+- Alaska purchase now gives ALL Russian NA to USA, not just USA's cores in case RUS takes some Canada.
+- Boy shot event costs more to investigate/
+- Increased attraction to fascist rebels a bit.
+- Can go KUK if government = prussian_constitutionalism too!
+- Added a boost to fertilizer production on the artificial_fertilizers invention and electricity tech.
+- 13200 checks for truce with SoI owner.
+- 13200 gives add to SoI CB/wargoal.
+- Made allow/remove liquor_prohibition less spammy.
+- Corrected triggers in Temperance League events
+- Removed odd modifier from reactionary rebels.
+- It now costs a lot more to join the International Olympic Committee.
+- Changed Foreign Smugglers and Point of Trade events to give a country modifier
+- Event 31505 now points to correct localization.
+- Added BUR to UK's SoI.
+- Reduced brigade cost and tech cost increase a little.
+- Added Linebreak to fixe liferating in Leghorn.
+- Activated unused FRA parties.
+- ISR won't ask GER to annex them anymore.
+- Lowered mil score needed for meiji.
+- Lowered Lit requirement and MttH for Enable Fascists events.
+- Fixed MTTH in event 45100
+- precious_metal_mine is now a mine
+- Event 21030 MTTH fixed
+- 1935 Nobel prize events checks right flag
+- Fixed the fort in Edirne.
+- Venezuela now has the core on Mahdia, not Venice.
+- Modena now in Austriaâ€™s sphere at game start
+- Changed event 19000 to not trigger follow-up for GPs with over 90 influence to avoid double SoIs.
+- Change a Fabric factory in Boston to Canned food and made the UK's Clipper factory level2 to smooth out early game economy.
+- Gave the USA 2 techs and some more bureaucrats so they can afford their navy.
+- Penal colonies won't fire again if you have the modifier from it.
+- Laagers attacked shouldn't fire multiple times for the same nation.
+- Events where you DoW also have a choice to call your allies as it is not automatic anymore.
+- FRA can't decision-annex a player MAD.
+- Ideologies can only be invented by civilized nations.
+- BOL and PEU start allied
+- Removed the culture penalty on industrial tech school
+- Removed ai_will_do from webster_ashburton_treaty and added a BB trigger
+- Anarcho-liberal, fascist and reactionary rebels like no_trade_unions now
+- Nations can only apply for US statehood once
+- Added a VEN core on Mahdia.
+- Fixed a bunch of modifiers that used literacy incorrectly
+- Renamed the Benin region to Dahomey.
+- BEL starts with XP railroad
+- Breslau's arty factory is now open and some more craftsmen have been added.
+- PRU starts with mechanical production
+- Fixed when poor pops want Gerrymandering
+- Added an event for TEX which grants some supplies
+- Added small BEL railway
+- Fixed a modifier in harassment voting issues choice for poor pops.
+- Gave pandemic_influenza global effects as it is a country modifier.
+- Turkish reactionary and conservative parties now take a more conservative view on who is actually a Turk
+- Border incident requires you to be civilized.
+- Added a decision for Russia to move its capital to Moscow
+- fixed some inverted modifier in many pop issues.
+- fixed some triggers and reduced MttH in civ and gunboat events
+- Drunken sailor event now fires the correct reaction events
+- tweaked soldier/craftsmen promotion logic
+- the temperance_league modifier now affects global mil
+- Restricted a few gunboat events to only happen for countries they were meant to be for.
+- fixed a broken strait around Gibraltar.
+
+
+-----------------------------------------------------------------------
+- Performance and Stability
+-----------------------------------------------------------------------
+- Quite a lot of optimization done, mostly focused on late game performance.
+- Reported crashbugs tracked down and fixed.
+- Fixed lockup with big rebellions.
+- Fixed a common reason for OOS.
+- Fixed crash in pop detail tooltip
+
+-----------------------------------------------------------------------
+- Generic Bugfixes
+-----------------------------------------------------------------------
+- Fixed bug in land combatant where subunits were not removed from retreats when their unit was deleted.
+- Population growth modifier will now function as intended.
+- fixed Losing GP status incorrectly
+- fixed Mass building of the same factory
+- fixed Negative population w/ endgame save
+- Some mod dir problems fixed.
+- fixed Russia and UK on again, off again
+- Its now possible to cross the dateline without it taking over a year.
+- fixed Intervene Tool Tip confusing
+- fixed discrepancy in call alliance chances
+- Fixed previous owner calculations
+- Fixed a bug with the order of wargoal execution on peace. This was causing some wargoals to fail when they should not.
+- Fixed units stuck as build items in the military view.
+- Fixed ship avatars disappearing when a ship in a unit dies.
+- Closed a hole in the world market code that caused money to be lost
+- Fixed bug where loading would reset the unique name index.
+- Fixed a bug where the fort bonus would be given to both sides in a combat.
+- Fixed a problem that caused money not be saved in save games
+- Casus belli's will no longer lose their end date on save/load.
+- Added missing "=" to several prov files
+- Removed pop needs effects from many province modifiers as it's a country level effect
+- Fixed a major bug that truncated save games at some times.
+- New messages should now appear properly.
+- Fixed being occupied is great for industry
+- Fixed Uniforms not updating fully
+- Improved Gathering the following materials before construction can start info
+- Fixed a few missing ports.
+- Fixed a lockup with scripted occupation.
+- Fixed a few spelling mistakes.

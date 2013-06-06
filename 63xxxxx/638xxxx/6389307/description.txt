@@ -1,0 +1,41 @@
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 180 MiB
+Duration                         : 41mn 52s
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L2.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 41mn 52s
+Bit rate mode                    : Variable
+Bit rate                         : 435 Kbps
+Width                            : 540 pixels
+Height                           : 352 pixels
+Display aspect ratio             : 3:2
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Minimum frame rate               : 11.987 fps
+Maximum frame rate               : 23.981 fps
+
+
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 41mn 52s
+Bit rate mode                    : Variable
+Bit rate                         : 160 Kbps
+Maximum bit rate                 : 205 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz

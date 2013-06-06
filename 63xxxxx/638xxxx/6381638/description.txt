@@ -1,0 +1,11 @@
+jjolano's open source FTP server for the PS3.
+See the README for the default user/pass and otherinfo.
+
+v2.2 CHANGELOG
+
+Added more compatibility for older FTP clients
+Rewrote code for PSL1GHT v2
+Changed UI to a simple message box (was lazy)
+More RFC compliance
+Improved overall connection handling
+Fixed a bunch of minor file transfer problems

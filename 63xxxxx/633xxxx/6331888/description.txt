@@ -1,0 +1,82 @@
+ http://kickers-of-ass.org
+
+Virtualbox all in one Gungame:DM appliance
+srcds Gungame:DM / Hlstats / Fastdownload
+
+
+
+Inhalt:
+Debian 6
+Perl
+Webmin
+Apache | php | MySQL
+Srds | Sourcemod | Metamod:Source
+Hlstats:CE
+Sourcemod Webadmin 2.1
+
+
+
+BenÃ¶tigt:
+2ghz - Dualcore @ VT Extension Empfohlen
+mindestens 768Mb freien Arbeitsspeicher
+Virtualbox (http://www.virtualbox.org/wiki/Downloads)
+WinSCP (fÃ¼r den Mapupload) 
+Fest vergebene IP`s im lan da sonst Hlstats nicht funktioniert (STEAM_ID_LAN)
+HLSW - OPTIONAL - (http://hlsw.de/hlsw/download/)
+
+1. Virtualbox installieren
+2. Im VM Manager die datei image.ova Importieren
+3. VM Starten
+4. Ã¼berprÃ¼fen ob ip der vm auf 192.168.1.118 gesetzt ist (ifconfig im terminal eingeben)
+5. falls nÃ¶tig ip im Webmin Ã¤ndern (https://IPDERVM:10000) 
+
+
+
+Das setzen der ips nicht vergessen!! 
+Jeder im Lan braucht eine feste Ip da Hlstats sonst nicht richtig funtioniert.
+Der Server muss die IP 192.168.1.118 kriegen (wichtig)
+
+Webadmin und Hlstats findet ihr hier http://192.168.1.118/
+
+
+
+Rootlogin Winscp/Putty
+User	: root
+Pw	: toor
+
+
+
+Mysql:
+root login pw 00b0ng11
+phpmyadmin
+
+Hlstats Admin:
+User	: Admin
+pw	: toor
+
+
+Gameserver:
+Rcon	: b0ng
+
+Sourcemod Webadmin:
+user	: admin
+pw	: toor
+
+
+
+
+
+
+FAQ:
+F: Wie Ã¤ndere ich das root Passwort?
+A: Folgendes in der Linux Konsole eingeben :  passwd
+
+F: Wo finde ich die Aktuelle ip der VM?
+A: Folgendes in der Linux Konsole eingeben :  ifconfig
+
+F: Wie komme ich auf das Webmin Webinterface?
+A: https://IPDERVM:10000
+
+F: Wie kann ich die IP der VM festlegen?
+A: Gehe im Webmin Webinterface Links im MenÃ¼ Auf Netzwerk->Netzwerkkonfiguration->Netzwerkschnittstellen->eth0
+   und gebe dort die ip 192.168.1.118 an

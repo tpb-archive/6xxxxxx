@@ -1,0 +1,70 @@
+ http://bayimg.com/pAhhaaAdi
+
+DVDFab Platinum 8.0.8.6 Beta (QT)
+Patch by Team BBB
+
+Installed, Tested and Working on Win 7 - 7600 RTM x64
+
+Big thanks to DM999
+
+Why QT?
+1. We can have some advanced UI effects like skins and animations in future versions.
+2. We have moved an important step to the Mac version.
+
+Please help us to try it if you like to do beta testing, thank you very much!
+
+To report problem of this version, please start your own thread at specific sub-forum, with 8086Qt in prefix or title, thanks.
+
+
+DVDFab is the most powerful and flexible DVD copying/burning software.
+With 8 copy modes, you can back up any DVD to DVDR in just a few clicks.
+DVDFab is brand new, is completely rewritten, is based on more than 8 years of DVD copy software development.
+DVDFab is simply the easiest way to copy a DVD movie. Just insert the movie and a blank DVD then press Start.
+Your entire movie - including menus, trailers and special features - is copied to a single DVD with just one click, and everything happens automatically.
+Backup your entire DVD - including menus, trailers, and special features - onto one or multiple discs.
+
+DVDFab includes: \"DVD to DVD\", \"Blu-ray to Blu-ray\", \"DVD to Mobile\", \"File to Mobile\" and \"File Mover\".
+DVDFab \"DVD to DVD\" is the most powerful and flexible DVD copying/burning software.
+With 8 copy modes, you can backup any DVD to DVDR or hard drive in just one or a few clicks.
+DVDFab \"Blu-ray to Blu-ray\" is the first full-featured Blu-ray copying/burning software.
+With 4 copy modes, you can backup Blu-ray to BD-R or hard drive in just one or a few clicks.
+DVDFab \"DVD to Mobile\" converts DVD title to AVI/MP4/WMV/MKV files which can be played on mobile devices like iPod, PSP, ZUNE, cell phone, etc.
+DVDFab \"File to Mobile\" converts source video file on your PC to next generation console like PS3 and Xbox 360,
+or mobile devices like iPod, PSP, ZUNE, cell phone, etc.
+DVDFab \"File Mover\" option transfers converted files to mobile devices like iPod, PSP, ZUNE, etc.
+
+Changes:
+DVDFab 8.0.8.6 Beta (April 1, 2011)
+
+New: Rewritten user interface with Qt.
+New: Changed language files to Qt format.
+New: Some minor changes and improvements.
+
+Blu-ray Copy:
+New: Added support for ATI Stream acceleration technology.
+Note: Please update AMD Radeon video card drivers first.
+1. Visit http://sites.amd.com/US/GAME/DOWNLOA...downloads.aspx
+2. Download both \"Catalyst Software Suite\" and \"AMD Media Codec Package\" (Optional Downloads).
+Currently the ATI Stream support is limited to H.264 and VC1 video decoding. It\'s the problem of AMD driver, and we need to wait for driver updates to support more features like MPEG2 video decoding and H.264 encoding. Also the decoding speed of ATI Stream is not very faster than DXVA, but it should be more stable than DXVA.
+Fix: A problem that output size is too small when compressing certain discs like \"The Social Network\" to BD25.
+Fix: A problem that 2D copy of Blu-ray 3D disc cannot be played on certain players like PS3.
+
+Blu-ray Ripper:
+New: Added support for ATI Stream acceleration technology.
+Fix: A crash problem when converting certain discs like \"Robin Hood\".
+
+Blu-ray to DVD Converter:
+New: Added support for multiple audio stream selection.
+Fix: A video quality problem caused by the new VBR encoding.
+
+Video Converter:
+Fix: Several problems when rendering external subtitle.
+
+Installation Notes:
+1. UnRar, Install And Then CLOSE DVDFab
+2. Copy Patch from Patch Folder to Installation Folder (C:\\Program Files\\DVDFab 8)
+3. Run Patch as Administrator, Choose DVDFab and Type in a new Reg Name, Then Click on the [P]
+4. Exit Patch and Start DVDFab Platinum
+Enjoy !!!
+DO NOT UPDATE THIS PROGRAM
+(Disable Automatic Updates under Settings ... General)

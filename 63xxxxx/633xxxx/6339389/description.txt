@@ -1,0 +1,42 @@
+installation on dell XPS M140
+ 
+Don't touch Bios, Defaults are fine. if you have a problem, then turning off execute bit in bios won't hurt 
+
+use Ideneb 10.5.7
+Qoopz kernel (better possibilities for sound support)
+chameleon v2 IMPORTANT!!
+batterymanager
+voodoohda (audio) works but choppy and needs frequent reboots
+can upgrade  AppleHDA using Qoops kernel and  taruga 1.20 after install
+
+ethernet broadcom AppleBCM440x
+video intel GMA900
+install netgear wg111v3  under wireless if you have chosen to buy one as onboard wireless with encryption is still a nogo. 
+
+there is a package (iwidarwin) if you are ok w/ unencrypted connections or just want badly to use built-in wireless
+
+
+After install
+recommend netgear  wg111v3 purchased separately
+get safari 4.03Leo.pkg 
+Apple HDA Patcher 1.20 from taruga (works with Qoops)  (included)
+drag stack dump text file icon  over onto patcher icon....install, reboot, enjoy clear Audio -) 
+stack dump from ubuntu live CD for Audio (working dump file from this model is included in the package :-)
+
+TURN OFF UPDATES FOR OSX 10.5.8!!!
+TURN OFF UPDATES TO ITUNES !!!
+TURN OFF UPDATES TO SAFARI!!!
+
+
+
+itunes 10.01 (since future versions require kernel in 10.5.8)
+
+DO NOT use ideneb 10.5.8 combo update unless you are an expert  and have made a time machine backup!!!!! 
+
+I recommend doing a time machine backup or disk clone  if you are a tinkerer like me :-)
+
+
+
+unit will sleep just don't ever close the lid. If anyone nows solution for lid/wake issue please let me know 
+
+Description: closing the lid causes the display to go off and it will not come back on until reboot..... Do not close lid until solution is found. 

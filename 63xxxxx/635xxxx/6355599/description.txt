@@ -1,0 +1,81 @@
+Intro:
+======
+I figured I'd make a quality version of the infamous 10,000 Days "easter egg" sync
+for everyone because I've heard too many poor quality versions out there; YouTube!
+So, here's my best effort for you.  I've added two other must-have Tool track mods
+as well...
+
+
+
+Tool tracks mods:
+=================
+Tool - 10,000 Days--Viginti Tres--Wings for Marie (sync).mp3
+Tool - 10,000 Days--Viginti Tres--Wings for Marie (sync, outro pan).mp3 *
+
+	With the below noted cues points, the "guitar climax" at 9:14 sync 
+	perfectly. There is unavoidable drift though, evident in the drums 
+	on the tail end of this guitar riff. 
+
+		Cues: 	
+		-----
+		10,000 Days (wings part 2) 	0:00
+		Viginti Tres			0:00
+		Wings for Marie (part 1)	5:01.350 **
+
+
+		"Guitar climax" start sync points: 
+		----------------------------------		
+		10,000 Days:			9:14.168
+		Wings for Marie:		4:12.818
+
+
+	* I supplied a slightly panned version for the masses as well.  
+	In this version, once the heavy guitar climax ends at 9:30, 
+	I gradually (over 2s) panned them to 20% left and 20% right for 
+	10,000 Days and Wings, respectively. They retain most of their original
+	stereo, but you get a slighty better stereo effect to the sync at the end.
+
+	** Start Wings at 0:00.974 before Viginti Tres ends. Though start 
+	cues are more accurate. This value merely indicates that you 
+	cannot simply start Wings once Viginti ends. 
+
+
+
+Tool - Faaip de Oiad--Lost Keys (overlay).mp3
+
+	Faaip de Oiad 	(Lateralus 2001)
+	Lost Keys 	(10,000 Days 2006)
+
+	These tracks, oddly enough, work perfectly together.  
+	Perhaps it's no coincidence at all, given the previous example.
+
+
+
+Tool - Parabol--Parabola.mp3
+
+	I put these two together just because they belong that way!  
+	Damned random/shuffle kills these two tracks.
+
+
+
+Tools:
+======
+Adobe Audition 3.0	multitrack editor for precise syncing, overlays, merge 
+Goldwave 5.23		finalization, fade in/out (minor), check for clipping...etc
+dBpowerAMP 11.6		FLAC -> WAV, WAV -> MP3
+MediaMonkey 3.1		track volume analysis -> to tags only 
+			(for players that can level playback)
+
+
+
+Audio quality:
+=============
+FLAC	44.100Hz 16bit stereo
+WAV	44.100Hz 16bit stereo
+MP3	320kbps CBR MP3 LAME 3.96r 
+
+
+
+Lineage:
+========
+FLAC -> WAV -> Audition -> WAV -> Goldwave -> dBpowerAMP -> MP3 -> MediaMonkey

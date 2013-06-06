@@ -1,0 +1,95 @@
+How to Setup-
+
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+-Part i-
+
+
+1) Upload all Files to your Hosting site.
+
+---------------------
+
+2) Things you may want to change.
+	Logo.png [Sourcecode>assets>logo.png]
+	The SQL .txt File [For Experts Only]
+
+---------------------
+
+3) Create a Database on your host. Make sure you make a user for it too!
+
+---------------------
+
+4) Goto phpMyAdmin and go to your database.
+
+---------------------
+
+5) upload the sql file provided in "query" simply copy and paste.
+
+---------------------
+
+6) Before hitting "Go" make sure to change the "CHANGE ME" to your database name!
+
+
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+
+-Part ii-
+
+
+1) Goto Sourcecode>Includes>config.php
+
+---------------------
+
+2) Open in Notepad.
+
+----------------------
+
+3) Change this Part
+
+---
+<? 
+$dbname = 'CHANGE ME';	// The name of the database 
+$dbuser = 'CHANGE ME'; 	// MySQL
+$dbpwd = 'CHANGE ME';	// MySQL Password 
+$host = 'localhost';	// Most likely you wont need to change this 
+?>
+---
+
+Change the bits that say Change Me, to the right things,
+The name of your SQL database, Username to Access, and password.
+Leave localhost the same.
+
+---------------------
+
+4) Save it and carry to Part iii.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+
+-Part iii-
+
+
+1) Goto your website you uploaded on.
+
+---------------------
+
+2) Log into the site with these Details [Unless you changed the sql File
+	username: Cruel
+	password: qq123
+
+---------------------
+
+3) Add all your shells that you need to.
+
+---------------------
+
+4) Your Done. Enjoy.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+

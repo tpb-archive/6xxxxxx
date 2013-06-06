@@ -1,0 +1,201 @@
+User Type,Username,Date,Text
+,bf2v15,2011-04-19T02:51Z,"No, it does not contain adware.
+
+It contains 6 files:
+Setup batch file (that is able to be examined in Notepad)
+7-zip file (BF2 Folder)
+7-zip Extractor
+CD Autorun file (if you choose to burn it to DVD)
+Readme JPG
+BF2 Icon"
+,bf2v15,2011-04-20T00:59Z,"@ShiftNoob
+I understand you get your joy out of leaving false comments. Have fun. /pat pat"
+,Cerebral222,2011-04-20T12:33Z,This upload is clean. Thanks bf2v15 for this torrent & thanks to the seeders as it only took a couple of hours to download. I will seed this torrent too. Cheers guys.
+,attakr,2011-04-24T02:18Z,"Perfect thanks!
+No viruses no errors"
+,bf2v15,2011-04-24T11:38Z,"Yay, ShiftNoob's comments were pwned
+
+Echoing Cerebral222, thank you seeders!
+The more we upload, the more population on the game servers =)
+
+Cheers all!"
+,bf2v15,2011-04-24T12:01Z,"Thanks Cerebral222 & Attakr, it's great to hear positive feedback =)"
+,bf2v15,2011-04-26T02:09Z,"Some people have been confused by the title.
+To clarify ""Full Game"":
+This torrent has all expansions
+Special Forces, Armored Fury & Euro Force"
+,Minecraft,2011-05-07T21:52Z,In case you are downloading this to play PR i've got some good news. WORKS FUCKING WELL !
+,sky0dragon,2011-05-11T23:46Z,"1. Run this to install BF2 and your Serials
+
+i run that... tried any C:\Games\BF2
+even C: and nothing... press enter and just ask again... for it"
+,bf2v15,2011-05-12T01:47Z,"Did you edit the installation file?
+It shouldn't loop unless some lines were accidentally deleted by the downloader while viewing it in Notepad.
+
+In your torrent download program:
+Right-click this torrent & Left-click ""Force Re-Check""
+Hopefully it will redownload the installation file.
+
+Then try running the installation file again & press ""A"" instead of ""C""."
+,sky0dragon,2011-05-12T15:55Z,"i downloaded (didnt touch anything) when it finished just opened (1. Run this to install BF2 and your Serials)
+tried any install path... every time i press enter just stay there asking for a path
+
+i have
+1. Run this to install BF2 and your Serials
+2. Readme
+autorun
+Files (Folder with 3 files inside)
+
+the only thing i have touched is my PC... could it be that this need some windows app to run?
+because i have alot of services off... "
+,madbcows,2011-05-17T00:10Z,"I installed it, all went well, but i cant find an .exe to play the game.  What do I do to run it?  my cd keys are valid, i even inserted disc 1. "
+,bf2v15,2011-05-17T05:34Z,"Hi Skydragon, the installer uses CMD (DOS), your disabled services won't affect it :)
+1. Double-click ""1. Run this to install BF2 and your Serials""
+2. Press ""A"" (NOT Enter)
+It'll auto-install
+
+The reason it keeps repeating itself is it is asking you to press ""A"" or ""C""... Enter does nothing in the first prompt.
+
+Good luck!"
+,bf2v15,2011-05-17T05:37Z,"Hi Madbcows,
+
+You don't need to insert Disc 1 to play anymore; Patch v1.5 removed that requirement =)
+
+The installer should have placed 2 Shortcuts on your desktop?
+
+Otherwise, go to the directory where you installed BF2 (Default location is C:\Games\BF2)
+& Run ""BF2.exe""
+
+Cheers!"
+,kattwuver202a,2011-05-19T12:50Z,"WHAT DO YOU MEAN BY PRESS A???? i push a and it types the letter a and does nothing, can i please have a more precise explanation than ""press A"""
+,bf2v15,2011-05-20T11:00Z,"The CMD file explains perfectly...but here you go:
+1. Start ""1.Run this to install BF2 and your serials.CMD""
+2. The first prompt asks you:
+    To press ""A"" to install to C:\Games\BF2
+    or
+    To press ""C"" which lets you customize the installation directory.
+3. If you pressed A: it will instantly start installing BF2 to C:\Games\BF2
+    If you pressed C: it will go to the next prompt, asking you to type in a Custom Directory & Press Enter
+4. If you pressed A: You're done by now.
+    If you pressed C: Confirm your Custom Directory does not have a ""\"" mark at the end & Press Y for Yes
+    Press N if you included a ""\"" mark at the end
+5. If you pressed Y: You're done by now.
+    If you pressed N: Type in your custom directory without a ""\"" at the end & Press Enter & Press Y
+Cheers =)"
+,bf2v15,2011-05-20T11:06Z,"If your Windows Installation has some extreme security that it doesn't let you input options into a DOS window:
+1. Right-click ""1. Run this to install BF2 and your Serials.CMD""
+2. Left-click ""Edit""
+3. In Notepad: Highlight everything ABOVE:
+""::---------------------------------------Install BF2 To Default Location""
+4. Delete the highlighted section.
+5. File Menu -> Save
+6. Start the CMD file...it will Install BF2 without prompts & ask you to insert your serials afterwards
+Cheers =)"
+,bf2v15,2011-05-20T11:20Z,"If you purchased BF2 more than two years ago:
+You received 2 separate keys...1 for BF2, 1 for SF.
+
+If you purchased BF2 less than last two years:
+You may have received only 1 CD Key...use that key during installation for both key prompts.
+"
+,kattwuver202a,2011-05-20T15:55Z,THANKS SO MUCH MAN it just kept looping nomater what i did but now its installing as i type this :)
+,bf2v15,2011-05-21T07:58Z,"Great to hear, Cheers =)"
+,Prvmuo,2011-06-09T21:45Z,"@bf2v15 
+I get this error after i type my serial..
+  Your current serials are:
+ERROR: The system was unable to find the specified registry key or value.
+i typed with and without ' - ' but it keeps giving this error. ( I also got serial like 
+xxxx-xxxx-xxxx-xxxx
+   Battlefield 2
+xxxxxxxxxxxx 
+the second numbers are for SF?) "
+,bf2v15,2011-06-15T10:28Z,"Sounds like your user account is slightly restricted or a non-microsoft realtime security program removed the entry.
+Right-click ""BF2 Serial.cmd"" -> Click ""Run as administrator""
+Make sure you're not on a Windows Limited Account.
+And yep, the second serial prompt is for the SF serial.
+(If you purchased BF2 before 2009 you received 2 keys; after 2009 1 key for both)
+Cheers"
+,Prvmuo,2011-06-16T15:45Z,Yeah it was about user account.. running as administrator solves the problem.thanks for your help 
+,humjaba,2011-06-17T03:41Z,"So I've installed and it runs well, but when I attempt to join a server it says ""CD Key invalid!""
+
+I punched in the CD keys I have for BF2 (I bought them forever ago, but my CD is lost). I seem to remember after v1.44 they started encrypting the CD keys in the registry. I see that your program doesnt do this. What do you suggest?"
+,bf2v15,2011-07-02T10:29Z,"@humjaba
+The encryption part of the key is 'x9392' and is entered automatically by the installation file.
+Yes, the 1.4 patch installer introduced encryption, and usually screwed up when scrambling our keys.
+It's the reason BF2 forums have Invalid Key threads; which EA quickly fixed by telling us to go into the Windows Registry and retype our keys with capslock on and start with 'x9392'.
+
+Please do the following:
+1. Go to BF2's installation directory and run 'BF2 Serial.cmd' - It will list what you entered into the Windows Registry during BF2's installation.
+If you see any lowercase letters, Press 'Y'
+If you typed in hyphen's, Press Y
+2. Follow on-screen instructions to change the serials.
+Don't type in x9392, the command file does it automatically.
+
+Example of a correctly typed key:
+23I4N2IU3B5I23IU4321
+Example of an incorrectly typed key:
+23i4-n2iu-3b5i-23iu-4321
+
+Cheers!"
+,bf2v15,2011-07-02T10:32Z,"@Prvmuo
+Great to hear! Thanks!"
+,Duhya2,2011-07-04T21:55Z,"I'm downloading this to play Project Reality, good to hear others are having it working."
+,Duhya2,2011-07-04T22:00Z,"i get a error, it says it couldnt find battlefield 2 version 1.5 full game installation. Can somebody with the whole file seed?"
+,bf2v15,2011-07-05T01:08Z,"Sounds like the Registry entry for BF2's Location wasn't added during Installation.
+Please do the following:
+1. Go to BF2's Installation Directory
+2. Right-click on ""BF2 Location.cmd""
+3. Left-click on ""Run as administrator""
+4. In the CMD Window, make sure the directory is shown
+At the end of the entry, make sure there isn't a slash or double-slash '\' '\\'
+5. Press Y
+6. Retype the installation directory
+Example: C:\Games\BF2
+7. Press Enter
+8. Press N
+9. Try installing PR again"
+,bf2v15,2011-07-05T01:21Z,"I just checked the PR installation, if offers the option to ""Browse"" for the installation directory.
+Select the root installation directory (where BF2.EXE is) ""C:\Games\BF2""
+Cheers"
+,bf2v15,2011-07-09T17:16Z,"I just realized I skimmed earlier and the error you're encountering is the torrent's download location on your computer. There are many reasons why a location can't be found -- corrupt drive, invalid chosen location, etc.
+
+There are a lot of seeders (thank you seeders!!)"
+,coty615boyz,2011-07-30T21:18Z,"Hey, does this version work with AIX 2.0?
+I see that it does with PR."
+,gustavo7474001,2011-09-07T01:45Z,"I've followed everything here, had some problems, but the answers i found here
+whend i followed this:
+""If your Windows Installation has some extreme security that it doesn't let you input options into a DOS window:
+1. Right-click ""1. Run this to install BF2 and your Serials.CMD""
+2. Left-click ""Edit""
+3. In Notepad: Highlight everything ABOVE:
+""::---------------------------------------Install BF2 To Default Location""
+4. Delete the highlighted section.
+5. File Menu -> Save
+6. Start the CMD file...it will Install BF2 without prompts & ask you to insert your serials afterwards
+Cheers =) ""
+i got a problem, when i finish typping my serials, i receive an error notification:
+""Windows can't find \pbsetup.exe. Certify that you've typed the name correctly and try again""
+what to do now? :("
+,bf2v15,2011-09-07T08:42Z,"Did you right-click the installation file & choose ""Run As Administrator""? That usually solves extreme security issues.
+
+Since you have the files installed, go to BF2's installation directory and run PBSetup.exe
+Then you can play BF2 without being kicked by Punkbuster being out of date
+Cheers =)"
+,gustavo7474001,2011-09-10T18:28Z,"i delete all files and re-downloaded the game
+it have been instaled properly, and it is working...
+but always when I try to connet to any server to play online, the game crashes
+the game connect and after this the game closes
+what to do? :("
+,gustavo7474001,2011-09-13T01:32Z,"Damm man, when i click on join server the game crashes to desktop... is any CD-key problem?
+i dont want to buy another key/game :("
+,luismcfly,2012-03-07T17:24Z,"Hello guys every time i open the setup it tells me
+have
+1. Run this to install BF2 and your Serials
+so i double click it.
+then it asks me to type where i want to install bf2. for example C:GamesBF2
+i type that in but nothing happens,
+The place i typed just disappears and i keep on typing it in but same things happens over and over."
+,AlphaRomeoQuad,2012-03-27T08:29Z,love u... you solved all my problems
+,AlphaRomeoQuad,2012-03-27T08:50Z,oh only one thing is wrong xpack special forces is not working :(
+,AlphaRomeoQuad,2012-03-27T08:51Z,i dont know where to play special forces
+,AlphaRomeoQuad,2012-03-27T10:05Z,"thank you thank you thank you everything works fine now
+and sorry for too much comments"

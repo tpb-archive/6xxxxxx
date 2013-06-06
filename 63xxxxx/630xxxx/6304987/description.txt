@@ -1,0 +1,18 @@
+JungleFlasher v0.1.81 Beta (226)
+
+
+As always with a new C4E iXtreme release (iXtreme LT+ LiteOn DG-16D4S 9504), Team Jungle also comes with a new version of JungleFlasher to add full support for the new firmwares.
+
+What's new/fixed:
+* PhatKey support
+faster responce reading key with x360USB ***f/w update required***
+* Slim f/w support
+9504 stock/LT+ parseing, LT auto-load and key/serial spoofing... cross spoofing not supported
+* SlimKey support
+Slim 9504 and 0225 key and serial info extraction - x360USB ***f/w update required***
+Note: 0225 support is limited to x360USB and other compatible chipsets
+Note: via and Nforce not supported
+* slim/Phat selection
+MTK tab has selection for Slim/Phat MTK commands
+Selection is automatic based in inquiry info etc.
+Slim MTK commands added to support 9504 read/erase/write funtions

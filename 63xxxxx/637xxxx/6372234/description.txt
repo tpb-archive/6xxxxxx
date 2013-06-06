@@ -1,0 +1,48 @@
+  http://events.ccc.de/camp/2007/Fahrplan/events/2039.en.html
+
+B.A.T.M.A.N. - Better Approach to Mobile Ad-Hoc Networking
+
+New routing algorithm and daemon for wireless community networks
+
+B.A.T.M.A.N. is a new routing algorithm developed by the Freifunk community. It is a simple and robust algorithm for establishing multi-hop routes in mobile ad-hoc networks. It ensures highly adaptive and loop-free routing while causing only low processing and traffic cost.
+
+The described performance properties are not just assumptions based on theory or MANET simulations - the new algorithm has already been implemented for GNU/Linux and is now in use in Freifunk mesh networks in real life. We offer a performance optimised routing daemon for routing on Layer 3 of the OSI-model as well as a new daemon (batman-advanced) that routes on Layer 2. Check out the source code and documentation at http://open-mesh.net/batman .
+
+B.A.T.M.A.N. is a routing protocol that is proactive in the sense that it pro actively populates the routing table of each each mesh node without
+calculating topology graphs. It is hard to classify the algorithm -
+some people say 'it is clearly proactive', some think 'ah, yes this is a pheromone (ant-based) algorithm', others think it is a distance vector protocol.
+
+We recommend to watch our presentation and build your own opinion...
+
+B.A.T.M.A.N. is neither calculating nor searching routes unlike many famous proactive or reactive routing protocols. The algorithm is designed for wireless networks where the view of the topology is always fuzzy and
+constantly changing. Routing decisions are made based on the existence of information rather than on the content of information sent by other nodes in the mesh.
+
+Basically the algorithm is flooding the mesh with Originator messages (quite similar to Hello messages in other protocols) according to
+certain rules.
+
+The rules are designed for two objectives. Effectively controlling the originator-message propagation in the mesh and enabling loop-free route detection based on the reception of such originator messages from other nodes.
+
+Freifunk is using B.A.T.M.A.N. now on Layer 3 parallel to Freifunk-OLSR to compare the performance. The results are very good and the implementation has just passed testing under tough conditions. So we are ready now for
+large scale deployments. It is likely that B.A.T.M.A.N. will replace
+Freifunk-OLSR in the near future. We created with B.A.T.M.A.N. a serious
+competition to our last routing algorithm Freifunk-OLSR. The same community that improved OLSR RFC3626 to Freifunk-OLSR is now working on the ideas and the development of B.A.T.M.A.N.
+
+* B.A.T.M.A.N is building routes very fast and the response to changes is quicker
+  compared to Freifunk-OLSR
+  o it doesn't calculate gigantic topology-graphs
+  o it doesn't need to synchronise topology informations
+  o we are confident the algorithm is loop free and did not experience any loops
+    or 'count to infinity' problems in practise
+  o routing tables contain proactively all stations that are reachable without the
+    overhead of traditional proactive routing protocols
+  o a single, central server collects topology information from all nodes for 2D
+    or 3D topology visualisation software
+  o routing tables are build organically i.e. routing entries are not endlessly
+    passed on. they appear only if they are available
+  o B.A.T.M.A.N connects to gateways via UDP-tunnels
+  o gateway clients can select their gateway
+  o gateways are considered according to their speed and availability
+  o gateway clients can switch a gateway if it appears to be a black hole
+  o no more gateway switching as long as the gateway is available, i.e. VOIP, SSH,
+    Chat connections are stable
+* B.A.T.M.A.N generates less protocol overhead than OLSR

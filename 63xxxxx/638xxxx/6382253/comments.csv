@@ -1,0 +1,54 @@
+User Type,Username,Date,Text
+,The5ave1,2011-05-11T00:19Z,"How to install
+1. Download torrent with UTorrent, Bitcomet ect
+2. Download PowerISO http://download.cnet.com/PowerISO/3000-2646_4-10439118.html
+3. Install the ISO file with PowerISO.
+4. Make sure your computer runs disc first, It will not work.
+5. ENJOY :) AND SEED"
+,grizzmo,2011-05-11T01:58Z,"Hi, how do you install this on an usb stick with unethbootin? I tried option BT4final, but it just won't boot. Any solution?"
+,grizzmo,2011-05-11T09:52Z,"No, no success. I downloaded the x64 bit .iso and lili say's no x64 cpu environment discovered, but my pc is x64 bit. I guess again shitty release. just like the other bt4r2 were if you wanted to install some software, you first had to update the whole kernel, which takes about 2 hours. Then don't come with something like a live cd. But thanx for the upload and your time."
+,PhiberOptix,2011-05-11T11:48Z,"Neither of the 64-bit releases of BT5 works for me. I've tried them all on a laptop (yes, it's a 64-bit cpu, I have been running Kubuntu on it since I got it 2 years ago - and that runs fine!)
+
+I tried asking for help at their bugs-part of their forum. Posted logs from xorg, dmesg, et al. I was in no way offensive, or saying anything bad about BT. But today my post was deleted for some reason. And I haven't been messaged and told why even.
+
+Their 32-bit works fine for me though. At least as long as you don't try to install the latest fglrx-modules. Also, I prefer deleting the whole .kde folder upon first login, too many settings I don't like. But that's a personal preference.
+
+tl;dr
+32-bit BT5=fine
+64-bit BT5=broken"
+,grizzmo,2011-05-11T16:34Z,"Maybe they discovered an x64 bit error and deleted your post. But not the way it should be,Q = A, but not there and often really not polite people on that forum. Dev. are really over the horse, actually I hope they get sued or something, mf's. I am moderated for really no reason, but it is their forum. If you ar so ""concerned"" make it a payed or private thinghy. Everybody knows what this can do, look @youtube FCOL. But they only want their congrats, celebrations and attck the middle man, also on their forum:-;The best"
+,The5ave1,2011-05-14T02:46Z,@grizzmo hey no problem. My first Torrent here so take easy on me. Try downloading the 32bit version of BackTrack 5
+,sonu125us,2011-06-14T10:47Z,would you please also share link or video how to use this BT5 and commands stc
+,The5ave1,2011-06-26T14:18Z,"@sonu125us it depends what you are looking for, if you want to crack wifi, if you want to hack a website, if you want to upload RATs visit this site
+http://www.hackforums.net/
+and when you join and it says Members Referred. Say; 
+5ave
+
+5ave is my user. And if you want to view how to do it just go on youtube
+
+Search 
+WPA backtrack
+
+ect. Hope it helps :)
+
+And sorry for the long wait, 100% forgot about this torrent
+"
+,sonu125us,2011-07-18T18:47Z,"i only know how to break WEP wifi password i was using BT 3 before it was so easy
+but i dont know about WPA/WPA2 security
+how can we use BT5 step by step"
+,t-bone7of9,2012-04-02T20:18Z,"Great torrent!  Thanks!!
+
+I had a little trouble with this on my 64 bit laptop.  Then found a solution!
+The problem was that when I hit startx, it would try to load, but get stuck after only one of the chinese symbols loaded.......then it would send me back to the console prompt again........the place where you hit startx!!!
+
+If you are having this problem, enter these command strings, one at a time, before hitting startx!
+
+fix-splash
+rm /root/.kde/cache-root/icon-cac­he.kcache
+rm /root/.kde/cache-root/plasma_t­heme_Volatile.kcache
+rm /root/.kde/cache-bt/icon-cache­.kcache
+rm﻿ /root/.kde/cache-bt/plasma_the­me_Volatile.kcache
+
+*note* there is a space between all ""rm /""!!  ......and a dot before each kde!
+
+hope it helps!"

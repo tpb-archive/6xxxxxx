@@ -1,0 +1,66 @@
+User Type,Username,Date,Text
+,vittupaa1980,2011-04-09T22:35Z,Ok thx... now i Req Cornelia marie and Phil Harris fsx only
+,VaticanCity,2011-04-09T22:38Z,I'll see what I can lololololo. I guess I'm not Anonymous any more muah ahahahahaha. Hope all enjoy this scenery. Funny it hasn't come to this site yet.
+,Chef_B,2011-04-10T14:13Z,"Just created an account to thank you VaticanCity, best scenery ever. ;)
+
+Oh yeah, was gonna request Phil Harris, but its time to leave him in peace now. :("
+,Chef_B,2011-04-10T14:14Z,"Sorry for the double post, but just read your instructions and i'm kinda lost already. Could you explain the part where you have to insert loose text? (N + N1 part etc?) Thanks!"
+,VaticanCity,2011-04-10T14:41Z,"open you scenery.cfg file with note pad in main fsx directory.Scroll to your last entry.say it's 127 than your next one will look like this:
+
+[Area.128]
+Title=Dutch Harbor X
+Local=Aerosoft\Dutch Harbor X
+Active=TRUE
+Layer=128
+Required=FALSE
+
+... and:
+
+[Area.129]
+Title=AerosoftAFD
+Local=Aerosoft\Afd
+Active=TRUE
+Layer=129
+Required=FALSE"
+,VaticanCity,2011-04-10T14:42Z,Hope that clarifies things for people. Make sure to delete the middle part keep your files in line and in order.You simply just adding to the scenery.cfg because that installer does not handle it.
+,ABSA11,2011-04-10T15:34Z,"Thank you !! Been drewl'n over this for a while !!
+Question.... I recently bought the FSX FSD Navajo, and would like to share as i have downloaded a fare share of software from here. i have NO idea how to crack this and share.... any ideas ?? "
+,Jimstalk,2011-04-10T15:44Z,whats the difference with the previous version of dutch harbor?
+,VaticanCity,2011-04-10T16:03Z,@ABSA11 torrent the installer and some one will make it happen.@Jimstalk I did a seart for aerosoft products this did not show.Theres always a slight chance thier can be doubles.But thiers no way in Hell I'm leafing through 30 pages dude.
+,VaticanCity,2011-04-10T16:09Z,Another thing I noticed with this site that is Dutch Harbour and DUTCH HARBOUR AND dutch harbour and so on will all display differently.So truthfully thiers no doubt that doubles will some times end up repeating.But I still did not notice it and am sorry if it's here and working.Maybe it is maybe not.If it come with the originall installer than let me know.I collect the original installers Thanks.
+,Jimstalk,2011-04-10T17:04Z,"i cant find the previous torrent.Probably it has been deleted from their database.Ill download yours too because the old ,RIP version has some bugs (for example the airport is not viewable (dutch harbor [rip]) when using ultimate alaska x).I hope that this one will ""co-operate"" with ult.alaska X"
+,VaticanCity,2011-04-10T18:00Z,@Jim yes Jim I never seen it here but you could be right and it's now gone.Some site make depiction between B and b which I like.Technically caps should never be used and if so should be resized back to lower case.Ultimate alaska is awesome.I no thiers some info in the manual you should look at in regars to some mesh issues.Make sure to look at the manual.
+,VaticanCity,2011-04-10T18:01Z,"Changes to the terrain.cfg
+We had to edit your terrain.cfg file in order to prevent flatten issues with the water around Unalaksa. Those issues were relevant for all FSGLobal users and were fixed by the installer of this addon. If you want to know what we did to the file, this is what we changed:
+// Hydro Polygons - Default â€“ Perennial [Texture.194] Name=Hydro_Polygons_Default_Perennial Color=FF2938FF guid={CB2D5672-CCBC-429B-BA43-2EA24E37EF4C} LegacyId=1209 Textures=OCEAN_SEA_LARGE_LAKE Size=4 FlattenMode=slope FlattenPriority=41000 ExcludeAutogen=Yes RenderToTexture=Yes RenderPriority=81000 Water=Yes
+// Hydro Polygons - Generic Bay/Harbor â€“ Perennial [Texture.195] Name=Hydro_Polygons_Generic_Bay_Harbor_Perennial Color=FF2938FF guid={8F1CD843-CAB1-434A-9E78-A6A1DAD4ED2E} Textures=OCEAN_SEA_LARGE_LAKE FlattenMode=slope FlattenPriority=41000 ExcludeAutogen=Yes RenderToTexture=Yes RenderPriority=81000 Water=Yes
+// Hydro Polygons - Generic Lake â€“ Perennial [Texture.196] Name=Hydro_Polygons_Generic_Lake_Perennial Color=FF2938FF guid={BCD5C182-9C8B-4C57-97BD-272CF492CBFF} Textures=OCEAN_SEA_LARGE_LAKE FlattenMode=slope FlattenPriority=41000 ExcludeAutogen=Yes RenderToTexture=Yes
+Aerosoft Dutch Harbor 1.00
+Page 11
+RenderPriority=81000 Water=Yes
+// Hydro Polygons - Generic River â€“ Perennial [Texture.197] Name=Hydro_Polygons_Generic_River_Perennial Color=FF2938FF guid={E5DD8B66-8E86-4E7E-BE58-6E94A91C8FF0} Textures=OCEAN_SEA_LARGE_LAKE FlattenMode=slope FlattenPriority=41000 ExcludeAutogen=Yes RenderToTexture=Yes RenderPriority=81000 Water=Yes
+// Hydro Polygons - Generic Canal/Channel â€“ Perennial [Texture.198] Name=Hydro_Polygons_Generic_Canal_Channel_Perennial Color=FF2938FF guid={C4E055AB-0855-4D5C-8FB9-3318E1C8AB8A} Textures=OCEAN_SEA_LARGE_LAKE FlattenMode=slope FlattenPriority=41000 ExcludeAutogen=Yes RenderToTexture=Yes RenderPriority=81000 Water=Yes
+// Hydro Polygons - Generic Ocean â€“ Perennial [Texture.199] Name=Hydro_Polygons_Generic_Ocean_Perennial Color=FF2938FF guid={2D103429-89EB-4CB3-A61E-E188E79C77E7} Textures=OCEAN_SEA_LARGE_LAKE FlattenMode=slope FlattenPriority=41000 ExcludeAutogen=Yes RenderToTexture=Yes RenderPriority=81000 Water=Yes"
+,madmanquincy,2011-04-11T05:56Z,"Req: CLS MD81/82 SP1 (rip)
+
+Someone uploaded their CLS MD80 n I just got it to work love that bird it was real easy to fix lol. But I really want that cone tail. "
+,aarque,2011-04-11T16:45Z,"Just so you all know, TPB does not ""keep a database"" or store files, or anything like that. Nearly everything is done on the hosting computers that comprise the ""swarm"" that is an active torrent. The Pirate Bay posts trackers and the information that allows you to find those torrents. It is like Google, except there is zero point in caching a database like Google does. If there were two seeders for Dutch Harbor last week (and not this week), the information is irrelevant (unlike the words on a cached web page) because those hosting computers are no longer connected to the swarm, therefore the torrent does not exist.
+
+My pupu is still broken so I write this from my son's. Been weeks since I frikkin flew."
+,aarque,2011-04-11T16:52Z,"BTW, I know Dutch Harbor was here because I already have it. You guys fully understand the process of TPB and it is your site too, to manage or squander and in that regard I have no relevant opinion. 
+I will continue to inform newcomers as that is the responsibility of those that understand."
+,fsexer,2011-04-12T05:10Z,"aarque is correct -have it too.  Thanks anyway for sharing!  Can anyone please do Instant Scenery 2??  http://www.flight1.com/products.asp?product=instscen2
+
+Would be nice for some scenery I'm doin. TY"
+,olufsen01,2011-04-13T16:31Z,REQUESt Aerosoft Corfu X 
+,masterboy6x,2011-04-18T10:57Z,please get my traffic pro 5.3
+,RJ97,2011-04-23T09:51Z,"REQ:Aerosoft DA20-100 Katana 4X
+Thx no problem if your can't get it "
+,Skankzter,2011-06-23T21:30Z,"olufsen01 at 2011-04-13 16:31 CET:
+REQUESt Aerosoft Corfu X
+******************************
+
+
+Thats not even released yet.Its not even in beta...
+
+Katana 4X...+1!"

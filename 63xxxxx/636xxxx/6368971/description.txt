@@ -1,0 +1,52 @@
+[img]http://www.diehard.ro/images_files/csicon.png[/img] [color=#ff0000][b]Counter-Strike 1.6 Non-Steam XtremeZone[/b][/color]
+
+[img]http://img585.imageshack.us/img585/2659/counterstrikev.jpg[/img]
+
+[b]About the Game[/b]
+
+Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.
+
+[b]System Requirements[/b]
+
+[b]Minimum:[/b] 500 mhz processor, 96mb ram, 16mb video card, Windows XP, Mouse, Keyboard,
+Internet Connection
+
+[b]Recommended:[/b] 800 mhz processor, 128mb ram, 32mb+ video card, Windows XP, Mouse,
+Keyboard, Internet Connection
+
+[b]FEATURES:[/b]
+
+- Release date 17.03.2011
+- [color=#00ff00][b]100% Clean Rip from Steam GCFs (Game Cache files)[/b][/color]
+- Only 255MB setup size
+- Latest engine update (1.1.2.6/2.0.0.0 Jun 15 2009 build 4554)
+- Dual Protocol (48 + 47) Client
+- Client could join p47 servers as well as p48
+- [b]Dual Protocol (48 + 47) Dedicated Server is also included[/b]
+- [b]Fully working server browser with favorites[/b] (Setti Master)
+- Compatible with sXe Injected
+- [b][color=#00ff00]Added latest CZ bots modified for CS[/color][/b]
+- Works with Vista/Windows 7 (Run as admin)
+- Playable on LAN and Internet
+- Using revEmu (v9.8.1 R4)
+- Working Dedicated and Listen server (Steam & Non-Steam)
+- HLTV is also included and works
+- Half-Life (Multiplayer) included
+- Half-Life maps are totally removed
+- Support for unicode input
+- Ingame ads are removed
+- [b]Added GameMenu Servers[/b]
+
+[url='http://img641.imageshack.us/i/xtremezonescreen1.jpg/'][img]http://img641.imageshack.us/img641/4136/xtremezonescreen1.th.jpg[/img][/url] [url='http://img560.imageshack.us/i/xtremezonescreen2.jpg/'][img]http://img560.imageshack.us/img560/659/xtremezonescreen2.th.jpg[/img][/url] [url='http://img38.imageshack.us/i/xtremezonescreen3.jpg/'][img]http://img38.imageshack.us/img38/5378/xtremezonescreen3.th.jpg[/img][/url][url='http://img830.imageshack.us/i/hl2011031719011637.jpg/'][img]http://img830.imageshack.us/img830/9254/hl2011031719011637.th.jpg[/img][/url]
+[url='http://img12.imageshack.us/i/hl2011031719025794.jpg/'][img]http://img12.imageshack.us/img12/7947/hl2011031719025794.th.jpg[/img][/url] [url='http://img132.imageshack.us/i/hl2011031719030316.jpg/'][img]http://img132.imageshack.us/img132/2923/hl2011031719030316.th.jpg[/img][/url] [url='http://img847.imageshack.us/i/hl2011031719031874.jpg/'][img]http://img847.imageshack.us/img847/7127/hl2011031719031874.th.jpg[/img][/url][url='http://img651.imageshack.us/i/hl2011031719044480.jpg/'][img]http://img651.imageshack.us/img651/2115/hl2011031719044480.th.jpg[/img][/url]
+[url='http://img35.imageshack.us/i/hl2011031719055564.jpg/'][img]http://img35.imageshack.us/img35/6089/hl2011031719055564.th.jpg[/img][/url] [url='http://img715.imageshack.us/i/hl2011031719060208.jpg/'][img]http://img715.imageshack.us/img715/4452/hl2011031719060208.th.jpg[/img][/url] [url='http://img858.imageshack.us/i/hl2011031719071760.jpg/'][img]http://img858.imageshack.us/img858/5733/hl2011031719071760.th.jpg[/img][/url][url='http://img52.imageshack.us/i/hl2011031719082196.jpg/'][img]http://img52.imageshack.us/img52/1451/hl2011031719082196.th.jpg[/img][/url]
+
+FAQS
+
+Q. My game held when I click on New Game or Options in game menu.
+A. Install Microsoft Visual C++ Redistributable Packages and then try video fix "Counter-Strike\video fix\video fix.reg". If it don't fix the problem then go to "Counter-Strike" folder find "hw.dll" delete this file and rename "hw - orig.dll" to "hw.dll" this will definitely solve the problem.
+
+Q. When I create a listen server my game freezes during map change.
+A. Solution#1 Use changelevel command to change the map e.g changelevel de_inferno Or quit the game and create New Game again.
+Solution#2 go to "Counter-Strike" folder and open "rev.ini" file in notepad, comment ClientDLL=steam\steamclient.dll to #ClientDLL=steam\steamclient.dll
+This is permanent solution but now no server will show in internet tab. This is a revEmu bug.

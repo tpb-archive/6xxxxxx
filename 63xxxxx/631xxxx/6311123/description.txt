@@ -1,0 +1,29 @@
+VirtualBox Ã© uma mais bem conceituadas opÃ§Ãµes para emulaÃ§Ã£o de sistemas operacionais em mÃ¡quinas virtuais. Com ele vocÃª pode rodar um sistema dentro de outro, como o Ubuntu (ou qualquer outra distribuiÃ§Ã£o de Linux) em um PC com Windows ou Mac, e vice-versa.
+
+Retoques na interface
+
+Se vocÃª usou outras versÃµes do VirtualBox, logo de cara vai notar que a interface do programa ganhou alguns retoques e agora exibe informaÃ§Ãµes completas sobre as mÃ¡quinas virtuais existentes no aplicativo. AlÃ©m dos dados tÃ©cnicos, que ajudam o usuÃ¡rio a se informar sobre as configuraÃ§Ãµes do sistema, o programa exibe tambÃ©m uma miniatura de prÃ©-visualizaÃ§Ã£o.
+
+Interface retocada
+
+A miniatura terÃ¡ grande utilidade para quem possui vÃ¡rias mÃ¡quinas virtuais funcionando, pois ajuda a evitar que processos sejam encerrados por engano. Estas duas novidades, mais fÃ¡ceis de notar a uma primeira olhada, mostra que o quesito praticidade foi tratado com bastante carinho pelos desenvolvedores da Oracle.
+
+USB 2.0
+
+Finalmente o VirtualBox trabalha com USB 2.0, padrÃ£o que permite maior velocidade na transmissÃ£o de dados. Uma boa pedida para quando se vai enviar ou receber dados de um pendrive ou qualquer outro dispositivo de armazenamento via USB. Para que a mÃ¡quina virtual reconheÃ§a as entradas USB do computador, basta habilitar esta opÃ§Ã£o nas configuraÃ§Ãµes do programa.
+
+Mais memÃ³ria
+
+Outra novidade que influencia diretamente no desempenho do sistema operacional rodado a partir do VirtualBox 4 Ã© a quantidade de memÃ³ria RAM reservado a ele. As versÃµes anteriores permitiam o uso de no mÃ¡ximo 2 GB de RAM, mesmo que o computador possuÃ­sse mais. Pois agora este valor foi aprimorado e jÃ¡ Ã© possÃ­vel definir mais espaÃ§o de memÃ³ria para ser usado exclusivamente pela mÃ¡quina virtual.
+
+Mais memÃ³ria RAM
+
+Redimensionamento de imagens VDI e VHD
+
+Quando vocÃª usa o VirtualBox, precisa criar um disco rÃ­gido virtual que armazenarÃ¡ os dados do sistema. Os formatos utilizados por este aplicativo sÃ£o VDI e VHD e quando vocÃª configura um novo Ã© possÃ­vel definir seu tamanho como expansÃ­vel, ou seja, vai crescendo conforme o necessÃ¡rio.
+
+Contudo, caso vocÃª precise liberar espaÃ§o, o processo para redimensionar estes discos virtuais era um tanto trabalhoso e â€œextraoficialâ€, ou seja, era necessÃ¡rio fazer algumas â€œgambiarrasâ€ para isto. O novo VirtualBox resolveu este problema com um recurso nativo para redimensionamento dos arquivos VDI e VHD.
+
+AceleraÃ§Ã£o 3D
+
+Outra novidade do VirtualBox 4 Ã© a aceleraÃ§Ã£o 3D, outro fator que deve agilizar ainda mais a utilizaÃ§Ã£o de quaisquer sistemas operacionais dentro da mÃ¡quina virtual. Foi constatado que na versÃ£o Beta do programa este recurso nÃ£o funciona no Windows XP 64 bits.

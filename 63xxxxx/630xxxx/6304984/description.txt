@@ -1,0 +1,27 @@
+C4E iXtreme Slim LT+ Firmware for LiteOn DG-16D4S 9504
+
+>> C4Eva (in association with Team Jungle & Team Xecuter) released the iXtreme LT+ for LiteOn DG-16D4S 9504 drives:
+
+World first backups for XBOX 360 Slim
+- For Liteon Drive 9504
+
+New protection measures for slim:
+* Realtime checks of drive firmware and ram by dashboard - Rootkit technology used to pass several realtime check types. These checks on the drive are open ended so as to make replay of the answers impossible. Will pass any check on any part of the drive
+* Hardware flash modification check - The 1335 chip performs a hardware check on powerup for modified firmware. Chip fooled into thinking firmware is stock
+* Slim drive locked to read pressed game discs only - Enabled reading of DVD+R DL media for game discs
+
+All features of current LT+ also included
+- Optimised PFI code to accomodate AP25 SS data
+- Defeats current AP25 protection
+- Protects console from logging AP25 violation 
+- Full disc stealth used by default
+- Waveless booting , disc images are assumed to be correct!
+- Split-Vid used as default
+
+If booting an AP25 title without AP25 SS game will not boot but will still be protected from logging AP25 violation on current dash 12625
+If LT+ encounters an unknown AP25 challenge, game will not boot but console will still be protected from logging AP25 violation on current dash 12625
+
+AP25 SS are region specific for region locked games
+
+Thanks go to Team Jungle for their hard work and efforts in the development process.
+Thanks also go to Team Xecuter for their generous support to this project. 

@@ -1,0 +1,19 @@
+multiMAN packs many facets: It's a Backup Manager, a File Manager, an FTP server, and an
+AVCHD and BDMV (Blu-ray) video player.
+
+Included are 3 versions:
+
+1. multiMAN 1.16.15 for 3.40 (Dongle Jailbreak) - 3.55 (Kmeaw CFW)
+2. multiMAN 1.16.15 for 3.55 (tagged "WT" - geohot/Wutangrza/Waninkoko)
+3. multiMAN 1.12.05 for 1.90 - 3.30
+
+multiMAN 1.16.15 CHANGELOG
+
+Added support to launch video files from file manager by spawning Showtime player
+Special version of Showtime player required to handle video playback from multiMAN
+Added CBOX2/GBOX2.PNG for themes with full alpha transparency
+Fixed issues when launching games on WN/WT firmwares
+Fixed rare issue with select+x games from USB HDD with too long path names
+Fixed rare issue with progress bar not updating during copy/backup
+Improved initial scan (no scanning for games when not needed)
+Improved 4x2 and 8x4 display modes visualisation

@@ -1,0 +1,34 @@
+PS3 Media Server Features
+
+Ready to launch and play. No codec packs to install. No folder configuration and pre-parsing
+or this kind of annoying thing. All your folders are directly browsed by the PS3, there's an
+automatic refresh also.
+
+Real-time video transcoding of MKV/FLV/OGM/AVI, etc.
+Direct streaming of DTS / DTS-HD core to the receiver
+Remux H264/MPEG2 video and all audio tracks to AC3/DTS/LPCM in real time with
+tsMuxer when H264 is PS3/Level4.1 compliant
+
+Full seeking support when transcoding
+DVD ISOs images / VIDEO_TS Folder transcoder
+OGG/FLAC/MPC/APE audio transcoding
+Thumbnail generation for Videos
+You can choose with a virtual folder system your audio/subtitle language on the PS3!
+Simple streaming of formats PS3 natively supports: MP3/JPG/PNG/GIF/TIFF, all kind of
+videos (AVI, MP4, TS, M2TS, MPEG)
+
+Display camera RAWs thumbnails (Canon / Nikon, etc.)
+ZIP/RAR files as browsable folders
+Support for pictures based feeds, such as Flickr and Picasaweb
+Internet TV / Web Radio support with VLC, MEncoder or MPlayer
+Podcasts audio/ Video feeds support
+Basic Xbox360 support
+FLAC 96kHz/24bits/5.1 support
+Windows Only: DVR-MS remuxer and AviSynth alternative transcoder support
+
+
+pms-setup-windows-1.21.1 <------ PS3 Media Server for Windows 1.21.1
+
+pms-generic-linux-unix-1.21.1 <- PS3 Media Server for Linux/Unix 1.21.1
+
+pms-macosx-1.20.409-BETA    <--- PS3 Media Server for Mac OS X (Intel) v1.20.409 BETA

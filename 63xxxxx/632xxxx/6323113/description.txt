@@ -1,0 +1,112 @@
+Formula One 2011 Season
+
+Race 2: Chinese Grand Prix, Shanghai. Shangahi International Circuit
+
+Record Source: BBC One HD
+Original Format: H.264 MPEG- TS File
+Date: Saturday 16th April 2011
+Time: 06:00 to 08:15
+
+
+Chinese Grand Prix Qualifying Live
+
+As Many of you F1 followers on here have asked for High Definition Qualify, Ive decided to bite the bullet
+and buy the 1st DVB-T2 Freeview HD Tuner card available here in the UK! Its taken some time to work out 
+the bugs with the limited software supplied (as Im yet to find a suitable DVB-T2 supported 3rd party
+software). Also finding a decent demuxer and encoder as in their wisdom, the HD on freeview is broadcast 
+in AAC 5.1! not AC3 Dolby Digital, which posed no end of problems with encoding to mp4 etc
+but I can now bring you The Formula 1 coverage in HD!
+
+From now, both the Qualifying & the Race will be uploaded in High Definition..
+
+At present there is no Red Button Service In HD so Im afraid the Practice sessions which are on the BBC 
+Interative feed only are of SD quality. Hopefully the BBC will soon add support for this for those users
+such as myself that are using a PC as their PVR!
+
+In order to keep file sizes to a reasonable level for uploading/downloading purposes, I have had to limit
+ the bitrate on the encoding to within an acceptable norm bearing in mind that most TV Broadcasts from 
+the US for example, use around 1.2GB per 45min episodes of HD Ripped from a TV Source.
+With that in mind, Ive kept the bitrate around the same which is under 4000kbps.
+
+The original BBC HD broadcasts is 1440x1080 (1080i) which isnt really 1080p quality as its interlaced, its more in between 
+1080p & 720p, but i decided to keep as high a resolution as possible, so my F1 uploads will remain 1440x1080. 
+
+Again to keep the codec situation to a minimum, and to ensure playback on most machines, 
+I have dropped the MP4 format in favour of the Matroska container format (mkv)
+
+Video: The Video is encoded using AVC/H.264 into a mkv container
+Audio: The audio is now Dolby Digital. Support for  AC3 codec (2 channels as Live broadcasts are not 5.1)
+
+Ive tested these recoded files myself on a LCD 50\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" Full HD LG TV, and the quality is excellent.
+
+I hope you all enjoy the Formula 1 coverage in HD, and DONT complain about the increased file sizes! 
+If you all seed for as long as you can, you will all get a fast download!
+
+I hope you all enjoy the Formula 1 coverage in HD....
+
+For anyone who need it, or those unfamiliar with playing HD quality on their PC, 
+Ive included this first upload with an excellent player for MKV h.264 encoded media.
+Included in the torrent is VLC Media Player v1.1.9, just install and play! You can additionally
+install the AC3 filter for those using a home theatre system for digital passthrough AC3>SPDIF output
+
+Anyway, enough waffling, here\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s the details:
+
+
+Jake Humphrey, Martin Brundle, David Coulthard & Eddie Jordan present the F1 Qualifying coverage to the 3rd Race 
+meeting of the 2011 Formula One season, The Chinese Grand Prix, from the Shanghai International Curcuit, Shanghai
+
+Filename: Formula 1 2011 Chinese GP Qualifying.HD.1080i.(H.264.AC3.DD)
+
+Format                           : Matroska
+File size                        : 3.16 GiB
+Duration                         : 2h 21mn
+Overall bit rate                 : 3 210 Kbps
+Writing application              : HandBrake 0.9.5
+Writing library                  : libmkv 0.6.4.1
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 21mn
+Bit rate                         : 3 050 Kbps
+Width                            : 1 438 pixels
+Height                           : 1 078 pixels
+Display aspect ratio             : 16:9
+Original display aspect ratio    : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.079
+Stream size                      : 2.94 GiB (93%)
+Writing library                  : x264 core 112
+Encoding settings                : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=6 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=2 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=0 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=3050 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                         : English
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 2h 21mn
+Bit rate mode                    : Constant
+Bit rate                         : 160 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 161 MiB (5%)
+Language                         : English
+

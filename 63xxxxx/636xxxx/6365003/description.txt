@@ -1,0 +1,67 @@
+########################################################################################
+                              Max Payne (2008 )(extended Director Cut)
+                               http://www.imdb.com/title/tt0467197/
+
+
+
+Action, Crime, Drama, Mystery, Thriller, Conspiracy, Assassin, New York
+              Mark Wahlberg, Mila Kunis, Beau Bridges, Ludacris,
+
+Coming together to solve a series of murders in New York City are a police detective
+whose family was slain as part of a conspiracy and an assassin out to avenge her sister's
+death. The duo will be hunted by the police, the mob, and a ruthless corporation.
+
+
+
+Format                           : Matroska
+File size                        : 4.88 GiB
+Duration                         : 1h 42mn
+Overall bit rate                 : 6 786 Kbps
+
+Video Format                   : AVC
+Format profile                   : High@L4.1, cabac=1 / ref=6 / deblock=1:0:0
+Nominal bit rate                 : 6 144 Kbps
+Display aspect ratio             : 1 920 x 800 (2.40:1)
+Frame rate                       : 23.976 fps
+Writing library                  : x264 core 79 r1352kGIT d487de4
+
+Audio #1 English(default)    : AC-3 Constant 640 Kbps  6 channels
+
+Audio #2 Deutsch(external) : AC-3 Constant 640 Kbps  6 channels, 482 MB
+Audio #3 EspaÃ±ol(external) : AC-3 Constant 640 Kbps  6 channels, 482 MB
+Audio #4 Italiano(external) : AC-3 Constant 640 Kbps  6 channels, 482 MB
+
+
+Use MPC (  http://cccp-project.net/   to automatically recognize & play
+the external Audio tracks or mux the Audio in MKV with  mkvmerge
+(  http://www.videohelp.com/tools/MKVtoolnix   if you wish to use other player.
+
+
+Subtitles:
+ English, Bulgarian, Chinese, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Macedonian, Polish, Portuguese Br + Ib, Romanian, Serbian, Slovak, Spanish, Swedish, Turkish
+
+Sample: 14.7 MB, multisub
+
+##########################################################################################
+
+In the future if you find subs not showing the right characters do the following:
+
+If the subs are muxed in mkv download & use MKVextractGUI to extract(demux) the
+
+subtitles from mkv, and mkvmerge GUI to mux back the edited/repaired sub in the mkv.
+
+Download "Notepad++" (free):    http://sourceforge.net/projects/notepad-plus/
+
+The sub you demuxed from mkv: Open and save as...ANSI !(Important!)
+
+Right click on the sub/Open with nppIExplorerShell.exe (Notepad++ exe)/click
+
+Encoding(upper part menu)/Character sets and chose the language ISO.
+
+Click again on Encoding/then click on Convert to UTF-8 /save as...srt.
+
+You're done with the encoding, now you can mux it back in the mkv with mkvmerge
+
+GUI, select the language & mux.
+
+##########################################################################################

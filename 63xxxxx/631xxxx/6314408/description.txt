@@ -1,0 +1,11 @@
+This torrent contains 3 tools that are used to manipulate/decode the BMW ZCS (Zentral Codierung Schluessel = centeral coding key). The ZCS is stored in various modules in the vehicle and tells the diagnostics software what equipment and module versions, etc are installed in the vehicle. Using this data the diagnostics software can properly encode the car without any user input.
+
+However, if you change equipment in the vehicle you might need to make changes to the ZCS, especially if your retrofit is not a kosher factory option.
+
+Included you will find:
+
+* BMW Decoder 0.3
+* BMW Decoder 0.4
+* Zeko ZCS (DOS app)
+
+None of these tools interface with the car. You will need another application (e.g. NCS Expert) to write changes to the vehicle. Please do so at your own risk, you've been warned!

@@ -1,0 +1,43 @@
+;-----------------------------------------------
+;----------1103231849-8.84-110309a-115038C.4
+;-----------------------------------------------
+; ATI Display Information file : ATIIXPAG.INF
+; Installation INF for the ATI display driver.
+; Copyright(C) 1998-2004 ATI Technologies Inc.
+; Windows XP
+; Base INF Last Updated 2005/11/01
+
+[Version]
+Signature="$Windows NT$"
+Provider=%ATI%
+ClassGUID={4D36E968-E325-11CE-BFC1-08002BE10318}
+Class=Display
+DriverVer=03/09/2011, 8.840.0.0000
+CatalogFile=CX115038.CAT
+
+Supported products :
+
+[Manufacturer]
+%ATI% = ATI.Mfg, NTx86
+
+[ATI.Mfg.NTx86]
+"AMD Radeon HD 6400 Series" = ati2mtag_NI, PCI\VEN_1002&DEV_6770
+"AMD Radeon HD 6450" = ati2mtag_NI, PCI\VEN_1002&DEV_6779
+"AMD Radeon HD 6500 Series" = ati2mtag_NI, PCI\VEN_1002&DEV_6759
+"AMD Radeon HD 6600 Series" = ati2mtag_NI, PCI\VEN_1002&DEV_6758
+"AMD Radeon HD 6700 Series" = ati2mtag_NI, PCI\VEN_1002&DEV_673E
+"AMD Radeon HD 6990" = ati2mtag_NICayman, PCI\VEN_1002&DEV_671D
+
+I just renamed the file by ajouting hotfix 11.4a at the end to avoid too much confusion
+
+these drivers support XP both version only !
+Since I don't have tested them yet,in this way i cannot tell you if they are fully whql certified from MS Lab so.
+Untouched version and beware,absolutely not modded.just a bit renamed ,nothing's more...
+This is an updated version of previous drivers i have already posted here few times ago if i'm not wrong so.
+This new version is dated from April 5.
+Called as catalyst 11.4a hotfix for several HD 6000 products only.
+See up more for more details.
+
+Enjoy and have fun
+
+regards

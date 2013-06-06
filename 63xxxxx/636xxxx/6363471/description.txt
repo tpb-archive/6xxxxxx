@@ -1,0 +1,91 @@
+FlexiMusic Generator can create your own custom musical instrument, and generate various unique sounds using endless combinations. Generate different types of sounds with various algorithms using Graphs, Sine definitions, waves, envelopes, numbers, randomness, existing wave files, noise, etc., that can follow a defined duration, using a varying frequency-graph and volume-graph. Then, apply sound modifiers / effects to it to enhance it.
+
+There are three major steps to generate sounds in FlexiMusic Generator:
+
+    * Instrument â€“ Merging / Mixing a few sound sources to create a rich musical instrument.
+    * Sound Source â€“ Defining / Creating / Choosing your own single piece of sound.
+    * Sound Modifiers / Effects â€“ An Effect is the modulation or modification of an audio signal to make it sound more interesting.
+
+Instrument:
+
+Multiple â€œSound sourcesâ€ are merged together to create a combined, rich musical Instrument. Each Sound source can be of a different type, different duration, etc. The purpose of making an Instrument Definition is to produce rich sounds from simple or complex Sound sources. Merging Sound sources is done in two ways, mixing and filtering. Start-time and Delay-time of a Sound source are used while merging. The total duration of the Instrument Definition depends upon the time taken by the longest Sound source.
+
+Sound Sources:
+
+Under each Instrument definition there can be one or more Sound sources.  These Sound sources constitute the Instrument definition. You can modify the Sound source parameters to generate sounds as you need to.
+
+Sound Sources have six types of generators: Sine Sound Source, Graph Sound Source, Wave Sound Source, String Sound Source,  Mouth Sound Source and Noise Sound Source.
+
+   1. Sine  â€“ Advanced Sine Sound
+   2. Graph â€“ Hand-drawn waveform
+   3. Wave â€“ Choose wav file and modify
+   4. String â€“ Synthetic string sound
+   5. Mouth â€“ Sound like Vocal tracks
+   6. Noise â€“ Multi-frequency Noises
+
+Sine Sound Source:
+
+The waveform is created automatically using a sine rule, by defining points and angles. You can have multiple sine definitions for the same sound to change the sound gradually from one to another.  Using a frequency graph, you can apply the frequency variation for this. The basic simple sine wave sound for drums, etc., can also be produced in this way.  Multi-Graph: You can have single or multiple sine definitions. For normal use, you can use a single sine definition, keeping the multi-sine off. If you turn the multi-sine â€œOn,â€ you can add multiple sine definitions that will produce sound, gradually changing from one to another. You can increase or reduce the number of Sine definitions using menu commands. Each sine definition has its own active, and At (position) parameter.
+
+Graph Sound Source:
+
+Produce the sound using graphs, where you actually draw the single cycle waveform shape (a small part of a wave). If you know the wave shape of a particular instrument, you can draw it to produce the same instrumentâ€™s sound. If an instrumentâ€™s wave changes from one shape to another, you can draw multiple graphs for different positions to produce changing wave shapes sound. You can draw a random line graph, and a random point graph using menus. Graph type Sound Source (indirectly using wave file): You can generate different sounds based upon an available beat wav file. This produces an artificial sound similar to a natural sound, where you have the freedom to modify it further. To do this, switch to Wave Sound Source type, choose the wav file, use wave markers to set start and end positions, select the waveform and copy it, switch back to Graph Sound Source and paste it; this will bring the wave fileâ€™s waveform to a graph type sound source.
+
+Wave Sound Source:
+
+Using an existing wav file, you can use part or all of the piece to play. By adding compensations to this waveâ€™s sound you can produce different sounds using the same sound. Two types of frequency compensation can be applied to this:
+
+    * Shrink/Expand (Midi Style): Similar to how midi processes a patch, it can change the pitch/frequency as per the frequency graph. Since you are using a graph for frequency compensation, you can make it change up and down from start to end.
+    * Using wave Markers: You apply markers to the wave file and use it to stretch. It will stretch without changing the pitch. In this case, you can apply compensation (in addition to frequency) to width/length also by stretching the graph.
+
+Voice Processing: When voice wave files are used to make the (*.Wav) type sound source, you can use them to compose a song, or you can apply multiple effects to modify the voice sound to produce different vocal effects.
+
+    * Modify voice and apply special effects to it to produce special voices, like robotics, synthetic, and more.
+    * Generate sounds based on vocal words, making a singing, or musically rhythmical voice to go together with lyrics.
+
+String Sound Source:
+
+This is a synthetic string sound generator. Here you define a pattern by choosing the Envelope Shape and the Wave Shape.  Sound is produced by applying Envelope to the wave shapes. Further, the envelope and wave shape are modulated for width and height. You can define multiple pattern sets to produce sounds varying from one shape to another. Within each pattern set, you can have single or multiple Envelope and wave shapes. You can choose these shapes from the number of available shapes, or make your own.
+
+Mouth Sound Source:
+
+The Mouth type is to produce sounds like multiple lips vibrating with different resonance, synchronized to each other (like each section of a vocal track). Additionally, you can attach two small wave files as a prefix and suffix. Animal sounds can also be produced in this type.
+
+Noise Sound Source:
+
+Noise generator is an interesting sound source, and has five different types of noises. Multi- frequency noise can be produced. Noise frequency bandwidth can be set as needed. When noise follows the frequency graph and frequency range/limit, very special noises come out. When you download this software, remember to open and try the sample Noise file.
+
+Frequency Graph, Volume Graph, Duration:
+
+For all types of sound sources, you can have changing frequencies and volumes. These are input by graphs. So, you can have a hi-frequency at the start, and low frequency at the end, or the changing up/down of any at any position. Just draw any way you like. You can even create a random graph to get different sounds. You also have a scatter command to scatter the graph to give scattering frequency values.
+
+Sound Modifiers / Effects:
+
+An effect is the modulation or modification of an audio signal to make it sound more interesting.
+
+    * Volume and Pan: This changes the volume and pan. Also, use this in-between to produce multiple combinations of effects.
+    * Equalizer: Unlimited number of bands (You set the number of bands as you need to).
+    * Echo: Multiple echo definitions.
+    * Wave-On-Wave-Filter: The effect is to produce sound by adding frequency and amplitude modulation together. Three choices of amplitude styles and seven choices of frequency styles are available to produce various combinations.
+    * Reverse: Apply reverse to either the full, or selected part.
+
+The sequence of applying these operations can be changed to manipulate different effects with different combinations of sequences.
+
+Play:
+
+You can test play each source separately (looping or once). You can also use Real time play update (during and while you edit the sound, it can automatically reprocess and play the updated sound).
+
+Save, Open and Load:
+
+    * Save and Open FlexiMusic Generator file (*.FmGen).
+    * Merge one file with another. Also, load a single Instrument or Sound Source, or from another file.
+    * Save played output to a wave format file (*.wav).
+    * Save encrypted (*.FmIns), read only Instrument files to distribute to others.
+
+FlexiMusic Instrument Player: [FlexiMusic Instrument File (*.FmIns)]
+
+The sound generating source file can be encrypted with a password and saved with another extension name (*.FmIns). It will be a very small-sized file. You can distribute it to others, and it cannot be edited or viewed. It can only be played, and the output wave can be saved using the utility â€œFlexiMusic Instrument Player.â€ The trial version of FlexiMusic Instrument Player also can save output wave files if the password is available.
+
+Keys / Pitch Changing:
+
+Using one Instrument, multiple compensated sounds can be produced by giving different compensation factors. You can vary the frequency/pitch and duration. Using the encrypted Instrument file, one can play with various compensations (like playing various keys), and save different sounds as needed for their music samples.

@@ -1,0 +1,49 @@
+User Type,Username,Date,Text
+[V],ua3,2011-04-27T06:23Z,"Operating System :-
+GNU/Linux
+BSD Unix
+Microsoft Windows
+Apple Mac OS
+
+Web Server :-
+Apache 1.3
+Apache 2.0/2.2
+Microsoft IIS
+Lighttpd
+
+Languages :-
+PHP 4
+PHP 5
+
+Databases :-
+MySQL"
+,FerusGrim,2011-04-27T20:12Z,"Thanks for the share! Been looking around for the newest version. :)
+
+Will seed this for as long as possible."
+,Kirnath,2011-04-28T01:53Z,WTB seeeedddssss!!!! plz :)
+,redl,2011-05-17T07:44Z,"This release is missing the checksums.md5 file to use with the validator.php
+
+I got a copy of the checksums.md5 and validation failed"
+,Finley.exe,2011-05-25T18:00Z,You can't continue until keygen.php has not replaced value| WTF?
+[V],ua3,2011-05-26T07:21Z,"WTF , you can't do a single thing!!
+
+Ok here it is .
+
+1. Extract.
+2. Got to Extracted Folder > Includes > Rename config.php.new to config.php
+3. Then Run keygen.php ( http://*whateveryourdomain*/keygen.php )
+4. When keygen.php has done its job , note the License No and Customer No , then delete the keygen.php from your root dir.
+5. Then Simply go to your dir , where vb is kept ( http://*whateveryourdomain*/) , if it doesn't work then - http://*whateveryourdomain*/install/install.php
+
+Enjoy :D"
+[T],theLEAK,2011-06-29T02:51Z,"@Finley.exe
+
+
+
+You must change the permisson on the folder."
+[T],theLEAK,2011-06-29T02:55Z,"@redl
+
+
+
+
+Are you sure? You don't really need checksums.md5 file because in the end, you need to delete it along with keygen.php, dgtrelease nfo, validator.php so that vBulletin will not find out and won't close your forum."

@@ -1,0 +1,24 @@
+www.retestrak.nl
+
+
+Community Update 1 changes:
+*renamed eXPerience.txt to (Original)eXPerience.txt. Contents will not be tampered with
++added this CU changelog "(Changelog)CommunityUpdate.txt" and it sits beside the original
++added wireless fix DLLs into MicroXP and Beast
++added msconfig in all editions
++added msconfig reference in txtsetup.sif in all editions (otherwise, it's not copied/installed)
++added silent installers: f.lux, ImDisk, CoolPDFReader, 7zip, QuickPar
+*updated silent installers: Prio, Comodo Internet Security, WinRAR, GetDiz
++added Windows Update alternatives
++added _INFO.txt file with descriptions and URLs for WU alternatives
++added _INFO.txt file with descriptions and URLs for all silent installers
+
+Test Checklist (U)nattended/(N)ormal:
+(U)Full - msconfig and wz (wireless) dlls present
+(U)Lightly stripped - msconfig and wz (wireless) dlls present
+(U)TinyXP with WMP/IE8/WUpdate - msconfig and wz (wireless) dlls present
+(U)TinyXP withOUT WMP/IE8/WUpdate - msconfig and wz (wireless) dlls present
+(N)TinyXP withOUT WMP/IE8/WUpdate - msconfig and wz (wireless) dlls present
+TinyXP Beast Edition II - msconfig and wz (wireless) dlls present
+MicroXP - msconfig and wz (wireless) dlls present
+All silents.

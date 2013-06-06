@@ -1,0 +1,36 @@
+User Type,Username,Date,Text
+,j.solanki17,2011-05-12T08:56Z,"@TheShadowZ
+
+U r a great fool....
+
+Guyz it works fine...
+Without any problem.."
+,nittany,2011-05-12T11:28Z,"I just downloaded this and installed it, but when I go to run it, it says:
+
+""The application has failed to start because its side-by-side configuration is incorrect.""
+
+I'm running Windows Vista 32bit SP2, all updates installed, I guess I'll have to try another release."
+,nittany,2011-05-12T12:11Z,"Apparently, my problem is a common one for this game so this release it probably fine.  I'm not sure what to do to fix it though."
+,nittany,2011-05-12T13:00Z,"I searched around and someone mentioned to reinstall the Microsoft Visual C++ Redistributables 2005, 2008 and 2010 to get this game to work.  I did that and still didn't work.
+
+Someone else then mentioned that he fixed the same exact problem I have by installing itunes/quicktime so I did that and bam, now it works fine.
+"
+,FanSom,2011-05-12T19:53Z,"Here is options to fix this:
+
+1. Uninstall all versions of Visual C++ Redistributables (2005,2008,2010 (x64 and x86)) and their updates.
+
+2. Then Install all Visual C++ Redistributables    (2005,2008,2010 (x64 and x86 (for x86 install only x86 Redistributables))). Download it from Microsoft site (Recommended) 
+
+3. Copy msvcr100.dll from game folder (don't cut) to C:\Windows\system32 (x86 Systems) or C:\Windows\SysWOW64 (x64 Systems)
+
+
+If this options don't help try to install another version of Angry Birds or search on google for fixes and another answers about this problem or reinstall windows and then install Angry Birds first...
+
+"
+,nittany,2011-05-12T20:12Z,"@fansom
+
+You missed where I said all you have to do is install itunes to fix this problem."
+,supermereal,2011-05-14T09:14Z,Sombor!!!! GTFO here !!! hahahahahahahahahahhahahahahahahahahahahaha
+,FanSom,2011-05-21T22:30Z,LOL go to options and check version... it's 1.5.1
+,darkspook,2011-05-31T08:41Z,Thanks uploader! Theres a new level added at v1.5.1. Can play in window mode. Thanks a lot!
+,MofoMan2000,2011-07-25T07:39Z,"Can someone upload version 1.6.1, or has Rovio not bothered to release an update for the Windows version yet?"

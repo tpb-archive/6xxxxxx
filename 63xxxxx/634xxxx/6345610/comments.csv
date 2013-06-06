@@ -1,0 +1,30 @@
+User Type,Username,Date,Text
+,frogy48,2011-04-26T15:35Z,thumper having problem getting it reg as says wont conect to reg sever 
+,Angnima,2011-04-26T15:37Z,Same for me. Cannot cummunicate with server to register
+[T],rahulro,2011-04-26T16:14Z,"@frogy48 and Angnima- There server is down for some hours,"
+,imranjavaid,2011-04-26T19:55Z,serial not working...... cannot register
+,badsajan,2011-04-26T23:12Z,"its work i got the same massage.go in regedit.....
+WinXP x32
+HKEY_LOCAL_MACHINE / SOFTWARE / CyberLink / PowerDVD11 / CustomReg ->
+""UI_UpgradeStrategy"" = dword: 00000000
+
+WinXP x64:
+HKEY_LOCAL_MACHINE / SOFTWARE / Wow6432Node / CyberLink / PowerDVD11 / CustomReg -> ""UI_UpgradeStrategy"" = dword: 00000000
+
+Windows 7/Vista:
+HKEY_LOCAL_MACHINE / SOFTWARE / CyberLink / PowerDVD11 / CustomReg ->
+""UI_UpgradeStrategy"" = dword: 00000000
+
+Windows 7 64bit:
+HKEY_LOCAL_MACHINE / SOFTWARE /Wow6432Node/ CyberLink / PowerDVD11 / CustomReg -> ""UI_UpgradeStrategy""= dword: 00000000
+i activate after try of six hours"
+,badsajan,2011-04-26T23:31Z,"- install
+- at the end of the installation window appears ""MuvieLife Prywacy Policy""
+- Click on ""Skip""does not run the program
+sorry u have to do that too"
+,Angnima,2011-04-27T11:42Z,Thank you Badsajan it works after the changes in the registry
+,Ganddi,2011-04-28T11:01Z,"I tried this but since the Application has probably exceed the maximum register is not working any more. Lets seed this one, works great also has KEYGEN
+http://thepiratebay.org/torrent/6341083/CyberLink_PowerDVD_v11.0_Ultra__INCL.KEYMAKER__CORE"
+,osoduro49,2011-05-13T07:13Z,hi guys I'm new arround the keychange work good winrar cr-9yw 01.zip
+,vikkymaxx,2011-05-15T13:12Z,Thank you so very much Badsajan......It really works.....Take Care.
+,Sulluvlaki,2011-06-21T06:22Z,"I have been looking all over the powerdvd folder and i still cant find ""HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\CyberLink\PowerDVD11\CustomReg"" anyone can give me a hand where i can find the path?"

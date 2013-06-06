@@ -1,0 +1,19 @@
+User Type,Username,Date,Text
+[T],Tyr3ll,2011-04-17T03:27Z,"sorry,i made an error :
+not modded,original drivers so !
+
+more details :
+
+These drivers are not WHQL.
+OpenGL is newer, Direct3D and 2D are the same (vs latest 11.4 pre)
+This driver is not a part of the early catalyst preview 11.4 branch,(pre build: 8.840.x this build: 8.841) it will probably end newer and better than 11.4 WHQL.
+We have some reference of this driver in HERE(http://developer.amd.com/gpu/amdappsdk/ ... ility.aspx)
+and at bottom of the page you can read: ""ATI Catalystâ„¢ 11.4 Update Driver (8.841)"".
+Nice boost in DirectCompute applications.
+OpenCL version: OpenCL 1.1 AMD-APP-SDK-v2.4 (595.10) FULL_PROFILE
+99% bug is FIXED.
+
+Build Info:
+8.841-110405a-116955C
+DriverVer=04/05/2011, 8.841.0.0000
+Sign date: April 14 â€Ž2011 20:47:55 (ATI)"

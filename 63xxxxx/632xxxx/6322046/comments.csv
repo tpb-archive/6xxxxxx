@@ -1,0 +1,75 @@
+User Type,Username,Date,Text
+,Znibro,2011-06-12T15:10Z,hur skall detta installeras? installations nyckel osv?
+,Znibro,2011-06-12T15:26Z,"okej, har listat ut hur man skulle göra nu. Har varit en del skrivningar på diverse forum som flashback om folk som vil ha nycklar mm, så jag skriver en förklaring här, kanske kan hjälpa någon vem vet.
+
+mounta eller bränn ""BT2011"", Installera (starta inte spelet) gå sedan in i TFTISO mappen och använd ""BonniersActivator"", där skapar du inloggningsuppgifter som gör att du slipper skriva in aktiveringsnyckel när du nu skall starta spelet! 
+
+Tack till Makan747 som laddat upp!"
+,StainlessC,2011-08-04T20:56Z,"Hmm är det bara jag som får
+
+BonniersActivator.exe - Programfel
+''Det guck inte att initiera programmet korrekt (0xc0000135). Klicka på OK för att avsluta programmet.''   ?  Samt någon idé för att fixa felet?"
+,StainlessC,2011-08-04T20:57Z,''det gick inte*
+,Nille9000,2011-08-23T15:12Z,"Står ""Sätt i installations disket 2 för att fortsätta installationen"", eller något liknande.. hur gör jag då?"
+,EMILXLISA,2011-09-06T19:53Z,tjena jag har installerat osv allt funkar skit bra MEN när man precis har startat programmet så säger den att man behöver en skiva...... -.- hur fan kommer man runt det?
+,FadeToBlack,2011-09-13T19:17Z,Tackar! Fungerar för mig.
+,9595956595,2011-09-27T12:02Z,"GÃ¶r sÃ¥ hÃ¤r:
+
+Det allra fÃ¶rsta ni mÃ¥ste gÃ¶ra Ã¤r att ladda ner Daemon Tools Lite.
+Om ni har laddat ner programmen Daemon Tools Lite mÃ¥ste ni montera filen som heter ""BT2011.iso""
+
+
+FÃ¶r att montera filen gÃ¶r ni sÃ¥:
+
+1. Ã–ppna programmen Daemon Tools Lite.
+2. NÃ¤r rutan har dykt upp hÃ¶gerklickar ni, det kommer stÃ¥ ""LÃ¤gg till fil"" tryck pÃ¥ den.
+3. Det kommer komma en ruta dÃ¤r det stÃ¥r ""BT2011.iso"", tryck pÃ¥ den och sen trycker ni pÃ¥ Ã¶ppna.
+4. NÃ¤r ni har lagt filen ""BT2011.iso"" pÃ¥ programmen Daemon Tools Lite kommer ni sen en grÃ¶n ""play"" knapp. Tryck pÃ¥ den fÃ¶r att montera filen.
+5. NÃ¤r ni har monterat filen ska ni trycka pÃ¥ Start och sen trycker ni pÃ¥ ""Datorn"" eller ""Den hÃ¤r datorn"".
+6. Nu kan ni bÃ¶rja installera programmen (Starta ej).
+
+Om inte filen Ã¤r monterad kan inte den startas om du vill Ã¶ppna Bonniers Trafikskola 2011 programmen. Varje gÃ¥ng nÃ¤r ni Ã¶ppnar datan och ska in pÃ¥ Bonniers Trafikskola 2011 ska ni Ã¶ppna Daemon Tools Lite och sen trycker ni pÃ¥ montera ""grÃ¶n play knapp"". "
+[V],Askeen,2011-11-27T13:32Z,"Haha fan va ful du Ã¤r Makan
+releasen heter 
+Bonniers.Trafikskola.2011.SWEDISH-TFTISO
+
+saxat frÃ¥n NFO
+
+    1. Mount:a eller brÎ£nn .iso-filen.
+    2. Installera programmet.
+    3. Skapa en eller flera anvÎ£ndare med BonniersActivator.exe som du finner i
+       TFTISO-mappen pÏƒ Cd-skivan. 
+
+       (Om .Net 2.0 inte finns tillgÎ£ngligt kommer aktivatorn inte att fungera. 
+       Detta berÃ·r endast operativsystem Î£ldre Î£n Vista. â•“ppna i sÏƒ fall
+       dotnetfx.txt och gÏƒ till respektive lÎ£nk beroende pÏƒ om du har ett 
+       32-bitarssystem (X32) eller 64-bitarssystem (X64) och installera det.) 
+
+    4. Starta programmet och mata in anvÎ£ndarnamn och lÃ·senord som du skapat i
+       steg 3. Du kan alltid lÎ£gga till nya anvÎ£ndare i efterhand.
+
+
+    ...Enjoy - THE FORCE TEAM 2011!"
+,Wassan,2012-01-19T15:18Z,tackar!
+,SirAnthrax,2012-02-04T15:15Z,Dumt nog trodde jag att man kunde ändra upplösning etc i en meny me inte fan finns det. Någon som vet hur man lyckas? Har en ruta i mitten av skärmen med en massa svart runt. Gulligt
+,medllem,2012-02-15T12:18Z,"SirAnthrax om du inte listat ut de än så e det s här, går du in i mappen du fick efter installation osv osv så ser du 2 ikoner Starta och trafikskolan, startar du programmet med trafikskolan så blir de en liten ruta å startar du med Starta så blir de stor^^"
+,Dr.Oranges,2012-02-20T21:08Z,"Okej, Men upplösningen suger ju fortfarande...
+Palla att de gjort 2012 onlinebaserat med typ månadsavgift, idioti.."
+,ghanditheman,2012-02-20T22:39Z,"vafan, jag kan ju inte skriva in mitt användarnamn, det kommer upp en jävla kod som jag ska skriva istället?:S heelp:o"
+,kanelstav,2012-05-13T20:43Z,"Fungerade fantastiskt smidigt på min Win 7!
+
+Jag installerade MagicISO, startade om datorn, startade MagicISO, lyckades komma på att den lade sig nere vid klockan... öppnade programmet och mountade den här ISO filen i det, installerade Bonniers Trafikskolan. Sen körde jag den där Bonniers Activator så jag fick välja användarnamn. Skrev in ett användarnamn och ett lösenord och den accepterade det som användare 1. Sen startade jag själva Trafikskole-programmet för första gången och skrev in användarnamnet. 
+
+Funkade finfint och startade med tuffa ljud! Sitter nu och lyssnar på pedagogisk POGO Pedagog-röst som talar om grupptryck i trafiken. :D 
+
+Antar att det är viktigt att skapa användarkonto innan man öppnar programmet första gången. ..precis som det står i instruktionerna. Nu jävlar ska det bli körkort!
+
+Den ändrade min upplösning till pytteliten så det skulle matcha programmet, men hey, det är ju bara att högerklicka på sin bakgrundsbild och välja att ändra upplösning när man övat klart. :)
+
+Tack!"
+,kingen83,2012-06-16T14:55Z,"Fått detta att FUNGERA på MAC. 
+
+Använder CrossOver Games 10.3. 
+
+Mounta imagen i macen, öppnade sen crossover och valde att installera disken jag mountat. 
+När installationen var färdig, var jag tvungen att installera Microsoft net 3.0 för att kunna använda activatorn, sen är det bara att skapa ett konto via aktivatorn, å vips, så funkar det :) "

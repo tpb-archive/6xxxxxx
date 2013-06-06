@@ -1,0 +1,100 @@
+By "remastered" I don't mean the studio has produced a remastered DVD. I can't put the remastered under quotes on the name of the files sorry.
+By "remastered" I mean I have worked to find and use the "best" avisynth technology on the DVD source, and applied the strongest denoising/sharpening that wouldn't remove any noticable precision (and obv. thanx to high quality x264 encoding not loose anything noticeable there too).
+
+I also mean by that that people should know if the source has been altered (other than the implicit loss thx to lossy encoding) and how. Some movie, or some scenes in some movies are designed grainy. Here the grain on the DVD comes from the limitation of the format, if not their encoding. I see many releases that don't specify that they've pre-processed the source, and I would like that to change especially thinking that most of the time it's for the best.
+
+The result there is definitly superior to the DVD imho, altough in a pair of short and dark scenes, the process produce some unwanted artifacts on a surface here or there in the background. Might have had not to use it on these scenes but they're really short so this shouldn't be a concern.
+
+
+
+Playing the file :
+
+As a result, you don't want to use any real-time denoising, post-processing etc on the movie, there's nothing to be gained there; in fact, this would decrease the quality of the output, beside using unnecessary cpu power.
+
+The hebrew subtitles should be shown in the right order, they're right to left, I've checked.
+
+I made myself the french subtitles as I couldn't find them on the web (yeah that's how much I love this movie), so feel free to thank me for that, as I'm quite happy with what I did there (tough it seems quite funny writing that in english!).
+
+
+
+Anyway.. 
+
+
+the most important : this is a masterpiece ! 
+
+And one that not enough people have had the opportunity to watch (the movie, I've heard, made a lot of waves in Germany, in the form of stupid bashing focusing on the first sequence of the movie, which altough agressive, opens on a very delicate movie). Nevertheless the lead actor JÃ¼rgen Vogel won the silver Bear in Berlin and the french-german office for youth (yes, youth) gave it its 2006 award.
+
+Well for sure this is not an easy movie, not that it uses abstract language or references, but that it might leave you a little bit choked and changed, aka : not entertainment, hopefully enlightnment.
+
+A few scenes might hurt some sensibilities (violence, nudity..).
+
+I'm totally against synopsis, I feel someone waste my pleasure when he unfolds anything about the narrative of a movie, books etc so I won't do it. You'll google it if you need that.
+
+
+
+Snapshots:
+
+[url=http://www.phyrefile.com/image/view/wy0r0yqRruaBYEb2][img]http://pic.phyrefile.com/d/da/davdesj/2011/04/09/DFW_face.jpg[/img][/url]
+
+[url=http://www.phyrefile.com/image/view/Ig440DIxhe9TPMuO][img]http://pic.phyrefile.com/d/da/davdesj/2011/04/09/DFW_Nettie.jpg[/img][/url]
+
+[url=http://www.phyrefile.com/image/view/uzcN4vZA49GcXeyH][img]http://pic.phyrefile.com/d/da/davdesj/2011/04/09/DFWPapa.jpg[/img][/url]
+
+[url=http://www.phyrefile.com/image/view/RxEqfjx6Pwz1ZDJY][img]http://pic.phyrefile.com/d/da/davdesj/2011/04/09/Karate.jpg[/img][/url]
+
+[url=http://www.phyrefile.com/image/view/iiioVoTiMAgsz6mu][img]http://pic.phyrefile.com/d/da/davdesj/2011/04/09/DFW_Haltere.jpg[/img][/url]
+
+
+Media Info :
+
+General
+Format                           : Matroska
+File size                        : 855 MiB
+Duration                         : 2h 43mn
+Overall bit rate                 : 731 Kbps
+Encoded date                     : UTC 2011-04-09 18:30:31
+Writing application              : mkvmerge v4.6.0
+Writing library                  : libebml v1.2.0 + libmatroska v1.1.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 8 frames
+Format settings, GOP             : M=2, N=32
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 43mn
+Bit rate                         : 524 Kbps
+Width                            : 720 pixels
+Height                           : 384 pixels
+Display aspect ratio             : 1.875
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.076
+Stream size                      : 614 MiB (72%)
+Writing library                  : x264 core 114 r1924 08d04a4
+Encoding settings                : cabac=1 / ref=8 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=21.5 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=50000 / vbv_bufsize=50000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 2h 43mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 225 MiB (26%)
+Language                         : German
+
+(Audio untouched)

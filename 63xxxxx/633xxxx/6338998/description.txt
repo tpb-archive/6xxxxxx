@@ -1,0 +1,37 @@
+BDtoAVCHD is a tool to create AVCHD discs from Blu-Ray or HD MKV files. As output we get the folder structure ready to burn to a DVD5 or DVD9. The software compresses the video to achieve the desired overall size of 4.7 GB or 8.5 GB with the highest possible quality.
+
+The AVCHD format allows you to play the same type of content that a Blu-Ray and holding high definition (1080p) but on DVD5 or DVD9 media. Ideal for backing Blu-Ray with smaller size and maintaining high quality.
+
+BDtoAVCHD is created with the idea that is very simple and quick to use and obtain the best possible quality in a DVD5, so unnecessary conversions are avoided whenever possible. You do not need any codec installed as avisynth, ffdshow or Haali media splitter and records obtained are compatible with almost any Blu-ray player or PS3.
+
+KEY FEATURES
+
+   * Finds the main .m2ts file for the movie by just selecting the BDMV folder or Blu-Ray root
+   * Extract all information from the audio tracks, video and subtitles: length, language, format, etc.
+   * Extract chapter information or allows to add it.
+   * Select default audio track based on the most appropriate language preferences and criteria for the best quality but can also be set manually.
+   * Calculates the video bitrate to fill the DVD5 / DVD9 (most of the times gets between 99-100% of total capacity).
+   * Converts audio (only if necessary): PCM to AC3, DTS-HD MA to DTS Core, DTS to AC3, etc.
+   * Detect delays in the original audio tracks and transfers them to the final work.
+   * Re-compress the video using x264 64-bit if your computer supports.
+   * Do not use external codecs like avisynth or ffdshow or Haali splitter in the process of video conversion.
+   * Allows you to select a forced subtitle track is selected by default when playing the disc.
+   * Allows you to program multiple conversions in the queue and execute them one after another automatically.
+   * Multitasking: you can gradually add new jobs in queue while others are processed.
+   * Various output sizes: DVD5 / DVD9 / USB 4GB / BD-25 and Custom.
+   * Ability to create a BD-25 without re-compressing video (BDRemux).
+   * MKV as alternate output: allows to convert Blu-Ray to MKV recoding the video or without recoding (BDremux).
+
+
+NEW IN VERSION 1.4.0
+
+   * New: MKV as alternate output format. Allows to convert Blu-Ray to MKV, recoding the video (CRF) or creating a BDremux.
+   * Improved: for AVCHD output is used the new parameter --bluray-compat instead of --open-gop bluray, --aud, --nalhrd vbr and --b-pyramid strict. This also always checks compliance of ref and b frames with AVCHD.
+   * Improved: accepting as input MKV files with header compression.
+   * Fixed: when converting a Blu-Ray with the main file split into several .m2ts parts and selecting the TrueHD audio was kept AC3 core only.
+   * Mkvextract updated to version v4.6.0 and Mkvmerge added.
+   * x264 updated to revision r1936.
+   * Small fixes and general improvements.
+
+
+

@@ -1,0 +1,72 @@
+zk
+
+MOST PROUDLY PRESENTS
+
+HyperChem v8.0.9
+(c) Hypercube
+
+Date ..... : 2011-04-22
+Size ..... : 39 x 5.00MB
+Protection : SentinelLM
+Type ..... : Chemistry
+OS ....... : Windows
+
+RELEASE NOTES
+
+HyperChem 8 has the capability of being a graphics and GUI provider
+(including the displaying of results) for a number of third party
+software packages. These packages may include other ab initio and
+semi-empirical packages such as GAMESS and MOPAC2007. Included with
+HyperChem 8 is the copyrighted source code for a number of these
+interfaces. A standard menu item in HyperChem, "Third-Party Interfaces
+executes a standard HyperChem Command Language (HCL) script installed
+with the product. This script has the pre-defined name, thirdparty.scr
+This script can be modified by users to add other third-party
+applications but comes included with a variety of evolving interfaces
+These interfaces uses the elegant "open architecture" features of
+HyperChem that allow software outside HyperChem to interact and
+read/write information to/from HyperChem. The interface software is
+copyrighted "Open Source" software that any HyperChem user can modify to
+improve the interface or to create a new interface to his/her own
+software. The interfaces generally allow a user, for example, to run a
+GAMESS job from within HyperChem, and get back the results for display
+The first level of interface, that is included to begin with in
+HyperChem 8, allows a user to display optimized structures, vibrational
+spectra and animations of normal modes plus 3D renderings of orbitals,
+electron densities, and electrostatic potentials. It is to be expected
+that these interfaces evolve to become richer as users and members of
+Hypercube, Inc. contribute to their capability
+
+HyperChem has traditionally operated in a purely interactive mode where
+a calculation (a back end, e.g. HyperNewton) is connected in a "live
+fashion" to HyperChem (the front end). This has been the case even when
+the back end resided on another machine on the network. This is not a
+terrible limitation since once can run many HyperChem front ends
+simultaneously if one likes. With HyperChem 8, however, one now has the
+choice of running a calculation interactively or in Batch mode. In Batch
+mode the computation is severed and carries on by itself while HyperChem
+is free to read in a new molecule or continue on in any way it pleases,
+including spawning more batched jobs. The back ends have been instructed
+by the front end that they are indeed batch processes and instead of
+sending their results live to the front end, they create a .ext file
+that can be read at any later time into the HyperChem front end to
+display the results just as if the calculation was run interactively
+
+and more
+ 
+http://www.hyper.com/Products/HyperChemProfessional/75Overview/tabid/361/Default.aspx
+
+INSTALLATION
+
+Unzip, Unrar. Check /crack
+
+GROUP iNFO
+
+We are not taking any applications. We are an invite only group
+
+GREETINGS
+
+Our friends, our loyal members and our fair competitors
+You know who you are
+
+RECOiL IN 2011 - ONE MORE IMPACT

@@ -1,0 +1,74 @@
+Live USB v.5.0 Alkid-MicroPE-Acronis-Password Changer-xp ZverDVD (2011)
+
+English:
+------------
+Year: 2011
+Version: 5.0
+Developer: Zver, Savvateev, Alkid, Yuric21
+Compatible with Windows 7/Vista: Download from WPI partially compatible
+Language: English, Russian
+Treatment: None required
+
+Multiboot yuric21 USB flash drive, including Alkid also microP, Acronis, Password Changer, XP, and MRP (abbreviated), and the assembly ZverDVD v.2011.5 This version has two USB image file "ImageNTFS.GHO" and " ImageFAT32.GHO "(file" LUSB50fat32.rar "and" LUSB50ntfs.rar "), c the former is much faster to copy files, but not all flash units can be lifted, and the second is slower but more reliable - a rock and created for you.
+
+Features:
+- Alkid LiveCD, Windows XP and Zver IPM
+- IPM destroyed by the developer to stick to your needs
+- Additional software is not integrated, and assembled in the "My soft"
+- Installation of Acronis BootCD v.1.3 Collection 2010 (they do not need a heavy (581 Mb) - change the image from the folder "iso", the old "AcronisMedia.iso) of the root file folder.
+
+Installation (the author):
+>> Setting out in two stages (as in many of these stick) that have not resulted, as I did in this game since - first as usual, but during the first reboot, microP ship (which carry more Alkid fast) and change to a file: \ Boot.ini a digit (two locations) rdisk (1) rdisk (0), (doubled in the GRUB menu, but in English), reboot and everything is in the first menu item load Windows NT/2K/XP. If the WPI does not start, then click the WPI file \ WPI.hta the flesh of the root.
+>> So - have a clean (or with unnecessary information), stick to 4 GB (tested at Kingston DataTraveler 410 Kingston DataTraveler and just).
+>> Soft folder:
+- 1) Run the HPUSBFW.exe. In the window that appears, choose, select the device in your USB flash drive (depending on size), and point the Select FAT32 file system or NTFS (which is hit, may be irrelevant), then click the Start button, we affirm our intention to re-format the memory card after formatting, click OK and Close.
+- 2) set the boot loader in the MBR flashes - open the folder grubinst grubinst_gui.exe start the application. In the window that appears, select the item and our flash drive and click the Install button, then Enter, the final stop smoking. And problems that can happen. In some stick, sometimes flies error in this case would have to run grubinst.exe a command prompt with the following parameters:
+c: grubinst / / grubinst.exe - skip-mbr-test (HDN)
+Instead of N is necessary to replace the flash number, for example (hd1). To find out which number is the flash drive in the system as follows. Click on my laptop -> Computer Management -> Disk Management.
+>> WARNING! If instead of flash to indicate the system drive, then your MBR will be changed and the system is loaded with more time.
+3) write the image to the bottom - executing Ghost32.exe click OK and then Local - Disco - From the picture, locate the file "ImageFAT32.GHO" or "ImageNTFS.GHO" (those who believe that flash drive and the "mother" will work with NTFS), click on your flash drive (found in size), click OK, OK again, then Yes - the process has begun. >> Then click Sontinue and close the program.
+>> USB Flash Drive is ready!
+
+System requirements:
+300 MHz processor or higher
+RAM 128 MB of RAM or higher
+Free space on hard drive 5 GB
+
+
+
+
+EspaÃ±ol:
+-------------
+AÃ±o: 2011 
+VersiÃ³n: 5.0 
+Desarrollador: Zver, Savvateev, Alkid, Yuric21 
+Compatible con Windows 7/Vista: Descargar desde WPI parcialmente compatible 
+Idioma: InglÃ©s, Ruso 
+Tratamiento: No se requiere 
+
+Multiboot unidad flash USB de yuric21, incluidos Alkid tambiÃ©n, MicroPE, Acronis, Password Changer, XP, y el IPM (abreviado), asÃ­ como el montaje ZverDVD v.2011.5 Esta versiÃ³n presenta dos archivo de imagen USB "ImageNTFS.GHO" y "ImageFAT32.GHO" ( archivos "LUSB50fat32.rar" y "LUSB50ntfs.rar"), c el primero es mucho mÃ¡s rÃ¡pido para copiar archivos, pero no todas las unidades de flash se puede levantar, y el segundo es mÃ¡s lento pero mÃ¡s confiable - una roca y creado para ti.
+
+CaracterÃ­sticas:
+- Alkid LiveCD, Windows XP y el IPM de Zver
+- IPM destruida por el desarrollador para pegar a sus necesidades
+- Software adicional no estÃ¡ integrado, y montados en la carpeta "Mis suave",
+- InstalaciÃ³n de Acronis BootCD ColecciÃ³n 2010 v.1.3 (que no necesitan una pesada (581 Mb) - El cambio de la imagen de la carpeta "iso", el viejo "AcronisMedia.iso) de la carpeta de archivos raÃ­z.
+
+De instalaciÃ³n (del autor):
+>> Marco a cabo en dos etapas (como en muchos de estos palo) que no han resultado, por lo que hice en este juego ya que - por primera vez como de costumbre, pero durante el primer reinicio, MicroPE buque (que cargan mÃ¡s rÃ¡pido que Alkid) y el cambio en un archivo : \ Boot.ini un dÃ­gito (en dos lugares) rdisk (1) rdisk (0), (duplicado en el menÃº Gruba, aunque en InglÃ©s), reiniciar y todo estÃ¡ en el primer elemento de menÃº de carga de Windows NT/2K/XP . Si el WPI no se inicio, a continuaciÃ³n, haga clic en el archivo de WPI \ WPI.hta la carne de la raÃ­z.
+>> Por lo tanto - tener un lugar limpio (o con informaciÃ³n innecesaria), se adhieren a 4 GB (probado en Kingston DataTraveler 410 de Kingston DataTraveler y simplemente).
+>> Suave carpeta:
+- 1) Ejecute el archivo HPUSBFW.exe. En la ventana que aparece, elegir, seleccionar el dispositivo en su unidad flash USB (dependiendo del tamaÃ±o), y en el apartado del sistema de archivos Selecciona FAT32 o NTFS (lo que forma sacudiÃ³, puede ser irrelevante), a continuaciÃ³n, haga clic en el botÃ³n Inicio, afirmamos nuestra intenciÃ³n de volver a formatear la tarjeta de memoria, despuÃ©s de formatear, haga clic en Aceptar y Cerrar.
+- 2) establece el gestor de arranque en el MBR parpadea - abrir la carpeta grubinst grubinst_gui.exe iniciar la aplicaciÃ³n. En la ventana que aparece, seleccione el elemento y nuestra unidad de disco flash y haga clic en el botÃ³n Instalar, a continuaciÃ³n, Intro, al final de dejar de fumar. Y problemas que pueden suceder. En algunos palo, a veces vuela error en este caso tendrÃ¡ que ejecutar grubinst.exe de un sÃ­mbolo del sistema con los siguientes parÃ¡metros:
+c: grubinst / / grubinst.exe - skip-mbr-test (HDN)
+En lugar de N es necesario sustituir el flash de nÃºmero, por ejemplo (hd1). Para saber quÃ© nÃºmero es la unidad flash en el sistema de la siguiente manera. Haga clic en mi computadora portÃ¡til -> AdministraciÃ³n de equipos -> AdministraciÃ³n de discos.
+>> ADVERTENCIA! Si en lugar de flash para indicar la unidad del sistema, entonces su MBR se cambiarÃ¡ y el sistema se carga con mÃ¡s tiempo.
+3) escribir la imagen al palo - ejecutar Ghost32.exe haga clic en Aceptar y, a continuaciÃ³n Local - Disco - A partir de la imagen, busque el archivo "ImageFAT32.GHO" o "ImageNTFS.GHO" (aquellos que creen que la unidad de flash y la "madre" trabajarÃ¡ con NTFS ), haga clic en su unidad flash (lo encontrarÃ¡ en tamaÃ±o), haga clic en Aceptar, en Aceptar de nuevo, a continuaciÃ³n, SÃ­ - el proceso ha comenzado. >> DespuÃ©s haga clic en Sontinue y cerrar el programa.
+>> USB Flash Drive estÃ¡ listo!
+
+Requisitos del sistema:
+Procesador de 300 MHz o superior
+RAM 128 MB de RAM o superior
+Espacio libre en el disco duro de 5 GB
+
+

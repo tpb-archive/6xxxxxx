@@ -1,0 +1,172 @@
+User Type,Username,Date,Text
+,BONGARA,2011-04-25T20:14Z,"awesome uploads man! 
+may I request a software ? its called iPi Soft http://www.ipisoft.com"
+,gmanchu,2011-05-11T06:53Z,Does this program by any chance include REX?Thanks!
+,bluuuuu,2011-05-12T15:49Z,"awesome uploads man....ur d man
+hv u got mitcalc for pro/e....need it urgently"
+,kujirasan,2011-05-19T04:09Z,"The archive apparently is mix of rar and ISO, it is impossible to extract, if some one knows how to extract it, post a message. 
+Stun; do you have to complicate things to a preposterous level?"
+,kujirasan,2011-05-19T05:55Z,"Managed to extract the files, this genius has first rared up then done an ISO. 
+In reference to the 64 bit:
+This MAGNiTUDE supplied crack, in the  MAGNiTUDE folder, there are 5 files;
+1.Install.text
+2.kegen.bat
+3.ptc.dat
+4.ptc.exe
+5.PTC_Creo5_X64_Corrector.exe
+
+This is the content of the install.text file:
+
+
+PTC Creo Elements/Pro 5.0 M080 
+
+1. In the crack directory open the file called ptc.dat and 00-00-00-00-00-00 replace with your
+   PTC host ID value (showed in left bottom corner of setup screen or use ""Program Files\PTC\Creo Elements\Pro5.0\bin\ptchostid.bat"" to get it).
+   Run keygen.bat which will create a license.dat.
+
+2. Run setup and install your selection of Creo products.
+   Select Locked licensing and point to license.dat created at step #1.
+
+3. Copy the ""PTC_Creo5_Corrector.exe"" to ""Program Files\PTC\""and run it. Patching may need some minutes!
+
+4. Before running Creo Elements it is strongly recommended to block it from internet access.
+
+PS: You may run ""Program Files\PTC\Creo Elements\Pro5.0\bin\ptcsetup.bat"" to set/change your WF5 setup.
+It does not explain what to do PTC.exe,  my friedn tried installing on 64 , no luck. 
+If you guys have installed post an instruction, as what to do with ptc.exe, thanking all "
+,kujirasan,2011-05-26T01:46Z,"Hi guys, I managed to install it , on Wondows7X64, and it works like a charm.
+1.I disable the firewall and virus scanner etc. 
+2.Copied everything to the Desktop.
+3.Created the license.dat , as per instruction.
+4.Proceeded with installation.
+5.Loaded the license.dat , then clicked on the ptc.bat, and closed it.
+6. Used patch, it does around 60 patch, and takes long time so let it do the work.
+One more thing, I extracted the files, in LINUX, Fedora14, as could not do it in Windows. If you need any help, and if I can be of service, post a reply, best of luck, and thanks to the up loader. "
+,clementine2090,2011-06-02T07:25Z,Please seed! stuck at 33%! :(
+,clementine2090,2011-06-04T03:04Z,Can some one help me out? I am trying to install the x32 version on disk 1. I cannot seem to generate the license.dat file after following all the instructions in step 1. I found the hostid and replaced it in the ptc.dat file. but when I run the keygen it does not generate license.dat file.Please can someone help me out? thanks
+,Ocean_F,2011-06-05T17:51Z,"Thanks! Great job!
+I install it on Windows XP SP2 32bit. Before running Creo Elements it is strongly recommended to block it from internet access:
+ - Control Panel, Firewall, Exceptions, Creo...., Edit, Change scope, My network.
+Again thanks a lot!"
+,Ocean_F,2011-06-05T18:02Z,"clementine2090, copy the directory MAGNiTUDE on the hard disk, inside change the ptc.dat with your hostid. Use ""Replace"" command of Notepad, because you must make it many times and can make mistake. Save it like ptc.txt and after this from windows explorer rename it to ptc.dat.
+The modifyed ptc.dat and keygen.bat must be in the same folder before to run keygen.bat."
+,clementine2090,2011-06-06T03:19Z,"Hi Ocean_F, i tried what you suggested. I copy-pasted the MAGNiTUDE folder under C:\Program files\PTC folder with all files inside it as it is. Also, identified the hostid of my pc. Still no change-- the keygen.bat does not generate a license file. The error it shows is "" 'ptc' is not recognised as an internal or external command, operable program or batch file"". ...any help?"
+,Ocean_F,2011-06-06T15:11Z,"clementine2090 - Did you change ptc.txt to ptc.dat, after changing hostID?
+What is your OS and text editor?"
+,Ocean_F,2011-06-06T15:25Z,"Sometime windows explorer hide the extansions of the files. Maybe your file name after chainging hostID is file.dat.txt and not file.dat. 
+In the windows explorer go to Tools/Folder Options/View and in the menu unmark 
+Hide extensions for known file types"
+,biertjesfredprost3000,2011-06-19T13:01Z,"Help please.
+Everything went well till I wanted to use the Corrector. The command screen opened but then it started beeping and told me he can't open all the files.
+Tried it severeal times now.
+I have a print screen of it.
+
+Thx"
+,biertjesfredprost3000,2011-06-19T13:03Z,"I haven't tried to start to open Creo, cause I don't want to do more harm."
+,biertjesfredprost3000,2011-06-20T00:48Z,Solved it already by putting UAC off
+,letsgetthisdone,2011-07-05T04:58Z,"I am having a problem with the last part where I need to patch the files using the Corrector. I put it in the right spot but when I click it, it just beeps and says it can not patch each file. What do I need to do to fix this?"
+,leoking123,2011-07-06T09:40Z,"anybody please upload only magnitude crack
+as i have setup of m070 but donot have crack.
+
+please email me crack at leoking_1983@yahoo.co.in"
+,leoking123,2011-07-06T09:43Z,sumbody please upload only magnitude folder
+,ghostofandy,2011-07-19T05:03Z,"I put the PTC_Creo5_Corrector.exe file in the C:\Program Files\PTC folder but I keep getting an error message ""Can not open file..."" & ""Nothing fixed""  Anyone know what I'm doing wrong?"
+,mukammalaurshaffaf,2011-08-10T15:49Z,Is there any video training or book available for the program? I want to learn this program form basic. Any one who can help me....
+,koenner,2011-08-14T22:02Z,"Can someone please help me figure out what is wrong?  I followed what kujirasan said, but I get the error: no SERVER line found to match this host.  Ideas?  I verified that the ptc.dat has the correct PTC HostID."
+,mackoy_1012,2011-09-24T14:10Z,"guys, also need some help..
+i have installed everything..
+but when trying to load, it shows for a split second, then crashes down..
+did any of you guys experienced the same problem? 
+i am on Win7x64 bit.
+
+Thanks for the Help!!"
+,soniparth,2011-09-27T04:02Z,"I install the software then when i copied the PTC_Creo5_Corrector file to PTC folder in C drive it says nothing is fixed and patch is not done.
+Please help"
+,kinetic888,2011-09-28T01:02Z,"Can any1 help? all i see is disk1, disk 2 and system info, what can i do? i use windows7X64"
+,kinetic888,2011-09-30T18:36Z,"please i need the crack file, i only have the 2 discs kinetic888@yahoo.com thx"
+,tekma408,2011-10-11T09:51Z,"Hi All:
+
+When you run PTC_Creo5_Corrector in Win7, you need to click right mouse button to select run it with administractor. Otherwise Win7 will not let you run any program.
+you need to use 7-zip to extract each of the downloaded disk1 and disk2 to become ISO file, then run 7-zip to extract these two ISO files.
+disk1 is for 32 bit system while disk2 is for 64 bit system. 
+Enjoy!"
+,tekma408,2011-10-11T09:53Z,"Hi All:
+
+When you run PTC_Creo5_Corrector in Win7, you need to click right mouse button to select run it with administractor. Otherwise Win7 will not let you run any program.
+you need to use 7-zip to extract each of the downloaded disk1 and disk2 to become ISO file, then run 7-zip to extract these two ISO files.
+disk1 is for 32 bit system while disk2 is for 64 bit system. 
+
+Enjoy!"
+,tekma408,2011-10-11T09:57Z,"Hi All:
+
+When you run PTC_Creo5_Corrector in Win7, you need to click right mouse button to select run it with administractor. Otherwise Win7 will not let you run any program.
+you need to use 7-zip to extract each rar file inside the downloaded disk1 and disk2 to become ISO file, then run 7-zip to extract these two ISO files.
+disk1 is for 32 bit system while disk2 is for 64 bit system. 
+
+Enjoy!"
+,tekma408,2011-10-11T09:58Z,"Hi All:
+
+When you run PTC_Creo5_Corrector in Win7, you need to click right mouse button to select run it with administractor. Otherwise Win7 will not let you run any fix program.
+you need to use 7-zip to extract each rar file inside the downloaded disk1 and disk2 to become ISO file, then run 7-zip to extract these two ISO files.
+disk1 is for 32 bit system while disk2 is for 64 bit system. 
+
+Enjoy!"
+,projectrevo,2011-11-03T07:43Z,THANK YOU SO MUCH!!!!!!
+,andromeda666,2011-11-12T20:15Z,"Can anyone help me here? 
+
+When I try to launch the Cre/ProE, it just pops up and vanishes. When I click on the Thermal, it says ""Invalid (Inconsistent) License"".
+
+Thanks."
+,ctboyer1,2011-12-27T17:35Z,"This is all quite confusing.  I have not been able to generate a license.dat file either, even though I have copied the Magnitude folder onto my hard drive locally, then I have modified the ptc.dat file to include my correct Host ID information, then saved it over the original ptc.dat file.  When I run the keygen.exe file, it opens a dos prompt style window for a second, then closes.  No license.dat file is created.  When I install the software I point to the ptc.dat file.  Then when I run it, it opens for a split second then closes.  Nothing else.  Can anyone really help?"
+,rd0769,2012-02-12T19:22Z,"Guys i got the solution..! 
+i was having all problems users said above LOL..
+what i did i just inserted both files in LOCKED LICESNSING OPTION
+i.e keygen.bat and ptc.dat after changing that HOST ID VALUE
+and installed it and then after pasting corrector file in location told i.e Program Files\PTC\ . I RAN IT AS ADMINISTRATOR and instead of beeping and saying nothing patched it says 32 patched made me happy..! 
+before it many times i intalled and uninstalled it many problems faced like CAN NOT RUN CREO NO LICENSE FILE .PSF FOUND ..! 
+NOW JUST WHEN I OPRN CREO IT SAYS SELECT WORKING DIRECTORY i can not find solution still can not work..! :P"
+,har_l,2012-02-27T09:32Z,"Steps to install..
+â€¢ Disc 1 - win 32
+â€¢ Disc 2 â€“ win 64
+â€¢ I used Disc 1 cause my pc is win OS is 32 bits
+â€¢ Extract Disc 1 using win rar, which give you m-wf5cr2.iso (Disc image file)
+â€¢ Use DEAMON virtual drive software or any virtual drive software to run the iso file. 
+â€¢ Run setup.  Left bottom corner of the setup screen shows your PTC host ID.
+â€¢ Copy Magnitude folder to the desktop. Open  â€œinstallâ€ file, copy the 00-00-00-00-00-00
+â€¢ Open â€œptc.datâ€ file in notepad, click on edit, select replace, paste 00-00-00-00-00-00 in â€œfind what:â€ and past your PTC host ID in â€œReplace with:â€.
+â€¢ Click Replace All. Close the replace box and save the file.  
+â€¢ Click or double click on â€œkeygenâ€, it will create â€œlicenseâ€ file. Take your time, sometimes it does not create the file right away. 
+â€¢ On setup window, click next, click â€œI agreeâ€, click next, click â€œ creo elements/pro & creoâ€¦.â€
+â€¢ Click on the product features icon, select install all sub features. Do the same for platform and languages. Click next
+â€¢ Click ADD, select â€œlocked license fileâ€ option. In file path, select the license file you created in magnitude folder on your desktop.
+â€¢ Click OKâ€¦  from here after you will be fine for rest of the setup.
+â€¢ After setup is completed, copy â€œPTC_Creo5_Correctorâ€ file (which is in magnitude folder) to C:\Program Files\PTC, run it by right clicking on it and select â€ run as administratorâ€. Wait until 64 patches are completed.
+â€¢ All done, use the software."
+,har_l,2012-02-27T09:37Z,"Steps to install..
+Disc 1 - win 32
+Disc 2 â€“ win 64
+I used Disc 1 cause my pc win OS is 32 bits
+Extract Disc 1 using win rar, which give you m-wf5cr2.iso (Disc image file)
+Use DEAMON virtual drive software or any virtual drive software to run the iso file. 
+Run setup.  Left bottom corner of the setup screen shows your PTC host ID.
+Copy Magnitude folder to the desktop. Open install file, copy the 00-00-00-00-00-00
+Open ptc.dat file in notepad, click on edit, select replace, paste 00-00-00-00-00-00 in find what: and paste your PTC host ID in Replace with.
+Click Replace All. Close the replace box and save the file.  
+Click or double click on keygen, it will create license file. Take your time, sometimes it does not create the file right away. 
+On setup window, click next, click I agree, click next, click creo elements/pro & creoâ€¦.
+Click on the product features icon, select install all sub features. Do the same for platform and languages. Click next
+Click ADD, select locked license file option. In file path, select the license file you created in magnitude folder on your desktop.
+Click OK. from here after you will be fine for rest of the setup.
+After setup is completed, copy PTC_Creo5_Corrector  file (which is in magnitude folder) to C:\Program Files\PTC, run it by right clicking on it and select â€ run as administratorâ€. Wait until 64 patches are completed.
+All done, use the software."
+,nowayman,2012-03-04T09:08Z,"how can I activate Direct Molding Express? When I start, appears a window asking for e-mail and password.
+Thanks"
+,htps8463,2012-03-25T06:27Z,license should be generate after you change the MAC address in ptc.dat 
+,grrici,2012-05-15T09:13Z,"Hi guys,
+Is this contains the pro mechanica also?
+I would like to use that.
+
+Thanks the upload."
+,grrici,2012-05-15T16:53Z,"Yes, it have mechanica, and the ver x64 is working.
+
+Thanks"

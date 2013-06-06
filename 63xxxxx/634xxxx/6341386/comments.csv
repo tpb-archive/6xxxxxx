@@ -1,0 +1,60 @@
+User Type,Username,Date,Text
+[T],Peterq,2011-04-25T09:04Z,"This isn't v5.5, it's v12.1!!"
+[T],armesht,2011-04-25T12:49Z,"thanks Peterq   
+
+image for this V. 
+
+http://img26.imageshack.us/img26/708/10s.png"
+,VicVega,2011-04-28T22:45Z,@armesht image url doesn't work anymore.
+[T],armesht,2011-04-29T20:06Z,"VicVega do not click the mage url 
+
+just copy and past in adress is work "
+,koji2u,2011-05-30T11:50Z,"copy and paste the script in description ( all the stuff with the 127 at the beginning) and paste it in the proper hosts file, the same with all adobe products."
+,zaberikota,2011-06-26T12:40Z,only english?
+,DECEiFER,2011-08-26T16:41Z,"Hi folks,
+
+There's a typo in the list of hosts files needed.
+
+""127.0.0.1 adobe.activate.com""
+
+This will not work, and as this is a typo of what's supposed to be Adobe's primary activation URL, it will result in your key being discovered no later than the next launch of your Adobe program as being invalid. It should be:
+
+""127.0.0.1 activate.adobe.com""
+
+------------------------------------
+
+Here's the list with the correction:
+
+127.0.0.1 adobe.activate.com
+127.0.0.1 practivate.adobe.com 
+127.0.0.1 ereg.adobe.com 
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 3dns-3.adobe.com 
+127.0.0.1 3dns-2.adobe.com 
+127.0.0.1 adobe-dns.adobe.com 
+127.0.0.1 adobe-dns-2.adobe.com 
+127.0.0.1 adobe-dns-3.adobe.com 
+127.0.0.1 ereg.wip3.adobe.com 
+127.0.0.1 activate-sea.adobe.com 
+127.0.0.1 wwis-dubc1-vip60.adobe.com 
+127.0.0.1 activate-sjc0.adobe.com 
+127.0.0.1 adobeereg.com"
+,DECEiFER,2011-08-26T16:42Z,"Stupid. Now I did it, damn copy and paste! Ignore the last list. Here's the list with the correction:
+
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 adobeereg.com "
+,bombocrack,2011-12-06T16:18Z,keygen key's dosnt work!

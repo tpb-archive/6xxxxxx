@@ -1,0 +1,16 @@
+Today wborland0 has updated his PS3 Game List homebrew application to version 1.4 with a
+guide, and as always the changes are detailed below.
+
+To quote: Another release adding more features to the base app; I tried to squeeze in as many
+suggestions as possible, feel free to ask for new ones. If you happen to find any bugs, please report
+them as well.
+
+PS3 Game List v1.4 change-log and features:
+
+Context menu support (right click on list items to activate);
+Initial FTP support (download/upload via context menu);
+Proxy support;
+Allows mass renaming of game folders (to match game id or game title);
+Choosing not to overwrite an existing update no longer aborts the download process (the
+next update in line gets selected);
+Fixed creation date sorting issue.

@@ -1,0 +1,57 @@
+Introduction
+------------
+This program allows you to run any flavor of Mac OS X inside a VMware
+virtual machine, on any physical machine.
+
+Supported configurations
+------------------------
+Version 7 of this program is known to work with the following
+configurations:
+
+Guest operating system
+    Mac OS X (Client or Server) versions: 10.5, 10.6
+
+VMware product
+    VMware Workstation (for Windows or Linux) version: 7.1
+    VMware Fusion (for Mac OS X) version : 3.1
+
+Hardware
+    CPU feature: Intel,AMD VT
+
+Instructions for VMware Workstation for Windows
+-----------------------------------------------
+Install VMware Workstation.
+
+Make sure all virtual machines and VMware Workstation are stopped.
+
+As the Administrator user, run the "windows.bat, & windows_32.exe" program (located in
+the same directory as this file) from the command line (Command
+Prompt).
+
+Read the "Frequently Asked Questions" section below.
+
+Instructions for VMware Workstation for Linux
+---------------------------------------------
+Install VMware Workstation.
+
+Make sure all virtual machines and VMware Workstation are stopped.
+
+As the super user, run the "linux" program (located in the same
+directory as this file) from the command line.
+
+Read the "Frequently Asked Questions" section below.
+
+Instructions for VMware Fusion for Mac OS X
+-------------------------------------------
+Install VMware Fusion.
+
+Make sure all virtual machines and VMware Fusion are stopped.
+
+As the super user, run the "macosx" program (located in the same
+directory as this file) from the command line (Terminal).
+
+Read the "Frequently Asked Questions" section below.
+
+
+Name:mac
+Password: no

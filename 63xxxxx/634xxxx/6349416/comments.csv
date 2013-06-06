@@ -1,0 +1,96 @@
+User Type,Username,Date,Text
+,grakgrak,2011-04-29T15:12Z,Commenting broken?
+,grakgrak,2011-04-29T15:13Z,"Doesn't work for me - looks like the map is still locked. I replaced my existing unlocked gmapsupp.img file which worked fine so I know I'm not doing anything retarded.
+
+The gmapsupp.IMG file in this torrent doesn't even show up in my map sets. I'm seeing nearly 500 seeders on here now - anyone else care to comment.
+
+Running Garmin Mobile XT v5.00.60 on a Nokia N8."
+,biggbare,2011-04-29T18:10Z,"this works fine,just install it correctly.i have a nuvi 1490 with no sd card in the slot.navigate to the system folder and backup file gmapprom.img to pc/laptop then delete from garmin.Unrar image file gmapsupp.img rename file to gmapprom.img and copy it to garmin nuvi in system folder this takes an hour or so both ways,reboot nuvi.done"
+,Tstart,2011-04-29T19:21Z,"still didn´t work on my Nuvi, tried both to replace in unit & on a SDcard in /Garmin/"
+,grakgrak,2011-04-29T22:57Z,@biggbare - A strange one this. I stuck it on my nuvi 1490T as is and it works fine there. Dunno why it won't work on my N8; other unlocked IMG files do?!
+,grakgrak,2011-04-29T23:15Z,I figured out why this isn't working on my Nokia N8 with Garmin Mobile XT v5.00.60 - there is a 2GB filesize limit for this software and this torrent contains a 2.06GB IMG file. So smartphone owners are SOL with this :)
+,Smilmer,2011-04-30T15:13Z,"Works great on Nüvi 250
+
+THANKS"
+,sha47,2011-05-02T18:53Z,I'm puzzled. I've put this IMG file on a 4GB SD card. My nuvi 250w doesn't load the maps and they cannot be found in the system settings. I had no problems at all with map version NT2011.10 on the same SD card. Any thoughts?  
+,jameskrueger3rd,2011-05-03T04:33Z,"sha47, 
+1. format SD in FAT32 and CREATE NEW FOLDER on it with the name: garmin 
+2. put the gmapsupp.img file INSIDE the garmin folder on your SD 
+"
+,garminfriend,2011-05-03T07:26Z,installable version for MapSource available?
+,sha47,2011-05-03T09:52Z,"jameskrueger3rd
+
+Thanks but I've done that. It's not an issue with the 4gb SD card. NT2011.10 works fine on it but this version, NT2011.40, is not recognised by my nuvi 250w. "
+,NickJH,2011-05-03T23:13Z,"re the 250W, odd. It worked immediately on my 255W with a 4GB card"
+,KioskBerra,2011-05-04T07:16Z,"This mapset is outdated.
+2012.10 is out now...."
+,Red23UK,2011-05-04T19:04Z,"doesn't work for me using a 4GB SD card, however the older works fine on the 2GB SD card. might be cos the 4GB one is SDHC? not sure."
+,mimer27,2011-05-05T01:08Z,"Cannot get it to work with Nüvi 660 fm + 4 GB SD card. Have done the trick with earlier maps and the same hardware, but this map just isn't recoqnized by the GPS."
+,glenn1979,2011-05-05T22:28Z,"virker kjempebra!! 
+1.Last ned img fil 
+2.formater 4GB minnebrikke (FAT32)
+3.lag mappe på minnekort, mappe kalles for Garmin
+4.legg img filen under denne mappen på minnekort
+5.skru på gps, og alt virker :)"
+,jameskrueger3rd,2011-05-06T16:17Z,"The newest 2012.10 EU map version is here
+http://thepiratebay.org/torrent/6369266/City_Navigator_Europe_NT_2012.10_-_Mapsource 
+
+It is not an unlocked IMG file, like this one, but the full mapsource version 
+"
+,User147896321,2011-05-10T13:43Z,"My Nuvi 360 doesn,t  load this map. 
+""CN Europe nt 2010.30"" works fine on the same SD card (sandisk ultra II SDHC) 
+I have tried several times with the same result :-("
+,koolie,2011-05-17T10:11Z,"Works for me on Nuvi 300.
+I am kind of restricted to what i can download in the sense that the Garmin Nuvi 300 only can see a 2gb SD card, so the 2.02gb 2012 maps just won't work, they're like just over the capacity."
+,antoanoo,2011-05-17T17:43Z,"This map update is not compatible to Nuvi 350 ?
+Am I right ? "
+,SerSpec-V,2011-05-22T05:19Z,"Like sha47 I have followed the instructions but my 255W doesn't see the map on the 4GB sdhc card. I have the latest firmware. When connected to the PC I can see the sdcard and the Garmin folder and map but the 255W doesn't have it in the list of maps, just the America map installed.  "
+,SerSpec-V,2011-05-22T06:29Z,My mistake I thought I had the latest firmware but my webupdater wasn't connecting but I fixed that now with the latest firmware my 255W is seeing the SDHC and the map. Thanks uploader.
+,irishhatty,2011-06-04T13:31Z,"1. rename sd card ""GARMIN"" (in capitals)  2. open sd card and create new folder and rename it ""garmin"" (lower case)  3. unzip file and place ""gmapsupp"" into garmin folder you have just created.  4.place sd card into sat nav and boot it up.  5. go to settings and maps then map info and make sure these new maps have the box checked and all other boxes, if any, unchecked   6. happy days your now working. if this doesn't work or when you switch on your sat nav the bar will not go to the end and just stops you do not have enough space internally on your sat nav and you will not be able to use these maps."
+,Cranium,2011-06-20T00:36Z,"Working with no problem, just like biggbare described :)"
+,dexmr2,2011-06-21T21:44Z,"Works perfect. Thanks.
+Download, Unzip, Put ""Garmin"" folder on a 4Gb SD card. Pop it in and away you go...."
+,216579687,2011-06-22T14:31Z,"Works like a charm (nuvi 750).
+Unpack, put into ""Garmin"" folder on the card and boot your Garmin. 
+It needs 2.06 GB space."
+,jamakela,2011-06-28T20:27Z,Works perfectly in Zumo 550.
+,gigas27,2011-06-30T02:15Z,Works on a Nuvi 265W...just update the firmware first to make sure the latest drivers are installed for SDHC cards.  Thanks!
+,skinny_gorilla,2011-07-14T17:13Z,"I'm using Garmin Nuvi 1300 and below you will find some instructs that worked for me (Thanks a mill irishhatty!!!). 
+
+Also I used 4GB micro SD/HC card. Some say only micro SD/SD will work - officially, that's not true, unless your Sat Nav is more than 5 years old. If it is, you better buy yourself a new one!
+
+1. rename sd card - GARMIN (in capitals) 
+
+2. open sd card and create new folder and rename it - garmin (lower case) 
+
+3. unzip file and place gmapsupp.img into garmin folder you have just created. 
+
+4. place sd card into sat nav and boot it up. 
+
+5. go to tools then to settings and map and finally to info and make sure these new maps have the box checked and all other boxes, if any, unchecked 
+
+6. If this doesn't work or when you switch on your sat nav the bar will not go to the end and just stops you do not have enough space internally on your sat nav and you will not be able to use these maps.
+
+Good Luck and Big Thanks to dutchghost for saving me some euros!!!"
+,lambspread,2011-07-18T10:57Z,"works perfectly, incredibly simple to do correctly, mine is working on an garmin edge 800 using a 16Gb micro sd, Thanks you"
+,louderks,2011-07-26T00:01Z,Warawara Software ?(Curacao)
+,freefin,2011-08-15T00:38Z,"Works in my Garmin nuvi 200 that is at least 4 years old :)
+Using 4GB SDHC memorycard.
+Just remember when copying the file to the card. Copy it with the Garmin directory, not the file only, I did so first and the nav couldnt read it. Ofcourse some others may have different experience...Thanks!
+
+"
+,editorfl,2011-08-27T17:20Z,"Hi Guys , i didnt find this file gmapsupp.img , how can i install without it ? thanks "
+,SepukuChocapic,2011-10-14T05:10Z,"Here's how to install it without an SD card:
+1. plug your device in
+2. rename  gmapsupp.img   you just downloaded as   gmapprom.img
+3. replace the gmapprom contained in the Garmin folder of your device. (If you're afraid it won't work, just make a backup copy of the original gmapprom.img from the GPS)
+4. done!"
+,Enzio_Ferrari,2011-12-11T13:33Z,"I have run this version and 'updated' all the maps on my SatNav with it. Obviously I first backed up my old maps and removed them from the system.
+Unfortunately a lot of the data is still out of date or corrupted/incorrect as it warns me of average speed cameras through non existant roadworks that were removed a couple of years ago. Even worse is the map for the Ostend area of Belgium. Both entering and leaving Ostend it tried to send me down roads that do not exist and certainly haven't been there in the 12 years I've been visiting the city!"
+,zocipro,2011-12-19T00:43Z,"Hi there,
+
+I have Privileg TV 10, can I try to use it ? And is it included maps of Balkan region, actually Macedonia?
+
+Thanks,
+zocipro at gmail"
+,siimface,2012-03-22T09:40Z,How i can install mulitple maps ?

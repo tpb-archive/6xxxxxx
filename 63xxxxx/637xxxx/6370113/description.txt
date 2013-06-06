@@ -1,0 +1,72 @@
+Includes:
+- 4 ISO files to install the game.
+- A readme (also posted below) on how to get it working on Windows Vista and 7.
+- The latest patch.
+- A No-CD Crack to get it to run with Daemon tools.
+- A fixed Mss32.DLL file cause the original one is broken.
+- Backups of original files in case you lost them and want them back.
+
+You can also buy the game on Steam for like 10 bucks, if I\\\'m correct. This works on vista and 7. And it\\\'s always nice to support BioWare, Obsidian Entertainment and Lucas Arts.
+
+Please seed it if you like it, or leave a comment down below.
+
+Note: Star Wars Knights of the Old Republic II: The Sith Lords can be found on my profile.
+
+- - - - -
+
+README.TXT
+
+A guide to installing Star Wars Knights of the Old Republic I and II on Windows Vista/7, by Deep92 aka Crowding.
+Contact: Crowding@gmail.com - I actually do read this.
+
+1 ) Load the CD(s) (either the actual ones, or an image/iso file through Daemon tools or alike).
+
+2 ) Right click the disc and press \\\"Explore\\\" or \\\"Open\\\", so you can see the directories and files on the disc.
+
+3a) Right click \\\"setup.exe\\\" and press \\\"Properties\\\".
+3b) Select the compatibility tab on top and check \\\"Run this program in compatibility mode for:\\\". On the dropdown list select \\\"Windows XP (Service Pack 2)\\\". Also make sure you check the \\\"Run this program as an administrator\\\" box.
+	*Note: If the option \\\"Run this program as an administrator\\\" is grayed out, it means you\\\'re already logged in as one. This fine, just leave it unchecked if this is the case.
+
+4 ) Run the \\\"setup.exe\\\" and install as you would normally. (Obviously, do not run the game after installation)
+
+5a) There is a folder called \\\"Extras\\\" in these files. Open this and look for \\\"patch.exe\\\".
+5b) Run this as you ran the installer (step 3a and 3b)
+
+6 ) Now, go to your installation directory. (Standard directory would be \\\"C:\\\\Program Files\\\\LucasArts\\\\SWKotOR\\\" (Or \\\"\\\\SWKotOR2\\\\\\\"), I think) Right click it, press \\\"Properties\\\" and uncheck the \\\"Read-only\\\" box. (I\\\'m actually unsure as if this matters, but it can\\\'t hurt to do it, now can it?)
+
+7a) Look for a file called \\\"Mss32.dll\\\" in your installation directory (the root directory, possibly \\\"\\\\SWKotOR\\\\\\\"). Back this one up (either save it somewhere safe, or just rename it)
+	*Note: A back-up is present in the \\\"\\\\Extras\\\\BACKUPS\\\\\\\" folder you downloaded, just in case.
+7b) Now look for a file named the same, in the \\\"Extras\\\" folder. 
+7c) Move this to your installation directory. When, and if, asked to overwrite, choose to do so.
+
+8a) Go to your installation directory. Back-up or rename \\\"swkotor.exe\\\" (or \\\"swkotor2.exe\\\").
+	*Note: A back-up is present in the \\\"\\\\Extras\\\\BACKUPS\\\\\\\" folder you downloaded, just in case.
+	
+8b) If you\\\'re using the original discs, use the \\\"swkotor.exe\\\" (or \\\"swkotor2.exe\\\") file in the \\\"Extras\\\" folder.
+	If you\\\'re using the images provided with this download, which you probably are, then use the executable from the \\\"No-CD Crack\\\" folder.
+8c) Again, move this to the installation directory. When, and if, asked to overwrite, choose to do so again.
+
+9 ) Right click the new swkotor.exe (or swkotor2.exe) and choose \\\"Properties\\\". Again, repeat steps 3a and 3b on the compatibility tab.
+
+10) Last, right click \\\"swkotor.exe\\\" (or \\\"swkotor2.exe\\\") once more. Choose \\\"Send to > Desktop (Create Shortcut)\\\".
+	*Note: Important is that you ALWAYS start the game through the swkotor.exe (or swkotor2.exe, you know it by now, right?). The launcher.exe is what it usually starts it with, but it\\\'s not good after all your changes and such. Don\\\'t use it, just don\\\'t.
+	
+That\\\'s it. You just succesfully installed your game. Please note that if you used the No-CD Crack, I am unsure of crashes that may occur while you play. The other one may or may not be more stable. I did not test anything, I just wrote this readme because the original posts were a mess.
+
+ - - - - - - - -
+
+Special thanks to:
+	Astrotoy7, member from the Lucas Forums - Original writer of the vista/7 fix walkthrough.
+	Q, member from the Lucas Forums - The one that worked out the details on the above post. Added all the patches.
+	A_Dead_Jedi - The author of the modified Mss32.dll file (Or at least assumed to be the author, at least he wrote the readme that came with it. You can find this in the Extras as well)
+	Heavenspawn - The author of the No-CD Crack for Star Wars Knights of the Old Republic
+	An Unkown person to me - The author of the No-CD Crack for Star Wars Knights of the Old Republic II: The Sith Lords
+	Anyone else I forgot to mention, thanks for helping me and everyone out by either hacking, cracking, creating, breaking, stealing, giving, making, writing, posting, replying, uploading and/or downloading. I love you.
+	
+Links: 	http://www.LucasForums.com/ 	http://www.LucasForums.com/showthread.php?t=194296 - The thread I used to create this guide. I think Q is still answering questions as of May 2011, but I\\\'m unsure about it. 	http://www.FreeInfoSociety.com/ 	http://www.FreeInfoSociety.com/site.php?postnum=987 - The place where I found the No-CD Crack.
+	
+ - - - - - - - -
+	
+	THESE DOCUMENTS AND FILES ARE NOT SUPPORTED BY BIOWARE, LUCASARTS, OBSIDIAN ENTERTAINMENT OR ANY LICENSERS/SPONSORS
+	OF THE MENTIONED COMPANIES. USE OF THE FILES AND DOCUMENTS IS AT YOUR OWN RISK. ABOVE MENTIONED COMPANIES, NOR AUTHORS OF THE
+	DOCUMENTS AND FILES ARE NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR COMPUTER OR HARDWARE.

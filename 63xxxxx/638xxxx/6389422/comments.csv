@@ -1,0 +1,48 @@
+User Type,Username,Date,Text
+,jj423,2011-05-15T18:22Z,"thats wierd... i havent gotten a license check at all? i dont know, maybe reinstall it in airplane mode, then do a first run without the internet on and you should be able to turn off airplane mode and be fine. dont forget to delete the files it added to your sd as they contain the file that triggered the check. anyone else get a license check pop up?"
+,executionist,2011-05-16T17:21Z,Works great on the galaxy s
+,Tirino,2011-05-22T21:50Z,"Hi JJ423, i installed this on my lg optimus 2x in airplane mode and i did the first run in airplane mode also! when i launched it it worked fine, then after a while the licence check came up and i couldnt use it anymore. then i re did everything and removed the SPB Shell 3d folder on my sd card. the folder was empty. the licence check still came up. any suggestions? Thanks for the up btw, sry for being a retard :P"
+,arathanstorrents,2011-05-24T14:09Z,"@Tirino
+i had the same issue, but was quietly shut up about it. the uploader looks like hes talking to no one but was actaully talking to me at the time.
+
+anyways. yes you can get around it, but you need to have a rooted phone to make a superuser command to disable the license check"
+,jj423,2011-05-24T16:06Z,"@arathanstorrents: im talkin to you bitch, if you dont like my upload, how bout you fuckin go find it somewhere else? stop trolling my shit running your dick sucker... everyone, im not sure why the check comes up..it doesnt for me, root your phone and go remove the check..that the best i can do. now arathans-leacher, shut your fuckin mouth and quit talkin like you know something.."
+,Sheboink,2011-05-26T05:31Z,"JJ, perhaps you shouldn't come back here until you've actually sprouted some pubes? If you have difficulty understanding that, ask your mother; I'm sure she's the only person willing to listen to you anyway.
+
+For those actually wanting a copy of SPB that works, get it from http://thepiratebay.org/torrent/6297252/SPB_Shell_3D
+
+Either follow the instructions given by the uploader in the comments, or install DroidWall (free from the Market) and disable all data access for SPB3D.
+
+Yes, you will need to have rooted your 'phone."
+,jj423,2011-05-26T05:54Z,"your really gonna talk shit with the name sheboink??  hahaha what a fuckin faggot. im not even gonna respond to your comment...your name is enough shame for you. oh, and ask your mom about my pubes... since she ate my dick up last night."
+,arathanstorrents,2011-05-26T20:45Z,"@jj423
+understanding you have an apparent illiteracy issue, the definition of troll is exactly what youâre doing. 
+
+And did you really have to let everyone know you have a fetish for getting headjobs from old ladies?
+"
+,jj423,2011-05-27T05:20Z,im trolling my own torrent?? are you fuckin stupid? of course i watch it so i can help out the people that need it. soooo go fuck yourself bitch
+,fGlock06,2011-06-05T06:16Z,"quoted from jayalaba at 2011-04-12 22:28 CET from upload http://thepiratebay.org/torrent/6297252/SPB_Shell_3D :
+
+Here is crack guys, 
+1) Install apk, but don't run it yet. (Please uninstall first and delete the old file if you have.) 
+2) Open terminal (get from market if you don't have it, I use Terminal Emulator) 
+3) type the following replacing [enter] with the enter key: 
+su[enter] 
+pm disable com.spb.shell3d/com.softspb.shell.service.LicenseService (then just hit enter)
+4) if it asks for license later on you can renable the shell by opening terminal and typing: 
+su[enter] 
+pm enable com.spb.shell3d/com.softspb.shell.Home 
+let me know if you have any issues Please.."
+,jj423,2011-06-05T22:46Z,"@fglock06, thank you! finally, a useful post. who ever gets the error please try what he has posted. i dont know if it will work as i didnt get the error myself....but its worth a shot!"
+,divyabhatia,2011-06-09T13:53Z,will this work on a tablet pc :)?
+,jj423,2011-06-09T22:39Z,"@divyabhatia....im not sure, google around abit and maybe you can get some answers about it? it should work though i believe..."
+,pannic,2011-10-22T00:32Z,Works for me thx :)
+,pannic,2011-10-22T00:54Z,"sorry said it to fast,
+the command su comes back as permission denied...
+what do i do ? "
+,pannic,2011-10-22T00:56Z,"sorry said it to fast 
+the command su doesnt work for me 
+It sais permission denied 
+what do I do ?"
+,Thyzor,2011-12-28T22:55Z,jj423: Your sollution works great =) Thanx
+,kamiboy1,2012-03-03T17:36Z,thanks man it works

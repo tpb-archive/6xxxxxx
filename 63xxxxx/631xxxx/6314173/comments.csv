@@ -1,0 +1,46 @@
+User Type,Username,Date,Text
+,leraar,2011-04-18T10:48Z,"Seems like Securom is throwing a fit, I can't open it without either getting a ""please insert orginal disc"" or ""emulation software detected!"" (deamontools / magic disk) error. :( "
+,leraar,2011-04-18T15:51Z,"After some tests I got the following results:
+- Magic Disk -> ""Conflict with emulation software""
+- DaemonTools Lite -> ""Please insert orginal disc""
+- DeamonTools Pro -> Can't open image file.
+- Alcohol 120% -> """"Conflict with emulation software""
+
+-1x it seemed to loaded (mounting the CD with DT Lite)... =/ "
+,markuitarnhem,2011-04-18T21:04Z,"sorry guys, seems I have missed something out. Unless you have a way to work around secuROM 08.03.0009 this is wortless.
+
+I will stop seeding then and wait till this version is supported by alcohol or dte."
+,leraar,2011-04-19T04:01Z,"SOLUTION:
+Explore CD, go down into the data\site\www\root drectory and open index.html
+-------------------------------
+
+After testing this for 3 hours with various programs and software to hide my mounting programs I found a workaround. And an easy one!
+
+SOLUTION:
+Nothing worked to get the .exe working but then I went down and tried to open files manually. I went to ""explore"" the CD and went down into site\www\root folder. Open the index.html file and it should work. :) 
+
+Sorry for not finding it earlier, but I guess I'm not the only one who wold have trouble getting this to work. But the solution seems easy. 
+
+Thanks for sharing, I'm seeding this too. My gf may find it very useful. I got the orginal, old, DVD + books so buying the ""intergration"" full package *again* for just this DVD seemed rather silly...  "
+,leraar,2011-04-19T08:31Z,"For those interested in learning Dutch (vocabulary), I also recommend the ""Talk Now!"" language software. 
+
+It's similar to this program: you watch a lesson that teaches you certain words or phrases, after which you can do various tests (pronounciation, reading etc.). And with the raised mimimum language skills  (A1 or higher) to pass the test at a Dutch embassy when applying for a visa, any fun material that extends your reading, pronounciation and listening skills and knowledge of Dutch vocabulary may certainly help. :)
+
+And finally, when you're ready to go to the embassy for the tests, the ""Toets Gesproken Nederlands - 18 oefentoetsen"" is a good practise exam. I wish you (or your parners) good luck wih learning Dutch. It's a rather silly language at times, the grammar certainly is... xD"
+,neveraga,2011-07-30T13:20Z,"Hi guys... The trick with opening it through index.html worked... but i think worked wrong cause its not playing audio files for me :(( 
+
+I really really need this to work since i want to start learning dutch some monthes before my exam. 
+
+Can you help somehow? :("
+,tug667,2011-09-17T18:36Z,"I took a quick look at this. Starting the ..\data\site\www\root\index.html shows you a ""less working"" program, but you can access everything.
+
+Configure the location ..\data\site\www\root\ to be trusted in your internet browser and it will start totally different and ask you for a (probably TIN-code)
+
+So unless somebody can find a working code and just in case configure your host file to redirect the 2 official sites
+
+I guess you would be better of buying the latest test it costs 110,- euro and extra exams 75,- (they warn it could contain 2 identical exams as the software package)
+
+If you buy both at once, I guess people won't send the same codes.
+
+good luck"
+,rnw3000,2011-10-24T15:25Z,This is just an image of the protected software. Save yourself the bandwidth.

@@ -1,0 +1,105 @@
+Paragon Hard Disk Manager 2011 Server v10.0.17.13146 Retail + RCD + Paragon Virtualization Addon (en)
+
+Storage lifecycle maintenance for physical Windows Server!
+Hard Disk Manager Server bundles corporate editions of our bestselling Drive Backup and Partition Manager and is aimed at easy and efficient storage management within stand-alone physical Windows servers all through their life cycle:
+* Support for SSD, AFD, 2TB+ and non-512B sector size disks
+* Automatic partition alignment boosts storage performance
+* Disaster recovery and drive re-partitioning facilities
+* Unique file system optimization tools
+* Reliable storage disposal techniques
+* Comprehensive WinPE 3.0 recovery environment...
+
+Paragon Virtualization Add-on is an optional extra-paid package for Hard Disk Manager 11 Server that extends functionality of the product by providing the option for seamless migration and data management between physical and virtual Windows servers and workstations. The package adds the following new functions to the product:
+
+
+- P2V Copy to migrate a Windows physical system to a virtual environment by converting all installed software and data into a ready-to-go virtual machine. By providing support for synchronous migration from several hard disks, we ensure data consistency during online migration of a system, which seats on several partitions or hard disks.
+- P2V Restore to restore a Windows physical system from a backup directly to a ready-to-go virtual machine of one of the supported virtualization software vendors.
+- P2V Adjust OS to restore functionality of a virtual environment after unsuccessful virtualization with 3-rd party tools; to prepare virtual machines out of supported virtual disks or Windows .vhd backup images.
+- Connect VD to connect a virtual disk as if itâ€™s an ordinary physical disk, thus opening up all functionality available for physical disks to virtual.
+- Create VD to create an empty virtual disk or with specific data of one of the supported virtualization software vendors.
+- VD in Volume Explorer to browse contents or retrieve data from connected virtual disks.
+- WinPE 3.0 image that includes all functions of HDM 11 Server + Virtualization Add-on to perform migration or data management operations without the software installation.
+
+Why Hard Disk Manager Server?
+
+We offer effective data and storage management
+
+- Automatic partition alignment allows to get the most of physical storages (not all operations are supported*)
+- Any backup destination, including local mounted/un-mounted partitions, external storages, CD/DVD/Blu-ray discs, network shares, SFTP/FTP servers as well as the secured hidden partition (Backup Capsule)
+- Differential and incremental backups, and exclusive file complements allows different data time-stamps with no duplication, and minimizes backup storage requirements
+- Task scheduling and scripting to chain multiple operations into one job and automate execution
+- Exclusive defragmentation for NTFS and FAT (27 strategies, MFT defragmentation and shrinking, etc.)
+- An advanced system of filters automates the process of building up backup contents by excluding irrelevant data
+- Easy management of several operating systems on one computer
+
+We contribute to business continuity
+- Live imaging and migration for Windows systems with two snapshot technologies; Microsoft VSS and Paragon Hot Backupâ„¢ to guarantee fast and reliable live protection
+- Complete infrastructure for establishing a self-acting data protection system that is fully compliant with the set-and-forget backup policy
+- No hardware dependency with the next generation of Paragon Adaptive Restore; our technology guarantees any Windows since XP will boot on different computer hardware (P2P) by automatically injecting the required drivers and other actions crucial for this type of migration
+- Restore at a granular level minimizes downtime if there's no need to restore an entire image; you choose only the files you want
+- Comprehensive recovery environments based on DOS, Linux, and WinPE 3.0 are available on CD/DVD/Blu-ray, thumb drives, or Backup Capsules to quickly get systems back on track when they fail to boot. They also retrieve valuable information from damaged hard disks and accomplish bare-metal system deployment
+- Boot problems correction without restore (Windows system registry modification in the off-line mode, MBR, BCD, and the Boot.ini file correction, etc.)
+
+- Encryption and password protection for backups guarantees security for confidential data
+- Four wipe algorithms (custom, US DoD 5220.22-M, Russian GOST R 50739-95, Paragonâ€™s algorithm) to destroy all on-disk information or only remnants of deleted files / directories without affecting the used data
+
+- Support for any Windows since XP (including Windows 7 and Windows Server 2008 R2)
+- Support for all latest hardware, including all SCSI, IDE and SATA RAID controllers, SSD, AFD, 2TB+ and non-512B sector size disks, Blu-ray drives, USB 1.x/2.0/3.0 and IEEE 1394 (FireWire) devices, PC card storages, and many more...
+- Support for GPT (GUID Partition Table) disks
+- Support for Microsoft dynamic disks (simple, spanned, striped, mirrored, RAID-5)
+- Support for Apple Boot Camp configurations
+
+- Virtualization Add-on for seamless migration and effective management of virtual Windows environments (optional) 
+- Technician License for cost-effective maintenance of small, mid-sized or large corporate environments (optional) 
+- Get free updates with no limitations
+- Get free upgrades within 60 days after purchasing and a good discount later
+- Knowledge Base and Community Forum for self support
+- Free email support for 60 days after purchasing
+- Take advantage of our paid assistance services
+
+Key & New Features/Benefits:
+
+New hardware support SSD, AFD, 2TB+ and non-512B sector size disks as well as USB 3.0 devices
+Automatic partition alignment Allows to get the most of physical and virtual data storages (not all operations are supported*)
+Live imaging and migration Protect or migrate Windows systems online with Microsoft Volume Shadow Copy Service (MS VSS) or Paragon Hot Processing
+All existing backup techniques Sector and file level backups with differential or incremental updates as well as an exclusive file complement
+Any backup destination Local mounted/un-mounted partitions, external storages, CD/DVD/Blu-ray discs, network shares, SFTP/FTP servers as well as the secured hidden partition (Backup Capsule)
+Comprehensive recovery environments Three types to choose from, based on Linux, DOS, and WinPE 3.0, available on CD/DVD/Blu-ray, thumb drives, and Backup Capsule
+P2P Adjust OS Make OS start up on dissimilar hardware; make OS start up after unsuccessful migration with 3rd party tools
+Boot Manager Easily manage several operating systems on one computer
+Merge Partitions Consolidate the disk space, which originally belongs to two adjacent partitions (NTFS, FAT16/FAT32), into a single, larger partition
+Redistribute Free Space Increase free space on one partition by up-taking the on-disk unallocated space and the unused space of other partitions
+Cyclic Backup Establish a self-acting data protection system that is fully compliant with the Set-and-Forget Backup Policy
+Script Generator Chain multiple operations into one job and make a script to execute it later on your computer computers in the unattended mode.
+Smart Backup Back up exactly what you need, with the best backup technique automatically chosen according to the type of data you wish to protect
+Archive Database Easily manage multiple backup images (get properties, add, delete, mount, etc.)
+Advanced system of filters Automate the process of building up contents of future backup images by excluding irrelevant data such as movies, music, etc.
+Synthetic Backup Change any property (merge a given differential image with its full image, split/un-split, compress/de-compress, etc.) of an existing backup without carrying out a physical backup operation
+Selective Restore Easily extract files and folders from a backup image through the Restore Wizard without the need to restore an entire image
+NTFS and FAT defragmentation 27 defragmentation strategies, MFT defragmentation and shrinking, low free space defragmentation (less than 1% of the free space required)
+Data Wiping Four wipe algorithms (custom, US DoD 5220.22-M, Russian GOST R 50739-95, Paragonâ€™s algorithm) to destroy all on-disk information or only remnants of deleted files / directories without affecting the used data
+Boot Corrector Fix most system boot problems that can be a result of a human factor, program error, or a boot virus activity under Linux or WinPE 3.0
+Encryption and password protection for backups Guarantee security for your confidential data
+GPT Loader Use all disk space of modern high capacity drives (2.2TB+) under Windows XP for storing data
+Disaster recovery for Apple Boot Camp Protect dual-boot Macs from the Windows side or in the Linux or WinPE 3.0 recovery environments
+
+What's new in 2011 version:
+- Migrate OS to SSD to move any Windows OS since XP from a regular hard disk to a fast SSD (Solid State Drive) even of a smaller capacity
+- The updated P2P Adjust OS Wizard to successfully start up a Win2K+ physical system on a different hardware platform (P2P) by allowing injection of all required drivers and the other actions crucial for this type of migration
+- Automatic partition alignment during partitioning/copy operations to optimize performance of the hard disk
+- Check FS Integrity and Data Loss Policies
+- Conversion of basic MBR to basic GPT disks
+- WinPE 3.0 based bootable environment (support of a wider range of hardware configurations with the option to add drivers for specific hardware on-the-fly)
+- The updated Boot Corrector for WinPE that now equals the functionality of the Linux/DOS counterpart
+- Support for exFAT (Extended File Allocation Table) file system (backup, restore) developed by Microsoft Corporation particularly for flash storages
+- Better support for HFS+ that now includes not only resize capabilities, but create, format, and read only access through our program as well
+- AFD (Advanced Format Drive) ready
+- Support of 2TB+ and non-512B sector size drives
+- USB 3.0 ready
+
+Site: http://www.paragon-software.com/home/hdm-personal/features.html
+?S: Windows XP and Windows Vista/7
+Language: English
+
+
+

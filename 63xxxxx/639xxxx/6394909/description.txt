@@ -1,0 +1,44 @@
+              WinRAR - What's new in the latest version
+
+
+  Version 4.01 beta 1
+
+  1. Added support for file sizes stored in binary format in TAR archives.
+     Some TAR archives use the binary size format instead of octal
+     for files larger than 8 GB.
+  
+  2. Bugs fixed:
+
+     a) "Repair" command failed to properly reconstruct structure
+        of RAR archives, which contained at least one file with packed
+        size exceeding 4 GB.
+
+        This bug did not affect the recovery record based repair.
+        It happened only if recovery record was not found and WinRAR
+        performed reconstruction of archive structure;
+
+     b) even if "Do not extract paths" option in "Advanced" part of
+        extraction dialog was set as the default, WinRAR still unpacked
+        file paths if called from Explorer context menu;
+
+     c) after entering a wrong password for encrypted ZIP archive,
+        sometimes WinRAR ignored subsequent attempts to enter a valid
+        password;
+
+     d) "Wizard" command did not allow to create self-extracting 
+        and multivolume archives, when compressing a single folder
+        or a file without extension;
+
+     e) "Import settings from file" command did not restore multiline
+        comments in WinRAR compression profiles;
+
+     f) when converting RAR volumes having name1.name2.part#.rar name format,
+        "Convert archives" command erroneously removed ".name2" name part.
+        So resulting archive had name1.rar file name instead of expected
+        name1.name2.rar;
+
+     g) RAR could crash when creating a new archive with -agNNN switch
+        if archive number in generated name was 110 or larger.
+
+Installation Instructions:
+INSTALL

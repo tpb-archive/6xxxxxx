@@ -1,0 +1,39 @@
+Description:
+
+multiMAN packs many facets: It's a Backup Manager, a File Manager, an FTP server, and an
+AVCHD and BDMV (Blu-ray) video player.
+
+Included are 3 versions:
+
+1. multiMAN 1.16.14 for 3.40 (Dongle Jailbreak) - 3.55 (Kmeaw CFW)
+2. multiMAN 1.16.14 for 3.55 (tagged "WT" - geohot/Wutangrza/Waninkoko)
+3. multiMAN 1.12.05 for 1.90 - 3.30
+
+multiMAN 1.16.14 CHANGELOG
+
+Added: New display mode (8x4) with support for 32 titles on screen
+Added: Navigation with LEFT and RIGHT analogue sticks in game modes
+Added: Installed homebrew apps with RELOAD.SELF can be launched via multiMAN
+Added: PIC0.PNG+PIC1.PNG overlay when creating cached images (clear cache to get it)
+Added: Abort "Setting access permission" by pressing [O] or [^]
+Added: Support for condorstrike's helpMME help application from within file manager
+(press [X] over the HELP button)
+
+Added: Skip initial scan when multiMAN is spawned by its RELOAD.SELF
+Added: SBOX.PNG image for themes (supports shadows, covers, docks) for 8x4 display
+mode
+
+Added: Multiple files OR folders copy/delete/move in file manager (select with [SELECT]
+button)
+
+Added: Up/Down can move and scroll through pages in File Manager mode
+Added: new option in options.ini: [scan_for_apps] to scan for RELOAD.SELF compatible
+apps
+
+Added: No initial scanning for games (loading much faster)
+Added: Filemanager left/right panes are restored on multiMAN start
+Added: AUR5.JPG image used for 8x4 display mode
+Fixed: Bug when output resolution is 576p/720p
+Changed: Spoofed firmware detected by CRC check of dev_flash files
+Changed: Better copy/backup progress indication (even for games with very large number of
+files)
