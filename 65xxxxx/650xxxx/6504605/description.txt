@@ -1,0 +1,27 @@
+BBC 3D Test Card 1080p HDTV x264 AC3 MK3D
+
+The test card lasts for 2 minutes followed by 3 minutes 50 seconds of Later with Jools Holland.
+
+Playback ok with ffdshow players such as MPC-HC on a dual core.
+
+Playback not so good with VLC 1.1.7 - may require quad core due to AVC level 5.1.
+
+Technical Spec
+Container: MK3D (same as MKV but with Video Stereo Mode set in header)
+Video Codec: x264 CABAC High@Level 5.1
+Video Bitrate: 10 Mbps
+Video Aspect Ratio: 32:9
+Video Resolution: 3840x1080
+Video Stereo Mode: 1 (side by side left eye first)
+Audio Codec: AC3
+Audio Bitrate: 384 Kbps CBR 48KHz
+Audio Channels: 6
+Run-Time: 5m 50s
+Framerate: 25FPS
+Number of Parts: 1
+Part Size: 436 MB
+Source: HDTV
+
+VLC 1.1.7 plays the test card ok but not the Later with Jools Holland - decoder runs out of steam on a dual core.
+
+MPC-HC 1.5.1.2903 with ffdshow rev3851 and Haali 1.11.96.14 is ok but CPU Usage is 80% on a dual core.

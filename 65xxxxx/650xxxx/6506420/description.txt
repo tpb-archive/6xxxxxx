@@ -1,0 +1,36 @@
+Beta of 5.1 - 29th June 2011
+
+
+    - Tweaked costs for when you can create and destroy centers of trade upwards a fair bit.
+    - Units will now have their movements properly reset always, when forced to retreat.
+    - Foreign armies will now automatically disband the shogunate if they control all the daimyo's capitals, including Japan proper.
+    - AI for Buildings can now be scripted in detail with ai_will_do = {} in each building..
+    - Non-Hordes can now actually get tributes from hordes.
+    - Added in the specific icons for the new mapmodes.
+    - Ikko-Ikki's now work correctly.
+    - Golden Horde and Crimea are now easterngfx again to ensure spritepack compability.
+    - Added missing = to 524/Agra line in MughalNation.txt decision file
+    - Corrected patron_of_arts to patron_of_art in DiscoveryOfTheFarEast.txt
+    - Removed excess bracket from "A Formal Request" event in RandomProvinceEvents.txt
+    - Corrected misplaced bracket in RestoreByzantineEmpire.txt decision
+    - Change effects of "Spain must be Christian" mission to correctly remove GRA cores when completed.
+    - Removed all effects of JAP invasion from 6 Korean provinces, as in DW JAP may not have formed by this time.
+    - Corrected grammar and spelling in numerous descriptions in /localisation/napoleontext.csv
+    - Corrected "Setto Inland Sea" to "Seto Inland Sea" in /localisation/text.csv
+    - Added government = monarchy to Potential section of "move court to Versailles" and "l'Etat, c'est moi" decisions in France.txt
+    - Moved MIL = 7 from Potential to Allow section of Manchu Green Standard Army decision to make requirements clearer to player
+    - Corrected montly to monthly in National Bank event text in text.csv
+    - 142-corfu.txt - added add_core=VEN to 1399.1.1 as VEN's core was displaying as the year 51 AD, for some reason
+    - in_nomine_text.csv - corrected text "warexhaustion" to "War Exhaustion"
+    - /map/continent.txt - Solikamsk 1077 moved from Asia to Europe (as all provinces around it are in Europe)
+    - /decisions/IndianTradeCompany.txt and Dutch.txt - in indian_trade_company and found_voc , changed add_building = shipyard to add_building = grand_shipyard, as shipyards are no longer 500-ducat buildings
+    - decisions\NationalFocusProvince.txt - enact_settlement_policy ai_will_do modifiers put in owner scope
+    - decisions\CulturalDecisions.txt - hold_organ_concert effects put in owner scope
+    - decisions\IrishNation.txt - primary_culture is not a province trigger, changed to culture
+    - common\rebel_types.txt - easterm corrected to eastern on lines 2259 and 2338
+    - common\countries\Jerusalem.txt - spurious extra quote marks removed from two monarchs
+    - events\ideaevents.txt - event 6112 option B manpower corrected to change_manpower
+    - \history\provinces - added remove_core = GOL to 6 Sibir provinces at 1450.1.1 when SIB comes into being
+    - Re-ordered the NI list for 9 horde countries so that national_conscripts moves from 1st to 4th - hordes have 100% manpower bonus already
+    - Renamed the Florida lake currently called Everglades to Lake Okeechobee in text.csv
+    - localisation\httt.csv - corrected CB_ALLOWED_REVOKE;Claim Revokation to CB_ALLOWED_REVOKE;Claim Revocation

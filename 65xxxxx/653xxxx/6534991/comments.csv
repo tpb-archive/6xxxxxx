@@ -1,0 +1,11 @@
+User Type,Username,Date,Text
+,rs57,2011-07-13T13:15Z,"problem playing file, crashs media player, playback broken up on vlc player, tried mkvmerge, picture then ok but no sound help please."
+,lightbrand,2011-07-13T22:15Z,"Looks like these new 1013.45 MiB rips are very bad, better download web-dl from some share server, much better."
+,boring123,2011-07-14T10:03Z,"Skimmed through the file, quality seems fine."
+,manwich49,2011-07-14T19:49Z,"I found the real issue discussed here: http://forum1.netgear.com/showpost.php?s=b743a30f20d9643b19f24323e58b8286&p=357731&postcount=28
+
+I did his fix and works. Apparently IMMERSE is using a bugged muxer that specifies a sampling frequency of 0 in the audio track.
+
+Ignore my rants in other threads about ""mkv header compression""  :P"
+,velcroman0001,2011-08-20T11:00Z,Why have you wrapped up this files in MKV it is a pain pain pain in the fundument.  PLEASE stick to .AVI  
+,jctcom,2011-12-15T00:55Z,Please ignore Velcroman and continue with the MKV's.  they are better for surround sound and higher quality picture in the same size file.  Thank you.

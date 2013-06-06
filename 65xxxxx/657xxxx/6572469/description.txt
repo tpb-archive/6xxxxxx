@@ -1,0 +1,29 @@
+Protection of Privacy on the Internet
+
+JAP (called JonDo in the scope of the commercial JonDonym anonymous proxy servers - AN.ON remains free of charge) makes it possible to surf the internet anonymously and unobservably.
+
+Without Anonymization, every computer in the internet communicates using a traceable Address. That means:
+
+* the website visited,
+* the internet service provider (ISP),
+* and any eavesdropper on the internet connection
+
+can determine which websites the user of a specific computer visits. Even the information which the user calls up can be intercepted and seen if encryption is not used. JAP uses a single static address which is shared by many JAP users. That way neither the visited website, nor an eavesdropper can determine which user visited which website.
+How it works
+
+Instead of connecting directly to a webserver, users take a detour, connecting with encryption through several intermediaries, so-called Mixes. JAP uses a predetermined sequence for the mixes. Such a sequence of linked mixes is called a Mix Cascade. Users can choose between different mix cascades.
+
+Since many users use these intermediaries at the same time, the internet connection of any one single user is hidden among the connections of all the other users. No one, not anyone from outside, not any of the other users, not even the provider of the intermediary service can determine which connection belongs to which user. A relationship between a connection and its user could only be determined if all intermediaries worked together to sabotage the anonymization. more...
+
+The intermediaries (mix providers) are generally provided by independent institutions which officially declare, that they do not keep connection log files or exchange such data with other mix providers. JAP shows the identity and number of organisations in each Mix cascade in detail, and verifies this information by cryptographic means. The users are thus able to selectively choose trustable mix cascades.
+Outages and maintenance times
+
+We cannot guarantee our services (mixes, infoservice, website, download, etc.) and would like to apologize for any inconvenience caused due to system down time.
+
+* Because JAP is a research project, it is continuously being further developed. Nevertheless, we attempt to offer a stable, downloadable version at all times, and to keep the service available.
+* At the moment, the web servers and infoservices are run by universities and other public infrastructures and are free of charge for the user (even though a lot of extra data traffic is produced). Unfortunately, power supplies or data networks sometimes fail or are switched off for maintenance. We will try to keep you informed in the 'News' column on this website about planned maintenance but in case of an unforeseen failure in the university network, we are powerless.
+* Mixes and Mix Cascades, respectively, are operated by external organisations, which are independent from the project itself. We may inform the operators about outages, but we are unable to correct Mix failures ourselves, and typically cannot find the cause, either. 
+
+JAP v00.15.018
+ 
+http://anon.inf.tu-dresden.de/index_en.html

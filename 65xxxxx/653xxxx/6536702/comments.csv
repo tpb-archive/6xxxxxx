@@ -1,0 +1,22 @@
+User Type,Username,Date,Text
+,sjc9999,2011-07-15T20:56Z,"Is this dead already? Trying to get 4 of these, but although TPB says there is a seed I can't see any in rtorrent/rytorrent."
+,sjc9999,2011-07-15T21:41Z,"Update: Can't get this on my seedbox, but can downloaded on PC using uTorrent (it sees seeds via DHT but gives a 404 for HTTP and 'invalid URL' for all three udp trackers)."
+,RedLady1,2011-07-16T05:22Z,"@sjc
+what does that mean?  can you tell me if it's something I may have done wrong?"
+,RedLady1,2011-07-16T05:25Z,"update:  The torrent was created with uTorrent and uTorrent doesn't support udp trackers... I didn't know that, sorry."
+,sjc9999,2011-07-16T13:39Z,"My uTorrent is older (1.8.2) because some sites I use prefer that. It downloads fine, but the torrents all stay red rather than turning blue. But I found a thread here http://forum.suprbay.org/showthread.php?tid=93861 so it may not be specific to this torrent."
+,sjc9999,2011-07-16T14:25Z,"Update: Finally got it going on my seedbox. Just in case this helps others:
+
+1) Uploaded torrent to http://torrenteditor.com
+
+IT shows errors for all current trackers
+
+2) Added: http://tracker.ilibr.org:6969/announce (found inb another torrent)
+
+it shows 1 seed. Uploaded new torrent file to seedbox.
+
+3) Turned on peer exchange 
+
+now seeing 15 peers and 3 seeds.
+
+THanks for the upload and help."

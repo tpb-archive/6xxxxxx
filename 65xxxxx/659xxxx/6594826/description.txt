@@ -1,0 +1,21 @@
+Welcome to the Network Security Toolkit (NST). This bootable ISO live CD/DVD (NST Live) is based on Fedora. The toolkit was designed to provide easy access to best-of-breed Open Source Network Security Applications and should run on most x86/x86_64 platforms.
+The main intent of developing this toolkit was to provide the network security administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 100 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system administration, navigation, automation, geolocation and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.
+
+      NST Version 2.15.0-2515 Released
+
+We are pleased to announce the latest NST release: 'v2.15.0'. This release is based on Fedora 15 using Linux Kernel: '2.6.40-4.fc15 - Rebased from latest Linux Kernel: 3.0' . Here are some of the highlights for this release:
+ Developed a new interactive dynamic SVG/AJAX enabled Network Interface Bandwidth Monitor application that is integrated into the NST WUI for monitoring pseudo real-time network bandwidth rates.
+ Added NST RPM packages and NST WUI integration for the Open Vulnerability Assessment Scanner (OpenVAS) and Greenbone Security tools.
+ Added an NST RPM package for IPv6 network security investigation: The THC IPv6 ATTACK TOOLKIT.
+ Now supporting the GNOME 3.0 desktop for NST integrated network security applications.
+ Refactored all NST integrated services for transistion to the new systemd System and Service Manager for service control.
+ By default, now supporting the new Fedora Network Device Naming convention (e.g., eth0 => p2p1 or eth0 => em1).
+ Many new NST WUI enhancements and refinements.
+
+  As always, the networking and security applications included have been updated to their latest version.
+2011-08-10 02:12:25 UTC by rwhalb
+ 
+http://www.networksecuritytoolkit.org/nst/index.html
+
+sha1sum : 54ff6ec6234715becf6820bbf6bdd32a5c791857  nst-2.15.0-2515.i686.iso      
+md5sum : fa65530a688ae1bf645b1b02171b5dc4  nst-2.15.0-2515.i686.iso

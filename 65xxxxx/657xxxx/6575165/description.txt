@@ -1,0 +1,13 @@
+The new releases add the following features:
+
+    eXtended Server Side Includes (XSSI) support through the addition of new directives (#if, #elif, #else, #endif, and #set) to enable flow control and advanced variables setting and substitution constructs;
+    On-the-fly HTTP compression to save bandwidth by automatically sending GZipped output to browsers which support HTTP compression.
+    Advanced URL Rewriting rules with support for back-references from matched conditions (%1 ... %9);
+    Full control over accepted SSL Ciphers;
+    Updated ASP.NET connector for the Windows version with support for ASP.NET 1.1, 2.0, and 3.5;
+    Improved support for multicore processors;
+    Updated documentation.
+
+The new releases also include several internal enhancements and fix the problems that have been reported with previous versions.
+
+Tutorials about the new XSSI directives and HTTP compression setup have been added to the articles collection. 

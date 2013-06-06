@@ -1,0 +1,56 @@
+User Type,Username,Date,Text
+,fjoson,2011-07-12T05:38Z,iTunes 10.5 beta 3:  http://thepiratebay.org/torrent/6533144/iTunes_10.5_beta_3_win_x64
+,alain.aoun,2011-07-14T23:07Z,Seed Please :S
+,alain.aoun,2011-07-15T16:47Z,"Somebody help me
+how to activate it?! "
+,theone10,2011-07-16T05:04Z,"This is from Geohot on Facebook
+
+For iPhone:
+
+Step 1: First you will need to boot your iOS device and strike on ""slide to setup"".
+
+Step 2: When the language selection bar pops up, quickly press the Home Button 3 times in order bring up voice over, then press the same button three times once again, which should display an Emergency Call option. Tap on it.
+
+Step 3: Call 112 for call screen to visible. Strike the 'contacts' button promptly to pass over the screen.
+
+Step 4: Press the Home Button to go head to your home screen. Your device should now be activated.
+
+For iPad and iPod Touch:
+
+Step 1: First of all, you will need to reinstate your iPad/iPod touch to iOS 5, and then Put your device in recovery mode.
+
+Step 2: Unplug the device from your computer and turn it off. Now plug it again to your PC or Mac, and allow it to turn back on.
+
+Step 3:When you have done it, The next step is to press the Power button when the setup menu window pop ups saying 'iPad' or 'iPod' in order to deal your iPad and iPod in sleep mode, then switch it on.
+
+Step 4: Now instead of iOS 5 setup screen, you should see standard iOS bubbles. Just press the home button 3 times to bring up Voice Over.
+
+Step 5: Make your device to unlock and observe the time at the top right corner,strike on it.When your device starts 'talking' then move your three fingers down from status bar to bring up Notifications center.
+
+Step 6: Tap the weather widget, followed by pressing the home button, and your system should be fully accessible."
+,fjoson,2011-07-16T10:59Z,"@theone10 that method only worked on beta 1. Beta 2 fixed this issue and it remained fixed in beta 3. This is what I did:
+1. Update to 5.0b3
+2. Download the latest redsn0w and follow the instructions to jailbreak your device.
+3. Download iFunbox (google it :P)
+4. Make sure your device is plugged in and turned on and run ifunbox.
+5. Your device will be shown in the left pane of ifunbox. Under it, click on ""raw file system"".
+6. Click into the folder named System.
+7. Click into Library.
+8. Click into CoreServices.
+9. Drag the file ""Systemversion.plist"" to your computer.
+10. Open with notepad.
+11. Delete Releasetype
+12. Delete Beta
+13. Save
+14. Drag the file you just saved (systemversion.plist) back into ifunbox. It'll ask you if you want to overwrite the original one. Click yes.
+15. Done!
+It will still go to the setup screen when you unlock it, but when you get to the activation part it won't give you a message saying that activation failed. 
+If you have trouble getting your device to restore to the firmware (like I did), use sn0wbreeze to restore it (tutorials are all over youtube) and then re-jailbreak with redsn0w. "
+,fjoson,2011-07-16T11:02Z,"@theone10 also those methods don't truly unlock it. You don't get notification center and some default apps don't work. While my way takes longer, its permanently activated with all features enabled."
+,alain.aoun,2011-07-17T00:40Z,"can i do this without jailbreaking?? 
+""1. Update to 5.0b3
+2. Download the latest redsn0w and follow the instructions to jailbreak your device.
+3. Download iFunbox (google it :P)
+......"""
+,fjoson,2011-07-17T23:47Z,"Only way without jailbreaking is to get your UDID activated with Apple. There are people that will do this with a small fee, as opposed to the $99 dollars for an apple developer account. "
+,sarangkg,2011-08-03T15:42Z,For best UDID activations for $3 contact Vinz Felix . I did several activations thru him..he is most reliable and honest guy i found...Vinz u rock..

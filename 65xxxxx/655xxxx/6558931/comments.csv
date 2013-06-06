@@ -1,0 +1,35 @@
+User Type,Username,Date,Text
+,michalisnik,2011-07-23T12:26Z,Unfortunately all scans come out Watermarked.
+,jubcomha,2011-07-25T20:25Z,Can someone confirm if that works? Thanks!
+,jubcomha,2011-07-25T22:37Z,"michalisnik is right. the keygen doesn't work. Whatever you put in to register disappears after the scan and the result is always watermarked, also useless...."
+,12uel,2011-07-30T02:08Z,it doesn't work after typing the serial and email. it still scans but they're all watermarked.
+,12uel,2011-07-30T03:08Z,"Version 9.0.08 worked perfectly for me after this version 9.0.51 failed. Try it, see if it works for you guys!!!"
+,Zinedin,2011-08-15T10:47Z,"It's true! Even thou it seems like it has accepted the serial, it still shits watermarks with the text like ""buy VueScan now www.hamrick.com"".
+
+Is Anacondaz in fact Ed Hamrick by any chance?... this is not the first VueScan version he has uploaded, and none of them, none of those I have tested have ever worked, well at least without this restriction obviously."
+,Zinedin,2011-08-15T10:52Z,"I was in fact considering buying this software. But I wanted to test it first on a long term, not just the 30 free days. But the scan results I got with it are terrible.
+
+I have very decent Canon LiDE scanner and I usually get very good results with IrfanView which by the way is for free, unlike VueScan. But with VueScan the results are terrible, a lot of pixelation going on. Don't know if it has to do with VueScan using it's own driver or not, but I don't like it."
+,Zinedin,2011-08-15T11:23Z,"I just had to restore the system to a previous point before installing the VueScan driver. Because after I used this shit I was unable to scan with my regular driver in IrfanView. It would just open up the preview window of my scanner driver, but when I click to scan it wouldn't scan. Now that I have restored the system to a previous point it works again."
+,Zinedin,2011-08-15T11:40Z,"I bring you GOOD NEWS!
+
+As it turns out, it does help to create a few registry keys.
+
+[HKEY_CLASSES_ROOT\VueScan]
+
+[HKEY_CLASSES_ROOT\VueScan\license]
+
+[HKEY_CLASSES_ROOT\VueScan\license\ActivationKey]
+@=""enter serial number here""
+
+[HKEY_CLASSES_ROOT\VueScan\license\CustomerNumber]
+@=""enter customer number here""
+
+[HKEY_CLASSES_ROOT\VueScan\license\EmailAddress]
+@=""enter any email address here""
+
+You need to enter a serial number, that's the activation key, and you need to enter the corresponding customer number. The e-mail address can be anything.
+
+You can find serial number and customer number in the keygen. So you can generate these with the keygen and then manually add them to the registry, or you can, of course, also create a REG file and then merge with the registry.
+
+After you do this, you will NO LONGER have VueScan shitting watermarks on every printout."

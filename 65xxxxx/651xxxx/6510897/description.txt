@@ -1,0 +1,98 @@
+#######                         ######        #    #       #    
+    #    ######   ##   #    #    #     #       #   # #     # #   
+    #    #       #  #  ##  ##    #     #       #  #   #   #   #  
+    #    #####  #    # # ## #    ######        # #     # #     # 
+    #    #      ###### #    #    #   #   #     # ####### ####### 
+    #    #      #    # #    #    #    #  #     # #     # #     # 
+    #    ###### #    # #    #    #     #  #####  #     # #     #
+
+
+
+
+ISE Design Suite v13.1 System Edition
+
+(c) Xilinx Inc.
+
+
+
+Type ..... : FPGA
+
+Date ..... : 07/2011
+
+OS ....... : Windows, Linux 32/64bit
+
+
+
+RELEASE  NOTES
+
+
+
+Xilinx introduced the ISE Design Suite software to enable
+
+breakthrough optimizations for power and cost with greater design
+
+productivity. For the first time, ISE design tools deliver 'intelligent'
+
+clock-gating technology that reduces dynamic power consumption by as
+
+much as 30 percent. The new suite also provides advances in
+
+timing-driven design preservation, AMBA 4 AXI4-complaint IP support for
+
+plug-and-play design, and an intuitive design flow with
+
+fourth-generation partial reconfiguration capabilities that lowers
+
+system cost for a broad range of high performance applications.
+
+
+
+With full production support for all Xilinx Virtex-6 and Spartan-6
+
+FPGA families, the ISE release continues its evolution as the
+
+industry's only domain-specific design suite with interoperable design
+
+flows and tool configurations for logic, digital signal processing
+
+(DSP), embedded processing, and system-level design. In addition, Xilinx
+
+incorporated a number of software infrastructure and methodology
+
+enhancements that improve run time, streamline system integration, and
+
+expand IP interoperability across its latest generation device families
+
+and Targeted Design Platforms.
+
+
+
+Intelligent Automation for Power Optimization
+
+
+
+ISE Design Suite introduces the FPGA industry's first intelligent
+
+clock-gating technology with fully automated analysis and fine-grain
+
+(logic slice) optimization capabilities specifically developed to reduce
+
+the number of transitions, a primary contributing factor of dynamic
+
+power dissipation in digital designs. The technology works by analyzing
+
+designs using a series of unique algorithms to detect sequential
+
+elements...
+
+
+ 
+http://www.xilinx.com/tools/designtools.htm
+
+
+
+INSTALLATION
+
+
+
+Unrar, burn/mount, install and select System Edition. Check /SPYRAL

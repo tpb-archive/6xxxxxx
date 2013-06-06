@@ -1,0 +1,27 @@
+User Type,Username,Date,Text
+,xxxchromaticxxx,2011-07-10T14:01Z,"PLEASE HELP
+
+If you want to convert this to mp4, what AUDIO settings in Handbrake do you use? Here's the default audio which comes up: http://img808.imageshack.us/img808/9039/unlednt.png
+
+Thank you so much :)"
+,xxxchromaticxxx,2011-07-10T14:02Z,* ^ what audio do you use to KEEP the default audio :)
+,PsychoLogic,2011-07-12T07:42Z,"Dunno, never used Handbrake. I would have put a radio button on the interface switching between using source audio straight and transcoding, but enough about interface design :P
+
+If you're on Windows, MeGUI has an mp4 muxer which should take the source video and audio streams straight. Might need to mkvextract the streams first though."
+,xxxchromaticxxx,2011-07-12T09:29Z,"Thanks for your response. If using something other than handbrake, how can I convert this to an mp4 file which is 3 gig in size."
+,PsychoLogic,2011-07-13T11:14Z,"You wouldn't want to make the files any larger than they already are - you will actually lost quality in doing so. If you want 3GB per file, get REWARD's rips and follow the following steps.
+
+Programs needed:
+MeGUI - http://sourceforge.net/projects/megui/
+MKVExtractGUI - http://www.videohelp.com/tools/MKVExtractGUI
+
+1. Open the source .mkv file with MKVExtractGUI.
+2. Select the desired streams and press [Extract]
+3. Open MeGUI. Navigate to Tools->Muxer->MP4 Muxer (or press [ctrl]+[5])
+4. Add the streams into the Video, Audio, Subtitle sections, set language if you want.
+5. Press [Queue]. Job should now be queued in MeGUI Queue tab. Press [Start]
+6. ...should all work and make a .mp4 file for you using the original source audio and video. No transcoding required."
+,keerochee,2011-07-13T14:03Z,would like to ask when are you planning to upload more blu-ray rips? 
+,keerochee,2011-07-13T14:13Z,"the ten commandments 1956, Kung Fu Hustle (english), and thor: tales of asgard? :-)"
+,PsychoLogic,2011-07-14T12:20Z,Soon... :) Was about to ask which ones you'd requested again... just repaired my PC after a rather catastrophic HDD crash and lost some of my download list.
+,PsychoLogic,2011-07-14T12:23Z,Actually I'll Do Kung-Fu Hustle now. It's sitting there waiting :)

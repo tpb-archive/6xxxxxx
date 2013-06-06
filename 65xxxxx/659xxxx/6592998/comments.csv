@@ -1,0 +1,24 @@
+User Type,Username,Date,Text
+,shrifty,2011-08-10T04:19Z,"First of all, thanks for the uploads, they are much appreciated!
+
+Looking at the size of this file, is this the entire country of Canada?  I'm suprised at how small this is."
+,Ipmark,2011-08-10T08:24Z,"This map cover the entire country of Canada.
+The map is small because in Canada there are few roads.
+However, this map is larger than the previous release of 15MB."
+,shrifty,2011-08-12T03:57Z,I just got back from Toronto and Kitchner and was able to update the maps while I was up there.  Works great!
+,pix611,2011-08-14T15:35Z,"thanks IPmark,  you just saved me  $20
+for this update."
+,SerSpec-V,2011-09-12T02:01Z,"Working good in Nuvi 255W & 260, Thanks!"
+,Ipmark,2011-09-13T12:47Z,"How to see this map on the PC:
+
+Download Basecamp from Garmin website, it's an update but if you haven't a previous version already installed on the PC, simply decompress the executable with Winrar in a temporary folder and launch BCMAIN.msi, then overwrite the original Basecamp.exe with the patched one (search TPB for Basecamp v3.2.2 Patched exe).
+
+Download Gmaptool (free, search the web, latest version is the v0.6.0b) and install in the PC.
+
+With Gmaptool load a map (gmapsupp.img) goto to Options > Flag Advanced Options; goto Join section, set Output File (ex.gmapsup2.img), Mapset (click on Info button to see the original one, however you can change it as you want), flag Version in header > set Ms to 0 (zero), click on Join selected.
+
+Copy the modified map on a pendrive (Garmin folder)
+
+Start Basecamp, it wil recognize the pendrive with the map, select the map.
+
+Enjoy !! "

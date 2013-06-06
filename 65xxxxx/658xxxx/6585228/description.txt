@@ -1,0 +1,52 @@
+About
+Free operating system.
+Small, new and fast micro kernel operating system written in C++.
+MonaOS is neither POSIX nor Windows clone.
+Boot from floppy disk or CD-ROM.
+Kernel size is now 98KB(2006/08/19)
+
+Requirements
+Intel architecture 32(IA32)
+
+Source code and Subversion
+You can check out latest source code.
+svn co https://monaos.svn.sourceforge.net/svnroot/monaos monaos
+
+Mona 0.3.4 RELEASE NOTE
+Overview
+This is an internal release.
+
+Major changes since 0.3.3.
+Improved w3m text browser.
+Supported Cookie.
+Supported meta refresh.
+Gmail, twitter and facebook are avilable.
+Added facebook viewer application.
+The backend is written in Mosh using Graph API.
+New shell
+Introduced a new shell written in Mosh.
+Core
+Better performance by block cache and linker cache.
+Fixed dllmain and static initializer.
+Fixed a wrong MSG_PROCESS_TERMINATION.
+Added syscall_set_logger system call.
+Improved killed message.
+Fixed a bug on statck tracer.
+Added more tests for Stream API.
+Fixed kernel stack memory leak on destroy thread.
+Fixed memory leak on process create/destroy.
+libc
+Fixed fopen for 'rt' flag.
+Fixed atol.
+Fixed vfprintf
+BayGUI is renamed to Mona GUI and improved
+Much faster drawing.
+Fixed some fatal bugs.
+Added awt/Canvas.h.
+Added MonaGUI Robot for tests.
+ 
+http://www.monaos.org/index.html 
+http://www.opensource.org/licenses/mit-license.php
+
+sha1sum : 439161a6497456697253077f82f804aa0e80945f  mona-0.3.4.tar.gz
+md5sum : 58d5b107964fb7a939355a6c19f9d1b1  mona-0.3.4.tar.gz

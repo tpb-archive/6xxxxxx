@@ -1,0 +1,12 @@
+Changelog since previous build
+v3.1.60 (Aug 07, 2011)
+
+Add dutch translation
+Drop some debug output
+Add some lame code to handle UTF-8 BOM and CRLF line endings in
+update_lang.py
+
+Add spanish translation
+Fix some bugs in update_lang.py
+
+and a lot more.........

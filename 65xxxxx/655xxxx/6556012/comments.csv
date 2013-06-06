@@ -1,0 +1,8 @@
+User Type,Username,Date,Text
+,deploert,2011-07-22T02:02Z,Windows 2008 server will say its still not activated but it will .
+,ItsPete,2011-09-11T05:48Z,Did not work on clean install of server 2008 enterprise x64.  =\
+,jeepmanjr,2011-09-13T22:54Z,Works for WHS 2011 as well.  Appreciate it deploert.
+,vivatpb5776,2011-09-23T09:32Z,"It works on Windows 7 Ultimate 64bit. However, after applying Windows Updates, the 30-day clock is back. When I opened the .exe again, I received a message that WAT is already removed. Moral of story....apply all Windows Updates BEFORE running the patch."
+,TheNethos,2011-11-02T15:04Z,"@vivatpb5776:
+
+There is a Windows Update (KB971033) that undoes this type of activator. Before running Windows update, look for this particular entry in the list, right-click it, and hit ""Hide update"". You should now be able to update fine without losing your activation."

@@ -1,0 +1,32 @@
+Changes in TotalMedia Theatre 5.1.1.113:
+NEW FEATURES
+01. Support AMD Fusion platform (Brazos + SABINE)
+02. Support Intel SandyBridge platform (eDP+HDMI1.4 3DTV)
+03. Support multiple audio tracks in MKV
+04. Support standard and VobSub subtitles in MKV
+05. Support audio bitstreaming in MKV
+06. Support automatic refresh rate switch to 24hz for 24FPS content
+07. Improve TM Remote support for iOS (also, download seperate TM Remote update)
+08. OpenCL support for SimHD on AMD graphics
+09. Support 3D playback in a window on NVidia platform
+10. Sim3D quality improvement
+11. Support 3rd party MCE launch via PlayerLoader URI
+BUG FIXES
+01. YouTube playback
+02. Fix HD audio bitstreaming on some systems
+03. Last size/position of standard UI window remembered when reopened
+04. Fix Capture for unprotected video
+05. Fix BD-Live compatability with some discs (AVATAR CE Disc 2 &3)
+06. Fix stutter/pop at branch point on seamless branching discs
+07. Fix bitstreaming audio on AMD 6310M platform
+08. Fix 1.0 PCM only playing out of left channel
+09. Fix no audio issue on MKV on Intel Clarkdale platform
+10. Fix MCE back button when using command line launch
+11. Fix MCE error when launching TMT while other MCE media playing
+ 
+Homepage - (http://www.arcsoft.com/products/totalmediatheatre)
+ 
+reup of my previous torrent about but this time with the very newest final patch update 5.0.1.113 who should work fine anyway as it is now full official :)
+Install the all : offline,please !
+enjoy
+regards

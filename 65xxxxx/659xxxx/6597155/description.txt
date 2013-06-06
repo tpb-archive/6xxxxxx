@@ -1,0 +1,24 @@
+Sveriges befolkning 1990 Ã¤r en databas innehÃ¥llande basfakta om de nÃ¤rmare 8,6 miljoner mÃ¤nniskor som var skrivna i Sverige i november 1990. Uppgifterna kommer frÃ¥n Skatteverkets mantalslÃ¤ngd fÃ¶r 1991. 
+
+Skivan Ã¤r ett utmÃ¤rkt hjÃ¤lpmedel fÃ¶r forskare, fÃ¶retag och myndigheter.
+
+*****************************************************************************
+
+Jag har gjort den till en s k Portabel Applikation, vilket gÃ¶r att den kan kÃ¶ras utan installation frÃ¥n valfritt USB-minne eller hÃ¥rddisk. 
+
+KÃ¶r filen â€œSveriges Befolkning 1990.exeâ€ fÃ¶r att starta.
+
+Inga andra filer Ã¤n de som finns i katalogen behÃ¶vs fÃ¶r att kÃ¶ra den och inga filer skapas utanfÃ¶r â€œrotkatalogenâ€ vid kÃ¶rning. Det enda som skapas Ã¤r en temp-katalog i â€œrotkatalogenâ€ vid fÃ¶rsta uppstart. Inga register skapas heller pÃ¥ datorn. Vill du ta bort (avinstallera) sÃ¥ tar du helt enkelt bort â€œrotkatalogenâ€. 
+
+NÃ¥gon som inte hajar? RÃ¤ck upp handen isÃ¥fall  ;)
+
+Testad  pÃ¥ PC med native Windows 7 utan problem.
+
+Den fungerar Ã¤ven perfekt att kÃ¶ra i virtualiserade windows-miljÃ¶er och har kÃ¶rts utan problem i Virtualbox fÃ¶r bÃ¥de Mac och PC i fÃ¶ljande virtualiserade miljÃ¶er:
+ 
+- Windows 7
+- Windows XP SP3
+
+
+
+SjÃ¤lvklart Ã¤r databasen uppdaterad med felrÃ¤ttningen, dvs v 1.01.

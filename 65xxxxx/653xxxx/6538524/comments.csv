@@ -1,0 +1,546 @@
+User Type,Username,Date,Text
+,magdalex,2011-07-13T23:01Z,es español
+,anythingless,2011-07-13T23:37Z,"can maherz or even u guys tell me whats the advantage of these updates
+i mean any major advantages cause as far as i know i ran both my Xp3 2009 edition without updates n a few latest with updates i dont see much difference
+This is not just my question i would assume a lot of em share the same concerns
+
+thanks"
+,DarthBubba,2011-07-14T00:24Z,@anythingless:  Maher adds SATA drivers (which XP does not install straight-out-of-the-box) so that you can install XP w/o needing to have a floppy disk on-hand to load the drivers (the F6 key  problem) during the initial installation.  He also pre-installs the license so you don't have to go find it.  He deletes some useless WinApps and adds a newer one.  I don't know if he includes the dual core CPU patch.  The rest of the updates and patches simply keep your installation more secure.  He's just saving you the trouble of repeatedly downloading the same updates when you do lots of re-installs as many of us experimenters do.  If his version of XP runs about like your unpatched version consider yourself lucky - or smart enough to install good protection software.  Maher is doing us a favor - we should all thank him every time he makes an updated copy of XP available for download.  He saves a lot of people a lot of time by doing that.
+,DarthBubba,2011-07-14T00:25Z,Thank You Maher!  :-)
+,mEmOkIrI,2011-07-14T02:38Z,"well said ""DarthBubba"" ... this fucking SATA is a pain in the ass and because of guys like ""maher"" we are over that headache but i have a couple of requests if you may add with next releases hopefully in August ...!
+if you may add general modem and VGA driver with general Audio driver beside SATA, it would mean the world to some of us whom are still suffering from these out of date products!
+
+thnx a million and keep it up m80"
+,saumil89,2011-07-14T11:04Z,"1st of all: Thanks a lot Maherz your torrents are great..
+
+2nd: SEED FFS !!! I am stuck on 75%, after downloading will seed for 3 days. SO PLEASE GUYS SEED... TY "
+,1TWISTED,2011-07-14T14:22Z,"thanks,.. nice upload,... well done,.. ; )"
+[T],Maherz,2011-07-14T17:24Z,"@magdalex
+English?!
+
+@anythingless
+These updates keeps your computer secure. You won't notice any difference visually.
+
+@DarthBubba
+Thank you.
+You're welcome =)
+
+@mEmOkIrI
+You're welcome.
+Sorry, can't make more than one release, and I always try to make it simple.
+You can add the drivers you want using driverpacksbase or nlite.
+Good luck.
+
+@saumil89
+@1TWISTED
+@{software_addict93}
+Anytime guys ;)"
+,baba73,2011-07-14T21:27Z,Thanks a lot Maherz really appreciate this
+[T],Maherz,2011-07-14T23:12Z,"@baba73
+You're welcome :)"
+,mEmOkIrI,2011-07-15T04:32Z,appreciated man for taking your time and taking care of your loyal fans :)
+,primahadi,2011-07-15T05:57Z,"thank you maherz
+
+update my collection"
+[T],Maherz,2011-07-15T12:49Z,"@mEmOkIrI
+@primahadi
+Anytime guys ;)"
+,krizelle,2011-07-15T17:34Z,thanks for this great upload... 
+,khanera,2011-07-15T18:54Z,Theres something wrong when im trying to install it. I try it from a USB drive and it doesnt work. I tried the debugging option and it still wont work. Can someone help me? Should i really just install it on a cd?
+,primahadi,2011-07-15T19:59Z,"@khanera
+
+it's easy to make it boot from usb with win7, just a little flawless program like ultraISO and so, it will run till finished.
+
+but with xp, only this program work (for me) 
+
+http://www.msfn.org/board/topic/120444-how-to-install-windows-from-usb-winsetupfromusb-with-gui/
+
+try it, make sure you read how to use it."
+,jessup,2011-07-15T20:00Z,"Thanks Maherz --
+Can you also make one in Danish language fully updated today, thanks again :)"
+,khanera,2011-07-15T20:31Z,"@primahadi When i try to put it in the USB drive, it says grubinst can't find master boot record. "
+,bobbe112,2011-07-15T23:23Z,can i boot the cd and the install your torrent to the computer?
+,bobbe112,2011-07-15T23:29Z,is the cd bottabled frome bios 
+,ShadyXL,2011-07-16T02:02Z,"@bobbe112
+I tried, but it didn't boot from the BIOS."
+,primahadi,2011-07-16T05:11Z,"@khanera
+
+than u'r usb had MBR error, u must fix it first.
+
+To clean MBR:
+-open WinSetupFromUSB
+-click RMPrepUSB, find ""clean"" button, run till finish
+-after MBR cleared, click ""install grub4dos"" button
+
+To burn:
+-from 3 boot options, choose winpev2/winpev3 blabla
+-from 4 FS & overrides, choose ""Boot as HDD"" and use ""64hd/32sec""
+-now click ""6Prepare drive"", run till finish and exit RMPREPUSB.
+-back to Main GUI, and choose win200/xp/2003setup. and choose the drive that had Mahers iso loaded in virtual drive.
+-click option ""Test in qemu""
+-Go
+
+i hope u understand what i'am saying bro, my english language is sooooo bad."
+,primahadi,2011-07-16T05:19Z,"it's much more easier to burn into CD though, just burn it with low speed and it will be fine. but with OS install from USB, i'am not buy CD anymore :)"
+,EricRoyz,2011-07-16T11:19Z,"Rocking Torrent,
+Thanks Maherz;"
+[T],Maherz,2011-07-17T16:33Z,"@krizelle
+You're welcome.
+
+@khanera
+Use the CD, or try what primahadi said.
+
+@primahadi
+Thank you.
+
+@jessup
+You're welcome.
+Sorry, can't make more than 1 release.
+
+@bobbe112
+Yes, the CD is bootable.
+But you better search Google for a tutorial on how to install Windows XP.
+Good luck.
+
+@ShadyXL
+It's bootable!
+
+@EricRoyz
+You're welcome."
+,oifwolf,2011-07-17T17:04Z,Thank you
+[T],Maherz,2011-07-17T17:43Z,"@oifwolf
+You're welcome."
+,lljones,2011-07-17T18:18Z,"Couple quick questions.
+
+Unable to access windows update. I can see no reason for this as there are many a crack that activte windows and allow all updates no problems.
+
+Bitdefender will no longer work. This is a major annoyance. Application failed/start/configuration incorrect. Never had this happen before.
+
+Integrated SATA worked fine."
+,lljones,2011-07-17T20:26Z,"Couple of quick questions.
+
+Unable to go to windows update. This is unusual as there are many a crack that allows updates with no problems.
+
+Bitdefender no longer works. Application failed/start configuration incorrect. Never had this before.
+
+SATA works nice thanks. "
+[T],Maherz,2011-07-17T22:33Z,"@lljones
+What do you mean you're unable to acces windows updates?"
+,eudamru,2011-07-17T23:02Z,you're all idiots...you are seeding a fucked up system!
+,lljones,2011-07-17T23:54Z,"My apologies for the double post. 
+
+Widows update will not go past the third step for installing the updater.
+
+If I am the only one having this problem then it more likely than not my paticular system having the problems. I am trying to set up W7 on a SSD, XP Pro on RAID and a 1.5 TB for storage. 
+Every version of XP I have tried something goes wrong. On your ver. unable to access windows update and bitdefender won't work. Last one I tried worked fine untill I tried to install my sound card. 
+
+Nothing bad to say about your ver. I am just going to have to try and find one that will work with my setup."
+[T],Maherz,2011-07-18T12:44Z,"@lljones
+I'm afraid you're the only one having this problem."
+,rcool5,2011-07-18T19:06Z,"hey,
+i couln't able to boot this xp from USB.
+I Used Novicorp WinToFlash 0.6.0005 to make bootable USB.
+while i Boot from USB it says file missing!!!!!!"
+,primahadi,2011-07-18T19:21Z,"i reinstall windows every month, waiting new release from maherz, :) i don't know why i always doing that, haha.
+
+and i never had a problem with his releases.
+windows update, mse, wga.. no problem
+
+http://img849.imageshack.us/img849/5350/unledipi.jpg
+
+maybe you need to burn the iso file with a slower speed."
+,dopusy,2011-07-19T01:40Z,with which language?
+,K_2_Bandit,2011-07-19T09:11Z,thanx you for sharing : ) 
+,EricRoyz,2011-07-19T11:16Z,"Maherz You Are In Top 100,
+Well Done;"
+,rknight2010,2011-07-20T14:46Z,@Maherz - When u gonna do a 64Bit??? I'm really Hoping if u could :( pls pls pls
+,tonyzzuli,2011-07-20T16:42Z,This is the first time i download your torrent Maherz. I'm downloading it. And look at all of your positive feedbacks. I would like to write just keep saying that @THANKS TO YOU GREAT MAHERz DOING GREAT JOB FOR YOUR FAN@. THANKS again My FriEnD !!!!@@@@
+[T],Maherz,2011-07-20T21:29Z,"@rcool5
+Try another tool.
+May be win2flash?
+
+@dopusy
+It's English.
+
+@K_2_Bandit
+You're welcome.
+
+@EricRoyz
+Thank you.
+
+@rknight2010
+I wonill not do 64 bit, sorry.
+
+@tonyzzuli
+Anytime man ;)"
+,AtomskChild,2011-07-21T02:16Z,"Hey guys, I was wondering if I could get some help. I downloaded and am currently seeding :D.
+
+I burned the ISO to a disk and it is ready to use (Burned it slowly), then attempted to boot it up on a seperate computer that I need reformated that is already running WIndows XP Professional. After putting the disk in and restarting, then booting from the disk, it starts to run through the files but, when it gets the the end (It says Windows XP Setup or something in the bottom corner, just before it would normally go into the screen when I would be hitting ""r"") I get the ""Unbootable boot Volume"" BSOD. 
+
+Anyone got some tips to help me out here? Great appreiciated :D."
+,WhatTheFluck,2011-07-21T02:42Z,"Trying to install this onto VMplayer and it says I need a serial. Any idea why, or how I can get one?"
+[T],Maherz,2011-07-21T04:39Z,"@AtomskChild
+There is no repair option in this release!
+
+@WhatTheFluck
+Use this one:
+MR49R-DRJXX-M6PX2-V96BF-8CKBJ
+Good luck."
+,RaW-D-Coy,2011-07-22T03:32Z,do u need to burn it can't i just use deamon tools?
+,white_out,2011-07-22T04:08Z,"Maherz, ONCE AGAIN, delivers a great Windows XP iso. Your my hero dude! This is going into my collection!"
+,bogdanxxx2007,2011-07-22T14:18Z,"Hey Maherz, just downloaded, decompressed with winrar and burned into a CD with Nero. But it does not work, it does not boot. What the hell i am doing wrong? I lost 2 blank CD's so far! Would apreciate an answer man!  10x"
+,ollie12107,2011-07-22T14:25Z,thanks a million works fine !
+[T],Maherz,2011-07-22T16:33Z,"@RaW-D-Coy
+You can, you will need the key:
+MR49R-DRJXX-M6PX2-V96BF-8CKBJ
+
+@white_out
+Thank you.
+
+@bogdanxxx2007
+Don't unpack and burn! This is what you're doing wrong!
+You have to burn the image as it is.
+Search your burning software for something like ""burn image file"" and then locate the file you downloaded that looks like a RAR file.
+Good luck.
+
+@ollie12107
+You're welcome."
+,dhaval_monani,2011-07-23T09:41Z,maherz it is works on intel 6 series board ???
+,bogdanxxx2007,2011-07-23T12:09Z,"Hey Maherz, i did burned this on a CD as a image (burned image with NERO). I start the damn computer says to press a button to boot, i press but it still won't fucking boot.
+I burned this with 4x the speed."
+[T],Maherz,2011-07-23T23:19Z,"@dhaval_monani
+Don't know, try it out.
+
+@bogdanxxx2007
+Your keyboard is a USB one, right?
+Whethere you enable ""USB Legacy Support"" from your BIOS, or get a PS2 keyboard.
+Good luck."
+,vbuffs,2011-07-24T09:08Z,"this is the best integration features! 
+maherz is super great >... XD
+thanks men"
+,zumm4554,2011-07-24T15:36Z,"It runs flawlessly! Thank you very much Maher, great work! :)"
+[T],Maherz,2011-07-24T23:24Z,"@vbuffs
+@zumm4554
+Anytime guys ;)"
+,XMen_1967,2011-07-25T11:53Z,"Hi Maherz, Thanks for this. Works fine. Manage to rescue my CPU. However the strange thing is this. 
+1. IE menu bar disappeared
+2. IE refuse to download anything.
+I fix this after downloading FF5.0 via another PC installed it and d/l IE8.0. Any reason?
+
+Good job!"
+,Shihphu,2011-07-25T13:48Z,"Hi
+will it works SATA on P4M800 without floppy?"
+,bogdanxxx2007,2011-07-25T15:44Z,"@MAHERZ
+
+I have a PS2 keyboard man.Please advice! I am so fucking retard and i am not able to instal my WIN."
+,bogdanxxx2007,2011-07-25T16:53Z,"my dear Muslim friend, i manage it to have it burned with a program called Imagburn. But now prompted to delete partition the windows does not see my hard-disk. Is there something i shall do now?
+Allah Aackbaar"
+,errolpl,2011-07-25T21:57Z,"@Maherz, is that multilanguage version? (Im from Poland).
+Please fast answer, I'm downloading it right now."
+,aruntv2010,2011-07-25T22:04Z,"Dear Bro, my lap-HP pavilion dv3  has windows 7 installed. can i format it and install this version. can i get graphic support to play HD movies in this or will i have to look for intel/nvidia drivers?
+Waiting for your answer. Thanks in advance.."
+,Krayen,2011-07-25T22:10Z,"@Maherz
+
+Hello dude, I really need some desperate help... I've tried all of your Windows XP releases with no success at all...
+
+I'm using an Western Digital Hard Disk drive on SATA, and tried your SATA versions of Windows XP but I didn't succeed. 
+I've even looked into BIOS for SATA settings and tried all.
+Can you please help me?
+I really don't know what to do..."
+,signin,2011-07-26T18:59Z,Thanks maherz your torrent is one of the best I ever have downloaded. Best of luck.
+,negativeions,2011-07-26T22:14Z,"Thanks. Hope it works well... someone needed me to clean their PC, they have an older machine. This is perfect. Extremely fast download. You're the man, Maherz."
+,Pantonio2,2011-07-26T22:31Z,"Maher, please, release this version of xp without sata drivers, i can't find other explaination why my PC crashes with video card driver installed (nforce2 & radeon HD3650 AGP). It may be some conflicts, I think."
+[T],Maherz,2011-07-27T01:03Z,"@osgood711
+You're welcome.
+
+@XMen_1967
+Strange!
+Try scanning your PC for viruses.
+
+@Shihphu
+Don't know.
+You have to try.
+
+@bogdanxxx2007
+Is your CD/DVD ROM set as the first boot device in BIOS?
+If no, then set it.
+If yes, then you didn't burn the CD as you should!
+
+@errolpl
+It's English.
+But you can download any language interface you want.
+
+@aruntv2010
+It will propably work.
+I think Nvidia has drivers for Windows XP.
+
+@Krayen
+Don't search your BIOS for SATA, search instead for AHCI Mode and turn it into IDE Mode.
+Good luck.
+
+@signin
+@negativeions
+You're welcome :)
+
+@Pantonio2
+That has nothing to do with SATA!
+Anyway, the last release I made without SATA drivers included was Novemner 2011 release.
+Here is the link, you can try it if you want:
+http://thepiratebay.org/torrent/5951228/
+Good luck."
+,ShockerRed,2011-07-27T07:47Z,I'm trying to install on a VM and I can't get past the product key page. I tried all 1's.
+,ShockerRed,2011-07-27T08:00Z,"Ah, never mind that last comment. MR49R-DRJXX-M6PX2-V96BF-8CKBJ worked.
+
+Thanks a lot Maherz!"
+,errolpl,2011-07-27T14:03Z,"@Maherz, thank you for response and for this Windows version! Have a nice day."
+,sashu545,2011-07-28T14:24Z,Its doesn't let me install Windows XP I cant click on the install button. Its like greyed out
+,sashu545,2011-07-28T14:33Z,Ok I found a way for it to let me instal it but when I press Install Windows XP it says I have a newer version of Windows (i have 7) so I cant install it. Then it says if I do then I wont be able to recover my files
+[T],Maherz,2011-07-28T16:51Z,"@ShockerRed
+@errolpl
+You're welcome.
+
+@sashu545
+Don't install XP from inside Windows 7!
+Burn the image into an empty CD and boot from it.
+You have to backup your files first.
+Good luck."
+,yaro1996,2011-07-29T19:32Z,yo dude the auto play pops up i click install windows xp and it laggs up n when i try to close it the messege end now pops up then it closes after i press end now! please help!
+,aku77,2011-07-29T21:49Z,"TY again Maherz for ur latest update. Anybody out there having prob with diz XP , well i think it,s ur fault. i can say for 111% sure dat diz XP is the best XP here at PB! I've reformatted about 70+ desktop pc, laptop, netbook on a monthly basis using Maherz's XP(i've slipstreamed, automated, unattended via nLite) never had ny probleem. Installed on countless different platform of hardware(mobo varieties) never failed! Never had any complaint from my customer. Biznez at my comp service shop had never been so GOOD. It's all thanks to Maherz.
+
+TQ very much my fren....."
+,aku77,2011-07-29T21:55Z,"Say Maherz can't u do Win7x64 like u do WinXPx86 here? i know u won't do XPx64.
+
+Anyhow thanks again....."
+,limeguy,2011-07-29T22:25Z,"I know this is stupid, but can I burn this to a DVD? I'm out of CDs..."
+,TheGreatZen,2011-07-30T05:22Z,This is the 32 bit version right?
+,DumDrumer,2011-07-30T08:53Z,"I'm trying to use this disk to do a recovery but this just seems to skip right to installation, is there any way to start at the beginning so I won't have to reinstall XP completely?"
+,believenu,2011-07-30T14:33Z,"I have reformatted my computer .. question I have is should I just put in the disc and run ... following directions or do I have to reinstall disc for my utilities (drivers, etc ) (it is a gigabyte s-series motherboard utility dvd) first? 
+My Computer is a 75 gb with 512 mb ram (upgraded to 1.5 gb ram) and I have (I think) a 64 bit something.
+Should I put windows vista/ on it instead or stay with this?
+What is SATA Drivers is it compatable with all.?
+I am putting this on a cd rom disc with magic iso now from my older computer...I lost disc with windows xp on it .. so you are helping me a lot .
+Thank you, seeding is sharing. 
+I will wait till you are able to answer but this is my weekend job to get done."
+,yaro1996,2011-07-31T00:29Z,what is the serial code?
+,cybercontroler,2011-07-31T01:33Z,"Hello Brother thanks again, please, let me know something, do you know if there are different MUI for each XP service pack? or it is only 1 that work for every SP1,2,3 etc?"
+,cybercontroler,2011-07-31T01:34Z,"@Maherz
+Hello Brother thanks again, please, let me know something, do you know if there are different MUI for each XP service pack? or it is only 1 that work for every SP1,2,3 etc?"
+,spiderpig83,2011-07-31T16:58Z,Many thanks to Maherz for pretty usefull torrent !!! 
+,zardaz.,2011-08-01T18:20Z,when i used this to reinstall windows xp it didn't install the network drivers or something so i can't connect to the internet. what should i do? pleas help me
+,jake1838,2011-08-02T19:35Z,it says i need a product key?? help!!!!!
+,genaral,2011-08-02T22:52Z,"Hi. this is my first comment ever on a torrent site. Hi maherx and everyone..pls i just downloaded this xp.i am a complete novice, what programme is the best for buring it into a cd. do i use a dvd or just a reggular cd. what do i so at startup. thanks"
+,cybercontroler,2011-08-03T05:06Z,"Hi, @genaral the best burnig software is Nero you could try portables versions some recomendations for burning are using good quality blanks CD or DVD, not burning at hightest speed and don't do heavy tasks or better do nothing while burnig, specialy if yor PC ar not multi core"
+,cybercontroler,2011-08-03T05:37Z,"@Maherz hello brother, let me know something please, can I take your ISO with nlite or someway and modify something for bypassing the dialogs while installing, I mean creating a unattended one? I love you XP version, and I ask cuz once aog I did a XP with nlite and it worked but if I change something for 2nd time with nlite I got BSOD after install, so every modification I needed to do I had to start a new fresh work thanks"
+,jameskrueger3rd,2011-08-03T12:43Z,"@cybercontroller 
+You are right you can modify the original with nlite once only. This version is modified already, and my guess is with nlite because there is nothing better. So I wouldn't bother tweaking it again. 
+
+You can find the original untouched iso on TPB if you want to build fully unattended disc with nlite. "
+,aku77,2011-08-03T17:56Z,"
+@jameskrueger3rd
+No, not true. certainly u CAN mod ur XPx86 multiple of times using nLite.
+I've done it. U just need to know what exactly u're doing, dat's all. Don't 
+just go blindly removing windows components.
+
+These are summary of different XPx86 i've modded using Maherz's XPx86 as base..
+
+
+1- XPx86v3.0SATARAID_full -
+full blown XPx86 for use of regular people
+
+iso size = 492MB
+C drive size after install without virtual memory, system restore = 851MB
+
+2- XPx86AkuMod_v2.2SATARAID - 
+futher mod without system restore
+
+iso size = 323MB
+C drive size after install without virtual memory, system restore = 629MB
+
+3- XPx86_GamingMod_v1.1 -
+For gamerz only, all driver removed except SATARAID & LAN, most of XP useless
+components removed highest XP performance, not suitiable for regular use, not
+for average pakcik makcik. Only for Gaming!
+
+iso size = 178MB
+C drive size after install without virtual memory, system restore = 486MB"
+,cybercontroler,2011-08-03T23:16Z,"thank you @jameskrueger3rd but something I love and is so important to me of this version is that all ready have full updates, and thank you also @aku77 ok let me know please if I take this ISO with nlite and I config it for bypassing installation dialogs and integrate WMP 11 same way I had done with other untouched version I will work? or there is some indications you can give me please??? thanks again"
+,cybercontroler,2011-08-03T23:20Z,P.D. @aku77 I don't need remove anything....
+,LarryT86,2011-08-04T19:32Z,"Hey, I downloaded this and burnt the .ISO File to disc and just wanted to know if this would work for the Mac's BootCamp system??"
+,twist452,2011-08-04T22:28Z,"ok, so i'm a complete newb with this and i just downloaded the torrent.
+ Now can someone please give me step by step instructions on how to put it on a dvd so i can boot it from the bios on a new computer."
+,pmrsofttech,2011-08-05T04:15Z,"Hey! its working fine, Thank you very much"
+,junrocksxxv,2011-08-05T06:37Z,Thank you for this torrent! It works for me. But is it safe to update? Because my last XP Pro was found 'not Genuine' after I applied updates.
+,kingsteve2002,2011-08-06T01:52Z,"I tried installing on a new laptop hard drive and after the installation it wouldn't boot with this error:
+""Windows could not start because the following file is missing or corrupt:
+\system32\hal.dll.
+Please re-install a copy of the above file.""
+Anyone able to help? THanks"
+,mikey1999,2011-08-06T05:13Z,Hi i have a Compaq presario C500t and ive been trying to put windows xp on it for a while... came with shitty vista and all the iso's ive tryed need to be burned to a disk but they end up with burn errors will this work or will i need a program to burn it if so whats a really good program that works?
+,tutoy2002,2011-08-06T06:06Z,"dude, is this bootable??
+
+*note sorry for asking"
+,Webexplr,2011-08-06T13:41Z,"Hey, can I use this for MBR recovery? I need to uninstall linux and keep my xp."
+,adRyaN23,2011-08-06T16:33Z,Installed without problems.... But I can't connect to my wireless connection at home... help please ;)
+,genaral,2011-08-06T21:25Z,hi. i finally burnt the software using isoburner at a slow speed. I tired installing it but a blue screen pops up telling me some files are missing and i should scan my computer for virus. and also run CHKDSK. it was quite a long message. I dont have virus on my computer as is stands now. wonder why i keep getting this message. i have a hp laptop
+,adRyaN23,2011-08-06T23:45Z,Never mind my comment... I have acer aspire 6920 and couldn't get ethernet to install cause there were only vista and 7 drivers on acer site.. but i found it and now it works great! Thanks ;)
+,Zahiri,2011-08-07T10:24Z,"Hi Maherz thank you very much for this torrent. I haven’t yet installed on my laptop. 
+ I got Toshiba laptop with vista and thinking to go for XP.  I understood that the setting in the bios must be changed, right?
+Where can I find the AHCI or IDE mode in the Bios and what must I change? I just can’t find it. "
+,tutoy2002,2011-08-07T13:41Z,"nvm my other comment.. tnx for the installer, gonna test it!"
+,aku77,2011-08-07T21:40Z,"@cybercontroler
+y u need to intergrate WMP11 it's already preinstalled, yeah u can make it unattended using nlite. All 3 version of my modded XPx86 from Maherz are unattended. so der's no prob 4 unattended. Also i preinstalled latest v of Firefox & Taskbar Shuffle on all my modded XPx86.
+
+@junrocksxxv
+u CAN update officially from M$, no prob  updates. ""No need 2 be afraid be radical.""
+
+@kingsteve2002
+hal.dll try this fix http://pcsupport.about.com/od/fixtheproblem/ht/restorehaldll.htm
+otherwise maybe prob with ur hardware eg. HDD.
+
+Use nero tu burn. I burn using fastest speed available be it 16x all the way to 40x depending on CDs and DVDwriter. Never had any prob. ""No need 2 be afraid be radical.""
+
+"
+,sib0,2011-08-09T15:23Z,"Some1 kindly explain me how to burn this..
+1. On ISO and burn and will be bootable from bios..
+2. On Nero using boot.ima file from google
+? ? "
+,frokanz,2011-08-09T16:04Z,"Nothing else has been removed?
+
+I need a light version of XP to install in an old PC which is kinda slow..
+
+Can anyone advise a good version for what I need here in the Bay ?"
+,KlasKlettermus,2011-08-09T16:24Z,"thnxs, worked great in virtual box on linux mint."
+,clissold345,2011-08-13T14:46Z,"This is a good torrent. Thanks to Maherz for providing it!
+
+For anyone who isn't sure what to do: you burn a CD from the ISO file and then you do a fresh install of Windows.
+
+If you have a wireless card in your computer but Windows doesn't list the available wireless networks then you probably need to go to the website of your computer manufacturer and download and install wireless drivers. Then (hopefully) Windows will list the available wireless networks."
+,r3b,2011-08-13T18:08Z,"This is NOT GOOD.
+It does include a lot of SATA drivers but a very common one, which is included even in older XP versions is missing - the driver for the Nforce 410 chipset.
+My WD sata drive on an Asus K8N-VM with Nfroce 6100 chipset (Nforce410 southbridge) is not recognized by windows setup with this disc.
+I've tried again with a very old Student Edition not even SP1 and of course the drive is recognized.
+I'm glad I've burnt this on a RW DVD.
+
+I appreciate the effort, but -at least this time- the result is bad."
+,Chahit,2011-08-13T20:49Z,"who so evr is getting blue screen error...
+go to ur bios menu at startup..
+there.s option for 
+>ata
+>raid
+>achi
+something something just do it to ata...
+mine sp3(from other source) worked after setting dese thingz,... :)
+bt still i'l try this one also... :)
+
+actualy blue screen comes generaly for users having windows 7 and vista as OS... :)
+hope it soves problemz :)"
+,kenkubela,2011-08-16T19:38Z,"Thank you Maherz, it's work perfect....I always wait for your latest uploads... _^_"
+,khourykarim,2011-08-17T20:27Z,does this work for boot camp>>>????
+,alpipin,2011-08-18T05:45Z,"if it asks for a serial number, this worked for me BDV7T-3JK2Y-BT4RM-3GHH2-6QHDY "
+,xHDS,2011-08-20T21:56Z,"I also installed without problems, but also can't connect to my wireless network at home... any suggestions?
+Thanks for the great upload!"
+,voronin,2011-08-22T03:35Z,"Maher, I realize you have the little TRUSTED icon next to your username, but I have to call you out on this one.
+
+-- as someone previously mentioned, IE (which you removed and then added a different version) is very corrupt. There is no title-bar text, no menus, right-clicking does not work, downloading files does not work, and 9/10 times it crashes. your response to them was (paraphrased) ""LOL IDK MAYBE YOU HAVE VIRUS"".  If you are such l33t h4xx0r that you make your own customized crack of XP then you should at least be aware that the IE you admittedly fucked around with is a corrupt piece of shit, and not blame ""viruses"".
+-- After poking around in the system settings, I found some interesting things. There is a shared folder called ""C:\WINDOWS.0"" which is given remote admin access. Now I'm more of a Linux person so I may not understand exactly how Windows does remote access, but this looks to me like a huge security risk. One that is compounded by the suspicious behavior of IE (which, by preventing downloads, ensures that it is the only browser you can use), and the fact that Windows Firewall is turned off by default.
+
+Now I'm not claiming that you are knowingly releasing a corrupted version of XP that is being used by someone as a vector for spyware, trojans, identity theft, or other sinister hacking purposes. That would be beyond my level of technical expertise and willingness to investigate the matter further.  All I'm saying is that I am going to look for a different torrent, one that contains the stock, retail version of XP with no shadowy ""integrations"" that make it behave in a suspicious manner, and I urge anyone who has enough braincells to be disturbed by the problems with this release to do the same."
+,amarjot_1988,2011-08-22T12:06Z,"hi maherz,
+i tried to install on my acer netbook, it prompts me 2 file missing while installing. can u plz help me on  this"
+,EK057,2011-08-23T23:14Z,I hope it works and doesn't have errors in the operating system like your last one. 
+,101pepsi,2011-08-24T05:06Z,works perfectly if asked for key this worked for me BDV7T-3JK2Y-BT4RM-3GHH2-6QHDY 
+,wtfboom,2011-08-24T14:36Z,"omg, i dont know WHAT THE FUCK this torrent is.
+
+It's not xp, i could tell from the setup, that this is some corrupted bullshit.
+
+my HD is completely fucked, thanks a lot douchebag, now i gotta buy a fucking sata adapter cable to format it the RIGHT WAY.
+
+and btw, when it was installed, (for the 2 hours until everything went wrong) THERE IS A SHIT TON OF SCREEN FLASHING...
+
+this isnt a good torrent what-so-ever."
+,wtfboom,2011-08-24T14:38Z,"this comment is directed to Voronin,
+sir, you are correct, this is some cracked, corrupted, all around SHITTY torrent."
+,maddada,2011-08-26T21:43Z,"100% working here even ie 8 is working (but I used it to download firefox and never needed it again) you two (voronin and wtfboom) are either lying or trolling or your just noobs who don't know how to burn an iso. its the most seeded xp torrent available and it deserves to be just that.
+haters gonna hate
+★*★*★*★*★*★
+btw★ to burn this thing use imgburn and click on burn file to cd. it wont take long and its really simple
+"
+,nctomba,2011-08-27T22:23Z,"If I burn this to a CD, can I use it with bootcamp?"
+,molvica,2011-08-28T16:23Z,Can't seem to get it to download please seed.
+,kangaroos192,2011-08-28T17:28Z,works fine so far for me on VM workstation Thnx Maherz!
+,museling1,2011-08-29T22:57Z,Maherz - quick question/problem I am having. Burned fine but when I try to install setup can't find my hard drive. It's a seagate barracuda SATA 120GB drive... bios sees it but for some reason setup doesn't.... HELP!
+,1ski,2011-08-31T20:21Z,"contrary to your claim that no serial is needed during installation, it asked me for a product key during the install. if it gives me some ""not a genuine windows product"" shit, i'm gonna be peeved."
+[V],matimike,2011-09-04T04:48Z,thanks
+,InDeeth,2011-09-04T15:17Z,"May you upload a 64bit version? Really Need it for my computer. 
+
+
+Thanks"
+,7deri,2011-09-05T04:36Z,Can you burn to a disk?
+,rupelto,2011-09-07T00:13Z,"Thank you, it worked for me."
+,gerrardsw,2011-09-07T18:01Z,Hey Maherz Netframe Work 2 is integrated this version ?
+,tylrgamster14,2011-09-08T03:48Z,"thanks,i had another win xp pro cd but everytime i installed on a pc there seemed to be something wrong with it, i don't know what it was but what ever
+
+thanks for the great upload"
+,F4113N185,2011-09-11T22:21Z,"I don't get it, Am i doing something wrong??? Every time i download anything like this, on the setup it ALWAYS asks for a key, even if it says it's already activated. I tried burning it and mounting it, Everything. I booted it and it still doesn't work. No keys will work for it either, I've tried at least 20. Could someone please help me???"
+,F4113N185,2011-09-11T22:28Z,"I don't understand this.... Every time i try to do setup it asks for a product key. I've tried so many I've found but NONE of them will work. I've tried like 20. and if i burn it, it does the same thing, same with mounting, and booting. I don't understand, i thought it's suppose to skip over that part or have a key already entered. Someone Please Help."
+,F4113N185,2011-09-11T22:29Z,Sorry For double post... Thought the first comment screwed up.
+,sudhir58,2011-09-13T12:22Z,Thanks man..works perfect..!!!
+,sudhir58,2011-09-13T12:43Z,"getting an error like 
+----The file 'asms' on windows xp professional SP3 cd is needed.
+
+and when i set my H:/ as the source location it's not proceeding forward...
+any suggestions..???"
+,user417,2011-09-14T08:56Z,"Downloaded twice, attempted to install from a freshly partitioned, normally formatted hard drive nearly half a dozen times and consistently received a blue screen notifying me to check my hard drive for viruses or bad sectors.  (note that a normal format runs a check disk for bad sectors)  However the august 2008 version installed flawlessly, unfortunately that one did not come with the necessary network drivers in order to download the updates."
+,Flopis,2011-09-14T16:42Z,Thanks!!!
+,Drop-22,2011-09-17T01:06Z,"I have reformatted a PC from xp (home edition) to this...I didn't unbundle the ISO, I just copied it straight to CD...at first it told me this file setup.ORG.exe was missing, so I tried again and then I was told a .cab was missing...it installed, but now my keyboard is dead...so now I can't even get back in again to reformat! Sorry man not convinced by your crack....causing me considerable grief.     "
+,aaron_csomor,2011-09-17T17:32Z,"Is this image complete?
+I mean, does it have any missing data files or settings?
+Much appreciated for the answer.
+Great torrent by the way!"
+,TbKtBp,2011-09-17T18:50Z,"thanx maherz,
+
+gud job, worked a treat. just one question though, im a novice with computers, after i installed your app and went into explorer, the writing under my c drive is in blue and not black like the rest of my hardware. is ther a specific reason for this and do i need to worry?
+
+thanx anyway, i had no probs installing or dwnloading your torrent thank u"
+,carlosalgado123,2011-09-18T05:15Z,can i burn this to a DVD and use this with Boot Camp in MAC?? PLEASE ...
+,F4113N185,2011-09-18T05:55Z,"Nope, Wont Work. Still Getting Key Problem.."
+,carlosalgado123,2011-09-18T14:50Z,whats the product key?
+,TbKtBp,2011-09-18T16:43Z,"@carlosalgado123
+
+this is the product key maherz gives on page 2, i used this key and it worked for me
+
+MR49R-DRJXX-M6PX2-V96BF-8CKBJ"
+,carlosalgado123,2011-09-19T11:32Z,works for me. but it asked me for a serial
+,falafokz,2011-09-21T13:32Z,"correct me if im wrong....
+
+1. download this torrent
+2. extract it ( extract it to drive of your choice)
+burn it (using burning application of your choice)
+3. make sure you change the boot sequence to... boot to cd/dvd first
+4. insert the newly created bootable cd/dvd to your cd rom
+5. restart your pc
+6. when prompt to boot to cd/dvd press enter
+7. finish the installation
+
+
+@all: if i missed something please feel free to post it here. that way newbies in this method will have a proper guide performing these tasks.. than you..."
+,falafokz,2011-09-21T13:33Z,i mean.... THANK YOU!!!
+,falafokz,2011-09-23T11:33Z,lan driver and audio drivers are not present. i cant connect to internet and my system has no audio.
+,luissjossue,2011-09-23T18:57Z,"installing!!! lets see if it works. 
+i will comment again if it does"
+,-Crank-,2011-09-27T13:41Z,thx man :D .. idk what ppl are biching about just go get these drivers on your own its not impossible task -.- jeez ppl get used to ``borrowing`` operating systems :P
+,jdfrules123,2011-10-01T21:57Z,My laptop is wireless and if i put this on would it be wireless or will it change to Dial-Up?
+,jassies,2011-10-05T15:27Z,Worked as a Charm... Excellent torrent...
+,tif-nor,2011-10-05T17:47Z,is it a Bootmgr File?
+,KSahiya,2011-10-05T17:49Z,"Thank you so much. It's so amazing that there are people like you in the world that can be so selfless and upload torrents like this. 
+
+Thanks again!"
+,umarnawazkhan,2011-10-07T19:04Z,"There's no god but Allah.
+Jesus is Prophet of Allah"
+,jhonnysl4y,2011-10-09T04:59Z,"when i instal it take a blue screen and it say ""Setup is starting Windows"" and it stay the same for hours !! is there a mistake or is normal to take this time plz help me Maherz !!"
+,Big-City,2011-10-09T11:48Z,can't install any antivirus software... any suggestions? Thanks.
+,boilzz,2011-12-18T09:19Z,"potluckcrow@gmail.com is my email. could you help me out a bit here, ok, trying to fix a laptop. screen only shows up as black with blinking line in corner. so i download this, burn onto a disc. pop into the laptop. everything runs smooth, UNTIL, it says 
+
+Please insert: Windows Automated System Recovery Disc into the floppy drive. 
+
+so yeah, THAT and second of all theres no floppy drive, please support!@"

@@ -1,0 +1,10 @@
+James Loope, "Managing Infrastructure with Puppet" 
+ O'R,.lly Media | 2011 | ISBN: 1449307639 | 46 pages | PDF | 4,7 MB 
+
+ Automate your computing systems with Puppet, the popular configuration management framework. Through code samples and real-world examples, this concise introduction shows you how to use Puppet tools and templates to organize and execute configuration plans on your *nix servers. Learn how to manage pools of servers and virtual instances, and discover how Puppet helps you administer access control. If youâ€™re familiar with system administration and Ruby language basics, this book is the ideal way to get up to speed on this open source framework.
+ Install Puppet and learn its manifest syntax and built-in functions 
+ Store configurations in a central location with Puppet Master, and define which configurations apply to which nodes 
+ Build a framework to create user accounts in place of LDAP or Kerberos KDC 
+ Apply techniques to execute and manage server configurations with MCollective 
+ Use Puppet as an auditing tool to ensure that configurations are correct 
+ Gather information on the nodes you manage with the Facter library

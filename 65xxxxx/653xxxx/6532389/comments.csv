@@ -1,0 +1,56 @@
+User Type,Username,Date,Text
+,LocutusBorg,2011-07-11T14:35Z,Thank You
+,ili2882,2011-07-16T17:34Z,"Tanks for Sliders, any chance you could Rip and upload Lexx http://www.imdb.com/title/tt0178149"
+,inkyon,2011-08-02T21:41Z,You are the uploader that the uploaders need to learn from. Excellent Work. Anything else in the works from you?
+[V],meech,2011-08-03T01:10Z,"Smallville is next on the agenda.  It's almost done.  They will be 525mb per ep and have come out very nicely.  I just started ripping/encoding season 9.  So the seasons will come out quickly since they are almost all ripped and subtitles muxed.
+
+After Smallville probably X-files.  Stargate Atlantis and Dr. Who are also on the list, but a little further down."
+,inkyon,2011-08-03T01:12Z,I would be pumped up for your take on X-Files because you would do an amazing job on it. 
+[V],meech,2011-08-03T23:13Z,"kafrilas:
+I use a program called Vidcoder, which is basically Handbrake with a different interface.  I like it better because it has target file size which Handbrake lacks.  Once in a while, people ask me what settings I use so I posted a guide... a sort of ""how-to"" with the settings I use.  It is a .pdf file and can be found here: http://www.files.com/set/4dbe09368b233"
+,LocutusBorg,2011-08-05T01:50Z,"Are you going to post season 5 soon? i am caught up and itchy to start S5
+thanks"
+[V],meech,2011-08-06T00:25Z,"I hate to say it, but I'm not going to be able to do season 5.  Unfortunately, it seems that it's not available on dvd, and therefore not able to be ripped and encoded.  There are some other torrents out there for season 5 that will have to do.  I believe they are all from a streaming source, so the quality probably won't be on par with a dvd-rip.   I'm a completionist myself...but I heard season 5 is pretty bad, so I'm not too concerned about it.  But sorry that I can't provide a better quality season 5."
+,LocutusBorg,2011-08-06T00:59Z,i did not know that. thanks for the info
+,dormany,2011-08-14T18:00Z,You can find season 5 released on dvd in germany. It's weird there are none dvdrips of it on the net. Look here : http://www.amazon.de/Sliders-eine-fremde-Dimension-Staffel/dp/B001PBUNFA/ref=sr_1_1?s=dvd&ie=UTF8&qid=1313337601&sr=1-1
+,jartyk,2011-08-24T23:15Z,"Found a error, files from 4x05 to 4x22 have wrong (audio sampling frequence) in the track info (8000 hz), should be 48000. Plays fine anyway as MKV. But I was converting them to avi for use on my old mediaplayer, using Ojosoft MKVconvert, and sound was very distorted then I came to file 05 and forward.. Solved done some demux and mux for the ac3 sound, made it work.. Nice release anyway, thz.."
+[V],meech,2011-08-25T12:41Z,"jartyk:
+How did you determine the sampling rate?  I double checked both the DVDs and the encoded files and MediaInfo reports the audio sampling rate at the correct 48.0 KHz (i.e. 48000 hz) sampling rate for the AC3 audio for all of these files.  Something else must be going on with your player and/or converter?"
+,jartyk,2011-08-25T18:40Z,"Using (AVI Mux Gui 1.17.8.3), I get following info.
+file *01*, track1, video Mpeg4,,, track2, audio AC3 48000 hz,,, track3 subs...
+file *05*, track1, video Mpeg4,,, track2 audio AC3 8000 hz,,, track3 subs...
+
+file 1-4 have audio 48khz, file 5-22 8khz,, strange if its only me.. But it plays fine, only then trying to convert it dont work.."
+,Skram0,2011-09-19T23:27Z,"Anyone find a good torrent for Season 5?
+
+I started to download S05 from an all-in-one 29.9G torrent, but then I read the NFO and found that they are 25fps PAL! Ack, I hate PAL encodes. I can get them to play, but the audio gets shifted up in frequency a bit."
+,ili2882,2011-11-26T00:01Z,"About the audio problem, there is none here's mediainfo's output for episode 22
+Audio
+ID                            : 2
+Format                     : AC-3
+Format/Info              : Audio Coding 3
+Mode extension        : CM (complete main)
+Codec ID                 : A_AC3
+Duration                  : 44mn 40s
+Bit rate mode           : Constant
+Bit rate                    : 192 Kbps
+Channel(s)               : 2 channels
+Channel positions     : Front: L R
+Sampling rate          : 48.0 KHz
+Bit depth                 : 16 bits
+Compression mode  : Lossy
+Stream size             : 61.3 MiB (11%)
+Language                : English
+Try using coreavc for decoding I belive your problem is a weak pc configuration."
+,ili2882,2011-11-26T00:04Z,"I found the season 5 DVD's but they're PAL I don't get why PAL users can play both PAL and NTSC DVD's/files while NTSC users can't, use your PC to stream to your TV (if you're watching it on TV)
+Season 5 aired on Sci-Fi while 1-4 on Fox maybe that's the reason season 5 wasn't released in the US?"
+,ili2882,2011-12-02T16:08Z,"Anyhow if meech wants to RiP and encode season 5 to matroska here's the magnet to the Season 5 DVD's (they're DVD-5s) magnet:?xt=urn:btih:7AAE846DC7FF18DBFB2D03C52C3A6815A0546586
+the torrent is from rutracker
+It's an edited French R2 release with the French language replaced with Russian, it has 192kb/s AC3 English audio as a second stream, it's PAL :) but the 25 fps can be slowed down to 23.97 with little noticeable distortion."
+[V],meech,2011-12-15T04:17Z,"Thanks a bunch for the magnet links!  I've downloaded them and have encoded to .mkv with a crf=19.  I kept them at 25fps since attempts to change to 23.976 caused too much jerkiness in certain scenes.  The 25 fps framerate doesn't seem to take anything away from the viewing experience at all.  I will try to find subtitles to include in the mkv's.  The source were dvd5's, so they were already compressed down from the original dvd9's.  However, everything came out with a pretty good quality.  Not quite the quality of the rest of the series I posted (due to compressed originals), but pretty close.  I am currently uploading the x-files series.  When I'm done with that, I will post the Sliders season 5.  I will post a link here after it goes up.  Thanks again to ili2882 !!!"
+[V],meech,2012-04-14T04:36Z,Season 5 here: http://thepiratebay.se/torrent/7163399/Sliders.Season.5.DvdRip.x264.AC3-MCH_
+,phibins,2012-06-13T07:03Z,"Can someone tell me how to fix the audio for episodes 5-22???
+
+THERE IS NO AUDIO FOR THOSE EPISODES!!!!!
+
+(I tried in VLC and WinMediaPlayer)"

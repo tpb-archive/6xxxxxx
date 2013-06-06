@@ -1,0 +1,22 @@
+MAIN
+- Improved Server communication
+- Added, Support area access
+- Goto Options->Server->Server List (make selection on 'Support') then Goto Support - button will enabled
+
+NK
+- Added, Standalone BB5PLUS SL2 No TP Unlocker
+- PM Auth checkbox also added for some phones which need SUPERDONGLE to be authorized while writing PM120 and PM308
+- Added, DCT4PLUS "on the fly" imei changes
+- Improved, DCT4PLUS "on the fly" unlock patch (+new security also supported)
+- Improved, PM read and write (if field not checked will be skipped)
+- To Open PM, you can now Drag And Drop PM file to listbox
+- Fixed, BB5 loaders bug for new phones
+- Fixed, image download
+- Fixed, BB5 auto set RX2
+- Fixed, DCT4PLUS Online Logger bug
+- minor bug fixes
+
+VCOM
+- Fixed, PK-83 binary for MXKEY REV 2.0 compability
+
+#Siemens FREE module recompiled for new api & library compability.

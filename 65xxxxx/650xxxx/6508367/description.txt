@@ -1,0 +1,31 @@
+├óΓé¼ΓÇ¥ FOR MAC OS X ├óΓé¼ΓÇ¥
+
+Complete patches separate in folders for World of Warcraft 3.0.1 to 3.3.5a, the most common version required to play in private servers.
+
+This torrent contains the following WoW patches for Mac OS X:
+
+WoW-3.x.x-to-3.2.0-enUS-patch (1.2GB)
+WoW-3.2.0.10192-to-3.2.0.10314-enUS-patch (4MB)
+WoW-3.2.0.10314-to-3.2.2.10482-enUS-patch (36MB)
+WoW-3.2.2.10482-to-3.2.2.10505-enUS-patch (4MB)
+wow-3.2.2-to-3.3.0-enUS-OSX-patch (682MB)
+WoW-3.3.0.10958-to-3.3.0.11159-enUS-patch (8MB)
+WoW-3.3.0.11159-to-3.3.2.11403-enUS-patch (158MB)
+WoW-3.3.2.11403-to-3.3.3.11685-enUS-patch (119MB)
+WoW-3.3.3.11685-to-3.3.3.11723-enUS-patch (4MB)
+WoW-3.3.3.11723-to-3.3.5.12213-enUS-patch (28MB)
+WoW-3.3.5.12213-to-3.3.5.12340-enUS-patch (11MB)
+
+
+TROUBLESHOOT
+If you are having trouble installing a patch (eg. Blizzard Updater won't launch or open), open the Terminal and type the following commands (ENTER/RETURN after every line):
+
+cd path/to/wowpatchesfolder/
+find . -type d -exec chmod 777 {} \;
+find . -type f -exec chmod 777 {} \;
+
+Now try install again, this should work. 
+
+Please help to seed.
+
+Hope you enjoy! :)

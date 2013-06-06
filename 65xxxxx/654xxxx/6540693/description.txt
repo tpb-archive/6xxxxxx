@@ -1,0 +1,13 @@
+PCLinuxOS KDE MiniMe 2011.07 for 32 bit computers (works on 64 bit computers too) is now available for download.
+Whatâ€™s new:
+Kernel â€“ The kernel was updated to version 2.6.38.8-3pclos. Additional kernels are available from our repositories such as a PAE kernel for computers with more than 4 gigs of memory. A BFS kernel for maximum desktop performance and a standard kernel with group scheduling enabled.
+Xorg â€“ Xorg server was updated to version 1.10.3. Mesa updated to 7.10.3 and libdrm to version 2.4.26. This update brings enhancements to the PCLinuxOS desktop including speed, 3D desktop support for most Intel, Nvidia and AMD/ATi video cards, better font rendering, black screen fixes for most Nvidia cards, better Flash playback and more. The most recent versions of Nvidia and AMD/ATi video drivers are included on the LiveCD and automatically configured for you.
+Toolchain â€“ Gcc software compiler was updated to version 4.5.2 and glibc updated to 2.10.1. Locales were updated to version 2.12.1.
+Package Manager â€“ RPM was updated to version 4.8.1. apt-get and the Synaptic Package Manager were also updated to work with the updated rpm packages.
+Theme Update â€“ The 2011 release received a full makeover. PCLinuxOS features a new brush metal theme including updates to grub, plymouth, kdm, kdesplash and application splash screens.
+Remastering Tools â€“ mylivecd was updated to work with the latest release. mylivecd added the ability to install PCLinuxOS from the boot menu without having to go to the desktop first. There are 3 compression schemes available now for remastering your installation. xz maximum compression, xz normal compression and gzip for fast compression. xz max takes longer to generate the LiveCD but produces the most compressed image where as gzip will create a LiveCD fairly quick but the compressed image will be larger. mylivecd can also generate a LiveDVD with up to 4 gigs of compressed data. Usually a 10-12 gig installation will compress into a 4 gig DVD.
+Software â€“ Basic KDE 4.6.5 desktop and configuration tools. This is a barebones installation. No other software included on the the LiveCD. This release is for advanced users who know what software they want and how to install and configure it. Over 13,000 software packages available to customize your MiniMe installation.
+ 
+http://www.pclinuxos.com/
+
+md5sum : 08976771c0632004372c9b117f7b9290  pclinuxos-kde-minime-2011.07.iso

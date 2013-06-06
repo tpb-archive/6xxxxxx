@@ -1,0 +1,38 @@
+Jetico BestCrypt 8.23.0
+
+The BestCrypt Data Encryption system provides the most comprehensive and easy-to-use secure data storage and access control facilities available. BestCryptâ€™s data encryption method uses encryption algorithms known world-wide and provides unparalleled protection against unauthorized data access. BestCrypt is easy to install, easy to use and totally transparent for application programs. Your data is BestCryptâ€™s only concern, and it enhances your basic right to keep documents, commercial proprietary knowledge, and private information, in a confidential fashion.
+
+The BestCrypt Data Encryption system provides the most comprehensive and easy-to-use secure data storage and access control facilities available. BestCryptâ€™s data encryption method uses encryption algorithms known world-wide and provides unparalleled protection against unauthorized data access. BestCrypt is easy to install, easy to use and totally transparent for application programs. Your data is BestCryptâ€™s only concern, and it enhances your basic right to keep documents, commercial proprietary knowledge, and private information, in a confidential fashion.
+
+Once written to a BestCrypt file (container), data is never stored in an â€˜openâ€™ condition. Yet BestCryptâ€™s smooth operation and complete transparency allow any authorized user to get instant access to the data.
+BestCrypt's advanced data encryption and authorization technology provides a new level of security with standard, proven and published cryptographic algorithms, safe password input, and transparent encryption.
+
+BestCrypt creates and supports encrypted virtual disks, which are visible as regular disks with corresponding drive letters (for example, D:, K:, Z:, i.e. with any drive letter that is not used by another system device).
+BestCrypt allows encrypting data with many encryption algorithms (AES, Blowfish, Twofish, CAST and others). Every algorithm is implemented with the largest possible key size defined in the algorithm's specification. BestCrypt v.8 can utilize LRW Encryption Mode, which is specially designed for applications working on disk sector level and more secure than other popular modes used earlier (like Cipher Block Chaining (CBC) mode).
+
+The data stored on a BestCrypt disk is stored in the container file. A container is a file, so it is possible to backup a container, move or copy it to other disk (CD-ROM or network, for instance) and continue to access your encrypted data using BestCrypt.
+
+Any free drive letter in the system may be used to mount and to open an encrypted file-container for access. As well, with BestCrypt v.8 you can mount file-container as a subfolder on NTFS disk. When the virtual disk is opened, you can read and write data as if it were a conventional removable disk.
+
+BestCrypt version 8 provides users with a higher security level as well as with a set of new functions. Besides, there are several ways of encrypting data in version 8:
+- Storing encrypted data in containers and accessing the data through virtual drives (as earlier versions of the software do);
+- Encrypting set of files into a single compressed and, if needed, self-extracting archive (read more information in BCArchive article);
+- Encrypting and accessing transparently whole Windows partitions/volumes (read more information in BestCrypt Volume Encryption article).
+
+BestCrypt allows encrypting data with many encryption algorithms. Every algorithm is implemented with the largest possible key size defined in the algorithm's specification:
+- AES (Rijndael) - 256-bit key.
+- Blowfish - 448-bit key.
+- CAST - 128-bit key.
+- GOST 28147-89 - 256-bit key.
+- RC6 - 256-bit key.
+- Serpent - 256-bit key.
+- Triple-Des - 168-bit key.
+- Twofish - 256-bit key.
+
+Note: that BestCrypt v.8 supports also the following algorithms to provide compatibility with earlier versions of the software: Blowfish (256-bit key), Blowfish (128-bit key), DES (56-bit key).
+
+BestCrypt is compatible for 32/64-bit Windows Vista/XP/2003 Server/2000/NT/ME/9x
+
+Home page - http://www.jetico.com/
+
+

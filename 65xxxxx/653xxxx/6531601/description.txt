@@ -1,0 +1,26 @@
+Windows Stress Test Tools
+-------------------------
+
+This is a tool from the Windows 2003 Resource Kit:
+
+- cpu.bat
+Starts 128 threads per cpu. Will bring your cpu-load up to 100%.
+
+- diskspace.bat
+Will consume all available diskspace on all harddrives. Useful to see how Windows will handle it when there is no more disk space.
+
+- kernel.bat
+Uses up all kernel-memory, and starts 128 threads within the Windows kernel.
+
+- memory.bat
+Uses up all physical memory. BEWARE! Your pc will halt. It may take ages to stop this tool!
+
+- pagefile.bat
+Uses up the entire pagefile.
+
+- all.bat
+Runs all of the above tests.
+
+
+
+/Ubehage

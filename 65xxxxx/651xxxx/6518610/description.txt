@@ -1,0 +1,91 @@
+FreeDOS is a free DOS-compatible operating system for IBM-PC compatible systems. FreeDOS is made of up many different, separate programs that act as "packages" to the overall FreeDOS Project.
+We welcome new users to FreeDOS. You can contribute to the FreeDOS Project by downloading our latest release and telling us what you think. We have a bug tracking system that helps you report problems and submit requests, and otherwise tell us how to improve FreeDOS. By participating in the development and debugging process, you help everyone.
+ 
+http://www.freedos.org/freedos/about/ 
+http://sourceforge.net/news/?group_id=5109&id=301680
+
+FreeDOS 1.1 - TEST RELEASE - RELEASE CANDIDATE
+THIS IS A TEST RELEASE - THIS IS NOT THE FINAL FREEDOS 1.1 DISTRIBUTION!
+PLEASE ONLY DOWNLOAD THIS VERSION IF YOU INTEND TO TEST AND PROVIDE
+FEEDBACK. DO NOT DOWNLOAD IF YOU ARE LOOKING FOR A STABLE VERSION.
+FreeDOS is a free DOS-compatible operating system for IBM-PC
+compatible systems. FreeDOS is made of up many different, separate
+programs that act as "packages" to the overall FreeDOS Project.
+Right now the main use is running old games and software, but you
+might encounter it on some freshly sold computers, motherboard setup
+CDs, BIOS flashing diskettes, embedded hardware and other uses.
+While FreeDOS itself is basically just the DOS-C kernel as created by
+Pat Villani, over the years many people have added programs (often
+licensed as GPL, other times as freeware, public domain or a custom
+license) to form a distribution so you actually get some additional
+drivers and programs to run.
+What's new since 1.0 (2006):
+ FreeDOS kernel 2040 (Bart Oldeman, Jeremy Davis and others. Should
+  fix fat32 file corruption).
+ mtcp (Michael Brutman), a suite of high-performance TCP/IP
+  applications for any x86 computer.
+ an initial attempt at USB controller support (Bret Johnson). So far
+  only UHCI (Intel/Via USB1.1 12mbit/1.5mbit).
+ new Syslinux features (see installation notes, below) including free
+  CD-driver for non-emulation booted CD/ISO.
+ generic PCI IDE cache/cdrom driver (Jack R. Ellis) including
+  PIO/UDMA modes for (P)ATA/SATA harddisks and CD.
+ new installation menu when starting from CD, intended to reduce
+  amount of menus you have to respond to.
+ universal BIOS backup program, see http://www.flashrom.org .
+ updated memory drivers (HMA&XMS, UMB&EMS) with many thanks to
+  Japheth, Jack, Michael Devore and Tom Ehlert
+ 4DOS 8.00 command interpreter has been added, many thanks to
+  Luchezar Georgiev for updating JPSOFT's code
+ installation scripts have been streamlined.
+ very limited USB flash disk support (often showing up as C: )
+ many new versions of many programs. Features and fixes as usual.
+ ..
+Removed:
+ LBAcache, as UIDE now takes over read-ahead caching. Hopefully not
+  only covers 586+ but also 386/486.
+ CDRcache, as UIDE now takes over read-ahead caching. Hopefully not
+  only covers 586+ but also 386/486.
+ Unstable kernel 2039. Replaced by 2040.
+Installation notes:
+ the FreeDOS 1.1 distribution itself is stored as a single (ISO9660
+  CD-image) file on CD.
+ right now the only way to install is to boot the CD, then select
+ bottom option.  this loads the entire collection of FreeDOS 1.1
+ installation files in system memory.  Only now you select option 1
+ (installing FreeDOS).
+ Should you wish to keep things really simple, get a bootdisk and
+  perform the following commands:
+  1) FDISK (to create an active primary partition which should use the
+  FAT16 or FAT32 filesystem)
+  2) FORMAT C: (creates an empty filesystem on C:, also erases all
+  previous software/data)
+  3) SYS C: (writes bootsector to C: and copies kernel and shell)
+  4) Whatever you'd like to do next.
+Installation issues:
+ due to there being an ISO on the CD, without the Memdisk/ISO method
+ you'll need to boot the small diskette image and/or a bootdisk, then
+ locate the CD, then mount the ISO file before continuing. General
+ commands to do so:
+ SHSUCDHD /F:D:\ISOLINUX\FDBOOTCD.ISO
+ (or whatever your CD drive is, instead of D: )
+ SHSUCDX /D:SHSU-CDH
+ Then switch to the newly added drive and type SETUP
+ You can copy the inner ISO to harddisk or USB flash drive if you
+  like and mount it there
+ Bootdisk menu currently not working
+ ..
+Limitations:
+ Only the BASE set has been packaged, thus meaning the LiveCD
+  environment is missing completely.
+ If installing from USB flash drive, be careful. Your flash drive
+  might show up as C: ..
+ ..
+TODO:
+ updating ODIN directory (ready to run binaries)
+ adding sources for BASE set (GPL requirements)
+ adding additional sets
+ adding useful programs
+ creating disksets
+ fixing bootdisks
+ ..

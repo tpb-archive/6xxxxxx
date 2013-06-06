@@ -1,0 +1,33 @@
+MixMeister Fusion: PORTABLEandSTEALTH
+
+Website       : http://www.mixmeister.com/products_mmfusion.html
+Category      : Audio Software
+Version       : 7.4.4.0
+Price         : $329.95 USD
+License       : Payware
+Dependencies  : None
+Language      : English
+Requirements  : Vista, 7, 32/64
+Stealth    [?]: Yes
+Portable   [?]: Yes
+Format     [?]: NSIS (Nullsoft Scriptable Install System)
+Activated  [?]: Yes
+How to Use [?]: Extract to desired location, launch "MixMeister_Fusion.exe".
+First Use  [?]: Adjust "VST Plugin Directory" in Options > Effects to "OzoneMP".
+Synopsis   [?]: MixMeister software isn't quite like anything else on the market. 
+It's designed for people who care enough about their music to refine a mix until 
+itâ€™s perfect, rather than throw everything together on the fly and hope that it 
+sounds OK. You won't be limited by on-screen simulations of turntables or CD 
+players, either -- you can "tweak" any part of your mix creation in a timeline 
+instead. When you've got the mix just the way you want it, you can play it, burn
+it to CD, stream it over the Web, or reshape it in real-time for live 
+performances.
+
+[Optional]
+GEAR Driver: used for CD burning capabilities. There are much better 
+alternatives that are free & stealth like "ImgBurn". But if you insist, GEAR
+is included as a separate install.
+
+[Note]
+Kaspersky Anti-Virus falsely identifies as "Keylogger" because MixMeister
+uses hotkeys. 

@@ -1,0 +1,176 @@
+Formatted for Apple TV 2
+
+
+General
+Complete name                    : Office Space.m4v
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 1.60 GiB
+Duration                         : 1h 29mn
+Overall bit rate                 : 2 565 Kbps
+Genre                            : Comedy
+Recorded date                    : 1999
+Cover                            : Yes
+iTunEXTC                         : mpaa|R|400|
+
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 1h 29mn
+Bit rate mode                    : Variable
+Bit rate                         : 1 950 Kbps
+Width                            : 1 280 pixels
+Height                           : 688 pixels
+Display aspect ratio             : 1.860
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Minimum frame rate               : 11.987 fps
+Maximum frame rate               : 23.981 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.092
+Stream size                      : 1.22 GiB (76%)
+Writing library                  : x264 core 112
+Encoding settings                : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Material_Duration                : 5355308
+Material_StreamSize              : 1305488088
+Material_FrameCount              : 128398
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio #1
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 1h 29mn
+Bit rate mode                    : Variable
+Bit rate                         : 160 Kbps
+Maximum bit rate                 : 267 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 102 MiB (6%)
+Material_Duration                : 5355307
+Material_StreamSize              : 107047565
+
+Audio #2
+ID                               : 3
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : ac-3
+Duration                         : 1h 29mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 286 MiB (17%)
+Material_Duration                : 5355296
+Material_StreamSize              : 299896576
+
+Text #1
+ID                               : 4
+Format                           : Timed text
+Muxing mode                      : sbtl
+Codec ID                         : tx3g
+Duration                         : 1h 24mn
+Bit rate mode                    : Variable
+Bit rate                         : 91 bps
+Stream size                      : 56.2 KiB (0%)
+Language                         : English
+Material_Duration                : 5090040
+Material_StreamSize              : 57592
+
+Text #2
+ID                               : 5
+Format                           : Timed text
+Muxing mode                      : sbtl
+Codec ID                         : tx3g
+Duration                         : 1h 24mn
+Bit rate mode                    : Variable
+Bit rate                         : 66 bps
+Stream size                      : 41.2 KiB (0%)
+Language                         : Czech
+Material_Duration                : 5090040
+Material_StreamSize              : 42185
+
+Text #3
+ID                               : 6
+Format                           : Timed text
+Muxing mode                      : sbtl
+Codec ID                         : tx3g
+Duration                         : 1h 24mn
+Bit rate mode                    : Variable
+Bit rate                         : 82 bps
+Stream size                      : 51.0 KiB (0%)
+Language                         : French
+Material_Duration                : 5089900
+Material_StreamSize              : 52249
+
+Text #4
+ID                               : 7
+Format                           : Timed text
+Muxing mode                      : sbtl
+Codec ID                         : tx3g
+Duration                         : 1h 24mn
+Bit rate mode                    : Variable
+Bit rate                         : 78 bps
+Stream size                      : 48.7 KiB (0%)
+Language                         : Portuguese
+Material_Duration                : 5089728
+Material_StreamSize              : 49916
+
+Text #5
+ID                               : 8
+Format                           : Timed text
+Muxing mode                      : sbtl
+Codec ID                         : tx3g
+Duration                         : 1h 23mn
+Bit rate mode                    : Variable
+Bit rate                         : 66 bps
+Stream size                      : 40.6 KiB (0%)
+Language                         : Slovenian
+Material_Duration                : 5007811
+Material_StreamSize              : 41537
+
+Text #6
+ID                               : 9
+Format                           : Timed text
+Muxing mode                      : sbtl
+Codec ID                         : tx3g
+Duration                         : 1h 24mn
+Bit rate mode                    : Variable
+Bit rate                         : 68 bps
+Stream size                      : 42.5 KiB (0%)
+Language                         : Spanish
+Material_Duration                : 5090037
+Material_StreamSize              : 43534
+
+Text #7
+ID                               : 10
+Format                           : Apple text
+Codec ID                         : text
+Duration                         : 1h 7mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 bps
+Stream size                      : 1.03 KiB (0%)
+Material_Duration                : 4054000
+Material_StreamSize              : 1058
+

@@ -1,0 +1,27 @@
+Why use key-changer?
+1. So you don't have to go offline while changing key files.
+2. You don't need to type that 1111-1111... serial code everytime.
+
+Just drag and drop the key file on the window and be done!
+
+Requirement:
+------------
+Kaspersky folks have a habit of black-listing every key changer or trial-resetter program as false-positive virus.
+So, I'm not supplying any .exe file but a simple autohotkey script (.ahk)
+in order to use this .ahk file, you must FIRST Install autohotkey from following site
+ 
+http://www.softpedia.com/get/System/OS-Enhancements/AutoHotkey.shtml
+
+And then 3 easy steps:
+----------------------
+1. delete the old license.
+ 
+http://www.imagebam.com/image/9a8788138851931
+
+2. launch "Kaspersky 2012 keychanger.ahk" 
+http://www.imagebam.com/image/775fe5138851933
+
+3. drag and drop the key file
+
+DONE!
+

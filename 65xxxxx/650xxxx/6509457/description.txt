@@ -1,0 +1,46 @@
+Revised correct CUE sheets and flac.cue files for my torrent located at:
+ 
+http://thepiratebay.org/torrent/6458895/Led_Zeppelin_Discography_(orig_1980s_Barry_Diament_masters)_EAC-
+
+
+
+------------
+
+A note from jimclip:
+
+Hello all: This addendum of Revised CUE sheets (and brand new flac.cue sheets) is for my torrent entitled "Led Zeppelin Discography (orig 1980s Barry Diament masters)", which I originally uploaded to The Pirate Bay on 6-10-2011 and which was reposted on Demonoid by Tmaxx666 a few days later. I believe I also posted it at Kickass Torrents.
+
+My original Pirate Bay torrent is located at: http://thepiratebay.org/torrent/6458895/Led_Zeppelin_Discography_(orig_1980s_Barry_Diament_masters)_EAC-
+
+
+THE SHORT STORY:
+Some of the original CUE sheets I posted with my torrent were flawed. This ZIP file contains correctly revised CUE sheets, along with correct flac.cue files that can be used with EAC, Burrrn, Nero, etc. to create a proper audio CD (with correct pre-gaps) from the FLAC files without having to convert to WAV first. If you don't use CUE sheets, i.e. if you simply play or convert the FLAC files directly without using the CUE sheets, then you don't necessarily need these revised versions nor the flac.cue files. Either way, the original FLAC files in my torrent are just fine; there was no need to re-rip them; I only needed to re-create the CUE sheets using EAC's Gap Detection Method A instead of Method B.
+
+Truth be known, my original CUE sheets for Led Zeppelin I and Disc 1 of The Song Remains the Same appear to be OK, as were those for Physical Graffitti (which wasn't my rip), but I went ahead and provided Revised CUE sheets for ALL of the albums, just to be both safe and complete -- especially to avoid confusion since I'm including flac.cue files this time around.
+
+My apologies if you burned CDs from my original CUE sheets and the discs came out incorrect. Again, if you burned just the FLAC files directly with Nero, Roxio, Easy CD Creator, Toast, etc. without using the CUE sheets, your CD-R should be OK.
+
+******
+If you are still seeding this torrent, or plan to again in the future, remember not to delete the original flawed CUE sheets from the folders; otherwise the torrent will show as incomplete when you seed or re-seed because the original CUE files are now missing. It is OK, however, to move or copy the REVISED.cue and flac.cue files found in this ZIP file into the respective album folders inside the torrent folder, which of course you must do since CUEs must be in the same folder with the song files. It's fine to ADD files to a torrent folder -- just don't ever REMOVE anything.
+******
+
+THE LONG STORY:
+As you'll see in the torrent comments on Pirate Bay, a user named BOMM2 pointed out that there were flaws in my CUE sheets. He is partly correct. For those who care, I had EAC set to use "Gap Detection Method B", when in fact I should have used Detection Method A. This is one of the few settings in EAC that you can only determine by testing and trial & error. The EAC experts say that it doesn't really matter whether you use A, B, or C method, only that you should use which ever of the three settings works fastest with your drive. In truth, Method B worked reasonably fast for me in creating these rips, but it produced flawed CUE sheets, with strange INDEX 00 values and incorrect pre-gaps. Thus if you drag the flawed CUE sheet to certain audio players (such as XLD for Mac), and then play the files from the CUE sheet, in some cases the time index slider would hit the far right and stop moving halfway through the song, and the counter would quit advancing although the song kept playing. In other cases, if you try to use the slider to advance to a certain point in the song, the player would advance to the next song instead. More than likely burning a CD using the flawed CUE sheets would produce unacceptable results; the songs may or not play all the way through in a standard CD player, but more than likely at the very least the time indexes won't advance all the way through the songs.
+
+Above I mentioned that BOMM2 was partly correct in his comment saying that EAC refuses to burn the albums due to the CUE sheets. He's correct that I needed to re-create the CUE sheets using the correct setting, but the reason EAC (and Burrrn and probably Nero, etc. too) would not accept my CUE sheets is because the CUE sheets reference the WAV version of the song. So you have to convert the FLAC files to WAV first, then put the WAVs in the same folder with the FLACs, and THEN you can drag the CUE sheet to EAC or Burrrn, and they should read just fine. When ripping with EAC, it first converts the data on the CD to WAV, then it converts the WAVs to FLAC or whatever final format you choose, then it discards the WAVs (at least that's the way most people have EAC set). So although EAC can create FLACs, it's not "smart" enough to realize that when you rip to FLAC, the cue sheets should probably contain "songname.flac" rather than "songname.wav." It assumes people will convert back to WAV first, even though EAC itself can't convert FLAC to WAVâ€¦.you have to use another program!!! Makes no sense. Like someone once told me, it's akin to taking your car to a mechanic who says he can take it apart and fix it, but he can't put it back together again.
+
+In situations like this, the other easier option rather than converting to WAV before burning is to create a copy of the CUE sheet, then open it in a text editing program such as Notebook for PC or TexEdit for Mac, then select the Find/Replace function and replace all instances of .wav" WAV (that's dot wav followed by a single set of quote marks, then a space, then WAV) and replace with .flac" FLAC   --Then save your changes and rename the CUE sheet Whatever.flac.cue instead of just Whatever.cue. Now you can use the flac.cue directly with EAC and Burrrn  without having to convert the FLACs back to WAV before burning.
+
+For your convenience, I went ahead and created flac.cue files from the Revised CUE sheets, using the find/replace method I just described, and included them alongside the Revised CUE files. I should have included flac.cue files the first time around.
+
+Remember:
+* The FLAC files included with my original torrent are just fine. Even if I had also re-ripped the FLAC files at the same time I was creating these Revised CUE sheets, the resulting FLACs would be exactly the same. The problems only come in when you use the flawed CUE sheets to "load" the FLACs into certain burning or playback programs, thus imposing the incorrect CUE data onto the FLAC files.
+* If you are the kind of user who doesn't bother with CUE sheets and just converts the FLACs directly to MP3 or other format for portable use, or if you simply playback the FLACs directly, or if you just drag the FLAC files themselves to a burning program to create a CD-R copy of the album, then you don't need these revised CUE sheets (though you might want to grab them for future useâ€¦.they are text files thus very very tiny).
+
+
+Hope this helps some folks. Any questions or comments, drop me an email. And sorry for the problems with an otherwise flawless torrent.
+
+jimclip@gmail.com
+July 1, 2011
+
+--------------------------

@@ -1,0 +1,13 @@
+Easy rescue system with GUI tools for full system backup, bare metal recovery, partition editing, recovering deleted files, data protection, web browsing, and more. Uses partclone (like Clonezilla) with a UI like Ghost or Acronis. Runs from CD/USB.
+
+Version 1.0.1 (2011-08-09)
+
+LVM2 support added
+Fixed HFS+ bug that prevented the proper partclone tool from being called
+Minor changes to boot menu
+Safe mode boot option now prompts user to select a valid video mode
+ 
+http://redobackup.org/
+
+sha1sum : 2cd6e02760cd4221f70e4414e73e3eefe907ce2a  redobackup-livecd-1.0.1.iso
+md5sum : e2747031f4530aa2f6f05417dda1c610  redobackup-livecd-1.0.1.iso

@@ -1,0 +1,46 @@
+User Type,Username,Date,Text
+,w00t13,2011-07-29T15:37Z,No virus scans...I'll dl and see if it has anything on it before I leave any feedback...
+,License.To.Copy,2011-07-30T17:13Z,"I download this from here I think:
+http://www.linxdown.eu/355399-devexpress-dxperience-version-2011-vol-1.4.html
+...and posted as torrent."
+,agungsp2000,2011-10-28T13:39Z,"Im trying to download newer version and using patch inside this torrent... i'll let know if this will works
+==
+PATCH README
+Please, read this text up to the end.
+This patch brakes licensing mechanism of DevExpress products (both components and IDE tools). It works in memory at design time. In this version of patch no assemblies changes.
+This patch is provided AS IS, no warranties, use it for your own risk. Use it for research purpose only. If you like DevExpress products you should buy them.
+If you have installed my previous patch you should uninstall it.
+Specially thanks to johnnyxp64 for testing this patch.
+
+REQUIREMENTS TO RUN THIS PATCH
+-Close Visual Studio
+-Install DevExpress products
+-Disable any antiviruses and system protectors (including UAC)
+-Remove any other DevExpress cracks (if exist)
+-Run this patch as administrator and follow instructions
+
+NEW FEATURE
+To check the patching status of your projects click â€˜DevExpress Patch Statusâ€™ in â€˜Toolsâ€™ menu of VS. The status will be printed in Output window, but this window will not shows automatically, to open it use View->Output command. In Some cases this command disappears in VS2010, to fix it uninstall patch, open Visual Studio and make sure the patch was uninstalled, close VS and install patch again.
+
+FAQ
+Q: Witch versions of DevExpress products this patch support?
+A: It supports all existing 2009.X.X â€“ 2011.X.X versions.
+Q: What kinds of DevExpress products this patch support?
+A: It supports all kinds of DevExpress products.
+Q: Will it works with new DevExpress releases?
+A: Maybe. After installing new version of DevExpress products run this patch in â€œInstall or Modifyâ€ mode.
+Q: When I build my existing project it shows nag screen at runtime or errors when building. Whatâ€™s wrong?
+A: Delete â€œlicenses.licxâ€ file from your project and then open all visual designers of your project in Visual Studio and then rebuild it.
+Q: Whether additional actions to run my application at the client machine are required?
+A: No.
+Q: Patch is not working for projects in source control.
+A: Check if â€˜licenses.licxâ€™ file is writable in your project.
+Q: Patch was installed without any errors, but itâ€™s not working for me.
+A: Check if you are running Visual Studio as administrator.
+
+Thanks for reading, You can continue now."
+,agungsp2000,2011-10-28T15:34Z,patch failed with devexpress 2011.1.8
+,S1l4s,2011-11-01T12:12Z,Very good! It's install but I not able to publish any project because projcet build allways fail.
+,divex1989,2012-02-13T15:15Z,"i installed the patch, but each time i use the gridview it gives me the trial version message, is this norma?"
+,somedude72,2012-03-15T22:00Z,"Can anyone confirm that this actually works, and is not just the trial?"
+,djRaffy,2012-05-09T12:13Z,i got stack at 25% while patching! what should i do?? i waited almost an hour

@@ -1,0 +1,10 @@
+Iâ€™m very happy to announce the stable release of Kongoni 2011 (codename Firefly). Most bugs and glitches have been removed and we can say now that Kongoni is ready for the stable release.
+Some extensive work has went into the Live CD and initrd. We have moved to initramfs for the Live CD, udev is used now and there is no limitation in space when creating the initramfs as we dropped dd and mkfs.ext2 in favor of cpio. This also should make the Live CD a bit faster and much more reliable.
+KDE has been updated to version 4.6.5 due to some bug fixes, Icecat updated to version 5.0, Gnash updated to version 0.8.10-dev, BackInTime 1.0.8 added as a default backup tool and LibreOffice 3.4.1 is now available in the repository.
+Some tests have been done on physical systems, Kongoni has been running on several laptops/desktops differing in hardware specs and most parts functioned out of the box. Now there are some issues with some hardware which require non-free firmware, but Kongoni is a fully free distro which means, non-free firmware wont be available and normally the hardware wont work.
+ 
+http://www.kongoni.org/index.php/2011/07/15/kongoni-gnulinux-2011-firefly-released/#more-316 
+http://www.kongoni.org/
+
+md5sum : d662305c0664ad0fb246a299da401b9e  kongoni-2011-i486-stable-firefly.iso
+sha1sum : 0aeaf5bb176e01c342d570107ea604f30032615b  kongoni-2011-i486-stable-firefly.iso

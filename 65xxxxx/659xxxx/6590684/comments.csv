@@ -1,0 +1,87 @@
+User Type,Username,Date,Text
+,nmsakura,2011-08-12T13:00Z,Is this the demo?
+,nmsakura,2011-08-12T15:48Z,"Works like a charm! Except when I close the application it gives me this:
+
+SWiSH Application Error:
+
+Fault occured in: 
+Fault occured at: Friday, August 12, 2011 13:46:55 GMT
+SWiSHmax2 Build: 2010.11.02
+Operating System: Unknown Windows 6.0 
+
+Free Windows Resources: Sys=100% Gdi=100% Usr=100%
+Memory in use: 44% in use
+Physical Memory: 1678 MB free of 2047 MB total
+Paging File: 4095 MB free of 4095 MB total
+Virtual Memory: 1834 MB free of 2047MB total
+
+Exception code: C0000005 ACCESS_VIOLATION
+Fault address:  004959B5 01:000949B5
+in module: C:\Program Files\SWiSH Max4\swishMax4.exe
+
+Registers:
+EAX:00000000
+EBX:0467AC00
+ECX:00000000
+EDX:0000000E
+ESI:04696260
+EDI:04696260
+CS:EIP:001B:004959B5
+SS:ESP:0023:0012EAEC  EBP:0012EB18
+DS:0023  ES:0023  FS:003B  GS:0000
+Flags:00010246
+
+IntelStackWalk : Call stack:
+Address   Frame     Logical addr  Module
+004959B5  0012EB18  0001:000949B5 C:\Program Files\SWiSH Max4\swishMax4.exe
+0075F68A  0012EB40  0001:0035E68A C:\Program Files\SWiSH Max4\swishMax4.exe
+007609EF  0012EB94  0001:0035F9EF C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD71EB  0012EC28  0001:006D61EB C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD2808  0012EC48  0001:006D1808 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD5927  0012ECB0  0001:006D4927 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD59B6  0012ECD0  0001:006D49B6 C:\Program Files\SWiSH Max4\swishMax4.exe
+7706F8D2  0012ECFC  0001:0001E8D2 C:\Windows\system32\USER32.dll
+77061912  0012ED74  0001:00010912 C:\Windows\system32\USER32.dll
+77070817  0012EDD0  0001:0001F817 C:\Windows\system32\USER32.dll
+7706148F  0012EE00  0001:0001048F C:\Windows\system32\USER32.dll
+776C962E  0012EE54  0001:0005862E C:\Windows\system32\ntdll.dll
+00AF2081  0012EE64  0001:006F1081 C:\Program Files\SWiSH Max4\swishMax4.exe
+00756BC3  0012EE84  0001:00355BC3 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AF3194  0012EEA0  0001:006F2194 C:\Program Files\SWiSH Max4\swishMax4.exe
+0095181F  0012EEB4  0001:0055081F C:\Program Files\SWiSH Max4\swishMax4.exe
+00810505  0012EF18  0001:0040F505 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD71EB  0012EFAC  0001:006D61EB C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD2808  0012EFCC  0001:006D1808 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD5927  0012F034  0001:006D4927 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD59B6  0012F054  0001:006D49B6 C:\Program Files\SWiSH Max4\swishMax4.exe
+7706F8D2  0012F080  0001:0001E8D2 C:\Windows\system32\USER32.dll
+7706F794  0012F0F8  0001:0001E794 C:\Windows\system32\USER32.dll
+77070817  0012F154  0001:0001F817 C:\Windows\system32\USER32.dll
+77070A65  0012F17C  0001:0001FA65 C:\Windows\system32\USER32.dll
+776C962E  0012F230  0001:0005862E C:\Windows\system32\ntdll.dll
+770704B4  0012F24C  0001:0001F4B4 C:\Windows\system32\USER32.dll
+74D9AF85  0012F264  0001:00009F85 C:\Windows\system32\uxtheme.dll
+74DAB5CA  0012F274  0001:0001A5CA C:\Windows\system32\uxtheme.dll
+74D9865F  0012F2C8  0001:0000765F C:\Windows\system32\uxtheme.dll
+74D925F4  0012F2E4  0001:000015F4 C:\Windows\system32\uxtheme.dll
+77070CD2  0012F32C  0001:0001FCD2 C:\Windows\system32\USER32.dll
+7706F8D2  0012F358  0001:0001E8D2 C:\Windows\system32\USER32.dll
+7706F794  0012F3D0  0001:0001E794 C:\Windows\system32\USER32.dll
+770706F6  0012F400  0001:0001F6F6 C:\Windows\system32\USER32.dll
+7707069C  0012F420  0001:0001F69C C:\Windows\system32\USER32.dll
+00AD2698  0012F440  0001:006D1698 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD4981  0012F464  0001:006D3981 C:\Program Files\SWiSH Max4\swishMax4.exe
+0075C2C2  0012F7BC  0001:0035B2C2 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD73F9  0012F858  0001:006D63F9 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD2808  0012F878  0001:006D1808 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD5927  0012F8E0  0001:006D4927 C:\Program Files\SWiSH Max4\swishMax4.exe
+00AD59B6  0012F900  0001:006D49B6 C:\Program Files\SWiSH Max4\swishMax4.exe
+7706F8D2  0012F92C  0001:0001E8D2 C:\Windows\system32\U"
+,nmsakura,2011-08-13T06:34Z,I use Windows Vista.
+,sa1sa,2011-08-13T11:27Z,"sorry don't know what's the issue
+I'm using xp and tested on my lap/win 7..
+all windows working ok.
+
+Info link swishZone :
+http://www.swishzone.com/index.php"
+,nmsakura,2011-08-14T20:34Z,Ok. no problem. It's just annoying.

@@ -1,0 +1,15 @@
+ http://i1211.photobucket.com/albums/cc429/TheSolyom/wincov.png
+
+
+Changes in Version 4.01 (2011-05-30)
+New:
+âœ” Added support for file sizes stored in binary format in TAR archives. Some TAR archives use the binary size format instead of octal for files larger than 8 GB.
+Bugs fixed:
+âœ” "Repair" command failed to properly reconstruct structure of RAR archives, which contained at least one file with packed size exceeding 4 GB. This bug did not affect the recovery record based repair. It happened only if recovery record was not found and WinRAR performed reconstruction of archive structure
+âœ” Even if "Do not extract paths" option in "Advanced" part of extraction dialog was set as the default, WinRAR still unpacked file paths if called from Explorer context menu
+âœ” After entering a wrong password for encrypted ZIP archive, sometimes WinRAR ignored subsequent attempts to enter a valid password
+âœ” "Wizard" command did not allow to create self-extracting and multivolume archives, when compressing a single folder or a file without extension
+âœ” "Import settings from file" command did not restore multiline comments in WinRAR compression profiles
+âœ” When converting RAR volumes having name1.name2.part#.rar name format, "Convert archives" command erroneously removed ".name2" name part. So resulting archive had name1.rar file name instead of expected name1.name2.rar
+âœ” RAR could crash when creating a new archive with -agNNN switch if archive number in generated name was 110 or larger
+âœ” WinRAR failed to display non-English file names in 7-Zip archives properly if they used a non-default code page. It was the display only problem, such names were unpacked correctly.

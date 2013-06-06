@@ -1,0 +1,26 @@
+The REBUG team has released a new version of their custom firmware: REBUG 3.41.3 and
+3.55.2. Also released is REBUG OtherOS++ with the ability to "QA Flag" from GameOS.
+
+What's new in REBUG CFW 3.41.3 and 3.55.2? All this:
+
+UPDATED â€“ Rebug Selector 1.5
+UPDATED â€“ 3.66 Version Spoofer files
+UPDATED â€“ Package Manager file path tweaks
+ADDED â€“ LV1: Peek and Poke support (gitbrew.org)
+ADDED - LV2: Peek and Poke support for LV1 (3.55.2 ONLY) (gitbrew.org)
+ADDED - LV2: LV1 CALL System call (3.55.2 ONLY) (gitbrew.org)
+FIXED â€“ Black Screen issue on certain PS3 titles
+(Uncharted 2 and some other games would not load from Disc or HDD)
+
+FIXED â€“ MINIS Black Screen issue
+FIXED â€“ QA Token compatibility
+FEATURE â€“ NO Button Combo QA Menu when in DEBUG XMB
+( Debug Settings â€“ Menu 1. Requires QA Token for some features)
+
+FEATURE â€“ Fake Save Data Owner
+(Use Game Saves from ANY Owner)
+
+FEATURE â€“ Lock/Unlock Trophies
+FEATURE â€“ Cinavia protection disabled
+FEATURE â€“ Debug for HDD Exchange Utility
+(Clone your HDD straight to USB HDD, NO QA Token needed)

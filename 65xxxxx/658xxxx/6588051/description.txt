@@ -1,0 +1,37 @@
+Tiny Core Linux is a very small (10 MB) minimal Linux GUI Desktop. It is based on Linux 2.6 kernel, Busybox, Tiny X, and Fltk. The core runs entirely in ram and boots very quickly. Also offered are Micro Core, a 6 MB image that is the console based engine of Tiny Core, and Multi Core, which includes Tiny Core, Micro Core, networking tools and an installer. Micro Core contains CLI versions of Tiny Core's programs allowing the same functionality of Tiny Core's extensions, only starting with a console based system.
+It is not a complete desktop nor is all hardware completely supported. It represents only the core needed to boot into a very minimal X desktop typically with wired internet access.
+The user has complete control over which applications and/or additional hardware to have supported, be it for a desktop, a netbook, an appliance, or server, selectable by the user by installing additional applications from online repositories, or easily compiling most anything you desire using tools provided.
+
+The latest version: 3.8
+Final Change Log:
+
+Updated AppsAudit dependencies menu grouping and added Fetch Missing Dependencies.
+Updated AppsAudit - updated error reporting and now reports stale extensions.
+Updated AppsBrowser - clear SearchandProvides field upon results.
+Updated Wallpaper - Improved GUI. Now with a single window.
+Updated screenshot to display file name created upon completion.
+Updated mnttool - added a refresh button.
+Updated wbarconf - support for no initial .wbar
+Updated busybox - 1.18.5 new depmod applet and audit of required applets.
+Updated tc-audit added fetchmissing to fetch missing dependencies.
+Updated tce-load - now allows re-downloading non-installed extensions to better handle download failures.
+Updated tce-setup and tce-load to ensure busybox calls thus avoiding conflicts with various gnu utilities.
+Updated rc.shutdown - removed sleep to improve shutdown speed.
+Updated search.sh - improved searching by title results and support for fat file-system.
+Updated provides.sh - support for fat file-system.
+Updated tce-setup, tce-load, and loadpack.sh - alias for new depmod applet.
+Updated .profile - new user login sudo issue resolved.
+Updated rebuildfstab and tc-config for AOE support.
+Updated tc-functions getpassword to support backspace during input.
+Updated tce-setup for loading tce directory on cdrom and installable via updates to tc-install and tc-grub4dos
+Updated multicore.iso now uses extension directories for network, install, or grub4dos.
+New icons for AppBrowser and AppsAudit.
+
+Thanks go to Gerald Clark for the new AOE support.
+ 
+http://distro.ibiblio.org/tinycorelinux/welcome.html
+
+md5sums : 
+7cea9ccdc703fc2e33729f9f5ebc7124  microcore_3.8.iso
+909c826783d31905963b2fa1657978df  multicore_3.8.iso
+c0a326b36c1ad64024b16d1614f4fc1b  tinycore_3.8.iso

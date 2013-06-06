@@ -1,0 +1,12 @@
+Vuze / Azureus search templates for some popular bittorrent sites:
+BitSnoop
+Demonoid
+KickAssTorrents
+Pirate Bay
+Torrentz
+
+I found these on the web except for the Demonoid and BitSnoop templates which I made myself.
+
+Note1: In order to be able to download torrents from Demonoid you need to log in. To do this click on the lock symbol next to Demonoid and enter your details into the window that pops up. If you do not get the lock symbol go to "Add/Edit" (below the list of search templates), "Create a custom template", select the Demonoid template and click continue, check "Login Required" and enter your details into the window that pops up. Finish the wizard and click "Go back to search"
+
+Note2: In case of two or more websites giving same results Vuze should group the results together by their infohash, except for Demonoid results since Demonoid does not give the infohash in search results.

@@ -1,0 +1,41 @@
+User Type,Username,Date,Text
+[V],polisdavid,2011-07-07T09:55Z,Thank You Seeders!!  âĄÂŹ)
+,laotseu,2011-07-07T17:30Z,Not working under Mac Os Lion !
+,MercuryDice,2011-07-07T17:46Z,Doesn't work with Lion. 
+[V],polisdavid,2011-07-07T18:42Z,"Folks, 
+
+I just rebooted in lion and installed it and i t works great - what type of processors do you have - won't work on a PPC!
+
+DP
+
+remember to copy all you icons to Users/~/Library/Application Supports"
+,MercuryDice,2011-07-07T21:17Z,2.2 GHz. Intel Core 2 Duo. I got the demo from the Panic site and used the preference file in your torrent. Works fine. Thanks.
+,GolemdX,2011-07-21T19:42Z,There is no Lion for PPC. Snow Leopard discontinued PPC support altogether. It works fine. :)
+,rushikh,2011-08-03T20:47Z,"This doesn't work for me using Lion. It always says ""Expired buy now"" and becuase of that it wont let me have more then 250 icons. What am I doing wrong? Please Help Me!"
+,adncmo,2011-08-22T09:42Z,"It works, but if you update to 3.3.2 and then place the pref. file in his place (like the instructions says) it doesn't work."
+,digibyte234,2011-09-03T07:19Z,"@MercuryDice
+@adncmo
+
+Where's the pref file you're referring to? Just want to make sure I'm using the right one."
+,LordEvoken,2011-09-11T01:26Z,"Works perfectly with Lion.
+
+First of all, OSX Lion has made account library hidden. Open up finder, scroll on Go (the menu bar on top) and hold to alt (option) key and Library should become visible.
+
+Proceed to finding preferences and copy/paste the plist."
+,Dannieloco,2011-09-13T22:04Z,"Yea so follow this and it will work perfect on LION
+
+Step 1 Unzip all the files.
+
+Step 2- Search for all copies of com.panic.CandyBar3.plist and delete them from your drive , manually you might find in the folders /Library/Preferences and/or /Users/~you~/Library/Preferences
+
+Step 3 - Launch CandyBar 3 and allow it to call home and update itself if it needs it, once updated, Quit CandyBar 
+
+Step 4 - Copy the com.panic.CandyBar3.plist into your /Users/~you~/Library/Preferences folder
+(OR just open up finder, scroll on Go (the menu bar on top) and hold to alt (option) key and Library should become visible.
+
+Proceed to finding preferences and copy/paste the plist.)
+
+****** Block CandyBar (With Little Snitch) from here on in from calling home to avoid losing the registration and remember to remove the plist if you need to update it later ******!"
+,Dannieloco,2011-09-14T00:43Z,"oh and after you replace the file in both folders... if you CTRL + I and ""lock"" the file.. it will stay hacked forever... no need for lil snitch"
+,wryface,2011-10-06T01:16Z,"Hi, I did as the instructions said but it didn't work, says I can only use it if I purchase it. Also, I didn't have a com.panic.Candybar3 thing to delete... am I doing it rite?"
+,chuckasarus,2011-11-17T15:52Z,Same issues. Delete the preference file and replaced it with the new one. Open up Candybar and it says its expired. I also blocked it with little snitch.

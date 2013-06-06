@@ -1,0 +1,124 @@
+Phoenix-Service-Software-2011.14.004.45945 Cracked
+
+Affected Products or Services
+Service Software Applications
+Introduction
+New version of Phoenix service software is available. This multi-protocol service software supports Nokia CDMA, GSM, TDMA, and WCDMA products.
+
+Bulletin Content
+1. CHANGE HISTORY
+
+
+Version 1: 09.05.2011 Initial version for v 2011.14.3.45843
+
+Vesrion 2: 24.5.2011. RM 701 support added, package version number updated to 2011.14.4.45945. Otherwise same as earlier 2011.14.3.45843
+
+2. INTRODUCTION
+
+Main component versions in the release:
+Ã¢â‚¬Â¢ DK2 Driver Version 07.14.0.25
+Ã¢â‚¬Â¢ Nokia Connectivity Cable USB Driver Version 7.1.40.0 
+Ã¢â‚¬Â¢ Flash Update Package 2011.16.000
+Ã¢â‚¬Â¢ FLS-x Drivers Version 2.09.28
+Ã¢â‚¬Â¢ FUSE Connection Manager v 2011.13 
+
+
+3. MAIN CHANGES & ERROR CORRECTIONS FROM PREVIOUS VERSION 2011.8.5.45529
+
+New Products added 
+Ã¢â‚¬Â¢ RM-776, RM-775, RM-763, RM-773, RM-670, RM-765, RM-774
+
+New features
+Ã¢â‚¬Â¢ New version of FUSE connection Manager
+Ã¢â‚¬Â¢ New version of Flash Update Package
+Ã¢â‚¬Â¢ New version of Autotuning components
+Ã¢â‚¬Â¢ New version of Product API
+Ã¢â‚¬Â¢ New version of Connectivity Cable Driver
+Ã¢â‚¬Â¢ Torque Information - menu implemented. Information concerning screw tightening torques can be shown if product specific data package contains pictures / information files
+Ã¢â‚¬Â¢ Simple Multi Software Updater UI added
+
+Error Corrections & changes
+Ã¢â‚¬Â¢ Improvements to Smart Card Activator: User is now asked to wait during the delay when smart card data is being read
+Ã¢â‚¬Â¢ Crash file upload server correction
+Ã¢â‚¬Â¢ Tucson support for RM-733, RM-732 and 713 implemented. Please note that for these products only Tucson functions can be done with Phoenix, Care Suite must be used for all other activities.
+
+Please note:
+Ã¢â‚¬Â¢ New common data package location in use. Please see document SR1315 in KICS Information Center for further information.
+Ã¢â‚¬Â¢ All Nokia Service Software Applications will use following location for product specific data:
+- Windows XP: C:\Documents and Settings\All Users\Application Data\Nokia\Packages
+- Windows 7: C:\Program Data\Nokia\Packages
+Ã¢â‚¬Â¢ During installation, Data Packages should be installed in these directories, if they install to any other location by default. target folder for local data packages can be changed in the installation wizard manually
+Ã¢â‚¬Â¢ This version contains the latest Tucson components. Therefore it is not necessary to use Tucson Add-On Installation Packages 
+Ã¢â‚¬Â¢ Before you start Phoenix or Care Suite installation to Windows 7 the User Account Control (UAC) should be turned off from Windows Control Panel settings. 
+Ã¢â‚¬Â¢ For more information concerning new options in "Firmware Update" - menu and their use, Please see documents SR1313 and SR1659 in KICS Information Center.
+Ã¢â‚¬Â¢ Tucson operations combined with "flash" - option are now handled in the same way as "refurbishment", which requires Mass Memory Content File to be available. 
+Ã¢â‚¬Â¢ Do not use Flash option simultaneously with product code change for USB Only phones, flash phone separately with Firmware Update
+Ã¢â‚¬Â¢ It is recommended to use FPS-21 flash prommer with TCPIP connection when refurbishing USB Only - phones (RM-596 etc) due to mandatory optional MMC file size.
+Ã¢â‚¬Â¢ Connection media to FLS-5 must be configured to be "USB_FBUS", after FLS-4 support has been removed FBUS does not work anymore with FLS-5
+
+4. KNOWN ERRORS & LIMITATIONS
+Ã¢â‚¬Â¢ Software downgrade with Tucson system is only possible for BB 5.0 products supporting the Data Package 2 concept.
+Ã¢â‚¬Â¢ Flashing with setup FLS-5, SS-46 and product specific adapter is not supported anymore. FLS-5 can be used with other product specific cables and adapters, but not with SS-46 Interface Adapter.
+Ã¢â‚¬Â¢ If you install old DCT-4 data packages, Flash Update Package File installation path may be wrong. This is caused by very old DCT-4 data packages which contain Flash Update Package and overwrite current information during installation. If you experience problems when updating FPS-x prommers, please check that Phoenix Ã¢â‚¬Å“Prommer maintenanceÃ¢â‚¬Â is loo 
+swechacnu at 2011-07-01 12:35 CET: 
+
+Affected Products or Services
+Service Software Applications
+Introduction
+New version of Phoenix service software is available. This multi-protocol service software supports Nokia CDMA, GSM, TDMA, and WCDMA products.
+
+Bulletin Content
+1. CHANGE HISTORY
+
+
+Version 1: 09.05.2011 Initial version for v 2011.14.3.45843
+
+Vesrion 2: 24.5.2011. RM 701 support added, package version number updated to 2011.14.4.45945. Otherwise same as earlier 2011.14.3.45843
+
+2. INTRODUCTION
+
+Main component versions in the release:
+Ã¢â‚¬Â¢ DK2 Driver Version 07.14.0.25
+Ã¢â‚¬Â¢ Nokia Connectivity Cable USB Driver Version 7.1.40.0 
+Ã¢â‚¬Â¢ Flash Update Package 2011.16.000
+Ã¢â‚¬Â¢ FLS-x Drivers Version 2.09.28
+Ã¢â‚¬Â¢ FUSE Connection Manager v 2011.13 
+
+
+3. MAIN CHANGES & ERROR CORRECTIONS FROM PREVIOUS VERSION 2011.8.5.45529
+
+New Products added 
+Ã¢â‚¬Â¢ RM-776, RM-775, RM-763, RM-773, RM-670, RM-765, RM-774
+
+New features
+Ã¢â‚¬Â¢ New version of FUSE connection Manager
+Ã¢â‚¬Â¢ New version of Flash Update Package
+Ã¢â‚¬Â¢ New version of Autotuning components
+Ã¢â‚¬Â¢ New version of Product API
+Ã¢â‚¬Â¢ New version of Connectivity Cable Driver
+Ã¢â‚¬Â¢ Torque Information - menu implemented. Information concerning screw tightening torques can be shown if product specific data package contains pictures / information files
+Ã¢â‚¬Â¢ Simple Multi Software Updater UI added
+
+Error Corrections & changes
+Ã¢â‚¬Â¢ Improvements to Smart Card Activator: User is now asked to wait during the delay when smart card data is being read
+Ã¢â‚¬Â¢ Crash file upload server correction
+Ã¢â‚¬Â¢ Tucson support for RM-733, RM-732 and 713 implemented. Please note that for these products only Tucson functions can be done with Phoenix, Care Suite must be used for all other activities.
+
+Please note:
+Ã¢â‚¬Â¢ New common data package location in use. Please see document SR1315 in KICS Information Center for further information.
+Ã¢â‚¬Â¢ All Nokia Service Software Applications will use following location for product specific data:
+- Windows XP: C:\Documents and Settings\All Users\Application Data\Nokia\Packages
+- Windows 7: C:\Program Data\Nokia\Packages
+Ã¢â‚¬Â¢ During installation, Data Packages should be installed in these directories, if they install to any other location by default. target folder for local data packages can be changed in the installation wizard manually
+Ã¢â‚¬Â¢ This version contains the latest Tucson components. Therefore it is not necessary to use Tucson Add-On Installation Packages 
+Ã¢â‚¬Â¢ Before you start Phoenix or Care Suite installation to Windows 7 the User Account Control (UAC) should be turned off from Windows Control Panel settings. 
+Ã¢â‚¬Â¢ For more information concerning new options in "Firmware Update" - menu and their use, Please see documents SR1313 and SR1659 in KICS Information Center.
+Ã¢â‚¬Â¢ Tucson operations combined with "flash" - option are now handled in the same way as "refurbishment", which requires Mass Memory Content File to be available. 
+Ã¢â‚¬Â¢ Do not use Flash option simultaneously with product code change for USB Only phones, flash phone separately with Firmware Update
+Ã¢â‚¬Â¢ It is recommended to use FPS-21 flash prommer with TCPIP connection when refurbishing USB Only - phones (RM-596 etc) due to mandatory optional MMC file size.
+Ã¢â‚¬Â¢ Connection media to FLS-5 must be configured to be "USB_FBUS", after FLS-4 support has been removed FBUS does not work anymore with FLS-5
+
+4. KNOWN ERRORS & LIMITATIONS
+Ã¢â‚¬Â¢ Software downgrade with Tucson system is only possible for BB 5.0 products supporting the Data Package 2 concept.
+Ã¢â‚¬Â¢ Flashing with setup FLS-5, SS-46 and product specific adapter is not supported anymore. FLS-5 can be used with other product specific cables and adapters, but not with SS-46 Interface Adapter.
+Ã¢â‚¬Â¢ If you install old DCT-4 data packages, Flash Update Package File installation path may be wrong. This is caused by very old DCT-4 data packages which contain Flash Update Package and overwrite current information during installation. If you experience problems when updating FPS-x prommers, please check that Phoenix Ã¢â‚¬Å“Prommer maintenanceÃ¢â‚¬Â is looki 

@@ -1,0 +1,14 @@
+Based on current technology trends, in the near future programmers will have to program chips with hundreds or even thousands of processor cores (called many-core chips). Given the scale of parallelism inherent to these chips, software designers face new challenges in terms of operating systems, middleware and applications. This book will serve as an invaluable, single-source reference to the state-of-the-art in the research and practical programming of many-core chips. It presents new concepts, techniques and programming models for dealing with the challenges posed by many-core chips. Coverage includes many-core hardware architectures, present and future operating systems design, middleware design, and the most promising programming models.
+
+Provides overview of various, existing homogeneous/heterogeneous processor architectures and explains why current programming models wonâ€™t scale when these architectures are scaled to meet the needs of hundreds and thousands of processor cores;
+
+Analyzes emerging hardware architectures and their benefits in dealing with scalability issues;
+Explains challenges and limitations faced by current operating systems and introduces novel solutions, e.g., to resource management and scheduling, illustrated through leading- edge, new operating systems designs;
+
+Explains basic concepts of parallel programming and the laws governing the scalability of applications;
+
+Explains and compares key concepts in the design of software for massively parallel systems, such as shared memory vs. message passing approaches, data vs. computation movement, as well as several emerging techniques;
+
+Explores the most promising programming models for many-core processors, focusing on scalability, such as the task-based model and the actor model;
+
+Surveys and compares the currently available programming frameworks, such as OpenMP, Threading Building Blocks and the Erlang language such as many other libraries and programming languages.

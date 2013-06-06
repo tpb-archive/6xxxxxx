@@ -1,0 +1,93 @@
+ http://www.blackcovegame.com/
+
+Patch 1 - Patch notes
+
+    Hi all!
+
+    A first patch is out now for Pirates of Black Cove. It is already available through Steam and other platforms will get it in the near future.
+
+    The patch is here: http://patches.gamersgate.com/BlackCove_Patch_1.zip
+    Note: This is NOT for Steam or Impulse users - those have their own means of updating the game
+
+    Here's a list of changes done to this update. At the bottom is a list of some known issues - which we are already working on.
+
+
+    -------------------------------------------------------------------------------------
+
+    Version 1.0.1 (Patch 1) 2.8.2011
+
+    Features:
+    - 1001 jokes
+    - Unit radar indicators
+    - Tutorials can be accessed via ingame menu
+    - Tutorial autoscroll
+
+    Looks:
+    - Updated world visuals
+    - Updated conversation window
+    - New intro video
+    - Added volcano smoke particle effect
+    - Active skill highlight
+    - Fixed PhysX glitches/stutter
+
+    Missions:
+    - More time in shrimpbuck mission
+    - Improved mission tracking in various places
+    - Buccaneer FM1 crash fix, conversation camera
+    - Buccaneer FM4 tracking fix
+    - Buccaneer FM6
+    - Monctezuma fixes
+    - Double click on player icon will start follow mode
+    - Changed mansion window to open directly after the first discussion with the faction leader
+    - Message in the bottle ships now spawned next to Corsair stronghold, and ship flags now Corsair
+    - Use black covians for Dog Skull island and added some enemies to the cave too
+    - Leticia stopped imitating 1st mate
+    - Destroy the distilleries update
+
+    Misc:
+    - Slow ships are a bit faster
+    - Battle music stops on scene change
+    - Barracks GUI fixes
+    - Land battle GUI fixes
+    - Sail damage no longer affects the speed but hull damage, fixes issues with ships just slowing down and not being able to use toolbox to remedy the situation
+    - Can't collide with sinking ships
+    - Reduced toolbox cooldown from 30 seconds to 15 seconds
+    - Skill cooldown reset / skill remove on scene load
+    - Tooltips for active skills
+    - The end credits after boss fight
+    - All units have names on alt
+    - Changed dizzy time from double drinking grog from 10 seconds to 5 seconds
+    - Long dialogue texts now fit in conversation window. Font is scaled down when text is too long.
+    - Unit under attack sounds
+    - Try harder not to spawn ships on land
+    - Fixed missing civilians from strongholds
+    - Missing skills for Jolie and Jack
+    - Don't crash when other heroes gain level up
+    - Mission ships captured, can't be captured again
+    - Fixed special weapon names
+    - Fixed "Collected artifact" -messages to last longer
+
+    + Some minor fixes & tweaks
+
+    -------------------------------------------------------------------------------------
+
+    Version 1.0.0
+    - Release version
+
+    -------------------------------------------------------------------------------------
+
+
+    Known issues:
+
+    - Water isn't visible if AA is forced on from graphics drivers.
+    (Quick fix: Set Anti-Aliasing to "application controlled" setting instead of forcing it on from ATI/NVidia settings)
+    - Pimp the Ship stability issues at some situations
+    - Capturing ships stability issues at some situations
+    - Crash when leaving stronghold after disbanding units
+    - El Torro mission stutter
+    - Collision issues with destroyable buildings
+    - Unit movement difficult on bridges
+    - Cannon towers won't fire player units sometimes
+    - Replenish cost issue
+    - Achievements not enabled 
+

@@ -1,0 +1,127 @@
+PowerArchiver 2011 v12.00.59 + Serial
+
+.exe File Format (Setup File - Serial - Instructions)
+
+***********************************************************************************
+
+PowerArchiver 2011 v12.00.59
+
+Homepage: http://www.powerarchiver.com/powerarchiver/
+
+
+Full Windows 7 Support, UAC and VSS:
+=====================================
+Full Windows 7 support with jump lists, taskbar progress and taskbar icon overlays. First archiver to do so.You do not need to worry about compatibility problems with PowerArchiver if you are using or considering upgrading to Windows 7 â€“ we have done extensive testing to ensure everything works perfectly. PowerArchiver also runs great on all other Windows versions, from Windows 2000 to Windows Windows 7 and Server 2008, both 32-bit and 64-bit versions.
+UAC elevantion support â€“ PowerArchiver supports UAC (user access control) elevation to administrator when it detects the need for admin account in order to read or write in some folder.
+VSS support â€“ Do you need to compress databases, Outlook .pst files, or any other files that are exclusivly used by some application? No problem for PowerArchiver â€“ we have exclusive support for VSS (volume shadow support), which is usually used only by enterprise backups to access data that is not accessible to other programs.
+
+
+Most Advaced ZIP/ZIPX Engine:
+==============================
+ZIP Support PowerArchiver offers superior ZIP and ZIPX format support compared to other archivers.Here are the highlights:
+-Multicore deflate zip engine, almost 4x faster than single core systems on quad core computers. (3x faster than WinZip 15)
+
+-Improved speed of zip compression and extraction on any occassion.
+
+-Full support for advanced ZIPX format â€“ LZMA, JPEG, PPMd, BZIP2 and WAVPACK in ZIP/ZIPX, according to latest ZIP standards. PowerArchiver is the only application that fully supports Winzip 15 and earlier files, while providing faster (up to 3x) and stronger compression compared to WinZip 15.
+
+-Full support for more basic ZIP format that is compatible with all archivers out there, as well as the built-in Windows XP/Vista/7 zip reader.
+
+-Unlimited size of the archive, unlimited size of files inside archive and unlimited number of files inside archive.
+
+-Multicore LZMA engine for ZIP/ZIPX.
+
+-Support for Unicode in ZIP, both read and write. Implemented throughout application.
+
+-ZIP/ZIPX AES support (both PkZip 5.1 and WZ 9.0 standards supported) â€“ FIPS 140.2 Certified.
+
+-SecureZip compatibility â€“ only archiver fully compatible with SecureZip, including reading 3DES encrypted archives and ZIP/ZIPX archives encrypted with digital certificates.
+
+-Multiple disk spanning, with support for unlimited span sizes
+
+
+7-Zip Compression:
+===================
+7-Zip is an advanced compression format featured in PowerArchiver. It is an open source format, providing an open architecture and high compression ratio. 7-Zip outperforms ZIP, ACE and even RAR in many tests. However, 7-Zipâ€™s greatest strength is that it is not controlled by any organization or individual, but by an open source LGPL project to which anyone can contribute. More information on 7-Zip and its superior compression can be found at 7-Zip.org.
+PowerArchiver also features a Transparent Update feature for 7-Zip archives, which allows you to quickly add or remove files even if the archive is â€œSolidâ€. PowerArchiver supports all 7zip methods, including LZMA2.
+
+
+Superior RAR extraction:
+=========================
+Our engineers have spent months of development time to custom tune extraction of RAR archives. End result is that we now have the fastest RAR extraction engine on the market, which extracts up to 10% faster than everyone else, including WinRar 4.x!
+
+
+Multiple Formats Support Including ISO:
+========================================
+PowerArchiver has native support for most popular compressed and encoded formats currently in use. All formats are fully integrated into PowerArchiver, so you can utilize all PowerArchiver tools with each of them.
+-Read and write support for ZIP, ZIPX, 7-ZIP, CAB, LHA (LZH), TAR, GZIP, BZIP2, ISO (ISO9660 and UDF â€“ PRO only), BH, XXE, UUE, yENC, and MIME (Base 64)
+
+-Read and extract support for: RAR (10% faster than WR 4.x), ARJ, ARC, ACE, MSI, NSIS, CHM, DMG, RPM, CPIO, VHD, XAR, LZMA, SquashFS, CramFS, ZOO, WIM plus ISO (ISO9660 and UDF) disc image formats
+
+-WCX Plug-in System enables new formats and file types to be supported with a small download.
+
+
+Unmatched Security and FIPS 140.2 certification:
+=================================================
+PowerArchiver comes with an unprecedented level of security features. Not only does it fully support the new ZIP AES standard, PowerArchiver also offers its proprietary PAE standard for additional security with five different encryption methods. For ease of use, the PowerArchiver Password Manager will save your frequently used passwords so you do not need to remember them.
+-Full support for ZIP AES encryption, 128-bit/192-bit/256-bit (supports: PKZip 5.1 (full), Secure Zip 8.0 and WinZip 9.0 AE-1 & AE-2)
+
+-PAE support â€“ Encryption of files and archives using 5 different methods: Blowfish (128-bit), DES (64-bit), Triple DES (128-bit), AES 128-bit, and AES 256-bit
+
+FIPS 140.2 Certification â€“ PowerArchiver ZIP/ZIPX AES encryption is not only standard based and compatible with all solutions, it is also FIPS 140.2 certified and it can be used in govement agencies required to safeguard protective data with FIPS 140.2 certified solution. 
+
+
+Preview Window:
+================
+With PowerArchiver 2010, you can now easily preview archives, images, text and many other file types directly in PowerArchiver without having to open archive or file. The Preview feature works both while browsing hard drives and inside archives, with full support for WLX plug-ins.
+
+
+Queue System (Add/Extract/Backup) and PowerArchiver Starter:
+=============================================================
+PowerArchive features innovative Queue System. This is the first time such an option is available in compression utility, and it enables you to better organize your compression, extraction and backups, as well as schedule multiple jobs to be done sequentially without slowing down your system â€“ as multiple compressions would do if run all at once. Another first for PowerArchiver.
+PowerArchiver Starter is a brand new system tray application for managing your Queue and launching the most recently used archives and backups. PowerArchiver Starter has been written in an assembler-like language for minimum size and memory usage. 
+
+
+Guaranteed Compatibility and Explorer Integration:
+===================================================
+PowerArchiver has pioneered advanced Shell Extensions that let you compress, extract and encrypt files using one click from within Windows Explorer â€” without opening PowerArchiver. In PowerArchiver 2010, we have improved shell extensions even more and added comress/extract MRU and FTP profiles so you can FTP directly from shell extensions!
+Not only that, but PowerArchiver also offers an option to use an Explorer-like interface for browsing your hard drive for archives, which also supports shell integration.
+PowerArchiver features Hybrid Shell Extensions, which puts less frequently used options in an easy to access submenu.
+
+
+Compression Profiles:
+======================
+For ease of use, PowerArchiver has Compression Profiles that store frequently used compression settings. You can select a compression profile when performing operations in PowerArchiver and save considerable time.
+
+
+Patchbeam 2 second update system:
+==================================
+PowerArchiver includes Patchbeam update system that allows for background super-fast updates, taking only 2-3 seconds on average. Where before you had to download up to 19 MB for new update, and go through standard installation process with up to 9 clicks of the mouse, now you can enable background updates and Patchbeam will downoad update patch as small as 100kb and update your PowerArchiver in several seconds! 
+
+
+Useful Tools:
+=============
+PowerArchiver has the most advanced set of tools that you can use to manage your archives:
+-Convert Tool â€“ convert files among formats supported in PowerArchiver. It can convert thousands of files and folders at the same time.
+
+-Encode Tool â€“ encode/decode files in UU, XX, MIME and yENC formats.
+
+-Repair Tool â€“ repair broken ZIP archives with one simple operation.
+
+-Write/Merge Multivolume Tools â€“ split ZIP files into multivolumes, and also merge multivolumes into a single ZIP archive.
+
+-Batch ZIP Tool â€“ batch compress thousands of files into separate archives.
+
+-Multi-Extract Tool â€“ extract thousands of archives at the same time.
+
+-SFX Tool â€“ Create SFX files from ZIP, 7-Zip, CAB and PAE archives via the â€œMake SFXâ€ feature or with the easy-to-use SFX Wizard.
+
+***********************************************************************************
+
+
+Tested And Working...
+Scanned (With Kaspersky) And 100% Clean.
+
+(If You Found Something \"Un-Clean\" In Any Of My Torrents, Consider That It May Be A False Positive(Alert) And If you Are Sure Please Report It To Me So I Would Remove It)
+
+[Please Leave A Comment Confirming This Pack]

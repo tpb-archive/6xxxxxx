@@ -1,0 +1,54 @@
+Rango (2011) Extended 1080p 9 Audios multisub [mkvonly]
+
+Format                           : Matroska
+File size                        : 4.73 GiB
+Duration                         : 7h 16mn
+Overall bit rate                 : 1 552 Kbps
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 7h 16mn
+Bit rate                         : 766 Kbps
+Nominal bit rate                 : 5 300 Kbps
+Display aspect ratio             : 1920 x 800 (2.40:1)
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Title                            : Rango (2011) 1080p [mkvonly]
+Writing library                  : x264 core 112
+Encoding settings                : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x133 / me=tesa / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=64 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=7 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=2pass / mbtree=1 / bitrate=5300 /
+
+Note the very high encoding settings ( TESA 64...), it took almost days. 
+http://www.bilderkiste.org/show/original/0131040713963/enc_set.png
+
+Audio  English DTS 768 KB/s
+
+Optional (Separate) Audio Tracks:
+
+Commentary  AAC 128, 101 MB
+Dutch           AC3 640 KB/s, 511 MB
+French        AC3 640 KB/s, 511 MB
+French Can     AC3 448 KB/s, 358 MB
+German         AC3 640 KB/s, 511 MB
+Italian         AC3 640 KB/s, 511 MB
+Spanish Lat Am  AC3 448 KB/s, 358 MB
+Turkish         AC3 640 KB/s, 511 MB
+
+
+Use MPC (  http://cccp-project.net/  ) to automatically recognize & play
+the external Audio tracks or mux the Audio in MKV with  mkvmerge 
+(  http://www.videohelp.com/tools/MKVtoolnix  ) if you wish to use other player.
+
+Subtitles:
+English SDH + Comm, Arabic, Danish, Dutch, Finnish, French + Can + Comm, German + Comm,
+Hungarian, Italian + Comm, Polish, Romanian, Spanish Lat Am, Turkish, Vietnamese 
+ 
+http://www.bilderkiste.org/show/original/9131040673471/1.jpg
+ 
+http://www.bilderkiste.org/show/original/5131040676852/2.jpg
+

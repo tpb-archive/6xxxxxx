@@ -1,0 +1,46 @@
+What\'s New:
+
+DVDFab 8.1.0.7 Qt Beta (July 29, 2011)
+
+New: Updated language files.
+New: Added \"Drives\" in Settings window, user can specify the drives which should be processed. For example, user can exclude DVDFab virtual drive from processing.
+Fix: A/V sync problem when using CoreAVC decoder.
+Fix: Auto play doesn\'t work in v8106 beta.
+Fix: Preview still play audio when converting.
+Fix: Improved \"Set as default\" for profile.
+Fix: Two issues for commandline parsing.
+
+DVD Copy:
+New: Improved \"ask region\" logic, which will ask user only when needed.
+
+DVD Ripper:
+New: Added 5.1 channels audio output for Xbox 360 and iPod/iPhone.
+Fix: No idx/sub files output when using vob.passthrough profile.
+
+Blu-ray Copy:
+New: Added two options for \"How to copy Blu-ray 3D\": one is \"Copy as Blu-ray 2D\" and another is \"Convert to Blu-ray SBS 3D\".
+New: Added new feature \"Convert to Blu-ray SBS 3D\". User can copy a Blu-ray 3D disc to BD25/BD9/BD5, play it on normal standalone 2D player, and watch it on a 3D TV.
+New: Added new feature \"Convert DTS/LPCM to AC3 audio\". It improves compatibility when user copy a Blu-ray disc to BD9/BD5 (AVCHD).
+New: Improved \"ask region\" logic, which will ask user only when needed.
+New: Added support for new Java-based protection.
+New: Brand new UDF 2.50 parser.
+New: Brand new m2ts muxer which is Blu-ray compatible.
+New: Improved seek ability for VC1 video source.
+Fix: Seek problem on certain cases.
+Fix: TMT playback problem for certain Blu-ray discs.
+
+Blu-ray Ripper:
+Fix: Intel Quick Sync problem when converting Blu-ray to PS3.
+
+Blu-ray to DVD Converter:
+Fix: Cannot convert small title which is less than 2 minutes.
+Fix: An oversize problem when user choosing multiple audio and subpicture streams.
+
+Uninstall any previous version as any new one won\'t upgrade anyway.
+Install this new one so and uncheck : check new update automatically by general menu setting option and you will get full retail version with all options enabled.
+as usual pre-activated version by Dimitry and thanks again to him to keep
+the good job anyway.
+Tested and works perfectly fine as usual,of course :)
+seed a bit,please !
+enjoy and have fun
+regards

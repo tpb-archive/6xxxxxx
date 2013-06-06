@@ -1,0 +1,23 @@
+The Big A Miner Thing is a custom linux designed specifically for dedicated bitcoin mining rigs. It boots from a 2GB or larger USB key and is persistent. The base is plain old Debian, and every effort has been taken to remain a "normal" debian system. You can add software with apt and do most anything else you could do on a regular debian box in the usual way.
+
+Included are all the drivers, programs, and scripts necessary to very quickly deploy a dedicated machine that will automatically start mining when turned on. This is not an OS you will enjoy using to surf the web or write a term paper. Don't even think about asking why you can't print or where the mp3 player is. This is for miners.
+
+Individual mining processes are started in screen sessions, and so can be viewed remotely via SSH or on the console. Realtime status is displayed on the local console, and performance graphs are available remotely via a web dashboard. Munin node is setup with custom mining extensions and can be connected to from a central server to gather mining metrics from several mining rigs.
+
+New in version 0.3
+
+All configuration done in a single file, including overclocking, kernel parameters, etc. Each GPU can be monitored for temperature, load, mhash/s rate, and share accepted rate and the system can generate an alert email if a GPU is not within your defined normal range. Miners now have dead/weak pool detection, hung Phoenix detection, and can failover to an unlimted number of backup pools. Web console updated. Supermodified Thunder Phoenix with all the latest kernel tweaks for insane hash rates. Maybe other stuff.
+
+New in version 0.4
+
+Centralized config management. Control the configurations of an entire mining farm from one central point. Switch an unlimited number of rigs/GPUs to a new pool with one command. Monitor the status of your entire farm on one web page. Various other optimizations and improvements.
+
+main web page: http://aaronwolfe.com/bamt/
+
+miner dashboard screenshot
+
+farm dashboard screenshot
+
+Still in testing phases.. my own 10Ghash farm running on BAMT for a couple weeks, I've been quite pleased with it. Looking for feedback, bug reports, suggestions, etc.
+
+donations to: 1PoRYaGS56ksQmK7XXLurW3B2zwCAE8PRc 

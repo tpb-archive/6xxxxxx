@@ -1,0 +1,1224 @@
+User Type,Username,Date,Text
+,kolle128,2011-08-03T12:17Z,"I did everythng exactly as written in readme, but the trial period ended before I even used the program, probably Trial Reset does not work at all, I suggest not using it!"
+,punkofthedeath,2011-08-03T19:26Z,"@kolle128 what the version that you use
+
+--------------------------------------------------------
+
+for another cracker:
+
+i just find the serial for hp envy 17 3d laptop, 
+ffdy-mpm9-fddk-94t4, maybe by doing spoof activation this is work,"
+,kolle128,2011-08-04T19:22Z,"No luck.
+It says: Congratulations. The following software is activated: Tridef 3D
+But then exits the activator and asks for the serial again, in an endless loop. Any ideas?"
+,punkofthedeath,2011-08-04T21:57Z,"@kolle128, try using the original exe after reseting"
+,yorici,2011-08-05T07:32Z,"It doesn't work for me either. I already had finished the trial before downloading this crack. Does that matter?
+
+How did you get the serial? Which program did you use?"
+,vipertarun,2011-08-05T08:00Z,No-Go for me too. it goes into an infinite loop asking for 14 day trial. the original says trial period over. Im using 4.1.3
+,kolle128,2011-08-05T15:36Z,"Original says trial is over, with the serial you gave me the original also goes to infinite loop."
+,punkofthedeath,2011-08-05T23:51Z,@yorici ollydbg
+,punkofthedeath,2011-08-06T01:09Z,@kolle128 try to change your computer name
+,yorici,2011-08-07T21:19Z,"@punkofthedeath
+On which address did you set a breakpoint to find the serial?"
+,punkofthedeath,2011-08-08T05:24Z,"@yorici
+
+tridefactivator.exe
+
+004017E8
+
+String : UNICODE ""FFDYMPM9FDDK94T4"""
+,kolle128,2011-08-08T20:19Z,Unfortunately even chageing computer name to something like asd34189 did not help. Any other ideas?
+,yorici,2011-08-10T06:58Z,How did you get it? When I set a breakpoint it doesnt display a thing
+,punkofthedeath,2011-08-11T12:14Z,"@yorichi, try to search around the breakpoint"
+,vBlaise95,2011-08-26T15:12Z,"I really appreciate that you're trying to crack this (I've been waiting for a crack for about a year), but the serial reset didn't work for me too. Win7 64bit, and my trial period has ended months ago."
+,Chikokishi,2011-09-04T20:46Z,"I have ollydbg, and iv searched and searched around the breakpoint you suggested, but i dont have any ""unicode"" reference like the one you posted.  Any suggestions?"
+,Chikokishi,2011-09-05T21:00Z,"@punkofthedeath
+
+Im still searching for the unicode you mentioned, I have also downloaded the other torrent you uploaded with the media player trial reset.  
+
+Im still trying to figure this program out too, i hope you can help!"
+,chuckk3rd,2011-09-11T11:33Z,Right now I'm in the second day of my 14 day trial period. The trial reset doesn't work for me either.  It somehow fails when you try to reset it.  I'll just go ahead and enjoy my trial run and maybe someone can come up with a crack that does work.
+,vipertarun,2011-09-21T08:20Z,can anybody here also have a look at iz3d????
+,cinjaxon,2011-12-29T08:13Z,I REALLY wish this would work... Even with AMD's HD3D this stupid shit still costs 25 bucks. That's ridiculous. There has GOT to be a working fix to this trail resetting...
+,Johnny_Rook,2012-04-27T10:03Z,"I have just cracked TriDef 3D 5.2. ;)
+It's not perfect yet; the driver doesn't automatically load the 3D Display (it loads the standard anaglyph) but, once inside the game, all it takes is to set display output to SBS or AB in Control Panel [press 0 (NP) to access]. Works just fine. Maybe in a future release, I'll fix it. For now, that's what you get.
+If anyone wants it, drop a comment here (or an e-mail to me) and I'll upload my work. 
+JUST DON'T FLAME ME 'CAUSE MY CRACK ISN'T PERFECT! I'M DOING YOU A FAVOUR!"
+,zerong,2012-04-29T17:58Z,"@Johnny_Rook
+
+You really crack this ????
+
+Can you send me your  work please ????
+"
+,zerong,2012-04-29T18:04Z,nobody ? :(
+,zerong,2012-04-29T18:15Z,up
+,Johnny_Rook,2012-04-30T09:37Z,"@ zerong
+
+Yes I did! :-D
+
+Cracked v5.2 a few days ago and works great! I've now fixed the bug I wrote about before and now, the trial application performs as being actualy registered with no compromises at all. It even works on Google! Tested successfully on Metro 2033 DX9, DX10 and DX11; on Alice Madness Returns DX9 and on Crysis DX10: every test was flawless!
+Now, I've tested it under Windows 7 x64 only so, I'm not sure it works as well in other OS. Other thing I didn't test was OpenGL games like Rage 'cause I don't own a copy but, I'm working on it.
+
+I have one condition only to send you my work: DO NOT DISTRIBUTE IT!
+
+Do you agree? So, where do you want me to send you the crack? "
+,zerong,2012-04-30T10:41Z,"Hello ! 
+
+Yes i dont distribute it ! it is so fantastic to have a crack version with this soft  !  i dont want loose this ! 
+
+My email : zerong13@hotmail.com
+
+I am with seven 64 too ! :) 
+
+No false virus detected with this crack ? 
+
+You are fantastic ! "
+,zerong,2012-04-30T10:50Z,"Hello ! 
+
+Wonderfull !!  i dont distribute it !!!  i an so happy to find a cracked version i dont want loose it !!
+
+Can you send me your fantastiv work on my email : zerong13@hotmail.com
+
+You are fantastic !!
+
+ps : no false virus detected ? do you think it is ok with AMD3D output  ?
+
+Thanks a lot ! "
+,Johnny_Rook,2012-04-30T13:19Z,"No, there are no viruses! I promise you that!
+I have made the patch with a tool called dUP2 and it uses a version of UPX to pack the executable so it stays small for distribution. Crackers and Cracking Teams use it all the time. If your anti-virus detects my patch as potential harmful software, it's 'cause of the packer UPX and therefore a false positive. I use the ESET NOD32 AV and it doesn't detect any threats with the patch.
+
+I'll send the cracked version in 1 hour at most from know. Please, be patient!
+
+I tested it with ""AMD HD3D Technology (HDMI 1.4a)"" and it works fine. The games are good but, the movies are lagging. It's the AMD drivers fault, though. It also works with nVIDIA Geforce GPUs as I've tested it using an ""old"" GTX260 card.
+
+
+@everyone else wanting the patch
+
+Look, there's a reason for me to take this distribution thing so damn serious. 
+I have been part of a cracking team in the past, and I'm fully aware of the implications that distributing your software and make it extremelly known brings to the table. Not only we fall under FBI's radar as the progammers change the registry rotines of their applications in regular basis. For them is a simple conditional jump change; for me, is a complete new analysis of the code to see what's changed; it's very hard work.
+
+So, to every one wanting this: BE WARNED. 
+If I found this cracked application over the Internet (and be sure I'll know if it was made using my patch), there will be no more cracking from me for any potential update of TriDef.
+
+Just one more thing: please, don't use your personal e-mail addresses here (the ones you use every day); just create a new account for this purpose; it's free.
+
+Please, report back to me for any doubts, bugs or thanks you may want to address me by dropping a comment here."
+,zerong,2012-04-30T13:50Z,"Thanks a lot  :) ! no soucy with me , your patch will only be on my pc.  I will never distribute it !!!!
+
+I have an optoma  HD67 projector and AMD 6850 car with Hd3D technology ! 
+
+I actually use it with stereoscopic player for 3d movies mkv and it look like a dream ! !!  
+
+Only games arent presents for the moment for me . 
+
+Do you think your patch is ok even if my 14 days trial périod is over ?
+
+Fantastic work really !  "
+,zerong,2012-04-30T14:20Z,"Juste receive the patch ! i will test it after office !!! :)  
+
+Great job !!! 
+
+I read nfo , it is writed ""activate tridef"" . So if it is already activated and 14 days trial périod over, do you think it will be ok ?
+
+GO GO to test it  lol "
+,Johnny_Rook,2012-04-30T14:20Z,"Just sent it! ;)
+
+To be honest, I use the Trial just to the end. I only carcked the thing because I'm far from testing the application as extensivelly as I want to! I needed a month to do it and then buying the software myself - as I will eventually buy, if it delivers the expectations.
+If you have the money to spare, please support the developers for their hard work. If you don't have the money, well, it's up to you. At least, you have a choice, now."
+,zerong,2012-04-30T14:37Z,"I test it and if it is ok with my projector and futur TV , i ll buy it ! another thing i dont like with tridef is that licence is only for one PC !!!!! i have a desktop in a room and a notebook but i cant use these with only one licence  !!!! :(
+
+IZ3D is possible but only one kind of output format for each licence !!!!  :(
+
+Thanks for your great work ! i 'll say you tests results !!! :) "
+,Johnny_Rook,2012-04-30T15:23Z,"Yeah! It really, really sucks! Imagine that you setup a HTPC on your living room tomorrow; you just can't use the software there and have to move arround your desktop PC any time you want to set a 3D movie session up for your family and/or friends or you have to buy a new $50 license. Moving PCs arround often is not good for the hardware at all and it makes no sense to me in having two licenses for the same user; it is the USER that experience the software and pays for it, not the PC where it is installed.
+
+Anyways, now, you have a choice -- so I think lol
+
+Yeah! Please report to me your testing results!"
+,zerong,2012-04-30T18:30Z,"Hello ! 
+
+I just test it on deadspace v1 for the moment and with some mkv movie ! 
+
+Just a word : FANTASTIC !!!!!!!! Game and movie OK !!! no test more for the moment ! 
+
+All seem ok for the moment and nfo is realy simply to apply !!!
+
+Really great job !  you are a genius !!!! 
+
+I have to test little more games and movie and i confirme it again here !!!
+
+I really like give you a gift !!! "
+,Johnny_Rook,2012-04-30T19:35Z,"That's great! I'm glad you can enjoy your 3D movies and games in any PCs you own without extra charges! :D
+
+I know i could ask you for something ""material"" in return but, your happiness is my own payment, so to speek, and the very best gift you can give me!
+
+Thanks for testing it for me. I really appreciate the feedback.
+
+Ok. You can spread the word among your friends if you want. Let them drop me a line here.
+
+Cheers ;)
+
+PS. A genius?! Me?! Nah...  Thanks anyway :P"
+,danexus,2012-05-02T00:49Z,"@Johnny_Rook
+
+I was wondering if you can also send me your cracked ver for 5.2? My email is dnex485@gmail.com.
+
+I also will not distribute it and respect your conditions. Thanks."
+,fazstsa,2012-05-02T02:15Z,"@Johnny_Rook
+
+Hi, can you send me the patch please?
+Finally a working patch for tridef :D
+Cant wait, Thanks in advance!
+email: fazstsa@hotmail.com"
+,Johnny_Rook,2012-05-02T04:55Z,"@danexus
+Just sent it! ;-)
+Thanks for testing. Feedback is appreciated!
+
+
+@fazstsa
+Sorry, but, you must agree with my (only) condition posted before (pag 1).
+
+
+@everybody
+I'll be keeping track of your feedback or request in a regular basis. So, please BE PATIENT."
+,pwnagetool,2012-05-02T05:20Z,"@Johnny_Rook
+
+Can you please send the patch to iget_itin@ymail.com? I've been trying to crack this for a year now, but the program' either remains unaffected or crashes. Great work on cracking this program!!
+
+I agree not to distribute it to anybody. Thanks!!"
+,Johnny_Rook,2012-05-02T06:19Z,"@pwnagetool
+
+Done! ;-)
+
+
+Woah! One year! If there's anyone who deserves this is you!
+
+The Reset doesn't work because the damn TriDef application has a very trick rotine for checking the Local Time and, extremely important, the Boot time; it uses the system file ""bootsat.dat"" and crazy functions like FileTimeToSystemTime function to do it.
+Other thing difficult to do was to get access to the libraries BEFORE the games loaded but, I got lucky and found a way.
+
+As a fellow cracker, you know how feedback is precious to narrow down problems that may occur.
+Either this thing works or not, please report back to me what OS you are using. 
+
+I hope you guys forgive me for using you as ""BetaTesters"", but the interest is mutual. :-p"
+,pwnagetool,2012-05-02T08:43Z,"@Johnny_Rook
+
+Thanks a lot man!! Time exploits don't work because they patched those problems in version 4 itself. I tried messing with the libraries but the app kept crashing each time. Well done on finding an exploit! I'm testing on Windows 7 x64 and Windows XP x32."
+,Sparks17,2012-05-02T12:46Z,"@Johnny_Rook
+
+I bought a brand new Samsung Smart 3D tv and I really want to use it to its full potential, running an AMD HD 5770. Can you please send me the crack? I promise not to distribute it, it will only be used on my pc.
+
+My email is lanmc9@live.com
+
+You rock man!"
+,zerong,2012-05-02T12:50Z,"Hello ! I am not great gamer but i have tested with my optoma HD67 and amd HD3D graphic card ! i have tested with compagny of heroes , Fear ! It's work !!!! but on my laptop, on an extern HDD 2.5"",  i meet some difficulties due to non properly installed games i think and slow hdd  !  But in a word,  it work ! :) 
+
+With deaspace : error with direct 3d drivers ! i have to do a new install i think !
+
+For no jealousy beetween compagnies it will be nice to patch iz3d also ! lol 
+
+Very good job , since  few years and any real  patch was appear !!! 
+
+ps : must be in administrator mode to apply patch ! "
+,Johnny_Rook,2012-05-02T16:43Z,"@zerong
+
+Thank you so much for taking the time to give your feedback!
+Yeah! The patch seams to be OK so far... I'm just waiting for a few more reports to give it as fully functional.
+I assumed everybody knows the ""Administrator"" privileges are necessary to apply a patch but, thanks for remembering.
+As for the iZ3D drivers cracking... Who knows what the future will bring?
+Cheers!
+
+
+@Sparks17
+
+Done! ;-)
+Please, don't forget to report your findings back to me. Thanks"
+,Gastly88,2012-05-02T21:06Z,"@Johnny_Rook
+
+Can you please send the patch to val88bg@gmail.com ? 
+
+I agree not to distribute it to anybody. Thanks"
+,danexus,2012-05-02T22:15Z,"Tried playing videos with the 3D converter, works great.
+
+Tried Starcraft 2, Call of Duty BO, Skyrim, and GTA 4. All works perfectly.
+
+Got into the display setups and control panels easily, and so far everything works 100%. Amazing work, thanks again for sharing.
+
+I'll continue testing and give you an update JR, cheers."
+,Johnny_Rook,2012-05-02T22:34Z,"@Gastly88
+
+Done! ;)
+Don't forget your feedback, please.
+
+
+@danexus
+
+NICE!!! :D
+Yeah, your findings are important! 
+What Operative System(s) are you using?"
+,fazstsa,2012-05-03T03:27Z,"@Johnny_Rook
+
+I agree with your condition and I will not distribute your patch.
+I respect your hard work.
+
+I will give feedback as soon as I have opportunity to use it and off course if you send it :D
+My e-mail again: fazstsa@hotmail.com"
+,hooknej,2012-05-03T13:29Z,"@Johnny_Rook
+
+Thanks so much for your hard work! I loved the trial period but still had some issues to sort through before committing to a purchase. I agree not to distribute in any way and will only use for personal use. I'll provide any feedback that I have as far as QC is concerned. If you don't mind, please send to joshandshawnmusic@gmail.com. Thanks!"
+,Gastly88,2012-05-03T16:13Z,"@Johnny_Rook
+
+Thank you for sending me the patch! The first problem that emerged is that Media Player automatically gives error when I open any video file. Mode which I use for 3D is Anaglyph."
+,Johnny_Rook,2012-05-03T20:34Z,"@fazstsa, hooknej
+
+Sent! ;)
+
+
+@Gastly88
+
+Thank you for the feedback!
+
+I tried to replicate the problem you're experiencing and I just can't! Anaglyph works fine here. 
+Please, be more specific about the problem you have. What are the video formats, what hardware you use (CPU + GPU) and what OS. 
+
+I have a problem though: @ TriDef 3D Portal we have options to open a video file or a DVD. When I press ""DVD"", Media PLayer does give me an error and shuts down. However, it did same thing during Trial period so, I'm supposing it has to do with me haven't a DVD drive installed at my PC. I ceased using one since I buy downloadable games. Do you guys have any comments on this particular issue?"
+,hooknej,2012-05-04T02:35Z,"@Johnny_Rook
+
+First off, thanks for sending the crack! I'm running Win 7 64 bit and the patches open but aren't displaying correctly. A large part of the patch is being cut off and so I don't have the option to use it. I've tried running as an administrator, troubleshooting compatibility, rebooting, etc. All the tricks I know. Do you have any ideas on how I can fix this? Thanks in advance! I really appreciate your efforts!"
+,Johnny_Rook,2012-05-04T11:51Z,"@hooknej
+
+Sorry to hear that.
+I think the problem may have to do with the Windows Theme you are using 'cause it seams the patch skin I used is not being applied correctly. Change the Theme to Windows Aero Default or to Windows Basic and report your findings back to me, please.
+I have two options if it still doesn't work: to change patch skin for you or to send the patched files themselves; it's a ~20MB upload/download though."
+,Sparks17,2012-05-04T15:48Z,"@Johnny_Rook
+
+Thank you so much for your version, it works wonderfully well!!! Games are amazing in 3D, but I think my PC components are getting a bit old as I can't run all my games on the highest quality settings as it becomes quite laggy. Time to save up for a GTX 680 me thinks ;)
+
+One problem I do have though is I can't run the TriDef Media Player. It crashes every time I try to run it. However, I can watch videos by going to the Tri Def portal and selecting the video reel, that's fine. So is the Media Player something else? Or is this a known problem?"
+,Johnny_Rook,2012-05-04T17:37Z,"@Sparks17
+
+Thank you for the feedback.
+
+I'm glad you can play your 3D games and to watch your 3D moveis, on TriDef 3D Portal only, though. I think the problem you have has to do with your specific system, software and hardware configurations.
+It's odd really, 'cause the Portal opens through the Media Player executable. It was ""easy"" to crack -- I wish the drivers were that easy --, all I did was to enable the hidden ""Free"" version by editing two bytes only. If you open it on ""windowed mode"", you'll see the name ""TriDef 3D Media Player (Free)"".
+
+P.S. I own a HD5970 myself and it performs excellent @ 720p on my 42"" TV (HDMI is limited to 720p for 60Hz gaming; @1080p, it goes down to 24Hz that I don't quite like). But, I'm saving for a ""3D Ready"" 120Hz PC monitor and I'm thinking upgrading to future HD7990 or GTX690 just because of 3D gaming @1080p, 120Hz. Yeah, if you want 3D gaming with all eye candy @1080p or above, we must pay good money for it. It's not cheap alright."
+,Johnny_Rook,2012-05-04T17:46Z,"@Sparks17
+
+Forgot to say: Try the 3dtv ""Stereoscopic Player"" for 3D movies. It's much more complete than TriDef Media Player and has more features."
+,TeRRoRiZeRXX,2012-05-05T06:57Z,"@Johnny_Rook
+
+I agree with your condition and I will not distribute your patch. I am pretty good at QA'ing Apps, I will find issues with your patch lol
+no offense :P
+
+My e-mail: terrorizer4life@hotmail.com"
+,Johnny_Rook,2012-05-05T12:23Z,"@TeRRoRiZeRXX
+
+Not taken.
+
+I appreciate all the feedback. 
+However, at this point, I'm pretty much confident that the patch is working very well. The ""issues"" reported before have more to do with TriDef 3D known bugs than with the actual patch. I've been testing it myself for a week now and it performs EXACTLY as my trial version."
+,vipertarun,2012-05-05T15:12Z,"@Johnny_Rook
+
+I would really appreciate it if you could send me the crack. I had given up on this ever being cracked. But then u came like a Knight in shining armor. I agree to ur above above said terms and conditions. Please send it.......viper_tarun@yahoo.co.in.......Thank you :)"
+,vipertarun,2012-05-05T15:15Z,"@Johnny_Rook
+
+Btw could you have a look at Iz3d too. PLEASE....pretty Please......thanx"
+,vipertarun,2012-05-05T15:21Z,"@Johnny Rook
+
+Srry if im double posting but my pc is not showing my post......I accept your conditions and would appreciate the crack.......viper_tarun@yahoo.co.in
+
+
+Thank you"
+,hooknej,2012-05-05T16:34Z,"@Johnny_Rook
+
+Tried changing my themes and rebooting, troubleshooting compatibility with the new themes, etc. Still no luck! I'm guessing it's something to do specifically with my system since I'm the only person having trouble thus far. If you'd like me to continue troubleshooting (if you have any ideas) I'm happy to do so. If this is an isolated issue, perhaps just send the patched .exe's themselves? However you want to work it is fine by me! Email address again is joshandshawnmusic@gmail.com. Thanks again!"
+,TeRRoRiZeRXX,2012-05-05T18:57Z,"@Johnny_Rook
+
+Thanks for the patch! I will let you know how it turns out once I try it!"
+,bryantn3,2012-05-06T23:55Z,"@Johnny_Rook
+No, man, I won't distribute your stuff.
+Please send it to me at bryantn3@gmail.com.
+Thank you much"
+,bryantn3,2012-05-07T00:04Z,"@Johnny_Rook also no that's not my regular email account, thats an account I never use anymore. 
+Thnx"
+,Johnny_Rook,2012-05-07T05:41Z,"@vipertarun
+Thank you for your kind words.
+As for iZ3D, I was looking around and came to conclusion that it's not worthy the trouble.
+1. it uses a service to run which consumes more resources than really necessary; 
+2 it loads itself up with every single DirectX application you have, even if you don't use the driver;
+3. iZ3D it's reported by users as ""being DEAD"". Many have moved to competition;
+4. Reviews @ mtbs3d.com shows consistent results on iZ3D being the most problematic, bugged and malfunctioning of all the offers on the market. 
+
+Even with this, I gave the application itself a look. The programmers have protected their software with a commercial packer called PC Guard. It was not very smart because PC Guard is ""easy"" to crack. The problem with iZ3D is that cracking the thing is too time consuming. Not only you have to unpack every single ""Output"" (which are a lot of DLLs), as next, you have to crack every single Output ""again"". As this software isn't the best we have available and as I already gave you a real option, I think it's not worthy. If iZ3D solves it's issues and if I have the time, maybe, just maybe, I will crack it. For the time being, No.
+
+@hooknej
+Not worthy the trouble to fix it ""just"" for you. Files themselves were already sent. Enjoy!"
+,vipertarun,2012-05-07T08:19Z,"Thanks Johnny
+
+Ill report to you as soon as i check it out.As for Iz3d just went to their website and found out they are planning to release their source code under general public license. Lets see where this turns out to be. Neways will contact u soon and Best Wishes to you and ur family......"
+,johnjackss,2012-05-07T19:17Z,"Advanced thanks to Johnny_Rook
+
+I need the crack my mail id johnjackss@yahoo.com"
+,Johnny_Rook,2012-05-08T04:28Z,"@johnjackss
+
+Don't want to sound like a ""jackass"", but I also need a lot of things... 
+You must agree my ""condition"", first. Refer to comments' pag.1"
+,hooknej,2012-05-08T06:15Z,"@Johnny_Rook
+
+The patched files worked like a charm! Again, can't thank you enough for the work you put in doing this and helping me out! I haven't found anything so far that work's unexpectedly. Thanks again!"
+,johnjackss,2012-05-08T07:12Z,"@Johnny_Rook
+
+Hi Johnny Rook I accept your condition. I am forgot to mention in the previous post.."
+,Johnny_Rook,2012-05-08T09:44Z,"@hooknej
+I'm so glad it worked! Enjoy your 3D games and movies! :)
+
+@johnjackss
+Done! ;)
+Hope it works for you"
+,GhettoNerd,2012-05-08T15:42Z,"@Johnny_Rook
+
+Simply put, OFF THE CHAIN!!!
+I just got into the 3d arena yesterday with a AMD Radeon 6750, but got a little down when I seen that it was another 50 bucks for the program in order to take advantage of it. So like I always do I turned to The Bay and low and behold there is someone here giving back to the community.
+
+I can certanly understand your terms and I am in full support as I for one would love for you to keep up the good work. I hope everyone keeps it real and abides by your terms and dosent mess it up for the rest of us.
+
+I know you are getting hit up like crazy, but when you get a chance it would be great to get the crack sent to me at my dummy mail here - 
+REBORN-77@msn.com
+
+I do have one question, does the crack come with instructions to apply it? Other than that thanks again man and keep up the good work.
+GN out"
+,Johnny_Rook,2012-05-08T17:14Z,"@REBORN-77@msn.com
+Done! ;)
+Thank you for being so sympathetic.
+The patch is very easy to apply. The instructions are right there. You should also read the iNFO file for detailed information.
+If you are a gamer, may I suggest you to back your games' settings down a bit? In 3D the GPU is rendering like two games at once, and a HD6700 Series GPU will struggle @ 1080p.
+If you are using the card mainly for watching movies, then I would suggest you to use 3dtv's ""Stereoscopic Player"" instead of ""Media Player""."
+,johnjackss,2012-05-08T21:41Z,"@Johnny_Rook
+
+Thanks for the patch. It works great in my windows 7 64bit."
+,Charles76,2012-05-08T23:22Z,"@ Johnny_Rook
+
+Could you please send me the crack, i agree with your therms and will be using it only on my own pc.
+I just bought a 3d tv, and want to test this.
+I'll let you know how it works out. 
+Please send to cd.nl@hotmail.com Grtz."
+,K-Launcen,2012-05-09T04:58Z,"@Johnny_Rook
+Your my savior.
+My trial just ended 3 days ago.
+And will appreciate if you also can send me your awesome work, so i can get back in action again?
+And i will of course accept your condition and give feedback.
+Thank You
+
+klausluran85@yahoo.dk
+
+Ps. I have tried 3dtv Stereoscopic Player 1.8.1 but it runs very slow.:( And Arcsoft TotalMedia Theatre 5 and Powerdvd 12 does not feel right in 3D, so i stopped using them. 
+Any suggestions? 
+I got an gtx580 and and Intel 2600K so i got enough power."
+,satch777,2012-05-09T11:08Z,"@johnny_rook
+
+could you please help me outh.
+i totaly agree with your terms
+and iam glad you wanna help people
+
+antonio777@upcmail.nl
+many thanxs"
+,Johnny_Rook,2012-05-09T12:12Z,"@ Charles76; K-Launcen; satch777
+It's done! ;-)
+
+@ K-Launcen
+The only thing I could suggest is that you play with Stereoscopic Player's primary ""Viewing Method""settings until you get the most comfortable to you. Updating the GeForce drivers is not a bad idea as well.
+It's odd because the ""lag"" was an AMD Stereo Driver bug. It's fixed now.
+
+Yeah, The GTX580 is a good card for 3D gaming and you'll not need to compromise any ""eye candy"" except for AA. At TriDef froum is recommended to turn AA completely off for gaming @1080p"
+,Cl0ver,2012-05-09T12:40Z,"@Johnny_Rook
+
+Can you please send me the crack? 
+I promise I won't distibute it, I only need it for my magnificent 46"" 3D TV :D 
+
+My email: amd3dsucks@gmail.com
+Thanks in advance!"
+,Johnny_Rook,2012-05-09T14:52Z,"@Cl0ver
+Done ;-)
+
+Hope it works for you."
+,ChicoZee,2012-05-09T16:01Z,"Hi Johnny_Rook
+
+Can you please send me the crack? 
+I all so promise I won't distibute it i will only be
+for my personal use
+
+My email: wogzeek@yahoo.com.au
+It would be much appreciated thanks"
+,Charles76,2012-05-09T19:36Z,"@Johnny_Rook
+
+The patch works perfect! I appreciate your work and your very fast reply. Many Thanks!!! grtz."
+,noiz345,2012-05-09T23:30Z,"@ Johnny_Rook
+
+Could you please send the crack to me, as well?
+I promise I won't distribute it. I've just bought a 3D tv, and want to try this on 3D PC games.
+
+my e-mail is: bravestarr07@gmail.com
+
+Thanx in advance."
+,titipapazov87,2012-05-10T00:04Z,"Hello Johnny Rook.
+
+What a awsome work!!!
+Please if you are so able, can you send my the crack at :   aleksander2002@abv.bg
+
+I agree to not distibute this. I will you it only for my self.
+
+I have spent A LOT OF HOURS serching for something like this in internet, and this is the firts  crack that seems to work. 
+
+PS. Thanks you VERY MUCH in advance. I am surprised to find people like you that spent his oun time without any personal profit for help the others. Thanks !!"
+,yorici,2012-05-10T00:09Z,"@Johnny_Rook
+
+Hey man,
+
+I heard you had a crack. I would really appreciate it if you would send it to me (yorici@gmail.com). I won't distribute it of course. I tried cracking it before by changing my MAC and ip address. Worked for a few days, then stopped working.
+
+I'll give feedback. I run Windows 8 Consumer Preview. Thank You in advance.
+
+Yorici"
+,Johnny_Rook,2012-05-10T02:54Z,"@titipapazov87
+I'm glad I can help you.
+
+@yorici
+I read your posts from last year... Dude, saving just $5 a month and by now, you would have enough money aside to by the legit application! lol
+TriDef 3D is reported not working properly within Windows 8 environment. The Steam launcher doesn't work and only a few non-Steam games do run in 3D. TriDef developers are addressing this issue and will release an update at some stage. Refer to TriDef 3D forums for details.
+Nevertheless, I sent the patch to you. Good luck."
+,noiz345,2012-05-10T08:38Z,"@Johnny_Rook
+
+Thank you very much for the patch. I'll test it at the weekend, I'll let you know how it went.
+Thank you again. "
+,digihack,2012-05-10T10:28Z,"@Johnny_Rock
+ Been trying to get my hands on a working crack for the past 4 years until i ended up here. You are doing a very commendable job. Ur trial reset doesn't work anymore. Can you please send me the crack u mentioned? I agree to your condition not to distribute your hard work that your work. It will never ever leave my hard drive.
+Thanks in advance.
+My email is roskeish@gmail.com."
+,satch777,2012-05-10T12:12Z,"thank you very very much.
+it all workt great.but i think i have a dvd problem.the media player doesnt play the dvd,s 
+but the most important thing is that i can play my games in 3d again.
+thank you, 
+youre the best
+
+satch777"
+,Johnny_Rook,2012-05-10T13:55Z,"@satch777
+I'm glad it worked.
+As far as DVDs are concerned, I think it is a TriDef's bug. I posted about the issue before. here, on Win7 x64, the Media Player crashes when it tries to run a DVD with or without patching. I assumed it was because me haven't a DVD drive installed but, since you experience same problem, it sounds the bug resides deep inside the code itself. Anyways, I prefer using Stereoscopic Player instead."
+,Johnny_Rook,2012-05-10T14:08Z,"@digihack
+The ""Trial Reset"" isn't mine. It's punkofthedeath's.
+I kinda hijacked his thread because I don't want to create a torrent for my crack. It would defeat the all purpose of keeping it ""private"". I hope he forgive me the intrusion."
+,digihack,2012-05-10T15:07Z,"@Johnny Rook
+
+Man it works it works it works. Thanx a million for this. Now I'll be able to enjoy my 3D movie collections and my other 2D movies. What would we mere mortals do without the likes of you?"
+,slydienk,2012-05-11T01:32Z,"Send the crack to me too plz.
+
+diegomaster10@gmail.com
+
+Tks guy!"
+,Johnny_Rook,2012-05-11T10:56Z,"@slydienk
+I'll gladly send the crack to you but, you have to agree with my ""therms & conditions"" first. Refer to pag. 1"
+,ChicoZee,2012-05-11T18:45Z,"Hi Johnny_Rook
+
+just wrighting to thank you again for sending me 
+the crack 
+
+you the best "
+,kooochi,2012-05-11T21:44Z,"@Johnny_Rook
+
+Can you please send me the crack?
+Got my promise not to distibute it!!
+
+My email: kljh43657@gmx.de
+Thanks a lot in advance!"
+,slydienk,2012-05-12T04:01Z,"@Johnny_Rook
+
+I agree to your condition. I won`t distribute your work!!
+
+Tks!
+"
+,Cl0ver,2012-05-12T19:20Z,"@Johnny_Rook
+
+Thank you for the crack, everything works fine."
+,Cl0ver,2012-05-12T19:24Z,"I have no idea how to use it with games. It found my games, but when i launch them it doesn't change to 3D automatically like with movies, maybe i have to press 3D button on my remote? "
+,greym111,2012-05-12T23:45Z,"@Johnny_Rook
+
+ I was wondering if you can also send me your cracked ver for my acer 5740 dg? My email is wmobilas@gmail.com.
+
+ I also will not distribute it and respect your conditions. Thanks."
+,Johnny_Rook,2012-05-12T23:55Z,"@Cl0ver
+How the heck should i know what's going on with your games? Do you have a HDTV or a PC Monitor?
+In my Philips 42"" HDTV, there are games where 3D is detected automatically but other games need manual 3D setting on TV. On the other hand, my ASUS 27"" PC monitor always detects TriDef 3D displays. So, it all depends on what Game/Tridef/Monitor/TV configuration you use. Refer to TriDef forums for help."
+,louseyformat,2012-05-13T04:24Z,"Please johnny_rook can i have your cracked version of this software...i promise not to distribute it. i have a vizio 3d tv that plays in side by side mode. i would love to play my games in 3d. i have lost my job of ten years because of health reasons and cant buy it now......louseyformat@yahoo.com is my dummy mail...if you will, you will have my thanks. and my promise to not give it out...thank you very much for being alive and helpful."
+,louseyformat,2012-05-14T07:06Z,"@ johnny_rook
+
+i  would like to use the software..... please."
+,TeRRoRiZeRXX,2012-05-14T08:14Z,"@Johnny_Rook
+
+Yea I have tested most of the functionality in tridef and the patch seems to work good. I have found issues but they are more app related rather than a patch issue. I will keep messing with it. I have tested it with Dead Space 2 and SC 2
+
+Thanks again!"
+,Johnny_Rook,2012-05-14T10:30Z,"@louseyformat
+Just be patient dude! I'll send it to you asap
+
+@TeRRoRiZeRXX
+You're welcome. ;)"
+,slydienk,2012-05-15T01:23Z,"@Johnny_Rook
+
+TKS for the software! I am playing ""Darsiders"" in 3D and I am think excelent!"
+,louseyformat,2012-05-15T04:38Z,"@ johnny_rook
+
+thanks for hooking me up...but i had used the free trial.... uninstalled it....then i reinstalled it after i got your patches. it tells me that my trail has ended every time i try it...do you have a solution to this problem? if not i would like to thank you for your time and knowledge anyway...it is very nice to have a complete stranger do anything for some one in this day and age....much props to you...thanks for being alive and helpful."
+,Johnny_Rook,2012-05-15T16:22Z,"@louseyformat
+Make sure you install TriDef 3D version 5.2 (is the latest version downloadable from TriDef 3D's homepage); the patches will not work with other versions of the software. 
+If you had installed the version 5.2 already, and it now says it's expired, it means it was activated more than 15 days ago. All you need to do is to apply the patches and you're done."
+,walad007,2012-05-15T19:14Z,"@Johnny_Rook
+Also could use that here, much appreciated.  walad007 @ gmail"
+,Johnny_Rook,2012-05-16T17:15Z,"@walad007
+Sorry dude, you must agree with my ""Therms & Conditions"" like everybody else. Refer to pag. 1"
+,Aessde,2012-05-16T21:36Z,"@Johnny_Rook
+Hi! 
+Can you please send me your crack? My e-mail adress is crackplease@live.com
+And of course I will not distribute it   and agree to your terms and conditions. 
+Thanks in advance!"
+,Aessde,2012-05-16T21:37Z,*and I agree to the terms and conditions. Typo.
+,7858765,2012-05-17T08:49Z,"@Johnny_Rook
+Hello
+
+Could you please send me your crack?
+I will not distribute it any further, and i fully agree with your terms and conditions.
+My e-mail is peter7858765@gmail.com.
+Thanks in advance, and i wish you all the best."
+,grgic84,2012-05-17T16:39Z," your patch will only be on my pc. I will never distribute it !!!!
+please send me...
+grgic84@gmail.com"
+,walad007,2012-05-17T17:56Z,"@Johnny_Rook
+I do Agree to your Terms + Conditions and I will Never distribute it.  Send it to my email.  
+Just agree not to distribute my email address to others, lol.
+walad007 (@) gmail (.) com"
+,darcen,2012-05-17T20:01Z,"@Johnny_Rook
+
+I have waited for ages that someone could crack this one. Hopefully can I be also one of the chosen ones to get my hands on that crack :) Pretty please.   Will not distribute it! darcen4433@gmail.com 
+
+thx in advance,"
+,louseyformat,2012-05-17T21:48Z,"@ johnny_rook
+
+the program works like a charm. the problems i was having installing was quite silly of me.first i had my fount size raised to 150% and couldn't see the patch button...lol...second problem, i have two displays one is a touch screen and one is a 3d TV...i had to disconnect the touch screen all together for it to work.....thanks very much for your time and knowledge...some games work better than others....la noir looks great when its not twitching in and out of focus. I like this program i little better than iz3d in witch i played a demo of....all in all it has worked great for the bulk of my games (after messing around with the settings a bit). You are a very helpful person Mr. Johnny_rook and are very well appreciated.
+
+Thank you very much! "
+,kiddystal,2012-05-17T23:16Z,"@Johnny_Rook
+
+Could you send it to me as well (gribblejoseph@gmail.com)? Of course I agree to all of your terms and conditions. Keep up the good work."
+,7858765,2012-05-18T08:24Z,"@Johnny_Rook
+Hello
+
+Works like a charm, btw. i have Panasonic VT 20 Plasma 3DTV hooked to my Radeon HD 5870 (if anyone would wonder if it works with it too). Thank you very much, people like you keeping me from losing my faith in humanity.
+Big thanks again, and i wish you alle the best to the future."
+,darcen,2012-05-18T14:20Z,"Brilliant. Works like a charm with my Acer 5552G laptop and LG 42"" TV. Thank you very very much."
+,soumulher,2012-05-18T17:17Z,"Good morning face. I saw that you seem to know a patch to reset the TriDef 5.2.
+I've killed myself trying to reset and until now nothing.
+
+I had formerly TriDef 4.0.2 installed. After it expired and got it.
+After a time formatted the PC from scratch and recalled that program.
+
+But I do not know how to speak my version 5.2 test period is over.
+It is impossible to know the software I had installed the TriDef 3D before.
+It is as if a person died, was born again and remember what it was.
+
+The only plausible explanation I find for this is that when the TriDef was first installed, he did a fucking record in the official website of TriDef and there when I try this version he knows my period espirou query why the old record.
+
+So crack a real help in the executable. I tried to contact the master, Skidrow but your site does not work very well. If you know it, please tell him that help us.
+
+I used the google translator because I am Brazilian.
+
+If you know something tell me, and thank you.
+
+harpiared@gmail.com 
+
+thanks very "
+,Johnny_Rook,2012-05-18T18:41Z,"@soumulher
+És Brasileira e és mulher LOL
+Eu não vou entrar em pormenores sobre as rotinas de código que os programadores de TriDef usam para gerar as chaves de registo da aplicação mas, posso adiantar que tens razão quando dizes que a informação está guardada nos servidores da TriDef. A única forma de ""enganar"" o servidor para não reconhecer o teu PC é mudando algum do hardware como por exemplo, o disco rígido.
+A Team Skidrow está mais vocacionada para cracking de jogos. Se quiseres pedir um crack para um programa, pede-o à SnD TeaM da qual eu próprio fiz parte, à team ICU ou à TSRh TeaM, só para mencionar algumas das melhores equipas de cracking.
+Quanto ao crack do TriDef, eu envio-to com todo o gosto assim que concordares com a minha única condição que é pagares 15€... ('tou a brincar). A condição que te ponho é NÃO DISTRIBUIR o meu trabalho pela Internet ou pelos amigos. Se algum dos teus conhecidos quiser o crack, peça-mo aqui. O crack que te enviar é para TEU uso pessoal, no TEU computador."
+,soumulher,2012-05-18T20:05Z,"Certo eu concordo com voce e se alguem quiser eu mando conversar com voce.
+Obrigado por tudo e se der para me mandar o seu trabalho...eu uso TUDO no computador apenas para  
+uso totalmente pessoal...
+Obrigado;)"
+,soumulher,2012-05-18T20:07Z,meu email é: harpiared@gmail.com
+,soumulher,2012-05-18T20:09Z,meu email é harpiared@gmail.com
+,zerong,2012-05-18T22:20Z,i come back just to says thanks again :)  
+,c47m56c,2012-05-18T22:44Z,"@Johnny_Rook
+
+Can I please have the crack?
+
+I agree not to distribute it at all.
+
+My email is: westasoccer7@live.com
+
+Thank you."
+,Johnny_Rook,2012-05-19T00:48Z,"@zerong
+
+Thank YOU! I'll not forget you my friend; you were the very first user to trust my patches were not virus and to enjoy your 3D movies and games!"
+,digihack,2012-05-19T01:07Z,"@Johnny Rook
+
+Hi Johnny,
+First of all my salute to you for the awfully nice job you have done and taking out the time to personally mail the crack to everyone who asked for it. Not a very easy thing to do I'd say.
+I would just like to add a review after using the patch. 
+1. The player can handle .avi files very well.
+2. However the player crashes while trying to play HSBS avi files. 
+3. It also crashes when trying to play .mp4 files.
+4. It can't handle mkv formats.
+
+I am also using power dvd 12. It can handle most of these formats but the  downside is that it's awfully big and takes up a lot of system resource and hangs a bit too much.
+
+What I love about the Tridef player is that it gives a better depth than the rest of the 3d players and it doesn't hog the system.
+My system is a little old though. It's a dell inspiron 1420. I have installed all the necessary codecs required to play the files.
+I am wondering why the player crashes whnever I tried playing these formats..."
+,Johnny_Rook,2012-05-19T01:52Z,"@digihack
+First of, thank for your kind words.
+
+TriDef Media Player isn't the best application out there for the job. TriDef is good for games -- very good sometimes -- but, that's about it; as far as video playback is concerned, there are too many issues with the software, mostly compatibility problems like the ones you're experiencing. 
+So, I suggest you to use Stereoscopic Player instead. It supports every media formats I know of; as long as you have the codecs installed, it works for 3D very much like the VLC or Media Player Classic work for 2D; you can choose from the audio channels available in the movie; you can load external subtitles; etc. There's a bunch of really helpful features."
+,soumulher,2012-05-19T04:35Z,"nao entendi nada jonny rock.
+Voce me fala que vai me mandar o crack e manda para esses caras primeiro?
+esta brincando comigo...
+Bom, valeu a intencao."
+,Johnny_Rook,2012-05-19T06:48Z,"@soumulher
+
+Está na cara que és mesmo uma fêmea! E deves ser loura também! 
+E que culpa tenho eu se não recebeste o mail ainda? Já viste se foi parar na caixa de Spam do teu mail? 
+Mal li sua confirmação que não destribuias meu crack, eu enviei logo. Senão, olha só:
+
+[code]Message-ID: 
+Content-Type: multipart/alternative;
+	boundary=""_4faf8f28-0b6c-4e65-b86a-61761f736765_""
+X-Originating-IP: [89.155.229.195]
+From: PakMan 
+To: 
+Subject: do Johnny
+Date: Fri, 18 May 2012 19:07:58 +0000
+Importance: Normal
+MIME-Version: 1.0[/code]
+
+Como vês, enviei o mail às 19:08 de ONTEM, SEXTA-FEIRA! Agora, são as 05:45 DA MANHÃ DE SABADO!
+
+Em lugar de impaciências futeis, devias era agradecer-me rapariga! Não te parece?"
+,Johnny_Rook,2012-05-19T06:59Z,"@ soumulher
+
+Só mais uma coisa que ficou por dizer.
+
+Se usasses o Google translator, verias que os users a quem eu respondi depois do teu pedido, o zerong e o digihack já têm o crack há que tempos! O zerong foi o PRIMEIRO a tê-lo faz quase duas semanas. Eles só quizeram agradecer e eu respondi. QUAL É ENTÃO O TEU PROBLEMA????"
+,darcen,2012-05-19T09:53Z,"@digihack
+
+are you sure you have correct DirectShow Filters installed? I had same problem at first. But after installing filters pack from here: http://www.free-codecs.com/download/directshow_filterpack.htm all problems are gone. I can play mkv, and hsbs files in tridef media player. 
+
+Ps. dont forget to install filters as administrator.
+
+br,
+darcen,"
+,soumulher,2012-05-19T16:22Z,"Jonny desculpa eu nao tinha visto.
+Mas infelizmente esse link que voce colocou nao funciona.
+Upa no media fire, please guy!
+há e desculpe a droga do gamail realmente havia mandado o seu email para o spam"
+,soumulher,2012-05-19T16:59Z,"Muito bom jonny!!! agora consegui!!! esses patches que voce deu funcionam perfeitamente!!!!!! funciona em direct x 11 tambem?
+Muito muito obrigado mesmo,, ele tem um efeito muito superior ao Iz3d (esse é um lixo tanto para configurar quanto na qualidade)
+Nao sei como diabos voce fez esse patch.
+Uma ultima pergunta que sempre quis saber: Gosto muito dessas musiquinhas que geralmente vem em patchs, gostaria de saber como voces fazem essas musicas queria muito fazer tambem..."
+,putanasse,2012-05-20T18:49Z,"@Johnny Rook
+I need also this patch. I found the price expensive compared to game list I can run on my computer with the dual projector output. 
+I'd be very gracefull if you send it to me.
+putanasse@hotmail.fr
+
+Thx in advance"
+,Jarniman,2012-05-20T18:58Z,"Johnny_Rook,
+
+much thanks for a splendid job on this,
+could i possible get this as well
+i definitely agree to your terms
+email is: 
+jarnimane@gmail.com
+
+once again thanks
+simply amazing"
+,kaka-forever,2012-05-21T15:33Z,"hi johnny im kaka of course not the real kaka 
+"" if i was i'll buy to you the whole company of tridef hhh :)
+well ,first of all i've samsung syncmaster.SA950 3d screen+ cd belong the screen countain:syncmaster 3Dgame launcher V1.1.0.7048
+ive problems with this so old program
+till now i didn't enjoy 3d games at all
+the prog tridef always showin ""time trial dead""
+i don't know what im gonna do if u wonna help me please please dude send me the crack my E-M is:kastiglion@gmail.com ; + i agree with NEVER DISTRIBUTE IT AT ALL FOR MY TIRE LIFE"
+,trainh13,2012-05-21T21:25Z,"@Johnny_Rook
+
+My email is trainh13@yahoo.com
+
+I will not distribute at all and I appreciate your hard work on this. I do plan on buying it, but 15 days is not long enough for someone who's schedule is as busy as mine. Do I need to download the trial from their site first?
+
+Thank you"
+,Johnny_Rook,2012-05-21T23:58Z,"@putanasse
+Sorry but, first, you must agree to my 
+""terms & conditions"" (it's only one really). Refer to pag.1
+
+@trainh13
+You must download TriDef 3D v5.2 or else my patch will not work. I think that's the latest final version available at their homepage. 
+They have an Ignition 3.5.18 Beta 4 version available for downloading at their forum but, I think ""Betas"" are not worthy the trouble to crack it."
+,fryn,2012-05-22T00:10Z,"I really need this crack, please send me.
+I agree not to distribute it at all too.
+My e-mail is: fabiovazb@hotmail.com
+I´m wating, i thank."
+,putanasse,2012-05-22T07:50Z,"@Johnny Rook
+Sorry I didn't understand you need my agreement.
+So I agree your terms and I promise I won't distribute the patch (moreover I don't anybody else close to me playing 3D with tridef).
+
+Thanks in advance."
+,putanasse,2012-05-22T07:55Z,"@Johnny Rook
+Sorry I did'nt understand you need my agreement on your conditions. So I agree the terms and I promise to not distribute the patch (moreover I don't know anybody close to me playing with tridef)
+Thanks in advance
+ps: my email   putanasse@hotmail.fr"
+,putanasse,2012-05-22T07:57Z,"@Johnny Rook
+Sorry I didn't understand you need my agreement on your conditions. So I agree the terms and I promise to not distribute the patch. (moreover I don't know anybody else close to me playing with tridef)
+
+Thanks in advance
+ps: my email putanasse@hotmail.fr"
+,putanasse,2012-05-22T07:58Z,Sorry for the triple comments something gone wrong with the site...
+,fryn,2012-05-22T22:50Z,"thank you very very much.
+The patch is working, but do not have time now to test it fully ... If you have any questions, go back to get in touch.
+Ah, can be very quiet, I will not distribute it.
+Again, thank you!"
+,asdlsd,2012-05-23T15:11Z,"I have one condition only to send you my work: DO NOT DISTRIBUTE IT!
+
+I agree!!!
+
+asd-rus@yandex.ru"
+,paracetamal,2012-05-23T16:27Z,"Johnny_Rook,
+
+much thanks for a splendid job on this, could i possible get this as well i definitely agree to your terms.
+
+email is: nortonbento@yahoo.com.br
+
+once again thanks simply amazing"
+,paracetamal,2012-05-23T16:46Z,"@Johnny_Rook,
+
+much thanks for a splendid job on this, could i possible get this as well i definitely agree to your terms.
+
+I WILL NOT DISTRIBUTE THIS!!!
+
+email is: nortonbento@yahoo.com.br
+
+once again thanks simply amazing"
+,asdlsd,2012-05-23T22:12Z,"Johnny_Rook,
+
+BIG thanks!!!"
+,vpamir,2012-05-24T00:06Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it for my personal use.
+
+e-mail: vpamir@gmail.com
+
+Thanks!!"
+,darklinglord81,2012-05-24T01:03Z,"Johnny_Rook,
+
+Thanks a lot for the effort you've put into this. I agree to your terms, and it's only for my personal use.
+
+darklinglord@hotmail.com
+
+Thanks :)"
+,naruto619,2012-05-24T01:31Z,"Johnny_Rook,
+
+I agree with your terms, and I'll only use this for my personal use. plzz can you send me your crack.
+
+my email: bloodangle@gmail.com
+
+thnx soo much."
+,KUSKOMINCIS,2012-05-24T19:59Z,"I agree with your condition and I will not distribute your patch.
+I respect your hard work.
+
+
+My e-mail : hornydornis@gmail.com"
+,dsbp,2012-05-25T05:35Z,"Weird! But yes, I will gladly accept your terms and not distribute. dashbeep@gmail.com thanks!"
+,Johnny_Rook,2012-05-25T07:36Z,"@dsbp
+If you had bothered to read my earlier posts  
+(pags 1 & 2), you would had known why I ask you people to not distribute the files.
+
+Remember that when you download, install or apply the software content I provided, you are agreeing not to take legal actions against me, my family, the ISP and The Pirate Bay (TPB) as well."
+,La_Parca,2012-05-25T23:11Z,"I agree to your terms Johnny, any idea if your method works on the new beta? Thanks in advance man!!!
+email is ""infocusbulb@gmail.com"""
+,alkwathor,2012-05-26T11:48Z,"I agree to your terms and I will not distribute your patch. Plz send it to me - i've been trying to crack this thing for a while now - but i have not been able to make it fully functional.
+alkwathor@gmail.com
+
+I will test this on Windows 7 x64
+Thank you!"
+,Johnny_Rook,2012-05-26T15:25Z,"@La_Parca
+If TriDef developers don't know their application was cracked, they have no reasons to change the code's activation & registration routines so, the method I use will most probably work on new Betas and even on new final releases. However, the patches I'll send you work for version 5.2 only 'cause CRC & file size checkings were implemented.
+
+@alkwathor
+Are you a cracker? Or have you any knowledge on Assembly language and PE file format? How were you trying to crack the application? What were the problems you ran into?"
+,lokix86,2012-05-26T18:11Z,hey there could i please have the crack for this program i promise not to distribute it on the internet :) ---- squall4_5@hotmail.com
+,alkwathor,2012-05-26T18:37Z,"@Johnny_Rook
+I crack things for my own needs and as a hobby. I was interested in tridef player and i tried to bypass the licence verification. Found the jump to start it without a licence but it won't play anything."
+,bleckpauer,2012-05-26T18:58Z,"Johnny_Rook,
+
+Thanks a lot for the effort you've put into this. I agree to your terms, and it's only for my personal use.
+
+bleckpauer@hotmail.com
+
+Thanks"
+,gremlins9,2012-05-26T21:05Z,"Johnny_Rook,
+Great man, can't wait to try this. Keep up the good work! I agree to your conditions. Here's my email: evilgremlins9@gmail.com"
+,Johnny_Rook,2012-05-26T22:39Z,"@alkwathor
+TriDef Media Player registration routine is really ""easy"" to bypass. You better start with it. 
+Then, move to Ignition 'cause it adds a ""valid license id"" check to the mix and finally, go for the drivers themselves 'cause they also check the license and the time passed since first activation.
+You need to crack five files for this to work properly but, it's only a few bytes patch per file OR if you have the time and the expertise, there are more ""professional"" methods to do it.
+Please, tell me what's that jump's address and I 'll see if you are on the right track or if you need to change your approach."
+,darklinglord81,2012-05-27T02:40Z,"Thanks a bunch, Johnny_Rook :)"
+,towelie22,2012-05-27T05:59Z,"@Johnny_Rook,
+Thank you for this!  I agree to your terms and conditions and will not distribute this.  Can you please send to:
+thematrixhasyou123456@gmail.com
+
+thanks again!"
+,lkjacc,2012-05-27T08:00Z,"@Johnny_Rook,
+
+I agree to all your terms and will not distribute this anywhere, please send it to this address, thanks in advance.
+
+willow_the_bloody@hotmail.com"
+,bavogames,2012-05-27T12:03Z,"@Johnny_Rook
+I'd like to test your crack too: stevie_123@hotmail.be"
+,bavogames,2012-05-27T12:04Z,"and yes, I agree to NOT distributing it"
+,qwertyistoolong,2012-05-27T15:43Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it for my personal use.
+
+e-mail: changeit@live.com
+Thanks alot."
+,teddy2012,2012-05-28T12:00Z,"@Johnny_Rook
+Hello, could you please send to me the crack?
+I will not distribute it any further, and i fully agree with your terms and conditions.
+tes.teddy@yahoo.com
+Thanks in advance. "
+,teddy2012,2012-05-28T12:03Z,"@Johnny_Rook
+Hello, could you please send me the crack?
+I will not distribute it any further, and i fully agree with your terms and conditions.
+tes.teddy@yahoo.com
+Thanks in advance."
+,Scratz11,2012-05-28T12:38Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it for my personal use.
+
+e-mail: scratchiza@gmail.com
+
+Thanks!! "
+,siouxbr,2012-05-28T16:52Z,"@Johnny_Rook
+
+Please send me the crack. i ll not distribute.
+
+siouxbr.sirius@gmail.com
+
+tnks"
+,DudeRugz,2012-05-29T05:03Z,"@Johnny_Rook
+
+I completely agree to your conditions and will not under any circumstance distribute the patch, it will be solely for my personal use.  
+
+Please send to
+Nattychamp@gmail.com
+
+Thanks in advance, it will be GREATLY appreciated "
+,putanasse,2012-05-29T07:57Z,"@Johnny_Rook
+I gave a try this week end to the patch and it works perfectly (dual projector setup).
+A big big thanks ...
++++"
+,aasra,2012-05-29T20:59Z,"Hello,
+
+Please send me the activation code.
+
+I will not share it with others.
+
+email-prateekbajpai84@gmail.com
+
+Thanks,"
+,Johnny_Rook,2012-05-29T23:13Z,"@aasra
+Are you asking me?? I can't give you any activation code. You would not be able to use it.
+TriDef codes are personal and can only be used by the PC where the code was first activated. Is just like the serials for online multiplayer gaming: two different accounts can't share same code."
+,DudeRugz,2012-05-30T00:12Z,"@Johnny_Rook
+
+Just applied your patch, and sure enough, I went from Trial Expired to playing Skyrim in 3D.  Much appreciated."
+,sither21,2012-05-30T08:59Z,"@Johnny_Rook
+
+I agree with your conditions, and promises not to redistribute your work, just for my personal use only. TIA
+
+jakov_21@yahoo.com"
+,carnifex92,2012-05-30T10:40Z,"@Johnny_Rook 
+
+I will never distribute, and will completely abide by you're conditions, Its so i can watch my 3d content!
+Thank you so so much!
+
+Email:
+n02176499@hawkmail.newpaltz.edu"
+,Neoklad,2012-05-30T21:17Z,"@Johnny_Rook
+
+I totally agree to your conditions. I promise I'll never distribute it.
+Here's my mail : Neoklad@hotmail.fr
+
+Thanks for it, I'll finally be able to play in 3D ! :)"
+,saikesav,2012-05-31T11:31Z,please please please please please please please please please please please please please please send me crack. I agree to all ur conditions.. My email id is saikesav.iit@gmail.com
+,carnifex92,2012-05-31T11:39Z,"@Johnny_Rook
+
+Thx so much my man, Finally i can now start watching Game of thrones in 3d O.o"
+,carnifex92,2012-05-31T22:38Z,"@Johnny_Rook
+
+Hey johnny, your patch worked, but im dealing with one problem that's restricting me from using it. 
+
+The problem is in the configuration for my display. The process brings me to Tridef Control Panel, but when it opens it completely fails, a process and application is opened, but opens minimized it appears, and when i click to maximize ect... it simply closes. Running as admin doesnt change the problem either. Any suggestions, I am using a Benq W710ST projector. Please HALP!"
+,Johnny_Rook,2012-06-01T02:37Z,"@carnifex92
+Sorry to hear that but, I feel I can't help you 'cause I don'tt use BenQ projectors -- nor any kind of projectors for that matter. I use monitors and TVs only so, I can't replicate your problem. I'm almost sure it's an TriDef application issue. 
+You know, my patch was inside registration routines and serial checking only; I did not mess-up with driver itself.
+Did you check if the application worked 100% in Trial, without patch?  I suggest you to go to DDD TriDef 3D forums and get some help."
+,maskeras,2012-06-01T09:22Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it for my personal use.
+
+Great Work Man!
+
+e-mail: maskeras@gmail.com
+
+Thanks!!"
+,lndi,2012-06-01T12:36Z,"@Johnny_Rook
+
+You are Great.
+I agree not to distribute your work. It would be nice to have a working version. In my trial has expired. Did your crack work for me?
+
+My email: i.n.d.i @ wp.pl
+Thanks."
+,vijayspy1,2012-06-01T17:35Z,"@Johnny_Rook
+
+I completely agree to your conditions and will not under any circumstance distribute the patch, it will be solely for my personal use.
+
+Please send to
+vijayspy.2009@gmail.com
+
+Thanks in advance :)"
+,TheNamesQ,2012-06-01T19:43Z,"@Johnny_Rook
+
+Superb work on this one!
+
+I completely agree to above stated conditions of yours, will be for my personal use without any distribution.
+
+mail: milaoga@gmail.com
+
+TU!"
+,antrim741,2012-06-01T21:38Z,"@Johnny_Rook
+iam really glad you were able to crack it. I was trying to do the same about a year but finally gave up after trashing my windows with softice. Had to format and reinstall everything. I can fully understand the hard work you have put in.
+Anyway it will be great if you can send me this. I will not distribute to anyone else.
+antrim741@gmail.com"
+,Johnny_Rook,2012-06-01T22:56Z,"@lndi
+As long as you have the software v5.2 installed, I'm pretty sure the patch will work with your registration Trial serial. Just apply the patches and you're done.
+
+@antrim741
+Feel free to analyze the patching results so you can crack it yourself next time. If the code registration routines don't change in next releases, it will be a very simple ""Search & Replace"" patterns patching procedure to do.
+BTW, don't use SoftIce for this; SoftIce is used for more ""hard-cracking"", Ring0, ""virtual machines"" stuff. Ring3 Olly Debugger (OllyDbg) would be just fine. Try it."
+,DevTom,2012-06-03T00:38Z,"@Johnny_Rook
+
+Wow dude, good job. Definitely won't do any distributing, just looking for a really nice 3D experience.
+
+Email : bloodbaron1@hotmail.com"
+,3w0lf,2012-06-03T03:46Z,"Can you please send the patch to l053r1@gmail.com.
+
+I agree not to distribute it to anybody and will use it for personal use only. Thanks!!"
+,qorlman,2012-06-03T10:11Z,"@Johnny_Rook 
+I agree to your conditions and will not distribute the patch.
+karlivrh@yahoo.com"
+,lndi,2012-06-04T09:20Z,"@Johnny_Rook
+Thanks bro. It works even when the license expired.
+A good job. 
+I have long waited for such a thing. Please, let no one be published on the internet, because they block for us the gate."
+,walochec,2012-06-04T19:12Z,"@Johnny_Rook
+
+I agree to your conditions and will not under any circumstance distribute the patch, it will be solely for my personal use. 
+
+Please send to
+waliddagot@yahoo.com
+
+Thanks :)"
+,TieuTu,2012-06-04T19:20Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+e-mail: bony91_[a]_hotmail_._fi
+
+Thanks in advance"
+,TieuTu,2012-06-04T19:55Z,"NVM my last comment, I wrote the email wrong while adding those marks
+
+@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+e-mail: Bonyt91_[a]_hotmail_._fi [edited]
+
+Thanks in advance "
+,Johnny_Rook,2012-06-04T22:29Z,"@Indi
+[QUOTE=""Indi""]I have long waited for such a thing. Please, let no one be published on the internet, because they block for us the gate. ""[/QUOTE]
+It's all up to you people to not distribute the crack; it's really out of my hands now. 
+Don't you guys f*ck this gift up!!!"
+,commycharb,2012-06-05T02:24Z,"@ Johnny_Rook
+I'm experimenting with my video card and it's taking me too long to figure the program out.  I am totally willing to be complient with your conditions.  If you could send me the fix you made I will not redistribute.
+ottawa.person@hotmail.com
+thanks in advance "
+,cascad666,2012-06-05T10:52Z,"I totally agree to your conditions, i will only use it on my personal computer. please send me the patch.
+email:rednaxelak[a]hotmail.com"
+,tuckersaspy,2012-06-06T06:42Z,"@Johnny_Rook
+
+This is just what I have been looking for! i re-install my OS so often to keep things fresh i hate programs that only let you install once, especially 50$ ones...
+
+if you can send it to tuckersaspy@yahoo.com i would be most appreciative 
+
+i agree not to distribute and use this only for myself for personal use"
+,TurkJerk2,2012-06-06T07:07Z,"@Johnny_Rook
+
+I agree to your conditions. I will NOT distribute the patch, i'll only use it only for my personal use.
+
+e-mail: rlbcyclone[@]gmail.com
+"
+,john2727,2012-06-06T17:16Z,"@Johnny_Rook
+I agree to your conditions and will not distribute the patch, only for personal use. thanks!
+
+Please send to
+john2727@rocketmail.com"
+,kisfinanc,2012-06-06T22:31Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+My e-mail:kisfinanc@hotmail.com"
+,deejaym,2012-06-08T11:51Z,"@Johnny_Rook
+
+can you send me the patch?
+
+i agree to your terms and conditions and i can guarantee to you that i will use your patch for personal purpose only
+
+my e-mail : mihai_leo_messi@yahoo.com
+
+Thanks in advance ! "
+,m2power,2012-06-08T16:21Z,"@Johnny_Rook
+
+I agree to your conditions & i will use your patch for personal purpose 
+
+my e-mail : mohmade@gmail.com
+
+Thanks"
+,cheese73,2012-06-09T03:53Z,"@Johnny_Rook
+
+can you send me the patch?
+
+i agree to your terms and conditions and i can guarantee to you that i will use your patch for personal purpose only
+
+my e-mail: ricancap01@yahoo.com
+
+"
+,testtg,2012-06-09T14:52Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+e-mail: testtg@telenet.be
+
+Thanks in advance "
+,kgen12,2012-06-10T01:39Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+e-mail: rashad786@gmail.com
+
+Many Thanks in advance "
+,john2727,2012-06-10T02:20Z,Work like a charm thank you Johnny....
+,DtKillMe,2012-06-10T17:29Z,"@Johnny_Rook
+
+I agree to your conditions. I promise I will NOT distribute the patch, I'll use it only for my personal use. You are a GOD among men for this!
+
+e-mail: fthehead2@gmail.com"
+,morenho,2012-06-10T19:11Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+Been waiting for this for too long, you rock man!
+
+please send the patch to mestremorenho@gmail.com"
+,Mrturtle90,2012-06-11T02:23Z,"I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+I have been looking for a long time for a crack to use this.
+
+please send the patch to gaming_turtle@lycos.com"
+,Marilennyy,2012-06-11T02:45Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+email: marilennyy@hotmail.com"
+,Mrturtle90,2012-06-11T03:35Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+I have been looking for a long time for a crack to use this.
+
+please send the patch to gaming_turtle@lycos.com"
+,nelus0,2012-06-11T13:55Z,"
+@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+e-mail: nelus0@live.nl
+
+Thanks in advance"
+,brianray1,2012-06-11T21:24Z,"
+@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+e-mail: everyonelovespepsicola@gmail.com
+
+Thanks in advance "
+,billythekid1900,2012-06-12T16:27Z,"@Johnny_Rook
+
+ I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+ e-mail: billythekid90@safetypost.de
+
+ Thanks in advance"
+,unknown_8,2012-06-12T23:40Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+e-mail: uunknown08@gmail.com
+
+Thanks in advance"
+,tihnhk,2012-06-13T07:52Z,"@Johnny_Rook
+
+Hi Johnny,
+
+You are the only one I know that are able to crack this software. Awesome!
+
+I agree to your conditions. I will not distribute the patch and use it personally.
+
+My e-mail: tihnhk-c@yahoo.com
+
+Thank you very much."
+,tihnhk,2012-06-13T16:51Z,"@Johnny_Rook
+
+Hi Johnny,
+
+Thank you for the link. But it seems not working, it redirects me to the main page.
+
+Is it my problem? Thanks."
+,Johnny_Rook,2012-06-13T19:04Z,"@tihnhk
+It seams it's not working alright. Don't know what's wrong. Anyways, check your e-mail box within the next hour. A new link will be sent."
+,rickfabio,2012-06-14T09:44Z,"@Johnny_Rook
+
+I agree to your conditions and i'll not distribute the patch, i'll only use it ONLY for my personal use.
+
+e-mail: rickfab_[a]_gmail_._com
+
+Thanks in advance "
+,tihnhk,2012-06-14T15:13Z,"@Johnny_Rook
+
+Got it! Thank you.
+
+But my system warn me a trojan TR/Agent.631296.8. Is it false positive?"
+,Johnny_Rook,2012-06-14T15:51Z,"@tihnhk
+From the +100 users applying my patch, have you ever saw anyone complaining it's a virus?
+I explained before how the patch was made; it was packed with a version of UPX, therefore may be reported as being a virus (refer to pag.2)
+What's the AV software you're using?"

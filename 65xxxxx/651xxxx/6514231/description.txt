@@ -1,0 +1,8 @@
+7/3/2011: Parted Magic 6.3 (i686)
+This release fixes a few obscure typos and bugs in some of our scripts. Pburn and Pfilesearch have been added for testing. There are no menu entires yet, so run â€œpburnâ€ from the command line. If there are any Puppy fans out there that can help us getting these to work as well as they do on Puppy, that would be awesome. If they work okay, then we can add them to the menu in 6.4.
+The main reason for this release was to add more kernel CPU options. Parted Magic now comes in i486, i686, and x86_64. The only testing I've done with x86_64 was on my i7 machine. I've successfully chrooted into Slackware64 1337 and ran some command line programs. The i686 CPU is set to PIII, so if you are running a PII, use the i486 version instead. Please report any problems in the forum.
+ 
+http://partedmagic.com/doku.php?id=news 
+http://partedmagic.com/download.html
+
+md5sum : 2bd2defc0f216cbfb095560d7fabbd9e  pmagic-6.3.iso

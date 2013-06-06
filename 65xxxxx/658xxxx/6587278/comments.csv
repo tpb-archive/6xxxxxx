@@ -1,0 +1,1112 @@
+User Type,Username,Date,Text
+,jolopy,2011-08-06T20:46Z,it would be seriously impressive if someone manages to crack it and release it today. i will make a shrine for you if you do and you will be remembered by all for eternity
+,Jimstalk,2011-08-06T20:47Z,the size is correct.....I must inform you guys that the activation for the ngx is not beeing made from the executable.In order to activate it youll have to load the plane and then a popup window will appear which will ask for your serial.You MUST HAVE an internet connection to proceed....
+,F.B.I,2011-08-06T21:24Z,"@Jim jim i was thinking the old method that was used to crack the 747, you know adding the pmdg conection details to a windows file, i cant remember what file it is of the top of my head, but im sure you know!!"
+,F.B.I,2011-08-06T21:42Z,Comments not loading
+,F.B.I,2011-08-06T21:44Z,"Seriously Pokerface01, just seems like a reviews page!!!"
+,Jimstalk,2011-08-06T22:30Z,Yeah i know but you also had to add some information to the registry.The trick with the file you say may work but it wont do the job because i cannot find my PMDG 737ngx in regedit.exe.They have added some kind of encryption i think...I know its complicated enough but there must be a way to find these .reg keys 
+,pilotczj,2011-08-06T22:33Z,szopd ki a buzi linket és pós jános faszát te tevebaszó
+,F.B.I,2011-08-06T23:37Z,"So all 150 leechers know how to crack this .exe i know i can and jim can, but can the rest of you, cause as soon as youve all downloaded it youll be on here moaning it wont work nd needs cracking, let me and jim get the .exe first so we can dop our magic on it!!! But ill be on tomoz now as i cnt be arsed to watch me dwnload speed @ 0.1 mbs"
+,MajorWales,2011-08-07T00:04Z,"@F.B.I we're downloading it so when the crack comes, we already have the .exe to install... all we have to do is add the crack!"
+,u55g,2011-08-07T01:42Z,"Jim and FBI, sorry but you won't crack this thing.
+
+I've been looking at it for the past 24 hours and it'll need someone with actual knowledge to do it. It's not just registry, it's process activation executables in the background, XML calls to remote server for initial activation, encrypted trusted data storage for licensing etc.
+
+Good luck."
+,jolopy,2011-08-07T02:19Z,"Maybe DCrack can come back and crack it? Let me cast the DCrack summoning spell:
+
+O DCrack,
+
+Thou who is mightiest,
+
+Lend thou powerful cracking powers,
+
+To deliver us PMDG 737NGX.
+
+pls"
+,grfam,2011-08-07T02:57Z,"i paid $70 coz it's worth it, and i'm happy flying it :)"
+,Jimstalk,2011-08-07T02:58Z,"DCrack?What makes you think that he could crack stuff? Probably He was a senior member at wickedfriends dot com....Trust me tpb looks like drugs. For example Dcrack and me are the drug dealers and we give you what you want.But these drugs are not made from us.The producer (cracker) is the guy who makes this stuff.Komu was the ONLY user in tpb who achieved to be producer&dealer.Well this is really dangerous because the cops can find you. As far as i know komu got busted some months ago....So dont request the ngx if theres no fuckin prOducer out there.,,FBI and I will do our best but the ppl from PMDG worked really well on this project. The encryption they use seems like a labyrinth to me so please DO NOT depend on me cuz im sittin'  around 30 hours in front of my monitor and   Cannot even find the fuckin reg keys. And now every time i try to launch the ngx with FSP i get a fattal error and then fsx shuts down. 
+
+P.S If you guys think that DCrack can do the trick then please tell me WHY did he not achieve to crack the concorde?"
+,alexmorph3us,2011-08-07T03:23Z,That would be something :))) 
+,alexmorph3us,2011-08-07T03:29Z,However is there a way someone could contact DCrack and tell him that we need his help ?
+,COCKPITSONIC,2011-08-07T04:13Z,por favor dcrak  salvanos  ven y ayudanos  ho  gran seÑor  
+,COCKPITSONIC,2011-08-07T04:13Z,Please come and help us save us dcrak great man ho
+,COCKPITSONIC,2011-08-07T04:15Z,"Please come and help us , save us,  DCRACK  great lord
+"
+,u55g,2011-08-07T05:10Z,"@Jim, you're an idiot if you think it's anything to do with registry. Read my comment."
+,F.B.I,2011-08-07T07:23Z,"Im up, coffee, check download check gunna be a long day."
+,clintferns,2011-08-07T08:05Z,best of luck f.b.i....ill pray for you all the way from India !!!!!
+,F.B.I,2011-08-07T08:19Z,"Ok guys iv narrowed where the activation is coming from, its being called from PMDG_HUD_INTERFACE.DLL (I THINK ITS THIS AS ITS ASKING JUST BEFORE YOU LOAD INTO FSX) or its PMDG_737_NGX_3.DLL Iv actualy already got the 737 on my fsx just no gauges, i didnt activate the HUD.DLL but the minute i agreed to run it the second time round the activation window pops up, also iv added some line to the trusted section in the fsx.cfg, when fsx loads i can load the .dlls which is confusing the activation, a couple more hours i think!!"
+,COCKPITSONIC,2011-08-07T08:44Z,hurra  hurra   !!  for FBI  go go go !!!
+,COCKPITSONIC,2011-08-07T08:47Z,"FBI - go for the best and most expensive Starbucks coffee I'll pay my friend, but please continue to do"
+,F.B.I,2011-08-07T08:53Z,"Yessssssssssssss almost got it, got all 3 .dlls to load, aircraft doesnt crash when u load it onto fsx just got the activation window staying up now, but i think most of you will find its the 3rd .dll that you cnt load, iv done this. not long now yipeeeeeeeeeeeeee"
+,COCKPITSONIC,2011-08-07T08:59Z,I can not believe YOU HAVE!
+,F.B.I,2011-08-07T09:34Z,"i have, but if you guys just wanna take a look around the aircraft and fly it with NO GAUGES, but aircraft will have sound and u will just be able to look around nd fly remove this PMDG_737NGX.DLL from your fsx gauges before you load fsx, you should then NOT be asked for activation. It seems this is where all the stuff is happening, could somebody let me know if removing the .dll above works for u!!! "
+,clintferns,2011-08-07T09:51Z,"great job,but from ur above comments it seems that only the visual model is avaialable and not the panels or gauges right ??"
+,captsi,2011-08-07T10:04Z,"@F.B.I
+
+It looks like the PMDG_737NGX_2 is the activation module.
+
+""FLEXnet Secure Activation Module"""
+,F.B.I,2011-08-07T10:31Z,"@clintferns at the moment yeah, the first .dll is encrypted!! 
+@captsi how did you decrpty the .dll??? plus how do you know its the second .dll???"
+,Solarflexlanka,2011-08-07T11:01Z,"Well im onto the Job of cracking this beast @F.B.I 
+The .dlls are not the only problem..."
+,Ventu5,2011-08-07T11:02Z,"@F.B.I
+
+I can confirm, that if I rename PMDG_737NGX.DLL, then the aircraft loads and I can fly around with no gauges.
+
+Good luck."
+,Solarflexlanka,2011-08-07T11:03Z,"Well im onto the job of cracking this...
+@ F.B.I - the .dll files are not my concern...There are few other files which are connected to these files...Still not sure what they are.."
+,mdemons12,2011-08-07T11:05Z,"@ FBI, Could you please just upload the cracked .dll, I have already downloaded so if you could it would be great."
+,F.B.I,2011-08-07T11:06Z,Guys iv removed the checks from the first .dll however i need to find this file libFNP.dll if anyone could help???
+,F.B.I,2011-08-07T11:07Z,No cracked .dll yet
+,Solarflexlanka,2011-08-07T11:08Z,Cracking this is harder than it seems...
+,F.B.I,2011-08-07T11:09Z,@Solarflexlanka they should be as this is where all the .bmp files are that are the gauges!!!
+,gerrarditto,2011-08-07T11:10Z,"I've tried PMDG 737ngX without that module and it's working. Of course, the gauges are not. But hey! This is a big step dude. I hope that in a week I will fly this beautifull bird:)"
+,gamer2010,2011-08-07T11:14Z,no point of downloading i can t configure fmc its to hard for me 
+,mdemons12,2011-08-07T11:18Z,If you get rid of PMDG_737NGX.DLL you can't see the little cones on the engines. Just saying.
+,Solarflexlanka,2011-08-07T11:19Z,@ F.B.I Do you have PMDG 747-400 installed?? if so will the crack work for users using PMDG 747 as well?
+,F.B.I,2011-08-07T12:11Z,"Guys i have all 3 .dlls loading but still no gauges, i deleted the activtion info in hex editor, which allows you to load al 3.dlls, however i still need to figure out hot to activated the gauges!!"
+,captsi,2011-08-07T12:44Z,"@F.B.I
+
+Gauge no 2 dll is the actual activation module and gauge no 1 dll is where it calls it from"
+,mdemons12,2011-08-07T13:06Z,what if you do it similar to the Aerosoft products. Crack the activation thing instead of the actual files.
+,tamer008,2011-08-07T13:08Z,"Good luck CAPTSI,FBI!!!"
+,F.B.I,2011-08-07T13:10Z,"your right mate the 2.dll is the activation module
+1 VERSIONINFO
+FILEVERSION 11,9,0,0
+PRODUCTVERSION 11,9,0,0
+FILEOS 0x40004
+FILETYPE 0x2
+{
+BLOCK ""StringFileInfo""
+{
+	BLOCK ""040904b0""
+	{
+		VALUE ""CompanyName"", ""Flexera Software, Inc.""
+		VALUE ""FileDescription"", ""FLEXnet Secure Activation Module""
+		VALUE ""FileVersion"", ""11.9.0.0 build 87342""
+		VALUE ""InternalName"", ""libFNP.dll""
+		VALUE ""LegalCopyright"", ""Copyright (c) 2006-2010, Flexera Software, Inc. All Rights Reserved.""
+		VALUE ""OriginalFilename"", ""libFNP.dll""
+		VALUE ""ProductName"", ""FLEXnet Publisher (32 bit)""
+		VALUE ""ProductVersion"", ""11.9.0.0 build 87342""
+	}
+}
+
+BLOCK ""VarFileInfo""
+{
+	VALUE ""Translation"", 0x0409 0x04B0
+}
+
+However all the gauges are locked in the first .dll as iv looked threw them, we just need to find a way to unlock em!! Im stuck for now!!"
+,tamer008,2011-08-07T13:24Z,"FBI and CAPSI are working hard to crack the activation dll, and the first one. "
+,Solarflexlanka,2011-08-07T13:51Z,"I think i might get this out...Me and a friend of mine are working to get this cracked out...Just a small ques...Does the activation process occur once or do you guys have to enter the details everytime when you guys fly ( this goes out to guys who purchased the PMDg 737 NGX)
+
+@F.B.I... We need to get a Rat out from the PMDG development group..."
+,Inkfile,2011-08-07T13:54Z,"I have to say guys if you crack this I will give you three wishes from my magic genie lamp. It flies and sounds GREAT! I just cant see the dam gauges. But I use Cntrl+z to check my Alt & Speed, GOOD LUCK!"
+,pilotczj,2011-08-07T13:57Z,i believe only one activation process !
+,Solarflexlanka,2011-08-07T14:00Z,Ive just found this....What does the PMDG install to my C Drive when my FSX and everything is in the D drive??
+,Inkfile,2011-08-07T14:03Z,Any luck yet..?
+,Solarflexlanka,2011-08-07T14:06Z,Trust me this would take very long...They have encrypted everything...
+,Solarflexlanka,2011-08-07T14:12Z,Is the 3rd dll for the TCAS?
+,6800ultra,2011-08-07T14:31Z,"http://license.precisionmanuals.com:8888
+
+HACK IT AND GIVE US ALL A SERIAL NUMBER LOOOL"
+,F.B.I,2011-08-07T14:43Z,"@Solarflexlanka if you know where to look and what software to use, they havnt encrytped nething, besides this is a server side activation, so unless we can bypass the activation in the .dll we have no chance!!!"
+,Solarflexlanka,2011-08-07T14:46Z,"Okay...All i know is FLEXnet is a really top Licence management group....so it could be hard to pass through...
+
+ Also the PMDG_737NGX.dll is the file with the activation...So i was wondering if we could obtain a PMDG_737NGX.dll file from a guy who activated it..It might fix the problem..."
+,F.B.I,2011-08-07T14:47Z,"3rd is for tcas, the process that runs the activation is located in c:\programme_files\common_files\Marcovison shared\flexnet publisher.
+
+Could someone whos activated this please send me all there .dlls from there gauges folder so i can compare there 3 un activated ones i have!!!"
+,Solarflexlanka,2011-08-07T14:50Z,Also ive found out the PMDG_737NGX.dll file controlls the animations...
+,Solarflexlanka,2011-08-07T14:58Z,Im out for now...
+,tamer008,2011-08-07T15:14Z,"@FBI without activated dlls , I am sure that the crack process will take very long time such as 2 years or something like previous PMDG editions, in addition pmdg definitely secured NGX with very and tough complicated encryption!!  "
+,F.B.I,2011-08-07T15:49Z,yeah i need someone to upload the activated .dlls!!!
+,Solarflexlanka,2011-08-07T15:52Z,Well..When i read the EULA of PMDG it made me worried..I cant ever pay 25000$
+,F.B.I,2011-08-07T16:04Z,?
+,u55g,2011-08-07T16:17Z,"@FBI, you're an idiot. You can't activate DLLs. The licensing is not handled by them. Try harder."
+,F.B.I,2011-08-07T16:46Z,@u55g well give me a hint pls!!
+,Solarflexlanka,2011-08-07T16:52Z,"@u55g...If your smart then tell us what file the activation is handled...
+
+@ F.BI. - I could develop a crack but i am scared  of the legal actions PMDG would take against me...So sorry guys....im not doing it this tym...
+
+Read the EULA
+located : Microsoft Flight Simulator X\PMDG\PMDG 737 NGX\Readme thing...."
+,F.B.I,2011-08-07T17:03Z,"Im out, iv ran outa ideas looks like im off to buy the thing!!!"
+,6800ultra,2011-08-07T17:08Z,"Nooo c',mon FBI.
+If PMDG had an money back guarantee i would buy it now and give you the dll and everything, but they don't have one...."
+,LarsLaur,2011-08-07T17:09Z,"Viral distribution my friend... PMDG can't catch who they can't see.
+And TPB won't give them that information either ;)
+They fucked with MPAA / RIAA so much that PMDG is just a small timer that won't stand a chance."
+,mickyfinny,2011-08-07T17:17Z,"Macrovision is the same company that""protected""PMDG_BAe_JS4100,so if thats anything to go by it wont be long now.Hahaha"
+,F.B.I,2011-08-07T17:36Z,"I was kidding guys, im looking in to how the j41 was cracked!!! :-)"
+,NvidiaPhysX,2011-08-07T17:52Z,"PMDG J41 activation was same as this, we never knew it because someone uploaded a torrent with activated DLLs. It came to our vision when we updated it with a new patch 'FREE ON PMDGs WEBSITE'.
+
+I cracked this plane half but still black gauges and no fan blades, don't worry guys I am giving my best to crack this bird. I won't upload a torrent but will just give you instructions on how to crack it, so keep on reading comments and don't forget that I am a human only so it may take a long time for me also and in the mean any other person may crack it, there isn't any competition, we just need this bird for free. I know that we ain't that poor that we can't afford it but still majority of us including me hesitate to put their credit card information over the web. My best wishes to myself and all those who are trying to crack it, I hope we will become successful."
+,u55g,2011-08-07T18:15Z,"I never said I could do it, I said you couldn't.
+
+The DLLs themselves aren't activated, you need to remove licensing calls to other modules from them. There's no such thing as an ""activated"" DLL."
+,Vermos,2011-08-07T18:43Z,"Just observe this blog. Guys there allready working on crack. Last comment:
+""it is necessary to operate the aircraft properly, let's wait.""
+
+http://encurtar.com/ac
+
+Cheers"
+,SniperBliss,2011-08-07T18:57Z,"Thanks for your continued help Nvidia, do you have email or anything? So we can stay up to date?"
+,F.B.I,2011-08-07T19:05Z,@u55g i maybe getting some activated .dlls from someone :-)
+,NvidiaPhysX,2011-08-07T19:07Z,"I have figured out how to crack this software. The method I am going to write is theoretically correct, however I haven't tried it yet, but I will give you results as early as possible.
+
+Before that, I want to tell that in this installer I have found that all the security or activation files that PMDG has made lies either in registry or in other hidden folders, they can not interfere in working of DLLs until and unless they aren't present, simple huh!!!
+
+So, first thing is that, we are going to create a RIP of all the files, but it ain't easy, PMDG is really clever and even if you change the installation directory, the NGX would be installed in the location where FSX is installed, indirectly wherever it's entry in registry lies, for that purpose we are going to use a simple tool:
+
+http://fullterrain.com/hotfixes_patches/FSX_Registry_Fix.zip
+
+'FSX registry fix'
+So just simply change your FSX location for a while until you get all the NGX files.
+
+Now just backup them in your pen drive or anywhere in HDD and use CCleaner to uninstall NGX completely.
+
+Then paste all the files in your FSX directory and check if it works or not?
+
+NOTE: I can say that it's theoretically correct because when I renamed the Gauges, and ran all of them, the activation was bypassed but plane wasn't fully working, so when I renamed them to original gauges, everything worked but that error message was freezing my FSX when clicking fly now, this incidence proves that there isn't any licensing module on DLLs. "
+,NvidiaPhysX,2011-08-07T19:09Z,"@FBI really, man you are a god, then it would be simple to crack this thing. I hope you get them. Best wishes from my side!"
+,gerrarditto,2011-08-07T19:39Z,"@NvidiaPhysX
+Well, I've tried right now this sollution, but I can't change the defauld location with that folder.
+I've created a new fsx.exe file on a folder from my desktop, and I used that program to locate the exe file. At the end it tolds me that the fsx location has been updated.
+Afterthis, I ran the setup for PMDG, but it still installing on the defauld FSX location."
+,MajorWales,2011-08-07T19:50Z,"im trying what @F.B.I said and am following his tutorial. its going well, but i found some files that wanted to be overwritten... so i guess that its still putting some files in the FSX directory - but im not too sure if the uninstaller uninstalls all other files."
+,MajorWales,2011-08-07T19:55Z,"it sorta works, but you have to install key - i know i aint got the cracked/modded dll's yet, but i thought it may be of use... not that it will with ones that are modded anyway xD"
+,MajorWales,2011-08-07T19:58Z,i mean NvidiaPhysX lol
+,F.B.I,2011-08-07T20:40Z,"Im off to bed, hopefully better luck tomoz, or someone hass beat me to it!!"
+,u55g,2011-08-07T21:00Z,"@FBI, there is NO SUCH THING as ""activated DLLs"". The licensing is managed by the Flexera modules and stored in an encrypted location in C:\ProgramData. Stop going on about ""activated DLLs"".
+
+And @Nvidia, again, won't work, sorry."
+,MajorWales,2011-08-07T21:20Z,"@u55g: even if there isn't, something is making it get ""activated"" for it to work, which is why he wants them, as you may very well be wrong!
+
+its better to know that your wrong, than to think your wrong - because you dont have to test anything!"
+,captsi,2011-08-07T22:00Z,"@u55g
+
+if you know so much about it why dont u crack it. It seems to me you dont know what your talking about."
+,mickyfinny,2011-08-07T23:06Z,"Ive just read on boerse.bz""Finally ...... after 3 hours of fiddling, I finally have, of course, just for you, the
+
+PMDG 737NGX cracked!
+
+Crack is tested and works, all gauges work and systems.
+Although it could test for only a short time."
+,u55g,2011-08-07T23:09Z,"@People who say I'm wrong, you cannot rewrite DLLs successfully from inside installers, etc, you can only patch calls to other methods or libraries to prevent things like activation or licensing from occuring.
+
+The PMDG/Flexera authentication is obtained by contacting the remote server, and receiving valid strings of authenticated data back for each key, enabling certain 'switches' in the secure storage of the Flexera licensing, located where I said in my last post.
+
+What you'll need to do is patch the DLLs to remove any authentication. The DLLs you have from the install are the same that everyone else with an authenticated product has, just some other feature in the system (not registry) has been altered to suit some calls in either NGX.dll or NGX_2.dll or others."
+,alexmorph3us,2011-08-07T23:09Z,"@Voesimulator that link redirects you to this torrent and it already says in the description that it is not cracked and that are only the files,dumb ass!"
+,chuckmamuck,2011-08-07T23:21Z,"jimmy jimmy jimmy, 
+you have a very short memory, DCrack did crack the concordeX, i have it installed on my FSX and its fully working, it always was and its still available on the bay in DCracks mega pack.
+and yes he did crack everything himself, Komu was small fry in comparrison. i googled DCrack when he was around here and he gave tutorials on cracking sites teaching other wannabe crackers the tricks of the trade.
+he was a member of the FOFF clan, he only started cracking FSX products on the side cus he got into FSX as a hobby.
+â–ºso jimmy, dont put yourself on the same level as DCrack, he knew what he was doing, as for you, you couldn't crack an egg old chapâ—„ â˜ºâ˜ºâ˜ºâ˜ºâ˜ºâ˜ºâ˜ºâ˜ºâ˜ºâ˜ºâ˜ºâ˜º"
+,6800ultra,2011-08-07T23:25Z,"Soooooo
+
+after 3 hours working on that little bastard of a plane, i finally cracked it. 
+Crack is tested and works
+
+Download here:
+hxxps://rapidshxxx.com/files/3308042568/ngx_medi.rar
+
+(replace the x'es with.. you know :D)
+
+Have fun guys"
+,alexmorph3us,2011-08-07T23:30Z,@mickyfinny what do you mean?
+,u55g,2011-08-07T23:32Z,"@6000ultra, got a password?"
+,6800ultra,2011-08-07T23:32Z,"Sry forgot the Password for the crack:
+Password:by6800ultra
+
+
+
+Regards..."
+,u55g,2011-08-07T23:45Z,"@6800ultra, add me on skype if you can - u55g123, love to talk to you briefly if I can..."
+,alexmorph3us,2011-08-07T23:47Z,@6800ultra: the link is not working
+,COCKPITSONIC,2011-08-07T23:52Z,"hey !!  ""6800ultra""  the link  doesen't  work"
+,6800ultra,2011-08-07T23:56Z,"Password is
+by6800ultra
+
+but there is a problem, the engines are not starting, i will have a look at it."
+,UnkownFlyer,2011-08-08T00:03Z,@6800ultra Will you marry me! just kidding. THANK YOU SO MUCH IT WORKS. EVERYONE GO TO HIS LINK!!!
+,VATSIM,2011-08-08T00:04Z,"The password is by6800ultra 
+The engines tho are not working.
+As well as many other functions."
+,SniperBliss,2011-08-08T00:15Z,"ug55
+After making everyone feel like failures you want to talk love to the man?"
+,LarsLaur,2011-08-08T00:15Z,"His link is working you know :P but it is obscurred.
+Rapidshare is the domain and the protocol is https
+
+Replace those parts in the link and it will work nicely.
+Nice to see that my seeding efforts have paid off however."
+,VATSIM,2011-08-08T00:18Z,"Still not working. Guys, try and fix it :)"
+,u55g,2011-08-08T00:19Z,"There appear to be multiple logic fails, hydraulic pumps are off, yet ailerons move etc. Also, things like FS commands in the FMC don't do things like control fuel or payload properly."
+,u55g,2011-08-08T00:21Z,"@SniperBliss, I knew what they were doing was wrong, so I tried to tell them what was more appropriate to look at. I'd like to speak to him to see how he did it, yes. Something wrong with that?"
+,RoxxyFly,2011-08-08T01:25Z,"@6800ultra
+
+Last evening I bypassed the .dll activation the same way as you did now, figured somebody would discover it eventually also. I regd here so we maybe could discuss this matter better.
+
+It seems the clever guys at PMDG have merged some kind of failsafe voodoo shit in there, so that in case of activation bypass it clamps on certain failures. If you try CTRL+E eng. start you can see them fire for a second or two and then instantly cutoff followed by ENG FAIL indications etc. I've been for the whole day pinpoint these triggers but without luck.. Keep us posted on your progress!"
+,u55g,2011-08-08T01:33Z,"@RoxxyFly, can you add me on Skype - u55g123? TIA."
+,Solarflexlanka,2011-08-08T03:28Z,"Still confused...
+Well the few problems occur from PMDG_737NGXdll file.. This controlls everythin except the HUD and TCAS..6800ultra make sure you didnt edit anything that is need which could stop the annimation process...."
+,ek1,2011-08-08T03:29Z,"So I found a link to a supposedly cracked .dll file on the other torrent. But after the installation when I went to launch the aircraft it asked me for a password, which it turned out was nowhere to be found"
+,Solarflexlanka,2011-08-08T03:52Z,"@6800ultra Woke up a few minutes ago...Tried the crack...it works well except for the Engines..Im pretty sure this failure is set by PMDG..
+
+When i used SLEW mode ( Y ) the engines were running...strange..."
+,UnkownFlyer,2011-08-08T09:10Z,For me the engines worked BEFORE the crack. And now its the other way around. I trust the crackers to  fix this fast
+,bgsoft,2011-08-08T09:24Z,"Not only engines. I'm tryed from C&D panel state and when click on battery swich and nothing. Same happens with external power. I tried to plug it in to the mains electricity power al nista, still nothing (just kidding :)). Apu works but no blue lights on above apu gen power switches... I do not understand the process of cracking, but I think we need more work to be done on the other two dll files.
+
+Thanks to this, keep good work, 
+greetings to all crackers and to thoee who waiting."
+,F.B.I,2011-08-08T10:40Z,"Woow seems like we have progress, can some one fill me in, iv just finished work and ready to crack on with this, "
+,Solarflexlanka,2011-08-08T11:02Z,"Glad to see you, F.B.I online...Good luck in making a crack...with me if got no progress..:("
+,UnkownFlyer,2011-08-08T11:16Z,"@F.B.I. As far as I know, is that the crack makes the cockpit work a little. All displays work, only the engines dont turn on and alarms go off. I dont have it currently on my pc but thats all I know"
+,captsi,2011-08-08T11:29Z,"@F.B.I
+
+it seems if u bypass the activation pmdg has been clever and clamped on some failures and it seems with the current crack that animations are missing such as flap animations and overhead panel lights etc etc."
+,F.B.I,2011-08-08T11:34Z,@6800ultra @u55g  is there anyway i can talk to you guys maybe we can all worr together on this??
+,F.B.I,2011-08-08T11:41Z,"from what iv read somewhere else PMDG/FLEXnet Hides a licence file on your computer somewhere, when it loads the first .dll it looks for that licence, if no licence then it the goes straight to the 2nd .dll calling for the activation, which then goes to common files to run the programme to activate your pmdg 737 of a remote server, when activated the remote server unlocks something in the first .dll, this is just an idea of the top of my head whats going on!!"
+,Solarflexlanka,2011-08-08T11:57Z,@ F.B.I. Then how was 6800ultra able to build up a .dll file which didnt load up a activation module...The only problem with it is the engines...( which might be controlled from a different file)
+,F.B.I,2011-08-08T12:12Z,"@Solarflexlanka  thats why i need to speak to him, i need to know how he got to read the .dll, i have some c++ coding knowelede so maybe able to help alittle more!!"
+,NvidiaPhysX,2011-08-08T12:16Z,"I am very close to crack this, you just need to delete the commands from DLLs that check validation or you may simply retrieve the serial number from PIDKEY which is in Windows installer property."
+,Solarflexlanka,2011-08-08T12:26Z,@NvidiaPhysX Will it be fully functional??
+,Solarflexlanka,2011-08-08T12:27Z,Im gonna start improving my cracking skills so we could crack the PMDG 777 when it releases...
+,6800ultra,2011-08-08T12:29Z,"Just woke up, good day guys. Yesterday i was, again 4 more hours on it and i cant find the thing to get work. 
+
+@F.B.I and Solarflexlanka
+and me on Skype,
+Username is:auskunft_01
+Hope you will contact me."
+,UnkownFlyer,2011-08-08T13:06Z,@6800ultra What about NvidiaPhysX? He says he's really close to completing the crack. Dont you need his help to?
+,UnkownFlyer,2011-08-08T13:27Z,"I would buy it if it wasnt so freaking expensive. Its more than the game for god sake. Thats way to much for me! I actually buy almost every software, but pmdg is just to overpriced"
+,MajorWales,2011-08-08T13:48Z,"So what have you guys thought of for a crack? I might learn how to hack so I could help in the future, but anyway, I'll leave you guys to it, and you should be on your way to a crack soon! @F.B.I didn't you say you were getting ""activated"" dlls from someone? Were they any different?"
+,u55g,2011-08-08T13:48Z,"@NvidiaPhysX, no sort of serial number is stored on the system. They're all 'stored' on the remote licensing server. I've tried emulation, and I don't think it'll work."
+,MajorWales,2011-08-08T13:51Z,"@F.B.I is that file you were on about for the old crack for the PMDG in C:\Windows\System32\Drivers\etc\hosts? 
+
+Hope this helps!"
+,mickyfinny,2011-08-08T14:16Z,"Its up on rutracker,not sure if its Fully cracked cos google chrome,and google translater dont really translate very well:+)"
+,6800ultra,2011-08-08T14:20Z,"@mickyfinny
+the crack on rutracker is mine :D"
+,RoxxyFly,2011-08-08T14:37Z,"LOL! It's hilarious how that file is being published everywhere as a ""fully working crack"".
+
+@NvidiaPhysX
+Any progress there?"
+,gerrarditto,2011-08-08T14:43Z,"@mickyfinny
+Is not cracked. It was just for testing purposes."
+,NvidiaPhysX,2011-08-08T15:00Z,"I have finally managed to create a RIP in my laptop by entering fake registry values and now I am going to test that RIP on my PC, hope so it works, any success and I am going to upload."
+,SniperBliss,2011-08-08T15:03Z,Thanks so much for your work Nvidia it will pay off.
+,NvidiaPhysX,2011-08-08T15:06Z,"I also found a file name 'FnpCommsSoad.dll' in FSX main directory which is made by Flexra or Flexnet and it really has something to do with, I assure that as the time will go there would not be one but many ways to crack this bird.
+
+@6800ultra, can you please tell me how you built that DLL "
+,u55g,2011-08-08T15:08Z,"@NvidiaPhysX, add me on Skype if you can - u55g123."
+,alexmorph3us,2011-08-08T15:10Z,"@NvidiaPhysx: I hope you're succesful in testing it.Keep us posted,man"
+,6800ultra,2011-08-08T15:19Z,"@NvidiaPhysX
+I've done it in that way, maybe it helps you:
+ in the TPB-Comments someone said that the J41 have the same protection like the ngx, so i've looked at the J41 dll-file and copared the original j41-dll with the cracked j41-dll in a hex editor. I found out that there are 3 values changes, from ""C0 74""  to ""C0 EB"". So ove looked for those  kinda values in the ngx-dll, and i found them.
+The problem is, that there are no only 3 values of ""C0 74"", so ive just tried out changing some values.  Just compare the original dll with my cracked in a hex editor and you will see my changes."
+,RoxxyFly,2011-08-08T15:22Z,"@NvidiaPhysX
+
+Tried the RIP method earlier.. no luck... I fiddled around with the FnpCommsSoap, and I believe it has little to do with the actual activation process. Better just leave that one alone.
+
+This should be crackable the same way as JS4100, as it used flexnet protection also. The HEX string to call up activation is identical, so we just need to locate the shit that messes up all the systems (unless somebody comes up with a different approach).
+
+To remove activation process execution from the first DLL:
+
+1. Open the file in hex editor (such as hxd, I used that)
+
+2. Search for hex string 52 56 50 E8 E5 59 0F 00 83 C4 1C 85 C0 74
+
+3. After you've located it change the last value (74) to EB
+
+4. VoilÃ¡! Activation won't pop up BUT systems are somewhat phucked.."
+,RoxxyFly,2011-08-08T15:23Z,"Slow... :p
+
+Anyways, keep us updated!"
+,RoxxyFly,2011-08-08T15:29Z,"BTW has anybody looked into this? He's done it somewhat differently, but I'm unable to test it at this time.
+
+http://thepiratebay.org/torrent/6589550/PMDG_737_NGX_Crack_So_Far"
+,u55g,2011-08-08T15:29Z,"@RoxxyFly, you're right to say leaving FnpCommsSoap alone. It only handles the SOAP/XML calls to the activation server, nothing to do with the actual activation."
+,venezia,2011-08-08T16:01Z,"Hi:
+
+View de file: fnp_registrations.xml in C:\Program Files\Common Files\Macrovision Shared\FLEXnet Publisher. I think there is saved the license information"
+,venezia,2011-08-08T16:02Z,Hi: View de file: fnp_registrations.xml in C:\Program Files\Common Files\Macrovision Shared\FLEXnet Publisher. I think there is saved the license information
+,F.B.I,2011-08-08T16:21Z,"@RoxxyFly ill give it a try. Im going to join skpe now!!
+
+@venezia i already knew this!!!"
+,rdtranz,2011-08-08T16:23Z,The Introduction manual mentions there is FlexNet service running on the local machine. Turning it off will cease the add on. Anything to do with this service?
+,F.B.I,2011-08-08T16:23Z,"BTW u55g Was right, i have the 3 .dlls from an activated version, they do the same as normal it still trows up the ativation!!"
+,u55g,2011-08-08T16:23Z,"@venezia, nothing of importance is stored in there. Cross-checked with an activated version."
+,venezia,2011-08-08T16:33Z,"@venezia i already knew this!!! 
+You can get that file (fnp_registrations.xml) of an installation on? Because if you open the information is being crake PMDG_JS4100 and the gauge ... to me that there is saved the license"
+,venezia,2011-08-08T16:35Z,@u55g:You can get that file (fnp_registrations.xml) of an installation on? Because if you open the information is being crake PMDG_JS4100 and the gauge ... to me that there is saved the license
+,roume1,2011-08-08T16:43Z,Can wait for this one to be cracked. REQ: FlyTampa Athens thanks in advance.... http://www.flytampa.org/lgav.html
+,u55g,2011-08-08T17:03Z,"@venezia, add me on Skype - u55g123."
+,KevTheOne,2011-08-08T18:46Z,"@bourney2
+
+Stay on topic you faggy."
+,SniperBliss,2011-08-08T19:24Z,"IKR, I hate when people do that ^"
+,F.B.I,2011-08-08T19:51Z,"Guys i have the fnp_registrations.xml from an actiavted 737ngx if this helps, i put this with the .dlls also taken from an activated ngx, but it still throws up the ativation window, "
+,wetmouse,2011-08-08T20:03Z,"Only confused men use terms like ""faggy."""
+,jimbob493,2011-08-08T20:05Z,back on track... @F.B.I can I get my hands on the files you have so far? The 3 .dll's and the other flexnet shite?
+,jimbob493,2011-08-08T20:08Z,@F.B.I can I grab the files that you are working on from you? All the activation related rubbish
+,F.B.I,2011-08-08T20:10Z,"can how can i read the encrypted .dll, is there software i can use"
+,F.B.I,2011-08-08T20:29Z,.
+,jimbob493,2011-08-08T20:33Z,ok I just looked through every command the installation .exe runs. At one point it does connect to a hidden server. Not sure what the server is. Could this be something?
+,6800ultra,2011-08-08T20:35Z,"@FBI
+I told you how i cracked the activation window, if you cant do that, add me in skype 
+username is:""auskunft_01""
+(without """")
+Then you can give me your files, i can crack the activation window and lets see if it works :D"
+,MajorWales,2011-08-08T20:47Z,@jimbob193: try network sniffing from another computer to the computer that has the 737 on it... maybe we could block it out using the hosts file?
+,venezia,2011-08-08T21:00Z,"@FBI can how can i read the encrypted .dll, is there software i can use
+
+Use UltraEdit, it´s excelent!"
+,glupy,2011-08-08T21:10Z,whoever ends up doing this. setup a paypal account for donations or something.
+,Vermos,2011-08-08T21:27Z,"Here are one question from forum:
+
+""In trying to install some addon ai aircraft, I carelessly delete some FSX files and now wish to reinstall FSX, not just repairing it, just to be safe. I got the Ngx the day it came out, and had zero problems with it, but after reading the beginning of the intro document, I decided to reinstall FSX into a c:/FSX directory as the guide recommended, so I had to uninstall the Ngx. When I went to reinstall it, it didn't ask me to activate again? This this take away one of my activations, and when I reinstall it again will it take another one away? ""
+
+And the answer is:
+
+""It didn't ask you to activate because you don't need to activate the NGX each time. It's not like the MD-11 and products prior to that, you only need to activate the NGX the first time, then you should be good to go unless you reformat. So don't worry about it taking away your activations.""
+
+So there are some hidden files in the system that holds activation code. "
+,LarsLaur,2011-08-08T21:46Z,If somebody knows of a proper tool to log an installation or rather what has changed on the system I can set up a fresh virtual machine with FSX and log where and what PMDG changes.
+,F.B.I,2011-08-08T21:53Z,@Vermos imgoing to buy this thing tomoz i think! Is there a programe that will tell me whats been installed to where when i run the .exe so i can then see where all the files are???
+,F.B.I,2011-08-08T21:56Z,Here http://www.innovative-sol.com/uninstaller/index.htm but im off to bed soon so will  try tomoz!!
+,Mutton,2011-08-08T22:18Z,"@LarsLar, FBI
+
+http://thepiratebay.org/torrent/6490369/Advanced_Uninstaller_PRO_v10.2___Crack_%5BChattChitto_RG%5D
+
+Use the installation monitor. (http://www.innovative-sol.com/uninstaller/manual/installation_monitor.htm)"
+,mickyfinny,2011-08-08T22:25Z,http://thepiratebay.org/torrent/6490369/Advanced_Uninstaller_PRO_v10.2___Crack_%5BChattChitto_RG%5D
+,MajorWales,2011-08-08T22:45Z,"most of the registry stuff (using that program above) are in:
+
+1:
+hkey_local_machine\SYSTEM\ControlSet001\services\VSS\
+
+2:
+hkey_local_machine\SYSTEM\CurrentControlSet\Control\Nsi\{eb004a03-9b1a-11d4-9123-0050047759bc}\24
+
+haven't found any others yet, but will look further for you all... want to try and help get this baby flying as soon as possible, but want to try any suggestions, as i have 3 HDD's with FSX on 2nd one, and will do anything (even if i need to reinstall Windows, i've done that many times) xD"
+,kebapf,2011-08-08T23:45Z,"PMDG 737 NGX Crack So Far. Is it work? I copy all to gauges, and i can't do anything. FBI- are you close with your crack? I can't wait to fly with it."
+,COCKPITSONIC,2011-08-09T00:30Z,"kebapf :
+ can not wait? Easy! buy it at this link:
+http://www.precisionmanuals.com/"
+,UnkownFlyer,2011-08-09T00:41Z,I would love to buy it if they had my payment method. But they dont. Not everyone these days have credit cards
+,MajorWales,2011-08-09T00:55Z,"@cockpitsonic, your a real cock you know, why do you think this is up here? because either we are too poor to get it, or we just can't be bothered to put our credentials on the internet... seen what happened to Sony's servers? well, not buying it is the way to ensure you dont lose your credentials!"
+,Solarflexlanka,2011-08-09T03:25Z,Sounds like no one has progress...
+,Joe757p,2011-08-09T03:43Z,"Well this sucks. At least people are trying. PMDG is on a hell bent path on making everything difficult. But then again why bother for them? Somebody on here will eventually crack it and it's all free..
+
+Just like the 747 and the MD-11 >__>"
+,MajorWales,2011-08-09T04:04Z,"It's not about the progress, its about the patience and the right state of mind... All the crackers are sleeping... Just give them the time, it will be done. Nothing is impossible, it just takes patience"
+,KevTheOne,2011-08-09T04:07Z,"Yeah, it's just a matter of time."
+,coryryder,2011-08-09T05:41Z,I'm just admiring this 737 sitting on the ground looking around can't wait to start the engine lol:)
+,A6-ANA,2011-08-09T06:22Z,Is there is any progress in cracking NGX? NvidiaPhysX good news that you created rip have you already checked id? Is it works?
+,A6-ANA,2011-08-09T06:28Z,Is there is any progress in cracking 737 NGX? NvidiaPhysX thanks for good news. Did you already tested your rip of ngx. Is it works properly?
+,A6-ANA,2011-08-09T07:49Z,I have one suggestion to crack ngx. As you know after installation the ngx you need to enter the activation code so maybe it is possible to create keygen and create the emulation of pmdg server? Or something like this?
+,A6-ANA,2011-08-09T10:31Z,Any news?
+,A6-ANA,2011-08-09T11:14Z,"Y25
+No I do not have activation code I just suggested the way of cracking. "
+,NvidiaPhysX,2011-08-09T11:42Z,"I think we need to talk to the person who made J41 crack, I have not tried that HEX editor yet, I think the other two DLLs too can be cracked in the same way as the first was done by 6800ultra"
+,Solarflexlanka,2011-08-09T12:15Z,@NvidiaPhysX Sorry to say your wrong..The PMDG_737NGX_2.dll controls the calls to the activation server and the PMDG_737NGX_3.dll controls the TCAS Logic System...Everything we need is only in the first .dll
+,kebapf,2011-08-09T12:15Z,"@COCKPITSONIC- I'll buy, if it'll not stutter in my pc."
+,frkaipanika385,2011-08-09T12:51Z,"2NvidiaPhysX 
+Crack for PMDG Jetstream was done by one small comunity that is now not allowing new members to join.
+They for sure by now... as we write here... already have crack for this 737 bird. But it depends on them if they will give this to public. If i can help you.. just a little bit... when you choose J41 in your FSX game it shows you a message in pop up window for activation but you just click OK and everything works great. They cracked the SP1 in the same way. If someone from this ""closed"" comunity is checking this conversation... this is a message for them:
+
+Los mÃ©dicos! .. Por favor dÃ©nos la medicina para este paciente enfermo. Ã‰l es muy, muy enfermo! Ã‰l necesita ayuda urgente! "
+,frkaipanika385,2011-08-09T12:53Z,"2NvidiaPhysX 
+Crack for PMDG Jetstream was done by one small comunity that is now not allowing new members to join.
+They for sure by now... as we write here... already have crack for this 737 bird. But it depends on them if they will give this to public. If i can help you.. just a little bit... when you choose J41 in your FSX game it shows you a message in pop up window for activation but you just click OK and everything works great. They cracked the SP1 in the same way. If someone from this ""closed"" comunity is checking this conversation... this is a message for them:
+
+Los mÃ©dicos! .. Por favor dÃ©nos la medicina para este paciente enfermo. Ã‰l es muy, muy enfermo! Ã‰l necesita ayuda urgente! "
+,F.B.I,2011-08-09T13:23Z,"ok im up and on it, @frkaipanika385 i know what u mean with the j41 crack, ill work on that method today."
+,NvidiaPhysX,2011-08-09T14:03Z,"@Solarflexlanka
+
+are you sure? if it's the first DLL, then it won't take long to crack. I think now it's time to use trail and error method and our one stop solution to crack this bird is HEX editor. Let me download PMDG J41 first, so that I can examine the crack and substitute it's values in NGXs dll. And thanks for clarifying it, I thought that all the dlls had something to do."
+,NvidiaPhysX,2011-08-09T14:04Z,I mean other two dlls
+,F.B.I,2011-08-09T14:29Z,@NvidiaPhysX  i already have a crack j41 .dll do you have msn??? add me spiderman_flys@hotmail.com iv just made this account up hehe
+,venezia,2011-08-09T14:48Z,"Install the JS4100, then SP1 and copy the crack gauge. With two new gauges (PMDG_BAe_JS4100_2.dll and PMDG_BAe_JS4100_3.dll) but says the plane ERROR activation the walk, but you can use the plane 100%"
+,frkaipanika385,2011-08-09T15:00Z,FBI check mail...
+,vaios123,2011-08-09T15:08Z,"maybe u should use a proper disassembler instead of guesswork with hex editors.
+btw the crack which doesnt popup the activation window still calls the ""FNPLicensingService.exe""
+anyhows, gl with the cracking hope u'll get it."
+,Firelong,2011-08-09T15:23Z,"@frkaipanika385 whats that website? where they might have the plane craked? I have some logins in some fs forums maybe you can send me a link!
+
+Cheers"
+,Firelong,2011-08-09T15:29Z,"@frkaipanika385 Pls send me the link to that forum I have some logins in FS forums maybe Ill have to that one!
+
+Cheers"
+,frkaipanika385,2011-08-09T15:47Z,"If you are able to login to that forum you wouldn't be here lol ..Same as me! 
+So i dont think you have login for that...."
+,A6-ANA,2011-08-09T16:03Z,Who were cracking other PMDG aircraft's before NGX? And how long does it took time to appear at tpb? Maybe komunita are already making crack?
+,A6-ANA,2011-08-09T16:09Z,"http://forum.avsim.net/topic/343302-two-critical-news-updates-for-ngx-owners/
+Pmdg are already preparing two critical service packs for fsx. I think it is need to buy ngx in order to keep ngx updated and bug free. But still hope on better. "
+,F.B.I,2011-08-09T16:21Z,"Ok guys update, iv found out where the licence errors and calls for licences are coming from with in the .dll using hex editor, it seems it looks for a licence file within your computer, i reckoon ill have this bird fully active within a few hours!!!"
+,jimbob493,2011-08-09T16:33Z,F.B.I you are a master at work. Would you be able to upload just the crack once its done for those of us already with the installer?
+,Firelong,2011-08-09T16:39Z,"@frkaipanika385 as I said, I have many fs forums logins and I do not use all, why dont you just say the forum name and ill try to put the link for the crack here? 
+
+Cheers"
+,vaios123,2011-08-09T16:50Z,"the file is in
+C:\ProgramData\FLEXnet"
+,Firelong,2011-08-09T16:54Z,"@frkaipanika385 why dont you try me? just say the name of the forum and if I can connect ill leave the link here!
+
+Cheers"
+,vaios123,2011-08-09T16:54Z,"FBI i think the file u are looking for is in
+C:\ProgramData\FLEXnet"
+,Solarflexlanka,2011-08-09T17:06Z,"@ F.B.I - I am 99% sure the activation process is all in the PMDG_737NGX.dll file...Trust me its no use looking into the other two .dlls... etc etc..
+
+Solarflexlanka"
+,frkaipanika385,2011-08-09T17:29Z,@Firelong I will not write it here..i can send you URL in email.
+,Solarflexlanka,2011-08-09T17:39Z,"@ F.B.I. Good Luck, But i reckon that everything we need is in the first .dll file..."
+,F.B.I,2011-08-09T18:00Z,"ok guys a couple of offsets to look at 
+
+00358fb0 Start licence
+00364f80 call for 2nd .dll
+00359400 Hard lock (maybe lock airrcfat)
+00308e90 licence check
+00304a33 activation libary"
+,NvidiaPhysX,2011-08-09T18:04Z,"Just got alive, gonna work now"
+,tamer008,2011-08-09T18:16Z,Good work guys!! hope you download the crack fast!! yeahhhhhhh!!!!! thanks
+,KevTheOne,2011-08-09T18:35Z,"@pokerface02
+
+The crack you are advertising was released here and it doesn't work.
+
+Get a life. "
+,UnkownFlyer,2011-08-09T18:39Z,All those Portuguese sites are crap and copies of each other. Same news and old news
+,Firelong,2011-08-09T18:54Z,"@frkaipanika385 pls send it to firelong69@gmail.com
+
+cheers"
+,tamer008,2011-08-09T18:56Z,Good news needed!!
+,somero10,2011-08-09T18:58Z,@FBI i wish you luck!
+,somero10,2011-08-09T19:00Z,@F.B.I i wish you luck! :)
+,captsi,2011-08-09T19:32Z,"@F.B.I
+
+Maybe u can remove them and see if it works"
+,UnkownFlyer,2011-08-09T20:20Z,Why is everyone so pessimistic about the crack. Im sure theyll fix it. Just give them some time!
+,lostwallet,2011-08-09T20:47Z,"@Y25
+
+Don't worry about that son of a bitch, That mother fucker is just spamming his shitty site here on the piratebay. 
+
+Quit spamming here, you shit cunts."
+,alexmorph3us,2011-08-09T21:09Z,and not only Voesimulator is spamming but pokerface02 does it too :)
+,alexmorph3us,2011-08-09T21:12Z,any progress guys ?
+,F.B.I,2011-08-09T21:35Z,"Not yet guys, i went threw some offest and deleted some calling for activation, some got rid of the call, but then i had no gauges, some i was able to edit the text so iv got the box to be blank. i could realy do with by6800ultra teliing me how he found  the string that got the gauges active cause he gave me string  52 56 50 E8 E5 59 0F 00 83 C4 1C 85 C0 74 but iv search for this and it gives me (a pattern was not found) If he tells me where that string is located ill stand a chance but for now guys im scratching my head. So if anyone else has any imput??"
+,venezia,2011-08-09T21:53Z,@F.B.I. I sent email
+,F.B.I,2011-08-09T21:53Z,off to bed ready for day 4 tomoz Yawwwwwwwwwwn
+,UnkownFlyer,2011-08-09T22:34Z,Good night and see you in the morning. Good luck!
+,jimbob493,2011-08-09T22:59Z,we'll get there eventually boys. Some of TPB's most experienced are putting everything they've got into this. We WILL crack it. 
+,thunderstorm_33,2011-08-09T23:44Z,"mmmm what happens here 
+
+Text strings 
+ Address=5C5E70DA
+ Disassembly=DD PMDG_737.5C74D61F
+ Text string=ASCII ""hlrus_license_file.alf""
+
+
+Text strings 
+ Address=5C5E7F5D
+ Disassembly=DD PMDG_737.5C74D759
+ Text string=ASCII ""System\CurrentControlSet\Control\ProductOptions""
+
+
+
+
+
+
+
+
+
+
+"
+,Sasquachi,2011-08-10T02:25Z,"oh my, can't wait this"
+,NvidiaPhysX,2011-08-10T07:50Z,"@FBI, using HEX editor search tool, search this whole string:
+
+' 52 56 50 E8 E5 59 0F 00 83 C4 1C 85 C0 74 '
+
+the number 52 would be found somewhere in middle of the string and rest all other numbers would be followed on the right hand side and on the other line, just like we read"
+,Solarflexlanka,2011-08-10T08:50Z,Well...im gonna get some money to buy this thing...
+,A6-ANA,2011-08-10T09:33Z,Is there is any chance that crack for ngx will be released today? Thanks! I hope you can cope with this crap ngx protection.
+,gag888,2011-08-10T09:35Z,"@Solarflexlanka Does that mean you've given up with the cracking? If so I'll hop on your boat and start counting the coins in the jar, myself."
+,clintferns,2011-08-10T10:09Z,so i guess its up to f.b.i and the other crackers out there....common guys....please try it....best of luck
+,Solarflexlanka,2011-08-10T11:23Z,"The thing is,it could take weeks/months and probably years to make a crack....none of us know where the jackpot is! ( except for PMDG).
+The thing is its hard to look through a 91MB file with billions of of disassembled codes within it..."
+,A6-ANA,2011-08-10T11:50Z,"Solarflexlanka
+So I suppose ngx will be exactly cracked on the new years eve :) But what about FBI work? He said that he had founded some security strings in .dll"
+,NvidiaPhysX,2011-08-10T11:58Z,"I can easily buy it but I hesitate to give my credit card number on the web, don't worry, it would be cracked soon, or if someone is really planning to but this bird, then it would be appreciated if he upload those DLLs"
+,NvidiaPhysX,2011-08-10T11:59Z,req: orbx 2WA1 diamond point airport
+,dean-taylor08,2011-08-10T12:21Z,"Why dont people just stop whining all they have to do is wait while the crackers are working there hardest to get this sorted. if you carnt wait go and but it simple!
+
+@ the crackers, i have noticed with dll's what mat brought in that it does the same as when the md11 starts up it initializers for about 15 seconds which all the intruments and the engine works then it stops after its done, and with his dll's he stopped the activation, well wither matts or someone elses"
+,dean-taylor08,2011-08-10T12:21Z,"Why dont people just stop whining all they have to do is wait while the crackers are working there hardest to get this sorted. if you carnt wait go and buy it's simple!
+
+@ the crackers, i have noticed with dll's what mat brought in that it does the same as when the md11 starts up it initializers for about 15 seconds which all the intruments and the engine works then it stops after its done, and with his dll's he stopped the activation, well wither matts or someone elses"
+,dean-taylor08,2011-08-10T12:22Z,"Why dont people just stop whining all they have to do is wait while the crackers are working there hardest to get this sorted. if you carnt wait go and buy it's simple!
+
+@ the crackers, i have noticed with dll's what mat brought in that it does the same as when the md11 starts up it initialised for about 15 seconds which all the intruments and the engine works then it stops after its done, and with his dll's he stopped the activation, well wither matts or someone elses"
+,fsxlukas,2011-08-10T12:56Z,"I think I'll buy this bird instead. I'll sell some stuff and ya get the money. So tell me, if I upload the DLL's, will it work as a crack? Cuz if yes, I'll do it! "
+,frkaipanika385,2011-08-10T13:03Z,"Without original activated DLLs nothing clever/functional could be made...
+Because it is not possible to compare....before and after."
+,poopoo812,2011-08-10T13:04Z,There's no need to triple fucking post.
+,F.B.I,2011-08-10T13:04Z,"Morning guys, im going to try disassembled the hex code today, ill keepn uou updated ever 3 hrs."
+,alexmorph3us,2011-08-10T13:45Z,why doesn't anyone give the crackers the original dll's activated so people can have something to work with.I think is the only way we could be on the right track 
+,Inkfile,2011-08-10T13:49Z,Ok F.B.I I have faith in you guys keep up the good work mate!
+,Inkfile,2011-08-10T13:51Z,Ok F.B.I I have faith in you guys keep up the good work mate! and morning to u too..
+,fattykoo2000,2011-08-10T13:56Z,where are the activated .dll? i try to ask my friend
+,Solarflexlanka,2011-08-10T14:21Z,Okay im not buying this...im saving some for my GTX 580
+,jimbob493,2011-08-10T14:29Z,Solarflexlanka you're going to be saving a longggg time for a $500 580 if you cant afford the $60 this is. Go troll somewhere else dickhead and stop your persistant negativity and whining. NOBODY GIVES A FUCK
+,F.B.I,2011-08-10T14:44Z,"@fattykoo2000 the .dlls from an activated version want make any differnence i hacve them of somebody, there are a few different lines of hex but it still calls for the activation, the .dll is looking for a licence file."
+,alexmorph3us,2011-08-10T15:03Z,@F.B.I: most probably that license files could actually be located in C:/Program Data/Flexnet like someone else said before
+,jimbob493,2011-08-10T15:09Z,"@F.B.I if somebody with a legitimate installation was to send you the license key, would that help? Does the install monitor program not show where the key is hidden?"
+,alexmorph3us,2011-08-10T15:15Z,@jimbob493 : that could work
+,F.B.I,2011-08-10T16:05Z,"@jimbob493  could be possible be someone needs to find the licence file!! Iv tried decodong the hex string but theres only a limit to what i can do, i could realy do with some help or imput!!"
+,vaios123,2011-08-10T16:05Z,btw u can remove the first dll all together and than the plane will work but no gauges.
+,vaios123,2011-08-10T16:07Z,"btw u can remove the first dll all together and than the plane will work but no gauges.
+all the function which handle the gauges are in the first dll wrapped in the protection."
+,berzerk2,2011-08-10T16:24Z,"Do you have an idea in how many times it could be take to find a crack ?
+Many many Thanks for your works."
+,A6-ANA,2011-08-10T16:28Z,"FBI
+What about this solution. Can you trace what installer does when the user enters activation key. Maybe it will works because you'v tried everything with dll. And what about FLEXnet? Do you have any ideas to crack that ngx? "
+,jimbob493,2011-08-10T16:28Z,let me install the NGX and monitor the installation. I'll try see if I can find the exact location of any license files. Then someone on here can go buy it and send @F.B.I the license file and he can fiddle some more
+,vaios123,2011-08-10T16:31Z,"FBI...
+once again, the file is in ""C:\ProgramData\FLEXnet""
+along with the log for activation.
+u might want to use a proper disassembler instead of guesswork with hex editors."
+,F.B.I,2011-08-10T16:32Z,"@vaios123 i found that out on day one, i have a .dll here where all the gauges work everything, but no control services work or engines."
+,vaios123,2011-08-10T16:45Z,"the 6800ultra crack is pretty far from working.
+and way to go for finding that out, i was only answering your question."
+,alexmorph3us,2011-08-10T16:47Z,@jimbob493: sounds great :)
+,jimbob493,2011-08-10T16:56Z,"how about this. Someone goes out and buys it. Creates a nice little 1kB .txt with their key in it, and we all download that in 1 second and voila. No cracking needed."
+,pilotczj,2011-08-10T17:05Z,"Yeah, and it wont be deactivated really.congrat.."
+,jimbob493,2011-08-10T17:07Z,"why would it get deactivated? It'll only be deactivated by PMDG if one of their crew comes along and reports it, otherwise they're never going to know"
+,gag888,2011-08-10T17:14Z,"I think people who have bought it are highly reluctant to upload their .dll files mainly because if PMDG found them being distributed in an attempt to break license protection, their nearly 100 dollar piece of payware will be immediately deactivated. Which if you ask me- is more than fair enough? I'm happy to wait a few weeks. and I'm equally as happy to just buy it should I have to. I just think PMDG have stolen enough money from me in the past."
+,alexmorph3us,2011-08-10T17:15Z,jimbob493:excellent!and which one of us will do it?
+,gag888,2011-08-10T17:18Z,"@jimbob493 How naive are you exactly? Have you ever been apart of any sort of company that manufactures payware? Have you had any sort of internal participation within a company that manufactures payware for Flight Simulators, in particular Microsoft's? You will know very well that a large majority of payware distributors have keen eyes on every piracy network. I'd bet you and everyone else in this thread, a legitimately purchased copy of the NGX, that PMDG are keeping a very close eye on this thread. I promise you that. You bet if you post your Key up, you've blown your dough. But if you're so confident, I welcome you with open arms to buy it and do so yourself!"
+,alexmorph3us,2011-08-10T17:29Z,@F.B.I: have you mange anything?what is you progress? 
+,rra137,2011-08-10T17:33Z,"Desassembling suspect files is better than just watching exadecimal. You could better understand what the program does.
+IDA is a $500+ desassembler, you can get it here
+http://thepiratebay.org/torrent/6576679/IDA_PRO_ADVANCED_EDITION_[thethingy]"
+,jimbob493,2011-08-10T17:33Z,UPDATE: PMDG are making an external tool to activate the NGX because some users were unable to see the activation window. Maybe we can crack this tool easier
+,r1oot,2011-08-10T17:39Z,"@jimbob493
+
+Since your so confident about that working, why won't you buy it and post it as a torrent?
+
+F.Y.I Make sure you have best lawyer you can possibly afford available at your disposal as soon as you upload the key."
+,alexmorph3us,2011-08-10T17:41Z,:)))))
+,clintferns,2011-08-10T17:45Z,"lol if any member of pmdg is reading this.....i would  love to tell them that u have made an amazing aircraft...but we are gonna crack it.... :) p.s 
+u charge tooo much... :D"
+,rra137,2011-08-10T17:47Z,"gag888 is right. For instance A2A products don't need ID or password for installation but there is a unique ''fingerprint'' inside their file. They can easely trace who among their customer, has given away their bird. Not sure they can desactivate but the police might pay him/her a visit ... Not all companies use fingerprints, but those who use passwords can trace their customers too."
+,alexmorph3us,2011-08-10T17:47Z,lol:)
+,jimbob493,2011-08-10T17:53Z,"@All the trolls of TPB:
+It was a hypothetical response. You would have to be a complete idiot to risk it. Hence the reason @F.B.I and I are trying to find ways around it. That's why I suggested their ""alternative"" activation .exe which (according to PMDG) forces the NGX to activate. Sounds more easily crackable than the standard activation method"
+,F.B.I,2011-08-10T18:16Z,"whats this?? ""alternative"" activation .exe??? "
+,alexmorph3us,2011-08-10T18:19Z,@jimbob493:and when PMDG alternative activation method is coming out?
+,gag888,2011-08-10T18:48Z,"@Jimbo. Riiight. I hardly call forming hypothetical junk theories such as blowing 70 bucks, solutions to cracking. 
+
+Mad props to FBI and Co. for the massive amount of time you guys has dedicated and invested to this project! Whether I buy it or wait for the finished crack - you're all so awesome!"
+,futurepilot95,2011-08-10T18:50Z,@FBI The alternative .exe is an alternate activation exe developed by PMDG for legit users that didnt get the activation box. Good luck anyway!
+,jimbob493,2011-08-10T18:59Z,"R.S Razzando (the lead guy) said its an alternate activation .exe outwith FSX which forces the NGX to activate. Its for users who had problems activating within FSX. Released Sunday maybe later. 
+
+""2) Customers Having Activation Problems:
+I have spent most of my time working on this issue (divide and conquer!) and after working through issues with a handful of customers I am finding that the vast majority of these issues can be mitigated with some thoughtful computing. We have prepared an applet that is able to force activation onto a machine, and we anticipate rolling this out en-force tomorrow."""
+,jimbob493,2011-08-10T19:00Z,that was posted yesterday in the PMDG NGX support forum by the main PMDG director. So we just need to obtain this applet through them which im sure wouldnt be too hard
+,alexmorph3us,2011-08-10T20:58Z,"any update,people?"
+,stoptrolling,2011-08-10T22:17Z,"Dude its been a whopping 2 hours, RELAX you impatient SOB!  If your that impatient, pinch a quarter outta your ass and buy it!"
+,UnkownFlyer,2011-08-10T22:52Z,They would not spend thousands of dollars to protect the plane from being cracked. Thats way to much. Probably more than the profit they make
+,Neutrino233,2011-08-10T22:57Z,"I can tell you all that at least one underground Warez site has positively cracked the NGX to a full, working condition with no systems failures or loss of function whatsoever.   The site that did so accomplished the working crack within 24 hrs of the NGX release, although the hackers on the project conceded the new PMDG security features are an absolute bitch.  :)  However, it can be done.  The hackers on the underground site in question also reference use of Microsoft's freeware ""Process Monitor"" tool as invaluable in the process.      Google ""Microsoft Process Monitor"" for more info.   The Warez site in question is currently refusing to release their NGX crack publicly because they are afraid PMDG will circumvent the crack when the expansion packs are eventually released for the NGX.   "
+,alexmorph3us,2011-08-10T23:17Z,@Neutrino233:can you give the link to that warez site you mentioned of?
+,pilotczj,2011-08-10T23:22Z,"They should fuck themselves in this case, 5days of hard working without solution but they have one at least they should contact our hackers here or something..."
+,RoxxyFly,2011-08-10T23:47Z,"You twits don't evidently have the foggiest idea of how the warez scene actually works.
+
+Stop whining and either wait silently or BUY the goddamn product if it's so important for you to use it now! Alternatively, crack it yourself."
+,KevTheOne,2011-08-10T23:48Z,"@Neutrino233
+
+Link it or never happened"
+,xpycxpyc,2011-08-10T23:59Z,"@alexmorph3us LoL, if they didn't make i public it's for some reasons, do you this guys are so dumb to actutualy give it to the first person who asks nicely? 
+Now I hope FBI, Nvidia and every hacker here gets to the crack!"
+,frkaipanika385,2011-08-11T00:57Z,"If you go to page 9 of this ""topic"" you will see that i have mentioned that this bird is surely already cracked by one community...
+But it depends on them if they will come out with this DLL file. They also made J41 crack.
+Do not asked me for their URL because i will not write it here as gesture of respect. Hopefully they will recognize this and give us so wanted medicina!"
+,tam408,2011-08-11T01:11Z,You were not supposed to tell things from private warez comunity forums to open to public places like TPB... This kind of act may lead you a BAN from these comunities... WARNED! 
+,LarsLaur,2011-08-11T01:15Z,"I tried the iFly 737 and I hope the PMDG is MILES apart from that bird.
+Otherwise I feel REAL sorry for those who bought it, it is just one major pain in the ass to fly in general.
+
+So until there is a crack out we may be luckier, however a good overview of this might be to use their own little tool to observe how it activates as it will most likely create a cleaner environment.
+
+Funny thing is, most of the PMDG pirates would never have bought their payware anyway even if it was uncrackable.
+I know I wouldn't have given them my money at all and would have been one of those ""Not interested"" customers."
+,Neutrino233,2011-08-11T03:33Z,"@Tam408,
+
+Darn, and there I went giving out hints as to how to crack the NGX!!!    Shame on me.    Well tell 'em to ban me; I guess I deserve no less.   Oh wait, you (they) don't know who I am on here though?   You should write an email to TPB and respectfully ask them to hand over my IP address.   See how that works for ya.    :)     "
+,wetmouse,2011-08-11T06:31Z,"""They would not spend thousands of dollars to protect the plane from being cracked. Thats way to much. Probably more than the profit they make.""
+You obviously have not clue either. I used to work for a company that licensed FlexLM. It cost us a lot more than thousands. And I'll tell you something else. To this day, none of these elite hackers you speak of have EVER managed to crack it. Not that you'd want to after all these years, but every single customer that used our product paid nearly $500 per head to do so. And if you really think you can afford to hire marketing staff, programmers, support personnel, etc and not being making a lot more than ""thousands"", you are completely nuts. I realize 9 out of the 10 comments here are cringe-worthy in terms of their displayed ignorance (a team of hackers cracked this within 24 hours, yeah right!), but yours really stands out."
+,Neutrino233,2011-08-11T07:37Z,"@wetmouse,
+
+Yes, of course you're right!   No one can ever crack a Flexnet-licensed product - it's an impenetrable fortress of uncompromisable security.   This is indeed the very end of piracy and copyright infringement as we know it.   Damn you I say, damn you to hell!   You, sir, obviously possess the wisdom of Solomon and the tenacity of Job, the genius of Tesla, the innovation of Edison.   And also more realistically the naivety of Moe, Larry, and Curly...       Gee, what other PMDG products have used Flexnet in the past (while we're on the subject)?    Well, a quick perfunctory search of ALL previous PMDG products available here on TPB reveals each and every one has been fully cracked, Flexnet license or not.    Waka, waka, waka.    "
+,UnkownFlyer,2011-08-11T08:38Z,"@wetmouse Wow, you dont have to be such a dick about it. You are probably right but you dont have to get mad about it asshole"
+,gag888,2011-08-11T10:09Z,"All of you ranting impatient fuckheads have scared off the crackers with your conglomerate of shitpile junk whining and complaining. Now nobody knows whats happening with the crack, or if its even still being cracked - whether or not they have given up. God help you all. I'm off to buy this - hope you all drown in each others cries, whines and impatience!"
+,UnkownFlyer,2011-08-11T10:14Z,yeah i dunno what the problem is either. I will probably buy it in a few weeks if its still not cracked yet
+,F.B.I,2011-08-11T12:35Z,"Guys ill just point out, that iv tried everything, and it seems that if you edit one part of the hex/code (as iv found where the activation is) it voids the .dll. i went a brought this 2 days ago and the actiavtion code looks like this xxxx-xxxx-xxxx-xxxx-xxxx-xxxx. When i installed the aircraft i used windows process monitor and they install a key file which i have and also an edit to the registry. But guys please remember i cnt sit at the computer 9 hours a day. Plus im on my hols in the coming days so wiont be abel to work on it. however when i gave my activation code it took around a good minute to activate!!! Ill keep you posted today,"
+,frkaipanika385,2011-08-11T13:27Z,I dont know why 6800ultra is so quite for last few pages? Maybe he is cooking something. He managed to do some work....not 100% ...but he made best progress.
+,gerrarditto,2011-08-11T13:29Z,"@F.B.I. 
+God be with you!"
+,gerrarditto,2011-08-11T13:40Z,"@F.B.I
+God be with you!"
+,jimbob493,2011-08-11T13:48Z,"you know what I think, I think @F.B.I should release his code to the select few on here who actually tried. By that I mean 2 maybe 3 people. Ie 6800Ultra, NvidiaPhysX etc. The guys who actually bothered their areses to try crack it. Unlike you moans. You dont deserve to have the crack. That way, the few who tried get the actual product almost 100% legit, and PMDG wont have a clue about it otherwise because 3 installs isnt going to flag as piracy or anything suspicious. Guys on the PMDG forums have already installed their NGX more than that while trying to optimize their systems. Just my 2 cents"
+,UnkownFlyer,2011-08-11T15:00Z,@F.B.I. Thanks allot for your help! Enjoy the NGX
+,6800ultra,2011-08-11T15:24Z,"@frkaipanika385 and all other
+
+Here i'm,
+but i have to say, that im nearly out of ideas, i think that i will buy that beast next month and in the meantime we have to hope, that anybody else can crack that plane...
+
+Sry guys, im out."
+,vaios123,2011-08-11T15:44Z,3dsmax is flexlm and its cracked every year like clockwork.
+,jimbob493,2011-08-11T17:02Z,*face palm* I was waiting for the first noob to ask that
+,wetmouse,2011-08-11T18:47Z,"""@F.B.I God be with you!""
+
+How is a non-existent deity going to help? Hitchens was right about you people. 
+
+By the way, I never said that products using FlexLM hadn't been cracked, I said that OUR product using FlexLM had never been cracked. And its true, because if script-kiddies had any real skillz, they'd be employed rather than acting tough in NFOs. Everyone here knows it. These guys here can't even crack an airplane addon! "
+,wetmouse,2011-08-11T18:49Z,"By the way, if you go to http://encurtar.com/ak you better have six different trojan detectors installed, because the site is filled with them."
+,gerrarditto,2011-08-11T18:58Z,"@wetmouse
+You are just a wanker, you fucking cunt. That was just an expresion for FBI to crack this bird for us, because he followed the whole install process. I didn't asked him to share his activation key.
+But anyway, FUCK you for misunderstanding!"
+,KevTheOne,2011-08-11T19:02Z,Please someone ban this stupid spammer
+,xpycxpyc,2011-08-11T19:20Z,@wetmouse Who the fuck you think you are? And why the hell are you even here trolltarded fagget? And again who the hell are you to speak about religion on TPB? Stop trolling!
+,jimbob493,2011-08-11T19:32Z,"lol @wetmouse
+If your software using flex has never been cracked, why the fuck are you on TPB? If you work for a software company this would be the last place you'd be seen. And the reason it isn't cracked because its probably some shitty software nobody wants or is free in the first place. Go shove a tampon down your throat and stfu"
+,UnkownFlyer,2011-08-11T20:20Z,Guys! We should not fight with each other! We are all here for the crack so lets get it! Go to famous crackers and request a crack. Try to look over google for forums etc. in other languages like russian or chinese. They seem to get real far with this to. But I think that our best shot lies in requesting cracks at more famous crackers or forums.
+,xpycxpyc,2011-08-11T23:27Z,I went to some Chinese and Russian forums but even them can't find the solution for the moment.
+,LarsLaur,2011-08-11T23:43Z,"To end the entire can be cracked, cannot be cracked debate.
+It is simple, if it is popular like lets say Call of Duty games, the crackers swarm it and it is a fast and quick job.
+
+But if it is not popular, like a small program from an unknown vendor... Well, it won't be because it isn't in the path of popularity.
+And since FSX is old, nowadays the major pro crackers have moved on, so there is a lot of ""lost knowledge"" and lack of interest.
+If PMDG's products have been as popular as Call Of Duty... You can bet on that the crack rate would have gone through the roof EXPONETIALLY!"
+,xpycxpyc,2011-08-12T00:05Z,"Here's what I found on one Chinese forum:
+""Today mounted on NGX, found the break to take the identical protection and JS4100, JS4100 so I look through the crack, only a DLL, that I thought of whether such a DLL NGX also has a validation step, etc. inside it, and is I look through the next JS4100 that the DLL directory, GAUGE / under, and sure enough I found PMDGNGX the DLL, but 45 times the size of JS4100 = =. . . I first opened the JS4100 with PE EXPLORER's DLL, decompile found such a text which referred LICENSE (license certificate?) and then I opened the NGX DLL files, which anti-compiled and are so found the same two items from such places we could find a breakthrough to get rid of it NGX protection? (Just a personal guess ....)"""
+,UnkownFlyer,2011-08-12T00:05Z,"Yeah, your right... I also have tried to look at chinese an russian forums but all I get is the same progress as we have here. I wish we could contact a big cracker form larger games but they dont give a damn about fsx I think. All we can do is rely on the crackers we have here that pretty much already gave up. 6800ultra and F.B.I. gave it up but I didnt hear anything from NvidiaPhysX yet I think. And I didn't hear anything about Dcrack even working on this job. I hope something will happen soon."
+,xpycxpyc,2011-08-12T00:51Z,"I hope someone will find a way, PMDG really did a good job on this one, but I hope within a month this will be cracked."
+,F.B.I,2011-08-12T08:59Z,"@6800ultra mate you dont knwo how close you are to cracking this!!! Your more experienced than me, but i can tell you all you need to restore in the hex/.dll is find a way of restoring FULL POWER to the aircraft and walla fully activated!!! you will not believe how long i was looking threw bloody hex last night. All i need to know is where that string was that you found that actiavted the gauges as i feel thats where the power supply lies for the ngx too. I already tried looking threw the string that u posted in your first patch but it couldnt find the string!!"
+,F.B.I,2011-08-12T09:01Z,"Guys the patch that @6800ultra is about 90% fully cracked, the engines wont spool up cause theres not enough power running the the aircraft, if theres not enough power theres not going to be enough pressure for the engines. seriously guys itsnot that far off, just cause i have brought it, doesnt mean im not working on it for you guys!!"
+,clintferns,2011-08-12T09:09Z,hey this might sound stupid...but can you try connecting it to ground power and then try starting the engines...or instead...load another aircraft that has the system running...and then select the pmdg aircraft ngx... :)
+,john5706,2011-08-12T10:03Z,"@F.B.I
+
+Yes there is a problem for the engines but if you do it right you can reach 28.6% N2 (using APU bleed) and then when you open the fuel valve nothing appends. But for me that's not a pressure problem (N2 is high enough to start and to avoid a Hot Start), it's more an electrical or fuel problem (no fuel injection or no ignition inside the engine). 
+I think that's more an electrical problem because a lot of electrical things doesn't work (FMCs, captain NAV, electrical panel from the overhead panel seems to be not working (if you switch APU GEN ON, that's doesn't really work)
+If you load the plane Cold And Dark (via the CDU) then nothing works."
+,perckypick,2011-08-12T10:12Z,"To all the people trying to crack it:
+
+I have no idea how to hack or crack things, otherwise I would be more than willing to help. That being said, a word of advice (please don't take this as condenscending, just a word of warning). When you test the aircraft in-game, FOLLOW THE MANUAL/PROCEDURES. The NGX is obviously a highly-complex aircraft, and it is entirely possible that things like control-E or just hitting the starters will not work, even in a legit copy. Open the manual, find the checklist to start the aircraft, and follow it! I just think it would be bad if ya'll actually succesfully cracked the aircraft, yet stayed under the impression that it was un-cracked because you were improperly operating it in-game. 
+
+'Tis all. Carry on :D"
+,xpycxpyc,2011-08-12T12:13Z,Thank you FBI!
+,frkaipanika385,2011-08-12T12:41Z,"@Perckypick... Of course nobody is trying with CTRL E
+There is some problem with electrics. Because if you switch off everything in aircraft then you cannot switch on battery or get ground power to have any influence. IRS is not having power.
+FMC is possible to switch on ...but not possible to enter data. 
+6800ultra made some cool failure feature :) 
+Not even Boeing engeneers could repair this bird to fly. 
+What i read the only solution is that ultra6800 and FBI should work together... as a team. A-Team :)"
+,UnkownFlyer,2011-08-12T12:51Z,Only problem is that they both already gave up on this one
+,frkaipanika385,2011-08-12T13:21Z,"I installed HOT FIX that PMDG issued yesterday.
+Just for fun...i aplied then 6800ultra.
+It gives me ""Initialization of license failed"" message. Befor FIX there were no message.
+Problems with systems of course are the same.
+Maybe this could be some kind of help for you guys?"
+,xpycxpyc,2011-08-12T13:26Z,"@UnkownFlyer Read the previous page, that's why I thanked him!"
+,UnkownFlyer,2011-08-12T13:48Z,@xpycxpyc Sorry it was a reaction to frkaipanika385
+,vaios123,2011-08-12T14:33Z,"i think 6800ultra just might got the first dll to a full
+i strongly suspect that there are more triggers in the 2nd dll, and might be the main activation dll since its stamped  as a ""flexnet"" dll while the first is stamped as fsx gauges, i think the first activation is from the first dll, and than the plane might check itself everytime u use it after ""activation"" using the 2nd dll."
+,F.B.I,2011-08-12T14:39Z,"Ahhhh the hot fix, that .dll must think there is a licence already intslled, maybe if i remove that check all system might work!! As im thinking there is no call for the flexnet server in the hot fix cause why would somebody who hasnt brought it need a hot fix!! Best check the file size of both .dlls"
+,vaios123,2011-08-12T14:46Z,"i just found another thing, the first dll exports some gauge creation functions along with the entry point, while the 2nd only exports two fnp libs, libFNP_2 and libFNP_3, i dont know if this means we have been wasting time on the first dll."
+,frkaipanika385,2011-08-12T15:30Z,"Yeah... HOTFIX rules!!
+F.B.I. that would be funny if this solution works..."
+,6800ultra,2011-08-12T15:31Z,"""i think 6800ultra just might got the first dll to a full""
+....
+
+to make it clear: I dont work on that crack anymore, i ve never cracked anything other and my initial crack release was just a work of 10 min, comparing the DLLs of the J41 and appy that to the ngx DLLs, without really knowing what i do. 
+I dont have any other ideas, i dont understand disassembler and so on. Trial and Error is also not possible on more that 100.000 pages of hex-code !
+
+So please, when there is nobody other then me, who try to crack this, then there is nobody, please understand that. Maybe we will see a crack from a cracker-crew, who knows what to do. 
+
+So again ladies, I'm off. 
+So please stop yelling at me.
+
+Regards, 6800ultra"
+,KevTheOne,2011-08-12T15:46Z,"Don't worry, we already stated nobody here can develop a reliable fix for this."
+,F.B.I,2011-08-12T15:47Z,@vaios123  where did you find these????? BIG SMILE< these are what iv been looking for!!!!
+,frkaipanika385,2011-08-12T15:48Z,"Nooo...
+You shouldnt be so honest :)
+You should say...look i spent 2 days without sleep trying to solve that Flexsafe puzzle that is harder to brake in then North Korean nuclear program...bla bla..
+
+Nobody is screaming at you... you did a nice job just didnt know what are you doing... you used your logic...
+PS J41 is a Turbprop and 737 is jetliner... duuuh :)
+NHF... respect! "
+,vaios123,2011-08-12T15:57Z,@F.B.I add vaios1232 on skype
+,xpycxpyc,2011-08-12T16:16Z,"@6800ultra It's ok dude no one is yelling at you or blaming you for anything, and they have no rights to blame you or yell at you, or FBI or any other cracker here, you guys are doing this for free so no one should ever blame you for what ever! If they are so pissed then they should buy the stupid plane and stop qq'ing! Don't even read those trolls!
+Again thank you! "
+,A6-ANA,2011-08-12T18:45Z,"F.B.I
+So F.B.I is it means that after vaios 123 post about 2nd dll's you will continue to work on crack or not? Thaks for reply!"
+,xpycxpyc,2011-08-12T18:57Z,@A6-ANA Don't be impatient he's working on in it! :)
+,F.B.I,2011-08-12T20:41Z,"yeah im still working on the crack, now worries there guys, however im off on my hols tomoz."
+,jimbob493,2011-08-12T21:46Z,reckon you could get her cracked before you leave?
+,berzerk2,2011-08-12T21:53Z,I wish you good good good luck  
+,xpycxpyc,2011-08-12T23:47Z,I was wondering who cracked the JS41?
+,frkaipanika385,2011-08-13T00:55Z,Komu ...made J41 crack...
+,vittupaa1980,2011-08-13T01:05Z,OK guys i tried to crack this piece of motherfucker...but sorry i failed miserably like every other aspect of my life......Sorry dont be angry
+,xpycxpyc,2011-08-13T01:11Z,And there's no way of knowing if they cracked this one?
+,ipay4U,2011-08-13T01:17Z,"@frkaipanika385
+
+im only new to the TPB site. can i ask u something i see alot about Komu about hes the best @ cracking so on so on.. why he not on TPB site anymore cracking games ?"
+,frkaipanika385,2011-08-13T01:46Z,"They are still making cracks for FS addons.. just for some small comunity of people.
+They are not sharing it with the rest of the world...because always someone from that ""rest of the world"" take credit for his cracks.
+This is how i understand that decision."
+,xpycxpyc,2011-08-13T02:07Z,"And what kind of credit can you get if somethin like that? All I see is that ypu can get in big
+trouble if one of thos companies which makes fsx addons finds you! This is not something you can wish taking credit of!"
+,jolopy,2011-08-13T02:35Z,has anyone who bought this know if it works well when you have cracked pmdg planes installed. i have cracked 747 and md11 but am hesitant to buy the ngx because i know PMDG will pull some gay trick and blow up my machine because it detects a cracked product.
+,mortalrocky,2011-08-13T03:32Z,crack pmdg 737ngx ?
+,mortalrocky,2011-08-13T03:35Z,[url]http://rapidxxxx.com/files/1170604531/GX.rar[/url]
+,mortalrocky,2011-08-13T03:36Z,http://rapidxxxxx.com/files/1170604531/GX.rar
+,mortalrocky,2011-08-13T03:39Z,http://rapidxxxxx.com/files/1170604531/GX.rar working crack tested.:)
+,6800ultra,2011-08-13T04:00Z,"There we have it, tested, i can confirm, all systems working so far, will do a test flight in a few hours (in IFR procedures) and will report.
+
+Thanks to Tmoos, whoever that is, they/he/she is the god almighty"
+,alexmorph3us,2011-08-13T04:29Z,it actually works.I can not believe it!!THANK YOU SO MUCH!!!
+,jolopy,2011-08-13T04:31Z,scanned and results are clean for those wondering about above rapidshit link
+,6800ultra,2011-08-13T04:44Z,"And god damn'it
+there are just 4 tiny changes in hex, damn i was on the right way.
+@F.B.I just compare this cracked dll with the original, just sayin:
+51117 (75 to EB)
+163640 (74 to EB)
+1636F0 (75 to 90)
+1636F1 (07 to 90) 
+
+Regards,
+6800ultra
+
+PS: 
+There is the first tiny hot fix from pmdg 
+http://forum.avsim.net/topic/343817-test-hot-fix-for-those-with-freezes/
+Installed it, tried to apply those hex lines and it works! (Well, some lines are not exactly in the hotfix like in the orig dll, but you will find them FBI)
+
+DAMN IT, it works."
+,poopoo812,2011-08-13T04:57Z, Holy shit thank you!
+,mdemons12,2011-08-13T05:05Z,"What are the hex lines, please upload them."
+,mdemons12,2011-08-13T05:10Z,rapidshare link won't work for me. could it be uploaded here?
+,mdemons12,2011-08-13T05:14Z,Instructions or the .dll would be great. I had a so at cracking and failed so clap clap for you guys.
+,Inkfile,2011-08-13T05:37Z,"I like to say thank you GUY! for all your HARD WORK. I really appreciate the time you put into this. Btw do you know how to install the pmdg liveries, Like where do you put the file..?
+
+Anyways looks good from here no problems yet!"
+,KevTheOne,2011-08-13T05:41Z,"Thanks so much guys, it really works!"
+,Inkfile,2011-08-13T06:10Z,Yes you can use any installer just apply crack after thats what I did.
+,biscayne0,2011-08-13T06:10Z,"Thanks for the crack, guys, excellent work!
+
+I have a slight issue, am wondering if anyone has any ideas.
+
+When I load the aircraft, it loads fine, but as soon as I hit ""go fly"", I get about a second of VC before FSX crashes.
+
+Any ideas?
+
+Thanks again for the crack!"
+,clintferns,2011-08-13T06:16Z,can someone please seed the installer
+,tras123,2011-08-13T06:22Z,"Might I suggest the person who uploads the crack also includes all the liveries. Last time PMDG coded the liveries for the MD11/747/JS41 on their website (after the crack, of course) to check for the used crack and if it came back positive, would delete the FSX texture folder. If all the liveries are downloaded now and given on PB before coded to check for cracks, we'll avoid that mess again. "
+,clintferns,2011-08-13T06:22Z,nevermind iam downloading the previos torrent...hopefuly it should work !!!!!!!! thank you sooo much guys....!!!!
+,clintferns,2011-08-13T06:24Z,yes that too....please get the liveries...i really love the livers !!!! thanks 
+,Inkfile,2011-08-13T06:43Z,Look GUYS there is alot of sites out there with installer and liveries I got my one in under 30mins guys goole it. But i dont know how to install the liveries tho!
+,poopoo812,2011-08-13T06:50Z,Just download the bloody liveries from the PMDG website...works for me.
+,bonoldi,2011-08-13T06:57Z,"Dear mortalrock!!!
+
+First, congrats for such a hard work and victory!!! 
+
+Unfortunately, I can't access the url ""http://rapids****.com/files/1170604531/GX.rar"". Is it possible to have the file uploaded to another deposit file? Or, what need I do to (I compleeted the spaces with the correct words, but it says that I need a commercial account to download it). Can you help me?? Tks a lot!!!!"
+,elektron66,2011-08-13T06:57Z,Where to take crack
+,bonoldi,2011-08-13T06:58Z,"Dear mortalrock!!!
+First, congrats for such a hard work and victory!!! Unfortunately, I can't access the url ""http://rapids****.com/files/1170604531/GX.rar"". Is it possible to have the file uploaded to another deposit file? Or, what need I do to (I compleeted the spaces with the correct words, but it says that I need a commercial account to download it). Can you help me?? Tks a lot!!!!"
+,clintferns,2011-08-13T07:41Z,where do you place the dll from the crack ???
+,Inkfile,2011-08-13T07:42Z,@poopoo812 where do u put the file? Just do my first TEST flight works GREAT! again many thanks!
+,clintferns,2011-08-13T07:48Z,where do i place the dll from the crack
+,poopoo812,2011-08-13T08:14Z,"@Inkfile You just put your liveries somewhere on your desktop and open the livery manager in your PMDG folder and install
+
+@clintferns you put the dll in the guages folder"
+,UnkownFlyer,2011-08-13T09:49Z,For the people who dont have the installer im seeding this one now
+,F.B.I.2,2011-08-13T09:54Z,Guys its F.B.I iv had to make another acc as im on my way to airport nd not on my pc. @ultra600 ur hexs are right mate i cnt believe i was only the last hex string of cracking this. U put the crack .dll into ur gauges folder in ur fsx main folder. it will ask if u wsnt to overright the previous .dll u click yes. As for the liverys u extract the file inside to ur desktop then run the livery installer then locate the file u put on ur desktop and it will install itself
+,Inkfile,2011-08-13T10:02Z,@poopoo812 Thanks bro! I will give that a try. Also has anyone done the hot fix from pmdg..?
+,sasi4x,2011-08-13T10:07Z,"Hi
+Many thanks for the crack! It loks like it is working..
+
+BUT!!
+
+I have lost my FSUIPC add on (I can't see it anymore) so I can't use my LEVEL D or PMDG747 (and all other addons..)
+
+I have tried to remove the NGX737, and do a SYSTEM RESTORE but it didn't help.
+
+Reinstalling the LevelD didn't fix it.
+
+I'll try now to reinstall the FSUIPC and see how it works.
+
+I really don't want to do a full reinstall of FSX and all software/hardware addons
+
+Running on WIN7 64
+
+"
+,ipay4U,2011-08-13T10:20Z,"can someone please upload the crack again because the link is not working again..
+
+thanks alot if you can. well done on cracking it guys"
+,ipay4U,2011-08-13T10:40Z,mite be a dumb question but do i have to put some word on this link where the stars are to work because it wont work for me. ie  http://rapids****?
+,berzerk2,2011-08-13T10:50Z,"the link work for me, just change the **** in ""share"""
+,ipay4U,2011-08-13T10:54Z,@berzerk2 thanks alot man worked. 
+,fsxlukas,2011-08-13T11:42Z,HOLY CRAP DOES IT WORK???? I AM SOO DAMM HAPPY RIGHT NOW! I WAS THIS CLOSE TO BUYING IT! THANK YOU A BILLION TIMES TO WHOEVER MADE THE CRACK! WOW =)
+,captsi,2011-08-13T11:53Z,Hey guys my friend just tried downloading the crack and rapidsahre showes that it has expired could you please upload some where else please
+,6800ultra,2011-08-13T12:03Z,"https://rapidxxxxx.com/files/2633284142/ngx_medi_by_Tmoos.rar
+
+working Link
+
+(replace the X'es with ""share"")"
+,captsi,2011-08-13T12:10Z,"@sasi4x
+
+when i installed the ngx i had to re edit my dll.xml and had to put it in the correct position then that fixed it.
+
+You need to put the 
+
+
+        PMDG HUD interface
+        False
+        PMDG\DLLs\PMDG_HUD_interface.dll
+        module_init
+        module_deinit
+
+inside the 
+"
+,captsi,2011-08-13T12:14Z,he just tried that still not working can u please upload as a torrent would make life so much easier.
+,bbcwor,2011-08-13T12:26Z,"patcher here for n00bs:
+www.mediaXXXX.com/?51xbq1un7f6tj96
+
+replace xxxx with fire"
+,bbcwor,2011-08-13T12:28Z,"patcher here for n00bs:
+mediaXXXX.com/?51xbq1un7f6tj96
+
+replace x'ses with fire"
+,vittupaa1980,2011-08-13T13:00Z,Ok nice but where the fuck i can get the plane...SEEDERS for fuck sake
+,mortalrocky,2011-08-13T13:03Z,"I shared a link to another link, I do not share your discount is already changing, I'm sharing the same Nothing to You put the product I receive money, because crack is working smoothly I can not get you the 18 pages I thought my fly I've been looking for whether its working crack upload thank you for such good care of yourself do not resort to thank everyone See"
+,mortalrocky,2011-08-13T13:05Z,"where xxxx is the link I gave to my ""share"" can be downloaded if you type"
+,sasi4x,2011-08-13T13:07Z,"@captsi 
+Thanks for your reply.
+I can't find any DLL.XML in my computer..
+
+Where should I look for it?
+
+My system disk is C and FSX is installed on D
+
+send me  an email to sasi4x at hotmail and I'll send you the crack"
+,ipay4U,2011-08-13T13:17Z,"im not bitch n but does anyone have the hud on there PMDG 737NGX. because i dont see it on any of the planes? anyone else had this problem and know how to fix it?? if not i can live with it LOL
+
+thanks."
+,captsi,2011-08-13T13:24Z,"your dll should be in
+
+C:\Users\USERNAME\AppData\Roaming\Microsoft\FSX\dll.xml"
+,captsi,2011-08-13T13:25Z,"@ipay4U
+
+if you go into ur fmc under pmdg options equipment page 4/12 and u should have options ""HGS installed""
+
+then it should be installed"
+,sasi4x,2011-08-13T14:43Z,"@captsi
+Thanks for the info!
+
+It was a much more complex problem, but you gave me the lead
+
+Full fix instruction for the DLL.XML can be found here
+
+http://support.precisionmanuals.com/KB/a92/dllxml-information-and-troubleshooting.aspx"
+,henshoef,2011-08-13T14:54Z,"I have a strange problem first time when I replace with the crack its worked now I'm trying to load the plane and it's stuck for a few momets and then the simulator crash
+plesae help me"
+,ipay4U,2011-08-13T15:16Z,"@captsi
+
+i have a hud when i use the plane only when i use the default pmdg livery but when i add a livery like ryanair or any other livery i have no hud. it looks like its installed but not when i install a addon livery. i couldn't find what you said in the last message. do you mean the addon bar in fsx i should find this? if so i don't have a addon bar on the bar menu for the pmdg 737NGX but but i do for the 747 etc.
+
+thanks anyway man for the help 
+"
+,captsi,2011-08-13T16:07Z,"@ipay4U
+
+When u install a new ngx livery that livery has it's own config so u need to basicly set it up to what u want and the next time u use it it will be as u set it.
+
+There is no more pmdg menu with the ngx it's all done through the CDU."
+,Sasquachi,2011-08-13T16:17Z,"when fs starts, just 2 seconds and crash (with the 737ngx with crack on in gauges folder) what to do?"
+,ipay4U,2011-08-13T16:26Z,@captsi thanks man all done and cool thanks very much for the help
+,sasi4x,2011-08-13T16:27Z,Crack is not working anymore with the HotFix..
+,frkaipanika385,2011-08-13T16:38Z,"Why do you need Hotfix?
+Hotfix is only for people with graphic problems ...
+If you dont have graphic problems with fresh instalation dont apply hotfix.
+Just made first complete flight...and everything works perfectly...from gauges..electrics...fms...hud...everything.
+Thanks"
+,swahili.ninja,2011-08-13T17:14Z,"could someone pleaaaaaaaaase upload the crack on mediaf**e ??!!! 
+
+would really appreciate it...thanxx in adv"
+,swahili.ninja,2011-08-13T17:18Z,the links shown dont work/are too slow!!
+,hhgstr,2011-08-13T17:28Z,are the liveries working or do they nuke fsx?
+,berzerk2,2011-08-13T17:29Z,They're working ;)
+,Inkfile,2011-08-13T17:39Z,All we need now is AoA PMDG 737NGX Training videos.... jus to round it off!
+,cugix,2011-08-13T17:42Z,I have a problem with the NGX after installing the crack something's wrong with the engines... the spinner isn't there... anyone any ideas? (I used the patcher btw)
+,Inkfile,2011-08-13T17:50Z,Do you mean the hotfix..? I did not patch it...
+,cugix,2011-08-13T18:36Z,Does anyone have a problem with engaging LNAV?
+,cugix,2011-08-13T18:37Z,@ inkfile no the patcher to install the crack not the hotfix :\
+,Inkfile,2011-08-13T18:44Z,Jus copy the crack in to the gauges folder thats it no patcher needed.
+,chuckmamuck,2011-08-13T19:11Z,"vittupaa1980
+download the 737NGX here, just dl'd at 1.5mb's. 
+
+http://thepiratebay.org/torrent/6587204/PMDG_737_NGX_800_900_COMPLETE_COMPLETO 
+the crack from the rapidshare links works a treat, much respect to Tmoos, whoever and wherever he/she is.
+just finished a short flight from Gatwick to Southampton and everything seems to be as it should be, nice bird but i wouldn't pay that much for it."
+,glupy,2011-08-13T19:44Z,Am i the only person that has engines that are still not on?
+,vittupaa1980,2011-08-13T20:02Z,Chuckma THX M8 everything works fine whit the crack. 
+,Inkfile,2011-08-13T20:21Z,Put the keys into the ignition on the MCP and if that dont work call a cab to uninstall it and start again. Install copy crack into gauges folder in fsx and thats it.. your done FLY!
+,miraboa18,2011-08-13T20:32Z,PMDG CRACKED 100% on - http://acessa.me/gvvj
+,miraboa18,2011-08-13T20:33Z,FlyTampa Athens - UK200 New Castle - PMDG 737NGX - http://acessa.me/gvvj
+,glupy,2011-08-13T20:33Z,engines are still off for me :(
+,vaios123,2011-08-13T21:14Z,"awsome!!! huge thx to this Tmoos fellow.
+and only took a week."
+,skyglider777,2011-08-13T22:02Z,"Wowi! thanx sooooooo much Tmoos:)) you are the crack-king! Works great! and thanx to everybody that tried to crack this bird....I'm amazed that it was cracked so fast, just one week after release:)
+Tmoos u rule man! "
+,StonedRaider88,2011-08-13T23:06Z,"not working for me. i still get black screens, engines on, but cant click any switch, nothing at ll. 
+
+I installed, and put crack in the fsx/Gauges folder. Copied and overwritten. any ideas what i did wrong? why i still have black screen? 
+
+any help would be nice, thanks!"
+,miraboa18,2011-08-13T23:32Z,FlyTampa Athens - UK200 New Castle - PMDG 737NGX with CRACK 100% - http://acessa.me/gvvj
+,miraboa18,2011-08-13T23:38Z,FlyTampa Athens - UK200 New Castle - PMDG 737NGX with CRACK 100% - http://acessa.me/gvvj
+,marwangharib,2011-08-14T00:27Z,@6800 ultra.. heard you got it working with the hot fix.. would you mind sharing it.. this thing keeps freezing on me! thanks!
+,futurepilot95,2011-08-14T00:32Z,"I want to thank tmoos for cracking this wonderful piece of avation, and of course FBI, 6800ultra and NvidiaPhysX for all the hours spent attempting to crack it! Even though the eventual crack wasnt made by you guys, a big thanks for all your work!"
+,berzerk2,2011-08-14T00:42Z,"To all ""Engine still off"" Or black Screen
+
+Engine off ? Check Bleed Air, Electric & Hydrolic system Ok.
+
+Black screen ? Check Electric and IRS Allignement."
+,marwangharib,2011-08-14T00:44Z,
+,rockoschifredy,2011-08-14T02:06Z,StonedRaider88: For me also not working. Same problem as you. I have cracked FSUIPC 4.60a and PMDG MD-11_cracked_by_komu. This plane works correctly but 737NGX nothing...
+,marwangharib,2011-08-14T02:10Z,"ok, i applied the Hotfix .. reapplied the patch.. and all seems working .. no freezes so far..nice plane!"
+,StonedRaider88,2011-08-14T02:21Z,"@ rockoschifredy. Yes the same, have the PMDG MD-11 installed and working fine (not the komu version) FSUIPC also running but not cracked. Problem: all screens black (more like BLANK) can not turn any knobs in VC or 2D pit. Looks like the crack did not work for me!
+
+@berzerk2 Offcourse we tried turning the systems on, but since i can NOT twist any knob, or click on any button in the plane, i guess it must be the crack.
+
+So once again, anyone who has had this and solved it, please let me know! "
+,hhgstr,2011-08-14T10:24Z,the 'options' and 'aircraft fuel' in the pmdg tab in fsx menu are not working
+,john5706,2011-08-14T11:07Z,"There are no more option in the FSX menu, everything is in the CDU, just read the manual, everything works good !"
+,ro1234,2011-08-14T11:14Z,"cheers for the ngx  
+
+   NN      N     GGGGG     X        X
+   N  N    N     G                 X  X
+   N    N  N     G   GGG        X X
+   N      NN     GGG   G     X        X"
+,ro1234,2011-08-14T11:15Z,CHEERS FOR THE NGX !
+,Rfager68,2011-08-14T12:29Z,"if someone could please help.  everything works, liveries, buttons, switches, guages you name it the only thing i cant get to work is the HUD.  i tried the patch.  then i tried to manually enter the DLL.  still no hud image.  also i made sure to check FMC and it is on.  any ideas thx in advance.  BTW great job cracking...kudos"
+,ir1980,2011-08-14T12:56Z,"Anyone get fatal error after ending flight? Flights are perfect, it only happens when I select end flight from menu. ????"
+,rockoschifredy,2011-08-14T13:00Z,"lionairid: I have the latest crack from Tmoos, i move cracked dll to gauges and rewrite original dll BUT STILL NOTHING.
+Engine ON
+ALL system OFF
+Black EFIS
+Nonclickable gauges"
+,berzerk2,2011-08-14T14:06Z,"A little request from belgium please :D
+Do you know where i can download Diamond DA20-100 Katana 4X for FSX By aerosoft please ?
+I search this shit since 1week and i can't find it :(
+
+http://en.shop.aerosoft.com/eshop.php?action=article_detail&s_supplier_aid=11388
+
+What i found it's an old version, by Digital aviation ... not this version with Engine maintenance, etc etc :D
+
+Thanks in advance 
+:)"
+,jimbob493,2011-08-14T14:36Z,"For those with issues. When you start FSX, and select the aircraft, Make sure you Click YES to ALL modules."
+,jimbob493,2011-08-14T14:38Z,"If no messages come up, go to %AppData%\Roaming\Microsoft\FSX\FSX.cfg, find the section [TRUSTED] then delete the entire section. On FSX restart, make sure you allow all modules to run"
+,jimbob493,2011-08-14T14:39Z,"And if it still doesnt work, Fuck it. Go buy it and get the full PMDG support team on your side. This is TPB, not the fucking avsim forums."
+,Brrr1955,2011-08-14T15:16Z,"ir1980 at 2011-08-14 12:56 CET:
+Anyone get fatal error after ending flight? Flights are perfect, it only happens when I select end flight from menu. ????
+
+Same to me :("
+,ytaca56,2011-08-14T16:26Z,"To berzerk2.
+
+http://www.megaupl???.com/?d=NLIOXWQT"
+,StonedRaider88,2011-08-14T16:31Z,"@bektaz, fuck you! i never complained, and all i asked for was some advice and if anyone else had the same problem, i also never said that this crack DID not work. all i said IT did not work for ME. Now is it soo much to ask if anyone else has the problem? Stop walking around with your head stuck deep up your ass. Change your attitude you piece of shit.
+
+@jimbob493. THANK YOU SOOOO MUCH THAT DID THE TRICK!!!!!!!!!!! its working fine now."
+,berzerk2,2011-08-14T16:51Z,@ytaca56 Many many many many thanks :)
+,Bobby221,2011-08-14T17:41Z,I want to congratulate the fine brains who worked to finally make this thing available to us poor chaps. So lets make a toast.
+,berzerk2,2011-08-14T18:20Z,"I just have the Freez bug, does the crack work the Hotfix of PMDG ?"
+,jeratpb,2011-08-14T18:35Z,"@berzerk2:
+hotfix solves this problem, but you have to crack PMDG737NGX.dll again. Use instructions that 6800ultra posted yesterday. Also, turn on DX10 in FSX."
+,berzerk2,2011-08-14T18:59Z,"jeratpb, okay thanks i'll try it :)"
+,Rfager68,2011-08-14T19:20Z,does anyone know what might cause me not to have a HUD image....that seems to be my only prob everything else works great.
+,jimbob493,2011-08-14T19:39Z,DX10 is a piece of shit in FSX. Its buggy as fuck. Leave it off as per PMDG recommendations. And technically the hotfix is pointless for this crack because majority of freezes come from the .dll that is cracked. So we're overwriting the new .dll with a cracked old one so really the hotfix does very little for us. Unless someone wants to go crack the hotfix .dll?
+,berzerk2,2011-08-14T19:58Z,"You didn't disable the projector by mistakes ?
+He's just behind, over the captain Seat"
+,jimbob493,2011-08-14T21:39Z,"Why not go read the fucking manual instead of asking shithouse questions here. I figured it out, so can you"
+,miraboa18,2011-08-15T00:25Z,FlyTampa Athens - UK200 New Castle - PMDG 737NGX with CRACK 100% - and more - http://acessa.me/gvvj
+,skyglider777,2011-08-15T16:00Z,"This crack works 100% perfect, all credit to Tmoos! For all of you that got problems- you have to read the NGX Introduction manual & apply all the tweaks! "
+,berzerk2,2011-08-15T16:27Z,@lionairid It's a new version of the crack for the Hotfix or it's the samething ?
+,fsuser,2011-08-15T16:36Z,anyone else have a black lower eicas panel? if so any way ti fix?
+,Inkfile,2011-08-15T17:35Z,@fsuser You have two buttons under -MFD- near the Auto brake. Press the one on the left called ENG that will turn on the eicas panel. Hope that helps! 
+,miraboa18,2011-08-15T23:29Z,FlyTampa Athens - UK200 New Castle - PMDG 737NGX with CRACK 100% - and more - on http://acessa.me/gvvj
+,IG0R.G1,2011-08-16T00:44Z,"1. downloaded the DLL files for the GAUGES folder, replaced everything, approved DLL's with FSX. 
+2. after the plane loads i get sound problems, cant hear engines only wind, i can however hear engines when i turn camera 3 o'clock
+3. Gauges do not work, lights dont work, buttons do not work, pedals/yoke/thrust/brakes/flaps are frozen, engines do not rotate at all. 
+4. I've reinstalled it 5 times and used different hacks (replacing DLL) but now i get a feeling that i need to delete it off registry and every little trace of it off my computer in order for it to work.
+5. when it flies i get the most retarded controls ever, the rudder can literally spin the plane in the air like a helicopter 120 degrees and fly sideways
+6. also when i am installing the pmdg IT NEVER ASKS ME FOR REGISTRATION, how do people register it when they buy it?? theres no way to even register it like for example PMDG 747
+
+HELP!!! im confused with all the links please post all the links and instructions necessary, ill keep trying though"
+,rockoschifredy,2011-08-16T00:56Z,"IG0R.G1: Whats your Windows version ?
+I have 3 harddrive. On drive 1 is Windows XP, On drive 2 is Windows 7 and on drive 3 is FSX game with pmdg 737. I use latest crack and i always try start the 737ngx on WIN7 and crack it not work. BUT !!! today i tried start FSX on WINDOWS XP and 737ngx works very well with full function. So for me is resolution to play the FSX with PMDG 737NGX only on WIN XP."
+,berzerk2,2011-08-16T03:53Z,The people with problems must not have skill to pilot an airplane :D
+,poopoo812,2011-08-16T07:49Z,"Most people on here are retards. I mean seriously, Black lower EICAS screen? Read the bloody manual will you. The fucking crack works perfectly. If it doesn't, then obviously you're doing something wrong."
+,Brrr1955,2011-08-16T11:41Z,"^ There are no stupid questions, only stupid answers"
+,berzerk2,2011-08-16T16:17Z,"Since i installed the HotFix, I've a message everytime i load the ngx in fsx : ""Initialization of license failed"" 
+But the airplanes look work :O, other people have that ?"
+,IG0R.G1,2011-08-16T18:36Z,"1. downloaded the DLL files for the GAUGES folder, replaced everything, approved DLL's with FSX.
+2. after the plane loads i get sound problems, cant hear engines only wind, i can however hear engines when i turn camera 3 o'clock
+3. Gauges do not work, lights dont work, buttons do not work, pedals/yoke/thrust/brakes/flaps are frozen, engines do not rotate at all.
+4. I've reinstalled it 5 times and used different hacks (replacing DLL) but now i get a feeling that i need to delete it off registry and every little trace of it off my computer in order for it to work.
+5. when it flies i get the most retarded controls ever, the rudder can literally spin the plane in the air like a helicopter 120 degrees and fly sideways
+6. also when i am installing the pmdg IT NEVER ASKS ME FOR REGISTRATION, how do people register it when they buy it?? theres no way to even register it like for example PMDG 747
+
+HELP!!!  show me the proper links and suggest proper solution =["
+,miraboa18,2011-08-16T21:03Z,FlyTampa Athens cracked - UK200 New Castle cracked - PMDG 737NGX with CRACK 100% - and more - on http://acessa.me/gvvj
+,alef1995,2011-08-17T02:16Z,Req: Vertical reality simulations FA/E 18 superbug Working ACM Please!
+,ytaca56,2011-08-17T10:45Z,"berzerk2: I also download the hotfix. Put back the crack, I am accepting and the message disappears, but when I reload the plane again displayed the message. I downloaded two libraries: AA and AE. But so far everything works perfectly"
+,miraboa18,2011-08-18T03:34Z,FlyTampa Athens cracked - UK200 New Castle cracked - PMDG 737NGX with CRACK 100% and FIX (update) - and more - on http://acessa.me/gvvj
+,Solarflexlanka,2011-08-20T05:18Z,Can anyone upload a crack for the latest hotfix which fixed the freezing panel issue..
+,mmar,2011-08-20T09:33Z,"Unfortunately I can't get this to work properly. Made a clean install of FSX incl. SP1. Then I installed the 737NGX from 
+
+http://thepiratebay.org/torrent/6587204/PMDG_737_NGX_800_900_COMPLETE_COMPLETO 
+
+Made all the recommended settings from the introduction manual and finally I replaced the .dll file in the Gauges folder. When I start I get 3 messages to approve dll:s. The first one when I start. The second 2 after I select a PMDG aircraft.
+
+The plane loads and engine work and all controls work if I use keyboard. But no buttons works inside the plane. And the screens are black. The plane flies like a dream though :-).
+
+Any ideas? Thank you in advance."
+,berzerk2,2011-08-20T16:27Z,Install the SP2.
+,mmar,2011-08-20T22:47Z,"Wow, don't I feel like a fool. I didn't realise that there where a SP2. Now it works like a charm. Thanks Berzerk2"
+,berzerk2,2011-08-21T03:51Z,"You're welcome ^^
+and with the SP2, you will have more FPs :D"
+,miraboa18,2011-08-24T04:48Z,"FlyTampa Athens cracked - UK200 New Castle cracked - PMDG 737NGX with CRACK 100% and FIX (update) - and more - on http://voefs.bl*gspot.com
+
+* = o"
+,ro1234,2011-08-24T14:50Z,"i installed the plane and the crack,
+but fsx crashes seconds after i load
+
+
+
+H  E   L   P"
+,ygcrosbyyg,2011-08-28T22:31Z,can anyone tell me where to find the SP2? I cant find it on their website
+,silverking789,2011-09-05T23:31Z,where can get the sp2 
+,berzerk2,2011-09-27T01:52Z,Can we install All HotFix ? Pmdg has done 4 hotfix for the moment ... !
+,KevTheOne,2011-10-23T06:42Z,"UK2000 london released!
+If someone find it please post it, it rocks!"
+,ace2618,2011-10-30T03:54Z,REQUEST: PMDG 737-700/600 expansion  

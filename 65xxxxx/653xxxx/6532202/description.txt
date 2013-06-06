@@ -1,0 +1,7 @@
+Easy rescue system with GUI tools for full system backup, bare metal recovery, partition editing, recovering deleted files, data protection, web browsing, and more. Uses partclone (like Clonezilla) with a UI like Ghost or Acronis. Runs from CD/USB.
+Version 1.0.0 (2011-07-01), Password boxes now display hidden characters when typed in, Increased boot delay for machines that are slow to display it, Changed default boot option to load the system into RAM with "toram", Changed safe video mode to use "xforcevesa nomodeset", Updated the boot help text to provide info about Ubuntu boot options, Removed enhanced security erase option in drive reset tool for reliability 
+ 
+http://redobackup.org/
+
+sha1sum : cdaf30e3de949f1769a04cd104f64f454ae5b3fa  redobackup-livecd-1.0.0.iso
+md5sum : 484ca54d29727c8cfaf5565ae16be24b  redobackup-livecd-1.0.0.iso

@@ -1,0 +1,18 @@
+1. You may need an Administrator account to use the keymaker
+   (right-click on the keymaker and choose 'Run as Administrator').
+
+2. If the keymaker is detected/blocked by your antivirus software then 
+   add it to the exclusions lists of real-time protection and auto-scan. 
+   You may need to temporarily disable real-time protection and auto-scan 
+   when adding the keymaker to the exclusions lists, or when using the keymaker.
+
+3. If the keymaker is removed by your antivirus software then restore and exclude 
+   it through your antivirus software (Quarantaine, History, or something similar). 
+
+4. To manually reset the Adobe registration, search for cache.db in Windows Finder 
+   and make sure to include system files. Delete all cache.db files related to 
+   Adobe products (only).
+
+5. Not tested if Acrobat X Pro 10 is updateable when using the Adobe CS5 All 
+   Products Keymaker v1.10, but confirmed by some people is that updating is 
+   only possible when using the Adobe CS5 Products Activator by MPT (Fixed).

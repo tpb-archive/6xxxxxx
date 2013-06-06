@@ -1,0 +1,10 @@
+Vinux is a remastered version of the Ubuntu Linux Distribution optimised for visually impaired users. It provides a screen-reader, full-screen magnification and support for Braille displays out of the box!
+07/07/2011 - Vinux 3.2.1 released!
+Vinux 3.2.1 is now available for download in 32/64bit in CD/DVD versions. The main difference between this and the recently released Vinux 3.2 is that by default it boots with Pulseaudio running in 'user' mode rather than 'system' mode. This prevents pulseaudio from crashing at boot on a small number of sound cards, but it means that speakup is not available from the live CD or immediately after installation. However there are now two simple commands for switching Pulseaudio from user to system mode in conjunction with a reboot of the machine. This version also includes an accessible zenity front end for Unetbootin which allows users to install Vinux to a USB pendrive with persistent storage. Users who have already installed Vinux 3.2 can upgrade to this version quite easily without having to reinstall.
+There are two new applications included in 3.2.1, usbinstall and cdburn.
+These are accessible scripts for installing Vinux to a USB pendrive and burning a CD/DVD and checking the md5sum of the burnt CD/DVD. 
+http://vinuxproject.org/news
+
+md5sums : 
+84e67279377fccdf46143f8db12d8082  Vinux-3.2.1-i386-PLUS.iso
+067e9e601fc0e7a8fd6786ed1fd62e5a  Vinux-3.2.1-amd64-PLUS.iso

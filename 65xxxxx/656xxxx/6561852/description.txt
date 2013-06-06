@@ -1,0 +1,14 @@
+Overgrowth Alpha 140 Installer:
+
+Changelog:
+ -   Detail object layer tags saved with level xml
+ -   Added \\\\\\\'double-sided\\\\\\\' flag to objects
+ -   Fix for imposter stipple transition
+ -   Added generic GUI with Angelscript interface
+ -   Added level.as for full-level scripting
+ -   Improved ReadCharacter Angelscript functions
+ -   Moved music selection and victory check to level script
+ -   Improved self-shadowing with slight blur
+ -   Fixed shadow swimming by locking shadow movement to texel increments
+ -   Script globals saved and restored when reloading scripts
+

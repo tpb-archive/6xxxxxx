@@ -1,0 +1,9 @@
+version: 01.14.00.8025 (the official installer available since before 28 July 2011, exact version number might not be correct)
+
+Get a free DDO account from http://www.ddo.com/playnow/
+
+I didn't like the Pando downloader or the slow Fileplanet link, so I extracted the torrent (using http://torrenteditor.com ) and added a new tracker ( udp://tracker.openbittorrent.com:80/announce )
+
+Pathname is still pando due to HASH needing to remain the same (according to torrenteditor.com)
+
+Pando downloader uses bittorrent too, but it is a bit different so I don't expect this to work too well alongside the Pando peers - but meh, worth a try. 

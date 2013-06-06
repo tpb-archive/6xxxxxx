@@ -1,0 +1,15 @@
+Richard Monson-Haefel, "Enterprise JavaBeans"
+ Publisher: O'Reilly | 1999 | ISBN: 1565926056 | EPUB | 336 pages | 2.8 MB
+
+ Enterprise JavaBeans (EJB) is a major new technology for server-side application development in Java. It offers a component architecture for developing distributed, multitiered enterprise applications. This model allows you to build complex, mission-critical systems using simple snap-together pieces that model individual business objects and processes. EJB greatly simplifies the process of development by automatically taking care of system issues like object persistence and transaction management.
+
+ This book provides a thorough introduction to EJB for the enterprise software developer. It shows you how to develop enterprise Beans to model your business objects and processes. It also shows you how to develop client applications that use the Beans to perform useful work. One powerful advantage of the EJB architecture is that it allows you to partition work appropriately between different parts of the system: the database provides persistence, your Beans model various business entities and the interactions between them, and your client application provides a user interface, but incorporates minimal business logic. The end result is a highly flexible system built from components that can easily be reused, and that can be changed to suit your needs without upsetting other parts of the system. Enterprise JavaBeans teaches you how to take advantage of the flexibility and simplicity that this powerful new architecture provides.
+
+ This book covers:
+
+ Developing entity Beans (Beans that model business objects) and session Beans (Beans that model business processes)
+ Deploying Beans in an EJB server
+ Using the client-side API to use enterprise Beans
+ Bean-managed persistence
+
+ Appendices show in detail how to deploy Beans with the most popular EJB servers.

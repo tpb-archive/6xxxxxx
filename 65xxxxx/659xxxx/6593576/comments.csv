@@ -1,0 +1,195 @@
+User Type,Username,Date,Text
+,SebasSmit,2011-08-09T22:58Z,"Many, many thanks for this upload man, keep up the good work!"
+,rando606,2011-08-09T22:58Z,"damn i was about to do this lol. 
+heres a change log
+
+---NPC---
+NPC Additions
+â— New Enemy : Spike Ball (An Immortal Enemy.)
+â— New Enemy : Blazing Wheel (An Immortal Enemy.)
+â— New Enemy : Dungeon Slime (Contains Golden Keys)
+â— New Enemy : Goblin Scout
+
+
+NPC Changes
+â— Hornets in the Underground Jungle now shoot stingers. These stingers have a 1 in 3 chance of poisoning their target for 10 seconds.
+â— Cursed Skulls now now have a chance to apply the Cursed debuff.
+â— Bats, Harpy and Demon AI has been improved to prevent wall hugging.
+â— Slimes when in water will now turn around when they have no where to go.
+â— Man Eaters and Snatchers now have less HP, and are drawn above tiles rather than behind.
+â— Lava Slimes no longer spawn lava when killed.
+â— Meteor Heads now move much slower but do a lot more damage.
+â— Bone Serpents now have a new death sound, and their hit-box has been re-calibrated.
+â— NPCâ€™s furniture requirements have changed to work with new items.NPCs now requires one ""comfort object"" (Chair, Throne, Bench, Bed, Toilet) and one ""flat surface furniture"" (Table, Dresser, Workbench, Tub, Bookcase) for a room to be complete before they will make it their home.
+â— Thorns are now destroyed after you touch them and receive damage.
+
+
+NPC Bug Fixes
+â— EoW is no longer ""defeated"" when he flees.
+â— Npcs that are far from home and try to turn to return home will no longer twitch left and right when stuck.
+â— Hornets are correctly now unable to enter water.
+â— Vultures should no longer â€˜floatâ€™ if the sand they are perched on falls from beneath them.
+
+
+---Items---
+Item Additions
+â— New Item : Shadow Key
+â— New Item : Golden Key
+â— New Item : Shadow Chest (These require the Shadow Key)
+â— New Item : Obsidian Background Walls
+â— New item : Mud Background Walls
+â— New Item : Jungle Spore (Replaces Jungle Rose in former crafting uses.)
+â— New Item : Tattered Cloth
+â— New Item : Battle Standard (Allows for manual starting of the Goblin Invasion)
+â— New Item : Piano
+â— New Item : Loom (Crafting Station, Now required for crafting most clothes from silk.)
+â— New Item : Bench
+â— New item : Dresser
+â— New Item : Bathtub
+â— New Item : Red Banner
+â— New Item : Green Banner
+â— New Item : Blue Banner
+â—New Item : Yellow Banner
+â— New Item : Lamp Post
+â— New Item : Tiki Torch
+â— New Item : Barrel
+â— New Item : Chinese Lantern
+â— New Item : Cooking Pot
+â— New Item : Safe (A separate private storage from the Piggy Bank.)
+â— New Item : Skull Lantern
+â— New Item : Trash Can
+â— New Item : Candelabra
+â— New Item : Pink Jar
+â— New Item : Mug
+â— New Item : Keg
+â— New Item : Ale
+â— New Item : Bookcase
+â— New Item : Throne
+â— New Item : Bowl
+â— New Item : Bowl of Soup
+â— New Item : Toilet
+â— New Item : Grandfather Clock
+â— New Item : Statue
+
+
+Item Changes
+â— Wooden Tables, Doors and Workbenches now have improved looking graphics.
+â— Glow sticks price reduced. And are now a bit brighter.
+â— Coins now leave a sparkle trail while moving.
+â— Jungle Rose is now a rarer drop and no longer used to craft.
+â— Grappling Hooks can no longer be spam shot, you must now wait until your previous shot lands or returns before you can throw another.
+â— Suspicious Looking Eyes will now sometimes be found in chests.
+â— Flamelash, Sunfury, and Flower of Fire are no longer dropped, they are now found in shadow chests in the underworld.
+â— Ash and Mud no longer fall due to gravity.
+â— Hellstone no longer produces light and is more rare.
+â— Hellstone now spawns lava when it is mined, but only in the underworld.
+â— Cacti no longer cause knock-back making running through a desert less of a hassle.
+â— Potions now offer less HP on use, and their cool-down is now a minute.
+â— Placing background walls is more simple, as 1 block holes are automatically filled in.
+â— Flails now have a different mechanic. You can â€˜spinâ€™ them by pressing left and right fast over and over after they have been thrown while holding down the mouse button.
+â— ALL placed background walls are now considered â€˜hous"
+,rando606,2011-08-09T23:00Z,"â— ALL placed background walls are now considered â€˜house wallsâ€™. (Yes even Dirt and Dungeon walls.)
+â— Two of the same type of accessories may no longer be equipped at once.
+â— Fish Bowlâ€™s recipe has been changed to require Bottled Water, rather than just an empty Bottle.
+â— Armors are now more â€˜Class Typeâ€™ specific and their stats have been set accordingly.
+â—‹ Meteor Armor - Buffs Magic Damage and Set Bonus : Space Gun 0 Mana Cost.
+â—‹ Molten Armor - Set Bonus : Melee Damage
+â—‹ Shadow Armor - Buffs Melee Attack Speed and Set Bonus : Movement Speed.
+â—‹ Necro Armor - Buffs ranged damage and Set Bonus : Reduces Ammo Consumption.
+â—‹ Jungle Armor - Buffs Max Mana, Magic Crit Chance and Set Bonus : Reduced Mana Usage.
+â— Several Magic Items and Weapons have been rebalanced. Including but not limited to...
+â—‹ Flower of Fire now does more damage, and costs more mana.
+â—‹ Band of Star Power now adds 20 mana to your maximum, and no longer adds mana regeneration.
+â—‹ Orb of Light now moves slower and is now listed as a buff that you can remove if you so desire and also know its remaining duration.
+â—‹ Magic missile is now quicker and is â€˜launchedâ€™ when you release the mouse button, rather than disappearing.
+â—‹ Flamelash is â€˜launchedâ€™ when you release the mouse button, rather than disappearing.
+â—‹ Meteor Armor and Molten Armors no longer glow.
+â—‹ Starfury now does a bit more damage, requires more mana, and now works underground. If a star is spawned inside a wall, it will be able to travel until it reaches open space and then becomes â€˜solidâ€™ colliding with the next wall it hits.
+â—‹ The Mini-shark now has a 33% chance that shooting the weapon will not take ammo. So it does not consume as much ammo to use.
+â—‹ Flintlock Pistols and Muskets are now a bit stronger.
+
+Item Bug Fixes
+â— Bottled water can no longer be crafted by standing near lava.
+â— Night Owl Potion now works correctly.
+â— Piggy Banks should no longer float when the ground beneath the table it is on is removed from beneath them.
+â— Melee speed increase items are now calculated correctly.
+â— Cacti no longer destroy blocks as they grow.
+
+
+---Game Interface---
+â— There is now an option to disable pickup text.
+â— New Hot-key for grappling hooks. (Defaults to E)
+â— Hot-bar Slots now show their Hot-key number.
+â— The Mana Bar is now Blue, and text for gaining health is now green.
+â— Interface Boxes are now colored differently. Inventory is Blue, Equip is Green, Craft is Purple, Shops are Brown, Piggy Banks and Safes are Pink.
+â— Hot-keys for Mana and Healing Potions now work correctly with Rejuvenation potions.
+â— Right clicking on an accessory or a piece of armor in your inventory will auto-equip it.
+â— Newly obtained items will now be placed starting in the bottom right of your inventory rather than the previous top left.
+â— There is now a Trash Can slot in the inventory. Placing an item here will destroy it. However the item will be saved in memory until another item is destroyed, allowing you to retrieve it if you wish. Holding Shift and Clicking and Item will move it to your trashcan.
+â— When at a chest or piggy bank, there is now an option to loot all. This will take all items inside the chest/bank if there is room, If not it will take all items starting from top left. There is also a Quick Stack option for the reverse effect. If the chest you are viewing has items stored in it that you are also carrying, this option will stack those items into the chest combining stored and carried stacks.
+â— When at a chest or piggy bank, there is now an option to Deposit all. This will take all items not in your hot bars and starting from the bottom right slot, place each item that will fit into the chest or bank. It will stop when space runs out.
+â— It is no longer possible to drop items through the spaces between boxes in the inventory
+â— Some Tools now give you an idea in their tool-tip of what they can mine. Example - ""Can mine Meteorite"".
+â— There are now four ammo slots. Ammo may be placed here to de-clutter your inventor"
+,Kapauw,2011-08-09T23:00Z,Good job mate. Ty
+,rando606,2011-08-09T23:01Z,"well i couldnt fit it all so go here!
+http://www.terrariaonline.com/threads/1-0-6-changelog.50278/"
+[T],FatFreddy756,2011-08-09T23:07Z,It works 100% and its 100% clean. Thanks a bunch man!
+,celo753,2011-08-09T23:12Z,"I downloaded it, but how to extract it using Winrar? tell me plz!!! i really want terraria"
+,celo753,2011-08-09T23:23Z,Help
+,FlyeThemoon,2011-08-09T23:24Z,Many Tnx :D LIL B be happy with new game.
+[T],alexisthebest,2011-08-09T23:41Z,it would be nice to know who's release it is.
+,miguelsz3,2011-08-09T23:47Z,"@celo753
+Just right-click the file and then click extract here..."
+,miguelsz3,2011-08-10T00:02Z,"@alexisthebest
+I myself would love to know aswell but when I found this it didnt say which group released it."
+,ore9ore,2011-08-10T01:25Z,"OH My very thanks! I'm gonna donwload it, ipsofacto!
+Thanks men!
+
+When 1.1 releases, I will wait your upload ;)"
+,Bakum,2011-08-10T01:30Z,"Hey, thanks for the upload bro, think you could explain how to replace the old terraria with this one without deleting the worlds or the characters? thanks in advance."
+,miguelsz3,2011-08-10T01:37Z,"@Bakum 
+
+Your worlds/characters are kept in a different place from where you have your game installed. You can just replace the contents of your terraria folder with the 1.0.6 ones.
+
+By defualt my worlds/characters are kept in
+
+Documents\My Games\Terraria"
+,rando606,2011-08-10T01:41Z,"@Bakum simply copy all your charecter and world files into a new folder, install the new version, put them back in the player and worlds folder."
+,WhyBalder,2011-08-10T11:33Z,Keep up the good work miguel. 
+,ashmactor,2011-08-10T16:11Z,good clean torrent thnx dude!
+,b_almeida,2011-08-11T17:07Z,Crashes all the time for me while I'm playing... How do I fix it?
+,miguelsz3,2011-08-12T00:02Z,"@b_almeida
+
+Its probably a terraria issue... Anywho can you tell me if you get any error? It'd be incredibly useful."
+,hagamablabla,2011-08-13T06:14Z,I know this isn't due to the torrent (because it works) but my Terraria is lagging terribly. Is it possibly because I edited the health to 100000?
+,miguelsz3,2011-08-13T09:30Z,Hrmmm... Possibly. Of course im not much of a modder so the inner workings of terraria is unknown to me... You can try to run it at a higher priority in task manager?
+,Bakum,2011-08-17T21:53Z,Think you can upload 1.0.6.1? Thanks for the upload!
+,miguelsz3,2011-08-17T23:40Z,Im uploading it now.
+[T],alexisthebest,2011-08-17T23:42Z,"@Bakum
+
+i got 1.0.6.1 uploaded
+
+http://thepiratebay.org/torrent/6611820/"
+,Steve_0100,2011-08-29T10:45Z,"i extracted it but its still not working when i press on it plz help!!!!!!
+and it is also completely clean :) thanks"
+,Aypolo,2011-09-04T08:01Z,"Version 1.0.6.1 for Mac
+
+http://thepiratebay.org/torrent/6650333"
+,chaseman,2011-09-13T15:52Z,do you need anything special to use the multiplayer like hamatchi or anything?
+,miguelsz3,2011-09-14T04:25Z,"@chaseman 
+Nope."
+,dMbPodcast,2011-09-21T22:32Z,"theres a video showing you how to download and install just write a comment on there if you need help
+dMbPoDcast on you tube"
+,ysnmue95,2011-09-23T22:06Z,I heard this is a very nice clone of Minecraft. Can't wait to try it :)
+,lmp90,2011-10-08T21:03Z,Does it need Steam?
+,alleasy23,2011-10-14T20:08Z,dosent work win 7 app crash
+,Mafarazo,2011-10-16T11:29Z,"hey guys join my Hamachi for multiplayer ""piratesofterraria"" (no capitals) 
+password ""aaa"""
+,KBMaster7,2011-10-25T19:30Z,"It crashes every time I open it.
+Any surgestions??"
+,KBMaster7,2011-10-25T19:33Z,"Soz aboutu my other comment didn't read the description.
+Works fine.
+xD"
+,sikora360,2011-11-03T14:44Z,Thank you. this worked perfectly and it has no virus. i will seed.
+,yogo98,2011-11-03T21:13Z,works perfectly* thank you!

@@ -1,0 +1,181 @@
+	
+[ About file ]
+
+Name: PeterPan - X264 - Ita Eng -1080P.mkv
+Date: 24/05/2010 15:49:52
+Size: 6,469,158,700 bytes (6169.471 MB)
+
+[ Generic infos ]
+
+Play duration: 01:14:22 (4461.792 s)
+Container type: matroska
+Creation time: 24/05/2010 13:45:43 UTC
+Number of streams: 6
+Type of stream nr. 1: video (V_MPEG4/ISO/AVC) {Video}
+Type of stream nr. 2: audio (A_AC3) {italiano DD5.1}
+Type of stream nr. 3: audio (A_AC3) {English DD5.1}
+Type of stream nr. 4: subtitle (S_VOBSUB) {Italiano Forced}
+Type of stream nr. 5: subtitle (S_VOBSUB) {Italiano}
+Type of stream nr. 6: subtitle (S_VOBSUB) {English}
+Audio streams: 2
+Muxing Application: libebml v0.8.0 + libmatroska v0.9.0
+Writing Application: mkvmerge v3.4.0 ('Rapunzel') built on May 15 2010 09:38:20
+
+[ Relevant data ]
+
+Resolution: 1440 x 1080
+Width: multiple of 32
+Height: multiple of 8
+Average DRF: 15.246722
+Standard deviation: 1.287629
+Std. dev. weighted mean: 1.023301
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1440 x 1080
+Frame aspect ratio: 4:3 = 1.333333
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 4:3 = 1.333333
+Framerate: 25 fps
+Stream size: 6,001,068,859 bytes
+Play duration: 01:14:21 (4460.88 s)
+Bitrate: 10762.125605 kbps
+Qf: 0.276803
+
+[ Audio track nr. 1 ]
+
+Codec ID: A_AC3
+Channels (container): 6
+Sample rate: 48000 Hz
+Stream size: 214,166,016 bytes
+Bitrate (container): 384 kbps
+AC-3 frames: 139431
+Play duration: 01:14:22 (4461.792 s)
+Bitrate (bitstream): 384 kbps CBR
+Mode: 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 2 ]
+
+Codec ID: A_AC3
+Channels (container): 6
+Sample rate: 48000 Hz
+Stream size: 249,860,352 bytes
+Bitrate (container): 448 kbps
+AC-3 frames: 139431
+Play duration: 01:14:22 (4461.792 s)
+Bitrate (bitstream): 448 kbps CBR
+Mode: 3 front, 2 rear, 1 LFE
+
+[ About H.264 encoding ]
+
+User data: x264
+User data: core 94 r1564kMod a927654
+User data: H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2010
+User data: http://www.videolan.org/x264.html
+User data: cabac=1
+User data: ref=5
+User data: deblock=1:0:0
+User data: analyse=0x3:0x133
+User data: me=umh
+User data: subme=7
+User data: psy=1
+User data: psy_rd=1.00:0.00
+User data: mixed_ref=1
+User data: me_range=16
+User data: chroma_me=1
+User data: trellis=1
+User data: 8x8dct=1
+User data: cqm=0
+User data: deadzone=21,11
+User data: fast_pskip=1
+User data: chroma_qp_offset=-2
+User data: threads=12
+User data: sliced_threads=1
+User data: slices=12
+User data: nr=0
+User data: decimate=1
+User data: interlaced=0
+User data: constrained_intra=0
+User data: bframes=3
+User data: b_pyramid=1
+User data: b_adapt=1
+User data: b_bias=0
+User data: direct=1
+User data: wpredb=1
+User data: wpredp=2
+User data: keyint=250
+User data: keyint_min=25
+User data: scenecut=40
+User data: intra_refresh=0
+User data: rc=2pass
+User data: mbtree=0
+User data: bitrate=10768
+User data: ratetol=1.0
+User data: qcomp=0.60
+User data: qpmin=10
+User data: qpmax=51
+User data: qpstep=4
+User data: cplxblur=20.0
+User data: qblur=0.5
+User data: ip_ratio=1.40
+User data: pb_ratio=1.30
+User data: aq=1:1.00
+SPS id: 0
+Profile: High@L4.1
+Num ref frames: 4
+Aspect ratio: Square pixels
+Chroma format idc: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+Entropy coding type: CABAC
+Weighted prediction: P slices - explicit weighted prediction
+Weighted bipred idc: B slices - implicit weighted prediction
+8x8dct: Yes
+Number of frames: 111522
+Drop/delay frames: 0
+Corrupted frames: 0
+
+P-slices: 47409 ( 42.511 %) ###########
+B-slices: 62684 ( 56.208 %) ##############
+I-slices: 1429 ( 1.281 %)
+SP-slices: 0 ( 0.000 %)
+SI-slices: 0 ( 0.000 %)
+
+[ DRF analysis ]
+
+Average DRF: 15.246722
+Standard deviation: 1.287629
+Max DRF: 20
+
+DRF<10: 0 ( 0.000 %)
+DRF=10: 156 ( 0.140 %)
+DRF=11: 306 ( 0.274 %)
+DRF=12: 1324 ( 1.187 %)
+DRF=13: 6914 ( 6.200 %) ##
+DRF=14: 21744 ( 19.497 %) #####
+DRF=15: 35005 ( 31.388 %) ########
+DRF=16: 26152 ( 23.450 %) ######
+DRF=17: 17050 ( 15.288 %) ####
+DRF=18: 2674 ( 2.398 %) #
+DRF=19: 196 ( 0.176 %)
+DRF=20: 1 ( 0.001 %)
+DRF>20: 0 ( 0.000 %)
+
+P-slices average DRF: 14.414647
+P-slices std. deviation: 0.923614
+P-slices max DRF: 17
+
+B-slices average DRF: 15.921734
+B-slices std. deviation: 1.104922
+B-slices max DRF: 20
+
+I-slices average DRF: 13.242127
+I-slices std. deviation: 0.750191
+I-slices max DRF: 16
+
+[ Profile compliancy ]
+
+Profile to check: MTK PAL 6000
+Resolution: 1440 x 1080 > 720 x 576
+Framerate: Ok

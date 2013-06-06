@@ -1,0 +1,141 @@
+User Type,Username,Date,Text
+,ShadowXcz,2011-07-11T00:12Z,I love you.
+,mamun777,2011-07-11T02:15Z,Hello HR keep it up buddy...you are the best!!! I have donwloaded and install Linux in my computer...Could you please provide instruction how to Install encode handheld 5.6pl....Thanks!
+,albert2172,2011-07-11T03:07Z,"@mamun777
+If you want to install encode-handheld.pl check out this url http://ubuntuforums.org/showthread.php?t=874957 
+It will tell you everything to how to install it and use it. Read each post from beginning to install Ffmpeg and other options that you may require or need. If anything happens post a comment and ill try to see if I can help you if not ask HR its his tool =)) Thanks HR"
+,albert2172,2011-07-11T06:53Z,"@ShadowXcz 
+Too Much Love xD... But okay lol ;)"
+,Gilbert77,2011-07-11T14:22Z,can u do Source Code?
+,albert2172,2011-07-11T17:41Z,"@Gilbert77
+No you cant. Its quite easily to install just go to the forums and everything is there that you will need. All you have to do is read the simple directions so you can start encoding your stuff ;)"
+,ElMoreChule,2011-07-11T18:51Z,"HR Love your handheld movies, work great on my ipod nano, but i recently changed to ipod classic 160 GB and all movies are a bit ""bigger"" than the screen and get cut off by alot. What do I do? Do these movies (HD) work on ipod classic? Plzz help!!"
+,nolimos,2011-07-11T19:25Z,could we possibly get Hop for Apple TV please?
+,nolimos,2011-07-11T19:28Z,"@albert2172 I think Gilbert77 was speaking of the film ""Source Code"" with Jake Gyllenhaal. I agree, that would be another great upload."
+,albert2172,2011-07-11T21:32Z,"LoL true my mistake but there you go ;) 
+
+HR how can i install encode-handheld.pl on mac because I try to copy it to /usr/local/bin but no success...???"
+,toolosseus,2011-07-11T22:04Z,"HR i have been downloading your rips almost exclusively for some time now, keep up the great work!"
+,albert2172,2011-07-11T22:49Z,"HR on a mac do I have to make the directory /usr/local/bin ??? 
+
+Because it doesn't exist...idk if I should do this and encode-handheld.pl is going to accept this and work perfectly.??
+"
+,elajits,2011-07-11T23:35Z,"Nice up HR! :)
+Plz Upload Hanna
+
+http://www.imdb.com/title/tt0993842/"
+,Hdavila,2011-07-12T02:37Z,"Thank You, Thank You, Thank You!"
+,Hdavila,2011-07-12T03:16Z,"Oh, and by the way... thank you for the multi-subs!
+
+Hope there's lots more of that! "
+[V],jainmehul,2011-07-12T06:10Z,"I don't get it,i downloaded the rar file HR provided on ubuntuforums for ripping,but all it contains are some txt files,What do i do with it??"
+,albert2172,2011-07-12T07:44Z,"@jainmehul
+
+They are scripts files jainmehul and it only works on LINUX and Mac PC.
+
+It used ffmpeg to encode any video (any format) to the desire present.
+
+1st Step - do you have a linux or mac
+2nd Step - Install ffmpeg
+3rd Step - copy encode-handheld.pl to ""/usr/local/bin'
+4th Step - Copy Atomic Parsley to ""/usr/local/bin""
+5th Step - Open terminal and type in 'encode-handheld.pl'
+
+This should create a Folder on your Desktop, its where the encoded stuff goes into.
+
+jainmehul - Its a Command Line Interface CLI so there is NO graphic interface.
+
+If you need anymore help on how to install encode-handheld.pl to your Linux Machine Post Comment and ill advices you what needs to be done.
+
+Requirements - 
+Linux or Mac
+-basically all you really need ;)"
+,albert2172,2011-07-12T07:52Z,"@jainmehul
+
+This is how to copy encode-handheld.pl to ""usr/local/bin""
+
+------------------------------------------
+
+please do not discuss ""rip"" or anything remotely regarding such a thing. This is totally not the correct forum for such discussion.
+
+I will provide the exact key sequence to install.
+
+open a terminal window
+
+change directory to where encode-handheld-5.0d-with-ffmpeg-and-atomicparsley.tar.gz is located.
+
+for instance if its on your desktop
+
+cd Desktop
+
+gzip -dc encode-handheld-5.0d-with-ffmpeg-and-atomicparsley.tar.gz | tar xvf -
+
+cd encode-handheld-5.0d-with-ffmpeg-and-atomicparsley/
+
+sudo mv encode-handheld* /usr/local/bin
+
+cd ffmpeg-SVN-r20562/
+
+sudo mv ffmpeg* /usr/local/bin
+
+cd ..
+
+cd AtomicParsley/
+
+sudo mv AtomicParsley /usr/local/bin
+
+installation is completed.
+
+now run
+
+encode-handheld.pl -h
+
+When prompted for password from sudo enter your current password.
+
+-HR"
+,albert2172,2011-07-12T08:01Z,"You will also need to install ffmpeg and x264 
+
+This will help you do that...
+
+http://ubuntuforums.org/showthread.php?t=786095
+
+Note that ffmpeg can not downmix 6 channel audio to 2 channel stereo. The best source to use when you have 6 channel audio is .mkv but you will require you have mkvmerge, mkvextract installed and a52dec and dcadec. 
+
+Simple Google will allow you to learn how to install mkvmerge,mkvextract, and a52dec and dcadec. 
+
+After that your all set to go ;)"
+[V],jainmehul,2011-07-12T08:18Z,i have windows but i have heard that such encoding can be done using command prompt(cmd).is it true?
+,albert2172,2011-07-12T08:46Z,"Its true you have ffmpeg for windows to but its not the same as isn linux or mac. On that system is way better and if you want to do the encode that HR does you would have to use his scripts (encode-handheld.pl) and they only work on those OS.
+
+Im sure you can you just need to tell ffmpeg the options that you want to encode like HR but that can take sometime to learn all those settings.
+
+If you have a windows you can Dual Boot between Windows and Ubuntu.
+You can also check out Handbrake for windows it probably the closest thing to what HR does. But To me HR settings are the best =))"
+,albert2172,2011-07-12T08:50Z,"Ffmpeg for windows using cmd.
+
+http://www.videohelp.com/tools/ffmpeg
+
+Download there"
+,albert2172,2011-07-12T08:54Z,http://ffmpeg.zeranoe.com/builds/
+,albert2172,2011-07-12T09:18Z,"You can also use this its pretty good an GUI 
+http://www.videohelp.com/tools/x264_VFW
+
+Plus has advance options if you require them."
+[V],jainmehul,2011-07-12T11:18Z,I have handbrake but that doesn't give quality equivalent to HR... 
+,albert2172,2011-07-12T12:46Z,NO much you can use vmware tool to create a virtual machin and install ubuntu there and install encode-handheld.pl But since its in emulations it takes longer.
+,neilton_new,2011-07-13T08:51Z,You post the best movies! I liked for the subs!
+,attackedbullet,2011-07-13T19:40Z,hey u said this was in 5.1 ITS not lol im gutted but apart from that movie is great :) thanks
+[V],HolyRoses,2011-07-13T20:40Z,there is a 5.1 track.
+[T],Rajon.Ri,2011-07-14T02:54Z,I would like to suggest to HolyRoses to go to http://getvideoartwork.com/ for high quality official iTunes artwork. Just search the gallery it's pretty awesome they are all real high quality artwork from iTunes.
+[V],HolyRoses,2011-07-14T03:37Z,my artwork comes from itunes store directly.
+,bigmike20,2011-07-14T22:18Z,"@HolyRoses when will you offer the ""Handheld"" version? I would like to put this movie in iTunes for  my iPad. Thanks in advance. "
+,Cespur,2011-07-17T03:28Z,"I vouch for getvideoartwork.com as well. It's pretty amazing, they usually got the official iTunes artwork but in a higher resolution (1000x1500)."
+,mickemus66,2011-07-17T04:16Z,"HR u r the best awesome movies for my iphone and ipad, bigmike20 these movires are for the iphone n ipad!!!!"
+,robsta612,2011-08-10T13:01Z,Hey dude where can I get the arabic subs??? I'd be really grateful if you uploaded your torrents with arabic subs! :)
+,jamzkie,2011-08-14T08:08Z,can u do an ipod version of this?
+,j_benfica77,2011-08-19T13:12Z,Hello i absolutely love ur uploads. incredible. if im not asking to much are you able to upload Remember the Titans its such a classic and very inspiring. thank you 
+,mbayabo,2011-08-24T12:42Z,WARNING!!! I got a COPYRIGHT INFRINGEMENT notice from Comcast. This torrent is being tracked!
+,km0i,2011-08-27T06:39Z,PSP iPOD ZUNE format plz...
+,Jezza1685,2011-12-17T05:42Z,"I just wanted to say @HolyRoses has the best collection of movies uploaded. I am going all my movies and deleting them and replacing all of them with all your copies!
+Something I would like is Battle Los Angeles (2011)
+Thanks heaps!!"

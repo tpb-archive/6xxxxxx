@@ -1,0 +1,26 @@
+Magicka Update 26 info:
+
+Features
+
+	Added to camera tracking an influence towards enemies in the immediate vicinity.
+	Added Polish localization.
+	If any versus game has one or less players it will automatically end.
+	Added an ethereal state to newly respawned players in versus mode.
+	Added two new achievements
+Fixes
+
+	Versus network games now properly synchronize spawn positions, this prevents characters from spawning in the same position during a Krietor mode reset.
+	When local players are dead the camera will now instead track network players.
+	Characters charging during a Krietor mode reset are now properly reset to an idle state.
+	Fixed an issue where if in a rare situation a necromancer area casted with both poison and earth elements a crash would occur.
+	Fixed an issue where a NPC (ie daemon lord) would drop an item which had not been cached, resulting in a crash.
+	Self shields are now correctly removed when casting invisibility.
+	Earth projectiles now gain some deviation on its trajectory whenever they destroy targets.
+	Added some stability to game start.
+	Adjusted self casted projectile spells position and direction.
+	Improved fire efficiency greatly.
+	Magick and Item packs are now properly hidden in lobby when Krietorâ€™s Tourney is selected.
+	Fixed a bug where characters casting a spell with their weapons while being feared would not properly reset the spell effect.
+	Fixed the movement influence on avatars when they are feared.
+	Krietor versus mode will now properly remove an active Meteorshower magick when it resets.
+	Nullify will now affect every entity, independent of distance.

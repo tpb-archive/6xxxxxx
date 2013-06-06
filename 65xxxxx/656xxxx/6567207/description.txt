@@ -1,0 +1,61 @@
+========================================TL;DR========================================
+* THIS IS NOT FOR Red Alert 2. 
+
+* This IS for Red Alert, the second game in the series from 1996.
+
+* This is compatible with both expansions: Counterstrike, and Aftermath.
+
+* This contains ALL movies/cinematics/FMVs, including those from the console ports.
+
+* You should DELETE your old *.MIXs. Either way the game will work, but otherwise
+  this download will be kinda pointless.
+==================================Long Description===================================
+/-----------------------------------------------------------------------------------\
+|        SONARPULSE'S OPTIMIZED *.MIXs FOR COMMAND & CONQUER: RED ALERT v3.03       |
+\-----------------------------------------------------------------------------------/
+Includes files from all 4 disks: Allied, Soviet, Counterstrike, and Aftermath.
+________________________________________Intro________________________________________
+I have been trying to optimize red alert's mix files on and off for awhile, now, and I finally have a first release. First I combined the differing versions of the *.mixs from the various CDs, not knowing 
+
+that N3tRunn3r had already done that. Eventually I learned about FullRA+, and used it to finish combining the mixes, but there was still more work to be done. But there was more to do. Westwood in their 
+
+various patches of Red Alert rarely actually replaced old files. Instead they just copied over the new versions and had them override the old ones. And it wasn't for backward compatibility either, as files 
+
+such as the string database just added more strings where the old version left off. For neatness'sâ€”and a few saved bytes'â€”sake, I have replaced the old version of files in the *.mixs with their newer 
+
+counterparts, and then deleted the no-longer-need "override *.mixs."
+
+_______________________________________Changes_______________________________________
+COPY TO NOTEPAD (ETC) TO READ
+Here's a pretty comprehensive list of what I have done:
+/-------------Windows DIR output--------------\ /-----------------------------------My changes----------------------------------\ /---------------------Original use of the *.mixs----------------------\
+01/25/1999      211,145 wolapi.mix            > Untouched                                                                       > Orginial westwood  online componets
+01/13/2004            0 redalert.MIX          > Empty file, RA+ had this so I figured it is useful                              > Used to hold all the original game direcotry *.mixs
+01/13/2004            0 main.MIX              > Empty file, if main.mix needs one then redalert.mix does too, I guess           > Used to hold all the CD *.mixs
+01/09/2010        8,230 edlo.MIX              > Untouched, along with the other editor files                                    > Dos Editor files
+01/09/2010       54,335 edhi.MIX              > Untouched, along with the other editor files                                    > Windows Editor files
+01/09/2010      247,425 interior.MIX          > Untouched                                                                       > Interior terrain tiles
+01/09/2010      309,406 allies.MIX            > Untouched                                                                       > Generic Allies' unit voices
+01/09/2010      266,077 russian.MIX           > Untouched                                                                       > Generic Soviet unit voices
+07/13/2010  115,926,134 scores.MIX            > Combined the songs a while back, there might have been some differing versions. > Frank Klepaki's soundtrack
+07/13/2010      440,107 HIRES1.MIX            > Before it also had a bunch of files unchanged from the original hires*.mixs     > Optional small DOS infantry for the windows version.
+05/03/2011      684,567 TLF-miss.mix          > Updated to included the "Mission Critical" (scu44ea.ini) sub fix.               > The Lost Files mission *.inis
+05/04/2011      650,448 editor.mix            > Untouched, along with the other editor files                                    > Shared editor files
+05/04/2011    2,003,464 speech.mix            > Untouched                                                                       > Eva speach audio files
+05/04/2011      813,615 lores.mix             > combined with lores1 for expansion units.                                       > Dos version purchase icons and infantry
+05/04/2011  184,246,411 TLF-movs.mix          > compacted it in XCC mix editor, hence the date, otherwised untouched            > Movies from the ported consol versions of RA
+05/04/2011  687,835,430 movies1.MIX           > All the movies are in here but the censored versions of bmap.vqa and spy.vqa    > Allied Disk, Conterstrike, and Aftermath Cinematics
+07/09/2011    4,091,249 MOVIES2.mix.alternate > Censored versions of bmap.vqa and spy.vqa along with proper pallet for bmap.vqa > Soviet Disk Cinematics
+07/09/2011    9,491,164 nchires.mix           > Pallet files for movies, with fixed pallet for bmap.vqa from the TLF pack.      > All the movie pallet files
+07/09/2011    5,891,252 hires.mix             > combined with Hires1 for expansion units, and Compressed                        > Windows purchase icons and infantry
+07/09/2011    1,048,850 temperat.MIX          > Ant hill tile from expand1.mix & expand2.mix added                              > Temperate terrain tiles
+07/10/2011    2,342,874 conquer.MIX           > Files from expand1.mix & expand2.mix added                                      > All the images shared between all terrain types, dos, and windows
+07/10/2011    1,492,549 sounds.mix            > Audio from expand1.mix & expand2.mix added                                      > The rest of the audio (not allied or soviet generic voices)
+07/10/2011   17,953,926 general.mix           > Combined from 4 CDs, Files from expand1.mix & expand2.mix added                 > Mission *.inis, strings, and Windows screenies
+07/10/2011    1,033,991 snow.MIX              > SCRTRFIX.mix snow pallet fixes added                                            > Snow terrain tiles
+07/10/2011    3,848,646 local.mix             > Files from expand1.mix & expand2.mix added                                      > Random shit: rules.ini and similar, credits, title screen.
+\---------------------------------------------/ \-------------------------------------------------------------------------------/ \---------------------------------------------------------------------/
+_____________________________________Installation____________________________________
+Just unrar the *.mixes to you're red alert directory. Anything not overwritten is propably redundant (unless you installed some other mod). Either way, back up your old *.mixs if you're at all worried, or 
+
+would be pissed if stuff stopped working. This SHOULDn't ever mess anything [but somebody eles's buggy mod] up.

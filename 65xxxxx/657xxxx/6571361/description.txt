@@ -1,0 +1,9 @@
+I got this from here hxxp://devilsdivine.org/forum/shadowprotect-recovery-environment-bootable-t579387.html 
+
+
+This is the ShadowProtect recovery CD. The recovery CD also contains the installable Windows software. Although the software for Windows is just a 30 day trial (there seems to be no crack on the CD) this torrent is still kinda useful because the recovery CD is not downloadable as a trial (you can download a trial of just the installable Windows software on the Storagecraft website). Besides that, the recovery CD is fully usable without any crack. I've tested this in a virtual machine and it works great (and yes, you can also make a clone/backup with the recovery CD, not just recover).
+
+One little thing deserves some attention: If you try Hardware Independant Restore (HIR) from the recovery CD it scans the harddrive for a license file. It doesn't find one obviously. You can fix this by installing the Windows software before cloning (The Windows software installs a license file). The recovery CD will detect the license and HIR will also work. Of course this is only the 30 day trial version so maybe the HIR functionality will stop working after 30 days. I don't see this as a problem however because usually when you want to migrate a system it's just something you do once (you don't need software to be permanently installed for that). Let me be clear, of course it would be nice to have a fully cracked version of Shadowprotect 4, but the fully working recovery CD alone is already a very nice tool to have.
+
+
+

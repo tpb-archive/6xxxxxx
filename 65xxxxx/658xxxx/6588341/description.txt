@@ -1,0 +1,13 @@
+Here are best book about Lua (Programming in Lua, 2nd edition) and fastest Lua jit-compiler (LuaJIT 2 beta 8, downloaded from www.luajit.com and compiled for Windows).
+
+Now you are ready to go with Lua:
+1) Prepare source file (e.g., MyFirstProgram.lua) in your favorite text editor.
+2) Enter command prompt window (cmd.exe) and type this command to run your program:
+luajit.exe MyFirstProgram.lua
+
+Or you can use Lua in interactive mode:
+1) Run luajit.exe
+2) Enter lua statements one at a time, they will be executed immediately as distinct code chunks, so you must define all your variables and functions as global.  By the way, you can use short syntax \'=var\' instead of \'print(var)\' to display variable\'s value.
+3) Type os.exit() to close LuaJIT
+
+I believe this is good starter kit for beginners - minimal and essential simultaneously.  You should not read tons of literature - it is sufficient to learn only \'Programming in Lua\' (written by Lua\'s author) and sometimes look into Lua manual www.lua.org/manual/5.1/ to get help on standard Lua functions.

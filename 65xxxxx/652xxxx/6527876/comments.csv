@@ -1,0 +1,134 @@
+User Type,Username,Date,Text
+[V],globeplus,2011-07-09T11:49Z,"HI ! 5 levels pack for PC and MAC and with walkthrough included .
+
+enjoy ..."
+[V],globeplus,2011-07-09T14:11Z,"SUGGESTION :
+
+save often and in more than 1 slot to prevent circunstancial bug position places at the saving time , then with more than 1 save more or less close on the position on the level if 1 save can have any ununexpected problem it is just a matter to use another save close by from the current playing position ...
+
+Take care and enjoy ... i am not saying this because it is some real problem on any of the levels but for general safety while playing the levels . See all of you ."
+[V],globeplus,2011-07-09T14:19Z,"CURIOSITY ABOUT THE WORK ON THIS FILE :
+
+The file that is getted for 45 mb have after the decompression of the Data and the Audio 205 mb , so this type of files with the correct work can got fantastic compressions sizes ... enjoy ."
+,glynn5500,2011-07-09T14:55Z,im running xp proffessional 32 bit (sp3) and everytime i start the game it comes up .. encounterd a problem and send error report ! any ideas my freind ! 
+,glynn5500,2011-07-09T14:58Z,oh and yes all my drivers r all upto date m8 
+,xplor3r,2011-07-09T17:31Z,"hello globe 
+
+
+- i have downloaded this just for curiosity and my opinion is that is too complicated ( ur work i mean ) ... why not create an exe installer and after pressing install or somethin' ... it would unrar all the files from the .exe into a temp file , for example %temp% ... that is included on any windows ( xp/vista/7 ) , and from there to begin the process ( install or decompress the files ) ... also you could add 'xyz' variables to the setup to delete the temp files or create a command line into a .bat or .cmd file 
+
+- about the 'SkribblerzStonez2' there are 3 one's , only different versions of 'SkribblerzStonez2' .. with different maps ... anyway great work
+
+
+- for audio files you could use 'madplay' , it has only 2 .exe's , i mean 'start_me.exe' and 'madplay' and whenever u hit start_me.exe ( meaning u have also some .mp3's inside that folder , it will auto convert them into .wav's )
+
+- as for the the 'config' didn't work quite well ..i have multiple machines to test . so on 64 didn't do the trick ... just a recomendation , create a file , let's name it 'configuration.cmd' or 'configuration.bat' ... without the quotes , and inside we should add these lines ( where is 'nameofthegame' it fugures for sure what is his purpose ' ) and save it :
+
+start nameofthegame.exe - setup
+
+
+
+- and this trick will show the setup instant on any systems 
+
+
+- and now i freaked out 'cause after finishing all the games , over 300 ( of tomb raider level editor games ..such as this one ) ... now i have found out about this site .. just replace dot wit'.'
+
+trledotnet
+
+- more than 2000 releases for tomb raider fans .. it's fucking insane  
+______________________
+
+@ glynn5500
+
+u could try that also with this and make other settings in order to play ,assuming u've done all in order
+
+start nameofthegame.exe - setup
+
+______________________
+
+
+
+well best of luck globe ... i wish u all the best in this world ... now i'm so pissed about finding this site ... i have tomb raider games now for a very long timeeeeeeee
+
+goodluck"
+,xplor3r,2011-07-09T17:48Z,"also for cheaters , look at the image below , from there u can download the next software , it works for tomb raider 1,2,3,4 and it could also for 5 ... and also works for any of these releases of tomb raider editor games , created by fans for fans
+
+http://image.bayimg.com/fajmhaada.jpg
+
+How does it works ?
+
+1. start a new game and save ( or if u have a save copy/paste right next to this software ) .
+2. now clik on it and choose maximise and save .
+3.now copy the save and the back-up over the initial save of the game 
+
+NOTE : .cheating with this means that u dont pick up medi packs and flares during gameplay ..u have more than enough ... at any point u can make another save and modify that ..or just insert the software inside ur main game folder ( or where are the saves ) ... best of luck ... cheaters"
+,glynn5500,2011-07-09T18:00Z,"xplor3r... thnx for that m8 , ill try that now but this ul is a bit weird isnt it ? "
+,xplor3r,2011-07-09T18:34Z,"@ glynn5500
+
+write what is written in this picture bellow  and download from there this release if you encounter any problems 
+
+http://image.bayimg.com/hajmnaada.jpg
+
+install notes for this one :
+
+- download first
+- unrar it 
+- inside 'Audio' press 'start_me' 
+- wait for tha audio to be converted ( it will auto make them )
+- after the procedure ends you can play the game , just hit 'tomb4.exe' 
+
+NOTE : - u could create that file i wast talking about ... how to make it ?
+
+STEP 1 : right click on ur dekstop and select notepad/wordpad or whatever u're using
+STEP 2 : write this code below and save the file as config.bat ....bat is the extension , just type when you save like this ... config.bat ... and save
+
+start Tomb2.exe - setup
+
+STEP 3  : now place this new file called 'config.bat' inside the game folder and press it whenever u want to change some settings for this game ...also u could make this for any game of tomb raider 2,3,4,5  and also for any tomb raider fan game"
+,xplor3r,2011-07-09T18:37Z,"start Tomb4.exe - setup
+
+
+... my bad "
+,glynn5500,2011-07-09T19:59Z,got it working but all i did was delete the extracted game an did the process all ova again ! 
+[V],globeplus,2011-07-09T23:36Z,"INSTRUCTIONS
+
+
+DATA
+
+1 - run the GLOBEconverter.exe then wait about ten seconds to have a data folder with all the levels on the folder
+2 - DONE ! NOW open the Audio folder .
+
+
+AUDIO
+
+1 - run the cdaudio_player.exe
+2 - click on the Tools tab
+3 - select Uncompressed external WAV files
+4 - browse the extracted skribblerzstonez2\audio folder
+5 - NOW IMPORTANT : with the left click mouse highlight all the ogg audio files in the folder , they will be 59 in total between 001 and 111 then click open (this little trick must be done because the tool donĂÂ´t have an add folder option but the multiple files still possible with this move)
+6 - say Yes to the Delete original OGG file after UNcompressing message
+7 - wait the decode to wav format of the 59 selected audio files , takes close 30 seconds
+8 - DONE ! close the tool and the audio is now decoded to the original perfect state before the conversion .
+
+
+STARTING
+
+to start the game run the Configuration Box shortcut for game options or the skribblerzstonez2.exe to start the game
+
+PS :. 
+
+the GLOBEconverter.exe and the audio converter folder on the audio folder can be deleted after the requested tasks done .
+
+
+
+* GLOBE 2011 * fan made tomb raider *
+
+NOTE : carefull with the antivirus if it is blocking the converter.exe somehow because the little different structure ."
+[V],globeplus,2011-07-10T09:01Z,"To the MAC users : copy the script.dat and the english.dat on the MAC Scripts ONLY folder to the front of the game folder overwriting the existant dat files .
+
+Cheers and nice gameplay to all of you ."
+[V],globeplus,2011-07-11T01:31Z,"Coming Up on the next file :
+
+- the third pack of Skribblerz Stonez with 4 more levels , watch the intro of one of the levels just clicking on the below link ... enjoy ...
+
+http://fliiby.com/file/1036700/k7f2rcgkna.html"

@@ -1,0 +1,173 @@
+User Type,Username,Date,Text
+,vilham11,2011-07-03T18:08Z,"I seem that there is like 90 difrent rar. files
+
+What ones do I use, please explain, I really want to get this game to work"
+,vilham11,2011-07-07T01:59Z,"@Bennemann
+
+Ohh, so I will just extract them all to a folder on my desktop or something, and it will put them all into the right folder ect, then I just need to install? Ohh jeez thanks so much, makes so much more sense now:)"
+,Shaltilyena,2011-07-08T20:41Z,"Hey, so I downloaded that thing, and when I try to launch it (cracked, and all), it creates a .doc file that contains the following : 
+""
+Version: 1.4.0.3
+Thread: RenderThread
+System.IO.FileNotFoundException: unable to find the file 'D:\...\Magicka\content\Levels\MountainDale\md_s1.xml'.
+file nameĂÂ : 'D:\...\Magicka\content\Levels\MountainDale\md_s1.xml'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   atSystem.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Magicka.Levels.Campaign.LevelNode.SceneNode..ctor(String iFilename)
+   at Magicka.Levels.Campaign.LevelNode..ctor(String iPath, String iFileName)
+   at Magicka.Levels.Campaign.LevelManager..ctor()
+   at Magicka.Levels.Campaign.LevelManager.get_Instance()
+   at Magicka.Game.Initialize()
+   at Microsoft.Xna.Framework.Game.Run()
+   at Magicka.Program.Main(String[] args)
+""
+reinstalled XNA framework with an independant installer, tried to fix the errors in the ways I could possibly imagine, but it doesn't seem to work... any idea, anyone?
+"
+,OverPwn,2011-07-09T16:11Z,"Every time I try to run Magicka, I get an error message: ''Magicka has stopped working''. I did everything as noted int he instal notes... But it still doesnt work?"
+,mayainversee,2011-07-11T17:31Z,i can run game but it goes to a purple screen and shows nothing. i can hear music and stuff.
+,asmojuice,2011-07-15T11:03Z,"is the whole game? or do i need to download something first before installing this?
+
+guys, not everyone is a genius..."
+,Fenr1r,2011-07-18T19:14Z,"Worked for me in Win7 (64-bit)
+
+What I did was:
+1. Install from the SKIDROW ISO.
+2. Install the three additional components at the end of game install.
+3. Copy-paste ALL cracks from ISO to game directory.
+[checked if the game worked and it worked]
+4. Run the Update.
+5. Copy-paste the cracked files again from the update's crack folder [except steamclient.dll] to the game directory.
+And it worked like a charm.
+
+Thank you uploader for sharing! :)"
+,OrrsomeJake,2011-07-31T16:21Z,"i did exactly what you said to make it work tried again and again even watched a video how to do it and it dident work,
+i really want this game so ill try a lower update or something  "
+,kado2999,2011-08-07T23:31Z,"You forgot the crack, because the folder is empty in the SKIDROW folder"
+,kado2999,2011-08-07T23:33Z,"ok nvm, i found it, its in a seperat winrar file >_>"
+,Boarnoah,2011-08-14T01:28Z,Does this crack allow you to play multiplayer?
+,Boarnoah,2011-08-14T01:42Z,@kado2999 where is the crack i still couldnt find it anywhere =(
+,Awaqward,2011-08-30T17:26Z,"My Magicka close whenever i try to start a new campaign, i don't really have the requirements to run it, but still, it just close and say it has stopped working, any ideas on how to fix it?"
+,sdnl1j2,2011-09-05T06:16Z,"for anyone that having ''Magicka has stopped working'' error message upon starting to fix this you will need to download and install Microsoft XNA Framework Redistributable 
+
+here: http://www.microsoft.com/download/en/details.aspx?id=15163
+
+
+also make sure you have the latest directx version if you don't have it download from here: 
+http://www.microsoft.com/download/en/details.aspx?id=8109"
+,MatressGiant,2011-09-20T01:52Z,"So ya, this is a terrible torrent that is missing MANY files. Yes, you can download them from ftp://84.22.139.7/GAMES_3/Magicka/* but seriously..."
+,MatressGiant,2011-09-20T02:07Z,"I think it's adorable that my last comment got removed. In order to make this special little torrent work, you will have to go to ftp://84.22.139.7/GAMES_3/Magicka/Content/Levels/ and copy every file that you don't have to your corresponding folder. We're talking over 20 files I've had to DL so far. This torrent should really be removed/replaced."
+,MatressGiant,2011-09-20T20:49Z,"Final comment on this torrent, I promise. I finally got this POS to work. What you have to do is load up Filezilla, go to the ftp listed, and copy the entire Magicka folder to the directory your game is located. Make sure to tell it to skip files you already have, not overwrite, etc."
+,Momen92,2011-09-24T05:27Z,"I wrote a poem on how many problems i had ..
+i got all problems in the book .
+and tried everything ,, then i realized, umm this isn't the full game. 
+so i downloaded the full game ..
+had the same problems .. then i realized after installing the first game it wasn't installing the three things that i checked it was only installing the directx and the framework.. so maybe thats the problem ?"
+,jete75,2011-09-30T21:34Z,"Why cant we gwt the Space robe, that looks like WH40k Space Marine? Can anyone upload it here?"
+,karrot,2011-10-05T08:53Z,"At the end of the game installation, when I try to install the three programs I get two out of three errors. What gives?"
+,karrot,2011-10-05T08:58Z,"I can start the game, choose from the different playstyles, but when I load ""new campaign"" Magicka stops working. Any clue on what might be the problem?"
+,karrot,2011-10-05T10:48Z,Turns out all I had to do was to choose another campaign file... lol xD
+,athrunlim,2011-10-13T08:57Z,"I gt problem for this game too , when i try to launch the game , i have 3 error report as shown below:
+
+1)LoaderThread
+System.TypeInitializationException: The type initializer for 'Magicka.Gamers.Gamer' threw an exception. ---> System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'Texture2D'.
+   at Microsoft.Xna.Framework.Helpers.CheckDisposed(Object obj, IntPtr pComPtr)
+   at Microsoft.Xna.Framework.Graphics.Texture2D.CopyData[T](Int32 level, Nullable`1 rect, T[] data, Int32 startIndex, Int32 elementCount, UInt32 options, Boolean isSetting)
+   at Microsoft.Xna.Framework.Content.Texture2DReader.Read(ContentReader input, Texture2D existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.InvokeReader[T](ContentTypeReader reader, Object existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadObjectInternal[T](Object existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadObject[T]()
+   at PolygonHead.BitmapFont..ctor(ContentReader iInput)
+   at PolygonHead.Pipeline.BitmapFontReader.Read(ContentReader iInput, BitmapFont existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.InvokeReader[T](ContentTypeReader reader, Object existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadObjectInternal[T](Object existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadObject[T]()
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadAsset[T]()
+   at Microsoft.Xna.Framework.Content.ContentManager.ReadAsset[T](String assetName, Action`1 recordDisposableObject)
+   at Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   at Magicka.Graphics.FontManager..ctor()
+   at Magicka.Graphics.FontManager.get_Instance()
+   at Magicka.GameLogic.UI.MessageBox..ctor(String iMessage)
+   at Magicka.GameLogic.UI.GamerCustomizeMessageBox..ctor()
+   at Magicka.GameLogic.UI.GamerCustomizeMessageBox.get_Instance()
+   at Magicka.Gamers.Gamer..ctor(String iGamerTag)
+   at Magicka.Gamers.Gamer..cctor()
+   --- End of inner exception stack trace ---
+   at Magicka.Gamers.Gamer..ctor(String iGamerTag)
+   at Magicka.GameLogic.Profile.Read()
+   at Magicka.Game.LoaderFunction()
+
+2)RenderThread
+System.ArgumentException: Texture width or height is larger than the device supports.
+Parameter name: width
+   at Microsoft.Xna.Framework.Graphics.Texture3D.CreateTexture(GraphicsDevice graphicsDevice, Int32 width, Int32 height, Int32 depth, Int32 numberLevels, TextureUsage usage, SurfaceFormat format)
+   at Microsoft.Xna.Framework.Graphics.Texture3D..ctor(GraphicsDevice graphicsDevice, Int32 width, Int32 height, Int32 depth, Int32 numberLevels, TextureUsage usage, SurfaceFormat format)
+   at Microsoft.Xna.Framework.Content.Texture3DReader.Read(ContentReader input, Texture3D existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.InvokeReader[T](ContentTypeReader reader, Object existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadObjectInternal[T](Object existingInstance)
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadObject[T]()
+   at Microsoft.Xna.Framework.Content.ContentReader.ReadAsset[T]()
+   at Microsoft.Xna.Framework.Content.ContentManager.ReadAsset[T](String assetName, Action`1 recordDisposableObject)
+   at Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   at Magicka.Game.LoadContent()
+   at Microsoft.Xna.Framework.Game.Initialize()
+   at Magicka.Game.Initialize()
+   at Microsoft.Xna.Framework.Game.Run()
+   at Magicka.Program.Main(String[] args)
+
+3)Init Audio
+System.InvalidOperationException: This resource could not be created.
+   at Microsoft.Xna.Framework.Audio.SoundBank..ctor(AudioEngine audioEngine, String filename)
+   at Magicka.Audio.AudioManager.Init()
+
+Can anyone pls help me to solve this problem???"
+,moizem,2011-11-19T07:31Z,@SKIDROW why do u have to put it in rars? 
+,sun83kim,2011-12-04T05:35Z,"Works perfectly
+
+For the dumbasses out there, this is NOT THE FULL GAME but an update to the full game. 
+
+Its obvious to most but there are few dumbasses when I read the posts above.
+
+I have Windows XP sp3, E8500 with GeForce 9500GT and it runs smooth.
+
+I downloaded skidrow release of the game here
+
+http://thepiratebay.org/torrent/6127579/Magicka-SKIDROW
+
+then downloaded this update 24 and both worked flawlessly.
+
+No problem at all."
+,IGreyKnightI,2011-12-21T23:31Z,Online? Yes? No?
+,ez100,2012-01-02T14:07Z,HOW THE FUCK DO U PLAY THIS ON LINE? I HAVE GOOGLED MY ASS OFF NO ONE SEEMS TO KNOW
+,The1Gambler,2012-01-29T17:20Z,"Since i cba to get anything through steam i couldnt play this game lan or online.
+After a bit of googling i finally got it to work.
+
+Wat u need:
+Magicka - Skidrow
+Magicka - Skidrow update 24
+Smartsteam -(a real bitch to find the true file is 40mb plus)
+Steam - (make a new account so ur real one doesnt get banned)
+Tunngle - Similar to Hamachi but only program i got it to word with.
+
+How to put this all together:
+1: Install Steam (real one)
+2: Install Magicka skidrow into your steam folder (:\Program Files\Steam\steamapps\common\Magicka  is the usual path) DO NOT COPY THE CRACK
+3: Run the skidrow update 24 [DO NOT COPY THE CRACK]
+4: Install Tunngle and get a account
+5: Copy the smartsteam files into your steam folder (overwrite when prompted). [im not sure if normal steam still works then!!!! so carefull]
+
+Now your all set to play!.
+1: Start Tunngle and go to the magicka network
+[Search networks for magicka and dubbel klik]
+2: Start Smartsteam (make sure normal steam isnt running)
+3: Launch magicka from the steam window.
+(Klik play when it whines about watever and Ignore when windows whines).
+4: Host a game with play online And let your friends join.
+4.1: Join a game with online play. Klik the button join IP.
+You use the ip from tunngle. its bottem left in your tunggle window.  [7.**.**.*** Somthing] similar.
+
+Now you can play :).
+Though smartsteam is a real bitch to find.
+Version 1.4.x "
+,Spinfx,2012-04-06T06:01Z,"While this works great (in combination with the Skidrow release), there's apparently a ""large tech update"" which supposedly came out in November. That's like 5 months ago. Would be nice to have it..."

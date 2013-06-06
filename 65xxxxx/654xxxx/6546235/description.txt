@@ -1,0 +1,892 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!PLEASE HELP SEED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+	Accessibility
+International voices
+VoiceOver in OS X Lion includes built-in voices that speak 23 languages: Chinese (Hong Kong), Chinese (China), Chinese (Taiwan), Danish, Dutch, English (U.S.), English (UK), English (Australia), Finnish, French (France), French (Canada), German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese (Brazil), Portuguese (Portugal), Russian, Spanish (Spain), Spanish (Mexico), and Swedish.
+
+High-quality voices
+In addition to the 23 built-in voices in Lion, you can download higher-quality versions of the languages from VoiceOver Utility. Choose Customize from the Voice pop-up menu in the Speech pane.
+
+Set up your Mac in any language
+Lion supports 23 different languages in VoiceOver, so you can set up your Mac in almost any language.
+
+
+Picture-in-picture zoom
+The screen zoom feature in Lion features a picture-in-picture view, allowing you to see the zoomed area in a separate window while keeping the rest of the screen at its native size. Choose to have the window follow the cursor, or keep the window in one place to show only areas you navigate.
+
+International braille tables
+Lion includes built-in support for more than 80 new braille tables supporting a wide range of languages.
+
+Braille verbosity settings
+You can now specify the default verbosity level (amount of information you want to receive) for use with a refreshable braille display. And you can specify verbosity levels for specific controls, such as applications, checkboxes, and Dock items, as well as headings, images, and links.
+
+High-resolution cursor
+In Lion, the cursor is crisp and sharp at larger sizes.
+
+Improved drag and drop
+VoiceOver in Lion offers an improved drag-and-drop experience for users who are blind or have difficulty seeing. Simply mark the item you want to drag, then mark the destination â€” OS X moves it into place.
+
+VoiceOver activities
+With VoiceOver activities, you can create groups of preferences for specific uses. For example, you can create an activity to use a certain voice and faster speaking rate when youâ€™re shopping online catalogs. Create a second activity to use a different voice and slower speaking rate when youâ€™re reading online newspapers. You can switch activities manually or have VoiceOver switch automatically based on the applications you use.
+
+Single-letter quick navigation in web pages
+Assign VoiceOver commands to single keys to make it even easier to browse the web using VoiceOver.
+
+Search in VoiceOver Utility
+VoiceOver Utility includes a search field to help you find the feature youâ€™re looking for.
+
+Back to top
+	Address Book
+New look
+Address Book features a new look. Browse your contacts without the clutter of a sidebar or status bar. As you scroll, your contact list displays alphabetical dividers so you always know where you are.
+
+Improved Yahoo! support
+Address Book improves syncing with Yahoo! contacts. Add a Yahoo! account to Address Book and watch your Yahoo! contacts instantly appear. Make a change to a contact and the change is immediately updated both on your Mac and in your Yahoo! Address Book. View your Yahoo! contacts separately by choosing Yahoo! from the groups page, or view them along with the other contacts on your Mac.
+
+iPhoto faces
+Put a face to a name so you can find someone at a glance. Address Book makes it easy to turn an iPhoto picture into a contact photo. Just double-click an empty picture frame or an existing contact photo on any card. Click the Faces icon, browse your iPhoto faces, and click a face to choose a photo. You can zoom and crop the photo so it looks just the way you want.
+
+FaceTime calling
+Start a FaceTime call from Address Book. Click an email address and choose FaceTime.
+
+Yearless birthdays
+You can now add birthdays to your contacts without including a year.
+
+Instant messaging availability
+See your buddyâ€™s availability while in Address Book.
+
+Social network profiles
+Address Book lets you quickly access the social network profiles for your contacts, including Facebook. Press and hold an email address to select the appropriate profile.
+
+Back to top
+	AirDrop
+Send files wirelessly
+AirDrop is the simplest way to send files wirelessly to anyone around you.
+
+No setup or configuration
+AirDrop doesnâ€™t require setup or special settings.
+
+No network required
+AirDrop uses Peer-to-Peer Wi-Fi between participating Mac computers and doesnâ€™t require a wireless network infrastructure or base station.
+
+Automatic discovery
+OS X Lion automatically discovers other Mac computers nearby that are using AirDrop. They appear in the Finder, and AirDrop displays the usersâ€™ contact photos.
+
+Drag-and-drop file sharing
+To share a file, simply drag it onto a personâ€™s contact photo. Your Mac verifies that you want to send the file, then sends a request to the recipient. When the request is accepted, the file transfers to the personâ€™s Downloads folder.
+
+Secure file transfer
+Files are encrypted using TLS for secure transfer.
+
+Firewall protection
+AirDrop creates a firewall between you and the person you are sharing a file with, preventing anyone from accessing your computer over that connection.
+
+AirDrop visibility
+When you close the Finder window or click outside AirDrop, your Mac is no longer visible to other users.
+
+Apple ID identity
+AirDrop can use an Apple ID to verify the identity of the person attempting to send you a file. If senders are in your Address Book and are signed in with their Apple IDs, their names will appear below their photos in AirDrop.
+
+Cancel transfer
+To cancel an incoming transfer, open the Downloads stack and click the X that appears on the icon.
+
+Back to top
+	AppleScript
+Cocoa AppleScript applets
+AppleScript Editor can create and edit Cocoa AppleScript applets that provide direct access to the Cocoa frameworks from their AppleScript code, using the AppleScript/Objective-C bridge introduced in Snow Leopard.
+
+Script templates
+The new template menu in AppleScript Editor contains a variety of useful script templates, including scripts for creating file-processing droplets, Aperture import actions, Mail rule actions, and iChat message responders.
+
+Global script application targets
+AppleScript Editor can now globally target a script to a specific application through a new â€œtell applicationâ€ pop-up menu. Targeted scripts are perfect for quick development projects, because they do not require the use of tell blocks or terms clauses.
+
+Run application menu option
+For more accurate testing, applets opened in AppleScript Editor can be executed independent of the editing environment.
+
+Back to top
+	Auto Save
+Saves as you go
+Apps developed with Auto Save can automatically save changes to your document as you work, freeing you from manual saving and from the worry that youâ€™ll lose your valuable work if the app quits. And because Auto Save saves all changes in the background, you can work without the distraction of pauses or progress bars.
+
+Saves in place
+Auto Save in Lion adds the changes directly into the file so thereâ€™s only one copy of the document on your Mac.
+
+Revert to last saved version
+Apps with Auto Save enabled let you easily undo recent changes. Choose Revert from the center of the title bar, and your document reverts to its state when you last opened it.
+
+Duplicate a document
+Duplicate creates a copy of a document and places it next to the original, so you can start fresh using the original as a template.
+
+
+Lock documents
+You can lock a document at any time to prevent inadvertent changes. Two weeks after the last edit, Lion automatically locks the document for you. When you try to make a change, Lion alerts you and asks if you want to unlock or duplicate the file.
+
+Back to top
+	Automator
+Workflow conversion
+Workflows can now be resaved to different template types â€” from an applet to a service or from a service to a print plug-in, for example.
+
+Improved text input filtering
+Services that process data detector text input objects (such as URLs, addresses, and phone numbers) now have the option to pass the full text selection or only the found text objects to the workflow.
+
+Auto Save support
+Support for Auto Save means you never have to worry about losing your work.
+
+Versions support
+Automator supports Versions, so you can return a workflow to its previous state.
+
+Self-installing actions and services
+As with Safari plug-ins or Dashboard widgets, Automator actions and services can be installed from the desktop by double-clicking their icons and approving the permissions dialog.
+
+New Automator actions
+New actions can turn text into images, turn text documents into ePub books, display and retrieve web content, and enable desktop encoding for video and audio files.
+
+RTF support in text actions
+Many text-based actions in Automator now support RTF (Rich Text Format).
+
+Built-in systemwide services for Terminal
+You can create new sessions based on Finder folders or text paths selected in any application.
+
+Back to top
+	Electronic Distribution
+Buy Lion from the Mac App Store
+As soon as Lion is available, youâ€™ll be able to buy it from the Mac App Store.
+
+Installs in place
+Installing Lion from the Mac App Store is quick and easy. It takes only one click to download, then a few more clicks to run the installer.
+
+Install on all authorized computers
+When you purchase Lion from the Mac App Store, you can install it on all your authorized Mac computers. Just sign in to the Mac App Store from each Mac and download Lion from the Purchases list.
+
+Back to top
+	FaceTime
+Make video calls
+FaceTime for Mac lets you make video calls to other Intel-based Mac computers, iPad 2, iPhone 4, or the latest iPod touch.1
+
+Full-screen view
+A new full-screen view puts FaceTime video calls in their own space. This allows you to switch between a call and other apps while still in full-screen view.
+
+HD video calls
+FaceTime for Mac supports HD video calls up to 720p. All you need is a Mac with a built-in FaceTime HD camera, and your calls display with next-best-thing-to-real-life clarity.
+
+Landscape to portrait switching
+Video calls automatically adjust from landscape to portrait and back depending on the orientation of the mobile device youâ€™re calling. You can also switch the orientation manually.
+
+Address Book calling
+FaceTime works perfectly with Address Book so you donâ€™t have to enter your contacts from scratch.
+
+Ring anywhere
+Whenever someone tries to reach you, the FaceTime call rings through on every Mac you own even if FaceTime isnâ€™t running.
+
+Turn FaceTime off
+If you donâ€™t want to receive FaceTime calls, you can turn it off in preferences.
+
+Back to top
+	FileVault 2
+Full Disk Encryption
+FileVault now encrypts the entire drive on your Mac, helping keep your data secure.
+
+Strong encryption
+FileVault 2 uses XTS-AES 128 encryption to secure the data on your Mac.
+
+High performance
+FileVault 2 encrypts and decrypts your data on the fly with an imperceptible performance impact.
+
+Optimized initial encryption
+The initial encryption is designed to be fast and nonintrusive. FileVault 2 quickly encrypts the entire drive live, so you can continue to work as it encrypts. Itâ€™s also designed to relinquish processor cycles to higher-priority user tasks like copying files or browsing.
+
+Instant wipe
+With FileVault 2, instant wipe removes the encryption key from your Mac instantaneously, making the data completely inaccessible. Then your Mac performs an entire wipe of the data from the disk.
+
+External drive support
+FileVault 2 supports encryption of external USB and FireWire drives.
+
+Back to top
+	Finder
+All My Files
+Instantly view all the files on your Mac in a single window in the Finder. All My Files gathers all your files â€” no matter where theyâ€™re located â€” and displays them in an organized view. Itâ€™s smart about what it collects, showing only files you commonly open, such as documents, images, and videos, while leaving out system files.
+
+Sort files
+A new button in the Finder toolbar lets you sort files by category, making it easier to find what youâ€™re looking for. Sort files by kind, application, date modified, date added, or size.
+
+Gesture navigation
+In icon view, files in each group are displayed in rows of icons, so you can swipe through them quickly using your Multi-Touch trackpad or Magic Mouse.
+
+Search suggestions
+As you type in the search field, the Finder dynamically suggests the most relevant matches based on the contents of your Mac. It searches for items such as file type, download source, sender, and label.
+
+Search tokens
+Building on the power of search suggestions, the Finder in OS X Lion includes tokens â€” a smart new way to filter your searches. When you select a suggestion, a token is created. Instantly your search is filtered, and you see only the files that meet those criteria. You can change the scope of the token by clicking the arrow. If you want to narrow your search even more, you can use multiple tokens together. For example, to find all the Keynote presentations sent by Chris, enter â€œKeynoteâ€ and â€œChrisâ€ in the search field. This creates two tokens, so the Finder displays only presentations from Chris.
+
+Merge folders
+When you try to combine two folders with the same name, the Finder now offers to merge them into a single folder.
+
+
+Group as folder
+Instantly create a folder from selected files by choosing the â€œgroup as folderâ€ item from the contextual menu.
+
+Drag files
+When you drag multiple files from one location to another, they flock together. An indicator also appears next to the cursor, telling you how many files youâ€™re moving.
+
+Keep both files
+When you attempt to add a file to a folder that contains a file of the same name, the Finder now offers to keep both files, appending the word â€œcopyâ€ to the name of the new file.
+
+Back to top
+	Full-Screen Apps
+Systemwide support
+OS X Lion includes built-in support for full-screen apps.
+
+
+Go full screen
+Apps built to take advantage of the entire screen have a new full-screen button in the window title bar. Click it to expand the app window to fill the screen.
+
+Multiple full-screen apps
+You can have multiple full-screen apps running at the same time. Each app stays full screen even when you switch to another app or to the desktop.
+
+Gesture navigation
+A swipe of the trackpad takes you from one full-screen app to another, or back to the desktop to access your other apps.
+
+Menu hiding
+When an app is full screen, the menu bar is hidden, providing maximum screen space for the app. To access the menu bar, just move the pointer to the top of the screen and the menu bar slides down.
+
+Full-screen Dashboard
+Dashboard now behaves like a full-screen app, always available to the left of your desktop, so all your widgets are just a swipe away.
+
+Back to top
+	iCal
+New look
+iCal features a streamlined new look that gives you more room to browse and edit your events. The calendars list reveals itself only when you click Calendars. So now almost the entire window is dedicated to your calendar, giving you a beautiful view of your events by day, week, month, or year.
+
+Full-screen iCal
+Take iCal full screen so you can see even more events and the details associated with them.
+
+
+Day view
+The new day view makes it easy to stay on top of a busy day. Youâ€™ll find a running list of your events on one side and a detailed schedule on the other, so it takes just a glance to get the information you need. The new mini month is always visible, making it easy to switch between days and quickly navigate your calendar.
+
+Quick Add
+Adding an event to iCal has never been easier. Simply enter a regular-language phrase like â€œMaryâ€™s Birthday at 8 p.m.â€ or â€œLunch with Johnâ€ and let iCal add the event for you. Quick Add can turn your phrases into iCal events with the right name, time, and location. Just click the Add button (+) in the toolbar and enter your phrase.
+
+Year view
+Year view lets you see 12 months at a time, making it easy to jump between months.
+
+Heat map
+In year view, iCal displays a map using colors to represent availability for each day, so you can see which days have more activities.
+
+Back to top
+	iChat
+Yahoo! Messenger
+Use iChat to stay in touch with your Yahoo! buddies. Sign in with your Yahoo! ID, and all your Yahoo! buddies appear in your buddy list. Youâ€™ll see contact photos, availability, and chat status.
+
+
+Unified buddy list
+iChat brings your buddies together in one buddy list no matter what service they use, so you can find them without hunting through multiple windows. And if someone has accounts on multiple chat services, iChat displays just one entry for the person in the buddy list. When you click your buddyâ€™s name to send a message, simply choose the service you want to use.
+
+
+Unified status
+Share a single availability and status message with all your buddies no matter what service you use. Just select â€œUse the same status for all accountsâ€ in iChat preferences. Deselect the preference if youâ€™d like to maintain a separate status and availability for each service you use.
+
+Buddy search
+With a keyboard shortcut, you can find a buddy quickly. Press Command-F, then enter a name or part of a name. As you type, iChat filters your buddy list to display matching results.
+
+Service plug-ins
+Service plug-ins from third-party developers let you add new chat services to iChat. Installing a plug-in is simple. Once itâ€™s downloaded, double-click it. Plug-ins run in a separate process to help ensure that they wonâ€™t damage your system.
+
+iPhoto faces
+Put a face to a buddy name. iChat makes it easy to turn an iPhoto picture into a photo that appears in your buddy list. Just open your buddyâ€™s profile and double-click the picture. Then click the Faces icon to browse your iPhoto faces. Once youâ€™ve chosen a photo, zoom in or crop it to create the image you want.
+
+Movable tabs
+Movable tabs let you organize your chats by dragging and dropping. Rearrange tabs by dragging up and down. Drag a tab out of a chat window to create a new window. Or drag tabs from one window to another to merge them.
+
+Back to top
+	Internet Restore and Utilities
+Built into Lion
+OS X Lion includes a built-in restore partition, allowing you to repair or reinstall OS X without the need for discs.
+
+Browse the web with Safari
+Recovery mode now includes the Safari web browser, so you can check your email or browse the Apple Support site.
+
+Reinstall OS X
+OS X can be reinstalled on your Mac from recovery mode.
+
+Restore from a Time Machine backup
+Use recovery mode to restore your Mac from a Time Machine backup.
+
+Back to top
+	Launchpad
+
+A home for your apps
+Launchpad is a full-screen home for all the apps on your Mac. It creates full-screen pages to accommodate your apps and adds new pages as you add more apps. Find the app you want and open it with a single click.
+
+Install directly to Launchpad
+New apps downloaded from the Mac App Store automatically appear in Launchpad.
+
+Gesture navigation
+Move between Launchpad pages with a three-finger swipe.
+
+Arrange apps any way you like
+You can rearrange apps by dragging their icons to a new location or even to another page.
+
+
+Organize with folders
+Group applications in folders. Simply drag one app icon on top of another and Launchpad creates a folder. Launchpad uses the applicationâ€™s category (Productivity, Finance, Games) to suggest a folder name, or you can create your own. Each folder can hold as many as 32 apps.
+
+Delete apps
+Launchpad makes it easy to delete apps you downloaded from the Mac App Store. Hold down an app icon until all the icons start to jiggle. Then click an appâ€™s Delete button (x) to uninstall the app. You can also delete an app by dragging the icon to the Trash. When you delete an app from Launchpad, it is completely removed from your computer. If you want to get an app back, simply download it again from the Mac App Store.2
+
+
+Drag favorites to the Dock
+For even faster access to your apps, drag your favorites to the Dock from Launchpad.
+
+Back to top
+	Mac App Store
+Built into Lion
+OS X Lion includes the Mac App Store.
+
+In-app purchases
+The Mac App Store in Lion supports in-app purchases, allowing developers to offer additional content for purchase within their apps.
+
+
+Efficient app updates
+When an update is available for an application, the Mac App Store makes efficient use of bandwidth, delivering only the data that is different from the previous version.
+
+Push notifications
+Even when an application is not running, the developer can use the Apple Push Notification service to deliver alerts to users.
+
+Back to top
+	Mail
+Widescreen layout
+A new layout for Mail takes advantage of the widescreen display on your Mac. It neatly arranges your message list and open email side by side in full-height columns, so you see more of your messages.
+
+
+Full-screen experience
+Mail delivers a full-screen experience, so you can read and send email without distractions. With more room for your conversations and messages, you can browse your email more efficiently. Compose a new message, and Mail dims your inbox and slides in a full-height canvas so you can focus on your message and capture your thoughts.
+
+Favorites bar
+The favorites bar gives you one-click access to your mail folders. Its horizontal layout displays your favorite folders and their unread counts without cluttering up your window. Drag folders to the favorites bar to add them.
+
+
+Message preview
+The redesigned message list displays a compact preview of each message so you can find messages quickly. Messages include the first two lines of the email, along with contact photos from your Address Book. You can customize previews to display up to five lines of text.
+
+Redesigned message header
+The message header displays only the information you need, so you can focus on the message. Click the details to see everything else, including recipients.
+
+Conversations
+Conversations in Mail gives you a new and natural way to read and manage your email. As email arrives in your inbox, Mail automatically groups related messages in conversations. And Mail numbers each message in a conversation so you always know where you are as you read.
+
+
+Easy reading
+Open a conversation and Mail presents a streamlined feed of the conversationâ€™s messages designed for easy, continuous reading. Mail numbers each message so you always know where you are in the conversation.
+
+Hide quoted text
+To make reading conversations more efficient, Mail hides quoted text that appears repeatedly in messages, so you read only the parts of the conversation that matter. To view messages in their entirety, click and the hidden text is revealed.
+
+View related messages
+With one click, you can find all the messages related to the one youâ€™re reading, including your replies and messages youâ€™ve filed or moved to the Trash.
+
+Search suggestions
+Mail suggests the most relevant matches for your search term based on the contents of your email. It dynamically suggests people, subjects, and labels from your mail.
+
+
+Search tokens
+When you search for a person, phrase, or label, Mail displays your search as a clickable token in the search field. Click a token to instantly narrow your search results. Refine results to include only email from or to a particular person. Or view only results that contain a phrase in the subject or body of a message. And because you can combine multiple tokens, you can find precisely what youâ€™re looking for.
+
+Search attachments
+Find attachments fast by searching for an attachment using its filename or its content. Or use the attachment token to display only messages that contain an attachment.
+
+Inline controls
+Messages include convenient inline controls that make it easy to reply to, forward, or delete a message.
+
+Formatting bar
+The new formatting bar provides convenient access to editing capabilities for creating lists, customizing fonts, and changing paragraph structure.
+
+Custom labels
+Organize your mail with color-coded labels. Labeling a message takes just a click, and a colored flag is added to the message for easy identification. Mail creates folders for your labeled messages so you can get to them quickly. You can personalize labels with names like â€œFamilyâ€ and â€œWork.â€ And you can use labels when you search to help narrow the results.
+
+One-click archive
+Quickly move messages from your inbox and save them for later with a single click.
+
+Exchange 2010 support
+Mail, iCal, and Address Book now support Microsoft Exchange 2010.
+
+Exchange vacation notice
+Set your Exchange vacation message
+from Mail.
+
+Back to top
+	Mission Control
+See everything on your Mac
+Mission Control brings together everything running on your Mac â€” open windows, full-screen apps, spaces, and Dashboard â€” in one birdâ€™s-eye view. A row of thumbnails across the top of the screen represents Dashboard, desktop spaces, and your full-screen apps. The lower part of the screen shows an ExposÃ© view of the open windows on your desktop. Click anything to instantly navigate to it.
+
+Gesture navigation
+Swipe up and your desktop zooms out to Mission Control. Swipe right or left
+to move to the next or previous
+Mission Control item.
+
+ExposÃ©
+ExposÃ© now groups windows of the same application. Hover over a group and swipe; the group expands to show all the appâ€™s windows. Click to bring the window you want forward.
+
+Add and remove spaces
+You can add and remove desktop spaces right from Mission Control. To add a space, click the new Spaces control (+) in the upper-right corner of Mission Control. Or drag an app or window to the Spaces control. To remove a space, click the Delete button (x) on the spaceâ€™s thumbnail.
+
+Bind application to a space
+You can now bind an application to a particular space or make it available in all spaces right from the Dock. Press and hold the icon in the Dock and make a selection from the contextual menu.
+
+Custom desktop pictures
+Each desktop space can have its own desktop picture.
+
+Back to top
+	Multi-Touch Gestures
+Fluid, responsive animations
+Fluid animations make gestures feel more responsive, as if your fingers were manipulating the actual page. OS X Lion includes new animations such as rubber-band scrolling, zooming, and swiping.
+
+Rubber-band scrolling
+Scroll to the top or bottom of a list or a web page and it springs back.
+
+Swipe forward and back
+Swipe left or right in apps like Safari and Preview and the new page moves in, replacing the previous one.
+
+Tap to zoom
+Double-tap to zoom in on text or images in Safari and Preview. Safari zooms intelligently based on the layout of the web page, so you get exactly what youâ€™re looking for.
+
+
+Pinch to zoom
+Pinch using two fingers to precisely zoom in or out of apps such as Safari, Preview, and iPhoto.
+
+Swipe between full-screen apps
+Swipe to move from one full-screen app to another. One app whips off the screen and is replaced by another.
+
+Swipe for ExposÃ©
+A swipe on the trackpad shows you all the open windows for an application.
+
+Show Launchpad
+Pinch three fingers and your thumb on the trackpad to reveal Launchpad.
+
+Show desktop
+Spread three fingers and your thumb on the trackpad to move all open windows off the screen, revealing the desktop.
+
+Back to top
+	Networking
+Low-power wake
+In OS X Lion, your Mac can wake up for services such as file sharing, backup, and more without the need to turn on the monitor or attached USB devices.
+
+Captive network
+When connecting to a network that requires authentication, Lion presents a window allowing you to log in to the network.
+
+NFSv4 support
+Lion includes support for NFSv4.
+
+SMB with DFS
+Lion supports DFS URLs, drill-down, failover, and reconnects when connecting to Windows file servers.
+
+Back to top
+	Photo Booth
+Full-screen Photo Booth
+Photo Booth in OS X Lion delivers a full-screen view that takes advantage of the entire screen on your Mac. And it features a new look that makes you feel as if youâ€™re in an actual photo booth.
+
+
+New effects
+Have even more fun with the built-in camera on your Mac. Choose from nine new effects that use facial tracking technology, so effects look great whether youâ€™re front and center or left of center. Effects include Lovestruck, Dizzy, Frog, Nose Twirl, and Blockhead.
+
+High-resolution photos
+Photo Booth takes advantage of the high-resolution FaceTime camera in some Mac computers, so you can show off your smile in richer detail than ever before.
+
+Trim video clips
+Create the perfect video clip with the new trim feature. Photo Booth displays the frames; all you need to do is pick the start and end frames.
+
+Gesture navigation
+Navigate between effects panes by swiping your trackpad or Magic Mouse.
+
+Back to top
+	Preview
+Full-screen Preview
+With a single click, Preview takes your document full screen for an ideal reading or viewing experience, free of desktop clutter. Preview optimizes the display of the document to fit your screen; landscape documents are scaled for a perfect fit, while portrait pages are shown side by side for natural reading. Use gestures to zoom, rotate, and flip through pages and images.
+
+Smart Magnify
+The Smart Magnify tool makes it a snap to focus on a specific part of a PDF or image without zooming the entire document. When used with PDF documents, Smart Magnify adjusts its width to give you the best view of the text or image beneath it.
+
+At-a-glance search results
+To help you find what youâ€™re looking for quickly, Preview now displays the text surrounding a search phrase. With a glance at the sidebar, you can read the text, learn the number of matches per page, and see a thumbnail of the page.
+
+
+Add your signature
+Preview makes it easy to add your signature to PDF documents. Hold your signature up to an iSight or FaceTime camera, and Preview uses sophisticated image processing to turn it into a pen-perfect signature annotation. With a click, the signature is added to your document, which can be saved or sent via email. Itâ€™s ideal for signing PDF forms and documents.
+
+Auto Save support
+Preview supports Auto Save in OS X Lion, automatically saving the changes you make to images and PDFs.
+
+Versions support
+Browse previous versions of your PDFs and images and revert to an earlier version if you need to.
+
+Improved notes
+Lines are clearly drawn from each note in the sidebar to the referenced location on the page.
+
+iWork and Office document support
+Open, search, and print iWork documents and most Microsoft Office documents using Preview.
+
+Shadow and highlight controls
+Use the Adjust Color tool to reveal details hidden in the highlights or shadows of images.
+
+Improved copy and paste
+Images embedded in PDF documents are now copied along with text during copy-and-paste operations.
+
+Back to top
+Privacy
+Privacy preferences
+Security preferences include a new Privacy pane â€” a central location for enabling and disabling location services and diagnostic and usage data collection.
+
+Per-app location services
+Manage which apps can access your location information from Privacy preferences in System Preferences.
+
+Location icon
+When an app requests your location, an icon appears in the menu bar.
+
+Back to top
+	QuickTime Player
+Merge clips
+QuickTime Player lets you combine multiple clips into a single movie. Simply drag the clips you want into a movie window â€” QuickTime Player automatically scales or crops them so they match the dimensions of the movie.
+
+Export audio only
+The new Export Audio Only feature produces an AAC audio track thatâ€™s perfect for listening on the go or posting audio-only files to the web.
+
+Rotate clips
+If you open a video and itâ€™s upside down or sideways, just rotate it to make it right.
+
+Capture a region of the screen
+QuickTime Player lets you record part of the screen, such as a specific window. Itâ€™s perfect for creating a video tutorial of an application.
+
+Show clicks on capture
+Screen capture in QuickTime lets you show mouse or trackpad clicks, highlighting the pointer each time you click an object on the screen.
+
+New sharing options
+Share your video directly to Vimeo, Flickr, Facebook, iMovie, and Mail.
+
+Full-screen QuickTime
+Take your QuickTime video full screen and even switch away to another app while your video continues to play.
+
+Back to top
+	Resume
+Apps resume when launched
+When you launch an application, it appears exactly as you left it. All the open windows, palettes, and panes â€” even the cursor position and highlighted text â€” come back just as they were.
+
+System resume on restart
+When you restart your computer, OS X Lion pauses your system so everything comes back just as you left it. All the apps that were running reopen, and windows appear exactly as they were, so you can begin working immediately.
+
+Clean start
+Lion lets you choose a clean start, so you return to a fresh desktop after you restart your Mac.
+
+Back to top
+	Safari
+Full-screen Safari
+Take Safari full screen and experience your favorite websites on a grander scale. Itâ€™s perfect for viewing more of your Gmail inbox, Facebook newsfeed, or Twitter trends.
+
+Tap to zoom
+Double-tap to have Safari quickly zoom in on a column of text or an image. The text and graphics scale up smoothly, and text remains razor sharp. Double-tap again to return to the original size.
+
+
+Pinch to zoom
+Pinch to zoom in and out on text and graphics more precisely.
+
+Swipe to navigate
+You can navigate through the pages of a website using gestures. Swipe left and the next page slides smoothly into view. Swipe right to go back.
+
+Reading List
+Reading List lets you save web pages to read when you have time.
+
+Private AutoFill
+Safari lets you fill out forms quickly while keeping your personal information private. Safari keeps your information private until you choose to send it by detecting web forms and presenting you with a drop-down field, letting you choose to AutoFill the form with information from your Address Book. No information is added to web forms until you choose to use AutoFill.
+
+New process architecture
+Web browsing is now more stable and responsive because one process handles web content, while another handles interactions with the browser interface. That means an unresponsive web process wonâ€™t affect the browser, so you can keep browsing without restarting Safari.
+
+Improved graphics performance
+Web pages that use the HTML5 Canvas element can tap into the graphics processing unit on your Mac to display graphics and animations. With improved hardware acceleration for Canvas, games and interactive web applications render faster and smoother in the browser.
+
+Downloads list
+When you download files in Safari, an arrow appears to the right of the Smart Search Field to show you the progress of your download. Click the arrow to see downloads. You can also clear downloads from the list or view them in the Finder.
+
+Drag-and-drop downloads
+You can drag downloaded files from the Downloads list to your desktop for easy organization.
+
+Find option
+When you use Find in Safari, you can choose to search for text that either contains or starts with the text you type in the search field. Click the magnifying glass to switch between the two options.
+
+Full-screen web pages
+With the new Full Screen JavaScript API, developers can create immersive web experiences without the need for a plug-in.
+
+Media caching
+Safari can store audio and video data for web applications that use the HTML5 application cache, allowing for offline media playback and better media performance over a slow Internet connection.
+
+Privacy pane
+A new Privacy pane in Safari preferences gives you more information about and control over your online privacy. You can clear website data, customize cookie settings, and decide whether websites can request your location information.
+
+View website data
+Now you can see a list of all the websites that have stored data on your computer, what theyâ€™ve stored, and where theyâ€™ve stored it.
+
+Remove all website data
+Safari makes it simple to clear the information websites can use to track you online. In the Privacy pane, click Remove All Website Data and then confirm. Safari removes cookies and Flash plug-in data, as well as information from databases, local storage, and the application cache. You can also clear data on a site-by-site basis.
+
+
+Auto setup for Gmail and Yahoo!
+in Mail
+
+When you first log in to your Google, Yahoo!, or AOL accounts in Safari, youâ€™ll have the option to use them with Mail, iCal, Address Book, iChat, and other applications on your Mac.
+
+Sandboxing
+All the websites and applications you use in Safari are sandboxed, so they donâ€™t have access to information on your system. If a website contains malicious code intended to capture personal data or tamper with your computer, sandboxing provides a built-in blocker that restricts the code from doing harm.
+
+MathML support
+Support for MathML allows web pages to display mathematical notations.
+
+WOFF support
+Support for the Web Open Font Format (WOFF) gives web designers and developers the ability to use a wider range of fonts on websites.
+
+CSS3 auto-hyphenation
+Support for CSS3 auto-hyphenation allows developers to provide better reading experiences and text layouts.
+
+CSS3 vertical text
+Support for CSS3 vertical text allows for top-to-bottom text layouts in web pages. This enables greater customization of websites in languages that use vertical text, such as Chinese, Japanese, and Korean.
+
+CSS3 text emphasis
+With the text emphasis property, web pages can display emphasis marks in East Asian text.
+
+Custom content in extensions
+Safari now allows extensions to show custom HTML content in a borderless window from the extensionâ€™s toolbar, or when you click an icon in the extensionâ€™s toolbar.
+
+Back to top
+	Screen Sharing
+Per-user screen sharing
+You can remotely log in to a Mac with any user account on that computer and control it, without interrupting someone else who might be using the computer under a different login.
+
+Go full screen
+Take the screen-sharing application full screen in Lion so you can observe and control a remote Mac using the entire screen. It feels as if you are sitting right in front of the other Mac.
+
+Use Apple ID to authenticate
+You can now use an Apple ID to authenticate with another Mac running OS X Lion to start a screen-sharing session. This is perfect for giving others access to your Mac without creating separate user accounts. Simply add their Apple IDs to the list of authorized users, and they can log in with their credentials.
+
+Observe Only mode
+The new Observe Only mode lets you watch a remote computer without controlling the mouse or trackpad movements.
+
+New screen-sharing toolbar
+Screen sharing includes a new toolbar that provides access to useful tools and settings such as screen resolution, Clipboard access, and screen capture.
+
+Back to top
+	Security
+Enhanced runtime protection
+Address space layout randomization (ASLR) has been improved for all applications. It is now available for 32-bit apps (as are heap memory protections), making 64-bit and 32-bit applications more resistant to attack.
+
+Application sandboxing
+Sandboxing protects the system by limiting the kinds of operations an application can perform, such as opening documents or accessing the network. Sandboxing makes it more difficult for a security threat to take advantage of an issue in a specific application to affect the greater system.
+
+Back to top
+	Spotlight
+Drag and drop from Spotlight menu
+Now you can drag items from the Spotlight menu, which makes it quick and convenient to send a document via email or AirDrop.
+
+Quick Look results
+The Spotlight menu now shows Quick Look previews for search results, so you can be sure you found precisely what youâ€™re looking for even before you click it.
+
+
+Search the web
+When you choose Search Web from the Spotlight menu, Safari opens and displays search results using your default search engine.
+
+Search Wikipedia
+When you choose Search Wikipedia from the Spotlight menu, the Dictionary application opens and displays the Wikipedia entry for the term.
+
+Back to top
+	System
+
+Windows migration
+With OS X Lion, you can migrate all the information from your old PC to your new Mac. Lion automatically transfers your documents, contacts, calendars, email accounts (Outlook and Windows Live Mail), and photos stored in Picasa, and puts them in the appropriate applications.
+
+
+About This Mac
+System Profiler sports a new, streamlined look that gives you key information about your Mac. Get a quick, at-a-glance view of the hardware model and serial number, installed memory, display information, and the types and sizes of files you have stored on your drive.
+
+New system languages
+Lion is available in Arabic, Czech, Turkish, and Hungarian.
+
+Lookup
+Double-tap with three fingers to select a word or phrase in any OS X application and look it up. OS X gathers information from the built-in dictionary and thesaurus, and goes to the web to bring back related Wikipedia entries. Results are displayed inline under the selected word.
+
+Full-screen Chess
+Take Chess full screen and turn your Mac into a virtual chessboard.
+
+New Quick Look types
+Quick Look includes more types of content, including web page links in email, addresses as Google maps, Address Book contacts, and Spotlight results.
+
+Gesture navigation in Quick Look
+Use a swipe gesture to navigate between pages in a PDF or iWork document, as well as between images.
+
+Push notifications
+Receive push notifications sent from Lion Server for calendar events, contact updates, and device management.
+
+Profiles
+Profiles in Lion make it easy for system administrators to customize the settings for all the Mac computers in their environment. Simply configure the settings once, distribute the profile to the computers, and Lion sets them up.
+
+Apple ID authentication for file sharing
+An Apple ID can now be used to log in to a remote Mac for file sharing. If others need to access a folder on your Mac, you donâ€™t have to create separate user accounts. Just add their Apple IDs to the list of authorized users, and they can log in with their credentials.
+
+Back to top
+	System Preferences
+Set up online accounts
+The new Mail, Contacts, and Calendars pane in System Preferences gives you a central location to set up and manage all your accounts, including Microsoft Exchange, Gmail, Yahoo!, and AOL.
+
+Custom desktop color
+Now you can create a custom solid color from the color picker.
+
+New desktop pictures
+Choose from several new desktop pictures included in Lion. You can find them in the Desktop & Screen Saver preference pane.
+
+New Magic Mouse and trackpad preferences
+Lion includes all-new mouse and trackpad preferences that make it easier than ever to customize the gestures for your input device. Gestures are now organized by category, so you can quickly find what youâ€™re looking for, and new movies show you how each gesture works.
+
+Scroll direction preference
+When you scroll or swipe in Lion, content now moves in the same direction as your finger. However, if you want to restore the previous operating system scroll behavior, simply deselect the â€œdirection of finger movementâ€ option in preferences for your mouse or trackpad.
+
+
+Turn app indicator lights off
+You can give your Dock a clean look with no indicator lights, if you wish, by turning them off in the Dock preference pane.
+
+Back to top
+	Text
+Character picker
+Accessing accented characters in OS X Lion is a breeze. Just hold down the letter and a dialog appears listing all alternative and accented characters. Click a character to select it.
+
+
+Improved auto-correction
+Auto-correction in Lion displays suggested spellings below the word. Press Return to accept the change or click the X to keep the current spelling.
+
+Vertical text
+Lion supports displaying and typing vertical text used by the Japanese and Chinese languages.
+
+Expanded language support
+Twenty new font families for document and web display of text provide support for the most common languages in the Indian subcontinent, including Bengali, Kannada, Malayalam, Oriya, Sinhala, and Telugu. Devanagari, Gujarati, Gurmukhi, Urdu, and Tamil have been expanded. And three new font families support Lao, Khmer, and Myanmar.
+
+Additional fonts
+Lion includes new Damascus, PT Sans, and Kefa fonts.
+
+Apple color emoji font
+A color emoji font lets you display emoticons used in Japanese wireless messages and web pages.
+
+Chinese input method
+Lion supports filtering by tones, ordering and filtering by radical or stroke count, and improved pinyin-han conversion accuracy.
+
+Kotoeri enhancements
+Kotoeri features a new look and functionality in the candidate window.
+
+Vietnamese input method
+Lion supports both new and old orthography in Vietnamese.
+
+Improved Simplified Chinese recognition
+Lion includes improved accuracy for Simplified Chinese handwriting recognition, as well as an extended Simplified Chinese recognizer with Roman symbols, punctuation, and a small set of additional characters. The handwriting input window is now movable.
+
+Back to top
+	TextEdit
+Quick Look for attachments
+Use Quick Look to preview web addresses and images in TextEdit.
+
+New formatting bar
+TextEdit includes a streamlined formatting bar that provides convenient access to fonts, colors, lists, and other editing capabilities.
+
+Inline find
+When you search for text in a document, TextEdit highlights all the occurrences in yellow for easy identification.
+
+Auto Save support
+TextEdit automatically saves all the changes you make to a document.
+
+
+Versions support
+You can browse previous versions of a document and revert to an earlier version, or copy and paste text or images from a previous version.
+
+Back to top
+	Time Machine
+Local snapshots
+OS X Lion lets you take the Time Machine experience with you when youâ€™re away from your Time Capsule or backup drive. Time Machine keeps a spare copy of the files you create, modify, or delete right on your Mac. Now if you accidentally delete a file while on the road, you can recover it from a local copy.
+
+Combined timeline
+When you connect your Mac to your Time Machine backup drive or Time Capsule, Time Machine automatically displays everything you did while you were away with your existing Time Machine backups. So when you enter the Time Machine interface, it will look like you never left your Mac.
+
+Encrypted backups
+Keep your Time Machine backups secure by backing up to an external USB or FireWire drive encrypted with FileVault 2.
+
+Back to top
+	UNIX
+Full-screen Terminal window
+Take your Terminal window full screen and give yourself more room to enter and view command lines.
+
+New appearance controls
+OS X Lion includes editable ANSI colors in preferences and support for 256 colors and BCE (background color erase). The default TERM value is xterm-256color. Application windows support background images (including randomized images from folders), hidden scroll bars, and a new translucent view.
+
+New status controls
+New status controls include display in tabs and minimized windows; and the showing of live content, with unread text, busy, and bell count indicators.
+
+Drag-and-drop support for proxy icons
+To insert a reference to the current directory or file into a session or tab, just drag the proxy icon in the Terminal window title bar.
+
+Back to top
+	Versions
+
+Records the history of a document
+OS X Lion can keep an ongoing record of your document as it evolves. Lion records snapshots of your document as you make changes or reach important milestones.
+
+Automatic versions
+Each time you open a document, Lion automatically saves the current version. It also saves a new version every hour while you work, building a history of the document as you go.
+
+Manual versions
+You can manually create a version of a document at any time by choosing â€œSave a Versionâ€ from the File menu.
+
+Efficient storage
+Lion saves only the information that has changed since the last version, making efficient use of space on your hard drive. And it manages the version history of a document, keeping hourly versions for a day, daily versions for a month, and weekly versions for all previous months.
+
+Browse versions
+Lion makes it easy to browse previous versions. Using an interface similar to that of Time Machine, you can browse the version history of a document to see how it looked at any time. A timeline shows all the versions that exist for the document. To view a previous version, simply click a specific date.
+
+Side-by-side comparison
+When youâ€™re browsing versions, a side-by-side comparison feature allows you to see the current state of a document next to the previous one, so you can easily note the differences.
+
+Copy between versions
+Both the current and previous versions are live, allowing you to copy and paste text and images from one to the other.
+
+Restore previous versions
+To go back to a previous version, just replace the current version with the earlier one.
+
+
+Delete versions
+If you ever need to, you can delete an old version of a document. In the versions browser, find the version you want to delete, click the arrow in the title bar, and choose Delete This Version.
+
+Privacy
+When you share a document â€” through email, iChat, or AirDrop, for instance â€” only the current version is sent; all other versions remain on your Mac.
+
+Back to top
+	Xsan
+Built into Lion
+The Xsan file system is built into OS X Lion, allowing any Mac with appropriate connectivity to access an Xsan volume.
+
+Case insensitivity option
+For improved performance and simplicity, you can now create case-insensitive Xsan volumes. These volumes act like traditional HFS+ volumes and do not distinguish between uppercase and lowercase characters in filenames.
+
+New preference pane
+A new Xsan pane in System Preferences makes it easier to manage, mount, and unmount Xsan volumes.
+
+
+Industry-standard multipathing
+Lion supports the Asymmetric Logical Unit Access (ALUA) standard for multipathing and failover. This allows Xsan to be used with a variety of Fibre Channel RAID storage arrays.
+
+Back to top
+Other Features
+Resize from any edge
+You can now resize a window from any side or corner.
+
+Overlay scroll bars
+The new overlay scroll bars appear when you need them and fade away when you donâ€™t, resulting in a more streamlined experience.
+
+Interact with photos in screen saver
+New onscreen controls let you pause your iPhoto screen saver and manually flip through the photos in an album without leaving the screen saver.
+
+Interact with iTunes artwork in screen saver
+Turn your screen saver into a jukebox. Just click an album to play the songs.

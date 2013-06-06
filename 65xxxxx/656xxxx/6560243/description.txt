@@ -1,0 +1,200 @@
+Dellamorte Dellamore [BDRip-720p-Mkv-Ita/Eng-Ac3-Sub-Ita][Nautilus-BT]
+
+
+
+[ About file ]
+
+Name: Dellamorte Dellamore [BDRip-720p-Ita-Eng-Sub-Ita-Chapters][RiP By MaX].mkv
+Date: Mon, 25 Apr 2011 01:22:49 +0200
+Size: 4,702,897,373 bytes (4485.032 MiB)
+
+[ Magic ]
+
+Tipo file: data
+
+[ Generic infos ]
+
+Duration: 01:43:18 (6198.24 s)
+Container: matroska
+Production date: Mon, 25 Apr 2011 01:21:19 +0200
+Total tracks: 4
+Track nr. 1: video (V_MPEG4/ISO/AVC) [Dellamorte Dellamore [BDRip 720p][RiP By MaX]] {ita}
+Track nr. 2: audio (A_AC3) [Ita Ac3 2.0] {ita}
+Track nr. 3: audio (A_AC3) [Eng Ac3 2.0] {eng}
+Track nr. 4: subtitle (S_TEXT/UTF8) [Sub Ita] {ita}
+Muxing library: libebml v1.2.0 + libmatroska v1.1.0
+Writing application: mkvmerge v4.7.0 ('Just Like You Imagined') built on Apr 21 2011 01:13:14
+
+[ Relevant data ]
+
+Resolution: VERY HIGH (1280 x 756)
+Width: multiple of 32 (GOOD)
+Height: multiple of 4 (16 would be better)
+Average DRF quality: MEDIUM (22.857)
+Standard deviation quality: HIGH (0.6)
+Std. dev. weighted mean: HIGH (0.559)
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1280 x 756
+Frame aspect ratio: 320:189 = 1.693
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 320:189 = 1.693
+Framerate: 23.976 fps
+[debug] codec private: 53 bytes
+Stream size: 4,403,734,339 bytes (4199.728 MiB)
+Duration (bs): 01:43:12 (6192.144 s)
+Bitrate (bs): 5689.447 kbps
+Qf: 0.245
+
+[ Audio track nr. 1 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 2
+Stream size: 148,757,760 bytes (141.866 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 193,695
+Duration (bs): 01:43:18 (6198.24 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 192 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): stereo
+
+[ Audio track nr. 2 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 2
+Stream size: 148,740,096 bytes (141.85 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 193,672
+Duration (bs): 01:43:18 (6197.504 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 192 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): stereo
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 114 r1924 08d04a4 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=5 | deblock=1:0:0 | analyse=0x3:0x133 | me=umh | subme=7 | psy=1
+User data: psy_rd=1.00:0.00 | mixed_ref=1 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=1
+User data: chroma_qp_offset=-2 | threads=6 | sliced_threads=0 | slices=4 | nr=0
+User data: decimate=1 | interlaced=0 | constrained_intra=0 | bframes=3
+User data: b_pyramid=1 | b_adapt=2 | b_bias=0 | direct=1 | weightb=1
+User data: open_gop=2 | weightp=2 | keyint=240 | keyint_min=23 | scenecut=40
+User data: intra_refresh=0 | rc_lookahead=40 | rc=2pass | mbtree=1
+User data: bitrate=5691 | ratetol=1.0 | qcomp=0.60 | qpmin=10 | qpmax=51
+User data: qpstep=4 | cplxblur=20.0 | qblur=0.5 | vbv_maxrate=40000
+User data: vbv_bufsize=40000 | nal_hrd=vbr | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 4
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 148,463
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices:  41288 ( 27.810 %) ######
+B-slices: 105750 ( 71.230 %) ##############
+I-slices:   1425 (  0.960 %)
+SP-slices:      0 (  0.000 %)
+SI-slices:      0 (  0.000 %)
+
+[ DRF analysis ]
+
+average DRF: 22.857
+standard deviation: 0.6
+max DRF: 24
+
+DRF<17:      0 (  0.000 %)
+DRF=17:     50 (  0.034 %)
+DRF=18:     25 (  0.017 %)
+DRF=19:    102 (  0.069 %)
+DRF=20:    553 (  0.372 %)
+DRF=21:   3376 (  2.274 %)
+DRF=22:  23038 ( 15.518 %) ###
+DRF=23: 110332 ( 74.316 %) ###############
+DRF=24:  10987 (  7.400 %) #
+DRF>24:      0 (  0.000 %)
+
+P-slices average DRF: 22.877
+P-slices std. deviation: 0.56
+P-slices max DRF: 24
+
+B-slices average DRF: 22.879
+B-slices std. deviation: 0.559
+B-slices max DRF: 24
+
+I-slices average DRF: 20.634
+I-slices std. deviation: 0.562
+I-slices max DRF: 22
+
+[ Profile compliancy ]
+
+Selected profile: BDRip 720p
+Resolution: 1280 x 756 > 1280 x 720
+Framerate: Ok
+Buffer underflow: 00:24:11 (frame 34778)
+Buffer underflow: 00:25:36 (frame 36820)
+Buffer underflow: 00:32:48 (frame 47187)
+Buffer underflow: 00:33:55 (frame 48799)
+Buffer underflow: 00:36:54 (frame 53086)
+Buffer underflow: 00:40:25 (frame 58140)
+Buffer underflow: 00:40:28 (frame 58214)
+Buffer underflow: 00:48:11 (frame 69306)
+Buffer underflow: 00:49:52 (frame 71740)
+Buffer underflow: 00:51:26 (frame 73997)
+Buffer underflow: 00:56:56 (frame 81906)
+Buffer underflow: 00:56:58 (frame 81962)
+Buffer underflow: 00:57:40 (frame 82949)
+Buffer underflow: 00:57:42 (frame 83005)
+Buffer underflow: 00:57:43 (frame 83036)
+Buffer underflow: 00:57:46 (frame 83093)
+Buffer underflow: 00:58:14 (frame 83772)
+Buffer underflow: 00:58:22 (frame 83960)
+Buffer underflow: 01:01:22 (frame 88287)
+Buffer underflow: 01:01:23 (frame 88313)
+Error: Too many violations
+
+[ Edition entry ]
+
+UID: 3313450427
+Hidden: No
+Selected by default: No
+Playlist: No
+Chapters: 
+00:00:00,000-00:06:10,036: 01 {und}
+00:06:10,036-00:10:32,757: 02 {und}
+00:10:32,757-00:12:22,700: 03 {und}
+00:12:22,700-00:17:05,942: 04 {und}
+00:17:05,942-00:24:09,490: 05 {und}
+00:24:09,490-00:28:19,865: 06 {und}
+00:28:19,865-00:33:53,031: 07 {und}
+00:33:53,031-00:37:21,489: 08 {und}
+00:37:21,489-00:40:46,444: 09 {und}
+00:40:46,444-00:47:00,860: 10 {und}
+00:47:00,860-00:49:39,602: 11 {und}
+00:49:39,602-00:56:56,163: 12 {und}
+00:56:56,163-00:59:06,001: 13 {und}
+00:59:06,001-01:05:11,825: 14 {und}
+01:05:11,825-01:10:31,269: 15 {und}
+01:10:31,269-01:18:52,394: 16 {und}
+01:18:52,394-01:21:22,711: 17 {und}
+01:21:22,711-01:27:31,371: 18 {und}
+01:27:31,371-01:32:21,244: 19 {und}
+01:32:21,244-01:40:17,970: 20 {und}
+01:40:17,970-01:43:18,240: 21 {und}
+
+This report was created by AVInaptic (08-07-2011) on 23-07-2011 14:51:08

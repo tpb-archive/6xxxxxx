@@ -1,0 +1,43 @@
+multiMAN v02.02.00 Changelog:
+
+Added: Multilingual Support (22 languages)
+Changed: 2304 entries per XMMB column
+Added: Caching of XMMB Video column to speed up boot process
+Added: MP3 pop-up info box in XMMB and File Manager
+Added: "Motion Sensor" setting in XMMB SETTINGS column
+Added: Motion sensitivity (waving left/right the dualshock controller changes display
+modes)
+
+Added: Debug mode (hold L2+R2 during boot). It will allow downloading official update,
+even if you're on the same version.
+
+Fixed: Issues with coverflow display mode
+Fixed: Lock when too many AVCHD or Video titles present
+Fixed: Retro column not sorted after returning from emulator
+Changed: Behavior of "Refresh" buttons in XMMB multiMAN column and "System
+Settings" menu
+
+After two weeks of non stop work and the continuous efforts from a group of translators,
+multiMAN is now available in 22 different languages. Here is a list of all supported languages and
+more importantly - the people who participated as translators, editors and advisors:
+Code:
+
+"English", "English" // multiMAN
+"Bulgarian", "Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸" // Dean
+"Greek", "Î•Î»Î»Î·Î½Î¹ÎºÎ¬" // Nick97_Olympiak (translation
+is INCOMPLETE!)
+"Turkish", "Turkce" // ozayturay
+"Romanian", "RomanÄƒ" // MihaiOlimpiu
+"Polish", "Polski" // djtom, Bolec
+"Russian", "Ð ÑƒÑÑÐºÐ¸Ð¹" // pvc1, thesixsouls
+"Ukrainian", "Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°" // sanya007
+"Spanish", "Espanol" // Nathan_r32_69, aldostools
+"Portuguese", "Portugues" // kgb, NuclearAqua
+"German", "Deutsch" // flip
+"French", "Francais" // Guilouz
+"Italian", "Italiano" // m0h
+"Swedish", "Svenska" // dlanor
+"Danish", "Dansk" // RobinCecil, Anglia
+"Finnish", "Suomi" // Jeggu
+"Welsh", "Cymraeg" // bropesda
+"Spanish Latin", "Espanol Latino" // tupac4u,

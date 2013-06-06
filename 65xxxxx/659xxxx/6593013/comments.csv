@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,Ipmark,2011-09-13T12:48Z,"How to see this map on the PC:
+
+Download Basecamp from Garmin website, it's an update but if you haven't a previous version already installed on the PC, simply decompress the executable with Winrar in a temporary folder and launch BCMAIN.msi, then overwrite the original Basecamp.exe with the patched one (search TPB for Basecamp v3.2.2 Patched exe).
+
+Download Gmaptool (free, search the web, latest version is the v0.6.0b) and install in the PC.
+
+With Gmaptool load a map (gmapsupp.img) goto to Options > Flag Advanced Options; goto Join section, set Output File (ex.gmapsup2.img), Mapset (click on Info button to see the original one, however you can change it as you want), flag Version in header > set Ms to 0 (zero), click on Join selected.
+
+Copy the modified map on a pendrive (Garmin folder)
+
+Start Basecamp, it wil recognize the pendrive with the map, select the map.
+
+Enjoy !! "

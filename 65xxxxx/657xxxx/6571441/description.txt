@@ -1,0 +1,28 @@
+ePSXe (enhanced PSX emulator) is a PlayStation emulator for x86-based PC hardware with Microsoft Windows or Linux. It was written by three authors, using the aliases "Calb", "_Demo_", and "Galtor". ePSXe is closed source with the exception of the application programming interface (API) for its plug-ins.
+As with many modern emulators, ePSXe makes use of plug-ins to emulate GPU, SPU (sound), and CD-ROM drive functions, a model first established in PSEmu Pro. Games can be loaded from the computer's CD drive or from one of many types of CD images directly from the user's hard drive.
+
+A patching feature allows the user to apply game patches. Games that do not necessarily run properly, or even start at all, can be fixed and played via the use of ePSXe patch files in .ppf format. Not all games prone to bugs have ppf patches written for them.
+
+Unlike a few alternative PlayStation emulators that are able to use high level emulation to mimic the effect of the PlayStation's BIOS, ePSXe functions with an image of an official Sony PlayStation BIOS. Since the various PlayStation BIOS images are Sony's intellectual property, it is illegal to distribute them. For this reason, ePSXe does not come bundled with any of the PlayStation BIOS images, requiring the user to provide one for the emulator.
+ System requirements
+
+ePSXe's stated system requirements are:
+
+    Processor: Pentium 200 MHz, recommended Pentium 3 at 1 GHz
+    RAM: 256 MB RAM, recommended 512 MB RAM
+    Video card: 3D capable video card with support for OpenGL, DirectX, or Glide
+    Operating system: Windows or Linux
+    CD-ROM: 16x or faster (optional)
+
+ Plug-ins
+
+    GPU: Most GPU plug-ins run with either Direct3D, OpenGL, or the Glide API, and are available as freeware or open source
+    SPU: The SPU plug-ins can emulate everything from music to sound effects, with varying degrees of success depending on the plug-in settings, and of course the plug-in being used
+    CD-ROM: ePSXe comes with a core CD-ROM plug-in, but many others are available for freeware download and many can emulate up to seven different types of read modes
+    Input: The core plug-in is sufficient, but there are others that allow for more functionality.
+
+Compatibility
+
+The current version of ePSXe, 1.7.0, is able to run most Playstation games accurately, however, few games run flawlessly without extensive configuration and trial by error testing. In the case that a game does not run successfully, patches written for the game in question can be used, though few games have patches available.
+
+Quite often, users would download ePSXe 1.5.2 to avoid using ePSXe 1.6.0. This was due to version 1.6.0 having numerous complications that led users to use the last properly functional release. 1.7.0 repaired most of the issues present in 1.6.0.

@@ -1,0 +1,88 @@
+PeaZip 3.9.0 [ Team MJY ]
+
+[img]http://www.downloada2z.com/wp-content/uploads/2011/06/PeaZip.png[/img]
+
+Description:-
+
+PeaZip is an open source file and archive manager. It's freeware and free of charge for any use.
+
+ PeaZip can extract most of archive formats both from Windows and Unix worlds, ranging from mainstream 7Z, RAR, TAR and ZIP to experimental ones like PAQ/LPAQ family, currently the most powerful compressor available.
+
+ For archive creation, PeaZip suppors a wide range of compression and encryption standard, from fastes to most powerful ones, and allows to export job definition as scripts to bridge the gap between GUI and console applications, and let the user pick the best of the two worlds.
+
+ PeaZip has secure deletion feature, can verify file checksum and hash, and supports multiple strong encryption standards, optionally using two factor authentication (password and keyfile) for increased security:
+
+ âž½ 7Z's AES256 encryption
+
+ âž½ ZIP WinZip's AE encryption based on AES256 (and ZipCrypto for legacy compatibility); can decrypt PKZip's AES encryption
+
+ âž½ FreeARC's ARC: AES256, Blowfish, Twofish256 and Serpent256 - this format is also capable to generate recovery records to protect data against corruption
+
+ âž½ PEA: AES256 EAX authenticated encryption
+
+Technical:-
+
+Title:PeaZip 3.9.0
+ Filename:peazip-3.9.WINDOWS.exe
+ File size:6.90MB (7,238,200 bytes)
+ Requirements:Windows (All Versions)
+ Languages:Multiple languages
+ License: Open Source
+ Date added:August 1, 2011
+ Author:Giorgio Tani
+
+Change Log:-
+
+# FILE MANAGER
+ * Fixed bug in saving window's height when using PeaZip from context menu
+ * Re-introduced and improved contextual menus for toolbar buttons
+ - Add: shows favorite formats menu to directly select the archive format
+ - Convert: as add, but the favorite format menu starts archive conversion
+ - Extract: shows menu to extract all and (when browsing archives) displayed or selected content
+ - Extract all to: shows quick extraction menu
+ - Test: shows additional functions menu
+ * Reorganized keyboard shortcuts
+ - Organize shortcuts, related the way file/archive browser displays content, are associated to Alt combinations
+ > Alt+0 swap tool bar (priority to functions) and address bar (priority to navigation)
+ > Alt+1 hide/show menu bar
+ > Alt+2 toggle toolbar mode
+ > Alt+3 hide/show address bar
+ > Alt+4 toggle navigation bar
+ > Alt+5 toggle broser mode
+ > Alt+6 toggle
+ > Alt+7 Toggle sorting
+ ^ Ctrl+Alt+1 sort by name
+ ^ Ctrl+Alt+2 sort by type
+ ^ Ctrl+Alt+3 sort by size
+ ^ Ctrl+Alt+4 sort by packed size
+ ^ Ctrl+Alt+5 sort by date
+ ^ Ctrl+Alt+6 sort by attributes
+ ^ Ctrl+Alt+7 sort by crc
+ > Alt+8 toggle status bar
+ ^ Shift+Alt+0..6 jump to specific status bar view
+ > Alt+9 configure custom applications
+ - Quick options (Shift+Ctrl combinations): added Shift+Ctrl+O to toggle "open output path when job completes"
+ - Common operations are associated to Ctrl combinations (unchanged)
+ - F3 start search while in PeaZip's file browser, and system's search while in other modes (in order to search and drag files/folder to PeaZip)
+ > Alt+F3 always start system's search
+ * Reorganized browser's context menu and other GUI elements
+ - explore path made more prominent, featured in main context menu (and in navigation popup menu)
+ - select all made more prominent featured in main context menu grouped with Sort by submenu
+ - displayed sort column in status bar, especially useful when browser is not in Details mode
+ * Themes
+ - added 48 px icons, used in "icons" mode (any browser's size)
+ - added themes with embedded graphic: Seven-embedded (now default theme for all systems) and Nographic-embedded
+ - Seven and Firecrystal themes are distributed as compressed packages, this allows faster installation deploying less files
+ * Size submenu in Organize, for selecting size of browser's icons
+ - small (default) small icons 16 px (in details and list mode) / large icons 64 px (in icons mode)
+ - medium 32 px / 128 px
+ - large 64 px / 256 px
+
+ # EXTRACTION and ARCHIVING
+ * Added extraction support for ZIPX format
+
+ # WINDOWS INSTALLER
+ * Added file association for ZIPX files
+ * Added shortcut in Start menu to reset the application to factory settings
+
+[img]http://www.lisisoft.com/imglisi2/1/8/187240-peazip.jpg[/img]

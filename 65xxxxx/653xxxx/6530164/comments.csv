@@ -1,0 +1,48 @@
+User Type,Username,Date,Text
+,JacanoForever,2011-07-18T08:00Z,"People the whole idea is to seed, i want this to be available for others!"
+,thehappiestEMO,2011-07-24T00:04Z,this is a great up. thank you very very much. my wife and i love her music
+,shitklaut,2011-07-31T12:23Z,Thx
+,P0pe0nD0pe,2011-08-24T10:36Z,Hey thanks. I'll seed!
+,jknvdfkn,2012-02-15T02:49Z,"This MP3 has some garbage data in it:
+Ke$ha Discography 2.0\Ke$ha\Ke$ha Unrelea$ed\Boys.mp3
+
+Error #01 at 1293445 size 65536
+Error #02 at 1391621 size 65536
+Error #03 at 1555077 size 32768
+Error #04 at 1620485 size 32768
+Error #05 at 1686853 size 32768
+Error #06 at 1784901 size 32768
+Error #07 at 1850309 size 32768
+Error #08 at 1915717 size 32768
+Error #09 at 2013765 size 32768
+Error #10 at 2080133 size 32768
+Error #11 at 2145541 size 32768
+Error #12 at 2210949 size 32768
+Error #13 at 2276357 size 32768
+Error #14 at 2341765 size 32768
+Error #15 at 2407173 size 32768
+Error #16 at 2505221 size 65536
+Error #17 at 2604357 size 32768
+Error #18 at 2669765 size 32768
+Error #19 at 2735173 size 32768
+Error #20 at 2800581 size 32768
+Error #21 at 2865989 size 32768
+Error #22 at 2931397 size 65536
+Error #23 at 3095813 size 65536
+Error #24 at 3193989 size 32768
+Error #25 at 3259397 size 32768
+Error #26 at 3357445 size 65536
+Error #27 at 3488261 size 65536
+Error #28 at 3587397 size 32768
+Error #29 at 3718085 size 32768
+Error #30 at 3783493 size 51992
+
+Here's a fix (you get a few pops tho):
+**** don't run commands you don't understand ****
+head -c 591685 Boys.mp3 > Boys-head.mp3 && tail -c 128 Boys.mp3 > Boys-tail.mp3 && xxd -s 591685 -p -c 8 Boys.mp3 | grep -e ""^fffbe4"" -A 119 | xxd -r -p | cat Boys-head.mp3 - Boys-tail.mp3 > Boys-fixed.mp3 && rm Boys-head.mp3 Boys-tail.mp3
+**** don't run commands you don't understand ****
+
+MD5 sums:
+0c69af34a1a353bda75003e1b076af34 *Boys-fixed.mp3
+9e75345c9fda4cf33f9377f0c190c490 *Boys.mp3"
+,JoelisaH,2012-02-29T17:59Z,Thank you for the torrent +1

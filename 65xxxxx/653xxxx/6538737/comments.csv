@@ -1,0 +1,23 @@
+User Type,Username,Date,Text
+,1TWISTED,2011-07-14T14:15Z,"thanks,.. nice upload,... well done,.. ; )"
+,luvtpb123,2011-08-29T02:37Z,cheers for this and few small apps:)
+,scottjwkelly,2011-08-30T06:50Z,"key stopped working, should have blocked at firewall....."
+,CirusVirus,2011-08-31T13:26Z,"OK people Very Very easy to solve the problem!!
+firs in program folder their is vc.exe program
+on win7 create block rule for this inbound and outbound
+first step done
+second step is to change some reg key
+open regedit and navigate to
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}]
+change values for those as you can see
+""440D54AA8AF58E3D""=""1A""
+""580950B697F5823D87""=""194D31F5CEB1D37DD187""
+""481244AA97E58A29""=""1B""
+""5E0E54A082F8883F97D844""=""1B""
+""5918569797E09F35""=""1A""
+and delete all the other keys
+start imtoo and see the unregistered is gone!!!!!!!!!!
+now if you blocked the vc.exe via fire wall it cant check if the serial is ok so it will not chnage the state of the program back to unregistered
+Enjoy:)"
+,CirusVirus,2011-08-31T13:26Z,and actually you not needed to register 
+,mouse316,2011-10-22T22:18Z,"sorry if i sound stupid, but how carnt CLSID in the classess"

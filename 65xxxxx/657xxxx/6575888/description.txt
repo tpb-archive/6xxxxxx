@@ -1,0 +1,7 @@
+Showtime Repack v3.1.27 (Unofficial Build) for PS3 changelog:
+
+Remove unused file commandmenu.view
+glw: Replace int2str() with fmt()
+glw: Replace float2str with fmt()
+glw: Add fmt()
+glw: Fix typo causing count() not to work

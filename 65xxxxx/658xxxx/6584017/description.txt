@@ -1,0 +1,17 @@
+Lightweight Portable Security (LPS) creates a secure end node from trusted media on almost any Intel-based computer (PC or Mac). LPS boots a thin Linux operating system from a CD or USB flash stick without mounting a local hard drive. Administrator privileges are not required; nothing is installed. The ATSPI Technology Office created the LPS family to address particular use cases. LPS-Public is a safer, general-purpose solution for using web-based applications. The accredited LPS-Remote Access is only for accessing your organization's private network.
+
+LPS Release Notes
+Changes in Version 1.2.3
+Maintenance release, released 29 July 2011
+
+Fixed a problem with a RealTek wireless drivers
+Fixed a bug with the sound mixer application
+Added Java Web Start add-on to Firefox
+Added support for USB CD/DVD drives
+Updated bookmarks
+ 
+http://www.spi.dod.mil/liposeFeatures.htm 
+http://www.spi.dod.mil/index.htm 
+http://www.spi.dod.mil/docs/Hashes.pdf
+
+md5sum : 8d0d037f4d9abc8a4b8c50e895ceebc1  LPS-1.2.3_public.iso

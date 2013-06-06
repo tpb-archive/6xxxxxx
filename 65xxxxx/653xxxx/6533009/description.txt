@@ -1,0 +1,213 @@
+      _  _                   __   __      
+   __| || |__ _____    _____/  |_|__| ______ ____   ____        #antisec   
+   \   __   / \__  \  /    \   __\  |/  ___// __ \_/ ___\       #anonops     
+    |  ||  |   / __ \|   |  \  | |  |\___ \\  ___/\  \___       #laughing        
+   /_  ~~  _\ (____  /___|  /__| |__/____ \ \___ \ \___  |      #at_your       
+     |_||_|        \/     \/             \/     \/     \/       #security
+                                                                                
+/*******************************************************************************
+***          MILITARY MELTDOWN MONDAY: MANGLING BOOZ ALLEN HAMILTON          ***
+*******************************************************************************/
+
+
+Hello Thar!
+
+Today we want to turn our attention to Booz Allen Hamilton, whose core business 
+is contractual work completed on behalf of the US federal government, foremost 
+on defense and homeland security matters, and limited engagements of foreign 
+governments specific to U.S. military assistance programs.
+
+So in this line of work you'd expect them to sail the seven proxseas with a 
+state- of-the-art battleship, right? Well you may be as surprised as we were 
+when we found their vessel being a puny wooden barge.
+
+We infiltrated a server on their network that basically had no security 
+measures in place. We were able to run our own application, which turned out to 
+be a shell and began plundering some booty. Most shiny is probably a list of 
+roughly 90,000 military emails and password hashes (md5, non-salted of course!).
+We also added the complete sqldump, compressed ~50mb, for a good measure.
+
+We also were able to access their svn, grabbing 4gb of source code. But this 
+was deemed insignificant and a waste of valuable space, so we merely grabbed 
+it, and wiped it from their system.
+
+Additionally we found some related datas on different servers we got access to 
+after finding credentials in the Booz Allen System. We added anything which 
+could be interesting.
+
+And last but not least we found maps and keys for various other treasure chests 
+buried on the islands of government agencies, federal contractors and shady 
+whitehat companies. This material surely will keep our blackhat friends busy 
+for a while.
+
+A shoutout to all friendly vessels: Always remember, let it flow!
+#AntiSec
+
+/*******************************************************************************
+***                BONUS ROUND: BOOZ ALLEN HAMILTON KEY FACTS                *** 
+*******************************************************************************/
+
+For the Lazy we have assembled some facts about Booz Allen. First let's take a 
+quick look of who these guys are. Some key personnel:
+
+* John Michael "Mike" McConnell, Executive Vice President of Booz Allen and 
+former Director of the National Security Agency (NSA) and former Director of 
+National Intelligence.
+
+* James R. Clapper, Jr., current Director of National Intelligence, former 
+Director of Defense Intelligence.
+
+* Robert James Woolsey Jr, former Director of National Intelligence and head
+of the Central Intelligence Agency (CIA).
+
+* Melissa Hathaway, Current Acting Senior Director for Cyberspace for the 
+National Security and Homeland Security Councils
+
+Now let's check out what these guys have been doing:
+
+* Questionable involvement in the U.S. government's SWIFT surveillance program; 
+acting as auditors of a government program, when that contractor is heavily 
+involved with those same agencies on other contracts. Beyond that, the 
+implication was also made that Booz Allen may be complicit in a program 
+(electronic surveillance of SWIFT) that may be deemed illegal by the EC.
+ 
+http://www.aclu.org/national-security/booz-allens-extensive-ties-government
+-raise-more-questions-about-swift-surveillanc
+ 
+https://www.privacyinternational.org/article/pi-and-aclu-show-swift-auditor-
+has-extensive-ties-us-government
+ 
+* Through investigation of Booz Allen employees, Tim Shorrock of Democracy Now! 
+asserts that there is a sort of revolving-door conflict of interest between 
+Booz Allen and the U.S. government, and between multiple other contractors and 
+the U.S. government in general. Regarding Booz Allen, Shorrock referred to such 
+people as John M. McConnell, R. James Woolsey, Jr., and James R. Clapper, all 
+of whom have gone back and forth between government and industry (Booz Allen in 
+particular), and who may present the appearance that certain government 
+contractors receive undue or unlawful business from the government, and that 
+certain government contractors may exert undue or unlawful influence on 
+government. Shorrock further relates that Booz Allen was a sub-contractor with 
+two programs at the U.S. National Security Agency (NSA), called Trailblazer and 
+Pioneer Groundbreaker.
+ 
+http://www.democracynow.org/article.pl?sid=07/01/12/151224
+
+If you haven't heard about Pioneer Groundbreaker, we recommend the following 
+Wikipedia article:
+
+"The NSA warrantless surveillance controversy (AKA "Warrantless Wiretapping") 
+concerns surveillance of persons within the United States during the collection 
+of foreign intelligence by the U.S. National Security Agency (NSA) as part of 
+the war on terror."
+ 
+http://en.wikipedia.org/wiki/Pioneer_Groundbreaker
+
+* A June 28, 2007 Washington Post article related how a U.S. Department of 
+Homeland Security contract with Booz Allen increased from $2 million to more 
+than $70 million through two no-bid contracts, one occurring after the DHS's 
+legal office had advised DHS not to continue the contract until after a review. 
+A Government Accountability Office (GAO) report on the contract characterized 
+it as not well-planned and lacking any measure for assuring valuable work to be 
+completed.
+ 
+http://www.washingtonpost.com/wp-dyn/content/article/2007/06/27/
+AR2007062702988.html   
+ 
+* Known as PISCES (Personal Identification Secure Comparison and Evaluation 
+System), the â€œterrorist interdiction systemâ€ matches passengers inbound for the 
+United States against facial images, fingerprints and biographical information 
+at airports in high-risk countries. A high-speed data network permits U.S. 
+authorities to be informed of problems with inbound passengers. Although PISCES 
+was operational in the months prior to September 11, it apparently failed to 
+detect any of the terrorists involved in the attack.
+
+Privacy advocates have alleged that the PISCES system is deployed in various 
+countries that are known for human rights abuses (ie Pakistan and Iraq) and 
+that facilitating them with an advanced database system capable of storing 
+biometric details of travelers (often without consent of their own nationals) 
+poses a danger to human rights activists and government opponents.
+ 
+http://multinationalmonitor.org/mm2002/02march/march02corp3.html
+
+/*******************************************************************************
+***                   BONUS ROUND TWO: ANONYMOUS INTERESTS                   *** 
+*******************************************************************************/
+
+Back in February, as many may recall, Anonymous was challenged by security 
+company HBGary. One month later - after many grandiose claims and several pages 
+of dox on "members" of Anonymous which were factually accurate in no way 
+whatsoever - HBGary and its leadership were busy ruing the day they ever 
+tangled with Anonymous, and Anonymous was busy toasting another epic trolling. 
+And there was much rejoicing. However, celebration soon gave way to 
+fascination, followed by horror, as scandal after scandal radiated from the 
+company's internal files, scandals spanning the government, corporate and 
+financial spheres. This was no mere trolling. Anonymous had uncovered a 
+monster.
+
+One of the more interesting, and sadly overlooked, stories to emerge from 
+HBGary's email server (a fine example to its customers of how NOT to secure 
+their own email systems) was a military project - dubbed Operation Metal Gear 
+by Anonymous for lack of an official title - designed to manipulate social 
+media. The main aims of the project were two fold: Firstly, to allow a lone 
+operator to control multiple false virtual identities, or "sockpuppets". This 
+would allow them to infiltrate discussions groups, online polls, activist 
+forums, etc and attempt to influence discussions or paint a false 
+representation of public opinion using the highly sophisticated sockpuppet 
+software. The second aspect of the project was to destroy the concept of online 
+anonymity, essentially attempting to match various personas and accounts to a 
+single person through recognition shared of writing styles, timing of online 
+posts, and other factors. This, again, would be used presumably against any 
+perceived online opponent or activist. 
+
+HBGary Federal was just one of several companies involved in proposing software 
+solutions for this project. Another company involved was Booz Allen Hamilton. 
+Anonymous has been investigating them for some time, and has uncovered all 
+sorts of other shady practices by the company, including potentially illegal 
+surveillance systems, corruption between company and government officials, 
+warrantless wiretapping, and several other questionable surveillance projects. 
+All of this, of course, taking place behind closed doors, free from any public 
+knowledge or scrutiny.
+
+You would think the words "Expect Us" would have been enough to prevent another 
+epic security fail, wouldn't you? 
+
+Well, you'd be wrong. And thanks to the gross incompetence at Booz Allen 
+Hamilton probably all military mersonnel of the U.S. will now have to change 
+their passwords. 
+
+Let it flow!
+
+
+/*******************************************************************************
+***                                 INVOICE                                  *** 
+*******************************************************************************/
+
+Enclosed is the invoice for our audit of your security systems, as well as the 
+auditor's conclusion.
+
+4 hours of man power: $40.00
+Network auditing: $35.00
+Web-app auditing: $35.00
+Network infiltration*: $0.00
+Password and SQL dumping**: $200.00
+Decryption of data***: $0.00
+Media and press****: $0.00
+
+Total bill: $310.00
+
+*Price is based on the amount of effort required. 
+**Price is based on the amount of badly secured data to be dumped, which in 
+this case was a substantial figure. 
+***No security in place, no effort for intrusion needed. 
+****Trolling is our specialty, we provide this service free of charge.
+
+Auditor's closing remarks: Pwned. U mad, bro?
+
+We are Anonymous.
+We are Legion.
+We are Antisec.
+We do not forgive.
+We do not forget.
+Expect us.
+
+

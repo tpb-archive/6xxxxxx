@@ -1,0 +1,25 @@
+Ubehage's EasyTools v1.3 with EasyCopy v1.2
+-------------------------------------------
+
+This is the newest release of these small, fast and easy applications.
+
+Some dramatic changes has been made in this release.
+Please note that this version of EasyTools will not work together with any earlier versions of EasyCopy.
+And this version of EasyCopy will not work together with any earlier version of EasyTools.
+
+Changes in this release:
+- EasyTools:
+  - No changes.
+
+- EasyCopy:
+  - Optimized folder-scan. Folder sizes are now being showed much faster and runs in a seperate thread.
+  - Fixed file-fuckup when you edited and saved an existing job. This works now.
+  - Added extra cache to Command-Module. Copying should utilize faster disk-drives.
+
+
+Please remember to close all existing versions of EasyCopy and/or EasyTools, before installing any of these.
+Or you will need to reboot, before it works.
+
+
+
+/Ubehage

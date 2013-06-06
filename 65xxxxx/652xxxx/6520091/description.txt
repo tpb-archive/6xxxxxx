@@ -1,0 +1,23 @@
+Topaz ReMask 3.2.1 for Adobe Photoshop
+
+Topaz Labs announces the release of Topaz ReMask, a fast and highly efficient Photoshop plug-in for masking and cutting out digital images. Topaz ReMask allows specific image elements to easily be isolated in one image and then seamlessly merged into another image. Topaz ReMask easily integrates into Photoshop, enhancing the functionality of the masking process.
+
+Topaz ReMask is specifically engineered to supercharge the masking and extraction workflow for photographers and designers within Photoshop. Other masking tools - both within Photoshop and other third party filters - require intricate brushing, sampling, and refining for a detailed mask. Topaz ReMask, on the other hand, does all the heavy lifting while requiring a minimum of user input.
+
+Step 1: Create Tri-Map
+The only real thing you need to do is create a "tri-map" for ReMask. Black stands for areas to remove, white for areas to keep. ReMask will calculate any areas in gray.
+Step 2: Apply ReMask
+Apply ReMask and it won't ask you any other questions. It automatically and immediately creates a detailed and intricate mask within seconds. The extracted image is immediately ready to use.
+Step 3: Instant Extraction
+Topaz ReMask refines the tri-map into an intricate extraction.
+
+Speed! Topaz ReMask is much faster at extracting even complex subjects than any other method currently available. This is partly because there's only a small amount of required user input, but mostly because its technology is so adept at creating masks automatically.
+Accuracy! The hardest subjects for masking tools are those with complex backgrounds, faint edges, and fine detail like fur or hair. The unique algorithm that Topaz ReMask uses specialize in extracting "difficult" subjects without spending all day doing it.
+Workflow! Topaz ReMask flawlessly integrates into a Photoshop workflow because it doesn't make a trip to an external app - there isn't even a new user interface to learn! It works immediately on the layer mask directly within Photoshop. This reduces the learning curve and saves processing time, which is part of what makes it so fast and simple to use.
+Topaz ReMask only exists because of very recent developments in image extraction techniques.
+Like many Topaz products, Topaz ReMask's capabilities are only made possible through the very latest developments in image enhancement technology. A masking tool like Topaz ReMask would be literally impossible back in 2007, for instance.
+ReMask works by analyzing the information in the user-created tri-map and comparing it to the original image to accurately determine what to keep and what to remove in the image.
+
+
+Home Page - http://www.topazlabs.com/
+

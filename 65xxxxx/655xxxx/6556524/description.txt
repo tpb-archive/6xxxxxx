@@ -1,0 +1,76 @@
+Official Web Site:  http://totalfinder.binaryage.com/
+
+TotalFinder adds tabs, hotkeys, and other tweaks to the Mac OS X Finder.
+
+Implemented features:
+
+
+* Tabbed Browsing
+* Dual Mode
+* Folders on Top
+* Show System Files
+* Visor
+* Cut & Paste
+
+Whats new:
+
+* NEW It is possible to drag small tab icons (folder proxy icons).
+
+* NEW TotalFinderCrashWatcher - a new improved way for reporting
+  TotalFinder crashes.
+
+* NEW Applications and scripts may now ask Finder via Applescript if
+  TotalFinder has been loaded.
+
+* NEW Alternative TotalFinder installation path may be specified via
+  optional ini file.
+
+* FIXED I believe this is correct solution for sidebar issues under Lion.
+
+* FIXED Lion: Fixed compatibility with Afloat and other SIMBL plugins
+  which use jrswizzle library.
+
+* FIXED Lion: Asepsis feature implemented from scratch - needs testing!
+
+* FIXED Lion: Make sure items get properly sorted after adding new
+  files into folder.
+
+* FIXED Lion: Sidebar mirroring in dual mode works similar to Snow
+  Leopard.
+
+* FIXED Lion: When switching tabs sidebar width stays the same as
+  under Snow Leopard.
+
+* FIXED Fixed the annoying iPhoto issue.
+
+* FIXED Fixed broken "open location" applescript event.
+
+* FIXED Visor's pin state indication wasn't updated when using
+  keyboard shortcut.
+
+* FIXED Made reading and writing of DSDontWriteNetworkStores flag
+  reliable.
+
+* IMPROVED Tab animations are faster to match current Chrome
+  settings.
+
+* IMPROVED Prevent tab icon jumping when switching to and from
+  dual mode. Also put 2px space between icon and tab title.
+
+* IMPROVED Fixed tab focus problem when creating tabs by dragging
+  folders into tab bar.
+
+* IMPROVED TotalFinder reports reasonable error message when fails
+  launching.
+
+* IMPROVED Compatibility check does not complain that Lion has
+  unsupported version of Finder.
+
+* REMOVED TotalFinder is not using Spotlight anymore to locate
+  TotalFinder.app if not found on standard location.
+
+System Requirements:
+
+Mac OS X 10.6 or 10.7
+ 
+--- PLEASE SEED ---

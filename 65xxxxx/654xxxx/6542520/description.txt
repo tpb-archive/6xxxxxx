@@ -1,0 +1,7 @@
+Although the Partial Differential Equations (PDE) models that are now studied are usually beyond traditional mathematical analysis, the numerical methods that are being developed and used require testing and validation. This is often done with PDEs that have known, exact, analytical solutions.
+
+The development of analytical solutions is also an active area of research, with many advances being reported recently, particularly traveling wave solutions for nonlinear evolutionary PDEs. Thus, the current development of analytical solutions directly supports the development of numerical methods by providing a spectrum of test problems that can be used to evaluate numerical methods.
+
+This book surveys some of these new developments in analytical and numerical methods, and relates the two through a series of PDE examples. The PDEs that have been selected are largely â€œnamedâ€ since they carry the names of their original contributors.
+
+These names usually signify that the PDEs are widely recognized and used in many application areas. The authorsâ€™ intention is to provide a set of numerical and analytical methods based on the concept of a traveling wave, with a central feature of conversion of the PDEs to ODEs. Includes a spectrum of applications in science, engineering, applied mathematics Presents a combination of numerical and analytical methods Provides transportable computer codes in Matlab and Maple

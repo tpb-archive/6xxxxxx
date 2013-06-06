@@ -1,0 +1,20 @@
+User Type,Username,Date,Text
+,jersson,2011-07-06T05:35Z,"Nice upload, thank's. Can you find a bulk mailer for me please ? Like Atomic Mail Sender ?"
+,crub,2011-07-07T09:40Z,as soon as i hit the start button the program closes. What's wrong? 
+,ilefx,2011-07-07T17:34Z,block gsa web site looks checking the serial 
+,crub,2011-07-10T11:29Z,how do i block gsa website?
+,el235,2012-01-02T07:25Z,Getting internal error 9090
+,el235,2012-01-02T08:15Z,"Got around with int error 9090 with blocking GSA website in anti virus.
+But now application crashes as soon as i click start.
+Please help..."
+,tornadosturnmeon,2012-01-07T18:17Z,"If you're trying to block a callback, then you might blocking the following in your Hosts file.  Unfortunately, i think the software requires a callback each time its opened in order to verify that the license is active.  If so, then adding these to the hosts file won't help.  either way, you can use this to test work-arounds.     
+
+ 127.0.0.1 * * * email.spider.gsa-online.de
+127.0.0.1 * * * 80.237.132.228
+127.0.0.1 * * * 208.67.220.220
+127.0.0.1 * * * wp221.webpack.hosteurope.de
+127.0.0.1 * * * www.rostock-schwarz.de
+127.0.0.1 * * * www.findsoftware.eu
+127.0.0.1 * * * www.gsa-online.de
+127.0.0.1 * * * gsa-online.de"
+,mrjackspider,2012-05-30T17:03Z,Very Thanks!!

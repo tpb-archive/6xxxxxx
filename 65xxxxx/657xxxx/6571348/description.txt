@@ -1,0 +1,69 @@
+ http://www.imdb.com/title/tt0944947/
+
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 22.7 GiB
+Duration                         : 8h 54mn
+Overall bit rate                 : 6 066 Kbps
+Encoded date                     : UTC 2011-07-24 10:41:24
+Writing application              : mkvmerge v4.9.1 ('Ich will') built on Jul 11 2011 23:53:15
+Writing library                  : libebml v1.2.1 + libmatroska v1.1.1
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 8h 54mn
+Bit rate                         : 5 562 Kbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.089
+Stream size                      : 20.8 GiB (92%)
+Writing library                  : x264 core 115
+Encoding settings                : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                         : English
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : Header stripping
+Codec ID                         : A_AC3
+Duration                         : 8h 54mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 1.43 GiB (6%)
+Language                         : English
+
+Menu
+00:00:00.000                     : :Episode 01
+01:00:32.064                     : :Episode 02
+01:52:53.603                     : :Episode 03
+02:47:09.991                     : :Episode 04
+03:39:55.210                     : :Episode 05
+04:31:08.329                     : :Episode 06
+05:20:45.618                     : :Episode 07
+06:15:32.399                     : :Episode 08
+07:10:37.322                     : :Episode 09
+08:03:59.274                     : :Episode 10

@@ -1,0 +1,244 @@
+Fallout New Vegas Update 7 - SKiDROW
+
+
+10-07-2011........Release Date ... Protection...............Steam
+FPS/RPG..............Game Type ... Disk(s)..............DOX + DLC
+
+
+RELEASE NOTES
+
+ 
+Fallout New Vegas Update 7 info:
+
+
+- New feature: system save is automatically created prior to endgame sequence. 
+  After credits, user is prompted to load save game. This will allow single 
+  save players to play DLC without creating a new game. 
+- Fixed issue where Minigun audio could get stuck/keep playing indefinitely 
+  when fired out of VATS. 
+- Script fix to restore destroyed ED-E. This should address issues players
+  have with attempting to use certain companions (e.g. Rex) or when the player
+  needs to clear his or her companions before entering an area 
+  (e.g. Zion / Honest Hearts).
+- New â€œCompanion Dismissal Terminalsâ€ added to Gun Runners and Lucky 38. 
+  These will allow players with lost companions from earlier patches to 
+  force-fire if they are experiencing problems attempting to get into DLC 
+  or areas that prevent companions from entering. 
+- Arms no longer lifted above head when sneaking with certain weapons. 
+- Fixed sound cutting out after extended playthroughs.
+- Massive world optimizations in major areas for better stability/performance 
+  with multiple DLCs installed. 
+- Players can now have six or more DLCs installed without encountering an 
+  infinite loading DLC message on startup. 
+- Navmesh fixes/NPCs no longer getting stuck.
+- Scripts added to keep certain NPCs who were marked as dead from respawning. 
+- Extensive world optimizations for Hoover Dam.
+- Fixed lockup with Ranger Grantâ€™s forcegreet at HD/NCR path. 
+- Fixed NPC AI packages so they don't get stuck at HD. 
+- Fixed bug where upgraded ED-E could be killed in non-hardcore mode. 
+- Post-assassination Kimball now gets removed prior to Hoover Dam battle.
+- Fixed navmesh around Camp Searchlight to improve performance over long soaks.
+- Searchlight Troopers don't bump into each other as often.
+- Fixed navmesh on HD Observation Deck. 
+- New teleport locations for Legion path through Hoover Dam. Improves 
+  performance. 
+- Radio stations will work properly now if DLC is uninstalled. 
+- Fixed instances where it was possible to fast travel during Hoover Dam battle. 
+- Fixed case where recruited Remnants were hostile to player during HD battle on 
+  Independent and House paths. They will still turn hostile if you shoot them too 
+  much though.
+- Two vending machines in Hoover Dam were facing the wrong way.
+- Made it so Big Sal/Nero no longer accepts yield if the other is already dead.
+- Removed Brotherhood objectives when ED-E is given to the Followers.
+- Fixed rare instance where Cachino turned hostile on the player if player attacks 
+  Big Sal/Nero prior to Cachino entering the room. 
+- Fixed crashes in Ultra-Luxe.
+- Fixed Alpha Squad snipers getting stuck when told to support player.
+- Fix for Lilyâ€™s weapon being displayed oddly on her back.. 
+- Improvements to navmesh and pathing in Great Khan Longhouse. Fixes crashes.
+- Plasma Spaz now gives 20% AP reduction (was 10%). 
+- Fixed crash after hearing certain ED-E dialog triggers.
+- Fixed instance where Boone would constantly holster his rifle in combat if 
+  player had lost rep with the NCR. 
+- Veronica no longer waits for player to speak to her before leaving after Hidden 
+  Valley is destroyed. 
+- Extensive optimizations in McCarran. 
+- Optimized NPC packages at Camp Golf to improve performance. Misfits now stay in 
+  a normal radius.
+- Arcade now properly rants against Caesar (once). 
+- Motor-Runner Helmet now properly 0 weight. Also removed after quest completes.
+- NCR Heavy Troopers will now attack player if you attack Hsu.
+- Vulpes (and Alerio) now properly forcegreet if you somehow fast travel before 
+  their initial forcegreet fires. 
+- Killing hostages while helping Khans no longer fails quest.
+- Gilbert/Ackerman now properly stay dead if murdered. 
+- Mr. New Vegas will only mention failed NCR attack on Powder Gangers if Troopers 
+  are dead and Eddie is alive. 
+- Fixed case where player could break quest with Orris if they fast traveled after 
+  he shoots thugs, but before forcegreet. 
+- Generic Powder Gangers now set as Aggressive (previously Very Aggressive). 
+- Fixed rare case of black screen during dialog at REPCONN facility. 
+- Fixed phantom quest marker remaining on Major Knight after heâ€™s killed. 
+- Fix for incorrect dialog if player meets Bryce Anders after killing Motor Runner.
+- Player can no longer isolate the BoS virus by hitting â€œisolate virusâ€ three 
+  times on a single console.
+- Fixed crash related to Arcade leaving the Remnants bunker. 
+- Fixed Nightkin encounter at Tumbleweed Ranch to occur after user reloads a save. 
+- Arcade will no longer attempt to initiate his quest during Hoover Dam. 
+- Hoover Dam Boomer Bombing Run now works properly after save/reload. 
+- Cass now only barks once per gameday and not every two gamehours.
+- Fixed XP exploits with MantisForeleg.
+- Massive optimizations in Westside, North Vegas and The Thorn. Improves AI  
+  pathing and performance with high uptimes. 
+- Optimizations in Vault 19. 
+- Fixed issue where Oliver Swanick would respawn after three days if killed. 
+- Pathing improvements to The Strip and North Sewers. 
+- Moved teleport doors on The Strip so NPCs donâ€™t collide with players or other 
+  actors that stand in front of doors. 
+- Ethel, Walter, and the Station Merchant no longer wander or patrol to avoid 
+  collisions with other NPCs.
+- Separated NPCs in the North Sewers. 
+- Fixed issue where window in Vault 19 let player see through the world. 
+- Greasers from Crandonâ€™s quest now become disabled when the player leaves the 
+  area. 
+- Fixed a Legion melee NPC near Nelson that was under the terrain. 
+- Modified Legion and NCR hit-squad NPCs to use new level lists. They now have 
+  a smoother leveling curve that takes into account new level caps. Legion and 
+  NCR hit squad spawning was also 
+- Revised to make their appearance more consistent and less memory-intensive.
+- Fixed issue where Omerta thugs wouldnâ€™t leave Freeside if you killed Joana and 
+  Carlitos. 
+- Cazador Poison Effect sound no longer plays globally if someone, somewhere gets 
+  stung. Only plays if the player is hit. 
+- Player can no longer repair the Grenade Launcher with the minigun.
+- Fix for companions going into unconscious/conscious cycle over and over again 
+  when stung with Cazador poison. In normal mode (or against companions), 
+  Cazador poison now lasts 8 
+- Seconds, doing 18 points of damage per second. It is, in fact, even deadlier
+  than the normal version, but lasts 1/4 as long. In hardcore mode or against the  
+  player, poison remains 30 seconds/5 damage per second.
+- Casino slot scripts altered so their max bets do not produce game 
+  economy-ruining 
+  levels of cap overflow
+- Hit the Deck and Stonewall now properly work with playerâ€™s weapon condition. Hit 
+  the Deck is now +25 DT vs. Explosives instead of +50% vs. Explosives. 
+- Adjusted Deathclaw fatigue to make them less exploitable with certain attacks. 
+  Inconsistent health values for Deathclaws were also corrected (in favor 
+  of stronger 
+  Deathclaws).
+- Cazadores are now properly flagged as fliers, so they wonâ€™t set off mines. 
+- Increased radii for plasma and pulse grenades. 
+- Fixed bug where rescued Powder Gangers would return to the legion camp.
+- Added Followers of the Apocalypse supplies to three areas of Hoover Dam 
+  if you gain their support and fight on independent or NCR paths. This also 
+  enables the FoA + NCR "good" ending through Julie Farkas.
+- Optimizations for Westside. 
+- Fixed issues with Recharger Pistol animation. 
+- Fixed issue where Aba Daba Honeymoon wouldnâ€™t update if the player was running 
+  O My Papa simultaneously.
+- Typo: Night Stalker Bloodâ€ changed to â€œNightstalker Bloodâ€
+- Yes-Man now checks both Loyal and Pearlâ€™s status before the player can 
+  tell him the Boomer leaders are dead. 
+- Removed â€œIntelligenceâ€ flag from Int<=2 check at REPCONN HQ, as engine 
+  doesnt support checks that low. 
+- Fixed scripting on Lonesome Drifter barter check so player doesnâ€™t get next 
+  objective with Tommy Torini if they fail.
+- Legion Assassins moveto script no longer occurs every frame (frees up memory).
+- Added recipe so player can now break down 12.7mm ammo.
+- Four Eyes now works with ball cap with glasses. 
+- There is now always an option to give ED-E to Lorenzo, even if player has 
+  said no the first time.
+- Mister Sandman no longer works on The Forecaster (XP exploit).
+- Ultra-Luxe doors no longer disable player controls if player is an enemy 
+  of the White Gloves. 
+- Fix scripting conflict between â€œCold, Cold Heartâ€ and Mojave Ghost with 
+  Vulpes/Benny. 
+- Fixed issue where player could become control locked in Gommorah if they 
+  had installed Yes-Man. 
+- Player can now re-hire Arcade if ED-E is in the party. 
+- Ultra-Luxe now properly pays out in Legion and NCR money.
+- Veronicaâ€™s companion perks (as in the ones Veronica gets, not the player) 
+  now properly assigned. 
+- Waiting companions will no longer get teleported by the Vault 22 elevator. 
+- Changed objectives for How Little We Know to better reflect branching paths.
+- Return to Yes-Manâ€ objective no longer reopens if player tells him to 
+  go to Lucky 38 in Wild Card: Change in Management. 
+- Player can no longer pickpocket Button Man to break the scene where he 
+  shoots Cachino.
+- Player can no longer ask Cachino about plans if Bosses are already dead. 
+- Fix for ED-E combat dialog. 
+- Ranger Helmet now has weight/value.
+- Fixed Gomorrah holdout scripting to properly affect companions.
+- Lily now properly uses Stealth Boy when player is sneaking if told to 
+  keep it during her quest. 
+- Fixed exploit where player could get infinite XP for punching Big Sals corpse. 
+- Fixed scripting for For the Republic II where exposing Karl would prematurely 
+  complete the objective to destroy the Khans. 
+- Fixed instance where fast travel was disabled when creating new game 
+  post-credits. 
+- Inventory will now show cumulative weight of item stacks instead of 
+  weight of a single item.
+- Missile projectiles will no longer show in playerâ€™s target HUD. 
+- Player will now unequip a weapon if consuming it in the crafting menu 
+  (fixes crash). 
+- Weapons with recharging ammo now display ammo properly. 
+- Fixed rare instance where player could be control-locked if loading an 
+  autosave created while lockpicking a transition door. 
+- Beamsplitter mod fixed to proper DAM/DPS. 
+- Crafting can no longer create weapons/armor at 100% condition. 
+- Repair kits can no longer repair to 100% condition. 
+- Throwing weapons can no longer take damage, and are dropped when shot at 
+  100% condition. 
+- DT Perks that increase DT based on enemy weapon should function properly.
+- Weapons using multiple rounds of ammunition per shot fired now show proper 
+  VATS damage estimate.
+- Fixed rare case where broken stick of dynamite could crash game if thrown. 
+- NPCs will now play face cards on playerâ€™s stack in Caravan. 
+- Various tweaks to audio system to improve memory performance. 
+- Fixed issue where looping reload weapons would get stuck, causing VATS camera 
+  to point to the ground. 
+- Fixed clock/calendar so that it doesnâ€™t reset on a fresh load. 
+- Fixed .45 auto pistol displaying incorrect condition/value on modding screen. 
+- Both DAM and DPS now display on workbenches when creating explosives. 
+- For ammo that reduce spread (like 12ga) effect is now properly applied to 
+  spread, not wobble. 
+- Fixed crash when attempting to enter DLC1 with equipped quest items. 
+
+
+
+INSTALL NOTES
+
+
+1. Unpack release
+2. Run Fallout.New.Vegas.Update.7.exe
+3. Install
+4. Copy the cracked content from the SKIDROW folder to the main install
+   folder and overwrite
+5. Play the game
+6. Support the companies, which software you actually enjoy!
+
+
+ADDITIONAL NOTES
+
+
+This update contains all released DLC to date:
+
+ Caravan Pack
+ Classic Pack
+ Mercenary Pack
+ Tribal Pack
+ Dead Money DLC
+
+Remember to enable them in the game's Launcher!
+
+
+You don't need to have any of the previous updates installed, as this
+update is featuring all previous updated content
+
+
+GREETINGS
+
+
+Unleashed - TiNYiSO - MRN - RADIKAL - POSTMORTEM - GENESIS - SHOCK
+CRUDE - ReUnion - VACE - OUTLAWS - BACKLASH - Titan
+

@@ -1,0 +1,13 @@
+Ubehage's EasyCopy v1.21
+------------------------
+
+Just a little update, to fix a few errors.
+
+Fixes in this release:
+- Switching between open jobs, or deleting a job, while update is in progress would cause EasyCopy to crash. This is fixed.
+
+- Folder-sizes were not accurate on folders containing large files (>2GB). This is fixed.
+
+
+
+/Ubehage

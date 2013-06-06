@@ -1,0 +1,18 @@
+SL is a Linux release put together by Fermilab, CERN, and various other labs and universities around the world. Its primary purpose is to reduce duplicated effort of the labs, and to have a common install base for the various experimenters.
+The base SL distribution is basically Enterprise Linux, recompiled from source.
+Our main goal for the base distribution is to have everything compatible with Enterprise, with only a few minor additions or changes. An example of of items that were added are Alpine, and OpenAFS.
+Our secondary goal is to allow easy customization for a site, without disturbing the Scientific Linux base. The various labs are able to add their own modifications to their own site areas. By the magic of scripts, and the anaconda installer, each site is to be able to create their own distributions with minimal effort. Or, if a users wishes, they can simply install the base SL release.
+
+Scientific Linux Live CD/DVD 6.1 has been released for i386 and x86_64.
+Scientific Linux 6.1 LiveCD, LiveMiniCD and LiveDVD are also officially released. They are available for 32-bit and 64-bit and come with following window manager
+LiveMiniCD : icewm
+LiveCD : gnome
+LiveDVD : gnome, kde, icewm
+Software was added from rpmforge, epel and elrepo (see EXTRA SOFTWARE) to include additional filesystem support (ntfs, reiserfs), more secure network connection (openvpn, vpnc, pptp), and filesystem tools (dd_rescue, ddrescue, gparted).
+ 
+http://www.scientificlinux.org/news/livecd-61 
+http://www.scientificlinux.org/distributions/6x/rnotes/sl-release-notes-6.1.html 
+http://www.scientificlinux.org/ (Security errata) 
+http://www.scientificlinux.org/download/ (DVD)
+
+sha1sum : b1d528120e839f542c29e54b95780d48f7bde6d8  SL-61-x86_64-2011-07-27-LiveMiniCD.iso

@@ -1,0 +1,20 @@
+Discworld 1 - german/deutsch - 1995
+Terry Pratchett's Scheibenwelt, das erste Spiel.
+
+
+das iso-image ist als zip-datei gepackt.
+md5-summen sowohl fÃ¼r die zip-datei als auch die iso-datei sind dabei.
+
+spielen unter XP/vista/7:
+das image mit daemon-tools oder Ã¤hnlichem mounten (oder CD brennen, falls das noch jemand macht)
+> in ScummVM das spiel im (virtuellen) laufwerk hinzufÃ¼gen und dann starten.
+die spielstÃ¤nde werden im ScummVM-ordner gespeichert.
+das spiel kann Ã¼ber den 'laden'-button von ScummVM fortgesetzt werden, im startdialog des spieles selbst kann nur ein neues gestartet werden.
+
+spielen unter linux:
+- ob der oben beschriebene weg mit Wine funktioniert, habe ich nicht getestet.
+- funktionieren sollte es mit der DOSBox: imgmount d -yourpath-\Discworld1_german.iso -t iso
+
+es gibt im netz diverse anleitungen dazu...
+
+viel spaÃŸ!

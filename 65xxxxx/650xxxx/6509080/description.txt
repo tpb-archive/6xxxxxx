@@ -1,0 +1,30 @@
+another fresh new release of DVDFab from today : July 1rst
+
+Changes in DVDFab 8.1.0.3 Qt (July 1, 2011):
+    * New: Added â€œCredits" to thank for open source libraries like FFmpeg and Qt.
+    * New: Updated license to reflect the open source usage.
+    * New: Included the LGPL license file.
+    * New: Added workaround for a crash problem on Windows XP SP3, which is caused by the outdated graphics card driver.
+    * New: Added multiple audio selection support for all MKV audiocopy profiles.
+    * New: Updated language files.
+    * New: Some minor changes and improvements.
+    * Fix: Several problems with commandline support.
+    * Fix: Several problems with new profile implementation, like conversion settings cannot be changed.
+Blu-ray copy:
+    * New: Improved protected disc (BDMV-REC) burning with VSO engine again.
+Blu-ray Ripper:
+    * Fix: A playback problem for MKV file with DTS-HD Master Audio stream.
+Blu-ray 3D Ripper:
+    * New: Added 3D "Anaglyph output". Currently there are 14 modes like Red/cyan, Green/magenta and Amber/blue (monochrome/half color/full color/high quality Dubois).
+2D to 3D Converter:
+    * New: Added new option "Advanced algorithm (slow)" to get better 3D quality from normal 2D video, in "Video Effect Settings" -> "3D" window.
+    * New: Added 3D "Anaglyph output". Currently there are 14 modes like Red/cyan, Green/magenta and Amber/blue (monochrome/half color/full color/high quality Dubois).
+Video Converter:
+    * Fix: A problem that certain MOV files cannot be converted.
+
+This time,this is not a preactivated version but you will find all you need to get full retail version
+including very latest Multi-patch v 0.7 BBB Team and complete matching dll also.
+Tested and works fine
+seed a bit with me to help the others
+enjoy and have fun
+best regards  

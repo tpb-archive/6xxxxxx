@@ -1,0 +1,43 @@
+Changes in Version 1.51:
+
+Overall Improvements:
+
+1. Scheduling has been simplified, including relocation of scheduler.
+
+2. Website Blocking is now disabled when protection is turned off.
+
+3. Logs are sorted by date automatically.
+
+4. Updating is now much more efficient.
+
+5. All HKCU settings can now be set in HKLM to override user settings
+.
+6. Protection module now more efficient in terms of I/O read bytes.
+
+New Features:
+
+1. 14-day trial of the PRO version is now available. This is optional to all users.
+
+2. Scheduler now has an edit button.
+
+3. User is now notified of program updates awaiting installation.
+
+Issues Fixed:
+
+1. Fixed ignore list not working for default registry data, i.e. for 
+
+Broken.OpenCommand.
+
+2. Add to ignore list menu item is now left enabled if show tooltip balloon is 
+
+unchecked.
+
+3. User is now able to update from the system tray even if the scanner is open.
+
+4. Fixed full scan drive list updating issue.
+
+5. Fixed issue with protection module not honoring ignore list after an item is
+
+ restored from the quarantined.
+
+6. Date format on update tab is now the same as the system tray

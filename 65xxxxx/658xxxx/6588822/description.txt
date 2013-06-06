@@ -1,0 +1,22 @@
+Description: Crysis 2 - Advanced Graphics Options Utility
+This fan-made tweak utility for Crysis 2 will create an autoexe.cfg to adjust settings for the detail steps of shader effects, objects, particles, physics, shadows, textures, water, and much more. Also anti-aliasing in two different versions, Anisotropic filtering, field of view can be customized.
+
+
+Just a note if you're using an autoexe.cfg already, you should probably delete it, it could cause a crash.
+
+Anyways requirements:
+Crysis 2
+.Net 2.0 or higher
+Windows XP, Vista, or 7
+
+Basic instructions:
+
+1. Once you have unziped place anywhere you want.
+2. Delete any autoexec.cfg files found in the Crysis 2 root folder. (if you're asking what that is, don't worry about it)
+3. Delete any target commands you may have put on the shortcut as they will override the autoexec.cfg that is created
+4. Run the Crysis2AdvancedGraphicsOptions.exe
+5. Hit apply once all settings are set
+6. If no settings are applied, try running the program in administrator mode.
+
+*note* You do not have to start this program every time you want to play Crysis 2.
+

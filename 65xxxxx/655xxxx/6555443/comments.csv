@@ -1,0 +1,74 @@
+User Type,Username,Date,Text
+,imendez,2011-07-22T16:32Z,Somebody installed? its ok or its fake or Beta? thanks
+,borijosn,2011-07-22T17:33Z,This isn't a valid ISO
+,scorp123,2011-07-23T17:00Z,The *.iso file here seems to be damaged? Can't open it with any burning program :-/
+,SoulUploader,2011-07-23T21:37Z,"It can't be opened because it's the Mac file system, and no .iso burner will recognise it. It's for use in Virtual environments, like Virtualbox"
+,suckcock,2011-07-25T18:54Z,does this work for vmware workstation?
+,DJb222,2011-07-25T19:23Z,does this work for virtual box ? :D
+,Omani-Razor,2011-07-25T22:55Z,"hey guys you can burn it with a software called Transmac , (y) thanks uploader"
+,Dannieloco,2011-07-28T17:11Z,cee ^^ quit spamming
+,ectobio,2011-08-02T22:27Z,So you have to set it up with VMWare to get it to work with Virtualbox? :/
+,SoulUploader,2011-08-03T05:29Z,"@ectobio It'll work in Virtualbox, I've had confirmation on that. Not sure if it's as simple as just load the .iso or what though"
+,Ram69,2011-08-07T17:33Z,does it work in PC or not? if yes how can i do please let me know 
+,Ram69,2011-08-08T04:31Z,Does it work in PC ?I have windows 7 running on it . If yes let me know ....................abt it thank you 
+,Ram69,2011-08-08T04:32Z,downloading slow why ....................?
+,Ram69,2011-08-08T22:18Z,"Don;t download it.............., it is unable to burn i tried with nero, ISO burner and CDBurnerXP too but when buring is completed there no any file in DVD so don;t west yours time this my kind request "
+,chitowncomputerguy,2011-08-10T18:07Z,Does anybody know if this would work with mounting to a clone drive and running it that way?
+,baba.b,2011-08-14T09:03Z,"THIS JUST WORKS PERFECT!
+AS THIS ISO IS INVALID IN WIN FORMATS TRY CONVERTING IT IN SNOWLEPORD!"
+,baba.b,2011-08-14T09:05Z,"THIS IS PRESENT RETAIL FROM APP STORE!
+BUT GM VERSION IS ADVANCED 11A594 OR SO!
+NO NEED TO WORRY!"
+,genius88,2011-08-20T18:07Z,"dude u rock 
+frens all u need is 
+1.  VMWare Workstation 
+2. Mac OS X Lion VMware Files.exe
+3. check out video link 
+
+n it works perfect thnx uploader"
+,turbotits,2011-08-23T04:22Z,"If you're on linux, there is an hfs+ image inside this file. You can find it's offset as follows:
+
+Search for the hfs+ volume descriptor
+> hexdump -C Lion_10.7_11a494.iso | grep ""48 2b 00 04""
+
+The answer should be:
+
+00009400  48 2b 00 04 80 00 08 00  48 2b 4c 78 00 00 00 00  |H+......H+Lx....|
+
+This tells us that at hex block 0x9400 there is the beginning of an hfs+ partition. There is 1024 bits of boot code in front of this, so 0x9400 in decimal is 37,888. Subtract 1024 and you get: 36,864.
+
+So we attach this to a loopback device:
+> sudo losetup -o 36864 /dev/loop0 Lion_10.7_11a494.iso 
+
+And now we can mount that image provided you have hfs+ support installed:
+> sudo mount /dev/loop0 /mnt/OSXLion
+
+From there you can copy all the files out and make a dvd that you can use with iBoot to create a OS X Lion hackintosh!"
+,wallylunar,2011-08-30T02:52Z,Any instructions on how to install on Virtual Box?????
+,ytg123,2011-09-03T09:52Z,"thanx, works with vmware workstation"
+,ankit_pirate,2011-09-16T16:14Z,"SoulUploader... u r gr8.... thanks a ton :-)
+
+cleaned installed on my dell M6500 laptop dual boot with windows 7..... works f9 "
+,hunk123,2011-09-29T14:22Z,hey can i write this torrent to a Cd and use as a bootable cd using nero burner?? plzzz reply.......
+,Kaqanikudc,2011-10-11T17:26Z,"e has done this only upload, do not turn anybody and replies, what I expect from this...!"
+,ilupillu,2011-11-18T04:24Z,It Works Guys !!!!!! both platforms vmware workstation and Virtualbox ..........but my system is 32bit so i can't using in another laptop it works
+,windows10,2011-11-21T00:34Z,"Hi, how do you install this file on a USB Flash Drive? Thanks!"
+,rexion1,2011-12-18T15:21Z,Hi. Can this ISO be installed on PC? Can someone tell me how to do it? Thx.
+,dado_eyad,2012-02-06T07:56Z,it wouldn't boot on Virtual Box. any help?
+,sakkubai,2012-02-29T14:22Z,"plz give me another link to download torrent or      e-mail it to me : sakshamkmr1998@gmail.com
+PLZ GIVE ME THE TORRENT !!!!!"
+,scharag,2012-03-12T09:51Z,"NOT ""Bootable""."
+,hitmaneid,2012-03-28T07:03Z,Will this work with Virtual Box on 32 bit Windows 7?
+,adeelboss,2012-04-22T08:01Z,"This works but only on VMWare.
+the youtube link provided does not work.
+"
+,adeelboss,2012-04-22T08:02Z,search youtube for how to install on VMWare workstation 8
+,BobbySue,2012-04-23T14:42Z,"The reason it didn't boot in a VM is because you need another iso that bypasses stuff. You cant boot it because Mac OS X will ONLY run on Apple hardware UNLESS you tweak it. Such examples include iDeneb, Hackintosh, and iPC.
+
+Hope this helps!"
+,Suomisisu,2012-05-29T18:28Z,What a bunch of retards.. not a single person to comment if it works on a PC... I'm going for the .dmg one and I'm going to use Transmac to burn it... dumbasses seriously... comment something useful you morons or shut up.
+,Samirifai,2012-06-01T09:16Z,"DONT DOWNLOAD THIS IF YOU WANT TO BOOT IT ON VIRTUAL BOX
+http://thepiratebay.se/torrent/6701520/iAtkos_L1_Mac_OS_X_Lion_._dmg
+THIS IS BETTER, TRUST ME
+DONT WORRY IF ITS DMG
+JUST TRY IT"

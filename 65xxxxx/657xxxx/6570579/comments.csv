@@ -1,0 +1,114 @@
+User Type,Username,Date,Text
+,kaiokaio,2011-07-29T21:12Z,"Please help. It does not work.
+Step1 .... says to run the programme,
+Step2 .... says to run the update.
+Then to put the Ser.Num.
+Problems:
+Prog. does not run/install without ser. num. pasted.
+Update does not run if no programme is installed.
+All kind of test have been made offline and online."
+,kaiokaio,2011-07-29T21:13Z,"Programme does not run.
+Please tell in details."
+[T],Tyr3ll,2011-07-30T23:20Z,"I repeat :
+first,install the retail version with serial number included in the archieve and do all offline !!!
+reboot and install the update and then,you will get matching version anyway.Works for me so why not for you mates ?Unless you may need old patch update,to go from 5.0.0.180 to 5.0.0186
+so :
+try to update to previous patch update from my previous torrent first,and then,update to this very newest patch update to final so.
+Let me know if better when trying this alternative method so
+ty and sorry for this specific problem as well.
+regards"
+,kaiokaio,2011-07-31T21:10Z,"1. I went offline.
+2. Main programme installed with ser.num.
+3. Restart
+3. Updated with 5.0.0186 (OK)
+4. Restart
+5. After updating with the latest 5.0.1.113. - No restart was asked, and so how the update passed very quickly.
+Then appears that the last update deletes the main exe file, because after trying to start the programme it says invalid shorcut. If you try to update again with the latest, it says that you first have to install the main programme."
+[T],Tyr3ll,2011-07-31T21:18Z,"Final results :
+worked correctly on one of my computers.but was 
+extremely hard and difficult to sucessfully install anyway.
+still fails on my three others computers :(
+or the update auto exiting and does not install
+anything at all or it even completely removes all
+data,dll,ect...
+in my Arcsoft folder that becomes :
+empty so
+After few investigations on Arcsoft forum
+it seems this very newest patch does not really
+work for most retail users...
+this is the second new patch update and again,something's wrong and it does not install in most of time anyway.
+I really apologize about this second new patch update as a relative new flop from Arcsoft
+But as it was official,i thought it was ok as well anyway.
+Unfortunately again and again in most of time it fails like previous beta patch anyway.
+What's wrong with Arcsoft about this topic ?
+that's the question ...
+I even tried to download and update directly  from TotalMedia Theatre itself as i saw the new patch update but it failed again also.
+As strange thing few retail users have sucessfully installed it...
+That's crazy and i will only make  a reup if i will be
+sure that the new patch update,official or not will
+truly work anyway.Shame on Arcsoft as they are still unable to resolve this crap issue anyway.
+A new patch update that does not install...
+rofl they are wicked sick_lmao
+somewhat disappointing anyway again and again
+sorry again mates and forgive me for this faulty
+up and try to forgive Arsoft much more again than me so.
+regards"
+,kaiokaio,2011-07-31T21:28Z,"Thanks a lot for the assitance.
+I also noticed these issies if you update directly through arcsoft, again and agian it says that you have a new update ... continiously.
+Anyway it is good that at least the player is still working.
+Thanks again, we will wait for a proper update fix."
+,St_Frank,2011-08-01T09:19Z,"Hey, guys. I think I know what's going on here. A user on the Arcsoft forum figured it out. Arcsoft is now blacklisting certain serials. During the autodetect screen, if you look in your 'temp' folder, you'll see a file called 'Blacklist.ini' and it's a list of serial numbers. 
+
+The blocked serials are:
+VBTRX8-89XV3L3SSM-5NQ853L6
+SPBUZH-X6H5VLLZPH-AQ5ZQ4QH
+4GM5T6-5T46YDV5UM-UVWZLWJC
+C8B2SY-WQBGMT9XZV-WQDZNE7K
+2J38T8G-T2SW3HV2X-VT3852YR
+QL8QBF-MDV6N38TV9-DAS4XU7W
+JD6FZH-38U5NGWLJ2-UE24LXC6
+HWBG7B-6AKBB3V3DA-4RTD5AEK
+A5UYZF-8YH69N3FUJ-PNZAWVZC
+
+So if anyone knows of any serials that are not on that list, I'm sure we'll be able to get the patch working then. 
+
+Good luck, everyone!"
+[T],Tyr3ll,2011-08-01T12:00Z,"yeah exactly as i have expected that's why i said do it : offline !
+unfortunately even online it is exactly the same result :s
+but i think when you start to update for, there is a sort of scan which is able to detect what serial is already installed anyway.
+Thx to confirm it bro ! nice ! ;)
+regards"
+[T],Tyr3ll,2011-08-01T12:55Z,"well to all
+please,go to this torrent :
+http://thepiratebay.org/torrent/6575233/Arcsoft_TotalMedia_Theatre_5.0.1.113_Final
+seeded by our dearwell known trusted member
+take only his serial as it seems working and not blacklisted yet
+all other files are same than mines apparently.
+but you can download all again also.
+NP ;)
+install all offline anyway
+Arcsoft uses online server checker also !
+Beware so !
+thx to Anacondaz for his very helpfull support
+That's why we are both trusted
+We are here to help you if you got any problem
+in the limit of our personal help,of course !
+enjoy"
+,St_Frank,2011-08-02T01:11Z,Thank you for the link! Cheers.
+[T],Tyr3ll,2011-08-08T11:07Z,"New official patch update to 5.0.1.114 :
+
+Changes in TotalMedia Theatre 5.1.1.114:
+BUG FIXES
+01. Remove popup message in Media Center stating some discs may require an update to play.
+02. Show proper error messages in cases where installation aborts.
+
+download :
+(http://download.arcsoft.com/downloads/digitaltheatre/arcsoft/totalmediatheatre_5.0.1.80_5.0.1.114_update_all.exe)
+
+Homepage - (http://www.arcsoft.com/products/totalmediatheatre)
+
+Size: 59.7 MB
+
+this new patch update will advertice you if you use blacklisted serial and won't install by this fact anyway.preserve your valid serial by using your soft as always use it offline and be sure to always close your TM server icone as well to avoid online server checker from Arcsoft.Any new patch update must absolutely be installed offline too.
+GL to all so !
+cheers ;)"

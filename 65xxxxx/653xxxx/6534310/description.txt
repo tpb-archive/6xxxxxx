@@ -1,0 +1,61 @@
+Raxco Software, the leader in disk defragmentation, now provides the power of enterprise defragmentation for desktop and laptop users with PerfectDisk. PerfectDisk's easy to use interface and powerful defrag engine were designed for users who do not require the capabilities of network defragmentation and advanced features for the enterprise. PerfectDisk is a software that helps you to defrag disks. If you want to optimize your computer to run faster and perform better so you can do more â€“ whether work or surfing the Web â€“ and don't run in a networked environment like many companies, then PerfectDisk is for you.
+
+Key features:
+â€¢ Patented SMARTPlacementâ„¢ Optimization
+â€¢ Space Restoration Technology
+â€¢ Single-pass File and Free Space Defragmentation
+â€¢ Complete Automation
+â€¢ Minimal Free Space Requirement
+â€¢ Complete NTFS Metadata File Defragmentation
+â€¢ Optimized Master File Table (MFT) Placement
+â€¢ Selected Files Defrag
+â€¢ CPU and I/O Throttling
+â€¢ User-defined thresholds
+â€¢ Full Active Directory Integration
+â€¢ Optional GUI-less Installation
+â€¢ Full-featured Command Line Interface
+â€¢ Low System Resource Usage
+â€¢ Automatic Shutdown After Defrag
+â€¢ Defragments directories, pagefile and hibernate file
+â€¢ Improved performance
+â€¢ Smart automatic StealthPatrol
+â€¢ Complete space management reports
+â€¢ Faster Free Space Consolidation
+â€¢ Enhanced AutoPilot Scheduling
+â€¢ Unattended automatic scheduling for virtual machines
+â€¢ Complete defragmentation of all system files and NTFS metadata on virtual drives
+â€¢ Enhanced user interface
+
+Operating System:
+- Windows XP Professional
+- Windows XP Home
+- Windows Vista - All Editions
+- Windows 7 - All Editions
+- Windows Server 2008
+- Windows Server 2003
+
+What's new in PerfectDisk 12 (Build 275)
+â€¢ There were several issues where the S.M.A.R.T. tab indicated outrageously high temperatures. This was due to PerfectDisk not recognizing the drive model and trying to apply an incorrect set of rules to interpret the S.M.A.R.T. data. In this build PerfectDisk will only provide S.M.A.R.T. data for drives in recognizes. More drives will be added in later service packs.
+â€¢ Real time defragmentation aggressively allocated space to prevent additional fragmentation. This resulted in consuming large amounts of space unnecessarily. The main symptom was rapidly growing log files. This has been corrected.
+â€¢ On some Windows XP systems the drives were grayed out annd PerfectDisk could not be used. This was due an issue with WMI which has been corrected.
+â€¢ On Windows 7, the hidden 100mb partition created to support bitlocker has been added to the excluded drives list automatically. There is no benefit in defragmenting this partition.
+â€¢ Multiple text changes were made to maintain the PerfectDisk consistent with the PerfectDisk Console.
+â€¢ When enabling or disabling the SMART feature, the PerfectDisk GUI did not reflect the changes until you closed and reopened the GUI. This has been fixed.
+â€¢ There was a bug in displaying the MFT statistics. Text was inserted where numerical values should have been. This has been corrected.
+â€¢ When SMART polling occurred, the SMART Tab refocused to the first disk in the list. This has been fixed to leave focus on whatever disk was selected.
+â€¢ When entering a license key the Help menu still allowed you to reenter it. This has been fixed.
+â€¢ When right clicking on a file in the Most Fragmented Files list, and choosing to open the folder you would get an error if the file path contained a space. This has been fixed.
+â€¢ Ability to set partitions as Thin Provisioned has been removed from the PerfectDisk consumer product line. This feature is for corporate thin provisioned SAN environments.
+â€¢ There was a bug in the VMware Host product which caused the GUI to crash when performing an offline defrag on a virtual volume. The crash was in the PerfectDisk GUI and did not affect the virtual volume. This has been fixed.
+data retention rules were added to prevent the log file growing too large. Before Service Pack 1, all alerts were saved. Now Alerts are saved for two weeks and then purged.
+â€¢ During a defrag pass, the hibernate file is temporarily removed to free up space to improve defrag performance. If the computer was shutdown during a defrag pass or when a defrag pass was PAUSED, the hibernate file was not restored. This has been fixed.
+â€¢ Additional information was added to the log when performing a Zero Fill pass (Server product only).
+â€¢ Some of the Alerts had the incorrect text. The Alert indicated you had exceeded a threshold when it should have indicated you dropped below the threshold value. values were also being incorrectly flagged as alerts when they were not. These have been fixed.
+S.M.A.R.T. temperature graph appeared to be out of date. This was due to only graphing 1000 data points, where there could have been up to 44,600. This has been fixed.
+â€¢ After an Analyze pass, PerfectDisk made a recommendation on what type of defragmentation pass was needed and allowed you to start that pass right away. There was a bug which caused PerfectDisk to start the default defrag pass not the currently recommended. This has been fixed
+
+
+Tested And Working
+
+
+Enjoy

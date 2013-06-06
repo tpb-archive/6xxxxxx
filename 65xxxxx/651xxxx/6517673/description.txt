@@ -1,0 +1,36 @@
+Canaima 3.0 representa fundamentalmente un cambio de paradigma tecnolÃ³gico destinado mejorar la forma en que los colectivos o comunidades participan en el proceso de creaciÃ³n de Software Libre. TambiÃ©n, Ã©sta versiÃ³n incorpora elementos visuales y aplicativos innovadores, software desarrollado por comunidades nacionales, entre muchas de las bondades que podemos mencionar.
+
+Canaima 3.0 representa fundamentalmente un cambio de paradigma tecnolÃ³gico destinado mejorar la forma en que los colectivos o comunidades participan en el proceso de creaciÃ³n de Software Libre. TambiÃ©n, Ã©sta versiÃ³n incorpora elementos visuales y aplicativos innovadores, software desarrollado por comunidades nacionales, entre muchas de las bondades que podemos mencionar brevemente a manera de preÃ¡mbulo.
+
+Canaima 3.0 tiene las siguientes caracterÃ­sticas: Nuevas aplicaciones por defecto:
+Deluge: Gestor de descargas torrent ligero basado en Python.
+Emesene: Cliente de MensajerÃ­a instantÃ¡nea MSN basado en Python.
+Turpial: Cliente de twitter e identi.ca basado en Python, desarrollado por comunidades venezolanas.
+Exaile: Reproductor multimedia integral basado en Python.
+LibreOffice: Suite ofimÃ¡tica basada en OpenOffice, libre de restricciones corporativas.
+Canaima Notas: AplicaciÃ³n propia desarrollada para facilitar el reporte de errores por parte de los usuarios. Publica caracterÃ­sticas de hardware en la plataforma notas.canaima.softwarelibre.gob.ve.
+Cunaguaro: Navegador web basado en Iceweasel, adaptado a la plataforma Canaima y con mejoras de rendimiento. Desarrollador por comunidades venezolanas.
+GuÃ¡charo: Cliente de correo basado en Icedove, adaptado a la plataforma Canaima. Desarrollador por comunidades venezolanas.
+Shotwell: Visor de imÃ¡genes con diversas funcionalidades.
+Simple Scan: Gestor de scÃ¡neres.
+ Otras aplicaciones:
+Canaima Desarrollador: Conjunto de ayudantes y herramientas que asisten en el proceso de creaciÃ³n de software.
+Canaima Semilla: Herramienta para la creaciÃ³n de ISO's basadas en sabores de Canaima.
+Canaima ContraseÃ±a: Asistente de cambio de contraseÃ±a para los usuarios de las computadoras distribuÃ­das por los fabricantes (VIT, CANTV, Siragon, etre otros).
+Canaima Restaurar: Permite restaurar el Sistema Operativo a su estado inicial de InstalaciÃ³n.
+Canaima Curiara: Visor HTML ligero y de alto rendimiento basado en Python-Webkit.
+ AgrupaciÃ³n de paquetes a travÃ©s de metapaquetes temÃ¡ticos (canaima-web, canaima-ofimatica, canaima-multimedia, entre otros). CreaciÃ³n de un nuevo estilo visual:
+Nuevo tema GTK para la decoraciÃ³n de las ventanas.
+Nuevo tema Metacity para los bordes de las ventanas.
+Nuevo set de Ã­conos basados en el tema Faenza Dark.
+IncluÃ­dos conjunto de 11 wallpapers hechos en comunidad.
+Nuevo gestor de inicio Plymouth, con tema adaptado a Canaima.
+Nuevo gestor de arranque BURG, con tema adaptado a Canaima.
+ Optimizaciones de rendimiento variadas:
+ImplementaciÃ³n de demonios de optimizaciÃ³n de la experiencia de usuario (prelink, preload, readahead).
+ReducciÃ³n de los demonios que se activan durante el arranque del sistema.
+ReducciÃ³n del factor de swappiness.
+ReducciÃ³n del nÃºmero de TTY's a 2.
+ImplementaciÃ³n del parche de Lennart Poettering.
+AÃ±adiendo la opciÃ³n de noatime a los discos donde sea pertinente en /etc/fstab.
+ GeneraciÃ³n del sabor canaima-primera-base, que es una base mÃ­nima de canaima, destinado a ser la fuente de los demÃ¡s sabores. Profunda reestructuraciÃ³n del sistema de paquetes de canaima, basÃ¡ndose en la metodologÃ­a git-buildpackage para la generaciÃ³n de paquetes binarios a travÃ©s de paquetes fuente.

@@ -1,0 +1,117 @@
+User Type,Username,Date,Text
+,Costa2010,2011-07-25T19:12Z,thanks...
+,badacid,2011-07-26T21:09Z,Works like a charm:)
+,malipas,2011-07-27T11:30Z,Unloched? Thak You.
+,H8machine,2011-07-28T19:06Z,Can someone give step by step instructions? 
+,Zsoltie,2011-08-01T08:27Z,"Can't be unlocked. However after trying to unlock Mapsource shows this map is unlockable, but after I uploaded into my GPS using a hacked Mapsource, the unit says this map cannot be unlocked. We need a working method to get this working."
+,slitherman-uk,2011-08-02T23:18Z,"Hi Guys I had same problem with map locked. installed the mapinstall special available here
+http://thepiratebay.org/torrent/5667578/Garmin_MapInstall_3.14.2_Special.
+worked fine after that.Thanks for the upload."
+,XenoSilvano,2011-08-12T04:35Z,Many Gracious Thanks
+,Brigadierslasaus,2011-08-17T14:42Z,"I have a problem. I downloaded this torrent, after that I installed this with ''CNEUNT2012_20Update'''. I already had installed Mapsource 6.16.3 and I patched it with 6.16.3 mapsource. After I installed the City navigator 2012.20 I installed mapinstaller 3.15.0 and I patched this one too.
+Then I started Mapinstaller and generated a key with Keygenerator 1.5. After this, the maps were unlocked. But after I transferred them to my GPSmap 62s, on the display appeared a comment with the maps are not unlocked.
+I dont understand why my GPS can't run the maps. What I'm doing wrong?"
+,laotseu,2011-08-19T11:19Z,I can confirm ! Even with the cracked mapinstall it cannot be unlocked - believe me ! We need another method here.
+,laotseu,2011-08-19T11:47Z,"Here is a link that may help...
+http://www.haklabs.com/2010/garmin-2011-gps-update/
+but we are missing the custom mapset !"
+,laotseu,2011-08-19T11:49Z,"Sorry - I miss this one at the bottom !
+the code is 2473."
+,laotseu,2011-08-19T12:07Z,I have been trying the method as mentioned in my previous link and it works  perfect for me !
+,laotseu,2011-08-20T08:58Z,I have to add something about this method - it works perfect for installing the map BUT the map CANNOT be authenticated by the GPS. Maybe somebody has an idea ???
+,ormeo,2011-08-21T22:56Z,"First off start by following the guide mentioned earlyer (http://www.haklabs.com/2010/garmin-2011-gps-update/)
+You will also need the *patched* software from here (http://gpsunderground.com/forum/garmin-tutorials/8980-how-install-create-map-original-mapsource-locked.html)
+
+@laotseu and everyone else: try this (http://thepiratebay.org/torrent/5798330/JetMouse_Garmin_Keygen_v1.5_with_Checksum_Fix) and use the device ID that Map Source provides you to generate a map unlock code. Create on the SD card a ""gmapsupp.unl"" file containing the map unlock code.
+
+With this method I was able to see the map in the device, however I can not input new addresses for destinations (recent selection addresses work) since it says ""no matches found""
+If anyone has the solution for this last step please share with us :)"
+,ormeo,2011-08-21T23:33Z,"Found a fix for the ""no matches found"" issue. If you rename the file on your device from ""gmapprom11.img"" to ""gmapprom.img"" it fixes the issue. Seems that gmapprom11.img is the name for US...even though a previous version of the europe map worked np with it... anyways, gl guys and feel free to ping for info."
+,ormeo,2011-08-21T23:46Z,"To fix the  ""no matches found"" issue, rename the gmapprom11.img file from the device to gmapprom.img"
+,Mr-d,2011-08-23T20:09Z,"Couldn't get it to work with Mapsource V6.16.3.
+
+Download V6.15.7 instead:
+http://www.gawisp.com/perry/mapsource/
+
+Download V6.15.7 Patch:
+http://thepiratebay.org/torrent/5343160/Garmin_MapSource_6.15.7_Special
+
+Download Jetmouse V1.5 Keygen:
+http://thepiratebay.org/torrent/5798330/JetMouse_Garmin_Keygen_v1.5_with_Checksum_Fix_
+
+Download Mapinstall_Special:
+http://thepiratebay.org/torrent/6602088/Garmin_MapInstall_Special_v3.15.0
+
+1. Unpack CNEU2012_20.rar
+
+2. Run CNEUNT2012_20Update.msi 
+
+3. Install Mapsource.
+
+4. Patch Mapsource. (Overwrite Mapsource.exe in C:\Mapsource with the patched version)
+
+5. Patch Mapinstall.exe (Wait for CNEUNT2012_20Update to finish, and then copy the Mapinstall_Special file and overwrite MapInstall.exe in C:\Mapsource)
+
+6. Open Mapsource, close the ""Locked Maps Detected"" window. 
+
+7. Go to Utilities - Get Unit ID and copy the Unit ID (GPS must be connected!) and close Mapsource.
+
+8. Open the Jetmouse Keygen, paste your Unit ID into the box at the top
+
+9. At the bottom below ""Select Map Product"" select  from the dropdown menu, enter 2473 in the ""FID (Or MapID)"" field and hit OK.
+
+10. At the BOTTOM RIGHT press the generate button and copy the ""Your map unlock code"" value. 
+
+11. Open Mapsource, press ""Unlock maps"" and select the top tab ""Unlock Regions"" press ""Add"" and paste the map unlock code in there. Hit OK.
+
+12. Your map should now be unlocked and showing in the ""Unlock regions"" list.
+
+13. Run MapInstall.exe from C:\Mapsource and it should all work fine :)
+
+Works for me on a Nuvi 255WT on Windows 7 Ultimate 64bit."
+,filriyadh,2011-09-01T09:14Z,"works great with 205w, looking good thus far."
+,crosel,2011-09-17T22:54Z,"Thanks so much for uploading this torrent!
+
+and thanks so much to Mr-d 
+
+for posting his explanation of how he got it to work!
+
+I followed almost exactly what he said with a few differences and got it to work on Windows Vista.
+
+for number 5, MapInstall.exe was not in C:\Mapsource for me. It was in C:\Garmin for me!
+
+
+I downloaded everything he told me to download. For his explanation of number 7, i.e. ""Go to Utilities - Get Unit ID and copy the Unit ID (GPS must be connected!) and close Mapsource."" I realized that the whole point of this is to connect your GPS and see what the unit ID is. So once you're in Get Unit ID plug in your GPS device and it will give you the unit ID... Maybe before or during that Get Unit ID window.... 
+
+Jetmouse?? to me it was just the Keygen 
+
+9 was somewhat confusing, but all you have to do is sselect a custom option from the dropdown menu and then you can enter ""2473 in the ""FID (Or MapID)"" field and hit OK.""
+
+The rest is self-explanatory OH YES
+I had a Nuvi 255W"
+,JAMESON12,2011-09-29T18:00Z,"Here is a link-same map, but unlocked: 
+http://elit-bg.com/index.php?page=torrent-download&id=91efa8cd37f52302fd8bfa2a6fb8cb4126f47cfb#comments"
+,RafVne2,2011-10-06T17:09Z,thank you buddy for the upload
+,dirpower,2011-10-07T22:54Z,"I had a problem with ""incorrect language dll"". 
+My solution: Rename MapSource(your language).dll to MapSource.dll"
+,merjasec666,2011-10-08T09:25Z,"I followed the instructions written by Mr-d, but I can not unlock the maps...
+
+after entering the unlock code,
+unlock regions shows: ""map product not instatled""
+
+any suggestions????"
+,slllopes,2011-10-10T00:09Z,"I followed all the instructions and everything seemed to be working fine. My GPS opens the map and I can input a destination. The only problem is that GPS cannot find sattelites. I drove for over 45 minutes and it didn't find any. I tried again and it still doesn't work, so I know something is wrong. Any one knows how to correct this?
+Thank you!"
+,slllopes,2011-10-10T00:09Z,"I followed all the instructions and everything seemed to be working fine. My GPS opens the map and I can input a destination. The only problem is that GPS cannot find sattelites. I drove for over 45 minutes and it didn't find any. I tried again and it still doesn't work, so I know something is wrong. 
+
+Any one knows how to correct this?
+Thank you!"
+,slllopes,2011-10-10T00:10Z,"I followed all the instructions and everything seemed to be working fine. My GPS opens the map and I can input a destination. The only problem is that GPS cannot find sattelites. I drove for over 45 minutes and it didn't find any. I tried again and it still doesn't work, so I know something is wrong. 
+
+Any one knows how to correct this?"
+,sigbert,2011-10-14T13:12Z,"Cant figure out weither I'we installed mapsource or what?
+Where should I find it?"
+,amilaza,2011-10-15T18:14Z,Does the search (address) option work with you?
+,Enzio_Ferrari,2011-10-18T03:06Z,"At last a set of maps that appear to be genuine! I've lost count of the times I've downloaded and installed 'updated' maps that are the old ones rebadged. I'll update this comment the next time I have cause to use my C550 StreetPilot.
+The instructions on how to get it to work may be long-winded, but at least they work and I don't have to turn the house upside down searching for my 25 character Unlock Code to install my original version of CNEUNT (lost the installation when my C: drive failed and all the backups proved to be corrupted). Mostly it's as 'Mr-D' sets out, but don't forget the modified Step 9 from 'crosel'."
+,sigbert,2011-10-19T22:41Z,"I lost sattelites too. Hold the sattelit-bar (upper left on meny page) for a moment, and a new screen opened on my N端vi255. When outside for a sig, and held the gps in my other hand, and in a while it found my position."

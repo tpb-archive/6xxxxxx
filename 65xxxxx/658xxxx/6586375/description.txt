@@ -1,0 +1,14 @@
+The Free and Open Source Software for Disk Imaging and Cloning
+Alternative testing (Ubuntu based)
+
+Clonezilla live 20110806-natty 	
+The underlying GNU/Linux operating system was upgraded. This release is based on the Ubuntu Natty repository (as of 2011/Aug/06).
+German language files were added. Thanks to Michael Vinzenz michael.vinzenz _at_ scalaris com.
+Bug fixed: sgdisk failed to reload a GPT table if no inital GPT table on a new disk.
+ 	
+	-- Steven Shiau steven _at_ nchc org tw  Sat, 06 Aug 2011 12:50:00 +0800
+ 
+http://www.clonezilla.org/
+
+md5sum : d096bf157615f78f3eb2b25de07e6740  clonezilla-live-20110806-natty.iso
+sha1sum : f444bb595661165ebe1bdda0090fbbb594c67884  clonezilla-live-20110806-natty.iso

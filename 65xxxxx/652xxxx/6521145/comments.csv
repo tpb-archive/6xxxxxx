@@ -1,0 +1,16 @@
+User Type,Username,Date,Text
+,BasilBrush,2011-07-06T23:55Z,"Demonoid cross post:
+
+demonoid [.] me
+[slash] files
+[slash] details
+[slash] 2683172"
+,BasilBrush,2011-07-07T00:16Z,"There's a -200ms lip sync error at the beginning. The error is in the MPEG2 source as well.
+
+ITV are using the h264 HD stream to create the Mpeg2 SD stream and audio sync is always a problem with HD.
+
+In VLC hitting the 'J' and 'K' keys shifts the audio by 50ms - try hitting 'J' 4 times to create a -200ms audio offset.
+
+The audio comes back into sync later on. I'll have to check for this in future and encode using a different method."
+,BasilBrush,2011-07-08T00:38Z,"Stage 6 highlights
+http://thepiratebay.org/torrent/6523733"

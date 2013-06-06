@@ -1,0 +1,85 @@
+User Type,Username,Date,Text
+,twilight_nexus,2011-07-21T12:26Z,"i cant see any video... the screen is all black, i can however hear sounds (none of my videos are playing correctly, no matter the format, HD or low-res) i turned off hardware acceleration too.. but nothing happened. can someone help !!"
+[T],Tyr3ll,2011-07-21T15:44Z,"@twilight_nexus :
+bro,could you please give us more information about your own configuration ?
+Verify your version at first,is it well 5.1.110 ?
+It seems effectively that in certain cases,last patch does not work...
+I must verify again about this problem anyway.
+Will up a fix if needed as well.
+sorry again mate.let us know more about your problem,please !
+regards"
+[T],djjlicious,2011-07-21T15:52Z,"Thanks, great upload!!"
+,twilight_nexus,2011-07-21T15:59Z,i honestly dont know whats wrong. i installed it like u said.. it didnt work. i then tried it without any updates.. the screen remained blank. updated again and the screen still remained the same. maybe my pc isnt up to it. btw i got core2duo with 2G RAM and 500G HDD. anyways thanx for acknowledging the comment. keep up the good work.
+[T],Tyr3ll,2011-07-21T16:51Z,"official link from ArcSoft for this new beta patch update as it is not official yet and is offered as 
+beta test anyway :
+
+(http://www.arcsoft.com/forum/forum_posts.asp?TID=8768&title=totalmedia-theatre-511110-public-beta-test)
+
+Welcome to the public BETA test of TotalMedia Theatre 5.1.
+
+1. Do not report issues with this BETA build to customer service unless explicitly informed to in this thread. Report any issues you find in this thread, and be sure to include a summary of your hardware and software environment.
+
+2. This is BETA software. It may have issues. If you aren't comfortable with that, wait for the official release.
+
+3. The BETA cannot be rolled back to the release version without complete uninstall and a reinstall using your ORIGINAL full version installation file. Verify you have your original install file available BEFORE installing the BETA in case you need it.
+
+4. The BETA requires having a full registered version installed.
+
+NEW FEATURES
+01. Support AMD Fusion platform (Brazos + SABINE)
+02. Support Intel SandyBridge platform (eDP+HDMI1.4 3DTV)
+03. Support multiple audio tracks in MKV
+04. Support standard and VobSub subtitles in MKV
+05. Support audio bitstreaming in MKV
+06. Support automatic refresh rate switch to 24hz for 24FPS content
+07. Improve TM Remote support for iOS (also, download seperate TM Remote update)
+08. OpenCL support for SimHD on AMD graphics
+09. Support 3D playback in a window on NVidia platform
+10. Sim3D quality improvement
+11. Support 3rd party MCE launch via PlayerLoader URI
+
+BUG FIXES
+01. YouTube playback
+02. Fix HD audio bitstreaming on some systems
+03. Last size/position of standard UI window remembered when reopened
+04. Fix Capture for unprotected video
+05. Fix BD-Live compatability with some discs (AVATAR CE Disc 2 &3)
+06. Fix stutter/pop at branch point on seamless branching discs
+07. Fix bitstreaming audio on AMD 6310M platform
+08. Fix 1.0 PCM only playing out of left channel
+09. Fix no audio issue on MKV on Intel Clarkdale platform
+10. Fix MCE back button when using command line launch
+11. Fix MCE error when launching TMT while other MCE media playing
+
+(http://download.arcsoft.com/downloads/digitaltheatre/arcsoft/totalmediatheatre_5.0.1.80_5.1.1.110_update_all_beta.exe)
+
+ Edit :
+
+If you've tested the auto refresh rate switching feature and would prefer to have it off, the hotfix below will disable it.
+
+
+(http://download.arcsoft.com/downloads/digitaltheatre/arcsoft/disableautoswitch.zip)
+
+
+1. Download and extract the contents of the ZIP file.
+
+2. Copy the enclosed file into TMT's folder under \Plugins\VideoModule\PlayDVD
+
+
+It should replace the existing file. Back up the file there before replacing it in case you'd like to enable auto-switching, or have an unexpected problem with it being disabled.
+
+I suggest for those who could experiencing few problems to go directly on the following link up more to ArcSoft forum about this specific patch as well.few options might not rightly work after having installed this last one,indeed !
+GL
+works for me but few functions fail sometimes anyway as well...
+otherwise wait for the full final release of this new
+patch so.
+sorry again 
+for ATI users : use must use minimum catalyst 11.5 or more recent update as well.
+for NVidia users it is still a little bit more confused
+but suggest you to use minimum 270 driver version anyway
+GL mates
+regards
+"
+,kaiokaio,2011-08-09T17:31Z,"Hello,
+Does anyone know why I can not play clips from youtube. It always shows ""Unsupported file type"". It is not big deal about it, but it is annoying and can it be fixed somehow. Otherwise everything works perfectly, even I have updated to the latest directly though the programme itself."
+,mankhan67,2012-02-14T07:41Z,"Dear Tyr3ll, Is there any hope for 5.2.1.119?"

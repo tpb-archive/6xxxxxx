@@ -1,0 +1,9 @@
+From DistroWatch.com :
+Garrett D'Amore has announced the release of NexentaStor 3.1, an enterprise-class storage solution built upon the foundation of the OpenSolaris-based Nexenta Core Platform: 'After a long and arduous release cycle, I am pleased to report that NexentaStor 3.1 is available now. This release includes a number of key features, including some significant improvements for performance and manageability. Folks using SCSI target mode will probably see the biggest performance boost relative to earlier versions of NexentaStor, especially those folks using NexentaStor to serve up storage to VMware guests -- thanks to the VAAI offload support that is part of this release. And yes, this release includes the fix the long-standing problem with iSCSI timeouts. For ZFS fans, this release also includes the updates for ZFS version 28.'
+ 
+http://en.wikipedia.org/wiki/Nexenta_OS 
+http://www.nexenta.com/corp/images/stories/pdfs/release_notes_3%201_v4.pdf 
+http://www.nexentastor.org/projects/site/wiki/CommunityEdition 
+http://www.nexentastor.org/
+
+554dc1fa703586eeb62b5faa5ae0d237  NexentaStor-Community-3.1.0.iso.zip

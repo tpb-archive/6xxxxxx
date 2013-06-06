@@ -1,0 +1,23 @@
+What is AUSTRUMI ?
+Fastest Linux distribution with 3D support for ATI, Nvidia and Intel video cards
+Contains all necessary basic programs for work and entertainment
+The modern user interface into Latvian, Russian, English, Greek and other languages
+Simple boot from CD, flash drive or HDD
+It is fitted out for the servers and workstations
+Release Notes
+added localization in spanish (thanks to Jesus Fernando Montenegro)
+added parted - partition editor, used for creating, destroying, resizing, checking, and copying partitions, and the file systems on them
+added grsync - utility that provides fast incremental file transfer
+added yad - display graphical dialogs from shell scripts or command line
+removed Opera added Mozilla-firefox
+removed MySQL added MariaDB
+removed nginx added hiawatha
+updated: acpid, bind, cdrtools, cpio, cups, cxxlibs, dhcpcd, dovecot, ed, eiskaltdcpp, emelfm2, equinox, findutils, flash-player, freerdp, fvwm, gawk, gimp, grep, grisbi, htop, infozip, less, libreoffice, lilo, linphone, logrotate, lxtask, mc, module-init-tools, mplayer, mtr, myspell-lv_LV, nginx, nmap, ntfs-3g, ntp, openssh, partimage, patch, pciutils, php, pkgtools, postgresql, procps, qemu-kvm, remmina, rpm2tgz, sed, setxkbmap, squashfs-tools, tar, tcpdump, traceroute, transmision, vsftpd, which, xmail, xorg-server, xz
+updated libs: acl, attr, audiofile, babl, fglrx, fontconfig, freetype, gegl, glib2, glibc, gtk+2, icu, libart_lgpl, libcap, libcdio, libdrm, libevent, libfontenc, libgsf, libICE, libjpeg-turbo, libogg, libosip, libpcap, libpciaccess, libpng, libraw1394, librsvg, libSM, libusb, libX11, libXfixes, libXft, libXi, libxkbfile, libXp, libXpm, libXrandr, libXrender, libXres, libXScmSaver, libXt, libXv, libXvmc, libXxf86vm, mesa, neon, newt, nspr, nss, nvidia-glx, pango, pixman, poppler, slang, vte, xf86-input-keyboard, xf86-input-mouse, xf86-video-ati, xf86-video-intel
+updated kernel 2.6.39.3
+ 
+http://cyti.latgola.lv/ruuni/ 
+http://forums.slackers.lv/viewforum.php?f=12 
+http://www.punbb-hosting.com/forums/austrumi/ (unofficial)
+
+md5sum : affc20a20c14414f9487b7fa0338b615  austrumi-2.4.0.iso

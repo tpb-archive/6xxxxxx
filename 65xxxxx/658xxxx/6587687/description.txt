@@ -1,0 +1,9 @@
+When press a key in Notepad/SMS/Contacts you must wait 1 second before 
+it shows, so that you can type a new one. 
+This patch reduces the time to 0.5 seconds, for experienced typists. 
+The repeat rate 0.6 seconds is also reduced: the long-press becomes 0.3 
+
+
+
+
+For hacked N8 with Rompatcher for Symbian^3

@@ -1,0 +1,26 @@
+this is the auto uploader from my previous upload but this one is pre-modded
+it has he following mods installed:
+modloader
+GuiAPI0
+Audio mod
+portals mod
+singleplayercommands
+worldedit
+toomanyitems
+CCTV mod
+Bookschelf mod
+spawner GUI
+
+and some other mods that aren't installed but can be fun are included too...
+
+also you can (of course mod yourself -if u know how-) change the skin and texture of minecraft by going to:
+library/application support/minecraft/bin/minecraft.jar
+for skin adjust inside the "mob" file the "char.png" file make sure its a png file when you're done with it.... otherwise it will crash
+
+and for texture just search for terrain.png and adjust it same story make sure its a png otherwise it will crash
+
+if you have a black screen your java is not up-to-date OR your computer lets minecraft use older versions of java to solve this problem go to "minecraftsp" show package contents/contents and then edit info.plist with texteditor or some other program...   anyways...   adjust (in rule number 53) "<string> ... </string>" to "<string>1.5+</string>" 
+that should do the trick
+
+still having any problems? ask away ;p
+I will help you ASAP

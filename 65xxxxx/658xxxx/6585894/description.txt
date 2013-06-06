@@ -1,0 +1,10 @@
+4 programs from Herbert Kociemba's Rubik's Cube solver:
+1. Cube Explorer 5.00, wrapped in Wineskin with a base table pre-calculated
+2. Same as 1, but with a 1.8GB cube table pre-generated. This version is much larger, and slower to start up, but far faster for solving individual cubes.
+3. Optimal Solver for Mac, with base table pre-generated. This version is dedicated to finding optimal solutions. There is no GUI for entering cubes, and it won't find quick solutions in less than a few seconds. For either of those features, use one of the solvers mentioned above. For fast optimal solutions, use this.
+
+Additionally, this includes a .jar file that must accompany any .html that is exported from Cube Explorer, side-by-side in the same directory.
+
+Cube Explorer uses two algorithms to solve cubes: the two-phase algorithm, which can solve a large number of cubes very quickly, and the optimal algorithm, which always solves a cube in the most efficient manner possible in terms of number of turns.
+
+While Cube Explorer supports inputting cube data via a webcam, Wine does not yet have the level of USB webcam support that is required to use it. If this changes, I will upload a new version of this torrent with webcam support.

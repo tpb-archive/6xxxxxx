@@ -1,0 +1,12 @@
+From DistroWatch :
+Clonezilla Live is a Debian-based live CD containing Clonezilla, a partition and disk cloning software similar to Norton Ghost. It saves and restores only used blocks in hard drive. With Clonezilla, one can clone a 5 GB system to 40 clients in about 10 minutes.
+Clonezilla live 1.2.9-19
+The underlying GNU/Linux operating system was upgraded. This release is based on the Debian Sid repository (as of 2011/Jul/22).
+A bug about failing to do disk to disk clone was fixed.
+ 
+http://www.clonezilla.org/
+
+md5sums : 
+5153efeec78e7569437295b88f0d3f1a  clonezilla-live-1.2.9-19-amd64.iso
+7ec004c419dde361d8ecf1b281c33a01  clonezilla-live-1.2.9-19-i486.iso
+0c0717b1dcbf538636e3eebee2f6d043  clonezilla-live-1.2.9-19-i686-pae.iso

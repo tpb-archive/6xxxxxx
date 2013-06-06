@@ -1,0 +1,99 @@
+this time this is the mooded driver from very newest catalyst 11.6b
+for full mobility support
+this driver is not official and is for internal testing purposes only !
+as usual comes from our friend asder00 from guru3d
+Many thanks to him for his very job.
+asder00 call them as 11.7b hotfix cause this driver version is exactly the same
+than my previous torrent talking about catalyst 11.7 early preview designed by a mysterious code name...
+This is the same but revised version from anyway
+more recent : 8.871_July 4
+
+Release note :
+
+Last Updated
+ 7/6/2011 
+
+Article Number
+ GPU-114 
+
+
+AMD CatalystÎ“Î“Ã‡â‚§Ã³ driver 11.6b Hotfix Features:
+ -Resolves the following issues:
+-Blue screen erorrs (BSOD) seen when connecting a HDMI and DisplayPort based display to an AMD Radeon HD graphics product when using AMD Catalyst 11.6 
+-Screen flickering when the system is idle
+- Mouse pointer corruption found in previous AMD Catalyst releases
+
+ Supported products :
+
+ 
+"AMD Radeon 6600M and 6700M Series" = ati2mtag_VancouverA, PCI\VEN_1002&DEV_6741
+"AMD Radeon HD 6200 series Graphics" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9804
+"AMD Radeon HD 6200 series Graphics " = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9805
+"AMD Radeon HD 6300 series Graphics" = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9802
+"AMD Radeon HD 6300 series Graphics " = ati2mtag_Wrestler, PCI\VEN_1002&DEV_9803
+"AMD Radeon HD 6300M Series" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E5
+"AMD Radeon HD 6300M Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E4
+"AMD Radeon HD 6400M Series" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6760
+"AMD Radeon HD 6430M" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6761
+"AMD Radeon HD 6500M/5600/5700 Series" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68C1
+"AMD Radeon HD 6570M/5700 Series" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68C0
+"AMD Radeon HD 6600A Series" = ati2mtag_NI, PCI\VEN_1002&DEV_6750
+"AMD Radeon HD 6625M Graphics" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6742
+"AMD Radeon HD 6700M Series" = ati2mtag_VancouverA, PCI\VEN_1002&DEV_6740
+"AMD Radeon HD 6800M Series" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68A8
+"AMD Radeon HD 6900M Series" = ati2mtag_Vancouver, PCI\VEN_1002&DEV_6720
+"ATI Mobility Radeon 4100" = ati2mtag_RS880M, PCI\VEN_1002&DEV_9713
+"ATI Mobility Radeon HD 2400" = ati2mtag_M72, PCI\VEN_1002&DEV_94C9
+"ATI Mobility Radeon HD 2400 XT" = ati2mtag_M72, PCI\VEN_1002&DEV_94C8
+"ATI Mobility Radeon HD 2600" = ati2mtag_M76, PCI\VEN_1002&DEV_9581
+"ATI Mobility Radeon HD 2600 XT" = ati2mtag_M76, PCI\VEN_1002&DEV_9583
+"ATI Mobility Radeon HD 3400 Series" = ati2mtag_M72, PCI\VEN_1002&DEV_95C4
+"ATI Mobility Radeon HD 3430" = ati2mtag_M72, PCI\VEN_1002&DEV_95C2
+"ATI Mobility Radeon HD 3650" = ati2mtag_M76, PCI\VEN_1002&DEV_9591
+"ATI Mobility Radeon HD 3670" = ati2mtag_M76, PCI\VEN_1002&DEV_9593
+"ATI Mobility Radeon HD 3850" = ati2mtag_M76, PCI\VEN_1002&DEV_9504
+"ATI Mobility Radeon HD 3850 X2" = ati2mtag_M76, PCI\VEN_1002&DEV_9506
+"ATI Mobility Radeon HD 3870" = ati2mtag_M76, PCI\VEN_1002&DEV_9508
+"ATI Mobility Radeon HD 3870 X2" = ati2mtag_M76, PCI\VEN_1002&DEV_9509
+"ATI Mobility Radeon HD 4200 Series" = ati2mtag_RS880M, PCI\VEN_1002&DEV_9712
+"ATI Mobility Radeon HD 4300 Series" = ati2mtag_M9x, PCI\VEN_1002&DEV_9552
+"ATI Mobility Radeon HD 4300/4500 Series" = ati2mtag_M9x, PCI\VEN_1002&DEV_9555
+"ATI Mobility Radeon HD 4500/5100 Series" = ati2mtag_M9x, PCI\VEN_1002&DEV_9553
+"ATI Mobility Radeon HD 4650" = ati2mtag_M9x, PCI\VEN_1002&DEV_9480
+"ATI Mobility Radeon HD 4670" = ati2mtag_M9x, PCI\VEN_1002&DEV_9488
+"ATI Mobility Radeon HD 4830" = ati2mtag_M9x7, PCI\VEN_1002&DEV_94A0
+"ATI Mobility Radeon HD 4850" = ati2mtag_M9x8, PCI\VEN_1002&DEV_944A
+"ATI Mobility Radeon HD 4860" = ati2mtag_M9x7, PCI\VEN_1002&DEV_94A1
+"ATI Mobility Radeon HD 4870" = ati2mtag_M9x8, PCI\VEN_1002&DEV_945A
+"ATI Mobility Radeon HD 5400 Series" = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E0
+"ATI Mobility Radeon HD 5400 Series " = ati2mtag_ManhattanP, PCI\VEN_1002&DEV_68E1
+"ATI Mobility Radeon HD 5570" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68C7
+"ATI Mobility Radeon HD 5800 Series" = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68A0
+"ATI Mobility Radeon HD 5800 Series " = ati2mtag_Manhattan, PCI\VEN_1002&DEV_68A1
+"ATI Radeon 3100 Graphics" = ati2mtag_RS780M, PCI\VEN_1002&DEV_9613
+"ATI Radeon HD 3200 Graphics" = ati2mtag_RS780M, PCI\VEN_1002&DEV_9612
+
+
+AMD has decided to use this one to resolve certain recurent bugs present in the latest official catalyst 11.6 releases before the next real official catalyst 11.7
+It's a very good thing from AMD and we can enjoy their very nice effort to this topic.
+I highly suggest you all to quickly switch to this very newest driver for plenty good reasons so .
+As usual use fast up speed as much as you can to download this driver anyway.
+It's crucial to finish this download !!!
+By the fact i'm currently still seeding multi-torrents at the same time you may get possible slow download and i truly apologize about this inconvenience.
+I will try by best to help and assist you this way to this topic
+ty for understanding
+enjoy and have fun
+note :
+official release and complete driver package for Vista/Win7 both version and delivered such as !
+Mobility driver only !!!
+100 % clean and trustworthy
+btw i suggest you to regulary check the complete tracker's list of this torrent also.(in fact,for any torrent you might download as well...)
+It seems that a well known http tracker has been closed...  
+http://tracker.publicbt and even another one as well...
+If you see an anomaly on a tracker like : N/A
+or 
+no such host exist 
+or connection has been closed 
+ect,ect...
+delete it from your tracker's list
+cu around		

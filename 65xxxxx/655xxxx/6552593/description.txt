@@ -1,0 +1,31 @@
+C4E's iXtreme Slim LT+ 1.9 in association with Team Jungle & Team Xecuter
+------------------------------------------------------------------------------------------
+
+World first backups for XBOX 360 Slim, no need for expensive emulators, flash fw for free!
+
+- For all Liteon Drive models (0272 - which is an updated 9504, 0225 & 0401)
+- Support for XGD3 originals
+- Optimised rootkit code, ALL timings for realtime checks are same as original firmware
+
+We have also included all the original firmwares (OFW) - as you can see there are 2 different 
+version 0225's too. There is a new kind of calibration data at 1FF80 that is different in 
+2 occurances (so far) so if you get a PLAY DVD error then you need to redump your original 
+with the new upcoming JF and let that do its magic for you. 
+
+FYI The other variation is the factory updated version, and this difference at 1FF80 was only 
+discovered in the last week so bear with us as there may be more variations out there.
+
+You know if you have a factory upgraded version if the label says 9504 but the fw is 0225 ;)
+
+Included OFW files explained:
+
+1. Orig-0272.bin - 0272 (Retail 9504 flashed to new dash over XBL)
+2. Orig-0225.bin - Retail 0225
+3. Orig-0225u.bin - Retail 9504 flashed at factory to 0225u ... big differences in sector 1FF00 (calibration data at 1FF80)
+4. Orig-0401.bin - Retail 0401
+
+Thanks go to Team Jungle for their hard work and efforts in the development process.
+Thanks as always go to Team Xecuter for their generous support to this whole project. 
+
+Special thanks go to Foundmy.com for their help with the 0401 drives and the factory updated 0225 drives !
+

@@ -1,0 +1,43 @@
+Winamp 5.621 Full Multi-lang
+
+[img]http://i67.servimg.com/u/f67/12/67/38/69/36231_10.png[/img]
+
+Description:-
+
+ Winamp is a skinnable, multi-format media player.
+
+ Winamp supports a wide variety of contemporary and specialized music file formats, including MIDI, MOD, MPEG-1 audio layers 1 and 2, AAC, M4A, FLAC, WAV, OGG Vorbis, and Windows Media Audio. It supports gapless playback for MP3 and AAC, and Replay Gain for volume leveling across tracks. In addition, Winamp can play and import music from audio CDs, optionally with CD-Text, and can also burn music to CDs. Winamp supports playback of Windows Media Video and Nullsoft Streaming Video, as well as most of the video formats supported by Windows Media Player. 5.1 Surround sound is supported where formats and decoders allow.
+
+ Winamp supports many types of streaming media: Internet radio, Internet telelvision, XM Satellite Radio, AOL video, Singingfish content, podcasts, and RSS media feeds. It also has extendable support for portable media players, and users can access their media libraries anywhere via internet connections.
+
+ You can extend Winamp's functionality through the use of plug-ins, which are available on the Winamp site.
+
+Technical:-
+
+ Title:Winamp 5.621 Full
+
+ Filename:winamp5621_full_emusic-7plus_all.exe
+
+ File size:15.77MB (16,537,808 bytes)
+
+ Requirements:Windows 2000 / XP / 2003 / Vista / Windows7 / XP64 / Vista64 / Windows7 64
+
+ Languages:Multiple languages
+
+ License: Freeware
+
+ Date added:July 12, 2011
+
+ Author:Nullsoft
+
+Change Log:-
+
+ * Improved: [in_nsv] New API to allow video decoder to signal codec width & height
+ * Fixed: [enc_fhgaac] Default ADTS bitrate; Writing of gapless data
+ * Fixed: [enc_fhgaac] HE-AAC compatibility with iTunes
+ * Fixed: [in_midi] Various integer overflow issues (thanks: Luigi Auriemma)
+ * Fixed: [libsndfile] PAF integer heap-overflow bug (thanks: Hossein Lotfi/Secunia)
+ * Fixed: [ml_local] Illegal instruction crash on non-SSE machines
+ * Fixed: [ml_rg] Some files incorrectly returning 0 gain values
+ * Fixed: [nsvdec_vp3, nsvdec_vp5, vp6] Rescaling buffer overflow vulnerabilities
+ * Misc: More general tweaks, improvements, fixes and optimizations

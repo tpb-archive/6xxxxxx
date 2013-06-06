@@ -1,0 +1,212 @@
+The Chronicles of Riddick [BDRip-1080p-Mkv-Ita/Eng-Ac3-Esp-Aac-MultiSub][Nautilus-BT]
+
+
+
+[ About file ]
+
+Name: The Chronicles of Riddick [BDRip-1080p-MultiLang-MultiSub-Chapters][RiP By MaX].mkv
+Date: Mon, 08 Aug 2011 01:11:42 +0200
+Size: 8,543,609,007 bytes (8147.82 MiB)
+
+[ Magic ]
+
+Tipo file: data
+
+[ Generic infos ]
+
+Duration: 02:14:07 (8046.536 s)
+Container: matroska
+Production date: Mon, 08 Aug 2011 01:03:22 +0200
+Total tracks: 10
+Track nr. 1: video (V_MPEG4/ISO/AVC) [The Chronicles of Riddick [BDRip 1080p][RiP By MaX]] {ita}
+Track nr. 2: audio (A_AC3) [Ita AC3 5.1] {ita}
+Track nr. 3: audio (A_AC3) [Eng Ac3 5.1] {eng}
+Track nr. 4: audio (A_AAC) [Esp Aac 5.1] {spa}
+Track nr. 5: subtitle (S_TEXT/UTF8) [Sub Ita] {ita}
+Track nr. 6: subtitle (S_TEXT/UTF8) [Sub Eng SDH] {eng}
+Track nr. 7: subtitle (S_TEXT/UTF8) [Sub Esp Forced] {spa}
+Track nr. 8: subtitle (S_TEXT/UTF8) [Sub Esp] {spa}
+Track nr. 9: subtitle (S_TEXT/UTF8) [Sub Fre Forced] {fre}
+Track nr. 10: subtitle (S_TEXT/UTF8) [Sub Fre] {fre}
+Muxing library: libebml v1.2.1 + libmatroska v1.1.1
+Writing application: mkvmerge v4.9.1 ('Ich will') compilato con Jul 11 2011 23:53:15
+
+[ Relevant data ]
+
+Resolution: VERY HIGH (1920 x 800)
+Width: multiple of 32 (GOOD)
+Height: multiple of 32 (GOOD)
+Average DRF quality: MEDIUM (22.83)
+Standard deviation quality: HIGH (0.55)
+Std. dev. weighted mean: HIGH (0.499)
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1920 x 800
+Frame aspect ratio: 12:5 = 2.4
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 12:5 = 2.4
+Framerate: 23.976 fps
+[debug] codec private: 52 bytes
+Stream size: 7,387,492,076 bytes (7045.261 MiB)
+Duration (bs): 02:14:06 (8046.038 s)
+Bitrate (bs): 7345.222 kbps
+Qf: 0.199
+
+[ Audio track nr. 1 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 386,185,728 bytes (368.295 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 251,423
+Duration (bs): 02:14:06 (8045.536 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 384 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 2 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 386,211,840 bytes (368.32 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 251,440
+Duration (bs): 02:14:06 (8046.08 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 384 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 3 ]
+
+Codec ID: A_AAC
+Sampling frequency: 24000 Hz
+Output sampling frequency: 48000 Hz
+Channels: 6
+[debug] codec private: 7 bytes
+Stream size: 380,976,946 bytes (363.328 MiB)
+Bitstream type (bs): AAC LC-SBR (Spectral Band Replication)
+Frames (bs): 188,583
+Duration (bs): 02:14:06 (8046.208 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 378.789 kbps VBR
+Sampling frequency (bs): 24000 Hz
+Mode (bs): 6: front-center, front-left, front-right, back-left, back-right, LFE-channel
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 116 r2044 392e762 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=5 | deblock=1:0:0 | analyse=0x3:0x133 | me=umh | subme=7 | psy=1
+User data: psy_rd=1.00:0.00 | mixed_ref=1 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=1
+User data: chroma_qp_offset=-2 | threads=6 | sliced_threads=0 | slices=4 | nr=0
+User data: decimate=1 | interlaced=0 | bluray_compat=1 | constrained_intra=0
+User data: bframes=3 | b_pyramid=1 | b_adapt=2 | b_bias=0 | direct=1
+User data: weightb=1 | open_gop=1 | weightp=1 | keyint=240 | keyint_min=23
+User data: scenecut=40 | intra_refresh=0 | rc_lookahead=40 | rc=2pass
+User data: mbtree=1 | bitrate=7345 | ratetol=1.0 | qcomp=0.60 | qpmin=10
+User data: qpmax=51 | qpstep=4 | cplxblur=20.0 | qblur=0.5 | vbv_maxrate=40000
+User data: vbv_bufsize=40000 | nal_hrd=vbr | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 4
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 192,912
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices:  65348 ( 33.875 %) #######
+B-slices: 125447 ( 65.028 %) #############
+I-slices:   2117 (  1.097 %)
+SP-slices:      0 (  0.000 %)
+SI-slices:      0 (  0.000 %)
+
+[ DRF analysis ]
+
+average DRF: 22.83
+standard deviation: 0.55
+max DRF: 29
+
+DRF<19:      0 (  0.000 %)
+DRF=19:      4 (  0.002 %)
+DRF=20:    889 (  0.461 %)
+DRF=21:   1113 (  0.577 %)
+DRF=22:  38892 ( 20.160 %) ####
+DRF=23: 141341 ( 73.267 %) ###############
+DRF=24:  10539 (  5.463 %) #
+DRF=25:     83 (  0.043 %)
+DRF=26:      4 (  0.002 %)
+DRF=27:      2 (  0.001 %)
+DRF=28:      1 (  0.001 %)
+DRF=29:     44 (  0.023 %)
+DRF>29:      0 (  0.000 %)
+
+P-slices average DRF: 22.838
+P-slices std. deviation: 0.504
+P-slices max DRF: 29
+
+B-slices average DRF: 22.863
+B-slices std. deviation: 0.494
+B-slices max DRF: 29
+
+I-slices average DRF: 20.632
+I-slices std. deviation: 0.595
+I-slices max DRF: 23
+
+[ Profile compliancy ]
+
+Selected profile: BDRip 1080p
+Resolution: Ok
+Framerate: Ok
+Buffer underflow: 00:55:10 (frame 79371)
+
+[ Edition entry ]
+
+UID: 333045127
+Hidden: No
+Selected by default: No
+Playlist: No
+Chapters: 
+00:00:00,000-00:02:39,326: 1. The Necromongers {und}
+00:02:39,326-00:07:05,508: 2. Hard Bounty {und}
+00:07:05,508-00:11:25,643: 3. Back to Civilization {und}
+00:11:25,643-00:15:31,806: 4. A Fighting Chance {und}
+00:15:31,806-00:20:58,757: 5. A True Furyan {und}
+00:20:58,757-00:27:11,713: 6. Attack of the Necromongers {und}
+00:27:11,713-00:31:27,302: 7. Lensing & Cleansing {und}
+00:31:27,302-00:38:52,330: 8. The Lord Marshal's Offer {und}
+00:38:52,330-00:43:32,568: 9. Mind Regression {und}
+00:43:32,568-00:47:18,419: 10. Caught {und}
+00:47:18,419-00:53:38,340: 11. You Can Keep What You Kill {und}
+00:53:38,340-01:01:36,818: 12. Welcome to Crematoria {und}
+01:01:36,818-01:04:29,824: 13. Jack's Dead... {und}
+01:04:29,824-01:08:45,580: 14. A Private War {und}
+01:08:45,580-01:11:43,174: 15. Feeding Time {und}
+01:11:43,174-01:17:19,051: 16. Two Killers {und}
+01:17:19,051-01:22:50,007: 17. Good News & Bad News {und}
+01:22:50,007-01:29:05,131: 18. Running the Surface {und}
+01:29:05,131-01:32:42,474: 19. The Big Heat {und}
+01:32:42,474-01:41:13,651: 20. The Better Killer {und}
+01:41:13,651-01:44:28,220: 21. This Is Your Chance {und}
+01:44:28,220-01:48:15,197: 22. What Are the Odds? {und}
+01:48:15,197-01:53:18,583: 23. The Enemy Within {und}
+01:53:18,583-01:57:02,682: 24. Convert or Fall {und}
+01:57:02,682-02:00:00,693: 25. The Soul of a Furyan {und}
+02:00:00,693-02:03:05,753: 26. Kill the Beast {und}
+02:03:05,753-02:04:08,066: 27. At the Feet of an Outlaw {und}
+02:04:08,066-02:14:06,536: 28. End Titles {und}
+
+This report was created by AVInaptic (25-07-2011) on 8-08-2011 16:09:53

@@ -1,0 +1,19 @@
+What is CentOS?
+CentOS is an Enterprise Linux distribution based on the freely available sources from Red Hat Enterprise Linux. Each CentOS version is supported for 7 years (by means of security updates). A new CentOS version is released every 2 years and each CentOS version is periodically updated (roughly every 6 months) to support newer hardware. This results in a secure, low-maintenance, reliable, predictable and reproducible Linux environment.
+
+Overview
+The CentOS-6.0 LiveCD is meant to be a Linux environment suited to be
+run directly from either CD media or USB storage devices. It does not
+need any persistent storage on a machine, which also makes it a suitable
+recovery environment.
+Due to space constraints, it was not possible to include all the
+traditional desktop applications on the LiveCD. You can though enjoy a
+Gnome basic desktop, view and modify pictures with gthumb and  the Gimp,
+browsing the web with Firefox, send emails with Thunderbird and connect
+to your favorite Instant Messaging network with Pidgin
+ 
+http://wiki.centos.org/Manuals/ReleaseNotes/CentOSLiveCD6.0 
+http://www.centos.org/
+
+md5sum : 95ab0a7f0ea193ebfd9ede3ef33c88ce  CentOS-6.0-i386-LiveCD.iso
+sha1sum : bda1bec124f6ee1a33d48f0897f50e66ce1169f7  CentOS-6.0-i386-LiveCD.iso

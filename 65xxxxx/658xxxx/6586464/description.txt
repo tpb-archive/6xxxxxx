@@ -1,0 +1,11 @@
+Current Changelog
+v3.1.35 (Aug 05, 2011)
+
+Add documentation for making translations
+Make it possible to load translation via HTTP server
+Skip utf-8 BOMs in lang files
+Add translation for swedish language
+Initial work on NLS (Native Language Support)
+Fix typo
+trap handler: Resolve symbol for fault address.
+Add support for PROP_MOVE_CHILD in prop_concat filter

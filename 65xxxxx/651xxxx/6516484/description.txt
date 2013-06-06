@@ -1,0 +1,159 @@
+Official Web Site:  http://www.bluemangolearning.com/screensteps/
+
+ScreenSteps is not just another screen capture application. ScreenSteps helps you answer questions by automatically creating image-based documents as you capture screenshots.
+
+Using the integrated authoring tools you can quickly annotate images and add text. When you are finished you can export to HTML, PDF, Word (DOCX)*, WordPress, TypePad, Bloger, Movable Type, MindTouch*, Confluence*, Googles Sites*, Joomla or ScreenSteps Live.
+
+What's New
+Version 2.9.0:
+
+* Support for bullet and number lists in descriptions and instructions.
+
+* PDF export now lets you select from a wide range of fonts as well as
+  specify different fonts for lesson and step titles as well as body text.
+
+* PDF documents now support all character sets supported within
+  ScreenSteps.
+
+* PDF templates now support borders around images.
+
+* Google Sites now supports encrypted connections.
+
+* You can now import multiple lessons at a time from ScreenSteps Live.
+
+* Key bindings on OS X now match standard platform key bindings.
+
+* New Code Block formatting option for styling programming code.
+
+* ScreenSteps can now automatically check for updates at launch if
+  preference is set.
+
+Changes:
+
+* ScreenSteps no longer creates duplicate lessons when importing a
+  manual from ScreenSteps Live.
+
+* ScreenSteps can automatically submit error reports now. No more
+  copying and pasting the report into an email.
+
+* If the operating system requests that ScreenSteps open a file the request
+  is ignored if a modal window is open.
+
+* Changed "New Step" accelerator key to Alt + Shift + N on Windows
+  so that it no longer conflicts with accelerator key for "New Manual".
+
+* Removed accelerator key on Windows for "Split Step at Insertion
+  Point" as it conflicted with another accelerator key.
+
+* When updating a manual on ScreenSteps Live you no longer have the
+  option of creating a new manual or replacing an existing manual. These
+  options open up too much room for error. You now must delete the link
+  between the manual and ScreenSteps Live using the Web pane of the
+  manual property inspector if you want to create a new manual or replace
+  an existing one.
+
+* Importing documents from ScreenSteps Live now updates existing
+  lesson rather than creating duplicates.
+
+* Added an extra line after the image in the Confluence template.
+
+* Updated DOCX Neutral template to include ListBullet and ListNumber
+  styles.
+
+* Blog/Wiki/SS Live dialogs now use large progress bars.
+
+* When generating tooltips for fields ScreenSteps no longer resolves
+  links to lessons that are outside of the current manual.
+
+* SQL Server is now passed all created_on/modified_on/posted_on dates
+  in YYYYMMDD format. [Workgroup]
+
+* The image resize menu now disables options if lesson is not checked
+  out. [Workgroup]
+
+* Added accelerator keys for Plain formatting.
+
+* Removed and from default Zendesk template as they would appear in
+  the forum post unless the user was an agent who could moderate forum
+  posts or an admin.
+
+* Export images now remembers the last folder used.
+
+* Added "Clear Menu" to the Open Recent menu.
+
+Fixes:
+
+* Fixed a potential crash caused when trying to retrieve the internal id of a
+  tag.
+
+* Text annotations were not being scaled properly when resizing an
+  image.
+* Word output no longer inserts a blank line if step instructions are
+  empty.
+
+* Updated Google Sites API error handling so that redirect failures are
+  reported properly.
+
+* Conversion of multiplication unicode symbol was incorrect. This would
+  cause errors in Word output.
+* Fixed issue with multiple authors being logged in when using a 
+  ScreenSteps Workgroup floating license and logging in as another
+  author.
+* Dragging text within document fields now works.
+* Zendesk images would sometimes appear out of order when updating a
+  post.
+* When syncing step media filenames to step titles a "." could end up at
+  the end of the filename.
+* Syncing image names to step titles when the document was not loaded 
+ would cause an error.
+* Entering a value > 32767 for height or width when resizing an image would generate an error.
+
+* Copying and pasting links with URL links now preserves the links.
+
+* When downloading changes from a chapter on Screenteps Live,
+
+* ScreenSteps was not accurately detecting when a chapter no longer
+  existed on the ScreenSteps Live server.
+
+* Fixed issues in PAC support file included with ScreenSteps. PAC files
+  that use dnsResolve should work properly now.
+
+* The dialogs used for importing lessons and manuals from ScreenSteps
+
+* Live now respect the 'use ssl' setting for the web export account.
+
+* Navigating away from the PDF preference pane while editing the name
+  of a template would generate an error if the template name had been  
+  changed. The same issue existed for the Web Export pane as well.
+
+* The text annotation font size menu was grabbing the wrong template
+  value if no annotation was selected.
+
+* Undo manager no longer throws an error if undoing a field operation
+  and the field can't have it's selection selected.
+
+* When generating the next/previous links in Manual HTML export the
+  next lesson might be incorrect if the next chapter had lots of lessons in it.
+
+* The category was not being assigned properly when uploading to
+  WordPress.
+
+* When registering ScreenSteps with a ScreenSteps Live account the
+  protocol is now stripped from the domain. This is the same behavior as
+  the Web Export pane.
+
+* Importing a library now checks for lesson/section links that are missing
+  a valid id.
+
+* Upgraded some lesson templates as they were missing a CSS file.
+
+* Image width limitations on OS X removed. Images only limited by
+  available memory now.
+
+* Fixed crash that could occur when processing certain PAC files.
+
+System Requirements:
+
+PPC / Intel, Mac OS X 10.4 or later
+
+--- PLEASE SEED ---

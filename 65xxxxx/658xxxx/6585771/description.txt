@@ -1,0 +1,36 @@
+What?
+
+--------------------------------------------------------- 
+Winroot is a password recovery, password reset and social engineering utility. As a Linux distribution based on Ubuntu 10.4 LTS created, developed and designed by Mackaber
+
+
+Why?
+
+--------------------------------------------------------- 
+I want to emphasize the importance of Computer Physical security, For example, in Schools, Cyber cafes or Stores, where computers are unprotected and can be easily accessed by anyone.
+
+
+How?
+
+--------------------------------------------------------- 
+Winroot has several configurable options:
+
+--> Steal password: which copy computer\\\\\\\'s SAM registry file, that contains user passwords encrypted, then having the file, you can use john the ripper or Ophcrack to decrypt the password (the distribution, also includes Ophcrack already installed for your convenience).
+
+--> Wipe password: which makes use of \\\\\\\"Offline NT Password & Registry Editor\\\\\\\" it can wipe the password of any user, change, lock and unlock them; and also works as a Windows XP/Vista/7 registry editor.
+
+--> Steal cookies: steal all users cookies located in the computer; right now it works and has been tested with Google Chrome, Firefox and Internet Explorer.
+
+--> Create sethc.exe backdoor: replaces windows utility sethc.exe with a cmd.exe, which is known as \\\\\\\"sticky keys\\\\\\\" and can be activated by pressing repeatedly the shift key. So, when you press the shift key repeatedly it spawns a CMD shell with SYSTEM privileges, even at the login screen!
+
+--> Create Utilman.exe: similar to sethc.exe backdoor, it replaces Utilman.exe with a cmd.exe, and its activated at the login screen pressing the blue wheelchair-like icon at the bottom left; or by pressing (windows key) + U at any time.
+
+--> Execute script.sh: you can execute anything you like at the system boot with the script.sh located at the USB root, possibilities are infinite!
+
+--> Destroy the system: it deletes important driver files which are essential for the system to boot correctly; however, the system can be repaired by restoring these files.
+
+
+winroot.tk
+
+
+Created by Mackaber

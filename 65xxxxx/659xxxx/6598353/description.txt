@@ -1,0 +1,90 @@
+Formatted for Apple TV 2
+
+General
+Complete name                    : G:\Movies\Constantine\Constantine.m4v
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 2.05 GiB
+Duration                         : 2h 0mn
+Overall bit rate                 : 2 431 Kbps
+Genre                            : Action & Adventure
+Recorded date                    : 2005
+Cover                            : Yes
+iTunEXTC                         : mpaa|R|400|
+hdvd                             : 1
+stik                             : 9
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=4, N=51
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 2h 0mn
+Bit rate mode                    : Variable
+Bit rate                         : 1 626 Kbps
+Width                            : 1 280 pixels
+Height                           : 528 pixels
+Display aspect ratio             : 2.40:1
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Minimum frame rate               : 23.974 fps
+Maximum frame rate               : 90 000.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.100
+Stream size                      : 1.37 GiB (67%)
+Writing library                  : x264 core 112
+Encoding settings                : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Material_Duration                : 7247240
+Material_StreamSize              : 1472839266
+Material_FrameCount              : 173761
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio #1
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 2h 0mn
+Bit rate mode                    : Variable
+Bit rate                         : 160 Kbps
+Maximum bit rate                 : 336 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 138 MiB (7%)
+Language                         : English
+Material_Duration                : 7247318
+Material_StreamSize              : 144534553
+
+Audio #2
+ID                               : 3
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : ac-3
+Duration                         : 2h 0mn
+Bit rate mode                    : Constant
+Bit rate                         : 640 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 553 MiB (26%)
+Language                         : English
+Material_Duration                : 7247296
+Material_StreamSize              : 579783680
+

@@ -1,0 +1,30 @@
+Snowlinux is based upon Debian stable and it aims to make it more user-friendly. This will be reached by own tweaks and tools and by the preinstalled programs. Snowlinux will be released each 6 months
+ 
+http://distrowatch.com/weekly.php?issue=20110718#waiting 
+http://www.snowlinux.de/
+
+New features:
+Better software selection
+ New installer
+ New bootloader
+ New look and feel
+ Snowlinux-Metal-Theme
+ Ubuntu-Font
+ Artwork
+ Bootloader-Theme
+ System improvements
+ Improving speed and response
+ 
+System requirements:
+ x86-CPU
+ 256 MB memory
+ 2 GB free disk space
+ Graphics card capable of 800Ã—600 resolution
+ CD-ROM drive or USB port
+
+Known problems:
+ Desktop is not writeable in live cd
+ Debian background in Grub 2
+ Chromium's home page is wrong (64-bit)
+
+md5sum : 3a85d81f378f2aa07d32f491fb602001  snowlinux-1-gnome-i386-rc.iso

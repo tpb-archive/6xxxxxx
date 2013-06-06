@@ -1,0 +1,37 @@
+User Type,Username,Date,Text
+,memphist,2011-07-16T22:43Z,"Hi MusicProAppz,  You have two identical Microsoft Office Professional Plus 2010 with Service Pack 1 torrents, except for the sizes.  One is larger than the other.
+
+Can you tell what the differences are? 
+Thank you"
+,LBtrw,2011-07-24T00:04Z,I see this torrent has the Office 2010 Toolkit included. Can anyone confirm this activation method working as of recently? I'll make a post when I'm done installing.
+,LBtrw,2011-07-24T00:47Z,"Alrighty, here is how it went!
+
+-Disconnect Internet
+-Mount ISO
+ =Install Successful
+-Run Office Toolkit 2010
+ =Choose EZ Activator
+ ==Success 100% Activated!
+-Unmount ISO
+-Reconnect Internet
+ =Win.
+
+
+INFO:
+Don't know why MusicProAppz didn't label the torrent name with a x64. Yes, this is the 64bit version with SP1. It works fine.
+--------------------------------------------
+Malware Byte is saying the KMS Service is a theat. It also shows the Office Tool Kit as a hack tool but that is fine. I had no problems with this torrent aside from the KMS Service. Maybe someone can confirm the service is not a threat? 
+
+Good luck!"
+,Surhumain,2011-07-24T19:04Z,"Good torrent, Though i am a bit puzzled by the 2 warnings, that AVG issued, when using the toolbox."
+,featureza,2011-09-13T04:59Z,How do you start the EZ Activator?
+,Vicar in a Tutu,2011-09-25T17:34Z,"If Office has to 'Configure' every time you run it, do this:
+
+Start > Programs > Accessories > Command Prompt (right-click and 'Run as administrator')
+
+Copy and paste the following line:
+secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose
+
+Close and reboot PC."
+,tp3366,2011-09-25T17:44Z,Is this ISO untouched ?
+,splityawig,2011-10-01T03:40Z,do you need a key for this to work

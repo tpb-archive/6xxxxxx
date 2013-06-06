@@ -1,0 +1,14 @@
+User Type,Username,Date,Text
+,CosmAvngr,2011-08-08T18:28Z,"I have watched all three now. First 2 are great. 
+
+I see a slight vocal synch issue on this part. It is small. Not large enough to be obvious what the problem is, but enough to seem wrong.
+
+Anyone else?"
+[T],murdoc47,2011-08-10T12:45Z,"i see what you mean. the source was like that, but it is like 100 milliseconds of delay. if it is that disturbing, you can correct it while watching it in VLC. sorry for this."
+,CosmAvngr,2011-08-10T19:49Z,"No problem. You upload so many high quality movies, you likely don't have time to go over all of them with a fine tooth comb. A little glitch is likely to get in once and a while.
+
+If anyone figures out the ideal Audio synch time offset, please post and I will add a text note to my directory. I am terrible at figuring out the right amount by trial and error."
+[T],murdoc47,2011-08-10T22:39Z,"i was right. it is 100 ms of audio delay (+/-). press ""K"" twice (2 times) in VLC player to correct it. enjoy!"
+,CosmAvngr,2011-08-11T02:30Z,"100ms looks pretty good and I am unlikely to do better, so I remuxed with a 100ms audio delay so it will work with all my players. 
+
+Looks fine now. Thanks."

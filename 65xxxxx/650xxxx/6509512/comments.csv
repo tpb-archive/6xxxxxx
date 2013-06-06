@@ -1,0 +1,35 @@
+User Type,Username,Date,Text
+,Jvii,2011-07-02T13:32Z,There is no file in the turrent!
+,UltimeRz,2011-07-02T13:51Z,It puts me that :( : http://img4.hostingpics.net/pics/787947TERRAriaPOURPIRATBAY.png
+,solidesnake,2011-07-02T15:16Z,"@UltimeRz
+install the latest framework and directx"
+,snyp3r5,2011-07-04T02:36Z,@Jvii use the magnet link
+,Jvii,2011-07-06T16:33Z,"Tested magnet link and it worked, thanks =)"
+,Jvii,2011-07-06T16:45Z,"I get this:
+6.7.2011 17:40:47
+System.InvalidOperationException: This resource could not be created.
+   kohteessa Microsoft.Xna.Framework.Audio.AudioEngine..ctor(String settingsFile, TimeSpan lookAheadTime, String rendererId)
+   kohteessa Terraria.Main.LoadContent()
+   kohteessa Microsoft.Xna.Framework.Game.Initialize()
+   kohteessa Terraria.Main.Initialize()
+   kohteessa Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   kohteessa Terraria.Program.Main(String[] args)"
+,makke986,2011-07-07T15:02Z,
+,SanderAKALego,2011-07-14T22:29Z,"I get this
+
+
+Unhandled Exception: System.IO.FileNotFoundException: Could not load file or ass
+embly 'Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKey
+Token=842cf8be1de50553' or one of its dependencies. Systemet finner ikke angitt
+fil.
+   ved Terraria.ProgramServer.Main(String[] args)
+
+when i try to run the server.bat
+
+the terraria .EXE isnt responding at all
+
+Im using Win 7 Enterprise 64bit"
+,ostinyo,2011-07-27T06:04Z,"@People having problems
+You don't have .NET framework installed. Where you installed the game there should be two installers with a similar name to dotNetFx40_Full_x86_x64, click one [I don't know what the difference is], install it, and the game should work fine afterwards."
+,darkzeratul241,2011-08-02T04:43Z,"you need MS FRAMEWORK 4.0,  XNA FRAMEWORK and Direct X to play terarria"
+,austinrock1,2011-08-09T21:29Z,1.0.6 is out get that update out NOW!!!! ME WANT MORE TERRARIA!!!

@@ -1,0 +1,37 @@
+Official Web Site:  http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html
+
+Description
+
+Have no fear. SuperDuper v2.6.4 is here, and it's compatible with Lion!
+SuperDuper is the wildly acclaimed program that makes recovery painless, because it makes creating a fully bootable backup painless. Its incredibly clear, friendly interface is understandable, easy to use, and SuperDuper's built-in scheduler makes it trivial to back up automatically. It's the perfect complement to Time Machine under Leopard, Snow Leopard, and Lion, allowing you to store a bootable backup alongside your Time Machine volumeâ€”and it runs beautifully on both Intel and Power PC Macs!
+
+SuperDuper's interface confirms all your actions in simple, clear language to ensure that the end result is exactly what you intended. Take a look, and click for additional screen shots!
+
+Whats New:
+
+* Enhancements & Bug Fixes
+
+* SuperDuper now prevents the destination from being manually ejected
+  during copy
+
+* Proper error message now issued when a destination ejects itself due to
+  hardware errors
+
+* Resolved AppleScript dictionary compatibility issues under 10.4 that
+  prevented scheduled copies and some shutdown actions from running
+
+* Overly aggressive copy verification under Leopard no longer cause
+  copies to fail on highly active files
+
+* Setting permissions on read-only disk images no longer fail when there
+  are bad OSAXen installed
+
+* Launchpad and Mission Control are now shared for Sandboxes
+
+* Sandbox script syntax error corrected
+
+System Requirements:
+
+OS version: Mac OS X 10.4 or later
+
+--- PLEASE SEED ---

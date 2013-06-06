@@ -1,0 +1,11 @@
+Unison 2.1.5
+
+Released on 7/5/11
+
+Fixed an issue that could cause preferences to be reset
+Fixed a possible crash when playing an audio file
+Improved decoding of Chinese messages
+Sped up the performance of header loading with lots of "Ignore Sender" rules
+Images without filenames in HTML messages are now shown properly
+ 
+http://www.panic.com/unison/

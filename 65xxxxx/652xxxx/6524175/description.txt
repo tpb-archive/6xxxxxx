@@ -1,0 +1,48 @@
+Acronis True Image Home 2011 14.0.0 Build 6868 Final-Plus Pack-BootCD-Addons
+
+Release Notes for Acronis True Image Home 2011
+Release date: June 30, 2011
+Build: English USA, English UK, German & French
+Downloadable Basic: 6868 
+
+New in this build
+Windows 7 SP1 is now supported. 
+Better hardware support in Linux bootable media. 
+Intel 82579LM Gigabit Network card (8086:1502) is now supported. 
+Installation procedure
+The installation procedure is straightforward. Please, run the downloaded executable file and follow the instructions.
+
+List of issues fixed since the previous build (6857)
+"Operation has failed. Backup validation Task execution failed" message appears on every Windows start. 
+List of issues fixed since the previous build (6696)
+A backup of Windows Live Mail installed from Windows Live Essentials 2011 completes with errors if Live Mail was not running during the backup operation. 
+The task, scheduled At system shutdown, hangs if Shutdown after backup option is selected. 
+GUI hangs when restoring from a Pure-FTPd server. 
+TrueImageService.exe occasionally hangs on computer shutdown. 
+An error occurs when editing a backup task after a previously created archive has been deleted or is unavailable. 
+Acronis True Image Home hangs at startup for 15-30 seconds if NAS was used as a backup location and is turned off. 
+After using Live Update for a trial version of Acronis True Image Home, a trial period decreases from 90 to 30 days. 
+Unable to copy an event code from an error message. 
+The "Checking credentials" message appears while saving changes of a destination location, which was password-protected, for a backup with a large number of incremental backups. 
+The error message "Failed to add the backup to the backup list." appears when saving backup task parameters with a password protected network share selected as a destination location. 
+Pure-FTPd/vsftpd backups fail when the ftp command is wrongly specified and no log has been created. 
+Acronis Nonstop Backup errors out with 0x00E40022+0x00000009. 
+Acronis True Image Home fails to backup EFS encrypted files/folders if the "Store encrypted files in a decrypted state" option is selected. 
+Backup of a mapped network drive fails. Such a drive can be unaccessible under WinPE. 
+Acronis True Image Home shows an empty destination in backup logs. 
+New SMTP authentication methods had been added. 
+The typed in encryption key in the dialog box is displayed in plain text after deleting client.crt. 
+Automatic cleanup rules for Custom scheme cannot be saved if a focus in the Backup options is located on a different tab when clicking OK. 
+Folders in a folders tree in "Explore and Recover" are sorted in descending alphabetical order. 
+Errors occur in Application Event Log in Windows 7, when Acronis True Image Home is not in use. 
+Acronis Startup Recovery Manager activation from Linux bootable media fails. 
+Popup menu cannot be selected when right-clicking Try&Decide tray icon. 
+"Wake up the sleeping/hibernating computer" parameter does not work properly when scheduling an operation. 
+BSoD appears when a backup that has slices located on different locations is being mounted in a read only mode. 
+When trying to create an email backup, a user with a non-administrator account receives a warning message saying that Acronis True Image Home has been started by another user whose e-mail account will be backed up. The current user may continue or cancel the operation. 
+When trying to deactivate Acronis Startup Recovery Manager while it is being used, a warning about the impossibility of its further activation, has been added. 
+The "Clean up..." option on the Nonstop Backup box in the Home window is now not available if there is only one backup version. 
+Recreated backup task based on a backup located on a network disk fails.
+List of known issues
+There is a known conflict between Acronis True Image Home Nonstop Backup and the Avira antivirus software. This conflict could result in the error: â€œOperation has been aborted. The item essence is incorrect. Probably metadata in the file archive is corruptedâ€. This error will appear in the Acronis program when rebooting after having installed the Avira antivirus software This conflict occurs only with Avira antivirus. Other antivirus solutions do not conflict with Nonstop Backup. Both companies are working closely together to find a solution. Once known, a solution will be delivered by either Avira or Acronis. In the meantime, you can find the problem details and a workaround at http://kb.acronis.com/content/16376 
+"Setup Type" dialog appears in Add-ons for Acronis True Image Home and Acronis True Image Home Plus Pack installers while updating from Update 1.6 to Update 2.

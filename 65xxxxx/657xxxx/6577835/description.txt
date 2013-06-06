@@ -1,0 +1,190 @@
+Red Hat Enterprise Linux is an enterprise platform well-suited for a broad range of applications across the IT infrastructure. The latest release, Red Hat Enterprise Linux 6, represents a new standard for Red Hat by offering greater flexibility, efficiency, and control. It works across a broad range of hardware architectures, hypervisors, and clouds. Corporations and agencies that standardize on Red Hat Enterprise Linux are free to focus on building their businesses, knowing they have a platform that delivers more of what they need.
+
+1. Installation
+To install Red Hat Enterprise Linux uses a program anaconda, which bRed Hat Enterprise Linux 5.7 has undergone the following changes:
+Kickstart installation by default opens the port SSH. In Red Hat Enterprise Linux 5.7 added option \"- no-ssh\" commands the firewall, which is used to deny access to SSH.
+A new feature allows you to skip the blacklist or the installation of driver identification.
+Anaconda supports new subscriptions and change of reference (see Section 2, \"Subscriptions and powers\").
+
+2. Subscriptions and powers
+
+Management software infrastructure is carried out based on the type of programs and the number of systems where these programs are installed.
+The platform powers in Red Hat Enterprise Linux 5.7 is responsible for program management in the organization and provision of packet-based powers. Subscription Management Program Red Hat provides a graphical and text interface.
+This program is much easier to manage subscriptions, install and update software Red Hat.
+
+3. Virtualization
+
+3.1. Xen
+
+Xen - a high-performance hypervisor for virtualization. In an environment of multiple virtual machines virtualization can work in one system, known as the \"host\". The following are the major changes in Xen Red Hat Enterprise Linux 5.7.
+Improved performance Xen virtual environments on 32-bit domain.
+The maximum number of connecting to the Xen guest drives increased from 100 to 256.
+Reduced loading time guest Xen.
+Xen guest support 4 serial ports.
+Xen PyGrub supports compression xz.
+
+3.2. KVM
+
+Red Hat Enterprise Linux 5.7 hypervisor supports KVM (Kernel-based Virtual Machine). It is integrated into the Linux kernel and provides a virtualization platform that provides stability and support equipment, peculiar to Red Hat Enterprise Linux.
+This release includes the following changes:
+Improved emulation CD-ROM.
+Increased speed of convergence of live migration.
+Corrected the boot of virtual machines.
+
+4. Device drivers
+
+4.1. Storage Drivers
+
+A new version of the driver bnx2i 2.6.2.3 for Broadcom NetXtreme II.
+Mpt2sas driver updated to version 08.101.00.00 and now supports devices WarpDrive SSS-6200.
+Megaraid driver has been updated to version 5.34.
+Updated driver for arcmsr RAID-controllers Areca.
+Updated driver bfa.
+Updated drivers for the devices be2iscsi ServerEngines BladeEngine2.
+The qla2xxx driver for the HBA-adapter QLogic Fibre Channel has been updated to version 8.03.07.00.05.07 and qla24xx and 25xx updated to version 5.3.16.
+Lpfc driver for the HBA Emulex Fibre Channel has been updated to version 8.2.0.96.
+Ibmveth updated driver supports cleaning buffer rx, input-output vector, rx_copybreak, tx_copybreak.
+Ibmvfc driver updated to version 1.0.9.
+Mptfusion driver updated to version 3.04.18rh.
+Cciss driver for HP Smart Array controllers now support kdump.
+
+4.2. Network device drivers
+
+Updated driver cxgb4 controllers wired Chelsio Terminator4 10G Unified.
+Updated driver cxgb3i for Chelsio T3.
+E1000e driver for Intel PRO/1000 now supports Marvell Alaska M88E1118R PHY and CE4100.
+Enic driver for Cisco 10G upgraded to version 2.1.1.9.
+Myri10ge driver for Myricom Myri-10G has been updated to version 1.5.2.
+Updated driver for igb Intel Gigabit.
+Tg3 driver for Broadcom Tigon3 updated to version 3.116 and includes support for the EEE.
+Bna driver for Brocade 10Gb updated to version 2.3.2.3.
+The updated driver qlcnic 5.0.13 supports packet handling mechanisms LRO (large receive offload) and GRO (generic receive offload).
+The updated driver netxen 4.0.75 for NetXen Multi port (1 / 10) Gigabit now supports setting GbE.
+Updated driver for be2net ServerEngines BladeEngine2 10Gbps supports IPv6 TSO.
+The updated driver ixgbe 3.2.9-k for the Intel 10 Gigabit PCI Express supports FCoE and kcq2 devices 57 712.
+Added updated version of the iwl6000-firmware 9.221.4.1.
+Iwl5150-firmware package is now available on the secondary drive kit RHEL.
+1000e driver updated to version 1.3.10.
+Ixgbevf driver updated to version 2.0.0-k2.
+Updated driver igbvf.
+The updated driver includes support for bnx2x 1.62.00-6 DCB / PFC, FCoE, and 57 712 units for the BCM84823 supports PHY. Bnx2x firmware updated to 6.2.5.0.
+Bnx2 driver: updated to 2.0.18 +.
+Added driver for atl1e Atheros GbE.
+Added driver iw_cxgb4.
+Updated driver iw_cxgb3.
+4.3. Graphics Drivers
+Vesa driver now supports screen resolution of 1366x768 on the Dell M4500.
+Ati driver now supports the use of the DisplayPort interface cards RV635/RV730.
+Mga driver now supports devices G200eH/eR.
+
+5. File system and storage
+
+Major changes in file systems Red Hat Enterprise Linux 5.7:
+new debugging features address space operations, NFS;
+additional checks do not allow the selection is too large quota.
+
+5.1. GFS2
+
+File System Red Hat GFS2 interacts with the interface file system kernel directly (at VFS). When implemented as a distributed file system GFS2 also uses metadata and magazines.
+Major changes in GFS2 Red Hat Enterprise Linux:
+Calling fallocate () allocates file blocks file system. Now fallocate () is maintained at GFS2.
+Improved performance of the retention block in the cluster GFS2.
+gfs2_grow can increase the size of the file system GFS2. In Red Hat Enterprise Linux 5.7 is supported by an increase in the completed file system that previously was not allowed.
+
+6. SSSD
+
+SSSD (System Security Services Daemon) - a set of services to centrally manage user authentication and access to resources. Supports the NSS (Name Service Switch) and PAM (Pluggable Authentication Modules).
+Below are the major changes in SSSD Red Hat Enterprise Linux 5.7.
+The new package includes a ding-libs path conversion function libpath_utils, dynamically modifiable hash table libdhash, hierarchical structure for data collection libcollection, dynamic arrays and libref_array libini_config library for handling configuration files in the format of INI.
+Added support for network groups.
+Added support for easy access provider.
+Kerberos provider now allows. K5login.
+Improved support for Kerberos authentication of online delayed.
+Significantly reduced the time between connecting to the network or VPN, and getting a ticket TGT (Ticket Granting Ticket).
+New features allow a Kerberos ticket renewal to continue running cron jobs and other processes, even after the user.
+Providing Kerberos tickets for long-term processes and cron jobs even after the user.
+Support for access control \"shadow\".
+Support authorizedService.
+The ability to share various functions control access LDAP.
+Added a new parameter that determines the specific LDAP server for password changes.
+Improved performance of batch processing server LDAP RFC2307.
+Added an option dns_discovery_domain, easy setup using the SRV records for disaster recovery.
+
+Architecture: amd64
+
+Language: Multilingual 
+
+release date.:  07/24/2011
+       type.........:  Linux
+       format.......:  ISO
+       Size........ : 3,57 Go
+       files........:  1DVD
+       website......:  (http://www.redhat.com)
+
+source : team HOTISO division
+
+Many thanks to them for sharing
+
+
+Original nfo :
+
+
+      /______((-            \\_________/ PRODULY PRESENTS:
+             Redhat.Enterprise.Linux.v5.UPDATE.7.X86_64.DVD-HOTiSO
+      ____                _______ _________ ____________________________
+      \\___\\\\Release  Info\\\\____\\_\\\\________\\\\___\\______________________(
+       supplier.....:  TEAM HOT
+       release date.:  07/24/2011
+       type.........:  Linux
+       format.......:  ISO
+       files........:  1DVD
+       website......:  (http://www.redhat.com/)
+      ____                ____
+      \\__(_\\Release Notes\\\\____\\_\\\\________\\\\___\\______________________(
+        
+        
+      ???       unavailable           
+         
+      ____                _______ _________ ____________________________
+      \\__(_\\T E A M  NEWS\\\\____\\_\\\\________\\\\___\\______________________(
+       Wanna Join?
+       We Are Looking For:
+       EU Affiliate Sites 100Mbit+
+       Suppliers of Pre-retail, Including Software,Bookware,PhotoDisk
+       Private 100Mbit+ for Exclusive Group Usage
+       Crackers 
+      ____                _______ _________ ____________________________
+      \\__(_\\ G r e e t s \\\\____\\_\\\\________\\\\___\\______________________(
+                                                                        
+                                                                        
+       ALL GROUPS SHOWING REPUTATION WITH THEIR HIGH QUALITY RELEASES   
+                                                                        
+      ____                _______ _________ ____________________________
+      \\__(_\\Contact  Info\\\\____\\_\\\\________\\\\___\\______________________(
+                                                                        
+       EMAIL:HOTiSO@gmail.com                                           
+       __                                                            __ 
+      /\\_\\_/)_________ _                          _ _____________(\\_/_/\\
+      \\/_/_\\_________\\\\(-:(H O T i S O  2 0 0 5):-)//_____________/_\\_\\/
+             a s c i i   m a d e   b y   G r i m  F a n d a n g o       
+
+
+
+
+.__________________________.-..__.-...-..___.-..________________________///.
+|.:.MisterX & MisterY.:.:..  \\/ // | ||/| ||::.::.:::.Site Scripts V2.0:|
+`--_______________/---------___//--|_||//|_||---------_________________/\'
+
+ISO image has been renamed for several reasons...
+but it really comes from team HOTISO
+all credit goes to her anyway.
+...
+Btw 100 % untouched.clean and reliable and 100 % trustworthy
+tested and verified.All iso is ok and install well.
+--->
+ty again to team HOTISO !
+--->
+please,when you will finish this download,check and see if you got hash error. 
+use a suffisant up speed,please !
+Enjoy
+regards

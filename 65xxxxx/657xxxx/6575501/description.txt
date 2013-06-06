@@ -1,0 +1,34 @@
+Microsoft Windows 7 Ultimate (x86/x64)
+
+Install:
+- Download and Open The Folder.
+- Use Nero or other burning app to burn the ISO image
+- Burning speed should not be faster than 4x. Otherwise, it might not work.
+- Restart your computer.
+- Make sure you have selected your DVD-ROM/RW drive as a first boot device.
+
+* Enter the BIOS pressing the DEL button, set the option, insert your Windows 7 installation and restart computer.
+- The black screen will appear (image 01).
+- Press any key to boot from CD or DVD.... (by pressing the key you are entering the setup)
+- Select your language, time and currency and keyboard input (optionaly)
+- Click install now
+- Choose your edition (x86 is 32-bit, x64 is 64-bit) depending of CPU type you have.
+
+*Choose x64 if you have 64-bit processor.
+- Click \\\\\\\"I accept\\\\\\\".
+- Click \\\\\\\"Custom\\\\\\\" (advanced).
+- Choose your partition/hdd drive where Win7 should be installed and click format.
+
+*You might get some error if you have two or more hard disks with different connectors (ATA and SATA).
+If you get an error, turn off one of your hard disks and repeat the whole proces.
+- After formatting, setup will continue automaticly and it will finish after 15-30 min.
+- Next step would be username
+- Type your password (if you want).
+- When you get the screen for CD-KEY just ignore it leaving blank.
+
+*Uncheck the box for automaticly activation and click next.
+- Choose the third option for next step.
+- Select your time zone.
+- Select your current location (Home is recommended).
+- The black CMD windows will appear. Wait a few seconds until computers restares once again.
+- And that would be all about installation. You are in Windows now.

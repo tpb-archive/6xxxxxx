@@ -1,0 +1,11 @@
+Gradiente AS-200 Tecla Open Close Inoperante
+
+O primeiro passo Ã© o teste dos Transistores da PCI 338A, deve-se verificar os mesmos na
+posiÃ§Ã£o T312, T313, T314 e T315, se for detectado curto ou fuga efetue a troca dos mesmos
+ApÃ³s a troca dos Transistores o passo seguinte Ã© o acrÃ©scimo de um Resistor de 4,7R (0,5W) no
+lugar do Jumper J302
+Como teste final deve ser verificado o Transistor T706 , o mesmo nÃ£o pode estar sem contato
+com a sua dissipaÃ§Ã£o ou deslocado causando curto entre o coletor e emissor, verifique as duas
+opÃ§Ãµes e no caso de dÃºvida retire o componente e limpe a cola da placa.
+Efetue o teste de curto e fuga no componente antes de ressoldar.
+Esse item pode ter sofrido avarias junto com a queima dos Transistores (T312, T313, T314 e T315).

@@ -1,0 +1,27 @@
+Unlocked IMG Instructions
+
+Use either Part A or Part B depending on your choice:
+
+Part A â€“ Internal Memory
+
+1. Connect your device to the computer.
+
+2. Go into the Nuvi files and backup the file named â€œgmapprom.imgâ€ to your computer.
+
+3. Delete the â€œgmapprom.imgâ€ file from the device. (note: make sure you empty the recycle bin after this step)
+
+4. Copy the unlocked â€œgmapprom.imgâ€ file that you downloaded into the device. If the downloaded file is named something else, rename it to â€œgmapprom.imgâ€ and then put it on your deviceâ€™s internal memory.
+
+5. Restart your device and check your map info via : Tools>Settings>Map>Map Info.
+
+Part B â€“ SD Card
+
+1. Get a 2GB SD card (NOT SDHC) and format it FAT or FAT32
+
+2. Create a folder on the memory card called â€œGarminâ€
+
+3. Copy the downloaded IMG file into the ï»¿Garmin folder on your SD card.
+
+4. Make sure the IMG file is named â€œgmapsupp.imgâ€ on the SD card.
+
+5. Insert the SD card into your ï»¿Garmin GPS, and browse to your map information on your ï»¿Garmin GPS and you should see the new maps selected. This can be found on the device via : Tools>Settings>Map>Map Info. (Note: The SD card must remain in your device if you want to use the maps.)

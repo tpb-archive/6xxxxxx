@@ -1,0 +1,26 @@
+EJB 3.1 Cookbook (with code) By Richard Reese
+ Publisher: Pa,.ckt Publis,,hing 2011 | 436 Pages | ISBN: 1849682380 | PDF + code | 3.87 MB + 8.15 MB
+
+
+
+Build real world EJB solutions with a collection of simple but incredibly effective recipes 
+Build real world solutions and address many common tasks found in the development of EJB applications 
+Manage transactions and secure your EJB applications 
+Master EJB Web Services 
+Part of Packt's Cookbook series: Comprehensive step-by-step recipes illustrate the use of Java to incorporate EJB 3.1 technologies 
+
+In Detail 
+ Enterprise Java Beans enable rapid and simplified development of secure and portable applications based on Java technology.Creating and using EJBs can be challenging and rewarding. Among the challenges are learning the EJB technology itself, learning how to use the development environment you have chosen for EJB development, and the testing of the EJBs. 
+ This EJB 3.1 Cookbook addresses all these challenges and covers new 3.1 features, along with explanations of useful retained features from earlier versions. It brings the reader quickly up to speed on how to use EJB 3.1 techniques through the use of step-by-step examples without the need to use multiple incompatible resources. The coverage is concise and to the point, and is organized to allow you to quickly find and learn those features of interest to you. 
+ The book starts with coverage of EJB clients. The reader can choose the chapters and recipes which best address his or her specific needs. The newer EJB technologies presented include singleton beans which support application wide needs and interceptors to permit processing before and after a target method is invoked. Asynchronous invocation of methods and enhancements to the timer service are also covered. 
+ The EJB 3.1 CookBook is a very straightforward and rewarding source of techniques supporting Java EE applications. 
+
+What you will learn from this book 
+Create and use the different types of EJBs along with the use of the optional session bean business interface 
+Create a singleton session bean for application-wide use 
+Use declarative and programmatic techniques for security, timer services, and transaction processing 
+Use asynchronous session beans to complement message driven beans 
+Support aspect oriented features such as logging and data validation using interceptors 
+Use EJBs in support of message based applications 
+Master the use of deployment descriptors and improved packaging options 
+Use EJBs outside of the Java EE environment using the embeddable container

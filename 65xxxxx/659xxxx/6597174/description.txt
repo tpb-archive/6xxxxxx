@@ -1,0 +1,7 @@
+This document is a guide to the AppleScript languageâ€”its lexical conventions, syntax, keywords, and other
+elements. It is intended primarily for use with AppleScript 2.0 or later and Mac OS X version 10.5 or later.
+AppleScript 2.0 can use scripts developed for any version of AppleScript from 1.1 through 1.10.7, any scripting
+addition created for AppleScript 1.5 or later for Mac OS X, and any scriptable application for Mac OS v7.1 or
+later. A script created with AppleScript 2.0 can be used by any version of AppleScript back to version 1.1,
+provided it does not use features of AppleScript, scripting additions, or scriptable applications that are
+unavailable in that version.

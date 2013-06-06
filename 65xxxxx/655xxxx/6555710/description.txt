@@ -1,0 +1,28 @@
+multiMAN 02.03.00 CHANGELOG
+
+Changed Font properties/functions for all modes
+Max number of games+AVCHD in game modes 960(was 640)
+Max number of entries per XMMB column 3200
+Changed character limit for XMMB Settings column [selected option] to 36 (was 32 - now
+German/French fit)
+
+Moved [selected option] to the far right
+Freed more than 20MB of RAM :) (and reallocated some of it to increase max number of
+games/xmmb entries)
+
+This update should fix "Not enough memory for web browser" which some users
+experienced. If it doesn't - use the Original Theme.
+
+Added check for downloaded multiMAN updates (to avoid installing broken/incomplete
+PKG files)
+
+Added check for downloaded covers (to avoid accepting broken/incomplete downloaded
+files)
+
+Command menu in File manager changed a bit
+Legend in most display modes will use current localization setting
+Pad vibration added as warning for "Delete" game/folder prompts
+Included all languages (with latest versions posted by translators)
+Added back Dutch
+Added back Portuguese BR
+Added back Arabian

@@ -1,0 +1,56 @@
+User Type,Username,Date,Text
+,BT-loader,2011-07-26T04:21Z,It doesnÂ´t work.  :(
+,3dgreek,2011-08-17T20:20Z,I can confirm that this 100% does not work
+,BigD602,2011-09-10T05:33Z,I need the new version with working serial or crack.  anyone find one yet?
+,Penguino1776,2011-09-19T23:11Z,"3dgreek:
+Confirmed also does not work"
+,sham3l3ss,2011-10-23T17:25Z,"works 100%
+
+have to manually edit host file.
+System32/drivers/etc/host
+
+add to the very bottom of host file. save!
+
+127.0.0.1 www.keywordindex.com
+127.0.0.1 keywordindex.com
+127.0.0.1 www.axandra.com
+127.0.0.1 axandra.com
+
+run program and enter code as provided!! works!!"
+,wilsonljx,2011-12-27T03:29Z,"Are you sure the software is functioning? I have tried to search the keyword ""christmas music"" and it gives only 10 searches. However, when I used the demo version, the searches are much more than the business edition. 
+"
+,tymature,2012-01-06T12:53Z,"Hi,
+
+wilsonljx is right. It does run okay if you ""doctor"" the hosts file.  You have to open the ""hosts"" file with notepad.  
+
+Add, 
+
+127.0.0.1 www.keywordindex.com
+127.0.0.1 keywordindex.com
+127.0.0.1 www.axandra.com
+127.0.0.1 axandra.com
+
+to the bottom of the ""hosts"" file above the line ""::1             localhost""
+
+Save the file as ""hosts.txt"" to the documents folder.
+
+Rename the ""hosts"" file in ""System32/drivers/etc/hosts"" to ""hosts-old060112"" or something like it.
+
+Rename the new ""hosts.txt"" in the documents folder to ""hosts"".  Then copy this new ""hosts"" file to ""System32/drivers/etc/hosts"".
+
+Run IBP Arelis.  Enter ""Cool Release"" and the code.
+
+The problem is no updates are possible because the new ""hosts"" file stops the program from accessing the internet.
+
+Ty"
+,wilsonljx,2012-01-23T21:16Z,"I have tried your way but the serial key won't work. Can you teach me by emailing me at wilsonljx@yahoo.com
+
+Much Appreciated!"
+,wilsonljx,2012-02-14T16:56Z,is it working for windows 7 64 bit as well?
+,Shadal,2012-05-15T06:02Z,"The problem I have with all of v11 releases is while doing a search engine submission it gets to about 58% complete, then crashes the program.
+
+v9.7.1 still seems to be the most stable - too bad ;(
+http://thepiratebay.se/torrent/4390399/Internet_Business_Promoter_Arelis_v9.7.1_(IBP)w_Crack"
+,warezrus,2012-06-05T14:53Z,"It works fine.
+
+NOTE: Extract the patch file inside the IBP installation folder and then follow the steps"

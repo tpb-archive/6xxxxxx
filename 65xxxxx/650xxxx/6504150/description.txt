@@ -1,0 +1,44 @@
+Gran Torino (2008) 1080p (10 audios, 35 subs) [mkvonly]
+
+Format : Matroska
+File size : 5.45 GiB
+Duration : 1h 56mn
+Overall bit rate : 6 684 Kbps
+
+Video
+Format : AVC
+Format profile : High@L4.0
+Bit rate : 6 000 Kbps
+Display aspect ratio : 1 920 x 800 (2.40:1 anamorphic)
+Frame rate mode : Variable
+Frame rate : 23.976 fps
+Stream size : 4.82 GiB (88%)
+Writing library : x264 core 88
+Encoding settings : cabac=1 / ref=5 / deblock=1:0:0 / subme=9 / psy=1 / trellis=2 / bframes=5 / b_pyramid=2 / b_adapt=2 / rc=2pass /
+
+
+Audio #1 English (default) : AC-3, 640 KB/s, 6 ch, 534 MiB (10%)
+
+Separate Audio Tracks (Skip them from download if you don't want them)
+
+Audio #2 Czech : AC-3, 640 KB/s, 6 ch, 534 MiB
+Audio #3 French : AC-3, 640 KB/s, 6 ch, 534 MiB
+Audio #4 German : AC-3, 448 KB/s, 6 ch, 374 MiB
+Audio #5 Hungarian : AC-3, 640 KB/s, 6 ch, 534 MiB
+Audio #6 Italian : AC-3, 384 KB/s, 6 ch, 320 MiB
+Audio #7 Russian : AC-3, 640 KB/s, 6 ch, 534 MiB
+Audio #8 Spanish : AC-3, 384 KB/s, 6 ch, 320 MiB
+Audio #9 Thai : AC-3, 640 KB/s, 6 ch, 534 MiB
+Audio#10 Turkish : AC-3, 640 KB/s, 6 ch, 534 MiB
+
+Use MPC (  http://cccp-project.net/  ) to automatically recognize & play
+the external Audio tracks or mux the Audio in MKV with  mkvmerge 
+(  http://www.videohelp.com/tools/MKVtoolnix  ) if you wish to use other player.
+
+Subtitles: English + Forced + Hearing Impaired, Arabic, Bulgarian, Chinese, Croatian, Czech + Forced, Danish, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian + Forced, Icelandic, Indonesian, Italian, Korean, Latvian, Lithuanian, Norwegian, Persian (Farsi), Polish, Portuguese + Brasil, Romanian
+Russian + Forced, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai + Forced, Turkish + Forced, Ukrainian
+
+Sample: 21 MB, multisub
+
+Be aware I made a mistake muxing over 30 subs in the mkv so if you got issues with playing back please remove at least 5 with mkvextract http://www.videohelp.com/tools/MKVExtractGUI
+This is one of my oldest torrents (reuploaded) and by then I didn't now that haali supports only up to 30. Test the sample!

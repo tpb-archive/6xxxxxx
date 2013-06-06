@@ -1,0 +1,24 @@
+
+American Legislative Exchange Council model legislation data dump.
+
+
+
+   Credit for all the work behind this goes to http://alecexposed.org
+
+
+   We have taken the following steps with the data they released:
+
+
+    1. pulled all zip files, extracted PDFs, put them in a tree structure
+
+    2. cured egregious fail in file names such as spaces and shell characters
+
+    3. packaged as torrent, only 624 files, despite them saying it was 800+
+
+
+   They seem to be pretty well Slashdotted at the moment, but long term it
+looks like that site will be the nerve center for picking this stuff apart. 
+This torrent is a nice backup so they don't get pushed around by ALEC, and we 
+made things a bit easier for those who might want to script up stuff and 
+apply it to all these PDFs.
+

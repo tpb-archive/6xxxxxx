@@ -1,0 +1,80 @@
+-------------------------------------------------------------------------------
+\\//\\//\\//\\//  _ |_  _ \ \/ /_  _  _  \\//\\//\\//\\//\\//\\//\\//\\//\\//\\
+//\\//\\//\\//\\ (_||_)(_|/ /\ \_||_ | | //\\//\\//\\//\\//\\//\\//\\//\\//\\//
+
+Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+C:\Users\Chevy Astro AWD\Desktop\op.dvd is valid
+
+Checking Game
+     ISO: "C:\Users\Chevy Astro AWD\Desktop\op.iso"
+     Size: 7838695424 bytes
+     Files in ISO: 560, Folders in ISO: 10
+     Total bytes used: 5105745248 (69.96%)
+Game appears to have random padding
+
+Checking default.xex
+     Original PE Filename:  flashpoint_x360_master.exe
+     Original PE Timestamp: 2011/03/06 17:12:27
+     Game Name:             OF: Red River
+     No Avatar Awards
+     Achievements:          50 Achievements totaling 1000 Gamerscore
+     XEX CRC = 7C586F7A
+     XEX Media ID: A7D9BC9FECE55BB0AEA3684B-45211B47
+
+Region Code: 0xFFFFFFFF
+     Region Free!
+
+Checking SS
+     Timestamp of Authoring: 2011/03/08 00:00:00
+     Timestamp of Mastering: 2011/03/23 06:33:52
+     SS Version: 2 (trusted)
+     SS CRC = 0EAD6CFB (RawSS = 962F5588)
+     SS Media ID: A7D9BC9FECE55BB0AEA3684B-45211B47 (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2011/03/08 00:00:00 (matches SS)
+     DMI CRC = 6658BA30
+     DMI Media ID: A7D9BC9FECE55BB0AEA3684B-45211B47 (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = E18BC70B
+PFI matches known data (10th - 11th Wave)
+
+Video partition found
+     Video CRC = BA47FD12 (V0 = DD2BCA74, V1 = DFEFC0BF)
+Video partition matches known data (11th Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+     Looking for 0EAD6CFB7C586F7A.ini in the online verified database
+     There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Attempting to at least verify the PFI, Video and game data
+     Looking for Xex_7C586F7A.ini in the online verified database
+     Server file Xex_7C586F7A.ini no newer than local file - not retrieving
+     'Xex_7C586F7A.ini' contains 2 SS CRCs, randomly picked #1
+     Looking for 11FFCE7D7C586F7A.ini in the online verified database
+     11FFCE7D7C586F7A.ini was downloaded successfully
+
+     Using 11FFCE7D7C586F7A.ini (374 bytes)
+     Video CRC matches
+     V0    CRC matches
+     V1    CRC matches
+     PFI   CRC matches
+     DMI is unverified
+     SS  is unverified
+     Xex   CRC matches
+     AnyDVD style corruption was not detected
+     Game CRC = 7BFD7034 (matches)
+
+Game data was verified but stealth wasn't
+
+Set AutoFix Threshold to Level 3 if you want to try and find a verified SS and
+Stealth files that match the Xex, and automatically patch them if found.
+
+SplitVid is valid

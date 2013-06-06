@@ -1,0 +1,28 @@
+C4E's iXtreme LT+ 1.91 FULL Firmware Pack + JungleFlasher v0.1.86 (267)
+
+
+C4E released the iXtreme LT+ v1.91 CFW in association with Team Jungle & Team Xecuter:
+
+Official release of the iXtreme LT+ v1.91
+
+* New random AP26 challenges defeated. Due to the new AP26 random challenges the safety freeze for unknown or bad AP25 data is no longer supported.
+Please ensure your AP25 data is correct for the dashboard version you are using.
+* No need to reburn current AP25 backups from dashboard 13146
+
+I would like to dedicate this fw to all the dead DG-16D4S drives from the kamikazi hack
+
+Thanks go to Team Jungle for their hard work and efforts in the development process.
+Thanks also go to Team Xecuter for their support to this project.
+
+
+
+As always with a new C4E iXtreme release, Team Jungle also comes with a new version of JungleFlasher to add full support for the new firmwares.
+
+What's new/fixed:
+* Support for LT Plus 1.91
+-Lite-on Slim 0272, 0225, 0225u, 0401
+-Lite-on Phat 02510C
+-Benq 04421C
+-Hitachi 78/79
+* Bug fix for non USB MTK routines: Read, Write, Phatkey etc....
+* Support for Sputnik/Russian MXIC unlock methods. 

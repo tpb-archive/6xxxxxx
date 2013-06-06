@@ -1,0 +1,70 @@
+General
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 253 MiB
+Duration                         : 21mn 32s
+Overall bit rate                 : 1 641 Kbps
+Encoded date                     : UTC 2011-07-06 21:06:28
+Tagged date                      : UTC 2011-07-06 21:22:35
+
+Video
+ID                               : 1
+Format                           : MPEG-4 Visual
+Format profile                   : AdvancedSimple@L5
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : 20
+Duration                         : 21mn 32s
+Bit rate mode                    : Variable
+Bit rate                         : 1 546 Kbps
+Maximum bit rate                 : 4 507 Kbps
+Width                            : 720 pixels
+Height                           : 416 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 29.970 fps
+Resolution                       : 24 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.172
+Stream size                      : 238 MiB (94%)
+Writing library                  : em4v 4.1.6.5
+Language                         : English
+Encoded date                     : UTC 2011-07-06 21:06:28
+Tagged date                      : UTC 2011-07-06 21:22:35
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Codec ID                         : 40
+Duration                         : 21mn 32s
+Bit rate mode                    : Variable
+Bit rate                         : 80.7 Kbps
+Maximum bit rate                 : 142 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : L R
+Sampling rate                    : 44.1 KHz
+Resolution                       : 16 bits
+Stream size                      : 12.4 MiB (5%)
+Language                         : English
+Encoded date                     : UTC 2011-07-06 21:06:28
+Tagged date                      : UTC 2011-07-06 21:22:35
+
+Text
+ID                               : 3
+Format                           : VobSub
+Codec ID                         : subp
+Codec ID/Info                    : The same subtitle format used on DVDs
+Duration                         : 20mn 51s
+Bit rate mode                    : Variable
+Bit rate                         : 8 056 bps
+Stream size                      : 1.20 MiB (0%)
+Title                            : English
+Language                         : English

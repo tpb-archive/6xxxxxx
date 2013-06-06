@@ -1,0 +1,25 @@
+User Type,Username,Date,Text
+,Olegken,2011-09-11T20:37Z,Thank you!
+,SerSpec-V,2011-09-12T02:02Z,"Working good in Nuvi 255W & 260, Thanks! "
+,bgrimm,2011-09-12T06:20Z,"Good map. Nuvi 760. I ... unRAR file ... create folder ""Garmin"" on SD card ... added file to ""Garmin"" folder and select mac from internal menu. 
+File was to large to store on outdated internal memory. "
+,brewcrew9,2011-09-13T03:16Z,Any suggestions on how to free up space on my Garmin? I have a nuvi 205 and my free space is around 850mb. Need a bit more for these new maps
+,Ipmark,2011-09-13T10:52Z,"The only thing you can dlete from the Nuvi is the old map, make a backup on the PC before deleting.
+If you haven't still enough space in the internal memory, the best way is to buy a 2GB SD memory card and to put the map in the Garmin SD's folder.
+The filesystem of the SD MUST BE FAT32 and the mapname gmapsupp.img."
+,Ipmark,2011-09-13T12:48Z,"How to see this map on the PC:
+
+Download Basecamp from Garmin website, it's an update but if you haven't a previous version already installed on the PC, simply decompress the executable with Winrar in a temporary folder and launch BCMAIN.msi, then overwrite the original Basecamp.exe with the patched one (search TPB for Basecamp v3.2.2 Patched exe).
+
+Download Gmaptool (free, search the web, latest version is the v0.6.0b) and install in the PC.
+
+With Gmaptool load a map (gmapsupp.img) goto to Options > Flag Advanced Options; goto Join section, set Output File (ex.gmapsup2.img), Mapset (click on Info button to see the original one, however you can change it as you want), flag Version in header > set Ms to 0 (zero), click on Join selected.
+
+Copy the modified map on a pendrive (Garmin folder)
+
+Start Basecamp, it wil recognize the pendrive with the map, select the map.
+
+Enjoy !! "
+,ianlin,2011-09-18T01:31Z,"Hello. Works on Nuvi 265W.  But Nuvi 3790T completely does not see the map, either on the SD card or on the main storage.  Anyone has any ideas why it does not work on 3790T?"
+,Ipmark,2011-09-18T14:52Z,Put the gmapsupp.img file in the Map folder (SD 3790 root)
+,cspot78,2011-10-10T23:37Z,Works fine on c550 and c330.  SD format is FAT.

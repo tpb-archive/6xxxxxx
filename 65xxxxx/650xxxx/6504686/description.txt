@@ -1,0 +1,14 @@
+Changelog:
+
+Fix pixmap compositioning to correctly compute DST alpha.
+It's slow and needs to be fixed, but does the right thing
+
+Use pixmap compositing in font rendering (reduce code duplication).
+Add support for rendering of drop shadow and outline in font rendering.
+Improve rich text attrib parser. Can now handle <font/>
+<outline/> and <shadow/> tags.
+
+Add spill margin to pixmaps. This allows text rendering to spill graphics
+outside of the bounding box. Stuff such as outline and shadows.
+
+Detect and resolve collisions of video overlay objects.

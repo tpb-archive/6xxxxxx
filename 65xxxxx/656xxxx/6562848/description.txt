@@ -1,0 +1,5 @@
+Okay, so for those people who want to install Mac OS X Lion solely in VMware, this is the trick for you. Simple attach the .vmdk as a secondary Hard Drive to the VM, boot up, then install. Then unattach the .vmdk and you're good to go. 
+
+There's a link to a tutorial if you think you need more guidance, and I recommend you guys watch it.
+
+For those wondering why this was taken down earlier, the .torrent file was broken.

@@ -1,0 +1,13 @@
+The Free and Open Source Software for Disk Imaging and Cloning
+
+Clonezilla live 1.2.10-4	
+The underlying GNU/Linux operating system was upgraded. This release is based on the Debian Sid repository (as of 2011/Aug/05).
+German language files were added. Thanks to Michael Vinzenz michael.vinzenz _at_ scalaris com.
+Bug fixed: sgdisk failed to reload a GPT table if no inital GPT table on a new disk.
+ 	
+	-- Steven Shiau steven _at_ nchc org tw  Sat, 06 Aug 2011 12:38:00 +0800
+ 
+http://www.clonezilla.org/
+
+sha1sum : 139d12c70ad82df3f31923adb19d41763d18e634  clonezilla-live-1.2.10-4-i686-pae.iso
+md5sum : f181c4f5660e96c20cbe9639bbeb2f22  clonezilla-live-1.2.10-4-i686-pae.iso

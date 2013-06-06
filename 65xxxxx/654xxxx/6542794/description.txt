@@ -1,0 +1,15 @@
+Pro Spring Integration is an authoritative book from the experts that guides you through the vast world of Enterprise Application Integration and application of the Spring Integration framework towards solving integration problems. The book is:
+* An introduction to the concepts of Enterprise Application Integration
+* A reference on building event-driven applications using Spring Integration
+* A guide to solving common integration problems using Spring IntegrationWhat makes this book unique is its coverage of contemporary technologies and real-world information, with a focus on common problems that users are likely to confront. This book zeros in on extending the Spring Integration framework to meet your custom integration demands.
+As Spring Integration is an extension of the Spring programming model it builds on the Spring Frameworkâ€™s existing support for enterprise integration. This book will take you through all aspects of this relationship and show you how to get the best out of your Spring applications, where integration is a consideration. It discusses simple messaging within Spring-based applications and integration with external systems via simple adapters. Those adapters provide a higher-level of abstraction over Springâ€™s support for remoting, messaging, and scheduling, all of which receives coverage in this book.
+What youll learn
+* Introduces the wide world of Spring Integration with an overview of application integration, the patterns involved and then quickly moving into applications
+* How to identify integration problems that are best solved using Spring Integration and enterprise application integration (EAI)
+* Discover and apply EAI patterns and related architectural concepts like staged event driven architectures (SEDA)
+* Explore the concepts behind message-oriented middleware (MOM)
+* How to interface with external systems using Spring Integration
+* Extend the Spring Integration stack with custom adapters, endpoints, and more
+* What are the next steps to production with expert insight into error handling, monitoring, management, and scaling the enterprise Java application
+* Who this book is for
+This book is for any developer looking for a more natural way to build event-driven applications using familiar Spring idioms and techniques. The book is also geared towards architects seeking to better their applications and increase productivity in their developers.

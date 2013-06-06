@@ -1,0 +1,131 @@
+User Type,Username,Date,Text
+,Preddy,2011-07-27T12:46Z,"It's legit but needs new crack ""DragonAge2.exe"".
+So download>install and wait. :-D
+___
+I tested;
+Dragon Age 2 v1.03-FAIRLIGHT
+But DLC content is not accessible ingame."
+,Preddy,2011-07-27T12:51Z,"x:\Program Files\Dragon Age 2\addins\da2_prc_drk
+
+open ""manifest.xml""
+
+and edit
+RequiresAuthorization=""1"" 
+>
+RequiresAuthorization=""0"""
+,premiado,2011-07-27T12:56Z,"Thanks, just need a crack now"
+,quirkynature,2011-07-27T13:26Z,Legit download. Just waiting on a crack.
+,Preddy,2011-07-27T13:28Z,"This might need ""DragonAge2.exe"" modification and 
+-deda2drm da2_prc_drk ""decrypt key""-
+
+For deda2drm we need decrypt key from somebody who ordered the da2legacy.
+
+It can be dump keys from these exes.
+slurpda2.exe
+slurpdakeys.bat "
+,jojkos,2011-07-27T13:38Z,"i did as you said and it looks like its in a game but its names *Legacy with that ""*"" before it and it says its unauthorized and i dont know how to start it up"
+,The_UnKn0wN,2011-07-27T13:46Z,anyone knows how 2 actually start game after you installed the dlc :P?
+,roimata,2011-07-27T18:05Z,"
+make sure you got the orginal dragonage.exe
+
+install the legacy dlc
+
+Download DA2 DLC Activator (http://rghost.net/15976591)
+Open decrypt_dlc.bat in notepad.
+
+Add (without brackets):
+""rem Legacy
+deda2drm.exe da2_prc_drk 4401-685A-21E3-68EC-C704-DB70-B98B-0D46""
+
+Save. Run decrypt_dlc.bat as Administrator.
+
+In ""Dragon Age 2addinsda2_prc_drk"" open ""manifest.xml"" and edit RequiresAuthorization=""1"" to RequiresAuthorization=""0""
+
+copy the crack V3 from v1.03 Cracked-FLTDOX into c:\program files\Dragon Age 2\bin_ship
+
+start the game
+
+Done!
+
+have fun
+"
+,estorm,2011-07-27T18:09Z,"DA2 DLC Activator (http://rghost.net/15976591)
+Open decrypt_dlc.bat in notepad.
+
+Add (without brackets):
+""rem Legacy
+deda2drm.exe da2_prc_drk 4401-685A-21E3-68EC-C704-DB70-B98B-0D46""
+
+Save. Run decrypt_dlc.bat as Administrator.
+
+In ""Dragon Age 2addinsda2_prc_drk"" open ""manifest.xml"" and edit RequiresAuthorization=""1"" to RequiresAuthorization=""0""
+
+Should be fine now."
+,fastlane88,2011-07-27T19:25Z,thanks estorm it worked 
+,quirkynature,2011-07-27T20:18Z,"Thanks, estorm. Works perfectly. "
+,Preddy,2011-07-28T13:26Z,"For AIO DLC Pack use this torrent;
+
+http://thepiratebay.org/torrent/6568774/Dragon_Age_2_Complete_DLC_Re-Pack_%28_WITH_LEGACY_and_Patch_1.03%29_
+
+Thanks to illiria."
+,latida,2011-07-28T15:48Z,"After doing the whole decrypt thing i still have to authorize when loading the game..
+
+I have set RequiresAuthorization=""1"" to ""0"" in all my dlcÂ´s 
+
+Plz help."
+,skylarkwings,2011-07-28T16:43Z,"I get a pop up saying ""Legacy requires Dragon Age II to be installed first"" or something like that. I have DA2 installed, and it's in my add/remove programs list too. 
+
+I even tried running the legacy installer with DA2 running in the background, to which I got another popup saying ""please close DA2 and all its components"". Then I tried again after closing the game but the first pop up appears again.
+
+Any advice on this?"
+,tajimamilos,2011-07-28T21:29Z,"hey, can you guys give me a help?? I can't play it, i've done everithing right but it doesn't show any statue in my hightow estate... In ""Downloadable Content"" it shows legacy and stuff, but i don't know, it doesn't work... any advices??"
+,tajimamilos,2011-07-28T21:51Z,It worked!! I made everything again like... trhee times and it worked... thanks estorm!! 
+,Shaorie,2011-07-29T01:13Z,"make sure you got the orginal dragonage.exe
+
+install the legacy dlc
+
+Download DA2 DLC Activator (http://rghost.net/15976591)
+Open decrypt_dlc.bat in notepad.
+
+Add (without brackets):
+""rem Legacy
+deda2drm.exe da2_prc_drk 4401-685A-21E3-68EC-C704-DB70-B98B-0D46""
+
+Save. Run decrypt_dlc.bat as Administrator.
+
+In ""Dragon Age 2addinsda2_prc_drk"" open ""manifest.xml"" and edit RequiresAuthorization=""1"" to RequiresAuthorization=""0""
+
+copy the crack V3 from v1.03 Cracked-FLTDOX into c:\program files\Dragon Age 2\bin_ship
+
+start the game
+
+Done!
+
+have fun""
+
+
+--------------------------------------------
+
+I done this:
+
+Add (without brackets):
+""rem Legacy
+deda2drm.exe da2_prc_drk 4401-685A-21E3-68EC-C704-DB70-B98B-0D46""
+
+Save. Run decrypt_dlc.bat as Administrator.
+
+But I cant find the manifest file that you are talking about..... any help?"
+,Syteri,2011-07-29T01:55Z,The manifest should either be in the Installation Directory or in My Documents. Check the Dragon Age My Documents folder or its Installation Directory (Sounds redundant...)
+,monster47,2011-07-31T07:03Z,guys it works no crack needed woohoo
+,tyswr465,2011-08-02T09:10Z,"Hey, I patched 1.03 and I set the authorization to ""0"" (followed Esteem's steps), but when I start Legacy I get a ""cannot load area"" error message, and it puts me back at the main menu. Have tried uninstalling/reinstalling but I keep gettting the same error. Help?"
+,tyswr465,2011-08-03T19:23Z,"Thanks Tomemkd, but my system meets the system requirements easily. What puzzles me is that I can easily play the normal Dragon Age 2 on high settings, as well as Sebastian's DLC and all of the other DLC easily, but as soon as I attempt to start Legacy by examining the status, I get a ""unable to load area"" error. 
+
+I have Legacy in my ""installed downloadable content"" in the main menu, and it's authorized, so I know it's installed correctly, and I also meet the standard system specifications for the game as well. I've patched to v1.03 and everything as well. Yet, I get an odd ""unable to load game area"" error and get booted back to the main menu whenever I attempt to start Legacy by clicking the statue. 
+
+Does anyone know why this is happening?"
+,tyswr465,2011-08-08T07:22Z,"Could anyone please help me out - I really would like to play this DLC, but I keep getting the same error message. "
+,ds0bz19,2011-09-01T03:10Z,When i tried editing manifest.xml it says access denied ... what can i do ? anyone ?
+,Meesaw,2011-09-09T13:41Z,"@ds0bz19
+
+The same thing happened to me (access denied) but it worked after I took ownership of the file. 
+It's really simple, you can search for it on google if you're not sure what to do."

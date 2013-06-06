@@ -1,0 +1,31 @@
+WOAT 3.4.1 FIX ( Windows 7 & Office 2010 VL Activation Tool )
+
+
+WOAT itâ€™s a versatile tool that Check for Activation Status (W7/O2010), Activate W7 and Servers (OEM/KMS), Activates Office 2010 VL (KMS), Reset W7/Servers Back to Trial Mode and many more...
+
+WOAT Main Features
+- Activation Status Check (W7/Office 2010)
+- OEM Activation (W7) (Slic v2.1 only)
+- KMS Activation (W7/Servers/Office 2010 VL)
+- Resets W7 Back to Trial (All Versions / Except Multipoint)
+
+OEM Activation Support
+- Windows 7 Starter to Ultimate.
+Note: Slic v2.1 only
+
+KMS Activation Support
+- Windows 7 Professional, Enterprise (N and E), and Multipoint Server.
+- Office 2010 VL Editions Of:
+- Professional Plus, Standard, Small Business Basic, Project Professional/Standard, Visio Premium / Professional / Standard, Mondo / Mondo 2, Word, Excel , PowerPoint, Outlook, Access, Groove, InfoPath, OneNote and Publisher. [Win7 and Win8 Pre M3 Build 7955]
+
+Reset to Trial Supports
+- Windows 7 Starter to Ultimate (N and E).
+
+Release Notes 3.4.1 FIX
+* BUG FIX - When option "[OFFICE 2010 VL] [MENU]" is selected WOAT runs the "OFFICECHECK" and always returns 1 instead of 0 and Display msg "No Office Product Installed" even if you have an Office 2010 VL product installed. This start to happening on Win 7 SP1 after lastWindows Updates Released 5/10/2011.
+* ADD - Changelog Section on WOAT access it by hitting V.
+
+Note: This tools is 65.5% clean according to this report: 
+http://www.virustotal.com/file-scan/report.html?id=edb63f59cd070ad6279ab2ef06facc4d8d272284921d8f0159fa5491ce10ac88-1310309849
+
+

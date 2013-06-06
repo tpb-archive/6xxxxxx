@@ -1,0 +1,48 @@
+User Type,Username,Date,Text
+,senial43,2011-08-04T06:26Z,During installation it asks you to select the folder for cd2. It doesn't work. I tried every folder and it will not accept or can not locate the information for CD2. What a bummer! I can't get it to work. Anyone have a work around for this?
+,sparrowhawk13,2011-08-04T23:31Z,"Workaround for cd2 install is a pain in the ass, but possible.  You have to create dummy copies of all the files it asks for, so for example, when it asks for 2a02.bbb, just select 2b02.bbb in the folder and make a copy.  Rename that copy to 2a02.bbb and point the installer to the proper directory (the one containing the new file) and hit next.  It will tell you the file doesn't match the one in the bin, so hit 'Ignore' and you should be ok.  It will also ask for dreamfall.wmv....I couldn't find a copy, so I just renamed another wmv to that and did the same thing.  Seems to install ok, and I get the splash screen and the start menu and all that, but still needs a cd key....anyone find one that doesn't require burning an actual physical cd?  I suppose it could be done in Alcohol, but that's another hassle...shitty package for a great game from anonymous!"
+,removebyfriction,2011-08-07T22:34Z,"I got the missing dreamfall.wmv too, but nothing else - just the one file, and I was able to replace it with a zery-byte dummy. According to the readme file, the dreamfall trailer (presumably dreamfall.wmv) was removed to save space, which might explain it. Judging by the compression (-md=256m? Seriously?) this release has been designed for compactness above all else - to cram the game into as few bytes as it can be squeezed in to. That would explain the missing trailer, though I do wonder why the releaser didn't pick up on the error message and include a zero-byte dummy to handle it.
+
+Didn't get anything about 2a02.bbb or anything like that though. Just dreamfall.wmv."
+,removebyfriction,2011-08-08T07:30Z,"Also, Sparrow: I didn't have to burn it to a CD, just extracted and ran setup. And not only did I need no CD key, but this game *never* needs a CD key, ever. Get your torrents mixed up?"
+,Nokah02,2011-09-12T21:47Z,"All it downloaded was a file type that was shown as a ''Journey File''... im not quite sure what the hell that is, im gonna try and play with it a little bit but im not sure i'll get this one going."
+,sprout484,2011-10-03T09:58Z,this SUCKS!!!!!!!!!!
+,kotboris,2011-10-13T22:39Z,"Thanks a lot, this seems to be the only english version of this game on TPB.
+And it works:
+1)unpack using 7zip
+2)run installer
+3)when it asks for dreamfall.wmv on cd2 create a 0-sized dummy file with this name and open its location as cd2."
+,reeti.p,2011-10-30T11:33Z,I don't know how to create a size zero dummy file for dreamfall.wmv. I tried renaming another wmv file as Dreamfall.wmn but it didn't work.  Somebody please help me...i really want to play this game!
+,yogdagon,2011-11-27T14:26Z,"Thanks, mate, but it doesn't work."
+,pigeonhaha,2011-11-29T19:13Z,"Thanks for the upload. The game's working fine so far, I've played for about 2 hours and got to chapter 2.
+
+To the people having trouble with dreamfall.wmv/CD2, there's no need to create a dummy file. Just run setup.exe, select custom installation and untick ""Dreamfall Trailer"". It installed for me without a hitch, never asked me for CD2 or dreamfall.wmv.
+
+If you want to go ahead and make a dummy file anyway, just right-click inside a folder, select new, then select bitmap image or notepad text document or something. Rename the file you've just made to dreamfall, and change the extension from .bmp/.txt to .wmv. "
+,Velicko91,2012-01-09T18:50Z,"i can't patch policeStationFix it say ""one or more registry keys missing!"". if you can't patch don't save game near police station you can't load it.. So does someone know how to patch or i must load older save?? "
+,nObl3hObO,2012-01-15T01:22Z,"The torrent worked great! as pigeonhaha had stated you just need to de-select the trailer in the custom install, though unfortunately when loading saved games i'm unable to move or interact with anything, is there a fix for this that anyone knows of? Thanks Again Anonymous"
+,nObl3hObO,2012-01-17T00:47Z,Ok...issue solved...there is a patch 1.56 i believe that fixes both the videos and the problem with loading saved games. Thanks again!!
+,KG75,2012-02-29T00:19Z,"Choose custom install, untick the box for the Dreamfall trailor, voila. "
+,Johann-Weiss,2012-04-01T22:02Z,Instead of human figures it shows some flickering pieces of torn pipifax.
+,Johann-Weiss,2012-04-01T22:07Z,"Don't know why. XP SP3, Geforce GTX550 Ti.
+Also (before I re-installed it) it asked for CD2 ('cause I didn't tick the installation of the trailer)."
+,Garfelt,2012-04-04T00:59Z,"Worked fine for me.
+
+1. Unzipped the archive
+2. Ran Setup.exe
+3. It asked me if I wanted to uninstall and I did
+4. Ran Setup.exe again
+5. Ran the patch file
+6. Start the game with Game.exe
+
+Police Station Fix did not work."
+,0rochimaru,2012-05-18T16:55Z,"Game works find on Win7 64-bit.
+
+And, as someone else here said, just select ""Custom Install"" and then UN-CHECK ""Dreamfall Trailer"", and it will install A-OK.
+
+The uploader ripped the trailer.  So, if you try install it (or install using defaults), you'll get the error and will have to jerk around with making a dummy file."
+,0rochimaru,2012-05-18T16:56Z,"PS:
+
+Install the game in the same folder as the files you extract from the .rar torrent, as it needs ALL these files to run (sans the main .rar).
+
+If you install elsewhere then delete or move the initial un-rar'd files, you'll have problems."

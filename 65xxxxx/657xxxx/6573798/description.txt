@@ -1,0 +1,125 @@
+[i]From the creator of Micro XP Pro 0.92,[/i]
+DarkReverser [i]Presents[/i]: 
+
+[b]I think I made the getting started section a tad too long/complicated lol.  Basically, you must Re-run STARTXP.bat in $OEM$ folder of CD.  It doesn't fully apply during installation and includes tweaks and apps.  When prompted to overwrite files enter the letter A.  Then restart your computer, and your good to go.  Obviously, you want to install your drivers and .net AIO for app dependencies.  Then you can go straight to installing your apps, or choose "Portable Apps Platform" or "Ninite" to install mass volumes of free apps easily. Oh and don't mind the million spelling mistakes. [/b]
+ 
+
+[b]Micro XP Pro 0.95 New Edition[/b]
+
+Installation time: ........14 min (4 min is for System File Checker)
+Speed:.......................Insane 
+Functionality:..............Retail
+Iso Size:.....................211 MB
+HD Space: ................ 525 MB (after swap deletion)
+Ram Usage: .......... ....50 MB 
+Security: ...................Maximum (Tweaks + Updates)
+Automatic: ................Setup & speed enhancements
+
+
+[b]Purpose:[/b]  To make the retail version of XP Pro better.
+  -Faster install and speed
+  -Less memory and cpu usage
+  -Increased security via tweaks
+  -Increased compatibility via update
+  -Faster deployment; getting your system ready shouldn't take eons.
+  -Passes WGA
+  -No need to activate
+  -Pre-shipped with handy applications, and tools for fast deployment
+  -Micro XP Pro 0.95 will not produce any more errors then the retail copy*  
+  -Must be quality enough to fix a friend's computer and zero head aches
+
+[b]Included Utilities for deployment[/b] 
+   -.Net AIO shortcut for application dependencies
+   -Two AIO shortcuts for getting lots apps without lots of Effort/Time
+   -7zip
+   -Atlantis
+   -Autoruns
+   -Ccleaner
+   -Citris Alarm Clock
+   -Double Driver
+   -Easy Duplicate Finder
+   -Foxit PDF Creator
+   -Jruler (does my resume line up?)
+   -NetMeter
+   -PowerIso (Burning and Dvd Emulation)   
+   -Regshot
+   -Sandboxie
+   -Unknown Device Identifier
+   -Unlocker
+   -PDF2Word
+   -Outlook Express
+   -Window Media Player 11
+
+[i]All Crammed on 211MB Iso that produces as little errors as retail, not bad![/i]
+
+[b]Supported Languages:[/b]
+
+Dutch, English, French, German, Italian, Polish, Russian, Spanish,  Ukrainian, Vietnamese*
+Only the main region for the languages are supported*. 
+*******************************************************************************************************
+
+[b]New in 0.95 Core:[/b]
+  -Critical minimization point reached while maintaining 100% compatibility, zero errors and no relevant loss of features.
+  -Added July 2011 Security Updates
+  -Massive security improvements, elimination of startup bloat; worked overtime for you guys.  
+  -Massive bug hunting, no missing dlls, no event log, application or installation errors.
+  -Added "Autoruns"program to maintain your system speed 
+  -Added "Getting Started" section and include AIO installer links for fast deployment
+  -All keyboard layouts kept
+  
+[b]Instructions:[/b]
+
+Extract iso from archive.
+Burn the iso on any media with imgburn, poweriso etcâ€¦with verify option checked.
+Configure your bios to start from optical drive, place disk in this drive.
+Install is automatic.
+
+[b]VMware Instructions:[/b]
+
+Micro XP Pro 0.92 is incompatible with "easy install" from Vmware.
+When creating, a new virtual machine YOU MUST SELECT "I will install the operating system later".  Then start the virtual machine, click on "Virtual Machine", "Removable Device", "CD/DVD, "settings".  Select use iso.  Browse to image file, press ok, and restart the virtual machine.
+This time, you will avoid having to put in a serial number, and you will also avoid Error Code: 0x80070002 upon first XP startup. You see - easy install bypasses one of my important manual install procedures, that's why you get that error.
+
+[b]Past Releases Sizes:[/b]
+
+0.88	206.95 MB
+0.90	262 MB
+0.91	217 MB
+0.92	217 MB
+0.95	211 MB (with 16 apps) 
+   
+[b]I don't want to install XP on C Drive?[/b]
+
+You have three options.
+Make sure only one storage unit is connected to computer prior to loading XP Setup; optical drive doesn't count.
+1. If you see another partition, select that partition.
+2. If there are no partitions, then you must create two partitions.
+    By default when you go to make a partition, XP gives the maximum size.
+    You need to reduce this size so that you can make a second partition.
+    Now create you second partition, and select it to install XP onto it.
+3. If there is exactly one partition, it is probably taking the whole hard drive, and you need to delete then create two partitions as discussed.
+Note: Sandboxie and Foxit Creator will not install properly if you choose alternative drive.  Everything else though will be fine.
+
+[b]Exaustive List of Removed Features, and Reason for Removal:[/b]
+	No Device AutoPlay 									(Security)
+ 	No Posix support; used by hackers/malware 						(Security)
+ 	No Floppy/Zip/Iomega/Tape Drive/Serial Port support					(Irrelevant)
+ 	No Visiting Windows update*								(No Need)
+ 	No Password Storage, except for internet connection/user login				(Security)
+ 	No Terminal Services/Remote Desktop/Remote Registry/
+                 /Netmeeting/Telnet/FastUserSwitch**							(Security)
+ 	No Internet Information Service (aka Apache)						(Irrelevant)
+ 	No Windows Sounds 									(Annoying)
+ 	No Multi-language windows dialog boxes 							(Irrelevant)		
+	No Secondary Logon									(Security)
+ 	No QOS										(Security) 
+ 	No FAT to NTFS converter, File and Settings Wizard, Help and Support			(Useless)
+	No Indexing*** (Increased general performance, slower search results, use Everything to search)
+            No Upgrade installation									(Useless)
+
+*The bulk of your security is in your security software (Anti-Virus, Virtualization, Firewall) not in XP updates.
+**Terminal Services allows users to connect interactively to a remote computer i.e., netmeeting.  It's removal provides security  
+  benefits.  Despite it playing no role in the following software, the software fails to install and therefore earn my Award for
+  Garbage software packages:  Toshiba Notebook Utilities, Windows Search 4.0, Norton Antivirus 2003.
+***I recommend install Everything via Ninite to search for files; XP search is slow. 
+****No other removed component affects application compatibility.

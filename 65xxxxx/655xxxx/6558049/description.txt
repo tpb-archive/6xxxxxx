@@ -1,0 +1,45 @@
+Nero 10 BurningROM 10.5.10300: Portable & Stealth  
+http://bayimg.com/haJbHaadE
+
+Website       : http://www.nero.com/enu/nero-burning-rom-overview.html
+Category      : Burning Software
+Version       : 10.5.10300
+Price         : $49.99 USD
+License       : Payware
+Dependencies  : Admin Rights
+Language      : English
+Requirements  : XP SP2, Vista, 7, 32/64
+Stealth    [?]: Yes
+Portable   [?]: Yes
+Format     [?]: Xenocode & NSIS Hybrid *read below*
+Activated  [?]: Yes (no annoying registration dialog)
+How to Use [?]: Extract to desired location, launch "Nero10Portable.exe".
+Synopsis [?]: Let's be honest.. we all can hate on Nero for being bloated and
+expensive.. but when we're honest.. we all know it provides the best platform
+for burning CD, DVD, BD. For non-important items, freeware is fine... but notice
+how fast the media begins to skip? that's because of the software. 
+
+[Format Explanation]
+I prefer NSIS or PAL formats myself, but with applications that require tons of
+requirements, runtime registrations, runtime .dlls, etc.. it's easier to pack
+with Xenocode. The reason i hate Xenocode/ThinStall is they use the registry
+for it's sandbox, and creates directories for runtime files in "XSxS" directory.
+
+Well.. this "hybrid" utilizes the best of both worlds. 
+
+It's been created with Xenocode, but tested thoroughly for all the registry
+entries, files, and directories it leaves behind, and cleaned up with an NSIS
+launcher... making it truly "stealth".
+
+i.e.
+PortableAppz has a version posted but it doesn't even work. 
+That's because Nero requires too many dll's and runtime files to be registered,
+and all is different depending on the Operating System.
+
+Not to mention the licensing... 
+
+[Final Words]
+I have thoroughly tested on XP, Vista, and Win7, both 32 and 64Bit to find all 
+the registry entries and files left behind. 
+
+Another benefit of packing with Xenofex is it's optimized for USB/Portable Media.

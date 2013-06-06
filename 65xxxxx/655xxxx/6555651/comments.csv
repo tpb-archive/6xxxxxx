@@ -1,0 +1,170 @@
+User Type,Username,Date,Text
+,udidwht,2011-07-21T22:17Z,"Downloading/Seeding as I type. Thanks Micky
+"
+,ePyrate,2011-07-22T00:54Z,YES! Thanks Mickyfinny very much!
+,N109GE,2011-07-22T01:40Z,Thanks...any luck with Carenado T210..?
+,FsMM,2011-07-22T02:34Z,"Thanks for this one Mick!  Also, thanks for the F1 182-even though the MFD was corrupt, this plane was still flyable.  I was very impressed by the FDE.  Anyways, thanks for all you do.
+
+req: Aerosoft Diamond Katana 4X and Carenado T210"
+,pilot1957,2011-07-22T08:01Z,"REQ:INSTANT MISSION MAKER please thank you.
+Thanks for all the stuff you gave us.
+pilot1957"
+,shitthebomb,2011-07-22T12:47Z,anyone know where i can find the manuals? thanks!
+,joseph5o5,2011-07-22T14:08Z,you are the man......
+,joseph5o5,2011-07-22T14:09Z,you r the man...........
+,heli3,2011-07-22T15:34Z,Thank you for uploading a wonder like this! I was waiting for it since it came out.
+,olufsen01,2011-07-22T15:59Z,Thank you sir :)
+,rra137,2011-07-22T16:09Z,"@mickyfinny
+thank you for this great upload
+
+@shitthebomb
+I found the manuals at the following path :
+C:\Program Files\Microsoft Games\Microsoft Flight Simulator X\SimObjects\Airplanes\T-38A_MilViz\Manuals"
+,AlloyShark,2011-07-22T17:06Z,"thanks mickyfunny, 
+
+req: IFLY 737 FSX Service Pack 1
+ARIANE 737-700"
+,XxX-blackbird,2011-07-22T17:56Z,"hi
+
+req:
+
+First class simulations mig-29 codename fulcrum
+
+The only one DX10 compatible "
+,jolopy,2011-07-22T22:49Z,I keep getting a license invalid error and the front panel is non-existent. I've done all the installation correct as per the readme. Any help?
+,mysteryfancy,2011-07-23T09:03Z,"@ jolopy
+No, I have no problems and the aircraft was working fine.
+Install the airplane into a ""working folder"" and not in the direct path of FSX, then distribute the unzipped folder manually. Maybe it works then.
+
+@ Thank you very much, mickyfinni."
+,rocket685,2011-07-23T17:04Z,"Request
+multi crew experience
+http://www.multicrewxp.com/
+
+really awesome, would appreciate that alot"
+,piratepilot,2011-07-24T02:53Z,"Not working.
+
+""Error"" ""Can not load required DLL"" or ""Invalid License....blah blah blah"" no gauges, followed vague directions to the ""T"". Followed by CTD. Thanks anyway the MilViz team blows.
+
+Waste of bandwidth dpn't DL."
+,hitchup,2011-07-24T08:59Z,"@piratepilot
+
+Install T-38A
+
+Copy mvalkdj.dll to C:\Windows.
+
+ Go to your dll.xml file located in:
+
+C:\Windows\Users\YOUR USER NAME\AppData\Roaming\Microsoft\FSX
+
+- Open xml file via notepad or any editor you want.
+
+-Add following entries:
+
+
+    MilViz_T38
+    False
+    False
+    K:\FSX\Microsoft Flight Simulator X\Gauges\MilViz_T38.gau
+
+
+make a backup[ fsx- dll.xml ]."
+,vittupaa1980,2011-07-24T11:21Z,Thx man req: Fsx Booster V2 
+,piratepilot,2011-07-24T12:37Z,"@hitchup
+
+Thanks dude however this does not work. Appreciate yours and mickfinney efforts. Its what the readme states to do as well.
+
+My FSX dir is on ""E"" so my dll.xml path is ""E:\Program Files\Microsoft Games\Microsoft Flight Simulator X\Gauges\MilViz_T38.gau"". 
+
+unless for reason it needs to be ""E:\FSX\Microsoft Flight Simulator X\Gauges\MilViz_T38.gau"" which also tried but don't see how it would see the path this way.
+
+Im running XP 64-and tried the ""mvalkdj.dll"" in both ""WINDOWS"" root directory, and also in ""windows/system32"" folder. 
+
+Thanks again unless you see something wrong in my dll.xml path, I'll give this one a miss."
+,AlteredRealitii,2011-07-24T19:15Z,"
+The very first time I installed this I had the same errors as piratepilot but I eventually got it to work. Here's what I did:
+
+I placed the mvalkdj.dll file into both the C:\windows\system32 and C:\windows folders because I couldn't get the gauges to work when I just placed it into the system32 folder. It probably would have worked had I just placed it into the C:\windows folder and not into both at the same time. 
+
+I created a folder on the desktop and extracted all the files for the install into that folder.
+
+I manually placed all the files from there into there respective places in the FSX folder where they would have normally been installed to as mysteryfancy had suggested. Basically every file and folder from the extraction needs to be copied, pasted and merged into the Microsoft Flight Simulator X main folder. 
+
+Then I located my dll.xml file at 
+C:\Windows\Users\YOUR USER NAME\AppData\Roaming\Microsoft\FSX as per the readme file states, and I added the lines to the file. Make sure that this:
+
+
+    MilViz_T38
+    False
+    False
+    K:\FSX\Microsoft Flight Simulator X\Gauges\MilViz_T38.gau
+
+
+is located before this line
+
+
+
+and change the path to exactly what your path on your computer is to point to your gauges file regardless of what drive it's on because my drive is the A drive and I got it to work.
+
+That was all I did. I also disabled my AV during all this all the way up to till after I made sure everything was working fine. Probably another step I didn't have to take but I'm just stating exactly what I did.
+
+I hope this works for everyone as it did with me and helps people out who are having trouble. This is a great aircraft so thank you mickyfinny for the crack and mysteryfancy for the suggestion.
+"
+,hitchup,2011-07-24T19:55Z,"@ piratepilot 
+
+open FSX- dll.xml file .
+must have that:
+http://imageshack.us/f/717/texfile.jpg/"
+,Yxin123,2011-07-24T23:49Z,Awesome.Thx!
+,fltsimbloke,2011-07-25T04:46Z,"thanks for the detailed install info.
+
+Req: RealAir  Turbine Duke V1.2 "
+,hitchup,2011-07-25T08:30Z,"@ piratepilot 
+
+open FSX- dll.xml file .
+must have that:
+
+http://postimage.org/image/1nef2uaxw/"
+,piratepilot,2011-07-25T12:00Z,"Geez fellas thanks for all the help. I'm impressed.
+
+Any way, let me ask something @hitchup
+
+In your screenshot of the dll.xml your path reads as follows ""K:\FSX\Microsoft Flight Simulator X\Gauges\MilViz_T38.gau"", so are you saying use this path even though my install path is in ""E""?  
+
+I think its conflicting with another addon. Thanks again."
+,mysteryfancy,2011-07-25T12:33Z,"@ AlteredRealitii
+
+What you wrote is absolutely true!
+Glad to help if I could. The plane really works very well!
+
+@ Pirate pilot
+
+Another little tip: If a Windows x64 system (eg WIN7 user) has the mvalkdj.dll file should follow eden also copy the folder C: / Windows/SysWOW64."
+,hitchup,2011-07-25T18:21Z,"@ piratepilot 
+
+my  fsx is in c:/prg _fil (x86)
+when I change [K] with [C],my front pilot disappear."
+,Yxin123,2011-07-26T13:43Z,"The aircraft works perfectly, but im getting these crazy ctd when trying to change i.e payload, or even saving the flight. I have sofar not been able to save a single flight. Does anyone else have these problems?"
+,clintferns,2011-07-26T20:46Z,hey does ne1 have fly tampa fsx dubai airport or aerosoft mega airport zurich 2012..please !
+,mysteryfancy,2011-07-26T22:05Z,"http://thepiratebay.org/torrent/6566327/FS2004_-_Aerosoft_Mega_Airport_Zurich_2012
+
+for FSX + Fs2004
+
+Use the search and you'll find everything here is available to upload."
+,clintferns,2011-07-27T11:31Z,thank you soo much....i hope you can use it for fsx as well !!! btw i guess u uploaded the same airport right....???? neways do u have fsx flytampa dubai omdb ???
+,clintferns,2011-07-28T20:37Z,"the link to the torrent u gave me seems to be not working,cause when i tried to unzip the file using winzip it wasnt unziping"
+,mysteryfancy,2011-07-28T21:29Z,"OK, I'll check it and sign up again"
+,mysteryfancy,2011-07-28T21:57Z,"So, I checked it.
+
+The download works.
+When unzipped, then yields the two folders. One is empty, for whatever reason. In the other, the exe and the crack is included.
+I have unzipped with WinRAR and you can ignore the error message. I have no idea why this is so.
+
+It would be great of course, would someone upload a working version, without the errors.
+
+I hope I could help you with it."
+,bigough,2011-07-29T19:41Z,"Try WinRAR to unzip, worked for me.  Great upload Micky, fun to fly."
+,mysteryfancy,2011-07-30T19:32Z,"Oh damn, I forgot to write that my comment concerned ""clintferns"" problem with the Mega Airport Zurich. Excuse.
+The FSX - Milviz, T-38A JetTrainer of mickyfinny works for me perfectly."
+,Jimstalk,2011-08-05T13:28Z,plz upload fly athens
+,man314,2012-03-11T02:53Z,Malwarebytes anti-malware detected a trojan in one of the files in this torrent.  When I used 7-zip to upack the rar I noticed a file that needed to be put in the windows system 32 folder.  That immediately sent up a red flag so I scanned the file with malwarebytes and it immediately detected a trojan in the file.

@@ -1,0 +1,65 @@
+Final version of vlc 1.1.11 from today : july 16
+This is the untouched original version from videolan.org
+I'v just added Final in the title to avoid all confusion
+
+VLC media player is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVD, Audio CD, VCD, and various streaming protocols. VLC Player is Simple, Powerful and Fast. Plays everything, Files, Discs, Devices and Streams. VLC also is Media Converter and Streamer, plays most codecs with no codec packs needed. VLC is a highly portable multi-platform multimedia player for various audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, Ogg, OGM, MOV, wma, wmv...) The VLC media player project targets multimedia streaming of MPEG-1, MPEG-2, MPEG-4 and DivX files, DVDs, digital satellite channels, digital terrestial television channels and live videos on a high-bandwidth IPv4 or IPv6 network in unicast or multicast under many OSes. VLC also features a cross-platform player, which can be used to read the stream from the network or display video read locally on the computer under all GNU/Linux flavours, all BSD flavours, Windows, Mac OS X, BeOS, Solaris, QNX, Familiar Linux...
+ 
+
+
+VLC media player Features:
+â€¢ Rewrite of the playlist (tree structure, input preparsing ...) 
+â€¢ Preferences improvements 
+â€¢ XML parsers 
+â€¢ Client-side SSL/TLS support 
+â€¢ Massive Matroska improvements 
+â€¢ Support for SOCKS proxy 
+â€¢ Support for Shoutcast Meta-data 
+â€¢ Support for (HE-)AAC raw-audio streams 
+â€¢ TiVo demuxer 
+â€¢ Samba (Windows shares) access module 
+â€¢ Dirac decoder and encoder 
+â€¢ PNG decoder/encoder 
+â€¢ Support for Apple Lossless Audio Codec 
+â€¢ Services discovery modules (brand new SAP module, HAL discovery, DAAP (iTunes shares), shoutcast) 
+â€¢ Support for 20/24 bits LPCM 
+â€¢ Video snapshot support (png or jpg) 
+â€¢ Image file video output (png) 
+â€¢ Mosaic (picture-in-picture system) 
+â€¢ Pocket PC port 
+â€¢ Brand new Internet Explorer ActiveX plugin
+
+____________________________
+
+ 
+ Changes in VLC media player 1.1.11:
+
+Security:
+ * Fix buffer overflows in the RealMedia demuxer (CVE-2011-2587)
+   and the AVI one (CVE-2011-2588).
+Mac OS X:
+ * Fixed scrolling direction if the input device's signal is inverted
+ * Update Auhal audio output to the latest API
+ * Fix images disappearing issue on the interface
+ * Reduced installation size by up to 30 MB
+ * Resolved conflict between iTunes and VLC wrt Media Key handling
+Mozilla/ActiveX webplugin:
+ * Fullscreen mode is fixed on Win32
+ * Very simple fullscreen controller is visible on Win32
+Demuxers/Meta Readers:
+ * Better support for cover art embedded in mp4, wma
+Muxers/Output:
+ * Fix AVI muxer so the generated files are readable on other players
+Extensions:
+ * Multiple fixes for crashes and malfunctionning issues
+Qt Interface:
+ * Fix quitting on Linux
+ * Fix opening of VIDEO_TS folders through the open disc dialog on Windows
+ * Miscellaneous
+Win32 port:
+ * Update of codecs, fixing the mpeg-2 decoder crash
+Translations:
+ * Update of Slovak, Lithunanian, Russian, Brazillian Portuguese, Serbian
+
+seed a bit with me,please !
+enjoy
+regards

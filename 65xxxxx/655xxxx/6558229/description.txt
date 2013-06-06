@@ -1,0 +1,86 @@
+There is already a thread about Roguelikes ported to N900 running (http://talk.maemo.org/showthread.php?t=65869), so you can get the major ones from there. This thread will be about running the non-ported ones. Also most of these use less keys than say ADOM, so are much more user friendly on N900.
+
+I played a bit with the qemu-i386 package for ADOM that 009N provided and after hundreds of uncaught target signal 11 errors I managed to run a few roguelikes successfully, here is the list:
+
+-----------------------------------------------------------------------------
+
+Running without problems (though not at 100% speed, some bit more sluggish, others almost unnoticeably):
+
+
+Frozen Depths (http://koti.mbnet.fi/frozend/) - very nice ADOMesque RL with temperature replacing food worries. Fully configurable keys (keybindings.txt). Blood splatter. Boss battles. Lots of fun.
+
+
+Zapm (http://zapm.org/) - Zapm is a science fiction roguelike game by Cyrus Dolph. A humble attempt to create "the sci-fi Nethack". Arrows don't seem to work that well, so either 1-9 or tap 'O' and enable VI keys. Make sure the screen is big enough (or rather font small enough). Very enjoyable.
+
+
+Nlarn 0.6.1 (http://sourceforge.net/projects/nlarn/) - A rewrite of Noah Morgan's classic roguelike game Larn. Still have to dive into this one a bit deeper. Looks promising.
+
+
+CalcRogue (http://calcrogue.jimrandomh.org/) - CalcRogue, a roguelike game for the TI-89, TI-92+ and V200 calculators. Might make more sense running through a calculator emulator, no idea. Works anyway. No support for VI keys and the arrows seem to be RUN, so 1-9
+
+
+
+-----------------
+7DRLs:
+-----------------
+Please note that Savescummer, Fatherhood and You Only Live Once all _require_ 80x30 terminal to run. This can be hard to accomplish on N900 (even 80x25 is problematic) - one way to do it: Easy debian with terminal that allows font changing (like LXterm for example, get it through synaptic), set small enough font (monospace 11 seems to do the trick), resize the window to the correct size and enjoy.
+
+Savescummer (http://www.zincland.com/7drl/savescummer/) - The features of Save Scummer are:
+
+* Intelligent "Do What I Mean" commands that reduce all possible actions to a single keystroke.
+* Infinite undo to correct mistakes in pressing said single keystroke.
+* Fight the fifty-two monsters from Letter Hunt and one new bonus monster.
+* 1980 different weapons and 216 different spells!
+* Play one of 8 races or 9 classes!
+
+Fatherhood (http://www.zincland.com/7drl/fatherhood/) - As the name suggests, in Fatherhood you play the role of a father who has an important task to perform. That task is the stopping of the flood waters (or on some maps, the fires) that threaten to wash away his homeland. The tension is that you have another implicity task: to be a good father. Your three children are also in the world, running about, either helping or hindering as is their whim.
+
+
+You Only Live Once (http://www.zincland.com/7drl/liveonce/) - The features of You Only Live Once are:
+
+* Extremely tactical combat. There is no randomness in combat. You always hit and always do full damage. This means that careful placement is the difference between success and failure.
+* Heavy on plot and characterization. A story is told. It is not just kill things for no reason. (If you want to just kill things for no reason, POWDER is recommended)
+* Quick to complete. You can likely fully explore and enjoy the game in an hour or two. You are then free to get on with your life.
+
+
+Alan's Psychedelic Journey (http://exador.sourceforge.net/apj.html) - Mushroomy trip. 1-2 busrides long roguelike. Pretty fun.
+
+
+Devil Might Laugh (http://7drl.org/2011/03/13/devil-might-laugh-success/) - Escape from hell and save your soul.
+
+
+last-of-candle (http://www.interq.or.jp/libra/oohara...dle/index.html) - last-of-candle is a turn-based dungeon exploring game like rogue. You play an adventurer who wants to reach the bottom of the dungeon, which is full of monsters. You can use your shadow as a friendly creature to deal with them.
+
+
+Bane of the living (http://code.google.com/p/bane-of-the...-7drl-version/) - Through the forest, at the bottom of a cave, lies the Moonscythe - an artifact with a legendary power over the undead. You're not the only necromancer searching for it, so you'll have some competition.
+
+
+Mad Mage (http://www.wiglud.com/madmage.html) - Mad Mage is about subverting the Identification minigame in Roguelikes. Roguelikes commonly expose the player to new and mysterious items, whose properties are not immediately clear until said item is tried or identified. In Mad Mage, you start with all potions and scrolls IDed, but you'll slowly forget the identifications... (uses ESC key a lot)
+
+
+Rook (http://7drl.org/2011/03/13/rook-7drl-success/) - As long as youâ€™re wearing the orb of the Turk, you canâ€™t die a stupid death â€” every move you can make has to kill you. If you take it off, youâ€™re playing a traditional roguelike. The ring of vulnerability will save you from losing any hitpoints, because every hit you take will kill you, which is forbidden by the orb. Along the way youâ€™ll find potions of healing and scrolls of teleport, opium sots, drunkards, hounds, and the royal couple themselves, out for a stroll in the woods. Apparently theyâ€™re bad guys. Probably tyrants, or something. Kill them.
+
+
+DungeonClimb (http://sourceforge.net/projects/dungeonclimb/) - bit hard to get the correct screen resolution. Seemed to work ok with only upper rim shown (fullscreen and then ctrl-up with Set Deb HW Keys on). The screen gets messy from time to time.
+
+
+-----------------
+Python (these even though not emulated run terribly slow, listing just as maybe some day we'll get Psyco ported to maemo):
+-----------------
+
+GartenRL- roguelike gardening simulator. Runs comparatively well.
+
+
+Harmless7DRL (https://github.com/svk/harmless7drl/downloads) - This is a game about surviving by using your abilities cleverly. Direct hack-and-slash approaches are probably -- hopefully! -- doomed to failure (though if you become very skilled at the game, it may be fun to try as a challenge game). Nearly every monster in the game has some sort of special behaviour. Observing how the monsters behave and figuring out ways to deal with them (not necessarily kill them) is a large part of the game.
+
+
+imonster (http://silmarill.org/imonster.html) - not much background on this one. You play the bad guys (vi keys) against a hero (and sometimes his dog). Runs quite well.
+
+
+KleinRL (http://www.roguetemple.com/forums/in...p?topic=1361.0) - roguelike taking place on the surface of a Klein bottle. Pretty strange.
+
+
+Hive Awakening (http://hive.strandwall.de/) - The hive is a civilization of intelligent bots, all under the mastery of the hive control. Unforseen, one unit loses its connection to the hive control and learns to appreciate the feeling of independence.. It is your, the player's, task to help it on its way through the hive. The more you advance, the more difficult the levels become, and you have to swap the equipment to customize the bot's powers. It is only in the control core that the bot can ensure its freedom. Can you lead your bot to the hive control interface?
+
+
+Gnome Squad, Cypress Tree Manor and Emperor Engine - all run, but bottom of the screen is out of bounds. Maybe there is a quick tweak to change resolution, no idea.

@@ -1,0 +1,68 @@
+FreeSWITCH 1.0.6
+
+Language : English
+Paperback : 320 pages [ 235mm x 191mm ]
+Release Date : July 2010
+ISBN : 1847199968
+ISBN 13 : 978-1-847199-96-6
+
+Author(s) : Anthony Minessale, Darren Schreiber, Michael S. Collins
+
+FreeSWITCH is an open source telephony platform designed to facilitate the creation of voice and chat-driven products scaling from a soft-phone to a PBX and even up to an enterprise-class soft-switch. It is always exciting to design and build your own telephony system to suit your needs, but the task is time consuming and involves a lot of technical skills.
+
+This book comes to your rescue, helping you to set up a telephony system fast and easily using FreeSWITCH. It will take you from being a novice to creating a fully-functional telephony system of your own. It is rich with practical examples and will give you all of the information and skills needed to implement your own PBX system.
+
+The book begins by introducing the architecture and working of FreeSWITCH before detailing how to plan a telephone system and moving on to the installation, configuration, and management of a feature-packed PBX. You will learn about maintaining a user directory, XML dial plan and advanced dial plan concepts, call routing, and the extremely powerful Event Socket. You will finally learn about the online community and history of FreeSWITCH.
+
+A step-by-step guide to building, managing, and maintaining an efficient FreeSWITCH telephony system
+
+
+What you will learn from this book :
+
+    Set up a basic system to make and receive phone calls, make calls between extensions, and utilize basic PBX functionality
+    Avoid common implementation mistakes and deploy various features of this telephony system with best practices and expert tips
+    Perform routine maintenance for smooth running and troubleshoot the system when things are not going right
+    Apply regular expressions to unlock unique and powerful call routing scenarios
+    Call your own application(s) when particular events occur and control FreeSWITCH using the powerful Event Socket
+    Set up multi-party conferencing facilities for your system
+    Interact with callers, gather information, and route calls to the appropriate recipient using the automated, built-in XML IVR (Interactive Voice Response) engine
+    Create a flexible dialplan, and allow third-party tools to be quickly and easily created using dialplan parsers other than the default XML Dialplan
+    Park multiple calls in a FIFO queue and unpark them in the order in which they were received, using the mod_fifo module
+    Record an entire phone call or session using the call recording feature
+    Create advanced call control applications with the Lua scripting language
+    Take a peek into the vibrant online community and history of FreeSWITCH
+
+
+
+Table of Contents
+
+Preface
+Chapter 1: Architecture of FreeSWITCH
+Chapter 2: Building and Installation
+Chapter 3: Test Driving the Default Configuration
+Chapter 4: SIP and the User Directory
+Chapter 5: Understanding the XML Dialplan
+Chapter 6: Using the Built-in XML IVR Engine
+Chapter 7: Building IVR Applications with Lua
+Chapter 8: Advanced Dialplan Concepts
+Chapter 9: Controlling FreeSWITCH Externally
+Chapter 10: Advanced Features and Further Reading
+Appendix A: The FreeSWITCH Online Community
+Appendix B: The History of FreeSWITCH
+Index 
+
+
+
+Approach
+
+This book is a step-by-step tutorial with clear instructions and screenshots to guide you through the creation of a complete, cost-effective telephony system. You will start with installation, walk through the different features, and see how to manage and maintain the system.
+
+Who this book is written for
+
+If you are an IT professional or enthusiast who is interested in quickly getting a powerful telephony system up and running using the free and open source application FreeSWITCH, this book is for you. Telephony experience will be helpful, but is not required.
+
+
+SOURCE : http://www.packtpub.com/freeswitch-1-0-6-build-robust-high-performance-telephony-systems/book
+
+
+PIRATESKY

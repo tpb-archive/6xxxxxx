@@ -1,0 +1,57 @@
+THIS IS MY OWN CABLE HDTV RECORDING AND ENCODE.
+
+General
+CompleteName                     : ESPN-HD LIVE - 2011 Nathan's Hot Dog Eating Contest July 4 2011.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+FileSize/String                  : 350 MiB
+Duration/String                  : 47mn 32s
+OverallBitRate/String            : 1 029 Kbps
+Encoded_Application              : VirtualDubMod 1.5.4.1 (build 2178/release)
+Encoded_Library/String           : VirtualDubMod build 2178/release
+
+Video
+ID/String                        : 0
+Format                           : MPEG-4 Visual
+Format_Profile                   : Advanced Simple@L5
+Format_Settings_BVOP/String      : 1
+Format_Settings_QPel/String      : No
+Format_Settings_GMC/String       : No warppoints
+Format_Settings_Matrix/String    : Custom
+CodecID                          : XVID
+CodecID/Hint                     : XviD
+Duration/String                  : 47mn 32s
+BitRate/String                   : 903 Kbps
+Width/String                     : 432 pixels
+Height/String                    : 320 pixels
+DisplayAspectRatio/String        : 4:3
+FrameRate/String                 : 25.000 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Progressive
+Compression_Mode/String          : Lossy
+Bits-(Pixel*Frame)               : 0.261
+StreamSize/String                : 307 MiB (88%)
+Encoded_Library/String           : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID/String                        : 1
+Format                           : MPEG Audio
+Format_Version                   : Version 1
+Format_Profile                   : Layer 3
+Format_Settings_Mode             : Joint stereo
+Format_Settings_ModeExtension    : MS Stereo
+CodecID                          : 55
+CodecID/Hint                     : MP3
+Duration/String                  : 47mn 31s
+BitRate_Mode/String              : Variable
+BitRate/String                   : 112 Kbps
+Channel(s)/String                : 2 channels
+SamplingRate/String              : 48.0 KHz
+Compression_Mode/String          : Lossy
+StreamSize/String                : 38.8 MiB (11%)
+Alignment/String                 : Aligned on interleaves
+Interleave_Duration/String       : 24 ms (0.60 video frame)
+Interleave_Preload/String        : 464 ms
+

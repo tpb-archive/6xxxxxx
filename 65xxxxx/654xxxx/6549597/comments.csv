@@ -1,0 +1,84 @@
+User Type,Username,Date,Text
+[T],Tyr3ll,2011-07-19T04:23Z,"Changes between 1.1.x and 1.2.0-git:
+------------------------------------
+
+Important changes for packagers:
+ * The default builds now assume that the operating system uses UTF-8 for
+   its file systems and files content (except the Windows port). If this is
+   not acceptable, pass --enable-non-utf8 to the configure script.
+   Non-UTF-8 file systems support will be removed in future versions.
+ * The VLC plugins path can be overridden with the VLC_PLUGIN_PATH environment
+   variable. The --plugin-path command line option was removed.
+ * The default tarballs are now compressed with XZ/LZMA: .tar.xz
+ * OSS support is not compiled on Linux by default, pass --enable-oss to the
+   configure script if you use OSSv4 or really want to use OSS emulation.
+ * The Windows version will only work with Windows XP SP2 or later.
+   Windows 2000 SP4, Windows XP < SP2, Windows 2003 SP0 are now unsupported.
+
+ * The NPAPI webplugin has moved to git://git.videolan.org/npapi-vlc.git
+ * The ActiveX webplugin has moved to git://git.videolan.org/activex-vlc.git
+
+
+Core:
+ * Major Video Core and Outputs rework and rewrite:
+   Subtitles, subpictures and OSD can now be sized and blent inside video outputs
+   x11 (Unix), OpenGL (Unix) and Direct3D (Windows) are such video outputs.
+ * Almost every video filter can now be transcoded
+ * Playback rate doesn't get resetted to 1 between items anymore
+ * Option --sub-filter was renamed --sub-source
+
+Access:
+ * Multiple files are now supported inside RAR files
+ * BDA: experimental support for ClearQam devices
+ * DVB-S scanning support on Unix
+ * DVB-C scanning on Unix scans correct modulation/symbolrate if needed
+ * DShow: support for freq and video standard selection
+ * Support for VDR recordings (http://www.tvdr.de/) folders
+ * Blu-Ray Discs integration using libbluray
+ * HTTP Live Streaming (IETF draft) playback support
+ * Blackmagic DeckLink SDI cards input support (Linux only currently)
+ * Linear Systems (HD-)SDI cards input support (Linux)
+ * RTP: support for dynamic payload types by specifying the payload format
+   in an option (no autodetection): only Theora supported for now
+ * Basic HTCPCP implementation for Coffee Pot control
+ * QTCapture: added support for all QTKit-compatible video input devices
+ * X11 Screen: support for capturing partially hidden windows
+
+Codecs:
+ * You can now use ffmpeg-mt in conjunction with vlc
+ * Important fixes for RealVideo 3.0 and 4.0 playback, notably in MKV
+ * Experimental Hardware decoding using Broadcom CrystalHD cards
+ * New module for decoding EBU subtitles (.stl)
+ * Support for 9bits and 10bits H.264/AVC decoding
+ * Support for Lagarith Lossless video codec
+
+Demuxers:
+ * New images demuxer supporting jpeg, png, targa, xcf, git, tiff, bmp, pcx, lbm
+ * C64 SID file playback support using sidplay2
+ * Ogg seeking improvements
+ * Support for images/cover art in wma/wmv/asf files
+ * Improvements in .ape files metadata reading and writing
+ * New demuxer module for EBU subtitles (.stl)
+
+Interfaces:
+ * Skins2 / Qt: misc improvements and usability fixes
+ * Qt: effects dialogs rework
+ * Qt: new CoverFlow-like view of the playlist
+ * Qt: port to MacOS X platform
+ * Skins2: fullscreen controller support, relative placement support
+   and important cleanups and optimisations
+ * ncurses: heavy refactor of the complete interface
+ * Mac OS X: new Audio Effects panel adding Compressor and Spatializer filters
+ * Mac OS X: new Track Synchronization panel
+ * Mac OS X: new Video Effects panel for color and geometry adjustments
+ * Mac OS X: re-written Open Disc functionality with automatic media detection
+ * The rc and telnet lua interfaces were merged into a new ""cli"" interface
+ * dbus: Rewrite of the main loop to use a more efficient poll-based model
+ * dbus: Upgrade to an mpris2 compliant interface, see http://www.mpris.org
+ * webUI/http: Rewrite of the web interface, using jQuery
+
+Video Output:
+ * New video output based on Direct2D for Windows 7 and Vista (with Platform Update)
+ * New video output for iOS platform
+ * Experimental work in progress on a video output using EGL
+ * Ada"

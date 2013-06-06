@@ -1,0 +1,57 @@
+User Type,Username,Date,Text
+,djroosta,2011-07-31T23:19Z,Thank you :)
+,Airush777,2011-08-07T07:04Z,No Good serial blocked
+,jbob75,2011-08-12T14:58Z,"If the serial given wouldn't work, try merging using a .REG file with the following contents:
+
+; --------------------------------
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\ImTOO\Video Converter Ultimate 6\RegInfo]
+""Name""=""@ByteArray(4A656C6C79426F62)""
+""Serial""=""""
+""Code""=""@ByteArray(27B0F93949DEC5ED56073D2AC5E2010F391FFA4DD58D6EC1C47BCCD834F110DDDD4CDB5B8BC877)""
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}]
+""5918569797E09F35""=""18""
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}\CIA_INFO]
+""before_reg_openItem""=""20""
+""before_reg_dayCounter""=""23""
+
+[HKEY_CURRENT_USER\Software\ImTOO\Video Converter Ultimate 6\Settings]
+""regstatus""=""1""
+
+; --------------------------"
+,CirusVirus,2011-08-31T12:13Z,"do this and it will work
+OK people Very Very easy to solve the problem!!
+first in program folder their is vc.exe program
+on win7 create block rule for this inbound and outbound
+first step done
+second step is to change some reg key
+open regedit and navigate to
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{0BB6C95A-CE6C-425a-84F2-EB211CD1A90A}]
+change values for those as you can see
+""440D54AA8AF58E3D""=""1A""
+""580950B697F5823D87""=""194D31F5CEB1D37DD187""
+""481244AA97E58A29""=""1B""
+""5E0E54A082F8883F97D844""=""1B""
+""5918569797E09F35""=""1A""
+and delete all the other keys
+start imtoo and see the unregistered is gone!!!!!!!!!!
+now if you blocked the vc.exe via fire wall it cant check if the serial is ok so it will not chnage the state of the program back to unregistered
+Enjoy:)"
+,hashid666,2011-09-14T22:15Z,thank u so much.. this solved my unregistered problem.. i did what jbob75 said.. i did not enter the license code given..
+,TeeOhh12,2011-09-17T19:13Z,"CAN U PLEASE HELP ME I HAVE WINDOWS 7 64 BIT 
+YOUR LICSENCE ISNT WORKING"
+,hentai66666666,2011-10-02T01:35Z,"sure as shit aint workin youre magical reg tweaks 
+
+
+still unregistered and i blocked da fukin vc.exe
+
+anybody????????? how bout a helpin hand yall -.-'"
+,600Bandit,2011-11-09T22:42Z,"Works great & thanks CirusVirus, all good.
+
+Peace!"
+,Buroughs,2011-11-27T14:00Z,you know something you dumb mother fuck...stop breaking small shit into fucking zip files...sick of that shit and no need for it.
+,CyStefanos,2011-12-22T18:58Z,"It actually WORKS. I did what CirusVirus suggested and voila!! The unregistered is gone. 
+Thanks scene4all and CirusVirus."

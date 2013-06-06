@@ -1,0 +1,77 @@
+Rainlendar 2.9 Build 108 Beta
+
+[img]http://i25.fastpic.ru/big/2011/0702/14/68e86a1332757e3eda1492ec1b671c14.jpg[/img]
+
+
+Rainlendar is a full of features calendar tool which is quite simple to use and doesn't take much space on your desktop. The application is platform independent so you can run it both on Windows and on Linux. The appearance can be customized with skins and you can even mix different skins together. 
+ It is possible to use Rainlendar with other calendar applications too. Rainlendar uses the standard iCalendar format to store its events and tasks so you can easily transfer them between applications.
+
+ You can also subscribe to online calendars and see your Outlook appointments directly in Rainlendar.
+
+ Rainlendar is an unicode application that supports localization so you can use it on your own language.
+
+Here are some key features of "Rainlendar Pro":
+
+Â· Platform independent
+
+ Â· To do list
+
+ Â· Localized
+
+ Â· Standards Compatible
+
+ Â· Alarms
+
+ Â· Recurrence
+
+ Â· Scripting
+
+ Â· Backups
+
+ Â· Printing
+
+ Â· Search
+
+ Â· Shared calendars
+
+ Â· Outlook support
+
+ Â· Look'n'feel
+
+ Â· Highly Customizable
+
+ Â· Multiple Calendars
+
+ Â· Import & Export
+
+Rainlendar PRO 2.9 Build 108 Beta:
+
+Â· Hidden windows are not drawn anymore to improve the performance.
+
+ Â· Offline file didn't work with Google calendar unless the task list was read from the server too.
+
+ Â· If the tray icon isn't selected for the skin the default icon is used instead. The icon can be disabled from the advanced options.
+
+ Â· The mouse cursor changes correctly to hand when it is over a clikable link.
+
+ Â· The skin.xml file is tried to read from the first subfolder inside the zip archive.
+
+ Â· Google events which are marked as non-modifiable are set as read-only in Rainlendar.
+
+ Â· The network calendars are not read immediately anymore if the poll duration has passed while the computer was suspended.
+
+ Â· The due time was not stored properly to Remember The Milk's task list.
+
+ Â· The next alarm for tasks which recurred last week day of the month was calculated incorrectly.
+
+ Â· Changing the due date or time will reset the completed time for the task.
+
+ Â· The tooltips are not shown anymore for items which are set hidden.
+
+ Â· Added an option to select the settings file from backups if the startup has failed.
+
+ Â· Added advanced option to remove the due time from the alarm window. This will also disable the alarm window from updating.
+
+ Â· Added support for sub tasks. The tasks can be moved under other task when the list has custom sort order.
+
+ Â· The position of the task in custom ordering is now written to the task itself.

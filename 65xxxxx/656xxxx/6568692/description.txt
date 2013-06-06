@@ -1,0 +1,18 @@
+The Free and Open Source Software for Disk Imaging and Cloning
+
+Clonezilla live 1.2.10-2
+The underlying GNU/Linux operating system was upgraded. This release is based on the Debian Sid repository (as of 2011/Jul/27).
+Linux kernel was updated to 3.0.0-1.
+Gdisk was updated to 0.7.2, and compiled without unicode support. Therefore no more libicu44 is included. This makes the Clonezilla live iso file smaller by about 6 MB.
+Steven Shiau steven _at_ nchc org tw  Wed, 27 Jul 2011 20:15:00 +0800
+ 
+http://www.clonezilla.org/
+
+md5sum : f1d3b8ea30d9709496961328654e747f  clonezilla-live-1.2.10-2-amd64.iso
+sha1sum :a64119575e8c17e0cf0dc2efc86e047b88dbfe1e  clonezilla-live-1.2.10-2-amd64.iso
+
+md5sum : 98792e79d44561a41f6d55225d010321  clonezilla-live-1.2.10-2-i486.iso
+sha1sum : 8b8bacb36fb7b7a23423377a5dbda49d076a8f86  clonezilla-live-1.2.10-2-i486.iso
+
+md5sum : bd176058145d63a7bcc1b41bff0f4028  clonezilla-live-1.2.10-2-i686-pae.iso
+sha1sum : 8853b4dc857c8130af5dd63f9e6a77ea02fc9f7d  clonezilla-live-1.2.10-2-i686-pae.iso

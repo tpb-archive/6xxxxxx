@@ -1,0 +1,47 @@
+ http://nextube.org/forum/images/imported/2011/02/1534.jpg
+
+Requirements:
+
+Â· PIV 3 GhZ computer
+
+Â· 1024x768 SVGA video
+
+Â· 4.1 DirectX compatible soundcard (with front and rear separate outputs)
+
+Â· 1024 MB RAM
+
+Â· 200 MB free on the hard-drive
+
+What's New in This Release:
+
+Â· changed default JogSensitivityScratch to 200% (on fresh installs)
+
+Â· new registry JogSensitivityScratchMotor (default 100%) for separate setting for 
+motorized platter
+
+Â· fixed a potential bug in ID3 tag writter
+
+Â· fixed double in paths with new installer (caused sonique plugins not to open)
+
+Â· fixed crash in coverflow when height was exactly 1 pixel
+
+Â· release hold on touch_jogwheel when switching vinyl_mode
+
+Â· fixed pitch_range brings the pitch of all decks in range
+Â· fixed sampler switches automatically to "pitch-lock" when a loop is recorded
+
+Â· CD and network volumes don't show error popup when browsed (to still get login 
+popup for network drives, hold CTRL while clicking on the drive)
+
+Â· fixed rare crash when deleting a cue point
+
+Â· fixed a possible crash when using several HID controllers and disconnecting one
+
+Â· MAC: fixed changing latency settings
+
+Â· new registry AutoPitchRange to change the range when needed by a bpm-match
+
+Â· new vdjscript: "get decks" or "get decks 4 ? ..."
+
+Â· new vdjscript: "g...
+

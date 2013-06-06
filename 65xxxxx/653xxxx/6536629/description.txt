@@ -1,0 +1,26 @@
+Alex Davies, "High Availability MySQL Cookbook" 
+ P,,kt P...ng | 2010 | ISBN: 1847199941 | 276 pages | PDF | 2.37 MB 
+
+ High Availability is something that all web sites hope to achieve, especially those that are linked to big companies.
+
+ MySQL, an open source relational database management system (RDBMS), can be made highly available to protect from corruption, hardware failure, software crashes, and user error. Running a MySQL setup is quite simple. Things start getting complex when you start thinking about the best way to provide redundancy. There are a large number of techniques available to add â€˜redundancyâ€™ and â€˜high availabilityâ€™ to MySQL, but most are both poorly understood and documented.
+
+ This book will provide you with recipes showing how to design, implement, and manage a MySQL Cluster and achieve high availability using MySQL replication, block level replication, shared storage, and the open source Global File System (GFS).
+
+ This book covers all the major techniques available for increasing availability of your MySQL databases. It demonstrates how to design, implement, troubleshoot and manage a highly available MySQL setup using any one of several techniques, which are shown in different recipes. It is based on MySQL Cluster 7.0, MySQL (for non clustered recipes) 5.0.77, and CentOS / RedHat Enterprise Linux 5.3.
+
+ The book starts by introducing MySQL Cluster as a technology and explaining how to set up a simple cluster. It will help you to master the options available for backing up and restoring a file in the MySQL Cluster. By following the practical examples in this book, you will learn how to manage the MySQL Cluster. Further, we will discuss some troubleshooting aspects of the MySQL Cluster.
+
+ We also have a look at achieving high availability for MySQL databases with the techniques of MySQL Replication, block level replication, shared storage (a SAN or NAS), and DRBD.
+
+ Finally, you will learn the principles of Performance tuning and tune MySQL database for optimal performance.
+
+ A cookbook containing recipes for all the common high availability techniques for database administrators to tackle real-world challenges to achieve high availability using MySQL
+
+ Over 60 simple but incredibly effective recipes focusing on different methods of achieving high availability for MySQL database
+
+ * Analyze and learn different high availability options, including clustering and replication solutions within MySQL
+ * Improve uptime of your MySQL databases with simple recipes showing powerful high availability techniques for MySQL
+ * Tune your MySQL database for optimal performance.
+ * The only complete, practical, book of MySQL high availability techniques and tools on the market
+ * Part of Packtâ€™s Cookbook series: Each recipe is a carefully organized sequence of instructions to complete the task as efficiently as possible.

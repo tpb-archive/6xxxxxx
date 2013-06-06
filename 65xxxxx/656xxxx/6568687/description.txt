@@ -1,0 +1,15 @@
+Parted Live is a small bootable GNU/Linux distribution for x86 based computers.
+It enables you to use all the features of the latest versions of the GParted application.
+
+GParted live 0.9.0-7
+The underlying GNU/Linux operating system is based on the Debian Sid repository (as of 2011/Jul/28).
+Bug fixed: Packages ntfs-3g and libntfs3g were downgraded to 2011.1.15AR.4-2. (https://bugzilla.gnome.org/show_bug.cgi?id=655215).
+Gdisk was updated to 0.7.2, and compiled without unicode support. Therefore no more libicu44 is included. This makes the GParted live iso file smaller by about 6 MB.
+
+ -- Steven Shiau steven _at_ nchc org tw  Thu, 28 Jul 2011 10:54:00 +0800
+ 
+http://gparted.sourceforge.net/index.php 
+http://sourceforge.net/projects/gparted/files/gparted-live-testing/0.9.0-7/packages-0.9.0-7.txt/download
+
+sha1sum : 63cda883130e3d9b95e01888bde681ebf98c9791  gparted-live-0.9.0-7.iso
+md5sum : c0865090d283bfc32c7529f9009db937  gparted-live-0.9.0-7.iso

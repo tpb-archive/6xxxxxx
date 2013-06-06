@@ -1,0 +1,37 @@
+FOR Windows
+
+What's new in Beta6?
+
+General
+
+Added show/hide options for standard AppleTV menus
+Added option to manually install if no AppleTVs are detected
+Improved auto-update disabling
+Improved installation error handling
+Minor UI adjustments
+Media Player
+
+Added new lightweight player
+Added recently played items to 'Top Shelf' in main menu
+Added Favorites to main menu
+Added option to manually mark files as watched/unwatched
+Added 'Test Connection' option for AFP/SMB shares
+Added support for DVD subtitles
+Added support for multiple DVD audio tracks
+Added basic support for M2TS files
+Improved overall video playback (especially HD video files)
+Improved thumbnail generation when cover art is not available
+Improved FF/RW controls
+Improved DVD menu and video playback
+Improved DVD playback progress reporting
+Improved memory management
+Improved AFP/SMB streaming
+Improved error handling for invalid files
+Resolved most video stuttering issues
+Resolved energy saver mode issue
+Resolved issue that resulted in some DVDs being displayed in (squished) 4x3 mode
+Resolved numerous DVD playback issues
+Resolved flickering when navigating through certain menus
+Resolved additional conflicts with XBMC
+Reduced number of network connections used
+Minor UI and other miscellaneous fixes

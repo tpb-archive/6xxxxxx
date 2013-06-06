@@ -1,0 +1,14 @@
+aptosid is a full featured Debian sid based live CD with a special focus on hard disk installations, a clean upgrade path within sid and additional hardware and software support. The ISO is completely based on Debian sid/main, enriched and stabilised with aptosid's own packages and scripts and adhere's to the Debian Social Contract (DFSG).
+Now that kernel 2.6.39 and KDE 4.6 have entered the archive and stabilised in sid after the squeeze release, we have the pleasure to announce the immediate availability of the final aptosid 2011-02 á¼©Î¼Î­ÏÎ± release, shipping in the following flavours:
+
+KDE-lite, amd64, en/ de, 560 MB.
+KDE-lite, i686, en/ de, 555 MB.
+KDE-full, amd64+i686, en/ de (cz, da, el, es, fr, it, ja, nl, pl, pt, pt_BR, ro, ru through liveapt) 2.0 GB.
+XFCE, amd64, en/ de, 475 MB.
+XFCE, i686, en/ de, 470 MB.
+ 
+http://aptosid.com/index.php?module=Content&func=view&pid=2
+
+md5sum : 013f357a6ea54f57b760cfe372bcb2df 
+
+sha256sums : http://debian.tu-bs.de/project/aptosid/release/SHA256SUM

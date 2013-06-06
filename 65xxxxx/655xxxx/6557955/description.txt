@@ -1,0 +1,58 @@
+Neutrino 1.90 for mac
+
+
+Applications
+ Music Training
+ Special Effects
+ Pitch Shifting And Beat Sync
+ DJs + VJs
+ Transcribing Dictation
+ Music Visualisation
+
+Features
+
+Real-Time Audio Units FXChain
+ 10 Band Graphic Equalizer
+ Looping Controls To Isolate One Or More Sections Of A Track
+ iTunes Integration With Built-In ITunes Media Browser, Or Drag & Drop
+ Quartz Composer Music Visualizer Protocol Host
+ Powerful Audio File Conversion And Export With FX
+ Fullscreen Mode
+ Available Now As A Free 30 Day Trial Version
+ Neutrino Continues With Limited Functionality After Your 30 Day Trial: CoreAudio Mode Is Disabled
+
+Main Features
+
+
+Pitch Shifting: -1200 To +1200 C
+ Time Shifting: 1/4x To 4x Speed
+ Unique Core Audio + QuickTime Hybrid Playback Engine
+
+ Read About Neutrino's Features In The Manual.
+
+ Requires Mac OS X 10.4.7+
+ (Mac OS X 10.5+ Recommended)
+
+ Version 1.90
+ Cue Sheet Import & Export
+ Virtual Split & Join Of Tracks / Markers
+ XML Playlist Import & Export
+ Dedicated 'Play-Single' Mode
+ Dockable Inspector With Enhanced Style Engine
+ Expandable Waveform / Transport View
+ Smoother Scrolling Responsive Of Media View While Loading Artwork
+ AutoMix Feature Dynamically Adjusts Mix Volume To An Optimum Level
+ Dynamic Processing Sample Rate Switching: Automatically Match DSP Sample-Rate To Either The File Or The Output Hardware Sample Rate
+ Sample Rate Conversion Monitor Displays File, Dsp & Output Device Sample Rates, Indicates When & Where Sample Rate Mismatches Are Causing Sample Rate Conversion
+ Better Handling Of Protected Media:
+ - Authorised Media Plays Without Alerts, Unauthorised Media Will Not Be Playable Until It Is Authorised In ITunes
+ - Custom Alert Regarding Playing Protected Media Removed
+ - Apple-Standard Authorisation Warnings And Prompts To Authorise The Media In ITunes Are Only Presented When Attempting To Play Unauthorised Media
+ Faster Launch Time
+ Improved Compatibility With A Variety Of Third-Party AudioUnit Effects
+ Bugfixes:
+ Protected File Warnings Are Now Only Shown If The File To Be Played Is Protected But Not Authorised For The Current Computer
+ Fx Chain Effects Were Inadvertently Being Skipped During 'Export' Operations; This Bug Is Now Fixed
+ Exporting A Track Other Than The Currently Loaded Track Produced Invalid Files; This Bug Is Now Fixed
+ Recompiled Internal FFT Audio-Unit For Snow Leopard Compatibility At Non-44100 Hz Sample Rates
+ Bugfixes For Crashes Caused By Removing Various Third-Party AU Effects From The FX Chain; Several Third-Party AU Developers Are Shipping AU's With Faux-Cocoa Views That Are Actually Carbon Controls Embedded In A Carbon Window Masquerading As An NSView, A Hack That Makes Enormous (and Erroneous) Assumptions About How An AU Host App Will Deal With An AU's GUI views.

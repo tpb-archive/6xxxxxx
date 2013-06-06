@@ -1,0 +1,8 @@
+The Objective-C language is a simple computer language designed to enable sophisticated object-oriented programming. Objective-C is defined as a small but powerful set of extensions to the standard ANSI C language. Its additions to C are mostly based on Smalltalk, one of the first object-oriented programming
+languages. Objective-C is designed to give C full object-oriented programming capabilities, and to do so in a simple and straightforward way.
+Most object-oriented development environments consist of several parts:
+â–  An object-oriented programming language
+â–  A library of objects
+â–  A suite of development tools
+â–  A runtime environment
+This document is about the first component of the development environmentâ€”the programming language. It fully describes the Objective-C language, and provides a foundation for learning about the second component, the Mac OS X Objective-C application frameworksâ€”collectively known as Cocoa. You can start to learn more about Cocoa by reading Getting Started with Cocoa. The two main development tools you use are Xcode and Interface Builder, described in Xcode Workspace Guide and Interface Builder respectively. The runtime environment is described in a separate document, Objective-C 2.0 Runtime Programming Guide.

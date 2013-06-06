@@ -1,0 +1,46 @@
+In this Wrox Blox, youâ€™ll learn how to build a microsite manager with CodeIgniter. The microsite manager will include an administrative dashboard that will allow users to create folders and pages and manage media files. It also discusses recreating the microsite at any point with a variety of site publishing tools. CodeIgniter offers a viable PHP solution to MVC development and is becoming popular among PHP developers.
+Table of Contents:
+
+Introducing CodeIgniter 2
+
+Whatâ€™s Model-View-Controller? 3
+
+Why Bother with MVC? 4
+
+Installing and Configuring CodeIgniter 5
+
+The Root Folder 6
+
+The system/ Folder 6
+
+The system/application Folder 7
+
+Tweaking the Configuration 8
+
+Getting Started 10
+
+The Login Area 11
+
+Creating the Template View 12
+
+Creating the Login Form 14
+
+Reworking the index() Function 15
+
+Creating the MAdmins Model 16
+
+Creating the verifyUser() Function 17
+
+Autoloading the MAdmins Model 17
+
+A Small Note about Creating Your First User 18
+
+Creating the Admin Dashboard 18
+
+Creating the Dashboard Controller 19
+
+Building the Admin Area 22
+
+Setting up the Site Builder 35
+
+Conclusion 39

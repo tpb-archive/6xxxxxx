@@ -1,0 +1,30 @@
+Getting started with iPhone application development is relatively easy thanks to online tutorials and especially to
+books like Beginning iPhone Development by Dave Mark and Jeff LaMarche. But sometimes, software is just hard.
+A year and a half after receiving an iPhone as a birthday present, I am still amazed. It looks so simple and
+itâ€™s so easy to use, but behind it all is a world of complexity.
+Apple has worked very hard to document the myriad APIs that make up the iPhone SDK and to provide
+sample code, but for some of us itâ€™s still not enough. Even Apple cannot afford to provide a chapterâ€™s worth of
+explanation for each sample application. Their tutorials can be quite helpful, such as the one on Core Data, but
+what then?
+Enter iPhone Advanced Projects.
+Ray Kiddy, who worked at Apple for 15 years in various roles, uses Appleâ€™s tutorial on Core Data as a
+starting point and builds from there. More than providing just an introduction, Ray shows what itâ€™s like to use Core
+Data in the real world.
+Thatâ€™s the difference between documentation and a book such as this. Of course, it doesnâ€™t stop there.
+Joachim Bondo, creator of the much-lauded chess application Deep Green, shares his advice and
+techniques for implementing correspondence gaming.
+Noel Llopis, a ten-year veteran of the gaming industry, author of C++ for Game Programmers, and
+instructor of a two-day intensive class in OpenGL programming specifically for the iPhone, lends new meaning to
+making your application â€œshineâ€ with a discussion of reflections and environment mapping in OpenGL. I found it
+to be a fascinating topic.
+My knowledge of OpenGL is casual at best, but Ben Britten Smith provides such a clear explanation of
+particle systems (think smoke and fire) that this was not a hindrance at all. The chapter really was a â€œblastâ€ to work
+through.
+Iâ€™ve been on a private mailing list with Jonathan Saggau for several years now, and his explanations never
+fail to impress. Here, he discusses the difficult topic of improving interface responsiveness. (Be sure to have a copy
+of his sample code handy!)
+And thatâ€™s just the half of it! The projects also include an exploration into Core Audio, a framework for
+persisting data with SQLite, strategies for networking, techniques for debugging, the Apple Push Notification
+Service (not for the faint of heart), and intelligent in-app e-mail.
+Sometimes, software is hard. With these authors as your guides, it should make your work quite a bit
+easier.
